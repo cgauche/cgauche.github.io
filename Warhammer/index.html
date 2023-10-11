@@ -2390,25 +2390,13 @@ a.ui-button:active,
 
         cursor: pointer;
 
-        border: 1px solid grey;
-
-        color: black;
-
-        width: 17px;
-
-        height: 19px;
+        color: yellow;
 
         position: relative;
 
         text-align: center;
 
-        background: white;
-
         font-weight: bold;
-
-        display: inline-table;
-
-        margin: 0px 5px;
 
     }
 
@@ -2417,10 +2405,6 @@ a.ui-button:active,
     .add {
 
         cursor: pointer;
-
-        width: 17px;
-
-        height: 17px;
 
         position: relative;
 
@@ -3012,6 +2996,14 @@ a.ui-button:active,
 
         margin-right: 5px;
 
+        display: inline-block;
+
+        font-size: 19px;
+
+        background-repeat: no-repeat;
+
+        background-position: center;
+
     }
 
 
@@ -3051,6 +3043,20 @@ a.ui-button:active,
     .icon.cross_icon {
 
         background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body_1" width="21" height="21"><g transform="matrix(0.041015625 0 0 0.041015625 0 0)"><path d="M486 371.316L486 142.75C 430.9156 181.09032 367.0511 204.9185 300.315 212.03C 307.88223 145.02985 332.29944 81.03862 371.288 26.028L371.288 26.028L142.72 26.028C 181.06047 81.11275 204.88866 144.97755 212 211.714C 145.0004 204.14616 81.009964 179.72868 26 140.74L26 140.74L26 369.31C 81.08441 330.96967 144.94893 307.14148 211.685 300.03C 204.10829 367.01007 179.69154 430.9801 140.712 485.974L140.712 485.974L369.28 485.974C 330.948 430.9049 307.12024 367.05975 300 300.342C 366.99957 307.90985 430.99002 332.32733 486 371.316z" stroke="none" fill="%23FFFFFF" fill-rule="nonzero" /></g></svg>');
+
+    }
+
+
+
+    .div_label {
+
+        display: inline-flex;
+
+        height: auto;
+
+        flex: 1;
+
+        align-items: center;
 
     }
 
@@ -7673,7 +7679,7 @@ a.ui-button:active,
 
             $(allDetails).each(function (i, el) {
 
-                specie.append('<div data-id="detail_' + i + '"><b>' + el.label + ':</b> ' + el.value + '</div><br>');
+                specie.append('<div data-id="detail_' + i + '" class="div_label"><b style="margin-right: 5px">' + el.label + ':</b> ' + el.value + '</div><br>');
 
                 
 
@@ -9894,7 +9900,7 @@ a.ui-button:active,
 
                     var x = 0;
 
-                    td = '<td ' + style + ' data-line="' + i + '" data-id="' + this.id + '" class="label ui-widget-content">' + funcsLabel[y++](i, this) + '</td>';
+                    td = '<td ' + style + ' data-line="' + i + '" data-id="' + this.id + '" class="label ui-widget-content"><div class="' + (horizontal ? '' : 'div_label') + '">' + funcsLabel[y++](i, this) + '</div></td>';
 
                     line = Helper.organizeTable(td, x++, line, lines, horizontal);
 
@@ -10062,15 +10068,15 @@ a.ui-button:active,
 
                     }
 
-                    html += '<li data-line="' + i + '" data-id="' + el.id + '" class="ui-widget-content ' + disabled + ' ' + level + '">';
+                    html += '<li data-line="' + i + '" data-id="' + el.id + '" class="ui-widget-content ' + disabled + ' ' + level + '"><div class="div_label">';
 
                     if (funcHelp && (typeof showHelp === 'undefined' || showHelp(i, el))) {
 
-                        html += '<buttom class="popin_help for_mobile">?</buttom>';
+                        html += '<buttom class="icon popin_help for_mobile">?</buttom>';
 
                     }
 
-                    html += funcLabel(i, el) + '</li>';
+                    html += funcLabel(i, el) + '</div></li>';
 
                 }
 
@@ -10118,7 +10124,7 @@ a.ui-button:active,
 
             select.off("click", '.popin_help').on('click', '.popin_help', function () {
 
-                var $el = $(this).parent('li');
+                var $el = $(this).parents('li');
 
                 var i = $el.data('line');
 
@@ -10202,27 +10208,25 @@ a.ui-button:active,
 
                     }
 
-                    html += '<li data-line="' + i + '" data-id="' + el.id + '" class="ui-widget-content ' + disabled + '">';
+                    html += '<li data-line="' + i + '" data-id="' + el.id + '" class="ui-widget-content ' + disabled + '"><div class="div_label">';
 
                     if (left) {
 
-                        html += '<div><buttom class="add" style="' + (disabled ? 'visibility:hidden' : '') + '"><</buttom></div>';
+                        html += '<buttom class="add icon" style="' + (disabled ? 'visibility:hidden' : '') + '"><</buttom>';
 
                     }
-
-                    html += '<div>';
 
                     if (!showHelp || showHelp(i, el)) {
 
-                        html += '<buttom class="popin_help">?</buttom>';
+                        html += '<buttom class="icon popin_help">?</buttom>';
 
                     }
 
-                    html += funcLabel(i, el) + '</div><div style="order: 2;margin-left: auto">';
+                    html += funcLabel(i, el) + '<div style="order: 2;margin-left: auto">';
 
                     if (!left) {
 
-                        html += '<buttom class="add" style="' + (disabled ? 'visibility:hidden' : '') + '">></buttom>';
+                        html += '<buttom class="add icon" style="' + (disabled ? 'visibility:hidden' : '') + '">></buttom>';
 
                     }
 
@@ -11868,7 +11872,7 @@ a.ui-button:active,
 
                         }
 
-                        return '<div style="display: inline-flex">' + tmp + this.data.getLabel() + '</div>';
+                        return tmp + this.data.getLabel();
 
                     },
 
@@ -12128,7 +12132,7 @@ a.ui-button:active,
 
                         var spec = this.spec ? this.spec : this.data.specName;
 
-                        return '<div style="display: inline-flex">' + tmp + this.data.label + (spec !== '' ? ' (' + spec + ')' : '') + '</div>';
+                        return tmp + this.data.label + (spec !== '' ? ' (' + spec + ')' : '');
 
                     },
 
@@ -12622,7 +12626,7 @@ a.ui-button:active,
 
                         var spec = this.spec ? this.spec : this.data.specName;
 
-                        return '<div style="display: inline-flex">' + tmp + this.data.label + (spec !== '' ? ' (' + spec + ')' : '') + '</div>';
+                        return tmp + this.data.label + (spec !== '' ? ' (' + spec + ')' : '');
 
                     },
 
@@ -13834,7 +13838,7 @@ a.ui-button:active,
 
             el.getLabel = function () {
 
-                return '<div style="display: inline-flex">' + Helper.rangToImg(this.careerLevel) + this.label + '</div>';
+                return Helper.rangToImg(this.careerLevel) + this.label;
 
             };
 
