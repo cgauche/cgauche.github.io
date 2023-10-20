@@ -9633,13 +9633,7 @@ a.ui-button:active,
 
             array.sort(function (a, b) {
 
-                if (a.data.type !== b.data.type) {
-
-                    return a.data.type === 'base' ? -1 : 1;
-
-                }
-
-                return a.data.getLabel()> a.data.getLabel() ? 1 : -1
+                return a.data.label > b.data.label ? 1 : -1
 
             });
 
