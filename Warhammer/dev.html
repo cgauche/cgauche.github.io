@@ -1640,20 +1640,26 @@ a.ui-button:active,
         
         $visible.each(function () {
             var $this = $(this);
-            var dialog = $this.find(".ui-dialog-content").data("uiDialog");
+            var main = $this.find(".ui-dialog-content");
+            var dialog = main.data("uiDialog");
             
             if (dialog.options.fluid) {
                 var wWidth = $(window).width();
+                var reposition = false;
                 
                 if (wWidth < dialog.options.width + 50) {
                     
                     $this.css("width", "90%");
-                } else {
+                    reposition = true;
+                } else if (!main.css("width") || main.css("width") === '90%') {
                     
                     $this.css("width", dialog.options.width);
+                    reposition = true;
                 }
                 
-                dialog.option("position", dialog.options.position);
+                if (reposition) {
+                    dialog.option("position", dialog.options.position);
+                }
             }
         });
 
@@ -2632,6 +2638,84 @@ a.ui-button:active,
 
 
 
+    .light_theme .ui-state-active a:has(> .shield_icon),
+
+    .light_theme .ui-state-active a:link:has(> .shield_icon),
+
+    .light_theme .ui-state-active a:visited:has(> .shield_icon),
+
+    .light_theme .ui-state-default a:has(> .shield_icon),
+
+    .light_theme .ui-state-default a:link:has(> .shield_icon),
+
+    .light_theme .ui-state-default a:visited:has(> .shield_icon),
+
+    .light_theme a.ui-button:has(> .shield_icon),
+
+    .light_theme a:link.ui-button:has(> .shield_icon),
+
+    .light_theme a:visited.ui-button:has(> .shield_icon),
+
+    .light_theme .ui-button:has(> .shield_icon) {
+
+        background-color: yellow;
+
+    }
+
+
+
+    .light_theme .ui-state-active a:has(> .skull_icon),
+
+    .light_theme .ui-state-active a:link:has(> .skull_icon),
+
+    .light_theme .ui-state-active a:visited:has(> .skull_icon),
+
+    .light_theme .ui-state-default a:has(> .skull_icon),
+
+    .light_theme .ui-state-default a:link:has(> .skull_icon),
+
+    .light_theme .ui-state-default a:visited:has(> .skull_icon),
+
+    .light_theme a.ui-button:has(> .skull_icon),
+
+    .light_theme a:link.ui-button:has(> .skull_icon),
+
+    .light_theme a:visited.ui-button:has(> .skull_icon),
+
+    .light_theme .ui-button:has(> .skull_icon) {
+
+        background-color: #C0C0C0;
+
+    }
+
+
+
+    .light_theme .ui-state-active a:has(> .sword_icon),
+
+    .light_theme .ui-state-active a:link:has(> .sword_icon),
+
+    .light_theme .ui-state-active a:visited:has(> .sword_icon),
+
+    .light_theme .ui-state-default a:has(> .sword_icon),
+
+    .light_theme .ui-state-default a:link:has(> .sword_icon),
+
+    .light_theme .ui-state-default a:visited:has(> .sword_icon),
+
+    .light_theme a.ui-button:has(> .sword_icon),
+
+    .light_theme a:link.ui-button:has(> .sword_icon),
+
+    .light_theme a:visited.ui-button:has(> .sword_icon),
+
+    .light_theme .ui-button:has(> .sword_icon) {
+
+        background-color: #CD7F32;
+
+    }
+
+
+
     .light_theme .selectable li {
 
         border-color: #8B5E3C;
@@ -2648,7 +2732,7 @@ a.ui-button:active,
 
 
 
-    .light_theme .ui-widget-content {
+    .light_theme .ui-widget-content, .light_theme .ui-widget-content_for_light_theme {
 
         border: 1px solid #B8A089;
 
@@ -2782,7 +2866,7 @@ a.ui-button:active,
 
         margin: 0px;
 
-        padding: 0px;
+        padding: 3px;
 
         width: 100%;
 
@@ -11115,7 +11199,7 @@ a.ui-button:active,
 
             } else if (description === false) {
 
-                result = '<div class="ui-widget-content">' + Helper.addAdditionalHelp(desc, CharGen, match) + '</div>';
+                result = '<div class="ui-widget-content_for_light_theme">' + Helper.addAdditionalHelp(desc, CharGen, match) + '</div>';
 
             } else {
 
@@ -17754,9 +17838,11 @@ a.ui-button:active,
 
             var id = Helper.toId(label);
 
-            var isTrait = type === 'trait';
+            var subType;
 
-            elem.typeItem = isTrait ? 'lore' : type;
+            [type, subType] = type.split('.');
+
+            elem.typeItem = type;
 
             elem.qty = qty;
 
@@ -17770,7 +17856,7 @@ a.ui-button:active,
 
             }
 
-            var data = isTrait ? CharGen.data[elem.typeItem].allByType[type][id] : CharGen.data[type].allById[id];
+            var data = typeof subType !== 'undefined' ? CharGen.data[elem.typeItem].allByType[subType][id] : CharGen.data[type].allById[id];
 
             if (!data) {
 
@@ -18474,15 +18560,21 @@ a.ui-button:active,
 
                 }
 
+                var trait = '';
+
                 if (elem.type === 'trait') {
 
-                    var trait = DescriptionHelper.listMatchSimple(label, 'Créatures ayant ce trait', match, 'creature');
+                    trait = DescriptionHelper.listMatchSimple(label, 'Créatures ayant ce trait', match, 'creature');
 
-                    if (trait) {
+                } else if (elem.type === 'equipment') {
 
-                        final['Accès'] = trait;
+                    trait = DescriptionHelper.listMatchSimple(label, 'Equipements ayant ce trait/défaut', match, 'trapping');
 
-                    }
+                }
+
+                if (trait) {
+
+                    final['Accès'] = trait;
 
                 }
 
@@ -18500,35 +18592,23 @@ a.ui-button:active,
 
             el.getLabel = function() {
 
-                if (this.getData().type === 'trait') {
+                var data = this.getData();
 
-                    var qty = typeof this.qty === 'undefined' || this.qty === 1 ? '' : (this.qty >= 0 ? ' +' + this.qty : ' -' + this.qty);
+                var qty = typeof this.qty === 'undefined' || this.qty === 1 ? '' : (this.qty >= 0 ? ' +' + this.qty : ' -' + this.qty);
 
-                    var spec = '';
+                var spec = '';
 
-                    if (typeof this.spec !== 'undefined' && this.spec !== '') {
+                if (typeof this.spec !== 'undefined' && this.spec !== '') {
 
-                        spec = this.spec;
+                    spec = '(' + this.spec + ')';
 
-                    }
+                } else if (typeof data.title !== 'undefined' && data.title !== '') {
 
-                    return this.label + qty + (spec !== '' ? ' (' + spec + ')' : '');
-
-                } else {
-
-                    var qty = typeof this.qty !== 'undefined' && this.qty > 1 ? this.qty + ' ' : '';
-
-                    var spec = '';
-
-                    if (typeof this.specName !== 'undefined') {
-
-                        spec = this.spec ? this.spec : this.specName;
-
-                    }
-
-                    return qty + this.label + (spec !== '' ? ' (' + spec + ')' : '');
+                    spec = data.title;
 
                 }
+
+                return this.label + qty + (spec !== '' ? ' ' + spec : '');
 
             }
 
@@ -18830,6 +18910,12 @@ a.ui-button:active,
 
         oThat.createElemStructure = function (el) {
 
+            el.getQualities = function () {
+
+                return this.qualities;
+
+            }
+
             el.getDescription = function () {
 
                 var elem = this.getData();
@@ -18886,9 +18972,9 @@ a.ui-button:active,
 
                     }
 
-                    if (elem.qualities) {
+                    if (this.getQualities().length) {
 
-                        desc += "<b>Atouts et Défauts: </b>" + DescriptionHelper.applyHelp(elem.qualities, elem, {...labels.equipment, ...labels.taille}) + "<br>";
+                        desc += "<b>Atouts et Défauts: </b>" + DescriptionHelper.elemsToSimpleArray(this.getQualities(), true).join(', ') + "<br>";
 
                     }
 
@@ -18898,11 +18984,14 @@ a.ui-button:active,
 
                     desc += "<b>PA: </b>" + elem.pa + "<br>";
 
-                    if (elem.qualities) {
+                    if (this.getQualities().length) {
 
-                        desc += "<b>Atouts et Défauts: </b>" + DescriptionHelper.applyHelp(elem.qualities, elem, {...labels.equipment, ...labels.taille}) + "<br>";
+                        desc += "<b>Atouts et Défauts: </b>" + DescriptionHelper.elemsToSimpleArray(this.getQualities(), true).join(', ') + "<br>";
 
                     }
+
+                    
+
 
                 } else if ((type.search('Sacs et Contenants') !== -1 || type.search('Animaux et véhicules') !== -1) && elem.carry) {
 
@@ -18927,6 +19016,8 @@ a.ui-button:active,
         }
 
         oThat.parseElems = function (el, match) {
+
+            el.qualities = DataHelper.stringToElems(CharGen, el.qualities, el, 'lore.equipment', true, false, match);
 
         }
 
@@ -19742,9 +19833,9 @@ a.ui-button:active,
 
             el.spells = DataHelper.stringToElems(CharGen, el.spells, el, 'spell', false, false, match);
 
-            el.traits = DataHelper.stringToElems(CharGen, el.traits, el, 'trait', true, false, match);
+            el.traits = DataHelper.stringToElems(CharGen, el.traits, el, 'lore.trait', true, false, match);
 
-            el.optionals = DataHelper.stringToElems(CharGen, el.optionals, el, 'trait', true, false, match);
+            el.optionals = DataHelper.stringToElems(CharGen, el.optionals, el, 'lore.trait', true, false, match);
 
             el.characteristics = [];
 
