@@ -9645,13 +9645,28 @@ a.ui-button:active,
 
 
 
-        oThat.cancelAction = function () {
+        
 
-            $('.cancel').html('Retour');
 
-            $('.cancel').off('click').on('click', function () {
+        oThat.randomAction = function () {
 
-                CharGen.showMainMenu();
+            $('.random').html('Noir');
+
+            $('.random').off('click').on('click', function () {
+
+                if ($('body').hasClass('light_theme')) {
+
+                    $('body').removeClass('light_theme');
+
+                    $('.random').html('Clair');
+
+                } else {
+
+                    $('body').addClass('light_theme');
+
+                    $('.random').html('Noir');
+
+                }
 
             });
 
