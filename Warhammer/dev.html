@@ -2190,7 +2190,7 @@ a.ui-button:active,
 
     .ui-widget {
 
-        font: 1em "Segoe UI", "Helvetica Neue", Roboto, Arial, sans-serif !important;
+        font: 1em "Segoe UI", "Helvetica Neue", Roboto, Arial, sans-serif;
 
     }
 
@@ -2358,9 +2358,19 @@ a.ui-button:active,
 
     body.light_theme {
 
-        color: #2D2D2D;
+        color: black;
 
         background: #EFE8DC;
+
+    }
+
+    .light_theme .ui-widget {
+
+        font-family: "Verdana", "Arial", sans-serif;
+
+        font-size: 1em;
+
+        line-height: 1.6;
 
     }
 
@@ -2370,7 +2380,7 @@ a.ui-button:active,
 
         background-color: #D7D4CD;
 
-        color: #2D2D2D;
+        color: black;
 
     }
 
@@ -2430,7 +2440,7 @@ a.ui-button:active,
 
         #color: #7B5409;
 
-        color: #769FCD;
+        color: #2b75c7;
 
         font-weight: bold;
 
@@ -2464,7 +2474,7 @@ a.ui-button:active,
 
     .light_theme .ui-tabs .ui-tabs-panel {
 
-        background-color: inherit;
+        #background-color: inherit;
 
     }
 
@@ -2637,6 +2647,8 @@ a.ui-button:active,
         background-color: #F7F4EF;
 
         color: #3B2F2F;
+
+        padding: 0.4em;
 
     }
 
@@ -11068,7 +11080,7 @@ a.ui-button:active,
 
             } else if (description === false) {
 
-                result = Helper.addAdditionalHelp(desc, CharGen, match);
+                result = '<div class="ui-widget-content">' + Helper.addAdditionalHelp(desc, CharGen, match) + '</div>';
 
             } else {
 
@@ -18739,9 +18751,9 @@ a.ui-button:active,
 
                     desc += DescriptionHelper.applyHelp(elem.desc, elem, {...labels.lore, ...labels.god});
 
-                }
+                    desc += '<br><br>';
 
-                desc += '<br><br>';
+                }
 
                 desc += DescriptionHelper.listMatchSimple(label, 'Options de Carrière', match, 'career')
 
