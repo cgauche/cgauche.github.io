@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=5.0">
     <script src="enable-threads.js"></script>
 </head>
-<body class="light_theme">
+<body>
 <div class="main_panel ui-widget">
     <header class="header_panel"><span class="text"></span></header>
     <main class="body_panel">
@@ -9746,7 +9746,7 @@ a.ui-button:active,
 
         oThat.randomAction = function () {
 
-            $('.random').html('Noir');
+            $('.random').html(CharGen.user.options.theme === 'light_theme' ? 'Noir' : 'Clair');
 
             $('.random').off('click').on('click', function () {
 
@@ -9754,15 +9754,21 @@ a.ui-button:active,
 
                     $('body').removeClass('light_theme');
 
-                    $('.random').html('Clair');
+                    CharGen.user.options.theme = '';
+
+                    $('.random').html(CharGen.user.options.theme === 'light_theme' ? 'Noir' : 'Clair');
 
                 } else {
 
+                    CharGen.user.options.theme = 'light_theme';
+
                     $('body').addClass('light_theme');
 
-                    $('.random').html('Noir');
+                    $('.random').html(CharGen.user.options.theme === 'light_theme' ? 'Noir' : 'Clair');
 
                 }
+
+                Helper.setStorage(CharGen.user);
 
             });
 
@@ -10240,6 +10246,8 @@ a.ui-button:active,
 
         oThat.stepName = "Options";
 
+        oThat.tmpOptions = {};
+
         oThat.desc = function () {
 
             return ''
@@ -10258,9 +10266,9 @@ a.ui-button:active,
 
                 CharGen.loadData();
 
-                CharGen.initHelp();
-
             }
+
+            oThat.tmpOptions = Helper.clone(CharGen.user.options);
 
         };
 
@@ -10272,11 +10280,29 @@ a.ui-button:active,
 
             $('.cancel').off('click').on('click', function () {
 
+                CharGen.user.options = oThat.tmpOptions;
+
                 CharGen.showMainMenu();
 
             });
 
         };
+
+
+
+        oThat.updateChecked = function () {
+
+            CharGen.user.options.book = {};
+
+            $('.left_panel').find('.option_book:checked').each(function() {
+
+                CharGen.user.options.book[$(this).val()] = 1;
+
+            });
+
+            CharGen.loadData();
+
+        }
 
 
 
@@ -10286,15 +10312,7 @@ a.ui-button:active,
 
             $('.validate').off('click').on('click', function () {
 
-                delete CharGen.data;
-
-                CharGen.options.book = {};
-
-                $('.left_panel').find('.option_book:checked').each(function() {
-
-                    CharGen.options.book[$(this).val()] = 1;
-
-                });
+                Helper.setStorage(CharGen.user);
 
                 CharGen.showMainMenu();
 
@@ -10348,7 +10366,7 @@ a.ui-button:active,
 
                         function (i, el) {
 
-                            var checked = typeof CharGen.options.book[el.abr] !== 'undefined' ? 'checked="checked"' : '';
+                            var checked = typeof CharGen.user.options.book[el.abr] !== 'undefined' ? 'checked="checked"' : '';
 
                             var disabled = el.abr === 'LDB' ? 'disabled="disabled"' : '';
 
@@ -10360,7 +10378,13 @@ a.ui-button:active,
 
                     null,
 
-                    null,
+                    function (i, el, elems, total, $this) {
+
+                        oThat.updateChecked();
+
+                        $this.parents('tr').children('td:first-child').trigger('click');
+
+                    },
 
                     function (i, el) {
 
@@ -10381,6 +10405,8 @@ a.ui-button:active,
                 tab = ['', '', '']
 
             });
+
+
 
         };
 
@@ -10678,8 +10704,6 @@ a.ui-button:active,
             CharGen.saveName = "";
 
             CharGen.loadData();
-
-            CharGen.initHelp();
 
             CharGen.character = createNewCharacter(CharGen, mode);
 
@@ -11266,6 +11290,30 @@ a.ui-button:active,
                 '<h3 ' + extraStyle + '>' + (typeof altEl.altDesc !== 'undefined' ? altEl.altDesc : (typeof el.getLabel !== 'undefined' ? el.getLabel() : altEl.label)) + '' +
 
                 '</h3>' + paging + result + '</span>';
+
+        },
+
+        getStorage: function () {
+
+            var local = localStorage.getItem("whrpg");
+
+            if (local === null) {
+
+                local = {};
+
+            } else {
+
+                local = JSON.parse(local);
+
+            }
+
+            return local;
+
+        },
+
+        setStorage: function (el) {
+
+            localStorage.setItem("whrpg", JSON.stringify(el));
 
         },
 
@@ -11915,7 +11963,7 @@ a.ui-button:active,
 
             });
 
-            select.find('input.number').off('change').on('change', function () {
+            select.find('input.number, input[type="checkbox"]').off('change').on('change', function () {
 
                 var index = $(this).parents("td").data('line');
 
@@ -12544,7 +12592,7 @@ a.ui-button:active,
 
             if (el) {
 
-                return {...el}
+                return Helper.extend(true, {}, el);
 
             }
 
@@ -15224,6 +15272,8 @@ a.ui-button:active,
 
         oThat.jData;
 
+        oThat.user;
+
         var i = 0;
 
         oThat.stepList = [
@@ -15909,23 +15959,41 @@ a.ui-button:active,
 
         oThat.loadDataAndDisplay = function (jNames) {
 
+            console.log(jNames);
+
             oThat.jData = jNames;
 
-            oThat.options = {};
+            oThat.initHelp();
 
-            var books = {};
+            oThat.user = Helper.getStorage();
 
-            DataHelper.eachElem(oThat.jData.book, function (el) {
+            if (typeof oThat.user.options === 'undefined') {
 
-                if (el.type !== 'Scénario' && el.language === 'VF') {
+                oThat.user = {options : {theme: 'light_theme'}};
 
-                    books[el.abr] = 1;
+                var books = {};
 
-                }
+                DataHelper.eachElem(oThat.jData.book, function (el) {
 
-            });
+                    if (el.type !== 'Scénario' && el.language === 'VF') {
 
-            oThat.options.book = books;
+                        books[el.abr] = 1;
+
+                    }
+
+                });
+
+                oThat.user.options.book = books;
+
+                Helper.setStorage(oThat.user);
+
+            }
+
+            if (typeof oThat.user.options.theme !== 'undefined' && oThat.user.options.theme) {
+
+                $('body').addClass(oThat.user.options.theme);
+
+            }
 
 
 
@@ -18020,7 +18088,7 @@ a.ui-button:active,
 
                 el.typeItem = oThat.typeItem;
 
-                if (typeof CharGen.options.book[el.book] !== 'undefined' || type === 'book') {
+                if (typeof CharGen.user.options.book[el.book] !== 'undefined' || type === 'book') {
 
                     oThat.all[oThat.all.length] = el;
 
@@ -18258,6 +18326,12 @@ a.ui-button:active,
 
         }
 
+        oThat.addToBook = function (el, match) {
+
+            DescriptionHelper.addToBook(el, match, el.characteristic);
+
+        }
+
         oThat.parseElems = function (el, match) {
 
             el.characteristic = DataHelper.stringToElems(CharGen, el.characteristic, el, 'characteristic', false, true, match);
@@ -18399,6 +18473,12 @@ a.ui-button:active,
             }
 
         };
+
+        oThat.addToBook = function (el, match) {
+
+            DescriptionHelper.addToBook(el, match, el.refDetail);
+
+        }
 
         oThat.parseElems = function (el, match) {
 
@@ -19381,7 +19461,7 @@ a.ui-button:active,
 
         oThat.addToBook = function (el, match) {
 
-            DescriptionHelper.addToBook(el, match, el.talent);
+            DescriptionHelper.addToBook(el, match, el.type + (el.spec ? " (" + el.spec + ")" : ""));
 
         }
 
