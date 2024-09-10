@@ -18472,9 +18472,13 @@ a.ui-button:active,
 
                             details += '<tr><td style="text-align: center">2d10</td><td></td></tr>';
 
+                            var old = 2;
+
                             DataHelper.eachElem(elems, function (el) {
 
-                                details += '<tr><td style="text-align: center" class="ui-widget-content">' + el.rand + '</td><td>' + el.label[elem.refDetail] + '</td></tr>';
+                                details += '<tr><td style="text-align: center" class="ui-widget-content">' + (old !== el.rand ? old + '-' : '') + el.rand + '</td><td>' + el.label[elem.refDetail] + '</td></tr>';
+
+                                old = el.rand + 1;
 
                             });
 
