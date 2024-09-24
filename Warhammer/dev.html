@@ -17909,7 +17909,7 @@ a.ui-button:active,
 
                 el.canHaveSpec = canHaveSpec === true
 
-                if (typeof CharGen.user.options.book[el.book] !== 'undefined' || type === 'book') {
+                if (typeof el.book !== 'undefined' && typeof CharGen.user.options.book[el.book] !== 'undefined' || type === 'book') {
 
                     oThat.all[oThat.all.length] = el;
 
