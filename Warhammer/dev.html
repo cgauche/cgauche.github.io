@@ -19489,6 +19489,12 @@ a.ui-button:active,
 
             el.career = DataHelper.stringToElems(CharGen, el.career, el, 'career', true, match).data;
 
+            if (typeof el.career === 'undefined') {
+
+                el.inactive = 1;
+
+            }
+
             el.skills = DataHelper.stringToElems(CharGen, el.skills, el, 'skill', false, match);
 
             el.talents = DataHelper.stringToElems(CharGen, el.talents, el, 'talent', false, match);
