@@ -19493,23 +19493,25 @@ a.ui-button:active,
 
                 el.inactive = 1;
 
+            } else {
+
+                el.skills = DataHelper.stringToElems(CharGen, el.skills, el, 'skill', false, match);
+
+                el.talents = DataHelper.stringToElems(CharGen, el.talents, el, 'talent', false, match);
+
+                el.characteristics = DataHelper.stringToElems(CharGen, el.characteristics, el, 'characteristic', false, match);
+
+                el.trappings = DataHelper.stringToElems(CharGen, el.trappings, el, 'trapping', false, match);
+
+                if (typeof oThat.allByCareer[el.career.id] === 'undefined') {
+
+                    oThat.allByCareer[el.career.id] = [];
+
+                }
+
+                oThat.allByCareer[el.career.id][el.careerLevel] = el;
+
             }
-
-            el.skills = DataHelper.stringToElems(CharGen, el.skills, el, 'skill', false, match);
-
-            el.talents = DataHelper.stringToElems(CharGen, el.talents, el, 'talent', false, match);
-
-            el.characteristics = DataHelper.stringToElems(CharGen, el.characteristics, el, 'characteristic', false, match);
-
-            el.trappings = DataHelper.stringToElems(CharGen, el.trappings, el, 'trapping', false, match);
-
-            if (typeof oThat.allByCareer[el.career.id] === 'undefined') {
-
-                oThat.allByCareer[el.career.id] = [];
-
-            }
-
-            oThat.allByCareer[el.career.id][el.careerLevel] = el;
 
         }
 
