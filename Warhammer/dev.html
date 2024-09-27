@@ -10136,9 +10136,9 @@ a.ui-button:active,
 
             $(books).each(function (i, el) {
 
-                if (books[i].type && currentType !== books[i].type) {
+                if (books[i].folder && currentType !== books[i].folder) {
 
-                    currentType = books[i].type;
+                    currentType = books[i].folder;
 
                     displayedBooks[displayedBooks.length] = {
 
