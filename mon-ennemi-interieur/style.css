@@ -906,7 +906,10 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 .post h1 { font-size: 2.1rem; margin-bottom: 0.5rem; }
 .post-body { margin: 1.4rem 0; font-size: 1.05rem; line-height: 1.8; }
 .post-body p { margin: 1rem 0; }
-.post-body p:first-of-type::first-letter {
+/* Drop cap only on session recaps — bio pages (PJ/PNJ/Lieux/Doc/Univers)
+   often have a short bold subtitle as their first paragraph, which the
+   ::first-letter float would mangle. */
+.post-session .post-body p:first-of-type::first-letter {
   font-family: var(--serif-display);
   font-size: 3.9rem; line-height: 0.85;
   float: left; padding: 0.2rem 0.5rem 0 0;
