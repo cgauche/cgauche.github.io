@@ -140,13 +140,17 @@ def session_short_title(title: str) -> str:
 
 
 def session_card_html(pg: 'Page', href: str) -> str:
-    """Standard session card (thumbnail + 'Session NN' eyebrow + short title)."""
+    """Standard session card (thumbnail + 'Session NN' eyebrow + short title).
+    A native `title` attribute fallback shows the full title on hover, since
+    the visible label is line-clamped to 2 lines."""
+    short = session_short_title(pg.post.title)
     return (
-        f'<li><a class="thumb-card session-card" href="{html.escape(href)}">'
+        f'<li><a class="thumb-card session-card" href="{html.escape(href)}" '
+        f'title="Session {pg.session_num:02d} — {html.escape(short)}">'
         f'{_thumb_html(pg)}'
         f'<div class="thumb-card-body">'
         f'<span class="snum">Session {pg.session_num:02d}</span>'
-        f'<span class="stitle">{html.escape(session_short_title(pg.post.title))}</span>'
+        f'<span class="stitle">{html.escape(short)}</span>'
         f'</div></a></li>')
 
 
@@ -161,11 +165,15 @@ def session_link_html(pg: 'Page', href: str) -> str:
 
 def entry_card_html(pg: 'Page', href: str) -> str:
     """Standard PJ/PNJ/Lieu/Doc/Univers card — thumbnail + name + optional
-    subtitle (the centered-bold role line lifted from the post body)."""
+    subtitle. A native `title` attribute carries the full name (and subtitle,
+    when present) so the browser shows it on hover when the visible label
+    is line-clamped."""
+    tooltip = pg.post.title + (f" — {pg.subtitle}" if pg.subtitle else "")
     sub = (f'<span class="entry-sub">{html.escape(pg.subtitle)}</span>'
            if pg.subtitle else '')
     return (
-        f'<li><a class="thumb-card entry-card" href="{html.escape(href)}">'
+        f'<li><a class="thumb-card entry-card" href="{html.escape(href)}" '
+        f'title="{html.escape(tooltip)}">'
         f'{_thumb_html(pg)}'
         f'<div class="thumb-card-body">'
         f'<span class="entry-name">{html.escape(pg.post.title)}</span>'
