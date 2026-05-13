@@ -597,19 +597,38 @@ def _mirror_dash_space(aliases: set[str]) -> None:
 
 def _entity_aliases(title: str) -> list[str]:
     """Short forms of `title` that might appear in narrative.
-    Yields the full title plus every capitalised token of 4+ characters
-    (so 'Comtesse Emmanuelle Von Liebwitz' offers 'Comtesse', 'Emmanuelle'
-    and 'Liebwitz' as candidates — 'Von' is dropped by length). Articles
-    like 'de', 'du', 'la' fall below the length floor. The per-session
-    ambiguity filter still decides which candidates actually become links.
-    Dash↔space mirroring is applied at the end."""
+
+    Yields:
+      - the full title verbatim;
+      - left-trimmed suffixes of the pre-comma portion, so 'Etelka
+        Toppenheimer' surfaces from 'Comtesse Etelka Toppenheimer' as a
+        single multi-word alias (longest-first wins in the regex, so 'Etelka
+        Toppenheimer' in text becomes one popover instead of two);
+      - each capitalised token of 4+ characters, for cases where the
+        narrative drops to a single name ('Emmanuelle').
+
+    Only the pre-comma portion is mined for aliases — a role line like
+    'émissaire de Dietrich' often mentions OTHER characters and would
+    produce false-positive aliases.
+
+    Dash↔space mirroring is applied at the end so 'Ar Ulric' matches
+    'Ar-Ulric' and vice versa."""
     aliases: set[str] = set()
     title = title.strip()
     if len(title) >= 4:
         aliases.add(title)
-    for token in re.split(r'[\s,;.:()"]+', title):
-        if len(token) >= 4 and token[:1].isupper() and token != title:
-            aliases.add(token)
+    head = title.split(',', 1)[0].strip()
+    parts = head.split()
+    # Multi-word suffixes — 'Etelka Toppenheimer' from 'Comtesse Etelka Toppenheimer'.
+    for i in range(1, len(parts)):
+        sub = ' '.join(parts[i:])
+        if len(sub) >= 4 and sub[:1].isupper() and sub != title:
+            aliases.add(sub)
+    # Individual capitalised tokens (4+ chars).
+    for token in parts:
+        clean = token.strip(',;.:()"\'')
+        if len(clean) >= 4 and clean[:1].isupper() and clean != title:
+            aliases.add(clean)
     _mirror_dash_space(aliases)
     return [a for a in aliases if a]
 
