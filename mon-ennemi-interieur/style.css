@@ -989,6 +989,50 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 
 .page-cat .session-list a { padding: 0.5rem 0.4rem; }
 
+/* ---------- Entity popovers (résumé bodies) --------------------------- */
+
+.entity-pop {
+  color: var(--ink);
+  border-bottom: 1px dotted var(--gold);
+  text-decoration: none;
+  cursor: help;
+  transition: color 120ms ease, border-color 120ms ease;
+}
+.entity-pop:hover { color: var(--oxblood); border-bottom-color: currentColor; }
+
+.entity-popover {
+  position: fixed; z-index: 100;
+  display: none;
+  align-items: center; gap: 0.7rem;
+  padding: 0.55rem 0.85rem 0.55rem 0.55rem;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  box-shadow: var(--shadow-hi);
+  max-width: 260px;
+  animation: entity-pop-fade 140ms ease-out;
+  pointer-events: auto;
+}
+@keyframes entity-pop-fade {
+  from { opacity: 0; transform: translateY(2px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.entity-popover img {
+  width: 56px; height: 56px;
+  object-fit: cover;
+  border: 1px solid var(--rule-soft);
+  flex-shrink: 0;
+}
+.entity-popover-name {
+  font-family: var(--serif-display);
+  font-size: 0.95rem; line-height: 1.2;
+  color: var(--ink);
+}
+
+/* Hide hover popover entirely on touch devices — tap navigates instead. */
+@media (hover: none) {
+  .entity-popover { display: none !important; }
+}
+
 /* ---------- Responsive ------------------------------------------------- */
 
 @media (max-width: 920px) {

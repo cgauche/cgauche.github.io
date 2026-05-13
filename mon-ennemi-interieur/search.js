@@ -226,4 +226,78 @@
     e.preventDefault();
     openLightbox(href, img.getAttribute('alt'));
   });
+
+  // ---------- Entity popovers -----------------------------------------
+  // Triggered by hover on <a class="entity-pop" data-portrait="…">. Mobile
+  // devices fall back to plain link navigation (CSS hides the popover via
+  // `@media (hover: none)`).
+
+  var popover = null, showTimer = null, hideTimer = null;
+
+  function ensurePopover() {
+    if (popover) return popover;
+    popover = document.createElement('div');
+    popover.className = 'entity-popover';
+    popover.addEventListener('mouseenter', function () {
+      if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    });
+    popover.addEventListener('mouseleave', schedulePopoverHide);
+    document.body.appendChild(popover);
+    return popover;
+  }
+
+  function fillPopover(trigger) {
+    var p = ensurePopover();
+    var portrait = trigger.getAttribute('data-portrait');
+    var name = trigger.textContent.trim();
+    p.innerHTML = '';
+    if (portrait) {
+      var img = document.createElement('img');
+      img.src = portrait;
+      img.alt = '';
+      img.loading = 'lazy';
+      p.appendChild(img);
+    }
+    var label = document.createElement('span');
+    label.className = 'entity-popover-name';
+    label.textContent = name;
+    p.appendChild(label);
+    p.style.display = 'flex';
+    positionPopover(p, trigger);
+  }
+
+  function positionPopover(p, trigger) {
+    var rect = trigger.getBoundingClientRect();
+    var pw = p.offsetWidth, ph = p.offsetHeight;
+    var top  = rect.top - ph - 8;
+    var left = rect.left + rect.width / 2 - pw / 2;
+    if (top < 8) top = rect.bottom + 8;             // flip below if no room above
+    if (left < 8) left = 8;
+    var maxLeft = window.innerWidth - pw - 8;
+    if (left > maxLeft) left = maxLeft;
+    p.style.top = top + 'px';
+    p.style.left = left + 'px';
+  }
+
+  function schedulePopoverShow(trigger) {
+    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    if (showTimer) clearTimeout(showTimer);
+    showTimer = setTimeout(function () { fillPopover(trigger); }, 150);
+  }
+  function schedulePopoverHide() {
+    if (showTimer) { clearTimeout(showTimer); showTimer = null; }
+    if (hideTimer) clearTimeout(hideTimer);
+    hideTimer = setTimeout(function () {
+      if (popover) popover.style.display = 'none';
+    }, 200);
+  }
+
+  document.addEventListener('mouseover', function (e) {
+    var t = e.target.closest && e.target.closest('.entity-pop');
+    if (t) schedulePopoverShow(t);
+  });
+  document.addEventListener('mouseout', function (e) {
+    var t = e.target.closest && e.target.closest('.entity-pop');
+    if (t) schedulePopoverHide();
+  });
 })();
