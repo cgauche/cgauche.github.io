@@ -1017,14 +1017,23 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   to   { opacity: 1; transform: translateY(0); }
 }
 .entity-popover img {
-  width: 56px; height: 56px;
+  width: 60px; height: 60px;
   object-fit: cover;
   border: 1px solid var(--rule-soft);
   flex-shrink: 0;
 }
-.entity-popover-name {
+.entity-popover-body {
+  display: flex; flex-direction: column; gap: 0.15rem;
+  min-width: 0;
+}
+.entity-popover-cat {
   font-family: var(--serif-display);
-  font-size: 0.95rem; line-height: 1.2;
+  font-size: 0.7rem; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--gold);
+}
+.entity-popover-name {
+  font-family: var(--serif-body);
+  font-size: 0.98rem; line-height: 1.25;
   color: var(--ink);
 }
 

@@ -249,7 +249,8 @@
   function fillPopover(trigger) {
     var p = ensurePopover();
     var portrait = trigger.getAttribute('data-portrait');
-    var name = trigger.textContent.trim();
+    var title = trigger.getAttribute('data-title') || trigger.textContent.trim();
+    var cat   = trigger.getAttribute('data-cat')   || '';
     p.innerHTML = '';
     if (portrait) {
       var img = document.createElement('img');
@@ -258,10 +259,20 @@
       img.loading = 'lazy';
       p.appendChild(img);
     }
-    var label = document.createElement('span');
-    label.className = 'entity-popover-name';
-    label.textContent = name;
-    p.appendChild(label);
+    // Eyebrow + name, mirroring the snum/stitle pattern of session cards.
+    var body = document.createElement('span');
+    body.className = 'entity-popover-body';
+    if (cat) {
+      var eyebrow = document.createElement('span');
+      eyebrow.className = 'entity-popover-cat';
+      eyebrow.textContent = cat;
+      body.appendChild(eyebrow);
+    }
+    var name = document.createElement('span');
+    name.className = 'entity-popover-name';
+    name.textContent = title;
+    body.appendChild(name);
+    p.appendChild(body);
     p.style.display = 'flex';
     positionPopover(p, trigger);
   }
