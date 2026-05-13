@@ -43,6 +43,12 @@
     if (titleN === qNorm) return 100;
     if (titleN.startsWith(qNorm)) return 80;
     if (titleN.indexOf(qNorm) >= 0) return 60;
+    // Variant title match (e.g. 'batelière' → Elvira via her 'Elvira, batelière' variant)
+    if (entry.vt) {
+      for (var i = 0; i < entry.vt.length; i++) {
+        if (entry.vt[i].indexOf(qNorm) >= 0) return 50;
+      }
+    }
     if (entry.s.indexOf(qNorm) >= 0) return 20;
     return 0;
   }
@@ -58,10 +64,12 @@
       if (q.length < 2) { close(); results.innerHTML = ''; return; }
       var qN = norm(q);
       loadIndex(base).then(function () {
+        // Dropdown: title or variant-title matches only (score >= 50).
+        // Mirrors the results page so both surface the same set.
         var matches = [];
         for (var i = 0; i < index.length; i++) {
           var sc = score(index[i], qN);
-          if (sc > 0) matches.push({ entry: index[i], score: sc });
+          if (sc >= 50) matches.push({ entry: index[i], score: sc });
         }
         matches.sort(function (a, b) {
           if (b.score !== a.score) return b.score - a.score;
@@ -114,13 +122,12 @@
 
     var qN = norm(q);
     loadIndex(base).then(function () {
-      // On the full results page we keep only TITLE matches (score >= 60).
-      // Body-only matches (score 20) flood the page with noise — e.g. every
-      // session that mentions Elvira would appear for the query "Elv".
+      // Title matches + variant-title matches (score >= 50). Same filter
+      // as the live dropdown — both views surface the same items.
       var matches = [];
       for (var i = 0; i < index.length; i++) {
         var sc = score(index[i], qN);
-        if (sc >= 60) matches.push({ entry: index[i], score: sc });
+        if (sc >= 50) matches.push({ entry: index[i], score: sc });
       }
       matches.sort(function (a, b) {
         if (b.score !== a.score) return b.score - a.score;
