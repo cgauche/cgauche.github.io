@@ -75,8 +75,11 @@
     input.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') { close(); input.blur(); }
       if (e.key === 'Enter') {
-        var first = results.querySelector('.search-result');
-        if (first) { window.location.href = first.getAttribute('href'); }
+        var q = input.value.trim();
+        if (q) {
+          // Full results page rather than jumping to the top match.
+          window.location.href = base + 'search/?q=' + encodeURIComponent(q);
+        }
       }
     });
 
@@ -85,10 +88,91 @@
     });
   }
 
+  // ---------- Search results PAGE (`/search/?q=...`) -------------------
+
+  var CATEGORY_ORDER = ['Résumés', 'PJ', 'PNJ', 'Lieux', 'Documents', 'Univers'];
+
+  function renderSearchPage() {
+    var container = document.getElementById('search-page-results');
+    var titleEl   = document.getElementById('search-page-query');
+    if (!container || !titleEl) return;
+
+    var base = container.dataset.base || '';
+    var params = new URLSearchParams(window.location.search);
+    var q = (params.get('q') || '').trim();
+
+    // Mirror the query in the page-top input so the user can refine it.
+    var pageInput = document.querySelector('.search-input');
+    if (pageInput) pageInput.value = q;
+
+    if (!q) {
+      titleEl.textContent = 'Tapez une requête dans la barre du haut.';
+      return;
+    }
+
+    titleEl.innerHTML = 'Résultats pour « <em>' + escapeHtml(q) + '</em> »';
+
+    var qN = norm(q);
+    loadIndex(base).then(function () {
+      var matches = [];
+      for (var i = 0; i < index.length; i++) {
+        var sc = score(index[i], qN);
+        if (sc > 0) matches.push({ entry: index[i], score: sc });
+      }
+      matches.sort(function (a, b) {
+        if (b.score !== a.score) return b.score - a.score;
+        return a.entry.t.localeCompare(b.entry.t, 'fr');
+      });
+
+      if (!matches.length) {
+        container.innerHTML = '<p class="search-empty">Aucun résultat.</p>';
+        return;
+      }
+
+      var byCat = {};
+      matches.forEach(function (m) {
+        var c = m.entry.c || 'Autres';
+        (byCat[c] = byCat[c] || []).push(m);
+      });
+      // categories not in CATEGORY_ORDER go at the end, alphabetical
+      var order = CATEGORY_ORDER.slice();
+      Object.keys(byCat).forEach(function (c) {
+        if (order.indexOf(c) === -1) order.push(c);
+      });
+
+      var out = [];
+      order.forEach(function (cat) {
+        var list = byCat[cat];
+        if (!list) return;
+        out.push('<section class="search-group">');
+        out.push('<h2 class="search-group-title">' + escapeHtml(cat) +
+                 '<span class="count">' + list.length + '</span></h2>');
+        out.push('<ul class="card-grid card-grid-entries">');
+        list.forEach(function (m) {
+          var e = m.entry;
+          var thumb = e.i
+            ? '<div class="thumb-wrap"><img class="thumb" loading="lazy" src="' +
+              escapeHtml(e.i) + '" alt=""></div>'
+            : '<div class="thumb-wrap thumb-fallback"><span>' +
+              escapeHtml(e.n != null ? String(e.n).padStart(2, '0')
+                                       : (e.t.charAt(0) || '·')) +
+              '</span></div>';
+          out.push('<li><a class="thumb-card entry-card" href="' +
+                   escapeHtml(base + e.u) + '">' + thumb +
+                   '<div class="thumb-card-body"><span class="entry-name">' +
+                   escapeHtml(e.t) + '</span></div></a></li>');
+        });
+        out.push('</ul></section>');
+      });
+      container.innerHTML = out.join('');
+    });
+  }
+
   document.addEventListener('DOMContentLoaded', function () {
     var input = document.querySelector('.search-input');
     var results = document.querySelector('.search-results');
     if (input && results) attach(input, results, input.dataset.base || '');
+    renderSearchPage();
   });
 
   // ---------- Image lightbox -------------------------------------------

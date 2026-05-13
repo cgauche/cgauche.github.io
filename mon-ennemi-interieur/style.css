@@ -231,6 +231,36 @@ em { color: var(--ink-soft); }
   font-style: italic; font-family: var(--serif-body);
 }
 
+/* Full search results page (/search/?q=…) */
+.search-page-heading {
+  font-family: var(--serif-display);
+  font-size: 0.8rem; letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0 0 0.4rem;
+}
+.search-page-query {
+  font-family: var(--serif-display-2);
+  font-size: 1.7rem; line-height: 1.2;
+  color: var(--ink);
+  margin: 0 0 2rem;
+}
+.search-page-query em { color: var(--oxblood); font-style: italic; }
+.search-group { margin-top: 2.4rem; }
+.search-group-title {
+  font-family: var(--serif-display);
+  font-size: 1.05rem; letter-spacing: 0.16em;
+  text-transform: uppercase;
+  display: flex; align-items: baseline; gap: 0.7rem;
+  margin: 0 0 0.8rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid var(--rule);
+}
+.search-group-title .count {
+  font-family: var(--mono); font-size: 0.78rem;
+  letter-spacing: 0.04em; text-transform: none;
+}
+
 /* ---------- Image lightbox -------------------------------------------- */
 
 body.lightbox-open { overflow: hidden; }
