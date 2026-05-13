@@ -44,6 +44,7 @@ from pathlib import Path
 from urllib.parse import urlparse, unquote
 
 import requests
+from bs4 import BeautifulSoup
 
 # Reuse the Atom fetcher, classifier and shared helpers from the sync script.
 from _blog_sync import (
@@ -468,6 +469,90 @@ def build_site_url_map(pages: list[Page]) -> tuple[dict[str, Path], dict[str, Pa
 
 
 # --------------------------------------------------------------------------- #
+# Entity popovers — wrap PJ/PNJ/Lieu mentions in session bodies
+# --------------------------------------------------------------------------- #
+
+
+# Tags whose text contents we leave alone — already a link, a heading that
+# already shows the title, or code/script blocks where wrapping would break
+# syntax.
+_POPOVER_SKIP_TAGS = {
+    'a', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+    'code', 'pre', 'script', 'style',
+}
+
+
+def build_entity_popover_map(pages: list[Page]) -> dict[str, tuple[Path, str | None]]:
+    """Map of entity name → (canonical site_rel, portrait URL or None) for
+    every canonical PJ/PNJ/Lieu page. Used to wrap occurrences of the name
+    in résumé bodies with a hover-card trigger. Variants are collapsed."""
+    out: dict[str, tuple[Path, str | None]] = {}
+    for pg in pages:
+        if pg.post.folder not in {"PJ", "PNJ", "Lieux"}:
+            continue
+        if pg.variant_group and not pg.is_main:
+            continue
+        name = pg.post.title.strip()
+        # Short names (1-3 chars) are usually too generic to match safely.
+        if len(name) < 4:
+            continue
+        out[name] = (pg.site_rel, pg.thumbnail)
+    return out
+
+
+def inject_entity_popovers(html_body: str,
+                           entity_map: dict[str, tuple[Path, str | None]],
+                           current_dir: Path) -> str:
+    """Wrap text-node occurrences of known entity names in
+    `<a class="entity-pop" data-portrait="…">…</a>` tags.
+
+    Skips text already inside links, headings, code blocks etc. Matching is
+    case-sensitive and uses word boundaries — narrative writing capitalises
+    proper nouns, so this drops most false positives (e.g. PNJ "Mort"
+    won't match the lowercase noun "mort")."""
+    if not entity_map:
+        return html_body
+
+    # Longest names first so "Boris Todbringer" beats "Boris" on overlapping
+    # matches.
+    names = sorted(entity_map.keys(), key=len, reverse=True)
+    name_re = re.compile(r'\b(?:' + '|'.join(re.escape(n) for n in names) + r')\b')
+
+    soup = BeautifulSoup(html_body, 'html.parser')
+
+    candidates = [
+        t for t in soup.find_all(string=True)
+        if not any(p.name in _POPOVER_SKIP_TAGS for p in t.parents)
+        and name_re.search(str(t))
+    ]
+
+    for txt in candidates:
+        original = str(txt)
+        parts: list[str] = []
+        idx = 0
+        for m in name_re.finditer(original):
+            parts.append(html.escape(original[idx:m.start()]))
+            name = m.group()
+            site_rel, portrait = entity_map[name]
+            rel = relative_url(current_dir, site_rel)
+            data = f' data-portrait="{html.escape(portrait)}"' if portrait else ''
+            parts.append(
+                f'<a class="entity-pop" href="{html.escape(rel)}"{data}>'
+                f'{html.escape(name)}</a>'
+            )
+            idx = m.end()
+        parts.append(html.escape(original[idx:]))
+
+        # Replace the text node with the parsed fragment via the
+        # wrap+unwrap idiom.
+        wrapper = BeautifulSoup(f'<x>{"".join(parts)}</x>', 'html.parser').x
+        txt.replace_with(wrapper)
+        wrapper.unwrap()
+
+    return str(soup)
+
+
+# --------------------------------------------------------------------------- #
 # HTML body rewriting — keep blog HTML, fix internal links only
 # --------------------------------------------------------------------------- #
 
@@ -765,6 +850,80 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
     if (!href || !IMG_EXT.test(href)) return;
     e.preventDefault();
     openLightbox(href, img.getAttribute('alt'));
+  });
+
+  // ---------- Entity popovers -----------------------------------------
+  // Triggered by hover on <a class="entity-pop" data-portrait="…">. Mobile
+  // devices fall back to plain link navigation (CSS hides the popover via
+  // `@media (hover: none)`).
+
+  var popover = null, showTimer = null, hideTimer = null;
+
+  function ensurePopover() {
+    if (popover) return popover;
+    popover = document.createElement('div');
+    popover.className = 'entity-popover';
+    popover.addEventListener('mouseenter', function () {
+      if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    });
+    popover.addEventListener('mouseleave', schedulePopoverHide);
+    document.body.appendChild(popover);
+    return popover;
+  }
+
+  function fillPopover(trigger) {
+    var p = ensurePopover();
+    var portrait = trigger.getAttribute('data-portrait');
+    var name = trigger.textContent.trim();
+    p.innerHTML = '';
+    if (portrait) {
+      var img = document.createElement('img');
+      img.src = portrait;
+      img.alt = '';
+      img.loading = 'lazy';
+      p.appendChild(img);
+    }
+    var label = document.createElement('span');
+    label.className = 'entity-popover-name';
+    label.textContent = name;
+    p.appendChild(label);
+    p.style.display = 'flex';
+    positionPopover(p, trigger);
+  }
+
+  function positionPopover(p, trigger) {
+    var rect = trigger.getBoundingClientRect();
+    var pw = p.offsetWidth, ph = p.offsetHeight;
+    var top  = rect.top - ph - 8;
+    var left = rect.left + rect.width / 2 - pw / 2;
+    if (top < 8) top = rect.bottom + 8;             // flip below if no room above
+    if (left < 8) left = 8;
+    var maxLeft = window.innerWidth - pw - 8;
+    if (left > maxLeft) left = maxLeft;
+    p.style.top = top + 'px';
+    p.style.left = left + 'px';
+  }
+
+  function schedulePopoverShow(trigger) {
+    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
+    if (showTimer) clearTimeout(showTimer);
+    showTimer = setTimeout(function () { fillPopover(trigger); }, 150);
+  }
+  function schedulePopoverHide() {
+    if (showTimer) { clearTimeout(showTimer); showTimer = null; }
+    if (hideTimer) clearTimeout(hideTimer);
+    hideTimer = setTimeout(function () {
+      if (popover) popover.style.display = 'none';
+    }, 200);
+  }
+
+  document.addEventListener('mouseover', function (e) {
+    var t = e.target.closest && e.target.closest('.entity-pop');
+    if (t) schedulePopoverShow(t);
+  });
+  document.addEventListener('mouseout', function (e) {
+    var t = e.target.closest && e.target.closest('.entity-pop');
+    if (t) schedulePopoverHide();
   });
 })();
 """
@@ -1213,9 +1372,15 @@ def render_post_page(pg: Page, pages: list[Page],
                      buckets: dict[int, ArcBucket],
                      pages_by_session: dict[int, dict[str, list[Page]]],
                      siblings_idx: dict[tuple[str, str], list[Page]],
-                     session_by_num_map: dict[int, Page]) -> str:
+                     session_by_num_map: dict[int, Page],
+                     entity_popover_map: dict[str, tuple[Path, str | None]]) -> str:
     # Rewrite internal links in the HTML body
     body_html = rewrite_html_links(pg.post.html, pg, url_map, label_map)
+    # Wrap PJ/PNJ/Lieu names in popover triggers — sessions only, where the
+    # narrative is dense enough that hover previews help the reader.
+    if pg.session_num is not None:
+        body_html = inject_entity_popovers(body_html, entity_popover_map,
+                                           pg.site_rel.parent)
 
     parts: list[str] = []
 
@@ -2576,6 +2741,50 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 
 .page-cat .session-list a { padding: 0.5rem 0.4rem; }
 
+/* ---------- Entity popovers (résumé bodies) --------------------------- */
+
+.entity-pop {
+  color: var(--ink);
+  border-bottom: 1px dotted var(--gold);
+  text-decoration: none;
+  cursor: help;
+  transition: color 120ms ease, border-color 120ms ease;
+}
+.entity-pop:hover { color: var(--oxblood); border-bottom-color: currentColor; }
+
+.entity-popover {
+  position: fixed; z-index: 100;
+  display: none;
+  align-items: center; gap: 0.7rem;
+  padding: 0.55rem 0.85rem 0.55rem 0.55rem;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  box-shadow: var(--shadow-hi);
+  max-width: 260px;
+  animation: entity-pop-fade 140ms ease-out;
+  pointer-events: auto;
+}
+@keyframes entity-pop-fade {
+  from { opacity: 0; transform: translateY(2px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.entity-popover img {
+  width: 56px; height: 56px;
+  object-fit: cover;
+  border: 1px solid var(--rule-soft);
+  flex-shrink: 0;
+}
+.entity-popover-name {
+  font-family: var(--serif-display);
+  font-size: 0.95rem; line-height: 1.2;
+  color: var(--ink);
+}
+
+/* Hide hover popover entirely on touch devices — tap navigates instead. */
+@media (hover: none) {
+  .entity-popover { display: none !important; }
+}
+
 /* ---------- Responsive ------------------------------------------------- */
 
 @media (max-width: 920px) {
@@ -2691,6 +2900,7 @@ def build(clean: bool) -> int:
     buckets = bucket_by_arc(pages, intros)
     pages_by_session = build_pages_by_session(pages)
     session_by_num_map = build_session_pages_by_num(pages)
+    entity_popover_map = build_entity_popover_map(pages)
 
     missing_intros = [arc for arc in ARCS if arc.num not in intros]
     if missing_intros:
@@ -2718,7 +2928,7 @@ def build(clean: bool) -> int:
             write(pg.out_path,
                   render_post_page(pg, pages, url_map, label_map, buckets,
                                    pages_by_session, siblings_idx,
-                                   session_by_num_map))
+                                   session_by_num_map, entity_popover_map))
 
     # Hidden folders: render individual pages but no index, no nav entry.
     # (E.g. Tomes — arc-intro pages already shown as arc page bodies.)
@@ -2727,7 +2937,7 @@ def build(clean: bool) -> int:
             write(pg.out_path,
                   render_post_page(pg, pages, url_map, label_map, buckets,
                                    pages_by_session, siblings_idx,
-                                   session_by_num_map))
+                                   session_by_num_map, entity_popover_map))
 
     write(OUT / "search" / "index.html", render_search_page())
     write(OUT / "style.css", CSS)
