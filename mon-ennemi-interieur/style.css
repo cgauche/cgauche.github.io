@@ -55,7 +55,15 @@
 }
 
 * { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth;
+        scroll-padding-top: calc(var(--header-h) + 1rem); }
+.variant-bio:target {
+  animation: variant-highlight 1.6s ease-out;
+}
+@keyframes variant-highlight {
+  0%   { background: rgba(163,122,46,0.18); }
+  100% { background: transparent; }
+}
 
 body {
   margin: 0;
