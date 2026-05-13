@@ -18,8 +18,8 @@ Après le combat, Anselm appliqua des bandages sur la plaie de l’halfelin. La 
 Nous nous miment à fouiller ce qu’il restait du charriot attaqué, et
 c’est là que Pathsokar se rendit compte qu’un des voyageurs lui ressemblait
 énormément. Il portait sur lui une lettre d’héritage adressée à un dénommé
- **Kastor Lieberung** ainsi d’une preuve d’identité. L’héritage, conséquent, était à récupérer à Bogenhafen. Il
-décida de garder la lettre, et une fois notre trajet à Aldorf terminé, d’aller à Bogenhafen récupérer
+ **Kastor Lieberung** ainsi d’une preuve d’identité. L’héritage, conséquent, était à récupérer à Bögenhafen. Il
+décida de garder la lettre, et une fois notre trajet à Aldorf terminé, de se rendre là-bas afin de récupérer
 l’héritage. Après tout, il serait gâché que personne n’y aille...
 
 Après avoir rendu compte de la situation à une patrouille de passage, nous

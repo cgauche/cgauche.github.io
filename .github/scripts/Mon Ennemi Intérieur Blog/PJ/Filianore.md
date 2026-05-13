@@ -13,7 +13,7 @@ Filianore est une femme au longs cheveux bruns de presque trente ans.
 Elle était apothicaire dans un village et a vécu avec Anselm et Pathsokar,
 elle s'est marié avec ce dernier avant de disparaitre mystérieusement.
 
-Retrouvée prisonnière d’un culte de Bogenhafen, elle tente de se rappeler de
+Retrouvée prisonnière d’un culte de Bögenhafen, elle tente de se rappeler de
 ces cinq années d'amnésie.
 
 Filianore est quelqu'un de déterminé et reste tourmentée par toutes ses

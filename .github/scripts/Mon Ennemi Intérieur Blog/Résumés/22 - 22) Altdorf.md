@@ -5,11 +5,11 @@
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHiBwN6f-iuVbPyPz_n2bITmdHUVZ8mg9zFMB6OCt1aQVnCq4pwlqBrWXKQjy8q77gBYW0ddUZPXO0_1EjJmNiAwna9T_zqjW6-5VcJPh_UT2vmBvErmMd7nx2taAJArgoYYKcZ0UhEaeP-OCwzkZ09L4bLMpBriAs1qO0tQ1l06qqF6dcJtRYFkR5yg/w640-h286/empire-city(1).webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHiBwN6f-iuVbPyPz_n2bITmdHUVZ8mg9zFMB6OCt1aQVnCq4pwlqBrWXKQjy8q77gBYW0ddUZPXO0_1EjJmNiAwna9T_zqjW6-5VcJPh_UT2vmBvErmMd7nx2taAJArgoYYKcZ0UhEaeP-OCwzkZ09L4bLMpBriAs1qO0tQ1l06qqF6dcJtRYFkR5yg/s2545/empire-city%281%29.webp)
 
 Filianore avait récupéré son ancien carnet de notes de son ancien travail
-d’espionne à Bogenhafen. Elle avait recouvert la mémoire, et se souvenait
+d’espionne à Bögenhafen. Elle avait recouvert la mémoire, et se souvenait
 désormais ce qu’elle faisait là-bas.
 
 Nous nous isolâmes dans la chambre d’une auberge de la ville, et elle nous
-expliqua qu’elle était allé à Bogenhafen dans le but de s’attaquer à un culte
+expliqua qu’elle était allé à Bögenhafen dans le but de s’attaquer à un culte
 nommé la **Main Pourpre**.
 
 Ce culte était puissant et disséminé dans tout l’Empire, mais une personne de forte

@@ -32,7 +32,7 @@ un homme mal à l’aise qui s’était retrouvé seul dans un coin de la pièce
 femme fit la connaissance de Yann Zuntermein, l’assistant du Graf Liepmund
 Holzkrug. Elle fut très surprise de constater que l’érudit réservé la
 connaissait très bien, non seulement en tant que grande prêtresse mais aussi
-pour ses exploits, et il suivait ses aventures depuis Bogenhafen !
+pour ses exploits, et il suivait ses aventures depuis Bögenhafen !
 
 Tiraillée entre fierté et méfiance, elle n’eut pas le temps
 de beaucoup y réfléchir qu’elle entendit une dispute éclater. La robe de la

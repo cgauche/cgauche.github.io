@@ -11,7 +11,7 @@ Skippy ?
 *Non* a-t-il dit, *Skippy a disparu, dorénavant appelez-moi Mark. L’église de
 Sigmar est corrompue, et je me suis rangé auprès d’Ulric.* S’il fallait
 reconnaitre une qualité à notre ami, c’était d’être franc, et il n’avait
-certainement pas omis de parler de son massacre au temple de Bogenhafen à son
+certainement pas omis de parler de son massacre au temple de Bögenhafen à son
 nouveau culte. Mark avait dû subir une terrible pénitence…
 
 Nous étions toujours un peu sous le choc, quand Filianore nous expliqua

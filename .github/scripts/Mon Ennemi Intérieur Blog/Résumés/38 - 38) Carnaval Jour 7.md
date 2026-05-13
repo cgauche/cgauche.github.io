@@ -19,7 +19,7 @@ La fille était bien l’autrice du message retrouvé sur le skaven, ce qui sign
 
 Lorsque Reiner retrouva sa nièce, il fut d’abord soulagé, il nous demanda ensuite de le suivre avec colère. Il hurla que c’était ce fourbe de **Joachim** et qu’il allait le dénoncer immédiatement au Graf. Toutes les portes du palais s’ouvraient devant lui, jusqu’à arriver dans la chambre du Graf où… un autre Graf était en train de l’étrangler.
 
-Le faux Graf était en fait un démon métamorphe, plus particulièrement celui qui s’était fait passer pour un enfant à Bogenhafen. Il se transforma en oiseau afin de quitter le château par la fenêtre, esquivant un coup de Pathsokar, tandis que nous luttions pour maintenir le vrai Graf en vie. Après l’avoir sauvé, avec l’aide du docteur Pavarotti, une réunion exceptionnelle fut ordonnée.
+Le faux Graf était en fait un démon métamorphe, plus particulièrement celui qui s’était fait passer pour un enfant à Bögenhafen. Il se transforma en oiseau afin de quitter le château par la fenêtre, esquivant un coup de Pathsokar, tandis que nous luttions pour maintenir le vrai Graf en vie. Après l’avoir sauvé, avec l’aide du docteur Pavarotti, une réunion exceptionnelle fut ordonnée.
 
 Le Graf nous convoqua. Sans trop
 comprendre comment, il voyait bien que nous en savions plus que ses généraux et ses ministres, il nous intima l’ordre de retrouver le coupable au plus vite.

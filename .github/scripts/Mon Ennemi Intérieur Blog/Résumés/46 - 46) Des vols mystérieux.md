@@ -15,7 +15,7 @@ assista également au discours de présentation de son protégé Dietrich auprè
 promettait d’œuvrer pour la grandeur de celle-ci de manière pugnace.
 
 ---
-Il ne fallut pas longtemps au capitaine Schultzmann pour nous reconvoquer. Il nous expliqua que plusieurs
+Il ne fallut pas longtemps au capitaine Schutzmann pour nous reconvoquer. Il nous expliqua que plusieurs
 vols avaient été référencés dernièrement, et  nous demanda donc de retrouver les voleurs.
 Il nous donna une liste des larcins, avant d’ajouter qu’il manquait sur la
 liste l’objet le plus important, un heaume précieux, relique d’un ancien temps

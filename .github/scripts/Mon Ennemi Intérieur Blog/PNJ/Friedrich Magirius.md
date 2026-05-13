@@ -6,7 +6,7 @@
 
 **Prince marchand**
 
-Friedrich est un riche marchand de Bogenhafen.
+Friedrich est un riche marchand de Bögenhafen.
 
 Il représente l'Ordo Septenarius et à ce titre, il rencontre toute personne voulant en savoir plus à ce sujet.
 

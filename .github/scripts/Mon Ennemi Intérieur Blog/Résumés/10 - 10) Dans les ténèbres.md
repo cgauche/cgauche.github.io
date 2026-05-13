@@ -31,6 +31,6 @@ Nous avons fini par trouver la sortie de ce dédale alors que la nuit était bie
 décidions de nous séparer. Skippy et Pathsokar firent le choix d’aller dans
 l’auberge promise par le juge, mais furent sommés de payer leur chambre et le
 bain qui allait avec, tandis qu’Elvira, Anselm et Phineas choisirent de
-retourner au bateau de Josef, non sans s’être préalablement nettoyés dans le Bogen.
+retourner au bateau de Josef, non sans s’être préalablement nettoyés dans le Bögen.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh9oO0dVvNgKCNGMId1oxDZftV2-HX50Fj8CKRnOarREL7S6PggQwGL5NAx0VNIV0zfd9wYkKjIAwZp8WPCYP8IRvhtMAWB_9GhyphenhyphenmIsQyflp_5yYVF3mbhDx0l9KhyphenhyphenuRXl3m4cIW0QUMYSg5fLFgVENgXy76mhHL5d0u_yEaCs_b8BwB_ft_yezg-X5u1K/w640-h236/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh9oO0dVvNgKCNGMId1oxDZftV2-HX50Fj8CKRnOarREL7S6PggQwGL5NAx0VNIV0zfd9wYkKjIAwZp8WPCYP8IRvhtMAWB_9GhyphenhyphenmIsQyflp_5yYVF3mbhDx0l9KhyphenhyphenuRXl3m4cIW0QUMYSg5fLFgVENgXy76mhHL5d0u_yEaCs_b8BwB_ft_yezg-X5u1K/s997/Capture.PNG)

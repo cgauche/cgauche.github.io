@@ -33,9 +33,9 @@ remit à leur place. Ils étaient tellement apeurés qu’ils partirent en nous 
 Ce fut dans cette ambiance qu’un de ses vieux amis le reconnut :
 **Josef Quartjin**. C’était un marchand qui allait de ville en ville avec différentes
 marchandises. Prochainement il comptait aller vendre du vin à la grande foire de
-Bogenhafen, la Shaffenfest, avec son bateau. C’était une occasion en or de récupérer l’héritage à moindre frais.
+Bögenhafen, la Shaffenfest, avec son bateau. C’était une occasion en or de récupérer l’héritage à moindre frais.
 Il avait besoin de bras pour le
 voyage, Elvira et Phineas acceptèrent de prendre part à son l’équipage tandis que le
-reste du groupe pourrait profiter du transport jusqu’à Bogenhafen.
+reste du groupe pourrait profiter du transport jusqu’à Bögenhafen.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAy8rK-0PPb8nRP9MossSjw6JVDPuSLPZI7u6OtBtA1ryXK6WfIj_elk3ou2YL7xjdlnBzbGge75GhFgGzIcCVcpcUe5_9TFXucTQhegBPvOGa39AcxI_1PJQJwNgwaRTp4q3AhSxKNt-iEbzUvcooOtxoX8t-eURXVgqdjrqeu64ssgxx9BfqAjZpQ/s600/berebelli.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAy8rK-0PPb8nRP9MossSjw6JVDPuSLPZI7u6OtBtA1ryXK6WfIj_elk3ou2YL7xjdlnBzbGge75GhFgGzIcCVcpcUe5_9TFXucTQhegBPvOGa39AcxI_1PJQJwNgwaRTp4q3AhSxKNt-iEbzUvcooOtxoX8t-eURXVgqdjrqeu64ssgxx9BfqAjZpQ/s3198/berebelli.webp)

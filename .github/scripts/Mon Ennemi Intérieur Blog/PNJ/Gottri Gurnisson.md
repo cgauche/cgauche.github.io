@@ -6,6 +6,6 @@
 
 **Mendiant nain**
 
-Gottri est un mendiant de Bogenhafen.
+Gottri est un mendiant de Bögenhafen.
 
 Un vie de misère l'a rendu aigri et désagréable, même envers quelqu'un qui chercherait à l'aider.

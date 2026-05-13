@@ -13,7 +13,7 @@ Il nous transmit l’accord de sa supérieure sur la contre loi que nous lui pro
 
 Elvira avait insisté pour assister à l’exposition d’Arbotecture, cela ne nous réjouissait guère de contempler des arbres taillés, mais il est vrai qu’il y avait du beau monde ici. La **princesse Katarina** attirait une fois encore toute l’attention sur elle, mais Elvira retrouva la favorite **Emmanuelle** un peu à l’écart. En y allant sans prendre de pincettes, elle lui annonça qu’elle savait que son véritable amour était contrarié, et qu’elle voulait l’aider. Elle ne réussit qu’à lui faire peur et elle prit la fuite.
 
-Mark alla enfin parler à l’**Ar Ulric**, mais aussitôt le grand prêtre le confronta. *Tu es un meurtrier et tu seras condamné pour ça*, tels fut ses mots alors que ses gardes l’emmenèrent au temple d’Ulric. Il allait répondre de ses actes à Bogenhafen.
+Mark alla enfin parler à l’**Ar Ulric**, mais aussitôt le grand prêtre le confronta. *Tu es un meurtrier et tu seras condamné pour ça*, tels fut ses mots alors que ses gardes l’emmenèrent au temple d’Ulric. Il allait répondre de ses actes à Bögenhafen.
 En partant, il nous fit comprendre que tout irait bien et qu’il ne fallait pas s’inquiéter pour lui.
 
 Nous nous rendîmes ensuite à la parade des éléphants. Ces bêtes étaient vraiment impressionnantes ! **Dieter** le futur ex champion du Graf était là. Mais alors que nous lui parlions de taxe, il se mit à réagir bizarrement. C’est comme s’il disait les mêmes arguments en boucle sans réfléchir. **Kisten** ne nous avait pourtant pas dit être pour la taxe. Yuridika songea qu’il avait peut-être subi une hypnose.

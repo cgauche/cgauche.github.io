@@ -23,11 +23,11 @@ l’écurie. Dans le même temps elle s’inscrivit dans une troupe de théâtre
 Pour les autres, Skippy était flagellant de Sigmar et allait se rapprocher de son temple,
 et Pathsokar était chasseur de prime, il trouverait surement des occupations ici.
 Anselm était un peu perdu, mais il pensa un temps s’inscrire comme médecin en ville.
-Par contre la femme de Pathsokar, Filianore, que nous avions sauvé du rituel à Bogenhafen, souffrait toujours d’amnésie.
+Par contre la femme de Pathsokar, Filianore, que nous avions sauvé du rituel à Bögenhafen, souffrait toujours d’amnésie.
 
 Mais au bout de quelques jours, elle fut approchée par un groupe et emmenée
 dans le palais de la ville, où elle y fut présentée à Emmanuelle Nacht, la
 régente de la ville. Emmanuelle expliqua à notre amie qu’elle travaillait pour elle autrefois en tant
-qu’espionne, et qu’elle avait été envoyé à Bogenhafen enquêter sur un certain Kastor Lieberung, agent important de la Main Pourpre. Mais dame Nacht avait perdu le contact jusqu’à aujourd’hui. Dans le même temps, elle avait fait arrêter et enfermer
+qu’espionne, et qu’elle avait été envoyé à Bögenhafen enquêter sur un certain Kastor Lieberung, agent important de la Main Pourpre. Mais dame Nacht avait perdu le contact jusqu’à aujourd’hui. Dans le même temps, elle avait fait arrêter et enfermer
 Pathsokar, pensant qu’il s’agissait de Kastor. Une fois le quiproquo avec Pathsokar résolu, elle fut
-disposée à le libérer et à la reprendre, ainsi qu’à gérer nos ennuis judiciaire de Bogenhafen.
+disposée à le libérer et à la reprendre, ainsi qu’à gérer nos ennuis judiciaire de Bögenhafen.

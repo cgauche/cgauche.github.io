@@ -6,6 +6,6 @@
 
 **Juge**
 
-Heinz est un juge respecté de Bogenhafen.
+Heinz est un juge respecté de Bögenhafen.
 
 Il est honnête et inccoruptible, cherchant toujours à retrouver la vérité s'il a le moindre doute.

@@ -15,7 +15,7 @@ journée, nous le retrouvâmes gisant, mort et l'air effrayé, après un court m
 La pièce était vide, mais un gros rat sortit de la cale. Nous essayâmes de l’attraper, mais des gardes
 en patrouilles nous stoppèrent. Ils souhaitaient faire une inspection du bateau.
 Par miracle, nous réussîmes à endormir leur vigilance, tout en jetant
-discrètement le corps sans vie du marchand dans le Bogen et en nettoyant la pièce.
+discrètement le corps sans vie du marchand dans le Bögen et en nettoyant la pièce.
 
 Il nous fallait absolument trouver ce lieu, et l’un de nous pensa qu’il leur faudrait un
 grand cercle forgé comme celui qui était dans les égouts. En allant chez un
@@ -56,5 +56,5 @@ sans Teugen cela n’arriverait plus. Il était temps pour nous de nous éclipse
 Le lendemain très tôt, les autorités nous arrêtèrent pour trouble à l’ordre public et meurtre, et nous
 emmenèrent en prison. Les puissants de la ville avaient encore réussi à avoir le dernier mot, camouflant leurs méfaits à notre insu ! Nous risquions la peine de mort sans guise de procès pour avoir osé attaquer l’un des leurs. Fort heureusement, Elvira nous trouva un chemin
 à travers les cellules jusqu’à la sortie, bien aidée par les signes sibyllin du langage des voleurs qui tapissaient certains murs (elle avait appris ce langage lorsqu’elle officiait en tant qu’espionne pour la Gravin). Après avoir regagné le bateau de Josef à la nage, nous partîmes très
-vite bien loin de Bogenhafen, la ville que nous avions sauvé mais qui ne le
+vite bien loin de Bögenhafen, la ville que nous avions sauvé mais qui ne le
 saurait jamais…

@@ -73,7 +73,7 @@ envoyée par Teugen. L’Ordre allait se réunir ce soir !
 
 En rentrant au bateau, nous croisions un prédicateur annonçant la fin de la
 ville, faisant fortement penser aux visions d’Elvira. Nous le suivîmes jusqu’au
-quartier le plus pauvre de la ville, de l’autre côté du Bogen, mais
+quartier le plus pauvre de la ville, de l’autre côté du Bögen, mais
 malheureusement nous ne parvînmes pas à le retrouver, gênés dans nos recherches par des mendiants un peu trop pugnaces. Une nouvelle piste
 disparaissait.
 

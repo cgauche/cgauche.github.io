@@ -5,14 +5,14 @@
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9pBwWsj99qpAHYYbMA5F-56QpB3h_TOAwXr215lgu1aPwoPNwDOLxtLUhdVMku8TlA_tFq09sWEdH56qk0Zsl5HwCqYm8_C7VE9fT2DoGaM3fyKbCy6PNTbiPVCRpT7mU8d8w4fLmIrNnwWyyvzBWDAhurMSjcZdOolpUPxv-xfSNyPAWxKDes1tfw2l/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9pBwWsj99qpAHYYbMA5F-56QpB3h_TOAwXr215lgu1aPwoPNwDOLxtLUhdVMku8TlA_tFq09sWEdH56qk0Zsl5HwCqYm8_C7VE9fT2DoGaM3fyKbCy6PNTbiPVCRpT7mU8d8w4fLmIrNnwWyyvzBWDAhurMSjcZdOolpUPxv-xfSNyPAWxKDes1tfw2l/s1062/Capture.PNG)
 
 Nous devions faire profil bas durant quelques temps. Josef nous proposa de
-l’accompagner à Ubersreik, qui se trouvait assez loin de Bogenhafen pour se faire oublier.
+l’accompagner à Ubersreik, qui se trouvait assez loin de Bögenhafen pour se faire oublier.
 
 Tout le monde faisait grise mine dans le bateau, même Pathsokar qui avait pourtant retrouvé sa femme
 après des années de recherche. Mais après s'être reposée et remise de cette épreuve, elle était toujours
 amnésique. Bien sûr, elle arrivait vaguement à se rappeler de son nom, de son métier d'apothicaire, mais la flamme
 qu'elle entretenait avec son mari semblait disparue. Il faudrait surement du temps pour la retrouver.
 
-Mais lors du trajet sur le Bogen, nous fûmes arrêtés par un navire noble. Si
+Mais lors du trajet sur le Bögen, nous fûmes arrêtés par un navire noble. Si
 dans un premier temps ils songèrent à nous dénoncer, le fait de savoir que
 nous étions d’anciens employés de la Gravin changea leur avis. *Puisque c’est
 ainsi, venez au château Graunenberg, nous avons besoin de main d’œuvre pour le

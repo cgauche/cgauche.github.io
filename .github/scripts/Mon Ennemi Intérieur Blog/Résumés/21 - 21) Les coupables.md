@@ -12,7 +12,7 @@ en sécurité ici.
 
 Emmanuelle Nacht avait récemment demandé à Filianore de se lancer dans une
 nouvelle enquête complexe, comme ce qu’elle avait fait lorsqu’elle avait été
-dépêchée à Bogenhafen.
+dépêchée à Bögenhafen.
 
 Il était vrai que Phineas non plus n’avait plus beaucoup de travail à la suite
 de la catastrophe du bal masqué, un départ pour nous tous commençait à
@@ -42,7 +42,7 @@ aussi.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMGywQcgylfi921iAXR3lPMdIskUFdWzzsk67eW5e4Dc_3hlh64aQ7JCjKBg4qonAqqFbfx2ZIdr-UDoYFZBxCe1DJ5aeQ5kNbbnJkGka194jY5NvjG9xuuJyixcIpNF32ksl5in4I6FJv0zaodpQgTAlB3q242awnUo6UvN5dSuHanDQBnMt2q99wLdA/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMGywQcgylfi921iAXR3lPMdIskUFdWzzsk67eW5e4Dc_3hlh64aQ7JCjKBg4qonAqqFbfx2ZIdr-UDoYFZBxCe1DJ5aeQ5kNbbnJkGka194jY5NvjG9xuuJyixcIpNF32ksl5in4I6FJv0zaodpQgTAlB3q242awnUo6UvN5dSuHanDQBnMt2q99wLdA/s969/Capture.PNG)
 
-**D’Ubersreik à Bogenhafen**
+**D’Ubersreik à Bögenhafen**
 
 Nous acceptions, et partions le lendemain avec **Delberz Trotte** comme
 pilote, apparemment le seul assez fou pour vouloir faire le trajet.
@@ -74,7 +74,7 @@ ne restait plus rien de ces chasseurs de tête.
 
 La journée suivante nous fit passer près d’un camp militaire de l’armée
 impériale, et profitant de notre présence un des commandants nous demanda de
-porter une lettre à Bogenhafen, qui était sur notre route. Nous acceptions
+porter une lettre à Bögenhafen, qui était sur notre route. Nous acceptions
 volontiers. Notre cocher nous rétorqua que déjà en ville les gens estimaient
 que nous avions trop de connivence avec les aldorfers, alors là, aider leur
 armée…
@@ -102,12 +102,12 @@ pour la clientèle afin d’apaiser les mœurs. Sa douce voix calma toute
 l’assemblée, et il était clair qu’un jour ou l’autre, cela deviendrait sa
 nouvelle vocation.
 
-Nous arrivions enfin à Bogenhafen, nous pûmes déposer le message des
+Nous arrivions enfin à Bögenhafen, nous pûmes déposer le message des
 militaires, tandis que Filianore avait des choses à faire avec un contact
 espion. Elle revint bouleversée, et nous annonça qu’une fois arrivé à Aldorf
 elle nous exposerait sa nouvelle mission.
 
-**De Bogenhafen à Aldorf**
+**De Bögenhafen à Aldorf**
 
 Durant la journée suivante, le temps se dégrada fortement. Nous arrivâmes à
 l’auberge relai suivante alors que la nuit était presque tombée, et que la

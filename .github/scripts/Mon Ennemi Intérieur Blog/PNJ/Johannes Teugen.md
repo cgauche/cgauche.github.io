@@ -8,4 +8,4 @@
 
 Johannes est un riche marchand ayant fait ses études à Aldorf.
 
-Il hérita d'une fortune considérable à son retour à Bogenhafen, suite au décès de son frère Karl.
+Il hérita d'une fortune considérable à son retour à Bögenhafen, suite au décès de son frère Karl.

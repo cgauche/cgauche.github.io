@@ -5,7 +5,7 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHQBzCthLPGKDbGvK4RvxWg2IIaDofneq7ZzE3hhIqLcaWLtJv_V-8EFcpCGfOs-PXoTrmRcac_7ktrBFt4MMEDAEEzvXOqVIov698eL9dv4lDcB6YgrtD8jMn5OmLcMmBDWMxrnKZsqmcK0ukq5OHTwCbPXOcy23XQb7FhXEyxFK4uliLJMVa5xlssM/s600/the-raid.webp)
 
 La garde que nous avions rencontré après l’affrontement nous amenait jusqu’aux quartiers du capitaine
-Schultzmann, que nous réveillions une fois encore en pleine nuit. Nous étions
+Schutzmann, que nous réveillions une fois encore en pleine nuit. Nous étions
 bouleversés par cet embuscade, et inquiets de nous faire une nouvelle fois
 attaquer, surtout que plusieurs d’entre nous étaient blessés Le capitaine nous proposa donc de passer le reste de la nuit ici, où
 nous serions dans une relative sécurité, ce que nous acceptâmes. Anselm profita
