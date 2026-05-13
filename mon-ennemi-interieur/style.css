@@ -746,9 +746,49 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 .bio-more a { color: var(--gold); }
 .bio-more a:hover { color: var(--oxblood); }
 
-/* Appearances: sessions where a PNJ/PJ/Lieu/Doc shows up, grouped by arc */
-.appearances { margin: 2.5rem 0 1.5rem; }
-.appearances .section-title { text-align: left; margin-top: 0; }
+/* Appearances: sessions where a PNJ/PJ/Lieu/Doc shows up, grouped by arc.
+   Native <details>: collapsible, no JS. */
+.appearances { margin: 2rem 0 1.2rem; }
+.appearances-summary {
+  list-style: none;        /* hide default disclosure marker */
+  cursor: pointer;
+  font-family: var(--serif-display);
+  font-size: 1.05rem; letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink);
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--rule);
+  display: flex; align-items: baseline; gap: 0.8rem;
+  user-select: none;
+  transition: color 150ms;
+}
+.appearances-summary:hover { color: var(--oxblood); }
+.appearances-summary::-webkit-details-marker { display: none; }
+.appearances-summary::before {
+  content: "▸";
+  font-size: 0.85em; color: var(--gold);
+  display: inline-block;
+  transition: transform 180ms ease;
+  width: 0.8em;
+}
+.appearances[open] > .appearances-summary::before {
+  transform: rotate(90deg);
+}
+.appearances-count {
+  font-family: var(--serif-body);
+  font-size: 0.78rem; font-style: italic;
+  text-transform: none; letter-spacing: 0;
+  color: var(--muted);
+  margin-left: auto;
+}
+.appearances-content {
+  padding: 0.5rem 0 0;
+  animation: appearances-fade 200ms ease-out;
+}
+@keyframes appearances-fade {
+  from { opacity: 0; transform: translateY(-3px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
 .appearances-arc { margin: 1.2rem 0 1.5rem; }
 .appearances-arc-title {
   font-family: var(--serif-display);
