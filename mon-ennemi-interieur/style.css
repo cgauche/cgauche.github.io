@@ -903,9 +903,9 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 /* PJ pages: variants rendered as stacked inline bios with floating portrait */
 .variants-bios { display: flex; flex-direction: column; gap: 2.5rem;
                   margin-top: 1.5rem; }
-.variant-bio { border-top: 1px solid var(--rule); padding-top: 1.8rem;
-               overflow: hidden; /* contain the float */ }
+.variant-bio { border-top: 1px solid var(--rule); padding-top: 1.8rem; }
 .variant-bio:first-child { border-top: 0; padding-top: 0; }
+.variant-bio > .appearances { clear: both; margin-top: 1.4rem; }
 .variant-bio-title {
   font-family: var(--serif-display-2);
   font-size: 1.35rem; line-height: 1.2;
@@ -923,7 +923,10 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   font-weight: normal;
 }
 .variant-bio-body { font-size: 0.98rem; line-height: 1.65;
-                     color: var(--ink-soft); }
+                     color: var(--ink-soft);
+                     overflow: hidden; /* contain the floated portrait so
+                                          the apparitions block starts on
+                                          a clean line below */ }
 .variant-bio-body > h1,
 .variant-bio-body > h2 { display: none; /* hide blogger's inner heading */ }
 .variant-bio-body p { margin: 0.7rem 0; }
