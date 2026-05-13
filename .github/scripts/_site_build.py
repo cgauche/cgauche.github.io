@@ -624,11 +624,17 @@ def _entity_aliases(title: str) -> list[str]:
         sub = ' '.join(parts[i:])
         if len(sub) >= 4 and sub[:1].isupper() and sub != title:
             aliases.add(sub)
-    # Individual capitalised tokens (4+ chars).
+    # Individual capitalised tokens (4+ chars). Also split each token on
+    # internal dashes so 'Immanuel-Fernand' yields 'Immanuel' and 'Fernand'
+    # as candidates — the per-session ambiguity check then drops anything
+    # shared across multiple entities (e.g. 'Holswig' surfaces in both
+    # 'Immanuel-Fernand Holswig-Schliestein' and 'Karl-Franz
+    # Holswig-Schliestein' → ambiguous → not added).
     for token in parts:
-        clean = token.strip(',;.:()"\'')
-        if len(clean) >= 4 and clean[:1].isupper() and clean != title:
-            aliases.add(clean)
+        for piece in [token, *token.split('-')]:
+            clean = piece.strip(',;.:()"\'')
+            if len(clean) >= 4 and clean[:1].isupper() and clean != title:
+                aliases.add(clean)
     _mirror_dash_space(aliases)
     return [a for a in aliases if a]
 
