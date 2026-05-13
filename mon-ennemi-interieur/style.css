@@ -453,6 +453,10 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
                 color: var(--muted); }
 .lead { color: var(--ink-soft); font-style: italic; font-size: 1.05rem; }
 .count { color: var(--muted); font-family: var(--mono); font-size: 0.82em; }
+.arc-range { color: var(--muted); font-family: var(--mono);
+              font-size: 0.78rem; letter-spacing: 0.04em;
+              white-space: nowrap; margin-left: 0.9em;
+              text-transform: none; }
 
 /* ---------- HOME PAGE -------------------------------------------------- */
 
