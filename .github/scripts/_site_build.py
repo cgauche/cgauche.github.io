@@ -575,27 +575,50 @@ def _entity_to_popover(pg: Page) -> EntityPopover | None:
                          subtitle=pg.subtitle)
 
 
-def _entity_aliases(title: str) -> list[str]:
-    """Short forms of `title` that might appear in narrative — first word
-    (e.g. 'Heinrich' for 'Heinrich Todbringer') and the comma-tail (e.g.
-    'Ar-Ulric' for 'Emil Valgeir, Ar-Ulric'). Also yields the dash/space
-    variant of any multi-word alias so 'Ar Ulric' matches even when the
-    title uses the hyphenated form."""
-    aliases: set[str] = set()
-    first = title.split(maxsplit=1)[0].rstrip(',;.:')
-    if len(first) >= 4 and first != title:
-        aliases.add(first)
-    if ',' in title:
-        tail = title.split(',', 1)[1].strip()
-        if len(tail) >= 4:
-            aliases.add(tail)
-    # Mirror dash↔space so narrative spelling differences don't lose matches.
+def _mirror_dash_space(aliases: set[str]) -> None:
+    """In-place: for every multi-word alias, also add its dash↔space twin
+    so 'Ar Ulric' matches even when the title uses 'Ar-Ulric'."""
     for a in list(aliases):
         if '-' in a:
             aliases.add(a.replace('-', ' '))
         if ' ' in a:
             aliases.add(a.replace(' ', '-'))
+
+
+def _entity_aliases(title: str) -> list[str]:
+    """Short forms of `title` that might appear in narrative.
+    Yields the full title (so a variant title like 'Mark, prêtre d'Ulric'
+    matches verbatim) plus the first word ('Heinrich' for 'Heinrich
+    Todbringer'). Mirrors dashes and spaces in the result."""
+    aliases: set[str] = set()
+    title = title.strip()
+    if len(title) >= 4:
+        aliases.add(title)
+    first = title.split(maxsplit=1)[0].rstrip(',;.:')
+    if len(first) >= 4 and first != title:
+        aliases.add(first)
+    _mirror_dash_space(aliases)
     return [a for a in aliases if a]
+
+
+def _aliases_from_subtitle(subtitle: str) -> list[str]:
+    """Treat a short, mostly-title-cased subtitle as an alias candidate
+    ('Ar Ulric' for Jarrick Valgeir's role line). Skips long descriptive
+    sentences ('Responsable de la kommission du commerce' has only the
+    first word capitalised so it's filtered out)."""
+    s = subtitle.strip()
+    if not (4 <= len(s) <= 25):
+        return []
+    words = [w for w in re.split(r'[\s\-]+', s) if w]
+    if not words:
+        return []
+    cap = sum(1 for w in words if w[:1].isupper())
+    # Tolerate one preposition / connector among proper-noun words.
+    if cap < len(words) - 1:
+        return []
+    out = {s}
+    _mirror_dash_space(out)
+    return list(out)
 
 
 def session_alias_popovers(session_num: int,
@@ -611,25 +634,33 @@ def session_alias_popovers(session_num: int,
     if session_num not in pages_by_session:
         return {}
 
-    # Canonical entities tagged with this session — variants collapsed,
-    # deduped by site_rel (Page is mutable, can't go in a set).
+    # Single pass: for each entity tagged with this session (variants
+    # included), resolve to its canonical main and collect alias candidates
+    # drawn from its OWN title + subtitle. Variants carry the
+    # session-specific names ("Mark, prêtre d'Ulric") and roles
+    # ("Ar Ulric" via subtitle) that the main's title alone doesn't expose.
     canonical: dict[Path, Page] = {}
+    aliases_per_main: dict[Path, set[str]] = {}
     for folder, entities in pages_by_session[session_num].items():
         if folder not in ENTITY_FOLDERS:
             continue
         for ent in entities:
-            target = ent
             if ent.variant_group and not ent.is_main:
                 main = _MAIN_FOR_GROUP.get((ent.post.folder, ent.variant_group))
                 if main is None:
                     continue
-                target = main
-            canonical[target.site_rel] = target
+            else:
+                main = ent
+            canonical[main.site_rel] = main
+            bag = aliases_per_main.setdefault(main.site_rel, set())
+            bag.update(_entity_aliases(ent.post.title))
+            if ent.subtitle:
+                bag.update(_aliases_from_subtitle(ent.subtitle))
 
-    # For each alias, list which canonical entities lay claim to it.
+    # Aggregate: alias → list of main-page paths claiming it.
     by_alias: dict[str, list[Path]] = {}
-    for srel, ent in canonical.items():
-        for alias in _entity_aliases(ent.post.title.strip()):
+    for srel, aliases in aliases_per_main.items():
+        for alias in aliases:
             if alias in global_map:
                 continue   # don't shadow a global canonical title
             claimants = by_alias.setdefault(alias, [])
