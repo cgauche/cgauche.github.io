@@ -38,19 +38,34 @@
     }).join('');
   }
 
+  // --- Single source of truth for ranking & filtering -------------------
+  // Change MIN_SCORE here (or the score thresholds below) and both the
+  // dropdown and the /search/ results page pick it up.
+  var MIN_SCORE = 50;
   function score(entry, qNorm) {
     var titleN = norm(entry.t);
-    if (titleN === qNorm) return 100;
-    if (titleN.startsWith(qNorm)) return 80;
-    if (titleN.indexOf(qNorm) >= 0) return 60;
-    // Variant title match (e.g. 'batelière' → Elvira via her 'Elvira, batelière' variant)
-    if (entry.vt) {
+    if (titleN === qNorm) return 100;             // exact title
+    if (titleN.startsWith(qNorm)) return 80;      // title-prefix
+    if (titleN.indexOf(qNorm) >= 0) return 60;    // title contains
+    if (entry.vt) {                               // variant-title match
       for (var i = 0; i < entry.vt.length; i++) {
         if (entry.vt[i].indexOf(qNorm) >= 0) return 50;
       }
     }
-    if (entry.s.indexOf(qNorm) >= 0) return 20;
+    if (entry.s.indexOf(qNorm) >= 0) return 20;   // body / haystack
     return 0;
+  }
+  function findMatches(qNorm) {
+    var out = [];
+    for (var i = 0; i < index.length; i++) {
+      var sc = score(index[i], qNorm);
+      if (sc >= MIN_SCORE) out.push({ entry: index[i], score: sc });
+    }
+    out.sort(function (a, b) {
+      if (b.score !== a.score) return b.score - a.score;
+      return a.entry.t.localeCompare(b.entry.t, 'fr');
+    });
+    return out;
   }
 
   function attach(input, results, base) {
@@ -64,17 +79,7 @@
       if (q.length < 2) { close(); results.innerHTML = ''; return; }
       var qN = norm(q);
       loadIndex(base).then(function () {
-        // Dropdown: title or variant-title matches only (score >= 50).
-        // Mirrors the results page so both surface the same set.
-        var matches = [];
-        for (var i = 0; i < index.length; i++) {
-          var sc = score(index[i], qN);
-          if (sc >= 50) matches.push({ entry: index[i], score: sc });
-        }
-        matches.sort(function (a, b) {
-          if (b.score !== a.score) return b.score - a.score;
-          return a.entry.t.localeCompare(b.entry.t, 'fr');
-        });
+        var matches = findMatches(qN);
         results.innerHTML = render(matches, base);
         open();
       });
@@ -122,18 +127,7 @@
 
     var qN = norm(q);
     loadIndex(base).then(function () {
-      // Title matches + variant-title matches (score >= 50). Same filter
-      // as the live dropdown — both views surface the same items.
-      var matches = [];
-      for (var i = 0; i < index.length; i++) {
-        var sc = score(index[i], qN);
-        if (sc >= 50) matches.push({ entry: index[i], score: sc });
-      }
-      matches.sort(function (a, b) {
-        if (b.score !== a.score) return b.score - a.score;
-        return a.entry.t.localeCompare(b.entry.t, 'fr');
-      });
-
+      var matches = findMatches(qN);
       if (!matches.length) {
         container.innerHTML = '<p class="search-empty">Aucun résultat.</p>';
         return;
