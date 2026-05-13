@@ -539,8 +539,9 @@ _ENTITY_POPOVER_CAT_LABEL = {"PJ": "PJ", "PNJ": "PNJ", "Lieux": "Lieu"}
 
 @dataclass
 class EntityPopover:
-    site_rel: Path
-    title: str             # canonical post title (used as the popover headline)
+    site_rel: Path         # navigation target — always the canonical main page
+    anchor: str | None     # '#variant-…' fragment when the matched form is a variant
+    title: str             # display headline (the variant's title when from a variant)
     cat: str               # short eyebrow label ("PJ" / "PNJ" / "Lieu")
     portrait: str | None   # absolute image URL (Blogger CDN) or None
     subtitle: str | None   # role / function line shown under the name
@@ -564,15 +565,24 @@ def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
     return out
 
 
-def _entity_to_popover(pg: Page) -> EntityPopover | None:
-    """Construct the popover payload for a single entity page, or None if
-    the page isn't a popover-able entity."""
+def _entity_to_popover(pg: Page, main: Page | None = None) -> EntityPopover | None:
+    """Construct the popover payload for an entity. If `main` is provided
+    and differs from `pg`, the popover is treated as a variant view —
+    navigation goes to the main page with a `#variant-<slug>` anchor while
+    the display info (title, subtitle, portrait) comes from `pg`."""
     cat = _ENTITY_POPOVER_CAT_LABEL.get(pg.post.folder)
     if cat is None:
         return None
-    return EntityPopover(site_rel=pg.site_rel, title=pg.post.title.strip(),
-                         cat=cat, portrait=pg.thumbnail,
-                         subtitle=pg.subtitle)
+    target = main if main is not None else pg
+    is_variant = main is not None and main.site_rel != pg.site_rel
+    return EntityPopover(
+        site_rel=target.site_rel,
+        anchor=(f"variant-{pg.slug}" if is_variant else None),
+        title=pg.post.title.strip(),
+        cat=cat,
+        portrait=pg.thumbnail,
+        subtitle=pg.subtitle,
+    )
 
 
 def _mirror_dash_space(aliases: set[str]) -> None:
@@ -634,13 +644,14 @@ def session_alias_popovers(session_num: int,
     if session_num not in pages_by_session:
         return {}
 
-    # Single pass: for each entity tagged with this session (variants
-    # included), resolve to its canonical main and collect alias candidates
-    # drawn from its OWN title + subtitle. Variants carry the
-    # session-specific names ("Mark, prêtre d'Ulric") and roles
-    # ("Ar Ulric" via subtitle) that the main's title alone doesn't expose.
-    canonical: dict[Path, Page] = {}
-    aliases_per_main: dict[Path, set[str]] = {}
+    # Per alias, track:
+    #  - the FIRST source entity to produce it (its title/subtitle/portrait
+    #    seed the popover display — covers variant-specific roles like
+    #    "Mark, prêtre d'Ulric" / "Ar Ulric")
+    #  - the set of mains that claim it (>1 main → ambiguous, drop alias)
+    alias_source: dict[str, tuple[Page, Page]] = {}  # alias → (source, main)
+    alias_mains: dict[str, set[Path]] = {}
+
     for folder, entities in pages_by_session[session_num].items():
         if folder not in ENTITY_FOLDERS:
             continue
@@ -651,27 +662,20 @@ def session_alias_popovers(session_num: int,
                     continue
             else:
                 main = ent
-            canonical[main.site_rel] = main
-            bag = aliases_per_main.setdefault(main.site_rel, set())
-            bag.update(_entity_aliases(ent.post.title))
+            forms = set(_entity_aliases(ent.post.title))
             if ent.subtitle:
-                bag.update(_aliases_from_subtitle(ent.subtitle))
-
-    # Aggregate: alias → list of main-page paths claiming it.
-    by_alias: dict[str, list[Path]] = {}
-    for srel, aliases in aliases_per_main.items():
-        for alias in aliases:
-            if alias in global_map:
-                continue   # don't shadow a global canonical title
-            claimants = by_alias.setdefault(alias, [])
-            if srel not in claimants:
-                claimants.append(srel)
+                forms.update(_aliases_from_subtitle(ent.subtitle))
+            for alias in forms:
+                if alias in global_map:
+                    continue
+                alias_mains.setdefault(alias, set()).add(main.site_rel)
+                alias_source.setdefault(alias, (ent, main))
 
     out: dict[str, EntityPopover] = {}
-    for alias, claimants in by_alias.items():
-        if len(claimants) != 1:
-            continue   # ambiguous within this session
-        payload = _entity_to_popover(canonical[claimants[0]])
+    for alias, (source, main) in alias_source.items():
+        if len(alias_mains[alias]) != 1:
+            continue   # ambiguous across different mains
+        payload = _entity_to_popover(source, main=main)
         if payload is not None:
             out[alias] = payload
     return out
@@ -680,10 +684,13 @@ def session_alias_popovers(session_num: int,
 def _render_entity_pop_anchor(matched_text: str, rel_url: str,
                               ent: EntityPopover) -> str:
     """Render a single <a class="entity-pop"> trigger. Attributes carry the
-    data the popover JS uses to fill its hover card."""
+    data the popover JS uses to fill its hover card. Variant matches append
+    a #variant-<slug> fragment so navigation lands on the canonical page
+    scrolled to the variant block, exactly like vignette links do."""
+    href = rel_url + (f"#{ent.anchor}" if ent.anchor else "")
     attrs: list[tuple[str, str]] = [
         ('class', 'entity-pop'),
-        ('href', rel_url),
+        ('href', href),
         ('data-title', ent.title),
         ('data-cat', ent.cat),
     ]
