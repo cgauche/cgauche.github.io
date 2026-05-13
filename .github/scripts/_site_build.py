@@ -102,6 +102,26 @@ FOLDER_TO_LABEL = {src: lbl for _, src, lbl in CATEGORIES}
 # filter pages when building per-session apparition lists and arc buckets.
 ENTITY_FOLDERS = {"PJ", "PNJ", "Lieux", "Documents", "Univers"}
 
+# Public site root. Used to emit absolute URLs in Open Graph tags + sitemap.
+SITE_URL = "https://cgauche.github.io/mon-ennemi-interieur"
+
+
+@dataclass
+class OgMeta:
+    """Open Graph / social-preview metadata for one page."""
+    description: str = ""
+    image: str | None = None     # absolute URL (Blogger CDN URL or similar)
+    og_type: str = "website"     # "website" for landings, "article" for posts
+    url: str = ""                # canonical absolute URL of this page
+
+
+def absolute_url(site_rel: Path | str) -> str:
+    """Site-relative path → canonical absolute URL."""
+    rel = site_rel.as_posix() if isinstance(site_rel, Path) else str(site_rel)
+    if rel in ("", "index.html", "./"):
+        return f"{SITE_URL}/"
+    return f"{SITE_URL}/{rel}"
+
 
 # --------------------------------------------------------------------------- #
 # Slug + URL helpers
@@ -150,6 +170,23 @@ def strip_html(html_str: str) -> str:
                      ("&laquo;", "«"), ("&raquo;", "»"), ("&rsquo;", "’")):
         text = text.replace(src, dst)
     return _WS_RE.sub(' ', text).strip()
+
+
+_LEADING_HEADING = re.compile(r'^\s*<h[1-3][^>]*>.*?</h[1-3]>', re.DOTALL | re.IGNORECASE)
+
+
+def og_description(html_body: str, limit: int = 200) -> str:
+    """First ~`limit` chars of `html_body`, plain-text, cut on a word boundary.
+    A leading <h1>/<h2>/<h3> is stripped since it would duplicate og:title."""
+    body = _LEADING_HEADING.sub('', html_body, count=1)
+    text = strip_html(body)
+    if len(text) <= limit:
+        return text
+    cut = text[:limit]
+    last_space = cut.rfind(" ")
+    if last_space > limit * 0.7:
+        cut = cut[:last_space]
+    return cut.rstrip(",;:-–— ") + "…"
 
 
 def normalise_for_search(s: str) -> str:
@@ -829,10 +866,34 @@ def _render_sidebar(current_dir: Path,
     return "\n".join(parts)
 
 
+def _render_og_block(title: str, og: OgMeta | None) -> str:
+    """Open Graph + Twitter card meta tags for a single page."""
+    if og is None:
+        return ""
+    lines = [
+        f'<meta property="og:site_name" content="{html.escape(SITE_TITLE)}">',
+        f'<meta property="og:title" content="{html.escape(title)}">',
+        f'<meta property="og:type" content="{html.escape(og.og_type)}">',
+    ]
+    if og.url:
+        lines.append(f'<meta property="og:url" content="{html.escape(og.url)}">')
+        lines.append(f'<link rel="canonical" href="{html.escape(og.url)}">')
+    if og.description:
+        lines.append(f'<meta property="og:description" content="{html.escape(og.description)}">')
+        lines.append(f'<meta name="description" content="{html.escape(og.description)}">')
+    if og.image:
+        lines.append(f'<meta property="og:image" content="{html.escape(og.image)}">')
+        lines.append('<meta name="twitter:card" content="summary_large_image">')
+    else:
+        lines.append('<meta name="twitter:card" content="summary">')
+    return "\n".join(lines)
+
+
 def layout(current_dir: Path, title: str, body: str,
            extra_class: str = "",
            buckets: dict[int, ArcBucket] | None = None,
-           active_arc: int | None = None) -> str:
+           active_arc: int | None = None,
+           og: OgMeta | None = None) -> str:
     """Wrap a body fragment in the site shell with sidebar nav."""
     css = relative_url(current_dir, Path("style.css"))
     home = relative_url(current_dir, Path("index.html"))
@@ -847,6 +908,7 @@ def layout(current_dir: Path, title: str, body: str,
     top_nav = " · ".join(top_items)
 
     sidebar = _render_sidebar(current_dir, buckets, active_arc)
+    og_block = _render_og_block(title, og)
 
     return f"""<!doctype html>
 <html lang="fr">
@@ -854,6 +916,7 @@ def layout(current_dir: Path, title: str, body: str,
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)} — {html.escape(SITE_TITLE)}</title>
+{og_block}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
@@ -964,8 +1027,18 @@ def render_home(buckets: dict[int, ArcBucket],
                     f'<span class="cat-count">{count}</span></a></li>')
     body.append('</ul></section>')
 
+    # OG preview: take the preface body if available, otherwise the tagline.
+    if preface_pg:
+        og_desc = og_description(preface_pg.post.html)
+        og_image = preface_pg.thumbnail
+    else:
+        og_desc = SITE_TAGLINE
+        og_image = None
+    og = OgMeta(description=og_desc, image=og_image,
+                og_type="website", url=absolute_url("index.html"))
+
     return layout(Path("."), SITE_TITLE, "\n".join(body),
-                  extra_class="page-home", buckets=buckets)
+                  extra_class="page-home", buckets=buckets, og=og)
 
 
 def render_arc_page(bucket: ArcBucket, buckets: dict[int, ArcBucket],
@@ -1039,9 +1112,17 @@ def render_arc_page(bucket: ArcBucket, buckets: dict[int, ArcBucket],
         parts.extend(cat_blocks)
         parts.append('</div>')
 
+    intro = bucket.intro
+    og = OgMeta(
+        description=(og_description(intro.post.html) if intro
+                     else f"Arc {to_roman(arc.num)} — sessions {arc.s_start}–{arc.s_end}, {s_count} récits."),
+        image=intro.thumbnail if intro else None,
+        og_type="article",
+        url=absolute_url(f"arc-{arc.num}.html"))
+
     return layout(Path("."), f"Arc {to_roman(arc.num)} — {arc.title}", "\n".join(parts),
                   extra_class="page-arc", buckets=buckets,
-                  active_arc=arc.num)
+                  active_arc=arc.num, og=og)
 
 
 def render_category_index(out_folder: str, src_folder: str, label: str,
@@ -1084,9 +1165,14 @@ def render_category_index(out_folder: str, src_folder: str, label: str,
                 f'</div></a></li>')
         body.append('</ul>')
 
+    og = OgMeta(
+        description=f"{label} — {meta} de la campagne Warhammer.",
+        og_type="website",
+        url=absolute_url(f"{out_folder}/index.html"))
+
     return layout(Path(out_folder), label, "\n".join(body),
                   extra_class=f"page-cat page-cat-{out_folder}",
-                  buckets=buckets)
+                  buckets=buckets, og=og)
 
 
 @dataclass
@@ -1336,9 +1422,14 @@ def render_post_page(pg: Page, pages: list[Page],
                                       pg.site_rel.parent, "bottom"))
 
     parts.append('</article>')
+    og = OgMeta(
+        description=og_description(pg.post.html),
+        image=pg.thumbnail,
+        og_type="article",
+        url=absolute_url(pg.site_rel))
     return layout(pg.site_rel.parent, display_title, "\n".join(parts),
                   extra_class="page-post", buckets=buckets,
-                  active_arc=arc_obj.num if arc_obj else None)
+                  active_arc=arc_obj.num if arc_obj else None, og=og)
 
 
 def arc_for_page(pg: Page) -> Arc | None:
@@ -2514,6 +2605,41 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 # --------------------------------------------------------------------------- #
 
 
+ROBOTS_TXT = f"""\
+User-agent: *
+Allow: /
+
+Sitemap: {SITE_URL}/sitemap.xml
+"""
+
+
+def build_sitemap(pages: list[Page]) -> str:
+    """Sitemap covering home, arc landings, category indexes, and every
+    canonical post page (variants are skipped — they redirect to their main)."""
+    entries: list[tuple[str, str | None]] = [(f"{SITE_URL}/", None)]
+    for arc in ARCS:
+        entries.append((f"{SITE_URL}/arc-{arc.num}.html", None))
+    for out_folder, _src, _lbl in CATEGORIES:
+        entries.append((f"{SITE_URL}/{out_folder}/index.html", None))
+    for pg in pages:
+        if pg.variant_group and not pg.is_main:
+            continue
+        loc = f"{SITE_URL}/{pg.site_rel.as_posix()}"
+        lastmod = (pg.post.updated or pg.post.published or "")[:10] or None
+        entries.append((loc, lastmod))
+
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
+             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
+    for loc, lastmod in entries:
+        if lastmod:
+            lines.append(f'  <url><loc>{html.escape(loc)}</loc>'
+                         f'<lastmod>{lastmod}</lastmod></url>')
+        else:
+            lines.append(f'  <url><loc>{html.escape(loc)}</loc></url>')
+    lines.append('</urlset>')
+    return "\n".join(lines) + "\n"
+
+
 def write(path: Path, content: str) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     path.write_text(content, encoding="utf-8")
@@ -2609,6 +2735,8 @@ def build(clean: bool) -> int:
     (OUT / "search-index.json").write_text(
         json.dumps(build_search_index(pages, siblings_idx), ensure_ascii=False),
         encoding="utf-8")
+    write(OUT / "sitemap.xml", build_sitemap(pages))
+    write(OUT / "robots.txt", ROBOTS_TXT)
 
     total = sum(len(v) for v in pages_by_cat.values())
     print(f"\nDone. {total} post pages + {len(ARCS)} arc pages + "
@@ -2626,8 +2754,10 @@ def render_search_page() -> str:
         '<div id="search-page-results" data-base="../"></div>',
         '</section>',
     ]
+    og = OgMeta(description="Recherche dans Mon Ennemi Intérieur.",
+                og_type="website", url=absolute_url("search/"))
     return layout(Path("search"), "Recherche", "\n".join(body),
-                  extra_class="page-search", buckets=None)
+                  extra_class="page-search", buckets=None, og=og)
 
 
 def serve(port: int) -> int:
