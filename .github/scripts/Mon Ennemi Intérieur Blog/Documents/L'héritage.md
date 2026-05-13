@@ -1,0 +1,7 @@
+# L'héritage
+
+*Source : [https://monennemiinterieur.blogspot.com/2024/10/lheritage.html](https://monennemiinterieur.blogspot.com/2024/10/lheritage.html)*
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfU9-x71MZhl9JiCbNSmyIvG_xvlKkIBxgt8PmCMR01sZHWexxQuVXscauwldL4JvD36a2Fm-wWJ698FV4ZHP_FyY8Xw0VhP0UHSIvaTas5teKLyESDQTtyyCJSWhCG8un02A17d2yI7t0_36s_pC1xsRCb0rkpbvQclZqM8RSCp4OEDjq1s1al79b7A/s600/Doc%202.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfU9-x71MZhl9JiCbNSmyIvG_xvlKkIBxgt8PmCMR01sZHWexxQuVXscauwldL4JvD36a2Fm-wWJ698FV4ZHP_FyY8Xw0VhP0UHSIvaTas5teKLyESDQTtyyCJSWhCG8un02A17d2yI7t0_36s_pC1xsRCb0rkpbvQclZqM8RSCp4OEDjq1s1al79b7A/s1836/Doc%202.png)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXklYmp55T-Dhm-vMd2hh3sshc167IvVagVhZWgnEGjrJdpizoXhCEwxp-DpTjCNL7_NMlQ2dJ4ylFXfbHZcQ-GltbWlwIyG824OcgZOXb8XGkMbI-ZNHIzl3D2OqtAYKZeRHHymWUWoXV8p2IACLC1IWfqD3fm5r0f19CjE__C69KfeRyuA2GDrN2WN4w/w320-h184/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXklYmp55T-Dhm-vMd2hh3sshc167IvVagVhZWgnEGjrJdpizoXhCEwxp-DpTjCNL7_NMlQ2dJ4ylFXfbHZcQ-GltbWlwIyG824OcgZOXb8XGkMbI-ZNHIzl3D2OqtAYKZeRHHymWUWoXV8p2IACLC1IWfqD3fm5r0f19CjE__C69KfeRyuA2GDrN2WN4w/s902/Capture.PNG)

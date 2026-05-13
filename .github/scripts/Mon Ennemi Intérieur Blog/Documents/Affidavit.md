@@ -1,0 +1,7 @@
+# Affidavit
+
+*Source : [https://monennemiinterieur.blogspot.com/2024/10/affidavit.html](https://monennemiinterieur.blogspot.com/2024/10/affidavit.html)*
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3ppdPm8O6bK9lo6xnT-nlcyDAYLqmweiNqbJMJaPf5P_5J9EptN_UCQfBHJmIelPG65DRLn1_6Oybs9DQMrNsChWo8hwBUXqSR9tB8Sj9dYLp0KmOfZaYzbE6LJ7lEabv1Wslw4rFxguyJk_F20i55K-6gFS7LbQD5SE2PnNiPmim8j1Q5FDBEtUxaU/s600/Doc%203.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP3ppdPm8O6bK9lo6xnT-nlcyDAYLqmweiNqbJMJaPf5P_5J9EptN_UCQfBHJmIelPG65DRLn1_6Oybs9DQMrNsChWo8hwBUXqSR9tB8Sj9dYLp0KmOfZaYzbE6LJ7lEabv1Wslw4rFxguyJk_F20i55K-6gFS7LbQD5SE2PnNiPmim8j1Q5FDBEtUxaU/s828/Doc%203.png)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFtu2gwH5U20IzWPCyZNPJoYqAszqio6jHHLJFHoIW7i48976gAGVvQjFVXq_i8o7fJbeR21feu_jXKnE3DKyZoabU9gqhz2m3wX6SDmUl05IFDEoAhD73rFlXXWixZlA0Op3t2eZ4Spej-fiRzu_3Ar9gGNx2ugGu3BN-Gpn31Rl1CZDKchJI-mZrmuI/s320/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFtu2gwH5U20IzWPCyZNPJoYqAszqio6jHHLJFHoIW7i48976gAGVvQjFVXq_i8o7fJbeR21feu_jXKnE3DKyZoabU9gqhz2m3wX6SDmUl05IFDEoAhD73rFlXXWixZlA0Op3t2eZ4Spej-fiRzu_3Ar9gGNx2ugGu3BN-Gpn31Rl1CZDKchJI-mZrmuI/s443/Capture.PNG)

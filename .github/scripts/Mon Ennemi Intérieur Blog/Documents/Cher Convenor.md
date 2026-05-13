@@ -1,0 +1,7 @@
+# Cher Convenor
+
+*Source : [https://monennemiinterieur.blogspot.com/2019/05/cher-convenor.html](https://monennemiinterieur.blogspot.com/2019/05/cher-convenor.html)*
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSbXXqezpwNA23uGwwFi22_N4Ru57v9_zH5J8NEBP2LIbagcLsqKD7A-ZqsOHJ206LsLdM1UuO64gBuRIVGvIQeYbUTbcTdpczIPExBmaR50crUpwLKQDEsii-JByeal28kChE-y9A4UWPMPeNx0VarvK2mDd4BRO4KSdG7imUHnIw-BuxnUR_s9gJhAY/s600/handout5.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSbXXqezpwNA23uGwwFi22_N4Ru57v9_zH5J8NEBP2LIbagcLsqKD7A-ZqsOHJ206LsLdM1UuO64gBuRIVGvIQeYbUTbcTdpczIPExBmaR50crUpwLKQDEsii-JByeal28kChE-y9A4UWPMPeNx0VarvK2mDd4BRO4KSdG7imUHnIw-BuxnUR_s9gJhAY/s480/handout5.webp)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidkR1ctQJQYGvA3vVis36OhBweKs6o091w7I2x3LG7jl8bmbnQGb-BJC4w7vTwgeKB_fzsC_u9C9el2SZxGJ2VXajoRY_y6dRxd_w4xlhWGptChEscMldaHe_YMK3dxjGePy4Pe6dNLsz2TBUWTqY1X4ZbMKA-JB0oPJXA2Ie3UkJjZ08wS-C5jCsg9aw/s600/doc6.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidkR1ctQJQYGvA3vVis36OhBweKs6o091w7I2x3LG7jl8bmbnQGb-BJC4w7vTwgeKB_fzsC_u9C9el2SZxGJ2VXajoRY_y6dRxd_w4xlhWGptChEscMldaHe_YMK3dxjGePy4Pe6dNLsz2TBUWTqY1X4ZbMKA-JB0oPJXA2Ie3UkJjZ08wS-C5jCsg9aw/s1231/doc6.png)

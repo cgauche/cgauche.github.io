@@ -1,0 +1,7 @@
+# Auberge La Diligence
+
+*Source : [https://monennemiinterieur.blogspot.com/2021/09/auberge-la-diligence.html](https://monennemiinterieur.blogspot.com/2021/09/auberge-la-diligence.html)*
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmAkvc890piXiG3go7uv80mRiRa1ZhKKqjkLn7LdqK2V_VWokh5Oom6WN365KaYl-Z2IG6FGGSc79fA2lLg54g5C6iv8K3QpyD27Yq2LUWXxcHtvXbtX7Q-R3E9Yu7v4xQ3q8XYgTHWB8QnnxRW0DjhAC8Gi3NKoMJRJd7iqITQbulZkXJO-E5-nc-eOs/s200/ruggers-boarding-house.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmAkvc890piXiG3go7uv80mRiRa1ZhKKqjkLn7LdqK2V_VWokh5Oom6WN365KaYl-Z2IG6FGGSc79fA2lLg54g5C6iv8K3QpyD27Yq2LUWXxcHtvXbtX7Q-R3E9Yu7v4xQ3q8XYgTHWB8QnnxRW0DjhAC8Gi3NKoMJRJd7iqITQbulZkXJO-E5-nc-eOs/s1180/ruggers-boarding-house.webp)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4IyU3kYjoUxM4gOSQk3D2_F19ABNjQOw-hzG4qHkfSxjhtJne7CDuQewDFXflS9hybSqUBzt7SDGLuuvO4BP_zK2cNGy4rv-7lo9xvdjMQ3hGMB4DoCzaUGnthwxSX8FlC4zmIa8VColjogYJzjgyDiRUiKMVbsWp6B03LSE5OaUanYnpn35QbbMckCV0/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4IyU3kYjoUxM4gOSQk3D2_F19ABNjQOw-hzG4qHkfSxjhtJne7CDuQewDFXflS9hybSqUBzt7SDGLuuvO4BP_zK2cNGy4rv-7lo9xvdjMQ3hGMB4DoCzaUGnthwxSX8FlC4zmIa8VColjogYJzjgyDiRUiKMVbsWp6B03LSE5OaUanYnpn35QbbMckCV0/s1121/Capture.PNG)

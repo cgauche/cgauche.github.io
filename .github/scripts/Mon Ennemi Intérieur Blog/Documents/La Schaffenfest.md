@@ -1,0 +1,7 @@
+# La Schaffenfest
+
+*Source : [https://monennemiinterieur.blogspot.com/2024/10/la-schaffenfest.html](https://monennemiinterieur.blogspot.com/2024/10/la-schaffenfest.html)*
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZzLAjCXJ47Xt7wqcw-rxJO7L2L7uvmkj6nfJD17Ln-j4rvrHucgJ1A2wUZeD3uAIK59y7GfcKTATJ8nufTM5p0dTUro20H4EE-DsWg7r6zNp917gygUGJY3XtHy00eMR_EkXjMJ_ngvG0jzPFc37VxdnQNF1uqzMGdzqADvq3iGC-lrtSZvR_1VGfT3s/s600/Doc%204.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZzLAjCXJ47Xt7wqcw-rxJO7L2L7uvmkj6nfJD17Ln-j4rvrHucgJ1A2wUZeD3uAIK59y7GfcKTATJ8nufTM5p0dTUro20H4EE-DsWg7r6zNp917gygUGJY3XtHy00eMR_EkXjMJ_ngvG0jzPFc37VxdnQNF1uqzMGdzqADvq3iGC-lrtSZvR_1VGfT3s/s1520/Doc%204.png)
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiONbEkdJiLBAWSwbwfFiYyQEbFDNQqo2xrSGshuLz0fRVJszrNY1J_PF6lk8hURpCS67fWPCzVpcodwZIZo9pX4rU_scJdF1a5Ix511Mmd0stY3VawIM2axNeIoXRMZ7LrZFtooObNwDuy4O96ysblBQQNGypHuEwZz1xBbmhTKmqyAAZBC6K17yI11kJG/s320/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiONbEkdJiLBAWSwbwfFiYyQEbFDNQqo2xrSGshuLz0fRVJszrNY1J_PF6lk8hURpCS67fWPCzVpcodwZIZo9pX4rU_scJdF1a5Ix511Mmd0stY3VawIM2axNeIoXRMZ7LrZFtooObNwDuy4O96ysblBQQNGypHuEwZz1xBbmhTKmqyAAZBC6K17yI11kJG/s441/Capture.PNG)

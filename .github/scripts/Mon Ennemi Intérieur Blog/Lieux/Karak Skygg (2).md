@@ -1,0 +1,9 @@
+# Karak Skygg
+
+*Source : [https://monennemiinterieur.blogspot.com/2021/11/karak-skygg.html](https://monennemiinterieur.blogspot.com/2021/11/karak-skygg.html)*
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX2aTHuie-yc3FIBzI25n9zLfMGtAWAwaYtx0FHKuN_EX-QmS4_EcBvcpXwROJta6J4qgb7BQlL3qnk4EWSfjFXHkqTFIu16ctmysW0UTB19NJ9GhwjtuatKJwF3tzPD_8nAWL0kdGZ15o9WJiOGH9s81sRakEe_4v13biESTLRRzEBFRNbzQ_ZnnWr_o/s200/_karag_skygg.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX2aTHuie-yc3FIBzI25n9zLfMGtAWAwaYtx0FHKuN_EX-QmS4_EcBvcpXwROJta6J4qgb7BQlL3qnk4EWSfjFXHkqTFIu16ctmysW0UTB19NJ9GhwjtuatKJwF3tzPD_8nAWL0kdGZ15o9WJiOGH9s81sRakEe_4v13biESTLRRzEBFRNbzQ_ZnnWr_o/s350/_karag_skygg.png)
+
+**Forteresse naine**
+
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-jBh6x_5rOdhZcEwDStkHP0U2q7hy1nQZPhAs7S378TuS_Ew4DQ6m5G6Gwn91LkvdO4udefmGlrjuOz6MaTcXzZMxkKKAzlI1e-QQR4zDYzb3HlIEMF6xK6hyJHyCZSY3n7OwY6MtvUfwT9hRcQnYYoB-5p8tBUHw61p66XENhygJ6tVNspy-qFz5EFQ/s400/karakskygg_color.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-jBh6x_5rOdhZcEwDStkHP0U2q7hy1nQZPhAs7S378TuS_Ew4DQ6m5G6Gwn91LkvdO4udefmGlrjuOz6MaTcXzZMxkKKAzlI1e-QQR4zDYzb3HlIEMF6xK6hyJHyCZSY3n7OwY6MtvUfwT9hRcQnYYoB-5p8tBUHw61p66XENhygJ6tVNspy-qFz5EFQ/s6052/karakskygg_color.webp)
