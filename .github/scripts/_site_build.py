@@ -159,6 +159,20 @@ def session_link_html(pg: 'Page', href: str) -> str:
         f'</a></li>')
 
 
+def entry_card_html(pg: 'Page', href: str) -> str:
+    """Standard PJ/PNJ/Lieu/Doc/Univers card — thumbnail + name + optional
+    subtitle (the centered-bold role line lifted from the post body)."""
+    sub = (f'<span class="entry-sub">{html.escape(pg.subtitle)}</span>'
+           if pg.subtitle else '')
+    return (
+        f'<li><a class="thumb-card entry-card" href="{html.escape(href)}">'
+        f'{_thumb_html(pg)}'
+        f'<div class="thumb-card-body">'
+        f'<span class="entry-name">{html.escape(pg.post.title)}</span>'
+        f'{sub}'
+        f'</div></a></li>')
+
+
 _TAG_RE = re.compile(r'<[^>]+>')
 _WS_RE = re.compile(r'\s+')
 
@@ -203,6 +217,29 @@ def extract_first_image(html: str) -> str | None:
     return m.group(1) if m else None
 
 
+# Blog convention for PJ/PNJ/Lieu pages: the portrait is followed by a
+# centered <b>…</b> line giving the entity's role / title (e.g.
+# "Responsable de la kommission du commerce" under Gotthard's portrait).
+_SUBTITLE_RE = re.compile(
+    r'<(?:div|p|center)[^>]*?text-align[^>]*?>\s*'
+    r'<(?:b|strong)>([^<]{3,200})</(?:b|strong)>\s*'
+    r'</(?:div|p|center)>',
+    re.IGNORECASE | re.DOTALL,
+)
+
+
+def extract_subtitle(html_body: str) -> str | None:
+    """Pull the centered-bold subtitle line that follows the portrait on
+    PJ/PNJ/Lieu pages. Returns None if the post doesn't follow this layout.
+    Only scans the head of the body — late centered-bold accents in the
+    narrative shouldn't be picked up."""
+    m = _SUBTITLE_RE.search(html_body[:3000])
+    if not m:
+        return None
+    text = strip_html(m.group(1)).strip()
+    return text or None
+
+
 def slugify(stem: str) -> str:
     """'Boris Todbringer (2)' → 'boris-todbringer-2'."""
     s = unicodedata.normalize("NFKD", stem)
@@ -220,6 +257,7 @@ class Page:
     slug: str
     session_num: int | None  # only set for Résumés
     thumbnail: str | None = None   # first image found in the post body
+    subtitle: str | None = None    # centered-bold line under the portrait
     variant_group: str | None = None  # character label shared with variants
     is_main: bool = False    # True for the canonical page of a character group
 
@@ -257,9 +295,13 @@ def build_pages(posts: list[Post]) -> list[Page]:
 
         site_rel = Path(out_folder) / f"{slug}.html"
         out_path = OUT / site_rel
+        # Subtitle only matters for entity pages (PJ/PNJ/Lieu) — sessions
+        # and arc intros don't follow the centered-bold convention.
+        sub = extract_subtitle(p.html) if p.folder in ENTITY_FOLDERS else None
         pages.append(Page(post=p, out_path=out_path, site_rel=site_rel,
                           slug=slug, session_num=num,
-                          thumbnail=extract_first_image(p.html)))
+                          thumbnail=extract_first_image(p.html),
+                          subtitle=sub))
     return pages
 
 
@@ -490,9 +532,10 @@ _ENTITY_POPOVER_CAT_LABEL = {"PJ": "PJ", "PNJ": "PNJ", "Lieux": "Lieu"}
 @dataclass
 class EntityPopover:
     site_rel: Path
-    title: str           # canonical post title (used as the popover headline)
-    cat: str             # short eyebrow label ("PJ" / "PNJ" / "Lieu")
-    portrait: str | None # absolute image URL (Blogger CDN) or None
+    title: str             # canonical post title (used as the popover headline)
+    cat: str               # short eyebrow label ("PJ" / "PNJ" / "Lieu")
+    portrait: str | None   # absolute image URL (Blogger CDN) or None
+    subtitle: str | None   # role / function line shown under the name
 
 
 def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
@@ -511,7 +554,8 @@ def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
         if len(name) < 4:
             continue
         out[name] = EntityPopover(site_rel=pg.site_rel, title=name,
-                                  cat=cat, portrait=pg.thumbnail)
+                                  cat=cat, portrait=pg.thumbnail,
+                                  subtitle=pg.subtitle)
     return out
 
 
@@ -525,6 +569,8 @@ def _render_entity_pop_anchor(matched_text: str, rel_url: str,
         ('data-title', ent.title),
         ('data-cat', ent.cat),
     ]
+    if ent.subtitle:
+        attrs.append(('data-subtitle', ent.subtitle))
     if ent.portrait:
         attrs.append(('data-portrait', ent.portrait))
     attr_str = ' '.join(f'{k}="{html.escape(v)}"' for k, v in attrs)
@@ -901,8 +947,9 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
   function fillPopover(trigger) {
     var p = ensurePopover();
     var portrait = trigger.getAttribute('data-portrait');
-    var title = trigger.getAttribute('data-title') || trigger.textContent.trim();
-    var cat   = trigger.getAttribute('data-cat')   || '';
+    var title    = trigger.getAttribute('data-title')    || trigger.textContent.trim();
+    var cat      = trigger.getAttribute('data-cat')      || '';
+    var subtitle = trigger.getAttribute('data-subtitle') || '';
     p.innerHTML = '';
     if (portrait) {
       var img = document.createElement('img');
@@ -911,19 +958,19 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
       img.loading = 'lazy';
       p.appendChild(img);
     }
-    // Eyebrow + name, mirroring the snum/stitle pattern of session cards.
+    // Eyebrow + name + subtitle, mirroring entry_card_html on the server.
     var body = document.createElement('span');
     body.className = 'entity-popover-body';
-    if (cat) {
-      var eyebrow = document.createElement('span');
-      eyebrow.className = 'entity-popover-cat';
-      eyebrow.textContent = cat;
-      body.appendChild(eyebrow);
+    function addLine(cls, text) {
+      if (!text) return;
+      var el = document.createElement('span');
+      el.className = cls;
+      el.textContent = text;
+      body.appendChild(el);
     }
-    var name = document.createElement('span');
-    name.className = 'entity-popover-name';
-    name.textContent = title;
-    body.appendChild(name);
+    addLine('entity-popover-cat',      cat);
+    addLine('entity-popover-name',     title);
+    addLine('entity-popover-subtitle', subtitle);
     p.appendChild(body);
     p.style.display = 'flex';
     positionPopover(p, trigger);
@@ -1293,13 +1340,7 @@ def render_arc_page(bucket: ArcBucket, buckets: dict[int, ArcBucket],
             block.append('<ul class="card-grid card-grid-entries">')
             for pg in items:
                 href = relative_url(Path("."), pg.site_rel)
-                thumb = _thumb_html(pg)
-                block.append(
-                    f'<li><a class="thumb-card entry-card" href="{href}">'
-                    f'{thumb}'
-                    f'<div class="thumb-card-body">'
-                    f'<span class="entry-name">{html.escape(pg.post.title)}</span>'
-                    f'</div></a></li>')
+                block.append(entry_card_html(pg, href))
             block.append('</ul>')
         block.append('</section>')
         cat_blocks.append("\n".join(block))
@@ -1353,13 +1394,7 @@ def render_category_index(out_folder: str, src_folder: str, label: str,
     else:
         body.append('<ul class="card-grid card-grid-entries">')
         for pg in sorted(canonical, key=lambda p: p.post.title.lower()):
-            thumb = _thumb_html(pg)
-            body.append(
-                f'<li><a class="thumb-card entry-card" href="{pg.slug}.html">'
-                f'{thumb}'
-                f'<div class="thumb-card-body">'
-                f'<span class="entry-name">{html.escape(pg.post.title)}</span>'
-                f'</div></a></li>')
+            body.append(entry_card_html(pg, f"{pg.slug}.html"))
         body.append('</ul>')
 
     og = OgMeta(
@@ -1603,13 +1638,7 @@ def render_post_page(pg: Page, pages: list[Page],
             rel_blocks.append('<ul class="card-grid card-grid-entries card-grid-compact">')
             for it in sorted(items, key=lambda p: p.post.title.lower()):
                 href = link_for(it, pg.site_rel.parent)
-                thumb = _thumb_html(it)
-                rel_blocks.append(
-                    f'<li><a class="thumb-card entry-card" href="{href}">'
-                    f'{thumb}'
-                    f'<div class="thumb-card-body">'
-                    f'<span class="entry-name">{html.escape(it.post.title)}</span>'
-                    f'</div></a></li>')
+                rel_blocks.append(entry_card_html(it, href))
             rel_blocks.append('</ul></section>')
         if rel_blocks:
             parts.append(f'<div class="divider">{FLEURON_SVG}</div>')
@@ -2541,8 +2570,21 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.entry-card .entry-sub {
+  font-family: var(--serif-body);
+  font-size: 0.78rem; line-height: 1.3;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 .card-grid-compact .thumb-wrap { aspect-ratio: 1 / 1; }
 .card-grid-compact .entry-name { font-size: 0.85rem; }
+.card-grid-compact .entry-sub  { font-size: 0.72rem; -webkit-line-clamp: 1; line-clamp: 1; }
 .card-grid-compact .thumb-card-body { min-height: 2.8rem; }
 
 /* ---------- Per-session related cross-refs ---------------------------- */
@@ -2825,6 +2867,12 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   font-family: var(--serif-body);
   font-size: 0.98rem; line-height: 1.25;
   color: var(--ink);
+}
+.entity-popover-subtitle {
+  font-family: var(--serif-body);
+  font-size: 0.82rem; line-height: 1.3;
+  color: var(--ink-soft);
+  font-style: italic;
 }
 
 /* Hide hover popover entirely on touch devices — tap navigates instead. */
