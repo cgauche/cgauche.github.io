@@ -482,13 +482,27 @@ _POPOVER_SKIP_TAGS = {
 }
 
 
-def build_entity_popover_map(pages: list[Page]) -> dict[str, tuple[Path, str | None]]:
-    """Map of entity name → (canonical site_rel, portrait URL or None) for
-    every canonical PJ/PNJ/Lieu page. Used to wrap occurrences of the name
-    in résumé bodies with a hover-card trigger. Variants are collapsed."""
-    out: dict[str, tuple[Path, str | None]] = {}
+# Short, human-readable category label shown as the popover eyebrow —
+# mirrors the "Session NN" snum pattern of session_card_html.
+_ENTITY_POPOVER_CAT_LABEL = {"PJ": "PJ", "PNJ": "PNJ", "Lieux": "Lieu"}
+
+
+@dataclass
+class EntityPopover:
+    site_rel: Path
+    title: str           # canonical post title (used as the popover headline)
+    cat: str             # short eyebrow label ("PJ" / "PNJ" / "Lieu")
+    portrait: str | None # absolute image URL (Blogger CDN) or None
+
+
+def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
+    """Map of entity name → popover payload for canonical PJ/PNJ/Lieu pages.
+    Used to wrap occurrences of the name in résumé bodies with a hover card.
+    Variants are collapsed onto their main."""
+    out: dict[str, EntityPopover] = {}
     for pg in pages:
-        if pg.post.folder not in {"PJ", "PNJ", "Lieux"}:
+        cat = _ENTITY_POPOVER_CAT_LABEL.get(pg.post.folder)
+        if cat is None:
             continue
         if pg.variant_group and not pg.is_main:
             continue
@@ -496,15 +510,33 @@ def build_entity_popover_map(pages: list[Page]) -> dict[str, tuple[Path, str | N
         # Short names (1-3 chars) are usually too generic to match safely.
         if len(name) < 4:
             continue
-        out[name] = (pg.site_rel, pg.thumbnail)
+        out[name] = EntityPopover(site_rel=pg.site_rel, title=name,
+                                  cat=cat, portrait=pg.thumbnail)
     return out
 
 
+def _render_entity_pop_anchor(matched_text: str, rel_url: str,
+                              ent: EntityPopover) -> str:
+    """Render a single <a class="entity-pop"> trigger. Attributes carry the
+    data the popover JS uses to fill its hover card."""
+    attrs: list[tuple[str, str]] = [
+        ('class', 'entity-pop'),
+        ('href', rel_url),
+        ('data-title', ent.title),
+        ('data-cat', ent.cat),
+    ]
+    if ent.portrait:
+        attrs.append(('data-portrait', ent.portrait))
+    attr_str = ' '.join(f'{k}="{html.escape(v)}"' for k, v in attrs)
+    return f'<a {attr_str}>{html.escape(matched_text)}</a>'
+
+
 def inject_entity_popovers(html_body: str,
-                           entity_map: dict[str, tuple[Path, str | None]],
+                           entity_map: dict[str, EntityPopover],
                            current_dir: Path) -> str:
     """Wrap text-node occurrences of known entity names in
-    `<a class="entity-pop" data-portrait="…">…</a>` tags.
+    `<a class="entity-pop">…</a>` triggers carrying data-* attributes for
+    the client-side popover.
 
     Skips text already inside links, headings, code blocks etc. Matching is
     case-sensitive and uses word boundaries — narrative writing capitalises
@@ -532,14 +564,9 @@ def inject_entity_popovers(html_body: str,
         idx = 0
         for m in name_re.finditer(original):
             parts.append(html.escape(original[idx:m.start()]))
-            name = m.group()
-            site_rel, portrait = entity_map[name]
-            rel = relative_url(current_dir, site_rel)
-            data = f' data-portrait="{html.escape(portrait)}"' if portrait else ''
-            parts.append(
-                f'<a class="entity-pop" href="{html.escape(rel)}"{data}>'
-                f'{html.escape(name)}</a>'
-            )
+            ent = entity_map[m.group()]
+            rel = relative_url(current_dir, ent.site_rel)
+            parts.append(_render_entity_pop_anchor(m.group(), rel, ent))
             idx = m.end()
         parts.append(html.escape(original[idx:]))
 
@@ -874,7 +901,8 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
   function fillPopover(trigger) {
     var p = ensurePopover();
     var portrait = trigger.getAttribute('data-portrait');
-    var name = trigger.textContent.trim();
+    var title = trigger.getAttribute('data-title') || trigger.textContent.trim();
+    var cat   = trigger.getAttribute('data-cat')   || '';
     p.innerHTML = '';
     if (portrait) {
       var img = document.createElement('img');
@@ -883,10 +911,20 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
       img.loading = 'lazy';
       p.appendChild(img);
     }
-    var label = document.createElement('span');
-    label.className = 'entity-popover-name';
-    label.textContent = name;
-    p.appendChild(label);
+    // Eyebrow + name, mirroring the snum/stitle pattern of session cards.
+    var body = document.createElement('span');
+    body.className = 'entity-popover-body';
+    if (cat) {
+      var eyebrow = document.createElement('span');
+      eyebrow.className = 'entity-popover-cat';
+      eyebrow.textContent = cat;
+      body.appendChild(eyebrow);
+    }
+    var name = document.createElement('span');
+    name.className = 'entity-popover-name';
+    name.textContent = title;
+    body.appendChild(name);
+    p.appendChild(body);
     p.style.display = 'flex';
     positionPopover(p, trigger);
   }
@@ -1373,7 +1411,7 @@ def render_post_page(pg: Page, pages: list[Page],
                      pages_by_session: dict[int, dict[str, list[Page]]],
                      siblings_idx: dict[tuple[str, str], list[Page]],
                      session_by_num_map: dict[int, Page],
-                     entity_popover_map: dict[str, tuple[Path, str | None]]) -> str:
+                     entity_popover_map: dict[str, EntityPopover]) -> str:
     # Rewrite internal links in the HTML body
     body_html = rewrite_html_links(pg.post.html, pg, url_map, label_map)
     # Wrap PJ/PNJ/Lieu names in popover triggers — sessions only, where the
@@ -2769,14 +2807,23 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   to   { opacity: 1; transform: translateY(0); }
 }
 .entity-popover img {
-  width: 56px; height: 56px;
+  width: 60px; height: 60px;
   object-fit: cover;
   border: 1px solid var(--rule-soft);
   flex-shrink: 0;
 }
-.entity-popover-name {
+.entity-popover-body {
+  display: flex; flex-direction: column; gap: 0.15rem;
+  min-width: 0;
+}
+.entity-popover-cat {
   font-family: var(--serif-display);
-  font-size: 0.95rem; line-height: 1.2;
+  font-size: 0.7rem; letter-spacing: 0.18em;
+  text-transform: uppercase; color: var(--gold);
+}
+.entity-popover-name {
+  font-family: var(--serif-body);
+  font-size: 0.98rem; line-height: 1.25;
   color: var(--ink);
 }
 
