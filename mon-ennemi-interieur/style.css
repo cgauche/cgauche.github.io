@@ -486,6 +486,24 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 }
 .hero-flourish { margin-top: 2.2rem; }
 
+/* Preface block on the home page — the campaign foreword. */
+.preface { max-width: 38em; margin: 0 auto 2.5rem;
+           font-size: 1.05rem; line-height: 1.75; color: var(--ink-soft); }
+.preface-body > h1 { display: none; }  /* hide blogger's inner Préface heading */
+.preface-body p { margin: 0.9rem 0; text-align: justify; }
+.preface-body a {
+  display: inline-block; margin: 0.15rem 0;
+  font-family: var(--serif-display);
+  font-size: 0.82rem; letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--oxblood);
+  border-bottom: 1px solid rgba(122,31,31,0.25);
+}
+.preface-body a:hover { color: var(--oxblood-hi);
+                          border-bottom-color: currentColor;
+                          text-decoration: none; }
+.preface-body em { color: var(--muted); font-size: 0.92em; }
+
 .section-title {
   font-family: var(--serif-display);
   font-size: 1.05rem; letter-spacing: 0.22em;
