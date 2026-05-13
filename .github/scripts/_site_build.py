@@ -547,23 +547,102 @@ class EntityPopover:
 
 
 def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
-    """Map of entity name → popover payload for canonical PJ/PNJ/Lieu pages.
-    Used to wrap occurrences of the name in résumé bodies with a hover card.
-    Variants are collapsed onto their main."""
+    """Global map of canonical-name → popover payload for PJ/PNJ/Lieu pages.
+    Used to wrap any occurrence of the name in résumé bodies. Variants are
+    collapsed onto their main. Per-session aliases are layered on top via
+    `session_alias_popovers`."""
     out: dict[str, EntityPopover] = {}
     for pg in pages:
-        cat = _ENTITY_POPOVER_CAT_LABEL.get(pg.post.folder)
-        if cat is None:
-            continue
         if pg.variant_group and not pg.is_main:
             continue
-        name = pg.post.title.strip()
         # Short names (1-3 chars) are usually too generic to match safely.
-        if len(name) < 4:
+        if len(pg.post.title.strip()) < 4:
             continue
-        out[name] = EntityPopover(site_rel=pg.site_rel, title=name,
-                                  cat=cat, portrait=pg.thumbnail,
-                                  subtitle=pg.subtitle)
+        payload = _entity_to_popover(pg)
+        if payload is not None:
+            out[payload.title] = payload
+    return out
+
+
+def _entity_to_popover(pg: Page) -> EntityPopover | None:
+    """Construct the popover payload for a single entity page, or None if
+    the page isn't a popover-able entity."""
+    cat = _ENTITY_POPOVER_CAT_LABEL.get(pg.post.folder)
+    if cat is None:
+        return None
+    return EntityPopover(site_rel=pg.site_rel, title=pg.post.title.strip(),
+                         cat=cat, portrait=pg.thumbnail,
+                         subtitle=pg.subtitle)
+
+
+def _entity_aliases(title: str) -> list[str]:
+    """Short forms of `title` that might appear in narrative — first word
+    (e.g. 'Heinrich' for 'Heinrich Todbringer') and the comma-tail (e.g.
+    'Ar-Ulric' for 'Emil Valgeir, Ar-Ulric'). Also yields the dash/space
+    variant of any multi-word alias so 'Ar Ulric' matches even when the
+    title uses the hyphenated form."""
+    aliases: set[str] = set()
+    first = title.split(maxsplit=1)[0].rstrip(',;.:')
+    if len(first) >= 4 and first != title:
+        aliases.add(first)
+    if ',' in title:
+        tail = title.split(',', 1)[1].strip()
+        if len(tail) >= 4:
+            aliases.add(tail)
+    # Mirror dash↔space so narrative spelling differences don't lose matches.
+    for a in list(aliases):
+        if '-' in a:
+            aliases.add(a.replace('-', ' '))
+        if ' ' in a:
+            aliases.add(a.replace(' ', '-'))
+    return [a for a in aliases if a]
+
+
+def session_alias_popovers(session_num: int,
+                           global_map: dict[str, EntityPopover],
+                           pages_by_session: dict[int, dict[str, list[Page]]],
+                           ) -> dict[str, EntityPopover]:
+    """Per-session alias map. Returns alias → EntityPopover for short
+    name forms that uniquely identify an entity tagged with this session.
+
+    Augments — never overrides — the global popover map: aliases that
+    already collide with a canonical title there are skipped (the
+    canonical name keeps its global meaning everywhere)."""
+    if session_num not in pages_by_session:
+        return {}
+
+    # Canonical entities tagged with this session — variants collapsed,
+    # deduped by site_rel (Page is mutable, can't go in a set).
+    canonical: dict[Path, Page] = {}
+    for folder, entities in pages_by_session[session_num].items():
+        if folder not in ENTITY_FOLDERS:
+            continue
+        for ent in entities:
+            target = ent
+            if ent.variant_group and not ent.is_main:
+                main = _MAIN_FOR_GROUP.get((ent.post.folder, ent.variant_group))
+                if main is None:
+                    continue
+                target = main
+            canonical[target.site_rel] = target
+
+    # For each alias, list which canonical entities lay claim to it.
+    by_alias: dict[str, list[Path]] = {}
+    for srel, ent in canonical.items():
+        for alias in _entity_aliases(ent.post.title.strip()):
+            if alias in global_map:
+                continue   # don't shadow a global canonical title
+            claimants = by_alias.setdefault(alias, [])
+            if srel not in claimants:
+                claimants.append(srel)
+
+    out: dict[str, EntityPopover] = {}
+    for alias, claimants in by_alias.items():
+        if len(claimants) != 1:
+            continue   # ambiguous within this session
+        payload = _entity_to_popover(canonical[claimants[0]])
+        if payload is not None:
+            out[alias] = payload
     return out
 
 
@@ -1458,9 +1537,17 @@ def render_post_page(pg: Page, pages: list[Page],
     # Rewrite internal links in the HTML body
     body_html = rewrite_html_links(pg.post.html, pg, url_map, label_map)
     # Wrap PJ/PNJ/Lieu names in popover triggers — sessions only, where the
-    # narrative is dense enough that hover previews help the reader.
+    # narrative is dense enough that hover previews help the reader. Adds
+    # short-form aliases (first name / 'Ar-Ulric' style title) for entities
+    # tagged with this session, but only when the alias is unambiguous in
+    # the session's apparition list.
     if pg.session_num is not None:
-        body_html = inject_entity_popovers(body_html, entity_popover_map,
+        merged_pop_map = {
+            **entity_popover_map,
+            **session_alias_popovers(pg.session_num, entity_popover_map,
+                                     pages_by_session),
+        }
+        body_html = inject_entity_popovers(body_html, merged_pop_map,
                                            pg.site_rel.parent)
 
     parts: list[str] = []
