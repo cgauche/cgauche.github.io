@@ -597,16 +597,19 @@ def _mirror_dash_space(aliases: set[str]) -> None:
 
 def _entity_aliases(title: str) -> list[str]:
     """Short forms of `title` that might appear in narrative.
-    Yields the full title (so a variant title like 'Mark, prêtre d'Ulric'
-    matches verbatim) plus the first word ('Heinrich' for 'Heinrich
-    Todbringer'). Mirrors dashes and spaces in the result."""
+    Yields the full title plus every capitalised token of 4+ characters
+    (so 'Comtesse Emmanuelle Von Liebwitz' offers 'Comtesse', 'Emmanuelle'
+    and 'Liebwitz' as candidates — 'Von' is dropped by length). Articles
+    like 'de', 'du', 'la' fall below the length floor. The per-session
+    ambiguity filter still decides which candidates actually become links.
+    Dash↔space mirroring is applied at the end."""
     aliases: set[str] = set()
     title = title.strip()
     if len(title) >= 4:
         aliases.add(title)
-    first = title.split(maxsplit=1)[0].rstrip(',;.:')
-    if len(first) >= 4 and first != title:
-        aliases.add(first)
+    for token in re.split(r'[\s,;.:()"]+', title):
+        if len(token) >= 4 and token[:1].isupper() and token != title:
+            aliases.add(token)
     _mirror_dash_space(aliases)
     return [a for a in aliases if a]
 
