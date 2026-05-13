@@ -249,8 +249,9 @@
   function fillPopover(trigger) {
     var p = ensurePopover();
     var portrait = trigger.getAttribute('data-portrait');
-    var title = trigger.getAttribute('data-title') || trigger.textContent.trim();
-    var cat   = trigger.getAttribute('data-cat')   || '';
+    var title    = trigger.getAttribute('data-title')    || trigger.textContent.trim();
+    var cat      = trigger.getAttribute('data-cat')      || '';
+    var subtitle = trigger.getAttribute('data-subtitle') || '';
     p.innerHTML = '';
     if (portrait) {
       var img = document.createElement('img');
@@ -259,19 +260,19 @@
       img.loading = 'lazy';
       p.appendChild(img);
     }
-    // Eyebrow + name, mirroring the snum/stitle pattern of session cards.
+    // Eyebrow + name + subtitle, mirroring entry_card_html on the server.
     var body = document.createElement('span');
     body.className = 'entity-popover-body';
-    if (cat) {
-      var eyebrow = document.createElement('span');
-      eyebrow.className = 'entity-popover-cat';
-      eyebrow.textContent = cat;
-      body.appendChild(eyebrow);
+    function addLine(cls, text) {
+      if (!text) return;
+      var el = document.createElement('span');
+      el.className = cls;
+      el.textContent = text;
+      body.appendChild(el);
     }
-    var name = document.createElement('span');
-    name.className = 'entity-popover-name';
-    name.textContent = title;
-    body.appendChild(name);
+    addLine('entity-popover-cat',      cat);
+    addLine('entity-popover-name',     title);
+    addLine('entity-popover-subtitle', subtitle);
     p.appendChild(body);
     p.style.display = 'flex';
     positionPopover(p, trigger);

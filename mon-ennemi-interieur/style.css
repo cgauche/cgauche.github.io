@@ -751,8 +751,21 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+.entry-card .entry-sub {
+  font-family: var(--serif-body);
+  font-size: 0.78rem; line-height: 1.3;
+  color: var(--muted);
+  font-style: italic;
+  margin-top: 0.1rem;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 .card-grid-compact .thumb-wrap { aspect-ratio: 1 / 1; }
 .card-grid-compact .entry-name { font-size: 0.85rem; }
+.card-grid-compact .entry-sub  { font-size: 0.72rem; -webkit-line-clamp: 1; line-clamp: 1; }
 .card-grid-compact .thumb-card-body { min-height: 2.8rem; }
 
 /* ---------- Per-session related cross-refs ---------------------------- */
@@ -1035,6 +1048,12 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   font-family: var(--serif-body);
   font-size: 0.98rem; line-height: 1.25;
   color: var(--ink);
+}
+.entity-popover-subtitle {
+  font-family: var(--serif-body);
+  font-size: 0.82rem; line-height: 1.3;
+  color: var(--ink-soft);
+  font-style: italic;
 }
 
 /* Hide hover popover entirely on touch devices — tap navigates instead. */
