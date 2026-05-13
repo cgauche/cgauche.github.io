@@ -5,7 +5,7 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3MAniu7PZuNWKo-5XslIYyps7lsWvU4TtqJmNoFUsQlf_x9X0BMpEnqlDFctsToZsFBccUS5sZq5hKJfEldxShnQds7hQNttu-FicJEgM7GXjgZshDQm_DeXmV7rTkziwgKVY9UqSdUUs1p_OPq4QAUUxKJqZH5bGPggMBrZrbTQ_6lMBQQRfDZ0Cljo/s600/yellow-fang-cultist.webp)
 
 Nous sommes allés voir le capitaine pour lui relater notre mésaventure avec
-Gotthard Walenstein, tout en évitant le sujet tant controversé des skavens, et
+Gotthard Wallenstein, tout en évitant le sujet tant controversé des skavens, et
 il nous répondit qu’il enquêterait à ce sujet et nous recontacterait tantôt.
 
 Pendant ce court laps de temps, et tout en continuant la confection de la

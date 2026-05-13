@@ -33,7 +33,7 @@ Ce labyrinthe était d’ailleurs le théâtre de nombreuses réunions discrète
 
 Il y avait visiblement des clans, et des parias dans cette fête. C’était le cas de la délégation du Reikland ou des prêtres Sigmarites. Il y avait une vive tension entre eux et les prêtres d’Ulric, venus avec l’**Ar Ulric**.
 
-Cette réception était l’occasion de rencontrer du monde pour nous. Nous pûmes nous entretenir avec le très influent **Chevalier Éternel**, ou les archimages **Janna Eberhauer** et **Albrecht Helscher**. Eux aussi étaient contre la taxe et promettaient de nous suivre si une contre loi était lancée.
+Cette réception était l’occasion de rencontrer du monde pour nous. Nous pûmes nous entretenir avec le très influent **Chevalier Éternel**, ou les archimages **Janna Eberhauer** et **Albrecht Helseher**. Eux aussi étaient contre la taxe et promettaient de nous suivre si une contre loi était lancée.
 
 Tout le monde n’était pas aussi distingué que ce qu’il devrait en pareille situation. Le médecin du Graf d’origine tiléen, **Luigi Pavarotti**, arriva avec une femme à chaque bras et complètement saoul, il fut mis dehors par le chambellan. Quant au responsable de la kommission du Commerce, **Gotthard Wallenstein**, il était particulièrement goujat et indécent avec la matriarche du temple de Shallya **Isolde**. Mais interpellé par les nains en colère, il arrêta de la tourmenter et leur répondit que la taxe était d’une grande stupidité, et que lui ne l’aurait pas voté. Il semblait aussi avoir un œil insistant et intéressé envers notre propre prêtresse…
 

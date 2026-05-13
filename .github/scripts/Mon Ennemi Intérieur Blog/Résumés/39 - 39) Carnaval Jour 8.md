@@ -14,10 +14,10 @@ D’une façon autoritaire, la prêtresse ordonna de fermer les portes. Mais la 
 
 Pour nous dissuader de le suivre, il incanta un puissant sort qui fit s’effondrer le pont. N’écoutant que son courage, Elvira courut de toutes ses forces sur le pont qui s’effritait pour atteindre le mage juste avant que qu’il ne s’écroule. Lorsqu’elle arriva à son niveau, il se tourna vers elle et commença à lancer un nouveau sort. Par réflexe, elle prit son fouet et l’attaqua. Il s’accrocha à la jambe du seigneur de loi au moment où celui-ci lança son sort de projection.
 
-Alors qu’elle fut violemment repoussée par le sort, elle tint fermement prise sur le fouet, ce qui le fit s’envoler avec elle. Par miracle, elle réussit à s’accrocher à un rebord du pont, alors que le mage tomba dans l’abime. S’en était fini de Wasmaier et de ses manigances.
+Alors qu’elle fut violemment repoussée par le sort, elle tint fermement prise sur le fouet, ce qui le fit s’envoler avec elle. Par miracle, elle réussit à s’accrocher à un rebord du pont, alors que le mage tomba dans l’abime. S’en était fini de Wasmeier et de ses manigances.
 
 ---
-Il fallut un long moment à Elvira pour revenir en ville. Après l’adrénaline retombée, elle resta longtemps allongée sur le bord de l’aqueduc, souffle court, à reprendre ses esprits et remercier Rhya de l’avoir épargnée. Puis il lui fallut faire le grand tour puisque le pont était détruit, en allant à une autre porte. Phineas et Anselm, restés dans la demeure de Wasmaier, trouvèrent des documents contenant un message secret ainsi que des caisses d’or qu’il n’avait pas eu le temps d’emmener avec lui.
+Il fallut un long moment à Elvira pour revenir en ville. Après l’adrénaline retombée, elle resta longtemps allongée sur le bord de l’aqueduc, souffle court, à reprendre ses esprits et remercier Rhya de l’avoir épargnée. Puis il lui fallut faire le grand tour puisque le pont était détruit, en allant à une autre porte. Phineas et Anselm, restés dans la demeure de Wasmeier, trouvèrent des documents contenant un message secret ainsi que des caisses d’or qu’il n’avait pas eu le temps d’emmener avec lui.
 
 Nous fument convoqué dans la journée par le capitaine Schutzmann afin d’être entendus et remerciés. C'était bien la première fois ! Nous étions les héros de la ville, et nous resterions les bienvenus, logés et reconnus comme tels. Chacun allait pouvoir souffler un peu et se consacrer à ses projets personnels.
 

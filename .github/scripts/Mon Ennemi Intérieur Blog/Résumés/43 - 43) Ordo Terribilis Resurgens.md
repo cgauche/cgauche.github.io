@@ -10,7 +10,7 @@ protéger cette prêtresse, alors tu es contre l’Homme. Ne reviens plus jamais
 dans ce quartier*. Il s’exécuta sans violence et alla dans son temple pour
 demander à être muté.
 
-De son côté, Yurikida travaillait sans relâche afin de rembourser Bruno Caul,
+De son côté, Yuridika travaillait sans relâche afin de rembourser Bruno Caul,
 avec qui elle avait contracté une dette. Elle lui avait acheté dernièrement de
 quoi fabriquer du délice de Ranald, la drogue que consommait le chancelier.
 Mais cela était aussi par but expérimental, bien qu’elle se soit cachée de nous

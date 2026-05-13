@@ -1,4 +1,4 @@
-# Annexes — Index
+# Univers — Index
 
 - [Foi et Religion](<Foi et Religion.md>)
 - [Fonctionnement de la Magie](<Fonctionnement de la Magie.md>)

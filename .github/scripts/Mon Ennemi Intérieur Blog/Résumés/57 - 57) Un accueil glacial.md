@@ -41,7 +41,7 @@ colère envers la petite halfeline qui avait osé la servir si maladroitement,
 demandant jusqu’à sa tête. Elvira fustigea son comportement devant tout le
 monde, et couverte de honte, la noble s’en alla sans un mot.
 
-Le Graf Holzkrug n’était pas en reste pour plomber l’ambiance.
+Le graf Holzkrug n’était pas en reste pour plomber l’ambiance.
 S’échauffant d’abord avec Veiran en indiquant d’une voix si forte qu’elle
 provoqua un blanc que la famille Jundfreud – la famille chassée d’Ubersreik par
 l’Empereur peu avant notre arrivée là-bas – n’aurait jamais dû être destituée,

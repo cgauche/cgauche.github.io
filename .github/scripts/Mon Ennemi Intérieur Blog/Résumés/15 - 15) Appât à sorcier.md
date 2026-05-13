@@ -9,9 +9,9 @@ notamment de leur fils adoptif le capricieux Andreas. Il ne pouvait pas sortir t
 
 Pour les autres, nous nous retrouvions régulièrement dans l’auberge étape où
 travaillait Elvira. Filianore pour sa part trouvait une maitre antiquaire appelée
-**Cordellia Wesselingh** pour travailler en tant qu’assistante pour elle.
+**Cordelia Wesselingh** pour travailler en tant qu’assistante pour elle.
 Elle devait avoir une couverture maintenant qu’elle était espionne. Comme elle était
-anciennement apothicaire, elle se débrouillant très bien et Cordellia était contente de l’avoir à ses côtés.
+anciennement apothicaire, elle se débrouillant très bien et Cordelia était contente de l’avoir à ses côtés.
 Cependant, elle nous informa un soir qu’elle lui avait fait part d’inquiétudes
 concernant des inconnus qui l’épieraient, et nous demanda notre aide.
 
@@ -28,7 +28,7 @@ ou sur le toit, et attendions. Quelques minutes après le passage de l’apothic
 deux personnes passèrent. Arrêtées par nos soins, elles se rendirent sans
 combattre, et nous expliquèrent être des chasseurs de prime à la poursuite
 d’un dangereux répurgateur, **Matthias Hubkind**, affiche à l'appui, qui
-d'après leurs indices en avait après Cordellia. Nous comprîmes alors que
+d'après leurs indices en avait après Cordelia. Nous comprîmes alors que
 débarrassé des observateurs, il risquait de l’attaquer. Elle était en danger !
 
 Nous les laissions se quereller et accourûmes avec comme seules boussoles notre intuition et notre bon sens. Notre piste nous conduisit jusqu’au bord du Teufel, nous arrivâmes devant une auberge miteuse appelée la Pension Rugger.

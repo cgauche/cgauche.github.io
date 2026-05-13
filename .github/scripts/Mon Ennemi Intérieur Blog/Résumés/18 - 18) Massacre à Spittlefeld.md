@@ -25,7 +25,7 @@ d’aération de la pièce. Il la courra après et s’engouffra dans le réseau
 ventilation du bâtiment, il y vit un enfant et tenta de l’atteindre tandis que
 nous lui coupions la route à la sortie dans le couloir de l’immeuble. Acculé,
 l’enfant cria et pleura, ce qui fit instantanément sortir de l’un des
-appartements de l’étage **Annika Passerone**, une femme très costaude qui
+appartements de l’étage **Annika Passerine**, une femme très costaude qui
 gérait un orphelinat. Nous expliquâmes vite la situation avant de prendre des
 coups de sa part, et elle avoua en se calmant que le petit Trinité avait tendance à emprunter des
 choses aux voisins. Elle pourrait regarder s’il n’avait pas emprunté un
@@ -38,7 +38,7 @@ Allant au fil des étages et frappant aux portes, nous découvrîmes
 nous accusant d’avoir cherché à faire du mal à son frère. Il se calma légèrement en voyant notre compère nain Mardrin. Un peu plus loin,
 nous trouvions un appartement vide, avec à l’intérieur, cloitré dans un coin
 de la pièce, un autre nain à l’agonie, que nous réussirent à soigner. Il s’agissait
-de **Stulem**, le frère du nain énervé, qui l’était beaucoup moins une fois
+de **Srulem**, le frère du nain énervé, qui l’était beaucoup moins une fois
 son frère retrouvé.
 
 Nous pûmes récupérer des médicaments auprès des frères nains, qui avait des tas de

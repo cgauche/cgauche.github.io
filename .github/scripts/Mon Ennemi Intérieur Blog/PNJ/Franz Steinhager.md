@@ -1,4 +1,4 @@
-# Franz Steinhager
+# Franz Steinhäger
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/10/franz-steinhager.html](https://monennemiinterieur.blogspot.com/2020/10/franz-steinhager.html)*
 
@@ -6,4 +6,4 @@
 
 **Prince marchand**
 
-Franz est un riche marchand de Bogenhafen qui a fait fortune grâce à la vente d'alcool principalement.
+Franz est un riche marchand de Bögenhafen qui a fait fortune grâce à la vente d'alcool principalement.

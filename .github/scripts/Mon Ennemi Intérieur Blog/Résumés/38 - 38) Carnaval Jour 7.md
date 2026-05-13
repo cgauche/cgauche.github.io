@@ -13,11 +13,11 @@ Nous nous reposâmes toute la journée en vue d’une nuit qui s’annonçait co
 
 La chef mercenaire portait les lettres de correspondance entre Emmanuelle et l’Ar Ulric, ainsi d’une épée qu’Elvira s’appropria, lui donnant le nom original de… Rhya !
 
-Nous pûmes libérer la jeune **Rhéa**, qui se mit à courir jusque chez Reinner. Mark n’avait plus la force de marcher après son combat et Dietrich resta à ses côtés pour panser ses blessures. Elle courrait très vite et il était difficile de la suivre, alors que commençaient dans le grand parc les illuminations clôturant le carnaval.
+Nous pûmes libérer la jeune **Rhéa**, qui se mit à courir jusque chez Reiner. Mark n’avait plus la force de marcher après son combat et Dietrich resta à ses côtés pour panser ses blessures. Elle courrait très vite et il était difficile de la suivre, alors que commençaient dans le grand parc les illuminations clôturant le carnaval.
 
 La fille était bien l’autrice du message retrouvé sur le skaven, ce qui signifiait également que les skavens obéissaient à quelqu’un en surface, et que les mercenaires leur avait servi d’intermédiaire avec la Main Pourpre.
 
-Lorsque Reinner retrouva sa nièce, il fut d’abord soulagé, il nous demanda ensuite de le suivre avec colère. Il hurla que c’était ce fourbe de **Joachim** et qu’il allait le dénoncer immédiatement au Graf. Toutes les portes du palais s’ouvraient devant lui, jusqu’à arriver dans la chambre du Graf où… un autre Graf était en train de l’étrangler.
+Lorsque Reiner retrouva sa nièce, il fut d’abord soulagé, il nous demanda ensuite de le suivre avec colère. Il hurla que c’était ce fourbe de **Joachim** et qu’il allait le dénoncer immédiatement au Graf. Toutes les portes du palais s’ouvraient devant lui, jusqu’à arriver dans la chambre du Graf où… un autre Graf était en train de l’étrangler.
 
 Le faux Graf était en fait un démon métamorphe, plus particulièrement celui qui s’était fait passer pour un enfant à Bogenhafen. Il se transforma en oiseau afin de quitter le château par la fenêtre, esquivant un coup de Pathsokar, tandis que nous luttions pour maintenir le vrai Graf en vie. Après l’avoir sauvé, avec l’aide du docteur Pavarotti, une réunion exceptionnelle fut ordonnée.
 

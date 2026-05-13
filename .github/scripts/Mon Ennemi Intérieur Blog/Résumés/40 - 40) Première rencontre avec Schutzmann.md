@@ -42,7 +42,7 @@ lors d’un de ces événements qu’il fut pris à partie par des truands et qu
 
 Anselm et Yuridika passèrent leur temps à étudier et obtinrent avec réussite
 leurs examens de magie, ils étaient désormais mages assermentés.
-Yurikida avait contractée une dette auprès d’un de ses fournisseurs et elle
+Yuridika avait contractée une dette auprès d’un de ses fournisseurs et elle
 dût, en plus de ses études, travailler pour lui, ce qui lui empêchait de jouir de temps libre pour nous voir.
 
 Elvira quant à elle n’avait qu’une idée en tête, mettre en place le culte de Rhya à

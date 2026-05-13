@@ -5,7 +5,7 @@
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL66s5O_-d8o4SZE6k4Mzastn_J5dzuioevI2OXOHH_MVp_2RiRTCtPIWka9H64tQPgBAdL89LGIVCW68lVD31UOkRz5ER2W5oRo02ZxEDFlDYqr_WbKwAr6d4v3RKUgLwhdJ2nbT92bCHcbaqdz3Lz8wTDaOuyDB6eKVdqbnETz-xEKuAfr7AJTzH2ac/s600/nuln1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL66s5O_-d8o4SZE6k4Mzastn_J5dzuioevI2OXOHH_MVp_2RiRTCtPIWka9H64tQPgBAdL89LGIVCW68lVD31UOkRz5ER2W5oRo02ZxEDFlDYqr_WbKwAr6d4v3RKUgLwhdJ2nbT92bCHcbaqdz3Lz8wTDaOuyDB6eKVdqbnETz-xEKuAfr7AJTzH2ac/s3117/nuln1.png)
 
 Pour fêter la victoire, la Gravin a été invité par sa
-tante, la grande comtesse de Nuln [Emanuelle von Liebwitz](https://monennemiinterieur.blogspot.com/search/Comtesse%20Emmanuelle), pour aller voir un
+tante, la grande comtesse de Nuln [Emmanuelle von Liebwitz](https://monennemiinterieur.blogspot.com/search/Comtesse%20Emmanuelle), pour aller voir un
 spectacle à l’opéra. Nous allions changer d’air, et enfin passer un peu de bon
 temps après une semaine éprouvante.
 

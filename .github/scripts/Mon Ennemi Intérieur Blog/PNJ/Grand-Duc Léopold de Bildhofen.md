@@ -1,4 +1,4 @@
-# Grand-Duc Léopold de Bildhofen
+# Grand-Duc Léopold von Bildhofen
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/03/grand-duc-leopold-de-bildhofen.html](https://monennemiinterieur.blogspot.com/2020/03/grand-duc-leopold-de-bildhofen.html)*
 

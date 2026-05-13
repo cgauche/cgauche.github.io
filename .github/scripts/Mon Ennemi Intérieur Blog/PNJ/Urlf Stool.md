@@ -1,4 +1,4 @@
-# Urlf Stool
+# Urif Stool
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/10/urlf-stool.html](https://monennemiinterieur.blogspot.com/2020/10/urlf-stool.html)*
 

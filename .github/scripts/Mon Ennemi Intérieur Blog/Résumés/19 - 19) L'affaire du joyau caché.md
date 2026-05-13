@@ -17,11 +17,11 @@ sbires.
 Il nous invita à le suivre dans une auberge à quelques heures de la ville.
 Sur le trajet, nous tombions sur un corps sans vie auquel était accroché, planté par une dague, une affiche de recherche pour la brigande appelée Flèche Noire. Quel horrible panneau d’affichage ! L’auberge s’appelait les Piques Croisées, et c’était le point de passage de
 certaines lignes de carrosse, se dit Elvira, alors que nous rentions. Pathsokar
-demanda au gérant où il pouvait rencontrer **Wolfgang Kellerman**, et
+demanda au gérant où il pouvait rencontrer **Wolfgang Kellermann**, et
 celui-ci nous amena dans une salle à l’écart. Un autre homme était à
 l’intérieur et nous surveillait.
 
-Il s’installa et nous expliqua qu’il était Kellerman, et qu’il nécessitait
+Il s’installa et nous expliqua qu’il était Kellermann, et qu’il nécessitait
 notre aide pour attraper la hors-la-loi connue sous le nom de Flèche Noire, de
 son vrai nom A**nnalisa Kessler**. Son père avait de son temps fait un
 larcin mémorable, volant un bijou d’une grande valeur, la **Flamme Bleue**,
@@ -37,7 +37,7 @@ Après l’entrevue, des hommes lourdement armés s’interposèrent et nous
 demandèrent de les suivre. Ils nous amenèrent dans une des chambres où se
 trouvait un élégant personnage arborant une magnifique moustache. N’y allant
 pas par quatre chemins, il se présenta en tant que comte
-**Amadeus Von Drakensberg**, précisant qu’il était là incognito. Il ajouta qu’il
+**Amadeus von Drakensberg**, précisant qu’il était là incognito. Il ajouta qu’il
 nous pensait apte à réaliser une mission pour lui, capturer la Flèche Noire.
 Il nous proposa une prime généreuse en échange de sa tête, livrée sur un
 plateau d’argent. D’ailleurs, il semblait savoir soigner ses effets, car il claqua des doigts et l’un de ses gardes sortit un plateau
@@ -60,7 +60,7 @@ ne craignait rien était pétrifié à l'idée de le traverser, et il nous fallu
 réussir à le convaincre de passer.
 
 Au loin nous vîmes le château, il était gardé bien sûr, mais le vieux
-Kellerman nous avait parlé d’un passage secret, que seul lui connaissait, afin
+Kellermann nous avait parlé d’un passage secret, que seul lui connaissait, afin
 d’entrer discrètement. Nous réussîmes à le trouver, nous nous retrouvâmes bientôt à l’intérieur, dans
 la pièce des geôles. Elle était vide, à l’exception d’un happeur carnivore,
 une bête monstrueuse mais fort heureusement enfermée.

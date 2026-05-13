@@ -20,7 +20,7 @@ Après une grosse tempête à la mi-journée et une nouvelle journée d’ascens
 
 Il fallut bientôt escalader pour passer les obstacles, nous étions proche du sommet à présent. Mais Elvira et Anselm tombèrent malades, car à vouloir monter trop vite on en oublie la prudence. Ils attrapèrent le mal des hauteurs, mais que Rhya en fût témoin, ils guérirent en un jour à peine.
 
-Ce fut l’occasion de faire une pause et de contempler notre parcours jusqu’ici. Avec le beau temps qui revenait, la vallée entière du Middleheim se dévoilait à nous en un sublime panorama.
+Ce fut l’occasion de faire une pause et de contempler notre parcours jusqu’ici. Avec le beau temps qui revenait, la vallée entière du Middenheim se dévoilait à nous en un sublime panorama.
 
 Au cours du cinquième jour, nous rencontrâmes, à notre plus grande surprise, une personne non hostile, sans aller jusqu’à dire qu’elle était amicale. Il s’agissait de Jarrick Valgeir, l’ancien Ar Ulric qui était maintenant ermite et reclus ici. Il nous toisa avec ressentiment, mais nous lui rappelions que nous n’avions jamais été ses ennemis, et il se calma et nous invita même dans sa chaumière.
 

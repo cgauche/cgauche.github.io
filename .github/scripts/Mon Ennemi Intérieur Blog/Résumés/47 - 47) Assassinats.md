@@ -7,7 +7,7 @@
 Le jour se levait doucement sur Middenheim alors que nous retrouvions l’air
 froid et vivifiant de l’extérieur. Nous avions une fois de plus passés une
 grande partie de la nuit dans les souterrains de la cité du Loup Blanc. Si
-nous allions tous voir le capitaine Schulzmann, portant comme un fardeau
+nous allions tous voir le capitaine Schultzmann, portant comme un fardeau
 l’énorme coffre des skavens, Mark quant à lui rentrait à l’auberge car il
 n’était absolument pas présentable, toujours couvert de déjections.
 
@@ -27,7 +27,7 @@ Il nous demanda de garder secret les agissements des skavens, et même leur exis
 d’emmener le corps que nous avions rapatriés du sous sol chez elle pour le
 conserver à l’abri. Nous prîmes congé pour nous soigner et dormir un peu, et
 en milieu d’après-midi nous nous retrouvâmes de nouveau au bureau de
-Schulzmann.
+Schultzmann.
 
 Anselm était revenu avec tournant à ses côtés un être translucide, ressemblant
 à une légère brume magique en forme de gracieux oiseau. Autour de lui ondulait
