@@ -114,10 +114,13 @@
 
     var qN = norm(q);
     loadIndex(base).then(function () {
+      // On the full results page we keep only TITLE matches (score >= 60).
+      // Body-only matches (score 20) flood the page with noise — e.g. every
+      // session that mentions Elvira would appear for the query "Elv".
       var matches = [];
       for (var i = 0; i < index.length; i++) {
         var sc = score(index[i], qN);
-        if (sc > 0) matches.push({ entry: index[i], score: sc });
+        if (sc >= 60) matches.push({ entry: index[i], score: sc });
       }
       matches.sort(function (a, b) {
         if (b.score !== a.score) return b.score - a.score;
