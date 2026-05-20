@@ -73,7 +73,7 @@ semblait l’œuvre de la mafia locale.
 La cloche sonna la fin du premier acte sous des applaudissements nourris.
 Skippy et Lirrian, qui avaient trouvé porte close en arrivant après le début de la pièce purent enfin rentrer. Plusieurs personnes défilèrent à l’étage de la comtesse pour lui rendre hommage
 et lui offrir des présents. Parmi eux, un immense dramaturge vint les voir et
-se présenter en tant que [Detlef Sierek](<../PNJ/Detlef Sierek.md>).
+se présenter en tant que [Detlef Sierck](<../PNJ/Detlef Sierek.md>).
 Mais aussitôt après, un homme masqué et
 terrifiant se lança dans un spectacle improvisé avec lui, une caricature de
 l’œuvre originale de Detlef. A la suite d’un acte volontaire mais discret de

@@ -10,4 +10,4 @@ Cordelia est une célèbre apothicaire d'Ubersreik.
 
 Elle est avenante mais ne donne que rarement sa confiance.
 
-Elle a suivi des cours à l'école de magie d'Aldorf, et même si elle a échoué à l'examen, elle est tout de même capable de sentir les vents de magie et elle est l'une des rares à communiquer avec Christoph Engel, le mage de la ville.
+Elle a suivi des cours à l'école de magie d'Altdorf, et même si elle a échoué à l'examen, elle est tout de même capable de sentir les vents de magie et elle est l'une des rares à communiquer avec Christoph Engel, le mage de la ville.

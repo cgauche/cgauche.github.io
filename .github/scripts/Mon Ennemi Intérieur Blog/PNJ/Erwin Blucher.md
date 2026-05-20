@@ -6,4 +6,4 @@
 
 **Capitaine du guet**
 
-Erwin est le capitaine de la tour du guet d'Ubersreik, il vient d'Aldorf.
+Erwin est le capitaine de la tour du guet d'Ubersreik, il vient d'Altdorf.

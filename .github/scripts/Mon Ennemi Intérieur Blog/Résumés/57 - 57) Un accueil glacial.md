@@ -14,7 +14,7 @@ de mission ; nous nous rendîmes des salutations amicales lorsqu’elle nous
 regarda entrer. L’Ar Ulric était présent, lui aussi, il se trouvait bien à l’écart
 et l’air franchement fâché d’être ici.
 
-Peu de temps après, la délégation d’Aldorf entra à son tour.
+Peu de temps après, la délégation d’Altdorf entra à son tour.
 Six personnes dont une femme furent annoncés. Le prédicateur de Sigmar resta en
 retrait – et très loin d’Ar Ulric – tandis que les autres se mêlèrent à la
 foule des invités.

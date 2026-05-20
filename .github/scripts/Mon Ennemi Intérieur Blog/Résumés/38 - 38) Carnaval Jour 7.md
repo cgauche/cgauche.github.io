@@ -6,10 +6,10 @@
 
 Pathsokar revint triomphant au palais avec **Emmanuelle**. Il alla ensuite parler à **Dieter** et l’invita à voir Filianore par son intermédiaire. Filianore était depuis sa disparition dans un endroit tenu secret, obligé de se cacher après avoir un peu trop fricoté avec le chaos. En invitant Dieter chez elle, cela lui permit de constater qu’il avait bien été hypnotisé par une femme, ce que Pathsokar nous remonta après l’entrevue, avant de le ré-hypnotiser par la même occasion afin d’assurer sa loyauté.
 
-Tout devenait clair. Ce soir, les mercenaires allaient faire l’échange de la fille. Cela expliquait l’apathie du dernier seigneur des lois, **Reiner**, qui devait lui aussi subir un chantage. Cette femme dont tout le monde parlait, autant le chancelier, qu'Emmanuelle ou Dieter, était probablement aussi celle qui gérait les mercenaires, une certaine **Brunehilde**. C’était, semblait-t-il, une maîtresse du déguisement et de la dissimulation, ce qui n’aidait pas à la retrouver.
+Tout devenait clair. Ce soir, les mercenaires allaient faire l’échange de la fille. Cela expliquait l’apathie du dernier seigneur des lois, **Reiner**, qui devait lui aussi subir un chantage. Cette femme dont tout le monde parlait, autant le chancelier, qu'Emmanuelle ou Dieter, était probablement aussi celle qui gérait les mercenaires, une certaine **Brunhilde**. C’était, semblait-t-il, une maîtresse du déguisement et de la dissimulation, ce qui n’aidait pas à la retrouver.
 
 ---
-Nous nous reposâmes toute la journée en vue d’une nuit qui s’annonçait courte. Le soir, nous étions postés non loin du lieu de l’échange. Nous vîmes les mercenaires et la fille avec des cultistes et intervenions. Pendant l’échauffourée, Pathsokar subit de lourdes blessures, tout comme Mark, prit dans un duel avec Brunehilde. Mais cette dernière succomba à nos attaques et les cultistes ainsi que le mage mercenaire se mirent à fuir.
+Nous nous reposâmes toute la journée en vue d’une nuit qui s’annonçait courte. Le soir, nous étions postés non loin du lieu de l’échange. Nous vîmes les mercenaires et la fille avec des cultistes et intervenions. Pendant l’échauffourée, Pathsokar subit de lourdes blessures, tout comme Mark, prit dans un duel avec Brunhilde. Mais cette dernière succomba à nos attaques et les cultistes ainsi que le mage mercenaire se mirent à fuir.
 
 La chef mercenaire portait les lettres de correspondance entre Emmanuelle et l’Ar Ulric, ainsi d’une épée qu’Elvira s’appropria, lui donnant le nom original de… Rhya !
 

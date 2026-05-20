@@ -5,12 +5,12 @@
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cLikkKOnqJHuKbEWAP2n9ywkE4rfX3uxo5-vrWsdaAaHhoP84jLqtOBoGSbbnH7FYUIW6IMbkQyMdHt6Fx7nNhlPO1-xY3u2WCrGc3hFAXhUoRbse6mLhCP0gnCMd5YU0swdn_nWUDqf-Pehqiq7NeQAN6XvazbBZNdinrOVAujQXAGHw41m3gltoyQN/w640-h278/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cLikkKOnqJHuKbEWAP2n9ywkE4rfX3uxo5-vrWsdaAaHhoP84jLqtOBoGSbbnH7FYUIW6IMbkQyMdHt6Fx7nNhlPO1-xY3u2WCrGc3hFAXhUoRbse6mLhCP0gnCMd5YU0swdn_nWUDqf-Pehqiq7NeQAN6XvazbBZNdinrOVAujQXAGHw41m3gltoyQN/s1126/Capture.PNG)
 
 Nous n’étions plus que trois, mais nous nous étions promis de rester ensemble
-pour aller à Aldorf, la capitale de l’Empire.
+pour aller à Altdorf, la capitale de l’Empire.
 
 Chacun y avait son intérêt. Elvira voulait devenir une prêtresse officielle et
-avait besoin d’un garant. Mais rares sont les prêtres de sa déesse quasi oubliée. *Il y a forcément un temple de Rhya à Aldorf*
+avait besoin d’un garant. Mais rares sont les prêtres de sa déesse quasi oubliée. *Il y a forcément un temple de Rhya à Altdorf*
 disait-elle. Phineas cherchait à rencontrer de nouveaux investisseurs
-pour ses sculptures. Skippy, quant à lui, avait longtemps vécu à Aldorf, il espérait y
+pour ses sculptures. Skippy, quant à lui, avait longtemps vécu à Altdorf, il espérait y
 retrouver des amis.
 
 Si Phineas et Elvira commençaient à bien se connaître, Skippy apparaissait encore un peu mystérieux pour eux. Il était flagellant, ce qui signifiait qu’il portait volontairement les péchés du monde pour se repentir pour les autres au nom du dieu de l’Empire, Sigmar, parfois de manière violente. C’était un peu l’inverse d’Elvira qui prônait la non-violence et la joie de vivre…
@@ -23,7 +23,7 @@ Sur notre chemin, nous rencontrions deux compagnons d’infortune. Anselm était
 
 ---
 Ce soir-là, nous trouvions une auberge avec une compagnie de diligences qui s’était arrêté ici pour la nuit, appelée les Quatre Saisons, et repartait pour
-Aldorf le lendemain. C’était une aubaine pour nous, car les transports de diligences étaient un moyen de déplacement rapide et peu risqué de rejoindre une grande ville. Encore fallait-il trouver un moyen
+Altdorf le lendemain. C’était une aubaine pour nous, car les transports de diligences étaient un moyen de déplacement rapide et peu risqué de rejoindre une grande ville. Encore fallait-il trouver un moyen
 d’avoir une place.
 
 A force de beuveries offertes et de compliments, les deux cochers

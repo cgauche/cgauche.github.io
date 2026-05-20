@@ -1,4 +1,4 @@
-# Votkmar von Hindenstern
+# Volkmar von Hindenstern
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/03/votkmar-von-hindenstern.html](https://monennemiinterieur.blogspot.com/2020/03/votkmar-von-hindenstern.html)*
 

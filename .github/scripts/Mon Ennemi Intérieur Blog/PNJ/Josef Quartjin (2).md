@@ -10,4 +10,4 @@ Josef est un commerçant jovial et fêtard parcourant la région du Rekland avec
 
 Il a un faible pour la boisson, et il a un don pour toujours dénicher les meilleures tavernes du coin.
 
-Il a vécu à Aldorf durant ses jeunes années, et il connaît son vieil ami Skippy depuis plus de dix ans.
+Il a vécu à Altdorf durant ses jeunes années, et il connaît son vieil ami Skippy depuis plus de dix ans.

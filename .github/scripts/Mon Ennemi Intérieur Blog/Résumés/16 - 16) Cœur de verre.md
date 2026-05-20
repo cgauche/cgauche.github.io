@@ -17,7 +17,7 @@ nouveau culte. Mark avait dû subir une terrible pénitence…
 Nous étions toujours un peu sous le choc, quand Filianore nous expliqua
 qu’elle avait besoin de nous pour une nouvelle enquête, et elle nous emmena directement voir sa supérieure. **Emmanuelle Nacht**, visiblement très occupée, nous
 accorda à peine quelques minutes pour nous exposer son problème. Elle nous demanda de résoudre le meurtre d’un caporal de l’armée « loyaliste »,
-**Tylo Vielfrass**. Elle nous rappela que la tension était toujours vive entre les soldats d’Ubersreik et les soldats de l’occupation d’Aldorf, et un incident diplomatique serait
+**Tylo Vielfrass**. Elle nous rappela que la tension était toujours vive entre les soldats d’Ubersreik et les soldats de l’occupation d’Altdorf, et un incident diplomatique serait
 vite arrivé si ce meurtre restait inexpliqué. Pour la même raison, il lui était impossible de demander à la garde d’enquêter. Elle exigea donc de ne surtout pas
 nous mêler à l’un des camps afin de rester le plus neutre possible, et de lui donner nos conclusions sur cette affaire dès que possible, à elle et elle seule.
 

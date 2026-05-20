@@ -6,6 +6,6 @@
 
 **Prince marchand**
 
-Johannes est un riche marchand ayant fait ses études à Aldorf.
+Johannes est un riche marchand ayant fait ses études à Altdorf.
 
 Il hérita d'une fortune considérable à son retour à Bögenhafen, suite au décès de son frère Karl.

@@ -15,7 +15,7 @@ qu'elle entretenait avec son mari semblait disparue. Il faudrait surement du tem
 Mais lors du trajet sur le Bögen, nous fûmes arrêtés par un navire noble. Si
 dans un premier temps ils songèrent à nous dénoncer, le fait de savoir que
 nous étions d’anciens employés de la Gravin changea leur avis. *Puisque c’est
-ainsi, venez au château Graunenberg, nous avons besoin de main d’œuvre pour le
+ainsi, venez au château Grauenberg, nous avons besoin de main d’œuvre pour le
 mariage de notre fils*, dirent-ils. Nous apprîmes que le fils en question était
 le frère cadet de la Gravin, **Karl Heinz von Liebwitz**, et que sa famille
 nous faisait donc confiance. Nous nous retrouvions serviteurs d’un jour, pour

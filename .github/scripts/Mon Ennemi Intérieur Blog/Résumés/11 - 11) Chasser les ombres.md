@@ -67,7 +67,7 @@ en était un membre, ainsi que de riches famille, comme un certain **Franz Stein
 
 Il semblait que cet ordre cachait quelque chose. Nous décidâmes de tenter un coup, nous proposâmes à Josef de lui servir
 d’ambassadeur pour la vente de son vin et lui demandâmes un tonneau. Puis nous
-nous rendîmes chez Steinhäger afin de lui vanter les mérites du vin aldorfien.
+nous rendîmes chez Steinhäger afin de lui vanter les mérites du vin altdorfien.
 Alors qu’Elvira et Phineas négociaient avec lui, Pathsokar fouilla son bureau et récupéra une lettre
 envoyée par Teugen. L’Ordre allait se réunir ce soir !
 

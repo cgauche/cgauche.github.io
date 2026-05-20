@@ -8,7 +8,7 @@
 
 **Joueur: Saturos**
 
-Lirrian est un jeune sorcier elfe étudiant à l’école d'Aldorf.
+Lirrian est un jeune sorcier elfe étudiant à l’école d'Altdorf.
 
 Comme beaucoup de ses semblables, il est plutôt hautain et taiseux lorsqu’il s’agit de sociabilité.
 

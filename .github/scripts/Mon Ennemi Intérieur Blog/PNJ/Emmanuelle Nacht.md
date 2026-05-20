@@ -6,7 +6,7 @@
 
 **Régente d'Ubersreik**
 
-Emmanuelle est une femme distinguée ayant fait de hautes études à Aldorf.
+Emmanuelle est une femme distinguée ayant fait de hautes études à Altdorf.
 
 A la suite du putsch organisé par l'Empereur sur Ubersreik, elle est nommée gouvernante de la province.
 

@@ -117,13 +117,13 @@ clameur se fit entendre dans la rue. Le Chevalier Éternel était en pleine
 patrouille, arborant sa magnifique et chatoyante armure. Il avait promis
 de tout faire pour nous aider, nous allions pouvoir tester ses capacités et sa
 parole. Elvira l’appela de loin, et il se tourna, répondant directement à
-Dietrich. *Avez-vous besoin d’aide, monseigneur Kärzburdger ? Vos
+Dietrich. *Avez-vous besoin d’aide, monseigneur Kärzburdger ? Vos
 sous-fifres sont effrayés par quelques futile menace, et vous quérez un homme
-courageux ?* Pour la jeune femme, l’incrédulité se changea rapidement
+courageux ?* Pour la jeune femme, l’incrédulité se changea rapidement
 en crispation devant l’ostensible dédain dont il faisait preuve à son égard, alors
 que notre noble tentait de désamorcer la situation en discutant avec lui d’un
 air badin. Mais son énervement finit par prendre le dessus. *Mais puisque vous êtes si
-fort, allez donc voir ce qui se passe là-dedans plutôt que de pavoiser !* s’emporta-t-elle.
+fort, allez donc voir ce qui se passe là-dedans plutôt que de pavoiser !* s’emporta-t-elle.
 
 Il prit un air excessivement fier et s’exécuta, allant
 jusqu’à la cuisine. Un skaven maigrelet lui sauta alors dessus, et malgré la
@@ -233,7 +233,7 @@ et transformant chaque projectile placé avec la forme désirée. Les
 matériaux utilisés rendaient l’œuvre très ostentatoire, rappelant le caractère de
 sa créatrice. Sans surprise, ils furent acceptés à l’examen et devinrent maîtres.
 C’était une impressionnante ascension pour eux, qui il y avait quelques mois à
-peine n’étaient même pas pensionnaires de la tour. C’est dans ce contexte que leur tuteur Janna Eberhauer leur annonça son départ pour Aldorf.
+peine n’étaient même pas pensionnaires de la tour. C’est dans ce contexte que leur tuteur Janna Eberhauer leur annonça son départ pour Altdorf.
 
 Quant à Dietrich, il reçut rapidement une missive d’un homme étrange et sombre, lui
 demandant de rentrer au fiel familial. Toujours aussi mystérieux et peu adepte

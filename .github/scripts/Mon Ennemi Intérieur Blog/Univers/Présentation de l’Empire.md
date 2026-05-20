@@ -10,7 +10,7 @@ La naissance de l’Empire est due à Sigmar, qui il y a plus de 2000 ans a repo
 
 Cela n’a pas toujours été le cas, différentes factions s’opposant pour le contrôle du territoire, et il est parfois arrivé que plusieurs empereurs s'opposent dans l’histoire pour le contrôle du pays, comme lors de l’âge des trois empereurs en 1547.
 
-Aujourd’hui, en l’an de grâce 2512, l’Empire est dirigé par Karl-Heinz 1er. Celui-ci réside à Aldorf, dans la région du Reikland dont il est le comte électeur, et qui est également la plus grande ville du monde avec ses plus d’un million d’habitants.
+Aujourd’hui, en l’an de grâce 2512, l’Empire est dirigé par Karl-Heinz 1er. Celui-ci réside à Altdorf, dans la région du Reikland dont il est le comte électeur, et qui est également la plus grande ville du monde avec ses plus d’un million d’habitants.
 
 #### Vie quotidienne
 

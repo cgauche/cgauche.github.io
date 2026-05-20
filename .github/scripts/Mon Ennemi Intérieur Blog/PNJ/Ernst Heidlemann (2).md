@@ -6,6 +6,6 @@
 
 **Apprenti sorcier**
 
-Ernst est un apprenti sorcier d'Aldorf.
+Ernst est un apprenti sorcier d'Altdorf.
 
 Il semble très timide et très mystérieux.

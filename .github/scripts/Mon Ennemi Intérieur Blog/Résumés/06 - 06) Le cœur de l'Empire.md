@@ -4,7 +4,7 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmolIYnn4bleOrE1EYPoaEvxdLnQmDkPvkMbh1kY-1gUen6GS_olko5klPbwUMnHXdiDNyVW_JjeyHCV-O0goiCSOEFzazlFxnXGvotwR4I_tVmoB72ZyQJ07KJWOUbUfYZ6pZskLbvqJ-1p9O7Bx2zerIaHrQ0vJV4_d6NXlPAKnX6BtQlXcPcEiBde5/w640-h318/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmolIYnn4bleOrE1EYPoaEvxdLnQmDkPvkMbh1kY-1gUen6GS_olko5klPbwUMnHXdiDNyVW_JjeyHCV-O0goiCSOEFzazlFxnXGvotwR4I_tVmoB72ZyQJ07KJWOUbUfYZ6pZskLbvqJ-1p9O7Bx2zerIaHrQ0vJV4_d6NXlPAKnX6BtQlXcPcEiBde5/s1125/Capture.PNG)
 
-Nous arrivâmes à Aldorf en quelques jours. Les routes étaient plus sûres près de la capitale et nous y croisions de nombreux villages. Autour de la ville, les paysans s'affairaient dans les champs alors que la fin de l'été allait arriver.
+Nous arrivâmes à Altdorf en quelques jours. Les routes étaient plus sûres près de la capitale et nous y croisions de nombreux villages. Autour de la ville, les paysans s'affairaient dans les champs alors que la fin de l'été allait arriver.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQi2pGoFVXULyUkdH7AuZ37qtH94grajLShD1ypctYYNFJnL1-O8igHUNtoZVypFx9Hd2yoVI-FHI9f81sU-rKuHkeiRiiKuGUXrPENfZSDaZxQjvRrnrakGxb0NpyxD-43phFrULXD84yWgfJ594xxJdZpDvYX5VXrms_UmC9yFo24_7LF8g9W2Hk3k4/s600/people-empire%281%29.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQi2pGoFVXULyUkdH7AuZ37qtH94grajLShD1ypctYYNFJnL1-O8igHUNtoZVypFx9Hd2yoVI-FHI9f81sU-rKuHkeiRiiKuGUXrPENfZSDaZxQjvRrnrakGxb0NpyxD-43phFrULXD84yWgfJ594xxJdZpDvYX5VXrms_UmC9yFo24_7LF8g9W2Hk3k4/s2549/people-empire%281%29.webp)
 
@@ -15,7 +15,7 @@ Cela l’interpella, et ne sachant que répondre, il décida d’aller les voir.
 Nous les avons recroisés plus tard, dans la nuit, assassinées… Quoi qu’ils
 voulussent, nous n’en saurions rien désormais.
 
-Aldorf était une ville énorme, la plus grande du monde. Mais elle était aussi étouffante, les gens habitaient les uns sur autres,
+Altdorf était une ville énorme, la plus grande du monde. Mais elle était aussi étouffante, les gens habitaient les uns sur autres,
 et une odeur nauséabonde était présente continuellement. Aucun parc, aucune verdure, imaginez la tête d’Elvira !
 
 Nous manquions plusieurs fois de nous perdre,

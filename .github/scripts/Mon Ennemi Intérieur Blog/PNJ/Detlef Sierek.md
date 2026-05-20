@@ -1,4 +1,4 @@
-# Detlef Sierek
+# Detlef Sierck
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/10/detlef-sierek.html](https://monennemiinterieur.blogspot.com/2020/10/detlef-sierek.html)*
 

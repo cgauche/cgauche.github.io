@@ -6,7 +6,7 @@
 
 Nous retournions à Kemperbad, mais personne ne sut nous dire où était passé Elvira. Ni Phineas d'ailleurs. Nous avions à présent deux compagnons disparus… Sans compter que Filianore avait contracté une maladie et qu’elle se sentait très mal.
 
-Au cours de nos recherches, on informa Pathsokar que quelqu’un voulait lui parler dans une auberge. Il accepta de s’y rendre et là-bas on lui donna une lettre, avec à l’intérieur une mèche de cheveux. De ses cheveux… Celle-ci lui intimait de remettre son héritage à la Main Pourpre dans les plus brefs délais, aux intermédiaires d’Aldorf, ou directement à Middenheim, agrémentée d’une menace. Pendant qu’il la lisait, sa main devint pourpre, comme si un mage était à l’œuvre, mais il ne sut d’où cela venait.
+Au cours de nos recherches, on informa Pathsokar que quelqu’un voulait lui parler dans une auberge. Il accepta de s’y rendre et là-bas on lui donna une lettre, avec à l’intérieur une mèche de cheveux. De ses cheveux… Celle-ci lui intimait de remettre son héritage à la Main Pourpre dans les plus brefs délais, aux intermédiaires d’Altdorf, ou directement à Middenheim, agrémentée d’une menace. Pendant qu’il la lisait, sa main devint pourpre, comme si un mage était à l’œuvre, mais il ne sut d’où cela venait.
 
 Nous finîmes par prendre la route du nord vers le phare. Le soir, nous accostions dans un village alentour, où un bateau théâtre s’était arrêté. Ce serait l’occasion d’oublier quelque peu nos malheurs. Mais à notre grande surprise, l’actrice qui jouait dans la pièce n’était pas n’importe qui, c’était Elvira !
 

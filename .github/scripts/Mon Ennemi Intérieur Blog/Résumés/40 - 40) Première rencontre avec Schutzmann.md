@@ -48,7 +48,7 @@ dût, en plus de ses études, travailler pour lui, ce qui lui empêchait de joui
 Elvira quant à elle n’avait qu’une idée en tête, mettre en place le culte de Rhya à
 Middenheim. Le Graf fut reconnaissant et lui accorda un espace dans le grand
 parc de la ville. Il ne lui fallait plus qu’officialiser le temple. Mais
-comment fallait-il faire ? Comme elle l’ignorait, elle retourna à Aldorf
+comment fallait-il faire ? Comme elle l’ignorait, elle retourna à Altdorf
 afin de rencontrer sa marraine, la Gardienne Verte. Celle-ci lui donna des
 graines bénies à planter dans son temple, et lui demanda d’organiser une fête
 pour le solstice d’été qui aurait lieu dans deux mois. Elle viendrait la retrouver à Middenheim en temps voulu pour lui prodiguer quelques conseils et la seconder.

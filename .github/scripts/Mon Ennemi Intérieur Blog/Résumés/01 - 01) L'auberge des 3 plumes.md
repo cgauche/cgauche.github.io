@@ -13,7 +13,7 @@ faisait des sculptures, et même qu’il serait célèbre un jour... C’était 
 voyageait avec nous afin de montrer son art aux gens.
 
 [**Lirrian**](<../PJ/Lirrian Morningstar.md>)
-était un jeune elfe magicien qui venait de l’école d’Aldorf, la capitale. Il était discret
+était un jeune elfe magicien qui venait de l’école d’Altdorf, la capitale. Il était discret
 Lirrian, ou peut-être que nous n’étions pas assez instruits pour mériter de parler avec lui, qui
 sait… Cela restait une curiosité car les elfes ne sont pas très fréquents dans nos villes, et leur grâce est légendaire.
 

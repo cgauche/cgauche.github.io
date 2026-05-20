@@ -34,7 +34,7 @@ Le lendemain nous le retrouvions à la Couronne de Carolus. Il nous expliqua
 que **Elisha Hochs**, qui gère les intérêts d’une compagnie de transport
 concurrente, provoquait des attaques et des accidents. Il n’avait pas encore
 réussi à la coincer, mais il savait qu’une diligence avait disparu récemment lors de son
-trajet jusqu’à Aldorf. Si on la retrouvait, on pourrait avoir la preuve
+trajet jusqu’à Altdorf. Si on la retrouvait, on pourrait avoir la preuve
 qu’il nous manquait. Il nous suffirait de suivre la ligne à bord de la
 diligence suivante, et tout cela serait gracieusement payé à l’arrivée bien
 sûr. Andreas s’engageait à faire le voyage de son côté afin d’enquêter lui
@@ -76,7 +76,7 @@ La journée suivante nous fit passer près d’un camp militaire de l’armée
 impériale, et profitant de notre présence un des commandants nous demanda de
 porter une lettre à Bögenhafen, qui était sur notre route. Nous acceptions
 volontiers. Notre cocher nous rétorqua que déjà en ville les gens estimaient
-que nous avions trop de connivence avec les aldorfers, alors là, aider leur
+que nous avions trop de connivence avec les altdorfers, alors là, aider leur
 armée…
 
 Cependant, cela avait du bon d’avoir une armée à proximité de l’auberge, car
@@ -104,10 +104,10 @@ nouvelle vocation.
 
 Nous arrivions enfin à Bögenhafen, nous pûmes déposer le message des
 militaires, tandis que Filianore avait des choses à faire avec un contact
-espion. Elle revint bouleversée, et nous annonça qu’une fois arrivé à Aldorf
+espion. Elle revint bouleversée, et nous annonça qu’une fois arrivé à Altdorf
 elle nous exposerait sa nouvelle mission.
 
-**De Bögenhafen à Aldorf**
+**De Bögenhafen à Altdorf**
 
 Durant la journée suivante, le temps se dégrada fortement. Nous arrivâmes à
 l’auberge relai suivante alors que la nuit était presque tombée, et que la
@@ -177,4 +177,4 @@ le vit…
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/w640-h310/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/s1039/Capture.PNG)
 
 Cette quête ressemblait à un traquenard, mais l’important était qu’enfin, après toutes nos vicissitudes, nous
-étions arrivé à Aldorf. Filianore allait pouvoir tout nous expliquer !
+étions arrivé à Altdorf. Filianore allait pouvoir tout nous expliquer !

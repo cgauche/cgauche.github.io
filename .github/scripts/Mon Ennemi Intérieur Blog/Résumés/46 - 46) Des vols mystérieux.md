@@ -88,7 +88,7 @@ fermé à clef et comme tous les autres larcins, crocheté.
 
 Il semblait pour Mark que ce fût l’œuvre d’un prêtre de Ranald, le dieu
 des voleurs. Selon le prêtre d’Ulric, qui avait vécu longtemps dans la misère
-d’Aldorf et les avait un peu connu, ces voleurs suivaient un code de conduite
+d’Altdorf et les avait un peu connu, ces voleurs suivaient un code de conduite
 qui les distinguaient des vulgaires brigands de bas étage. *Un prêtre voleur,
 et puis quoi encore ?!* Elvira était très septique quant aux nobles intentions
 de ces escrocs, qui se disaient protecteurs des faibles et des innocents.
