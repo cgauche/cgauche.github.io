@@ -1,0 +1,21 @@
+# Winds of Magic - Index
+
+- [Winds of Magic](<01 - Winds of Magic.md>) — p. 1
+- [Credits](<02 - Credits.md>) — p. 2
+- [Contents](<03 - Contents.md>) — p. 3
+- [Front Matter](<04 - Front Matter.md>) — p. 4-5
+- [Tales of Sorcery](<05 - Tales of Sorcery.md>) — p. 6-18
+- [New and Revised Spellcasting Rules](<06 - New and Revised Spellcasting Rules.md>) — p. 19-34
+- [Arcane Activities](<07 - Arcane Activities.md>) — p. 35-53
+- [Hysh](<08 - Hysh.md>) — p. 54-65
+- [Chamon](<09 - Chamon.md>) — p. 66-77
+- [Ghyran](<10 - Ghyran.md>) — p. 78-89
+- [Azyr](<11 - Azyr.md>) — p. 90-101
+- [Ulgu](<12 - Ulgu.md>) — p. 102-113
+- [Shyish](<13 - Shyish.md>) — p. 114-125
+- [Aqshy](<14 - Aqshy.md>) — p. 126-137
+- [Ghur](<15 - Ghur.md>) — p. 138-150
+- [Magical Artefacts](<16 - Magical Artefacts.md>) — p. 151-172
+- [Magical Creatures](<17 - Magical Creatures.md>) — p. 173-188
+- [The Winds at Work](<18 - The Winds at Work.md>) — p. 189-207
+- [Magical Nemeses & Adventures](<19 - Magical Nemeses & Adventures.md>) — p. 208-224

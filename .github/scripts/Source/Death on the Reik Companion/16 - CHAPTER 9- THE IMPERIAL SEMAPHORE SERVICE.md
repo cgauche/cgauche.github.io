@@ -1,0 +1,63 @@
+# CHAPTER 9: THE IMPERIAL SEMAPHORE SERVICE
+
+*Pages PDF 61-63*
+
+## Chapter 9 the Imperial Semaphore Service
+## **The Signal Towers**
+The Signal Tower built on the remains of Dagmar’s hidden laboratory plays an important role in the events of **Death on the Reik** , but it is not a singular creation. There are currently several of the devices being built across the Empire, with the intial line designed to connect Altdorf and Nuln. If your Characters take an interest in the effort by assisting the Dwarf workcrew, you can use the material in this chapter as a basis for further exploration of the Semaphores which, to the average Imperial citizen, appear to operate by what is essentially magic. 
+
+Communications within the Empire are typically slow. News travels at the speed of a coach or a river barge, and until recently, military dispatches were limited to the speed of a rider on a fast horse. While some magical communications exist — certain Colleges use them, and the temples of Verena are known to be in regular contact with each other regardless of distance — the Emperor decided that a new, quicker form of communication was needed, that did not rely on magic and the uncertain loyalties of organizations that are not directly under his control. Thus, by a decree of 2510, Emperor Karl-Franz instituted the Imperial Semaphore Service. 
+
+So far, one chain of signal towers has been substantially completed, running in nine stages between Altdorf and Nuln. It has been estimated that a message from one city can reach the other in less than an hour, and initial tests are planned as soon as construction is complete. Building crews from the Dwarven Engineers’ Guild, like the one the Characters encounter near Castle Reikguard, are hard at work finishing the great structures, while Imperial surveyors are scouting locations for further chains connecting the capital to the Empire’s other great cities, and beyond them to key border forts and passes. 
+
+When the network is complete, it is estimated that an alarm from anywhere in the Empire will be able to reach Altdorf in less than half a day, allowing Electoral and Imperial forces to respond to any threat — from armies of Chaos pushing through Kislev to Greenskin hordes pouring through Black Fire Pass — with a speed and flexibility previously unknown. 
+
+## **Construction**
+Situated on hilltops and other prominences within sight of each other in clear weather, the signal towers are built of stone using the strongest and most durable Dwarven techniques. They vary in height, but the apparatus at the top is always the same. 
+
+## **Spiral Ramp**
+Running around the outside of the tower’s base, a spiral ramp allows personnel and supplies to reach the lowest level. The door at the top of the ramp is heavily fortified and is winched up and down rather than opening on hinges. In the event of an attack, the crew need only lower it to be relatively safe: it is too heavy for outside forces to raise, and the ramp outside is too narrow to permit the use of a battering ram. 
+
+## **Living Quarters**
+The towers are designed for a crew of six: two officers and four observer-operators, divided into two twelve-hour shifts of three people each. The living quarters are sufficient for three people: an economy that pleases the Imperial treasurers more than the crews themselves. 
+
+## **The Beacon**
+A great fire, backed by a huge mirror, is laid behind an iron shutter, which opens on the side of the tower that faces the capital. This allows urgent messages to be sent to Altdorf even at night, although messages from the capital must wait for daylight and are sent using the semaphore paddles. 
+
+## **The Pylon**
+The tower is topped by a circular wooden structure, equipped with a Dwarf-built crank-and-gear mechanism that allows it to be rotated to face either one of its neighbours. There is an observer’s post with a telescope and an operator’s post with controls for the semaphore paddles. Each position is equipped with a writing surface, and a locked strongbox holds a pair of code-books — one for the operator and one for the observer — along with a supply of parchment, pens, and ink. The key to the strongbox is held by the duty officer, who is also charged with destroying the code-books in the event of an attack. Picking the lock on the strongbox requires 5 Success Levels with a **Challenging (+0) Pick Lock** Test: attempts to break it open must overcome its Toughness of 50 and 25 Wounds. 
+
+## **Support and Supply**
+Because the towers are often built in remote places — the greater part of the Altdorf to Nuln chain runs through dense and dangerous forests — they and their crews must be able to hold out for weeks or even months without seeing another soul. Each tower is equipped with a capacious cellar beneath the floor of its living quarters, capable of holding enough non-perishable supplies for three months. 
+
+The Emperor’s plan calls for fresh supplies to be brought every four weeks from the nearest town or city, if necessary in armoured carts escorted by local troops. This has not yet been put into practice, and some Imperial counsellors worry that local forces from a small town or village could not guarantee to get supplies through in the event of an attack by Beastmen, or — in some cases — even prolonged bad weather. This part of the plan is under review, and among the options being considered is the construction of garrisoned depots at the settlements in question, with supplies and relief troops ready to respond to any alarm. However, many questions remain to be answered, including how these depots will be paid for and how, exactly, the tower can raise an alarm that will be heard at a depot several leagues away. 
+
+## **Careers**
+Crews for the semaphore towers are still being recruited, largely from the local military forces in their home areas. Most successful recruits have at least one level as a Soldier or Scout; all are required to have the _Read/Write_ Talent, and before taking up their assignments all are trained in the Imperial semaphore alphabet and the use of a standard code-book. 
+
+While a posting at a remote signal tower does not offer many possibilities for wide-ranging adventures, Characters may wish to join a semaphore crew temporarily for some adventure. As mentioned above, all applicants must be literate. Those with Leadership are eligible to be officers. Other Skills and requirements are for the GM to decide, depending on how important the posting is to the adventure: military backgrounds are considered desirable, but in remote or especially dangerous places the authorities take whomever they can get. 
+
+## **Adventure Seeds**
+In **Death on the Reik** , the Characters encounter a semaphore tower that is built on the ruins of an earlier structure with an unknown past and some dangerous inhabitants. Other towers might offer different possibilities for adventure. Here are some ideas. 
+
+## **State Secrets**
+Each tower is equipped with a code-book that holds the standard Imperial codes for transmitting military secrets and other sensitive information. Truly sensitive messages are transmitted down the line using top-secret ciphers that are not in the standard books, so that the crews do not know the contents of the messages that they are passing on. 
+
+Even so, there are some people who would pay well for a current set of Imperial codes, ranging from disaffected Electors to would-be rebels, cultists bent on causing confusion, and the spies of foreign powers. 
+
+DEATH ON THE REIK COMPANION: CHAPTER 9 - THE IMPERIAL SEMPHORE SERVICE 
+
+## **King of the Hill**
+While the Characters are at a signal tower — forced there by bad weather or marauding Beastmen, perhaps, or having gone there on some other errand — they contend with a spy or thief who tries to steal the tower’s code-book. Alternatively, the Characters themselves might be hired to steal the book, or — a little farcically — to replace a faulty volume with a corrected one without the crew’s knowledge. This might be because the authorities want to avoid the embarrassment of admitting to a mistake, or it might be an exercise to expose an enemy agent who has been intercepting signals with the help of an accomplice at the tower. 
+
+The foot of the tower stands on a small hill that the Imperial surveyors took to be a natural feature — but in fact, is an ancient burial mound going back to pre-Sigmarite times. The mound’s owner, a Ghost, Cairn Wraith, Tomb Banshee, or other powerful Undead creature, sets out to destroy the tower and punish its crew. 
+
+The creature may be alone, or it may be the remains of an ancient chieftain or chieftainess who was buried with a retinue of servants and warriors — now lesser Undead creatures, such as Skeletons and Zombies — who climb the tower and try to dismantle it stone by stone while their leader deals with the terrified mortals within. To make things even more horrific, the Undead leader may have a rare Trait which causes those he or she kills to rise as Zombies or other Undead creatures a few Rounds after their deaths. 
+
+## **The Altdorf Imperial Society of Pigeon Fanciers**
+While the towers are poorly understood, many are quick to talk up their supposed capabilities. It is generally presumed that they will make many forms of communication, such as writing, or perhaps speaking, obsolete. Many are put out by this suggestion, but few more so than the Altdorf Imperial Society of Pigeon Fanciers. They have come up with various plans to interfere with the towers, culminating in the despatch of a half dozen pigeons laden with small incendiary bombs to roost in the tower! One fire has already started, and the smell of roast fowl abounds. Can the Characters prevent the entire tower from going up in smoke? 
+
+## **Besieged!**
+The forests of the Empire are full of Beastmen and worse things, and Characters travelling through the deeper woods may find themselves pursued. They may be taking supplies or equipment to a new tower, or engaged in some other adventure in the area, but suddenly they find themselves pursued by a horde of enemies so numerous that their only hope lies in flight. They reach a signal tower mere minutes ahead of their pursuers and must persuade the crew to open the door and let them in before the enemy arrives. An alarm is set up and sent down the line, but it takes a day or more for a relief force to arrive and the tower must be defended until then. 
+
+The first wave of attackers breaks on the near-impregnable tower, and a period of quiet follows as the enemy leaders consider their options. There may be drumming and chanting in the woods, infiltrators and assassins climbing the walls, destructive spells, summoned Daemons, and other forms of attack, all of which the Characters must thwart. For added fun, perhaps one of the tower’s crew is a secret cultist, who decides to throw in his lot with the Chaotic horde outside and begins a series of grisly, ritual murders in secret.

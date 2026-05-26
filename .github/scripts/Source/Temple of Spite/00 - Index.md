@@ -1,0 +1,48 @@
+# Temple of Spite - Index
+
+- [Bestiary](<01 - Bestiary.md>) — p. 1
+- [Dark Elves](<02 - Dark Elves.md>) — p. 1
+- [Profiles](<03 - Profiles.md>) — p. 1
+- [Mounts and Warbeasts](<04 - Mounts and Warbeasts.md>) — p. 1
+- [Druchii Anointed](<05 - Druchii Anointed.md>) — p. 1
+- [Doomfire Warlocks](<06 - Doomfire Warlocks.md>) — p. 1-3
+- [The Dark Elves](<07 - The Dark Elves.md>) — p. 4-8
+- [Naggaroth](<08 - Naggaroth.md>) — p. 9
+- [Land of Chill](<09 - Land of Chill.md>) — p. 9
+- [Naggaroth](<10 - Naggaroth.md>) — p. 9-11
+- [Cities of Naggaroth](<11 - Cities of Naggaroth.md>) — p. 12
+- [The Temple of Spite](<12 - The Temple of Spite.md>) — p. 13
+- [The Black Arks](<13 - The Black Arks.md>) — p. 14-19
+- [Anatomy of the Ark](<14 - Anatomy of the Ark.md>) — p. 20-24
+- [Power and Politics](<15 - Power and Politics.md>) — p. 25-29
+- [Getting aboard](<16 - Getting aboard.md>) — p. 30-33
+- [Taking on a Black Ark](<17 - Taking on a Black Ark.md>) — p. 34-56
+- [Equipment and Ships](<18 - Equipment and Ships.md>) — p. 57
+- [Weapons](<19 - Weapons.md>) — p. 57
+- [Armour](<20 - Armour.md>) — p. 58
+- [Poisons, Potions and Draughts](<21 - Poisons, Potions and Draughts.md>) — p. 58
+- [Chariots](<22 - Chariots.md>) — p. 59
+- [Sailing Ships](<23 - Sailing Ships.md>) — p. 59
+- [Beast-hauled Vessels](<24 - Beast-hauled Vessels.md>) — p. 60
+- [Dark Magic](<25 - Dark Magic.md>) — p. 61
+- [Dark Elf Sorceresses](<26 - Dark Elf Sorceresses.md>) — p. 61
+- [Dark Magic](<27 - Dark Magic.md>) — p. 62-63
+- [The Lore Of Dark Magic](<28 - The Lore Of Dark Magic.md>) — p. 64-67
+- [Gifts of Khaine](<29 - Gifts of Khaine.md>) — p. 68
+- [Valerion’s Blackswords](<30 - Valerion’s Blackswords.md>) — p. 69
+- [Born In Betrayal](<31 - Born In Betrayal.md>) — p. 69-75
+- [The Fell Brethren](<32 - The Fell Brethren.md>) — p. 76-82
+- [The Glass Thorn](<33 - The Glass Thorn.md>) — p. 83-90
+- [Khaine’s Eyes](<34 - Khaine’s Eyes.md>) — p. 91-98
+- [The Scaleflayer Menagerie](<35 - The Scaleflayer Menagerie.md>) — p. 99-104
+- [A Tour of the Beast Pens](<36 - A Tour of the Beast Pens.md>) — p. 105
+- [The Companyof the Nightwake](<37 - The Companyof the Nightwake.md>) — p. 106-111
+- [Knives of Khaine](<38 - Knives of Khaine.md>) — p. 112-118
+- [The Cult of Khaine](<39 - The Cult of Khaine.md>) — p. 119
+- [Patrons and Nemeses](<40 - Patrons and Nemeses.md>) — p. 120
+- [Designing Dark Elves](<41 - Designing Dark Elves.md>) — p. 120
+- [Duriath Helbane](<42 - Duriath Helbane.md>) — p. 121-122
+- [Death Hag Kheitalla](<43 - Death Hag Kheitalla.md>) — p. 123
+- [Kernethar Grimwitch, Fugitive Sorcerer](<44 - Kernethar Grimwitch, Fugitive Sorcerer.md>) — p. 124-125
+- [INDEX](<45 - INDEX.md>) — p. 126
+- [Front Matter](<46 - Front Matter.md>) — p. 127-128

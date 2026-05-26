@@ -1,0 +1,1195 @@
+# CHAPTER 7 - THE CITY NORTH
+
+*Pages PDF 152-199*
+
+## The City North
+## **Tricks of the Trade**
+Altdorf’s north is the part of the city most familiar to casual visitors. The great commercial areas are here, so most of the traffic coming to the city via roads or rivers has the north as its eventual destination. Much of the north is given over to the Hexxerbezrik, which holds the various arcane facilities necessary for the tuition of magic. 
+
+N1 Hexxerbezrik N6 Konigplatz N2 Schulergegend N7 Wolftor N3 Großvaters Zuhause N8 Neuesgeldt N4 Dockland N9 Grandmarkt N5 Fishmarkt N10 Toteinsel 
+
+## **The Hexxerbezrik**
+Before the colleges, the various quarters of the Hexxerbezrik were city wards of their own standing. Now, people who aren’t used to wizards and magic find life here difficult. The notorious warping of Altdorf’s geography is concentrated in the streets and plazas of the district, and it takes a strong will and open mind to thrive in the vicinity of the colleges. In places, whole blocks have vanished — or burned down, in the case of tenements near the Bright College. Domiciles have given way to greenery around the Jade College, or to Nehekharan statuary around the Light College. That magical institutions so dominate the area is a source of bitterness, particularly amongst poorer residents who fled to east end slums following their establishment. 
+
+## **Working Magic Within the Hexxerbezrik**
+The winds of Aqshy, Azyr, Chamon, Ghyran, Shyish, and Ulgu suffuse the Hexxerbezrik. Any attempts to Cast or Channel spells from the Lores of Metal, Life, Heavens, Shadows, Death, Fire,  gain a +10 bonus within the district. 
+
+Light Wizards find it no easier, and no harder, to work magic here than they normally would. 
+
+The city repels Ghur. Channelling and Casting Tests made to cast Arcane spells using the Amber Wind suffer from a −20 penalty within the walls of Altdorf. 
+
+## **The Haunted Cemetery of Old Altdorf**
+This was once the most desirable cemetery in Altdorf, but it has earned an eerie reputation since the establishment of the Colleges of Magic. It is ringed with a high, spiked wall and beds of black roses. The wall is in disrepair in many places along its length, but few would breach the sanctity of Morr’s realm. 
+
+Beyond the wall are countless ancient graves and mausoleums of generations of Altdorfers, some plain, others decorated with ornate carvings and morbid statues. There are also thousands of unmarked graves of those who perished during the Red Plague of 1786 IC. The garden is forbidden to Altdorfers, who leave their dead at the iron gates. Only anointed Priests of Morr are allowed in the garden, and they rarely leave. 
+
+## **Familiar Spirits**
+
+- A corner of the cemetery contains serried ranks of tiny graves. This is where sentimental wizards have their familiars buried. Familiars in life are barely half-real and shaped according to the whims of their masters. Their ghosts are even stranger. 
+
+- At the centre of the cemetery is the mortuary: a great, plain slab of a building accessed through a foreboding stone portal. Despite its size, the contents of the building are a secret known only to the Cult of Morr. The priests claim it mitigates baleful magical energies that might encourage undead activity, but suspicious folk suggest it has other purposes. 
+
+## **The Thaumodivinator**
+This awesome device is an attempt by several wizards and engineers to pool their talents into the creation of a precognosticating machine. Alchemists from the Gold Oder created an engine of several overlapping brass shells. Symbols and icons decorate the machine, representing thematic forces affecting future events. These include archetypes drawn from fortune telling cards and religious symbols. 
+
+All a person must do in order to receive a reading from the machine is place a drop of blood in a small timble, pay the associated fee, and wait whilst it scrys their future. 
+
+Doomsayers of Morr voice concerns that the machine impinges too greatly upon their appointed task. The wizards and engineers behind the Thaumodivinator deride the Doomsayers for their professional jealousy. They point out that the device is often more accurate, predicts more than just the manner of death, and does not limit itself to a single consultation. 
+
+## **Predicting Trouble**
+
+- The existence of the device has prompted the formation of an unlikely alliance of scryers, Doomsayers, Dreamwine imbibers and other Luddites. The group may approach Characters such as Priests or Seers in order to concoct and enact a plan to sabotage the device. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **The Arcane Towers**
+Six towers reach up from a spacious platz, each facing a different direction. To most observers, the towers are a strange enough sight — tall and slender structures topped with inscrutable mechanisms. Experts in the history of magic say they derive from unearthed elven structures. They point out spectacular items atop the towers: Leonardo’s Prism of Power, which refracts the separate winds of magic, and vanes of Meteoric Silver, barometric devices that predict fluctuations of aethyr. 
+
+Those with witchsight can glean the purpose of these mechanisms. They draw forth magical energy, separate the winds, and funnel each one towards the college that specialises in its use. There are six towers rather than eight; the cityscape repels _Ghur_ , and _Hysh_ requires subtler arts to control. 
+
+## **Tower of Wrong**
+
+- Gottra Solvegsdottir the Assiduous is an expert in Grudgelore from Karaz a Karak. She has come to Altdorf to learn more of the Arcane Towers. If she can prove that they date from the War of the Beard, she will call for punitive reparations from both the Elves (who she argues made baleful and unnatural use of the towers during the war to the detriment of Dwarfs) and the Empire (who have profited from this wrongdoing in the meantime). Many wish to see her done away with, but others realise her death would draw the wrath of High King Thorgrim. 
+
+## **The Tower of Volans**
+Altdorf ’s earliest magical institution, the Tower of Volans, is the palace of the Supreme Patriarch. A prototype college constructed by order of Magnus the Pious. As the number of Wizards grew it became practical to grant each order a specialised site, but there are many laboratories still in use here. However, the tower now serves as the residence of the current Supreme Patriarch. 
+
+At the base of the Tower of Volans is a large octagonal chamber known as the Hall of Duels. Every eight years, a wizard who has proved himself a serious contender may challenge the sitting Supreme Patriarch. The Staff of Volans, a powerful magical artefact and symbol of office, is set in the centre of the hall. The wizard who grasps it becomes the next Supreme Patriarch. 
+
+## **The Celestial College**
+The sixteen turrets of the Celestial College are an architectural wonder. The blue-and-white stone towers are among the tallest structures in Altdorf, decorated in carvings of comets, stars, and crescent moons. Each culminates in a shimmering dome of enchanted glass — the laboratory-observatories of the Astromancers. The wizards record information and feed it into a vast astrolabe which gyrates around an enchanted silver fulcrum. They study its movements to deduce premonitions. 
+
+The air within the college is bracing, cool, and fresh. Floors and walls of corridors and courtyards are decorated with friezes and mosaics depicting the night sky and signs of the zodiac. Private libraries and observatories line the corridors, interspersed between the quarters of resident Astromancers. 
+
+Few visitors arrive unexpectedly. The Astromancers tend to receive detailed precognitions of events occurring in and around the college. Guests find it deeply unnerving that their hosts often know more about their business than they do. 
+
+## **Gathering Storm**
+
+- A killing occurred on the grounds of the college. The Astromancers claim a visitor meant to do them harm, and a poisoned dagger found on the corpse seems to confirm this. But is the presumed assassin really the victim of a devious frame? 
+
+- Within the central courtyard is a large coach house containing the college’s fleet of Hurricanums, magical chariots bearing immense orreries. These act as loci for Azyr, and can summon lightning, gales, and even comet strikes. Many enemies of the Empire would pay and risk much to capture one of these contraptions. 
+
+## **Duel Wielders**
+
+- There are many who wish to see the practice of duelling abolished. They complain that the practice ensures a belligerent wizard wins the office, not the most scholarly or wise. Characters may be brought into a conspiracy to discredit the practice. 
+
+- Proponents of magical duelling  argue that the practice helps assure the common folk of the utility of wizards. Were the Supreme Patriarch to be anything other than an accomplished battle mage, they would treat wizards with greater disdain. Interested parties may ask the Characters to investigate rumours of a conspiracy to discredit this time-honored tradition. 
+
+## **The Grey College**
+A cramped maze of alleyways defies  mapping of one corner of the Hexxerbezrik. Mutant births are commonplace here, and rumours of Daemonic manifestations persist, though never quite confirmed. The Grey Order’s college is here. The building is modest, constructed of ancient and crumbling stone. It is an eerie sight: the walls are missing stones, the windows stained and moss-covered. A parliament of white owls nests in the college’s lone, listing tower. 
+
+The interior looks just as decrepit. Grotesque statues line the walls, and footsteps echo throughout the empty rooms. A few deserted laboratories house old equipment shrouded in dusty cobwebs. A great library is said to be found within, containing volumes of lore and secrets of the dark cults in the Empire. However, only a Shadowmancer could ever hope to find this library, if it exists at all. 
+
+## **Truth Bomb**
+
+- The Cult of Verena is hostile towards the Grey Order, accusing them of evading justice and obfuscating knowledge. A strange Verenan approaches the Characters with a mystical artefact, asking that they sneak it into the College. The artefact destroys illusions, rendering the truth of the college bare for all to see. 
+
+## **The Amethyst College**
+The Amethyst College is built of dark stone and decorated in baroque flourishes. The doorways have pointed arches, the windows are tall and narrow, and morbid gargoyles brood on steeply pitched roofs. Numerous narrow towers rise from the bulk of the building. 
+
+The air within smells musty, and carries a hint of embalming fluid. Black and purple drapes hang in dark corridors, where dust lies thick on the floor until stirred into choking clouds by intruding feet. Doors open into empty rooms where dark, heavy furniture stands wreathed in cobwebs. Small shrines to Morr occupy most rooms. 
+
+Whilst the college may appear at first glance to be uninhabited, anyone who ventures in further than the outer shell will find the Amethyst wizards. It is rare to meet them in the corridors. Towards the building’s centre, the doors to most rooms are closed, often locked, and bear name plates. These are the wizards’ personal quarters. Located deep within the structure are libraries, laboratories, and a vast echoing dining hall. 
+
+## **The College Foundry of the Gold Order**
+The Gold College is five stories high at its tallest point. Its many towers and courtyards connect through a maze of passages, laboratories, dormitories, and forges. Lofty chimneys belch out pungent multi-coloured smoke, and culverts divert the waters of the Reik to cool furnaces and power water wheels. 
+
+Despite its brutal exterior, the college’s reception areas are luxurious. Draped with rich carpets, heavy velvet curtains, comfortable couches, and gilded statues of past patriarchs and matriarchs. The private rooms of the great lord magisters of the order overlook the River Reik from the fourth storey, near the back of the building. 
+
+At the very centre of the college is a massive library with thousands of books on alchemy, metallurgy, and herbalism. Myriad laboratories occupy the bulk of the building. Rows of skylights let in as much light as possible whilst venting noxious vapours. The laboratories are cluttered with alchemical equipment and countless glass bottles of liquids and powders. 
+
+## **Forbidden Foundry**
+
+- It is said that within the deepest cellars of the college, there are several lead-lined chambers where senior Alchemists carry out dangerous experiments. The old adage has it that the Gold wizards seek to turn mundane ore into purest warpstone in this hidden sanctum. 
+
+## **Mundane Alcemists’ Guild**
+Mundane alchemists, as they are known, have no skill in the practice of magic. Nonetheless, their curiosity as to what constitutes matter and how it can be manipulated makes them bedfellows (and rivals) to the wizards of the Gold Order. Their laboratory complex is built in the Hexxerbezrik, close to the Gold College. 
+
+Before the establishment of the colleges, mundane alchemists theorised that all matter derived from combinations of essential elements. However, the Gold Order quickly demonstrated the limitations of this view. Resentment between mundane alchemists and their magical counterparts grew. After important treatises ‘disappeared’ from the Gold College library, several mundane alchemists suffered injury in laboratory ‘accidents’. 
+
+Ever since, there has been an uneasy peace. Wizards of the Gold Order have leaps of comprehension into the nature of matter, which they report to the mundane alchemists, who try to work out the material reality behind such insights. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Arboretum of the Jade College**
+The grounds of the Jade College are beautiful parkland where the vegetation is always verdant. Aside from a few circles of banked earth or standing stones, the only structures are made from the trees themselves. Several streams run through the grounds and converge in a vast silver pool. An immense wall surrounds the arboretum, over 60 feet in height and unbroken by windows or towers. Spirals, triskeles, and oak leaf symbols decorate the green-glazed brick. 
+
+Jade wizards may enter without question, even when they bring friends. Amber wizards are also welcome. Whilst the Amber College is outside the city, the Shamans maintain small sites in the arboretum for use in extreme circumstances. 
+
+A dense grove of trees forms the heart of the college. Magic has shaped these trees into a living hall. Branches and leaves form the walls and floors of a great domed chamber. Around this are many smaller rooms, which members of the College use when they choose to stay here. The rooms are all similar, furnished with carefully shaped branches and upholstered with moss. 
+
+## **Fen at Work**
+The Jade College maintains a score of Fenbeasts tasked to fetch and carry, maintained by the ceaseless channelling of dozens of apprentices. Should those apprentices be distracted, or drugged, the elemental constructs might run wild. 
+
+## **Great Precinct of the Light College**
+The precinct is a great space of strange architecture and grotesque statuary, desert sphinxes and monumental ankhs with details picked out in azure lapis. The buildings are grand in scale but constructed to straightforward blocky or pyramidal designs. The symbols and hieroglyphs of ancient Nehekhara are inscribed onto the walls of buildings, inside and out. 
+
+The hierophants of the order insist that the strange appearance of their district is necessary in order to capture the notoriously elusive energies of Hysh for their rituals and studies. Their excuses do little to comfort typical Altdorfers, who find the whole area an eerie blight upon their city and a source of constant speculation regarding the secretive and foreign nature of the Light Order. 
+
+## **Patriarch at Large**
+Part of the reason the Light College suffers a poor reputation is as a result of the very public fall to Chaos performed by Egrimm Van Horstmann, who was once their Patriarch. The Light Order offers substantial rewards to anyone who can bring them news of the location, movement, or intentions of the renegade. 
+
+## **Elven Scholarship**
+Long before the Colleges of Magic were founded, elven scholars had been visiting Altdorf University as guest lecturers. Most of these ‘professors’ were secret agents tasked with retrieving lost tomes and artefacts for patrons back in Ulthuan. During the twenty-year period when Teclis was teaching wizardry, King Finubar dispatched scholars from Ulthuan in greater numbers. Their mission was to broaden Human understanding of astrology, mathematics, and philosophy — the prerequisites for advanced magical theory. A few of these academic missionaries even made the city their home. 
+
+Although Human patriarchs and matriarchs now govern the Colleges of Magic, High Elf wizards remain as advisors and overseers. The city’s magical nexus is too powerful to be left unsupervised, and human apprentices struggle to pronounce _lingua praestantia,_ the arcane language derived from Eltharin. The Altdorf Asylum attracts elven physicians for research opportunities, and the School of Navigators pays large stipends to its coveted elven instructors. 
+
+At the centre of this mystic jumble are three great pyramids — though people without magical sight have difficulty perceiving the third. Unlike its neighbours, it is not constructed of stone, but is an artifice of light itself, captured and held around the main offices and laboratories of the Light College. Within its labyrinthine dungeons, rumours say, is a great hoard of arcane treasure, which also contains a number of malefic artefacts.  It is the sacred duty of the Guardians of the Light, an arcane society of the order’s most powerful wizards, to keep them locked safely away from the world. 
+
+**ZOFIA MISKA – HUMAN MASTER WIZARD (GOLD 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|38|27|28|30|51|53|38|64|61|23|14|
+
+**Skills:** Channelling (Hysh) 81, Charm 28, Cool 66, Dodge 58, Evaluate 67, Gossip 26, Haggle 26, Intuition 56, Language (Magick) 89, Leadership 28, Lore (Magic) 84, Melee (Basic 48, Polearm 53), Perception 66, Ride (Horse) 56 
+
+**Talents:** Aethyric Attunement, Arcane Magic (Light), Attractive, Detect Artefact 2, Doomed ( _The first fire you set liberate you, the second fire enthrone you, the third fire consume you_ ), Fast Hands 2, Instinctive Diction, Magical Sense 3, Menacing, Nimble Fingered, Petty Magic, Pure Soul, Read/Write, Savvy, Second Sight 2, Sixth Sense **Trappings: Wizardly Robes, Ingredient Pouch, Grimoire, 4 GC 22/-** 
+
+## **Spells**
+**Light:** Aethyric Armour, Aethyric Arms, Banishment, Blast, Blinding Light, Bolt, Clarity of Thought, Net of Amyntok, Pha’s Protection, Speed of Thought **Petty:** Dart, Dazzle, Light, Magic Flame, Purify Water, Shock 
+
+## **Zofia Miska**
+## **The Bright College**
+Zofia was born in the northeast corner of Hexxerbexrik, the daughter of Kislevite émigrés. She has the poise and commanding presence of her Gospodar forebears, but her dense black hair and big brown eyes suggest Ungol heritage too. Zofia’s parents certainly claimed that they could trace their heritage back to Khan Queen Miska herself. Though, if this is true, their branch of the family has fallen into destitution since. Maybe the legacy of the Khan Queen has left its mark on Zofia, for she shows great aptitude for magic. 
+
+When it was first built, the Bright College stood within a jumble of tenements and alleyways. Nearby buildings have since been reduced to ash, and the college stands alone behind black wrought-iron railings. Within the gates, six imposing red brick towers rise high, blazing with flaming braziers. Streams of liquid fire run from the mouths of gargoyles and through channels down the sides of the building. 
+
+The interiors of the college buildings are entirely stone, and flaming braziers light the corridors. The few windows are mere outlets for smoke, and what sunlight does creep in pales next to internal fires. 
+
+As a Kislevite magic user with rather frosty airs, many assume Zofia must harbour sympathies with the Ice Witches of Kislev, or even have ambitions to become one herself. This assumption could not be further from the truth, for she abhors witchcraft. Her mastery of Hysh is in line with her personality: harsh, difficult, and pure in its defiance of Chaos. 
+
+Personal rooms have a wider range of decorations, and those on the inner side of the range have glazed windows overlooking the courtyard. However, illumination by open flames is universal, and at the heart of the college a gigantic beacon burns day and night. The number of fires means that the interior is oppressively hot. 
+
+Zofia has never heard of the Cult of the Vengeful Blaze, but Mornan Tybalt is aware of her. He is weighing the risks of inviting her aboard. If he took the chance, he would find her a powerful and devoted convert. 
+
+## **Schulergegend**
+Altdorf’s academic district is an eclectic mixture of classical architecture, timber-framed office buildings, and dilapidated tenements of grey brick. The Altdorf University complex occupies roughly a third of Schulergegend. West of the university is the Schlafstadt quarter, a shabby neighbourhood of poor students and menial workers. Schlafstadt’s many shops sell books, antiques, used furniture, tools, and weapons. The book vendors cater mainly to university faculty and students, but they also attract customers from across Altdorf and beyond. 
+
+East of the university complex are private clubs, administrative buildings, and townhouses rented by junior professors and middle-class students. The constant ruckus from the Street of a Hundred Taverns makes the eastern district a less desirable place to live. After business hours, buildings are locked securely against burglary attempts by drunken students and weirdroot addicts. Most of the fights that break out in Schulergegend involve gangs of rakish young noblemen and drunken tavern patrons. 
+
+## **The University of Altdorf**
+Altdorf is said to be the first centre of learning in the Empire. Although the University of Nuln is technically an older building, a tradition of sharing knowledge and keeping records is said to have been practiced in Sigmar’s Reikdorf. Today, the walled university complex is one of the Empire’s famous wonders. Five gates provide access to a sprawling maze of lecture halls, dormitories, and office buildings. A confusing array of staircases connect the multi-tiered open quads where students hurry between classes. Visitors without guides are bound to become disoriented. 
+
+The university’s five most prestigious colleges are those of law, medicine, military history, alchemy, and bestiara. Nuln is generally considered to have superior faculties of mathematics, science, philosophy, theology, and literature; however, Altdorf is somewhat less exclusive, making it more accessible to middleclass students. The diversity of the student body encourages vibrant intellectual discourse, and the nearby Street of a Hundred Taverns is abuzz with academic debate. Minor gods and their esoteric cults also find favour with the students; agitators compete for attention at the adjunct temple of Borchbach and the columned hall of the University’s sanctuary to the classical god Clio houses archaeological finds discovered in and around Altdorf. 
+
+A meister represents the professors of each college, and reports to the chancellor and vice-chancellor. Meisters are concerned with securing as much financing for their faculty as possible from the chancellor’s office. The Komission of Procuration handles admission, funding, and discipline. The university employs its own watchmen (called ‘porters’) and enforces night curfews with a variable degree of success. The gates are closed during curfew hours, but adventurous students have found that sections of the wall are easy to climb down from within (although getting back inside can be difficult). 
+
+## **Alma Matters**
+
+- Young rakes are their sycophantic entourages often make cruel sport of less well off students. Any who prove to be particularly adept academics are singled out for particular insult, derided as ‘inkies’ by their supposed betters To protect themselves and one another, the bullied students have formed a resistance group called the Inkies’ League. 
+
+- Before the Colleges of Magic were founded in 2304, Altdorf University briefly housed a wizards’ college that taught classical southern arcana. Many of the old grimoires are now proscribed, but wizards from the eight colleges still use the great library and teach classes in theoretical magic. Visiting elven scholars receive almost religious reverence. According to rumour, a statue of Clio that stands outside the Chancellor’s office actually depicted an Elflong ago, before erosion rounded its features. 
+
+## **The Lodge of the League of Karl-Franz**
+The university’s oldest lodge receives funding from aristocratic alumni. Its lodge is a turreted, stone building ornamented with wolf and griffon statuary. The League of Karl-Franz is infamous for the debauched behaviour of its membership, who revel in both this reputation and their apparent immunity to consequences for it. By long tradition, the revered bust of Ulric in the front hall is turned towards the wall between dusk and dawn so that he doesn’t have to witness League members disgrace themselves. Membership is restricted to noble students, few of whom would be tolerated if not for their family titles. 
+
+## **New Brat in Town**
+Chaplain Karsten Glieboldt’s wishes to reform the lodge without compromising its founding principles — ostensibly the instruction of the youth in the virtues displayed by the Emperors for which the lodge is named (and re-named, with each new monarch). Many of the League’s sponsors encourage its membership to oppose revolutionary groups and other reformers in the city, often by destroying their homes and businesses. Were this activity uncovered the Chaplain would have ample justification to reform the group. He would like to hire some discrete professionals to infilitrate the lodge, endure its notorious iniatitions, and gather evidence of this sort of activity. Of course, the Characters might be frustrated to find that the perpetrators face no real repercussions beyond academic censure and a letter home to their parents... 
+
+## **Ulli Von Tasseninck School of Religious Studies**
+The university’s theological college operates with funding from the Knights of Everlasting Light and the noble von Tasseninck family. In front of the modern, brick building is a statue of Ulli von Tasseninck, an Ostland nobleman who was executed without trial during the 2506 Waterfront War. A vandal removed the statue’s head some time ago, and pranksters often substitute it with a pumpkin. The student body includes initiates and lay scholars of both noble and common parentage. 
+
+## **Shakey Foundations**
+Von Tasseninck was himself a professor and knight of Verena. His family founded the college after his death. Faculty members praise Tasseninck as a champion of religious freedom who exposed corruption amongst his noble peers. Unfortunately, Ulli’s legacy suffers from rumours of depraved crimes and mistreatment of his servants. Several of the faculty are crypto-Brustellites who urge students to organise protests under the PLANT banner. The League of Karl-Franz claims the school is a breeding ground for violent revolutionaries. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Temple-Library of Verena**
+The Cult of Verena maintains the great library of Altdorf University. Researchers can only enter the library by way of the temple. Four tall spires surmount the sandstone structure. Within the temple are side chapels to Sigmar and other major gods; however, only priests of Verena attend daily. Verena’s chapel is a quiet reading vestibule that connects the temple to the great library. Manfred Archibald is the high priest; he is a tall and dapper man of considerable academic ambition. 
+
+The library proper was the first of its kind in the Empire. Long ago, it housed original writings of the elven physician Gaelen alongside laws and treaties recorded by Sigmar’s own heralds. Though these original scrolls have disintegrated, their contents were preserved in copies translated by priests and bound into books. The university adds new library wings whenever the ever-expanding collections exceed capacity. Verenan initiates aid students to navigate the stacks using a complex cataloguing system. Gifted youths who cannot afford university tuition receive tutoring from a Verenan lorekeeper, Ludolf Traugott. 
+
+## **Ancient Mystery**
+The library’s restricted cellar vaults contain tomes ranging from apocryphal to heretical. The Order of Mysteries, a Verenan organisation devoted to recovering lost knowledge, found many of these volumes in recent years. The order’s expedition leader, Oliver Kampf, is presently on a sea journey to Khemri with the Knights of the Scroll , leaving the order undermanned in Altdorf. Scholaradventurers who impress Manfred Archibald can find employment as field researchers.. 
+
+## **Layer of Literature**
+In the sewer below Hoffbahn Street is an inconspicuous rusted iron door leading to Estlemann’s secret vault. A trapdoor in the shop grants access to the sewer. Inside the vault is a small library, with lists of customers and titles pinned to the shelves. Some of the shelf spaces are empty. Others contain stacks of rare (and occasionally heretical) tomes. 
+
+## **The Grove**
+Situated apart from the noisy taverns and thoroughfares is a social club for mature scholars. The Grove clubhouse was once the residence of a prosperous merchant, forced to flee Altdorf under accusation of sorcery. High stone walls enclose a courtyard garden with a fountain in the likeness of an elephant. The club’s interior is decorated in soft colours and warmed by daylight streaming through tall window arches. 
+
+Philosophy students from the university plan the Grove’s social events, even though the clubhouse technically belongs to the Light Order. The club operates as a cooperative in which members gain standing by volunteering to clean, garden, and cook. Non-members are welcome, provided they leave their shoes at the door. Every room is comfortably furnished and contains books of esoteric academia for casual reading. 
+
+## **Sorcery Society**
+
+- Several of the city’s most powerful wizards are Grove members, however they usually attend the club dressed in ordinary attire. Guests may be surprised to find out that some of the club’s ‘cleaning staff’ are wizards just doing their part to be responsible members. Erudite guests can make valuable contacts from both Altdorf University and the Light College. 
+
+## **Estlemann’s Bookshop**
+Janus Estlemann is the most famous of Hoffbahn Street’s many book dealers. The crafty antiquarian rents the ground floor of a neglected five-storey brick building. Upstairs, penniless students and other ne’er-do-wells live in cheap apartments. Nobles, scholars, and wizards purchase books from Estlemann despite his shady reputation. Estlemann is fluent in classical languages, and he can find rare books that none of his competitors stock. 
+
+The city watchmen believe Estlemann sells stolen merchandise; in truth, he operates a blind trading ring. Customers acquire rare titles in exchange for books from their own collections that appeal to other customers. Estlemann has a knack for making scholars boast about the contents of their libraries. His complicated system involves promising books that he doesn’t yet own and buying books that he doesn’t yet need. 
+
+## **Professor Frederich ‘Old’ Weirde**
+Those who know Old Weirde find him a genial, eccentric character, with a seemingly bottomless knowledge of the many cultures of the world and how they wage war. People tell tall tales of his past — that he was once a sorcerer, that he has travelled to every continent, and that he has advised the Emperor, Tsarina of Kislev and the King of Bretonnia on how to triumph in battle. 
+
+None of these are quite true, but Professor Weirde can seldom be bothered to counter the myths — he’s too immersed in his research. Many an Altdorfer is familiar with seeing the venerable scholar shuffling between the Altdorf University Library, his home in Schulergegend and his favourite drinking haunt, the Crown and Two Chairmen, where he enjoys many a pint of Speckled Hen by the hearth. 
+
+The good Professor is foremost a historian and scholar of warfare. Copies of Old Weirde’s Tacticus are essential reading for those who are learning the military arts. In the last 30 years, he has also produced a series of pamphlets on the history and lore of the many nations and creatures of the world. Olde Weirde’s Incunabula is an expansive collection of his learning on the Unliving Denizens of Khemri, the Savage Greenskins, the Reptile Folk of Lustria, the Blighted Tribes of the North, and many other fantastical species. He attempted to publish a tract on the Skaven, but the manuscript was stolen. 
+
+Professor Weirde is sceptical of prior scholarship, and prefers to rely on first-hand accounts rather than believing the work of other academics. As such, his knowledge is more accurate and reliable than most scholars’ work. If characters want to know more on unusual civilisations or species, he is happy to expound on what he knows, preferably in exchange for a bottle of Estalian port and tales of their own encounters with the esoteric or unusual. 
+
+**FREDERICH ‘OLD’ WEIRDE – PROFESSOR (GOLD 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|26|24|30|48|63|33|52|65|60|55|19|
+
+**Skills:** Art (Writing) 72, Bribery 75, Charm 75, Consume Alcohol 68, Entertain (Lecture 75, Rhetoric 70, Storytelling 70), Gamble 85, Gossip 75, Haggle 75, Intuition 83, Language (Classical 85, Gospodarinyi 85, Norse 85, Ungol 85), Lore (Bestiaria 85, Heraldry 75, History 75, Reikland 88, Warfare 85), Perception 83, Research 85 
+
+**Talents:** Bookish, Coolheaded, Doomed (The end is near, but you ne’er get to see it), Etiquette (Scholars), Linguistics , Magnum Opus, Public Speaker, Read/Write, Savant (Bestiaria, Warfare), Savvy, Speedreader 4, Sharp, Super Numerate, Tower of Memories 4 
+
+**Trappings:** Writing Equipment and Study, Research Library, Correspondants in exotic locations 
+
+ALTDORF — THE CIT Y NORTH 
+
+Despite this, the Chancellor has genuine respect for the Dwarfs, and has cultivated good relations with the elders in Metallschlacke. He is currently making overtures to the Dwarf Engineer’s Guild to help the University establish a more impressive School of Engineering than his hated rival the University of Nuln. 
+
+## **Chancellor Eberhardt Von Festschrift Professor (Gold 1)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 37 | 33 | 31 | 51 | 53 | 33 | 59 | 65 | 53 | 58 | 19 |
+
+**Skills:** Art (Writing) 81, Bribery 68, Charm 78, Consume Alcohol 61, Entertain (Lecture 78, Rhetoric 73, Storytelling 73), Evaluate 85, Gamble 85, Gossip 88, Haggle 68, Language (Classical 85, Khazalid 85), Leadership 78, Lore (Heraldry 75, History 85, Law 85, Philosophy 75, Politics 75, Reikland 68), Melee (Fencing) 52, Perception 73, Play (Lute) 69, Research 90 
+
+## **Chancellor Eberhardt Von Festschrift, University of Altdorf**
+The Chancellor of the University of Altdorf has been a von Festschrift for three generations. Although the position is in no way hereditary, the ambitious family cling to the position’s prestige and power far more than they have ever valued scholarship. After all, the University of Altdorf is more than a place of learning. Many noble scions spend years ostensibly studying in its chambers and lecture halls, so the institution has considerable political influence in Altdorf and beyond. 
+
+The Chancellor is a small man with protuberant eyes, a weak chin, and a commanding bark. He struts about the city in his academic robes with a small entourage of scribes and clerks running alongside to record his every utterance. He haunts the Palace’s corridors of power,  and noble households, ensuring that the Empire’s upper echelons send their scions and gold to the University. He involves himself in political discussion, inveigling himself in the Imperial court as an advisor and powerbroker. Elements in the University faculty who undermine his standing are dealt with swiftly. The disruptive radical Professor Brustellin was dismissed by von Festschrift personally, and he was recently tipped off that Professor Quintus Fassbinder is a trouble-causer of a similar type. 
+
+For appearance’s sake, von Festschrift writes long-winded academic treatises on the influence of Dwarfen culture on the Empire’s early Human tribes. To save time, a small group of junior academics do the research and writing on his behalf, ensuring to keep it turgid, purely for authenticity. 
+
+**Talents:** Bookish, Coolheaded, Doomed ( _Beware the Griffon’s Tail!_ ), Etiquette (Guilders, Nobles, Scholars), Linguistics, Luck, Magnum Opus, Master Orator, Noble Blood, Public Speaker, Read/Write, Savant (History, Law, Philosophy), Savvy, Speedreader 3, Shadow, Suave, Super Numerate 2, Tower of Memories 3, Wealthy 2
+
+**Skills:** Symbol of Verena, Somber Academic Robes
+
+## **Komission of the Imperial Archives**
+Near the waterfront is the Imperial archive building. The modern stone structure dates to 2431, after Emperor Wilhelm II relocated the throne from Nuln back to Altdorf. A tall clock tower, designed and maintained by the Engineers’ School, displays Imperial standard time. Official reports and court records are stamped according to the Komission clock. A clerk files information requests and adds to a long waiting list. 
+
+In the interest of Imperial security, citizens are forbidden from searching the archives. Visitors interact with clerks through iron bars in the lobby. Persistent researchers might receive a meeting with Master Archivist Jurgen Kuiver, who provides a heavily redacted report and a verbal summary of the Komission’s findings. Jurgen’s chief concern is to put Altdorfers at ease. 
+
+## **Sensitive Information**
+
+- Politically sensitive court documents detail the Marienburg secession, the 2429 deposition of Emperor Dieter IV, and scandals involving the von Krieglitz family of Talabecland. These records could ignite a civil war if released to the public. 
+
+- A dedicated vault contains Watch reports of Skaven sightings in the city, organised chronologically by timestamp. Open knowledge of the full extent of these reports would risk mass panic. 
+
+## **Sapherian Embassy**
+The Kingdom of Saphery has long standing diplomatic ties with the Empire. Its embassy building was a residence for visiting elven wizards even before the founding of the Colleges of Magic. Distinguished by a gleaming white marble tower, the embassy is conveniently located dockside so that elven dignitaries can disembark from their ships without hassle. Delegates from Lothern use the Sapherian embassy when visiting Altdorf on behalf of Phoenix King Finubar. 
+
+Anurion the Green is the reclusive loremaster and Archmage of Saphery. His younger brother Yrtle was one of three archmages to fight alongside Magnus the Pious during the Great War Against Chaos. Sadly, Yrtle lost his life to a greater daemon of Slaanesh. Teclis and Finreir went on to establish the Colleges of Magic. Since his brother’s death, Anurion the Green has kept busy tending his palace garden in Ulthuan. 
+
+## **Turmgarten**
+Altdorf’s elven minority mostly resides in a quiet quarter near Altdorf University and the Colleges of Magic. Fewer than half of Turmgarten’s residents are Elves, and even these are mostly staying in Altdorf on short-term engagements. The remainder are Human professors, doctors, and wizards who work in other districts. Student parties rarely spill over into Turmgarten because elven magic can put a crowd of noisy drunks to sleep instantly. The quarter owes its nickname ‘tower garden’ to the mysterious elm park near Hexxerbezrik. 
+
+Most of the buildings are timber-framed townhouses owned by Human landlords. Elves typically rent a floor or two for the duration of their stay in the city. Intermixed with the human architecture are white stone houses echoing graceful Ulthuan style. These houses were built in the 24th century by elven scholars and wizards serving long-term commitments as diplomatic envoys or ‘enlightenment missionaries’. 
+
+## **Saphery’s Secrets**
+
+- Anurion wishes to fill his garden with every species of flora in existence. High Elf adventurers search the Old World for obscure plants and return them to the embassy potted in their native soil. Occasionally, for unknown purposes, Anurion delivers potted seedlings to the embassy with transplantation instructions for a distant site. 
+
+- Sapherian Loremasters understand the Old Ones’ geomantic web: an ancient gridwork of magical ley lines that stabilises planetary weather, orbit, and rotation. Altdorf is a major nexus point on the web. High Elf adventurers serve the embassy as ley line restoration agents in remote parts of the Empire. This usually involves righting toppled waystones or performing maintenance rituals. 
+
+## **Elven Politics**
+High Elves exert more influence in Altdorf than they do in any other human city. Sigmar had warned the Empire’s tribes that only Elves could wield sorcery safely. When Archmage Teclis established the Colleges of Magic in 2304, it was at the behest of Emperor Magnus the Pious. Since that time, Emperors have retained at least one court advisor from Ulthuan. The elven advisor to Emperor Karl-Franz is a taciturn sage-princess from Lothern named Daendra Stillwater. 
+
+The city’s Elves are not politically united. High Elves expect one another to provide sound justifications for abandoning the defence of Ulthuan to live amongst Humans. Each High Elf therefore considers their own business to be of utmost importance. Most swear fealty to the Phoenix King and hold temporary positions as envoys or scholars. Rivalries between the provinces of Ulthuan are hotly debated in Altdorf’s elven parlours. The city’s sub-minority of urbanised Wood Elves feels no special kinship for their Asur neighbours. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **New World Dinery and Delicatessen**
+Located on the quiet, residential Asurstrasse is a vendor of traditional Ulthuan cuisine. The front room of the timberframed shop is a delicatessen selling waybread, pickled eel, capers, and other elven favourites. Each table in the back restaurant has a brass whale oil lamp and a curtain separating it from the next booth. The excellent food draws both homesick Elves and gastronomically curious Humans. 
+
+The New World’s proprietors, Casadora and Evandrel, are second-generation Altdorfers who fell in love and decided to make a life together after their families returned to Ulthuan. Casadora is the chef, meanwhile Evandrel runs the delicatessen and hosts the dining room with the couple’s young daughter Ofelia. Customers never question the dinery’s ability to serve fresh squid and shark meat so far from Ulthuan’s shores. 
+
+## **A Lack of Elf Awareness**
+
+- The couple knows a smuggler from Marienburg’s Elftown district who makes weekly deliveries to Altdorf with his sleek Elven corvette. Port officials never question him because he’s an Elf. The captain transports exotic seafoods from the Manannspoort Sea up the Reik, along with Moonflower that he sells to Altdorf’s many dens of iniquity. The smuggler is secretly a member of the Cult of Pleasure. 
+
+- Altdorf’s High Elf ambassadors and envoys are regular clients. Customers can meet influential elves at the dinery, and overhear politically sensitive conversations, in Eltharin, through the curtains. Casadora and Evandrel are discreet about their clients’ business, but the innocent Ofelia tends to answer questions that she shouldn’t. 
+
+## **Elven Commerce**
+Ulthuan’s merchants rarely have cause to visit Altdorf. They can buy Reikland trade goods from Marienburg middlemen who regularly ship to Lothern. Conversely, Reikland merchants can buy elven goods on the Marienburg exchange without having to sail trading cogs across the Great Ocean. On the rare occasion when elven trade catamarans come to Altdorf, dock officials take them for diplomats and direct them to the embassy. High Elf merchants pay with Marienburg guilders and Ulthuan sovereigns, rather than Imperial currency. 
+
+Visiting Elf merchants are usually from either the kingdom of Cothique or the Elfsgemeente district in Marienburg. Traders from Cothique operate independently of the Sapherian embassy and flagrantly ignore its diplomatic policies in their dealings with Humans. Wood Elf traders from the Laurelorn and Reikwald forests occasionally buy goods in Altdorf that are not available in smaller towns and villages. The Queen of Laurelorn has agents watching Altdorf’s black market for ancient elven relics. 
+
+## **Great Altdorf Asylum**
+Altdorf ’s asylum was founded during the reign of Magnus the Pious for veterans who were traumatised during the Great War Against Chaos. At present, only the third floor houses patients of unsound mind. The cellar and first two floors have been converted to a sanatorium and quarantine facility. ‘The hospital’ (as locals call it) connects to a Shallyan shrine by a walled garden. Shallyan nuns run the asylum with the assistance of male orderlies. 
+
+## **Healing and Hypnotism**
+
+- An Elf physician, Professor Freydion Starwise, advises the nuns. The professor specialises in treating Chaotic afflictions of the mind. Starwise uses hypnosis and dream analysis to discern Daemonic possession from true madness. Elven scholars have learned a great deal about the Realms of Chaos from interviews with possessed inmates. Sigmarite inquisitors who cannot extract Daemons by exorcism or torture might entrust corrupted victims to the Shallyans as a last resort. 
+
+## **Waverider Trading House**
+The Waverider company is a joint venture between three merchants from Altdorf and four traders from the rugged eastern kingdom of Cothique on the isle of Ulthuan. Cothiquian traders are adventurous by nature and enjoy seeing faraway places. The Waverider office is an elegant, white stucco building with a tearoom on the ground floor and offices on the upper two floors. The company’s clerks and agents are primarily Humans. 
+
+Waverider’s Altdorf partners want to challenge Marienburg’s monopoly on elven trade. Its elven partners feel the same about Lothern’s monopoly on human trade. Despite Cothique being the nearest kingdom to the Empire, its coastal reefs aren’t navigable by Human merchants. The company is unpopular with Elves whose commercial interests align with Marienburg and Lothern. Altdorf merchants respect Waverider as a feisty underdog nipping at Marienburg’s heels. 
+
+## **Watchful Waveriders**
+
+- The company’s Cothiquian owners don’t entirely trust their Human partners, but they have little patience for office work. They sometimes hire High Elf adventurers as sales agents or caravan guards, with a dual mission of monitoring the Altdorfers for embezzlement activity. When the Cothiquians are away at sea, they expect Elf employees to attend tedious and extravagant meetings as representatives of the esteemed race. 
+
+**MELINDA GREYWEAVE – ELF WITCH (BRASS 2)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|5|57|41|31|38|51|62|42|48|65|53|15|
+
+**Skills:** Bribery 63, Channelling 75, Charm 63, Climb 46, Cool 75, Endurance 48, Entertain (Act) 63, Gamble 58, Gossip 68, Haggle 63, Intimidate 41, Intuition 56, Language (Eltharin 53, Magick 58), Melee (Basic) 62, Outdoor Survival 53, Perception 64, Secret Signs (Scout) 58, Sleight of Hand 52, Stealth (Rural) 75, Track 54 
+
+**Talents:** Acute Sense (Sight), Arcane Magic (Witchcraft), Blather, Criminal, Etiquette (Nobles, Scholars), Instinctive Diction, Lip Reading, Night Vision, Petty Magic, Read/Write, Rover, Second Sight, Sixth Sense, Shadow
+
+**Trappings:** Tattered Clothing,
+
+## **Spells**
+**Petty:** Dazzle, Drain, Murmured Whisper, Eavesdrop **Witchcraft:** Curse of Crippling Pain, Curse of Ill-Fortune, Haunting Horror, Evil Eye 
+
+## **Wall of Remembrance**
+## **Melinda Greyweave, Watcher of the Watchers**
+By the waterfront is an elm garden encompassing an ancient section of crumbled wall. The wall is a remnant from the elven city of Kor Vanaeth, destroyed over 4,000 years ago during the War of the Beard. Under the serene canopy, visitors can temporarily forget they are in Altdorf. Elves plant flowers for Isha and light candles for Asuryan. Occasionally, a Dwarf comes to honour his fallen ancestors. 
+
+Melinda came to Altdorf 200 years ago as a spy for the Queen of Laurelorn. Living in the human city for so long has taken a toll on her mind, and now she wanders the streets at night muttering to herself. Melinda wears a tattered dress and covers her head with a threadbare shawl. Although she habitually avoids eye contact for anonymity’s sake, her sunken face no longer resembles that of an Elf. 
+
+Wood Elves enjoy taking their meals in the garden to reconnect with nature. A majority of these ‘orphans of Isha’ originate from a small kinband that’s gradually integrating into the Reikland. Despite their human garb, however, indigenous Reikwald Elves do not forget that their forebears were driven from Kor Vanaeth long ago. The handful of Wood Elves who remain as resistance fighters in the Reikwald forest consider them traitors. 
+
+When the Colleges of Magic were built, the Queen of Laurelorn questioned Teclis’s judgment. The site was a powerful arcane fulcrum upon which Kor Vanaeth had existed millennia earlier. The keen-sighted Melinda was sent to monitor Teclis’s overseers and ensure the fulcrum wasn’t corrupted. Although the queen’s spy was untrained in sorcery, she has observed so much magical instruction that she has learned to harness the winds of magic. Melinda has been left haunted by the Chaotic influences she was exposed to by her unortodox path to power. 
+
+## **A Leach of Shyish**
+Melinda sleeps in a Turmgarten alleyway under a shelter of elm branches. She’s surprisingly lucid when encountered at the Wall of Remembrance, where she eats picnic scraps and converses with tiny, glowing Spites. Melinda has nearly forgotten her original mission, although she recently discovered a new glade of magical Lornalim trees while shadowing Amber Wizards to the hills south of Altdorf. The grateful Queen of Laurelorn despatched a company of Elves to the Amber Hills, and their camp occasionally sends someone to check on Melinda’s wellbeing. 
+
+The nearby Arcane Towers permeate the garden with life and death magic. When Mannslieb is full, the garden converges with a mystical realm that Wood Elves call ‘the weave’ and Bretonnians call ‘the otherworld’. On those nights, an Elfghost drifts through the streets of Altdorf seeking lost family and loved ones. Humans have disappeared from the garden during full moons. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Chylis Lightbringer Elf Master Wizard (Gold 1)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 62 | 44 | 31 | 33 | 64 | 63 | 44 | 80 | 80 | 23 | 17 |
+
+**Skills:** Animal Care 90, Channelling 100, Charm 38, Cool 100, Dodge 83, Evaluate 85, Gossip 48, Intimidate 46, Intuition 84, Language (Battle 85, Eltharin 115, Magick 105), Leadership 48, Lore (Magic 100, Warfare 95), Melee (Basic 67, Polearm 82), Perception 87, Ride 78, Sail 66, Swim 37
+
+**Talents:** Acute Sense (Sight), Aethyric Attunement, Arcane Magic (Fire, Heavens, Life), Night Vision, Petty Magic, Read/Write, Savvy, Second Sight
+
+**Trappings:** Sapherian Robes, Grimoires of the Three Lores she Favours, Locket from a Long Dead Lover, 12 GC, 14/-
+
+**Spells:** Chylis knows every Petty Magic and Arcane Spell, plus all those from the Lores of Fire, Heavens, and Life. 
+
+## **Altdorf’s Dwarfs on Magic and Elves**
+## **Chylis Lightbringer,**
+While Runic Magic is seen as a gift from the Ancestor Gods, most Dwarfs believe that no good comes from the colour magic those pointy-eared Elves (Teclis and his companions, Yrtle and Finreir) taught the foolish Manlings. They understand that magic used by the enemies of Dwarfs and Humans corrupts its practitioners (even Elves) and inevitably leads to Chaos. Thus, the majority of Dwarfs fault Emperor Magnus the Pious for foolishly allowing Manlings to be taught a power that in the end will consume them. 
+
+## **Tower of Volans Ritual Leader**
+Chylis is one of several High Elf mages from Saphery appointed to oversee the Colleges of Magic. The ritual leader has only been in Altdorf for a few years, but it’s already felt like an Elven lifetime. Chylis is visibly bored of the Human wizards’ rituals. Usually she stands aloof and buries her nose in a grimoire. Chylis’ silver hair cascades down to her ankles over turquoise robes, and she often carries a wand. 
+
+High Loremaster Teclis appointed Chylis to Altdorf after Thyrus Gormann won the post of Supreme Patriarch of the Colleges. Although Chylis reports directly to Gormann, her first duty is to Teclis. She counts the days until the next magical duel for College leadership, so that she can return home to Ulthuan. Chylis is certain that apprentice wizards deliberately mispronounce their incantations just to catch her attention. 
+
+Chylis resides in an upstairs suite at the Sapherian Embassy. On most days, she can be found at the Tower of Volans advising Gormann and avoiding apprentices. Chylis welcomes any excuse to leave the colleges for an afternoon. In the event of a magical emergency, Chylis has secret orders to activate an augmentation crystal at the Arcane Towers which should, in theory, calm the winds of magic in Altdorf, but it is a dangerous artifact in itself. If not installed properly, the resultant magical surge could open a portal to the Realm of Chaos. For now, she stores the crystal in the vaults beneath the Cathedral of Sigmar. 
+
+Despite the obvious utility that wizards played in the Great War Against Chaos, most Imperial Dwarf veterans still hate magic and abhor its use. There was nothing the Dwarfs could do when Emperor Magnus, the Victor of Kislev decided to incorporate the Colleges of Magic in Altdorf and deployed wizardry graduates into the Imperial army. All they could do was grudgingly acknowledge this reality of the situation and hope for the naive manlings to come to their senses 
+
+The presence of the Colleges of Magic in Altdorf is quite disconcerting. Dwarfs are not normally sensitive to magic, but they feel uneasy around the college buildings. Dwarfs are rarely found in the streets of the Hexxerbezrik . 
+
+## **The Keep**
+The official way to reach the Großvaters’ Zuhause keep is to traverse the ancient bridge that connects the island to the northern embankments of Schulergegend. The bloated fortress that dominates the island is a curious construction, erected upon ancient foundations thought to predate the settlement of Reiksdorf. Discerning eyes can make out different strata of rock used to erect the buildings and the walls surrounding them. Some stones were cut by Dwarfs, some by Elves, but most by Imperial stonecutters. 
+
+## **Großvaters’ Zuhause**
+On this fog-shrouded island lies a hulking and well-fortified keep, looming dark and foreboding over the surrounding waters. Should superior enemies, plague, or fire ever overrun Altdorf, this is the Emperor’s final retreat. But the keep is home to dark secrets, and the grey wind of Ulgu suffuses the place. In the dungeons below, odd artefacts and carvings can be found among the original foundations. These suggest that this keep was once home to bizarre inhabitants. 
+
+A sense of unease and malign influence permeates the atmosphere. Being stationed at the Großvaters Zuhause is seen as a punishment. Superstitions are rampant among those unfortunate to have served here. Troops garrisoned here oftentimes go mad, raving of beastly apparitions and inexplicable visions of rituals. In the worst cases, soldiers fling themselves to their deaths from the highest walls of the keep. The Emperor is acutely aware of the island’s reputation and never goes there. He is unsure how best to handle the situation. 
+
+Governor Jürgen Mensch runs the keep. Peers call him the only bureaucrat already mad enough to accept the position. He has held the office for over fifteen years, never venturing far from the central tower where he maintains his offices. His main tasks are overseeing the soldiers and servants stationed at the keep and making sure that everything is kept in order, according to the Emperor’s edicts. 
+
+Numerous storage rooms are accessible from the courtyard. Stock is replenished every month. Jürgen has become obsessed with keeping the stores stocked exactly as their manifests outline. Knowledge of the smallest shortfall literally keeps him up at night. To be fair, there isn’t much else for him to do. 
+
+The Emperor maintains an opulent suite of rooms here, fully furnished and always ready to accommodate his presence should the situation in Altdorf so require. A large war room adjoins the suite. The floor is inlaid with a splendid mosaic map ofAltdorf to support strategic planning in a time of crisis. But these rooms are all empty and eerily silent; the only visitors are reluctant servants who keep the premises tidy. 
+
+A haphazard, labyrinthine  dungeon lies below the fortress. Delving deep into the dungeons reveals caves and winding burrows. No one alive knows where these corridors lead, but legends say traversing the maze takes one far from Altdorf. 
+
+## **Madness Gate**
+A drawbridge leads to the island and its only gate. This entrance is known as Madness Gate. It derives its name not from the island’s reputation, but rather from the grotesque statues and gargoyles that decorate the gate itself. 
+
+The governor’s special guards staff the gate. Dour and humourless, they follow orders without question or doubt. Their primary task is to keep people out, which is actually quite simple since no one visits Großvaters Zuhause without very good reason. Papers signed by the proper Imperial bureaucrats are requisite to gain access to the keep. 
+
+## **Staff Required**
+
+- The party needs the proper papers to get inside the keep and complete their goal. Can they find someone to bribe, or should they take a job delivering goods to the keep? The governor is always looking for people to drive the wagons and carts, since most people fear the taint of madness that lingers about the keep. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **The Emperor’s Beacon**
+The central tower of the keep holds the governor’s offices as well as his living quarters. Mensch is quite aware of the madness that taints the keep and haunts his manservants, but — seeing as he was already out of his gourd — it’s had little effect on him. Amongst his staff, those who stay for any prolonged period tend to be eccentric themselves. Even with this handful of faithful servants, the governor is constantly strapped for qualified help. 
+
+At the very top of the tower is a huge iron basket, which holds a roaring fire in times of unrest. An intricate system of coloured crystal glass panes enables the governor to send out a beacon of varying colour to signal the level of threat the capital faces. The colors range from green, for ‘all is well’, through to blood red, when a major crisis looms.A glass pane in the beacon has cracked, and the governor hires the party to locate a glass-blower that can create a replacement. But Olga Abenfrau, the only artisan with the skill to do so, has gone missing. Luckily for the adventurers, they are approached by one Albertus Winklehaus, who can offer the glass they need. Canny or suspicious Characters realise that Winklehaus is selling Abenfrau’s wares as his own. He has the real glass-blower imprisoned in his basement. 
+
+## **Monsters and Hazes**
+
+- The party is hired to retrieve a cache of smuggled goods. Unfortunately, the shipment ended up on the Großvaters Zuhause, somewhere below the walls of the keep. The adventurers might try retrieving the goods by boat, which runs the risk of crashing against the jagged cliffs that surround the island. Or they could try to gain access to the fortress by joining the garrison or their way inside the walls. 
+
+- What is the curse that has befallen Großvaters Zuhause, and how can it be lifted? The governor is looking for expendable heroes to investigate the dungeons of the keep. In the darkness below, they find the remains of creatures long believed lost to this world, and worse. Clues suggest that the keep might have been built not to protect Altdorf from an invading force, but to keep something altogether more sinister locked in. 
+
+## **Imperial Counting House**
+Every penny raised through taxation in the city finds its way through the Imperial Counting House, to be counted, logged, re-counted, and re-logged, in triplicate. Guards surround the fortress-like building. Its walls, it is said, can withstand an artillery barrage. A steady stream of heavily guarded wagons makes its way in and out at every hour of the day. 
+
+Anders Clemens is in charge of the audit trail and spreads sheets of numbers all over the counting room tables, keeping track of every penny. One mistake could mean his job. He allows none of the clerks to go home at night until the books are exactly balanced. 
+
+## **Wolftor**
+The Wolftor district huddles around the great northern gate of Altdorf. It is common knowledge that Wolftor is named for its place on the road to Middenheim, the City of the White Wolf. Suitably, the area is populated largely by Middenlanders and other north-easterners, who take pride in that name. Many consider it an outpost of Middenheim, rather than merely a district of Altdorf. Even the Reiklanders here buy into the prevailing ideal of the brave northern wilderness, though some have never set foot outside the city. 
+
+## **Guild of Imperial Cartographers**
+This tall and well-kept building boasts an underground vault stocked with a copy of almost every map the guild has created. This acts as an unofficial record of much of the Empire, and the knowledge herein can always be re-sold. The vault is too small for the job, however, and it is stuffed and disorganised. There are any number of useful maps available, for those inclined to search through the mess. 
+
+The guild has many clients. The work it does for the Emperor is an obligation tied to the guild’s charter, and is very low-paying. The guild actually loses money on much of this work. However, the charter affords it the prestige to earn good money on private commissions. There is a steady stream of work at the guild house, and the guild is always in need of skilled draughtsmen. 
+
+## **Surviving the Survey**
+
+- Harald ‘Fruendlich’ Mörtel needs a numerate and literate group to hang out around the Counting House making a note of exactly what goes in and out of the complex, and when. The Characters should make sure they don’t attract anyone’s attention; if they are caught with this sort of information on them, it would only mean one thing. 
+
+- An official the Characters are dealing with suddenly realises they need to get a chest of gold to the Counting House before dark, and there is no time to lose. Clearly the Characters are trustworthy enough to do the job, and they will be well paid. Rushing a chest full of gold halfway across the city as night falls — what could possibly go wrong? 
+
+## **Excise Books**
+
+- The guild might send the Characters almost anywhere. Any group with the right expertise would be useful, and clients come from all over the Empire and beyond. Whether a job means mapping an entire mountain range on the edge of the Border Princes, or settling a petty land dispute between two Reikland smallholders, it needs a cartographer. 
+
+- A local baroness wants to claim a large expanse of disputed land. She figures that if a highly educated thief were to break into the vault below the guild house, they could change the relevant map and entitle her  to the land. And she has heard there is a secret way into the vault which involves just a short trip through the sewers. 
+
+## **Chapter House of the Knights of the Blazing Sun**
+For arguably the wealthiest order of knights in the Empire, the Altdorf chapter house is remarkably modest. The building resembles a large inn complex with the famous-sixteen pointed star hanging where one might expect the inn sign. There is little hint of the fortress that many other chapter houses resemble. The only knights here are those passing through on their way to duties elsewhere, and those detailed to receive new recruits and put them through their paces. 
+
+As the Blazing Sun prides itself on its itinerant knights, protecting pilgrims, and a continual quest for military excellence, there is little need for a lavish base in the heart of Imperial civilisation. 
+
+Klara Dunkelberg is the chief administrator. She has long since retired from active duty but maintains the sort of fastidious military demeanour that old soldiers are known for. She is still known to clunk around in full armour despite her failing knees. There is a shrine to Myrmidia in the complex, and this attracts Myrmidians from throughout the city. 
+
+## **Two Chances to Shine**
+
+- Berentzen Schnapps is a Knight of the Blazing Sun who has been staying at the chapter house for several months, drinking himself silly every night. This is poor form, and he risks being thrown out of the order. Klara Dunkelberg asks the Characters to convince Schnapps to return to a more devout path. Berentzen, however, has a dark secret and is drinking to forget. 
+
+- Klara needs a quantity of coin shipped up to the mountains near Ubersreik, at short notice, with no questions asked. She needs intermediaries to negotiate the job with the Fish: intermediaries who tread the narrow path between the honest military and the unscrupulous underworld. And she needs some sort of guarantee the money will arrive safely. 
+
+## **The Wolftor Temple**
+A large sculpted wolf ’s head gazes towards, and beyond, the Wolftor gate. Apart from a few high windows, it is the only feature to adorn an impressive, tall, stark tower of stone. This temple is one of two dedicated to Ulric in the city. This one prides itself on being the people’s temple, as it is located in the heart of the Middenlander area. Worshippers here joke that the rival temple is just part of ‘all the Imperial stuff ’ on the other side of the Reik. 
+
+Despite the independent streak of the typical Ulrican, High Priest Beorn Eisenbach is keen that the alliance between SIgmarites and Ulricans stays as strong as possible. He tries to get both sides to rise above their petty differences. He sees the struggle against the Dark Gods to be much less distant than most people in the city believe. 
+
+While most of the congregation are content with life in the soft Sigmarite south, some troublemakers resent that cult’s power and influence over Ulricans. A mob shouting Ulrican slogans has recently beaten up a number of lone Reiklanders, including a couple of soldiers. This has caused tensions in the area, and off-duty Reiklander soldiers have been getting boisterous in response. 
+
+## **Crying Wolf**
+
+- Thuggish Characters are hired to beat up some random innocent victims while shouting pro-Ulrican slogans. The shady patron claims to be a worshipper at the Wolftor Temple. If, however, the Characters manage to learn his real identity, he turns out to be a member of PLANT trying to foment division. 
+
+- Siegfried Waltz of the Black Chamber has got wind of antiSigmarite agitators at the temple. He needs some loyal Imperials to pose as Ulricans and join the temple, while keeping their ear to the ground. Of course, if their Ulrican cover-story slips, things could get nasty. 
+
+## **Temple of Ranald**
+The Temple of Ranald is all things to all the god’s followers. It is more of a collection of adjacent buildings than a single structure. Although the various structures and rooms connect through a tortuous series of tunnels, passages, and hidden doors, no links are apparent to outsiders. Even careful observation and even painstaking analysis of the city rolls cannot reveal how the faithful slip about within the complex. 
+
+All of these are functional in the way one would expect, but they also offer a way into the temple-proper for the initiated. The temple ensures only the faithful get in through a combination of passwords, calling cards, interrogation, and divine magic. The main hidden elements of the complex are the shrine, the casino, and the meeting hall. These are all just as insulated from each other as they are from the gateway establishments. If infiltrators compromised any given area, the rest would be safe. 
+
+The octagonal shrine is set out to resemble, very vaguely, a shrine to Sigmar. This is, they say, just a little joke rather than a blasphemous travesty. There is an altar with a gold cat sculpture, and a painted triptych showing three of Ranald’s aspects: the Night Prowler, the Protector, and the Gamester. The Gamester takes centre stage here, as it does throughout most of the Temple. Groups more dedicated to the Night Prowler and the Deceiver are found elsewhere in the city. 
+
+The meeting hall is nothing of the sort, but actually a series of small, secure, secluded rooms discussing sensitive business without fear of discovery. The sanctity of these meeting places is absolute, and no one would dare to eavesdrop on any of the conversations going on here (fingers crossed). 
+
+The gambling den is the most popular haunt, and usually accessed through the Black Cat tavern, where bouncers demand passwords. Almost any game can be found here, and a good number of the clientele are open to new ones. Some are played for fun, but most are for money. Some surprisingly large amounts are won and lost. 
+
+## **Viva Wolftor**
+
+- If the Characters wish admittance into the temple, they will need to prove themselves true Ranaldans. Petra Schneller, a priestess here, could do with a new feather for her cap. She asks the Characters to get a tail feather from the Stirland Abomination in the zoo. Of course, Abominations don’t have tail feathers and they are extremely dangerous. If she could get the unsuspecting Characters to enter the Abomination’s enclosure though, that would be a proper feather in her cap. 
+
+- Mia Chanz has a foolproof system to win at Nulner Whist (which is a lot like Herziger Whist, but sixes are wild). She just needs a couple of accomplices to learn her complex series of signals and plays. And then to follow them meticulously at the big game, all while making sure the house does not suspect a thing. 
+
+The façade of the temple comprises the Cross Hands boarding house, the Black Cat tavern, a number of modest shops selling all sorts, and a few innocent-looking residences. 
+
+ALTDORF — THE CIT Y NORTH 
+
+**COUNT JÄGER**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 56 | 34 | 33 | 33 | 78 | 78 | 68 | 76 | 66 | 62 | 15 |
+
+**Traits:** Blessed (Ranald), Dark Vision, Magic Resistance 3, Miracles (Ranald), Stealthy, Ward 3
+
+**Skills:** Athletics 93, Bribery 82, Charm 82, Climb 53, Cool 86, Consume Alcohol 53, Dodge 98, Drive 88, Endurance 53, Entertain (Acting 92, Conjuring Tricks 87,Storytelling 92), Evaluate 96, Intimidate 53, Intuition 98, Gamble 96, Gossip 87, Haggle 87, Language (Thief 96), Leadership 72, Lore (Art 91, Genealogy 81, Heraldry 81, Law 96, Local 96), Melee (Basic 76), Perception 93, Pick Lock 88, Research 86, Secret Signs (Thief) 91, Set Trap 88, Sleight of Hand 98, Stealth (Urban) 88, Trade (Engraver) 88
+
+**Talents:** Ambidextrous, Attractive, Alley Cat, Blather, Break and Enter, Briber, Cardsharp, Carouser, Cat-tongued, Catfall, Criminal, Dealmaker, Diceman, Embezzle, Etiquette (Criminals, Nobles), Fast Hands, Flee!, Gregarious, Luck 5, Master of Disguise, Nose for Trouble, Numismatics, Read/Write, Resistance (Disease), Secret Identity 4, Shadow
+
+## **Ranald’s Blessing**
+## **Count Jäger**
+Count Jäger’s luck seems to be catching. Characters who enjoy a drink, a game of cards, or other appropriate pursuit with him gain a temporary Fortune point. If it is not spent, the point is lost the next time the Character loses a game of chance. 
+
+Wild-eyed, theatrical, and ostentatiously ragged, old Count Jäger is a famous — though usually fleeting — sight from the slums of Altdorf to the parties of highest society. Wherever he goes, he is a blessing, bringing good fortune to those who see him, and the best of luck to those who can shake his hand, touch his robes, or get him to utter a greeting. 
+
+Characters may desire to seek out the count, but he is impossible to find for those who explicitly search for him. The best a Character can do is spend time in the lower-class streets, bars, and gambling dens that the count is known to frequent, and hope to quite literally get lucky. 
+
+They call him a count, but noble lineage is uncertain. Some say he is not Human, but an avatar of Ranald in the world. Some say he turns into a cat when you are not looking. The old man just seems to go about his way oblivious to all this fuss, taking advantage of any free wine, good company, and song. People enthusiastically shower this good will upon him wherever he goes. Ranaldans are always especially pleased to run into him, and know it will bring luck. 
+
+## **A Man You Don’t Meet Every Day**
+## **Avatar of Ranald**
+Physical manifestations of the gods appear a great deal in Elven legend, but  most Altdorfers scorn the notion that Count Jäger is divine. Lief of Stromdorf, a Grey Order scholar, is convinced that Count Jäger is more than a mere mortal, and has spent a year searching for him. Despite numoerus near misses his search has been in vain. 
+
+- Primrose Crowberry sells charms and trinkets in the marketplace. If someone could steal a genuine scrap of Count Jäger’s robes for her, she would pay a top price. However, as lucky as it is to meet the count in good faith, it is equally unlucky to behave so cynically. 
+
+For his part, Count Jäger declines to confirm any rumour. Asked about his divinity he shakes his head, winks, and hints that all tall tales told about him, even those that contradict each other, are somehow absolutely true. 
+
+- A visiting aristocrat has heard all about Count Jäger. He simply must meet the fellow. But he’s only in town for a few days. His wealthy friends need a likely stand-in. One of the Characters should cut the right kind of dashing figure. 
+
+## **Four Seasons Coaching Inn and Depot**
+The largest and most famous coaching company in the Empire is Four Seasons Coaches. It is a rapidly expanding business with coaches on all major routes. Its headquarters at Königplatz is a walled compound and a handful of buildings that serve as the company’s coach depot as well as a hotel. The depot is close to the Cartak line’s depot, and the competition between the drivers of the companies is fierce and increasingly bitter. 
+
+## **Königplatz**
+The great open square of Königplatz is the heart of Altdorf. Throughout the day it throngs with people, many there to gawk at public spectacles and the splendour of the statues of the Emperors. Military parades, official proclamations, feast day fairs, and even executions draw the crowd here. With them come pie sellers, bunko artists, pickpockets, and drunks. 
+
+## **Fogfire Site**
+At the centre of the Königplatz is a squat brick tower — the site of the Fogfire. The structure is thirty feet high, and topped with an iron fire basket. A small room at the base of the tower stores firewood and oil. When the Altdorf fog rolls in over the city, the Imperial Militia light the Fogfire. The fire is less a beacon than a symbol that their dedication to vigilance continues unabated. 
+
+A priest of Ulric also lights the Fogfire during the winter solstice festival, Mondstille. When the fire is lit, Königplatz becomes a winter market, filled with small bonfires and stalls that sell candied apples, hot mulled wine, and other delicacies to celebrate the turning of the seasons. Buskers dress up in the pelts of wolves, performing traditional winter entertainments, and impromptu choirs form to sing hymns dedicated to the sun and the moon. Folk musicians perform songs from the North of the Empire, paying respect to the God of Winter and Wolves. 
+
+## **Beacon Beckons**
+
+- Heretics plot to kill the priest who lights the Mondstille fire. Cultists of Tzeentch have placed a stolen powder keg among the firewood so that when the priest lights the fire, the top of the tower will blow right off. They hope the blame will fall on radical Sigmarites and cause further division in the Empire. 
+
+The upscale inn is a welcome haven for weary travellers. It caters only to those who can pay up-front, and prefers passengers with trips already booked. Aportly fellow named Nikolaus Wiedemann runs the inn, which is favoured by diplomats and travelling merchants. 
+
+## **Whatever the Weather**
+
+- The Four Seasons need a scribe to help with their papers. This is an opportunity for academic Characters to earn some silver, but also a way to find information on the passengers and cargo transported all over the Empire in the Four Seasons coaches. Ratchett or Cartak might pay handsomely for manifests, or the Characters could search for important documents and items lost en route to Altdorf. 
+
+- Four Seasons are looking for brave people willing to drive their coaches or ride blunderbuss. Characters who take the job are assigned to special transports that go off the usual roads or otherwise face greater danger. For instance, a noble hires a coach to take her and her family to their remote summer estate, or the City Watch wants a particularly violent bandit collected from a small village outside Altdorf. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **The Statues of the Emperors**
+Tradition has it that every newly invested Emperor or Empress shall commemorate their rule by adding their likeness alongside those who have ruled before. These statues line the edges of the square, looking down on the commoners passing by and reminding them of the powers that rule their lives. The stature of an Emperor’s reign can often be judged by the quality of their statue. 
+
+## **Sigmar Heldenhammer**
+This imposing statue depicts the founder of the Empire wielding Ghal Maraz and wearing just a winged helmet. The statue is inordinatly popular with pigeons, whom the custodians have a hard time shooing away. The legendary hero strikes a dramatic pose, rendered in an exhaggerated classical style that is quite a bit more daring than what a modern Altdorf sculpture might attempt. Sigmar’s statue is popular with pilgrims from all over the Empire. Every day they leave offerings at the feet of Sigmar, hoping to receive a blessing in return. 
+
+## **Magnus the Pious**
+Second in stature only to that of Sigmar, this statue stands alone in the heart of Königplatz, arms wide in welcome. In times of trouble, many gather beneath this statue, beseeching the gods for solace. The City Watch is always ready to break up the crowd should things get out of hand. 
+
+## **Pious Pulpit**
+
+- Throngs of people gather by the statue. Agitators take advantage of this period of civil unrest, delivering firebrand speeches, passing out printed propaganda, and generally trying to ignite the fuse of rebellion. The Characters might take a job from the authorities to infiltrate and stop the rabble-rousers, or they could lend aid should they sympathise with the cause. 
+
+## **Wilhelm III**
+## **Offerings Off the Table**
+
+- There is a fable that stealing from the statue of Sigmar is stealing from the god himself. Even so, the tribute laid at the statue’s feet might prove a grave temptation for those who hunger. Hungry Characters may fill their stomachs with pilfered food and wine, but soon discover that there is truth to the rumours. Until they make amends, bad luck dogs their every move. 
+
+## **The Royal Nubs**
+**These are the statues of early Emperors, many whose names have been forgotten or erased from history by their successors. Now they are little more than worn remnants, vast but trunkless legs of stone. Even so, these statues are revered among Altdorf ’s beggars: they prove that the grandest of men are brought low with time.** 
+
+## **Gaze Upon Our Works**
+
+- A group of outcasts, beggars, and vagabonds gather to plan an act of atrocious vandalism: defacing the statue of Karl-Franz. They hope that this will send a message to the Emperor that even his place at the top is no more than a temporary luxury. The Characters catch word of this plan, but how will they react? 
+
+Wilhelm the Wise is depicted with an open book in one hand and a chisel in the other. This symbolises his wisdom and his dedication to the modernisation of the Empire’s infrastructure. Scholars customarily hold debates at the foot of the statue, and it is not unusual to find students and apprentice wizards arguing about some esoteric subject or notion of political reform in front of a small crowd of their peers. 
+
+- The Characters need access to a library of the University of Altdorf. If they embarrass Agnes Büffler, brainiest of the University’s inky sophomores, in a debate at the feet of Wilhelm the Wise, they might oblige her to sneak them into the library as a forfeit. But what subject can they choose to debate? 
+
+## **Magritta of Westerland**
+During her reign, the Empress commissioned a massive bronze statue to celebrate her triumph of ascension in the face of the opposition from the Cult of Sigmar. She ordered the statue to be created twice as high as that of Sigmar himself, and many a shrine in Reikland had to give up their bronze bells to supply material for the casting. Her successors, weak despots of the Dark Age, were considering how to moderate the statue when the ground beneath it gave way and two-thirds of it sank into the ground. Legend says that on the night of the Big Plunge, even the statue of Sigmar was seen to smirk. 
+
+- The statue provides a little-known entrance into the undercity. This is a secret held close to the chest by the city’s criminal elements, but the Player Characters might learn of its existence when they chase after a thief one night, only to find her disappear just next to the Empress. Searching the area reveals the entrance to the undercity and opens up many new possibilities for adventure. 
+
+## **Bloody Beatrice the Monumentally Cruel**
+An Empress of the Age of Wars, Beatrice was notorious for her relentless persecution of those that did not worship Sigmar and for debilitating taxes levied upon rich and poor alike. Her statue depicts a fierce woman holding a bag of gold up high with one hand, whilst her left foot rests on the head of a wolf. 
+
+## **Blood Money**
+
+- The party hears that the bag of gold held in Beatrice’s hands actually contains gold. But how to get hold of it without attracting attention?. 
+
+## **Karl-Franz I**
+The current Emperor commissioned his statue on the day of his ascension, and it was unveiled two years later. As it is the most recent statue, it is also the one that shines brightest. Clad in splendid full plate armour, he brandishes the Reikland Runefang in his right hand and holds a fledgling Griffon in his left. 
+
+- It is said that the statue of Karl-Franz will shed tears of blood when the Emperor is in mortal danger. This sight would undoubtedly cause concern in the capital, and forces that want to destabilize the Empire can take advantage of the omen. Are the tears real, or has someone placed them there? 
+
+## **Offices of the Altdorf Spieler**
+The ebb and flow of information is vital to control of the capital, and there are many who seek to influence the flow of gossip, rumour, lies, and truth. One way for Altdorfers to learn about current events is to read the latest news-sheet. The _Altdorf Spieler_ is one such publication, proudly proclaiming itself the oldest newssheet in the Old World. It sells for three pennies. Printed by the two brothers Bleigestein, it is part news report, part opinion piece, part gossip, and all sensation. The _Altdorf Spieler_ has its finger on the pulse of what Altdorfers of all classes deem important. It is evident that their writers are well connected among the merchant class and the aristocracy, and it has laid bare many scandals over the years. 
+
+## **Heat Off the Presses**
+
+- Whilst the _Spieler_ is careful to remain within the rights afforded to the press in Altdorf (which are purely at the sufferance of the aristocracy anyway) it is clear that some of their reporters know more than they ought to. Carefully edited court gossip regularly makes its way into the pages of the _Spieler_ . Authorities have tried in vain to track down the source of the leaks, and their failure suggests that the culprit might be of even higher rank than supposed, maybe even sanctioned by one of the Electors. The Characters are asked to find the writer and make sure they stop their reporting, or convince them to adjust their messaging to shine a flattering light on the House of the Third Wilhelm. 
+
+## **The Vargr Breughel Memorial Playhouse**
+The most popular theatre in the city, the Vargr Breughel Memorial Playhouse is home to the Detlef Sierck Players. Sierck, the celebrated playwright, seems to have friends in high places. The playhouse and his company both have the patronage of the Emperor himself — although, for some reason, he is never known to attend their performances. 
+
+## **Dockland**
+The teeming waterfront, crowded streets, and myriad small businesses make Dockland feel like the very centre of the city, perhaps even the beating heart of the Empire itself. All life is here, though the area is mostly associated with the raucous poor, vicious gangs, and dodgy deals. The area has a reputation as the first place of debarkation for immigrants from all over the Empire and beyond, all coming to the big city to make their fortune. For this reason, there is much poverty here. But also there is enterprise, diversity of people, ideas, music, food, and everything else. Of course, this is also why  more traditional Altdorfers look down on the area, and even fear it. 
+
+The presence of the Fish and the Hooks is as keenly felt here as it is in the East End. It can seem like one of these two dockside gangs has a finger in every pie that moves through the docks. 
+
+A western quarter of Dockland is the traditional home of Altdorf’s Tilean population, and is known as Little Tilea. Tilean influence here often gets conflated with gang violence. Received wisdom across the Reikland has it that Tileans are behind all the organised crime in the city. This is, however, almost entirely down to the popularity of the penny dreadful stories of Francisco Fordino. After all, the Hooks and the Fish do not tolerate Tilean competitors. 
+
+Little Tilea is also known for its traditional cuisine, and there are a number of Tilean establishments on the Street of a Hundred Taverns. 
+
+Once the drab Beloved of Shallya playhouse, the remodelled theatre dominates its section of the Street of a Hundred Taverns. The venue regularly sells out, especially when Sierck premieres a new production, and this success has clearly informed the building’s grandiose architecture. The interior décor is opulent, bordering on the gaudy — which is exactly what the city’s theatre-going public expect to see in a successful playhouse. 
+
+The theatre stages a range of productions, from morality plays and comedies of manners to student reviews and cutting satires. In the past, the theatre was often in trouble with the authorities for its criticism of the powers that be. Partly for that reason, there are any number of exits from the back-stage area, through which the cast can flee. These include secret doors onto back alleys and escape routes through the sewers. 
+
+## **Break All of Your Legs**
+
+- Rumours say the ghost of Bruno Malvosin haunts the theatre. Malvosin was a Bretonnian playwright and, at one time, the theatre’s writer-in-residence. He gradually succumbed to Tzeentch’s lure while working on a morality play, and his work became corrupted and decadent. Word has it he was either driven out of town by an angry mob, or he disappeared into the tunnels beneath the playhouse in the form of a Daemon, there to create his magnum opus. 
+
+- Detlef Sierck is the most celebrated wordsmith of his day, but rumours abound — perhaps only through envious writers — that he acquired his talent through dubious means. Perhaps he has sold his soul to the ultimate patron of the arts, the god Morr. Who knows what the King of the Underworld might demand in return? More than the odd sonnet, certainly. 
+
+## **Luitpoldstrasse Watch Station**
+The largest watch house of Dockland is on Luitpoldstrasse. Situated right on the waterfront, it overlooks a stretch of the busiest dockside. The watchmen here have a reputation for being the most hard-nosed and unrelenting in the city, but that goes with the territory. They are still as likely to accept a bribe or turn a blind eye to petty crime as any Altdorf watchman.The watchmen patrol the area regularly, believing visibility and ‘boots on the wharf ’ to be the best deterrent. They throw their weight around, harassing petty criminals and dockers, rummaging through cargoes and workshops, and generally making their presence felt. A lot of this activity is geared towards generating regular bribes for the watchmen. 
+
+In an attempt at better administration, the Imperial authorities have allocated each watch station an official number. Luitpoldstrasse’s 317 is carved into the lintel above the main door. The joke on the street, however, is that this is the number of bribes the watchmen take in a typical week. The Dockland watchmen follow a pool-based bribery policy. All proceeds are divvied up at the end of the week based on seniority. 
+
+There is a strongroom deep within the watch house that holds all the more interesting finds and pieces of evidence. Theoretically, the Watch is waiting for legitimate owners to claim their property. Some are valuable and await the right moment to ‘disappear’ off to a pawn shop. Others are downright dangerous. The confiscated items resemble offerings at a shrine, owing to the  large bronze statue of Vernea that overlooks the room. A secret compartment in the back of the statue contains the station’s weekly take of silver. The watchmen do not see this as endemic corruption, but as their only means of getting a fair wage. They don’t earn enough to keep their families comfortable, so unofficially relieving the criminal classes of their ill-gotten gains is a necessary part of the rule of law. 
+
+The notorious maverick investigator ‘Filthy’ Harald Kleindeinst uses this station as the base of operations for his Atrocities Komission, which investigates pattern murders and other sensational violent crimes. The other watchmen regard him with a mixture of fear and awe, and stay out of his way. 
+
+- There is a working agreement between the Luitpoldstrasse station and the Amethyst College. The watchmen often call on the wizards’ services to help with identifying corpses. In return, the Spiriters get first dibs on any interesting artefacts the watch might discover. 
+
+- The Hooks have had part of a cheese shipment confiscated. As is the custom, the Watch take one crate of cheese from each shipment for themselves. Unfortunately, they happened to take the one containing several bottles of Bretonnian Brandy that the Hooks were smuggling. The Hooks ask the Characters to pose as cheesemongers in order to buy back the crate. 
+
+## **The Atrocities Komission**
+The komission is run out of an office in the Luitpoldstrasse Watch Station, found not far from the Street of a Hundred Taverns. It is not a well-funded or highly regarded organisation, and consists of Harald, a few clerks, and the reliable assistance of Rosanna Ophuls. 
+
+The purview of the komission is to investigate particularly lurid and bloody crimes. Harald has brought a number of pattern killers and gang bosses to justice over the years. 
+
+When a case is brought to the komission, Harald and his officers perform a summary and effective investigation, but they are also rather overworked and poorly resourced. As such, you could use the komission either to help the characters if they are stuck with such an investigation, or to employ them if they have relevant experience. 
+
+## **Bendrago’s Wigs**
+Bendrago, a Miraglinese émigré, keeps his shop on the Luitpoldstrasse. The compact building has a well-arranged showroom at the front and office in the back. The business has done well in recent years, and Bendrago purchased a modest town house nearby. His work is lifelike and practical, fit for everyday wear. He does not deal in the towering fancy piles worn at costumed balls. 
+
+Like many wigmakers, Bendrago relies upon a cheap supply of hair. He commissions a bevy of street urchins, battlefield scavengers, and the trusties of Mundsen Keep to provide him with raw materials. He pays up to a shilling for a headful of hair, depending on the quality. His wigs tend to retail for between 12 and 18 schillings, though the few wigs he keeps with truly long locks can go for as much as 2 gold crowns. 
+
+## **Hair Raising Activity**
+
+- Gang enforcer Heinroth Schnelling has completed a stint in Mundsen Keep. Whilst there, he had his once fine tresses shorn by a warden, and so is on the lookout for a wig. Characters shopping at Bendrago’s witness Schnelling’s rage at the discovery of what became of his locks. They could restrain Heinroth, earning the enmity of the Fish, or help him take his revenge on the wardens of Mundsen Keep, earning the enmity of the authorities. 
+
+- In his office, Bendrago keeps a few strange items for specialist customers. These include wigs made of elven hair and false beards for Dwarfs. The loss of a beard is a sensitive and private matter for Dwarfs, and those few who patronise Bendrago in order to hide their shame would be most upset if their secret were revealed. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Tempelstrasse Gymnasium**
+
+- The Characters need information fast, but the only one who knows has been confined within the Fork Wharf gibbet for a few days. They must find a way to talk to the prisoner without attracting the attention of the Watch. The informant, quite reasonably, wants something in return for their information. But their requests get increasingly demanding. Ever tried spoon-feeding finest Carroburg cake through the bars of a gibbet? 
+
+The Tempelstrasse Gymnasium is one of those places where low-lives of Dockland meet the upper classes of Altdorf as peers, of a sort. The nobility send their offspring here to toughen them up, and actors come here to learn how to fight. They rub shoulders with street thugs and gangsters. The owner is Arne ‘The Body’ Ostlander, who is famously the most muscular man in the Empire (excepting Ogres and Mutants). He spends nearly all day here, pumping iron and preening. 
+
+- Any Character who has done some work for the Watch and later goes up before the court could, with a clever lawyer, claim the privilege of a spell on Fork Wharf, rather than the undoubtedly worse punishment of regular law. Of course, other Characters might need to be on their toes to keep them alive during their time in the gibbet. 
+
+Arne also sells ‘fitness food’ to his keenest clients. He finds that the ugliest and most off-putting morsels consistently sell the best. He has ‘muscle grower’ made of minced offal from a nearby butcher, ‘quickness soup’ made from a lichen that grows on the tideline, ‘stamina biscuits’ which require significant stamina to even chew through, and ‘cleverness pills’ whose provenance even Arne can’t recall. He swears by the efficacy of all of these products and threatens to fight anyone who doubts them. 
+
+This punishment, of course, is not used for the sort of lowlevel corruption the watch is known for, and which is entirely acceptable to the powers that be. This is for cynical collusion with crime gangs and other serious crimes. 
+
+There is a wrestling ring in the alleyway behind the gym. Officially, it is only for sparring, but at night it often plays host to illicit fights where big money changes hands. The bouts vary from pure ‘Königinburg Rules’ boxing, to no-holds-barred fights to the death. 
+
+The length of punishment is usually only a matter of days, or even sometimes overnight, so it rarely results in death. Often the guilty watchmen are allowed to return to duty afterwards, suitably chastised. The gangs tend to look after their own, so a watchman who has helped a crime gang out usually receives food and water from them for the duration of their incarceration. 
+
+## **Building Up Bodies**
+
+- An illicit wrestling match is due to take place behind the gym in a couple of hours. However, Manfred the Masked Man of Mannheim has cried off with a sprained finger. The Fish will win a lot of money if a contender turns up and loses to ‘Mighty’ Quinn, so they offer the biggest Character money to stand in for the wrestler. Just before the fight, however, a Hook approaches the Character and offers to pay ten times as much if they emerge the victor. 
+
+- A couple of Arne’s best fitness food customers have dropped dead. He doesn’t want any bad publicity and so hires the Characters to break into their homes and remove any trace of his wares. Actually, the bodybuilder Halfling ‘Sly’ Brambledown has been selling a ‘magic juice’ at the gym, which is to blame. 
+
+## **Fork Wharf**
+Fork Wharf is a rickety jetty jutting out into the Reik. It looks like it could collapse at any moment, and is not used for docking ships anymore. In fact, the jetty is a navigational hazard, but a long-standing tradition means it is the site of an ominouslooking gibbet and cage. Any Dockland watchman caught flouting the law or acting against the interests of their Watch station is punished with a time locked in the rusty metal cage. 
+
+## **The Beloved of Manann Dock**
+One of the busiest jetties on the Dockland waterfront, this wooden construction is showing its age and seems to creak and sag more with each ebbing tide. It is firmly within Fish territory, and Fish-controlled stevedore gangs here have a close relationship with the Watch. They boast they can get anything landed, or loaded, for the right price. 
+
+Rumour has it that the mud beneath the wooden jetties conceals a number of bodies. The stevedores here certainly believe the place to be haunted and are loath to walk alone there after dark. The area is popular with brave mudlarks, however, and when the moons are right, the tides expose all sorts of riches, as well as the odd body. The Fish have an agreement with the Luitpoldstrasse Watch station to dispose of cadavers as soon as possible. This is, of course, for their workforce’s peace of mind. 
+
+## **Stopped Dock**
+
+- A decidedly spooky keening emanates from below the Beloved of Manann Dock. The stevedores are refusing to perform their illicit and lucrative night-time shift. A desperate gang leader asks the Characters to roll their trousers up and go down in the mud to see what’s up. Actually, a drunk has merely fallen off the docks and is now stuck in the mud. However, his yelps have also disturbed a drowsy Bog Octopus. 
+
+- How do the Fish land their more valuable catches and keep them away from prying Watchmen? Rumours say that an underground canal goes from under the Beloved of Manann Dock to many locations below the city. It even goes all the way out beyond the northern wall of the city. The stories of ghosts are just to keep people away. 
+
+## **Reik and Talabec Trading Company**
+The Reik and Talabec Trading Company occupies a onceimpressive waterfront property that is beginning to show its age. The company has business throughout the Reik basin and contacts as far as Marienburg. It deals in luxuries coming through Marienburg such as Bretonnian wines, Albion linen, amber from Norsca, and spices from Araby. They return with the less exotic, like grain and wool. Because of the acronym for Reik and Talabec that gets branded onto their crates, the employees of the company are known as ‘River Rats’. 
+
+The senior company official in Altdorf is Beorgor Zucker, a man who claims to have worked his way up from a mere dockhand. Zucker is known to boast that he lands more goods on the dock than anyone else, and pays less duty on it, too. Like any good shipping line, the company  relies on their own watchmen rather than trust the dock Watch. These private watchmen are known as ‘the Untouchables’ not because they are above bribery and graft, but because Zucker put a rumour around that they were all diseased — in order to discourage the Fish from corrupting them. 
+
+## **R.a.t. Traps**
+
+- Reik and Talabec has a particularly troublesome crate that they need guarded. The company smells a rat and so does not want to waste its own resources on such a task. The company hires the Characters to stand guard overnight. The crate contains Warpstone, and a group of Skaven Gutter Runners are desperate to steal it. 
+
+- A down-and-out noble has a crate of possessions at the RAT warehouse, which he cannot access because of his many unpaid bills. He begs the Characters to get the crate for him, even if they have to steal it. He promises them a quarter share of the treasure inside. The crate contains his four best hats. 
+
+## **Beorgor Zucker**
+Zucker is the agent for the Reik and Talabec trading company in Altdorf. He is from the Docklands and sees himself as a man of the people, just as likely to have been a Fish or a Hook as a successful businessman. He fancies he would have risen just as high in those organisations as he has in Reik and Talabec. Zucker is not averse to letting his implied friendship with the Fish carry weight in more respectable business circles. In fact, he is no more of a gangster than Karl-Franz, but he does not want his business rivals to realise this. 
+
+If the Characters need anything smuggled, or dubious jobs done on the dockside, they could do worse than consult with Zucker. It depends on how he perceives them as to which persona he employs: respectable businessman or dockside wide boy. He switches between the two at will, sometimes even mid-sentence. 
+
+- Zucker is trying to put together a deal so that he can get rid of some goods which found their way from Araby. Part of the haul is a golden statue of a cat-headed goddess. The Characters are exactly the people he needs to connect him with a potential buyer. He gives them the cat-head icon as an example of the merchandise. Unfortunately, this icon inexplicably and irresistibly attracts every cat in the district. 
+
+- Zucker has promised to invest a lot of money into the Characters’ latest scheme to make their fortune (or merely pay off their debts). However, to prove themselves to him, the Characters must demonstrate their business acumen and entrepreneurship by undertaking petty business tests over the course of several weeks. 
+
+## **The Breastplate of Myrmidia**
+The Breastplate of Myrmidia is a drinking house that used to belong to the Hooks. During the Waterfront War, the Fish wrested it from them. It remains a hotly contested location, and many brawls start here. The Hooks maintain their stranglehold over the place because the Fish made themselves unpopular by throwing their weight behind the instigators of the Great Fog Riots. The Breastplate of Myrmidia has subsequently gained a patriotic veneer, behind which lies the criminality of the Hooks. 
+
+The current proprietor, Hilde Flickenschildt, used to run with the Hooks, and has the tattoos and scars to prove it. She is viciously partisan in who she allows to drink here, and her staff ensure that any idle talk uttered by careless customers is quickly reported to agents of Hook war chiefs. The tavern is also widely known as an excellent spot to score intoxicating substances such as weirdroot and powdered lotus. 
+
+## **Street of a Hundred Taverns**
+Given the filth floating in the Reik, it’s no surprise that Altdorfers prefer ale to water. Every district of the capital has a number of inns, but the Street of a Hundred Taverns boasts the densest concentration of public houses in the Empire. The street is well placed, with the Dockland to the east and the university to the west. Throughout the day and long into the evening, the street crowds with all manner of people, who dodge between the carts and wagons that arrive to deliver fresh casks of ale. 
+
+## **Slim Pickings**
+
+- The recent weirdroot crop has been poor, and traffickers are reduced to selling old bulbs, termed ‘snakesdung’ by aficionados. In addition to the normal effects, anyone partaking of this poor quality substance must make a **Challenging (+0) Endurance** Test or gain 1 Corruption point. 
+
+- Despite the recent drought in quality weirdroot, the dealer Kathe Szaradat has uncovered a crop growing at the centre of the city. Her product is always fresh and of superior quality, and she charges a premium. Anyone who shadows Kathe at night may find she harvests her bulbs from a patch growing within the crown of the statue of Empress Magritta in the Konigplatz. 
+
+## **The Black Bat**
+The Black Bat is a forlorn tavern frequented by losers and whiners. The décor is dull, the drinks are cheap and nasty, and Bauman the barman, whilst yet under thirty-five, is bored and burnt out. The only songs raised here are dirges, the only jokes are bitter, and a decade ago the tavern pulled out of the local dicing league after a five-year stint on the bottom rung. Whilst the inn is close to the docks, Hooks and Fish alike avoid the place. Even gangland hardmen find the atmosphere depressing. 
+
+Bauman stocks a selection of cheap drinks, from vinegary wine to bitter ale and coarse Estalian gin. The clientele are mostly solitary men with a taste for drink and tall stories. Bauman knows his regulars are inveterate braggarts, such as ‘Lewd’ Milhail who resides with his ailing mother and sleeps alone, but would have folk believe that he is a legendary amorist. And there is Old Corin Brandysnap, who insists that he is the rightful ruler of the Moot, but is really just a pickpocket who has grown too arthritic to continue the trade. 
+
+## **Irregular Regulars**
+
+- Given that just about the only interesting thing to say about the tavern is that nothing interesting ever happens there, some criminals have worked out that it is the perfect place to lay low for a while. Bounty hunters know this, and sometimes stake out the bar, which may make life awkward for criminal Characters. 
+
+- The Characters meet a man in the Black Bat who claims to have found a great treasure whilst adventuring in the undercity. Unfortunately, he contracted a stubborn case of Frothing Lung Fever in the damp tunnels, and may not return for fear of exacerbating his condition. Is he telling the truth, or is he just another tall-tale-telling tavern boor? 
+
+## **The Crescent Moon**
+## **I Don’t Drink... Wine**
+The Crescent Moon is the most mysterious tavern on the street. It has no colourful lamp-lit signpost, but a wrought-iron symbol barely discernible in night or fog. The tavern itself is located close to the docks, but its exact location seems to alter from week to week. Whether this is a consequence of the warping that affects Altdorf near the Hexxerbezrik or a contrivance of the venue’s owners is unknown. 
+
+- Andreas Lestadt suffers from a disturbing obsession: he wishes to die, writhing and ecstatic, as a beautiful lady vampire drains his life’s blood. He has come to the Crescent Moon in the hope that the patrons there will facilitate his particular desire, but they just find him laughable. He would pay well to earn their good graces, and may well hire Characters to waylay some of the patrons so that he can prove their saviour and place them in his debt. 
+
+The tavern is popular with Altdorf ’s Strigany as a place they can relax and socialise without unwanted attention or gossip from suspicious locals. Wizards from the Amethyst College are also known to drink here. Persistent but unverified rumours suggest that the tavern offers a safe house to necromancers and Vampires. Regulars roll their eyes at these clear slurs. 
+
+- The Strigany connection means that the inn is a reliable place to purchase Dreamwine. This magical but highly illegal liquor comes from Warpstone-tainted vineyards hidden in the Grey Mountains. Moderately imbibed, the wine is pleasantly intoxicating and induces prophetic hallucinations. Heavy use, however, results in madness and mutation. 
+
+## **Wizards on the Street**
+Wizards are not barred from carousing on the Street of a Hundred Taverns, but they are not welcome either. A number of minor magical side effects can ruin beverages, and with so many casks of ale and bottles of wine in the vicinity, the cost of even a minor miscast could run into many hundreds of crowns. 
+
+As such, publicans and patrons frown upon spellcasting. Many of the taverns leave small placards on their tables reminding patrons ‘No Frivolous Spellcraft – all spoiled drink must be paid for’. A wizard who channels magic without obvious cause usually draws an angry reaction from regulars. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Dockside Pub Crawl**
+The hostelries and bars close to the docks are generally lively and affordable. Whilst most cater to a cosmopolitan crowd of dock workers, students, rakes, Dwarfs, and criminals, certain venues attract a more discerning clientele. Such taverns are not necessarily exclusive, but patrons who flout the unwritten rules are not welcome. In order to drink in the Beard of Ulric, for example, a patron is expected to tolerate the opinions and habits of Ulricans even if they do not share them. 
+
+Tavern Clientele Quirks Bedrooms
+The Beard of Ulric Ulricans Poor quality fare 15 private (2 bed) bedrooms: 11/-
+3 private (4 bed) bedrooms: 17/-
+The Black Bat Deadbeats and  6 private (2 bed) bedrooms: 6/-
+losers 3 private (4 bed) bedrooms: 17/-
+The Blue Lantern Watchmen No
+The Boatman Inn No
+The Breastplate of  Fish ‘Snakesdung’ weirdroot: 3/- 18 private (2 bed) bedrooms: 12/-
+Myrmidia 6 private (4 bed) bedrooms: 18/-
+Bruno’s Brauhaus Poor and fine quality ale available 21 private (2 bed) bedrooms: 11/-
+4 private (4 bed) bedrooms: 17/-
+The Crescent Moon Strigani (Vampires  Regularly closes then reopens in a new  25 private (2 bed) bedrooms: 10/-
+and necromancers  location Common Room: 8d
+rumoured to drink
+here too) Trusted customers can buy Dreamwine
+(bottle): 1 GC
+The Crown and Two  Fine quality fare and public front for a  25 private (2 bed) bedrooms: 2GC
+Chairmen gambling and vice den
+The Dancing Dwarf Dwarfs 20 private (2 bed) bedrooms: 12/-
+Common Room: 11d
+The Drunken Bastard Solitary drinkers Pickpockets work here No
+The Ensign  Bretonnians No
+Vormundreich
+The Gryphon and  No
+Star
+The Hammer and  18 private (2 bed) bedrooms: 11/-
+Bucket 4 private (4 bed) bedrooms: 17/-
+Common Room: 11d
+The Holy Hammer of  Thieves and  Must earn a key to become a patron Rooms available — speak to the
+Sigmar murderers management
+The Mattheus II Aristocrats and  Fine quality fare 16 private (2 bed) bedrooms: 1GC
+courtiers 4 private (4 bed) bedrooms: 1GC 10/-
+The Mermaid Brawlers Cheap Ranald’s Delight: 15/- No
+The One Eyed Wolf Poor quality fare 27 private (2 bed) bedrooms: 6/-
+The Seven Stars 15 private (2 bed) bedrooms: 11/-
+The Short Measure Halflings Unattended possessions treated as  20 private (2 bed) bedrooms: 9/-
+public property 10 private (4 bed) bedrooms: 15/-
+Common Room: 8d
+The Staff of Verena No
+The Sullen Knight Brawlers 16 private (2 bed) bedrooms: 11/-
+10 private (4 bed) bedrooms: 16/-
+The Wayfarers Rest Students Cheap weirdroot: 3/- 22 private (2 bed) bedrooms: 9/-
+
+## **The Holy Hammer of Sigmar**
+The Holy Hammer of Sigmar is not the most rowdy or decadent of the hostelries in the vicinity. Indeed, it is one of the quietest and neatest — as befits a private club for the city’s most desperate thieves and professional murderers. Only those with a key are admitted, and these keys are harder to obtain than a private audience with Karl-Franz. 
+
+The patrons of the place are dedicated to their trade, and regard themselves as above politics, religion, or gang affiliation. A small shrine to Khaine lies beneath the tavern, adjoining a junction where the cellars end and a network of tunnels leading to Altdorf ’s undercity begin. The shrine is intended for private contemplation rather than ostentatious shows of piety. 
+
+A dandyish fop named Quex is a regular patron here. Whilst the killers of the Holy Hammer of Sigmar acknowledge no particular hierarchy, they regard him as their chief spokesman and broker. If a customer calls, he has all sorts of killers on his books, from cheap toughs looking to break into the murder trade, to experienced assassins with scores of deaths to their names. 
+
+- A deadly contest is held on Trickster’s Day (chosen as an affront to Ranald rather than to honour him). The prize for this match is a key to the tavern. A list of names circulates throughout Altdorf’s underworld — cutthroats who have fallen out of favour with Quex. Any aspiring murderer who acquires the key from the still-warm corpse of one of these forsaken miscreants earns the right to patronise the Holy Hammer of Sigmar. 
+
+- There are many rumours as to who holds a key to the Holy Hammer of Sigmar, and some odd people are said to possess one. In particular, some of the spies of the Black Chamber, including the mysterious Emmanuelle Nacht, are said to have earned membership here. Discovering that a famous individual possesses a key could make for potent blackmail material. 
+
+## **The Temple of Drama**
+The southern end of the Street of a Hundred Taverns is rough dockland territory., As the street winds its way northwards, towards the Konigplatz, it gains a more refined air. The Temple of Drama theatre is known for staging brave experimental productions that meet with critical acclaim, but little financial success. The large, tall red brick building proclaims its business with two large hanging masks: golden grinning comedy set aside silver gurning tragedy. 
+
+Touring companies often benefit from the open-minded attitude of Machar Shook, the dapper and refined theatre manager. Companies of Tilean players from Luccini and Miragliano are especially encouraged to visit the theatre and stage their dramas in a spirit of generous cultural cross-pollination. 
+
+## **The Sullen Knight**
+Asked which of the many hostelries on the Street of a Hundred Taverns is the best, many of the local cynics reply that it depends on what sort of fight one is looking for. Many of the taverns have a reputation for brawling, but there is one above all others that guarantees a fight: the Sullen Knight. Its clientele comprises drunken sailors, menacing protagonists, amateur pugilists, and members of the Hooks and Fish who fancy a quick rumble. Even the noble sons of the League of Karl-Franz are known to visit on occasion. 
+
+Whenever a fight starts, the clientele are quick to gather about and begin taking bets. Fagnar Laubrich, a strange little man who constantly hangs around the tavern, runs about making odds and taking credit notes. The tavern is also popular with harlots, who find that the bloody pugilists are often in the mood for the comforts they offer after the fighting. 
+
+## **Bouty Boozers**
+
+- Those looking to make a name for themselves in the city could do worse than engage in a brawl at the Sullen Knight. Altdorf is a violent place, and anyone who comports themselves well in a bout or two at the tavern soon earns a reputation for being handy. Famous bodyguards have started their careers here. 
+
+- The downside of earning such a reputation is maintaining it. Upcoming contenders often want to quickly make their own reputations by taking on the current champion. Anyone who fights at the tavern in order to win fame and bets is fair game for aspiring protagonists. 
+
+## **Perilous Props**
+
+- A rumour has been circulating that the current production of the lurid melodrama _I Eat Your Offal_ incorporates necromantic rites. The director of the production, Treyer van Larrs, is noted for his meticulous attention to detail, and the appearance of a skeleton in the third act is said to be quite real. In fact, the scene is just a cunning work of puppetry, and Treyer himself started the rumour to drum up controversy. Unfortunately no one told a real necromancer, who has taken a professional interest in Treyer. 
+
+- The Temple of Drama rarely recoups the expenses from the productions it stages, losing out to more popular theatres in the area. A delegate from PLANT has approached Machar with an offer to bail out the business in return for a few favours. Machar correctly supposes that the agent will impose a policy of performing works that celebrate PLANT’s radical ideology. He hopes to find an alternate source of funds before resorting to turning his theatre into a propaganda machine. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **The Wine of Dreams**
+Dreamwine, sometimes called dark wine, is illegal in the Empire (though, of course, legally sold in Marienburg). It is hard to find, and very expensive. At first glance the dark, syrupy vintage could be a sweet dessert wine from the eastern Grey Mountains. In fact, it is no true wine at all, but abominable nectar of Slaanesh. 
+
+The wine originates in a hidden monastery above Eilhart. Twisted monks harvest the nectar of bizarre plants that grow upon the bodies of still-living people, drinkers who have succumbed to Dreamwine addiction. Some ‘hear the call’ which compels them  to the monastery. They become living compost, perpetuating the plant’s perverse lifecycle. The wine brings exquisite dreams or terrible nightmares. It is addictive — a single sip causes craving for more. Rumours say that regular imbibing prolongs one’s lifespan. It certainly maintains the youthful appearance of its users. This is one of the reasons it is so sought after. Heavy drinkers are recognizable for their unnaturally dark but shining eyes. 
+
+## **Imbibing Dreamwine**
+Consuming a glass of Dreamwine calls for a **Challenging (+0) Consume Alcohol** Test. If you fail the test, apply the usual effects with the following additions: 
+
+- Whilst under the influence, you benefit from the Sixth Sense and Magical Sense Talents. You also receive a +30 bonus to any Intuition tests you make. 
+
+- The GM decides whether to award you an extra Fortune point, or provide a private and useful insight into a dramatic event likely to occur in the near future. 
+
+Consuming a glass of Dreamwine exposes the imbiber to Minor Corruption. You must also pass an **Average (+20) Willpower** Test or ‘hear the call’. You can hear the call a number of times equal to your Willpower bonus and still retain control of yourself. Should you hear it again, then you must spend a Fate point or abandon your life and travel to the Grey Mountain vineyards. 
+
+Dreams induced by the wine are prophetic and insightful but, as a tool of Slaanesh, they mislead and deceive. The horror of the worst nightmares can drive one mad, and the beauty of the best dreams can leave one slothful and helpless. After Marienburg, the largest market for Dreamwine is Altdorf. It is most popular among the nobility and aspiring arrivistes. One must know where to look in order to procure Dreamwine. The wine is not hawked to strangers on the street, but traded by gentlefolk in private. 
+
+Dreamwine has an association with Strigani travellers. They do seem to know some of its secrets, but are loath to share them with strangers. Bigoted watchmen suspect that they smuggle the wine into Altdorf by road, but more likely it comes upriver from the Marienburg Fish. Although it is illegal, excisemen are unlikely to recognise the drink. The organisation most concerned with wiping out the trade is the Witch Hunters. Once they find a trade route into Altdorf, they attempt to follow it back to its origin, interrogating everyone implicated along the way. 
+
+## **Pink Mammoths on the March**
+
+- An associate of the Characters ‘hears the call’. They attempt to go up into the Grey Mountains and become one with the dream flowers. Can the Characters steer them from this course, or even cut the source off at its root? 
+
+- A Character who drinks Dreamwine could receive useful information they should not otherwise have. They may think this is helpful and empowering, but eventually things are bound to sour. 
+
+## VII
+## **Altdorf Market**
+## **Fishemarkt**
+After a good harvest, the streets of Fishemarkt are full to bursting with the abundant produce of the Reikland’s farms and rivers. There are baskets overflowing with ripe apples, cartloads of cabbages, fishmongers’ stalls piled high with fresh catch, and great warm loaves of fresh bread stacked in front of the bakers’ shops. But when war, drought, or frost lead to a bad harvest, Fishemarkt is a desolate place, with empty streets and beggars. In a bad year, there is little more on offer than spoiled flour, pickled vegetables, and food riots. 
+
+Fishemarkt is sometimes known as Altdorf’s larder because of the sheer volume of food that passes through the markets, shops, and warehouses. While Grandmarkt caters to all branches of commerce, Fishemarkt is all about food. The district gets its name from the fishmongers that dominated the southern streets, an area notorious for both the smell and the abundance of Fish gang members. The Fish have a strong presence and extract a lot of protection money from the stallholders and traders. 
+
+Every day, Altdorf ’s largest market square fills with stalls and carts topped with brightly-coloured awnings. The best pickings are early in the morning, when the freshest food is sold. The poor prefer to shop at the end of the day, when traders offer low prices to dispose of the misshapen or rotten produce. The southern stalls are mostly fishmongers, calling out their wares at ear-splitting volume. In the centre of the marketplace are fruit and vegetable stalls, clustered around the water pump. A fringe of stalls on the north perimeter hawk unwanted goods: old clothes, books, and other junk. If a customer wants a broken coal scuttle or a chipped ceramic hen, this is the place to come. 
+
+The stallholders are their own community, which has its own dramas and traditions. There are long-running arguments over pitches, deep friendships, and unexpected love affairs. Each person has their place in the complex hierarchy of the marketplace, and woe betide anyone who tries to intervene in the tight-knit community. The unofficial leader of the stallholders is fishmonger Helga Wohnet, a tough old bird who takes no nonsense from anyone. 
+
+On Festag, the stalls are cleared and the square transforms into a playing field for Middenball. This violent ball game from Middenheim attracts large crowds, but visitors from the City of the White Wolf find the Altdorf game rather amateurish and informal. 
+
+## **Taking a Beeting**
+Bert Macker sells turnips, but his wife thinks he should aspire to more. One dark and stormy night, three drunk women told Bert that he is destined to lead the stallholders. Now, he plans to displace Wohnet by hiring someone to bump her off — or at least denounce her to the market’s weights-and-measures men for shortchanging her customers 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Altdorf City Asylum**
+In contrast to the relative calm of the Great Altdorf Asylum, this sanatorium is bedlam. Head Warder Klebb is barely in control, and only judicious use of his brutal warders prevents the inmates from taking over the asylum. The staff have no aspiration to cure the inmates. 
+
+The Altdorf City Asylum is an old Sigmarite priory, a small complex of stone buildings with ecclesiastical architecture and high walls. The inmates are mostly left to wander the grounds and sleep in the straw-lined halls. The more dangerous, wealthy, or deranged are kept locked up in cells. A visit to the City Asylum is a popular leisure pursuit; for three shillings, Klebb allows Altdorfers to watch and goad the inmates. 
+
+## **Vogelin’s Fish Warehouse**
+Opposite the docks is a substantial warehouse, with a rough stone lower storey and upper floors of blue-painted timber. Above the wide entrance is a crude portrait of Captain Johann Vogelin, the proud fish merchant whose name is synonymous with ‘fairly edible fish’ throughout the city. 
+
+Vogelin barters with fisherman on the docks for his stock. He’s a brash, larger-than-life figure, who sports smart nautical clothing and a large white beard. When haggling, he peppers his conversation with briny oaths. He loves telling stories of his past in the Imperial Navy, of the sea monsters and battles he fought on the high seas for the Emperor. Some of  these stories may even be true, but details alter with each telling. 
+
+The warehouse is packed with fish from the Reik and the Sea of Claws, the latter arrivesalted, packed in ice, or ‘slightly rotting’ via Marienburg. Vogelin sells more than your basic fish — there are sharks hanging from hooks, tangles of squid and octopi, and barrels of shellfish. In the cellar is an ice room, which currently holds a large catch of lobsters and a mostly dead juvenile Merwyrm. 
+
+Most of the warehouse workers are down on their luck teens. They toil hard, but the captain and his wife, Lotte, treat them well. As a former foundling himself, Vogelin ensures that they eat good fish and sit at the ‘captain’s table’ for every meal. 
+
+## **A Strange Fish**
+
+- Vogelin receives a delivery of cod packed in barrels with ice, direct from Marienburg. But when he opens the last barrel, he finds a dead man crammed inside. The body wears a ring with the crest of the Knights Panther. 
+
+- One notable inmate is Croaking Hans, who spends his time sitting on the floor, legs crossed, nursing his pet lizards and trying to eat flies. In moments of occasional lucidity he asks visitors to tell him everything about the affairs of the Empire. Hans has been enchanted by a Slann Mage from Lustria. The ancient mystic can control Hans when the stars align, and his influence has left the man with a number of odd behaviours. The mage wishes to learn of events on the other side of the world, but there’s only so much that he can discern from inside an asylum. 
+
+- One of the more infamous residents is Valois de Simone, the ‘Mad Poet of Moussillon’. The Bretonnian aristocrat is not allowed to have paper, so he scratches his poems into the walls with a fork. His poems are heretical, and he offers unusual insight into the Ruinous Powers, if one can decipher his cryptic pronouncements. 
+
+## **The House of the Phoenix**
+The House of the Phoenix attracts some of the city’s wealthiest and high-born visitors, but there is an unmistakable air of seediness about the place. Proprietor Gottlieb Gropius doesn’t mind. He knows that his patrons enjoy the frisson of a trip to the East End to seek pleasures of the flesh. 
+
+Informally known as the ‘Phoenix Club’, this private theatre is named for the quite tacky stuffed red birds that decorate the interior. Membership is easy to acquire if one has the capital or social status. Each evening, a troupe of exotic dancers performs shows choreographed by Gropius himself. The performances are not solely intended to excite. Between the salacious dances are satirical and humorous sketches, in which Gropius plays the role of ‘scandalised’ master of ceremonies. These writer of these skits is the brilliant Petra Povar, a young Kislevite dancer with an exceptional talent for comedy. 
+
+The Phoenix Club enjoyed a moment of particular notoriety when the disgraced Bretonnian ambassador Comte de la Rougierre hired several dancers to perform at an event where the Emperor and many notables were present. In public various sources decried the terrible lapse in both judgement and morality, though the scandal brought in more custom than Gropius could handle. 
+
+## **Stage Fight**
+
+- Every night, the forlorn figure of Lord Mandel stands waiting outside the Phoenix Club’s stage entrance. After a short affair with the dancer Cinzia Bianchi, he has become hopelessly smitten. She broke off the affair, and Mandel suspects that she has a new paramour. He doesn’t know who, but he’s eager to duel them to prove his devotion. 
+
+## **The Red Boar**
+The Red Boar stands four storeys high on the edge of the marketplace. It’s a large, busy tavern which mostly caters to the stallholders, merchants, and residents of Fishemarkt, or crowds of Middenball fans on Festag. It is a galleried building inside and out. Drinkers can set themselves up behind railings and watch the world go by in the marketplace, or stand in the courtyard galleries and enjoy the din of over a hundred rowdy patrons. 
+
+The Red Boar belongs to the Cragdur brothers, three Dwarfs who are quite at home in Altdorf. Hadran runs the bar; Yodri takes charge of security and maintains the building; and Grunaz, the eldest, is the brewer. The latter is rarely seen above ground, as his dominion is the cellar brewery. 
+
+Yodri has a standing arrangement with the Fish. They have exclusive use of the second-floor galleries and, in exchange, they don’t cause any trouble on the premises. Other visitors receive a quiet word of advice fromYodri or Hadran not to drink on the second floor. 
+
+## **Altdorf’s Dwarfs on Trade**
+Trade with Manlings has been the lifeblood for the Karaks since before the coming of the Unberogens, long before Altdorf was a small village on the Reik. Dwarf traders descend from the mountain realms in modest-sized caravans escorted by Dwarf guards and travel overland to any of the provincial capitals. There, the Karak Dwarfs trade with Imperial Dwarf or Manling merchants who then move Dwarf-made items on to other Imperial destinations. 
+
+Dwarf traders — both Karak and Imperial — find doing business in Altdorf both rewarding and frustrating. The reward comes from the sheer number of possible customers in the Imperial capital and the money to be made selling both raw materials and finished goods. The trouble with Altdorfers is that they want to haggle over everything, but do so with little patience. Oddly, it seems they are always frantically trying to conclude the transaction in order to hurry off to some other activity or event. A very patient trader could take advantage of such a behaviour, but Dwarfs are not known for a huge reserve of patience. 
+
+Of late, however, things have become more unsettled in Altdorf. Seasoned Dwarf traders from outside the city attribute the subtle and steady degradation of the Imperial capital to the presence of the Colleges of Magic and the pernicious, contaminating influence of magic. As a result, most Dwarf traders now make their way to the Metallschlacke district, where they sell their merchandise to local Dwarf merchants. The Altdorf Dwarfs then resell some of the merchandise to Manling merchants elsewhere in the city. 
+
+## **Rough Justice**
+
+- Zuzanka Eichelen was working as a barmaid in the Red Boar when she met High Priest Archibald of the Temple of Verena. Archibald educated her in the Verenan tradition to prove a point to his fellow scholars about the abilities of the common folk. Five years later, she’s a respected priest and quite fanatical about justice. She’s going back to the Red Boar to remonstrate with Yodri and take the resident Fish to task, heedless of danger. 
+
+## **The Fruit Sellers**
+From early morning, the streets resound with the songs of the Fishemarkt fruit sellers. These young women carry their wares in baskets and trays around their necks, singing out for custom. Each has her own distinct and tuneful cry: ‘ _Strawberries ripe! Two tubs for a penny_ ’ ‘ _Who will buy my sweet cherries? Sweet cherries!’_ ‘G _et your rhubarb, lovely rhubarb! Fresh today!_ ’ When they pass one another in the street, they harmonise, and their songs are quite pleasant to hear. 
+
+The women sell most of their wares on the streets close to Konigsplatz, but throughout the morning they can be found wherever there are people. Locals look fondly on the sellers because they brighten the place up with the songs and freshfaced good cheer.  They also know not to mess with them; every single fruit seller carries a razor-sharp fruit knife and knows how to use it. 
+
+## **Eye for the Hooks**
+
+- The fruit sellers work for the Hooks as lookouts. While selling fruit, they’re observing and reporting back to the war chiefs anything they see the Fish doing in Fishemarkt or Konigsplatz. 
+
+## **Briechs Brothers of Schwarzwasserstrasse**
+## **Neuesgeldt**
+The Neuesgeldt district has a long history of commerce. In pre-Imperial times, a busy trading post occupied the square opposite the present-day merchants’ guildhall. As Altdorf gradually expanded, the markets moved nearer the Reik, and Neuesgeldt became a crafting district. A handful of craftsmen maintain workshops here today, but the district has largely been overtaken with offices and modern townhouses belonging to the city’s ‘nouveau riche’ merchants. Older merchant families generally own gothic mansions on the South Bank. 
+
+Neuesgeldt is relatively quiet most days, because bulk trading is conducted at the Commodities Exchange in Grandmarkt. The Trading Post coaching inn and Tipping Scales tavern cater exclusively to visiting merchants. Nobles eschew Neuesgeldt as a middle-class district and limit their association with its merchants to borrowing money. On occasion, Neuesgeldt hosts regional grand diets, bringing nobles from across the Reikland to negotiate tariff and taxation law in the smoky back rooms of the Merchants’ Guild. 
+
+The Briechs Brothers are the most successful tailors in a city famous for its stylish clothing. The family’s original weaving house is now a business office and design workshop, under the supervision of younger sister Annalise. Tailoring is contracted out to craftsmen in the Altdorf suburbs who use Briechs patterns. The company fulfils large orders of coats for the City Watch and regimental uniforms for the military. The brothers, Gerold and Anshelm, are often absent from their Neuesgeldt townhouses on business trips. 
+
+Altdorf ’s nobles consider Briechs to be a middle-class tailor, when in fact Annalise designs the city’s hottest fashions. The brothers use trade brokers to supply noble courts up and down the Reik with the latest Altdorf styles. The Breichs company has an office at the merchants’ guildhall, but they are not merchants by trade. In recent years, other merchants have capitalized on the Breichs’ success by poaching their tailors and stealing their designs. 
+
+## **Spinning a Yarn**
+One of the company’s original brokers, Jaeger’s Wool Merchants, is now its biggest competitor. Through bribery and underhanded bargaining, Gustav Jaeger has monopolized the local yarn supply. Gerold and Anshelm will pay handsomely for evidence of illegal market tampering by Jaeger’s company. Hired agents monitor the commodities exchange daily to ensure Gustav doesn’t pull the wool over anyone’s eyes. 
+
+## **Merchants’ Guildhall**
+The Guild of Merchants, Traders & Brokers takes up several adjacent buildings, variously interconnected. At the centre of the sprawling complex is the huge, timber-framed Old Guildhall. Over time, the guild has acquired neighbouring houses and connected them to the hall by makeshift renovations. The main floor of the Old Guildhall is a colonnaded lobby with richly upholstered furniture for visiting merchants and sales agents. Three upper floors contain offices for the city guild masters and their attendant clerks and scribes. 
+
+Altdorf ’s merchant guildmasters are powerful officials who own property in the city. The guild also represents merchants from other towns in the Reik estuary region (Carroburg, Ubersreik, Bögenhafen, and Helmgart). Associate merchants of the League of Enterprising Entrepreneurial Reiklanders are entitled to membership at both Altdorf and their local merchants’ guild. The offices and meeting rooms for associate guild members are in a vast, dimly lit labyrinth of hallways and stairwells. 
+
+## **Trade Envy**
+
+- Several influential guildmasters fear the League of Enterprising Entrepreneurial Reiklanders is hindering Altdorf’s success. These merchants are highly protective of the bustling Reik estuary and glorify the ancient Unberogen pioneer-traders who originally settled Reikdorf. Merchants applying for guild membership undergo interrogation by the guildmasters’ committee to ascertain their loyalty. New members might be shadowed by a guild spy when trading in Bögenhafen, Ubersreik, or Kemperbad. 
+
+- Altdorf’s trade with the freistadt of Kemperbad is profitable but politically sensitive. The Emperor is displeased with Kemperbad’s trade barons allowing merchants from Auerswald and Grunburg to use the town as a tax haven. The ‘Kemperbad enclave’ dominates trade between Altdorf and Nuln through selective tariff exemptions. An Imperial plenipotentiary might offer journeyman traders employment as covert agents in Kemperbad. 
+
+## **Not So Sheepish Now**
+
+- When Felix returns home, he leaves behind poems describing his adventures with the Dwarf Gotrek. Gustav doesn’t believe half of his son’s tales, but Otto has signed a deal with the _Altdorf Spieler_ to publish Felix’s poems as bound anthologies. The first print run has caused quite a stir in Altdorf. Would-be adventurers are studying the volume entitled _My Travels With Gotrek (First Episodes)_ . Felix is yet unaware of his brother’s publishing initiative.. 
+
+## **Shrine to Handrich**
+The cult of Handrich is growing quickly in Neuesgeldt. Merchants attend a small, circular chapel at daybreak every Marktag, wrangling deals while waiting in the queue to make their offerings. Three open archways allow easy access to the statue of Handrich within. Worshipers toss gold and silver coins into collection bowls at the feet of the plump, smiling statue. The Merchants’ Guild is saving donations to construct a larger temple in the near future. 
+
+Although Handrich (Hændryk as he is known by Wastelander devotees) is a young god originating from Marienburg, most Altdorf merchants keep a small shrine to him in their homes. The head priest of the Altdorf order is Nijs Rothemuur, a trader of exotic goods whose father is a member of the ruling Directorate of Marienburg. Nijs gained influence in Altdorf through his father’s High Elf contacts and decided to make the city his new home. His family is rumoured to be directly descended from Handrich. 
+
+## **Divine Investment**
+
+- According to some legends, Handrich is the brother of Ranald the Trickster. The Merchants’ Guild technically forbids worship of Ranald; however, Handrich purportedly grants fortune to unscrupulous traders who cross their fingers when making donations. Nijs Rothemuur has become aware of this heretical practice. He reports offenders to the Merchants’ Guild, who risk losing their trading licence. The Brotherhood of Ranald secretly cases the shrine’s petitioners for prospective business partners. 
+
+## **Jaeger’s Wool Merchants**
+Gustav Jaeger is the father of infamous adventurer and poet Felix Jaeger. The family home where Felix was raised is located upstairs from the office. From humble beginnings in the Reikland wool trade, Gustav’s business has expanded to Nuln and diversified to other markets. Felix’s older brother, Otto, runs the Nuln office under the name Jaeger & Sons. The wealthy merchants own several riverboats and caravans, and lease two warehouses in the Dockland district. 
+
+Brokering raw wool sales to weaving houses is not the most lucrative business, but it gives Gustav control of the yarn market. The real money comes from subcontracting clothiers to produce fine woollen garments for Altdorf ’s upper class. Gustav once aspired to nobility himself, and he even paid his sons’ tuition to Altdorf University. As a young student, however, Felix embarrassed the family by duelling and agitating. Nevertheless, Gustav looks forward to sporadic visits from his wayward son. 
+
+## **Altdorf Commodities Exchange**
+Brokers mediate most mercantile trade in Altdorf and receive a small fee from each transaction. Commodity trading occurred outdoors in the Grandmarket until the last century, when the Kaufmanshalle was established. The impressive four-storey stone and brick hall is decorated with romantic barbarian statuary. Within, three levels of balconies overlook the central trading floor. Only sales agents and guild-licensed brokers are permitted on the floor. Merchants must observe from the balconies and despatch sales agents with bids and counterbids. 
+
+In addition to matching buyers with sellers, Altdorf ’s brokers certify the quality of trade goods and collect taxes and tariffs. Merchants can haggle directly with other merchants, but they cannot broker deals. Sales agents are not supposed to broker deals either, although merchants can employ agents who also happen to be licensed brokers. Trade brokering is a stressful, fast-paced job that often leads to dependence on Ranald’s Delight ( **WFRP** , page 306). 
+
+## **Grandmarkt**
+Altdorf’s busiest commercial quarter centres around a large market plaza. In the Grandmarkt district, richly dressed nobles and merchants fraternise with farmers, dung collectors, and the occasional Ogre mercenary. Shops sell all manner of goods on the side streets. Several merchant families own offices here, but the majority are based in Neuesgeldt or the South Bank. Carriages deliver nobles and merchants to the busy commodities exchange daily. 
+
+The district’s restaurants and taverns range in quality from peasant slop-houses to fine banqueting halls. Several restaurants that cater to merchants hold regular competitions. The customer who recorded the highest daily profit usually eats for free. These restaurants are members of a culinary society called the Grandmarkt Gourmand Club. The Halfling chefs of Haffenstadt are rumoured to have secret deals with Gourmand Club restaurants. 
+
+## **Handelshafen Canal**
+Riverboats can deliver cargo directly to the Grandmarket using a canal that connects to an inland marina. The Handelshafen enables river traders to deploy their stalls quickly on Marktag mornings, or access warehouses without requiring stevedores to lug cargo from the main docks. Only narrow boats shorter than 18 yards in length are permitted into the Handelshafen. Larger barges must unload at the docks. The marina is equipped with cranes for traders willing to hire stevedores. Three bridges cross the canal. A customs official collects taxes and tariffs from a tollbooth at the canal entrance. 
+
+## **Black Marktag**
+
+- Moneylending merchants provide emergency loans to buyers who overbid (either intentionally or by mistake). The wealthy Marienburg houses sometimes employ agents at Kaufmanshalle solely for the purpose of securing high-interest debts. Loans and debt collection contracts are even bought and sold as commodities themselves. Debt collection can be a dirty business requiring the help of mercenaries who hire out of the Grandmarket. 
+
+- Artists and playwrights visit the Kaufmanshalle to secure financing from wealthy patrons. On the balconies overlooking the trading floor, projects are pitched hastily and contracts are often drawn up on the spot. Financing terms are usually more demanding than the artist first realises. Occasionally,  manipulative art commissioners lure applicants into the Cult of Illumination. 
+
+## **This Little Piggy Went to Grandmarkt**
+
+- Smugglers use the Handelshafen to sneak illegal goods into the city on Marktag, when customs officials are simply too busy handling traffic to inspect every cargo. Several of the marina’s stevedores are members of the Fish gang. Independent smugglers who are caught without prior clearance from the Fish may end up floating face down in the canal the next morning. 
+
+## **The Grandmarket**
+The square plaza from which the Grandmarkt district takes its name is Altdorf ’s oldest market. Although mercantile trade has largely moved indoors to the Kaufmanshalle, trade good samples are still displayed at outdoor stalls to entice buyers. Food vendors sell fresh produce from the local farms daily. On Marktags, when farmers are allowed to sell independently, produce carts line nearly every street in the Grandmarkt district. Local farmers are permitted to bring their carts through the postern gate at Haffenstadt. 
+
+The Grandmarket plaza is bounded on one side by the Kaufmanshalle and on another by the marina. Pens and stables for draft animals surround the remainder of the plaza is surrounded. Wagons and carts are permitted in the plaza and butchers can sell meat there, but livestock is forbidden. Vendors using the side streets on Marktag are exempt from the livestock rule, so it becomes difficult to find space amongst jostling mules and oxen. Dung collectors and rat catchers make a good penny here after the weekly farmers’ markets. 
+
+## **Turnip Troubles**
+
+- The Halflings of Haffenstadt get first pick of vegetables coming through the gate on Marktag. Farmers are happy to sell produce before it reaches market, and the Halflings pay generously. Human innkeepers have tried intercepting farmers’ carts _outside_ the city, before they reach the Halflings. But a group of racketeers known as the ‘vegetable mob’ always warns them off. Several innkeepers have taken to hiring bodyguards for their early morning produce shopping. 
+
+- Merchants can hire mercenary caravan guards or debt collectors at the Grandmarket. Ogre mercenaries are sought after for their intimidation value, but they’re also expensive to feed. Returning Ogre guards gorge themselves on leftover food donated by the plaza’s nervous vendors. A common saying amongst Grandmarkt merchants is ‘eat like an ogre, sleep like a prince’. 
+
+## **Palmerio’s Emporium**
+Luigi Palmerio sells imported Tilean luxury goods from a converted warehouse. On the main floor, Luigi warmly greets clients and tempts them with delicacies such as olive oil, citrus fruit, flatbread and saffron. The second floor is the clothing and armour department, where southern fashions are sold to patrons who ‘dare to be different’. Exquisite paintings, statuettes, and ivory carvings are sold on the third floor. A knowledgeable Tilean clerk staffs each floor. 
+
+Luigi informs customers that the Palmerios are merchantprinces with emporiums in every Tilean city. He’s a selfproclaimed expert on southern culture; however, only the food he sells is genuinely southern. Luigi commissions his other wares from local tailors, sculptors, and smiths who copy replicas from painted images. Luigi has a merchant contact in Kemperbad who imports exotic foods, but Luigi is not a licensed merchant himself. 
+
+## **Dodgey Dealer**
+
+- Luigi isn’t really a Palmerio merchant-prince, but rather a charlatan from the Border Princes, wanted for theft in Averheim and Ubersreik. The Tilean paintings that inspire his wares were stolen for him from noble mansions in the Empire, and his clerks are swarthy Altdorfers putting on (rather unfortunate) Tilean accents. Luigi has burglar contacts throughout Altdorf’s underworld. If the City Watch ever becomes aware of his stolen merchandise, Luigi plans to accuse a scapegoat before hastily fleeing town. 
+
+## **Herr Hohenzoll, Wool Merchant**
+The Hohenzolls are one of Altdorf ’s old merchant families. They conduct business from a two-storey office with attached warehouse near the Grandmarket. The Hozenholl residence is a mansion on the South Bank, and they own several warehouses in the Dockland district which they lease to other merchants. The Hohenzolls consider themselves nobility because Emperor Boris granted one of their ancestors the minor title of ‘junkherr’ in 1113 I.C. 
+
+Herr Albrecht (von) Hohenzoll is determined to revive the family wool trade after generations of neglect. The eccentric middle-aged merchant dismisses modern trade brokering as ‘lazy’. He doesn’t employ sales agents or use the commodities exchange, preferring instead to roll up his sleeves and survey the docks in person for arriving wool traders. Herr Hohenzoll hopes to break the Jaeger Company’s stranglehold on the yarn market by buying up as much raw wool as possible before Gustav can get his hands on it. 
+
+## **Wolf in Sheeps Clothing**
+
+- As a landowning merchant, Herr Hohenzoll is entitled to a small attic office at the merchants’ guildhall. He takes the post very seriously despite the guildmasters never inviting him to important meetings. After completing deals, Herr Hohenzoll often invites traders to the guildhall and introduces them around to his colleagues (who call him ‘Von’). Only after a few introductions do guests begin to realise that Albrecht is the laughing stock of the guild. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Riechenfeld–kuypers Exotic Imports**
+One of the city’s most famous trading companies is a joint venture between the Von Riechenfelds of Altdorf and the Van der Kuypers of Marienburg. The trading house is a large, stone building with a storefront on the ground floor, and offices and storage on the upper levels. The Van der Kuypers import exotic goods from Lustria through their contacts in Ulthuan. Meanwhile, the Riechenfelds import luxuries from Ind and Cathay along the Silver Road. 
+
+The company is primarily a commodity trader dealing in large volumes of salt, trinkwort, tea, and spices. These expensive wares can be sampled at a stall in the Grandmarket. The company’s 
+
+- Both merchant families are powerful in their respective cities, which makes the trade alliance noteworthy. The Riechenfelds are one of Altdorf’s old merchant families, with many connections to nobility. Through their business relationship, the Van der Kuypers have amassed substantial credit from Reikland nobles through financing and moneylending. Several of Altdorf’s more conservative guildmasters want the company to fail, because it embodies their fears of creeping foreign ownership. Competitors in the exotics trade are likely to find themselves with friends in high places. 
+
+storefront is just a gimmick to attract business. Monkeys and colourful birds are for sale at the store, as well as ivory and exotic animal furs. A diminutive yellow-crested Lizardman is caged in the corner for public entertainment. 
+
+## **Talabec Bastion**
+At the place where the city wall meets the Talabec river is a bastion tower. In the event of waterborne invasion, the Talabec Bastion provides crossfire to the Black Isle fortifications across the river. At its base is a grotto where mercenaries can enlist for service after disembarking at a small wharf. Crowning the bastion is the Taalspire, one of the city’s highest watchtowers. The bastion’s outer arsenal tower is accessible by a bridged bailey. 
+
+## **The Boneyard**
+In peacetime, the bastion is rarely used by anyone but Ogres, who prefer the spacious grotto to the city’s cramped inns. A massive pile of animal bones serves as a shrine to the Great Maw. The nearby Grandmarkt and Haffenstadt provide easy access to food. Ogre mercenaries arriving down the Talabec are often the uncultured sort. Recently an Ogre Butcher, as their religious leaders are known, has taken up residence in the grotto. 
+
+## **The Cock of the North**
+## **Haffenstadt**
+Though Halflings can be found all over Altdorf, mixing with the ‘Bigs’ and working in many industries, Haffenstadt is their very own corner of the city. Barely any non-Halflings live in the district. Many of the buildings are Halfling-sized, and built to a homely rustic aesthetic. Newer buildings follow this trend. Old Big buildings are simply given extra floors by bisecting the original levels. Ubiquitous pot plants, small but thriving gardens, brightly painted buildings, coloured awnings, small ponies instead of horses, the scent of herbs, make the transition from the Big city to Haffenstadt unmistakable. 
+
+Just as any visitor from the wider Reikland might find Altdorf uncomfortably overcrowded, Haffenstadt can seem unnaturally crowded to other Altdorfers. This is due to its tight enclosure on three sides by the looming city walls, its many tall and narrow buildings, and the bustling populace. Halflings, by nature, are sociable and gregarious and feel comfortable in these cramped conditions. A postern gate leads right into the heart of Haffenstadt, so first-time visitors to the city entering here get a strange first impression. 
+
+Officially part of Grandmarkt, the Halflings of Haffenstadt consider the area to be its own distinct district. They are trying to convince the council of Grandmarkt to give them such independence. They have already set up their own ‘shadow’ town council at the Quinsberry Manor with its own burgomeister. The burgomeister, Harpal Chard, struts around in his regalia as if his position were the most official thing in the city. Whilst he has no official power, he still hosts painstaking debates, over very long lunches, on how things should be done. 
+
+The Cock is a no-nonsense tavern that caters to some of Haffenstadt’s less respectable citizens and its mercenary contingent. The patrons and staff pride themselves on their lack of airs, and the friendliness of the place. However, this friendliness does not often extend to non-Halflings or even Halflings outside of the military. Bilberry Brambledown, the landlady, prefers to let her employees do the work. She is usually found holding court next to the fire, lost within a thick fog of pipe smoke. If she takes a dislike to a customer, however, she might go to the bar just to spend ages getting around to serving them. 
+
+This is the home of the all-Halfling mercenary band attached to the Altdorf garrison. ‘The Fighting Cocks’ (as nearly all Halfling mercenary units are fondly known) are popular with the Imperial forces, as it is believed they bring luck, even if are not the finest soldiers. During peacetime, there is bound to be a significant number of Cocks at the bar. 
+
+## **Little Chickens**
+
+- In order to buy time to pay some heavy gambling debts, Bilberry hires the Characters to rob the Cock. Unfortunately, this quickly goes sideways. Someone discovers the robbery in progress and nearby Halflings, including a troop of Fighting Cocks, band together remarkably quickly to surround the Characters. They will need to think and talk fast to get out of this predicament unscathed. Obviously, no one would believe that Bilberry hired them to rob her own tavern! 
+
+- While the Characters are drinking at the Cock, a group of Halfling mercenaries challenges them to a series of tests of skill. If the Characters win too many of these, the Cocks become increasingly belligerent. Challenges include balancing feathers on one’snose, blindfolded darts, ‘how many crowns you can fit in your mouth’, hiding pies about one’s person, and ‘how many cheeses can you name’. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **No Thyme to Die**
+Peony has taken a special interest in one of the Characters on behalf of the Black Chamber. She interrogates them regarding their preferred art and over-analyses what they say. She then invites them to a bespoke soiree, where she inflicts on them what she imagines is their ideal artistic experience. The challenge for the Character is to stay awake. 
+
+Peony has to get a message to the Black Chamber urgently. She hires the Characters to deliver a hamper of herbs and spices to the cathedral. The Characters might wonder why she’s paying so much for such a simple task. If they look through the contents who knows what secrets they might discover? 
+
+## **Quinsberry Manor**
+## **Peony Hayfoot**
+Peony Hayfoot runs a small herbs and spices stall at the local market. She seems to know everyone in Haffenstadt, though this sort of congeniality is by no means unusual in Halflings. She would make a great contact in Haffenstadt for anyone who needs to find the right Halfling for the right job. 
+
+Despite her modest stall, Peony owns a decent property in the middle of Haffenstadt and regularly entertains an eclectic range of friends. She organises musical recitals and other sophisticated soirees. She is especially ingratiating around Burgomeister Chard and his cronies at the Lodge. Peony has a reputation for being overly formal in her entertaining, exhibiting the sort of excessive propriety that Halflings consider a tedious Human trait. In fact, Peony Hayfoot is in the pay of the Black Chamber. She is always on the lookout for the odd bit of gossip that might be of interest to the Imperial spies. She uses her soirees to this end, and delivers reports via consignments of spices addressed to Siegfried Waltz at the Cathedral of Sigmar. 
+
+## **Peony Hayfoot – Spy (Silver 3)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|3|29|44|23|32|31|42|42|31|41|51|10|
+
+**Skills:** Animal Care 41, Bribery 61, Charm 66, Consume Alcohol 42, Cool 51, Dodge 45, Drive 52, Gamble 44, Gossip 81, Haggle 74, Intuition 41, Perception 56, Trade (Cook) 47, Stealth (Urban) 52
+
+**Talents:** Acute Sense (Taste), Beneath Notice, Blather, Dealmaker, Gregarious, Night Vision, Read/Write, Resistance (Chaos), Shadow, Small
+
+**Trappings:** Coarst Clothing, Herbs Worth 12/5
+
+The Manor, as it is known throughout Haffenstadt, is a private members’ dining and social club. Every Halfling of status in Haffenstadt belongs to the club, and it is near impossible to run a successful business here without membership. The large building dominates the area and is the closest the Halflings have to a town hall. 
+
+The Manor also acts as a headquarters for the local branch of the Quinsberry Lodge. Though the Lodge exists to promote and protect Halfling interests, its main preoccupation at this time is to get Haffenstadt recognised as a borough of the city in its own right. The burgomeister of Grandmarkt is keenly opposed to such an outcome, so the Lodge uses every trick it can think of to push its agenda. This mostly means wining and dining, and sometimes compromising, influential figures from Grandmarkt. 
+
+## **A Small Concern**
+
+- The Lodge wishes to turn the Grandmarkt councillor, Markus Spiel, to their interests. If they can get something on him, he will have to advance Haffenstadt independence. Spiel has a reputation for visiting all the worst establishments. The Lodge needs some non-Halflings to follow him around town and indulge in all that sort of thing, while keeping a record of his activities. All expenses paid! 
+
+- Siegfried Waltz of the Black Chamber needs to know whether the Lodge is a serious threat to the peace of Altdorf. He hires Characters who are able to infiltrate a Halfling organisation whilst remaining loyal to the Empire. 
+
+## **Cheeses of the Empire**
+Mildred Lester runs the best cheese shop in Altdorf. She is the no-nonsense matriarch of a large extended family. Many of the clan work in and around the shop, but just as many have branched out elsewhere in Haffenstadt and the wider city. The joke in Haffenstadt is you can always tell a Lester because of the whiff of cheese about them. 
+
+The shop itself covers an entire floor of a large townhouse and the stock is stored in the extensive cellars and natural caverns beneath it. Mildred prides herself that her shop stocks every significant cheese in the Empire, from ripe Grubentreich to Bernloch Hard. 
+
+She has also written an exhaustive treatise on cheese, named after the shop, and stocks copies. There are three on a shelf in the shop itself, but she secretly stores several dozen more in the cellar. She is desperate to shift them, so an astute purchaser can get a large discount. 
+
+## **There Must Be a Whey**
+
+- Someone has ordered Granny’s Blue-Veined Legend, which Mildred has never heard of. She is desperate to find someone willing to travel to the relevant corner of the Empire to bring back a piece of this cheese — and to find out as much about its production as they can. 
+
+- The cheese cellars seem to be attracting voracious vermin. The Lesters have done their best to wall it off from the wider cavern complex, but that has not stopped the raiding. Almost every morning, they find another cake of cheese befouled. Mildred is looking to hire a likely bunch who can find out where the encroachment is coming from, and put a stop to it. 
+
+- Mildred has recently taken delivery of a truly delectable cheese made by Deiter Käsegeier, cheesemonger extradonaire. This particular vintage is infused with dreamwine, and anyone eating a chunk counts as having consumed a glass of the stuff. Mildred is so far unaware that her customers are experiencing uncontrolable prophetic visions. 
+
+ALTDORF — THE CIT Y NORTH 
+
+## **Burgomeister Chard**
+Harpal Chard is a rabble-rousing demagogue, anxious to see an independent Haffenstadt free from the oppression and bigotry of Grandmarkt and Humans generally — or as he calls it, ‘Big-otry’. He cares little for civilised discourse, unless it helps him, and much prefers sabre-rattling in the market square or scheming in pipe smoke–filled rooms. He gives the impression that he acts only by gut-feeling and common sense, but Chard is actually much more astute than he lets on. 
+
+## **The Revolution Will Be... Short**
+
+- The Characters find themselves in Haffenstadt as Chard is addressing a rally in the market square. Things turn quite belligerent quite faster than anyone could expect. Amidst shouts of ‘Free Haffenstadt!’ and ‘Down with the Bigs! Up with the Smalls!’ the crowd gets nasty, and turns on any non-Halflings present. 
+
+- Chard wants to stir things up, and has offered to pay a band of Humans to toss a Halfling merchant’s cart. Chard swears blind that everything is arranged with the ‘victim’, but he has neglected to do so for the sake of authenticity. If a band of Fighting Cocks should happen to run across this confused shake down, things could get really ugly. 
+
+Chard is keen to be seen as on the side of the ‘Halfling in the street’. Should one suffer mistreatment, he goes right off to raise a mob and seek revenge. He is always on the lookout for such a cause célèbre. Most politicians in Grandmarkt do not take Chard very seriously at all. This could be a miscalculation, as he is as popular among educated Halflings as among the baser sort. 
+
+## **Burgomeister Chard – Demagogue (Brass 5)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|3|43|66|26|33|56|52|42|51|46|63|10|
+
+**Skills:** Art (Writing) 62, Bribery 83, Charm 88, Cool 61, Consume Alcohol 56, Dodge 75, Entertain (Storytelling) 78, Gamble 66, Gossip 83, Haggle 86, Intimidate 36, Intuition 71, Language (Mootish) 56, Leadership 78, Lore (Politics) 71, Perception 71, Trade (Printing) 62 
+
+**Talents:** Acute Sense (Taste), Argumentative, Blather, Cat-tongued, Gregarious, Impassioned Zeal, Master Orator, Night Vision, Public Speaker, Read/ Write, Resistance (Chaos), Schemer, Small 
+
+**Trappings:** Fine clothing, Sturdy Boots, Intimidating Looking Sword (but no idea how to use it), At Least one Item of Cooked Food, 3/6 
+
+## VII
+## **The Toteninsel Cemetery**
+There are no grand tombs here, but rather ranks of poorly marked mass graves containing the corpses of Altdorf ’s poor. This is the last resting place of those without the means to pay for more dignified burial elsewhere. At the heart of the cemetery is a deep lime pit, where those who die during epidemics and times of war or catastrophe are disposed of. At the back of the cemetery, a special shrine houses the suspiciously dead. Raven amulets around their necks protect the corpses from necromantic powers. Possets of herbs hang from the beams; their pleasant aroma is believed to ward off evil spirits. 
+
+This garden of Morr is under the care of acolytes serving their last term before ordination as priests.The practice is known as ‘doing the graveyard shift’. The unlucky Frau Katarina Schädel leads these acolytes of the Mourners’ Guild. She works diligently, but unfortunately the bleak surroundings and low status of the people buried here mean that few high-ranking Priests of Morr care about these graves. Schädel is constantly understaffed and underfinanced. 
+
+## **Toteninsel**
+The island of death is a dismal and ill-omened place. Many dark granite buildings here are dedicated to Morr: shrines, tombs, ossuaries, and priests’ cells. A few buildings house lawyers, undertakers, and masons, but outside the cult of Morr, very few reside here. 
+
+The Order of the Black Guard keeps constant vigil, guarding against the restless dead and grave robbers. Initiates of the Mourners’ Guild tend to the graves and provide guidance to the bereaved. Morr’s black roses grow all over the island. Their sweet odours permeate the air, mixed with the dull stink of grave rot. Soft lamentations drift on the air, underscored by cawing ravens and lapping waters. 
+
+## **Silver House**
+This half-timbered building lies close to the Temple of Morr. Its keepers trade silver for corpses, but no upstanding citizen would consider dealing with them. Common belief holds that the coin from Silver house brings a curse to those who handle it. Rumours abound as to what goes on inside the building, but most believe it to be an arm of the Cult of Morr. In truth, the Amethyst College surreptitiously runs Silver House. They use the corpses brought here for magical research. 
+
+The Cult of Morr is aware of what goes on in Silver House and have come to an understanding with the Amethyst College. The cult does not exactly approve of the practice, but considers that it is better done where they can oversee it rather than hidden away in Amethyst College laboratories. 
+
+## **Dig for Victory**
+
+- Below the city, the Strigoi vampire Sacharias Klok plots to tear Altdorf down. He wants an army of the undead, and is paying grave robbers to fetch him bones and corpses. Frau Schädel needs help finding out who is behind the rash of grave robbing. 
+
+- Wendel Gorr, a violent smuggler, is dead and buried. The Fish say he had an important map tattooed on his thigh. The Characters stand to make a lot of money if they can convince Frau Schädel to let them exhume his corpse, or if they just go ahead anyway. 
+
+## **Silenced Dead**
+
+- A friend of the party has turned up dead. She had recently started working for Silver House. The night before she vanished, she told her friends that she had witnessed awful rites there and planned to gather evidence. Unfortunately, she was discovered breaking in. If the Characters gather evidence to present to the authorities, they might be surprised that the case is lost among red tape and forgotten. 
+
+## **The Temple of Morr**
+Altdorf ’s main Temple of Morr is the largest structure on Toteninsel. It is a massive stone building, situated next to the cemetery. The walls are plain, but the buttresses are home to gargoyles of every size and shape. Ravens perch on their heads and wingtips. A tall bell tower points sharply at the sky from the back of the building. Each dusk and dawn, the Mourning Bells boom, deep and resonant, reminding all that Morr is ever present. 
+
+The temple is always busy, for Altdorf produces a steady trickle of corpses. Funeral services are held daily, and the plain stone pews fill with mourners and clerics of Morr. 
+
+Every Geheimisnacht and Hexensnacht, the preists hold a solemn mass in the temple, drawing large crowds of visitors bearing candles and black roses in memory of the dead. In addition to the main hall, the temple has several connected buildings where the Order of the Shroud and the Order of the Black Guard keep their headquarters. 
+
+Tillman Sterte, a pale, slender man, leads the Order of the Shroud. Even though the cult of Morr tends to keep out of politics, Sterte has a duty to attend meetings with other cults and provide advice. This puts the priest in perpetual poor humour, burdened by the hardships of dealing with the mortal realm and the other cults. His depressions lead him to neglect his administrative duties, irritating his underlings in turn. 
+
+The Order of the Black Guard maintains its barracks here. Their leader is the infamous Asser Weitz, a dour warrior known as the White Knight due to his pallid complexion. The knights take turns guarding the temple, patrolling the grounds, and hunting the occasional undead. 
+
+## **Looking for a Raise**
+A cabal of necromancers have gathered in Altdorf, planning to perform an unholy ritual in secret catacombs hidden below the temple. The ritual will take place on Hexensnacht and create an army of the undead to massacre the congregation gathered for the great mass. Under the guise of clerics of Morr, the cabal are looking to hire adventurers to clear out the catacombs without attracting attention. 
+
+## **Raven and Portal**
+The Raven and Portal is an inn mostly catering to members of the Cult of Morr. The innkeeper, Rebeka Fretz, is friendly enough but also very careful not to disturb her patrons when they desire quiet and solitude. Sometimes a drunken group of sobbing mourners find their way here, but the sombre and tranquil atmosphere soon drives them off. The inn’s sign shows a black bird, and when the wind blows just right, its creaks sound like the caw of a raven. It is a clean and reasonable inn for dining and resting.The menu is fairly standard, offering enough to fill one’s stomach and quench one’s thirst. 
+
+## **It’s Dead in Here**
+
+- As the adventurers enjoy a quiet evening at the Raven and Portal, a gang of drunken stevedores from the Docklands invade the tavern, intent on celebrating the demise of their despised foreman. Tempers flare, and Rebeka is soon looking for someone to help her restore peace and order.

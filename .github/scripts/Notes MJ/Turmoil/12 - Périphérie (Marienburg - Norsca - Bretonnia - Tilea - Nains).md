@@ -1,0 +1,865 @@
+# Front — 12 Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains)
+
+> **One-liner** : Le **front thématique transversal externe** du Turmoil 2512 IC — voisins de l'Empire et menaces périphériques. Cinq écosystèmes externes : **(a) Marienburg + Wasteland** (sécession canon 2429 IC via Dieter IV + Treaty of Kaldezeit ; gouvernance Directorate = 4 High Priests Manaan/Verena/Shallya/Haendryk + Rector Baron Henryk's College + **The Ten Merchant Houses** ; cible canon **Graukappen Chambre Noire** *"curtailing the political power wielded by the Bretonnian court and Marienburg's ruling directorate"* — Fandom Chambre Noire) ; **(b) Norsca** (tribus canon : Sarls, Skaelings, Bjornlings, Aeslings, Vargs, Baersonlings ; raids 2512 IC côte Empire — *"In 2512 IC, the Realm of Chaos waxed and spread, and the savage Norscans… began to spill out of the north to ravage the civilised lands of the south"* Fandom Sea of Claws ; Imperial Navy armada en réponse ; **Throgg the Troll King** *"Wintertooth"* dans Troll Country ; Norse Dwarf hold **Kraka Ravnsvake** *"premier hold of the Norse Dwarfs"* depuis chute Kraka Drak, King Haarkon Vikramson + Queen Inga Ottarsdottir Ziflinskaud clan ; **pèlerinage post-PBT Jarrick Valgeir** Ar-Ulric déchu *"never returned"* dans le nord glacé — cascade fiche 10) ; **(c) Bretonnia** (Royarch Louen Leoncoeur depuis 2500 IC couronné par Morgiana le Fay ; allié + rival historique Empire ; cible Graukappen ; routes commerciales canon via **Montdidier Pass** Loren Forest → Quenelles + **Alimento Tunnel** underground vers Miragliano Tilea — Archives Vol I ch.4 Kreutzhofen l.303-307 — cascade fiche 03 Sudenland) ; **(d) Tilea** (cités-États canon : Luccini, Miragliano, Remas, Tobaro, Trantio, Verezzo + Sartosa Pirate City ; **Cult of Myrmidia** *"daughter of Morr and Verena"* — Order of the Eagle ministériel + Order of the Righteous Spear Templars ; **condottieri Tilean** dont **Leopold's Leopard Company** *"famous band of Dogs of War mercenaries that had its origins within the great city-state of Luccini"* qui a *"fought for Emmanuelle von Liebwitz in her campaign to annex the province of Sudenland"* durant Turmoil 2512 — Fandom canon explicite, cascade fiche 03 ; **Vatheck Fulci Far Eye** Nine Eye Remas *"final goal is to summon the Daemon known as Sheerargetru… traveling from the Border Princes to Altdorf"* — cascade fiche 11) ; **(e) Nains (Dwarfs)** (Worlds Edge Holds canon : Karaz-a-Karak capitale + High King Thorgrim Grudgebearer, Karak Eight Peaks, Karak Kadrin, Zhufbar ; Black Mountains : **Karak Hirn** Hornhold King Alrik Ranulfsson clan Drazhkarak + Queen Winnifer Falxenheir ; **Black Fire Pass = lieu canon emprisonnement millénaire Sheerargetru depuis Great Catastrophe** *"sealed away by the magic of the runehammer"* + lieu canon récupération **vrai Ghal Maraz** EiR ch.11-12 *"true Ghal Maraz was found by adventurers during the civil strife of the Turmoil of 2512 IC in the Black Fire Pass"* Fandom Ghal Maraz ; route quête canon EiR ch.12 retour : Reik → Nuln → Aver → Averheim → Old Dwarf Road → Black Fire Pass + Grenzstadt → Averheim → Streissen → Altdorf ; **Iron Marshall Kina Hammerwatch** Dwarf gardienne Black Fire Pass + **Grimshank's Chain** Dwarf network informel + **Wolfshügel** ancient Temple of Ulric pour restaurer Ghal Maraz drained Sheerargetru exposure + **Master Albertus Nyman** scholar Streissen + **Khardrif Inglepeak** Dwarf Boatman + **Hammerwatch confession canon** *"smiths of my clan agreed to create the imitation weapon wielded by Sigmar's heirs"* — clan Dwarf forgeur de l'Imitation Ghal Maraz ; **Thane Egrim Stonehammer** récupérateur canon **Solland Runefang Grudge Settler** en 2378 IC depuis lair de Chimera dans Worlds Edge Mountains, joint expedition Dwarfs+Men, présenté à Altdorf → Imperial Treasury → Kurt Helborg) ; **menaces additionnelles** : **Vorgaz Ironjaw** Orc Warboss Badlands qui ravagera Black Fire Pass en **2520 IC** post-Turmoil (Third Battle Black Fire Pass, tue Marius Leitdorf — préfigurée canon EiR Companion ch.4 *Imperial Ostlanders* patrouille Black Mountains 2512) ; **Castle Drachenfels** Grey Mountains entre Axe Bite + Grey Lady Pass — Constant Drachenfels *"Great Enchanter"* tué 2480 IC par **Oswald von Königswald + Genevieve Dieudonné + Detlef Sierck**, château rasé après tentative assassinat Karl-Franz 2505 IC (canon Fandom — pré-Turmoil ; **pas étape canon EiR Volume 5 quête Ghal Maraz**) ; **Snikkit** Stormvermin one-eyed clanless Under-Middenheim mercenaire (cascade fiches 02+05+06 — assassin Hergard von Tasseninck) ; **Madcraw Clan** Skaven canon EiR Companion ch.3 (cascade impériale).
+
+---
+
+## 1. Identité du front
+
+- **Nature du front** : **front thématique transversal externe à l'Empire** — pas une province impériale, mais l'**écosystème géopolitique des voisins et menaces périphériques** durant le Turmoil 2512 IC. La fiche 12 traite spécifiquement les **acteurs canon EXTERNES** à l'Empire qui interagissent avec les événements 2512 IC : Marienburg/Wasteland (sécédé 2429), Norsca (raids barbares Sea of Claws), Bretonnia (route diplomatique), Tilea (condottieri mercenaires + Cult of Myrmidia + Vatheck Fulci Nine Eye), Nains des Worlds Edge + Black Mountains (alliés historiques + récupération Ghal Maraz + treaties), et menaces périphériques (Vorgaz Ironjaw, Drachenfels historique, Skaven mercenaires).
+
+- **Distinction critique avec [[Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire)]]** : fiche 11 = mécanique impériale interne (Ghal Maraz + Wolfgang + Chambre Noire) ; **fiche 12 = écosystème externe** dont les acteurs influencent ou réagissent au Turmoil sans être eux-mêmes impériaux. Overlap inévitable (Vatheck Fulci Far Eye Remas figure dans fiche 11 comme Nine Eye, dans fiche 12 comme cellule Tilean ; Black Fire Pass figure dans fiche 11 comme prison Sheerargetru, dans fiche 12 comme territoire Dwarf ; Thane Egrim Stonehammer figure dans fiche 11 comme récupérateur Grudge Settler historique, dans fiche 12 comme figure diplomatique Dwarf canonique).
+
+- **Cinq régions principales + menaces additionnelles** :
+
+### (a) Marienburg + Wasteland
+
+- **Capitale** : **Marienburg** (Marien-sur-Reik), embouchure du Reik, port majeur du Old World.
+- **Statut canon 2512 IC** : **Indépendant de l'Empire depuis 2429 IC** — *"In the Imperial year of 2429, Dieter IV did the greatest and most shameful act ever conceived by an Emperor of the Empire. The foolish Emperor, in a bid to earn quick money to fill his ravaged treasury, accepted a bribe from the burgomeisters of Marienburg in exchange for the independence of the Wasteland"* (Fandom Marienburg). Sécession canonique = **Treaty of (20) Kaldezeit 2429 IC** (Lexicanum Barony of Westerland — date précise).
+- **Terme officiel** : *"The Wasteland"* (post-sécession indépendance) ; **"Westerland"** = terme loyaliste impérial nostalgique (le titre Baron of Westerland existe encore symboliquement mais sans titulaire depuis 2429).
+- **Gouvernance canon** :
+  - **Stadsraad** : parlement.
+  - **Directorate** : Executive Council canon — *"The Directorate is the Executive Council of the Stadsraad, which meets in weekly sessions to make the major decisions affecting the Wasteland's affairs. Its membership consists of the High Priests of Manaan, Verena, Shallya and Haendryk, the Rector of Baron Henryk's College and the heads of the ten wealthiest Merchant Houses"* (Lexicanum Directorate).
+  - **The Ten** : 10 heads des Merchant Houses les plus riches, sièges variables selon richesse — *"the ten chairs held by the merchant houses are supposedly open to any member of the Burgerhof, rich or poor. The Ten keep their hold on the purse strings, as they have since the long-ago fateful meeting with Magnus the Pious"* (Lexicanum Directorate).
+- **Tentatives de reconquête historiques** : *"Prince Wilhelm attempted to regain the city three times, but a war-exhausted Army failed"* (Fandom Marienburg) — antécédent Wilhelm III post-Magnus.
+- **Statut Empire-Marienburg 2512** : indépendance maintenue ; relations commerciales actives ; **cible canon des Graukappen Chambre Noire** Empire — *"In particular [the Graukappen] they're interested in curtailing the political power wielded by the Bretonnian court and Marienburg's ruling directorate"* (Fandom Chambre Noire). **Pré-Turmoil 2512** : head Chambre Noire = **Liepmund Holzkrug** (cascade fiche 11) ; **Immanuel-Ferrand Holswig-Schliestein head Graukappen** (sous-aile) sous Holzkrug — Immanuel-Ferrand maintient des opérations actives à Marienburg pour saper le Directorate. **Post-Turmoil 2512** : Immanuel-Ferrand devient head Chambre Noire entier (succède Holzkrug — cascade fiche 11).
+
+### (b) Norsca
+
+- **Territoires** : péninsule au nord du Sea of Claws ; tribus barbares Chaos-vénérantes ; bordée par Troll Country et Chaos Wastes.
+- **Tribus canon** (Fandom Norsca + Lexicanum) :
+  - **Sarls** : tribu majeure (Sea of Claws ch.9 *The Sarl Coast*).
+  - **Skaelings** : *"Ardent worshippers of the Chaos Gods, particularly of Khorne, the raiders of the Skaeling set sail for the thrill of battle and to praise their mighty god with the spilling of blood, though they are perhaps not quite as monomaniacally bloodthirsty and insane as the brutal Vargs and Aeslings that lie to the uttermost north beyond their lands"* (Fandom Skaelings). *"The Skaeling retain special scorn for the Bjornlings, whom they regard as mere traders and cowards"* (Fandom Skaelings) — Sea of Claws ch.16 *The Skaeling Coast*.
+  - **Bjornlings** : tribu côtière commerçante (méprisée par Skaelings) — Sea of Claws ch.17 *The Bjornling Coast*.
+  - **Aeslings** : Khornates extrêmes nord uttermost.
+  - **Vargs** : Khornates brutaux extrême nord.
+  - **Baersonlings** : tribu confédérée.
+  - *"All these tribes are part of various, numerous tribal confederations that are as much at war with each other as they are with the Kurgan and Hung tribes to the East or the Empire to the South"* (Fandom Norsca).
+- **Raids 2512 IC canon** : *"In 2512 IC, the Realm of Chaos waxed and spread, and the savage Norscans, seeing this as a sign of the favour of their Dark Gods, began to spill out of the north to ravage the civilised lands of the south. Their attacks grew even more deadly in the coming years, and the longships of the Chaos Marauders began streaming in greater numbers from Norsca when the ice broke, ravaging the coastlands of the Empire, in response to which the Imperial Navy sent an armada of warships to the Sea of Claws to stem the tide of raiders"* (Fandom Sea of Claws). **Catalyseur du Second Fleet Imperial Navy** post-Turmoil 2512 (cascade fiche 01 — Wave Lord Otto Sider + Theoderic Gausser).
+- **Throgg the Troll King** : *"Throgg is called the 'King of the Trolls' and is among the most unnaturally intelligent of the vile race of Trolls as a result of the gifts offered by the Chaos Gods, with an intent on bringing the mortal world under the rule of a new ice age with himself at its head. The Troll King became infamous, known amongst the warriors of the Old World as 'Wintertooth'"* (Fandom Throgg). Basé **Troll Country** (pas Sea of Claws direct — confluence Norsca + Old World north). Combat documenté 2490 IC vs Hela Half-dead nécromancienne.
+- **Kraka Ravnsvake** (Norse Dwarfs) : *"Kraka Ravnsvake, meaning 'Raven's Roost Hold' in Khazalid, is a Dwarf Hold that lies in the mountains south-west of Kraka Drak, at the far end of Draksfjord… With the fall of Kraka Drak, it is now the premier hold of the Norse Dwarfs"* (Fandom Kraka Ravnsvake). *"Ravnsvake is a naval hold focused on the Ungruvalk passage between the Sea of Claws and the Frozen/Chaos Sea, as well as maintaining both hostile and reasonably amicable relationships with the various Norscan tribes"*. Souverains canon 2442 IC- : **King Haarkon Vikramson + Queen Inga Ottarsdottir** clan **Ziflinskaud** (Fandom Kraka Ravnsvake). Source canon = **WFRP4 Sea of Claws ch.15**.
+- **Jarrick Valgeir pèlerinage** : *"After a group of adventurers foiled the plot of the Main Pourpre, Jarrick Valgeir resigned and ventured into the freezing north on a pilgrimage and never returned"* (Fandom Jarrick Valgeir) — cascade fiche 10. Ex-Ar-Ulric Middenheim, abdiqué post-PBT, parti Norsca. Office passé à son frère Emil Valgeir.
+
+### (c) Bretonnia
+
+- **Capitale + Couronne** : royaume féodal au sud-ouest de l'Empire ; Grail Knights + Lady of the Lake.
+- **Royarch** : *"The Royarch is the formal title given to the King of Bretonnia in the Bretonnian tongue, who must always be a mighty Grail Knight of the kingdom's patron goddess, the Lady of the Lake, and a holy warrior who embodies the very essence of justice and chivalry"* (Fandom Royarch). Titulaire 2512 IC : **Louen Leoncoeur** (Roi Lionheart) — *"Louen Leoncoeur was crowned by Morgiana le Fay in 2500 IC"* (Lexicanum Louen Leoncoeur) → règne en 2512 depuis ~12 ans.
+- **Relations Empire** : *"Bretonnia is second only in size to that of the Empire among the realms of Men in the Old World, and is both the Empire's chief rival and closest ally, having a culture and society that revolves around the ideals of nobility, a strict social hierarchy based on aristocratic birthright, and the upholding of a strictly enforced code of chivalry"* (Fandom Bretonnia). *"Relations remain cordial, although they have gone to war many times in their turbulent history"*.
+- **Cible Graukappen** : co-cible avec Marienburg du renseignement extérieur impérial (cf. (a)).
+- **Quenelles + routes commerciales canon** :
+  - **Dukedom of Quenelles** : *"founding dukedom of Bretonnia that lies upon the borders of Athel Loren, in the south-eastern corner of that realm. To the south, the dukedom faces Carcassonne across the River Brienne… In the east, it has a long border with the Forest of Loren, and Quenellers have more direct dealings with the Fay than the inhabitants of any other dukedom"* (Fandom Quenelles).
+  - **Route Kreutzhofen canon (Archives Vol I ch.4 l.303-307)** : Kreutzhofen (Sudenland village, cascade fiche 03) est waystation commerciale stratégique pour deux routes :
+    1. **Montdidier Pass** : route à travers Loren Forest vers Quenelles (Bretonnia) — *"recently opened after years of negotiations with Wood Elves of Loren"* (Archives Vol I ch.4 — canon récent).
+    2. **Alimento Tunnel** : caverne souterraine + rivière connectant Sudenland à Miragliano (Tilea) sur 150+ miles de navigation underground.
+  - **Effet politique** : routes contournent les Merchant Houses de Marienburg + Nuln — *"profits to the Grand Baroness by allowing her to bypass the Merchant Houses of Marienburg and Nuln"* (Archives Vol I ch.4) → ressentiment Merchant Houses + cascade Turmoil annexion Sudenland par Liebwitz (cascade fiche 03).
+
+### (d) Tilea
+
+- **Géographie** : péninsule sud du Old World, mer Tilea + Méditerranée Tilea ; cités-États rivales mercantiles.
+- **Cités-États canon** (Fandom Tilea + Lexicanum Tilea + Fandom Pavona) : *"Tilea is divided into Principalities: Luccini, Miragliano, Pavona, Sartosa, Tobaro, Trantio and Republics: Remas… and Verezzo"* — **8 cités majeures canon** :
+  - **Luccini** : *"considered the oldest city in Tilea"* (Fandom Luccini) ; principauté ancienne.
+  - **Miragliano** : *"ruled by the widows of princes"* (Fandom Tilea) — connue pour son canal extensive.
+  - **Pavona** : *"the Principality of Pavona… a prosperous city-state situated in central Tilea… ruled by Lucrezzia Belladonna"* (Fandom Pavona) — principauté centrale.
+  - **Remas** : *"a great and old Tilean city located on the coast, and because of its central position, is often in a state of hostilities with its great trading rivals Miragliano, Verezzo and Luccini"* (Lexicanum Remas) ; **république de facto** ; siège **Great Temple of the Cult of Myrmidia** + lieu Vatheck Fulci Far Eye.
+  - **Tobaro** : *"struck by a series of Skaven raids from below its streets"* (Fandom Tobaro).
+  - **Trantio** : principauté centrale — *(post-canonique End Times Slaanesh fall hors scope Turmoil 2512)*.
+  - **Verezzo** : *"proclaimed itself a republic in response to the increasingly tyrannical antics of its princes"* (Fandom Verezzo) — république officielle.
+  - **Sartosa** : Pirate City principauté, lieu canon openly worship Stromfels (Fandom Cult of Stromfels).
+- **Condottieri Tilean (Dogs of War mercenaires)** :
+  - **Leopold's Leopard Company** : *"famous band of Dogs of War mercenaries that had its origins within the great city-state of Luccini in Tilea"* (Fandom Leopold's Leopard Company). *"Leopold's Leopard Company is a powerful mercenary company well-drilled in the use of the Tilean Pike, and the Leopard Company's troops are known to wear burnished brass plate armour"*. Mythe fondateur : Lucan & Luccina + leopard à deux têtes (gardien divin Luccini).
+  - **Rôle Turmoil 2512 canon (citation littérale Fandom)** : *"During the Turmoil of 2512 that racked the Empire many Tilean mercenary captains travelled across the Vaults and sought employment. The famed Leopard Company fought for Emmanuelle von Liebwitz in her campaign to annex the province of Sudenland"* (Fandom Leopold's Leopard Company) → **cascade fiche 03** : Liebwitz emploie Leopold's Leopard Company pour annexer Sudenland durant Turmoil 2512. Voie d'arrivée Tilea → Empire = **across the Vaults** (chaîne montagneuse au sud Empire/nord Tilea).
+- **Cult of Myrmidia** (canon Up in Arms ch.7) :
+  - Déesse : *"daughter of Morr, the human god of the dead, and Verena, the goddess of justice and scholars"* (Fandom Cult of Myrmidia).
+  - Influence : *"very popular in Estalia and Tilea… In The Empire she is less popular than either Ulric or Sigmar"* (Fandom Cult of Myrmidia).
+  - **Schisme intra-cultuel canon** : *"There is a fierce controversy within the cult as to whether Myrmidia is a Tilean goddess or an Estalian one in origin, which stokes great division between the Great Temple of the goddess in the Tilean city-state of Remas and the Archecclesiastium, high temple of Myrmidia in Estalia"* (Fandom Cult of Myrmidia).
+  - **3 ordres majeurs canon** :
+    - **Knights of the Blazing Sun** : ordre Myrmidien le plus présent dans l'Empire, rattaché à Magnus the Pious, base **Talabheim** (Fandom Knights of the Blazing Sun) — pivot Empire/Tilea pour le Cult of Myrmidia.
+    - **Order of the Eagle** : ministériel, *"ministers to adherents"* (Fandom Order of the Eagle) — **Eagle of the North** (chef Empire) actuel : **Lorenzo di Marco** (Tilean origine Miragliano) basé **Nuln** (cascade fiche 03 — cellule Tilean dans l'Empire impérial).
+    - **Templar Knights of the Order of the Righteous Spear** : *"forms the main military arm of the cult"* — bras militaire principal.
+- **Vatheck Fulci (Far Eye Remas) — cascade fiche 11** :
+  - *"Vatheck Fulci is one of the Neuf Yeux of the Main Pourpre, tutor of the cult of the Far Eye, a sect of cultists devoted to the Chaos God of change, Tzeentch. He specialises in geography and foreign affairs"* (Fandom Vatheck Fulci).
+  - *"His hometown is in the city of Remas in the southern land of Tilea. There, a crack in the Aethyr opens in the sky, probably thanks to his misdeeds, as his final goal is to summon the Daemon known as Sheerargetru. He is traveling from the Border Princes to Altdorf"* (Fandom Vatheck Fulci) — **cellule Tzeentch extra-impériale canon** + lien direct climax 9 Brauzeit Volkshalle fiche 11.
+
+### (e) Nains (Dwarfs)
+
+- **Worlds Edge Mountains Holds canon** (Fandom Worlds Edge Mountains + Karaz-a-Karak) :
+  - **Karaz-a-Karak** : *"Everpeak / Pinnacle of Mountains"* — capitale Karaz Ankor, *"the mightiest and most populous of all Dwarf holds and the capital of the Karaz Ankor"*. **High King canon 2512 IC** : **Thorgrim Grudgebearer**.
+  - **Karak Eight Peaks** : *"one of the greatest kingdoms ever created by the Dwarfs of the Golden Age… most important of the southern Dwarfholds, second in importance only to Karaz-a-Karak"* (Fandom Karak Eight Peaks).
+  - **Karak Kadrin** (Slayer Keep) : fondé -4200 IC, *"fourth largest dwarfen hold after Karaz-a-Karak, Karak Eight Peaks, and Karak Drazh"*.
+  - **Zhufbar** : *"Khazalid for 'Torrent-gate'… centre of metalwork for the Karaz Ankor and also contains the principal shrine of the Dwarf Engineer's Guild… most mechanised of Dwarf holds"* (Fandom Zhufbar). Twin of neighbouring Karak Varn.
+- **Black Mountains Holds canon** (distinction critique) :
+  - **Karak Hirn** : *"'Hornhold' in Khazalid… is the biggest and most important Dwarf hold in the Black Mountains between the northern Border Princes and the southern borders of the Empire"* (Fandom Karak Hirn). **PAS Worlds Edge** — voir Notes hors filtre. *"Due to their position in the Black Mountains, these holds are not connected to the Underway, and so must be approached overground"*. Souverains canon : **King Alrik Ranulfsson** clan **Drazhkarak** + **Queen Winnifer Falxenheir** (Fandom Karak Hirn). **Proximité Sudenland** (cascade fiche 03 — treaties Sudenland).
+- **Black Fire Pass canon** :
+  - *"a treacherous passage that lies between the Black Mountains and the World's Edge mountains, forming the gateway between the Empire and The Border Princes, with The Badlands to the south"* (Fandom Black Fire Pass).
+  - **Lieu canon emprisonnement millénaire Sheerargetru** : *"Sheerargetru first entered the Known World during the Great Catastrophe… they battled deep beneath the earth near Black Fire Pass, and Sheerargetru was sealed away by the magic of the runehammer and the might of the one who had wielded it. The Daemon would linger on imprisoned for millennia, tended only by his sole remaining cultist, the Nehekharan Sadikur, who had been his servant in life and had been called to his side to serve again in undeath"* (Fandom Sheerargetru).
+  - **Lieu canon récupération vrai Ghal Maraz Turmoil 2512** : *"true Ghal Maraz was found by adventurers during the civil strife of the Turmoil of 2512 IC in the Black Fire Pass"* (Fandom Ghal Maraz). Lieu spécifique = **caverne près de Black Fire Pass** dans les Black Mountains (canon EiR ch.11 *Caves of Chaos*).
+- **Karak Skygg** : **Middle Mountains** (canon Fandom Karak Skygg : *"abandoned Dwarf hold that stands high in the Middle Mountains in the old Dwarfen realm of Karaz Ghumzul"*) — **PAS Worlds Edge, PAS Black Fire Pass**. Hold abandonné depuis longtemps puis squatté par **Clan Skryre Skaven** avec **Moonbreaker Cannon** anti-Morrslieb. **Lieu canon Volume 4 EiR *The Horned Rat*** (Characters peuvent y avoir voyagé pré-Volume 5) — **PAS étape canon EiR Volume 5 quête Ghal Maraz** (les Characters sortent de Karak Skygg au début de Volume 5 ch.1 récupérés par Baron Heinrich Todbringer dans le dirigible *Sky Wolf*, EiR ch.1 *Dirigible in Danger*).
+- **Acteurs canon Dwarf EiR ch.12** :
+  - **Iron Marshall Kina Hammerwatch** : Dwarf elderly *"her grey hair neatly groomed into plaits that reach down to her waist. A large scar runs from her forehead to her jaw"* (EiR ch.12 l.7), **gardienne du Black Fire Pass** ; rencontre Characters au retour ; **confession canon historique critique** : *"To my shame, smiths of my clan agreed to create the imitation weapon wielded by Sigmar's heirs. It was a practical decision to let the Manlings come to cherish it as the real hammer, but it was not the most honourable one"* (EiR ch.12 l.24) → **CONFIRME canon que les Dwarfs ont forgé l'Imitation Ghal Maraz** (cascade fiche 11 Imitation 2500 ans avant 2512 = Ier siècle IC, période Sigmar's heirs).
+  - **Grimshank's Chain (The Chain)** : *"an ancient Dwarf network, whose members can be found wherever there are Dwarfs. The network is an informal one activated when members need the help of other Dwarfs. When it is used, and it is rare, it is usually for the transmission of important messages or goods over long distances"* (EiR ch.12 l.42). Activée par **Grimshank's coin** rune-marqué bleu. *"Members of The Chain are usually among the eldest and most respected of their community… Knowledge of The Chain is passed within families as an oral tradition"*.
+  - **Gararoth** : Dwarf taciturne à Grenzstadt qui transporte les Characters à Averheim via wagon (EiR ch.12 l.69).
+  - **Khardrif Inglepeak** : Dwarf Boatman *"once they have passed him the coin and explained where they are going, he promises to take them as far as Streissen"* ; barge **The Pegasus** ancrée près de l'inn **The Hidden Valley** (EiR ch.12 l.73). Cache les Characters dans compartiment underdeck *"smells faintly of Weirdroot"*.
+- **Wolfshügel** : *"an ancient temple to restore [Ghal Maraz] to full potency"* (EiR ch.12 l.31). Temple d'Ulric ancien que Sigmar a visité *"during his final journey"* (EiR ch.12 l.20) ; location *"somewhere between what is now Altdorf and Nuln"*. Identification par **Master Albertus Nyman** scholar Streissen *"who supposedly once visited the temple and knows its location"* (EiR ch.12 l.20).
+- **Thane Egrim Stonehammer** : récupérateur canon **Solland Runefang Grudge Settler** — *"Grudge Settler, Solland's Runefang, was recovered in 2378 IC by a joint expedition of Dwarfs and Men led by the Dwarf Thane Egrim Stonehammer. The Runefang was retrieved from the lair of a Chimera in the Worlds Edge Mountains. Stonehammer presented it to the emperor in Altdorf, who placed it in the Imperial Treasury. Part of the Imperial treasury, the sword is currently used by Reiksmarshall Kurt Helborg"* (Fandom Solland). **Date canon 2378 IC** ; **lair de Chimera** Worlds Edge Mountains ; **joint expedition Dwarfs + Men** = symbole alliance historique Empire-Karaz Ankor.
+
+### (f) Menaces périphériques additionnelles
+
+- **Vorgaz Ironjaw** (Orc Warboss Badlands) :
+  - *"Vorgaz Ironjaw was the Orc Warboss that invaded the Empire through the Black Fire Pass in 2520 IC. In the resulting Third Battle of Black Fire Pass Vorgaz Ironjaw was opposed by the armies of Averland, Reikland and Altdorf. Marius Leitdorf, Elector Count of Averland was slain, but Emperor Karl Franz arrived to slay Ironjaw and rout the Greenskins"* (Fandom Third Battle of Black Fire + Lexicanum Vorgaz Ironjaw).
+  - **Date 2520 IC = POST-Turmoil 2512** (8 ans après).
+  - **Cascade Turmoil 2512** : préfigurée canon **EiR Companion ch.4 *The Imperial Ostlanders*** — *"Imperial Ostlanders patrouille Black Mountains 2512 IC → découverte horde Vorgaz Ironjaw"* (note GM + cascade fiche 04+06+11) ; le Warboss est repérable canon en 2512 mais n'attaque pas encore.
+
+- **Castle Drachenfels** (Grey Mountains, **rasé pré-Turmoil**) :
+  - *"Castle Drachenfels is a ruined fortress located high in the Grey Mountains, which form the border between The Empire and Bretonnia. More specifically, it is said to be hidden amongst the crags and valleys between Axe Bite and Grey Lady Passes"* (Fandom Castle Drachenfels).
+  - **Constant Drachenfels** *"called the 'Great Enchanter,' was an infamous daemonologist and necromancer who plagued the Empire for millennia until he was slain"* (Fandom Constant Drachenfels).
+  - **2480 IC** : *"A group of heroes led by Oswald von Königswald and Genevieve Dieudonné infiltrated the castle and killed Drachenfels in 2480 IC"* (Fandom Castle Drachenfels) — équipe canon : **Oswald von Königswald** (cascade fiche 06) + **Genevieve Dieudonné** Lahmian Vampire + **Detlef Sierck** *"most famous playwright of the Empire"* (Lexicanum Detlef Sierck).
+  - **2505 IC** : *"25 years later, the castle was the stage of a devious plot to assassinate Emperor Karl Franz and most of the Electors. The plot was foiled only in the last moment; the castle was later razed to the ground"* (Fandom Castle Drachenfels) — château **cleared / sécurisé 2505 IC** + **rasé à date ultérieure non précisée canon** (Fandom *"left standing as a reminder of the evil"* coexiste avec *"razed to the ground"* — divergence interne canon ; le rasage effectif est postérieur).
+  - **Statut 2512 IC** : **ruines effondrées** (rasage progressif post-2505) — non opérationnelle en pleine Turmoil. **PAS étape canon EiR Volume 5 quête Ghal Maraz** (canon EiR ch.12 ne mentionne pas Drachenfels — la route quête est Black Fire Pass → Grenzstadt → Averheim → Streissen → Altdorf).
+
+- **Skaven** :
+  - **Snikkit** : *"a one-eyed Stormvermin from Under-Middenheim, an oddity among the Skaven race in that he was Clanless. Instead of pledging his life and loyalties to a single Clan, Snikkit and his Clanrat warband worked for any master who would pay"* (Fandom Snikkit). **Assassin Hergard von Tasseninck** sur tip-off coordination 3-cellules Main Pourpre (Altdorf tracking + Middenheim Snikkit + Wolfenburg rumours) — cascade fiches 02+05+06+11.
+  - **Madcraw Clan** : canon **EiR Companion ch.3 *The Madcraw Clan*** (cascade impériale). Non indexé Fandom — source canon WFRP4 uniquement Source/.
+
+- **Acteurs canon Périphérie additionnels** :
+
+#### Cult of Manann + Wave Lord Otto Sider (cascade fiches 01+10)
+- **Otto Sider** : *"the Wave Lord and High Priest of Manann in Salzenmund. The Cathedral of Manann Resplendent is the grandest and most politically influential temple of the sea god in the Empire, and the wave lord represents the faith of Nordland's coastal peoples, its seaborne trade, and its fleet"* (Fandom Salzenmund / Sea of Claws ch.19). *"Otto Sider was formerly a navigator on the Greatship, The Conqueror's Triumph, which sailed the world's oceans on behalf of the Emperor"*. Pivot **Second Fleet Imperial Navy** post-Turmoil (cascade fiche 01) en réponse aux raids Norscan 2512.
+
+#### Cult of Stromfels (anti-Manann)
+- *"Manann's greatest enemy is Stromfels, the god of Storms, Sharks, and Pirates, who delights in sinking ships to the bottom of the ocean"* (Fandom Stromfels). *"Stromfels is worshipped by the raiders of the Sea of Claws, by wreckers along the coastal and river regions of the Empire, and by pirates throughout the Old World, especially in Sartosa where he is worshipped openly"* (Fandom Cult of Stromfels). **Croisade canonique 25e siècle IC** : *"In the late 25th century IC, the Cult of Manann in Marienburg declared a crusade against the piratical followers of Stromfels"* — pertinent pré-Turmoil context.
+
+---
+
+## 2. État pré-Turmoil (Spring 2512 IC)
+
+### Gouvernance Marienburg + Wasteland
+- **Statut** : Indépendant depuis 2429 IC (Treaty of Kaldezeit).
+- **Directorate** : Executive Council Stadsraad (4 High Priests Manann/Verena/Shallya/Haendryk + Rector Baron Henryk's College + The Ten Merchant Houses).
+- **Relations Empire** : tension structurelle (Imperial revanchism) mais flux commercial actif.
+- **Cible Graukappen Chambre Noire** : opérations actives sous direction Immanuel-Ferrand Holswig-Schliestein.
+
+### Gouvernance Norsca
+- **Tribus** : confédérations rivales (Sarls, Skaelings, Bjornlings, Aeslings, Vargs, Baersonlings) ; chefs de guerre Chaos-vénérants.
+- **Activité 2512 IC** : raids côte Empire — *"the longships of the Chaos Marauders began streaming in greater numbers from Norsca when the ice broke"* (Fandom Sea of Claws).
+- **Norse Dwarfs** : Kraka Ravnsvake premier hold post-fall of Kraka Drak, King Haarkon Vikramson.
+- **Pèlerin déchu** : Jarrick Valgeir (ex-Ar-Ulric, parti 2512 post-PBT).
+
+### Gouvernance Bretonnia
+- **Royarch** : Louen Leoncoeur (couronné 2500 IC par Morgiana le Fay).
+- **Dukes majeurs** : Quenelles (frontière Loren), Carcassonne, Couronne, Bordeleaux, Brionne, L'Anguille, Lyonesse, Bastonne, Aquitaine, Parravon, Montfort, Gisoreux ; + **Mousillon** (ancien dukedom déchu, *"lost official dukedom status"* après corruption vampirique Duke Merovech — Fandom Mousillon ; infesté undead, Red Duke + Lahmians).
+- **Relations Empire** : *"chief rival and closest ally"* (Fandom Bretonnia) ; routes commerciales actives.
+- **Cible Graukappen Chambre Noire** : opérations Bretonnian court.
+
+### Gouvernance Tilea
+- **Cités-États rivales** : Luccini, Miragliano, Remas, Tobaro, Trantio, Verezzo + Sartosa Pirate City.
+- **Pas de pouvoir central** : autonomie cité-État, conflits commerciaux fréquents.
+- **Mercenariat** : tradition condottieri canon ; Leopold's Leopard Company (Luccini) opère Empire-wide.
+- **Religion dominante** : Cult of Myrmidia (Great Temple Remas) + traditions ancestrales.
+- **Cellule Tzeentch Far Eye Remas** : Vatheck Fulci Nine Eye (cascade fiche 11).
+
+### Gouvernance Karaz Ankor (Dwarfs Worlds Edge)
+- **High King** : **Thorgrim Grudgebearer** (Karaz-a-Karak).
+- **Holds majeurs** : Karaz-a-Karak (capitale), Karak Eight Peaks, Karak Kadrin (Slayer Keep), Zhufbar.
+- **Black Mountains Holds** : Karak Hirn (Hornhold, King Alrik Ranulfsson).
+- **Karak Skygg** : abandonné Middle Mountains (squatté Clan Skryre Skaven Volume 4 EiR canon).
+- **Iron Marshall Kina Hammerwatch** : gardienne Black Fire Pass.
+- **Grimshank's Chain** : Dwarf network informel Empire-wide.
+- **Relations Empire** : alliance historique ; treaties commerciaux (cascade fiche 03 Sudenland Karak Hirn) ; passages militaires (Old Dwarf Road via Averheim).
+
+### Statut hiérarchique impérial vs périphérie
+- **Empire vs Marienburg** : indépendance 2429 IC reconnue de facto ; Graukappen opérations covertes.
+- **Empire vs Norsca** : guerre périodique ; côtes Nordland-Ostland vulnérables ; Imperial Navy en construction (Second Fleet préfigurée).
+- **Empire vs Bretonnia** : *"chief rival and closest ally"* — diplomatie ambivalente.
+- **Empire vs Tilea** : flux mercenaires + commerciaux ; cellule Main Pourpre Far Eye Remas active (cascade fiche 11).
+- **Empire vs Karaz Ankor** : alliance Dwarf-Men historique (Sigmar + Kurgan Ironbeard ; Grudge Settler récupération 2378 IC ; Imitation Ghal Maraz forge collaborative).
+
+### Historique électoral et dynastique périphérique
+
+| Date | Événement | Source |
+|---|---|---|
+| Pré-IC (Great Catastrophe) | **Sheerargetru emprisonné Black Fire Pass** par runic magic Ghal Maraz (Sigmar + Smednir) | Fandom Sheerargetru |
+| ~0 IC | **Kurgan Ironbeard offre Ghal Maraz à Sigmar** post-rescue Greenskins ; alliance Dwarf-Men consacrée | Fandom Ghal Maraz |
+| ~Ier siècle IC (Sigmar's heirs) | **Smiths Hammerwatch clan forgent l'Imitation Ghal Maraz** *"to let the Manlings come to cherish it as the real hammer"* | EiR ch.12 l.24 |
+| **1707 IC** | **WAAAGH! Gorbad Ironclaw ravage Solland** ; Grudge Settler arraché à Eldred mourant | Archives Vol I ch.4 l.282-283 |
+| **2145 IC** | **Battle of Hel Fenn** : Order of the Raven Knights (Morr, Siegfriedhof) aide Stirland vs Mannfred von Carstein (cascade fiche 08+10) | Fandom Battle of Hel Fenn |
+| **2378 IC** | **Thane Egrim Stonehammer récupère Grudge Settler** depuis lair de Chimera Worlds Edge ; joint expedition Dwarfs+Men → Imperial Treasury → Helborg | Fandom Solland |
+| **2429 IC** | **Treaty of (20) Kaldezeit 2429** : Marienburg sécession via Dieter IV bribe ; Wasteland indépendant | Fandom Marienburg ; Lexicanum Barony of Westerland |
+| **2442 IC** | **King Haarkon Vikramson + Queen Inga Ottarsdottir** ascend throne Kraka Ravnsvake (Norse Dwarfs) | Fandom Kraka Ravnsvake |
+| **2480 IC** | **Oswald von Königswald + Genevieve Dieudonné + Detlef Sierck tuent Constant Drachenfels** à Castle Drachenfels (cascade fiche 06) | Fandom Castle Drachenfels + Lexicanum Detlef Sierck |
+| **2490 IC** | **Throgg Troll King intercepte Hela Half-dead** nécromancienne dans Troll Country | Fandom Throgg |
+| **2500 IC** | **Louen Leoncoeur Royarch Bretonnia** ; couronné par Morgiana le Fay | Lexicanum Louen Leoncoeur |
+| **2505 IC** | **Tentative assassinat Karl-Franz + Electors à Castle Drachenfels** ; plot foiled ; **château rasé** | Fandom Castle Drachenfels |
+| Pré-2512 IC | **Jarrick Valgeir chantage Main Pourpre** → abdication + pèlerinage Norsca *"never returned"* (cascade fiche 10) | Fandom Jarrick Valgeir ; PBT canon |
+
+### Alliances et rivalités pré-Turmoil
+
+**Alliances Empire externe** :
+- **Karaz Ankor (Dwarfs Worlds Edge)** : alliance historique forte ; treaties Karak Hirn (cascade fiche 03 Sudenland).
+- **Bretonnia** : alliance fragile ; flux commerciaux + culturels.
+- **Tilea (cités-États)** : flux mercenaires individuels (Leopold's Leopard Company Liebwitz).
+
+**Rivalités Empire externe** :
+- **Marienburg/Wasteland** : revanchism Imperial implicite ; opérations Graukappen ; tension structurelle.
+- **Norsca tribus** : guerre périodique côtière ; Imperial Navy construction.
+- **Vorgaz Ironjaw Badlands** : menace future préfigurée (2520 IC Third Battle Black Fire Pass).
+
+### Religion périphérique pré-Turmoil
+- **Cult of Manann** : dominant côte Empire + Marienburg + Bretonnia coastal. Otto Sider Wave Lord Salzenmund (cascade fiches 01+10).
+- **Cult of Stromfels** : pirates Sartosa + Sea of Claws raiders + côtes vulnérables.
+- **Cult of Myrmidia** : dominant Tilea + Estalia. Great Temple Remas + Archecclesiastium Estalia ; Order Eagle + Order Righteous Spear.
+- **Cult of Ulric** : dominant nord Empire ; absent Tilea-Bretonnia ; pèlerinage Jarrick Valgeir Norsca.
+- **Chaos religieux périphérique** :
+  - Norsca tribus Khorne (Vargs, Aeslings, Skaelings extrémistes).
+  - Sheerargetru Lord of Change Tzeentch emprisonné Black Fire Pass (cascade fiche 11).
+  - Vatheck Fulci Far Eye Remas cellule Tzeentch (cascade fiche 11).
+
+---
+
+## 3. Déclencheur(s) canon
+
+Le Turmoil 2512 IC périphérique n'est **pas un déclencheur autonome** — c'est un **écosystème d'opportunités exploitées** par les acteurs impériaux (Main Pourpre orchestre, Empire répond, voisins réagissent). Les déclencheurs canon périphériques sont contextuels :
+
+### 1. Raids Norscan intensifiés (Spring 2512 IC) — opportunisme Chaos
+- *"In 2512 IC, the Realm of Chaos waxed and spread, and the savage Norscans, seeing this as a sign of the favour of their Dark Gods, began to spill out of the north to ravage the civilised lands of the south"* (Fandom Sea of Claws).
+- **Impact** : côtes Nordland-Ostland vulnérables → Imperial Navy armada → catalyseur Second Fleet post-Turmoil (cascade fiche 01).
+- **Activation Sea of Claws climate change** = post-Catastrophe Spring 2512.
+
+### 2. Cellule Main Pourpre Far Eye Remas (Tilea) — Vatheck Fulci
+- *"His final goal is to summon the Daemon known as Sheerargetru. He is traveling from the Border Princes to Altdorf"* (Fandom Vatheck Fulci).
+- **Crack Aethyr Remas ouvre dans le ciel** *"probably thanks to his misdeeds"* (Fandom Vatheck Fulci) — préfigurateur portails daemoniques Empire.
+- **Cascade fiche 11** : Vatheck Fulci Nine Eye Far Eye = pièce centrale de la conspiration Sheerargetru.
+- **Voyage 2512 IC** : Vatheck quitte Border Princes vers Altdorf — converge vers Volkshalle 9 Brauzeit.
+
+### 3. Recrutement condottieri Tilean — Leopold's Leopard Company
+- *"During the Turmoil of 2512 that racked the Empire many Tilean mercenary captains travelled across the Vaults and sought employment"* (Fandom Leopold's Leopard Company).
+- **Emmanuelle von Liebwitz recrute Leopold's Leopard Company** pour annexer Sudenland — *"The famed Leopard Company fought for Emmanuelle von Liebwitz in her campaign to annex the province of Sudenland"* (Fandom canon explicite) → cascade fiche 03.
+
+### 4. Quête Ghal Maraz EiR ch.8-12 — diplomatie Dwarf cruciale
+- Caves of Chaos (Black Mountains près Black Fire Pass) : récupération vrai Ghal Maraz canon ; libération implicite Sheerargetru (le runic magic seal était entretenu par la présence du marteau).
+- Route quête canon EiR ch.12 : **Reik → Nuln → River Aver → Averheim → Old Dwarf Road → Black Fire Pass** ; retour **Grenzstadt → Averheim → Streissen → Altdorf**.
+- **Iron Marshall Kina Hammerwatch** rencontre Characters au retour ; offre **Grimshank's coin** pour passage sécurisé via Grimshank's Chain.
+- **Confession Hammerwatch canon** : *"smiths of my clan agreed to create the imitation weapon wielded by Sigmar's heirs"* (EiR ch.12 l.24) → CONFIRMATION des Dwarfs comme forgeurs canon de l'Imitation Ghal Maraz (cascade fiche 11).
+- **Wolfshügel temple Ulric ancien** : route additionnelle pour restaurer power Ghal Maraz drained Sheerargetru exposure.
+
+### 5. Trois cracks Aethyr signalent manifestation imminente Sheerargetru
+- Canon EiR ch.12 l.49-55 :
+  - **Averheim** : crack au-dessus Averburg palace.
+  - **Nuln** : crack au-dessus Nuln Palace.
+  - **Altdorf** : cracks au-dessus chaque College of Magic + Imperial Palace ; *"skeins seem to meet over the palace"*.
+- **Préfigurent portails daemoniques climax** 9 Brauzeit Volkshalle (cascade fiche 11).
+
+### 6. Imperial Ostlanders patrouille Black Mountains 2512 IC
+- Canon EiR Companion ch.4 *The Imperial Ostlanders* : patrouille militaire impériale dans les Black Mountains découvre la **horde de Vorgaz Ironjaw** Orc Warboss en formation.
+- Préfigure **Third Battle of Black Fire Pass 2520 IC** (post-Turmoil 8 ans plus tard) où Vorgaz tue Marius Leitdorf avant d'être tué par Karl-Franz.
+- Cascade fiches 04+06+11.
+
+### 7. Snikkit Stormvermin Under-Middenheim assassin Hergard von Tasseninck
+- Canon EiR Intro l.332 : **coordination Main Pourpre 3-cellules** (Altdorf tracking + Middenheim Snikkit + Wolfenburg rumours) → Snikkit clanless mercenaire Skaven exécute Hergard sur tip-off → guerre Ostland-Talabecland (cascade fiches 05+06+11).
+
+### 8. Madcraw Clan Skaven (EiR Companion ch.3)
+- Cellule Skaven active durant Turmoil (canon EiR Companion ch.3 *The Madcraw Clan*) — détails Source/ canon non indexés Fandom.
+
+### 9. Pèlerinage Jarrick Valgeir Norsca (déjà résolu pré-Turmoil immédiat)
+- Cascade fiche 10 : Jarrick Ar-Ulric chantagé Main Pourpre → abdication → pèlerinage Norsca *"never returned"*.
+- Office passé à frère aîné Emil Valgeir → renaissance ulricaine fanatique (cascade fiches 02+10).
+
+---
+
+## 4. Chronologie détaillée
+
+| Date IC | Repère narratif EiR | Événement | Source ligne |
+|---|---|---|---|
+| Pré-IC (Great Catastrophe) | (background) | **Sheerargetru entre dans le Known World** ; combat Sigmar près de Black Fire Pass ; **scellé runic magic Ghal Maraz** | Fandom Sheerargetru |
+| ~0 IC | (background) | **Kurgan Ironbeard offre Ghal Maraz à Sigmar** ; alliance Dwarf-Men consacrée | Fandom Ghal Maraz |
+| ~Ier siècle IC (Sigmar's heirs era) | (background) | **Smiths Hammerwatch clan forgent l'Imitation Ghal Maraz** ; collaboration Dwarf-Sigmarite (canon EiR ch.12 l.24 *"smiths of my clan agreed to create the imitation weapon wielded by Sigmar's heirs"* — époque post-Sigmar, déduction *"2500 ans avant 2512"* place forge ~Ier siècle IC) | EiR ch.12 l.24 |
+| **1707 IC** | (background) | **Gorbad Ironclaw WAAAGH! ravage Solland** ; Grudge Settler arraché Eldred mourant | Archives Vol I ch.4 l.282-283 |
+| **2145 IC** | (background) | **Bataille de Hel Fenn** ; Order of the Raven Knights Stirland (cascade fiches 08+10) | Fandom Battle of Hel Fenn |
+| **2378 IC** | (background) | **Thane Egrim Stonehammer récupère Grudge Settler** depuis lair de Chimera Worlds Edge ; joint expedition Dwarfs+Men → Imperial Treasury → Helborg (cascade fiche 11) | Fandom Solland |
+| **2429 IC** | (background) | **Treaty of (20) Kaldezeit** : Marienburg sécession via Dieter IV ; Wasteland indépendant | Fandom Marienburg ; Lexicanum Barony of Westerland |
+| 2429 IC | (background) | **Wilhelm III the Wise consolidate dynastie Holswig-Schliestein** + fonde Reiksguard (cascade fiche 11) | Altdorf ch.5 l.595 |
+| **2442 IC** | (background) | **King Haarkon Vikramson + Queen Inga Ottarsdottir ascend throne Kraka Ravnsvake** | Fandom Kraka Ravnsvake |
+| **2480 IC** | (background) | **Oswald von Königswald + Genevieve Dieudonné + Detlef Sierck tuent Constant Drachenfels** | Fandom Castle Drachenfels + Lexicanum Detlef Sierck |
+| **2490 IC** | (background) | **Throgg Troll King intercepte Hela Half-dead** nécromancienne | Fandom Throgg |
+| **2500 IC** | (background) | **Louen Leoncoeur Royarch Bretonnia** ; couronné Morgiana le Fay | Lexicanum Louen Leoncoeur |
+| **2502 IC** | (background) | Karl-Franz I couronné Empereur (cascade fiches 09+11) | Fandom Karl Franz |
+| **2505 IC** | (background) | **Tentative assassinat Karl-Franz + Electors Castle Drachenfels** ; château rasé | Fandom Castle Drachenfels |
+| Pré-Spring 2512 IC | (PBT post) | **Jarrick Valgeir pèlerinage Norsca** *"never returned"* (cascade fiche 10) | Fandom Jarrick Valgeir |
+| Spring 2512 IC | EiR Intro l.332 | **Snikkit Under-Middenheim assassin Hergard Tasseninck** ; coordination 3-cellules Main Pourpre (cascades fiches 05+06+11) | EiR Intro l.332 ; Fandom Snikkit |
+| Spring 2512 IC | EiR Companion ch.4 | **Imperial Ostlanders patrouille Black Mountains** ; découverte horde Vorgaz Ironjaw en formation | EiR Companion ch.4 l.506 |
+| Spring 2512 IC | (Fandom Sea of Claws) | **Raids Norscan intensifiés côtes Empire** ; longships Chaos Marauders + Imperial Navy armada déployée | Fandom Sea of Claws |
+| Spring 2512 IC | (Fandom Leopold's Leopard) | **Tilean mercenary captains travel across the Vaults** ; emploient Empire | Fandom Leopold's Leopard Company |
+| Pendant EiR ch.6-7 | (cascade fiche 11) | **Cracks Aethyr signalent manifestation Sheerargetru** (Averheim, Nuln, Altdorf College of Magic + Imperial Palace) | EiR ch.12 l.49-55 |
+| Pendant EiR ch.7 (S62) | EiR ch.7 l.247-253 | **Boris brise l'Imitation Ghal Maraz forgée par smiths Hammerwatch** (cascade fiches 02+11) | EiR ch.7 l.247-253 |
+| Pendant EiR ch.8-12 | EiR ch.8-12 | **Quête Ghal Maraz route Reik → Nuln → Aver → Averheim → Old Dwarf Road → Black Fire Pass** | EiR ch.8-12 |
+| Pendant EiR ch.11 | EiR ch.11 | **Caves of Chaos Black Mountains** : récupération **vrai Ghal Maraz** scellé runic magic depuis Great Catastrophe | EiR ch.11 |
+| Pendant EiR ch.12 | EiR ch.12 l.7-26 | **Iron Marshall Kina Hammerwatch rencontre Characters Black Fire Pass** ; confession smiths Hammerwatch forgeurs Imitation ; offre Grimshank's coin | EiR ch.12 l.7-26 |
+| Pendant EiR ch.12 | EiR ch.12 l.20 | **Wolfshügel temple Ulric ancien** : route Albertus Nyman scholar Streissen pour restaurer Ghal Maraz | EiR ch.12 l.20 |
+| Pendant EiR ch.12 | EiR ch.12 l.42 | **Grimshank's Chain Dwarf network informel** activée pour Characters | EiR ch.12 l.42 |
+| Pendant EiR ch.12 | EiR ch.12 l.69 | **Gararoth Dwarf wagon** transporte Characters Grenzstadt → Averheim | EiR ch.12 l.69 |
+| Pendant EiR ch.12 | EiR ch.12 l.73 | **Khardrif Inglepeak Dwarf Boatman** transporte Characters Averheim → Streissen via barge **The Pegasus** | EiR ch.12 l.73 |
+| Pendant EiR ch.12 | (Fandom Leopold's Leopard) | **Leopold's Leopard Company fight pour Emmanuelle von Liebwitz** annexion Sudenland (cascade fiche 03) | Fandom Leopold's Leopard Company |
+| Pendant EiR ch.13 | (cascade fiche 11) | **Vatheck Fulci Far Eye Remas convergence Altdorf** climax 9 Brauzeit | Fandom Vatheck Fulci |
+| Post-EiR ch.13 | EiR ch.17 l.30+ | **Karl-Franz restauré "renewed vigour and purpose"** ; reconfiguration impériale ; **Second Fleet Imperial Navy** lancée (cascade fiche 01) | EiR ch.17 l.30+ |
+| Post-EiR ch.13 | (cascade fiche 11) | **Dossier Chambre Noire expose Main Pourpre Empire-wide** ; **Vatheck Fulci + autres Neuf Yeux survivants démasqués** ; cascade extra-impériale Remas | EiR ch.17 l.32 |
+| **~2520 IC** | (post-canonique 8 ans post-Turmoil) | **Third Battle of Black Fire Pass** : **Vorgaz Ironjaw invasion Empire ; tue Marius Leitdorf** ; **Karl-Franz arrive et tue Vorgaz** ; route Greenskins | Fandom Third Battle of Black Fire + Lexicanum Vorgaz Ironjaw |
+
+---
+
+## 5. État post-Turmoil canon
+
+### Marienburg + Wasteland post-Turmoil
+- **Statut** : continuité indépendante (Treaty of Kaldezeit 2429 toujours en vigueur).
+- **Directorate** : continuité institutionnelle (Stadsraad + 4 priests + Rector + Ten).
+- **Relations Empire** : **dossier Chambre Noire expose opérations Graukappen** (cascade fiche 11) ; potentielle pression diplomatique Marienburg post-démasquage.
+- **Imperial Navy Second Fleet** lancée post-Turmoil → renforce pression maritime Empire vs Marienburg control on Reik mouth.
+
+### Norsca post-Turmoil
+- **Raids intensifiés** : continuité 2512+ → côte Empire reste vulnérable.
+- **Second Fleet Imperial Navy** : réponse canonique post-Turmoil ; Wave Lord Otto Sider pivot (cascade fiches 01+10).
+- **Kraka Ravnsvake** : Norse Dwarf hold continuité ; King Haarkon Vikramson.
+- **Throgg Troll Country** : continuité menace.
+- **Jarrick Valgeir** : disparu définitivement nord (cascade fiche 10).
+
+### Bretonnia post-Turmoil
+- **Louen Leoncoeur** : règne continuité.
+- **Relations Empire** : continuité *"chief rival and closest ally"* (Fandom Bretonnia).
+- **Graukappen démasquées** : potentielle révision diplomatique avec Bretonnian court.
+
+### Tilea post-Turmoil
+- **Cités-États** : continuité.
+- **Leopold's Leopard Company** : retour victorieux post-annexion Sudenland (cascade fiche 03) ; renforcement réputation condottieri.
+- **Cult of Myrmidia Remas** : continuité.
+- **Vatheck Fulci Far Eye** : **mort variable** au climax 9 Brauzeit Volkshalle (cascade fiche 11 — selon Power Score Sheerargetru). Si vivant : démasqué + cellule Far Eye Remas exposée canon dossier Chambre Noire.
+- **Crack Aethyr Remas** : refermé canon implicite post-exorcisme Sheerargetru.
+
+### Karaz Ankor (Dwarfs Worlds Edge) post-Turmoil
+- **Alliance Dwarf-Men renforcée** symboliquement par retour vrai Ghal Maraz aux Reikland Emperors ; confession Hammerwatch (smiths clan forgeur Imitation) acknowledged canon.
+- **Karak Hirn (Black Mountains)** : continuité King Alrik Ranulfsson.
+- **Iron Marshall Kina Hammerwatch** : continuité garde Black Fire Pass.
+- **Karak Skygg** : continuité abandonné Middle Mountains (Clan Skryre Skaven).
+- **Treaties Sudenland post-annexion Wissenland** : cascade fiche 03 — renégociation probable Karak Hirn-Wissenland (lacune canon).
+
+### Vorgaz Ironjaw post-Turmoil
+- **Continuité** Badlands horde en formation ; détection Imperial Ostlanders.
+- **Préfigure 2520 IC** Third Battle Black Fire Pass.
+
+### Castle Drachenfels post-Turmoil
+- **Continuité ruines rasées** (depuis 2505 IC).
+- **Pas d'activité 2512+** dans canon Fandom.
+
+### Skaven post-Turmoil
+- **Madcraw Clan** : statut canon EiR Companion ch.3 non précisé Fandom.
+- **Snikkit** : mercenaire continuité Under-Middenheim.
+
+### Religion périphérique post-Turmoil
+- **Cult of Manann** : Wave Lord Otto Sider renforcé politiquement (Second Fleet pivot — cascade fiche 01).
+- **Cult of Stromfels** : continuité pirates Sea of Claws + Sartosa.
+- **Cult of Myrmidia** : continuité Tilea-Estalia ; tension Great Temple Remas ↔ Archecclesiastium Estalia.
+
+### Conférence électorale post-Turmoil — implications externes
+- **Fandom Turmoil of 2512** : *"Emperor Karl Franz called a large Electoral Conference, the largest since Magnus the Pious reunited the Empire two centuries before"* — cascade fiche 11.
+- Voisins extérieurs (Marienburg, Bretonnia, Tilea, Karaz Ankor) observent réorganisation impériale ; opportunités diplomatiques.
+
+---
+
+## 6. Acteurs — pré → post
+
+| Acteur | Pré-Turmoil | Post-Turmoil | Statut canon |
+|---|---|---|---|
+| **The Directorate (Marienburg)** | Stadsraad executive : 4 High Priests Manaan/Verena/Shallya/Haendryk + Rector Baron Henryk's College + The Ten Merchant Houses | Continuité indépendante post-Turmoil ; pression Empire post-dossier Chambre Noire expose Graukappen | Continuité (Fandom Marienburg ; Lexicanum Directorate) |
+| **Louen Leoncoeur (Bretonnia)** | Royarch couronné 2500 IC par Morgiana le Fay | Continuité règne ; diplomatie Empire post-démasquage Graukappen | Vivant (Lexicanum Louen Leoncoeur) |
+| **Norscan tribes (Sarls/Skaelings/Bjornlings/Aeslings/Vargs/Baersonlings)** | Raids 2512 intensifiés côtes Empire | Continuité raids ; Second Fleet Imperial Navy en réponse post-Turmoil | Continuité (Fandom Norsca + Sea of Claws) |
+| **Throgg the Troll King** | "Wintertooth" Troll Country, Chaos-gifted intelligence | Continuité menace nord | Vivant (Fandom Throgg) |
+| **King Haarkon Vikramson + Queen Inga Ottarsdottir (Kraka Ravnsvake)** | Norse Dwarf hold premier (post-fall Kraka Drak) depuis 2442 IC | Continuité ; alliance maintenue | Vivants (Fandom Kraka Ravnsvake ; Sea of Claws ch.15) |
+| **High King Thorgrim Grudgebearer (Karaz-a-Karak)** | High King Karaz Ankor capitale | Continuité ; alliance Empire renforcée symboliquement | Vivant (Fandom Karaz-a-Karak) |
+| **King Alrik Ranulfsson + Queen Winnifer Falxenheir (Karak Hirn)** | Souverains Black Mountains Hold (proche Sudenland) | Continuité ; treaties Wissenland post-annexion Sudenland à renégocier | Vivants (Fandom Karak Hirn) |
+| **Iron Marshall Kina Hammerwatch** | Dwarf elderly gardienne Black Fire Pass ; clan smiths Imitation Ghal Maraz forgeurs | Continuité ; confession publique smiths clan Imitation acknowledged | Vivante (EiR ch.12 l.7-26) |
+| **Thane Egrim Stonehammer** | Récupérateur Grudge Settler 2378 IC (historique pré-Turmoil) | Background figure ; alliance Dwarf-Men symbol | Historique (Fandom Solland) |
+| **Gararoth** | Dwarf taciturne wagon Grenzstadt-Averheim | Variable (canon ne précise pas) | Variable (EiR ch.12 l.69) |
+| **Khardrif Inglepeak** | Dwarf Boatman barge The Pegasus Averheim-Streissen | Variable (canon ne précise pas) | Variable (EiR ch.12 l.73) |
+| **Grimshank's Chain (Dwarf network)** | Informel transmission messages/goods Empire-wide | Continuité informelle | Continuité (EiR ch.12 l.42) |
+| **Master Albertus Nyman** | Scholar Streissen, sait location Wolfshügel ancien temple Ulric | Variable (canon ne précise pas) | Variable (EiR ch.12 l.20) |
+| **Wolfshügel (ancient Temple of Ulric)** | Temple ancien entre Altdorf et Nuln ; lieu restauration Ghal Maraz drained | Continuité ; statut post-restauration non précisé | Continuité (EiR ch.12 l.20-31) |
+| **Vatheck Fulci (Far Eye Remas, Tilea)** | Nine Eye Main Pourpre Far Eye tutor Wolfgang ; objectif summon Sheerargetru ; voyage Border Princes → Altdorf | **Mort variable au climax** ch.13 (cascade fiche 11) ; si vivant : démasqué + cellule Far Eye Remas exposée | Variable (Fandom Vatheck Fulci ; cascade fiche 11) |
+| **Leopold's Leopard Company (Luccini, Tilea)** | Condottieri canon Dogs of War ; mythe Lucan & Luccina + leopard divin deux têtes | **Fight pour Emmanuelle von Liebwitz annexion Sudenland Turmoil 2512** ; renforcement réputation post-Turmoil | Continuité (Fandom Leopold's Leopard Company ; cascade fiche 03) |
+| **Cult of Myrmidia (Knights of the Blazing Sun + Order Eagle + Order Righteous Spear)** | Dominant Tilea + Estalia ; Great Temple Remas ; influence Empire via Knights of the Blazing Sun (Talabheim) + Order of the Eagle | Continuité ; tension Remas-Archecclesiastium Estalia persiste | Continuité (Up in Arms ch.7 + Fandom Cult of Myrmidia) |
+| **Lorenzo di Marco** (Tilean Miragliano) | **Eagle of the North** Empire ; head Order of the Eagle Empire-side ; basé **Nuln** ; cellule Tilean dans l'Empire impérial (cascade fiche 03) | Continuité probable post-Turmoil | Vivant (Fandom Order of the Eagle + Eagle of the North) |
+| **Cult of Manann + Otto Sider (Wave Lord Salzenmund)** | Cathedral of Manann Resplendent + Salzenmund pivot Nordland (cascade fiches 01+10) | **Pivot Second Fleet Imperial Navy** post-Turmoil ; *"most politically influential temple"* | Vivant (Sea of Claws ch.19 + Fandom Salzenmund ; cascade fiche 01) |
+| **Cult of Stromfels (anti-Manann)** | Pirates Sea of Claws + côtes vulnérables + Sartosa openly | Continuité ; Second Fleet pressure | Continuité (Fandom Cult of Stromfels) |
+| **Constant Drachenfels** | "Great Enchanter" daemonologist + nécromancien pré-2480 | **Mort historique 2480 IC** (Oswald + Genevieve + Detlef) ; château cleared 2505 IC + rasé à date ultérieure | Mort historique (Fandom Constant Drachenfels) |
+| **Oswald von Königswald** | Co-tueur Drachenfels 2480 IC (cascade fiche 06) | Historique pré-Turmoil | Historique (Fandom Oswald von Königswald) |
+| **Genevieve Dieudonné** | Lahmian Vampire ; co-tueuse Drachenfels 2480 IC | Vivante post-Drachenfels (vampire) — statut Turmoil non précisé canon | Variable (Lexicanum Genevieve Dieudonné) |
+| **Detlef Sierck** | *"most famous playwright of the Empire"* ; co-tueur Drachenfels 2480 IC | Continuité réputation théâtrale Altdorf | Vivant (Lexicanum Detlef Sierck) |
+| **Vorgaz Ironjaw (Orc Warboss Badlands)** | Horde en formation détectée Imperial Ostlanders 2512 (cascade EiR Companion ch.4) | **2520 IC Third Battle Black Fire Pass** : invasion Empire ; **tue Marius Leitdorf** ; **tué par Karl-Franz** ; Greenskins routés | Mort 2520 IC (Fandom Third Battle of Black Fire ; cascade fiches 04+06+11) |
+| **Snikkit (Stormvermin Under-Middenheim)** | One-eyed clanless Skaven mercenaire ; assassin Hergard Tasseninck (cascade fiches 02+05+06+11) | Continuité mercenaire | Vivant (Fandom Snikkit ; cascade fiches 02+05+06+11) |
+| **Madcraw Clan (Skaven)** | Cellule Skaven canon EiR Companion ch.3 | Statut non précisé canon Fandom | Variable (Source/EiR Companion ch.3) |
+| **Jarrick Valgeir** | Ex-Ar-Ulric pré-PBT chantagé Main Pourpre ; abdication + pèlerinage Norsca | **Disparu canon** *"never returned"* (cascade fiche 10) | Disparu canon (Fandom Jarrick Valgeir ; PBT canon) |
+| **Sheerargetru (Lord of Change)** | Emprisonné Black Fire Pass depuis Great Catastrophe | **Libéré climax 9 Brauzeit** ; exorcisé/banni selon Power Score (cascade fiche 11) | Variable (Fandom Sheerargetru ; cascade fiche 11) |
+| **Dieter IV (historique 2429 IC)** | Empereur déposé qui a vendu Marienburg | **Mort historique** ; sa traîtrise reste l'origine canon Wasteland indépendance | Mort historique (Fandom Marienburg) |
+
+---
+
+## 7. Cascades vers d'autres fronts
+
+La fiche 12 est **transversale externe** — toutes les cascades périphériques convergent vers les fronts impériaux et le climax fiche 11.
+
+- **Cascade vers [[Turmoil/01 - Nordland (Gausser - Crow Feeder)]]** :
+  - **Norscan raids 2512** côte Nordland → catalyseur **Second Fleet Imperial Navy** post-Turmoil.
+  - **Wave Lord Otto Sider Manann Salzenmund** = pivot Second Fleet post-Turmoil.
+  - **Conspirators' Congress Salzenmund** (cascade fiche 01) inclut Otto Sider + High Priest Erich Granholm Ulric + Lector Germund Vorstell Sigmar.
+
+- **Cascade vers [[Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen)]]** :
+  - **Snikkit Stormvermin Under-Middenheim** = mercenaire Skaven assassin Hergard Tasseninck sur tip-off Main Pourpre 3-cellules (cascade fiches 05+06).
+  - **Karak Skygg Volume 4 EiR The Horned Rat** : lieu Skaven Clan Skryre + Moonbreaker Cannon (cascade campagne précédente, sortie au début Volume 5 ch.1).
+  - **Jarrick Valgeir abdication Norsca** → renaissance ulricaine fanatique Middenheim (cascade fiche 10 → cascade fiche 02).
+
+- **Cascade vers [[Turmoil/03 - Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer)]]** :
+  - **Leopold's Leopard Company Tilean condottieri** fight pour Emmanuelle von Liebwitz annexion Sudenland Turmoil 2512 (canon Fandom explicite).
+  - **Route Kreutzhofen Sudenland → Quenelles Bretonnia (Montdidier Pass)** + **Alimento Tunnel Sudenland → Miragliano Tilea** (Archives Vol I ch.4 l.303-307).
+  - **Karak Hirn Black Mountains treaties Sudenland** : alliance Dwarf-Sudenland canon (à renégocier post-annexion Wissenland).
+
+- **Cascade vers [[Turmoil/04 - Averland (Alptraum-Leitdorf)]]** :
+  - **Vorgaz Ironjaw Badlands** : horde détectée 2512 par Imperial Ostlanders → tuera Marius Leitdorf 2520 IC Third Battle Black Fire Pass.
+  - **Route quête Ghal Maraz EiR ch.12** : Averheim étape canon (Khardrif Inglepeak Dwarf Boatman) → Streissen.
+  - **Crack Aethyr Averburg palace** signale manifestation Sheerargetru (EiR ch.12 l.51).
+
+- **Cascade vers [[Turmoil/05 - Talabecland-Talabheim (Krieglitz - Order of Silver Hammer)]]** :
+  - **Snikkit assassin Hergard von Tasseninck** déclenche guerre Ostland-Talabecland (cascade fiches 06+11).
+  - **Madcraw Clan Skaven** canon EiR Companion ch.3.
+
+- **Cascade vers [[Turmoil/06 - Ostland-Ostermark (Tasseninck-Raukov-Hertwig)]]** :
+  - **Norscan raids côte Ostland** vulnérabilité → contexte renforcement Valmir von Raukov.
+  - **Snikkit assassin Hergard** (cascade fiches 02+05+11).
+  - **Castle Drachenfels Oswald von Königswald 2480 IC historique** (cascade fiche 06).
+
+- **Cascade vers [[Turmoil/07 - Hochland (Ludenhof)]]** :
+  - Lien indirect : alliance Sigmarite nord (Ostermark + Nordland + Hochland) renforcée post-Turmoil contre menaces Norscan/Chaos.
+
+- **Cascade vers [[Turmoil/08 - Stirland (Haupt-Anderssen)]]** :
+  - Lien indirect : Order of the Raven Knights (Morr, Siegfriedhof) tradition anti-vampire vs Sylvanie ; Battle of Hel Fenn 2145 IC.
+
+- **Cascade décisive vers [[Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur)]]** :
+  - **Vatheck Fulci voyage Border Princes → Altdorf** convergence climax 9 Brauzeit (cascade fiche 11).
+  - **Trois cracks Aethyr Averheim + Nuln + Altdorf College of Magic + Imperial Palace** signalent manifestation Sheerargetru (cascade fiche 11).
+
+- **Cascade décisive vers [[Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs)]]** :
+  - **Pèlerinage Jarrick Valgeir Norsca** = origine renaissance ulricaine fanatique (cascade fiche 10).
+  - **Cult of Manann Wave Lord Otto Sider** Salzenmund pivot Second Fleet (cascade fiches 01+10).
+  - **Cult of Stromfels anti-Manann** pirates + Sartosa.
+  - **Cult of Myrmidia** Tilea + Order Eagle + Order Righteous Spear.
+
+- **Cascade décisive vers [[Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire)]]** :
+  - **Black Fire Pass = lieu canon emprisonnement Sheerargetru + récupération vrai Ghal Maraz** EiR ch.11-12 (cascade fiche 11).
+  - **Vatheck Fulci Far Eye Remas** = Nine Eye Tzeentch (cascade fiche 11).
+  - **Iron Marshall Kina Hammerwatch confession smiths clan forgeurs Imitation Ghal Maraz** (cascade fiche 11 Imitation history ~12 IC).
+  - **Thane Egrim Stonehammer Grudge Settler 2378 IC** = Solland Runefang Helborg (cascade fiche 11).
+  - **Wolfshügel temple Ulric ancien** route restauration Ghal Maraz drained Sheerargetru exposure (cascade fiche 11).
+  - **Marienburg + Bretonnia = cibles canon Graukappen Chambre Noire** (cascade fiche 11 Immanuel-Ferrand head Graukappen).
+  - **Vorgaz Ironjaw 2520 IC Third Battle Black Fire Pass + Marius Leitdorf mort** = préfiguration post-Turmoil cascade fiches 04+11.
+
+---
+
+## 8. Hooks jouables
+
+### Hooks canon (explicites)
+
+- **(canon)** **Iron Marshall Kina Hammerwatch + Grimshank's Chain ch.12** (EiR ch.12 l.7-46) — rencontre Dwarf gardienne Black Fire Pass + offre Grimshank's coin pour transport sécurisé via Dwarf network informel.
+- **(canon)** **Hammerwatch confession smiths clan forgeurs Imitation** (EiR ch.12 l.24) — révélation historique : les Dwarfs ont collaboré à la forge de l'Imitation Ghal Maraz vers Ier siècle IC, période Sigmar's heirs.
+- **(canon)** **Wolfshügel ancient Temple of Ulric** (EiR ch.12 l.20-31) — quête additionnelle pour restaurer power Ghal Maraz drained Sheerargetru exposure ; Albertus Nyman scholar Streissen identifie location.
+- **(canon)** **Caves of Chaos Black Mountains** (EiR ch.11) — récupération vrai Ghal Maraz + lieu emprisonnement Sheerargetru depuis Great Catastrophe ; rencontre Sadikur Nehekharan undead servant.
+- **(canon)** **Trois cracks Aethyr observation** (EiR ch.12 l.49-55) — Characters avec magical sight perçoivent précurseurs portails daemoniques Sheerargetru à Averheim/Nuln/Altdorf.
+- **(canon)** **Khardrif Inglepeak barge The Pegasus** (EiR ch.12 l.73) — transport Averheim → Streissen via The Hidden Valley inn, compartiment underdeck *"smells faintly of Weirdroot"*.
+- **(canon)** **Gararoth Dwarf wagon** (EiR ch.12 l.69) — transport Grenzstadt → Averheim caché dans half-barrels.
+- **(canon)** **Vatheck Fulci Far Eye Remas Tilea voyage Border Princes → Altdorf** (Fandom Vatheck Fulci) — Characters peuvent intercepter en route avant climax Volkshalle.
+- **(canon)** **Crack Aethyr Remas Tilea** (Fandom Vatheck Fulci) — portail Tzeentch ouvert *"in the sky"* par misdeeds Vatheck ; cible enquête post-Turmoil.
+- **(canon)** **Leopold's Leopard Company campaign Sudenland** (Fandom Leopold's Leopard Company) — Characters peuvent rejoindre/saboter mercenaires Tilean dans annexion Sudenland.
+- **(canon)** **Imperial Ostlanders patrouille Black Mountains** (EiR Companion ch.4) — Characters peuvent rejoindre patrouille + découvrir horde Vorgaz Ironjaw en formation.
+- **(canon)** **Snikkit assassinat Hergard Tasseninck tracking** (EiR Intro l.332) — Characters peuvent enquêter sur coordination 3-cellules Main Pourpre → identifier Snikkit clanless mercenaire.
+- **(canon)** **Madcraw Clan Skaven** (EiR Companion ch.3) — cellule Skaven canon Turmoil 2512.
+- **(canon)** **Norscan raid coast** (Sea of Claws ch.6-7 + Fandom Sea of Claws) — défense côte Nordland/Ostland 2512 IC.
+- **(canon)** **Kraka Ravnsvake Norse Dwarfs diplomacy** (Sea of Claws ch.15) — alliance Norse Dwarf hold ; King Haarkon Vikramson.
+- **(canon)** **Throgg Troll King menace nord** (Fandom Throgg) — Characters peuvent affronter dans Troll Country pre/post-Turmoil.
+
+### Hooks canon + déduction
+
+- **(canon + déduction)** **Marienburg infiltration Graukappen démasquée post-Turmoil** : dossier Chambre Noire expose opérations Empire-wide (cascade fiche 11) ; pression diplomatique Marienburg ; Characters peuvent enquêter sur retombées.
+- **(canon + déduction)** **Bretonnia diplomatie post-démasquage** : Louen Leoncoeur informé opérations Graukappen ; Characters peuvent porter message d'apaisement.
+- **(canon + déduction)** **Karak Hirn treaties Sudenland renégociation** : annexion Wissenland implique renégociation alliance Dwarf-Sudenland ; Characters diplomates.
+- **(canon + déduction)** **Vatheck Fulci interception Border Princes** : avant convergence Altdorf, Characters peuvent traverser Border Princes + intercepter le Nine Eye Remas.
+- **(canon + déduction)** **Cult of Myrmidia rivalité Remas-Archecclesiastium Estalia** : tension cultuelle exploitable narrativement.
+- **(canon + déduction)** **Vorgaz Ironjaw préfiguration 2520** : 2512 = horde en formation détectée Imperial Ostlanders ; Characters peuvent préparer défense future ou alerter Marius Leitdorf (qui mourra canon en 2520 IC).
+- **(canon + déduction)** **Castle Drachenfels ruines post-2505** : malgré rasage canon, ruines peuvent abriter résidus magiques de Constant Drachenfels ; hook Necromancy/Tzeentch.
+- **(canon + déduction)** **Wolfshügel post-restauration Ghal Maraz** : temple ancien Ulric réactivé symboliquement ; tensions Sigmar-Ulric renforcées (cascade fiche 10).
+- **(canon + déduction)** **Grimshank's Chain Dwarf-wide network** : Characters initiés peuvent transmettre messages secrets Empire-wide via Dwarf elders.
+- **(canon + déduction)** **Other Neuf Yeux Tilea/Border Princes exposés post-Turmoil** : si Vatheck Fulci démasqué, autres tutors Empire-wide menacés (cascade fiche 11 cellules régionales).
+
+---
+
+## 9. Sources canon (lignes précises)
+
+### Sources primaires C7 directement lues
+
+- **EiR Volume 5 — Introduction** :
+  - l.43-48 — Neuf Yeux background (cascade fiche 11 — Vatheck Fulci Far Eye Remas)
+  - l.332 — Coordination Main Pourpre 3-cellules contre Hergard (cascade fiches 05+06+11)
+
+- **EiR ch.1 *Dirigible in Danger*** :
+  - l.16-17 — *"The Prisoners of Karak Skygg"* (Volume 4 The Horned Rat antecedent ; Characters sortent Karak Skygg au début Volume 5 par Sky Wolf dirigible)
+  - l.163 — Briefing Baron Heinrich Todbringer (cascade fiche 02)
+
+- **EiR ch.2 *Chilly Reception*** :
+  - l.123-124 — Karak Skygg topic broached by Graf Boris Todbringer (cascade Volume 4 EiR)
+
+- **EiR ch.4 *An Audience with Prince Héritier Wolfgang*** :
+  - l.253 — Neuf Yeux elderly scholars *"Karak Skygg in The Horned Rat may have legitimate suspicions about the broken mirror in Gustav's room"* (Gustav Klaus Kaleidoscope Eye Nine Eye — cascade fiche 11)
+
+- **EiR ch.7 *The Emergency Conclave*** :
+  - l.247-253 — Boris brise Imitation Ghal Maraz (cascade fiches 02+11)
+
+- **EiR ch.9-11 *Altdorf to Black Fire Pass / In Sigmar's Footsteps / Caves of Chaos*** : quête route + récupération vrai Ghal Maraz Black Fire Pass / Black Mountains
+
+- **EiR ch.12 *Black Fire Pass to Altdorf*** :
+  - **l.7-9 — Iron Marshall Kina Hammerwatch first encounter**
+  - **l.20 — Wolfshügel ancient Temple of Ulric + Albertus Nyman scholar Streissen**
+  - **l.22 — Omens et dreams hammer symbolism Empire-wide**
+  - **l.24 — Hammerwatch confession smiths clan forgeurs Imitation**
+  - **l.26 — Grimshank's coin offering**
+  - **l.28-33 — Running on Empty Ghal Maraz drained Sheerargetru exposure**
+  - **l.37-46 — Grimshank's Chain Dwarf network**
+  - **l.49-55 — Trois cracks Aethyr Averheim/Nuln/Altdorf**
+  - **l.61-66 — The Recruits Averland herald**
+  - **l.68-73 — Routes to Streissen ; Gararoth Dwarf wagon ; Khardrif Inglepeak Dwarf Boatman barge The Pegasus**
+  - **l.75-79 — Alternative routes + Flagellants encounter**
+  - **l.578 — *"The Skull Splitter Has Returned"*** (Peak Leveller retournant Middenheim post-S62)
+
+- **EiR ch.13 *The Empire Saved*** :
+  - cascade fiche 11 — climax Volkshalle 9 Brauzeit (Vatheck Fulci + autres Neuf Yeux convergent)
+
+- **EiR ch.17 *History of the Turmoil*** :
+  - l.30+ — Karl-Franz restauré + reconfiguration impériale (cascades multiples fiches 01-11)
+  - l.32 — Dossier Chambre Noire expose Main Pourpre (cascade fiche 11)
+
+- **EiR Companion ch.3 *The Madcraw Clan*** :
+  - Skaven cellule canon Turmoil 2512 (lacune Fandom indexation)
+
+- **EiR Companion ch.4 *The Imperial Ostlanders*** :
+  - l.506 — Imperial Ostlanders patrouille Black Mountains + horde Vorgaz Ironjaw détectée 2512 (cascade fiches 04+06+11)
+
+- **EiR Companion ch.5 *The Nordland Question*** :
+  - cascade fiche 01 (Conspirators' Congress Salzenmund)
+
+- **EiR Companion ch.9 *The Road to Blackfire Pass*** :
+  - étape quête Black Fire Pass (cascade fiche 11)
+
+- **EiR Companion ch.10 *The Bigger They Are*** :
+  - Vorgaz Ironjaw + Orcs Badlands canon (cascade fiches 04+06+11)
+
+- **Sea of Claws** (WFRP4 supplément maritime dédié) :
+  - **ch.5 Bretonnia and the Wasteland** — Marienburg + Bretonnia coast
+  - **ch.6 The Nordland Coast** — côte Nordland + raids Norsca (cascade fiche 01)
+  - **ch.7 The Ostland Coast** — côte Ostland + Sons of Manann Salkalten (cascade fiche 06)
+  - **ch.8 The Bile Lands** — Chaos Wastes
+  - **ch.9 The Sarl Coast** — tribu Sarls Norsca
+  - **ch.10 Chamon Dharek** — terres Norsca
+  - **ch.11 Altar of the Crimson Harvest** — culte Norsca
+  - **ch.12 The Bay of Blades** — baie Norsca
+  - **ch.13-14 Lair of the Troll King + Throgg the Troll King** — Throgg canon
+  - **ch.15 Kraka Ravnsvake** — Norse Dwarf hold (King Haarkon Vikramson)
+  - **ch.16 The Skaeling Coast** — tribu Skaelings
+  - **ch.17 The Bjornling Coast** — tribu Bjornlings
+  - **ch.19 The Cult of Manann** — Otto Sider Wave Lord Salzenmund (cascade fiches 01+10)
+  - **ch.20 The Cult of Stromfels** — anti-Manann pirates Sartosa
+  - **ch.22-23 Seafaring / Sailing Larger Vessels** — mécaniques navales
+  - **ch.25 Bestiary** — créatures maritimes
+
+- **Salzenmund - City of Salt & Silver** (WFRP4 supplément Nordland) :
+  - **ch.4 l.803** — Cathedral of Manann Resplendent (Otto Sider — cascade fiche 01)
+
+- **Up in Arms** (WFRP4 supplément militaire/mercenaires) :
+  - **ch.4 Knights of the Empire** — ordres chevaleresques Empire (cascade fiche 10)
+  - **ch.5 Dogs of War** — Tilean condottieri (Leopold's Leopard Company)
+  - **ch.6 Tilea and Tilean Characters** — Tilea overview + cités-États
+  - **ch.7 The Cult of Myrmidia** — culte canon Tilea-Estalia (Order Eagle + Order Righteous Spear)
+
+- **Archives of the Empire Vol I** :
+  - **ch.4 The Grand Provinces l.282-288** — Grudge Settler récupération + Egrim Stonehammer
+  - **ch.4 Kreutzhofen l.303-307** — Routes Montdidier Pass (Quenelles Bretonnia) + Alimento Tunnel (Miragliano Tilea) (cascade fiche 03)
+  - **ch.6 Guide to The Grand County of the Mootland** — Mootland Halflings
+
+- **Power Behind the Throne (PBT) canon** :
+  - Jarrick Valgeir chantage Main Pourpre + abdication + pèlerinage Norsca (cascade fiche 10)
+
+### Sources web
+
+- [Marienburg — Fandom](https://warhammerfantasy.fandom.com/wiki/Marienburg) — sécession 2429 IC Dieter IV
+- [The Wasteland — Fandom](https://warhammerfantasy.fandom.com/wiki/The_Wasteland)
+- [Directorate — Lexicanum](https://whfb.lexicanum.com/wiki/Directorate) — Stadsraad + 4 priests + Rector + Ten Merchant Houses
+- [Barony of Westerland — Lexicanum](https://whfb.lexicanum.com/wiki/Barony_of_Westerland) — Treaty of 20 Kaldezeit 2429
+- [Chambre Noire — Fandom](https://warhammerfantasy.fandom.com/wiki/Black_Chamber) — Graukappen cibles Bretonnia + Marienburg
+- [Norsca — Fandom](https://warhammerfantasy.fandom.com/wiki/Norsca) — tribus + raids
+- [Skaelings — Fandom](https://warhammerfantasy.fandom.com/wiki/Skaelings) — tribu Khornate
+- [Throgg — Fandom](https://warhammerfantasy.fandom.com/wiki/Throgg) — Troll King Wintertooth
+- [Kraka Ravnsvake — Fandom](https://warhammerfantasy.fandom.com/wiki/Kraka_Ravnsvake) — Norse Dwarf hold
+- [Jarrick Valgeir — Fandom](https://warhammerfantasy.fandom.com/wiki/Jarrick_Valgeir) — pèlerinage Norsca
+- [Bretonnia — Fandom](https://warhammerfantasy.fandom.com/wiki/Bretonnia) — chief rival and closest ally
+- [Louen Leoncoeur — Lexicanum](https://whfb.lexicanum.com/wiki/Louen_Leoncoeur) — couronné 2500 IC Morgiana le Fay
+- [Royarch — Fandom](https://warhammerfantasy.fandom.com/wiki/Royarch) — titre Roi Bretonnia
+- [Quenelles — Fandom](https://warhammerfantasy.fandom.com/wiki/Quenelles) — dukedom sud-est Bretonnia
+- [Tilea — Fandom](https://warhammerfantasy.fandom.com/wiki/Tilea) — cités-États
+- [Remas — Lexicanum](https://whfb.lexicanum.com/wiki/Remas) — Great Temple Myrmidia
+- [Luccini — Fandom](https://warhammerfantasy.fandom.com/wiki/Luccini) — oldest Tilean city + Leopold's Leopard Company origin
+- [Leopold's Leopard Company — Fandom](https://warhammerfantasy.fandom.com/wiki/Leopold%27s_Leopard_Company) — fight pour Liebwitz annexion Sudenland Turmoil 2512
+- [Vatheck Fulci — Fandom](https://warhammerfantasy.fandom.com/wiki/Vatheck_Fulci) — Far Eye Remas + objectif Sheerargetru
+- [Cult of Myrmidia — Fandom](https://warhammerfantasy.fandom.com/wiki/Cult_of_Myrmidia) — Tilea-Estalia
+- [Cult of Myrmidia (Up in Arms) — Cubicle 7 blog](https://cubicle7games.com/en_US/blog/wfrp-up-in-arms-the-cult-of-myrmidia)
+- [Karaz-a-Karak — Fandom](https://warhammerfantasy.fandom.com/wiki/Karaz-a-Karak) — capitale Karaz Ankor + Thorgrim Grudgebearer
+- [Karak Eight Peaks — Fandom](https://warhammerfantasy.fandom.com/wiki/Karak_Eight_Peaks)
+- [Zhufbar — Fandom](https://warhammerfantasy.fandom.com/wiki/Zhufbar)
+- [Karak Hirn — Fandom](https://warhammerfantasy.fandom.com/wiki/Karak_Hirn) — Black Mountains Hornhold King Alrik Ranulfsson
+- [Karak Skygg — Fandom](https://warhammerfantasy.fandom.com/wiki/Karak_Skygg) — abandoned hold Middle Mountains Clan Skryre
+- [Black Fire Pass — Fandom](https://warhammerfantasy.fandom.com/wiki/Black_Fire_Pass)
+- [Worlds Edge Mountains — Fandom](https://warhammerfantasy.fandom.com/wiki/Worlds_Edge_Mountains)
+- [Solland — Fandom](https://warhammerfantasy.fandom.com/wiki/Solland) — Grudge Settler récupération Egrim Stonehammer 2378 IC
+- [Castle Drachenfels — Fandom](https://warhammerfantasy.fandom.com/wiki/Castle_Drachenfels) — Grey Mountains + cleared 2505 IC + rasé à date ultérieure
+- [Constant Drachenfels — Fandom](https://warhammerfantasy.fandom.com/wiki/Constant_Drachenfels) — Great Enchanter
+- [Castle Drachenfels — Lexicanum](https://whfb.lexicanum.com/wiki/Castle_Drachenfels)
+- [Detlef Sierck — Lexicanum](https://whfb.lexicanum.com/wiki/Detlef_Sierck) — playwright
+- [Vorgaz Ironjaw — Lexicanum](https://whfb.lexicanum.com/wiki/Vorgaz_Ironjaw) — Third Battle Black Fire Pass 2520 IC
+- [Third Battle of Black Fire — Fandom](https://warhammerfantasy.fandom.com/wiki/Third_Battle_of_Black_Fire) — Marius Leitdorf mort + Karl-Franz kill
+- [Snikkit — Fandom](https://warhammerfantasy.fandom.com/wiki/Snikkit) — Stormvermin Under-Middenheim clanless
+- [Salzenmund — Fandom](https://warhammerfantasy.fandom.com/wiki/Salzenmund) — Otto Sider Wave Lord
+- [Stromfels — Fandom](https://warhammerfantasy.fandom.com/wiki/Stromfels) — anti-Manann pirate god
+- [Cult of Stromfels — Lexicanum](https://whfb.lexicanum.com/wiki/Cult_of_Stromfels)
+- [Cult of Manann — Lexicanum](https://whfb.lexicanum.com/wiki/Cult_of_Manann)
+- [Sea of Claws — Fandom](https://warhammerfantasy.fandom.com/wiki/Sea_of_Claws) — raids Norscan 2512 IC + Imperial Navy armada
+- [Nordland — Fandom](https://warhammerfantasy.fandom.com/wiki/Nordland) — restoration Grand County Turmoil
+
+---
+
+## 10. Ambiguïtés canon
+
+*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3.*
+
+### Sort exact Karak Skygg post-Volume 4 EiR The Horned Rat
+
+- **Canon EiR Volume 5 ch.1** : Characters sortent de Karak Skygg dans dirigible Sky Wolf de Baron Heinrich Todbringer ; **Moonbreaker Cannon** Clan Skryre activé ou non selon résolution Volume 4.
+- **Canon Fandom Karak Skygg** : abandoned hold Middle Mountains squatté Clan Skryre.
+- **Statut Turmoil 2512** : **non précisé canon Fandom ni EiR Volume 5** si Clan Skryre maintient présence ou si reconquis ; lacune.
+- **Décision GM** : à étoffer selon résolution Volume 4 The Horned Rat.
+
+### Statut exact Vatheck Fulci au climax 9 Brauzeit
+
+- **Canon Fandom Vatheck Fulci** : voyage Border Princes → Altdorf, objectif summon Sheerargetru.
+- **Cascade fiche 11 Power Score** : Vatheck = un des 9 Eyes vivants = +1/+3/+5 Power selon nombre total.
+- **Lieu présence au climax** : galerie Volkshalle avec autres Neuf Yeux ou tracking par Characters en route ? Canon non précisé.
+- **Décision GM** : à interpréter selon timing arrivée Characters.
+
+### Crack Aethyr Remas post-Turmoil
+
+- **Canon Fandom Vatheck Fulci** : *"a crack in the Aethyr opens in the sky"* à Remas par misdeeds Vatheck.
+- **Sort post-Turmoil si Vatheck mort** : refermeture automatique ? Persistence Tzeentchian ? Canon ne tranche pas explicitement.
+- **Décision GM** : à inventer.
+
+*(Entrée "Madcraw Clan post-Turmoil" déplacée en Notes hors filtre — canon EiR Companion ch.3 résout l'essentiel ; lacune indexation Fandom uniquement, pas ambiguïté canon stricto sensu.)*
+
+### Identité historique précise du clan Hammerwatch (Dwarf smiths forgeurs Imitation)
+
+- **Canon EiR ch.12 l.24** : *"smiths of my clan agreed to create the imitation weapon"* — Hammerwatch confirme appartenance.
+- **Nom exact du clan** : non précisé canon (Hammerwatch = nom personnel ou nom de clan ?).
+- **Décision GM** : à inventer ; possibilité narrative riche pour quête follow-up.
+
+### Identité du Nehekharan Sadikur (servant Sheerargetru)
+
+- **Canon Fandom Sheerargetru** : *"the Nehekharan Sadikur, who had been his servant in life and had been called to his side to serve again in undeath"* — gardien undead Sheerargetru millénaire.
+- **Détails background Sadikur** : non précisés Fandom.
+- **Décision GM** : à étoffer ; possible rencontre Characters dans Caves of Chaos EiR ch.11.
+
+### Trois cracks Aethyr causalité exacte
+
+- **Canon EiR ch.12 l.49-55** : observés à Averheim/Nuln/Altdorf ; *"early signs of Daemonic portals due to open when Sheerargetru makes his move"*.
+- **Causalité** : qui ouvre les cracks (Vatheck Fulci ? Wilhelmina Novak Sinister Eye Altdorf magic ? Gideon ?) — canon ne tranche pas.
+- **Décision GM** : à étoffer.
+
+### Sort post-canon Genevieve Dieudonné (Lahmian Vampire)
+
+- **Canon Lexicanum** : Lahmian Vampire ; co-tueuse Drachenfels 2480 IC.
+- **Statut Turmoil 2512** : Vampires longues vies ; canon ne précise pas son rôle 2512.
+- **Décision GM** : à inventer si pertinent.
+
+### Statut diplomatique exact Marienburg post-démasquage Graukappen
+
+- **Canon EiR ch.17 l.32** : dossier Chambre Noire expose Main Pourpre (et probablement opérations Graukappen).
+- **Réaction Directorate Marienburg** : non précisée canon.
+- **Décision GM** : à inventer ; possible tension diplomatique Empire-Wasteland.
+
+### Statut Karak Hirn treaties Sudenland post-annexion Wissenland
+
+- **Canon** : Karak Hirn (Black Mountains) maintenait treaties commerciaux avec Sudenland (cascade fiche 03).
+- **Post-Turmoil annexion Sudenland par Liebwitz (Nuln-Wissenland)** : treaties devraient être renégociés.
+- **Canon ne précise pas** la position canon canon de King Alrik Ranulfsson.
+- **Décision GM** : à inventer.
+
+---
+
+## Notes hors filtre section 10 (résolutions documentées)
+
+### Marienburg sécession 2429 IC Dieter IV Treaty of Kaldezeit — RÉSOLU
+
+- **Fandom Marienburg** : *"In the Imperial year of 2429, Dieter IV did the greatest and most shameful act ever conceived by an Emperor of the Empire"*.
+- **Lexicanum Barony of Westerland** : précise *"treaty of 20 Kaldezeit 2429"*.
+- **Adopté fiche** : Treaty of (20) Kaldezeit 2429 IC ; Dieter IV ; sécession Wasteland.
+
+### Directorate Marienburg gouvernance 4-5-10 structure — RÉSOLU
+
+- **Lexicanum Directorate** : *"membership consists of the High Priests of Manaan, Verena, Shallya and Haendryk, the Rector of Baron Henryk's College and the heads of the ten wealthiest Merchant Houses"*.
+- **Adopté fiche** : 4 High Priests + Rector + 10 Merchant Houses ; siège Stadsraad.
+
+### Norscan tribes canon 6 (Sarls/Skaelings/Bjornlings/Aeslings/Vargs/Baersonlings) — RÉSOLU
+
+- **Fandom Norsca + Lexicanum** : 6 tribus canon nommées.
+- **Adopté fiche** : 6 tribus.
+
+### Louen Leoncoeur couronnement 2500 IC par Morgiana le Fay — RÉSOLU
+
+- **Lexicanum Louen Leoncoeur** : *"crowned by Morgiana le Fay in 2500 IC"*.
+- **Adopté fiche** : 2500 IC.
+
+*(Entrée v1 "Tilean city-states 6+1" remplacée par v2 ci-dessous "Tilean cités-États canon 8 avec Pavona".)*
+
+### Leopold's Leopard Company Turmoil 2512 = Sudenland fight pour Liebwitz — RÉSOLU
+
+- **Fandom Leopold's Leopard Company** : *"During the Turmoil of 2512… The famed Leopard Company fought for Emmanuelle von Liebwitz in her campaign to annex the province of Sudenland"* — citation canon explicite.
+- **Adopté fiche** : Leopold's Leopard Company allié Liebwitz annexion Sudenland (cascade fiche 03).
+
+### Vatheck Fulci canon identity — RÉSOLU
+
+- **Fandom Vatheck Fulci** : Far Eye Nine Eye Remas Tilea + objectif Sheerargetru + voyage Border Princes → Altdorf.
+- **Adopté fiche** : identité canon intégrée + cascade fiche 11.
+
+### Karak Skygg = Middle Mountains (PAS Worlds Edge) — RÉSOLU
+
+- **Fandom Karak Skygg** : *"abandoned Dwarf hold that stands high in the Middle Mountains in the old Dwarfen realm of Karaz Ghumzul"*.
+- **Source/EiR Volume 4 The Horned Rat** : Karak Skygg = lieu Skaven Clan Skryre Volume 4.
+- **EiR Volume 5 ch.1** confirme Characters sortent de Karak Skygg au début Volume 5 (pas étape ultérieure Volume 5).
+- **Adopté fiche** : Karak Skygg = Middle Mountains + Volume 4 EiR + lien Skaven Clan Skryre + Moonbreaker Cannon.
+
+### Karak Hirn = Black Mountains (PAS Worlds Edge) — RÉSOLU
+
+- **Fandom Karak Hirn** : *"biggest and most important Dwarf hold in the Black Mountains between the northern Border Princes and the southern borders of the Empire"* + *"these holds are not connected to the Underway"*.
+- **Souverains canon** : King Alrik Ranulfsson clan Drazhkarak + Queen Winnifer Falxenheir.
+- **Adopté fiche** : Karak Hirn Black Mountains distinct de Worlds Edge.
+
+### Vrai Ghal Maraz récupéré Black Fire Pass / Black Mountains (PAS Karak Skygg) — RÉSOLU
+
+- **Canon Fandom Ghal Maraz** : *"true Ghal Maraz was found by adventurers during the civil strife of the Turmoil of 2512 IC in the Black Fire Pass"*.
+- **Canon Fandom Sheerargetru** : *"battled deep beneath the earth near Black Fire Pass"*.
+- **Canon EiR ch.11 Caves of Chaos** : caverne Black Mountains près Black Fire Pass.
+- **Route quête canon EiR ch.12** : Reik → Nuln → Aver → Averheim → Old Dwarf Road → Black Fire Pass ; retour Grenzstadt → Averheim → Streissen → Altdorf.
+- **Adopté fiche** : vrai Ghal Maraz récupéré Caves of Chaos Black Mountains près Black Fire Pass (PAS Karak Skygg ; PAS Castle Drachenfels).
+
+*(Entrée v1 "Castle Drachenfels rasé 2505 IC pré-Turmoil" remplacée par v2 ci-dessous "Castle Drachenfels rasage nuancé".)*
+
+### Orthographe "Egrim Stonehammer" (Source/Archives Vol I) vs "Ergrim" (Fandom/Lexicanum) — RÉSOLU (correction v5 propagation)
+
+- **Source/Archives of the Empire Vol I ch.4** : canon C7 WFRP4 = **"Egrim Stonehammer"** (sans 'r' supplémentaire).
+- **Fandom Solland + Lexicanum Ergrim Stonehammer** : orthographe = "Ergrim Stonehammer" (legacy WFRP2/3).
+- **NB distinction critique** : Egrim Stonehammer (Dwarf Thane, Source/Archives) ≠ **Egrimm van Horstmann** (sorcerer Tzeentch Silver Tower, 2 'm'). Personnages différents canon.
+- **Application règle d'arbitrage projet** : **Source/Archives Vol I WFRP4 supersède Fandom legacy** ; décision GM documentée dans `Notes MJ/Orthographe canon - corrections à appliquer.md`.
+- **Correction v2 → v3** : fiches v2 utilisaient "Ergrim" (Fandom) — v3 corrigées en "**Egrim Stonehammer**" (Source/Archives Vol I + décision GM).
+- **Adopté fiche** : **Egrim Stonehammer** (Source/Archives Vol I C7 WFRP4 + décision GM).
+
+### Solland Runefang Grudge Settler récupération 2378 IC Thane Egrim Stonehammer — RÉSOLU
+
+- **Fandom Solland** : *"Grudge Settler, Solland's Runefang, was recovered in 2378 IC by a joint expedition of Dwarfs and Men led by the Dwarf Thane Egrim Stonehammer. The Runefang was retrieved from the lair of a Chimera in the Worlds Edge Mountains"*.
+- **Alias canon** : Grollhalter (Grudgebearer), Lightshard, Helbringer, Warpsbane, Klingerach (Sword of Vengeance).
+- **Adopté fiche** : 2378 IC ; lair de Chimera ; Worlds Edge Mountains ; joint expedition Dwarfs+Men ; cascade fiche 11.
+
+### Throgg Troll King = Troll Country (PAS Norsca direct) — RÉSOLU
+
+- **Fandom Throgg** : "King of the Trolls" "Wintertooth" basé Troll Country.
+- **Norsca = adjacent géographiquement** mais Throgg n'est PAS Norscan tribal chief.
+- **Adopté fiche** : Throgg = menace nord adjacent Norsca + Empire ; pas tribu canon.
+
+### Vorgaz Ironjaw = Third Battle Black Fire Pass 2520 IC (POST-Turmoil) — RÉSOLU
+
+- **Fandom Third Battle of Black Fire + Lexicanum Vorgaz Ironjaw** : *"Vorgaz Ironjaw was the Orc Warboss that invaded the Empire through the Black Fire Pass in 2520 IC"* + *"Marius Leitdorf, Elector Count of Averland was slain, but Emperor Karl Franz arrived to slay Ironjaw"*.
+- **Cascade Turmoil 2512** : préfiguré canon EiR Companion ch.4 Imperial Ostlanders patrouille Black Mountains détection horde.
+- **Adopté fiche** : Vorgaz Ironjaw = menace 2512 latente + tuera Marius Leitdorf 2520 IC.
+
+### Snikkit Stormvermin one-eyed clanless Under-Middenheim — RÉSOLU
+
+- **Fandom Snikkit** : *"one-eyed Stormvermin from Under-Middenheim, an oddity among the Skaven race in that he was Clanless"*.
+- **Adopté fiche** : Snikkit mercenaire Skaven cascade fiches 02+05+06+11.
+
+*(Entrée v1 "Cult of Myrmidia 2 ordres" remplacée par v2 ci-dessous "Cult of Myrmidia 3 ordres canon avec Knights of the Blazing Sun".)*
+
+### Karak Skygg Volume 4 EiR The Horned Rat (PAS Volume 5 quête) — RÉSOLU
+
+- **EiR Volume 5 ch.1 *Dirigible in Danger*** : *"Characters begin the adventure just after Baron Heinrich Todbringer rescues them from Karak Skygg"*.
+- **EiR Volume 5 ch.2** : Karak Skygg topic broached by Boris Todbringer (référence Volume 4).
+- **EiR Volume 5 ch.4 l.253** : *"Karak Skygg in The Horned Rat may have legitimate suspicions about the broken mirror in Gustav's room"* (Gustav Klaus Kaleidoscope Eye Nine Eye — cascade fiche 11).
+- **Adopté fiche** : Karak Skygg = lieu canon Volume 4 EiR (The Horned Rat) ; Characters sortis au début Volume 5 ; **PAS étape Volume 5 quête Ghal Maraz**.
+
+### Tilean cités-États canon 8 (avec Pavona) — RÉSOLU (correction v2)
+
+- **Fandom Pavona** : *"the Principality of Pavona… a prosperous city-state situated in central Tilea… ruled by Lucrezzia Belladonna"*.
+- **Fandom Tilea** : *"Tilea is divided into Principalities: Luccini, Miragliano, Pavona, Sartosa, Tobaro, Trantio and Republics: Remas… and Verezzo"*.
+- **Correction v1 → v2** : fiche v1 omettait Pavona comme *"non confirmée Fandom"* — erreur ; **v2 corrigée** : 8 cités canon (7 principautés + 1 république officielle Verezzo + Remas république de facto).
+- **Adopté fiche** : 8 cités canon avec Pavona confirmée.
+
+### Cult of Myrmidia 3 ordres canon (avec Knights of the Blazing Sun) — RÉSOLU (correction v2)
+
+- **Fandom Cult of Myrmidia + Fandom Knights of the Blazing Sun** : **3 ordres majeurs canon** :
+  - **Knights of the Blazing Sun** : ordre Myrmidien le plus présent dans l'Empire, rattaché à Magnus the Pious, base Talabheim.
+  - **Order of the Eagle** : ministériel ; Eagle of the North = Lorenzo di Marco basé Nuln.
+  - **Order of the Righteous Spear** : Templar Knights, bras militaire principal.
+- **Correction v1 → v2** : fiche v1 listait seulement 2 ordres (Order of the Eagle + Order of the Righteous Spear), omission Knights of the Blazing Sun — erreur ; **v2 corrigée** 3 ordres canon.
+- **Adopté fiche** : 3 ordres + Lorenzo di Marco Eagle of the North Nuln (acteur cellule Tilean dans l'Empire).
+
+### Chambre Noire hiérarchie pré/post-Turmoil — RÉSOLU (correction v2 cascade fiche 11)
+
+- **Fandom Chambre Noire + Fandom Liepmund Holzkrug + Fandom Immanuel-Ferrand** :
+  - **Pré-Turmoil 2512** : Holzkrug head Chambre Noire Cercle Intérieur ; Immanuel-Ferrand head Graukappen sous-aile.
+  - **Post-Turmoil 2512** : Immanuel-Ferrand head Chambre Noire entier (succède Holzkrug).
+- **Correction v1 → v2** : fiche v1 attribuait Immanuel-Ferrand head Graukappen 2512 sans préciser que Holzkrug était au-dessus pré-Turmoil ; **v2 clarifie hiérarchie pré/post-Turmoil**.
+- **Adopté fiche** : hiérarchie corrigée section 2 + cascade fiche 11.
+
+### Castle Drachenfels rasage nuancé — RÉSOLU (correction v2)
+
+- **Fandom Castle Drachenfels** : *"the castle was later razed to the ground"* + *"left standing as a reminder of the evil"* — divergence interne canon ; rasage non daté précisément, *"cleared"* 2505 IC.
+- **Correction v1 → v2** : fiche v1 datait *"rasé 2505 IC"* précisément — extrapolation ; **v2 corrigée** : *"cleared 2505 IC, rasé à date ultérieure non précisée"*.
+- **Adopté fiche** : nuance canon respectée.
+
+### Hammerwatch Imitation forge date — Ier siècle IC (déduction) — RÉSOLU (correction v2)
+
+- **Canon EiR ch.12 l.24** : *"smiths of my clan agreed to create the imitation weapon wielded by Sigmar's heirs"* — Sigmar's heirs = post-Sigmar (départ Sigmar ~50 IC).
+- **EiR Intro l.859** : *"forged combining Dwarf Runesmithery + Sigmarite blessings 2500 years ago"* (2512 - 2500 = 12 IC).
+- **Convergence canon** : forge ~Ier siècle IC, période Sigmar's heirs (post-Sigmar departure).
+- **Correction v1 → v2** : fiche v1 datait précisément *"~12 IC"* — précision exclusive Imitation EiR Intro ; **v2 corrigée** : *"Ier siècle IC, période Sigmar's heirs"*.
+- **Adopté fiche** : nuance canon Sigmar's heirs explicite.
+
+### Mousillon statut dukedom déchu — RÉSOLU (correction v2)
+
+- **Fandom Mousillon** : *"Having since lost its status as an official dukedom of the kingdom, the land of Mousillon is the smallest of the twelve dukedoms of Bretonnia"* + corruption vampirique Duke Merovech + Red Duke + Lahmians.
+- **Correction v1 → v2** : fiche v1 listait Mousillon parmi dukes majeurs avec qualificatif *"(cursed)"* — sous-précisé ; **v2 corrigée** : *"ancien dukedom déchu… lost official dukedom status"*.
+- **Adopté fiche** : statut canon précis.
+
+### Madcraw Clan canon EiR Companion ch.3 — RÉSOLU
+
+- **Source/EiR Companion ch.3 *The Madcraw Clan*** : cellule Skaven canon Turmoil 2512.
+- **Fandom** : pas indexé — lacune wiki publique, pas ambiguïté canon.
+- **Adopté fiche** : Madcraw Clan = canon Source/EiR Companion ch.3 (cascade impériale) ; détails à exploiter Source/ pour scénarios spécifiques.
+
+### Application règle WFRP4 supersède WFRP2/3 — divergences résolues
+
+- **Date Turmoil = 2512 IC** (WFRP4 EiR), pas 2510 (legacy WFRP2/Storm of Chaos).
+- **Trantio End Times Slaanesh fall** : canon WFRP 8e édition / Storm of Chaos legacy — **post-canonique hors scope Turmoil 2512** ; non actionnable.
+- **Pas d'autre divergence majeure WFRP4 vs WFRP2/3 détectée pour ce front périphérique externe.**
+
+### Application règle Total War wiki INTERDIT comme canon — conforme
+
+- **Aucune référence Total War wiki dans cette fiche** — conforme hiérarchie sources web.
+
+### Application règle CLAUDE.md Lexicanum/Fandom > PDF OCR orthographes
+
+- **Aucune orthographe canon ambiguë détectée pour ce front périphérique** (Holswig-Abenauer, Feilbach, etc. déjà résolus dans fiches 09/11).

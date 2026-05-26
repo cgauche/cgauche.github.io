@@ -1,0 +1,253 @@
+# Différences avec la campagne originale
+
+Comparaison entre **L'Ennemi Intérieur — Empire in Ruins** (Cubicle 7, WFRP 4e, livre 5) et ce qui a été joué.
+
+Le livre 5 est dans `C:\Users\gauch\PhpstormProjects\Foundry\Empire in Ruins\`. Les chapitres 1-7 correspondent aux sessions S56-S62. **S63 est une insertion homebrew** (attaque du manoir Todbringer, off-canon). Les chapitres 8-13 sont la suite à jouer.
+
+---
+
+## RÉVÉLATIONS MAJEURES DU LIVRE (à conserver secrètes des joueurs)
+
+### Le plot complet — qui orchestre tout
+- **Sheerargetru** = Seigneur du Changement (Tzeentch, daemon Exalted), enfermé par Sigmar dans une caverne du **Black Fire Pass** (Montagnes Noires).
+- Sigmar a abandonné le **vrai Ghal Maraz** pour le sceller dedans. Le marteau impérial actuel est une **réplique** forgée par les prêtres sigmarites + nains. Sa rupture lors du conclave (S62) est donc *normale*.
+- Pendant 1500 ans, Sheerargetru a influencé psychiquement les cultistes (Main Pourpre = sa création indirecte) avec des prophéties.
+- **Gideon** (démon métamorphe, le même qu'à Bögenhafen S12 !) cherche à libérer Sheerargetru. Plan :
+  1. Préparer un hôte parfait (Wolfgang via les 9 Yeux)
+  2. Faire ramener le vrai Ghal Maraz à Altdorf par les PJ
+  3. Cérémonie le **9 Brauzeit à 9h** au Volkshalle → invocation
+- **Apparence de Gideon** : jeune garçon ~13 ans, coupe au bol, **très large sourire**.
+
+### Les 9 Yeux — liste canonique complète
+| Tuteur | Culte | Ville | Spécialité |
+|---|---|---|---|
+| Kathe Ruttmann | Vigilant Eye | Bögenhafen | Histoire/politique |
+| Per Haldestaake | Fractured Eye | Ubersreik | Secrets commerciaux/technique |
+| Wilhelmina Novak | Withering Eye | Altdorf | Magie |
+| Wolfie Jessner | Wandering Eye | Middenheim | Affaires rurales / Nord |
+| Ingrid Rademakers | Eagle Eye | Talabheim | Hist. nat. / escrime |
+| Wulfrum Ahlquist | Public Eye | Nuln | Société / nature humaine |
+| Gustav Klaus | Kaleidoscope Eye | Bechafen | Espèces non-humaines |
+| Gislind Ursin | Hollow Eye | Averheim | Culture / philosophie |
+| Vatheck Fulci | Far Eye | Remas | Géographie / aff. étrangères |
+
+**Note** : les 9 Yeux pensent servir Tzeentch pour leur propre élévation. Ils ne savent pas qu'ils sont eux-mêmes des hôtes de secours pour Sheerargetru.
+
+### Identités secrètes confirmées canon
+- **Yann Zuntermein** = CHEF de la Main Pourpre d'Altdorf. Espion accompli. Travaille avec Gideon. Veut faire de Wolfgang l'empereur. **Ne sait pas** que Gideon prévoit la possession démoniaque.
+- **Wasmeier** = vivant, en disgrâce, cherche à supplanter Zuntermein. Stir up les Nordlanders. Rivalité ouverte avec Zuntermein.
+- **Kastor Lieberung** = ex-Magister Impedimentae de la **cellule de Nuln** (pas Altdorf !). MORT à Bögenhafen [S8]. Manipulé par Gideon. Recruteur originel des 9 Yeux.
+- **Hermann von Feilbach** = sosie de l'empereur, Reiksguard Cercle Intérieur, **loyal mais naïf**. Manipulé par Zuntermein.
+- **Henrik Kappelmuller** = médecin de Karl-Franz, agent Main Pourpre, **empoisonne lentement l'empereur** avec une Purple Brain Pox magiquement induite par Gideon. Visiteurs : Elvyra (ingrédients) + Gideon (garçon).
+- **Elvyra Kleinestun** = pion involontaire de Gideon, pharmacienne personnelle de Yorri. Gideon lui souffle l'idée de révéler le faux Ghal Maraz à Boris.
+- **Immanuel-Ferrand Holswig-Schliestein** = oncle de Karl-Franz, Imperial Chancellor, manipulé par Zuntermein.
+- **Liepmund Holzkrug** = manipulé par Zuntermein. Utilisé pour pousser à la prise d'Ubersreik.
+- **Prince Héritier Hergard's** assassinat = orchestré par la Main Pourpre, exécuté par le **skaven Snikkit** (cf. Power Behind the Throne).
+
+### Les PJ sont connus comme « Kastor and Friends »
+Les cultistes de la Main Pourpre survivants pourchassent activement les PJ, qu'ils pensent être les associés de Kastor (le « traître »). **Animosity (Kastor and Friends)** est une trait par défaut des cultistes.
+
+### Date critique
+- **9 Brauzeit (9e mois) à 9h00**, année 2512 IC.
+- Gideon **manipule activement les délais** pour que les PJ arrivent 1-2 jours avant. Il peut ralentir (livres prêtés, sabotages) ou accélérer (livres laissés ouverts).
+
+### Calendrier officiel
+- Enemy in Shadows : 24 Jahrdrung, 2 semaines
+- Death on the Reik : 6 Pflugzeit, 10 semaines
+- Power Behind the Throne : 20 Sommerzeit, 4 semaines
+- The Horned Rat : 19 Vorgeheim, 4 semaines
+- **Empire in Ruins : démarre vers le 18 Nachgeheim**
+→ Le groupe joué est **dans le bon timing** au sortir de S62.
+
+---
+
+## Arc 1 (S1-6) — Auberge / Tribunal / Opéra
+
+### Conforme
+- *Rough Night at the Three Feathers* = scénario d'intro canonique.
+- Tribunal et duel judiciaire = canon.
+
+### Divergences identifiées (homebrew)
+- **Sigrun + Lirrian comme PJ** : homebrew (ils ne sont pas des prétirés canon).
+- **L'attentat à l'opéra de Nuln** avec mort de la Gravin et blessure d'Emmanuelle : intégration MJ. La pièce *Otenno* (référence à Drachenfels de Jack Yeovil) est un clin d'œil littéraire.
+- **Service de la Gravin** : homebrew d'intégration entre Three Feathers et Bögenhafen.
+
+---
+
+## Arc 2 (S7-13) — Bögenhafen — Enemy in Shadows
+
+### Conforme
+- Trame Ordo Septenarius / Teugen / Magirius / Steinhäger : canon.
+- Sacrifice de Kastor Lieberung détourné, démon-enfant (= **GIDEON**, métamorphe), rituel, arrestation puis évasion : canon.
+
+### Divergences (homebrew)
+- **Filianore comme femme perdue de Pathsokar** + devient espionne de Nacht : homebrew.
+- **Mariage à Grauenberg [S13]** : aventure annexe.
+
+### Connexion masquée révélée par le livre 5
+**LE LIEN BÖGENHAFEN ↔ BLACK FIRE PASS** : **Teugen, Steinhäger et Haagen** avaient un permis (daté du 9 Brauzeit 2508) pour ré-exploiter la **mine de Schmerzeit** en Black Fire Pass, près des **Trois Sœurs** (statues d'ancêtres nains). Le 3e partenaire, **Jochen Haagen**, n'apparait pas à Bögenhafen — il continue probablement l'opération. **Ces mines doivent atteindre la grotte de Ghal Maraz**. Gideon les manipulait déjà.
+
+---
+
+## Arc 3 (S14-22) — Ubersreik
+
+### Source canon
+- Plusieurs scénarios d'*Ubersreik Adventures* utilisés :
+  - **Cœur de verre (S16)** : adaptation
+  - **Le Contrat de Oldenhaller (S17)** : scénario éponyme du WFRP 4e
+  - **Massacre à Spittlefeld (S18)** : scénario WFRP 4e
+  - **L'affaire du joyau caché (S19)** : adaptation
+
+### Divergences (homebrew)
+- **L'arc des Bruner / Andreas / mécène de Phineas** : intégration MJ.
+- **Filianore espionne d'Emmanuelle Nacht** : continuation du homebrew.
+- **Filianore puis sa chute chaotique** : homebrew.
+
+### Précision canon importante
+La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Holzkrug** via Immanuel-Ferrand. Voir Arc 7. La régente **Emmanuelle Nacht** envoyée en S14 = l'une des meilleures espionnes d'Altdorf, **enquêtait sur la Main Pourpre** — un soulagement pour Zuntermein qu'elle soit distraite à Ubersreik.
+
+---
+
+## Arc 4 (S23-29) — Death on the Reik
+
+### Conforme
+- Etelka Herzen (Red Crown canon DotR ch.4 l.6 — à ne pas confondre avec la Main Pourpre), pierre céleste, Wittgenstein : canon.
+
+### Divergences (homebrew)
+- **Œil régénéré de Mark au phare [S26]** : don MJ.
+- **Abandon d'Elvira à Kemperbad** [S25] + arc saltimbanque : homebrew brillant.
+- **Phineas politicien à Kemperbad sous Boormann** : homebrew (Otto Boormann est un PNJ canonique du *Death on the Reik Companion*).
+- **Main pourpre marquée de Pathsokar** [S25-26] : homebrew (marquage MJ).
+
+---
+
+## Arc 5 (S30-39) — Power Behind the Throne
+
+### Conforme massivement
+- Carnaval 8 jours (Wellentag→Festag), Wasmeier traître = Magister Magistri, Ordo Impedimentae/Novitae/Terribilis, démon métamorphe imitant Hoflich, addiction Sparsam au Délice de Ranald, chantage Ar-Ulric/Emmanuelle, hypnose Dieter par « Charlotte », Rhéa Ehrlich otage : **tout canon**.
+- Schutzmann + offre d'affiliation post-PBT, Wallenstein/Wittgenstein Jade Sceptre, Janna Eberhauer + Tour de magie, Brunhilde Klaglich (alias Charlotte/Elise/Frau Kenner), Brunhilde tuée S38, Wasmeier fui par Opal Brooch Flight, démission Jarrick Valgeir + remplacement par Emil Valgeir : **canon strict**.
+- Conséquences post-PBT (canon ch.7) : Erich Kalzbad nommé Law Lord, Reiner Ehrlich retiré, mariage Dieter-Kirsten, Emmanuelle part pour Altdorf, Boris se rétablit, Stefan toujours soigné par Pavarotti : **tout canon**.
+- Snikkit + carte du Fort d'Airain volée S34 (Templar's Arms raid canon ch.6) : **canon**.
+
+### Divergences (homebrew)
+- **Démon métamorphe = Gideon (Sheru-Tar Gee'taru) = même entité Bögenhafen S12** : inflexion table en faveur du **Changeling Tzeentch** (PBT Companion ch.10) plutôt que d'un Doppelgänger basique. Cohérent avec le plan central Arc 7 (Sheerargetru-Gideon-Wasmeier-Zuntermein).
+- **Anika-Elise Nikse (2nde épouse de Boris) empoisonnée par Gideon (Purple Brain Pox)** : MJ-only. Canon = « *strange illness, a few months ago* ». À table : assassinat ciblé (a) éliminer Magus Slaaneshi rivale, (b) provoquer dépression Boris, (c) ouvrir fenêtre Wasmeier.
+- **Filianore sacrifice Tzeentch S33 + fondation de la Croix de Lilas** : 100% homebrew. Schisme Main Pourpre, but personnel = ramener sa fille morte. Pathsokar bascule avec elle S33.
+- **Mark confronté par Ar-Ulric Jarrick S35 + passe la Flamme Éternelle d'Ulric S36** + survit défiguré + perd une main + devient figure ulrican : homebrew confrontation pour les meurtres de Bögenhafen.
+- **Coalition politique contre la taxe orchestrée par Elvira (S37)** : grand coup de joueuse.
+- **Pathsokar champion du Graf** (canon prévoit qu'un PJ peut le devenir, mais pas garanti — choix table validé).
+- **Pathsokar re-hypnotise Dieter S38** pour Croix de Lilas : homebrew, manipulation cachée. Dieter ne le sait pas.
+- **Bienfaiteur anonyme = Nastassia agente de Heinrich Todbringer** : canon Nastassia existe (PBT ch.6 p.99 + Companion ch.8), mais à table elle est **utilisée comme contact opaque** dès S30 (logement Templar's Arms + bourse + commande d'enquête). Révélation Heinrich réservée Arc 6 (dirigeable S55-56).
+- **Course-poursuite finale d'Elvira contre la diligence + fouet sur le pont [S39]** : résolution MJ flamboyante du climax canon *Wasmeier at Bay*.
+- **Pont Sud effondré** : conséquence canon du sort Wasmeier, mais à table → impact logistique majeur Arc 6 (le commerce passe par Est).
+
+---
+
+## Arc 6 (S40-55) — The Horned Rat
+
+### Conforme massivement
+- **Démantèlement Main Pourpre Middenheim** : Erich Kalzbad (Magister Impedimentae) mort dans son incendie magique S41, Gottfried Jarmund (Magister Novitae) extrait + interrogé S42, [[Bhar]] (Grand Vizier Ordo Terribilis) fuyard S43 par trafic humain Osttor : **canon HR ch.1-3 strict**.
+- **Yellow Fang / Croc Jaune** = cult skaven-pro infiltrant Middenheim (université, sewer jacks) : **canon HR ch.4**.
+- **Eunice Hasche dissection + assassinat skaven** : canon HR ch.5. [[Fleer Twitchkill]] = canon Master Assassin Eshin.
+- **Audience Graf S48 + officialisation skaven** : canon HR ch.6.
+- **Maliss + Karak Skygg + plan Moonbreaker** (tirer sur Morrslieb) : **canon HR ch. The Picket + Karak Skygg** strict. Pas une signature MJ.
+- **[[Le Piquet]]** : canon (« *The Picket* » HR l.4199+). Garnison Kärzburdger.
+- **[[Fort d'Airain]]** : canon (« *The Bronze Fort* » HR l.4500+). Forteresse Khorne 200 ans.
+- **Snikkit** (assassin Hergard) : canon PBT + HR — peut être invoqué Arc 7.
+- **Janna Eberhauer prisonnière + Astromancer in Chains** : canon HR ch. Karak Skygg.
+
+### Divergences identifiées (homebrew)
+- **Filianore + Croix de Lilas continuent en arrière-plan Arc 6** : pas d'apparition à table mais surveillance MJ-only de Wallenstein S45 + Pathsokar reste membre. Schisme MP toujours actif.
+- **Suspicion PJ vers Heinricus pour le détournement de poudre** : les PJ croient Heinricus impliqué (crest sur baril S52, canon HR l.3770). **Côté MJ : Heinricus est INNOCENT**. Le canon HR ch.*The Picket* (l.4147) attribue le détournement à Quartermaster **Habicht** + Sergeant **Brantner** uniquement. La suspicion PJ reste intérieure à la table, **zéro effet en-monde** sur Heinricus.
+- **Dietrich Sprintboch von Kärzburdger** : intégration PJ via Maison Kärzburdger. Adoption noble + héritier montant. Faction interne loyale (Emmiline, Hildegund, Tylik, Dengi, Pesold).
+- **[[Place de l'Espoir]] / bagne mine fer** : canon HR ch. The Road East. Mais à table = **dilemme moral** sur esclavage humain → homebrew narratif (le canon le traite plus brièvement).
+- **Consolidation lieux** : à table Holzbek = Gladbeich + Oberholzbek + Unterfraus joués comme baronnie unifiée (canon les sépare).
+- **3e météorite Morrslieb** : Maliss mentionne qu'une 3e existerait au-delà de celle de Wittgenstein et de la cible Karak Skygg. **MJ-only hook Arc 7+**.
+- **Dengi Rulsson** + **Tylik** + **Albert Reichau** : compagnons PNJ étoffés Arc 6 (canon mentionne garnison Piquet mais détails table). **Pesold Imlitz** = **PJ ajouté table Arc 6** (pas de pendant canon HR), héraut Kärzburdger sous service Dietrich.
+- **Embuscade route est S53 + Pesold remplaçant Dietrich** : extension MJ pour transition tactique.
+- **Maliss évacué par sbire avec bombe fumigène S55** : statut **incertain volontairement** par MJ — canon prévoit mort ou fuite selon table.
+
+---
+
+## Arc 7 (S56-62) — Empire in Ruins — chapitres 1-7
+
+### Comparaison chapitre par chapitre
+
+| Session jouée | Chapitre canon | Évaluation |
+|---|---|---|
+| S56 — Dirigeable | Ch. 1 — Dirigible in Danger | Conforme |
+| S57 — Accueil glacial | Ch. 2 — Chilly Reception | Conforme |
+| S58 — Shining Rock | Ch. 3 — Journey to Shining Rock | Conforme (un œil de Mark = bonus MJ) |
+| S59 — Reikgarde | Ch. 4 — Audience with Wolfgang | Conforme |
+| S60 — Défilé | Ch. 5 — March of Unity | Conforme (porcs = enrichissement MJ) |
+| S61 — Mariage | Ch. 6 — The Wedding | Conforme |
+| S62 — Conclave | Ch. 7 — Emergency Conclave | Conforme |
+
+### Points à noter
+- Le bébé empereur frappant le marteau (S62) = `19:00 p.m. — A Question of Proportion` du livre, identique.
+- **Maria-Luise von Walfen** (la « femme » de Karl-Franz) confirme à Pesold (S62) que le vrai empereur est alité depuis 1 an. **Canon** : elle confirme cela aussi à Emmanuelle (qui sait déjà) au cours du conclave.
+- **Le score Party Allegiance** au sortir de S62 doit être noté par le MJ. Au démarrage par défaut = -2 (neutre, leaning Ulrican). Selon les choix faits à S60-S62, peut être ajusté.
+
+---
+
+## Arc 7 bis — S63 — Attaque du manoir Todbringer (homebrew, off-canon)
+
+**Cette session est une insertion intégrale de l'ancien MJ entre le chapitre 7 (S62) et le chapitre 8 du canon. Aucun équivalent dans le livre.**
+
+### Déclencheur
+- Furie des Sigmarites après la rupture de Ghal Maraz par Boris au conclave (S62).
+- Assaut sur le manoir Todbringer à Altdorf le lendemain.
+
+### Faits joués
+- **Boris Todbringer** : **MORT**. Tué par « Volkmar » lors de l'assaut.
+  - **Mécanique cachée non-révélée aux PJ** : ce Volkmar est en réalité le **changelin Gideon**. Le vrai Volkmar prie dans la cathédrale à ce moment-là. → Soupçon faux pesant désormais sur le vrai Volkmar.
+- **Vieran Thugenheim** (conseiller de Boris) : **DISPARU**. Corps non retrouvé. Fate ambiguë (mort, prisonnier, témoin caché, agent retourné — à décider).
+- **Princesse Katarina Todbringer** : VIVANTE.
+- **Heinrich Todbringer** : VIVANT — devient héritier politique de fait.
+- **Heinrich demande aux PJ** de retrouver le vrai Ghal Maraz et de le lui rapporter, dans l'intention de marcher sur Altdorf et de demander réparation pour la mort de son père.
+
+### Effets sur la trame canonique
+
+| Élément canon EiR | État après S63 |
+|---|---|
+| Sponsor de la quête Ghal Maraz (chapitre 8) | **Heinrich** (pas Immanuel-Ferrand, Boris, Yorri ou Holzkrug). Mandat Todbringer fort. |
+| Boris en vie pour le climax | **INVALIDÉ** — Boris mort. |
+| « Boris devient Grand Duc de Middenland » (résolution canon) | **INVALIDÉ** — la table des électeurs post-EiR doit être retravaillée. |
+| Volkmar comme allié sigmarite fiable | **INVALIDÉ** — soupçon faux sur lui suite à l'attaque. Le démasquage du changelin doit arriver pour le rétablir. |
+| Score Party Allegiance | À ajuster fortement (alliance forte avec Todbringer/Ulriçains, méfiance accrue des Sigmarites). |
+
+### Plan narratif de l'ancien MJ pour la suite
+Voir `08 - Vision de l'ancien MJ.md` pour le détail. Les 4 issues prévues une fois le marteau récupéré :
+1. **Donner à Heinrich** → guerre civile à Middenheim, croisade contre Altdorf, « Empereur Loup »
+2. **Donner à Dietrich** → prise de Middenheim par négociation Kartzburdger, paix avec Altdorf
+3. **Donner à Altdorf** → fin canonique d'EiR (Karl-Franz calme Heinrich)
+4. **Ne pas prendre** → comme dans le livre
+
+L'ancien MJ avait aussi prévu **Filianore + champion du Graf** en boss du scénario de siège tiré du Companion d'EiR pendant le voyage retour (chapitre 12).
+
+### Vision méta
+L'ancien MJ a explicitement renforcé l'agency politique des PJ et donné plus de liberté à Ward (Elvira) sur cet arc.
+
+---
+
+## Personnages joueurs vs canoniques
+
+Les PJ sont créés par les joueurs (rien dans le livre n'impose des prétirés). Cependant :
+- **Elvira prêtresse de Rhya** : Rhya étant une déesse mineure, son culte développé est un beau homebrew compatible avec le canon.
+- **Dietrich Kärzburdger noble** : intégration MJ originale, doit influer sur le ch. 9-10 (le voyage passe par le territoire Kärzburdger / Averland).
+- **Mark Sigmar → Ulric** : trame originale.
+- **Pathsokar champion du Graf** : statut élevé compatible avec l'arc final (le titre lui donne du poids politique).
+
+---
+
+## Suite (chapitres 8-13) — voir `07 - Suite canonique.md`
+
+Le canon dicte une route Altdorf → Black Fire Pass → Altdorf via Kemperbad / Nuln / Streissen / Averheim / Grenzstadt, avec étapes :
+- **Ch. 8** : Recherche chez Fassbinder (rendez-vous DEJÀ donné fin S62)
+- **Ch. 9** : Trajet Altdorf → Black Fire Pass (river patrol *The Comet* puis *The Carroburg*)
+- **Ch. 10** : Dans les pas de Sigmar (mine de Schmerzeit, Madcraw Clan nain)
+- **Ch. 11** : Caves of Chaos (récupération de Ghal Maraz, Night Goblins)
+- **Ch. 12** : Retour vers Altdorf (manœuvres de Marius Leitdorf + Emmanuelle, **Battle of Wolfshügel**, Drexol l'Extinction)
+- **Ch. 13** : Cérémonie au Volkshalle, manifestation de Sheerargetru, climax
+
+**Fin canonique** : si les PJ réussissent, Karl-Franz se rétablit, Wolfgang meurt, Yorri meurt (remplacé par Volkmar), Boris devient Grand Duc de Middenland, Theoderic Gausser obtient Nordland (Runefang), Marius Leitdorf prend Averland, Emmanuelle annexe Sudenland.

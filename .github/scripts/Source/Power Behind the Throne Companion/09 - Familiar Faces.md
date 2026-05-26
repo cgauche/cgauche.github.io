@@ -1,0 +1,106 @@
+# Familiar Faces
+
+*Pages PDF 78-84*
+
+## Chapter 6 Familiar Faces
+## A Cast from the Past
+Although they are not scheduled to play any particular role in **Power Behind the Throne** , there are several NPCs from earlier adventures who might cross the party’s path in the teeming city of Middenheim, especially during Carnival week when the city is full of visitors. Here are some ideas that allow the Characters to renew old acquaintances, or put faces to names, in circumstances both welcome and unwelcome. 
+
+## **Lady Isolde Von Strudeldorf**
+Lady Isolde ( **Enemy in Shadows** , page 21) could be among the minor nobles who come to Middenheim’s Carnival from across the Empire. She is accompanied as usual by her maid Janna and her bodyguard Marie, and perhaps others. 
+
+In keeping with the tone of the Characters’ first encounter with her, Lady Isolde might bump them from a coach or a room at an inn during their journey to Middenheim. She is as snobbish as the Players remember her, and absolutely refuses to allow members of the lower classes to sit in the same coach with her, or to keep her from a room that she clearly needs, when such riff-raff as the Characters can clearly make do with the common room or a gutter. 
+
+Alternatively, the tables could be turned: the Characters might rescue her from the wreck of a coach that has suffered an accident or an attack on the road. Mutants and Beastmen are an ever-present danger, even on a well-travelled road such as the highway between Altdorf and Middenheim. Other threats include the militant Sons of Ulric, to whom Lady Isolde is unlikely to endear herself with her southern accent and highhanded attitude. Do not expect her to change her personality, though: she rewards the Characters for any help they give her, as befits a lady of her station, but once that transaction is complete — and she regards it as no more than a transaction — she sees no reason why anything should change between them. No matter what experiences they may have shared, she remains a lady and the Characters remain… well, whatever they are. 
+
+Lady Isolde can pop up from time to time during the Carnival, impeding the Characters when they are in a hurry or getting into various kinds of trouble just as they are passing by with something more urgent on their minds. In the latter case, she recognises them and calls out imperiously for their aid: after all, the purpose of the lower classes is to serve the upper, and she has relied upon the Characters before. They are practically her servants, according to the lady herself. 
+
+## **Phillipe Descartes**
+Phillipe ( **Enemy in Shadows** , page 23) could be encountered in any inn between Altdorf and Middenheim, and he might even have decided to work the city’s hotels, which are full of out-of-town visitors during Carnival week. He may or may not recognise the Characters immediately, but as soon as he does so, he tries to get away. As the song says, a gambler knows when to run, and based on his last experience with the party, he expects that they will either attack him on sight or expose him for cheating, neither of which bodes well for his prospects. 
+
+On the other hand, some time has passed and many adventures have befallen the party since they last crossed paths with the gambler, so there is a chance that they might not recognise him straight away. The GM might decide to impose **Average (+20) Intelligence** Tests on all Characters when they first see the Bretonnian: on a Marginal success he seems familiar but they cannot place him, and on a better success they remember the incident in the _Coach and Horses_ . Meanwhile, Phillipe, with a hard-earned ability to remember everyone who might present a threat, has recognised them right away and does his best to avoid them, fleeing if necessary and fighting if cornered. He might even try to set the party up in some way, so that they are detained by the local road wardens or the Watch while he catches the next coach out. 
+
+## The High Card
+On the other hand, Phillipe knows that luck can change any time a new hand is dealt, and that old enemies might become new friends should a mutual need arise. 
+
+During Carnival Week while the commoner's inns are packed and any number of low stakes games are played, the best gamblers in the Empire meet for a game of cards where fortunes are made and lost on a single hand. Decartes would do anything to get a seat at that table. He has noticed that, for reasons he doesn't fully understand, the Characters are attempting to inveigle their way into Middenheim high society. Might they be able to get him a seat at the High Table? 
+
+Descartes will carefully approach the Characters and explain his predicament. The game is to be played the following night, and everyone from The Low Kings to Hildegarde Zimperlich is said to be attending. It's another chance to meet with powerful people, and Descartes proposes splitting his 'assured' winnings 50:50. Can the players get Descartes into the game? Given that he is certain to cheat, should they? 
+
+## **Gunnar and Hultz, Coachmen**
+The Characters will probably encounter several coachmen on their journey, and there is a chance — however small — that they may run into Gunnar and Hultz ( **Enemy in Shadows** , page 21) again somewhere along the way. These two are best played for comedic effect and will probably not advance any plots, though they may get in the way when the Characters are trying to do something without being noticed. 
+
+For example, if the party is sneaking across the common room of an inn to rifle the pockets of a sleeping or passed-out NPC, the coachmen might recognise them from the _Coach and Horses_ and totter over, full of loud and drunken bonhomie, to ask how they’ve been doing, where they’re headed, and whether they might have the price of another drink on them. 
+
+Alternatively, the Characters might encounter the duo on the road, nursing monumental hangovers that make their coach a danger to other traffic, including the Characters. For a more poignant encounter, they might be found, dead or dying, among the wreckage of a coach that was recently attacked by bandits, Beastmen, or Mutants along the highway. 
+
+## **The Red Crown**
+Although the Purple Hand might have been warned off from further attempts to contact the Characters, the Red Crown has two or three reasons to be angry with them. They may have crossed apprentice wizard Ernst Heidlemann in the _Coach and Horses Inn_ , and they will definitely have crossed him and his superior Etelka Herzen in the Barren Hills. As if that is not enough, Heidlemann’s master, the Altdorf daemonologist Alberich Hollzauber, tried to kidnap the party’s friend Elvyra Kleinestun from her home in Weissbruck, only to be thwarted by the Characters. 
+
+## One More for the Road
+Any surviving member of The Red Crown who has encountered the Characters is almost certain to bear a grudge. If Etelka Herzen or Ernst Heidlemann (page 80) survived the events of Death on the Reik, they are likely to strike again as the Character's make their way North to Middenheim. 
+
+Somewhere along the journey, perhaps near Delberz where the geography is tricky and the road is sometimes unclear, they will strike. As the Character's coach rounds a bend, a band of beastmen are seen on the road ahead, dragging screaming passengers from another coach. Perhaps the travelers are known 
+
+to the Characters, who may have spent the night before sharing an inn with them. One of the beastmen, in barely comprehensible Reikspeil, screams 'Which one of you is Kastor Lieberung?' It is up to the Characters whether or not they wish to intervene, but if they choose not to be sure to describe the horrible screams as the beastmen drag off some random bystanders in their place. 
+
+Either way, and if she survived, the hooded figure of Etelka Herzen stands waiting in a clearing not far for the road, impatiently waiting for the Characters to be dragged before her. 
+
+## **Doctor Schmidt**
+From their encounter with Ernst Heidlemann in the _Coach and Horses_ , the Characters may have learned the name of Doctor Schmidt at the University of Altdorf. This is actually Hollzauber, whose cover identity is that of a scholar and physician at the University. Heironymus Blitzen (see below) may have met ‘Schmidt’ at some academic dinner or other social event, and Quintus Fassbinder, the sponsor of bounty hunter Adolphus Kuftsos, suspects that ‘Schmidt’ has some links to a Chaos cult and is investigating. So far, though, the daemonologist’s true identity has not been exposed. 
+
+## **Ernst Heidlemann**
+Ernst ( **Enemy in Shadows** , page 22 and **Death on the Reik** , pages 24 and 36) may have been killed in **Death on the Reik** , along with his superior Etelka Herzen. If not, though, or if he can plausibly be brought back, he may be encountered in an inn along the way, or at the Carnival itself. If so, he tries to evade the Characters, resolving to trail them at a distance and strike a blow when they least expect it. 
+
+A chance glimpse of him, among the crowds of Altdorf or Middenheim, can surprise and worry the Players, and, as long as he stays out of their reach, the Characters will never be able to tell whether some event is simple mischance, or whether it is due to the machinations of this junior wizard. This kind of worry has been known to make Players quite cautious, increasing the campaign’s tension. 
+
+If encountered in Altdorf, he has come to report to his master Alberich Hollzauber on the failure of the Red Crown’s expedition to the Barren Hills, and to place all the blame on Etelka Herzen if she is dead. However, the sight of the Characters might change his mind, leading to an attack by local Red Crown cultists under his command, acting on Hollzauber’s orders. 
+
+## **Etelka Herzen**
+Depending on events in the Barren Hills, Etelka Herzen ( **Death on the Reik** , page 35) may be dead or alive. If alive, she has fled to Altdorf after the Characters ransacked her house in Grissenwald and thwarted her warpstone-finding expedition to the Barren Hills. Taking refuge with the local cell of the Red Crown (of which Alberich Hollzauber is a prominent member), she might recognise the Characters as they prepare to travel to Middenheim and arrange for cultists or Mutants to attack them in revenge, overpowering them so they can be taken to a cult lair and sacrificed in a suitably painful manner! 
+
+## **Doctor Malthusius and the Zoocopeia**
+The showman ( **Enemy in Shadows** , page 64) may be encountered on the road, heading for Middenheim with the intention of setting up in the Great Park if he can obtain the appropriate licences, or setting up at the foot of the Ulricsberg to entertain those waiting to enter the city if all else fails. He remembers the Characters from their meeting at the Schaffenfest in Bögenhafen. His initial attitude depends upon how friendly or otherwise their interactions were at that time — especially on whether he blames them for the loss of his prized three-legged Goblin. 
+
+At the GM’s option, the circumstances of an encounter with the Zoocopeia could give the Characters an opportunity to help Doctor Malthusius in some way, according to their particular skills, contacts, and experience. Another creature might have escaped, and need to be recaptured discreetly before it can cause a panic in the streets or be killed by zealous watchmen. The good Doctor might be facing some legal or administrative difficulties: trouble obtaining a performance permit for the Carnival, for example. The Characters’ high-level contacts (assuming they have made any) might enable them to place him in their debt. 
+
+Alternatively, the Zoocopeia might give the Characters an opportunity to make a good impression on one of the major NPCs. For example, Hildegarde Zimperlich the chaperone ( **Power Behind the Throne** , page 122) is drawn to exotic events and might be pleased by the offer of a private viewing of the show. 
+
+## Step Right Up
+Malthusius has learned from the affair with the goblin. A single unusual creature isn't enough — a whole bevy of creatures are required to make a real impression. The Doctor has heard tales of the Pandemonium Carnival, a travelling show packed with beastmen that has somehow gained the right to travel the Empire without being set alight by every passing wtich hunter. He wishes to emulate their success. 
+
+Malthusius has heard rumors of rat-headed beastmen in the sewers beneath Middenheim. He was given the name of Modi Zargul, but after the dwarf learned that Malthusius intended to capture one of the Skaven rather than just kill the things he sent the Doctor packing. 
+
+Having heard that the Characters are in town, Malthusius approaches them with an offer; 5 GC for every live Skaven brought to him. Aside from the obvious hazards, should they succeed in capturing a live Skaven, others are certain to follow. While there is little loyalty among the creatures, they have a vested interest in keeping a low profile and a Clan Eshin Assassin, Yellow Fang cultist, or a small warband will be sent to retrieve any captives and slay those responsible. 
+
+## **Hieronymous Blitzen and Hanspeter Schiller**
+Heironymous ( **Death on the Reik** , page 141) was provided as a potential mentor for wizard Characters needing to advance; in the original edition of the campaign, he was the mentor of the pregenerated PC Wanda Weltschmerz, and Hans-Peter was his current apprentice. 
+
+According to later publications (principally the **WFRP** Second Edition supplement _Children of the Horned Rat_ ), Blitzen accepted the position of Professor of Bestiaria at the University of Altdorf, dying from a fever in the exceptionally cold winter of 2512 IC. From at least 2510 IC (two years before the start of the campaign), Blitzen had been carrying on a correspondence on the subject of Skaven with a Doctor Felix Liebkosen of Rugebrunnen in Middenland. Given how carefully the Skaven cover their tracks, they may already be planning the murder of the new professor, and the Characters might find their social or training visit ends with them standing between Hieronymous and a Clan Eshin death squad. 
+
+## **Quintus Fassbinder**
+Fassbinder is an expert on Chaos based at the University of Altdorf. His researches have alerted him to the existence of the cult of the Purple Hand, and he is the ‘Q.F.’ whose letter to Adolphus Kuftsos the Characters may have found in **Enemy in Shadows** (Handout 7). 
+
+An introduction to Fassbinder might be arranged through Hieronymous Blitzen, and he can provide a convenient means of giving the Players any information on the cult of the Purple Hand that the Characters should have learned or worked out by now, but have somehow missed. 
+
+In addition, Fassbinder is quietly investigating Doctor Schmidt, a fellow academic (see above). At present, he has nothing to go on other than a vague feeling that something about the man is not right, so he cannot give the Characters any useful information on ‘Schmidt’ or link him to the cult of the Red Crown. However, he will have a part to play in the campaign’s concluding chapter, **Empire in Ruins** . 
+
+## Master and Apprentice
+Hieronymous Blitzen's death was much exaggerated — and in fact, this was entirely by design. During his exchange of letters with Doctor Felix Liebkosen in Middenland, the old Wizard realized that his mail was being intercepted and read. One night a shout from Hans-Peter roused the Wizard from sleep to find his home being ransacked by several unusual thugs. These turned out to be Yellow Fang cultists (use the stats on page 96 if required), and Blitzen was certain more would follow. 
+
+Some characters may wish to help Hans-Peter in this endeavor, if only to be rid of him. Hieronymous would find this terribly distressing, however, as he has come to view the somewhat obnoxious young man in quite a paternal manner. 
+
+While a full on investigation of the Skaven may distract from the main plot, Blitzen's appearance towards the end of the campaign may feed nicely into the growing presence of the Skaven which will be explored during The Horned Rat. If the Characters are having trouble making inroads with the High Wizard during their investigation, the more established Hieronymous vouching for them may be of use. 
+
+He has faked his death and come to Middenheim to search for further evidence of the Skaven, for Doctor Liebkosen's letters indicated the city could be a den for the creatures. His relief to find the Characters is palpable, and he quickly attempts to recruit them into his efforts to search for the creatures, especially once he hears of their attack on the inn (see Chaos Strikes by Night in Power Behind the Throne). 
+
+Alternatively, the wizard may provide an excellent way to hook the Characters into the events of The Ritual (page 84). Instead of a random stranger shouting for help, the Characters are surprised when Hans-Peter bursts into wherever they are staying, shouting that Hieronymous has been taken. The old wizard, while canny, may have been taken by surprise and gagged, rendering his magic useless. 
+
+For his part, Hans-Peter feels veritably dragged to Middenheim, and has no faith that the Skaven exist at all. He presumes the attack from the cultists to be just another chaos cult worshipping beastmen, much like the Red Crown. He wishes to make contant with the Grand Guild of Wizards in Middenheim to see if he can find another master to take him on. 
+
+It is up to the GM whether Hans-Peter survives Peter Taveli's crossbow bolt. 
+
+## **The Runaway Lovers**
+If the party has played **Rough Nights and Hard Days,** the Players will probably be aware of the unwelcome romance between Baroness Nastassia von Saponatheim and Altdorf jeweller’s apprentice Joachim Bitterfeld. Depending on the events of that adventure, the pair may have succeeded in their plan to run away together. 
+
+The Characters may encounter them in Altdorf, or they may overhear Lady Isolde von Strudeldorf or some other noble acquaintance talking about the young jeweller with a new wife who acts like a lady of quality rather than the jumped-up shopdrab that she must surely be. What action, if any, the Characters take is up to them.

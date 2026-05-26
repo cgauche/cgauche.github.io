@@ -1,0 +1,344 @@
+# Into The Darkness
+
+*Pages PDF 70-79*
+
+## Chapter 7 into the Darkness
+Our Heroes head into the sewers in search of the escaped Mutant Goblin. There they stumble across the secret temple where Johannes Teugen plans to conduct the ritual he believes will save his soul. 
+
+## **Entering the Sewers**
+Unless the Characters squeeze into the sewers through the same hole used by the Goblin, they are let in through the manhole marked A on the sewer map. The stench hits as soon as the cover is removed, and grows progressively worse as the Characters descend. A vertical shaft leads downwards into blackness. Although there are conveniently placed footholds, the slime-coated shaft does not inspire confidence. 
+
+After descending almost 8 ft, the shaft opens into a primary sewer channel. To reach the walkways running to either side of the central effluent channel, the Watch provides an 8-ft-long ladder. It has hooks at one end, and must be lowered down the shaft, hooked into the lowest foothold, and manoeuvred so its base rests on one of the walkways. This·is a tricky task. The first Character into the shaft must make an **Average (+20) Athletics** Test to position the ladder and climb safely down on to the walkway. Failing the Test means that the Character slips and falls into the sewage. Falling Damage is halved from 7 yards to 4 yards because of the cushioning effects of the town’s stinking waste! 
+
+Once safely down, the Characters find themselves in a major sewer running east and west, at a junction with another major sewer running south-east towards the city wall. 
+
+## **Adventuring in the Sewers**
+Bögenhafen has two types of shaft in its sewers: Major and Minor. 
+
+Major sewers (shown by a heavy line on the sewer map) have two walkways, each 3ft wide, on either side of a 5ft wide effluent channel. The channel is usually some 5ft deep, and filled at least half-full with the worst Bögenhafen has to offer. The curved ceiling reaches 10ft above the walkways at its highest point. The walkways are only wide enough to allow Characters to proceed in single file. 
+
+Minor sewers (shown by a narrow line on the sewer map on page 71) are simple pipes, 5ft in diameter with a sewage flow normally about a foot deep. These are relatively easy, though smelly, to negotiate. 
+
+There are two types of junctions in the sewer system. Where a minor sewer flows into a major sewer, the junction is beneath the walkway and the walkway is not interrupted. Where two major sewers meet, the walkway is interrupted, requiring the Adventurers to improvise a bridge of some kind or to make a leap of 5ft to cross. 
+
+## Meanwhile, Elsewhere…
+While the Characters were occupied at the fair, Teugen met with a trade contact who provided him with the final component necessary for his ritual — an ancient scroll, looted from a distant tomb. But time is running out, for the seven years of power granted by his contract with Gideon shortly expires... 
+
+With the scroll safely under lock and key, Teugen had Gideon pick up Gottri Gurnisson from the stocks (see page 66), where he was languishing after his encounters with the Characters. The Dwarf was brought to Teugen, lured by promises of free drink, and then sacrificed in order to summon a Daemon to guard the sewer temple. The Daemon’s orders are to destroy any living thing (except Teugen or Franz Steinhäger) that enters the temple. After the summoning was concluded, Gottri’s corpse was dumped into the sewers and has drifted to Location 3 on the sewer map. Meanwhile, the escaped Mutant Goblin fled into the sewers. Reaching the hidden temple, it squeezed through the grille on the door, hoping to hide there for a while. Unfortunately for the Goblin, it was killed and eaten by the Guardian Daemon. 
+
+## **Movement in the Sewers**
+There is effectively no risk involved in moving along the sewers at Walking speed. Any Character moving faster must succeed with a **Challenging (+0) Athletics** Test (taken as a Free Action) before taking the extra Movement, or fall into the effluent. 
+
+Characters who wish to cross the effluent channel must leap or wade. Because of the cramped conditions, there is only room for a run-up if the Character runs diagonally across the effluent channel, a leap of 4 yards. If the Test is failed, the Character falls into the effluent channel. 
+
+Characters wading in the sewage flow must take an **Athletics** Test before their Turn in Combat (or every minute outside Combat) in order to avoid slipping and falling over. Characters who wish to go along minor sewers must wade. 
+
+## **Getting Mucky**
+It is quite possible that Characters will fall into, or wade through, the sewage. The sewage-drenched halve all Fellowshipbased Tests until they clean themselves and their clothing. Only Characters shorter than 4ft run any risk of drowning if they fall in the effluent channel of a major sewer. Roping the Characters together avoids this. 
+
+## **Infected Wounds**
+The sewers are unsanitary, to say the least. After any encounter where a Character suffers any Wound loss while in the sewers (other than those suffered from Falling) each affected Character must succeed at an **Easy (+40) Endurance** Test or gain a Minor Infection (see **WFRP** , page 187); if this Test is an Impressive Failure ( **−4 SL** ) or worse, the Character instead suffers a Festering Wound (see **WFRP** , page 187). 
+
+Further, if a Character should suffer a Critical Wound when in the sewers, even if Critical Deflection is used (see **WFRP** , page 299), a **Challenging (+0) Endurance** Test must be attempted. On a success, the Character gains a Minor Infection. On a failure, the Character instead develops a Festering Wound. 
+
+## **Diseases**
+As long as the Characters stay out of the effluent, they are likely to escape the sewers without contracting something nasty. However, it is quite different should they take a dip. Exposure to the sewage comes in two forms: Wading, and Immersed. 
+
+Wading is moving through the effluent, but keeping your head above the muck. Immersed means your head has gone under. 
+
+After every half an hour, or part thereof, of Wading, take an **Average (+20) Endurance** Test. If passed, nothing happens, beyond being rather soiled. If failed, the Wading Character contracts Itching Pox ( **WFRP** , page 187). 
+
+If Immersed, take a **Difficult (−10) Endurance** Test. If passed, nothing beyond the horror of a sewage-dunking happens. On a **Marginal Failure** ( **−0 SL** ), the Itching Pox is contracted. On a **Failure** ( **−2 SL** ), contract the Galloping Trots ( **WFRP** , page 187). On an **Impressive Failure** ( **−4 SL** ) or worse, the Bloody Flux is contracted ( **WFRP** , page 186). 
+
+## **Sight, Sound, and Smell**
+The sewers are unlit. Even Characters with the _Night Vision_ Talent cannot see unless they carry a source of light such as a torch or a lantern. 
+
+Sound echoes and carries for twice as far as normal in the sewers, so there is a +10 modifier to all sound-based **Perception** Tests. 
+
+Lastly, the smell in the sewers is, to say the least, unpleasant. Upon entering the sewers, all Characters must succeed at an **Average (+20) Endurance** Test or suffer the effects of the _Nausea_ Symptom (see **WFRP** , page 189) until they leave the sewers. Any _Stunned_ Conditions gained from this last until the end of the next Round. 
+
+## **Optional Encounters**
+In addition to the locations marked on the sewer map, you may wish to throw in a few more hazards and encounters to keep things interesting. The following Optional Encounters are presented to help you recreate the atmosphere of the sewers and are not intended to provide heavy opposition for the Characters. The most important thing is to communicate how dark, damp, and smelly the place is, using strange, distant echoes and nearby splashes to unsettle everyone. 
+
+To use the Optional Encounters, you can either roll 1d10 every ten minutes or so with a result of an 8 (representing the 8-pointed star of Chaos) indicating an encounter, or you can simply use them you see fit. Having determined that an encounter is to take place, you can either choose one or generate one randomly using 1d100 on the Random Event Table. 
+
+Be wary of slavishly sticking with random events — for example, three successive methane pockets is stretching the bounds of probability somewhat! 
+
+Also, it may be a good idea to decide on the encounters you wish to use before play starts, rather than during, otherwise the Players will be alerted that something is about to happen as you spend time reading the list and trying to select an appropriate event. 
+
+## **Random Events**
+These random encounters and hazards are meant to be inconvenient rather than dangerous, and you should not be afraid to amend Test results or reduce Damage caused if the Characters are having a hard time. The events of this Chapter should worry, frighten, and infuriate the Characters rather than kill or seriously wound them. 
+
+## 1d100 Random Event Table
+Major  Minor
+Encounter
+Sewer Sewer
+01–05 01–10 Amoeba
+06–15 11–15 Bats
+16–25 16–40 Deadly Mould
+26–35 – Rats
+36–40 – Thief
+41–50 41–70 Methane Pocket*
+51–80 – Dangerous Walkway*
+81–00 71–90 Unseen Obstacle*
+– 91–00 Hole*
+
+*: You should mark the location of these encounters on your sewer map, as they will be in the same place should the Characters return. Obviously, a methane pocket does not remain if it is ignited. 
+
+## **Amoeba**
+On a number of occasions, as the Characters make their way along the sewers, you should draw their attention to inexplicable ripples on the surface of the effluent. 
+
+They might even see a sewer rat, swimming down the middle of the channel, abruptly disappear beneath the surface. Having built up the tension in this way, run the following encounter with a sudden and dramatic start. 
+
+The sewage in the channel suddenly heaves, and a nauseating stench assails the Characters’ nostrils as a phosphorescent, obscenely slimy tentacle bursts from beneath the surface and lashes out at the lead Character. It does not make an attack at this stage, but attaches itself to the wall or walkway in order to haul a huge, bloated, amorphous body out of the channel. If any Character waves a naked flame at it, the thing backs off and then retreats into the channel with a great splash. Otherwise it flows forward relentlessly, forcing the adventurers to give ground or be enveloped in its slimy body. 
+
+## **Bats**
+The Characters disturb a colony of bats roosting on the roof of the sewer. The bats panic and form a milling cloud. Each of the Characters is subject to one attack at **WS** 30 with the _Weapon +2_ Trait, modified by Armour and Toughness Bonus as usual. After this, each Character must pass an **Average (+20) Dodge** or fall into the sewage flow while trying to avoid the screeching bats, and also gaining a _Prone_ Condition. 
+
+## **Deadly Mould**
+A patch of Red or Yellow Mould is growing on a wall of the sewer (equal chance of each type). It can be identified with an **Easy (+20) Lore (Plants)** or **Challenging (+0) Lore (Herbs)** Test. The Characters spot the mould before they come to it. In a major sewer, the Characters can only avoid triggering the mould’s spore release by crossing to the other walkway. If this encounter takes place in a minor sewer, there is no way the Characters can pass the mould without triggering the spore release. If triggered, the mould fills the sewer with a cloud of spores for 5 yards to either side of the original patch. 
+
+- **Red Mould:** The spore cloud lasts for 3 Rounds. Characters in the affected area must make a **Challenging (+0) Endurance** Test or gain 1 _Blinded_ Condition, plus a further +1 _Blinded_ Condition per **−SL** . 
+
+- **Yellow Mould:** The spore cloud lasts for 1d10 Rounds. Characters in the affected area must make an **Average (+20) Endurance** Test or gain 1 _Blinded_ Condition, plus a further +1 _Blinded_ Condition per −SL. Also, all Characters lose 1 Wound for every Round spent in the cloud, disregarding  modifiers. 
+
+## **Rats**
+The adventurers disturb a swarm of Rats. It comes boiling down the sewers toward the Characters, delivering 1 attack at **WS** 25 with the Weapon +4 Trait against each Character in passing, before disappearing into various small holes and crevices. Boots count as 1 Armour Point against this attack. 
+
+After this, each Character must pass a **Challenging (+0) Dodge** Test or fall into the sewage flow while trying to avoid the squeaking Rats, and also gaining a _Prone_ Condition. 
+
+## **Thief**
+This encounter may be introduced in a similar fashion to the Amoeba. At various times, the Characters might hear an echoing footstep, or a distant cough. Eventually, the Characters see a dark figure ahead. It notices the party almost immediately, and runs. The Characters have disturbed a thief using the sewers to move undetected beneath the town. The thief heads for the nearest manhole, quickly losing the Characters before escaping into the streets of Bögenhafen. Or, if you prefer, the thief leads them — via a roundabout route — to the Crossed Pikes tavern (see page 87). 
+
+## **Methane Pocket**
+A pocket of methane has gathered in a section of the sewer that is slightly higher than elsewhere. The Characters first become aware that they are walking up a slope, and then notice the air is beginning to smell even fouler than usual. 
+
+Any Character who has completed a miner or rat catcher Career automatically knows what this means. Others do if they succeed at an **Average (+20) Lore (Engineer)** or **Lore (Geology)** Test, or pass a **Challenging (+0) Intelligence** Test if you deem a Character has any other Skill or Talent that is appropriate. The pocket of gas is flammable and there is the danger of an explosion unless torches, lanterns (apart from Davrich lamps), and other naked flames are extinguished. 
+
+The gas pocket is 2d10 yards long, occupying the full width of the sewer. The chance of an explosion is a cumulative 10% for every yard a Character travels through the gas pocket with a naked flame. If an explosion occurs, the gas ignites with a sudden flash and a loud bang. Every Character loses 1d10 Wounds, modified by Armour Points and Toughness Bonus like normal, and must succeed at a **Challenging (+0) Endurance** Test or gain a _Prone_ Condition. Additionally, all Characters gain (Toughness Bonus – **SL** ) _Deafened_ and _Stunned_ Conditions, and 1 _Ablaze_ Condition. 
+
+If the Characters do not realise what has caused the explosion, do not explain. Tension is increased if the party are left wondering whether it was attacked by a trap, magic, or worse. 
+
+## **Unseen Obstacle**
+At this point, there is a chance that the leading Character either trips over a small iron rod, or bangs their head on a torch bracket jutting out into the passage. Alternatively, there might be a discharge pipe at foot or ankle height. In all cases, make a secret **Challenging (+0) Perception** Test for the lead Character, which is one step harder if the Character is moving faster than Walking speed. If the Test is failed, the Character does not spot the danger until too late. Failing to spot the obstacle means the Character trips badly; loses 1d10 Wounds, modified by Armour Points and Toughness Bonus like normal; and gains a _Prone_ Condition. Further, the Character must succeed at a **Challenging (+0) Athletics** Test or fall into the sewage flow. 
+
+## **Dangerous Walkway**
+The walkway on one side of the sewer is especially dangerous at this point. Perhaps there is a gap of 1d10 yards where it has crumbled away, or maybe it is unsound and collapses under pressure, or there could be a slippery stretch. If you choose one of the latter two options, the lead Character must pass a **Challenging (+0) Perception** Test to notice the danger in time. Otherwise the Character slips or the walkway collapses underfoot. In both cases, success at a **Challenging (+0) Athletics** Test avoids a fall into the sewage. 
+
+## **Hole**
+There is an unseen pothole in the sewer beneath the Character’s feet. The lead Character must succeed at a **Hard (–20) Athletics** Test to not slip into the hole. If failed, the Character’s foot is caught, and the Character must take a _Prone_ Condition. Further, if the Test is an Impressive Failure ( **–4 SL** ) or worse, the Character also suffers a Torn Muscle (Minor) injury to a random Leg Hit Location as the ankle twists badly. This cannot be avoided with Critical Deflection. 
+
+## **Primary Locations**
+The following primary locations are important to the adventure. Their locations are marked on the sewer map. 
+
+## **Goblin Entry Point**
+This is the narrow shaft the Goblin used to enter the sewers. There are a number of similar ‘breathing’ shafts perforating the town walls. They prevent the build-up of dangerous pockets of methane gas in the sewer system, and their outlets are covered by iron grilles. The grille at the end of this shaft has rusted away to nothing. The shaft is 12 inches square in cross section, and the _Contortionist_ Talent, and a slender frame, is necessary for any Character wishing to enter. 
+
+The Goblin cut itself as it wriggled down the narrow passage. A successful **Very Easy (+60) Track** or **Average (+20) Perception** Test, modified according to the best available light, can spot this bloody trail. 
+
+||**Light Source**<br>**Modifer**<br>Lantern<br>−10<br>Candle/Lamp<br>−20<br>Torch<br>−30|
+|---|---|
+
+If the Goblin’s trail is found, it can be followed with little trouble to the Hidden Temple, where it vanishes. The tracking Character must make another **Very Easy (+60) Track** or **Average (+20) Perception** Test to pick the trail up again whenever it crosses an obstacle such as a gap in the walkway. 
+
+## **Door to the Crossed Pikes**
+Set into a narrow archway in the slime-covered sewer wall is a rickety and jerry-built wooden door. Its edges are defined by a strip of light coming from the far side, but peering through these gaps reveals nothing and no sounds can be heard. 
+
+The door opens inwards, and is securely locked ( **D −20, SL 2; TB 5, W 4** ). A successful **Challenging (+0) Perception** Test reveals a strange symbol scratched into the brickwork beside the door. Any Character succeeding at an **Average (+20) Secret Signs (Thief)** Test knows it indicates a safe house. On an Impressive Success ( **+4 SL** ), the Character also recognises the safe house is likely run by the Ranaldan Crooked Fingers order as a place to hide people and goods from the authorities. The brick bearing the sign is loose, and there is a key to the door hidden behind it. 
+
+The door leads to the cellar of the Crossed Pikes tavern (see page 87). lf the Characters are tempted to enter, perhaps because they have followed the thief mentioned in the Optional Encounters (see page 73), they quickly land in trouble with the owner of the Crossed Pikes, Franz Baumann, and are made to promise to keep the entrance to the sewers a secret. However, this is a good way of introducing the adventurers to the local criminal underworld! 
+
+## **Uninvited Guests**
+If the Characters enter from the sewers, they have to find the hidden key, use an _Open Lock_ Spell, or break the door down ( **TB 3, W 8** ). On the cellar side, the door is concealed behind a stack of empty crates that fall over with lots of noise if the door is broken down. The rest of the cellar is piled with barrels and more crates. Three men sit among them. One is dark-haired and wiry: Baumann. One is tall and broad with a goatee: Reinhold. The third is compact with dark hair: Reinhardt. They look surprised when the Characters enter the cellar, but do not appear to be unduly worried and make no aggressive moves unless they are attacked. 
+
+_‘Come in, why don't ya?’_ says Baumann. _‘Have a seat.’_ He points at a chair with a dagger he was using to clean his fingernails. 
+
+If any of the Characters have not yet entered, Baumann calmly calls them into the room. When they are all inside, he pulls a hidden lever, and a pit opens up under all of them. The party drops through a hole in the floor. As they are taken completely by surprise, they have no chance to react as a dozen Ranaldans leap on them, bind them securely and stick sacks over their heads. They are all then carried upstairs into one of the bedrooms... 
+
+Once in the room, the sacks are removed and the Characters are disarmed and gagged. Reinhold and Reinhardt perform this operation, while Baumann sits against the door, still cleaning his fingernails with the dagger. 
+
+_‘Ah,’_ he says, _‘that’s better. Now we can talk — or rather, I can talk, and you can listen. But where are my manners? I’m Franz, and my two friends here are Rein and Rein. They’re twins.’_ 
+
+_‘Pleasure to meet you, ain’t it, Rein.’_ 
+
+_‘It certainly is, Rein. For us, at least.’_ 
+
+_‘Now you see,’_ Baumann continues, _‘we have something of a problem. That door you found may not be much to look at, but we like it. It’s funny how you can become attached to things. Call us selfish if you like, but we’re really quite possessive. We don’t really want to share it with anyone. If people keep wandering in and out of it willy-nilly... well, it will just wear out, won’t it? And that would be a shame. In fact, we’d be quite upset._ 
+
+_‘So, we’re not quite sure what to do. My two associates here tell me they’d like to beat you to a pulp and drop you in the sewers with a bag of bricks round your neck. But that wouldn’t be very nice. They do tend to get excitable when they’re upset about something. I’m sure you’ll understand and forgive them, won’t you?_ 
+
+_‘“No,” I said to myself when I saw your faces. “These people are reasonable. I’m sure they’ll understand.” So, I’m going to ask you to look on it as our little secret. You can keep a secret, can’t you? I’m sure you can. And I have great confidence in my judgement. I get that from my mother, you know. She was very gifted in that direction._ 
+
+_So, I’d be very disappointed if I turned out to be wrong, and so would my two friends here. And all of our other friends. We’re very lucky people, you know: we’ve got lots of friends. I suppose we’re just naturally sociable._ 
+
+_‘Now, will you promise to keep our little secret? Just for me? It would make me very happy if you promise.’_ 
+
+The Characters have very little choice here. If they refuse to cooperate they are indeed beaten to a pulp and dropped in the sewers attached to bags of bricks. If the Characters agree to keep quiet about the door, Baumann congratulates them on their wise decision, pointing out that he knew all along that they could be trusted and that he wouldn’t do this for just anybody. 
+
+Then, the Characters are led back into the sewers, where they find their weapons in a bundle a little way down the walkway. As the door is shut behind them, Baumann calls after the Characters that his friends will be keeping an eye out, and that they have _‘nasty, suspicious natures, you see’_ , and that they _‘hate to be disappointed’_ . With that, the door closes, and a series of scraping sounds are heard from behind it as crates are moved to block the doorway and ensure the Characters cannot regain entry. 
+
+If the Characters try to trace where the body came from by following the effluent upstream, they eventually arrive at the junction near the Hidden Temple. 
+
+It’s possible they may conclude that the body was dropped down a manhole. However, if a Character succeeds at an **Average (+20) Track** Test or **Difficult (−10) Perception** Test and investigates the manhole shaft closely, it is obvious the cover has not been disturbed for quite some time. **Note:** any Character wishing to inspect the manhole cover needs to climb the slippery brickwork beneath, which stands over the middle of the effluent channel. This requires a successful **Very Hard (-30) Climb** Test or the ladder by which the adventurers originally entered the sewer. 
+
+## **Discharge Pipes**
+At these points the sewer discharges into the Hafenbach and Bögen rivers. The walkways disappear and the effluent channel narrows to a pipe just 2ft wide. There is normally a gap of 6 inches between the surface of the effluent and the top of the pipe. 
+
+## **Open System**
+At this point, the sewer rises above ground and turns into an open channel flowing through one of the poorer areas of the town. 
+
+## **Gottri’s Corpse**
+As the Characters approach this point in the sewers, they see a sizeable blockage in the effluent channel ahead. The party’s approaching light disturbs a dog-sized Rat sitting on the blockage — its beady eyes glare at them, then it dives into the sewage and swims away (or, if you wish, you can turn this into a combat encounter using the Giant Rat in **WFRP** , page 315, perhaps with the _Brute_ or _Elite_ Creature Traits added if you wish it to be particularly vicious). On closer inspection, the obstruction is seen to be the eviscerated corpse of a bedraggled, male Dwarf. 
+
+If the Characters fish the torn body from the flow of sewage and inspect it, it is immediately recognisable as Gottri Gurnisson, the drunken Dwarf who was in the stocks at the Festival Court (see page 63). If the Characters did not visit this location, one of them (chosen at random) vaguely remembers seeing the Dwarf at the fair, possibly in a beer tent. 
+
+The body is horrifically mutilated, and shows evidence of many knife-cuts. One arm is missing, and appears to have been torn or bitten completely off. The chest is torn open, and the heart is missing. 
+
+If the Characters saw Adolphus Kuftsos the bounty hunter’s mutilated body (see page 50) they can attempt a **Challenging (+0) Perception** Test. If successful, they note the wounds on the Dwarf ’s body are similar. On +3 **SL** or more, the Characters suspect the wounds on both bodies were made by similar creatures, but not by the same individual; the thing that attacked the Dwarf was slightly larger. 
+
+## **Hidden Temple**
+The Mutant Goblin’s trail ends at a stout wooden door set into the wall of the sewer. There is a small opening with iron bars at about eye height, through which can be dimly seen a large cellar. A smoky torch burns in a wall bracket, casting flickering shadows around the room. Traces of green-black Goblin blood are found on the iron bars. A successful **Average (+20) Perception** Test reveals a bare Goblin footprint halfway up the door. 
+
+Any Character with the _Sixth Sense_ Talent or a Channelling Skill feels distinctly uneasy about this place, but is unable to say why. Any Character with the _Second Sight_ Talent can see traces of _dhar_ — roiling, tainted black magic — in the chamber, but is not able to detect anything further. Characters with the _Holy Visions_ Talent can feel the influence of the Dark Gods in the room ahead. The door ( **TB 4, D 12** ) is bolted on the inside. Lying on the floor by the door is a pile of broken and chewed bones, the only identifiable one being a three-socketed pelvis… 
+
+By entering or bringing light into the cellar, the Characters can see the stone-lined room is a temple of some kind. A large octagram is painted on the floor in dark-blue paint and a silver candlestick bearing an unlit black candle is positioned at each point. An engraved circle of copper, about 3 inches thick and 15ft in diameter, lies inside the octagram. 
+
+In the centre of the copper ring, a seven-pointed star with a beast’s head and the words ‘Ordo Septenarius’ is written. The beast’s head is partly obscured by a large, dark stain (the Goblin’s blood). 
+
+## Options: Free the Daemon!
+Instead of having the Guardian Daemon trapped in the Hidden Temple awaiting the Characters’ inevitable arrival, you could free it. Replace the Guardian Daemon’s Territorial (Hidden Temple) Trait with Territorial (Sewers). Now ramp up the creepiness of the sewers by having the Daemon whisper from the shadows, taunting them, insulting them, mocking them. Instead of finding Amoebae or Ranaldan Thieves, the party find a slew of mutilated corpses, many with bloody smears leading in the direction of the Hidden Temple. When the Characters eventually arrive (or are driven towards) the Hidden Temple, have the Daemon appear as it slams the door behind them and locks them in, cackling. Then it starts flinging blue fire through the door’s grate! 
+
+Alternatively, you could have the Daemon trapped in the Hidden Temple as normal, but capable of whispering in the darkness of the sewers. It seeks to attract as many mortals into the Hidden Temple as possible to kill them. And eat them. The Goblin didn’t find its way to the Daemon by chance. It was lured there. Just like the Characters following it… 
+
+An iron cabinet stands against the back wall and a small pool of a dark liquid has collected on the floor in front of it. In the far corner (in front of a secret door) lies a large, silk handkerchief embroidered with the monogram — ‘F.S.’ 
+
+The Characters barely have time to take all this in — the bones, the octagram, the cabinet, the scrap of cloth (Franz Steinhäger’s handkerchief) — before a stream of thick, foul-smelling, black smoke flecked with blue and pink suddenly begins to issue from the centre of the octagram. The smoke rapidly coalesces into a horned, fang-filled creature with multiple glowing eyes, four beclawed arms, and multiple lash-like tongues. The entity howls as it coalesces, and magical energies whip out in all directions, lighting the room in blue and pink coruscating light. A Daemon. Any Characters succeeding at a **Challenging (+0) Lore (Theology)** or **Easy (+40) Lore (Chaos** ) Test will recognise this as a manifested Horror of Tzeentch, a servant of the Chaos God of Magic and Change. 
+
+The Daemon does not attack the Characters immediately. Though still struggling with the material plane, it has quickly grown fond of its new physical existence, and particularly enjoyed eating the Goblin. It is bound to protect the Hidden Temple, and recognises that it cannot do so if destroyed, so violence is its last option, not its first. So, it gibbers on the spot, hissing and roaring to frighten the Characters away as pink energies run along the length of its disturbing body as new eyes, mouths, and tentacles sprout and disappear on its head. 
+
+**Cool** Tests to resist the Fear and Intimidation attempts are required. If this doesn’t cause the Characters to flee or attack, the Daemon reluctantly attempts to talk with them. It speaks Language (Daemonic), but is somehow understood. It explains that it can’t let the Characters stay, and that it tried to explain this to the three-legged thing, but it wouldn't listen. 
+
+So, it ate it. It claims that if the Characters do not leave, it will summon more Daemons to drive them away. This is a bluff, but the Characters have no way of knowing this. The Daemon does everything in its power to make the party retreat. 
+
+If the Characters destroy the Daemon, they can explore the room. The cabinet is locked ( **TB** 3 **, W** 5). If the Characters open the cabinet, they find a bloodstained sacrificial knife lying on a silver tray (value 2 GC) and a scroll bearing the _Manifest Lesser Daemon_ Spell. 
+
+The Characters cannot find the secret door, which is bolted and barred from the other side. This exit leads, via a flight of stone stairs, to Franz Steinhäger’s offices (see page 89). 
+
+## **Out of the Sewers**
+When the Characters emerge from the sewers, they should have uncovered some traces of sinister goings-on in the town. There are various things they may try to do next, and this section covers most of the more likely possibilities. 
+
+However, given it is likely to be late at night, there is little they can do immediately. With the exception of the Watch barracks (see page 92) and various inns, most establishments are closed. Persistent knocking might rouse people from their beds, but any NPC disturbed in this way will be angry, and unlikely to be of any help until the morning. Especially angry NPCs might go as far as to empty a pot of night soil over the Characters for their trouble! 
+
+## **Home to Bed**
+It should not be long before the Characters realise their best course of action is to turn in for the night and take up their investigation in the morning. Quite apart from the difficulty of finding any co-operative NPCs at this hour, you might consider requesting **Challenging (+0) Endurance** Tests. Those who fail take a _Fatigued_ Condition that is not removed until they rest. 
+
+Depending on events, the Characters might be based at the Journey’s End Inn, or they might return to the _Berebeli_ , which is moored at the docks. 
+
+## **The Journey’s End Inn**
+Adventurers staying at the Journey’s End and covered in sewer soil are ordered to leave the inn by the landlord. They may only return once they have had a bath — or at least a dip in the river, which is very cold at this hour. There is nowhere open that offers a bath, so the river is their only choice — or a malodorous night outside in the chill spring air. 
+
+## _**Berebeli**_ **the**
+The Characters may wish to return to Josef ’s barge, the _Berebeli_ . Josef has been drinking wine all evening and does not appreciate being disturbed. He objects to the sewer stench even more strongly. Soiled Characters are thrown overboard unless they are wounded — but the sight of them thrashing about in the water soon dispels Josef ’s bad temper, and he helps them aboard, laughing loudly, and lets them stay for the night. 
+
+## **Resolution**
+## **Rewards**
+In addition to your typical award for having a great roleplaying session, XP should be awarded for the following: 
+
+- Y 5 points for falling in the sewage 
+
+- Y 5 points for finding Gottri Gurnisson’s body 
+
+- Y 10 points for befriending the Crooked Fingers 
+
+- Y 5–10 points for dealing with a difficult Random Event 
+
+- Y 5 points for finding the Mutant Goblin pelvis 
+
+- Y 5–20 points for dealing with the Daemon in the Hidden Temple. 
+
+As ever, use the listed XP amounts above as a guideline if you wish to provide other XP awards. 
+
+## **Non-Player Characters**
+In the morning, the Characters are presented with a bill for 10/–, covering the room where they left their luggage for the night. If they protest about this, the innkeeper explains that the escaped Goblin was caught and killed in a warehouse on the docks, about an hour after they entered the sewers. Since they failed to recover it according to their agreement with the Festival Court, they must pay for their accommodation. 
+
+The adventurers may attempt an **Opposed Haggle** Test to reduce the bill (using the rules found in **WFRP** , page 291 in Bargaining and Trading), and each hot bath they request adds 1/– to the total. Until they pay up, the Characters are not allowed to remove their luggage, and this ‘request’ is backed up by a couple of large and brutal-looking bar staff. 
+
+No one in the inn knows exactly where the Goblin was killed, but they will suggest that the adventurers call on the Town Hall for more information (see page 85). 
+
+## **The Sewer Creatures**
+## **Amoeba**
+Amoebae are formless masses of jelly-like slime. Commonly called ‘jellies’ or ‘blobs’, Amoebae are normally found in the sewers, swamplands, and riverlands of the Old World, feeding on anything organic they encounter, be it flora or fauna. They are drawn to body heat and disturbances in the water when hunting, and can send out tentacle-like pseudopods to drag opponents into their bodies for digestion. 
+
+They are completely mindless, simply following their instincts wherever that leads them. 
+
+Organic material is digested once absorbed into an Amoeba’s body. Tough to digest material, such as bone and cartilage, can float inside their bodies for days, and sometimes weeks, betraying any recent victims. Amoebae cannot digest metals or minerals, which pass through their bodies unaffected. 
+
+It is recommended to use the supplied Characteristics for any Amoeba encountered in the sewers to ensure it’s not a particularly dangerous opponent. If you feel the party could do with facing a greater threat, use some of the Optional Traits or the Generic Creature Traits found in **WFRP** , page 310. 
+
+**AMOEBA**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 30 | – | 40 | 40 | – | 20 | 10 | – | – | – | 16 |
+
+**Traits:** Absorb, Amorphous, Amphibious, Mindless, Painless, Swamp-Strider, 2 Tentacles +6, Weapon +6 **Optional:** Size (Large–Enormous), 3+ Tentacles, Tracker, Venom (Average–Hard) 
+
+**HERALD OF TZEENTCH**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 39 | 49 | 49 | 39 | 39 | 59 | 39 | 49 | 99 | 19 | 19 |
+
+**Traits:** Corruption (Moderate), Daemonic 8+, Fear 2, Horns +8, Painless, Territorial (Hidden Temple), Unstable (Outside the Hidden Temple), Weapon +9 
+
+## **The Guardian Daemon**
+A gift of Tzeentch, the Guardian Daemon is one of the Lord of Change’s Heralds, an expendable slave to darkness that exists only to further the Great Plan of the Chaos God of Change. It shimmers and crackles with magic, its many-limbed form shifting and warping from one moment to the next. This recently summoned Daemon has orders to keep anyone from entering the Hidden Temple except for senior members of the Ordo Septenarius. Although it has been in the material plane for a very short while, it has already decided that it enjoys the simple pleasures of breathing, feeling, and eating. Because of this, it will do whatever it can to avoid death whilst fulfilling the duties it has been commanded to perform. 
+
+If it talks, the Guardian Daemon’s voice comes in giggling fragments as a hundred mouths open across its body to offer sweet temptations. The largest mouth in its head is only used for snarling and eating, and has whip-like tongues that lash out at any who draw too close. 
+
+## **The Crooked Fingers**
+## **The Management**
+Baumann is a lean man in his mid-30s with greasy hair and brown eyes. He is ‘the management’ of the Crossed Pikes and a ranking member of the Ranaldan Crooked Fingers. He is a likeable rogue who prefers to avoid violence if possible. However, if he feels his crew are in danger of being compromised in any way, he is not quite so peaceful. He is well connected in the town’s underworld, and thanks to a web of blackmail, threats, and ‘special arrangements’ he has a surprisingly wide sphere of influence at all levels. 
+
+For any Character who befriends him, he makes a very useful patron, source, or mentor. He speaks with an easy, street Reiklander accent, and frequently cleans his fingernails with his dagger. 
+
+**Note:** Baumann has no Blessings or Miracles of Ranald. Like most in the cults, he is not a blessed priest, but he is a ranking member of the Crooked Fingers Order. 
+
+## **Rein and Rein**
+Twins Reinhold and Reinhardt work for ‘the management’, and, whilst not especially bright, they are completely loyal and do whatever is asked of them. Reinhold is tall and broad, with dark hair and a goatee; Reinhardt is shorter and compact, with equally dark hair and a small moustache. Both have a steady and unnerving gaze, as though they are considering multiple ways to hurt whomever they are looking at — which they usually are. Each calls the other ‘Rein’, and they talk to each other frequently as a way of intimidating others, discussing various forms of violence. 
+
+_‘I don’t fink he wanted to do that, did he, Rein.’_ 
+
+_‘No, that was very unwise, Rein. Perhaps we should teach him an lesson what is ’oly?’_ 
+
+_‘Do you mean an ’oly lesson in how to cry like a Shallyan nun, Rein? Why, I fink I agree. So, how do you fink we should make this man, who is clearly in need of a religious education, cry?’_ 
+
+Their accents are heavily lower-class Reikland, but it is difficult to place if they come from Altdorf, Ubersreik, Tahme, or anywhere else. 
+
+## **Franz Baumann – Human Priest of Ranald (Gold 1)**
+## **Reinhold and Reinhardt – Human Thugs (Brass 3)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|31|24|27|53|59|36|69|65|64|62|18|
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 50 | 30 | 50 | 50 | 30 | 20 | 25 | 25 | 40 | 25 | 19 |
+
+**Skills:** Intimidate 70, Melee (Basic) 60, Melee (Brawling) 70 
+
+**Skills:** Athletics 86, Charm 83, Climb 52, Cool 90, Endurance 65, Entertain (Storytelling) 78, Evaluate 60, Dodge 71, Endurance 60, Gossip 81, Haggle 65, Intimidate 47,Intuition 72, Leadership 81, Lore (Theology) 70, Melee (Basic) 45, Perception 73, Pray 78, Research 60, Stealth (Urban) 71 
+
+**Talents:** Menacing* 
+
+**Traits:** Armour (Leathers) 1, Prejudice (Folk smarter than them), Weapon (Cosh) +9 
+
+**Talents:** Acute Sense (Touch), Alley Cat, Ambidextrous, Blather 2, Break and Enter 3, Criminal 7, Doomed ( _From the darkness it comes_ ), Etiquette (Criminals) 2, Fast Hands, Flee!, Read/Write, Savvy, Shadow, Strike to Stun, Suave 
+
+**Trappings:** Basic Weapon (Cosh), Dagger, Knuckledusters, Leather Jack 
+
+***** This Talent only applies when the two Reins act as a pair 
+
+**Traits:** Armour (Leathers) 1, Weapon (Cosh) +7 
+
+**Trappings:** Basic Weapon (Cosh), Book (The Riddles Ten), the Crossed Pikes, Dagger, Trade Tools (Thief)

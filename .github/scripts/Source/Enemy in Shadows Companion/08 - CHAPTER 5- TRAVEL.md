@@ -1,0 +1,196 @@
+# CHAPTER 5: TRAVEL
+
+*Pages PDF 33-40*
+
+## Chapter 5 Travel
+The sheer scale of the Empire, and the world beyond, means that travel is a necessary part of life for transient Characters. One of the main differences between the Characters and runof-the-mill citizens of the Empire is that they lack roots that force them to stay in one place. This freedom comes with dire complications: the Empire's roads, whilst being the veins of commerce, are infested with bandits; the forests look dark, full of the braying of Beastmen and the cries of Goblins; the looming mountains are crawling with Orcs and worse… 
+
+Determine Number of Stages GM Rolls for Weather Decide Travel Endeavours Roll for Travel Encounters Arrival phase, if this was the final stage. 
+
+## **Travel Stages**
+Travel often fills the gaps between adventures, and can provide an opportunity to engage in other activities similar to the **Between Adventures** chapter on page 192 of **Warhammer Fantasy Roleplay** . Other times, travelling is the adventure itself. Regardless of when it occurs, this chapter provides tools to tell dramatic tales while on the road. 
+
+A journey is divided into a number of Travel Stages. The number of Stages is up to GM discretion, with longer journeys having more Stages. The GM should feel free to adjust the number of Stages based on the Players’ preferences. For some groups, detailed journeys with a plethora of random encounters and challenges can become an exciting, memorable part of their Character’s adventure. For other groups, a brief description of the journey with one or two complications to add some spice is more than enough. 
+
+To begin, the Characters must determine their destination or direction. With a destination in mind, the GM can determine how long the journey will take, dividing the travel time into Stages. During each Stage of a journey, the GM rolls for the **Weather** , the Characters may engage in **Travel Endeavours** , and any **Travel Events** that take place are resolved. The **Arrival Phase** occurs as the characters reach their destination — hopefully not too much worse for wear. 
+
+Once the number of Stages is determined, it is modified by the lowest Movement among the Characters, whether on foot, mounted, or in a vehicle. If this is 3 or less, the journey should be increased by 1–2 stages. If the Characters are all lucky enough to possess mounts with a Movement of 6 or more, the total number of Stages is halved to a minimum of 1. 
+
+## **Destinations and Directions**
+Characters may attempt to reduce this number further with a **Challenging (+0) Navigation** or a **Lore** Test. The Test must be relevant to the location, such as Lore (Reikland). Having a proper map of the route makes the Test Average (+20). A success reduces the number of Stages by 1, to a minimum of 1. 
+
+Before setting off on a journey, the Characters must determine where they are going or, at least, what direction they are going in. If the Characters have a map of the location, they should have a reasonable idea of where they're headed and how long it will take, though maps of the Empire are notoriously inaccurate. Without a map, the Characters are reliant on directions from others — perhaps making Gossip Tests whenever they stop in a coaching inn — and on the even-more-unreliable road signs that dot the landscape. 
+
+**Example:** _Everyone wants to go from Altdorf to Middenheim. Gunnar and Molrella are slower, and they can’t wait that long, so they decide to get mounts. Salundra makes a Lore (Reikland) Test and succeeds, so they go even faster. The GM decides that the journey from Altdorf to Middenheim is quite far, and consists of 4 Stages. Thanks to the mounts, no one has a Movement of 3 or less. Salundra’s excellent navigation reduces the number of stages by 1, for a total of 3 Stages — an arduous trek indeed!_ 
+
+## Options: It's All Optional, Again
+Just like the Between Adventures chapter, all of these tools are optional and intended to expand the rules presented on **—** page 261 4 of Warhammer Fantasy Roleplay. You may choose to roleplay more of your travel, whilst using these rules to flesh those scenes out. It's all up to you! 
+
+## **On the Road Again**
+## How Far Is It to...?
+As previously mentioned, maps of the Empire are notoriously inaccurate, few feature any indication of scale, and many cartographers have found their efforts to improve matters entirely unwelcome. Naturally, no noble likes to be told that their ancestral holdings are a hundred square miles smaller than they had supposed. 
+
+When calculating travel distances, it is best to bear these inaccuracies in mind. A journey between neighbouring settlements usually consists of a single Stage. Longer journeys between important cities take between 2 and 4 Stages. Any journey longer than this should be broken up into multiple legs, with stops to rest, resupply, and introduce new adventures to the Characters. If your group enjoys a more involved travel experience, increase the number of Stages by 2 or more. 
+
+For example, B **ö** genhafen to Middenheim might instead be B **ö** genhafen to Altdorf, and then Altdorf to Middenheim. 
+
+Securing food and shelter are among the most mundane difficulties of the road. To those with the means, both are reasonably accessible on the Empire’s more travelled routes. Where available, inns and hostels provide bread and board to those with money. Alternatively, Characters may stock up with their own supplies before setting out. You can find the costs of travel goods, food, and lodging in **Warhammer Fantasy Roleplay** (page 302). Characters and their mounts consume 1 Encumbrance of food daily, at a cost of 2/–, but this may be supplemented by characters using the Forage Endeavour, below. Additionally, food not properly stored, or kept for too long, may spoil, putting Characters at risk of contracting the Galloping Trots (see page 187 of **Warhammer Fantasy Roleplay** ). 
+
+## **Weather**
+Bad weather is the greatest enemy of travellers (other than actual enemies of travellers, particularly those armed with blunderbusses, crossbows, and loose morals). The GM should roll for Weather at the beginning of each Stage. 
+
+||**Weather**<br>**Spring**<br>**Summer**<br>**Autumn**<br>**Winter**<br>Dry<br>01–10<br>01–40<br>01–30<br>—<br>Fair<br>11–30<br>41–70<br>31–60<br>01–10<br>Rain<br>31–90<br>71–95<br>61–90<br>11–60<br>Downpour<br>91–95<br>96–00<br>91–98<br>61–65<br>Snow<br>96–00<br>—<br>99–00<br>66–90<br>Blizzard<br>—<br>—<br>—<br>91–00|
+|---|---|
+
+Adverse weather conditions can turn any normal encounter into a nightmare. The following table can be used for the Reikland and similarly temperate climates. For weather further north of the Reikland, add between +10 and +30 to the result, and for weather further south, subtract between −10 and −30. 
+
+## **Dry**
+Prolonged dry weather causes curtains of dust to blow across the road at the slightest breeze, obscuring vision and parching throats. Travel is easy, if uncomfortable, but _Forage_ Endeavours are at a −10 as the weather makes finding water harder. 
+
+## **Fair**
+For once, the weather is being kind. There are no weatherrelated hazards. 
+
+## **Rain**
+Rain can last anywhere from a few hours to a few days. The ‘spring showers’ so beloved of poets can sometimes last up to a week, proving that poets spend remarkably little time outdoors away from wine and warmth. Rain reduces visibility to 75 ft or less. Additionally, ranged weapons suffer a –10 penalty to use due to driving wind and rain. 
+
+## **Downpour**
+Terrible storms reduce visibility to near zero, making any sound below a shout impossible to hear and imposing a –10 penalty on all physical Tests. Everything and everyone not under cover is soaked through within minutes. Water streams off the road, carving deep gullies so that the road is churned to little more than a bog. Ranged weapons suffer a –20 penalty to use due to the terrible weather, and exposed gunpowder is immediately ruined. Animals with the _Skittish_ Trait may also become spooked by sudden jolts of lightning during bad storms. 
+
+## **Snow**
+A gentle snow covers the world in a blanket of white, making everything seem new and clean. It is undoubtedly beautiful, until one has to move through it. Snow reduces visibility to 150 ft, and makes movement faster than Walking impossible. Characters travelling in Snow must make an **Average (+20) Endurance** Test or gain a _Fatigued_ Condition. 
+
+## Options: Catching a Cold
+At the end of every Stage, any Character exposed to Rain or Snow without both a good coat and a tent or other shelter must Test for Exposure ( **WFRP** page 181). Characters exposed to a Downpour or Blizzard must Test even if they have both a coat and tent, though lacking either of these makes this test **Difficult (-10)** , while lacking both makes it **Hard (-20)** . The effects of Exposure remain until the Character has warmed up at a suitable, sheltered location. 
+
+In Winter or Spring, any character who suffered from Exposure during any Stage of their journey also contracts the _Common Cold_ , the effects of which manifest during the Arrival Phase (see page 38). 
+
+## **Common Cold**
+Seasonal, like the reddening of leaves in the autumn, the Common Cold is nonetheless a constant bane of  the Old World. What begins with weak coughing and sneezing might develop into something serious in a matter of days, if not tended to. Every elderly person in the Empire has their own home remedies and wards against the illness, as well as memories of it worsening and taking friends and loved ones into Morr **’** s embrace. 
+
+**Contraction:** If you fail a Challenging (+0) Endurance Test when exposed to the elements, or when an infected person sneezes or coughs in your immediate vicinity. **Incubation:** 20 + 4d10 hours 
+
+**Duration:** 1d10 days **Symptoms:** Coughs and Sneezes, Malaise 
+
+Characters with the _Common Cold_ who again suffer from Exposure due to rain or snow will have the duration of the disease extended by 1d10 days. If a Character ever suffers more than 14 days of the _Common Cold_ , it develops into _Pneumonia_ . 
+
+## **Pneumonia**
+This is a build-up of fluid in the lungs from other illnesses that cause inflammation, fever, and sometimes even death. Pneumonia is known colloquially as **‘** Morr **’** s Rattle **’** , named after the chilling rattling noise made when the infected attempt to breathe deeply. 
+
+**Contraction:** _See Common Cold_ **Incubation:** Instantaneous **Duration:** 3d10 days **Symptoms:** Coughs and Sneezes, Fever, Malaise 
+
+A Character with _Pneumonia_ must succeed on a **Challenging (+0) Endurance** Test every day that they exert themselves through travel, combat, or any other physical activity. Failure causes the Fever symptom to become Severe. Whilst the Fever (Severe) symptom is in effect, the same Test must be passed every day, otherwise the disease develops the Blight symptom as well. 
+
+## **Blizzard**
+Snow turns everything into a sightless white hell. The road disappears beneath a fast-accumulating blanket of snow, leaving only trees to steer by. Visibility is close to zero. Movement faster than Walking is impossible. Ranged weapons are useless in these conditions. Characters travelling in a Blizzard must make a **Challenging (+0) Endurance** Test or gain a _Fatigued_ Condition. 
+
+## **Travel Endeavours**
+## Improvised Answers
+A Character may wish to gather information about a topic that you, as the GM, have no clue about, as it hasn **’** t been prepared, or is too obscure. In these instances, feel free to make up any answer you wish, regardless of how outlandish, though any questioning Character should know that the NPC is simply making up what they _think_ might be true, without any basis in reality. If the NPC might be inclined to conceal this fact, an **Intuition** Test may be called for. 
+
+As the Characters travel the Empire’s roads, they will find themselves with a surprising amount of time on their hands. Whether in the back of a coach, around a campfire, or waiting for their dawdling, short-legged companions, each Character has one Endeavour per Stage of their journey. 
+
+Travel Endeavours represent continued action over an entire Stage of a journey, meaning that even if they are performed correctly, they are still tiring. If a Character fails a Test during an Endeavour they receive a _Fatigued_ Condition. 
+
+Whilst most of these Endeavours can be attempted by anyone, some are better suited to a particular Class or Career. Additionally, at the GM’s discretion, Endeavours found in **Chapter 6: Between Adventures in Warhammer Fantasy Roleplay** may be performed during a journey. 
+
+It is up to the Characters to decide in what order they perform their Travel Endeavours. 
+
+## **Gather Information**
+Whilst the Empire does have a messenger corps, most news moves via word of mouth. A Character can choose to spend their time gossiping for news, and asking questions in coaching inns, if the route has enough traffic to allow it. Perform a **Challenging (+0) Gossip** Test, and ask the GM as many questions as SL scored, which the GM must answer as truthfully as the people in that part of the world would know. Alternatively, the Character may wish to hear what rumours are currently circulating — see page 15 of **Enemy in Shadow** s for a selection of rumours circulating in the Empire. 
+
+## **Keep Watch**
+Whilst any traveller in the Empire worth their salt retains an awareness of their surroundings, you forgo other activities to remain vigilant at all times — sleeping less, not engaging in idle chatter, scouting ahead, and so on. With a successful **Challenging (+0) Perception** Test, the Characters may not be Surprised during that stage of their journey. 
+
+## **Woodcraft**
+Through a canny understanding of the land and a good nose for the weather, you may alleviate the worst of any harsh weather you encounter. Attempt a **Challenging (+0) Outdoor Survival** Test, modified by –10 per step the weather is away from Fair (see page 32). On a success, you and your companions do not need to Test for Exposure due to inclement weather. 
+
+## **Forage**
+It is often impossible to carry all the food and water needed for a long journey, and resupplying as the journey continues can become prohibitively expensive. Most travellers supplement their rations with food and water gathered from the land, whether by hunting, trapping, or foraging. Perform an **Outdoor Survival** Test as directed on page 126–7 of **Warhammer Fantasy Roleplay** , taking note of the **Gathering Food and Herbs** optional rule. 
+
+## **Map the Route**
+Often the long hours on the road are tedium for academic types, who are otherwise unsuited to the physical tasks of travel. However, future travelling can be made significantly easier by creating a map, and with sufficient materials — paper, quills, and ink — such an effort is possible. To create a map of the route, a Character must begin an **Extended Trade (Cartography)** or **Art (Drawing)** Test, with a required number of SL equal to twice the number of Stages in the journey. This Test may be continued every time this Endeavour is undertaken. 
+
+A proper map of a region makes any Lore or Navigation Tests when setting out on a journey **Average (+20)** , rather than **Challenging (+0)** (page 31). Maps may fetch anywhere from 1/– for poorly scratched lines, all the way to tens or hundreds of Crowns for particularly fine works of art, (though these are unlikely to be completed whilst travelling). 
+
+## Earning a Living on the Road
+The Income Endeavour on page 198 of **Warhammer Fantasy Roleplay** isn **’** t suitable for most Careers whilst on the road, but there are some Careers **—** from travelling judges, bailiffs, and nuns, to hunters, scouts, and coachmen **—** where a journey is the perfect time to pursue their craft! 
+
+## **Practice a Skill**
+The monotony of travel represents the perfect time for many Characters to practise their Skills for their coming trials. A Character may perform a **Challenging (+0)** Test against a single Skill that would be possible to practise whilst travelling — Navigation, Trade (Herbalism), Language (Wastelander), and so on. Success means that the Character may reverse the result of one Test using that Skill during the following adventure, or any subsequent Stages of travel. 
+
+## **Recuperate**
+Travel is generally inimical to rest: hiking through forests and over mountain paths, sleeping under the stars in biting cold and burning heat, and hiding from monsters and other terrible threats. These are not situations often prescribed by attending physicians. However, you have made special efforts to ensure you do not overly exert yourself. You may count this Stage as if it were ‘taking it easy’ for the purposes of Healing Wounds, as per page 181 of **Warhammer Fantasy Roleplay** . You may not choose this Endeavour if, for any reason, you suffered a _Fatigue_ Condition during this Stage of the journey. 
+
+## **Make Camp**
+Often travellers will focus too much on the destination, and not enough on the journey itself; upon arrival they are haggard, exhausted, and ill-prepared for what they are about to face. Anyone can pitch a tent or unfurl a bedroll. Seasoned travellers, however, take the time to make themselves comfortable at night — choosing a good location, gathering firewood, preparing water, and so on. Perform a **Challenging (+0) Outdoor Survival** Test or a **Challenging (+0) Heal** Test. Each SL from either Test may be spent to remove **SL** _Fatigued_ Conditions from a Character, or heal a Character (see page 123 of **WFRP** ). 
+
+## **Encounters**
+Travel in the Old World can be many things, but rarely is it predictable. Paranoid road wardens, intrepid merchants, and dutiful pilgrims throng the highways of the Empire, whilst less beaten tracks are home to roving bands of mutants, unsanctioned toll roads, and watchful bandits. The Characters may experience such events more or less at random, but all Encounters should add either to the flavour of the world, or to the themes and narrative of the current story. 
+
+## Positive Encounters
+Positive Encounters are generally beneficial to your party, though many groups find a way to turn any situation against them! Positive Encounters may be triggered by an Impressive success or better on a Travel Endeavour, or simply if you wish to reward the Characters for being particularly clever or well prepared. 
+
+| 1d100 | Encounter |
+|---|---|
+| 01—25 | are still decent folks abroad. Of course, if they themselves are not decent people, they may look to take advantage of the situation. |
+| 26—45 | Now That’s Useful!: they weren ’ t meant to witness, or similar. The Characters find out something relevant to their adventure  —  gossip, a lost message, a sight |
+| 46—60 | Wonderful Accommodation:  The Characters pass by a comfortable coaching inn, and if they ’ re willing to spend a few coins, they find their minds at ease, their bellies full, and their bodies healed of any lingering Conditions. |
+| 61—75 | Idle Time:  The journey is so relaxed and unhindered that the Characters find themselves with spare time on their hands. Each Character may perform an extra Travel Endeavour. A Kind Word:  A simple act of goodwill on the part of the Characters leaves a fellow traveller delighted  —  good |
+| 76—90 | word of the Characters deed spreads to their destination, and at least one NPC they meet there will have a good opinion of the Characters. |
+| 91—95 | Short Cut!:  Rechecking maps or soliciting local advice, the Characters discover a shortcut through the region. They may skip the next Stage of their journey. Restful Journey:  The journey is blessedly uneventful, the Characters get good rest, the scenery is particularly inspiring, |
+| 96—100 | and perhaps they meet an NPC healer or helpful priest. The Characters can heal all Wounds and recover all Fatigued Conditions. |
+
+## Coincidental Encounters
+Coincidental Encounters are neither harmful nor beneficial to the Character, they are simply the sort of thing travellers in the Old World run into as a matter of course. These Encounters can be used if the Characters have rolled neither an Impressive success or failure on a **Travel Endeavour** , or simply because the GM wishes to add some local colour. 
+
+| 1d100 | Encounter |
+|---|---|
+| 1—10 | scant, what few travellers are met give sideways glances before scampering on. Something is wrong… Or maybe it’s just your imagination. Battlefield:  The Characters come across the site of a recent battle. Was it a massacre by Greenskins, a highway |
+| 11—20 | robbery, a skirmish with bandits, or something worse? Few scavengers have picked over the bodies, yet, and there is much left to take… But how far away are the culprits, and how will they react to the Characters picking over their leavings. Huddled Masses:  The Characters pass by a procession of huddled and down-trodden individuals. Are they refugees, |
+| 21—30 | penitents, lepers, or something more insidious? Whatever the nature of the main group, they may hide additional threats: pestilence, criminals, mutants, or worse. Not Them Again!:  A rival or other source of annoyance plagues the Characters on their journey. Play this for laughs |
+| 31—40 | but make them genuinely annoying and a recurring bane of the Characters’ lives. Perhaps Delberz Trötte (page 52) just can’t seem to stop dragging the Characters into another get rich quick scheme. Temptations on the Road:  Something out of the ordinary catches the Characters’ eyes — a sumptuous and inviting |
+| 41—50 | coaching inn in the middle of nowhere, an unattended campfire with a roasting and mouth-watering boar, the sounds of a travelling circus troupe. Do the Characters take a detour from their journey to investigate and indulge? What hidden dangers surround these temptations? Bad Influence!:  The Characters manage to wrong a fellow traveller on the road — be it a perceived slight, an accidental |
+| 51—65 | collision, or an intentional insult. Regardless, the traveller chooses to spread ill and potentially untrue rumours about the group at their destination. Toll Road:  A local noble, a business interest, or a 'private enterprise' has established a toll ahead of the Characters. Do |
+| 66—75 | they pay the extortionate fees — in proportion to their Social Status — or do they attempt to evade the authorities? See Toll Houses (page 40) for more. The Thing That Should Not Be:  There is something here that shouldn’t be — a black stone obelisk in the middle |
+| 76—80 | of a verdant forest, strange runes carved on the trunks of trees, a shimmering cold light just beyond the campfire’s glow. Whatever it is, others have seen it too, and rumours abound at their destination. Providence:  The gods send the Characters a message — a revelation about the past, a reading on the present, or a warning of the future. But the gods do not speak as mortals, and instead work signs in nature and circumstance. |
+| 81—90 | A raven with a scorpion twitching in its beak. A stag speared through the sternum by a flowering branch. A Lore (Theology) Test can be made to gather more information, but the symbols should be obvious to all citizens of the Empire. A Friend in Need:  Another traveller, or group of travellers, needs help from the Characters. Perhaps their cart has |
+| 91—100 | broken down, or they are being harassed by wolves. If the Characters dean to escort them to their destination, they may express their gratitude on arriving safely. |
+
+## Harmful Encounters
+The Empire is fraught with danger, and an unwary or simply unlucky traveller can fall afoul of any number of hazards. Should one of the Characters fumble a Travel Endeavour, or the majority of characters fail in their Travel Endeavours, any of the misadventures below may befall them. 
+
+| 1d100 | Encounter |
+|---|---|
+| 1—10 | insurmountable obstacle. One Character makes an  Average (+20) Outdoor Survival  Test to find a good alternate route, otherwise everyone just pushes on, gaining a  Fatigued  Condition. Thieves!:  Somehow the Characters get robbed. Perhaps it was someone travelling with them, sharing their campfire for |
+| 11—20 | the night or just a brief conversation on the road. They quickly lose sight of the thief, but during the arrival phase they catch a glimpse of them just ahead, ill gotten gains still in hand. Perhaps their purse fell afoul of the lithe fingers of Wolmar Rotte (page 47), or perhaps Wilhelm Kind (page 53) made off with one of their mounts? Unfriendly Territory:  As the Characters travel, it becomes apparent to them that the region is home to bandits, |
+| 21—30 | monsters, or worse. They can risk moving through the territory, requiring a successful  Challenging (+0) Stealth (Rural)  Test from each Character, or be ambushed, or they can find another way around, gaining a  Fatigued  Condition from the arduous travel. Poisoned Earth:  The region the Characters are travelling through has been fouled by old industry, war, or dark magic. |
+| 31—40 | On the surface, everything seems normal, but the rivers hold a sickness, the animals are tainted, and disease hangs in the air. Any Characters who attempt a Forage Endeavour, take goods from this region, or spend too much time here, will have to contend with poisons, sickness, and perhaps even Corruption. Even Nature Hates You!:  The Characters find themselves in danger from nature. Deadly animals, lightning storms, |
+| 41—50 | disease, insects, you name it. This could result in violence, or in them receiving a Condition, or in a small but vicious encounter when they choose the wrong shepherd ’ s hut as a shelter. Consider the Creatures presented in The Beasts of the Reikland on page 314 of  Warhammer Fantasy Roleplay. Terrible Weather:  As the Characters set up camp, the sky turns dark, the wind picks up, and the weather changes |
+| 51—70 | unexpectedly in the night. For the next Weather roll you make, add  +40 . If this is the final stage of the journey, the terrible weather wracks their destination instead, leaving everyone there in a foul mood. Damaged Essentials:  Weather due to a bumpy road, a lost pack or a ripped tent, some vital part of the Characters |
+| 71—80 | travelling gear is lost or destroyed. This could be a fine oilskin coat, a tent, or the cracked wheel of a cart. Repairs might be required, or the Character may have to brave the elements, risking Exposure. |
+| 81—90 | Filthy Conditions!: to the terrible Packer Whether an unfortunate campsite, or an infested inn, the Characters have all exposed themselves  ’ s Pox! See  Warhammer Fantasy Roleplay page 187 for the rules on contracting this disease. Bolted Mount!:  In the night, one of the Characters mounts bolts from the campsite or stable. A Character must gain |
+| 91—100 | a  Fatigued  Condition if they wish to recover the wayward beast, and additionally must Test for Exposure if searching by night in the Rain, a Downpour, Snow, or a Blizzard. |
+
+Pages 35-37 contain three tables for generating Encounters. These charts are entirely optional, and the results advisory. They should be used to add some unpredictability to a journey, but if you, as the GM, are uncomfortable or unsure on how to proceed, feel free to pick a different Encounter, or none at all. 
+
+While every group is different, it is rarely advisable to have more than one Encounter occurring during any Stage of a journey. 
+
+## Where **’** S My Random Encounter Table?
+You will notice that there are few Encounters that specifically say the characters become embroiled in combat without other options being available. This is an intentional choice. Whilst the threat of violence is an inescapable part of life on the roads in the Old World, repeated random encounters do little to advance the story or add much to the Characters **’** own narratives. They come with the burden of having to improvise an unplanned Encounter. We recommend the GM should instead consider the current state of the adventure and the nature and means of the Characters **’** antagonists before deciding if an attack on the road will advance the game. If the Characters are being pursued by bandits, cults, or other nefarious beings, or if they are travelling to investigate word of Goblins or Beastmen, it may make perfect sense. If they are simply travelling to the next town over to pursue a story hook, consider presenting them with difficulties other than combat. 
+
+## **Arriving in… Style?**
+Reaching journey’s end — the Arrival phase — will see the Characters looking for a bed, a drink, and the next step in their adventure, though not necessarily in that order. Be sure to describe in reasonable detail what the party sees as they arrive — are there towering gates, barred shut, or wide open fields of wheat with cottages nestled neatly between? How are the locals — warm and welcoming, or gruff and suspicious? Such details will help Characters get a feel for the location, and will help set their expectations. 
+
+Consider the Characters’ actions and the Encounters they experienced — did word travel ahead of them of their deeds, or misdeeds, on the road? 
+
+Characters who arrive at their destination suffering from a _Fatigued_ Condition are likely in a sorry state, and need to clean themselves up or suffer a penalty to Fellowship Tests due to their scruffy appearance. This penalty is dependent on the Character’s Status. Gold Status Characters suffer a −20 penalty to Fellowship Tests and Silver a −10. Brass Status Characters suffer no penalty at all — scruffiness is expected of them. 
+
+As the length of a Stage is somewhat abstracted, any diseases contracted on the road that have an incubation period, such as the _Common Cold_ or P _acker’s Pox_ , become full-blown outbreaks during the Arrival phase. 
+
+Characters are likely to arrive at their destination in need of supplies and services. Performing an **Average (+20) Lore (region)** Test reveals the best place to find these, or the Characters may ask around and hope for the best. A successful **Challenging (+0) Gossip** Test lets a Character know a little about current affairs, and this may be a good time to drop in some of the rumours outlined in **Enemy in Shadows** (pages 15 and 57). 
+
+Just as the Characters form an opinion of their destination, news of the Characters’ arrival often leads to local rumours and gossip. Depending on how they arrived — in a fine carriage, after a disagreement at the city gate, or unannounced in the dead of night — they may find that many have already made up their minds about their nature and intent. 
+
+Reaching their destination should be a satisfying moment for the Characters, having put the dangers of the road behind them for a time, but it is also a good moment to subvert their expectations. Perhaps their destination, reputedly safe, has fallen under the sway of a local criminal or an enemy of the Characters. Perhaps they catch a glimpse of someone watching them, almost as if expecting their arrival. Alternatively, if you’re feeling generous, a friend made upon the road is awaiting them, a cozy table by the fire reserved in a nearby inn. 
+
+Whatever the case, the Characters are now ready to resume their adventures — or, after a short rest, set out on the next leg of their journey.

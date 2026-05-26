@@ -1,0 +1,61 @@
+# Marine-Captain Karl Bauermann
+
+> **Marine-Captain The Carroburg**. Sergeant Silver 5. Subservient Brunhilde+Grissen on board mais **command total over Marines** off-ship. Experienced soldier+seafarer. Respecte Grissen, doesn't care for Brunhilde (inexperienced social climber).
+
+## Identité publique
+- **Titre** : **Marine-Captain Karl Bauermann**, Imperial Navy Marines.
+- **Carrière canon** : **Sergeant (Silver 5)**.
+- **Personnalité canon (ch.9 l.64)** : *« experienced soldier and seafarer, knows what's what. Although he doesn't care for von Flamme (too inexperienced and eager to social climb), he respects Grissen enough to make sure he does his best for The Carroburg's captain »*.
+- **Apparence** : à étoffer. Marines uniform Imperial Navy.
+- **Statut** : [VIVANT — ALLIÉ POTENTIEL]
+- **Tags** : `#KarlBauermann` `#MarineCaptain` `#Carroburg` `#ImperialNavy` `#Marines` `#Sergeant` `#Arc7` `#Ch9`
+
+## Source canon
+- **EiR ch.9 l.63-83** *Marine-Captain Karl Bauermann* + statbloc Sergeant Silver 5.
+- **EiR ch.9 l.83** : *« If they make a good impression on him + treat his men reasonably, Bauermann will become a competent and constructive ally »*. Si dislike → *« petty resistance, undermining every opportunity »*.
+- **EiR ch.9 l.110** : *« Bauermann is pensive. He has an inkling that the Characters mean trouble, and feels a battle might be looming. He is drilling his company with that in mind »*.
+- **EiR ch.9** : marines doubling oarpower + firepower.
+
+## Statbloc canon (EiR ch.9 l.67)
+
+**MARINE-CAPTAIN KARL BAUERMANN SERGEANT (SILVER 5)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 57 | 54 | 38 | 54 | 49 | 37 | 31 | 32 | 53 | 27 | 18 |
+
+- **Traits** : Armour 2, Ranged (Bow) +6 (50), Weapon (Sword) +7.
+- **Skills** : Athletics 52, Climb 58, Consume Alcohol 64, **Cool 68**, Dodge 47, Endurance 64, Language (Battle 42, Wastelander 37), **Leadership 68**, **Melee (Basic) 67**, Play (Drum) 41, Ranged (Bow) 37, Sail 42, Swim 41.
+- **Talents** : **Doomed** (*« A beat upon the drum, thy doom doth come »*), **Etiquette (Soldiers)**, Fisherman, Resistance (Disease), **Strong Legs**, **Strong Swimmer**, **Super Numerate**, **Very Resilient**, **War Leader**.
+- **Trappings** : Cloak, Clothing, **Breastplate, Helmet**, Pouch 12 Shillings, Sling Bag (Flask of Spirits), Bow + 12 Arrows, Sword.
+
+## Marines (canon ch.9)
+
+**Bauermann company** : Marines all Ranged (Engineering) Skill 55 (canon ch.9 l.97). Trained shipboard cannons + swivel guns. Doubling oarpower si pas wind.
+
+## Apparitions par session
+
+### Arc 7 ch.9
+- **[S65+]** — **Drilling company sur Carroburg** anticipant trouble.
+- **Heidheinheim raid Threshers** : ses marines outnumber raiders massively (canon ch.9 l.288 — *« raiders are massively outnumbered »*). Combat avec lui.
+- **Streissen** : si battle Leitdorf, Bauermann's marines = firepower additionnel.
+- **Climax ch.13** : *« unless they specifically brought marines from The Carroburg with them, they won't have time to return to the ship »* (canon ch.12 l.343) — marines pourraient être à Wolfshügel battle.
+
+## Ce que les PJ savent
+- Marine-Captain. Experienced + respectful Grissen.
+- Mauvaise impression PJ = pétition resistance.
+
+## MJ-only
+- **Pas cultiste — Imperial Navy professionnel**.
+- **Allié constructif** si gagné — *« petty resistance »* si lost.
+- **Marines disponibles bataille Wolfshügel ch.12** si PJ le veulent. Sinon canon : marines absents.
+
+## Hooks Arc 7
+- **Gagner confiance** : respect ses men + Grissen.
+- **Bataille Wolfshügel ch.12** : option d'amener marines depuis Carroburg pour combat.
+
+## Liens
+- **Arcs** : Arc 7 (ch.9 + possible ch.12 Wolfshügel).
+- **PNJ liés** : [[Brunhilde von Flamme]] (Captain — doesn't care), [[Ottilie Grissen]] (respecte).
+- **Lieux** : **The Carroburg**.
+- **Factions** : **Imperial Navy Marines**.

@@ -1,0 +1,129 @@
+# CHAPTER 8 The Yellow Fang
+
+*Pages PDF 59-64*
+
+## Chapter 8 the Yellow Fang
+Many Humans hold dim views of the future. They believe that the Empire is failing and that the Old World itself is coming to an end. It seems that whatever Humans build or create crumbles into ruin and corruption: rulers care nothing for their subjects and family members betray each other for coin or a jug of cheap beer. Witch Hunters burn the innocent, crops fail, and prayers fall on deaf ears. 
+
+Most keep such grim thoughts to themselves, and do their best to get through one more day. Others, though, are certain a new order is coming and have decided to throw in their lot with it. They want to be atop the pile when the Empire finally collapses. For such people, the Cult of the Yellow Fang and its worship of the Skaven offer a means of survival, and the promise of a place in the coming new order. 
+
+## **Origins of the Fang**
+It is not known when exactly the Yellow Fang was formed. It is possible that a rat-worshipping cult of some kind — not unheard of in the Empire and beyond — was somehow co-opted by an opportunistic Skaven. It is also possible that the creation of the cult was a Skaven plan from the very start, with Humans slowly inducted into an organisation entirely of inhuman making. In either case, the idea of using Human pawns came quite naturally to the Skaven. They consider themselves superior to every other species, and manipulating a few Humans into doing their bidding would therefore prove trivial. Over time this practice of bribery and intimidation of a few useful Human spies gave way to something much closer to outright indoctrination. The best part of all is that the cult is now self-sustaining. From time to time the Skaven step in to guide it in directions they find useful, but mainly the Yellow Fang has grown and maintained itself. 
+
+The cult has branches across the Old World, wherever Humans live with Skaven beneath them. For the most part the cult has maintained its secrecy admirably. Even in Tilea, where Skaven existence is more commonly known, few could guess that their Human followers are not the occasional wayward soul or blackmailed sewer jack, but instead a fervently devoted sect of worshippers. 
+
+The cult now eagerly awaits the day when its secret masters will rise up, throw down the corrupt Empire, and grant their favoured servants first pick of the spoils. This is almost certainly not going to happen, and indeed to most Skaven not used to dealing with Humans — which is the vast majority of the creatures — there is little difference between one Human and another, and surely all will be devoured when the great day comes and the Children of the Horned Rat rise up to take their rightful place atop the carnage of a ruined world. 
+
+## **Organisation**
+The Yellow Fang is a secretive and clandestine organisation, preferring to work from behind the scenes. Its members are skilled at manipulating others without revealing their own goals. Thus, when a plot is foiled, few recognise the hand of the true conspirators behind it. Even when the authorities make arrests, the false leads and double-blinds left by the cult keep its role unseen. 
+
+Cells of the cult do not follow any particular pattern. The Yellow Fang is not a terribly discerning group when it comes to membership, save that those who can’t keep quiet find themselves quickly silenced, so anyone who is sufficiently disillusioned and convinced of the Old World’s impending collapse can find a place. The structure of the cult is very fluid, as individual leaders rise and fall through cunning, manipulation, violence, and alliances with any Skaven they encounter. In this way, the cult mirrors Skaven society, although the ratmen themselves tend to regard these Man-things as dupes to be used and discarded rather than as allies — especially since the concept of alliance is a hazy and highly mutable one in the Skaven mind. 
+
+The cult is currently battling a schism. The traditional wing of the cult maintains its gloomy view that the surface world is doomed, and the surface-dwellers along with it, and the best that can be hoped for is some kind of survival under Skaven masters. The other faction, which arose fairly recently and is expanding rapidly from its base in Carroburg, maintains that the cult is destined to overthrow the Skaven and rule the surface world when the Empire inevitably crumbles. After all, did not Mandred prove Human superiority — and is betrayal not pleasing in the eyes of the Horned Rat? Until the new order has been established and it is time to seize power from the ratmen, though, they practise utter obeisance and lay their plans, just as all good Skaven do. In recent years this faction has been led by Mila Raast (page 63). 
+
+## **Symbol**
+A stylised Skaven triangle with one of the lower points longer than the other and coloured a dirty yellow is the cult’s symbol. A curved dagger favoured by the cult is used for rituals and assassinations, its shape suggestive of a fang. Particularly devout members have a small yellow fang tattooed under their upper arm; while others go so far as to have an incisor knocked out, stained yellow, and hung from a string to wear around their necks. The missing tooth excites no comment in the Old World, where almost no one keeps a full set of teeth throughout adulthood. 
+
+The truly devoted take things to an even greater degree, modifying their own bodies to look as ratlike as possible. Teeth are filed to points and ears are sewn to better resemble those of a rat. Some take on the affectations of Skaven speech and behaviour, repeating words and adopting twitching, jerking movements. The Skaven, of course, find this rather amusing, and further proof that theirs is the superior species — after all, why else would lesser creatures seek to emulate them? To some Yellow Fang members this is just so: they wish to look more like the creatures they worship. To others, especially among the faction that knows of and worships the Horned Rat directly, this is done not to emulate the Skaven, but in homage to their chosen god. A few of these fervent Yellow Fang extremists have even taken to wearing horns. While the average Skaven will think little of this, perhaps finding it mildly amusing, most Grey Seers would view it as a grievous insult. While a few Grey Seers do have dealings with the cult, none have yet to witness this brazen blasphemy directly — undoubtedly a blast of Warp lightning would end such an encounter rather quickly. 
+
+## **Methods**
+The Cult of the Yellow Fang can be surprisingly effective. It uses direct action to attack and undermine the existing order. It is particularly fond of public acts of sabotage that spread fear and dismay through the populace, such as the despoilment of the Nordtor wells in 2420 that resulted in an outbreak of the galloping trots ( **WFRP** page 187) that festered in the district for months. If they cannot find a convenient dupe to carry out an assassination, the Cult will send one of its own to complete the assignment — but they are careful to remove all cult tattoos and other identifying marks from the assassin’s body. Undertakings such as these are invariably suicide missions, so there must be no evidence leading back to the Yellow Fang. 
+
+Typically the Yellow Fang are dispatched to either clear the way for a Skaven incursion, or to clean up after such an attack has gone badly. Beyond the more general goal of preparing human cities to fall, the Under-Empire is always on the lookout for areas where it might gain an advantage. Human engineering is watched carefully, for example designs and plans are often copied or adopted by Yellow Fang cultists inserted among the student body at Engineering colleges. The Skaven have learned much by closely observing human cultures as far afield as Cathay or Araby, and excel at putting this knowledge to use. 
+
+HISTORY OF THE SKAVEN 
+
+When more direct action is called for, such as killing someone in the Empire who has learned too much of the Skaven’s existence, the Yellow Fang are sometimes used to lay the path or gather intelligence for a more skilled Skaven assassin — such as the one dispatched to kill Eunice Hasche in **The Horned Rat** . The Yellow Fang excel in this role, as their understanding of human culture means they are better equipped to predict a target’s movements, for example, attend a Middenball game next week or a play this weekend (sport and the theatre being two concepts with which most Skaven would struggle). 
+
+The Yellow Fang are always on the lookout for opportunities to advance their position. This often takes the form of requesting greater authority or autonomy from their secret masters. The Skaven think this quite understandable, if undesirable, behaviour, but such is their view of Humans that even their most devoted servants are rarely trusted with any truly important task. Still, from time to time the Yellow Fang are given a task to which the Skaven would consider themselves better suited, such as a raid or assassination. In all such cases a Skaven team will be on standby in the sewers below, ready to rush in and set things right if the humans have failed in some way. Should the humans succeed, the Skaven credit the victory to their own watchful oversight of the bumbling cultists. 
+
+## The Yellow Fang and Mutation
+The Yellow Fang does attract some mutants, but there are fewer mutations among its members than might be found in a cult of the Ruinous Powers such as the Purple Hand. While the cult has numerous secret rites, some of which are quite foul, none of these actually involve invoking the corrupting power of chaos. Their secret masters trade in Warpstone, but rarely trust the Yellow Fang to deal with any substantial amount of the material. 
+
+Cultists often change their appearance deliberately, filing their teeth and taking similar measures to appear more ratlike. This is popular among senior members who mostly serve the cult, while those who maintain positions in normal society tend to avoid it. 
+
+Though rare, mutants who bear a mutation that seems ratlike in nature — such as a tail or patch of fur — are often given elevated status in the cult, especially by those members who worship the Horned Rat more directly. Whether or not these mutations are actually a gift of the Horned Rat is an open question. 
+
+## **Yellow Fang Cultists**
+‘The
+).
+
+The GM should custom-design important NPCs from the Yellow Fang to fit the required background and role in a particular adventure. Less important cult NPCs, or cultists who are needed in a hurry, can be designed according to these notes. 
+
+## **Signs of Skaven**
+The Secret Signs (Skaven) skill is unique to the Yellow Fang, though others well studied in the Skaven might also learn it. It allows cultists to leave signs that can be interpreted by their fellows (such as _‘This person is a friend of the secret masters’_ or _‘The masters use these tunnels and are not always friendly — avoid’_ ). 
+
+Skaven themselves never take this skill, as the signs used are actually a debased form of written Queekish which all literate Skaven can understand. 
+
+## **Junior Cultists**
+Jan returned home, his faith shaken, and took to drinking. It was in _The Drowned Rat_ that the Yellow Fang found him — or more specifically it was in the urine-soaked gutter outside the tavern, drinking his wage away and chatting morosely with the rats. The Fang’s view of an Empire riddled with corruption, teetering on the edge of apocalyptic collapse appealed to Jan. With the zeal of a fresh convert, he returned to the City Watch, and has been feeding information to the Yellow Fang ever since. 
+
+Junior cultists make up the rank and file of the Yellow Fang, and many may have only seen a Skaven once or twice — typically around the time they are initiated into the cult. They usually have careers as Burghers, Peasants or Rogues. Very few high ranking members of society have fallen under the sway of the Yellow Fang, with the exception of those found in and around Carroburg. 
+
+If the GM needs to create a junior cultist in detail, take the Cultist profile (see **WFRP** , page 333) and add a day-to-day Career that is usually, but not always, drawn from the Burgher, Peasant, or Rogue classes, with the Talent **Secret Identity** . 
+
+## **Jan Guterwass**
+A formerly devout Sigmarite in the Middenheim City Watch, Jan was used to a sense of latent hostility to his faith among his fellow citizens. Ulric was the foremost deity in his home city, but Jan knew that elsewhere worship of Sigmar held sway. In his mind these cities were bastions of devout Sigmarite values, and monuments to the patron deity of the Empire. However, one pilgrimage to Altdorf and a dockside mugging by a Hook thug disabused Jan of this overly sentimental view. The city seemed anything but devout, and even those who espoused faith in Sigmar did little to help their abused brethren in Middenheim. 
+
+## **Jan Guterwass — Yellow Fang Junior Cultist**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6 | 32 | — | 34 | 32 | 35 | 35 | — | 15 | 15 | — | 10 |
+
+**Traits:** Armour 2, Ranged (Heavy Crossbow) +9, Weapon (Sword) +7
+
+**Skills:** Athletics 60, Dodge 50, Melee (Basic) 47, Ranged (Crossbow) 61, Lore (Skaven) 34, Secret Signs (Skaven) 35 
+
+**Talents:** Doomed! ( _Find Thy Path and Stray Not_ ), Flee! 
+
+**Trappings:** Middenheim City Watch Uniform, Hand Weapon (Sword), Mail Armour, Heavy Crossbow and 12 bolts, 1d10 Silver Shillings 
+
+HISTORY OF THE SKAVEN 
+
+## **Senior Cultists**
+Senior cultists are mostly silver-tier Burghers, Peasants, or Rogues. Instead of starting with the cultist profile, create the NPC as normal and then add the Skills Lore (Skaven) and Secret Signs (Skaven) at an appropriate level, along with the Traits _Secret Identity_ and, if you wish, _Corruption (Minor)_ . 
+
+You might decide that a senior cultist has learned — or stolen — skills and other knowledge from a Skaven master. The exact Skills, Talents, and other knowledge will depend upon the Clan in question, and will usually not consist of anything beyond the scope of what a low to mid ranking member of that Clan might possess. 
+
+## **Mila Raast**
+Mila Raast is quite unusual as she was born into the Yellow Fang. Her parents were prominent members of the Carroburg branch, and constantly embroiled in its twisting intrigues and schemes. Mila was a precocious and charming child, and took to the cult with an enthusiasm that bordered on the delirious. Minor Carroburg nobility, Mila used every ounce of her wiles and influence to elevate cult members to prominent positions in the city, and in later years throughout Middenland. Her parents would eventually pass, victims of an inter-cult feud that Mila avenged almost performatively. By that time the Yellow Fang was everything to her, and the act of murderous betrayal just another way to give praise to the Horned Rat. 
+
+Mila has since expended much of her influence and most of her wealth in pursuit of the cult’s goal of seizing control of Carroburg, but while her secular power and wealth has waned, her influence in the cult has grown. She has travelled to Middenheim to inspect the cult there, certain that the success they found in Carroburg can be repeated atop the Fauschlag. Middenheim’s branch has not taken kindly to this intrusion. In particular Raina Müs ( **The Horned Rat,** page 19) has taken a dislike to the noblewoman. The fact that Mila is secondgeneration Yellow Fang as well as wealthy incenses Raina even more. 
+
+## **Mila Raast— Yellow Fang Senior Cultist**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|6|32|—|34|32|35|35|—|15|15|—|10|
+
+**Traits:** Weapon (Dagger) +5 
+
+**Skills:** Bribery 65, Consume Alcohol 41, Gamble 65, Intimidate 48, Lore (Heraldry 65, Skaven 75), Melee (Basic 37, Fencing 37), Play (Pipes) 48, Secret Signs (Skaven) 65 
+
+In a fashion that any Skaven would find eminently familiar, Mila is on the lookout for any way to highlight how much the Yellow Fang in Middenheim could use her expertise. To this end she may approach the Characters with information about the cult’s activities, in the hopes that their interference will emphasise the need for a stronger hand — specifically her own. Of course, she will have the Characters killed once they have played their part, but until that point Mila will employ the charm that has served her so well in life thus far. 
+
+**Talents:** Attractive 2, Etiquette (Nobles, Yellow Fang), Luck 3, Noble Blood, Read/Write 
+
+**Trappings:** Coach and Team of Horses, Gem Encrusted Dagger (6 GC), Letters of Introduction to Petra Liebkosen and Kirsten Jung, A Dwindling Fortune (approximate 200 GC in property and holdings excluding those listed here) 
+
+## **Cult Wizards**
+Cult wizards are rare in the Yellow Fang, as the Skaven guard their magics jealously. However, a Man-thing with a talent for magic is a valued asset, and the cult takes special care to recruit those with a talent for Witchcraft. A member who has formal training as a Wizard would be particularly valuable, but so far no such individual has appeared — at least not in Middenheim. 
+
+to steal some magical knowledge, but this is incredibly rare, and the Grey Seers would hunt down such Man-things relentlessly. 
+
+Yellow Fang wizards will often cast their spells in emulation of the Skaven. They will use spells like _Beast Form_ to become a Giant or Pox Rat, will take on ratlike qualities when casting _Fearsome_ , or will _Produce Small Animal_ to exclusively create rats. 
+
+Any Yellow Fang spellcaster will have access to a handful of Petty spells and one or two Arcane spells at most. Skaven never teach spells from the Skaven Lores of Plague, Stealth, or Ruin, and while the Skaven do keep grimoires, these are often inscribed into the flesh of living slaves and therefore both inconvenient to place on bookshelves and difficult to decipher. An exceptionally cunning and accomplished cultist may be able 
+
+## Skaven Equipment
+More than most other races, the Skaven are characterised by a wide range of distinctive weapons and other equipment, which is described in Chapter 3. 
+
+While it may be tempting to arm Yellow Fang cultists with all manner of terrible Warpstone-powered weapons, the Skaven are reluctant to entrust such treasures to their own Clanrats, let alone to lowly Man-things. They certainly do not teach nonSkaven the necessary Lore and Trade skills to understand and operate such weapons. 
+
+Even so, the Yellow Fang are quick to master the Skaven virtues of deception and treachery masked by obsequious flattery.Once in a while a group of cultists will succeed in stealing some device and bringing it to the surface world, usually with some grandiose intention of causing widespread destruction in the name of the Horned Rat. Their fumbling attempts to operate these things without training can certainly result in impressive levels of destruction, but seldom as the cultists intended. More often than not, their efforts lead to a catastrophic malfunction that costs them their lives. Arguably those who die are the lucky ones, though: the Skaven are most unforgiving of thieves, and do not appreciate the extra work required to cover up such incidents so that the surface-dwellers remain ignorant of the ratmen and their technology! 
+
+Most magic-wielding members of the Yellow Fang are Witches, Mystics, or misled Hedge-Witches. A rare individual may follow the Wizard career. Such individuals will have better than usual access to Warpstone, however, despite how jealously the Skaven guard it. For more on how a reckless spellcaster can make use of Warpstone see **WFRP** , page 237. 
+
+## **The Horned Rat, God of the Skaven**
+The Humans of the Yellow Fang vary in their knowledge of the Skaven and their foul deity, the Horned Rat. Most know very little of this deity, or perhaps think of him as some kind of living overseer or leader of the Skaven. Some, however, have come by greater knowledge and give praise to the Horned Rat directly, granting his foul children due respect but not worshipping them outright. The Skaven themselves have not yet realised that this distinction exists, as they are prone to underestimating even those Humans who serve them. 
+
+These cultists of the Horned Rat adhere to their faith a little differently from the Skaven themselves. Instead of worshipping the Horned Rat out of fear, like some stern parent, some cultists of the Yellow Fang dare to hope for his favour. By working actively to destroy the Old World’s civilisation, and thereby speeding the inevitable dawn of the new age, they hope to be rewarded with power and position — or at the very least, to be spared the slaughter that awaits the other surface-dwellers. Their conception of the Horned Rat is more rational, more compassionate than the dire god of the Skaven: in addition to withholding punishment, this Horned Rat might also reward those who please it.

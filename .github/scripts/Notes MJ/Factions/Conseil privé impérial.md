@@ -1,0 +1,62 @@
+# Conseil privé impérial
+
+> Cercle intime de l'Empereur Karl-Franz Holswig-Schliestein : famille,
+> favoris, conseillers domestiques et émissaires choisis. Distinct du
+> Conseil d'État formel — ses membres n'ont que rarement un rôle de
+> gouvernement, mais leur influence est énorme parce que l'Empereur
+> pense et parle à voix haute en leur présence.
+
+**Sous-titre** : Cercle intime de Karl-Franz, ailes nord du Palais Impérial  
+**Statut** : [ACTIF — INFILTRÉ Main Pourpre via Henrik Kappelmuller]
+
+## Composition
+
+- **Empereur** : Karl-Franz Holswig-Schliestein — au centre du cercle, ses chambres privées sont le lieu de toute parole `Altdorf ch.2 l.13`.
+- **« Impératrice »** : Maria-Luise von Walfen — Dame de la cour, mère des deux enfants impériaux (Prince Luitpold et Alia), amie d'enfance et cousine éloignée de Karl-Franz. Sa voix est entendue et écoutée au Conseil privé ; les autres conseillers la surnomment « Impératrice » en privé `Altdorf ch.2 l.23`.
+- **Prince Luitpold** : héritier d'Altdorf (légitimé), mains tremblantes depuis Drachenfels, dépendant et indécis malgré ses tuteurs `Altdorf ch.2 l.30`.
+- **Conseillers domestiques** : *scores* de conseillers privés à fonctions apparemment domestiques (gestion du pot de chambre impérial, garde-robe, etc.) — tous diplomates expérimentés et favoris éprouvés de l'Empereur `Altdorf ch.2 l.33`.
+- **Champion de l'Empereur** : Ludwig Schwartzhelm — protection physique et morale de Karl-Franz, dépêché pour vérifier le respect de la loi impériale dans tout l'Empire `Altdorf ch.2 l.37`.
+- **Voix des Nains d'Altdorf** : Bruni Gromson — un Nain au Conseil privé depuis Sigmar, traditionnellement un ancien du quartier Metallschlacke. Bruni s'est absenté récemment après l'incident Comte de la Rougierre `Altdorf ch.2 l.40-42`.
+- **Envoyée d'Ulthuan** : Daendra Stillwater — sage-princesse de Lothern, tradition depuis Magnus le Pieux d'avoir un Elfe d'Ulthuan au Conseil privé. Écoute attentivement, ne livre rien `Altdorf ch.2 l.45`.
+- **Médecin personnel** : Henrik Kappelmuller — admis au Conseil privé pour soigner l'Empereur, dort dans une antichambre adjacente à la chambre impériale. **Agent dormant de la Main Pourpre infiltré par Yann Zuntermein** `EiR Intro l.320`.
+
+**Membres à accès ponctuel** (pas résidents) :
+
+- **Immanuel-Ferrand Holswig-Schliestein** : oncle de Karl-Franz, peut être admis sur simple demande en tant que personnage royal `Winds of Magic ch.12 l.158`.
+- **Grand Chambellan** : seul membre du Conseil d'État qui assiste régulièrement au Conseil privé avec l'Empereur — pont institutionnel entre les deux organes `Altdorf ch.2 l.138`.
+- **Représentant pyromancien** : un mage du Collège Lumineux toujours en attente au Palais Impérial pour donner l'avis du collège quand demandé ; Thyrus Gormann, ancien Patriarche Suprême et chef du Collège Lumineux, compte parmi les conseillers les plus proches `Winds of Magic ch.14 l.139`.
+- **Ambassadeur de Saphery** : Cendrus Laeoc — diplomate elfe discret, mine officiellement les efforts sapheriens d'empowerment des magiciens impériaux `Sea Wardens ch.6 l.86`.
+
+## Rôle officiel
+
+Organe consultatif intime. Aucun membre (hors l'Empereur) n'a de rôle
+formel de gouvernement, mais leur influence excède celle de la plupart
+des ministres du Conseil d'État, parce que Karl-Franz discute matières
+de l'Empire en privé avec eux, en dehors des sessions formelles et des
+occasions d'État `Altdorf ch.2 l.13`. Sigmar lui-même a établi la
+tradition de la présence d'un Nain au Conseil privé ; Magnus le Pieux a
+ajouté celle d'un Elfe d'Ulthuan `Altdorf ch.2 l.40+45`.
+
+## Compromission Main Pourpre
+
+- **Henrik Kappelmuller** est l'agent de pénétration : Yann Zuntermein l'a placé comme médecin de l'Empereur pour entretenir la maladie via doses soporifiques de Ranald's Delight, fournies par sa pharmacienne Elvyra Kleinestun. Conséquence : Karl-Franz est maintenu en état de léthargie suggestible qui permet à Zuntermein de lui faire signer des décrets désastreux (Édit sur les mutants, occupation d'Ubersreik, recours au double Hermann von Feilbach) `EiR Intro l.320`.
+- **Effet de la Maladie sur le Conseil** : Yorri XV — qui devrait normalement enquêter sur la maladie impériale — fait confiance au Conseil privé sur ses décisions médicales, considérant la maladie comme une affaire interne au cercle intime `EiR Intro l.812`.
+- **Maria-Luise** — placée au cœur du Conseil privé, elle observe la dégradation de Karl-Franz mais n'a aucun moyen institutionnel d'agir. Elle peut être une ressource majeure pour les PJ si elle leur fait confiance `EiR ch.7 l.81`.
+
+## Distinction avec Conseil d'État et Volkshalle Councils
+
+- **Conseil privé impérial** (cette fiche) : intime, ailes nord du Palais, conseillers personnels et famille `Altdorf ch.2 l.13`.
+- **Conseil d'État** : organe formel élargi, sessions au Volkshalle ; Immanuel-Ferrand Holswig-Schliestein y siège comme Grand Chancelier du Reich `EiR Intro l.632`.
+- **Trois Conseils de la Volkshalle** : conseils sectoriels publics couvrant les politiques d'Empire, de province et de capitale — délégations de l'Empereur sur des dossiers de gestion courante `Altdorf ch.2 l.46`.
+
+## Hooks Arc 7
+
+- **Audience Kappelmuller (ch.8)** : pour atteindre le médecin dans la chambre impériale, les PJ doivent convaincre un membre du Conseil privé (ou Elvyra Kleinestun) qu'il est dans l'intérêt de l'Empire de voir Kappelmuller à l'œuvre — test de Charm Très Difficile (-30) `EiR ch.8 l.93`. Maria-Luise, le Grand Chambellan ou Schwartzhelm sont les cibles naturelles selon l'angle d'approche choisi par les PJ.
+- **Démasquage de Kappelmuller** : si les PJ exposent Kappelmuller, c'est tout le Conseil privé qui est secoué — Karl-Franz s'éveille (Gideon retirant son sort de *Purple Brain Pox*), et le Conseil doit purger l'aile médicale `EiR ch.13 l.187`.
+- **Maria-Luise comme alliée potentielle** : observatrice canny et loyale, peut basculer si les PJ lui démontrent la conspiration ; sa proximité avec Karl-Franz et sa position de mère des héritiers en font un canal politique unique.
+- **Pyromancien et Collège Lumineux** : si Thyrus Gormann est sollicité officiellement, l'avis du Collège peut peser au Conseil privé — option homebrew si les PJ ont des appuis aux Colleges of Magic.
+- **Successions** : Prince Luitpold (héritier Altdorf, fragile) et Wolfgang Holswig-Abenauer (héritier Reikland, neveu de Karl-Franz par la lignée Holswig — *cible* du rituel Sheerargetru) sont les deux fils de la couronne dont l'avenir se joue au climax.
+
+## Liens externes
+
+- [Privy Council — Fandom (Warhammer Fantasy Wiki)](https://warhammerfantasy.fandom.com/wiki/Imperial_Privy_Council)

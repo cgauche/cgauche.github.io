@@ -41,7 +41,7 @@ from collections import Counter
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import urlparse, unquote
+from urllib.parse import urlparse, unquote, quote
 
 import requests
 from bs4 import BeautifulSoup
@@ -55,6 +55,41 @@ from _blog_sync import (
 )
 
 OUT = Path(__file__).parent / "_site"
+
+# --------------------------------------------------------------------------- #
+# MJ overlay configuration (Phase 1)
+# --------------------------------------------------------------------------- #
+# MJ-private content lives at _site/mj-{MJ_TOKEN}/ and is gated client-side
+# by a JS flag (cf. mj-mode.js). Public HTML contains nothing MJ-specific
+# except the section markers ".mj-only" which are CSS-hidden by default.
+#
+# Token loaded from (in order):
+#   1. Environment variable MJ_TOKEN
+#   2. File ./.mj-token (project-local, should be gitignored)
+#   3. File ~/.foundry-mj-token (user-global)
+# No fallback: missing token → MJ overlay is disabled (public site builds normally).
+
+NOTES_MJ_DIR = Path(__file__).parent / "Notes MJ"
+
+
+def _load_mj_token() -> str | None:
+    import os
+    v = os.environ.get("MJ_TOKEN")
+    if v and v.strip():
+        return v.strip()
+    for candidate in (
+        Path(__file__).parent / ".mj-token",
+        Path.home() / ".foundry-mj-token",
+    ):
+        if candidate.exists():
+            t = candidate.read_text(encoding="utf-8").strip()
+            if t:
+                return t
+    return None
+
+
+MJ_TOKEN: str | None = _load_mj_token()
+MJ_OUT_DIR: Path | None = (OUT / f"mj-{MJ_TOKEN}") if MJ_TOKEN else None
 
 # Narrative arcs. The blog uses each post's <published> month to encode the
 # arc: posts published in 2024-10 are arc 1, 2024-09 are arc 2, … Listing the
@@ -248,6 +283,13 @@ def extract_subtitle(html_body: str) -> str | None:
     return text or None
 
 
+def strip_subtitle_paragraph(html_body: str) -> str:
+    """Remove the first centered-bold subtitle paragraph from a body. Used
+    when the subtitle is promoted to the variant-bio heading, so it doesn't
+    appear twice on the page."""
+    return _SUBTITLE_RE.sub('', html_body, count=1)
+
+
 def slugify(stem: str) -> str:
     """'Boris Todbringer (2)' → 'boris-todbringer-2'."""
     s = unicodedata.normalize("NFKD", stem)
@@ -330,8 +372,18 @@ def build_search_index(
 
         excerpt_parts = [pg.post.title or "", strip_html(pg.post.html)[:500]]
         variant_titles_norm: list[str] = []
+        # Display title for a variant group is the unifying label
+        # (e.g. "Elvira" rather than "Elvira, grande prêtresse de Rhya"),
+        # so the search-result chip shows the character's name, not their
+        # most-recent role. The original main title is kept as a variant
+        # title so direct queries for the role still match.
+        display_title = pg.post.title or ""
         if pg.variant_group and pg.is_main:
-            for sib in siblings_idx.get((pg.post.folder, pg.variant_group), []):
+            siblings = siblings_idx.get((pg.post.folder, pg.variant_group), [])
+            if pg.variant_group and pg.variant_group != display_title:
+                variant_titles_norm.append(normalise_for_search(display_title))
+                display_title = pg.variant_group
+            for sib in siblings:
                 if sib.site_rel == pg.site_rel:
                     continue
                 variant_titles_norm.append(normalise_for_search(sib.post.title or ""))
@@ -342,7 +394,7 @@ def build_search_index(
             FOLDER_TO_LABEL.get(pg.post.folder, "") if pg.post.folder else "",
         ])
         entry: dict = {
-            "t": pg.post.title or "",
+            "t": display_title,
             "c": FOLDER_TO_LABEL.get(pg.post.folder, "") if pg.post.folder else "",
             "u": pg.site_rel.as_posix(),
             "s": normalise_for_search(haystack),
@@ -430,11 +482,34 @@ def compute_variant_groups(pages: list[Page]) -> None:
         best = scored[0][2]
         by_label.setdefault((pg.post.folder, best), []).append(pg)
 
-    # Step 4: real groups have 2+ members; pick main = most recently published.
+    # Step 4: real groups have 2+ members. The "main" is the canonical face of
+    # the group, picked by:
+    #   1. Character-sheet signal — a page with NO session-number labels is the
+    #      GM's standalone character sheet, written once and not tied to any
+    #      specific session (the convention for PJs: each player has one
+    #      sheet, e.g. "Phineas" / "Elvira" / "Markward Skippy Jeronymus",
+    #      published well after the role-variant snapshots). Wins outright.
+    #   2. Bare-name match — title equals the group label exactly (e.g.
+    #      "Boris Todbringer", "Karl-Heinz Wasmeier"). Useful for PNJs where
+    #      every variant is a state snapshot with the same character name.
+    #   3. Latest session-number label — among remaining ties, the variant
+    #      tagged with the most recent session is the current narrative state.
+    #   4. Publication date — final tie-breaker.
     for (folder, label), group_pages in by_label.items():
         if len(group_pages) < 2:
             continue
-        main = max(group_pages, key=lambda p: p.post.published or '')
+
+        def _main_rank(p: Page) -> tuple[int, int, int, str]:
+            title = (p.post.title or "").strip()
+            session_nums = [int(s.strip()) for s in p.post.labels
+                            if s.strip().isdigit()]
+            no_session_labels = 1 if not session_nums else 0
+            is_canonical_title = 1 if title == label else 0
+            latest_session = max(session_nums) if session_nums else 0
+            return (no_session_labels, is_canonical_title,
+                    latest_session, p.post.published or '')
+
+        main = max(group_pages, key=_main_rank)
         main.variant_group = label
         main.is_main = True
         for p in group_pages:
@@ -534,7 +609,7 @@ _POPOVER_SKIP_TAGS = {
 
 # Short, human-readable category label shown as the popover eyebrow —
 # mirrors the "Session NN" snum pattern of session_card_html.
-_ENTITY_POPOVER_CAT_LABEL = {"PJ": "PJ", "PNJ": "PNJ", "Lieux": "Lieu"}
+_ENTITY_POPOVER_CAT_LABEL = {"PJ": "PJ", "PNJ": "PNJ", "Lieux": "Lieu", "Documents": "Document"}
 
 
 @dataclass
@@ -663,12 +738,13 @@ def session_alias_popovers(session_num: int,
                            global_map: dict[str, EntityPopover],
                            pages_by_session: dict[int, dict[str, list[Page]]],
                            ) -> dict[str, EntityPopover]:
-    """Per-session alias map. Returns alias → EntityPopover for short
-    name forms that uniquely identify an entity tagged with this session.
+    """Per-session alias map. Returns alias → EntityPopover for name forms
+    that identify an entity tagged with this session.
 
-    Augments — never overrides — the global popover map: aliases that
-    already collide with a canonical title there are skipped (the
-    canonical name keeps its global meaning everywhere)."""
+    Layered on top of the global popover map (via dict merge): both short
+    aliases AND the canonical title may resolve to the session-specific
+    variant, so a résumé tagged with S31 surfaces the 'Seigneur de loi'
+    Wasmeier rather than the globally-canonical 'Cultiste' state."""
     if session_num not in pages_by_session:
         return {}
 
@@ -694,8 +770,6 @@ def session_alias_popovers(session_num: int,
             if ent.subtitle:
                 forms.update(_aliases_from_subtitle(ent.subtitle))
             for alias in forms:
-                if alias in global_map:
-                    continue
                 alias_mains.setdefault(alias, set()).add(main.site_rel)
                 alias_source.setdefault(alias, (ent, main))
 
@@ -775,6 +849,440 @@ def inject_entity_popovers(html_body: str,
         txt.replace_with(wrapper)
         wrapper.unwrap()
 
+    return str(soup)
+
+
+# --------------------------------------------------------------------------- #
+# Canon refs — MJ-only popovers on `<code>EiR Intro l.205-218</code>`         #
+# --------------------------------------------------------------------------- #
+# Notes MJ heavily reference canonical Cubicle 7 books with backtick refs
+# such as `EiR Intro l.205-218` or `HR l.699`. In MJ mode we transform these
+# into hover triggers that show the cited markdown lines from the converted
+# Source/ tree. Public mode never sees these — refs only live inside
+# `.mj-only` blocks (enrichment sections + autonomous overlay pages).
+
+SOURCE_DIR = Path(__file__).parent / "Source"
+
+# Mapping abbreviation → Source/ subfolder. The chapter file inside the folder
+# is resolved at index-build time via the conventions of _convert_pdfs.py
+# ("NN - Chapter K - Title.md", "NN - CHAPTER K Title.md", "01 - <monolith>.md").
+_CANON_BOOK_DIRS: dict[str, str] = {
+    "EiS":           "Enemy Within Campaign Volume 1 Enemy in Shadows",
+    "DoR":           "Enemy Within Campaign Volume 2 Death on the Reik",
+    "PBT":           "Enemy Within Campaign Volume 3 Power Behind the Throne",
+    "HR":            "Enemy Within Campaign Volume 4 The Horned Rat",
+    "EiR":           "Enemy Within Campaign Volume 5 Empire in Ruins",
+    "EiS Companion": "Enemy in Shadows Companion",
+    "DoR Companion": "Death on the Reik Companion",
+    "PBT Companion": "Power Behind the Throne Companion",
+    "HR Companion":  "The Horned Rat Companion",
+    "EiR Companion": "Empire In Ruins Companion",
+    "Altdorf":       "Altdorf - Crown of the Empire",
+    "Middenheim":    "Middenheim - City of the White Wolf",
+    "Salzenmund":    "Salzenmund - City of Salt and Silver",
+    "Up in Arms":    "Up in Arms",
+    "RN&HD":         "Rough Nights & Hard Days",
+    "Archives Vol I":   "Archives of the Empire - Vol I",
+    "Archives Vol II":  "Archives of the Empire - Vol II",
+    "Archives Vol III": "Archives of the Empire - Volume III",
+    "Winds of Magic":   "Winds of Magic",
+    "Sea Wardens":      "Sea Wardens of Cothique",
+}
+
+# Canon ref pattern. Tolerates a single trailing whitespace before the line spec.
+# Captures: 1=book abbrev (may contain a space "EiS Companion"), 2=chapter
+# designator ("Intro" / "ch.N" / nothing if just book + line), 3=loc kind ("l"/"p"),
+# 4=loc spec (digits, optional range with "-" or "+").
+_CANON_BOOK_ALTS = sorted(_CANON_BOOK_DIRS.keys(), key=len, reverse=True)
+_CANON_REF_RE = re.compile(
+    r'^(?P<book>(?:' + '|'.join(re.escape(b) for b in _CANON_BOOK_ALTS) + r'))'
+    r'(?:\s+(?P<chap>Intro|ch\.\d+|Appendix(?:\s+\w+)?))?'
+    r'(?:\s+(?P<kind>[lp])\.(?P<spec>\d+(?:-\d+|(?:\+\d+)+)?))?\s*$'
+)
+
+# Module-level cache: (book_abbrev, chap_key) → Path. chap_key is "intro",
+# "ch.1", "ch.13", "appendix" or "" (monolith). Built lazily by
+# _build_canon_ref_index().
+_CANON_REF_INDEX: dict[tuple[str, str], Path] | None = None
+
+
+def _build_canon_ref_index() -> dict[tuple[str, str], Path]:
+    """Walk Source/ once and build {(abbrev, chapter_key): markdown_path}.
+
+    chapter_key forms:
+      "intro"        — file named "Introduction"/"Front Matter"-ish
+      "ch.N"         — file with explicit chapter number
+      "appendix"     — first appendix-labelled file (rough heuristic)
+      ""             — fallback for the volume / monolithic file
+    """
+    global _CANON_REF_INDEX
+    if _CANON_REF_INDEX is not None:
+        return _CANON_REF_INDEX
+    idx: dict[tuple[str, str], Path] = {}
+    if not SOURCE_DIR.exists():
+        _CANON_REF_INDEX = idx
+        return idx
+
+    # Regex for parsed chapter from filename
+    # "04 - Chapter 1 - Dirigible in Danger.md"  → ch.1
+    # "04 - Chapter 1 BÖGENHAFEN TO ALTDORF.md"  → ch.1
+    # "08 - CHAPTER 1- EASTER EGGS.md"           → ch.1
+    # "03 - Introduction.md"                      → intro
+    # "17 - An Introduction to the History..."   → also intro fallback (low-priority)
+    chap_re = re.compile(
+        r'^\s*\d+\s*-\s*(?:CHAPTER|Chapter|chapter)\s*(\d+)\b',
+        re.IGNORECASE)
+    intro_re = re.compile(
+        r'^\s*\d+\s*-\s*(?:Introduction|INTRODUCTION|Front\s*Matter)',
+        re.IGNORECASE)
+    appendix_re = re.compile(
+        r'^\s*\d+\s*-\s*(?:Appendix|APPENDIX)\b',
+        re.IGNORECASE)
+    # Fallback: file numbered "NN - <name>" that isn't Index/Credits/Contents/
+    # Bibliography/Glossary — treat NN as the chapter key. Lets refs like
+    # `EiR ch.17` resolve to "17 - An Introduction to the History of the Turmoil.md"
+    # (EiR appendix-like section, not named "Chapter N").
+    numbered_section_re = re.compile(
+        r'^\s*(\d+)\s*-\s*(?!.*(?:Index|Credits|Contents|Bibliography|Glossary|Front\s*Matter))',
+        re.IGNORECASE)
+
+    for abbrev, subdir in _CANON_BOOK_DIRS.items():
+        book_dir = SOURCE_DIR / subdir
+        if not book_dir.exists():
+            continue
+        md_files = sorted(book_dir.glob("*.md"))
+        # Skip the per-folder "00 - Index.md"
+        md_files = [f for f in md_files if not f.name.lower().startswith("00 - index")]
+        if not md_files:
+            continue
+
+        # Fallback monolith: empty chapter key points to the first non-index file.
+        idx[(abbrev, "")] = md_files[0]
+
+        for f in md_files:
+            stem = f.stem
+            m = chap_re.match(stem)
+            if m:
+                key = f"ch.{int(m.group(1))}"
+                idx.setdefault((abbrev, key), f)
+                continue
+            if intro_re.match(stem):
+                idx.setdefault((abbrev, "intro"), f)
+                continue
+            if appendix_re.match(stem):
+                idx.setdefault((abbrev, "appendix"), f)
+                continue
+            m = numbered_section_re.match(stem)
+            if m:
+                key = f"ch.{int(m.group(1))}"
+                idx.setdefault((abbrev, key), f)
+                continue
+
+    _CANON_REF_INDEX = idx
+    return idx
+
+
+def _canon_extract_lines(path: Path, kind: str, spec: str,
+                         max_chars: int = 700) -> str:
+    """Read the cited region from a Source/ markdown file. Returns the
+    extracted snippet (truncated with ellipsis), or '' on failure.
+
+    kind = "l" → line numbers, 1-indexed (Notes MJ convention matches the
+                  PyCharm-style "Goto line" used to record refs).
+    kind = "p" → page numbers; PDF→MD conversion lost pagination, so we
+                  return an empty string (popover will show a note).
+    """
+    if kind == "p":
+        return ""  # not resolvable post-conversion
+    if kind != "l":
+        return ""
+    if not path.exists():
+        return ""
+    try:
+        lines = path.read_text(encoding="utf-8").splitlines()
+    except OSError:
+        return ""
+    n = len(lines)
+
+    # Parse "205", "205-218" (range) or "215+217[+220…]" (non-contiguous lines).
+    # Multi-plus: each cited line is treated as a separate citation; we widen
+    # each to its paragraph and concatenate with a separator.
+    if "+" in spec:
+        parts = spec.split("+")
+        try:
+            line_nums = sorted(set(int(p) for p in parts))
+        except ValueError:
+            return ""
+        snippets: list[str] = []
+        for ln in line_nums:
+            if 1 <= ln <= n:
+                end_p = ln
+                for i in range(ln, min(n, ln + 10)):
+                    if not lines[i].strip():
+                        break
+                    end_p = i + 1
+                snippets.append("\n".join(lines[ln - 1:end_p]))
+        if not snippets:
+            return ""
+        snippet = "\n\n…\n\n".join(snippets)
+        if len(snippet) > max_chars:
+            snippet = snippet[:max_chars].rsplit(" ", 1)[0] + "…"
+        return snippet
+    if "-" in spec:
+        a, b = spec.split("-", 1)
+        try:
+            start, end = int(a), int(b)
+        except ValueError:
+            return ""
+    else:
+        try:
+            start = int(spec)
+        except ValueError:
+            return ""
+        end = start
+
+    # Bounds + small context fence: include the cited range as-is.
+    start = max(1, start)
+    end = min(n, max(start, end))
+    if start > n:
+        return ""
+    snippet = "\n".join(lines[start - 1:end])
+    # Single-line refs (l.NNN) often land on a heading or a paragraph start
+    # which by itself is uninformative. Widen to the end of the paragraph
+    # (until next blank line or +10 lines max). Also include a heading + its
+    # first paragraph when start lands on a heading line.
+    if start == end:
+        # widen forward up to the next blank line (paragraph boundary) or +10
+        forward_end = end
+        for i in range(end, min(n, end + 10)):
+            if not lines[i].strip():  # blank line stops the paragraph
+                break
+            forward_end = i + 1
+        # if the cited line is a heading "## Title", continue past the
+        # blank line that follows to include the first content paragraph
+        if lines[end - 1].lstrip().startswith("#"):
+            j = forward_end
+            # skip blank lines
+            while j < n and not lines[j].strip():
+                j += 1
+            # include next paragraph
+            for i in range(j, min(n, j + 10)):
+                if not lines[i].strip():
+                    break
+                forward_end = i + 1
+        snippet = "\n".join(lines[start - 1:forward_end])
+    # If the cited region is still empty (single-line ref on a blank line),
+    # widen symmetrically as a last resort.
+    if not snippet.strip():
+        ctx_start = max(1, start - 2)
+        ctx_end = min(n, end + 3)
+        snippet = "\n".join(lines[ctx_start - 1:ctx_end])
+    snippet = snippet.strip()
+    if len(snippet) > max_chars:
+        snippet = snippet[:max_chars].rstrip() + "…"
+    return snippet
+
+
+def _resolve_canon_ref(ref_text: str) -> tuple[str, str, str] | None:
+    """Parse `ref_text` (e.g. "EiR Intro l.205-218") and return
+    (display_label, source_label, extract). source_label is a short hint
+    like "EiR · Introduction" shown in the popover header.
+    Returns None if the ref doesn't match a known book/chapter.
+    Kept for backwards compatibility; prefer _resolve_canon_ref_full()."""
+    full = _resolve_canon_ref_full(ref_text)
+    if full is None:
+        return None
+    return full[0], full[1], full[2]
+
+
+def _resolve_canon_ref_full(ref_text: str) -> tuple[str, str, str, str, str, int] | None:
+    """Like _resolve_canon_ref but also returns navigation metadata:
+    (display, source_label, extract, book_abbrev, file_path, start_line).
+    `file_path` is the absolute Path of the matched Source/ markdown file
+    (as a string for hashability); `start_line` is 1-indexed (0 if the ref
+    has no line spec — landing page only).
+    Returns None if the ref doesn't match a known book/chapter."""
+    m = _CANON_REF_RE.match(ref_text.strip())
+    if not m:
+        return None
+    book = m.group("book")
+    chap = (m.group("chap") or "").strip()
+    kind = m.group("kind") or ""
+    spec = m.group("spec") or ""
+
+    idx = _build_canon_ref_index()
+
+    # Determine chapter key for index lookup
+    chap_lower = chap.lower()
+    if chap_lower == "intro":
+        chap_key = "intro"
+    elif chap_lower.startswith("ch."):
+        chap_key = chap_lower  # already "ch.13"
+    elif chap_lower.startswith("appendix"):
+        chap_key = "appendix"
+    else:
+        chap_key = ""  # monolith fallback
+
+    path = idx.get((book, chap_key))
+    if path is None:
+        # Fallback to monolith if a specific chapter isn't indexed
+        path = idx.get((book, ""))
+    if path is None:
+        return None
+
+    # Pretty source label
+    if chap_key == "intro":
+        src_label = f"{book} · Introduction"
+    elif chap_key == "appendix":
+        src_label = f"{book} · Appendix"
+    elif chap_key.startswith("ch."):
+        src_label = f"{book} · Chapter {chap_key[3:]}"
+    else:
+        src_label = book
+
+    extract = ""
+    start_line = 0
+    if kind and spec:
+        extract = _canon_extract_lines(path, kind, spec)
+        if not extract and kind == "p":
+            extract = "(page reference — PDF pagination lost during markdown conversion)"
+        if kind == "l":
+            # Parse start line from spec ("205", "205-218", "205+207")
+            for sep in ("-", "+"):
+                if sep in spec:
+                    head = spec.split(sep, 1)[0]
+                    try:
+                        start_line = int(head)
+                    except ValueError:
+                        start_line = 0
+                    break
+            else:
+                try:
+                    start_line = int(spec)
+                except ValueError:
+                    start_line = 0
+    return ref_text, src_label, extract, book, str(path), start_line
+
+
+def _canon_book_slug(abbrev: str) -> str:
+    """Map a canon book abbreviation ("EiR", "EiS Companion") → URL slug.
+    Slugs are stable: lowercase, ASCII, hyphens. Used for the source page
+    output paths under mj-{TOKEN}/source/{slug}/…"""
+    return _mj_slug(abbrev)
+
+
+# Reverse map: file Path (str) → (book_slug, file_slug, book_abbrev).
+# Populated lazily by _build_canon_source_route_map() on first access.
+_CANON_SOURCE_ROUTE_MAP: dict[str, tuple[str, str, str]] | None = None
+
+
+def _build_canon_source_route_map() -> dict[str, tuple[str, str, str]]:
+    """Build {abs_path_str: (book_slug, file_slug, book_abbrev)} for every
+    Source/ markdown file covered by _CANON_BOOK_DIRS. Used both to
+    generate the MJ source pages and to compute canon-ref hrefs."""
+    global _CANON_SOURCE_ROUTE_MAP
+    if _CANON_SOURCE_ROUTE_MAP is not None:
+        return _CANON_SOURCE_ROUTE_MAP
+    out: dict[str, tuple[str, str, str]] = {}
+    if not SOURCE_DIR.exists():
+        _CANON_SOURCE_ROUTE_MAP = out
+        return out
+    for abbrev, subdir in _CANON_BOOK_DIRS.items():
+        book_dir = SOURCE_DIR / subdir
+        if not book_dir.exists():
+            continue
+        book_slug = _canon_book_slug(abbrev)
+        for f in sorted(book_dir.glob("*.md")):
+            if f.name.lower().startswith("00 - index"):
+                continue
+            file_slug = _mj_slug(f.stem)
+            out[str(f)] = (book_slug, file_slug, abbrev)
+    _CANON_SOURCE_ROUTE_MAP = out
+    return out
+
+
+def _canon_source_href(source_path: str, start_line: int,
+                       current_dir: Path) -> str | None:
+    """Return a relative URL from `current_dir` to the rendered Source page
+    for `source_path` (an absolute path to a Source/*.md file), with #LN
+    fragment if start_line > 0. None if MJ overlay isn't configured or the
+    path isn't in the route map."""
+    if not MJ_TOKEN:
+        return None
+    routes = _build_canon_source_route_map()
+    info = routes.get(source_path)
+    if info is None:
+        return None
+    book_slug, file_slug, _abbrev = info
+    target = Path(f"mj-{MJ_TOKEN}") / "source" / book_slug / f"{file_slug}.html"
+    url = relative_url(current_dir, target)
+    if start_line > 0:
+        url += f"#L{start_line}"
+    return url
+
+
+def inject_canon_refs(html_body: str, current_dir: Path | None = None) -> str:
+    """Find <code>BOOK CHAP l.NNN</code> elements that match a known canon
+    reference pattern and convert them to interactive `<a class="canon-ref"
+    href="…" data-extract="…">` triggers. The popover (hover) shows the
+    cited markdown lines; the link (click) navigates to the rendered Source
+    page at the cited line anchor. No-op on text that doesn't match the
+    pattern, so unrelated <code> blocks (e.g. statbloc abbreviations) are
+    left alone.
+
+    `current_dir` is the path of the page being rendered (relative to OUT)
+    and is used to compute relative URLs. If omitted, the canon-ref is
+    rendered as a non-clickable <span> (legacy behaviour).
+
+    Should only be called on MJ-rendered HTML (autonomous overlay pages and
+    the .mj-entity-enrichment section of public pages)."""
+    if not html_body:
+        return html_body
+    if "<code>" not in html_body and "<code " not in html_body:
+        return html_body
+
+    soup = BeautifulSoup(html_body, 'html.parser')
+    changed = False
+    counter = 0
+    for code_el in list(soup.find_all('code')):
+        # Don't touch code inside <pre> (fenced blocks)
+        if code_el.find_parent('pre') is not None:
+            continue
+        text = code_el.get_text("", strip=True)
+        if not text:
+            continue
+        resolved = _resolve_canon_ref_full(text)
+        if resolved is None:
+            continue
+        counter += 1
+        display, src_label, extract, _book, src_path, start_line = resolved
+        # Header shown in the popover combines the book/chapter label and the
+        # exact line spec — gives the reader the full citation even though the
+        # in-text marker is just a superscript number.
+        header = f"{src_label} — {display}" if src_label else display
+        attrs = {
+            'class': 'canon-ref',
+            'data-source': header,
+            'data-extract': extract or '(extrait indisponible)',
+            'title': display,  # native tooltip = full ref for accessibility
+        }
+        href = None
+        if current_dir is not None:
+            href = _canon_source_href(src_path, start_line, current_dir)
+        if href:
+            attrs['href'] = href
+            new_el = soup.new_tag('a', attrs=attrs)
+        else:
+            new_el = soup.new_tag('span', attrs=attrs)
+        # In-text marker: footnote-style superscript number
+        sup = soup.new_tag('sup')
+        sup.string = str(counter)
+        new_el.append(sup)
+        code_el.replace_with(new_el)
+        changed = True
+
+    if not changed:
+        return html_body
     return str(soup)
 
 
@@ -864,9 +1372,19 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
   var index = null, indexPromise = null;
   function loadIndex(base) {
     if (indexPromise) return indexPromise;
-    indexPromise = fetch(base + 'search-index.json')
-      .then(function (r) { return r.json(); })
-      .then(function (data) { index = data; return data; });
+    var promises = [fetch(base + 'search-index.json').then(function (r) { return r.json(); })];
+    var mjToken = document.body && document.body.dataset.mjToken;
+    if (mjToken) {
+      promises.push(
+        fetch(base + 'mj-' + mjToken + '/search-index.json')
+          .then(function (r) { return r.ok ? r.json() : []; })
+          .catch(function () { return []; })
+      );
+    }
+    indexPromise = Promise.all(promises).then(function (results) {
+      index = [].concat.apply([], results);
+      return index;
+    });
     return indexPromise;
   }
 
@@ -882,9 +1400,11 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
           escapeHtml(e.n != null ? String(e.n).padStart(2, '0') : (e.t.charAt(0) || '·')) +
           '</span>';
       var cat = e.c ? '<span class="search-cat">' + escapeHtml(e.c) + '</span>' : '';
-      return '<a class="search-result" href="' + escapeHtml(base + e.u) + '">' +
+      var mjBadge = e.mj ? '<span class="search-mj-badge">MJ</span>' : '';
+      var cls = 'search-result' + (e.mj ? ' search-result-mj' : '');
+      return '<a class="' + cls + '" href="' + escapeHtml(base + e.u) + '">' +
              thumb +
-             '<span class="search-meta"><span class="search-title">' + escapeHtml(e.t) + '</span>' + cat + '</span>' +
+             '<span class="search-meta"><span class="search-title">' + escapeHtml(e.t) + mjBadge + '</span>' + cat + '</span>' +
              '</a>';
     }).join('');
   }
@@ -1068,12 +1588,18 @@ SEARCH_JS = r"""// Client-side search.  Loads search-index.json on first focus, 
   }
 
   document.addEventListener('click', function (e) {
-    var img = e.target;
-    if (!img || img.tagName !== 'IMG') return;
-    var anchor = img.closest('a');
+    // Catch clicks anywhere inside an <a> that wraps a post image — not just
+    // clicks on the <img> itself. The anchor often has padding / line-height
+    // that extends past the image edges, and clicking that border would
+    // otherwise follow the link to the Blogger CDN and leave the site.
+    var target = e.target;
+    if (!target || !target.closest) return;
+    var anchor = target.closest('a');
     if (!anchor) return;
     var href = anchor.getAttribute('href');
     if (!href || !IMG_EXT.test(href)) return;
+    var img = anchor.querySelector('img');
+    if (!img) return;
     e.preventDefault();
     openLightbox(href, img.getAttribute('alt'));
   });
@@ -1304,6 +1830,24 @@ def layout(current_dir: Path, title: str, body: str,
         top_items.append(f'<a href="{html.escape(href)}">{html.escape(label)}</a>')
     top_nav = " · ".join(top_items)
 
+    # MJ-only nav entries — appended to the public nav, hidden by CSS until
+    # MJ mode is toggled. Each separator+link is wrapped in .mj-only so it
+    # disappears cleanly when not in MJ mode.
+    mj_extras = ""
+    if MJ_TOKEN:
+        mj_root = Path(f"mj-{MJ_TOKEN}")
+        mj_links = [
+            ("Scénarios", mj_root / "scenarios" / "index.html"),
+            ("Notes MJ", mj_root / "notes" / "index.html"),
+        ]
+        mj_extras_parts = []
+        for label, path in mj_links:
+            href = relative_url(current_dir, path)
+            mj_extras_parts.append(
+                f'<span class="mj-only"> · <a href="{html.escape(href)}">'
+                f'{html.escape(label)}</a></span>')
+        mj_extras = "".join(mj_extras_parts)
+
     sidebar = _render_sidebar(current_dir, buckets, active_arc)
     og_block = _render_og_block(title, og)
 
@@ -1318,6 +1862,7 @@ def layout(current_dir: Path, title: str, body: str,
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
 <link rel="stylesheet" href="{html.escape(css)}">
+<script src="{html.escape(relative_url(current_dir, Path('mj-mode.js')))}" defer></script>
 </head>
 <body class="{extra_class}">
 <header class="site-header">
@@ -1330,7 +1875,7 @@ def layout(current_dir: Path, title: str, body: str,
            data-base="{html.escape(site_base)}">
     <div class="search-results" role="listbox" aria-label="Résultats de recherche"></div>
   </div>
-  <nav class="site-nav">{top_nav}</nav>
+  <nav class="site-nav">{top_nav}{mj_extras}</nav>
   <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
 </header>
 <div class="layout">
@@ -1498,6 +2043,12 @@ def render_arc_page(bucket: ArcBucket, buckets: dict[int, ArcBucket],
         block.append('</section>')
         cat_blocks.append("\n".join(block))
 
+        # Inject MJ-only Scénarios section right after Résumés, before PJ
+        if src_folder == "Résumés":
+            mj_block = mj_scenarios_section_html(arc.num)
+            if mj_block:
+                cat_blocks.append(mj_block)
+
     if cat_blocks:
         parts.append('<div class="arc-cats">')
         parts.extend(cat_blocks)
@@ -1549,6 +2100,18 @@ def render_category_index(out_folder: str, src_folder: str, label: str,
         for pg in sorted(canonical, key=lambda p: p.post.title.lower()):
             body.append(entry_card_html(pg, f"{pg.slug}.html"))
         body.append('</ul>')
+
+        # MJ-only entries (Phase 3): folded into the same index, .mj-only
+        mj_only = _mj_only_entities_for_category(src_folder)
+        if mj_only:
+            body.append('<ul class="card-grid card-grid-entries mj-only mj-only-entries">')
+            for e in sorted(mj_only, key=lambda x: x.title.lower()):
+                rel = f"../mj-{MJ_TOKEN}/{e.out_url}"
+                body.append(
+                    f'<li><a class="entry-card" href="{html.escape(rel)}">'
+                    f'<span class="entry-title">{html.escape(e.title)}'
+                    f'<span class="mj-badge">MJ</span></span></a></li>')
+            body.append('</ul>')
 
     og = OgMeta(
         description=f"{label} — {meta} de la campagne Warhammer.",
@@ -1683,12 +2246,15 @@ def render_post_page(pg: Page, pages: list[Page],
     parts.append(f'<div class="post-body">{body_html}</div>')
 
     def appearances_html(target: Page, current_dir: Path,
-                         aggregate_variants: bool) -> str:
+                         aggregate_variants: bool,
+                         extra_labels: list[str] | None = None) -> str:
         """Render an 'Apparitions' section for `target` (PNJ/PJ/Lieu/Doc/Annexe).
         If `aggregate_variants` is True, union session labels across all
         siblings (so the canonical Boris page covers all his arcs in one
         sweep). For PJ — where each variant displays its own bio + its own
         apparitions just below — set to False so each block is self-contained.
+        `extra_labels` carries labels absorbed from visually-identical siblings
+        merged into this entry (see visual deduplication below).
         """
         if target.session_num is not None:
             return ""
@@ -1696,6 +2262,8 @@ def render_post_page(pg: Page, pages: list[Page],
             return ""
 
         label_sources: list[list[str]] = [target.post.labels]
+        if extra_labels:
+            label_sources.append(extra_labels)
         if aggregate_variants and target.variant_group:
             for sib in siblings_for(target, siblings_idx):
                 if sib.site_rel != target.site_rel:
@@ -1744,42 +2312,77 @@ def render_post_page(pg: Page, pages: list[Page],
         out.append('</div></details>')
         return "\n".join(out)
 
-    # Main page apparitions:
-    #   - PJ : not aggregated (each variant carries its own list further down)
-    #   - PNJ / Lieux / Doc / Annexe : aggregated (no per-variant rendering)
-    aggregate = pg.post.folder != "PJ"
-    main_app = appearances_html(pg, pg.site_rel.parent, aggregate)
+    # Visual deduplication across the variant group: variants that share the
+    # same title + subtitle + portrait represent the same narrative state
+    # (e.g. Boris Todbringer reposted three times with identical visuals) and
+    # collapse into a single inline bio. The absorbed siblings contribute
+    # their session labels to the kept page's apparitions list.
+    def _visual_key(p: Page) -> tuple[str, str, str]:
+        return ((p.post.title or "").strip(),
+                (p.subtitle or "").strip(),
+                (p.thumbnail or "").strip())
+
+    absorbed_labels: dict[Path, list[str]] = {pg.site_rel: []}
+    siblings_to_render: list[Page] = []
+    if pg.variant_group and pg.post.folder in _GROUPABLE_FOLDERS:
+        all_in_group = siblings_for(pg, siblings_idx)
+        others = [s for s in all_in_group if s.site_rel != pg.site_rel]
+        key_owner: dict[tuple[str, str, str], Path] = {_visual_key(pg): pg.site_rel}
+        for s in others:
+            key = _visual_key(s)
+            owner = key_owner.get(key)
+            if owner is not None:
+                absorbed_labels.setdefault(owner, []).extend(s.post.labels)
+            else:
+                key_owner[key] = s.site_rel
+                absorbed_labels.setdefault(s.site_rel, [])
+                siblings_to_render.append(s)
+
+    # Main page apparitions: this page's own sessions, plus any labels merged
+    # in from visually-identical siblings that were absorbed.
+    main_app = appearances_html(pg, pg.site_rel.parent,
+                                aggregate_variants=False,
+                                extra_labels=absorbed_labels.get(pg.site_rel))
     if main_app:
         parts.append(main_app)
 
-    # For PJ pages only: render each variant as a full inline bio after the
-    # apparitions section. (PNJ / Lieux variants are reachable via session
-    # links in Apparitions, no extra cards needed.)
-    if pg.variant_group and pg.post.folder == "PJ":
-        all_siblings = siblings_for(pg, siblings_idx)
-        siblings = [s for s in all_siblings if s.site_rel != pg.site_rel]
-        if siblings:
-            parts.append('<div class="variants-bios">')
-            for it in siblings:
-                body_html_v = rewrite_html_links(it.post.html, it,
-                                                 url_map, label_map)
-                # Self-anchor: clicking the variant title updates the URL
-                # bar without navigating elsewhere (useful for sharing).
-                role = ('<span class="variant-flag">Version principale</span>'
-                        if it.is_main else '')
-                parts.append(f'<article class="variant-bio" id="variant-{html.escape(it.slug)}">')
-                parts.append(f'<h3 class="variant-bio-title">'
-                             f'<a href="#variant-{html.escape(it.slug)}">'
-                             f'{html.escape(it.post.title)}</a>'
-                             f'{role}</h3>')
-                parts.append(f'<div class="variant-bio-body">{body_html_v}</div>')
-                # Each variant gets its OWN apparitions list (its own labels)
-                variant_app = appearances_html(it, pg.site_rel.parent,
-                                                aggregate_variants=False)
-                if variant_app:
-                    parts.append(variant_app)
-                parts.append('</article>')
-            parts.append('</div>')
+    # Render each visually-distinct variant as a full inline bio after the
+    # apparitions section, for every groupable folder (PJ / PNJ / Lieux).
+    # Lets a character/place show its full evolution on a single canonical
+    # page.
+    if siblings_to_render:
+        pg_title = (pg.post.title or "").strip()
+        parts.append('<div class="variants-bios">')
+        for it in siblings_to_render:
+            body_html_v = rewrite_html_links(it.post.html, it,
+                                             url_map, label_map)
+            # Heading text: when the variant shares the page's title (typical
+            # PNJ case where all states have the same character name and only
+            # the role/portrait differ), promote the subtitle to the heading
+            # to avoid showing the same name twice. Strip the bold-subtitle
+            # paragraph from the body in that case so it isn't duplicated.
+            it_title = (it.post.title or "").strip()
+            use_subtitle = (it_title == pg_title and bool(it.subtitle))
+            heading_text = it.subtitle if use_subtitle else it.post.title
+            if use_subtitle:
+                body_html_v = strip_subtitle_paragraph(body_html_v)
+            # Self-anchor: clicking the variant title updates the URL bar
+            # without navigating elsewhere (useful for sharing).
+            role = ('<span class="variant-flag">Version principale</span>'
+                    if it.is_main else '')
+            parts.append(f'<article class="variant-bio" id="variant-{html.escape(it.slug)}">')
+            parts.append(f'<h3 class="variant-bio-title">'
+                         f'<a href="#variant-{html.escape(it.slug)}">'
+                         f'{html.escape(heading_text)}</a>'
+                         f'{role}</h3>')
+            parts.append(f'<div class="variant-bio-body">{body_html_v}</div>')
+            variant_app = appearances_html(it, pg.site_rel.parent,
+                                            aggregate_variants=False,
+                                            extra_labels=absorbed_labels.get(it.site_rel))
+            if variant_app:
+                parts.append(variant_app)
+            parts.append('</article>')
+        parts.append('</div>')
 
     # For session pages: list every PJ/PNJ/Lieu/Document/Annexe tagged with
     # this session number, grouped by category — gives a quick lookup of
@@ -1815,6 +2418,12 @@ def render_post_page(pg: Page, pages: list[Page],
                                       pg.site_rel.parent, "bottom"))
 
     parts.append('</article>')
+
+    # Phase 3: MJ enrichment section (CSS-hidden until mj-mode toggled)
+    mj_enrich = _mj_enrichment_html_for_page(pg)
+    if mj_enrich:
+        parts.append(mj_enrich)
+
     og = OgMeta(
         description=og_description(pg.post.html),
         image=pg.thumbnail,
@@ -2883,9 +3492,9 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 /* PJ pages: variants rendered as stacked inline bios with floating portrait */
 .variants-bios { display: flex; flex-direction: column; gap: 2.5rem;
                   margin-top: 1.5rem; }
-.variant-bio { border-top: 1px solid var(--rule); padding-top: 1.8rem;
-               overflow: hidden; /* contain the float */ }
+.variant-bio { border-top: 1px solid var(--rule); padding-top: 1.8rem; }
 .variant-bio:first-child { border-top: 0; padding-top: 0; }
+.variant-bio > .appearances { clear: both; margin-top: 1.4rem; }
 .variant-bio-title {
   font-family: var(--serif-display-2);
   font-size: 1.35rem; line-height: 1.2;
@@ -2903,7 +3512,10 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   font-weight: normal;
 }
 .variant-bio-body { font-size: 0.98rem; line-height: 1.65;
-                     color: var(--ink-soft); }
+                     color: var(--ink-soft);
+                     overflow: hidden; /* contain the floated portrait so
+                                          the apparitions block starts on
+                                          a clean line below */ }
 .variant-bio-body > h1,
 .variant-bio-body > h2 { display: none; /* hide blogger's inner heading */ }
 .variant-bio-body p { margin: 0.7rem 0; }
@@ -3110,6 +3722,1463 @@ def write(path: Path, content: str) -> None:
     path.write_text(content, encoding="utf-8")
 
 
+# --------------------------------------------------------------------------- #
+# MJ overlay — Phase 1 implementation
+# --------------------------------------------------------------------------- #
+
+_MJ_WIKILINK_RE = re.compile(r"\[\[(?P<target>[^|\]\n]+?)(?:\|(?P<alias>[^\]\n]+?))?\]\]")
+
+
+@dataclass
+class MJOverlayPage:
+    src_path: Path
+    out_rel_path: Path          # path under MJ_OUT_DIR
+    title: str
+    body_md: str
+    category: str               # scenario_hub | scenario_scene | scenario_ref | mj_note
+    scenario: str | None = None
+    arc: int | None = None
+
+
+def _mj_slug(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = re.sub(r"[^\w\s-]", "", s).strip().lower()
+    s = re.sub(r"[\s_]+", "-", s)
+    s = re.sub(r"-+", "-", s)
+    return s
+
+
+def _md_to_html(text: str) -> str:
+    """Markdown → HTML. Uses markdown-it-py."""
+    try:
+        from markdown_it import MarkdownIt
+    except ImportError:
+        return f"<pre>{html.escape(text)}</pre>"
+    md = (MarkdownIt("commonmark", {"linkify": False, "html": True, "breaks": False})
+          .enable(["table", "strikethrough"]))
+    return md.render(text)
+
+
+def _parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
+    """Extract minimal YAML-style frontmatter at the top of a .md file.
+    Returns (frontmatter dict, remaining body). Supports only `key: value`
+    pairs (no nested structures, no lists)."""
+    if not text.startswith("---"):
+        return {}, text
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return {}, text
+    fm: dict[str, str] = {}
+    end_idx = None
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            end_idx = i
+            break
+        m = re.match(r"^\s*([A-Za-z_][A-Za-z_0-9-]*)\s*:\s*(.+?)\s*$", lines[i])
+        if m:
+            fm[m.group(1)] = m.group(2).strip().strip('"').strip("'")
+    if end_idx is None:
+        return {}, text
+    return fm, "\n".join(lines[end_idx + 1:])
+
+
+def _scenario_arc_from_hub(hub_path: Path) -> int | None:
+    """Read the `arc:` field from the YAML frontmatter of a scenario Hub.md."""
+    if not hub_path.exists():
+        return None
+    fm, _ = _parse_frontmatter(hub_path.read_text(encoding="utf-8"))
+    arc_str = fm.get("arc")
+    if arc_str is None:
+        return None
+    try:
+        return int(arc_str)
+    except (ValueError, TypeError):
+        return None
+
+
+def _walk_notes_mj_overlay() -> list[MJOverlayPage]:
+    """Walk Notes MJ/ and produce MJOverlayPage objects for Phase 1 categories.
+    Scenario→arc mapping is discovered from YAML frontmatter in each Hub.md."""
+    if not NOTES_MJ_DIR.exists():
+        return []
+    pages: list[MJOverlayPage] = []
+
+    # Scénarios
+    sc_root = NOTES_MJ_DIR / "Scénarios"
+    if sc_root.exists():
+        for scenario_dir in sorted(sc_root.iterdir()):
+            if not scenario_dir.is_dir():
+                continue
+            sc_name = scenario_dir.name
+            sc_slug = _mj_slug(sc_name)
+            arc_num = _scenario_arc_from_hub(scenario_dir / "Hub.md")
+
+            for f in sorted(scenario_dir.glob("*.md")):
+                stem = f.stem
+                if stem == "Hub":
+                    category = "scenario_hub"
+                    out_rel = Path("scenarios") / sc_slug / "index.html"
+                elif re.match(r"^\d", stem):
+                    category = "scenario_scene"
+                    out_rel = Path("scenarios") / sc_slug / f"{_mj_slug(stem)}.html"
+                else:
+                    category = "scenario_ref"
+                    out_rel = Path("scenarios") / sc_slug / f"{_mj_slug(stem)}.html"
+                pages.append(MJOverlayPage(
+                    src_path=f, out_rel_path=out_rel, title=stem,
+                    body_md=_parse_frontmatter(f.read_text(encoding="utf-8"))[1],
+                    category=category, scenario=sc_name, arc=arc_num))
+
+    # Notes MJ/Documents/, PNJ/, Lieux/, Factions/ are handled in Phase 3.
+
+    # Notes MJ thématiques — root NN-prefixed files
+    for f in sorted(NOTES_MJ_DIR.glob("[0-9][0-9] - *.md")):
+        pages.append(MJOverlayPage(
+            src_path=f,
+            out_rel_path=Path("notes") / f"{_mj_slug(f.stem)}.html",
+            title=f.stem, body_md=_parse_frontmatter(f.read_text(encoding="utf-8"))[1],
+            category="mj_note"))
+
+    # Turmoil/
+    turmoil = NOTES_MJ_DIR / "Turmoil"
+    if turmoil.exists():
+        for f in sorted(turmoil.glob("*.md")):
+            pages.append(MJOverlayPage(
+                src_path=f,
+                out_rel_path=Path("notes") / "turmoil" / f"{_mj_slug(f.stem)}.html",
+                title=f.stem, body_md=_parse_frontmatter(f.read_text(encoding="utf-8"))[1],
+                category="mj_note"))
+
+    # Arcs/
+    arcs_dir = NOTES_MJ_DIR / "Arcs"
+    if arcs_dir.exists():
+        for f in sorted(arcs_dir.glob("*.md")):
+            pages.append(MJOverlayPage(
+                src_path=f,
+                out_rel_path=Path("notes") / "arcs" / f"{_mj_slug(f.stem)}.html",
+                title=f.stem, body_md=_parse_frontmatter(f.read_text(encoding="utf-8"))[1],
+                category="mj_note"))
+
+    return pages
+
+
+def _build_mj_wikilink_index(mj_pages: list[MJOverlayPage]) -> dict[str, Path]:
+    """Map normalized stem → out_rel_path. Used to resolve [[wikilinks]]."""
+    idx: dict[str, Path] = {}
+    for p in mj_pages:
+        keys = {p.title.lower()}
+        m = re.match(r"^\d+\s*-\s*(.+)$", p.title)
+        if m:
+            keys.add(m.group(1).strip().lower())
+        if p.scenario:
+            keys.add(f"{p.scenario}/{p.title}".lower())
+            if p.title == "Hub":
+                keys.add(p.scenario.lower())
+        for k in keys:
+            idx.setdefault(k, p.out_rel_path)
+    return idx
+
+
+def _relpath_within_mj(from_dir: Path, to_path: Path) -> str:
+    """Compute a relative URL from a dir to a path, both relative to MJ_OUT_DIR."""
+    from_parts = list(from_dir.parts)
+    to_parts = list(to_path.parts)
+    common = 0
+    while (common < min(len(from_parts), len(to_parts))
+           and from_parts[common] == to_parts[common]):
+        common += 1
+    ups = len(from_parts) - common
+    return "../" * ups + "/".join(to_parts[common:])
+
+
+def _resolve_mj_wikilinks(text: str, current_out_rel: Path,
+                          mj_idx: dict[str, Path],
+                          url_map: dict[str, Path] | None = None) -> str:
+    """Replace [[wikilinks]] in markdown.
+    - If target matches an MJ overlay page (scene, hub, note) → produce a link.
+    - Otherwise → strip the brackets and return plain text. The entity popover
+      system (`inject_entity_popovers`) detects entity names in prose and
+      handles linking + tooltips for PNJ / Lieux / Factions / Documents.
+    Public link resolution by name is no longer the job of [[…]]."""
+    def repl(m: re.Match) -> str:
+        raw_target = m.group("target").strip()
+        alias = (m.group("alias") or raw_target).strip()
+        anchor = ""
+        if "#" in raw_target:
+            raw_target, anchor_text = raw_target.split("#", 1)
+            anchor = "#" + _mj_slug(anchor_text.strip())
+            raw_target = raw_target.strip()
+
+        keys = _norm_keys_for_match(raw_target)
+        keys.add(raw_target.lower())
+        for k in keys:
+            if k in mj_idx:
+                target_out = mj_idx[k]
+                rel = _relpath_within_mj(current_out_rel.parent, target_out)
+                return f"[{alias}]({quote(rel.replace(chr(92), '/'), safe='/#')}{anchor})"
+
+        # No MJ overlay match → fall through to plain text. The popover system
+        # will tooltipize entity names in the resulting HTML.
+        return alias
+
+    return _MJ_WIKILINK_RE.sub(repl, text)
+
+
+def _render_mj_overlay_page(mj_page: MJOverlayPage,
+                            mj_idx: dict[str, Path],
+                            url_map: dict[str, Path],
+                            buckets: dict[int, ArcBucket],
+                            entity_popover_map: dict[str, EntityPopover] | None = None) -> str:
+    """Render an MJ overlay page using the standard site layout."""
+    current_out_rel = mj_page.out_rel_path
+    md_text = _resolve_mj_wikilinks(
+        mj_page.body_md, current_out_rel, mj_idx, url_map)
+    html_body = _md_to_html(md_text)
+
+    # Phase 4: apply entity popover system to scenario / handout / note bodies.
+    # Use _MJ_POPOVER_MAP (alias-resolved + MJ-only entities) instead of the
+    # raw blog popover map, so canonical Notes MJ spellings fire popovers.
+    popover_map = _MJ_POPOVER_MAP if _MJ_POPOVER_MAP else entity_popover_map
+    if popover_map:
+        current_dir_rel = (MJ_OUT_DIR / current_out_rel).parent.relative_to(OUT)
+        html_body = inject_entity_popovers(html_body, popover_map, current_dir_rel)
+
+    # MJ-only canon refs: <code>EiR Intro l.205-218</code> → hover popover + click navigation
+    current_dir_from_out = (MJ_OUT_DIR / current_out_rel).parent.relative_to(OUT)
+    html_body = inject_canon_refs(html_body, current_dir_from_out)
+
+    # Breadcrumb
+    crumbs = ['<a href="' + _relpath_within_mj(current_out_rel.parent, Path("index.html")) + '">Notes MJ</a>']
+    if mj_page.category in ("scenario_hub", "scenario_scene", "scenario_ref"):
+        sc_slug = _mj_slug(mj_page.scenario) if mj_page.scenario else ""
+        crumbs.append('<a href="' + _relpath_within_mj(
+            current_out_rel.parent, Path("scenarios") / "index.html") + '">Scénarios</a>')
+        if mj_page.category != "scenario_hub":
+            crumbs.append('<a href="' + _relpath_within_mj(
+                current_out_rel.parent, Path("scenarios") / sc_slug / "index.html")
+                + f'">{html.escape(mj_page.scenario or "")}</a>')
+        else:
+            crumbs.append(f'<span>{html.escape(mj_page.scenario or "")}</span>')
+    elif mj_page.category == "mj_note":
+        crumbs.append('<a href="' + _relpath_within_mj(
+            current_out_rel.parent, Path("notes") / "index.html") + '">Notes thématiques</a>')
+
+    breadcrumb_html = '<nav class="mj-breadcrumb">' + " · ".join(crumbs) + '</nav>'
+
+    body = f"""
+{breadcrumb_html}
+<article class="post mj-content">
+<div class="post-body">
+{html_body}
+</div>
+</article>
+"""
+    return layout(current_dir_from_out, mj_page.title, body,
+                  extra_class="page-mj-overlay", buckets=buckets)
+
+
+def _render_mj_index_pages(mj_pages: list[MJOverlayPage],
+                           buckets: dict[int, ArcBucket]) -> dict[Path, str]:
+    """Render the MJ navigation index pages (root index, scenarios, notes)."""
+    out: dict[Path, str] = {}
+
+    # Group by category (Phase 1: scenarios + thematic MJ notes only)
+    scenarios_by_slug: dict[str, list[MJOverlayPage]] = {}
+    notes: list[MJOverlayPage] = []
+    for p in mj_pages:
+        if p.category in ("scenario_hub", "scenario_scene", "scenario_ref"):
+            scenarios_by_slug.setdefault(_mj_slug(p.scenario or ""), []).append(p)
+        elif p.category == "mj_note":
+            notes.append(p)
+
+    # Root MJ index
+    root_body = ['<h1>Notes MJ</h1>',
+                 '<p>Espace privé MJ — non visible côté joueurs.</p>',
+                 '<div class="mj-cat-list">']
+    if scenarios_by_slug:
+        root_body.append('<section class="arc-cat"><h2 class="cat-heading">'
+                         '<a href="scenarios/index.html">Scénarios</a>'
+                         '<span class="cat-rule"></span>'
+                         f'<span class="cat-tally">{len(scenarios_by_slug)}</span></h2></section>')
+    if notes:
+        root_body.append('<section class="arc-cat"><h2 class="cat-heading">'
+                         '<a href="notes/index.html">Notes thématiques</a>'
+                         '<span class="cat-rule"></span>'
+                         f'<span class="cat-tally">{len(notes)}</span></h2></section>')
+    root_body.append('</div>')
+    mj_root = Path(f"mj-{MJ_TOKEN}")
+    out[Path("index.html")] = layout(mj_root, "Notes MJ — Index",
+                                     "\n".join(root_body),
+                                     extra_class="page-mj-overlay", buckets=buckets)
+
+    # Scenarios index (grouped by arc)
+    sc_body = ['<h1>Scénarios</h1>',
+               '<p>Homebrew scenarios groupés par arc.</p>']
+    by_arc: dict[int | None, list[tuple[str, str, MJOverlayPage]]] = {}
+    for sc_slug, scenes in scenarios_by_slug.items():
+        hub_candidates = [s for s in scenes if s.category == "scenario_hub"]
+        hub = hub_candidates[0] if hub_candidates else scenes[0]
+        by_arc.setdefault(hub.arc, []).append((sc_slug, hub.scenario or sc_slug, hub))
+    for arc_num in sorted(by_arc.keys(), key=lambda x: (x is None, x or 0)):
+        if arc_num is None:
+            sc_body.append('<section class="arc-cat"><h2 class="cat-heading">Sans arc<span class="cat-rule"></span></h2><ul class="card-grid card-grid-entries">')
+        else:
+            sc_body.append(f'<section class="arc-cat"><h2 class="cat-heading">Arc {to_roman(arc_num)}<span class="cat-rule"></span></h2><ul class="card-grid card-grid-entries">')
+        for sc_slug, sc_name, hub in sorted(by_arc[arc_num], key=lambda x: x[1].lower()):
+            sc_body.append(f'<li><a class="entry-card" href="../scenarios/{sc_slug}/index.html"><span class="entry-title">{html.escape(sc_name)}</span></a></li>')
+        sc_body.append('</ul></section>')
+    out[Path("scenarios") / "index.html"] = layout(
+        mj_root / "scenarios", "Scénarios — MJ", "\n".join(sc_body),
+        extra_class="page-mj-overlay", buckets=buckets)
+
+    # Per-scenario index (the Hub becomes this, but we also add a navigation page if no Hub)
+    # The Hub is already rendered as scenarios/<slug>/index.html via _render_mj_overlay_page.
+    # Nothing to add here.
+
+    # Notes index
+    if notes:
+        nt_body = ['<h1>Notes thématiques</h1>', '<ul class="card-grid card-grid-entries">']
+        for p in sorted(notes, key=lambda x: x.title.lower()):
+            rel = _relpath_within_mj(Path("notes"), p.out_rel_path)
+            nt_body.append(f'<li><a class="entry-card" href="{quote(rel)}">'
+                           f'<span class="entry-title">{html.escape(p.title)}</span></a></li>')
+        nt_body.append('</ul>')
+        out[Path("notes") / "index.html"] = layout(
+            mj_root / "notes", "Notes thématiques — MJ", "\n".join(nt_body),
+            extra_class="page-mj-overlay", buckets=buckets)
+
+    return out
+
+
+# --------------------------------------------------------------------------- #
+# Phase 3.5 — canon Source pages (MJ-only, target of canon-ref click)
+# --------------------------------------------------------------------------- #
+
+
+_FENCE_RE = re.compile(r'^\s*(?:```|~~~)')
+
+
+def _md_with_line_anchors(md_text: str) -> str:
+    """Inject `<a class="line-anchor" id="L{N}"></a>` markers into each
+    non-empty raw markdown line. The anchor goes AFTER any leading block
+    construct markers (`#`, `##`, list bullets, blockquote `>`) so that
+    markdown-it still recognises the construct.
+
+    Skips lines inside fenced code blocks (``` or ~~~) since prepending HTML
+    there would corrupt the fence content. Empty lines are left untouched
+    (they act as paragraph breaks).
+
+    The output is still valid markdown — markdown-it-py with html: true
+    passes the inline anchor through, so it ends up as the first child of
+    the produced HTML element (heading first-child, paragraph first-child,
+    list-item first-child, …)."""
+    lines = md_text.splitlines()
+    out: list[str] = []
+    in_fence = False
+    # Match leading: indentation, then ATX heading hashes / list bullet /
+    # ordered list / blockquote markers (possibly nested), with required
+    # trailing whitespace before the content.
+    prefix_re = re.compile(
+        r'^(\s*'
+        r'(?:'
+        r'#{1,6}\s+'                    # ATX heading
+        r'|[-*+]\s+'                    # bullet list
+        r'|\d+[.)]\s+'                  # ordered list
+        r'|>\s*'                        # blockquote
+        r')*'
+        r')'
+    )
+    pending_blank_anchors: list[str] = []
+    for i, line in enumerate(lines, start=1):
+        if _FENCE_RE.match(line):
+            in_fence = not in_fence
+            out.append(line)
+            continue
+        if in_fence:
+            out.append(line)
+            continue
+        if not line.strip():
+            # Record the blank line's anchor; we'll attach it to the next
+            # non-blank line so that markdown still sees a paragraph break
+            # AND `#L{i}` for a blank line resolves to a real DOM target.
+            pending_blank_anchors.append(f'<a class="line-anchor" id="L{i}"></a>')
+            out.append(line)  # preserve the blank line for markdown parsing
+            continue
+        # Skip lines that look like table rows (start with `|`): prepending
+        # HTML there breaks markdown-it's table parser. Table rows lose
+        # their anchors but the table renders; ref jumps into the middle of
+        # a table still land on the nearest non-table line.
+        if line.lstrip().startswith("|"):
+            # Carry blank-line anchors through to the next anchorable line.
+            out.append(line)
+            continue
+        m = prefix_re.match(line)
+        prefix = m.group(1) if m else ""
+        rest = line[len(prefix):]
+        anchor = f'<a class="line-anchor" id="L{i}"></a>'
+        # Carry over any anchors from immediately preceding blank lines so
+        # `#L{blank-line}` is still scrollable. They render as zero-width
+        # spans inside the same block — invisible, but valid targets.
+        prepended = "".join(pending_blank_anchors)
+        pending_blank_anchors = []
+        out.append(f'{prefix}{prepended}{anchor}{rest}')
+    return "\n".join(out)
+
+
+def _render_canon_source_pages(buckets: dict[int, ArcBucket]) -> dict[Path, str]:
+    """Render every Source/*.md file covered by _CANON_BOOK_DIRS into a
+    standalone MJ HTML page under mj-{TOKEN}/source/{book-slug}/{file-slug}.html.
+
+    Each page renders the source markdown with per-line anchor markers
+    (#L1, #L2, …) so canon-ref links can deep-link to the cited line.
+
+    Also produces:
+    - mj-{TOKEN}/source/index.html       (book index)
+    - mj-{TOKEN}/source/{book}/index.html (per-book chapter list)
+    """
+    out: dict[Path, str] = {}
+    if not MJ_TOKEN or not SOURCE_DIR.exists():
+        return out
+
+    routes = _build_canon_source_route_map()
+    # Group files by book_slug for the per-book index
+    files_by_book: dict[str, list[tuple[str, Path, str]]] = {}
+    for abbrev, subdir in _CANON_BOOK_DIRS.items():
+        book_dir = SOURCE_DIR / subdir
+        if not book_dir.exists():
+            continue
+        book_slug = _canon_book_slug(abbrev)
+        for f in sorted(book_dir.glob("*.md")):
+            if f.name.lower().startswith("00 - index"):
+                continue
+            file_slug = _mj_slug(f.stem)
+            files_by_book.setdefault(book_slug, []).append((abbrev, f, file_slug))
+
+    if not files_by_book:
+        return out
+
+    # Render each file
+    for book_slug, file_entries in files_by_book.items():
+        for abbrev, f, file_slug in file_entries:
+            try:
+                md_text = f.read_text(encoding="utf-8")
+            except OSError:
+                continue
+            # Strip optional YAML frontmatter (rare in Source/ but safe)
+            _, md_body = _parse_frontmatter(md_text)
+            md_anchored = _md_with_line_anchors(md_body)
+            body_html = _md_to_html(md_anchored)
+
+            out_rel = Path("source") / book_slug / f"{file_slug}.html"
+            current_dir_from_out = (MJ_OUT_DIR / out_rel).parent.relative_to(OUT)
+
+            # Breadcrumb
+            book_index_href = _relpath_within_mj(
+                out_rel.parent, Path("source") / book_slug / "index.html")
+            source_index_href = _relpath_within_mj(
+                out_rel.parent, Path("source") / "index.html")
+            mj_index_href = _relpath_within_mj(
+                out_rel.parent, Path("index.html"))
+            crumbs = (
+                f'<a href="{mj_index_href}">Notes MJ</a> · '
+                f'<a href="{source_index_href}">Source</a> · '
+                f'<a href="{book_index_href}">{html.escape(abbrev)}</a> · '
+                f'<span>{html.escape(f.stem)}</span>'
+            )
+            page_body = (
+                f'<nav class="mj-breadcrumb">{crumbs}</nav>'
+                f'<article class="post mj-content canon-source-page">'
+                f'<header class="post-header"><h1 class="post-title">'
+                f'{html.escape(abbrev)} — {html.escape(f.stem)} '
+                f'<span class="mj-badge">Source</span></h1></header>'
+                f'<div class="post-body">{body_html}</div>'
+                f'</article>'
+            )
+            out[out_rel] = layout(current_dir_from_out, f"{abbrev} — {f.stem}",
+                                  page_body,
+                                  extra_class="page-mj-overlay canon-source-page",
+                                  buckets=buckets)
+
+    # Per-book chapter index
+    for book_slug, file_entries in files_by_book.items():
+        abbrev = file_entries[0][0]
+        items = []
+        for _abbrev, f, file_slug in file_entries:
+            items.append(
+                f'<li><a class="entry-card" href="{quote(file_slug)}.html">'
+                f'<span class="entry-title">{html.escape(f.stem)}</span></a></li>')
+        body = (
+            f'<nav class="mj-breadcrumb">'
+            f'<a href="../../index.html">Notes MJ</a> · '
+            f'<a href="../index.html">Source</a> · '
+            f'<span>{html.escape(abbrev)}</span>'
+            f'</nav>'
+            f'<h1>{html.escape(abbrev)}</h1>'
+            f'<p>{len(file_entries)} fichier(s) source.</p>'
+            f'<ul class="card-grid card-grid-entries">{"".join(items)}</ul>'
+        )
+        out_rel = Path("source") / book_slug / "index.html"
+        current_dir_from_out = (MJ_OUT_DIR / out_rel).parent.relative_to(OUT)
+        out[out_rel] = layout(current_dir_from_out, f"{abbrev} — Source",
+                              body,
+                              extra_class="page-mj-overlay",
+                              buckets=buckets)
+
+    # Source root index (list all books)
+    book_items = []
+    for book_slug in sorted(files_by_book.keys()):
+        abbrev = files_by_book[book_slug][0][0]
+        n = len(files_by_book[book_slug])
+        book_items.append(
+            f'<li><a class="entry-card" href="{quote(book_slug)}/index.html">'
+            f'<span class="entry-title">{html.escape(abbrev)}</span>'
+            f'<span class="entry-meta">{n} fichier(s)</span></a></li>')
+    src_body = (
+        f'<nav class="mj-breadcrumb">'
+        f'<a href="../index.html">Notes MJ</a> · '
+        f'<span>Source</span>'
+        f'</nav>'
+        f'<h1>Source (canon Cubicle 7)</h1>'
+        f'<p>Index des livres canon convertis en markdown. Pages générées en mode MJ.</p>'
+        f'<ul class="card-grid card-grid-entries">{"".join(book_items)}</ul>'
+    )
+    src_index_rel = Path("source") / "index.html"
+    src_index_dir = (MJ_OUT_DIR / src_index_rel).parent.relative_to(OUT)
+    out[src_index_rel] = layout(src_index_dir, "Source — MJ",
+                                src_body, extra_class="page-mj-overlay",
+                                buckets=buckets)
+
+    return out
+
+
+# --------------------------------------------------------------------------- #
+# Phase 3 — entity enrichment (PNJ / Lieux / Factions / Documents)
+# --------------------------------------------------------------------------- #
+
+
+@dataclass
+class MJEntity:
+    src_path: Path
+    title: str               # stem of the Notes MJ file
+    body_md: str
+    src_folder: str          # public folder this entity targets ("PNJ", "Lieux", "Documents")
+    out_url: str             # relative to MJ_OUT_DIR, e.g. "pnj/wasmeier.html"
+    norm_key: str            # normalized stem for matching
+
+
+# Notes MJ folder → public src_folder mapping
+_MJ_ENTITY_FOLDERS = {
+    "PNJ":       "PNJ",
+    "Lieux":     "Lieux",
+    "Factions":  "Lieux",     # factions live under "Lieux & Organisations"
+    "Documents": "Documents",
+}
+
+
+# Manual aliases for MJ popovers: canonical (Notes MJ) → blog title.
+# Used when the blog post title has an orthographic variant of the canonical
+# Lexicanum/Fandom form that the fuzzy matcher doesn't auto-resolve (e.g. blog
+# typo "Fernand" vs canon "Ferrand"). Each entry adds the canonical form as
+# an alias that resolves to the same popover as the blog title.
+#
+# Mismatches sourced from `Notes MJ/Orthographe canon - corrections à
+# appliquer.md` § 2. Workaround in effect until the blog posts are edited
+# on Blogger (and the local blog mirror re-synced).
+_MJ_MANUAL_ALIASES = {
+    "Immanuel-Ferrand Holswig-Schliestein": "Immanuel-Fernand Holswig-Schliestein",
+    "Volkmar von Hindenstern":               "Votkmar von Hindenstern",
+    "Detlef Sierck":                         "Detlef Sierek",
+    "Jendrick von Dabernick":                "Jendrick Dabernick",
+    "Wolfgang Holswig-Abenauer":             "Wolfgang Holswig-Abenhauer",
+    "Emmanuelle von Liebwitz":               "Comtesse Emmanuelle Von Liebwitz",
+    "Etelka Toppenheimer":                   "Comtesse Etelka Toppenheimer",
+    "Bettie Greenhill":                      "Bettie Vertebutte",
+    "Ewald von Laue":                        "Ewald Von Laue",
+    "Yabo Chao":                             "Yobo Chao",
+    "Altdorf":                               "Aldorf",
+    "Schloss Grauenberg":                    "Château Graunenberg",
+}
+
+
+# Optional template metadata lines in Notes MJ entity bodies:
+#   **Sous-titre** : short role line (5-7 words) shown under the title in popovers
+#   **Portrait** : URL or path of a portrait image shown in popovers
+# Both are extracted by `_extract_mj_entity_metadata` and fed to EntityPopover
+# for MJ-only autonomous fiches.
+_MJ_META_SUBTITLE_RE = re.compile(r'^\s*\*\*Sous-titre\*\*\s*:\s*(.+?)\s*$', re.MULTILINE)
+_MJ_META_PORTRAIT_RE = re.compile(r'^\s*\*\*Portrait\*\*\s*:\s*(\S+)', re.MULTILINE)
+
+
+def _extract_mj_entity_metadata(body_md: str) -> tuple[str | None, str | None]:
+    """Pull optional **Sous-titre** / **Portrait** lines from a Notes MJ
+    entity body. Returns (subtitle, portrait), both possibly None."""
+    subtitle = None
+    portrait = None
+    m = _MJ_META_SUBTITLE_RE.search(body_md)
+    if m:
+        subtitle = m.group(1).strip()
+    m = _MJ_META_PORTRAIT_RE.search(body_md)
+    if m:
+        portrait = m.group(1).strip()
+    return subtitle, portrait
+
+
+def _norm_entity_key(s: str) -> str:
+    s = unicodedata.normalize("NFKD", s)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = re.sub(r"[^\w\s-]", "", s).strip().lower()
+    s = re.sub(r"[\s_-]+", " ", s)
+    return s
+
+
+# Honorifics / titles to strip when computing match keys
+_TITLE_WORDS = {
+    "lieutenant", "capitaine", "captain", "colonel", "general", "general",
+    "sergeant", "sergent", "father", "pere", "frere", "frère", "brother",
+    "sister", "soeur", "sœur", "baron", "baronne", "comte", "comtesse",
+    "count", "countess", "grand", "grande", "duc", "duchesse", "duke",
+    "lord", "lady", "sir", "dame", "abbe", "abbé", "maitre", "maître",
+    "master", "mistress", "miss", "monsieur", "madame", "doctor", "docteur",
+    "professeur", "professor", "doktor",
+}
+
+
+def _norm_keys_for_match(s: str) -> set[str]:
+    """Return possible normalized keys for fuzzy entity matching.
+    Covers full normalized form + last/first word + variants without honorifics."""
+    full = _norm_entity_key(s)
+    keys = {full}
+    words = full.split()
+    if len(words) > 1:
+        # Strip leading honorifics: "Lieutenant Erica Hauser" → "Erica Hauser"
+        stripped = words
+        while stripped and stripped[0] in _TITLE_WORDS:
+            stripped = stripped[1:]
+        if stripped:
+            keys.add(" ".join(stripped))
+            keys.add(stripped[-1])           # last word (likely surname)
+            keys.add(stripped[0])            # first word (likely given name)
+        keys.add(words[-1])
+        keys.add(words[0])
+    return {k for k in keys if k}
+
+
+def _norm_match_keys_strict(s: str) -> set[str]:
+    """Like `_norm_keys_for_match` but only returns multi-word keys (≥ 2 words).
+    Used for entity enrichment matching where single-word keys ("wolfgang",
+    "kellermann") generate false positives between unrelated PNJ that happen
+    to share a given name or surname."""
+    full = _norm_entity_key(s)
+    keys = set()
+    words = full.split()
+    if len(words) > 1:
+        keys.add(full)
+        stripped = words
+        while stripped and stripped[0] in _TITLE_WORDS:
+            stripped = stripped[1:]
+        if len(stripped) > 1:
+            keys.add(" ".join(stripped))
+    return {k for k in keys if k}
+
+
+def _walk_mj_entities() -> list[MJEntity]:
+    if not NOTES_MJ_DIR.exists() or not MJ_TOKEN:
+        return []
+    out: list[MJEntity] = []
+    for src_folder, pub_folder in _MJ_ENTITY_FOLDERS.items():
+        folder = NOTES_MJ_DIR / src_folder
+        if not folder.exists():
+            continue
+        out_prefix = FOLDER_TO_OUT.get(pub_folder, pub_folder.lower())
+        for f in sorted(folder.glob("*.md")):
+            fm, body = _parse_frontmatter(f.read_text(encoding="utf-8"))
+            out.append(MJEntity(
+                src_path=f,
+                title=f.stem,
+                body_md=body,
+                src_folder=pub_folder,
+                out_url=f"{out_prefix}/{_mj_slug(f.stem)}.html",
+                norm_key=_norm_entity_key(f.stem),
+            ))
+    return out
+
+
+# Module-level caches, populated at start of build()
+_MJ_ENTITIES_CACHE: list[MJEntity] | None = None
+_MJ_ENRICHMENT_BY_PAGE: dict[Path, MJEntity] | None = None  # site_rel → entity (match)
+_MJ_ONLY_ENTITIES: dict[str, list[MJEntity]] | None = None   # src_folder → MJ-only entities
+_MJ_OVERLAY_IDX: dict[str, Path] | None = None              # wikilink → mj_out_rel path
+_MJ_URL_MAP: dict[str, Path] | None = None                  # normalized entity name → public path
+_MJ_LABEL_MAP: dict[str, Path] | None = None                # original label → public path (case-insensitive)
+_MJ_POPOVER_MAP: dict[str, EntityPopover] | None = None     # entity name → popover for inject_entity_popovers
+
+
+def _populate_mj_entity_caches(pages: list[Page],
+                               url_map: dict[str, Path],
+                               label_map: dict[str, Path],
+                               popover_map: dict[str, EntityPopover] | None = None) -> None:
+    """Match MJ entities to blog pages; cache results for use during render."""
+    global _MJ_ENTITIES_CACHE, _MJ_ENRICHMENT_BY_PAGE, _MJ_ONLY_ENTITIES
+    global _MJ_OVERLAY_IDX, _MJ_URL_MAP, _MJ_LABEL_MAP, _MJ_POPOVER_MAP
+    if not MJ_TOKEN:
+        _MJ_ENTITIES_CACHE = []
+        _MJ_ENRICHMENT_BY_PAGE = {}
+        _MJ_ONLY_ENTITIES = {}
+        _MJ_OVERLAY_IDX = {}
+        _MJ_URL_MAP = {}
+        _MJ_LABEL_MAP = {}
+        _MJ_POPOVER_MAP = {}
+        return
+    _MJ_POPOVER_MAP = dict(popover_map) if popover_map else {}
+    # Build wikilink index from scenarios + thematic notes (Phase 1 overlay)
+    mj_pages = _walk_notes_mj_overlay()
+    _MJ_OVERLAY_IDX = _build_mj_wikilink_index(mj_pages)
+    # Build a normalized name → public path index for wikilink resolution
+    # (label_map is case-sensitive; we need permissive lookup for [[Gideon]],
+    # [[gideon]], [[Karl-Heinz Wasmeier]], etc.)
+    name_idx: dict[str, Path] = {}
+    for pg in pages:
+        if pg.variant_group and not pg.is_main:
+            continue
+        if not pg.post.folder:
+            continue
+        for k in _norm_keys_for_match(pg.post.title or ""):
+            name_idx.setdefault(k, pg.site_rel)
+        if pg.slug:
+            for k in _norm_keys_for_match(pg.slug.replace("-", " ")):
+                name_idx.setdefault(k, pg.site_rel)
+    _MJ_URL_MAP = name_idx
+    # Also keep label_map lowercased for fallback
+    _MJ_LABEL_MAP = {k.lower(): v for k, v in label_map.items()}
+
+    entities = _walk_mj_entities()
+    _MJ_ENTITIES_CACHE = entities
+
+    # Build {(src_folder, norm_key): list of pages} — multi-page bucket so all
+    # variants of an entity (same title, different slugs) get enriched.
+    # Strict keys (multi-word only) avoid false-positive matches where two
+    # unrelated PNJ share a given name ("Wolfgang Kellermann" vs "Wolfgang
+    # Holswig-Abenhauer") or a surname.
+    page_idx: dict[tuple[str, str], list[Page]] = {}
+    for pg in pages:
+        if not pg.post.folder:
+            continue
+        keys = _norm_match_keys_strict(pg.post.title or "")
+        if pg.slug:
+            keys |= _norm_match_keys_strict(pg.slug.replace("-", " "))
+        for k in keys:
+            bucket = page_idx.setdefault((pg.post.folder, k), [])
+            if pg not in bucket:
+                bucket.append(pg)
+
+    # Lookup table from canonical Notes MJ title → blog title (typo variant).
+    # Used both for popover aliases (later) and to force enrichment matching
+    # when the orthographic difference is too small for strict keys to bridge.
+    blog_title_by_norm: dict[str, Page] = {}
+    for pg in pages:
+        if not pg.post.folder:
+            continue
+        norm = _norm_entity_key(pg.post.title or "")
+        if norm:
+            blog_title_by_norm[norm] = pg
+
+    enrichment: dict[Path, MJEntity] = {}
+    mj_only: dict[str, list[MJEntity]] = {}
+    for e in entities:
+        matches: list[Page] = []
+        for k in _norm_match_keys_strict(e.title):
+            for pg in page_idx.get((e.src_folder, k), []):
+                if pg not in matches:
+                    matches.append(pg)
+        # Fallback: manual alias mapping resolves orthographic typos blog-side.
+        if not matches and e.title in _MJ_MANUAL_ALIASES:
+            blog_title = _MJ_MANUAL_ALIASES[e.title]
+            pg = blog_title_by_norm.get(_norm_entity_key(blog_title))
+            if pg is not None and pg.post.folder == e.src_folder:
+                matches.append(pg)
+        if matches:
+            for pg in matches:
+                enrichment[pg.site_rel] = e
+        else:
+            mj_only.setdefault(e.src_folder, []).append(e)
+
+    _MJ_ENRICHMENT_BY_PAGE = enrichment
+    _MJ_ONLY_ENTITIES = mj_only
+
+    # MJ-only entities (no public counterpart) also need popovers so that
+    # mentions of "Henrik Kappelmuller", "Hermann von Feilbach" etc. light up
+    # in MJ mode just like public entities do. The popover navigates to the
+    # autonomous page under mj-{TOKEN}/<category>/<slug>.html.
+    # Optional **Sous-titre** and **Portrait** metadata lines in the entity
+    # body feed the popover's subtitle and image (template convention).
+    for src_folder, ents in mj_only.items():
+        cat = _ENTITY_POPOVER_CAT_LABEL.get(src_folder)
+        if cat is None:
+            continue
+        for e in ents:
+            if len(e.title) < 4:
+                continue
+            subtitle, portrait = _extract_mj_entity_metadata(e.body_md)
+            popover = EntityPopover(
+                site_rel=Path(f"mj-{MJ_TOKEN}") / e.out_url,
+                anchor=None,
+                title=e.title,
+                cat=cat,
+                portrait=portrait,
+                subtitle=subtitle,
+            )
+            # Only register the FULL title — sub-tokens (first-name, surname)
+            # generate false-positive matches on common words like "Chambre",
+            # "Noire", "Ordo", "Grand" pulled from MJ-only titles like
+            # "Chambre Noire", "Inner Council Ordo Septenarius", etc.
+            # Mirror the public-side `build_entity_popover_map` behaviour.
+            _MJ_POPOVER_MAP.setdefault(e.title, popover)
+
+    # Apply manual aliases: canonical Notes MJ form → blog popover (typo fix).
+    for canon_form, blog_title in _MJ_MANUAL_ALIASES.items():
+        if blog_title in _MJ_POPOVER_MAP:
+            _MJ_POPOVER_MAP.setdefault(canon_form, _MJ_POPOVER_MAP[blog_title])
+
+
+def _render_mj_entity_body(e: MJEntity, current_out_rel: Path,
+                           mj_idx: dict[str, Path] | None = None,
+                           url_map: dict[str, Path] | None = None) -> str:
+    """Render an MJ entity's markdown body to HTML, with wikilink resolution."""
+    md_text = e.body_md
+    if mj_idx is not None and url_map is not None:
+        md_text = _resolve_mj_wikilinks(md_text, current_out_rel, mj_idx, url_map)
+    return _md_to_html(md_text)
+
+
+def _mj_enrichment_html_for_page(pg: Page) -> str:
+    """Return the HTML block to inject at the bottom of a public entity page.
+    Empty string if no MJ enrichment exists for this page."""
+    if not MJ_TOKEN or _MJ_ENRICHMENT_BY_PAGE is None:
+        return ""
+    e = _MJ_ENRICHMENT_BY_PAGE.get(pg.site_rel)
+    if e is None:
+        return ""
+    body_html = _render_mj_entity_body(
+        e, Path(e.out_url),
+        mj_idx=_MJ_OVERLAY_IDX,
+        url_map=_MJ_URL_MAP)
+    # Apply entity popover system to text-node entity mentions
+    if _MJ_POPOVER_MAP:
+        body_html = inject_entity_popovers(body_html, _MJ_POPOVER_MAP, pg.site_rel.parent)
+    # MJ-only canon refs: <code>EiR Intro l.205-218</code> → hover popover + click navigation
+    body_html = inject_canon_refs(body_html, pg.site_rel.parent)
+    return (
+        '<section class="mj-only mj-entity-enrichment">'
+        '<hr class="mj-separator">'
+        '<div class="mj-label">Notes MJ</div>'
+        f'<div class="mj-content">{body_html}</div>'
+        '</section>'
+    )
+
+
+def _mj_only_entities_for_category(src_folder: str) -> list[MJEntity]:
+    """Return MJ-only entities (no public counterpart) for a given category."""
+    if not MJ_TOKEN or _MJ_ONLY_ENTITIES is None:
+        return []
+    return _MJ_ONLY_ENTITIES.get(src_folder, [])
+
+
+def _build_mj_search_index(mj_pages: list[MJOverlayPage]) -> list[dict]:
+    out: list[dict] = []
+    for p in mj_pages:
+        if p.category in ("scenario_hub", "scenario_scene", "scenario_ref"):
+            cat = f"Scénario · {p.scenario or ''}"
+        elif p.category == "mj_note":
+            cat = "Notes MJ"
+        else:
+            cat = "MJ"
+        body_text = re.sub(r"<[^>]+>", " ", _md_to_html(p.body_md))
+        body_text = re.sub(r"\s+", " ", body_text).strip()[:1000]
+        haystack = (p.title or "") + " " + body_text + " " + cat
+        out.append({
+            "t": p.title,
+            "c": cat,
+            "u": f"mj-{MJ_TOKEN}/" + p.out_rel_path.as_posix(),
+            "s": normalise_for_search(haystack),
+            "mj": True,
+        })
+
+    # Phase 3: MJ-only entities (no public counterpart) — add to search
+    if _MJ_ONLY_ENTITIES:
+        for src_folder, entities in _MJ_ONLY_ENTITIES.items():
+            cat_label = FOLDER_TO_LABEL.get(src_folder, src_folder)
+            for e in entities:
+                body_text = re.sub(r"<[^>]+>", " ", _md_to_html(e.body_md))
+                body_text = re.sub(r"\s+", " ", body_text).strip()[:1000]
+                haystack = e.title + " " + body_text + " " + cat_label
+                out.append({
+                    "t": e.title,
+                    "c": cat_label,
+                    "u": f"mj-{MJ_TOKEN}/" + e.out_url,
+                    "s": normalise_for_search(haystack),
+                    "mj": True,
+                })
+    return out
+
+
+def render_mj_overlay(pages: list[Page], buckets: dict[int, ArcBucket],
+                     url_map: dict[str, Path],
+                     label_map: dict[str, Path],
+                     entity_popover_map: dict[str, EntityPopover] | None = None) -> int:
+    """Generate the MJ overlay under _site/mj-{TOKEN}/. Returns page count.
+    No-op if no MJ token is configured (env var or .mj-token file)."""
+    if not MJ_TOKEN or MJ_OUT_DIR is None:
+        print("MJ overlay: skipped (no MJ_TOKEN configured — set env var "
+              "MJ_TOKEN or create .mj-token file to enable).")
+        return 0
+    if not NOTES_MJ_DIR.exists():
+        return 0
+    mj_pages = _walk_notes_mj_overlay()
+    if not mj_pages:
+        return 0
+    mj_idx = _build_mj_wikilink_index(mj_pages)
+
+    count = 0
+    for mj_page in mj_pages:
+        html_out = _render_mj_overlay_page(mj_page, mj_idx, url_map, buckets,
+                                            entity_popover_map)
+        out_path = MJ_OUT_DIR / mj_page.out_rel_path
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(html_out, encoding="utf-8")
+        count += 1
+
+    # Phase 3: standalone pages for MJ-only entities (no blog counterpart)
+    if _MJ_ONLY_ENTITIES:
+        for src_folder, entities in _MJ_ONLY_ENTITIES.items():
+            for e in entities:
+                fake_out_rel = Path(e.out_url)
+                body_html = _render_mj_entity_body(e, fake_out_rel, mj_idx, url_map)
+                # Entity popovers for inline mentions. Use alias-resolved map.
+                cur_dir = (MJ_OUT_DIR / fake_out_rel).parent.relative_to(OUT)
+                popover_map = _MJ_POPOVER_MAP if _MJ_POPOVER_MAP else entity_popover_map
+                if popover_map:
+                    body_html = inject_entity_popovers(body_html, popover_map, cur_dir)
+                # MJ-only canon refs popover + click navigation
+                body_html = inject_canon_refs(body_html, cur_dir)
+                cat_label = FOLDER_TO_LABEL.get(src_folder, src_folder)
+                page_body = (
+                    f'<nav class="mj-breadcrumb">'
+                    f'<a href="{_relpath_within_mj(fake_out_rel.parent, Path("index.html"))}">Notes MJ</a>'
+                    f' · <span>{html.escape(cat_label)}</span> · <span>{html.escape(e.title)}</span>'
+                    f'</nav>'
+                    f'<article class="post mj-content mj-entity-only">'
+                    f'<header class="post-header"><h1 class="post-title">{html.escape(e.title)} '
+                    f'<span class="mj-badge">MJ</span></h1></header>'
+                    f'<div class="post-body">{body_html}</div>'
+                    f'</article>'
+                )
+                current_dir = (MJ_OUT_DIR / fake_out_rel).parent.relative_to(OUT)
+                html_out = layout(current_dir, e.title, page_body,
+                                  extra_class="page-mj-overlay", buckets=buckets)
+                out_path = MJ_OUT_DIR / fake_out_rel
+                out_path.parent.mkdir(parents=True, exist_ok=True)
+                out_path.write_text(html_out, encoding="utf-8")
+                count += 1
+
+    # Index pages
+    index_pages = _render_mj_index_pages(mj_pages, buckets)
+    for rel, html_out in index_pages.items():
+        out_path = MJ_OUT_DIR / rel
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(html_out, encoding="utf-8")
+        count += 1
+
+    # Canon Source pages (target of canon-ref click navigation)
+    source_pages = _render_canon_source_pages(buckets)
+    for rel, html_out in source_pages.items():
+        out_path = MJ_OUT_DIR / rel
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(html_out, encoding="utf-8")
+        count += 1
+    if source_pages:
+        print(f"  - canon source pages: {len(source_pages)}")
+
+    # MJ search index
+    (MJ_OUT_DIR / "search-index.json").write_text(
+        json.dumps(_build_mj_search_index(mj_pages), ensure_ascii=False),
+        encoding="utf-8")
+
+    # robots.txt within mj subdir (defense in depth)
+    (MJ_OUT_DIR / "robots.txt").write_text(
+        "User-agent: *\nDisallow: /\n", encoding="utf-8")
+
+    print(f"MJ overlay: {count} pages → {MJ_OUT_DIR}")
+    return count
+
+
+_MJ_SCENARIOS_BY_ARC: dict[int, list[str]] | None = None
+
+
+def _discover_scenarios_by_arc() -> dict[int, list[str]]:
+    """Walk Notes MJ/Scénarios/ and read frontmatter to build arc→scenarios."""
+    out: dict[int, list[str]] = {}
+    sc_root = NOTES_MJ_DIR / "Scénarios"
+    if not sc_root.exists():
+        return out
+    for scenario_dir in sorted(sc_root.iterdir()):
+        if not scenario_dir.is_dir():
+            continue
+        arc_num = _scenario_arc_from_hub(scenario_dir / "Hub.md")
+        if arc_num is None:
+            continue
+        out.setdefault(arc_num, []).append(scenario_dir.name)
+    return out
+
+
+def _get_scenarios_by_arc() -> dict[int, list[str]]:
+    global _MJ_SCENARIOS_BY_ARC
+    if _MJ_SCENARIOS_BY_ARC is None:
+        _MJ_SCENARIOS_BY_ARC = _discover_scenarios_by_arc()
+    return _MJ_SCENARIOS_BY_ARC
+
+
+def mj_scenarios_section_html(arc_num: int) -> str:
+    """Return the HTML block for the Scénarios section on an arc landing page.
+    Block has class .mj-only so it stays invisible until MJ mode toggled.
+    Returns empty string if no MJ token configured or no scenarios for this arc."""
+    if not MJ_TOKEN:
+        return ""
+    scenarios = _get_scenarios_by_arc().get(arc_num, [])
+    if not scenarios:
+        return ""
+    items = []
+    for sc in scenarios:
+        sc_slug = _mj_slug(sc)
+        sc_url = f"mj-{MJ_TOKEN}/scenarios/{sc_slug}/index.html"
+        items.append(
+            f'<li><a class="entry-card" href="{html.escape(sc_url)}">'
+            f'<span class="entry-title">{html.escape(sc)}</span>'
+            f'<span class="mj-badge">MJ</span></a></li>')
+    inner = "\n".join(items)
+    return f"""
+<section class="arc-cat mj-only" id="scenarios">
+  <h2 class="cat-heading">
+    <a href="mj-{MJ_TOKEN}/scenarios/index.html">Scénarios <span class="mj-badge">MJ</span></a>
+    <span class="cat-rule"></span>
+    <span class="cat-tally">{len(scenarios)}</span>
+  </h2>
+  <ul class="card-grid card-grid-entries">
+    {inner}
+  </ul>
+</section>
+"""
+
+
+MJ_MODE_JS = """\
+// MJ mode toggle: ?mj=TOKEN sets localStorage flag; ?mj=off clears.
+// When the flag matches the build-time token, body.mj-mode is applied
+// and CSS reveals .mj-only sections + adds a corner badge.
+(function() {
+  var TOKEN = "__MJ_TOKEN__";
+  var p = new URLSearchParams(window.location.search);
+  var fromUrl = p.get('mj');
+  function cleanUrl() {
+    p.delete('mj');
+    var s = p.toString();
+    var u = window.location.pathname + (s ? '?' + s : '') + window.location.hash;
+    window.history.replaceState({}, '', u);
+  }
+  if (fromUrl === TOKEN) {
+    localStorage.setItem('mjMode', TOKEN);
+    cleanUrl();
+  } else if (fromUrl === 'off') {
+    localStorage.removeItem('mjMode');
+    cleanUrl();
+  }
+
+  function activate() {
+    document.documentElement.classList.add('mj-mode');
+    if (!document.body) return;
+    document.body.classList.add('mj-mode');
+    if (document.getElementById('mj-mode-badge')) return;
+    var b = document.createElement('div');
+    b.id = 'mj-mode-badge';
+    b.innerHTML = '<span>Mode MJ</span><button title="Quitter le mode MJ" aria-label="Quitter">×</button>';
+    b.querySelector('button').addEventListener('click', function() {
+      localStorage.removeItem('mjMode');
+      location.reload();
+    });
+    document.body.appendChild(b);
+  }
+
+  if (localStorage.getItem('mjMode') === TOKEN) {
+    if (document.body) document.body.dataset.mjToken = TOKEN;
+    activate();
+    if (!document.body) {
+      document.addEventListener('DOMContentLoaded', function() {
+        document.body.dataset.mjToken = TOKEN;
+        activate();
+      });
+    }
+  }
+
+  // -------- Canon ref popover (MJ-only) --------------------------------
+  // Triggered by hover on <span class="canon-ref" data-source data-extract>.
+  // Shows the cited markdown lines from the Source/ book tree.
+  var cPop = null, cShowTimer = null, cHideTimer = null;
+
+  function cEnsurePopover() {
+    if (cPop) return cPop;
+    cPop = document.createElement('div');
+    cPop.className = 'canon-popover';
+    cPop.addEventListener('mouseenter', function () {
+      if (cHideTimer) { clearTimeout(cHideTimer); cHideTimer = null; }
+    });
+    cPop.addEventListener('mouseleave', cSchedulePopoverHide);
+    (document.body || document.documentElement).appendChild(cPop);
+    return cPop;
+  }
+
+  function cFillPopover(trigger) {
+    var p = cEnsurePopover();
+    var src     = trigger.getAttribute('data-source')  || trigger.textContent.trim();
+    var extract = trigger.getAttribute('data-extract') || '';
+    p.innerHTML = '';
+    var hdr = document.createElement('div');
+    hdr.className = 'canon-popover-header';
+    hdr.textContent = src;
+    p.appendChild(hdr);
+    var body = document.createElement('div');
+    body.className = 'canon-popover-body';
+    body.textContent = extract;
+    p.appendChild(body);
+    p.style.display = 'block';
+    cPositionPopover(p, trigger);
+  }
+
+  function cPositionPopover(p, trigger) {
+    var rect = trigger.getBoundingClientRect();
+    var pw = p.offsetWidth, ph = p.offsetHeight;
+    var top  = rect.bottom + 8;                       // prefer below
+    var left = rect.left + rect.width / 2 - pw / 2;
+    if (top + ph > window.innerHeight - 8) {
+      top = rect.top - ph - 8;                        // flip above if no room
+      if (top < 8) top = 8;
+    }
+    if (left < 8) left = 8;
+    var maxLeft = window.innerWidth - pw - 8;
+    if (left > maxLeft) left = Math.max(8, maxLeft);
+    p.style.top = top + 'px';
+    p.style.left = left + 'px';
+  }
+
+  function cSchedulePopoverShow(trigger) {
+    if (cHideTimer) { clearTimeout(cHideTimer); cHideTimer = null; }
+    if (cShowTimer) clearTimeout(cShowTimer);
+    cShowTimer = setTimeout(function () { cFillPopover(trigger); }, 150);
+  }
+  function cSchedulePopoverHide() {
+    if (cShowTimer) { clearTimeout(cShowTimer); cShowTimer = null; }
+    if (cHideTimer) clearTimeout(cHideTimer);
+    cHideTimer = setTimeout(function () {
+      if (cPop) cPop.style.display = 'none';
+    }, 200);
+  }
+
+  document.addEventListener('mouseover', function (e) {
+    var t = e.target.closest && e.target.closest('.canon-ref');
+    if (t) cSchedulePopoverShow(t);
+  });
+  document.addEventListener('mouseout', function (e) {
+    var t = e.target.closest && e.target.closest('.canon-ref');
+    if (t) cSchedulePopoverHide();
+  });
+})();
+"""
+
+
+MJ_CSS = """\
+/* === MJ MODE === */
+.mj-only { display: none !important; }
+body.mj-mode .mj-only { display: revert !important; }
+
+#mj-mode-badge {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background: #6b3a2c;
+  color: #efe5cf;
+  padding: 0.4rem 0.9rem;
+  border-radius: 3px;
+  z-index: 9999;
+  font-family: "IM Fell English SC", serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+#mj-mode-badge button {
+  background: transparent;
+  border: 1px solid rgba(239, 229, 207, 0.5);
+  color: #efe5cf;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0 0.4rem;
+  border-radius: 2px;
+  line-height: 1;
+  font-family: inherit;
+}
+#mj-mode-badge button:hover {
+  background: rgba(239, 229, 207, 0.15);
+}
+
+.mj-badge {
+  display: inline-block;
+  background: #6b3a2c;
+  color: #efe5cf;
+  font-size: 0.6em;
+  padding: 0.1em 0.45em;
+  border-radius: 2px;
+  margin-left: 0.4em;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+  font-family: "IM Fell English SC", serif;
+  font-weight: normal;
+}
+
+.broken-link {
+  color: #b85c5c;
+  text-decoration: line-through dashed;
+  cursor: help;
+}
+
+.mj-breadcrumb {
+  font-size: 0.85rem;
+  color: #6b5a3c;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #c4b58a;
+}
+.mj-breadcrumb a { color: #6b3a2c; text-decoration: none; }
+.mj-breadcrumb a:hover { text-decoration: underline; }
+
+.mj-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.93rem;
+}
+.mj-content th, .mj-content td {
+  border: 1px solid #c4b58a;
+  padding: 0.4rem 0.65rem;
+  text-align: left;
+  vertical-align: top;
+}
+.mj-content th { background: #efe5cf; }
+.mj-content blockquote {
+  border-left: 4px solid #6b3a2c;
+  padding: 0.4rem 1rem;
+  margin: 0.8rem 0;
+  background: rgba(107, 58, 44, 0.05);
+  font-style: italic;
+}
+.mj-content blockquote p { margin: 0.3rem 0; }
+.mj-content h1 {
+  color: #6b3a2c;
+  border-bottom: 2px solid #6b3a2c;
+  padding-bottom: 0.3rem;
+}
+.mj-content h2 {
+  color: #6b3a2c;
+  border-bottom: 1px solid #c4b58a;
+  padding-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+.mj-content h3 { color: #6b3a2c; margin-top: 1.5rem; }
+.mj-content pre {
+  background: #efe5cf;
+  padding: 0.8rem;
+  border-radius: 3px;
+  overflow-x: auto;
+  font-size: 0.88rem;
+  border-left: 3px solid #6b3a2c;
+}
+.mj-cat-list { display: grid; gap: 1rem; }
+
+/* MJ-only entries in the top nav are tinted */
+body.mj-mode .site-nav .mj-only a {
+  color: #6b3a2c;
+  font-style: italic;
+}
+body.mj-mode .site-nav .mj-only a:hover {
+  text-decoration: underline;
+}
+
+/* Search result MJ badge */
+.search-mj-badge {
+  display: inline-block;
+  background: #6b3a2c;
+  color: #efe5cf;
+  font-size: 0.65em;
+  padding: 0.1em 0.4em;
+  border-radius: 2px;
+  margin-left: 0.5em;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+  font-family: "IM Fell English SC", serif;
+}
+.search-result-mj { background: rgba(107, 58, 44, 0.04); }
+.search-result-mj:hover { background: rgba(107, 58, 44, 0.10); }
+
+/* MJ enrichment section on public entity pages */
+.mj-entity-enrichment {
+  margin-top: 2.5rem;
+  padding: 0;
+}
+.mj-entity-enrichment .mj-separator {
+  border: none;
+  border-top: 2px solid #6b3a2c;
+  margin: 2rem 0 1rem;
+  position: relative;
+}
+.mj-entity-enrichment .mj-label {
+  display: inline-block;
+  background: #6b3a2c;
+  color: #efe5cf;
+  padding: 0.25rem 0.8rem;
+  border-radius: 3px;
+  font-family: "IM Fell English SC", serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+}
+.mj-entity-enrichment .mj-content {
+  padding: 0.5rem 0;
+}
+
+/* MJ-only entries in public category indexes */
+ul.mj-only-entries {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px dashed #6b3a2c;
+}
+ul.mj-only-entries::before {
+  content: "Entrées MJ";
+  display: block;
+  font-family: "IM Fell English SC", serif;
+  color: #6b3a2c;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.6rem;
+}
+
+/* === Canon refs (MJ-only) ============================================= */
+/* `<code>EiR Intro l.205-218</code>` blocks become hover popover triggers
+   that show the cited markdown lines from Source/. As <a> they also
+   navigate to the rendered Source page at the cited line anchor. */
+.canon-ref {
+  color: #6b3a2c;
+  cursor: help;
+  text-decoration: none;
+  transition: color 120ms ease;
+}
+a.canon-ref { text-decoration: none; }
+.canon-ref sup {
+  font-size: 0.75em;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  padding: 0 0.15em;
+  border-radius: 2px;
+  vertical-align: super;
+  line-height: 0;
+}
+.canon-ref:hover { color: #4a2820; }
+.canon-ref:hover sup {
+  background: rgba(107, 58, 44, 0.14);
+}
+
+/* === Line anchors on canon Source pages =============================== */
+/* Each raw markdown line gets a `<a class="line-anchor" id="LN"></a>` prefix
+   so canon refs can deep-link to #L144. The anchor itself is invisible
+   (zero-width inline). On :target the parent element flashes a highlight. */
+.line-anchor {
+  display: inline;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  position: relative;
+  /* Scroll past the sticky header (if any) when jumping to a line. */
+  scroll-margin-top: 80px;
+}
+@keyframes canon-target-flash {
+  0%   { background-color: rgba(255, 220, 90, 0.85); }
+  60%  { background-color: rgba(255, 220, 90, 0.55); }
+  100% { background-color: transparent; }
+}
+/* Highlight the parent block of the targeted line anchor.
+   :target only matches the element with the id, so we style the anchor
+   itself + use a sibling-aware rule for common block parents.
+   The cheapest effective rule: outline the anchor's containing block via
+   :has() — supported in evergreen browsers. */
+.line-anchor:target {
+  background: rgba(255, 220, 90, 0.85);
+  outline: 2px solid rgba(180, 130, 30, 0.6);
+  outline-offset: 2px;
+  animation: canon-target-flash 2.2s ease-out;
+}
+/* Better: highlight the parent block (heading, paragraph, list item) of
+   the targeted line anchor. :has() ensures the flash covers the whole
+   logical line, not just the zero-width anchor itself. */
+.canon-source-page :is(h1,h2,h3,h4,h5,h6,p,li,blockquote,td,th):has(> .line-anchor:target),
+.canon-source-page :is(h1,h2,h3,h4,h5,h6,p,li,blockquote,td,th):has(> .line-anchor:target *) {
+  background: rgba(255, 220, 90, 0.55);
+  animation: canon-target-flash 2.2s ease-out;
+}
+/* Canon Source pages get a slightly denser type for code-heavy chapters. */
+.canon-source-page .post-body pre {
+  font-size: 0.9rem;
+}
+
+.canon-popover {
+  position: fixed;
+  z-index: 110;
+  display: none;
+  max-width: 520px;
+  min-width: 280px;
+  background: #fbf3df;
+  border: 1px solid #6b3a2c;
+  box-shadow: 0 4px 18px rgba(60, 30, 10, 0.28);
+  padding: 0.75rem 0.95rem;
+  animation: canon-pop-fade 140ms ease-out;
+  pointer-events: auto;
+  font-family: "EB Garamond", "Garamond", serif;
+}
+@keyframes canon-pop-fade {
+  from { opacity: 0; transform: translateY(2px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.canon-popover-header {
+  font-family: "IM Fell English SC", serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #6b3a2c;
+  margin-bottom: 0.45rem;
+  border-bottom: 1px solid #c4b58a;
+  padding-bottom: 0.3rem;
+}
+.canon-popover-body {
+  font-size: 0.92rem;
+  line-height: 1.4;
+  color: #2c241a;
+  white-space: pre-wrap;
+  max-height: 320px;
+  overflow-y: auto;
+}
+@media (hover: none) {
+  .canon-popover { display: none !important; }
+}
+"""
+
+
 def build(clean: bool) -> int:
     setup_utf8_stdout()
 
@@ -3158,6 +5227,11 @@ def build(clean: bool) -> int:
     session_by_num_map = build_session_pages_by_num(pages)
     entity_popover_map = build_entity_popover_map(pages)
 
+    # Phase 3: pre-compute MJ entity match cache so render_post_page and
+    # render_category_index can look up enrichment + MJ-only entries.
+    # Needs entity_popover_map for tooltip injection in the enrichment section.
+    _populate_mj_entity_caches(pages, url_map, label_map, entity_popover_map)
+
     missing_intros = [arc for arc in ARCS if arc.num not in intros]
     if missing_intros:
         print("  ! intro post not found for arcs: " +
@@ -3196,8 +5270,14 @@ def build(clean: bool) -> int:
                                    session_by_num_map, entity_popover_map))
 
     write(OUT / "search" / "index.html", render_search_page())
-    write(OUT / "style.css", CSS)
+    write(OUT / "style.css", CSS + "\n\n" + MJ_CSS)
     write(OUT / "search.js", SEARCH_JS)
+    if MJ_TOKEN:
+        write(OUT / "mj-mode.js", MJ_MODE_JS.replace("__MJ_TOKEN__", MJ_TOKEN))
+    else:
+        write(OUT / "mj-mode.js", "// MJ token not configured — script inert.\n")
+    render_mj_overlay(pages, buckets, url_map, label_map,
+                      entity_popover_map=entity_popover_map)
     (OUT / "search-index.json").write_text(
         json.dumps(build_search_index(pages, siblings_idx), ensure_ascii=False),
         encoding="utf-8")

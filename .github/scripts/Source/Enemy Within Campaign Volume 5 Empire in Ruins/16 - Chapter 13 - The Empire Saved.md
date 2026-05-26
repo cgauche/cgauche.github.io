@@ -1,0 +1,709 @@
+# Chapter 13 - The Empire Saved
+
+*Pages PDF 177-197*
+
+## Chapter 13 the Empire Saved
+At long last, the end is in sight. Since leaving troubled Altdorf, the Characters have travelled hundreds of miles across an increasingly fractured Empire in search of the one thing that might restore unity: Ghal Maraz, the Hammer of Sigmar. Beyond that, they are near to the end of a journey that began long ago with a chance encounter on the Delbren road that left them as the unlikely heroes fighting to thwart an insidious cult. Now, with Altdorf before them, the party has one remaining task: to deliver the relic to the Empire’s rulers swiftly and safely. 
+
+That is just what Gideon wants. How delicious would it be to have the very fools who foiled him in Bögenhafen serve as the dupes who make it all possible? 
+
+## **According to Plan**
+Ideally, Gideon wants the ceremony to take place on the 9th of Brauzeit, a day of ritual significance to Tzeentch’s followers. If the Characters arrive a few days early, Gideon finds ways to delay the event until then — key figures fall suddenly but temporarily ill, or unforeseen minor delays postpone the preparations for the ceremony at the Volkshalle. 
+
+But if more than a couple of weeks remain until the date, or if the date has passed, then he allows the ceremony to take place within a day or two. Not ideal, but the crucial thing is that the summoning takes place. There also may well be other actors with plans of their own. 
+
+If Hans Zuntermein has survived, then he is not happy about the Hammer’s retrieval — its power threatens all that he’s worked for. When the Characters return, Zuntermein orders his men in a desperate attempt to separate them from Ghal Maraz. If they have not done so already, this is their chance to eliminate him. 
+
+Karl-Heinz Wasmeier may have survived, too. If he has, then he has two goals: to supplant Zuntermein as head of the Altdorf Purple Hand and to have revenge on the Characters who ruined his schemes in Middenheim. If his rival is already out of the way, then Wasmeier goes to ground, staying hidden and safe whilst he consolidates his position within the Purple Hand. In any event, Gideon uses his powers as discreetly as possible to make sure the Characters deliver the Hammer. Perceptive Players might just notice that they are receiving a guiding hand. 
+
+## **While You Were Away…**
+On their return, the Characters find Altdorf is a very different city from the one they left. The mighty walls still stand, of course, with the spires of the Great Temple of Sigmar and the Imperial Palace still visible from miles off. Traffic by road and river remains heavy, bringing food and other goods to the capital and taking its products to markets near and far. At first glance, all seems as it should be. However, a closer look reveals a very tense city on the edge of crisis. The tension is palpable, and the garrison is depleted. 
+
+Altdorf ’s political situation is unstable and fraught. Not only are the Grand Provinces raising armies and preparing for war, but the Reikland itself teeters on the brink of civil war. Rumors abound of rebellion and treason: some say forces loyal to the Jungfreuds have risen in Ubersreik and that Graf von Saponatheim might declare for them against the Emperor. Others insist that elements of the Reikland State Army have refused orders to attack the rebels, instead turning their weapons against loyalists. 
+
+Worse still have been sightings of Beastmen and Greenskins near the capital, raiding outlying farms and villages. Whatever the truth, Altdorf ’s resources are stretched thin, stripped of troops to deal with multiple crises, with even the Watch drafted into military service. 
+
+Inside the city, civil order hangs by a fraying thread. Rumour feeds fear, and fear leads some to act rashly. On the docks, the Fish and Hooks ( **Altdorf, Chapter 3: Gangs of Altdorf** ) have taken total control, and few watchmen leave their barracks. Some working-class neighbourhoods have formed vigilance committees against criminals and rioters, and there have already been some instances of ‘rough justice’ and even summary executions, though no one can say for sure who or where. 
+
+More affluent districts are hiring their own bravos as militias, and some have already started to intimidate and harass Altdorfers trying to go about their business in a peaceful manner. Though none have attacked the city’s Elves, Dwarfs, or wizards yet, the leaders of those communities are watching closely for trouble. The lack of leadership from the palace has led Altdorf society to begin to mirror the disintegration in the wider Empire. 
+
+## **Arrival**
+The Characters have most likely made their way back to Altdorf by road, and that is the default assumption here. Shrewd Players, however, may have decided to go by river (see **What If They Go by River?** ). If Zuntermein lives, an optional encounter with his minions is provided should you wish to ‘liven up’ their arrival, whichever route they choose. 
+
+## **At the Gates**
+As the Characters approach Altdorf, they find the roads packed with people anxious to get into the city, despite the growing unease within its wall. Not just farmers bringing food, but refugees seeking safety behind Altdorf ’s walls. Carts and horses and people with their lives on their backs jostle toward the gates, dodging troops of cavalry or Imperial messengers headed the other way at breakneck speed. 
+
+At the gates, the Characters find fewer guards than usual, and these are having a rough time of it. Watchmen armed with halberds bar the way, while a sergeant questions people coming 
+
+in to make sure they have legitimate business — no spies or infiltrators, thank you. As the Characters near the gate, the veteran, wary sergeant notices them and calls them forward, resulting in murmurs from the crowd. Picking the Character who looks most in charge, he demands, _‘In the name of the Emperor, state your names and your business, and why you should be allowed into our fair city?’_ 
+
+Assuming the Characters are at all respectful, any plausible reason will see the tired sergeant wave them through on an **Average (+20) Charm** Test. A Character passing a **Challenging (+0) Bribery** Test can guess that a discreet gratuity of 10 Shillings for the sergeant and a few more for his men gains them entrance. However, if the Characters try to pull rank, they need to succeed at a **Difficult (–10) Intimidate** Test. If they were given an Imperial Commission or other mark of office, they are let through immediately. 
+
+However the Characters succeed at getting through, someone in the crowd strongly objects. 
+
+## **Riot!**
+Just as the Characters are passing through, an angry woman yells: _‘Hey! They’re skipping the line! Not fair! Let us in!’_ She hurls a rock that strikes a watchman in the shoulder. As if on cue, the crowd rushes the gate. Some throw punches — and other things — at almost anyone in sight, including the Characters. The Watch detachment struggles to hold the mob back, and the sergeant frantically blows a whistle to summon help. 
+
+The Characters have a choice: they can delay their mission and stay to help protect the gate, or they can do their duty and press on to bring the Hammer to the Palace. If they move on, reinforcements arrive in a few minutes and restore order at the gate. Any subsequent inquiries reveal that only a few rioters had to be hanged as rebels. 
+
+If they stay to help, five rounds pass before sufficient reinforcements arrive. The watchmen are tired and scared and, after one round, use deadly force to hold the gate. The watchmen consist of 6 Soldiers led by Egon Pfeffer, a Sergeant. 
+
+## **What If They Go by River**
+Though the Characters most likely path has them travelling by road to Altdorf, it is possible they might try to be clever and take passage on a boat on the Reik or Talabec. Fear not! The encounters at the gate — the refugees, the guards, and the riot — can all be transferred to the docks with minimal alteration: the Watch has set up a checkpoint at the wharves, and the same riot ensues when the Characters jump the line. From that, if Zuntermein lives, you can head directly to **Optional Encounter: Zuntermein’s Last Grasp.** 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+Characters who want to stop a massacre can make a **Challenging (+0) Leadership** Test to brace up Sergeant Pfeifer. On a success, he is able to restore discipline, and only subdual force is used against the mob. If the test fails or the sergeant is down, an extended **Difficult (–10) Leadership** Test that accumulates at least 5 SL allows a Character to take direct command. 
+
+If they go all-in on the fighting instead, the mob at the gate use the profile for Peasants. Each Character faces two or three rioters each round. 
+
+Regardless of how the Characters intervene, reinforcements arrive in 5 Rounds and secure the scene. Their captain thanks the Characters and allows them to enter Altdorf, where they soon have company. (See **Optional Encounter: Zuntermein’s Last Grasp** .) 
+
+## **In the City**
+However they enter Altdorf, the Characters find a city on edge. Refugees crowd the streets, looking for a place to stay, while residents try to go about their business. But signs of tension and fear can be seen everywhere they look: locals buy far more food than they need, stocking up in case of a siege. Refugees argue with local shopkeepers charging extortionate prices. And here and there, fights break out between locals and newcomers. Few watchmen are around, and in their place have appeared bands of vigilantes; local toughs wearing coloured armbands rove the streets to ‘keep order’ — especially for those who pay a little protection money. 
+
+## **The Last of the Nine Eyes**
+If the Characters have been hunting down the Nine Eyes, any of the Crown Prince’s remaining tutors are currently in Altdorf but well hidden in various taverns, boarding houses and dormitories around the city. 
+
+It may be that vigilant Characters want to track them down and kill them before the ceremony, but this is not an easy task. 
+
+In order to locate one of the remaining eyes, the Characters must know something distinctive about them (their area of expertise or what they look like) and go to an appropriate venue (a scholars’ tavern or the university refectory). They must then undertake an extended **Very Hard (–30) Gossip** Test to a total of 45 SL in order to learn the lodging place of a single remaining member of the Nine Eyes. Each test represents an hour of gossiping. If more than three hours are spent gossiping, there is a 63% chance the Characters tip their quarry off. The Eye in question moves to a new safe house, meaning the process must begin anew. 
+
+This lodging place is guarded at all times by six cultists with crossbows who are hidden in vantage points around the door 
+
+to the building, with orders to shoot the Characters on sight. Gideon may try to support them with magic, but also tries to remain hidden. (He prefers to use spells from the Lore of Shadows to mislead the Characters and hide his allies rather than engage overtly). 
+
+If the Characters surmount these obstacles, they must make a **Hard (–20) Perception** Test to find the bolthole within which the Eye is hiding. The Eye then fights to the death with the ferocity of the damned. For every round of combat with the Eye, there is a 27% chance that a Pink Horror manifests and defends them. 
+
+It should therefore be very hard, but not impossible, to track down each of the Nine Eyes. However, after a day or so of this activity, the Characters are approached by agents of the palace who make it clear that the return of Ghal Maraz must take precedence over any other priorities. 
+
+## **Optional Encounter: Zuntermein’s Last Grasp**
+This is an encounter for you to use should Yann Zuntermein still be alive. He has put together a group of elite cultist-agents from his office in the Spionwerber to make a last play to seize Ghal Maraz and use it to assure his control over the Imperial Throne. As the group approaches the Characters, their leader addresses them, coming close as if relating something quite confidential. 
+
+_‘Thank Sigmar, we found you! I am Captain Emil Baecker, Black Chamber. We were alerted you were nearing Altdorf and wanted to intercept you. You’re in danger! Revolutionaries, we learned, perhaps even cultists, are planning to waylay you on the roads to the Palace. We’ve been sent to take you to a boat on the docks, where you’ll be moved by river. We must go!’_ 
+
+If the Characters show any suspicion or doubt, Baecker pulls a large, folded sheet of parchment from under his jack and hands it to a Character. _‘This is a warrant identifying me and my mission, signed by High Chancellor Holswig-Schliestein.’_ Characters examining it spot it as a forgery on a successful **Very Hard (–30) Evaluate** Test against the SL 5 of Zuntermein’s forger. 
+
+After the Characters have had a moment to examine the document, Baecker insists they must get moving. If they refuse or hesitate even briefly, he draws his sword and yells to his men: _‘Kill them! Get the Hammer!’_ The fight is on. 
+
+If they follow Baecker, his men assume protective positions around them and lead them down side streets to the docks, where they enter a boathouse and see a River Watch boat. Before they can board it, Baecker’s men block the doors and he and they draw their weapons. Baecker smiles, and says, _‘Congratulations on your great success. Now give me the Hammer!’_ Again, assuming the Players resist, the fight is on. 
+
+## **Emil Baecker**
+Male and in his mid fifties, Baecker looks about ten years older than his years, with a deeply lined face and a prominent mole above his left eye. He speaks with a slight slur, the result of a rather gruesome incident involving a crossbow a decade ago. 
+
+**CAPTAIN EMIL BAECKER**
+
+**HUMAN AGENT(GOLD 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**65**|**50**|**40**|**40**|**55**|**55**|**40**|**30**|**65**|**45**|**16**|
+
+**Traits:** Armour 3, Weapon (Sword) +7 
+
+**Skills:** Animal Care 35, Animal Training (Pigeon) 35, Bribery 70, Charm 70, Climb 45, Cool 75, Entertain (Act) 55, Gamble 35, Gossip 65, Haggle 65, Intuition 75, Language (Bretonnian) 45, Leadership 55, Melee (Basic) 85, Perception 70, Secret Signs (Spies) 45, Sleight of Hand 55, Stealth (Urban) 70
+
+**Talents:** Attractive, Blather, Carouser, Cat-tongued, Etiquette (Nobles), Gregarious, Lip Reading, Master of Disguise, Mimic, Read/Write, Secret Identity, Shadow, Strike to Injure
+
+**Trappings:** Breastplate, Open Helm and Sword, Illustration of the Characters 
+
+## **Hand It over**
+In addition to Baecker, there is one Spionwerber cultist-agent for every Character. This is a fight to the death — the Hammer’s arrival has forced the Purple Hand’s back against the wall. For Zuntermein’s profile, see page 22. 
+
+**SPIONWERBER AGENTS**
+
+**HUMAN SPIES(SILVER 3)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**55**|**50**|**30**|**40**|**30**|**35**|**30**|**30**|**65**|**35**|**16**|
+
+**Traits:** Armour 3, Weapon (Sword) +7 
+
+**Skills:** Bribery 40, Charm 40, Climb 35, Cool 70, Entertain (Act) 40, Gamble 35, Gossip 40, Haggle 40, Intuition 35, Perception 35, Melee (Basic) 60, Secret Signs (Spies) 35, Sleight of Hand 35, Stealth (Urban) 40 
+
+**Talents:** Blather, Carouser, Etiquette (Students), Gregarious, Lip Reading, Read/ Write, Secret Identity, Shadow 
+
+**Trappings:** Mail Shirt, Leather Jack, Open Helm and Sword 
+
+Baecker carries a rough but accurate illustration of the Characters done in charcoal, provided to him by Zuntermein. On the reverse is a short note which details where and when to find the Characters, and reads: ‘ _These are your targets. Retrieve the Hammer._ ’ The note is unsigned — Zuntermein is no fool — but it was written in haste and the magister neglected to disguise his handwriting. 
+
+## **What’s All This, Then?**
+Gideon is not about to let Zuntermein wreck his plans. At the climax of the battle, whether the Characters are about to win or lose, the sounds of a whistle cut through the din. A squad of 7 Soldiers led by a Sergeant burst in and attack the Spionwerber men. Characters succeeding at an **Average (+20) Perception** Test hear a young boy’s voice as he shouts: _‘Them’s the ones! Get them!’_ Anyone looking for the source, however, sees nothing. 
+
+The fight soon ends with Baecker’s men dead or rounded-up. Baecker, if he lives, attempts to pull rank, and the sergeant hesitates. Characters can sway him with a successful **Average (+20) Charm** Test, while searches of corpses and prisoners find Purple Hand tattoos on each. That settles it. _‘It’s the Witch Hunters for you!’_ 
+
+If the Characters try to intimidate a captive Baecker into revealing more about why he attacked them, he tries to fob them off by claiming he was acting under orders, but vows never to reveal his leader. If he is threatened further he seems to capitulate and provides a description of Wasmeier and the address of a cheap hostelry near the Street of a Hundred Taverns where he can be found. If the Characters know Wasmeier is elsewhere, or dead, or if one of them expresses suspicion and passes a **Very Hard (–30) Intuition** Test they may guess the man is lying. He only offers up Zuntermein as his commander if he is credibly threatened with death and also offered clemency if he cooperates. 
+
+Once the encounter is concluded, the Watch sergeant orders the survivors to be taken away. Then he turns to the Characters. 
+
+_‘Sorry we were late to the party, but it’s a good thing your lad found us.’_ If the Characters look confused, he continues. _‘The boy who was travelling with you. He found us and warned us you’d been jumped by cutthroats. Gave us a good description of them on the way. Smart boy, even if a bit odd-looking, what with his big wide grinning mush and all.’_ He turns as if to call a young hero over, but stops in confusion. _‘Now, where’d he get to?’_ None of his men can recall seeing the boy leave. Nor did they get his name. 
+
+If the Characters ask, the sergeant agrees to provide an armed escort to the palace. Regardless, their path forward is clear. 
+
+## **The End of the Road**
+Zuntermein is cunning — one in his position must be — but as the day of the ceremony grows close, he is growing desperete and has begun to make mistakes. If the Characters bring the note to Immanuel-Ferrand or Holzkrug, both men will recognise Zuntermein’s handwriting. Holzkrug will attempt to handle matters quietly, confronting Zuntermein alone, and will likely pay for this with his life. Immanuel-Ferrand on the other hand will enlist some allies from the Grey College, and the Characters if they are willing, before confronting Zuntermein directly. Cornered, the magister will fight to the bloody end. 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## **Misleading Heironymous**
+_‘Have you heard? Those sensitive to the Aethyr have perceived the renewal of a vast network of magical nodes throughout the nation. I believe this to be a phenomenon known as the Geomantic Web, a vast network of magical energy constructed in time before the Empire. Before the Elves, even. I’m here to study it.’_ 
+
+## **Count Otto Boormann**
+The Plenipotentiary from the Death on the Reik Companion may have made the acquaintance of the Characters in Kemperbad. If he is warmly disposed to them he may well like to catch up. Boormann is not important enough to be invited to the ceremony in which Ghal Maraz will be returned to the Emperor (or his proxy).  If need be he could bump into the Characters prior to the ceremony and joke (or moan) about the changes in their relative importance. 
+
+Boormann is an accomplished diplomat, he is a Plenipotentiary after all, and knows many of the prime movers in Altdorf society. He does not have much information to give the Characters that they cannot hear elsewhere, but he does have the following to say if asked about Liepmund Holzkrug. 
+
+## **Old Friends**
+The GM may like to reacquaint the Characters with some old friends shortly after they arrive in Altdorf. This may help emphasise that the campaign as a whole is coming to a conclusion, but it can also be used to pass useful information to the Characters (if they need it) or misdirect them (if they are having too easy a time of things). 
+
+## **Heironymous Blitzen**
+Wizards are in uproar throughout the Empire for two particular reasons. Firstly they are being deployed to various trouble spots and warzones in order to support the troops, particularly those of Altdorf, the Reikland, and their allies. Secondly they are acutely aware of the strange magical energies that gather over a number of cities in the Old World, but they are not decided on what these phenomena might mean. 
+
+Heironymous Blitzen is in Altdorf in order to try and raise issues with the Wizards and Courtiers there. He can provide opinions based on whether the Characters need help or misdirection. 
+
+## **Helpful Heironymous**
+_‘I have come to Altdorf to light a fire under some of the more complacent folk in the court and the colleges. In case you haven’t heard several magical phenomena are apparent to those who are sensitive to them. I myself have perceived what look like fissures in the Aethyr, here and in Bögenhafen and Ubersreik.  This is most certainly the hand of Chaos at work and we must be vigilant. Foolishly, just when they are needed most, many of Altdorf ’s wizards are off chasing glory in doubtful war.’_ 
+
+_‘The Holzkrug dynasty have held estates in the Reikland since the reign of Dieter III, being granted hereditary tenure of their foremost domain in 1650 IC. Sporadic private wars broke out between the Holzkrugs and their neighbours in the Barony of Holswig. Their line produced a notable ruler. Eberhardt the Just who reigned from 2232 IC to 2260 IC. Eberhardt expended a great deal of time and money on improving public health in the Reikland’s towns and cities._ 
+
+_He founded the Great Hospice in 2243 IC. Since then the fortunes of the Holzkrug dynasty waned then waxed, bolstered by the completion of the Weissbruck canal in 2462 IC. Emperor Mattheus II of the House of the Third Wilhelm had supported the Holzkrugs in the venture in the hope that it would remedy the ancient rivalry between their families, and the Holzkrugs make a lot of money from trade along the waterway.’_ 
+
+Whilst he doesn’t have much to say about the man himself Boormann sums up Liepmund as _‘ruthless and competent’._ He then adds _‘You know, I once heard something funny about old Emperor Eberhardt. Folk say his shade still haunts the Volkshalle, and if that he hears a proposal that offends his sense of justice he sets papers flying.’_ 
+
+Should a Character capable of perceiving the winds of magic investigate the Volkshalle on the lookout for a ghost they must pass a **Very Difficult (-30) Perception** Test. Those who succeed notice a faint coalescence of Shyish and Dhar gathered in a far flung corner of the vaulted ceiling. Whatever spirit infuses this faint shade is too weak and confused to communicate, but if a subsequent **Very Difficult (-30) Intuition** Test is passed a Character can sense that the entity is frightened and anxious, trying desperately to avoid detection. 
+
+## **Delivery**
+A page greets the Characters at the Palace gates and ushers them at speed through the maze of halls and chambers. He shouts at knights and servants in his path. _‘Clear the way! They’re back! The heroes of the Empire have returned!’_ To the Characters he explains breathlessly: _‘Their Majesties are currently in the Volkshalle, inspecting preparations for the Ceremony of Praise to Sigmar. We were given strict instructions to bring you to them wherever they were, whenever you arrived!’_ If they ask for time to clean up after their travels before seeing the Emperor, they get a brisk _‘Sorry! No time!’_ . 
+
+## **Josef Quartjin**
+Josef and his barge are back in Altdorf. He is tasked with delivering quality wines to the Volkshalle cellars and if he spots the Characters as he makes his deliveries he is delighted to see them. Whilst he is more interested in their adventures since he last saw them if they ask him about his own experiences since the beginning of Death on Reik he does have a tale of his own to tell. 
+
+_‘Well, as it happens I have had a few mishaps of my own over the last few months, and it broadly concerns you folk. I was working the Ober-Stimmigen canal, as I wasn’t keen on trading with Bögenhafen as I’m sure you appreciate. On night I was enjoying a pint in the Exploding Pig in Ubersreik when a bunch of ugly customers start saying I’m a known acquaintance of Kastor Lieberung and that I should tell them where he went. I told them last I heard Kastor had headed off to Wolfenburg, which caused some grumbles but they didn’t have anything else to say beyond that.’_ 
+
+## **Endgame**
+This section assumes several things: 
+
+- Karl-Franz is still sickened by Gideon’s sorcery and the poisons he has been given by Kappelmuller 
+
+- Crown Prince Wolfgang lives and has at least one of his tutors with him 
+
+- The Characters have Ghal Maraz 
+
+If the circumstances are not conducive to summoning Sheerargetru, there may still be negative consequences for the Characters. This section concentrates on detailing Gideon’s success, but does outline how things might work out differently — in the favour of other antagonists, such as Zuntermein or Wasmeier. These alternate endings are explored in more detail in the **Empire in Ruins Companion** . 
+
+Take some time to review the following section to account for criteria the Characters have put right or eliminated during their adventures. If they exposed Kappelmuller then the Emperor is not ill; if they slew several of the Nine Eyes, they have not been replaced. Let the Characters feel the significance of these achievements as they do impair the summoning of Sheerargetru. 
+
+In the Volkshalle, the Characters find the great octagonal chamber alive with activity. Reiksguard are stationed at all the entrances to the main floor and around the mezzanine, their full armour and weapons a telling sign that all is not well. Under their watchful eye, dozens of workmen on scaffolding clean the ancient frescos and murals on the walls, while others scrub the magnificent stained-glass windows inside and out. 
+
+One new thing is apparent to the Characters — the ancient reliquary that had housed the false hammer has been replaced. In its stead, artisans assemble a new, grand reliquary of gold and silver adorned with eye-catching rubies and diamonds. Anyone observing this work sees on a successful **Difficult (–10) Perception** Test that the artisans are very conscientious about keeping others from getting too close. 
+
+There on the great stone throne sits a sad sight: Emperor Karl-Franz I Holswig-Schliestein of the House of the Third Wilhelm, Protector of the Empire, Defier of the Dark, Emperor Himself and Son of Emperors is clearly a very sick man. With a deathly pallor, he looks older than his years and is wrapped in blankets against a cold no one else feels. 
+
+An **Easy (+40) Perception** Test reveals a palsied shake in his hands that was not there before. As the Emperor looks at the work going on around him, it is not at all clear he comprehends much. His eyes flicker and appear unable to focus for very long on anything. He closes them occasionally, opening them again with a start. By the throne, Crown Prince Wolfgang and the Grand Theogonist confer over the work being done. In contrast to his uncle, the Crown Prince seems vigorous, strong, and decisive, with Yorri often nodding in agreement. The page leads the Characters to them, drops to one knee and bows his head — an **Easy (+40) Charm** Test alerts the Characters they should too — and announces the joyous news. _‘By your leave, My Lords and Your Imperial Majesty, the True Hammer of Sigmar has returned!’_ 
+
+## **A Warm Reception**
+Wolfgang briskly waves them to their feet and, as the rest of the chamber looks on, warmly smiles and shakes each of their hands. _‘This is glorious news! Do you really have the Hammer of Sigmar? Can we see it?’_ Assuming they comply, Wolfgang caresses it gently, a look of awe on his face that mirrors that of the others crowding for a look. However, on a successful **Challenging (+0) Intuition** Test, a Character notices a flash of greed in his eye. 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## Then, He Turns to the Emperor.
+_‘Your Majesty! My Lord Uncle! It is true!’_ Karl-Franz in return manages a feeble smile and wave as everyone in the chamber bursts into cheers of _‘Praise Sigmar! Hail the Emperor! We’re Saved!’_ To an older woman near a door by the new reliquary, Wolfgang shouts: _‘Ermine! Fetch wine from your cellars! Quickly, and the best!’_ Characters looking at her as she leaves can, on a **Challenging (+0) Perception** Test, notice a look of resentment as she leaves to obey. 
+
+Wolfgang turns again to the Characters. _‘This means the ceremony can take place as scheduled, the day after tomorrow. My Lord Grand Theogonist will take charge of Ghal Maraz until then, but you, my friends, shall have the honour of presenting it to the Emperor in this very chamber, when you will be richly rewarded.’_ 
+
+As the steward brings the wine, under Ermine’s watchful eye, and aides take the tired Emperor back to his private chambers, the Crown Prince concludes: _‘Now, let us all sit and drink many toasts. You must tell us the story of your adventures.’_ 
+
+## **A Lady in Distress**
+After the Volkshalle, a page shows them to guest chambers in another wing of the palace. They have time to bathe and eat, while staff bring them new, expensive clothes that fit perfectly, as if tailored specifically for them, and grooms clean and polish their armour. Later, a lady in waiting is admitted and informs them that ‘someone important’ wishes to speak privately with them. Though she does not say who, her earnest manner speaks of sincerity and urgent need. 
+
+She leads them through pristine side corridors into what a Character, on a successful **Challenging (+0) Perception** Test, realises is the Imperial Residence, the wing that houses the Imperial Family. Knocking gently on a door, she leads them into a private sitting room, where the Characters find themselves face to face with Maria-Luise von Walfen, the Emperor’s ‘favourite’ and the mother of his children. 
+
+With a graceful nod she dismisses her lady in waiting. Characters passing an **Average (+20) Charm** Test note how odd it is to be alone with her. No attendants, no ladies in waiting, no guards. Without preamble or pleasantries, she looks each Character in the eye, sighs, and addresses them. 
+
+_‘I need your help. He needs your help. Something is wrong; I can feel it. I do not know what it is, but something bad is going to happen. There have been so many odd things of late. Renovations to the Volkshalle that no one knows who ordered, but everyone accepts. Faces in the Reiksguard I’ve never seen before. I realise there are crises that require troop movements, but these are palace troops! And I have not been able to see Karl … I mean, His Majesty in days. I, the mother of his children! He is always “unwell.” And the dreams: nightmares of fire and blood in the Volkshalle.’_ She pauses, then finishes. _‘Will you help us? I love him so.’_ 
+
+While she knows little beyond her intuitions, Maria-Luise can answer any questions they may have. 
+
+## **The Crown Prince?**
+_‘There is no affection lost between us. He is ambitious, brilliant, and anxious to inherit. And, when he does, I and my children will be superfluous. But, a traitor? No. And yet he has figured in my dreams.’_ 
+
+**The Electors?** _‘Fools who can’t see past their own fears, ambitions, and grudges. They’re all at home now, preparing for war. Only Reiklanders will be at the ceremony, I fear.’_ 
+
+## **Who Was That Woman?**
+_‘Her? Ermine Liebwitz von Decker und Hanulf, a distant cousin of the Grand Countess Emmanuelle. Emmy’s father got her a position here long ago as steward of the Volkshalle wine cellars, mostly to get her out of his hair. She can be a bit of a handful, actually.’_ 
+
+## **The Reiksguard?**
+_‘Perhaps I’m just a nervous mouse among the cats, but I’d swear I’ve seen new faces, more than I would expect. Marshall Helborg is away, but Baron von Teufelsmilch is the commander of the palace garrison. He might know more.’_ 
+
+## **Can We Delay the Ceremony?**
+_‘Impossible. I have no real authority, and the Emperor is too sick to make a decision. Wolfgang wants that ceremony so he can be the one to restore peace, and Yorri backs him up. If you can do anything, you must do it soon.’_ 
+
+At the conclusion of their interview, Maria-Luise gives each Character a token. _‘This identifies you as one of my retinue, acting on my behalf. It will open doors for you with those who respect me. Thank you, and may Sigmar shield you.’_ 
+
+**‘EMPRESS’ MARIA-LUISE VON WALFEN**
+
+**NOBLE(GOLD 5)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**35**|**30**|**30**|**30**|**63**|**45**|**45**|**60**|**35**|**59**|**12**|
+
+**Traits:** Weapon (Dagger) +5 
+
+**Skills:** Bribery 74, Charm 74, Consume Alcohol 35, Gamble 65, Gossip 74, Intimidate 45, Intuition 83, Language (Bretonnian 65, Classical 75), Leadership 74, Lore (Heraldry 75, the Palace 75, Politics 80), Melee (Basic 45, Fencing 55, Parry 45), Perception 83, Play (Harpsicord) 60, Ride (Horse) 65 
+
+**Talents:** Attractive, Briber, Carouser, Coolheaded, Dealmaker, Doomed ( _An End alongside your loved ones_ ), Etiquette (Nobles), Luck, Noble Blood, Public Speaker, Read/Write, Schemer, Suave 
+
+**Trappings:** Expensive yet tasteful clothes, Jewellery worth 250 GC, Dagger 
+
+## **Investigations**
+The Characters have three avenues to pursue as they wish: 
+
+- The renovation in the Volkshalle, particularly the new reliquary. 
+
+- Ermine, the suspicious looking  steward of the Volkshalle cellars. 
+
+- The personnel changes in the Reiksguard. 
+
+## **The Volkshalle**
+If they visit the Volkshalle, the Characters find final preparations underway for the ceremony. Many present are abuzz about the ceremony, hoping it is the first step towards a resoration of order in the Empire. Inspections of the work done by artists and Palace staff show nothing amiss, though few have time to talk. The work is uniformly of excellent quality. 
+
+Inspecting the new reliquary during the day, on the other hand, is impossible. Hidden under a tent and scaffolding, surrounded by rope barriers, the Characters can observe several artisans at work, all under the direction of Albertus Goldformer, master metalsmith of Altdorf. Under no circumstances are they allowed to approach, even if they show the tokens given to them by Maria-Luise. Albertus is a cultist recruited by Gideon, and it is his job to make sure the Reliquary functions as needed at the ceremony. If needs be, Albertus throws an apoplectic tantrum against the Characters’ interference, until the Reiksguard in the hall are forced to ask them to move along. 
+
+They have better luck at night, however. Only two guards patrol the Volkshalle, and the cultist-artisans have gone home, their work finished and not wishing to arouse suspicions. Characters can get the Reiksguards to let them have a quick look on a successful **Challenging (+0) Charm, Intimidate, or Leadership** Test (with a bonus of +10 for showing Maria-Luise’s token). 
+
+The Reliquary is a stunning masterwork, something even a Dwarf would admit _‘isn’t half bad.’_ Decorated with embossed scenes of Sigmar’s life, the interior contains a silk cushion in Altdorf blue, on which the Hammer will rest. A Character passing a **Very Hard (–30) Trade (Engineer, Silversmith, or Goldsmith)** Test notices on a successful test that a diamond in the doorframe of the reliquary is actually a button. Pressing it causes the cushion to drop through the bottom, leaving a large hole. Looking down it, they see it drops perhaps 30 feet into darkness. 
+
+## **Ermine and the Wine Cellar**
+Characters suspicious about Ermine’s behaviour or curious about the wine cellar can investigate one or both. If interviewed, Ermine comes across as stiff and formal, and a **Challenging (+0) Intuition** Test reveals an underlying bitterness or resentment. She informs the Characters that by right of office the sole control of the wine cellars is hers alone and, no, she is not giving, _‘gawkers looking for free tastes’_ a tour. 
+
+Ermine is busy selecting wine for the ceremony. She is quick to highlight the importance of this, opining that one _‘can’t begin the restoration of the Empire with any old Gewurztraminer!’_ 
+
+Showing Maria-Luise’s token hardens Ermine’s attitude, as she quietly despises the ‘Empress.’ Mentions of plots and daemons do not move her, though they feed doubts she has begun to quietly have about the _‘young lad_ ’ (Gideon in disguise) who has been paying her for _‘discreet access’_ to the cellars for him and his friends. (See **Meanwhile, In The Wine Cellar** .) 
+
+The cellar itself is a basement under the Volkshalle, accessed via a stone spiral staircase leading down from a hallway outside the main chamber. It is an ancient room, originally built in 1149 IC during the Emperor Ludwig the Fat’s reign. 
+
+At that time, the throne sat where the reliquary now does, and Ludwig had a Dwarf-built elevator platform installed that would lower his throne directly to the wine cellar, so he could enjoy himself in peace after a tedious meeting without having to deal with the stairs. The throne was relocated and the elevator removed and the hole covered long ago, but Gideon learned of it and bribed Ermine to let some artisans in, who uncovered the hole in the ceiling. 
+
+The cellar is behind a heavy, wooden door and locked with a stout lock. Ermine will not give the Characters the key, which only she has, but it can be picked on a **Hard (–20) Pick Lock** Test. Inside, they find rack after rack of fabulously expensive rare vintage wines and casks of brandy from across the Old World and even Ulthuan. 
+
+Thick layers of dust and cobwebs obscure the older bottles. Examining the ceiling reveals an obvious square hole, itself antique, but recently uncovered. On a successful **Challenging (+0) Perception** Test, the Character realises that this hole is right under the new Reliquary. 
+
+## **Ermine Liebwitz Von Decker Und Hanulf, Steward of the Volkshalle Cellars Noble (Gold 1)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 35 | 30 | 35 | 35 | 35 | 30 | 35 | 37 | 40 | 30 | 13 |
+
+**Traits:** Prejudice (Her Betters), Weapon (Dagger) +5
+
+**Skills:** Bribery 40, Consume Alcohol 45, Gamble 47, Intimidate 45, Leadership 40, Lore (Heraldry 47, Wine 47), Melee (Basic) 45, Perception 45, Play (Lute) 45
+
+**Talents:** Etiquette (Nobles), Luck, Noble Blood, Read/Write 
+
+**Trappings:** Expensive but outdated clothes, Gold Corkscrew worth 2 GC, Chain of Office, Key to the Cellar, Dagger 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## **The Reiksguard**
+Not being intimately familiar with the Reiksguard themselves, the easiest way for the Characters to investigate Maria-Luise’s concerns is to go straight to the top. In this case, Baron Augustus Bardeleben von Teufelsmilch is the aged head of the palace garrison. A boon companion of the Emperor’s father, Luitpold, he has continued to serve past retirement age, and against Marshall Kurt Helborg’s advice, because of the Emperor’s affection for him. More fond of old war stories than supervising his command, it was easy for Gideon to arrange some changes. 
+
+## **Some Ominous Happenstances**
+In order to add a little optional confusion and tension before the ceremony here are some scenes the GM might like to include if the Characters are snooping around in the Volkshalle before the event. 
+
+Liepmund Holzkrug performs his own check of the room. As one of Altdorf’s senior spies he has authority to oversee security here. The Characters may think him sinister, especially as he fiddles around the Emperor’s throne. 
+
+In fact Holzkrug has grown perturbed by the speed with which the Empire is collapsing and has set aside his own games, for now. 
+
+A group of Nordlanders arrive to petition for support for their independence. If they recognise the Characters as agents of Graf Boris they heckle them. The Reiksguard soon eject them saying ‘now is not the time’. They head to a tavern to drown their sorrows. 
+
+A raven flies into the hall. It perches on one of the beams in the vaulted ceiling. If the Characters do not act an archer from the palace Garrison shoots it down. This is seen as bad luck, drawing the attention of Morr, and the archer is lambasted by the knights in attendance for his rash action. 
+
+As ‘Heroes of the Hammer,’ the Characters enjoy a warm welcome from him. Over drinks and cigars, he demands to hear their stories, often interrupting with one of his own. He is pleased with his position, regarding the ceremony as the first step to putting an end to the current turmoil, and only too happy to discuss preperations. If the Characters ask about new guardsmen, he harrumphs about needs of war and admits, _‘there has been some shifting about’_ , but he doesn’t remember the details. _‘No need to worry. The Imperial Palace is locked up tight as a drum!’_ 
+
+If pressed, he mutters about _‘boring trifles_ ’ and has an aide bring files of recent personnel moves and duty rosters. A Character examining the files notes several recent rotations out of the Reiksguard and new guardsmen joining the garrison. More than one might expect, but not out of line with an emergency. On a successful **Hard (–20) Perception** Test, the Character finds a duty roster listing all the new men as assigned to the honour guard for the Reliquary at tomorrow’s ceremony. Each paper is signed by the Baron and stamped with his seal. Asked about these, the confused man mutters about _‘demands of war … can’t keep track of every blasted thing’_ . He clearly has no memory of this. 
+
+## **No, Really. There’s This Nasty Daemon!**
+By this point, the Characters may be anxious to tell someone in authority that all is decidedly not well. Incident after incident since their quest began has provided evidence that someone — or something — has been dogging their steps, clearing the way for them to find the Hammer and return it to Altdorf. They may even have recognised the signs of their old nemesis from Bögenhafen: Gideon. 
+
+The trouble is, no one wants to believe them. None of the great and powerful gathered in the Volkshalle can see this as anything but a triumph, Sigmar’s Will. The idea that a daemon would plot to recover the most powerful artefact known and deliver it to the enemies of Chaos is preposterous. 
+
+The Crown Prince and Grand Theogonist listen patiently and chuckle at their folly. The Characters are obviously tired and strained from all they have been through. They are dismissed with thanks for their service to enjoy a well-deserved rest. 
+
+## **The Great Ceremony**
+At high noon on the 9th of Brauzeit, the Empire’s great, glamorous, and powerful gather in the Volkshalle for a ceremony of praise to Sigmar to celebrate the return of His Hammer and the restoration — they hope — of peace, prosperity, and unity under the House of the Third Wilhelm. Behind the joyous faces of the throng, however, some are worried, for the event rings hollow. Yes, the True Hammer has returned, but who stands for the Empire it is meant to protect? The Emperor, Sigmar’s heir, is enfeebled. The optimists claim that the ceremony is merely the first step toward restoring the Empire, and that with Ghal Maraz in hand, the Emperor will be able to renew his authority. 
+
+However, none of the other electors, who should close ranks united behind the Emperor, are there. All have gone home to defend their holdings, plot against their neighbours, or even scheme to make themselves Emperor. It is fine to proclaim unity, but what if no one is there to hear the message? 
+
+Others are missing, too, the needs of duty calling them away. Marshal Helborg, commander of the Empire’s field armies, is away dealing with the crisis at Ubersreik. Much of the Reiksguard has gone with him. Of the heads of the Colleges of Magic, only Supreme Patriarch Thyrus Gormann and the patriarchs of the Gold and Jade Colleges are present. The rest are away with the armies. 
+
+Altdorf ’s diplomatic community is represented, with the ambassadors of Ulthuan, Brettonia, the Dwarf Kingdoms, and Cathay there to observe and report home on the Empire’s fate. The heads of leading Halfling families are also present. 
+
+## **Showtime**
+Awaiting their cue in an antechamber off the main entrance to the Volkshalle, the Characters can hear the Grand Theogonist chanting prayers to Sigmar while a choir sings hymns from the mezzanine. After a seemingly interminable wait, a chamberlain opens the door to tell them it is time. Let the Players choose one among them as the bearer of the Hammer, with the rest as their escort. 
+
+As the chamberlain announces them each by name and proclaims them, _‘Heroes of the Empire’_ , they see the gathered notables, as well as the Reiksguard in full arms and armour at the doors and on the mezzanine. An honour guard of nine line the steps to the reliquary. Karl-Franz sits upon his throne, looking almost overwhelmed by his robes of state. At the Emperor’s right is Crown Prince Wolfgang and at his left is the Grand Theogonist. Behind Yorri XV stands the Emperor’s son, Luitpold, prince of Altdorf, disinherited from the throne because of his enfeeblements. If the Characters scan the crowd, they see Maria-Luise waiting in the gallery at the far wall with the other ladies of court and other palace servants. The Nine Eyes are also there, most knowing nothing of the role they are about to play. 
+
+THE CELLAR
+VOLKSHALLE 2
+VOLKSHALLE
+1. Main Hall
+9
+2. Viewing Area
+6 3. Emperor’s Throne
+4. Reliquary
+3 5. Main Entrance
+1 5 10 6. Guard Posts
+7. Shrine of Sigmar
+6 8. Stairs to Cellar
+4 CELLAR
+9. Under Reliquary
+10. Wine Racks
+11
+11. Beer Kegs
+12. Anteroom
+13. Stairs Up
+7 8 12
+13
+COURTYARD
+186
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+To the cheers of the crowd the chamberlain gestures the PCs forward, adding last words of advice for the bearer: _‘Don’t trip.’_ 
+
+On approaching the throne, Wolfgang steps forth and takes the Hammer. Bowing to his uncle and to the Grand Theogonist, he turns to the crowd, brandishes it with both hands and shouts. 
+
+## _‘Behold the True Hammer of Sigmar! the Empire Is Saved!’_
+## **Sacrifice**
+To the cheers of the crowd and hymns of glory from the choirs, Crown Prince Wolfgang then slowly walks to the reliquary, with the Grand Theogonist a pace behind him to his right, intoning prayers to Sigmar. 
+
+With a deep bow, Wolfgang places the Hammer on its cushion, steps back, and smiles. At the same time, on a **Challenging (+0) Perception** Test, a Character can spot an odd-looking young page watching from a back entrance to the Volkshalle, a wide grin of utter triumph on his face. 
+
+Then, with one smooth move, one of the cultist-Reiksguard reaches over and presses the hidden button, and the Hammer of Sigmar drops out of sight. 
+
+Yorri gawps in shock for a moment before a second guardsman stoves his skull in with a poleaxe, killing him instantly. Before Wolfgang can finish crying _‘Treason!_ ’, a third stabs him in the back as his seven fellows chant: _‘Iztak Graksk! Iztak Graksk! Iztak Graksk! Iztak Graksk! Iztak Graksk! Iztak Graksk! Iztak Graksk! Iztak Graksk! Iztak Graksk!’_ 
+
+**CULTISTS**
+
+**THE FALSE HONOR GUARD (9)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 50 | 35 | 40 | 40 | 49 | 35 | 30 | 30 | 55 | 30 | 17 |
+
+**Traits:** Armour 4, Weapon (Halberd) +9
+
+**Skills:** Athletics 45, Cool 70, Dodge 45, Melee (Basic 70, Polearm 70), Perception 55
+
+**Talents:** Drilled, Riposte, Strike Mighty Blow 
+
+**Trappings:** Suit of full Plate, Halberd, Sword, Purple Hand Tattoo 
+
+Characters may react to this, and if they can slaughter the honour guard within a single turn, the chant is left incomplete — but the summoning is underway. 
+
+Wolfgang’s tutors, the Nine Eyes, begin to burn with sorcerous pink and blue flames. The stricken Wolfgang stands upright, arms outspread, and with a scream of victory no human voice could make, splits wide with an unbearable ripping sound as Sheerargetru, Exalted Lord of Change, steps forth. 
+
+## **If the Characters Discover the Plot**
+It’s possible that the Characters uncover one or more of these threads and try to warn the authorities. This is where you have to be adaptable. The table on page 190 gives details on how certain changes can impede or enchance the effect of the final summoning. If, for example, the trap door in the Reliquary is discovered and sealed, or the honor guard replaced, then the summoning will still occur, but the Daemon will be diminished for it. The Characters will have an easier time of things in the final battle — a fitting reward for their diligence. 
+
+However, if too much is revealed, Gideon activates his backup plan: planted evidence in Ermine’s chambers that implicate her as the traitor behind it all, found by a chambermaid who dutifully brings it to her masters. Ermine is arrested, the ceremony goes on as scheduled, and the daemon is summoned as planned. 
+
+## **Battle for the Empire**
+The Volkshalle is in chaos. Screams from terrified people trying to escape compete with shouts of, _‘For Sigmar!’_ and _‘Protect the Emperor!’_ Loyalist Reiksguard rush to fight the false honour guardsmen, who kill indiscriminately while protecting the Daemon. As the patriarchs of the Colleges of Magic begin channelling their most powerful spells, the Lord of Change glories in its release and begins summoning Horrors from its claw tips — its very presence serving as a gate to the Realm of Chaos. 
+
+This sudden battle, complex and full of powerful figures, is best handled in a narrative manner, aside from those moments directly involving the Characters. As they do well, so do those fighting for the Empire. As they do poorly, so the Greater Daemon and its minions advance. 
+
+Outside of the Characters, who lives and who dies should be decided by your sense of the dramatic and needful. If the patriarch of the Jade College perishing while exchanging sorcerous bolts with the Lord of Change provides cover for the Characters to escape the Volkshalle to rescue the Hammer, do not hesitate. For the Characters themselves, this is the long-awaited, dramatic climax of the whole **Enemy Within** campaign. They face several choices: 
+
+- Fight the Daemon. 
+
+- Rescue as many as possible from the wreckage of the Volkshalle. 
+
+- Flee and seek to recover the Hammer. 
+
+They may choose to do any combination of these, but, especially if Sheerargetru appears in full power, their greatest hope lies in getting back the Hammer. 
+
+## **Incarnations of Sheerargetru**
+In order to see how successfully Sheerargetru manifests, you should consult the tables on pages 190 and 191. 
+
+Certain basic requirements are shown on the table, and are absolutely essential to Gideon’s plan. The presence of Zuntermein or Wasmeier is not essential, but is a minimal requirement to summon the Daemon, if the Crown Prince is not available. 
+
+Either or both could also be substitute sacrifices if the Nine Eyes were eliminated. If these three conditions are obtained, the Daemon manifests, but the success of its summoning depends on the Power Score. 
+
+## **Portals**
+In nine cities around the Old World (Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim and Remas) cracks in the Aethyr hang in the sky. In Altdorf there are nine cracks, one over the palace and another above each of the Colleges of Magic (including the Amber College in the hills to the south of the city). 
+
+Should Sheerargetru manifest, these portals open and the Realm of Tzeentch begins to flood through into reality. Read the following to the Players: 
+
+_‘The heavens open above the Seat of Sigmar. The veil is torn aside and sorcerous gales blow about the spires of the Palace. A disembodied voice sounds — more in people’s minds than in the air — it is beautiful, but cold, and radiates evil. “Here are nine and each shall come with its own host. The Changer triumphs!” Bolts of blue and pink fire begin to rain down.’_ 
+
+In most cases, these portals do not directly affect the Characters, but they will certainly come to know about it. However, Daemons resulting from the portal above the palace can be seen and heard, spilling out of the sky and attacking guards and civilians around the palace. 
+
+For the most part, the Daemons are fought to a standstill by troops outside the Volkshalle, but every turn after the opening of the portals there is a 9% chance that a Daemon will fight its way into the chamber and charge a randomly selected Character. 
+
+**Trivial:** The faint image of the Realm of Tzeentch can be seen in the sky, insubstantial but slowly becoming more corporeal. Daemons fighting their way inside will be Blue Horrors. 
+
+**Minor:** Portals open in other places where Sheerargetru haunted the Hammer — Brass Keep and Black Fire Pass. Bizarre edifices and monsters bestride Altdorf while incredible swirling fires dominate the sky. Daemons fighting their way inside will be Pink Horrors. 
+
+**Significant:** The city streets meld with another city, a daemonic madness of strange angles and bizarre sights. Gibbering Daemons cavort with terrified citizens, while others join with infernal beasts to parade through the streets in rapture. Daemons fighting their way inside will be two Pink Horrors. 
+
+**Major:** Lords of Change emerge from all portals across the Empire with their daemonic legions. For the Empire to recover from this is a monumental undertaking. Daemons fighting their way inside will be Heralds of Tzeentch. 
+
+If Sheerargetru is destroyed, the portals close and the Daemons are slowly beaten back by the beleaguered forces of the cities. However, the greater the potency of the portals, and the longer it takes to defeat Sheerargetru, the worse for the Old World. 
+
+## **The Nine Eyes**
+Now that they have served their purpose, the Nine Eyes burn with sorcerous fire as their true master enters the world. The heat is stifling and the stench is overwhelming. If the power is low, they merely burn to ash, though their departure spreads panic throughout the gallery. A lingering trail of smoke remains and a smell like burning bacon. However, they may be rewarded with immortal forms, if Sheerargetru is strong enough. 
+
+## **We’ll Be Taking That Hammer, Thank You**
+To save the day, the Characters’ main hope lies in getting the Hammer back. By now they know of the trap door in the Reliquary and may well know that it leads to the Volkshalle Wine Cellars. If they don’t, a repentant Ermine, heedless of the danger, rushes to warn them that cultists are about to take it. There they find the cellar door open and a frustrated Gideon yelling at his minions to get the Hammer, which lies on the floor beneath the hole. The Daemon cannot touch the Hammer, and one of the cultists lies dead after having tried to heft it. Another tries to pull it out with a halberd, succeeding just as the Characters arrive. 
+
+If they rush to the cellar without being prompted, they find Ermine trying to block the open doorway, alternately pleading with Gideon not to take the Hammer, then begging Sigmar for forgiveness. Just as they arrive, Gideon reaches out and snaps her neck, and he and his cultists enter the cellar. 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## **Incarnations of Sheerargetru**
+Event or Criteria Power
+Basic Requirement
+The Hammer is recovered from Black Fire Pass
+At least one of the Nine Eyes (or Wasmeier or Zuntermein) alive at start of rite Basic Requirement
+A suitable host is alive: the Crown Prince, Zuntermein, or Wasmeier Basic Requirement
+Crown Prince as main host +3 Power
+Honour Guard chanted  ‘Iztak Graksk!’  nine times +1 Power
+Yorri slain by honour guard +1 Power
+Ceremony goes ahead on 9th day of 9th Month +2 Power
+3 of the Nine Eyes alive at start of rite +1 Power
+6 of the Nine Eyes alive at start of rite +3 Power
+9 of the Nine Eyes alive at start of rite +5 Power
+Bögenhafen has been turned into a daemonic portal in  Enemy in Shadows +5 Power
+Etelka or Ernst of the Red Crown survived  Death on the Reik +3 Power
+Karl-Heinz Wasmeier’s plot remained largely undiscovered or misunderstood in  Power Behind the  +3 Power
+Throne
+Morrslieb was shattered in  The Horned Rat +5 Power
+Characters use the Daemon’s true name in a suitably dramatic way.  ‘We defy you Sheerargetru’  and so  –3 Power
+on, before it is fully manifest.
+Sheerargetru is forced to manifest in the same room as Ghal Maraz –4 Power
+Emperor Karl-Franz is returned to health –2 Powe
+
+## **Wasmeier the Wild Card**
+If Karl-Heinz Wasmeier has survived to this point, he has been busy undermining Zuntermein and furthering his control over the Purple Hand. However, accumulating rumours and portents have him worried that something very wrong — from his point of view — is going to happen at the Ceremony of Praise, so he arranges to be there in the background, just in case. 
+
+Characters can notice him as they are presenting the Hammer on a successful **Hard (–20) Perception** Test, but warnings of a Chaos cultist in the crowd will be shushed and any attempt to leave the Imperial Presence without permission is blocked. _‘It just isn’t etiquette!’_ If they look again, he’s gone. 
+
+Wasmeier regards the Daemon’s summoning as the ruin of his plans, and those damned meddlers responsible again. Use him as you wish, attacking the Daemon Prince if you need a Character to survive, or attacking the Characters, the need for revenge having driven 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## **Power Score**
+Power Level Sheerargetru Nine Eyes Portals
+Less than 1 Barely Exalted Wither and Die Trivial
+1 Barely Exalted Blue Horror Trivial
+2–3 Barely Exalted Blue Horror Minor
+4-5 Exalted Pink Horror Minor
+6–8 Exalted Pink Horror Minor
+9 High Exalted Pink Horror Minor
+10–16 High Exalted Pink Horror Significant
+17–24 High Exalted Herald Significant
+25 or more High Exalted Herald Majo
+
+## **Sheerargetru Barely Exalted**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6 | 75 | 90 | 85 | 85 | 80 | 50 | 20 | 75 | 65 | 65 | 240 |
+
+**Traits:** Bite (Beak) +10, Corruption (Minor), Daemonic 9+, Distracting (Mutating Features), Night Vision, Rear, Size (Monstrous), Spellcaster (Tzeentch), Terror 1, Unstable, Weapon (Massive Staff) +13
+
+**Skills:** Channelling 85, Cool 75, Intuition 105, Language (Magick) 90, Perception 100 **Fate Points:** 2
+
+## **Spells**
+## **Sheerargetru High Exalted**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6 | 115 | 130 | 115 | 115 | 100 | 70 | 40 | 95 | 95 | 85 | 336 |
+
+**Traits:** Bite (Beak) +13, Champion, Corruption (Major), Daemonic 7+, Distracting (Mutating Features), Elite, Living Gate, Night Vision, Rear, Size (Monstrous), Spellcaster (Tzeentch), Terror 4, Weapon (Massive Staff) +16 
+
+**Skills:** Channelling 105, Cool 95, Intuition 125, Language (Magick) 110, Perception 120 **Fate Points:** 4 
+
+## **Spells**
+**SHEERARGETRU EXALTED**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6 | 95 | 110 | 90 | 90 | 100 | 70 | 40 | 85 | 75 | 85 | 272 |
+
+**Traits:** Bite (Beak) +11, Corruption (Major), Daemonic 8+, Distracting (Mutating Features), Living Gate, Night Vision, Rear, Size (Monstrous), Spellcaster (Tzeentch), Terror 3, Unstable, Weapon (Massive Staff) +14
+
+**Skills:** Channelling 95, Cool 85, Intuition 125, Language (Magick) 100, Perception 120
+
+**Fate Points:** 3 
+
+## **Spells**
+## **New Trait — Living Gate**
+Sheerargetru may spend its action to summon more servants of Tzeentch to enter the material world. The Daemon should make a **Challenging (+0) Willpower** Test. On a success, 1d10 lesser daemons appropriate to its god spring forth from its immense claw tips. 
+
+If the Exalted Daemons takes any wounds during the round, it must pass an **Average (+20) Cool** Test or it may not summon any Daemons and must roll again the next round to do so. On an Impressive Failure, the Exalted Daemon has lost the favour of his god, who shuts the gate down for the remainder of the encounter. 
+
+## **Aftermath and… Rewards?**
+And so it ends. Either the Characters have defeated the Greater Daemon and saved the Empire — to one degree or another — or they have failed, and the Empire is in ruins. What comes next depends on who really won. 
+
+## **Who Won?**
+There are five possible endings to the momentous **Enemy Within** campaign. Each potential outcome is discussed below with implications for the Empire and the Characters, as well as suggestions for continuing the campaign. 
+
+## **Gideon Wins**
+**GIDEON — MASTER CONSPIRATOR**
+
+**AND DAEMON-HERALD OF TZEENTCH**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**45**|**47**|**42**|**40**|**58**|**47**|**39**|**59**|**60**|**51**|**22**|
+
+**Traits:** Blight (Purple Brain Fever), Corruption (Moderate), Daemonic 8+, Fear 2, Fleshthief, Hardy, Night Vision, Spellcaster, Unstable, Weapon +9 
+
+**Skills:** Channelling (Ulgu 75, Tzeentch 75), Dodge 67, Intuition 68, Language (Magick) 79, Perception 78 
+
+**Talents:** Aetheryic Attunement 2, Instinctive Diction 2 
+
+Utter failure. It is the end of the Empire as the Old World has known it and the transformation of Sigmar’s dream into a nightmare. If the Characters were unable to save Bögenhafen, then what becomes of Altdorf makes that seem like a day at the fair. The Lord of Change transforms first the Volkshalle and then the Imperial Palace into a Chaos Gate, an open road to and from the Realm of Chaos across which Daemons travel freely. So too are the unfiltered Winds of Magic, all colours combined into one coruscating rainbow, the very sight of which can shatter all but the strongest minds. Mutation runs rampant among those not able to flee the city and its environs. Altdorf becomes another Mordheim. 
+
+The effects on the remains of the Empire are almost as devastating. The lands around Altdorf become the playgrounds of cults, Mutants, Daemons, and Beastmen. The waters of the Reik downstream from Altdorf are tainted by the foul magic generated by the gate’s opening, leading to destroyed fisheries, outbreaks of mutation in towns and cities along the river, and the effective end of trade along the lower Reik. Marienburg cuts off river access to all traffic from the Empire. 
+
+## **Spells**
+**Petty:** Dazzle, Careful Step, Drain, Eavesdrop, Marsh Lights, Open Lock, Rot, Sleep, Shock, Warning **Shadows:** Doppelganger, Illusion, Mindslip, Shadowsteed, Shroud of Invisibility **Tzeentch:** Blast, Bolt, Treason of Tzeentch 
+
+**LOYAL CULTISTS**
+
+**(EQUAL TO THE NUMBER OF CHARACTERS)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**30**|**30**|**30**|**30**|**30**|**30**|**30**|**30**|**30**|**30**|**12**|
+
+**Traits:** Armour 1 (Body), Corruption (Minor), Weapon +7 
+
+**Skills:** Melee (Pole Arm) 45 
+
+**Trappings:** Leather Jerkin, Halberd 
+
+Reikland’s government collapses and Bretonnia seizes control of the mountain passes and fortresses, coming to dominate Ubersreik and the Vorbergland. The other grand provinces try to control what’s left; some form alliances to attempt to cleanse Altdorf, while the rulers of others declare themselves emperor, initiating a new Age of Wars. 
+
+The religious structure of the Empire gets upended, too. Sigmar’s cult lies gravely wounded and humiliated by what happened at its heart, its influence in the Empire gone, at least for now. In its place, the cult of Ulric grows dominant and leads the fight against Chaos. If any of the Characters survive, there is plenty of work for them, whether exploring the ruins of Altdorf, guerrilla operations against Chaos in the area, or serving as mercenaries or agents for the Elector Counts and the cults. 
+
+Or maybe a vacation in Tilea sounds good just about now. 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## **Zuntermein Wins**
+A victory for Zuntermein assumes he did not die and that he remains free to act, either as head of the Spionwerber or, if he has been exposed, from ‘underground.’ It requires that the Characters either defeat Sheerargetru or prevent its summoning. If the Emperor remains weak and Crown Prince Wolfgang survives, then Zuntermein resumes the latter’s education, replacing any Nine Eyes lost in the sacrifice. When the Crown Prince becomes Emperor, he acts like an enlightened ruler, but is little more than a puppet controlled indirectly by Zuntermein and the Purple Hand. The Empire gradually, inexorably descends into a civil war that takes years or even decades to resolve, leaving the main power against Chaos weak and ineffective. 
+
+If Wolfgang died but the Emperor survived, Zuntermein still profits. A sickly Emperor is trivial to manipulate, while a healed Karl-Franz would still face rebellion and civil war, made seemingly intractable because of the many suspicions and anger aroused by his actions while ill. With Wolfgang dead, Zuntermein arranges for tutors for Prince Luitpold, who becomes Crown Prince in spite of his infirmities. In the end, the Empire still declines. 
+
+Zuntermein proceeds similarly if both Karl-Franz and Wolfgang died. Though Luitpold is declared Heir and Emperor in a contested election, other Electors refuse to accept the neurotic and naïve young man as their leader, and either declare themselves emperor, or support those who do. Civil war rages between the factions as armies march and towns burn, while Chaos gains a freer hand. 
+
+those who ruined his plans in Middenheim and almost did so again. Eventually, he frames them with trumped-up crimes and succeeds in having them outlawed, meaning they can be killed by anyone on sight. Their best hope then is to find a powerful patron willing to risk the Emperor’s ire to protect them in return for service, such as Graf Boris, or to travel for a long while to other realms. 
+
+## **Lieberung Wins, Posthumously**
+While unlikely, it is possible for the late, unlamented Kastor Lieberung to win. Regardless of whether the Emperor survives infirm or healed, the crucial point is that both the Crown Prince and his Nine Eyes tutors, so carefully recruited by Lieberung, survive. This means the summoning has to be prevented, and that both Zuntermein and Wasmeier have to be out of the way, too, for his plans to operate free from interference. 
+
+If all that happens, the civil war ends in a few years and the Empire seems back to normal. Eventually, whether as Crown Prince or Emperor, Wolfgang becomes the hidden master of all Tzeentch cults, and then journeys to the Silver Tower, where he receives training from Egrimm van Horstmann. Now the mightiest sorcerer-champion of Tzeentch ever, he resumes his rule and, other than destroying the Red Crown, encourages cults of Tzeentch to flourish. 
+
+All that, however, is many years in the future. The Characters receive ample rewards and titles, enjoying their fame for many years until, one day it will become clear that they made a terrible mistake. 
+
+The Characters receive rewards of gold and minor titles for their service, but Zuntermein sees to it that they are soon shoved aside and ignored by those whom they saved. They can choose sides and take service in the civil war, but an interesting possibility exists if ‘Empress’ Maria-Luise survives. Protective of her love and her children, she could become a powerful behind-the-scenes patron for the Characters in a continuing struggle with Zuntermein. 
+
+## **Wasmeier Wins**
+A Wasmeier victory looks similar to that of Zuntermein. It means the Greater Daemon was defeated or the summoning failed, but also that Zuntermein has been killed or imprisoned. Wasmeier takes over the Purple Hand and Zuntermein’s projects. The course of the Empire’s decline proceeds as it would have under Zuntermein: civil war, weakness, and a rise in Chaos cults. 
+
+For the Characters, however, a Wasmeier victory brings more personal danger, as the vengeful former Law Lord seeks to destroy 
+
+## **The Characters Win**
+If the Characters come through all this having foiled the plans of Gideon, Hans Zuntermein, Karl-Heinz Wasmeier, and Kastor Lieberung, they are great heroes, indeed. The civil war ends soon, and amity once again reigns, at least on the surface, between the Emperor and the Electors. Whether under KarlFranz or Wolfgang as his successor, reforms are introduced to relieve many of the Empire’s internal tensions and improve the lives of the people. 
+
+The day after the battle, the Characters are summoned to the chambers of the Emperor. Ghal Maraz in hand, the Emperor is a new man. Gideon’s curse is lifted, and with Kappelmuller vanished or dead, there is no one to sedate him into a stupor. Marie-Luise is just leaving as the Characters enter, and she takes a moment to thank them as she departs. 
+
+## **The Wages of Heroism**
+The Emperor dismisses all but a handful of his attendants and begins to speak. 
+
+_‘Out of the north of the Empire you came to Altdorf, and here witnessed the shattering of the old. Now, from the south of the Empire you have returned, and with you comes the true Ghal Maraz, Hammer of Sigmar, symbol of the Empire. As Ghal Maraz is returned to us, so shall the Empire rise anew. The street preachers cry that the End Times have come, but due to the deed you have accomplished, with the Hammer restored, I say they are not here yet._ 
+
+_‘That you have my thanks is hopefully obvious. There will be time to speak of other rewards, but for now know this. I am today establishing, by Imperial decree, a new Knightly order — that being the Champions of the Hammer — and to each of you I grant the title of founding member thereof, and a 100 gold crowns per year pension for the rest of your days, long may they be._ 
+
+_‘Now, which of you bears the likeness of this Kastor Lieberung, and thus, I am told, started you all on the path to this wild affair?’_ 
+
+If the Liberung double lives, Karl-Franz looks him in the eye and continues to speak. If not he shakes his head sadly, and picks the next most likely recipient of the Barony of Wittendorf. 
+
+_‘Much is wrong in the Reikland, and further beyond. I am told that at least one ennobled line has fallen, and there is on the banks of the Reik a barony without a baron. To you I grant the hereditary tenure of the estate of Wittgendorf and its castle, along with the title ‘Baron von Wittgendorf ’. I am told the castle is in a state of disrepair, and as such a grant of exactly 20,000 gold crowns shall be paid from the Imperial treasury for its restoration.’_ 
+
+As this sinks in, the Emperor takes the time to assure any Characters with a criminal history that all past wrongs are forgotten. Any existing charges, outlawings, or investigations for heresy are quietly quashed. Any wizards in the party operating illegally are pardoned and granted a license in the college of their choice. Such are the boons of those in the Emperor’s good graces. 
+
+As the Emperor concludes, Grand Marshall Kurt Helborg arrives, somewhat bedraggled from his rushed return from Ubersreik. He bursts into the room to much kerfuffle, clearly irritated at having to ask permission to enter. On seeing the Emperor restored his frown subsides. He guffaws and says, ‘ _Hah, I knew well you were only malingering!_ ’, before grasping Karl-Franz by the arm and embracing him. He begins to speak in earnest about the issues in Ubersreik. His consultations with Nacht indicate the Jungfreuds can either be placated, at great cost to the reputation of the throne, or they can be put down with a force of 5,000 troops and much bloodshed. The Emperor frowns at this, but turns back to the Characters before addressing Helborg further. 
+
+The Characters have one final chance to ask the Emperor for any specific boons, and he grants anything within reason. Appointments to his personal guard, a town house in Altdorf, various titles, though none greater than ‘baron’, are all on offer. Anything unreasonable he refers to his chamberlain, where the matter will be dealt with, or not, as the Imperial Court decrees. 
+
+Once all requests have been heard, the Emperor speaks to the Characters one final time. 
+
+_‘By my frailty the Empire was almost riven in two, and the good work of Magnus the Pious undone. You have saved me from a terrible fate, to perhaps go down in the annals of history as the last true Emperor. I thank you. In days to come do not forget you bear my good will, but neither must you let it go to your head. The favour of an Emperor is a burden as well as a boon. These are no easy days we live in, and in the times ahead I will have need of you again, I am certain. Enjoy your victory, revel in your rewards. But do not let them dull your blades, for the Empire may well have need of them again.’_ 
+
+Turning back to Helborg, his manner again becomes Imperial. 
+
+_‘We will settle matters in Ubersreik without further bloodshed, old friend. And we will do it without again painting the throne as weak or dithering. I will see to this matter myself, the first of many I am sure. Saddle Deathclaw! I ride this very night for Neufaljung.’_ He glances at the Characters. _‘Then, on to Middenheim! The Graf and I have much to discuss.’_ 
+
+EMPIRE IN RUINS — THE EMPIRE SAVED 
+
+## **Experience Points and Rewards**
+If a session consisted mainly of roleplay, then award 70–100 points, while granting 30–50 for play that mixes both combat and roleplay. If Gideon won, there are few other rewards — there are no prizes for failure. No experience points for goals. No Fate points. They escape with their lives, if that. 
+
+If any of the other possible victory conditions came about, however, use the following guidelines to reward the Players. 
+
+- 99 points for discovering the secret of the wine cellar and recovering the Hammer from Gideon 
+
+- 50 points for convincing the authorities to change their plans, forcing Gideon’s hand 
+
+- 50 points for preventing the Crown Prince from becoming the host 
+
+- 30 points for defeating Baeker and his ambush 
+
+- 30 points for agreeing to help Maria-Luise 
+
+- 25 points for discovering the secret of the reliquary 
+
+- 25 points for discovering the substitutions in the honour guard 
+
+- 20 points for stopping the riot and preventing a massacre 
+
+- 1 Fate point and 150 XP for defeating Sheerargetru, doubled if they defeated the High Exalted form 
+
+**TO THE BRAVE HEROES OF THE EMPIRE WHO** WARHAMMER FANTASY ROLEPL AY 
+
+**SURVIVED THIS HARROWING JOURNEY, AND IN MEMORY OF THOSE WHO DID NOT... THANK YOU FOR PLAYING THE ENEMY WITHIN** 
+
+**There will, of course, be other adventures...** 
+
+## Index
+|**#**|**N**|KEY NPCS|Martin Schmidt  .............................170|
+|---|---|---|---|
+|9th of Brauzeit, The .................... 14, 15<br>**A**<br>Adventure Synopsis ............................5|Night Vigil, The ..............................128<br>Nine Eyes, The ...............7, 71, 179, 188<br>Non-Electors, The ............................94|Adelfried Jarmund  .........................157<br>Ar-Ulric Emil Valgeir .......................30<br>Baron Heinrich Todbringer ..............29|Member of the Nine Eyes  ...............71<br>Mikhal (Nordlander Sepratist) .........43<br>Mutants ..........................................175|
+|Altdorf ........................................ 57, 62|Nordland ...............................10, 41, 42|Baron Klaus von Bachmann ...........117|Nielsa Klammer ................................42|
+|Averheim ........................................127|Nuln ..................................10, 118, 121|Baroness Marlene Alptraum ...........125|Niklas (Nordlander Sepratist)...........43|
+|**B**|**P**|Beate Moser .....................................66|Nobles ..............................................19|
+|Bearers of the Blood .........................47|Parade, The ............................76, 78, 84|Blue Horror ....................................156|Old Gruntlob .................................142|
+|Black Fire Pass ........................ 110, 131|Party Allegiance................................14|Boris (Nordlander Sepratist) ............43|Orla Feder  .....................................120|
+|Bon Voyage .....................................114|Pavilion, The .....................................76|Brother Adric .................................171|Peasants ............................................18|
+|**C**|Portals .............................................188|Captain Brunhilde von Flamme .....112|Per Haldestaake .......................... 71, 74|
+|Carroburg, The ................................112|Prisoners of Karak Skygg, The ..........36|Cerdic Linden ................................116|Pink Horror ....................................156|
+|Castle Reikguard ..............................68|Pure Fire .........................................174|Chaos Cultists ..................................18|Quintus Fassbinder ........................106|
+|Caverns, The ...................................147<br>Cellar, The .......................................166<br>Council Meeting, The .......................95<br>Cult Activities ................................109<br>Cult of the Broken Fingers, The .....169|Purple Hand – Nuln Branch ..........119<br>Purple Hand, The ....................1, 8, 119<br>**Q**<br>Quintus’s Quantifcations ...............107<br>**R**|Colonel Olaf Sievers .........................34<br>Count Otto Boormann ...................181<br>Crown Prince Wolfgang ...................69<br>Cruzzik Cacklespit .........................139<br>Drexol the Extinction .....................174|Rauf Wasserburg ............................129<br>Religious Fanatics .............................18<br>Runts ..............................................145<br>Schloss Bachmann  .........................117<br>Senior Servants .................................18|
+|**D**|Rebellious White Wolves .................60|Elvyra Kleinestun .............................59|Sepp Wurnhauser .............................42|
+|Daemonic Activity..........................111<br>Dirigible Critical Hits ......................38<br>Dramatis Personae ............................17<br>**E**<br>Electors, The .....................................94<br>Emperor’s Party, The .........................77<br>Emperor’s Physician, The ................103<br>Eternal Watch, The .........................128<br>Extra Research ................................108<br>**F**<br>Factions in the Empire .......................9<br>First Link, The ................................162<br>**G**|Recruits, The ...................................163<br>Red Crown, The ..................................9<br>Refugees, The ..................................171<br>Renewal, The ..................................176<br>Reporting on Discoveries .................39<br>Reporting to the Graf .......................47<br>Return , The ....................................162<br>Revenge From Above  ....................120<br>Routes to Streissen .........................163<br>**S**<br>Schertal ...........................................117<br>Scouts and the Deserters, The .........169<br>Sheerargetru ...................................188|Emperor Karl-Franz ...........................9<br>Ermine Liebwitz<br>von Decker und Hanulf ..................184<br>Fione Brecht ...................................122<br>Fox-head Beastman ........................170<br>Ghosts ............................................151<br>Gideon.................................7, 106, 192<br>Gislind Ursin .............................. 71, 74<br>Globnak Mansplatta .......................142<br>Gors ................................................175<br>Graf Boris Todbringer ......................28<br>Graf Liepmund Holzkrug ................20<br>Grand Teogonist Yorri XV .............25|Sergeants ..........................................19<br>Servants ............................................18<br>Sheerargetru ...................................191<br>Slik Moongobba .............................141<br>Snotlings .........................................145<br>Soldiers .............................................19<br>Swarm of Rainbow Snakes .............153<br>The ‘Princess’: Katarina Todbringer ..29<br>The Chaos Minotaur Lord .............157<br>The False Honor Guard ..................187<br>Tree-Headed Chaos Hound .........149<br>Treacherous Herald ........................152<br>Ulrich Schutzmann ..........................48|
+|Ghal-Maraz .........................9, 102, 161|Sights and Encounters ......................40|Gustav Klaus .............................. 71, 74|Ungors ............................................175|
+|Goblin Magic .................................140<br>Great Architect, The ...........................7<br>Great Ceremony , The ....................186<br>Grenzstadt ......................................128|Skull Splitter, The ...........................176<br>Sky Wolf, The ...................................37<br>Spy ....................................................75<br>Steam Engine, The............................38|Hanne (Nordlander Sepratist) ..........43<br>Hans Knees ....................................118<br>Harpies ...........................................158<br>Heironymous Blitzen .....................181|Vatheck Fulci .............................. 71, 74<br>Veiran Tugenheim ..........................31<br>Volkmar the Grim Von Hindenstern 24<br>Wilhelmina Novak ..................... 71, 74|
+|**H**|Streissen ..........................122, 165, 167|Henrik Kappelmuller ......................104|Wolfgang Holswig-Abenhauer ........23|
+|Hidden History ..................................4<br>**I**<br>Inside the City ..................................45<br>Interrogation.....................................44<br>**K**<br>Kemperbad ............................. 115, 168<br>**L**|**T**<br>Temple, The ....................................176<br>The Dirigible ....................................38<br>Tirteen ..........................................173<br>This Petty Pace ...............................118<br>Treshers, The .................................121<br>Tunnels, The ...................................147|Immanuel-Ferrand<br>Holswig-Schliestein .........................21<br>Ingrid Rademakers ..................... 71, 74<br>Josef Quartjin .................................182<br>Karl-Heinz Wasmeier .............8, 33, 92<br>Kastor Lieberung ................................8<br>Kathe Ruttmann ......................... 71, 74|Wolfe Jessner ............................. 71, 74<br>Wulfrum Ahlquist ...................... 71, 74<br>Yann Zuntermein .............................22<br>Zombies..........................................155|
+|Lengenfeld  ....................................167|**W**|Knight Preceptors .............................19||
+|Loremaster, The ..............................166<br>Lost Gorge, The ........................ 134135<br>**M**<br>Madcraw Clan, The .........138, 143, 145|War Prize, The ..................................67<br>We’ll Be Taking ..............................188<br>Wedding Day, The ............................89<br>Wissenland .....................................117|Knights .............................................19<br>Krukan ............................................174<br>Lieutenant Ottilie Grissen .............113<br>Loonies ...........................................145||
+|Mediation .......................................126|Wolfshügel .....................................170|Loyal Cultists  ................................192||
+|Middenheim and Middenland ...........9|**Y**|Malthe Barthelm ..............................32||
+|Middenheim Delegation, The ..... 58, 77|Yodri’s Report .................................108|Marcus Karlssen .............................126||
+|Middenheim Encampment ..............62|**Z**|Marine-Captain Karl Bauermann ..113||
+|Moving the Balloon ..........................37|Zuntermein’s Last Grasp ................179|Marius Leitdorf ...................... 124, 166||

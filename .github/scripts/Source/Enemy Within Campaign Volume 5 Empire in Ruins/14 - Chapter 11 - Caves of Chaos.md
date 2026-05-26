@@ -1,0 +1,543 @@
+# Chapter 11 - Caves of Chaos
+
+*Pages PDF 147-161*
+
+## Chapter 11 Caves of Chaos
+On passing through the waterfall at the entrance to the caves, the Characters enter a netherworld where reality twists like a maddened serpent, where corruption seeps from the ground, and where nightmarish illusion becomes substance. The adventurers have finally reached the cavernous labyrinth where, millennia ago, Sigmar fought and conquered Sheerargetru. The Daemon is still bound to this place, trapped in eternal fury by Ghal Maraz’s power. 
+
+The rift that Sigmar cleaved in reality when he struck the ultimate hammer-blow that entrapped his daemonic adversary has cracked wider over the millennia as the Daemon writhes and rages against its confinement. Raw Chaos energy has slowly leached into the caves, twisting reality and corrupting the natural rock formations. Magical power has filtered out, pooling in peculiar concentrations throughout the labyrinthine system. 
+
+The adventurers are unlikely to emerge unscathed, but Tzeentch, whose influence has spilled into this region, has no intention of having the Characters badly injured or worse. The party’s arrival is his ideal opportunity to change the course of events. Within these caves, the adventurers are Tzeentch’s playthings. He toys with them for amusement, enjoying their terror and suffering, whilst willing them to succeed in their quest and directing them towards their goal by various means of manipulation and fear. Ultimately, he wants to ensure the party is successful and retrieves the Hammer safely and that his faithful servant is released. Where necessary, Tzeentch intervenes to guide the adventurers towards their destiny. As a GM, you can use this as an opportunity to propel the party towards the goal by various entertaining means, for example natural disasters occuring to ensure they move swiftly through the caves to find Sheerargetru. 
+
+## **Entering the Caves**
+The Characters enter the caves through the waterfall. Passing through the roaring tumult, they step into a gaping cavern, so massive that its walls and ceiling vanish into darkness. Illumination reveals the Characters are within a massive dome of rock, with cathedral-like stalagmite spires reaching up to the distant ceiling of the vast cave. Colossal stalactites hang down from the vast cave’s ceiling, making conditions even more treacherous in the dark, and requiring everyone to stoop or duck. The steady drip of icy-cold water can be heard and felt dripping down at a regular pace from the stalactites’ sharp tips, audibly splashing on the ground beneath. 
+
+Anyone passing a **Hard (–20) Perception** Test notices that, on closer inspection, the smaller stalagmites, whose tips are within eyeshot, seem to be growing at a barely perceptible speed, as though time has been unnaturally quickened. 
+
+The silence of the surrounding darkness presses against them, suffocatingly. As they move towards the centre of the cave, they realise that the roar of the waterfall they passed through has stopped and the sound of constant dripping has ceased. What’s more incredible is that their hair and clothes are now bone dry. If they turn around, they see that the waterfall has vanished, replaced by impenetrable blackness. The only option is to move forward. 
+
+A tunnel exits eastwards from the cavern. It twists and turns, jagged blades of rock jutting out of the walls and snagging the Characters’ clothes as they creep along. 
+
+## **The Caverns**
+Within the vast cave system is a series of nine caverns. The corrupting power of Chaos seeps into this area from where Sheerargetru is imprisoned, and these nine locations have been warped by the raw magic. The party encounters each of these areas as they venture deeper into the caves. (The locations are described in detail below.) Each area is steeped with one of the Winds of Magic, and all are corrupted by the power of Chaos. As the Characters explore deeper into the cave system, the corruption gets stronger. Only the most determined and resilient Characters emerge from these caves unscathed. 
+
+The map on page 148 shows the essential layout of the cave system. The tunnels connecting each location are a simplified rendition, and do not represent the reality, or unreality, of the situation. 
+
+## **The Tunnels**
+Each location is connected by a series of tunnels, carved into the rock many millennia ago by natural geological processes. The tunnels are labyrinthine, twisting their way through the rock, branching off or sometimes leading to dead ends or obstacles that must be overcome. 
+
+WARHAMMER FANTASY ROLEPL AY
+9
+8
+7
+5
+
+**3** THE RESTING PLACE OF GHAL MARAZ 148 
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+## **A Helping Hand**
+You want the Players to feel that their Characters have conquered this cave system by the skin of their teeth. However, you don’t necessarily want to kill them off. Indeed, Tzeentch is eager for the party to suffer, but not to fail in their quest to remove the Hammer from its resting place. 
+
+There are various ways you can give the party a secret helping hand if they are floundering. You may insert any or all of these beneficial encounters while the party is exploring a tunnel. 
+
+## **Event 1 — Boon of Sigmar**
+. _This event removes corruption_ 
+
+The Characters inadvertently follow the path Sigmar took when he entered the caves millennia past. His holy presence has been marked by his passing. When his resolve stumbled, he prayed to the gods to grant him strength. The gods energised him, and where he stood, his feet made an imprint in the rock. 
+
+On a **Difficult (–10) Perception** Test Characters notice two depressions on the rocky floor, for all the world resembling a pair of Human footprints. The very darkness seems to avoid this area — the depressions glow with a soft golden light. The Characters feel calm and courage fills their hearts as they look upon the footprints. Any Character who stands in the footprints feels a surge of cleansing energy flow through them, and the image of a golden hammer flashes in their mind — the Character should make an **Average (+20) Cool** Test. They remove one Corruption point and a number of additional Corruption points equal to the SL. 
+
+## **Event 2 — Sacred Relic**
+_This event restores Fate or Resilience._ 
+
+The Characters find a skeleton of a man dressed in the shattered armour of a priest of Sigmar. His warhammer lies broken by his side. Script on the haft of the warhammer reads _Unity, Justice, and Faith_ . If a Character passes a successful **Hard (–20) Lore (Theology)** Test, they know that this was the motto of a historical Sigmarite saint, Marius Luxus, who lived 500 years ago and disappeared while fulfilling a vow to tread the path of Sigmar on a sacred pilgrimage. 
+
+A Character who takes a bone or shard of the warhammer as a holy relic can immediately restore all Fortune and Resolve, and can expend the power of their relic to avoid spending a Fate or Resilience point. Each Player can only gain this power once, even if they have gathered more than a single relic. In order to benefit from this bonus the Characters must act with due reverence; if they show disrespect or cast aside the relic in the future, the bonus is forfeit. 
+
+## **Event 3 — Gift of Shallya**
+## _This Event Grants Healing Power to the Party._
+A white shape drifts silently across the party’s path. It hovers in front of them, moving out of reach when they move towards it, following them if they try to avoid it. Eventually, it hovers in one spot, allowing the Characters to come near. Before they can touch it, it vanishes, but if the Characters look at the spot above which the apparition was hovering, they find a crevice, within which is an ancient glass potion bottle. Drinking the shimmering green liquid within the bottle invigorates the Characters. Drinking a dose of the potion heals 1d10 Wounds. There are four doses in the bottle. 
+
+## **Location 1 the Lair of the Great Beast**
+**Suffused with Ghur:** This area is suffused with the Grey Wind of Magic. Any successful attempts to cast spells from the Lore of Beasts within this area benefits from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also Suffused with _Ghur_ there is no additional benefit. 
+
+The entrance to this cavern resembles the open jaws of a monstrous beast, the portal framed with stalagmites and stalactites like great, jagged fangs. Passing through, the Characters are met with a thick, musty stench like wet animal fur. The cave is sodden underfoot with a vile, putrid slush, through which can be seen slithering long, many-legged insects and blind, white amphibious creatures like nightmarish toads. 
+
+## **The Great Beast**
+As they wade knee-deep through the cold, disgusting mire, each Character should make **a Challenging (+0) Perception** Test. On a success, a Character hears a low animal growl rumbling in the distance, from somewhere further within the cave. 
+
+Eventually, the Characters reach the area where they encounter the source of the sound. Here, bobbing amongst the fetid slush that covers the floor, the light of their illumination reveals human bones and skulls. With a blood-curdling roar, a massive hound-like beast with shimmering turquoise fur, three wolfish heads, and a scorpion’s tail leaps from the darkness into the centre of the cavern, blocking the adventurers’ way. They must fight this terrifying Chaos Hound. 
+
+## **Three-Headed Chaos Hound**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|—|45|40|35|30|—|15|45|—|64|
+
+**Traits:** Armour 1, Bestial, Champion, Frenzy, Hungry, Night Vision, Rear, Size (Enormous), Stride, Tail +7, Tracker, Venom, Weapon +8 
+
+**Skills:** Dodge 45, Melee (Basic) 65 
+
+**Talents:** Ambidextrous 
+
+The Chaos Hound is motivated by pure hunger. Its ravenous mouths slather and drool. Its ribs stick out from its emaciated torso, showing that it is extremely malnourished. If a Character falls prone, the Chaos Hound, maddened by hunger, forgets all other enemies and attempts to devour its fallen victim. 
+
+Cunning Characters might use the Chaos Hound’s hunger to their advantage, luring it into position with a brave volunteer, so that the rest of them can attack the beast while it attempts to catch its victim. 
+
+The vile slush underfoot makes fighting difficult. Every time a Character makes a move, they need to pass a **Challenging (+0) Athletics** Test. Those who fail gain an _Entangled_ Condition. Those who fail with –4 or less SL gain a _Prone_ Condition. 
+
+After the fight with the beast, Characters should make a **Very Hard (–30) Perception** Test to notice a flash of light among the slush and bones. Those who pass may find a relic of a previous battle fought centuries before — a sword with a beautifully engraved ivory hilt and a pristine silver blade. There are the remains of other weapons and armour among the bones, but they are badly corroded. 
+
+The sword is an ancient Elven blade, imbued with power. 
+
+**ELTHRAI CADAITH**
+
+|---|---|---|---|---|---|
+|**Weapon**|**Group **|**Reach **|**Enc **|**Damage **|**Qualities**|
+|Elthrai<br>Cadaith<br>— Elven<br>Sword|Basic|Long|1|SB+4|Fast,<br>Impale,<br>Precise|
+
+Magical Weapon: Elthrai Cadaith is magical and can injure creatures noted as immune to non-magical attacks. 
+
+## **Location 2 — Shades of Despair**
+**Suffused with Ulgu:** This area is suffused with the Amber Wind of Magic. Any successful attempts to cast spells from the Lore of Shadows within this area benefits from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Ulgu_ there is no additional benefit. 
+
+The tunnel opens out into a large gallery of rock. Tendrils of mist curl around the Characters’ bodies, caressing their limbs and torso as though alive. The mist feels freezing. When the Characters speak, their voices echo into the distance. Their words seem to whisper back at them, rebounding as a sinister cacophony, mocking and hissing. 
+
+Natural flame fails to penetrate the mist beyond 3 yards. Magical light is also dim, but illuminates 3 yards further. 
+
+## **Whispers in the Mist**
+As the party ventures into the cavern, the Characters hear faint, hissing whispers emerging from the darkness all around them. The mist seems to get thicker, the tendrils beginning to dance as though in time with the sibilant rhythm of the whispers. The whispering comes closer and faintly louder, until it seems to be pressing up close against the Characters. Faint words can be heard among the hissing — these are mocking, derisive words: for each Character, choose the sort of words that are anathema to their character. For example, a Character who prides themselves on courage might hear: ‘ _Coward! Weakling! Run … run away, coward!_ ’ 
+
+The whispers seem to press against the hearers’ skulls, then sink into their mind, so it is as though they can hear them from within their own thoughts, a relentless hiss of derision. Each Character makes a **Hard (–20) Cool** Test; those who fail gain the _Rattled_ Condition (see opposite). When each affected Character has overcome the assault on their mind, or succumbed to the whispers, the whispers recede and all goes quiet. 
+
+## **The Dead and the Damned**
+As the party ventures deeper, shapes emerge from the murk ahead of them, the mist seemingly coalescing to form grey, translucent figures with drawn, haggard faces and dull eyes that glow a sickly green. There are as many figures as there are Characters, and the composition of the group mirrors that of the Characters’ party (so a party consisting of a Human warrior, a Halfling academic, a Wood Elf rogue and a Human ranger face an identical group). The style of the apparitions’ clothing looks strange, as though from a bygone age. Any Character who passes an **Average (+20) Lore (History)** Test identifies their clothes as contemporary with the era of Emperor Ludwig I, about 1,500 years ago. 
+
+_‘Stop!’_ the apparitions plead, their voices low and hollow. _‘Heed ethereal entities! Retreat and resign! Go expeditiously to regions unknown!’_ 
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+The entities are Ghosts ( **WFRP** , page 331) — the entrapped spirits of a previous adventuring party who met their doom in the caves. They do not harm the Characters unless they are attacked, in which case they draw ghostly weapons and counterattack in fury. 
+
+**GHOSTS**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 6 | 30 | — | 30 | 30 | 10 | 30 | 20 | 15 | 15 | — | 50 |
+
+Traits:  Dark Vision, Ethereal, Fear 2, Undead, Unstable, Weapon +6
+
+If they are not attacked, they cause Fear as normal, slowly coming closer and closer to the Characters, constantly repeating their warnings to flee the caves. 
+
+If the Characters engage with the ghosts, the spirits might try to give them cautionary advice. Kind words, flattery, and praise are like ambrosia to these lost souls, instilling them with a glow that momentarily banishes the eternal coldness of their existence, yet the power of Sheerargetru muddles their thoughts and words. 
+
+Skillful roleplaying, and a successful **Challenging (+0) Charm** Test determines how many soothsaying predictions the ghosts impart. With a Marginal Success, the ghosts give one clue; with a Success, two clues; with an Impressive Success, three clues; and with an Astounding Success, four clues. Choose from the list on the right. 
+
+## **Rattled Condition**
+This Condition is intended to be used in circumstances where Characters have faced a disturbing phenomenon, but not one that is so clearly threatening so as to leave them Broken. 
+
+A Character gains this Condition when they fail a Cool Test in an ominous environment or worrying circumstance. A Character might also become _Rattled_ after being intimidated. A Character who is _Rattled_ gains +10 to Perception Tests as they pay additional attention to every creaking floorboard and looming shadow, but all other Tests are at a –10 penalty as they find it hard to concentrate. 
+
+This Condition does not stack: you are either _Rattled_ or you’re not. The Condition is removed if the Character gains a _Broken_ Condition, or once the disturbing phenomenon passes. If the disturbing presence lingers for a long time, the Character can take an **Average (+20) Cool** Test to remove the Condition every half hour. 
+
+Any Skill, spell, or other effect that can remove _Broken_ Conditions also removes the _Rattled_ Condition. 
+
+1. _‘Several heretic experts educate royalty. Adept reaches greatness. Eventually transpires rite unholy.’_ 
+
+2. _‘Something here emanates evil, rages against railings, gibbous, exponentially tangible. Reality, ultimately.’_ 
+
+3. _‘Strange herbs exhaust Emperor, reaping apothecary rewards. Granting Emperor true respite? Unlikely.’_ 
+
+4. _‘Shapeshifter herds exalted explorers. Reality almost ruined. Goal engenders troubling result. Undo.’_ 
+
+5. _‘Spy head’s exacerbating endeavour ruins august realm. Goaded Emperor to rule Ubersreik.’_ 
+
+6. _‘Southern holdings embrace Emmanuelle. Royal Altdorf rejoices. Gone, embittered Toppenheimer. Regions united.’_ 
+
+When the Characters press on, the ghosts moan in terror, and flee past the Characters, vanishing into wisps of green mist as they run. 
+
+## **Location 3 — Temptation**
+**Suffused with Chamon:** This area is suffused with the Gold Wind of Magic. Any successful attempt to cast spells from the Lore of Metal within this area benefits from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Chamon_ there is no additional benefit. 
+
+Approaching this location, the tunnel begins to glisten and shimmer around the Characters. The rock is veined with streaks of gleaming gold and silver, and crystalline shards sparkle on the walls and ceiling. 
+
+The tunnel opens out into a massive grotto. Light from the Characters’ torches reflects from a million multicoloured stars as though they have been transported to the centre of the firmament. A lake like molten gold fills the cavern, with a narrow path of rock wending its way across it to an island in the centre. A shimmering rainbow aurora dances in the middle of the island. 
+
+If anything touches the liquid in the lake, it melts or burns as though the liquid is molten metal, though the liquid gives off no heat. If any living being falls into the liquid, death is instantaneous. 
+
+## **The Herald**
+As the Characters approach the island, they see a figure silhouetted within the aurora. It’s about 6 feet high, lurid pink, with a man’s torso and a myriad of limbs and tentacles sprouting from its shoulders. It is hunched as though in deep contemplation. 
+
+The island is scattered with gold and silver treasures — chalices, crowns, torcs — a treasure trove of wealth. 
+
+As the Characters come nearer, the creature slowly raises itself and turns to face them. Its long, sinuous limbs shimmer with multi-hued colour. Its array of arms and tentacles seem to shift in number. Its white robe billows around it, as though whipped by wind. Its head is that of a great white-feathered eagle, two sightless hollows where its eyes should be. Leaning heavily on its golden staff, it opens its cruel beak to speak with a sonorous, hissing voice. 
+
+_‘I am blind, but I see you.’_ It proceeds to name the Characters in succession. _‘You are champions of your kind, though held with no regard by those who should by right bow low before you. Likewise, I am held with no regard in my realm.’_ 
+
+_‘Abandoned here, rendered sightless by the cruel whim of my master, I have awaited aeons to deliver my vengeance against my lord. For he has forsaken me, bound me here, for the sin of telling him a truth. I foresaw his doom at the hands of the hammer-bearer, and spake to him his fate. In his wrath he cursed me to remain here for an eternity. But I foresaw your arrival too, and failed to soothsay to him your coming, and now you, my dear ones, shall be the right hand of my wrath.‘_ 
+
+_‘Listen with care, my friends, for I hold the key to your success, and the downfall of my treacherous master.’_ 
+
+The Players have a choice: whether to listen to the blind Herald’s words or to attack the Daemon. 
+
+## **Brute Force**
+If they attack, the Herald attempts to cast Word of Tzeentch in order to try to stun its opponents. It fights to the death. Cunning Characters can try to force it into the golden lake, where it sinks to oblivion. 
+
+## **Treacherous Herald**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|39|49|49|39|39|59|39|49|99|19|19|
+
+**Traits:** Bite (Beak) +8, Corruption (Moderate), Daemonic 8+, Fear 2, Painless, Territorial (The Island), Unstable (Beyond the Caves), Spellcaster (Tzeentch), Weapon +9 
+
+## **Spells**
+**Lore of Tzeentch:** Blues Fire of Tzeentch, Pink Fire of Tzeentch, Tzeentch’s Firestorm, Word of Tzeentch 
+
+## **Diplomacy**
+If they listen to the Daemon, it praises them. 
+
+_‘A thousands blessings on you, my dear ones. Indeed, I foretell that you are bound for greatness among your kind, for choosing to heed my words.’_ 
+
+Pause to allow the Characters to ask the Daemon questions. It answers, but its Chaotic nature forces it always to answer with a lie. 
+
+Eventually, the Herald tires of being questioned and offers its help to the party. 
+
+_‘Several threats lie ahead of you, before you reach your goal. You will face the wrath of the furious dead, risen from their watery grave — take this feather and invoke its power to lay them low with arcane flame.’_ 
+
+The Herald plucks a feather from its head and grants it to a volunteer. 
+
+_‘You will meet the prophet lost in the maze of his mind. His guardian dreads naught, but the charm of the Evil Eye will curse it with my master’s blessing.’_ 
+
+The Herald scoops one of its own withered eyes from the left socket in its head and offers it to one of the Characters. 
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+_‘You may endure the depths of despair in the hell forest of lost souls. Winged fiends will seek your blood from above. Use the power imbued in this claw to turn their fury against each other.’_ 
+
+The Herald cracks off a claw from one of its many fingers and gives it a willing Character. 
+
+_‘You may face the ordeal of fire. Your task will be lighter with a single word of my command.’_ 
+
+The Herald delves deep into its beaked maw and rips out its long purple tongue with a ripping sound that’s hard to bear, flinging it at the feet of a Character with an audible plop. Choking in agony, ichor streaming from its beak, it slumps to the floor and dissolves into a puddle of pink and blue liquid. 
+
+Each Character who takes a gift from the Herald is exposed to a moderate source of Corruption. 
+
+## **Gifts of the Herald**
+The feather is bound with a single-use _Tzeentch’s Firestorm_ spell. 
+
+The withered eye is bound with a single-use _Bolt of Change_ spell. If the Minotaur is the target of the spell, it dissolves and reforms into a Chaos Spawn, suffering the same number of Wounds and injuries as it did before its transformation. 
+
+The claw is bound with a single-use _Mindfire_ Spell. The target automatically fails its Cool Test and suffers the following Mental Corruption: Unholy Rage (also gaining the _Ablaze_ Condition as described for the spell’s effects). While _Frenzied_ it always attacks the closest target, friend or foe. 
+
+The tongue is bound with a magical curse. When activated, it has the following effects: 
+
+**Range:** Intelligence yards **Target:** AoE of 9 yards 
+
+**Duration:** Instant 
+
+**Effect:** Pink Horrors within the AoE are instantly killed and replaced with two Blue Horrors. 
+
+Each of these magic items can be cast automatically as the bearer’s Move for that turn. Invoking the power of any of these items counts as a major corrupting influence to the user. 
+
+## **The Treasures**
+Players can fill their bags with the golden treasures littering the island. They are limited only by what they carry. 
+
+However, upon exiting this location, for those who took even a single piece of treasure, all items of value — gold, silver, jewels or whatever — including items the Characters already owned gradually grow heavier and heavier, becoming lumps of dull grey lead. 
+
+## **Location 4 — the Tempest**
+**Suffused with Azyr:** This area is suffused with the Blue Wind of Magic. Any successful attempt to cast spells from the Lore of Heavens within this area benefits from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Azyr_ there is no additional benefit. 
+
+As they continue down the tunnel, they hear a distant shrieking howl overhead. This grows louder as they progress. The tunnel opens out into a great cavern, stretching deep into the darkness. The source of the howling is revealed — great gusts of powerful wind buffet them as they enter, momentarily pinning them in place, before growing calm. The walls of this cavern, and the boulders and stalagmites that litter the cave floor, are wet with moisture and warm to touch, as though they are not rock but flesh. The rocks here are smooth, shaped by the wind. 
+
+## **The Howling Wind**
+As the Characters progress through the cavern, the wind rises again, whipping them violently, and they are forced to use all their strength to force their way through the tempest. Each must make a **Challenging (+0) Strength** Test or fall _Prone_ . While pinned by the wind in this way, a Character must make a **Challenging (+0) Strength** Test to stand up at the start of their turn. Once all the Characters have made this Test, the ground seems to writhe beneath their feet… 
+
+## **Swarms of Serpents**
+Erupting from the ground spill coils and coils of writhing, hissing snakes, like intestines from a ruptured belly wound. The snakes are types and all sizes — constrictors, cobras, adders, and so on. Their scales are a rainbow hue, and shimmer and shift in a kaleidoscope of hypnotic colour. Their dark, beady eyes blaze in fury and their long forked tongues lick out, sensing the Characters in the darkness. They bare sharp fangs and strike. 
+
+Each Character is attacked by a swarm of snakes. Remember, if they are pinned they have to test their Strength to stand and fight, and at the start of their turn they have to test to avoid falling _Prone_ due to the buffeting wind. 
+
+The snakes do not intend to kill the Characters, but rather to corrupt them. The swarms have the _Venom_ Creature Trait, but if this takes effect, instead of being _Poisoned_ as normal, a Character becomes sluggish and indolent, taking a _Fatigued_ Condition. A Character affected in this way can shrug off the effects in the same way as recovering from being _Poisoned_ . In addition, they suffer minor exposure to Corruption. 
+
+## **Swarm of Rainbow Snakes**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|3|50|—|30|25|25|40|—|5|45|—|30|
+
+**Traits:** Armour 1, Cold-blooded, Fast, Size (Small) Swarm, Venom (Difcult), Weapon +5
+
+## **Location 5 — the Furious Dead**
+**Suffused with Shyish:** This area is suffused with the Amethyst Wind of Magic. Any successful attempts to cast spells from the Lore of Death within this area benefit from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Shyish_ there is no additional benefit. 
+
+The Characters enter this cavern via a portal that resembles a grinning skull. They have to crawl through its open mouth. On the other side, the party is met by the roar of an underground river. The cavern is bisected by the river, which is wide and torrential. On the closest bank lies the skeleton of a gigantic creature, its bones gleaming white in the light of their torches. 
+
+## **The Dead Rise**
+Corpses litter the bed of this river of blood, brought here many ages ago, when the river swept bodies underground from an ancient battle fought in the hills nearby. Imbued with Chaos energy, they have become undead.  When they sense the living are crossing their watery resting place, ancient hatred rises within their soulless beings, bringing them back to a semblance of life to slay and maim. 
+
+Several waves of zombie attackers emerge from the depths of the river as the Characters try to cross it. One Character makes a **Difficult (–10) Row** Test to try to navigate the raft across the river, with results shown in the table below. 
+
+## **Crossing the River**
+On closer inspection, the water of the river is thick and sanguineous — a deep-red colour. The river is impossible to wade through. Anyone who tries can get waist deep before they must turn back or be swept away to their doom. They also trigger the first wave of attacks (see below) and are at a considerable disadvantage until they wade back to the bank. 
+
+A first wave may attack any Characters attempting to wade through the river. Subsequent waves attack while the Characters are crossing by raft. They can be assisted by all other Characters, if applicable. The first wave automatically takes the Characters by surprise, as the zombies ambush from the rushing waters, unless the Characters were foretold of this danger by the Herald in Location 4. 
+
+The bones belong to a huge monster (a Jabberslythe). The Characters can fashion a raft from its ribs, tying them together with strips of its leathery hide if they do not have any rope. However, the monster’s poisonous fangs, claws, and barbed tail are still deadly, even after death. Any Character building the raft from its bones must make an **Average (+20) Athletics** Test or suffer 1 Wound as they are scratched by a fang, claw, or tail _Venom_ attack ( **WFRP** , tip, which draws blood. This counts as a page 343). 
+
+Each wave consists of d10 Zombies. The Zombies, despite being undead, suffer _Hatred_ against the Characters. They try to claw their way onto the raft or drag the Characters under the current. 
+
+Characters fighting in the river need to pass a **Challenging (+0) Athletics** Test each turn. Those who fail gain an _Entangled_ Condition. Those who fail with –4 or less SL gain a _Prone_ Condition. 
+
+## **The Dead Rise**
+Astounding Success quickly and safely, encountering only a single wave of attacks. The Characters cross the river Impressive Success The Characters cross the river quickly, encountering only a single wave of attacks. Characters fighting on the raft may experience difficulty from their vessel pitching and yawing. They must pass an **Average (+20) Athletics** Test each turn to keep their footing. If a Character fails this test, they must choose between gaining a _Prone_ Condition or falling in the river. Success The Characters cross the river safely, encountering two waves of attacks. Marginal Success The Characters cross the river, encountering two waves of attacks. Characters fighting on the raft must pass an **Average (+20) Athletics** Test each turn to keep their footing, as described above. Marginal Failure y but safely, encountering three waves of attacks. The Characters cross the river slowl Failure The Characters cross the river slowly, encountering three waves of attacks. Characters fighting on the raft must pass an **Average (+20) Athletics** Test each turn to keep their footing, as described above. Impressive Failure The Characters cross the river slowly, encountering three waves of attacks, with the raft spinning out of control. Characters fighting on the raft must pass an **Challenging (+0) Athletics** Test each turn to keep their footing, as described above. Astounding Failure The Characters cross the river slowly, encountering three waves of attacks, with the raft spinning dangerously out of control. Characters fighting on the raft must pass a **Hard (–20) Athletics** Test each turn to keep their footing, as described above. 
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+Once all zombies of one wave are killed, allow the Characters a quick breather of three rounds before a new wave launches. 
+
+## **Location 6 — Fire and Horror**
+**Suffused with Aqshy:** This area is suffused with the Bright Wind of Magic. Any successful attempts to cast spells from the Lore of Fire within this area benefit from +1 SL. This bonus 
+
+**ZOMBIES**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|15|—|30|30|5|10|15|10|—|—|12|
+
+**Traits:** Armour 2, Construct, Dark Vision, Distracting, Fear 2, Painless, Undead, Unstable (Beyond the Caves), Weapon +7 
+
+may only be claimed once, so if a Character or item in the area is also suffused with _Aqshy_ there is no additional benefit. 
+
+The tunnel leading to this location opens out to a sulphurous gallery, festooned with a maze of fiery pits. Multicoloured flames jet from the pits with a bellowing roar. Crumbling rocky pathways cross between the pits. The fires cast a brightly hued glow on the cavern walls, the colours shifting and dancing, merging and changing continuously. The choking sulphuric fumes are nauseating and the ever-changing colours confusing to the eye, add to the feeling of nausea. 
+
+## **Navigating the Fire Pits**
+Each Character needs to make an **Easy (+40) Athletics** Test to make their way past the pits without being licked by the flames that shoot up from them. The flames are scorching, and cause 1 _Ablaze_ Condition if they touch a Character. 
+
+Each Character must test a total of three times to avoid the flames while moving through this location: once when they are near the entrance, once when they are in the centre of the area, and once as they approach the exit. 
+
+**The First Test:** The Character who rolls highest on their Athletics Test is attacked by a Pink Horror (if two or more Characters score an equal highest result, choose one of these to be attacked). 
+
+**The Second Test:** The two Characters who roll the highest scores are attacked by a Pink Horror (drawn results are determined as above). 
+
+**The Third Test:** The three Characters who roll the highest scores are attacked by a Pink Horror (drawn results are determined as above). 
+
+If any Character falls into a pit (unlikely unless done deliberately), they are consumed by fire, and from their burnt corpse two Pink Horrors leap out. 
+
+## **Horror from Flame**
+When a Pink Horror attacks, it leaps from the fire pit nearest to the Character, gibbering and laughing and squealing. Because of the insane noise the Daemon makes, this attack does not surprise the target. The Pink Horror then goes for the target Character. 
+
+Remember: if the Pink Horror is killed, it splits into two Blue Horrors, which also go for the kill. 
+
+At the beginning of each of their turns, a Character embroiled in combat in this location must make a **Very Easy (+60) Athletics** Test to avoid being licked by flame from the pits, suffering 1 _Ablaze_ Condition if they fail. 
+
+## **Blue Horror**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 30 | 30 | 35 | 30 | 35 | 30 | 35 | 25 | 30 | 10 | 12 |
+
+A Character might think they are being clever by knocking a Horror into a pit of flame. Although this causes the Horror to gain the _Prone_ Condition for one turn, the flames actually invigorate the Daemon, and it recovers d10 Wounds. 
+
+**Traits:** Corruption (Moderate), Daemonic 8+, Fear 1, Split, Tzeentch’s Fire, Unstable (Beyond the Caves), Weapon (Claws) +8 
+
+**Skills:** Channelling 65, Language (Magick) 55 
+
+## **Pink Horror**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|5|50|30|35|30|35|30|35|25|30|12|10|
+
+**Traits:** Corruption (Moderate), Daemonic 8+, Fear 2, Split, Tzeentch’s Fire, Unstable (Beyond the Caves), Weapon (Claws) +8 
+
+**Skills:** Channelling 65, Language (Magick) 55 
+
+**Split:** If a Pink Horror suffers a Critical Wound or is reduced to 8 Wounds, it splits into 2 Blue Horrors, both of which are unwounded. 
+
+**Tzeentch’s Fire:** The Horror is wreathed in coruscating flame. All Horrors of the same type (Pink or Blue, but not Pink and Blue) in the vicinity pool their power. Choose one to cast 1 Tzeentch Spell during their Turn. Pink Horrors cast Pink Fire of Tzeentch and Blue Horrors cast Blue Fire of Tzeentch. Each additional creature of the same type in the vicinity adds +1 SL to a maximum of +9 SL. 
+
+## **Location 7 — False Prophecy**
+**Suffused with Hysh:** This area is suffused with the White Wind of Magic. Any successful attempts to cast spells from the Lore of Light within this area benefit from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Hysh_ there is no additional benefit. 
+
+As the Characters enter this maze of tunnels they are met by a stream of blinding-white light searing into their eyesockets. While in this location, all Characters suffer from 1 _Blinded_ Condition. They have to navigate the tunnels purely by touch and hearing. Their vision extends to only a couple of feet in front. If Characters become separated, they can cry out to each other and pass a **Challenging (+0) Perception** Test to locate each other. 
+
+At a suitable moment, the Characters hear a distant, low moaning cry echoing from within the maze. They can follow the sound. Any Character who passes an **Average (+20) Perception** Test also hears a low snorting sound coming from somewhere ahead. 
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+If the Characters travel towards the cry, they’ll encounter the source of the snorting — a Chaos Minotaur Lord tasked by the Lord of Change to guard the cavern. If they are together, they’ll face this enemy as one. If they are separated, each separate group or individual must make an **Average (+20) Perception** Test. The individual with the best score encounters the Chaos Minotaur first. The others, following the sounds of combat, can reach the battle as soon as they pass an **Easy (+40) Perception** Test. 
+
+## **The Chaos Minotaur Lord**
+This is a huge, bull-headed monstrosity, twice the height of a man, a terror of rippling muscles. Its horns are twisted into the sigil of Tzeentch, and a golden, daemonic mask of metal obscures its face, with eyes of pure white light shining behind it. Deadly fangs drip saliva. It has a bronze breastplate, engraved with arcane symbols, and hefts a great double-headed axe with a serrated edge. It attacks on sight, maddened with bloodlust. 
+
+## **The Chaos Minotaur Lord**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 5 | 45 | 25 | 64 | 65 | 20 | 20 | 25 | 20 | 30 | 15 | 42 |
+
+**Traits:** Armour 2, Big, Brute, Champion, Frenzy, Horns +9, Hungry, Night Vision, Rear, Size (Large), Weapon +12 
+
+**Skills:** Melee (Two-Handed) 65
+
+**Trappings:** Bronze Breastplate, Great Axe
+
+## **The Prophet**
+With the guardian of the cavern defeated, the party can continue towards the source of the cries. They see, emerging from the whiteness, a tall shard of crystal jutting from the floor. Within this shard is the figure of a striking man in priestly robes, trapped and utterly paralysed from the neck downwards. 
+
+He is a bald man, thickset with strong features. A bronze band is worn across his brow, and a silver robe cascades across his plate mail, inscribed with the image of a stylised owl. His right hand is raised, as though in fealty, his left holds a sword, its blade broken. Seeing the Characters emerge from the brilliant light, the man’s jaw drops in astonishment and his intense grey eyes light up in hope. 
+
+_‘Praise the goddess!’_ he gasps. _‘Help me, my friends! I have been trapped here Verena knows how long. My comrades are dead. My name is Adelfried, Priest of Verena. Please help!’_ 
+
+## **Hold on, Why Are You Here?**
+_‘We were tasked by my Emperor, Sigismund, to search for a fabled artefact said to be lost here. After countless horrors, I was separated from my comrades, and battled alone against a horde of Daemons. It was only the blasphemous sorcery of a servant of Tzeentch that overcame me, imprisoning me in this crystal shell. I do not know why I have been kept alive, and do not know how long I have been here. Prayer to Verena is all that has kept me sane.’_ 
+
+**Sigismund? What year did you venture forth?** _‘Sigismund IV. It is 1700 IC or thereabouts, the year of our foray.’_ 
+
+In fact, Adelfried was imprisoned following an ambush by Daemons that wiped out his party. Adelfried betrayed his goddess by pleading for his life — in return he promised to serve Tzeentch. Tzeentch’s Daemonic servants promised him his freedom, but only after he had accomplished a future task for their dark master — he must aid a group of adventurers who come to seek the artefact hidden in the caves. In addition, he must sow the seeds of suspicion within their minds against their allies, so that Tzeentch’s plans for the future come to fruition. Until that time, the heretic Adelfried is bound in crystal. 
+
+Adelfried knows he will only be free when he has accomplished his Dark Lord’s task. To this end, he pleads with the Characters to free him, and offers his help to fulfil their quest for the Hammer.  The Characters can free Adelfried by shattering the crystal — a few solid blows with a sword are all it takes. When the crystal prison shatters, a burst of energy knocks _Prone_ each Character nearby, and they feel sickened to the core of their being. This is a source of moderate Corruption. Unbeknownst to them, they have released a heretic. 
+
+Adelfried is astounded to learn that, as far as he is concerned, the Characters live in the far future. If the situation allows it, he is obsessed with asking them questions about the present time. He fights alongside the Characters, but does not risk his life except in the direst situations — he believes that his freedom is linked with the party’s success in retrieving the Hammer, so cannot let the Characters fail. 
+
+The heretic finds his freedom when he has helped the Characters retrieve the Hammer — the freedom to serve Tzeentch in the Realm of Chaos as a willing slave. As soon as Adelfried leaves the caves, his years catch up with him — he suddenly ages before the Characters’ eyes, and his flesh withers to bone which then crumbles to dust. All his items rust and rot to nothing. His soul is dragged to the Realms of Chaos. 
+
+## **Adelfried Jarmund**
+**Traits:** Armour 
+
+**Skills:** Athletics 57, Channelling (Dhar) 74, Cool 64, Endurance 71, Gossip 48, Haggle 43, Intuition 58, Language (Magick 70), Lore (Theology 70, Tzeentch 70), Melee (Basic) 54, Perception 58, Research 65 
+
+**Talents:** Bookish, Carouser, Doomed ( _Spend hushed eon. Eventually rescued. Agents rapport garnered, explore tunnels, rendered unreal_ ), Etiquette ( Scholars), Read/Write 
+
+**Possessions:** Plate Mail Armour 
+
+## **Location 8 — Hellwood**
+**Suffused with Ghyran:** This area is suffused with the Jade Wind of Magic. Any successful attempts to cast spells from the Lore of Life within this area benefit from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Ghyran_ there is no additional benefit. 
+
+As the Characters approach this area, they notice the cold, bare rock giving way to patches of luminous green moss spreading across the walls and ceiling of the tunnel. The tunnel opens out into a vast cave. The walls are covered with multicoloured lichen,  and boulders are festooned with fronds of red, green, and yellow ferns. Vine tendrils snag at the Character’s boots as they progress into the cave. 
+
+What the Characters at a distance mistake for clusters of stalagmites jutting up into the impenetrable darkness, are actually a forest of leafless trees, their boles twisted into vaguely human forms, their branches resembling gnarled limbs. Faces seem to leer out from the trunks — mocking, cruel, and contorted. 
+
+## **Death from Above**
+The trees press in on the Characters the closer they get to the centre of this huge cave. If they pass a **Challenging (+0) Perception** Test, they hear rustling in the branches high above them. If they are warily scanning the treetops for attackers, this test is **Easy** instead. 
+
+A few minutes later, winged entities screech down upon them. The Characters take a _Surprised_ Condition if they failed their Perception Tests. 
+
+The creatures are wiry, pale-skinned humanoids with leathery wings, evil, vicious faces and razor-sharp talons — Chaos Harpies. There are three harpies per Character. 
+
+**HARPIES**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|5|38|—|35|35|55|45|35|25|25|15|11|
+
+**Traits:** Armour 2, Big, Brute, Champion, Frenzy, Horns +9, Hungry, Night Vision, Rear, Size (Large), Weapon +12 
+
+**Skills:** Melee (Two-Handed) 65 
+
+**Trappings:** Bronze Breastplate, Great Axe 
+
+If a Character has the Herald’s claw and uses it, the target Harpy becomes enraged and attacks the two next to it — they come crashing to the ground in a flurry of screams and ripping claws, each attacking the others. One eventually slaughters the other two, but is badly wounded in the conflict. After the Characters have slain the other Harpies, they can finish off this one (it suffers from a _Fatigued_ Condition and half its Wounds are lost). 
+
+The foliage underfoot seems to come alive when the Harpies attack, clinging to the Characters, tearing at them with thorns and writhing tendrils. Characters on the forest floor begin the battle with an _Entangled_ Condition (the foliage counts as having Strength 30 for the purposes of breaking entanglement). 
+
+The Harpies seek to pin down and torture their victims rather than kill them outright. Two try to grapple their victim. If they fail, the third attacks as normal, but if the target of their attack is _Entangled_ , the third Harpy also attempts to grapple its opponent. If it succeeds, it causes its target to gain a _Bleeding_ Condition instead of the _Entangled_ Condition. 
+
+If a group of Harpies does not outnumber a single enemy three to one, they attack as normal. 
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+If two-thirds of the Harpies are slain, the remainder flee, but not before each attempts a final grapple attack. If they succeed in this attack, instead of Entangling their opponent, they wrest an item from their enemy — the Characters’ weapon, or shield, or perhaps an item from their backpack, for example. Surviving Harpies then fly off into the treetops, where they taunt the Characters. 
+
+To get their items back, the Characters must climb the trees (requiring an extended **Challenging (+0) Climb** Test to a total of 10 SL) to reach the Harpies’ nesting area. They can drive off the Harpies in this area by reducing them to at least a quarter of their number. Fighting in the treetops imposes a –10 penalty to Melee Tests unless a Character has the Arboreal Trait. Characters who suffer _Prone_ Conditions in the trees must make **Hard (–20) Athletics** Test or fall D10–4 yd (the varied distance represents branches slowing their fall). 
+
+## **Location 9 — the Prison**
+**Suffused with Dhar:** This area is suffused with Dark Magic. Any successful attempts to cast Dark Magic or Chaos Magic spells within this area benefit from +1 SL. This bonus may only be claimed once, so if a Character or item in the area is also suffused with _Dhar_ there is no additional benefit. 
+
+The tunnel opens into a narrow cavern, its ceiling imperceptible in the gloom. Inky slime trails down the walls, and a sticky, tarlike substance drips like light rain from the darkness above. The constant drip of this stuff echoes round the rocky confines. 
+
+The droplets seem to slither when they touch a Character’s exposed skin, winding with an apparent mind of their own into mouths, nostrils, eyes, and earholes — bitter to the taste, but sickly sweet of smell. 
+
+These droplets, and the slime on the walls, are manifestations of the Dark Magic that infests this place, and spending time in this area is a moderate source of Corruption. 
+
+## **Light at the End of the Tunnel**
+The cavern seems to stretch on, but the Characters spot a distant glimmer. At first, it looks like a spot of white light, but as they draw closer, they notice that it is an aurora of swirling radiance — all colours of the spectrum. The whirlpool of light roils around a massive black boulder, in which is embedded a golden hammer, covered in Dwarf runes. The tar-like substance seems to leach out of the boulder, pooling into droplets that rain directly upwards. 
+
+## **Treachery Unbound**
+Each Character should take a **Challenging (+0) Intuition** Test. Those who pass feel that Sigmar’s blessing will fall upon the person who is first to retrieve the Hammer, but also that those who carry the taint of Chaos will suffer for daring to handle the Hammer of Sigmar. If a Character does lift the Hammer, a number of things happen at one: 
+
+- A great torrent of magical energy surges forth from the roiling mass held at bay by the Hammer. Even Characters without Second Sight can perceive it as a broiling mass of lurid-pink and moody-blue fire washing over the Characters and out through the cave system. Those with Second Sight see that the torrent is a tremendous mass of intensely concentrated _Dhar_ . 
+
+- As this fire sweeps through the caves, it burns away the magical energies lingering within. Unstable creatures like Daemons and Undead are destroyed. Magical environments like the fire pits, maze of light, or golden lake, are stripped bare and left mundane rocky caverns. Mortal monsters, like Harpies and Chaos Hounds, are unharmed, but no longer find the caves a welcoming home, and soon head elsewhere. 
+
+- The Character wielding Ghal Maraz suffers a Wound for every point of Corruption they have. The Corruption points are lost, but so are the Wounds — permanently. 
+
+- If the party is perceived as Ulrican, they all benefit from an additional Resilience Point. 
+
+- If the party is perceived as Sigmarite, they all benefit from an additional Fate Point. 
+
+The Hammer is a mighty artefact, a masterwork of longforgotten Dwarf skill wrought in a mysterious alloy, a beautiful golden copper that is somehow harder than expertly forged steel. Several runes glow with vibrant blue magical power. A Character passing a **Hard (–20) Language (Khazalid)** Test can tell that they are intricate and archaic, but can only guess at their effect. They do not all glow brightly. Several have dimmed, exhausted by their long proximity to the malefic energies of Sheerargetru. Until Ghal Maraz is bathed in holy fire (as described in the following chapter) the runes marked with an * do not function. Still, it is a magnificent weapon worthy of a god. 
+
+**Magical Weapon:** Ghal Maraz is magical and can injure creatures noted as immune to non-magical attacks. 
+
+**Radiant Nimbus:** The Hammer glows with holy power. Creatures with the Unstable Trait engaged with the bearer lose 3 Wounds at the end of each turn. 
+
+**Smednir’s Master Rune of Head-Wrecking:** Add 40 to the score of any Critical Hits you make to the head. 
+
+By the time they reach the Deep Ravine, the storm has subsided. Many Goblins drowned in the storm and their corpses lay in the gorge while survivors shelter in the higher caverns. The situation with the Madcraw Clan depends on how the party left them. If they have Ghal Maraz, the Goblins keep away — Cacklespit foresaw this and they can feel the power of the Hammer and its hatred of Greenskins. If they don’t have the Hammer and you think the Players would enjoy a fight, you could stage more attacks. 
+
+**Rune of Goblin Bane:** Add the _Impact_ quality to the weapon if the target is an Orc, Goblin, Snotling, or Hobgoblin. Goblins treat the bearer as having the _Fear 1_ Creature Trait. 
+
+- *** Rune of Fire:** Any target struck receives an _Ablaze_ Condition. 
+
+- *** Rune of Stalwart:** The bearer of the weapon adds +2 SL to Cool Tests to resist _Fear_ and _Terror_ . 
+
+- *** Rune of Spell-Breaking:** Any harmful spell that targets the bearer of Ghal Maraz, or includes them in its area of effect, suffers a penalty of –2 SL on its Casting Test. 
+
+## **The Gorge — After the Deluge**
+When the Characters leave the cave, no matter when they entered, they step out into an almighty storm at night. The waterfalls crash down, turning the stream into a roiling white cataract carrying mud downstream. They can shelter until the storm breaks in the morning or soldier on regardless. Despite the flood, it’s possible to tread safely down the gorge — they’ll get wet but won’t drown. 
+
+At the end of the gorge, the pool burst its banks and the mine was overwhelmed by flooding. The mine is now a broad tunnel at risk of collapse — the party needs to wade through 2 feet of water and mud to emerge in Black Fire Pass, but fortunately the tunnel holds. 
+
+## **Back in Black Fire**
+If you want to make this return journey more involved, the party can encounter any of the groups described in **Chapter 10** . If the Characters reveal they have the Hammer, none of the Human groups believe it’s the real thing — after all, the Emperor has it, doesn’t he? In particular, pilgrims consider such claims blasphemous and become actively hostile. 
+
+Regardless of how you play the return to Grenzstadt, the PCs are being watched by a group of Dwarfs before they leave the Pass. Just before they pass Dok a Dum, a **Challenging (+0) Perception** Test reveals three Dwarfs observing them through a telescope from the heights. 
+
+They are some distance away and any attempt to reach them meets with failure. These are members of Grimshank’s Chain who learned of the party from Dwarf patrols in Black Fire Pass. 
+
+## **Ghal Maraz**
+|**Weapon**|**Enc**|**Reach**|**Damage**|**Qualities**|
+|---|---|---|---|---|
+|Ghal Maraz<br>— 2-Handed<br>Warhammer|3|Average|SB+7|Damaging, Fine 3,<br>Pummel, Unbreakable|
+
+EMPIRE IN RUINS — CAVES OF CHAOS 
+
+## **What If They Leave the Hammer Be?**
+It is possible that cautious Characters, heedful of ill omens, decide to leave Ghal Maraz in the cave. This is very clever of them, and a little frustrating as the narrative would probably benefit from their being more heroic. A consequence of their refusal to play the role fate allotted to them is that they must forfeit the next Fate Point they would otherwise receive. 
+
+Gideon is also not out of tricks. He has prepared a contingency in the form of Colonel Sievers, who is just the sort to perform an act of heroic desperation in order to win the support of Altdorf to his cause. After he encountered the Characters in the pass, Sievers went to Grenzstadt, where Gideon revealed the secret of the Hammer. Sievers swiftly recruited a band of adventurers and set off down Black Fire Pass. If the Characters return this way without the Hammer, they see a small band of motley soldiers of fortune heading towards them. If they have not joined the Characters’ party, Sievers has recruited the following to his cause. 
+
+- Renate Hausier the Vagabond (see **Death on the Reik** , page 21). Renate has since gotten herself a handgun, 2 pistols, and Ranged (Blackpowder) 51. 
+
+If you don’t have these books, or if some of these Characters are part of the Characters’ party, then they could be replaced by Characters from the **WFRP Starter Set** , or NPCs based on those from **Power Behind the Throne** , or a set of Characters with 2500–4000 experience points of the GMs own design. 
+
+This party, including Sievers, are now fated — they should have their own Fate and Resilience points, or at least 2 levels of the Luck Talent. Sievers is not hostile towards the Characters; he may even be well disposed to them. He is cagey about why he is adventuring in the pass, but if the Characters dig into his reasons, he bashfully mumbles: _‘Look, I have been informed of a chance to undertake a quest that will have me renowned. It’s mad really, but huge if true!’_ 
+
+The Characters might guess at his goal, and he won’t deny it. Nothing can be done to dissuade him. If Sievers is to be stopped, the PCs must fight and kill him and his companions. Otherwise, after a few days in the mountains, he retrieves Ghal Maraz and heads back to Altdorf, ultimately releasing Sheerargetru. 
+
+## **Rewards**
+
+- Sigrid the Outlaw Chief (see **Death on the Reik** , page 83). 
+
+- Golthog the Ogre (see **Power Behind the Throne Companion** , page 31). 
+
+- Erina Erberhauer (see **Power Behind the Throne Companion** , page 19 **)** . 
+
+Good roleplaying and clever thinking should be rewarded, but there are additional XP for the following: 
+
+- 150 points for retrieving Ghal Maraz 
+
+- 75 points for reaching Ghal Maraz but deciding to leave it in place 
+
+- 75 points for dealing with Sievers’ adventurers 
+
+- 50 points for passing through each of the caverns 
+
+- 9 points for visiting each of the nine locations

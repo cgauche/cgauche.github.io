@@ -1,0 +1,29 @@
+# Taverns of the Old World - Index
+
+- [Contents](<01 - Contents.md>) — p. 2
+- [Credits](<02 - Credits.md>) — p. 2
+- [Taverns of the Old World](<03 - Taverns of the Old World.md>) — p. 3
+- [Status and Taverns](<04 - Status and Taverns.md>) — p. 4
+- [Tavern Names](<05 - Tavern Names.md>) — p. 4-5
+- [Random Tavern Name Table](<06 - Random Tavern Name Table.md>) — p. 6
+- [Quick Description Table](<07 - Quick Description Table.md>) — p. 7
+- [Quirks Table](<08 - Quirks Table.md>) — p. 8-9
+- [Exotic Quirks Table](<09 - Exotic Quirks Table.md>) — p. 10-11
+- [A Venue’s Vital Statistics](<10 - A Venue’s Vital Statistics.md>) — p. 12
+- [Staff](<11 - Staff.md>) — p. 13
+- [Landlords](<12 - Landlords.md>) — p. 14
+- [Servants](<13 - Servants.md>) — p. 14
+- [Chefs](<14 - Chefs.md>) — p. 15
+- [Doormen](<15 - Doormen.md>) — p. 15
+- [Drinks](<16 - Drinks.md>) — p. 16
+- [Poor Quality Food and Drink](<17 - Poor Quality Food and Drink.md>) — p. 17
+- [Board](<18 - Board.md>) — p. 18
+- [Capacity](<19 - Capacity.md>) — p. 18
+- [Quality of Gossip](<20 - Quality of Gossip.md>) — p. 18-19
+- [Customer Table](<21 - Customer Table.md>) — p. 20-21
+- [Criminal Customer Table](<22 - Criminal Customer Table.md>) — p. 22
+- [Exotic Customer Table](<23 - Exotic Customer Table.md>) — p. 23
+- [Games](<24 - Games.md>) — p. 24
+- [Entertainment](<25 - Entertainment.md>) — p. 25
+- [Example Brass Tier Venue](<26 - Example Brass Tier Venue.md>) — p. 26
+- [Example Silver Tier Venue](<27 - Example Silver Tier Venue.md>) — p. 27-28

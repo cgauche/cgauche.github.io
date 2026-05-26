@@ -1,0 +1,494 @@
+# Arc 3 — Ubersreik / Ubersreik Adventures (S13-S21)
+
+## Métadonnées
+
+- **Sessions** : S13 → S21 (9 sessions)
+- **Trajet** : barge sur le Bögen (Bögenhafen aval) → arrêt château **[[Schloss Grauenberg]]** (Saponatheim) → barge → [[Ubersreik]] (séjour long) → coche Quatre Saisons → marché aux bestiaux nord d'Ubersreik → Cinq Chênes → Bögenhafen (étape) → Haches Croisées → [[Altdorf]]
+- **Sources canon multiples** (Arc à structure hybride : RN&HD pour les bornes Saponatheim et bal masqué, UA1 pour le cœur Ubersreik, EiS Companion pour l'épisode Drakensberg, adaptation MJ pour Oldenhaller) :
+  - S13 → `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` (PDF p.55-68)
+  - S14 → hors canon ; introduction MJ du fil **Emmanuelle Nacht / Filianore espionne** + arrivée Ubersreik (`Starter Set/A Guide to Ubersreik/` en référence)
+  - S15 → `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` — chapitre **Bait and Witch** (p.94-105)
+  - S16 → idem UA1 — chapitre **Heart of Glass** (p.47-77)
+  - S17 → adaptation MJ du classique WHFRP 1e **The Oldenhaller Contract** (transposé à Ubersreik, mécène = Andreas Bruner). Aucune source 4e directe.
+  - S18 → UA1 — chapitre **Slaughter in Spittlefeld** (p.78-92)
+  - S19 → `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md`
+  - S20 → `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` (PDF p.69-86) — recoupe partiellement UA1 **The Guilty Party** (p.107+)
+  - S21 → UA1 — chapitre **The Mad Men of Gotheim** (passage Gotheim) + segments homebrew (Cinq Chênes hommes-bêtes, auberge sans nom + statue impie, embuscade gobeline finale). Cf. aussi `EiS Companion/13 - CHAPTER 10- ON THE ROAD.md` en référence pour rencontres aléatoires.
+- **Tags** : `#Ubersreik` `#EmmanuelleNacht` `#KastorLieberung` `#MainPourpre` `#PurpleHand` `#Saponatheim` `#KarlHeinzLiebwitz` `#Nastassia` `#Manfred` `#Grauenberg` `#Bruner` `#AndreasBruner` `#HeinrichBruner` `#Aschaffenberg` `#Holzenauer` `#Jundfreud` `#DabernickGeneral` `#Hubkind` `#IdaVernt` `#CordeliaWesselingh` `#Vielfrass` `#Shornaal` `#Slaanesh` `#Engel` `#CarolusEntschlafen` `#TourDesVents` `#HeskeGlazer` `#OrbanGeldrecht` `#Drakensberg` `#FlammeBleue` `#FlecheNoire` `#Kellermann` `#Trotte` `#Caranthir` `#Mardrin` `#Giliani` `#Gino` `#Spittlefeld` `#Quartjin` `#Berebeli` `#Gotheim` `#ProtecteurAnselm` `#SkippyMark` `#Ulric` `#Sigmar` `#Skavens` `#Malpierre`
+
+### Timeline in-game
+
+EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastassia est canoniquement enchaîné directement après l'arc Bögenhafen. Le séjour à Ubersreik dure plusieurs mois (Phineas s'installe chez Bruner, Elvira intègre une troupe de théâtre, Filianore prend une couverture chez Cordelia). Estimation :
+
+| Session | Date estimée | Lieu | Note |
+|---|---|---|---|
+| S13 | **~10 Pflugzeit 2512 IC** | Schloss Grauenberg | Quelques jours après fuite Bögenhafen, arrêt sur le Bögen |
+| S14 | **~14 Pflugzeit 2512 IC** | [[Ubersreik]] | Arrivée + installation, "au bout de quelques jours" |
+| S15 | **~20 Pflugzeit 2512 IC** | Ubersreik (Whistlebone Alley + Pension Rugger) | Hubkind / Cordelia |
+| S16 | **~25 Pflugzeit 2512 IC** | Ubersreik + village d'Elssen + Tour des Vents (Montagnes Grises) | "Quelques jours plus tard" pour la réapparition de Mark |
+| S17 | **~5 Sigmarzeit 2512 IC** | Ubersreik basse-ville + égouts | Mark / Filianore convalescents, Anselm boite |
+| S18 | **~15 Sigmarzeit 2512 IC** | Ubersreik — Spittlefeld | "Le repas dont je ne me souviens" → quarantaine immédiate |
+| S19 | **~25 Sigmarzeit 2512 IC** | Ubersreik + Piques Croisées + château abandonné | "Les jours suivants furent bien plus calmes" — Mark guérit |
+| S20 | **~10 Sommerzeit 2512 IC** | Ubersreik — Niederstadt Haus (Morgenseite) | Bal masqué Holzenauer |
+| S21 | **~25 Sommerzeit → 5 Vorgeheim 2512 IC** | Route Ubersreik → Bögenhafen → Altdorf | 7-10 jours de coche |
+
+> RN&HD canon n'enchaîne pas mécaniquement le mariage Nastassia et l'arrivée à Ubersreik — c'est un choix MJ. Idem pour la durée du séjour à Ubersreik : RN&HD/UA1 supposent des aventures épisodiques, le MJ a tenu une chronologie continue de plusieurs mois.
+
+---
+
+## Tableau session ↔ chapitre
+
+| Session | Chapitre canon | Lieu principal | Cast PJ |
+|---|---|---|---|
+| S13 — Le mariage de Nastassia | RN&HD ch.6 *Nastassia's Wedding* (Plots 1-6 canon, dont **Plot 6 *In the Best of Families* = Manfred**) | [[Schloss Grauenberg]] | Phineas, Elvira, Skippy, Anselm, Pathsokar (+ Filianore amnésique) |
+| S14 — Ubersreik | Hors-canon (intro Ubersreik + révélation Filianore espionne) | [[Ubersreik]] | idem |
+| S15 — Appât à sorcier | UA1 *Bait and Witch* | Whistlebone Alley + Pension Rugger | idem |
+| S16 — Cœur de verre | UA1 *Heart of Glass* | Tour de Magnus / Tour des Vents / village d'Elssen | idem |
+| S17 — Le Contrat de Oldenhaller | Adaptation MJ de *The Oldenhaller Contract* (WHFRP 1e) | Bas-quartiers + égouts Ubersreik | Phineas, Elvira, Filianore, Anselm + **Caranthir** (mage elfe merc.) + **Mardrin** (nain merc.) |
+| S18 — Massacre à Spittlefeld | UA1 *Slaughter in Spittlefeld* | Immeuble en quarantaine, Spittlefeld | Phineas, Elvira, Filianore, Anselm, Mark, Caranthir, Mardrin |
+| S19 — L'affaire du joyau caché | EiS Companion ch.11 *The Affair of the Hidden Jewel* | Auberge Piques Croisées + château abandonné | Tous |
+| S20 — Seigneur d'Ubersreik | RN&HD ch.7 *Lord of Ubersreik* (recoupe UA1 *The Guilty Party*) | Niederstadt Haus, Morgenseite | Tous |
+| S21 — Les coupables | UA1 *The Mad Men of Gotheim* + segments homebrew route Altdorf | Cinq Chênes, Bögenhafen, ruines de Gotheim, Haches Croisées | Tous |
+
+---
+
+## S13 — Le mariage de Nastassia (RN&HD ch.6)
+
+**Cadre** : Après la fuite de Bögenhafen, [[Josef Quartjin]] embarque le groupe pour Ubersreik. Sur le Bögen, leur barge est arraisonnée par un navire noble Liebwitz — mais comme ils sont identifiés comme ex-employés de la **Gravin Maria-Ulrike**, le ton change : la famille a besoin de main-d'œuvre pour le mariage du frère cadet de la Gravin, **Karl-Heinz von Liebwitz**, avec **Nastassia von Saponatheim** au château **[[Schloss Grauenberg]]**. Les PJ deviennent serviteurs/gardes d'un jour.
+
+**Plots canon présents** (RN&HD ch.6) :
+- **Dot exotique** — Une **épée venue de la Terre des Morts** offerte par les Saponatheim. Maudite : une **forme éthérée parlant une langue inconnue** sort de la lame la nuit. Combat « laborieux plus qu'épique » dans la chambre du maître de maison (Skippy, Anselm, Pathsokar). Vaincue.
+- **Fils caché** (canon RN&HD Plot 6 *In the Best of Families*) — Agression nocturne par un homme « peu vêtu et visiblement fou ». Maîtrisé sans violence. Il s'agit de **Manfred von Saponatheim**, **vrai héritier légitime** du graf Wilhelm (canon : « feeble-minded », faible d'esprit, emprisonné depuis ~30 ans dans les caves, **seul héritier légal de la duchy de Saponatheim**). Canon : Manfred se libère seul à 1h du matin, tue 2 servants en cuisine, fonce vers la tour solar pour tuer son père. **Inflexion table** : les PJ l'attrappent doucement avant les meurtres canon (servants épargnés). **Wilhelm von Saponatheim** demande aux PJ de garder le secret.
+- **Fuite de la mariée** — Elvira aperçoit Nastassia s'enfuir avec un jeune roturier qu'elle aime. Elvira **couvre leur fuite** par les portes principales. Mariage annulé au matin.
+- **Rituel impie dans la cave** — Démons réveillent les PJ en sursaut. Combat. Ils découvrent que de **jeunes nobles sans moralité** ont fait un rituel impie dans une cave du château. Massacrés.
+
+**Hors-canon / inflexions table** :
+- Filianore présente mais toujours amnésique — Pathsokar grise mine. Le « miracle des retrouvailles » ne prend pas, leur lien semble brisé.
+- Le mariage est officiellement annulé pour fuite de la mariée + larcins + meurtre signalés au matin (probablement liés au rituel de cave). Les PJ partent vers Ubersreik avant de pouvoir creuser.
+
+### Ce que les PJ savent à la fin de S13
+- L'épée-dot des Saponatheim est maudite (forme éthérée).
+- Manfred existe, c'est un secret de famille.
+- Nastassia est volontairement partie avec son amant.
+- Des nobles ont fait un rituel impie dans la cave.
+- La famille Liebwitz les considère encore comme des employés fiables.
+
+### MJ-only S13
+- **Karl-Heinz von Liebwitz** (frère cadet de Maria-Ulrike, fiancé) : statut post-annulation flou. Cf. arc 7 — la famille Liebwitz garde-t-elle l'option d'unir Karl-Heinz à un autre Saponatheim plus tard ?
+- **Manfred von Saponatheim** : encore vivant, encore caché. Atout narratif latent (héritier illégitime).
+- **L'épée de la Terre des Morts** : artefact maudit dispersé à l'arrière-plan — possible plot futur si elle ressort.
+- **Rituel des jeunes nobles** : canon RN&HD = simples libertins jouant aux démonologues, mais on peut le ratcheter en cellule Main Pourpre / Tzeentch dormante si besoin.
+- **Famille Saponatheim** réapparaît dans `UA III/04 - A Tragic Tale of Upheaval.md` (rivalité avec Aschaffenberg toujours active). Voir aussi famille Aschaffenberg en S20.
+
+---
+
+## S14 — Ubersreik (Filianore révélée espionne)
+
+**Cadre** : Arrivée à Ubersreik après quelques jours de barge. La ville est sous occupation impériale depuis le **putsch contre les [[Jundfreud]]** ; armée impériale stationnée, situation politique fluide, aucune famille ne s'est encore imposée pour succéder. PJ doivent trouver à s'occuper.
+
+**Installation des PJ** (hors-canon, choix table) :
+- **Phineas** → entre au service de la famille **Bruner** comme aide politique pour [[Heinrich Bruner]], cherchant à pousser la famille vers la place vacante de seigneur d'Ubersreik. Garde-fou imposé du turbulent fils adoptif [[Andreas Bruner]].
+- **Elvira** → travaille à l'auberge **[[Maison du Pont]]** (clients aisés, relais de la compagnie de coches **Quatre Saisons**) + écurie. S'inscrit aussi dans une **troupe de théâtre** place du marché.
+- **Skippy** → flagellant de Sigmar, se rapproche du temple local.
+- **Pathsokar** → chasseur de prime free-lance.
+- **Anselm** → envisage de s'inscrire comme médecin.
+- **Filianore** → amnésie toujours présente, reste en retrait.
+
+**Plot principal de la session** : Filianore est approchée par un groupe et conduite au **palais d'Ubersreik** pour rencontrer **[[Emmanuelle Nacht]]**, **régente d'Ubersreik** (représentante du pouvoir impérial). Révélation MJ → joueurs : Filianore était **espionne d'Emmanuelle Nacht** avant Bögenhafen, dépêchée pour enquêter sur un certain **[[Kastor Lieberung]]**, **agent important de la [[Main Pourpre]]**. Le contact avait été perdu jusqu'à présent (ce qui explique qu'aucun secours n'est jamais venu pour Filianore). En parallèle, Emmanuelle Nacht avait fait **arrêter Pathsokar**, le confondant avec Kastor (cf. faux héritage de Bögenhafen). Quiproquo réglé, Emmanuelle :
+- libère Pathsokar
+- réintègre Filianore comme espionne
+- **éponge les ennuis judiciaires de Bögenhafen** des PJ via son influence.
+
+### Ce que les PJ savent à la fin de S14
+- Filianore = espionne d'Emmanuelle Nacht, ex-poursuivante de Kastor Lieberung.
+- Kastor Lieberung = agent **important** de la Main Pourpre (information neuve — ils savaient déjà qu'il y avait une magouille autour du nom, pas son organisation).
+- Emmanuelle Nacht = vraie patronne occulte d'Ubersreik (le général impérial est une façade).
+- Ils sont blanchis de Bögenhafen.
+
+### MJ-only S14
+- **Kastor Lieberung** : agent Main Pourpre **encore en circulation** — son identité véritable et sa mission post-Bögenhafen sont ouvertes. Cf. Arc 4 (traque MP active sur Pathsokar — FIL-25) et Arc 6 (organigramme Main Pourpre : Jarmund/Kalzbad-Bhar/Wasmeier).
+- **Filianore "espionne récupérée"** : Emmanuelle Nacht la pilote, mais Filianore est aussi soumise à l'**influence latente de Tzeentch** depuis le rituel raté de S12 (cf. dégradation S33). À jouer comme tension croissante entre loyauté à Nacht / appel chaotique.
+- **Emmanuelle Nacht** : son agenda exact (consolider l'occupation impériale ? ou autre allégeance ?) reste à clarifier. Le canon EiS la présente comme alliée loyaliste impériale ; le MJ peut la tirer dans une direction plus ambiguë.
+
+---
+
+## S15 — Appât à sorcier (UA1 *Bait and Witch*)
+
+**Cadre** : Filianore trouve une couverture comme assistante d'une apothicaire-antiquaire, **[[Cordelia Wesselingh]]**, allée de la Flûte en Os (canon : **Whistlebone Alley**). Cordelia signale à Filianore qu'elle est suivie par des inconnus.
+
+**Plots canon présents** (UA1 *Bait and Witch*) :
+- **Surveillance** — Deux louches postés place en face de l'échoppe. Plan tendu : Cordelia passe dans Whistlebone Alley, PJ embusqués (tonneau + toit) les attrapent.
+- **Identité des suiveurs** — Ce sont des **chasseurs de prime** à la poursuite du **répurgateur renégat [[Matthias Hubkind]]** (affiche à l'appui — le même que les PJ ont croisé S2 et S3). Hubkind cherche à attraper Cordelia, qu'il considère comme sorcière.
+- **Course à la Pension Rugger** — PJ accourent. Cordelia est à l'étage d'une auberge miteuse au bord du Teufel (**Rugger's Boarding House**) avec un homme blessé au sol. **Hubkind** menace de les tuer. Combat. Hubkind repoussé, saute par la fenêtre.
+- **L'homme au sol** = **[[Ida Vernt]]**, **herboriste** — en réalité **ancienne sorcière de village** (comme Anselm). Reconnaissante, elle propose à **Anselm** quelques jours en forêt pour lui apprendre des « tours ».
+
+**Hors-canon / scène majeure ajoutée** : **Skippy part seul** confronter Hubkind dans une taverne. Discussion → accusations mutuelles d'hérésie → Skippy attaque. Les témoins l'empêchent, Hubkind s'extrait, **fait arrêter Skippy et le condamner au bûcher**. Skippy meurt apparemment sur le bûcher. **« Certains témoins ont aperçu une ombre sortir des flammes... »** (S16 révélera = Mark).
+
+### Ce que les PJ savent à la fin de S15
+- Hubkind est en vie à Ubersreik et chasse Cordelia.
+- Ida Vernt = sorcière de village, mentor potentiel d'Anselm.
+- **Skippy mort officiellement** (bûcher).
+- L'ombre fuyant le bûcher reste un mystère pour eux.
+
+### MJ-only S15
+- **Hubkind** : canon RN&HD/EiS le rend obsessionnel et fanatique. Pour le MJ, le bûcher de Skippy est moins une victoire que la confirmation que Hubkind agit hors de toute hiérarchie sigmarite → **témoignage exploitable contre lui** auprès du grand prêtre Emming (cf. S20 où Mark le confronte au bal et où il bat en retraite).
+- **Ida Vernt = variante MJ-table** : canon UA1 *Bait and Witch* a **Alexander Grün** (homme, herboriste) à la place. Le MJ a renommé/recasté en femme nommée Ida Vernt pour des raisons inconnues (compatibilité PJ Anselm ? préférence narrative ?). À tracer comme inflexion table.
+- **Cordelia Wesselingh canon** : ex-membre du **Collège de Jade** (Ghyran) en disgrâce. Canon UA1 lui donne un **passage secret entre sa cave et la tour de Magnus (Engel)** → elle est **canal d'information du Collège Gris** entre Engel et les mages. **Implication forte** : si Engel est complice de Carolus, Cordelia peut le savoir ou être passive. Filianore comme assistante = couverture canon parfaite pour Nacht qui voulait surveiller le mage local. Réservoir narratif important.
+- **Heske Glazer canon** = elle-même **agent secret**. Canon UA1 lui donne **3 employeurs possibles** : (a) Nacht (qui voulait surveiller la Tour des Vents), (b) Christoph Engel lui-même, (c) Cult sigmarite (cherchant des hérésies). **13 livraisons de lentilles sur 6 mois** documentées canon (= elle savait que quelque chose se préparait). Plot dormant.
+- **Ida Vernt sort post-S20** → **suicide assisté en S21** par Anselm sur sa demande (« Je l'ai tué à sa demande »). Maladie incurable, peut-être liée à un ancien pacte de sorcellerie qui retournait contre elle. Cf. Anselm — **culpabilité durable**.
+- **Anselm "Protecteur"** : Anselm marmonne « *le protecteur* » plusieurs fois pendant l'arc (cf. S21 à Gotheim). Cohérent avec son profil : sorcier de village dérapant, peut-être lié à un patron forestier non identifié. Pas révélé table.
+
+---
+
+## S16 — Cœur de verre (UA1 *Heart of Glass*)
+
+**Cadre** : Quelques jours plus tard, un **homme au visage calciné, borgne, portant peau de loup** aborde les PJ : « Skippy a disparu, appelez-moi **Mark**. L'église de Sigmar est corrompue, je me range auprès d'**Ulric**. » Pénitence ulricaine après le massacre du temple de Bögenhafen ([S11-12]). Conversion sincère.
+
+Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le **meurtre du caporal [[Tylo Vielfrass]]** (armée « loyaliste » jundfreud) tué dans la grande tour de guet, dans des circonstances inexpliquées. Tension Altdorf-loyalistes ; Nacht exige neutralité absolue, rapport à elle seule.
+
+**Plots canon présents** (UA1 *Heart of Glass*) :
+- **Autopsie au temple de Morr** — Trou net dans la poitrine « gros comme une pomme », pas de sang. Mort par énergie magique inconnue.
+- **Veillée funéraire** — Foule. Le caporal logeait à la **[[Maison du Pont]]** (auberge d'Elvira, contact évident). Connu pour s'opposer au mage de la ville **[[Christoph Engel]]**. Buveur, problèmes avec la hiérarchie.
+- **[[Orban Geldrecht]]** (garde « en civil ») se présente comme grand ami de Vielfrass, propose son aide. Fouille de la chambre du caporal → lettres d'admiratrices, rien de plus.
+- **Tour de guet (capitaine Blucher)** — Visite des lieux : **fenêtre fêlée, comme fondue**. Blucher (aldorfer) jure n'avoir rien à voir. Bagarre en bas entre Orban et soldats, Blucher ferme les portes.
+- **Gymnase d'Orban** = en réalité **cellule cultiste de [[Shornaal]] (Slaanesh)**. PJ assistent au rituel d'admission : Filianore se retrouve au ring contre Orban → **gagne**. Récitation : « **Ygrak tu amat Shornaal ! Tzarkol tu amat Shornaal !** » (signature Slaanesh).
+- **Bureau personnel de Vielfrass** — Objets dérangeants, **Vielfrass = cultiste manipulateur**, lettre mentionnant **[[Heske Glazer]]** comme menace à éliminer.
+- **Attaque Hubkind au gymnase** — Le répurgateur déboule pistolets à la main. Combat. Pathsokar perd un doigt. **Filianore tranche la gorge de Hubkind** et le laisse pour mort (canon : il survit — cf. S20).
+- **Heske Glazer (artisane verrière)** — Mark commande un œil de verre. Distrait par la lumière sur la pièce, il comprend : **« Il a été tué par la lumière. »** Heske confirme que c'est possible avec une arme magique à longue portée. Tour locale = vide depuis des semaines (Christoph Engel parti). Direction : **Montagnes Grises**.
+- **Trajet coche Quatre Saisons** affrété spécialement par Elvira via son employeur. Cocher **[[Delberz Trotte]]**, marchandeur compulsif. Village d'**Elssen** (économie quasi-non monétaire).
+- **Embuscade Orban + cultistes** au franchissement de rivière gelée. Filianore presque tuée, Mark KO'd. Repli au village pour Filianore/Mark/Pathsokar/Anselm blessés. **Anselm + Pathsokar continuent** à la tour.
+- **Tour des Vents** — Tour mage isolée au lac gelé. Devant : **20 gobelins calcinés**. Chaque étage = école de magie différente.
+- **Christoph Engel prisonnier** dans un coffre transparent. Révèle le coupable : **[[Carolus Entschlafen]]**, mage renégat qui se voit en « chef d'orchestre » des **huit Vents de magie** (hérésie cardinale). Vielfrass a été tué par un essai d'arme **non visé sur Ubersreik** (chance ?). Engel demande aux PJ de poursuivre, lui stabilise les appareils prêts à exploser.
+- **Combat Carolus** au pied de la tour. Il met le feu, tente d'incanter, achevé par Anselm + Pathsokar.
+
+### Ce que les PJ savent à la fin de S16
+- **Vielfrass = cultiste Slaanesh**, Orban et sa bande aussi.
+- **Carolus Entschlafen** a tué Vielfrass par accident en testant son arme.
+- **Christoph Engel** s'occupait des appareils. **Mais : en redescendant les PJ ne le retrouvent pas — il a disparu**, et **des pièces de l'arme manquent**.
+- Hubkind laissé pour mort.
+
+### MJ-only S16
+- **Christoph Engel = Mage Gris (Ulgu)** canon `Guide to Ubersreik`. A fui avec les pièces manquantes de l'arme. UA1 *Heart of Glass* canon laisse Engel ambigu (« ami » ou « complice »). Lecture table : **complice partiel** (il voulait l'arme pour lui-même). Plot dormant à réactiver. Lien canon **Cabal / Collège Gris** = peut être agent Tzeentch infiltré dans le Collège, ou loyaliste qui exploite l'occasion.
+- **Carolus Entschlafen** : canon UA1 p.76 = **cabaliste Tzeentch** affilié à la **Cabal d'Egrimm van Horstmann** (le nécromancien-archimage notoire), **manipulant Hagerdorn** (un autre mage). Pas le mégalomane solo de la simplification table. À table = Carolus achevé S16 = solo mégalomane. **Écart canon vs table** : la Cabal van Horstmann est **encore active** canoniquement → autres agents potentiels dans la suite (Altdorf, Middenheim, etc.). Réservoir narratif important.
+- **Tylo Vielfrass / Orban** = cellule **Shornaal/Slaanesh** dans l'armée d'Ubersreik. Vraisemblablement pas la seule. Sous-couche du cult dont Brecht Kavenner (Nuln, S3) était membre — l'**Ordo Ultima** ? Cf. fil avec [[Brecht Kavenner]] resté ouvert depuis S1.
+- **Hubkind** : canon UA1 = survit à la coupure de gorge. Confirmé S20 (réapparaît au bal). Filianore croit l'avoir tué.
+
+---
+
+## S17 — Le Contrat de Oldenhaller (Adaptation MJ *The Oldenhaller Contract*)
+
+**Cadre** : Mark, Pathsokar, Filianore convalescents (S16). Anselm boite. Phineas a gagné les bonnes grâces d'**Andreas Bruner** en surveillant ses débauches. Andreas confie à Phineas une « mission délicate et discrète » : récupérer une **gemme** auprès d'un contact dans les bas-quartiers, le **« Baron »**. Andreas remet un **coffre confinant les effets indésirables de la gemme** (quelques heures de tampon).
+
+> **Source** : Le MJ a transposé le scénario d'introduction **WHFRP 1e *The Oldenhaller Contract*** (Nuln d'origine, mécène Joachim Oldenhaller, gemme = artefact chaotique, sewers + gang rival + cultistes) à **Ubersreik** avec **Andreas Bruner** comme mécène. Le titre de session conserve le nom canonique en hommage.
+
+**Composition de la session** (PJ « disponibles ») : Phineas, Elvira, Filianore (encore faible), Anselm + deux mercenaires Bruner : **[[Caranthir]]** (mage elfe, frime, tours de passe-passe magiques) et **[[Mardrin]]** (nain, calme).
+
+**Plots déroulés** (adaptation Oldenhaller) :
+- **Échoppe du Baron** — Massacre intérieur. Tous morts sauf un survivant choqué. Pas de gemme. Le survivant désigne la bande rivale des **Valentinas** (référence à la cultiste de Bögenhafen ? — coïncidence onomastique exploitable cf. **[[Valentina Schatzenheimer]]** S1) comme coupable.
+- **Repaire des Valentinas** — Grande porte, deux gardes tiléens. Tentative subtile ratée → escalade par Caranthir/Mardrin (impulsifs). Bagarre, calmée. Les gardes mènent les PJ au chef → **chef Valentina trouvé décapité dans son lit**, tête manquante. Les gardes paniquent et fuient.
+- **Galerie creusée** sous la chambre → **égouts**. Tête pourrie d'asticots du chef Valentina, couverte de morsures.
+- **Horde de rats** — Fuite dans les égouts, charriot de mine sur rail. Sortie de piste fracassante.
+- **Miséreux barricadés** dans une caverne souterraine, contre des **cultistes**. Les PJ traversent le barrage en chariot. **Rituel cultiste** en cours, gemme prise. **Coffre refermé** avant manipulation directe.
+- **Sortie par bouche d'égout** via bateau sur étendue d'eau souterraine.
+- **Retour palais Bruner** — Coffre rendu au majordome d'Andreas. **Repas de remerciement → ellipse / les PJ ne se souviennent plus de la suite** (transition vers S18, drogue dans le repas ?).
+
+### Ce que les PJ savent à la fin de S17
+- Bruner trafique avec une gemme magique chaotique (sans qu'il ne soit dit ce qu'elle fait précisément).
+- Une bande locale (Valentinas) a été décapitée par une autre faction (cultistes ? skavens ? rats ?).
+- Des **cultistes** opéraient sous Ubersreik.
+- Le « repas de remerciement » a laissé un blanc...
+
+### MJ-only S17
+- **Le repas drogué** : Le **majordome d'Andreas** a fait endormir les PJ pour les évacuer hors du palais Bruner avant que la quarantaine de Spittlefeld ne tombe sur l'immeuble. Cf. S18 — éveil dans l'immeuble en quarantaine sans en avoir le souvenir. **Question ouverte** : Andreas savait-il ? Heinrich Bruner savait-il ? La famille Bruner a-t-elle voulu se débarrasser des PJ ?
+- **La gemme** : artefact chaotique non identifié. Canon Oldenhaller 1e = gemme de **Slaanesh** ou de **Tzeentch** selon édition. Pas révélé table. Encore en possession d'**Andreas Bruner** au moment où les PJ quittent Ubersreik (S21). Plot dormant.
+- **Le décapiteur des Valentinas** : skavens probables (cohérent avec S20 attaque skaven au bal masqué). Première trace skaven à Ubersreik. Ils étaient déjà sous les rues.
+- **Caranthir + Mardrin** : mercenaires Bruner, **abandonnés à Ubersreik** quand le groupe part en S21. Statut : actifs, oubliés. Pourraient réapparaître comme témoins ou complices Bruner.
+- **Valentinas cult** ≠ **Valentina Schatzenheimer** de S1 (RN&HD ch.3) — homonymie. Sauf si le MJ veut tirer le fil : descendants / ramifications du même réseau slaaneshi.
+
+---
+
+## S18 — Massacre à Spittlefeld (UA1 *Slaughter in Spittlefeld*)
+
+**Cadre** : Réveil dans un **immeuble vétuste de Spittlefeld**, sans souvenir de la fin de S17. **[[Gino]]** (ogre concierge) réclame un loyer. Porte d'entrée clouée par des soldats : **quarantaine sanitaire**. Prêtres de **Shallya** postés dehors. Le **docteur [[Giliani]]** validera la levée.
+
+**Plots canon présents** (UA1 *Slaughter in Spittlefeld*) :
+- **Le docteur malade** — Giliani gît à l'étage, gravement atteinte. Elvira la soigne par Rhya. Elle murmure « **mon carnet** » puis perd conscience. Hématome suspect au cou.
+- **Trinité l'enfant voleur** — Ombre dans le conduit d'aération. Phineas le coince. Sortie par l'appartement d'**[[Annika Passerine]]** (femme costaude, orphelinat). Marché : médicaments contre carnet.
+- **Les frères nains Sreluc + Srulem** — Sreluc en colère, tromblon. Srulem à l'agonie, soigné par les PJ. Médicaments fournis en remerciement.
+- **Elutareth Cretevague** — Vieil érudit elfe dernier étage. Boit du thé, hautain (Caranthir débloque la situation). Traduit le carnet tiléen de Giliani → **« Il y a un vampire dans l'immeuble, vecteur de la maladie. »** S'enferme.
+- **Sous-sol** — Vaste capharnaüm vétuste. Cuisine glauque pleine de sang. **La vampire** apparaît, folle, parle de « faire un plat ». Tuée.
+- **Identification** — Vêtements + objets : **ancienne cuisinière de la maison Bruner**, déchue.
+- **Sortie** — Corps + journal présentés aux gardes → quarantaine levée.
+
+### Ce que les PJ savent à la fin de S18
+- Un vampire infectait Spittlefeld depuis la cave d'un immeuble.
+- C'était une **ancienne cuisinière des Bruner** — lien direct avec leur employeur Phineas.
+- Le docteur Giliani est sauvée.
+- Phineas est furieux et entend rapporter à Heinrich Bruner.
+
+### MJ-only S18
+- **Lien Bruner ↔ vampire** : Canon UA1 = la cuisinière a fui les Bruner après une « mauvaise expérience ». Lecture table : possible **expérimentation Bruner** (la famille fricoterait avec des artefacts/substances dangereux — corrélé à la gemme Oldenhaller). Pas clarifié table. Plot dormant.
+- **Pourquoi les PJ étaient-ils dans l'immeuble ?** Mystère explicite côté joueurs (« la dernière chose dont je me souviens, c'est le repas »). MJ : l'a-t-on planté là volontairement ? Cf. S17 MJ-only.
+- **Andreas Bruner** mise au pas par Heinrich après le rapport de Phineas — c'est ce qui prépare S20 où Andreas est ridiculisé au bal. Phineas devient pleinement allié d'Heinrich, en tension avec Andreas.
+- **Gino l'ogre concierge** + **Annika Passerine** + **frères nains Sreluc/Srulem** + **Elutareth Cretevague** : galerie de PNJ jouables, tous restés à Spittlefeld. Inactifs après S18.
+
+---
+
+## S19 — L'affaire du joyau caché (EiS Companion ch.11)
+
+**Cadre** : Période calme. Phineas a fait sanctionner Andreas via Heinrich. Elvira répète son théâtre, Pathsokar reprend ses chasses, Mark guérit. Pathsokar revient un soir avec un **gros contrat** : nous suivre dans une auberge à quelques heures.
+
+**Plots canon présents** (EiS Companion ch.11 *The Affair of the Hidden Jewel*) :
+- **Affiche de la Flèche Noire** plantée par une dague sur un cadavre en bord de route (gag macabre).
+- **Auberge des Piques Croisées** (point de passage de coches). Pathsokar demande **[[Wolfgang Kellermann]]**, vieillard à jambe de bois. Salle à l'écart. Surveillance d'un comparse silencieux.
+- **L'histoire de Kellermann** : Son père avait volé la **[[Flamme Bleue]]** (bijou de grande valeur) et l'a cachée. Avant de mourir, il a transmis l'emplacement à **[[Annalisa Kessler]]** (alias **Flèche Noire**), bandit de grand chemin sur les diligences. Kellermann veut la questionner. Planque connue : château abandonné, dix lieues.
+- **Le comte [[Amadeus von Drakensberg]]** — Après l'entrevue, hommes armés conduisent les PJ à un personnage incognito. Élégant, moustache magnifique. Demande la **tête de la Flèche Noire** sur un **plateau d'argent** (qu'il fournit, théâtralement). Prime généreuse, menace voilée.
+- **Tentative d'attentat à la cheminée** — Au matin, un engin fumant tombe dans la cheminée des PJ. Saut hors de la pièce avant explosion. Propriétaire mécontent. **Cavalier au galop** parti prévenir le château.
+- **Château abandonné** — Raccourci par bois, **vieux pont branlant** au-dessus d'une crevasse → **Mark révèle sa peur des ponts** (combat intérieur). Passage secret connu de Kellermann seul.
+- **Cuisines** — Halfelin cuisinier maussade **Manchettes** retenu. Elvira propose du somnifère dans les plats. **Plan saboté par maladresse Mark**.
+- **Geôles** — Vide sauf **happeur carnivore** (bête enfermée).
+- **Combat** — Mark démasqué, attaqué. **Filianore libère le happeur, le retourne contre les bandits** (miraculeusement réussi). Carnage. Mark fou furieux criblé de flèches, massacre les survivants.
+- **Annalisa rendue** — Riait : « *Mon père m'a juste dit de me servir de ma tête.* » **Pathsokar la décapite** pragmatiquement (canon : la tête sur un plateau est ce que Drakensberg veut).
+- **Retour aux Piques Croisées** — Drakensberg accepte la tête, paie, **part avec un sourire satisfait**. Kellermann **introuvable** (disparu).
+
+### Ce que les PJ savent à la fin de S19
+- Drakensberg voulait la tête, ils l'ont livrée.
+- Kellermann a disparu sans qu'ils sachent pourquoi.
+- La **Flamme Bleue** est quelque part, ils n'en savent rien.
+- Prime touchée → fête à la Maison du Pont.
+
+### MJ-only S19
+- **Le vrai but de Drakensberg** : EiS Companion canon ch.11 l.141 → **l'emplacement de la Flamme Bleue est TATOUÉ sur le cuir chevelu d'Annalisa** (depuis qu'elle est bébé, à son insu). Otto Kessler (canon ; **Wolfgang Kellermann** à table) lui disait « *use your head* » comme indice. Drakensberg le savait via Bruno (qui a torturé un ancien sbire d'Otto). Le plateau d'argent + la décapitation + un rasage discret (canon l.253 : « *After a brief shave...* ») → Drakensberg **lit le tatouage** et **part vers la cave indiquée**. **Les PJ ont fait son boulot sans le savoir.**
+- **La Flamme Bleue elle-même** : pas physiquement dans le crâne d'Annalisa, c'est seulement l'**adresse de sa cachette** qui y est tatouée. Drakensberg, après S19, doit encore aller la récupérer (cave de l'auberge Piques Croisées canon). Fenêtre d'intervention PJ théoriquement possible si la révélation arrive avant lui.
+- **Wolfgang Kellermann a disparu** : EiS Companion canon (l.251) = **Bruno (l'homme de Drakensberg) le tue** dans sa chambre pendant que les PJ sont au château. Drakensberg ferme la boucle. À table, **non explicité**, juste « introuvable ». Plot dormant.
+- **Père d'Annalisa** : canon = **Otto Kessler**. Table = **Wolfgang Kellermann** (renommé pour fusion narrative, Kellermann étant le vieillard à jambe de bois unique aux Piques Croisées).
+- **Comte Amadeus von Drakensberg** : noble probablement fictif/incognito. Possible relais Tzeentch (la Flamme Bleue = artefact Tzeentch dans le canon) ou simple collectionneur sans scrupule. À MJ.
+- **La Flamme Bleue** : artefact magique de grande valeur, **lieu encore à atteindre** par Drakensberg post-S19. Peut interagir avec la gemme Oldenhaller de S17 ? Connexion possible à exploiter.
+- **Filianore retourne un happeur**. Souffle de magie chaotique latente ? Cf. dégradation S33.
+
+---
+
+## S20 — Seigneur d'Ubersreik (RN&HD ch.7 *Lord of Ubersreik*)
+
+**Cadre** : Un mois plus tard environ. **[[Erich von Holzenauer]]** organise un **bal masqué** dans une mansion louée à Morgenseite (canon : **Niederstadt Haus**) pour s'imposer comme prétendant au titre de seigneur d'Ubersreik. **[[Heinrich Bruner]]** y délègue **Phineas** pour le faire briller. Filianore agit pour Emmanuelle Nacht ; Elvira y va avec sa troupe ; Mark s'invite plus tard.
+
+**Plots canon présents** (RN&HD ch.7 *Lord of Ubersreik*) :
+- **Costumes** — Elvira en **poule** (toujours reconnaissable à la démarche). Autres : cerf-chassé, bûcheron-origines, truite-rivière, etc. **Général [[Jendrick von Dabernick]]** (envoyé impérial) en costume militaire sobre, **coupe à double queue de comète** (Sigmar). Accompagné d'un **« chevalier panthère » = [[Emmanuelle Nacht]] incognito** (vraie dirigeante).
+- **Affront Aschaffenberg vs Bruner** — **[[Rickard von Aschaffenberg]]** et Heinrich s'insultent à l'entrée. Le neveu **[[Maximilien von Aschaffenberg]]** entre **déguisé en mutant aux couleurs Bruner** (référence à Andreas). Gardes l'expulsent.
+- **Andreas Bruner** entre en **« être de la nature »** (feuilles cache-sexe). Lourd avec les femmes, vomit après un verre, part honteusement → c'est **Filianore qui l'a empoisonné** (mission Nacht : discréditer un maximum de familles pour avantager le pouvoir actuel). Vengeance personnelle aussi pour la quarantaine de S18.
+- **Sabotages magiques** — **Père [[Gunther Emming]]** (Sigmar formel sans masque) + **sœur [[Célestine Hoch]]** (Shallya radieuse) voient leurs vêtements **s'échanger** sous l'hilarité. Plus tard, un **sanglier du buffet s'anime et attaque** les convives.
+- **Querelles** — Bretonnien duel un jeune noble. Prêtre Sigmar vs prêtre Verena. Rickard tente de planter un message compromettant sur Heinrich, raté.
+- **Deuxième empoisonnement Andreas** — Filianore lui administre un **laxatif** quand il drague la prêtresse de Shallya. **Phineas la reconnaît mais ne la dénonce qu'auprès des Bruner (?)** — texte : « Phineas la reconnu et la dénonça, l'obligeant à fuir la fête. » → Phineas vs Filianore : **tension naissante**, pour la première fois Phineas trahit le groupe pour son employeur.
+- **Mark arrive en loup**, intercepte **Hubkind** à l'entrée. Discours apaisé : « ce n'est plus l'heure de se battre ». Hubkind dépité, **repart**. Mark a gagné en sérénité ulricaine.
+- **Le dessert empoisonné à la malpierre** — Troupe d'Elvira en pleine représentation burlesque. À la fin : **nombreux nobles mutés, certains à l'agonie**. Cris en cuisine : **attaque skavens**. La malpierre a été glissée dans les plats. **Première confirmation publique de l'existence des skavens** pour le pouvoir local.
+
+### Ce que les PJ savent à la fin de S20
+- **Skavens existent et opèrent à Ubersreik** (preuve massive et publique).
+- La malpierre a empoisonné de nombreux nobles.
+- **La plupart des grandes familles sont désormais affaiblies** — Ubersreik politiquement décapitée.
+- Filianore agit contre les Bruner sous ordre de Nacht ; Phineas le sait maintenant.
+- Hubkind est en vie, mais maté.
+
+### MJ-only S20
+- **Les skavens à Ubersreik** : début du fil **clan / Maliss** ? Plus probablement un autre clan (Pestilens vu la malpierre + maladie via vampire S18). Pas tranché. Cf. arc 5-6.
+- **Phineas vs Filianore** : graine de fracture qui se réactivera en arc 5 (Filianore corruption Tzeentch → Phineas la traque) et arc 6 (Phineas politicien Kemperbad / Filianore disparue dans le chaos).
+- **Hubkind** : [VIVANT] [EN RETRAIT] depuis S20. Le récit S20 le fait repartir vivant et dépité après l'intervention de Mark. Canon UA1 ne le tue jamais. Fil [[Matthias Hubkind|FIL-11]] EN PAUSE.
+- **Maximilien Aschaffenberg** : moqueur du bal, revient comme PNJ dans `UA III/04 - A Tragic Tale of Upheaval.md`. Encore actif à Ubersreik.
+- **Erich von Holzenauer** : sa réputation ruinée par le bal raté. Vraisemblablement **plus jamais sérieux candidat au trône d'Ubersreik**. Cf. arc 7 « volonté Jundfreud de reprendre Ubersreik par les armes » (S57) — terrain libre, sa fin politique aide cette résurgence.
+- **Général Dabernick** : envoyé impérial, va vraisemblablement faire un rapport très négatif sur la situation Ubersreik.
+
+---
+
+## S21 — Les coupables (UA1 *Mad Men of Gotheim* + segments homebrew + retour Altdorf)
+
+**Cadre** : Climat délétère à Ubersreik post-S20. Émeutes anti-aldorfers (« vive Jundfreud / dégagez aldolfers »). **Elvira menacée régulièrement**, **Phineas sans travail** (Bruner brûlés), **Filianore briefée** sur une **nouvelle enquête complexe** par Emmanuelle Nacht (annoncée pour Altdorf). Décision de partir.
+
+**Avant le départ** : **Anselm revient choqué** — il a **tué Ida Vernt à sa demande**. Aucun détail donné.
+
+**Plot d'ouverture (homebrew)** : Cocher agressé devant la Maison du Pont, repoussé par les PJ + un nouvel intervenant **[[Andreas Wagenkneicht]]** (homme bronzé, vêtements ternes, chapeau). Il dénonce **[[Elisha Hochs]]** (compagnie de transport concurrente) comme commanditaire. Rendez-vous le lendemain à la **Couronne de Carolus**.
+
+**Mission Wagenkneicht** : suivre la prochaine diligence sur la ligne menant à Altdorf pour retrouver **une diligence portée disparue** et collecter des preuves contre Elisha Hochs. Wagenkneicht voyagera en parallèle de son côté.
+
+**Étapes du voyage (Ubersreik → Altdorf)** :
+
+1. **Marché aux bestiaux nord d'Ubersreik** — Émeutiers nocturnes lancent des pierres, **bétail libéré**, **incendie** que Elvira maîtrise. **Essieu scié** au matin, à réparer plus loin. (Homebrew.)
+2. **Cinq Chênes** (auberge fortifiée) — Avertissement local sur **hommes-bêtes**. Cor de chasse, faux **groupe de chasseurs** admis → **chasseurs de tête déguisés**, attaque. Pathsokar fusille, Mark invoque un **loup d'Ulric**. Massacre des assaillants. (Homebrew.)
+3. **Camp militaire impérial** — Commandant demande aux PJ de **porter une lettre à Bögenhafen**. Accepté. Le cocher Trotte grogne (« on est déjà perçus comme aldorfers… »). Nuit calme grâce à la proximité militaire.
+4. **Ruines de Gotheim** = **UA1 *The Mad Men of Gotheim***. Habitants fous parlent d'un **monstre**. Les PJ **passent sans s'attarder** (canon UA1 = scénario complet sauté table). **Anselm marmonne** : « *c'est le protecteur qui a fait ça ?* » → fil personnel ouvert.
+5. **Brigand solitaire ivre** sur la route, pistolets levés. Pathsokar plus rapide → mis en déroute. (Homebrew.)
+6. **Étape soir** — **Fût de bière naine Bugman XXXXXX** offert par Wagenkneicht (clin d'œil cher). Elvira refuse (ne boit pas), fâche une table de nains, **chante** pour les apaiser → succès. **« Cela deviendrait sa nouvelle vocation »** → seed du parcours futur d'Elvira (prêtresse Rhya + voix publique).
+7. **Bögenhafen (étape)** — Dépose de la lettre militaire. **Filianore voit un contact espion**, revient **bouleversée** : « j'expliquerai à Altdorf ».
+8. **Auberge anonyme entre Bögenhafen et Altdorf** — Temps mauvais, **volets fermés**, **silence à l'arrivée des PJ**. Tavernier corpulent grogne (« complet »), force la place avec mauvaise grâce. **Garde routier suspect**, plancher sale en train d'être épongé. Chambre miteuse, **enfermés à clef**. **Porte brisée** → trappe en cuisine → **rituel d'hommes-bêtes** dans la cave + **statue impie** + employés/clients **assommés ou tués**. Combat. **Mark brise la statue d'un coup**. Survivants sauvés, situation rapportée à une patrouille le lendemain. (Homebrew — variation du « tavernier mauvais hôte » classique.)
+9. **Charrette attaquée par gobelins** — Faciles à mater. Surprise : **[[Josef Quartjin]]** dans la charrette. Retrouvailles. Un bout de chemin ensemble puis séparation. Pestant d'avoir été attaqué en plein jour.
+10. **Route délibérément criblée de trous** par sabotage. Trotte fait pelleter, conduit ensuite « audacieusement » jusqu'à l'étape avant la nuit.
+11. **Dernier jour** — Diligence perdue **enfin retrouvée**, dans un ravin en forêt, déviée. Tout vandalisé, occupants **dévorés**. **Camp gobelin** non loin → loup d'Ulric de Mark règle ça.
+12. **Haches Croisées (étape finale)** — **Wagenkneicht** offre le repas. Présente le **représentant de la compagnie de transport**. Récit des PJ → représentant **agacé**, **aucune preuve contre Elisha Hochs**. Wagenkneicht enrage, sort « arranger la paie » → **disparaît**.
+
+### Ce que les PJ savent à la fin de S21
+- Trajet effectué, ils ont touché ~rien (Wagenkneicht volatilisé).
+- Quête puante de bout en bout, type traquenard.
+- **Ils sont à Altdorf** — Filianore va enfin pouvoir parler de sa nouvelle mission.
+- Anselm a tué Ida Vernt à sa demande.
+- **Josef Quartjin vivant**, retrouvailles fugaces.
+
+### MJ-only S21
+- **Andreas Wagenkneicht** : **PNJ canon UA1 *The Guilty Party***, **Verenan Investigator** (statbloc canon disponible). Patron retenu : **(a) Emmanuelle Nacht** — exfiltrer le groupe vers Altdorf discrètement (mission bidon, but réel = transport Filianore vers la prochaine étape DotR, cohérent avec la « nouvelle enquête » promise par Filianore à Altdorf). Synthèse possible avec le canon : Wagenkneicht est en effet agent Hochs canon, mais Nacht l'a **retourné** ou l'utilise sans qu'il le sache — la « disparition » aux Haches Croisées = il a fait son boulot canon pour Hochs (sabotage Four Seasons) puis livré secrètement Filianore à un contact Nacht pour la suite. Hypothèses de repli :
+  - (b) **Agent canon d'Elisha Hochs / Four Seasons** (canon UA1 explicite).
+  - (c) Agent **Main Pourpre** testant le groupe.
+  - (d) Simple escroc free-lance.
+- La « nouvelle enquête » de Filianore promise à Altdorf renvoie à `Source/Enemy Within Campaign Volume 2 Death on the Reik/01 - Contents.md` → début arc 4.
+- **Hommes-bêtes en hausse** sur la route Ubersreik-Altdorf : **annonce thématique** pour DotR (Arc 4) où la corruption chaotique du Reikland s'intensifie. Tribu **Cluster-Eye** rôde (cf. `Source/The Cluster-Eye Tribe.pdf` jamais activé à table — réservoir disponible).
+- **Anselm + Ida Vernt + « Protecteur »** : Anselm a un **patron forestier inconnu** ou une **figure tutélaire**. Pas révélé. À déclencher quand un fil personnel Anselm sera utile. Cohérent avec un patron type **Taal** sombre / **Atharti** / ou cult forestier mineur des Halfsbürger.
+- **Diligence retrouvée + camp gobelin** : la disparition canonique de la diligence est probablement gobeline (pas Elisha Hochs). Wagenkneicht a probablement **menti** sur la concurrente — son intérêt était de faire voyager les PJ, pas de coincer Hochs.
+- **Liens dormants quittant Ubersreik** :
+  - **Filianore** suivra à Altdorf. Sa **corruption Tzeentch** se réveillera à mi-arc 5.
+  - **Heinrich Bruner** + **Andreas Bruner** + la **gemme Oldenhaller** : abandonnés sans clôture. Plot dormant.
+  - **Caranthir + Mardrin** : mercenaires abandonnés à Ubersreik. Inactifs.
+  - **Erich von Holzenauer** : politiquement mort.
+  - **Christoph Engel** : mage disparu avec pièces de l'arme. Plot dormant.
+  - **Comte Drakensberg** : a la Flamme Bleue (extraite du crâne d'Annalisa). Plot dormant.
+  - **Cordelia Wesselingh** + **Ida Vernt** (post-mortem) + **Gunther Abend** (Maison du Pont) : alliés laissés en arrière, **Gunther a remercié Elvira particulièrement** [S21] — point de rentrée si retour Ubersreik nécessaire.
+  - **Emmanuelle Nacht** : son sort post-S22 flou. Vrai politique d'Ubersreik avant la résurgence Jundfreud [S57] = c'est elle.
+
+---
+
+## Synthèse / état à la fin de l'Arc 3
+
+**Composition du groupe** (à l'entrée d'Altdorf S21→S22) :
+- **Phineas** — halfelin, ex-protégé Bruner. Brûlé politiquement à Ubersreik. Tension naissante avec Filianore.
+- **Elvira** — prêtresse Rhya, fonds de voix révélé. Cible préférée des émeutiers anti-aldorfers.
+- **Anselm** — sorcier renégat, a tué Ida Vernt sur demande. Marmonne « le Protecteur ».
+- **Pathsokar** — chasseur de prime, doigt en moins (S16). Marié à Filianore mais lien désaffectivé.
+- **Mark** (ex-Skippy) — converti Ulric, peau brûlée, peur des ponts révélée, autorité morale qui mate même Hubkind.
+- **Filianore** — espionne d'Emmanuelle Nacht, briefée pour une nouvelle mission à Altdorf, **bouleversée** après son contact à Bögenhafen.
+
+**Ennemis acquis** :
+- **Hubkind** (probablement vivant, repoussé)
+- **Drakensberg** (a obtenu ce qu'il voulait, a payé, parti — ennemi latent uniquement)
+- **Main Pourpre** (par identification croissante : Kastor Lieberung est un agent important)
+- **Skavens** (présence confirmée à Ubersreik, malpierre + cuisinière Bruner vampire)
+
+**Alliés acquis** :
+- **Emmanuelle Nacht** (employeur de Filianore, blanchisseuse Bögenhafen)
+- **Josef Quartjin** (revu sur la route)
+- **Gunther Abend** (Maison du Pont) — gratitude envers Elvira
+- **Cordelia Wesselingh** (apothicaire) — gratitude envers Filianore
+- **Heinrich Bruner** (gratitude envers Phineas, mais relation terminée par le départ)
+
+**Plots dormants à reprendre** :
+1. **Kastor Lieberung** (Main Pourpre — traque réactivée Arc 4 sur Pathsokar, FIL-25)
+2. **Christoph Engel** (mage avec pièces de l'arme magique manquantes)
+3. **Drakensberg + Flamme Bleue** (a l'adresse tatouée, cave des Piques Croisées canon, doit encore aller récupérer l'artefact)
+4. **Gemme Oldenhaller** chez Andreas Bruner
+5. **Hubkind** (s'il survit canon)
+6. **Manfred von Saponatheim** (fils caché, S13)
+7. **Anselm "Protecteur"** (patron occulte)
+8. **Filianore corruption Tzeentch** (réactivé S33)
+9. **Skavens à Ubersreik** (qui ? clan ? sera-t-il lié à Maliss ?)
+
+**Préparation pour Arc 4 (Mort sur le Reik)** :
+- À Altdorf, Filianore expliquera sa mission. Canoniquement, c'est l'embarquement à Altdorf sur le **Berebeli** (Quartjin) en route vers Kemperbad → ouverture DotR.
+- La rencontre avec [[Etelka Herzen]] et l'enquête Wittgenstein arrivent.
+- La **menace skaven** précède la révélation skaven canonique de DotR — les PJ y arrivent **déjà sensibilisés** depuis S20.
+
+---
+
+## Roster PNJ — statut au sortir de l'arc
+
+| PNJ | Canon (fichier, lignes) | Statut | À retenir |
+|---|---|---|---|
+| **[[Emmanuelle Nacht]]** | `A Guide to Ubersreik` (Starter Set) | [VIVANTE] [ALLIÉE] | Régente réelle d'Ubersreik. Employeuse de Filianore. Réseau anti-Main Pourpre. |
+| **[[Jendrick von Dabernick]]** | `A Guide to Ubersreik` + `RN&HD ch.7` + `Mirror of Desire` (statbloc) | [VIVANT] | Façade publique militaire. Manipulable. |
+| **[[Heinrich Bruner]]** | `RN&HD ch.7` + `UA III ch.5 An Eye for an Eye` | [VIVANT, AFFAIBLI] | Ex-employeur de Phineas. Famille discréditée S20. Cuisinière-vampire (S18). |
+| **[[Andreas Bruner]]** | `UA III ch.5` (canon 2515 = absorbé chamber Slaanesh Piersson) | [VIVANT, DISCRÉDIT] | Détient la **gemme Oldenhaller** (FIL-30). |
+| **[[Rickard von Aschaffenberg]]** | `RN&HD ch.7` + `UA III ch.4-5` | [VIVANT, AFFAIBLI] | Ennemi mortel des Bruner. |
+| **[[Maximilien von Aschaffenberg]]** | `UA III ch.4 A Tragic Tale of Upheaval` | [VIVANT, PROVOCATEUR] | Neveu de Rickard. Réapparaît UA III. |
+| **[[Erich von Holzenauer]]** | `RN&HD ch.7 Lord of Ubersreik` (statbloc) | [VIVANT, POLITIQUEMENT MORT] | Bal masqué S20 = désastre. Rentré à Altdorf. |
+| **[[Karl-Heinz von Liebwitz]]** | `RN&HD ch.6 Nastassia's Wedding` | [VIVANT, ÉCONDUIT] | Frère cadet de la Gravin. Mariage annulé S13. |
+| **[[Wilhelm von Saponatheim]]** | `RN&HD ch.6` | [VIVANT, FRAGILISÉ] | Graf Saponatheim. Le secret Manfred est en partage avec les PJ. |
+| **[[Nastassia von Saponatheim]]** | `RN&HD ch.6` (Scion Gold 1) | [DISPARUE] | Fuie avec son amant roturier (Joachim Bitterfeld canon). |
+| **[[Manfred von Saponatheim]]** | `RN&HD ch.6 Plot 6` (Prisoner Brass 0) | [VIVANT, CACHÉ] | Vrai héritier légal Saponatheim. Faible d'esprit. Secret protégé (FIL-32). |
+| **[[Christoph Engel]]** | `A Guide to Ubersreik` + `UA1 Heart of Glass` (Engel n'est pas dans HoG canon, ajout MJ) | [DISPARU] | Mage Gris (Ulgu) d'Ubersreik. A fui avec **pièces de l'arme magique** (FIL-29). |
+| **[[Carolus Entschlafen]]** | `UA1 Heart of Glass` (Warlock Brass 5) | [MORT S16] | Cabaliste van Horstmann canon ; mégalomane solo table. |
+| **[[Tylo Vielfrass]]** | `UA1 Heart of Glass` | [MORT S16] | Caporal cultiste Shornaal. Tué accidentellement par l'arme Carolus, tir depuis Tour des Vents → Magnus's Tower. |
+| **[[Orban Geldrecht]]** | `UA1 Heart of Glass` | [MORT S16] | Bras droit Vielfrass. Embuscade Montagnes Grises. |
+| **[[Heske Glazer]]** | `UA1 Heart of Glass` (Master Artisan Silver 3) | [VIVANTE] | Artisane verrière + **agent secret canon** (3 employeurs possibles : Nacht / Engel / Sigmar). Cible de Vielfrass. |
+| **[[Cordelia Wesselingh]]** | `UA1 Bait and Witch` (Master Apothecary Silver 3, ex-Jade College) | [VIVANTE, ALLIÉE] | Apothicaire Whistlebone Alley. **Passage secret cave → tour Engel** (canal Collège Gris). |
+| **[[Ida Vernt]]** | variante MJ-table de Hannah Baumann (canon UA1 *Bait and Witch*) | [MORTE S21] | Mentor brève d'Anselm, tuée sur sa demande. Fil Protecteur (FIL-33). |
+| **[[Matthias Hubkind]]** | `RN&HD ch.4-5` (Witch Hunter Silver 3) + `UA1` | [VIVANT, EN RETRAIT] | Répurgateur fanatique. Mat verbalement par Mark au bal masqué S20. |
+| **[[Wolfgang Kellermann]]** | `EiS Companion ch.11` (variante MJ d'Otto Kessler) | [DISPARU, vraisemblablement mort] | Vieillard à jambe de bois. Drakensberg le fait tuer (canon Bruno l'homme de main). |
+| **[[Annalisa Kessler]]** | `EiS Companion ch.11` (Outlaw Chief Brass 4) | [MORTE S19] | Flèche Noire. Décapitée. **Adresse de la Flamme Bleue tatouée sur cuir chevelu**. |
+| **[[Amadeus von Drakensberg]]** | `EiS Companion ch.11` (Human Magnate Gold 5) | [VIVANT, ENNEMI LATENT] | A obtenu l'**adresse** de la Flamme Bleue (FIL-31). Doit aller récupérer l'artefact dans la cave des Piques Croisées. |
+| **[[Andreas Wagenkneicht]]** | `UA1 The Guilty Party` (Verenan Investigator Silver 4) | [DISPARU S21] | Faux-nez : Hochs canon, Nacht préférence table (FIL-42). |
+| **[[Gunther Abend]]** | `A Guide to Ubersreik` | [VIVANT, ALLIÉ] | Gérant Maison du Pont. Reconnaissance envers Elvira. Postmaster **Gustav Schtupp** = espion canon. |
+| **[[Caranthir]]** + **[[Mardrin]]** | hors-canon (homebrew table) | [VIVANTS, abandonnés Ubersreik] | Mercenaires Bruner. FIL-36. |
+| **[[Delberz Trotte]]** | UA1 (cocher générique) | [VIVANT] | Cocher Quatre Saisons. Conduit aussi S16 et S21. |
+| **[[Elisha Hochs]]** | `UA1 The Guilty Party` | [VIVANTE, ennemie latente] | Représentante Four Seasons. Chantage sur Wagenkneicht. |
+| Filianore (PJ) | personnage joueur | [PJ — corruption Tzeentch latente] | Bascule chaos S33 (Arc 5). |
+
+---
+
+## Callback hooks réactivables
+
+### Très forts (continuité majeure)
+- **`FIL-29`** Christoph Engel + pièces de l'arme magique → réapparition Arc 4-7 (mage avec arme partiellement opérationnelle).
+- **`FIL-31`** Drakensberg + Flamme Bleue → Arc 4-7 (artefact Tzeentch récupéré dans la cave des Piques Croisées).
+- **`FIL-32`** Manfred Saponatheim héritier → Arc 7 succession Saponatheim (Wilhelm mort, Manfred = atout politique).
+- **`FIL-37`** Loyalistes Jundfreud en montée → **Arc 7 S57** (Boris Todbringer mentionne « volonté Jundfreud de reprendre Ubersreik par les armes »). Sigmund Jundfreud refait surface canoniquement.
+- **`FIL-40`** Cabal d'Egrimm van Horstmann → Tzeentch climax Arc 7. Réservoir narratif.
+- **`FIL-42`** Wagenkneicht patron incertain → déclencheur Arc 4 (transport Filianore vers Altdorf).
+
+### Forts
+- **`FIL-30`** Gemme Oldenhaller chez Andreas Bruner → plot dormant artefact chaotique non identifié.
+- **`FIL-35`** Cellule Shornaal d'Ubersreik survivante → vengeance latente, lien possible vers Ordo Ultima (Nuln) ou cellule sœur Altdorf.
+- **`FIL-41`** Réseau d'agents secrets Ubersreik (Cordelia / Heske / Schtupp) → surveillance continue post-départ PJ. Postmaster Schtupp lit le courrier.
+- **`FIL-34`** Skavens à Ubersreik (clan non identifié) → continuité Arc 6 (Maliss ?).
+- **`FIL-33`** Anselm « Protecteur » → fil personnel PJ (patron occulte non identifié).
+
+### Moyens
+- **`FIL-11`** Hubkind en retrait depuis S20 → réactivation possible Arc 4+ (dossier officiel à Altdorf, Dammenblatz canal FIL-03).
+- **`FIL-38`** Cordelia + Gunther Abend alliés acquis → points de rentrée si retour à Ubersreik.
+- **`FIL-36`** Caranthir + Mardrin abandonnés → témoins compromettants des affaires Bruner.
+- **`FIL-39`** Hommes-bêtes Ubersreik-Altdorf → annonce thématique DotR.
+
+### Faibles / réutilisables
+- **Nastassia + son amant** : couple romanesque, peut refaire surface dans une petite ville du Reikland.
+- **Heinrich Bruner** : peut recontacter Phineas via Altdorf pour recommandations politiques.
+- **Maximilien Aschaffenberg** : réapparaît dans UA III *A Tragic Tale of Upheaval*.
+- **Karl-Heinz Liebwitz** : nouvel arrangement matrimonial possible côté Liebwitz.
+
+---
+
+## Fils ouverts émergés en Arc 3
+
+> Détail consolidé dans `../00 - Fils ouverts.md`. Liste des nouveaux FIL-NN nés en Arc 3 (+ statut révisé de FIL-11) :
+
+- **FIL-11** — *Hubkind harcèle le groupe* — **EN PAUSE** (révisé : Hubkind vivant mais en retrait depuis S20)
+- **FIL-29** — Christoph Engel disparu avec pièces de l'arme magique — OUVERT
+- **FIL-30** — Gemme Oldenhaller chez Andreas Bruner — OUVERT
+- **FIL-31** — Amadeus von Drakensberg + Flamme Bleue — OUVERT (ennemi latent)
+- **FIL-32** — Manfred von Saponatheim caché (héritier potentiel) — OUVERT (secret protégé)
+- **FIL-33** — Anselm « Le Protecteur » (patron forestier inconnu) — OUVERT (non révélé table)
+- **FIL-34** — Skavens à Ubersreik (clan non identifié) — OUVERT
+- **FIL-35** — Cellule Shornaal d'Ubersreik survivante (réseau résiduel) — EN PAUSE
+- **FIL-36** — Caranthir + Mardrin abandonnés à Ubersreik — OUVERT
+- **FIL-37** — Loyalistes Jundfreud en montée — OUVERT (escalade vers Arc 7)
+- **FIL-38** — Cordelia + Gunther Abend alliés acquis — OUVERT (positif)
+- **FIL-39** — Hommes-bêtes Ubersreik-Altdorf (Cluster-Eye possible) — OUVERT (background)
+- **FIL-40** — Cabal d'Egrimm van Horstmann (Tzeentch cabal mage) — OUVERT (révélation canon non activée table)
+- **FIL-41** — Réseau d'agents secrets Ubersreik (Cordelia / Heske / Schtupp) — OUVERT (canon)
+- **FIL-42** — Andreas Wagenkneicht patron incertain (Nacht/Hochs/MP/escroc) — OUVERT
+
+---
+
+## Notes meta
+
+- **Sources hybrides** : Arc 3 combine **RN&HD ch.6-7** (Saponatheim + bal masqué), **UA1** (Bait and Witch / Heart of Glass / Slaughter in Spittlefeld / Mad Men of Gotheim / The Guilty Party), **EiS Companion ch.11** (Hidden Jewel), **A Guide to Ubersreik** (Starter Set, contexte politique + PNJ), avec **homebrew table** pour S17 (adaptation de l'Oldenhaller Contract WHFRP 1e).
+- **Inflexions table majeures** : (a) Wolfgang Kellermann renommé d'Otto Kessler ; (b) Ida Vernt recastée d'Alexander Grün ; (c) Carolus simplifié de cabaliste à mégalomane solo (Cabal van Horstmann en réserve narrative FIL-40) ; (d) Engel ajouté au scénario *Heart of Glass* canonique (où il n'apparaît pas).
+- **Tower vs Tower** : **Tour des Vents** = **Tower of Vane** canon (Montagnes Grises, où Carolus opère). **Magnus's Tower** = grande tour de guet aldorfer à Ubersreik (où Vielfrass meurt). **Tour de Wizard's Way** = tour personnelle d'Engel à Ubersreik (vide pendant S16). Ne pas confondre.
+- **PJ évolution** : Skippy → **Mark** (conversion Ulric S15-S16, peau brûlée par bûcher de Hubkind). Filianore consolidée comme espionne Nacht puis trajectoire vers chaos. Pas de perte PJ Arc 3.
+- **Connexions retroactives Arc 7 (EiR)** :
+  - **Sigmund von Jundfreud** (héritier maison déchue) refait surface S57 — **prend racine narrativement à partir de l'affaiblissement multi-maisons S20**.
+  - **Wagenkneicht Verenan Investigator** retiré : le pont canon vers Altdorf est posé S21.
+  - **Cabal van Horstmann** (canon Carolus) reste activable comme cellule Tzeentch tertiaire (rival/parallèle Main Pourpre).
+- **Continuité Arc 1-3** : Hubkind continu (S2-S3-S15-S16-S20) ; Josef Quartjin revu S21 ; Emmanuelle von Liebwitz en hors-champ (sa convalescence Arc 1 se poursuit) ; lien latent Brecht Kavenner (Ordo Ultima Nuln) ↔ Cellule Shornaal Ubersreik (FIL-04 + FIL-35).

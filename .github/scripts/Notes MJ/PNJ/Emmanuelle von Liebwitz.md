@@ -1,0 +1,173 @@
+# Emmanuelle von Liebwitz
+
+**Sous-titre** : Grande Comtesse de Nuln, Électrice impériale, amie d'enfance de Karl-Franz  
+**Statut** : [VIVANTE] [ALLIÉE POTENTIELLE — INFORMÉE]
+
+## Apparence et manières
+
+Grande Comtesse de Nuln, amie d'enfance de l'Empereur Karl-Franz
+Holswig-Schliestein ; la rumeur veut qu'elle ait usé de cette proximité
+pour asseoir son ascension `EiR Intro l.839`. Réputée pour ses bals
+opulents, ses modes que la cour copie, et ses nombreuses idylles ;
+considérée par beaucoup comme la femme la plus puissante de l'Empire
+`EiR Intro l.839`. On la prétend volontiers emportée et politiquement
+naïve ; ses proches savent qu'il s'agit de la jalousie de ses rivaux —
+elle est en réalité une joueuse politique aussi prudente que rouée,
+capricieuse seulement quand cela sert ses fins (un détail que ne
+peuvent plus témoigner certains de ses anciens co-conspirateurs)
+`EiR Intro l.839`.
+
+Au pavillon impérial du défilé S60, fait son entrée juste avant le
+début de la parade et salue d'une grande révérence Karl-Franz et
+Boris Todbringer en évoquant à voix haute un souvenir d'enfance
+partagé avec l'Empereur — le sosie Hermann von Feilbach sourit et
+hoche la tête, faute de pouvoir répondre `EiR ch.5 l.202`. Tient une
+tenue d'apparat à la fois formelle et à la pointe de la mode
+`EiR ch.5 l.72`. Adresse un clin d'œil à ses Joueurs d'Épée de Nuln
+quand son escorte personnelle défile devant le pavillon
+`EiR ch.5 l.156`. Conversations menées à la rapière sociale : raille
+publiquement Hildegarde Zimperlich sur les desserts d'Altdorf, suggère
+que le fromage proposé n'a pas été rafraîchi depuis l'Empereur Magnus
+le Pieux `EiR ch.5 l.312+314`.
+
+Vétérane de plusieurs catastrophes : Émeutes du Grand Brouillard
+d'Altdorf, destruction d'une partie de Nuln huit ans plus tôt par les
+Skavens (officiellement non reconnue). Émerge plus forte de chacune,
+mais avec un tranchant impitoyable dès qu'il s'agit de sa propre
+protection `EiR Intro l.841`.
+
+## Phrases canon
+
+- *« What a gathering. It rather reminds me of the event your father arranged for your 16th birthday, Your Majesty. »* — entrée au pavillon du défilé S60, salutation lancée à Hermann von Feilbach et Boris Todbringer `EiR ch.5 l.202`.
+- *« Your "Majesty", but how would you know? »* puis *« Do you speak with Karl-Franz to learn your lines, or does Holzkrug write them for you? »* — perce le sosie en deux échanges, après l'avoir poussé sur les Toppenheimer `EiR ch.5 l.241+244`.
+- *« Oh come on. You might fool this lot, but I've known him since we were children. You've been avoiding Todbringer all day. Where is Karl-Franz? Is he truly ill? »* — démasquage achevé du sosie au défilé S60 ; quitte Hermann von Feilbach sur une révérence exagérée `EiR ch.5 l.247-249`.
+- *« Make no mistake, I shall act. Sudenland is no different to Ubersreik. The Toppenheimers will fall. Should you object, I shall tell the other Electors about the false Emperor. Do you understand? »* — ultimatum chuchoté à Immanuel-Ferrand Holswig-Schliestein au pavillon, S60 `EiR ch.5 l.326`.
+- *« Maria, I know the truth. It's not him. »* — confidence à Maria-Luise von Walfen sur un banc à l'écart au Conclave d'urgence, 18h05 `EiR ch.7 l.216`.
+- *« Be brave. I will keep your secret. Remember: you are not alone. »* — clôture de la même confidence ; lui prend les mains et jure le silence `EiR ch.7 l.225`.
+- *« Etelka, darling, perhaps your suzerain ought actually to be grand before you violate traditions held in common by those who rule the Empire. »* — réplique en plein éclat de rire au Conclave, après une saillie d'Etelka Toppenheimer sur la succession de Sudenland ; Toppenheimer rougit jusqu'au cou tandis que Thyrus Gormann éclate de rire `EiR ch.7 l.166+180`.
+- *« Ah, perfect! Do be a dear and go to the Volkshalle cellars and ask that dreary Ermine for a bottle of something that does not taste like vinegar? »* — sur un test Charme raté au Conclave, tend son verre à un PJ et l'envoie à la cave `EiR ch.7 l.194`.
+
+## Réseau
+
+- **Amie d'enfance de l'Empereur** : Karl-Franz Holswig-Schliestein — proximité personnelle qui sert sa carrière publique et lui permet de reconnaître immédiatement que le sosie de la cour n'est pas lui `EiR Intro l.823+839`.
+- **Confidente et amie sincère** : Maria-Luise von Walfen — au Conclave d'urgence S62, lui révèle qu'elle sait que l'homme sur le trône n'est pas Karl-Franz, lui prend les mains, jure le secret ; les deux femmes au courant du double impérial peuvent désormais communiquer sans alerter Liepmund Holzkrug ni Immanuel-Ferrand Holswig-Schliestein `EiR ch.7 l.212+216+225`. Refuse de révéler la supercherie publiquement par égard pour la position de Maria-Luise `EiR ch.7 l.46`.
+- **Conseillère respectée** : Elspeth von Draken — l'a alertée de manœuvres louches à Pfeildorf ; renseignement utile mais insuffisant pour justifier une intervention militaire ouverte `EiR Intro l.820`.
+- **Chevalier d'escorte au défilé** : Moritz Arbogast, Chevalier du Soleil Flamboyant — choisi délibérément parce que ni Sigmarite ni Ulricain, signal politique de neutralité confessionnelle `EiR ch.5 l.108`. L'accompagne avec son Grand Intendant Hildemar Kalb `EiR ch.5 l.108`.
+- **Escorte de cérémonie** : Joueurs d'Épée de Nuln — garde d'honneur personnelle qui défile au pavillon S60 `EiR ch.5 l.156`.
+- **Parente méprisée** : Ermine Liebwitz von Decker und Hanulf — cousine éloignée, intendante des caves de la Volkshalle ; le père d'Emmanuelle l'avait casée là pour s'en débarrasser `EiR ch.13 l.234`. La méprise discrètement, la trouve pénible et la qualifie ouvertement de désagréable et d'ingérable ; Ermine en retour ressent une amertume profonde envers ses « supérieures » Emmanuelle et Maria-Luise von Walfen `EiR ch.7 l.92`.
+- **Cible politique** : Etelka Toppenheimer, Grande Baronne de Sudenland — rivale immédiate ; Emmanuelle veut une raison crédible d'envahir et d'annexer Sudenland, et Toppenheimer lui en a fourni plusieurs (provocations sur l'héritage, déclarations sur le retour des Toppenheimer à Nuln) `EiR Intro l.261-263+820`.
+- **Cible secondaire d'opportunité** : Immanuel-Ferrand Holswig-Schliestein — Grand Chancelier, qu'elle teste comme allié possible pour l'annexion de Sudenland, en s'appuyant sur le précédent qu'il a établi à Ubersreik ; cible de l'ultimatum S60 `EiR ch.5 l.129+326`.
+- **Ennemis informels** : Liepmund Holzkrug — Grand Ambassadeur, lui fait du charme au défilé, scrute ses faiblesses pour exploitation future `EiR ch.5 l.88`. Holzkrug n'est pas dans la confidence du double, mais Emmanuelle ne le sait pas et le manipulerait volontiers à son tour.
+- **Manipulateurs en coulisses** : Main Pourpre de Nuln — œuvre à diffuser des rumeurs incendiaires et de la documentation compromettante sur Sudenland pour faciliter une guerre qu'Emmanuelle conduirait spontanément, sans alliance consciente avec eux `EiR Intro l.326`.
+
+## Objectifs et angle mort
+
+**Ce qu'elle veut** `EiR Intro l.820` : obtenir une licence pour annexer
+Sudenland. Obsession principale de toute la période *Empire in Ruins*.
+Au Conclave d'urgence, ses objectifs déclinés se résument à : isoler
+Etelka Toppenheimer, chercher l'ouverture qui justifierait l'annexion,
+bloquer toute résolution qui réaffirmerait la succession de Sudenland,
+utiliser sa connaissance du sosie comme levier sans jamais en révéler
+le secret — par égard pour la position de Maria-Luise von Walfen
+`EiR ch.7 l.46`. Cherche le maximum d'avantages tout en évitant
+l'effondrement total de l'Empire `EiR ch.7 l.46`.
+
+**Ce qu'elle sait** `EiR Intro l.823` : que le sosie public n'est pas
+Karl-Franz Holswig-Schliestein — perception immédiate dès leur
+premier face-à-face au défilé S60. Sait également que des manœuvres
+louches se trament à Pfeildorf, capitale de Sudenland, via les
+rapports d'Elspeth von Draken — mais sans preuve exploitable
+militairement `EiR Intro l.820`.
+
+**Ce qu'elle ignore** `EiR Intro l.826` : la gravité réelle des
+conflits du nord de l'Empire (Middenheim/Nordland, Ostland/Talabecland)
+qu'elle sous-estime. Ignore que sa volonté d'annexer Sudenland est
+activement encouragée en coulisses par les rumeurs et la documentation
+compromettante diffusées par la Main Pourpre de Nuln `EiR Intro l.326`.
+Ignore l'identité du complot Tzeentch contre l'Empereur, le rôle de
+Yann Zuntermein, l'existence du démon Sheerargetru et le rituel
+d'incarnation prévu pour Wolfgang Holswig-Abenauer.
+
+**Levier** : sait que le sosie est faux et tient cette carte en
+réserve. La joue explicitement contre Immanuel-Ferrand
+Holswig-Schliestein dans son ultimatum S60 : si Sudenland lui est
+refusé, elle révèle le faux Empereur aux autres Électeurs
+`EiR ch.5 l.326`. La tenir ne lui coûte rien tant que personne ne
+l'attaque sur Sudenland ; mais l'utilisation publique de ce levier
+exposerait Maria-Luise von Walfen, et elle s'y refuse `EiR ch.7 l.46`.
+
+## Plans en cours `EiR Intro l.326`
+
+- **Cas pour la guerre contre Sudenland** : accumule preuves et provocations qui justifieraient une intervention militaire ; veut Etelka Toppenheimer isolée diplomatiquement, ses 12 enfants naturels dressés contre l'héritier adopté Basil `EiR Intro l.263`.
+- **Pression sur Immanuel-Ferrand Holswig-Schliestein** : cherche à le rallier en s'appuyant sur le précédent qu'il a établi à Ubersreik — Sudenland ne serait, à ses yeux, qu'une opération de même nature — avec l'ultimatum implicite du double impérial révélé aux autres Électeurs s'il refuse `EiR ch.5 l.129+326`.
+- **Blocage au Conclave** : empêche toute résolution qui consoliderait la succession Sudenland sous Etelka Toppenheimer `EiR ch.7 l.46`.
+- **Réseau d'observation à Pfeildorf** : laisse Elspeth von Draken continuer à collecter renseignements ; attente du moment où une preuve dure pourrait justifier l'action `EiR Intro l.820`.
+
+## Démasquage et confrontation (ch.7 + ch.13)
+
+- **Démasquage du sosie au défilé S60** `EiR ch.5 l.235-249` : conversation à voix audible avec Hermann von Feilbach au pavillon impérial ; le pousse sur les Toppenheimer, le sosie répond mal ; trois questions plus tard, elle le quitte sur une révérence exagérée, le sosie décomposé. Les PJ témoins peuvent saisir l'échange.
+- **Ultimatum S60** `EiR ch.5 l.326` : chuchote à Immanuel-Ferrand Holswig-Schliestein qu'elle révélera le faux Empereur aux autres Électeurs s'il s'oppose à son annexion de Sudenland. Test d'écoute disponible pour les PJ.
+- **Confidence Conclave S62** `EiR ch.7 l.212+216-225` : escorte Maria-Luise von Walfen à un banc à l'écart, 18h05 ; lui révèle qu'elle sait pour le sosie, jure le secret, lui rappelle qu'elle n'est pas seule. Captable par un test Easy Stealth (Urban) à +40 contre Perception 91 d'Emmanuelle.
+- **Joute verbale avec Etelka Toppenheimer au Conclave** `EiR ch.7 l.166+180-194` : éclate de rire en pleine séance, raille la souveraineté de Sudenland qu'elle juge insuffisamment digne du titre de Grande Province, envoie un PJ chercher du vin chez Ermine quand la conversation l'ennuie. Toppenheimer humiliée, Thyrus Gormann amusé.
+- **Calme Thyrus Gormann après le bris de Ghal Maraz** `EiR ch.7 l.268` : 20h10, si les PJ ne tentent rien pour apaiser le Grand Patriarche enflammé, c'est Emmanuelle qui l'apaise. Lecture pour le MJ : sa présence d'esprit, son Iron Will et son Charm 115 + Cool 73 suffisent à imposer le silence dans une salle qui s'embrase magiquement.
+- **Pas présente au climax ch.13** `EiR ch.13 l.231` : Maria-Luise von Walfen indique aux PJ que seuls les Reiklanders seront présents à la cérémonie ; les autres Électeurs, Emmanuelle comprise, sont rentrés préparer leurs domaines à la guerre. Pas d'apparition canon à la cérémonie de remise de Ghal Maraz.
+
+## Apparitions canon Arc 7
+
+- S60 — Défilé d'Altdorf et pavillon impérial :
+  - 14h00 : entrée majestueuse, salutation au sosie et à Boris Todbringer `EiR ch.5 l.202`.
+  - 14h15 : conversation avec Liepmund Holzkrug, plaint le vinaigre servi par Ermine Liebwitz von Decker und Hanulf, désigne celle-ci à un PJ qui peut intervenir `EiR ch.5 l.207`.
+  - 15h00 : démasquage du sosie en trois questions ; Hermann von Feilbach décomposé, elle le quitte sur une révérence `EiR ch.5 l.235-249`.
+  - 15h15 : le porc « de Reikland » de l'irruption Petra Schneller se couche à ses pieds et s'endort ; elle sourit et lui caresse la tête `EiR ch.5 l.258`.
+  - 17h30 : passe d'armes avec Hildegarde Zimperlich sur les desserts d'Altdorf `EiR ch.5 l.312+314`.
+  - 18h50 : ultimatum chuchoté à Immanuel-Ferrand Holswig-Schliestein `EiR ch.5 l.326`.
+- S62 — Conclave d'urgence Volkshalle :
+  - 15h00 : entrée comme Électrice de Nuln, Runefang dans son fourreau posée sur la table devant elle, à côté des sièges vides qui signalent les fractures de l'Empire `EiR ch.7 l.105`.
+  - 17h30 : raille Etelka Toppenheimer en plein discours sur la succession de Sudenland, éclat de rire qui interrompt la séance `EiR ch.7 l.166+180`.
+  - 18h00 : envoie un PJ chercher un meilleur vin chez Ermine sur une intuition ratée `EiR ch.7 l.194`.
+  - 18h05 : confidence à Maria-Luise von Walfen sur un banc à l'écart `EiR ch.7 l.212+216-225`.
+  - 20h10 : calme Thyrus Gormann après le bris du faux Ghal Maraz, si les PJ n'agissent pas eux-mêmes `EiR ch.7 l.268`.
+- S64+ — Après le Conclave : rentre à Nuln, prépare ses forces ; signale à l'Empire qu'elle ne se laissera plus mener `EiR ch.13 l.231`. Pas d'apparition canon à la cérémonie de remise de Ghal Maraz `EiR ch.13 l.231`.
+
+## Dénouements canon
+
+- **Victoire des PJ — Empire restauré** : Emmanuelle conserve Nuln et probablement Wissenland ; voit son rôle stabilisé. Selon la Tourmente canon, elle devient Grande Comtesse de **Wissenland** (l'Empire post-Turmoil la promeut, et Sudenland devient Hochland) `EiR Intro l.284`.
+- **Victoire de Yann Zuntermein** `EiR Companion ch.6 l.34-37` : Emmanuelle déclare la neutralité de Nuln face aux décrets du Prince-Régent Wolfgang Holswig-Abenauer. Mais elle n'attend pas inactive : informée plus que la plupart, elle prépare un soulèvement pour restaurer les Holswig-Schliestein et éliminer Zuntermein. Pour réussir il lui faut un héritier légitime — le Prince Luitpold, expédié au Grand Hospice. Elle contacte les PJ par intermédiaires : extraire Maria-Luise von Walfen et ses enfants du Grand Hospice et les ramener à Nuln, contre titres nobiliaires et domaines. Bain de sang interdit (prêtresses Shallyennes intouchables sous peine de désastre politique).
+- **Bonus opportuniste si désordre persistant** `EiR Companion ch.6 l.83` : offre sa protection aux Jungfreuds d'Ubersreik en échange d'un serment de loyauté envers elle.
+- **Variante Changeling** `EiR Companion ch.7 l.49` : un Changeling tzeentchien peut prendre la forme de gardes ou soldats à son service pour dénoncer ou retarder les PJ à Streissen ou Nuln, en les accusant de sympathies pour Sudenland.
+
+## Statbloc — Emmanuelle Von Liebwitz, Comtesse Électrice (Gold 15) `EiR Intro l.829-847`
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 48 | 31 | 31 | 38 | 67 | 51 | 57 | 59 | 68 | **80** | 15 |
+
+**Traits** : Weapon (Magical Dagger) +6.
+
+**Skills** : Art (Calligraphy) 62, Bribery 105, **Charm 115**, Consume
+Alcohol 63, Cool 73, Endurance 48, Entertain (Singing) 90, Evaluate
+64, Gamble 89, **Gossip 110**, Haggle 100, Intimidate 63, Intuition
+93, Language (Classical 64, Merogen 60, Tilean 79), **Leadership
+100**, Lore (The Arts 69, The Empire 74, Heraldry 84, History 72, Law
+64, Nuln 89, Politics 79, Wissenland 69), Melee (Fencing) 54, Perform
+(Dancing) 76, **Perception 91**, Play (Harpsichord 64, Virginal 62,
+Violin 67), Ride (Horse 71, Pegasus 56), Sleight of Hand 62.
+
+**Talents** : Alley Cat, Ambidextrous 2, Argumentative, Attractive 8,
+Blather 5, Briber, Carouser 3, Cat-tongued 2, **Commanding Presence
+6**, Dealmaker, **Doomed** (*« Thy end is not thy end »*), Etiquette
+(Nobles) 8, Frightening 2, Gregarious 4, **Inspiring 4**, **Iron
+Will**, Lip Reading, Luck 4, **Master Orator 5**, Nimble Fingered,
+Noble Blood, Public Speaker 8, Read/Write, Resistance (Disease),
+Schemer 5, Tenacious 2, Warleader, **Wealthy 25**.
+
+**Trappings** : Best Quality Royal Garb, Jewellery worth no less than
+300 GC, Dagger exquis (chaque coup blessant inflige 1 Condition
+*Bleeding*). Peut en théorie s'équiper de tout ce que le trésor de
+Nuln peut acheter.
+
+## Liens externes
+
+- [Emmanuelle von Liebwitz — Lexicanum](https://whfb.lexicanum.com/wiki/Emmanuelle_von_Liebwitz)
+- [Emmanuelle von Liebwitz — Fandom](https://warhammerfantasy.fandom.com/wiki/Emmanuelle_von_Liebwitz)
+- [Emmanuelle von Liebwitz — Bibliothèque Impériale](https://bibliotheque-imperiale.com/index.php/Emmanuelle_von_Liebwitz)

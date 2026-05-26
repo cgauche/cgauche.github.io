@@ -1,0 +1,125 @@
+# Altdorf
+
+> **Capitale de l'Empire** (canon WFRP 4e : "Altdorf, the vast and bustling capital of the Empire, where the streets are paved with gold and anything is possible"). Forme française campagne : **Altdorf**.
+
+## Identité
+- **Nom officiel** : Altdorf (canon EN) / Altdorf (campagne FR)
+- **Type** : Ville-état impériale, **capitale** de l'**Empire**, siège de l'**Empereur Karl-Franz Holswig-Schliestein**
+- **Région** : **Reikland** (Grand County)
+- **Statut** : ville-état impériale, indépendante. **City pour Item Availability** (canon EiS ch.3 l.16 : retries daily, Exotic 10%).
+- **Géographie** : sur la **rivière Reik**, dans les **Altdorf Flats** (marais immenses).
+- **Murs** : "white walls of Altdorf" (canon EiS ch.3 l.43). Entrée nord via **Wolf Gate**.
+- **Tags** : `#Altdorf` `#Altdorf` `#Capitale` `#KarlFranz` `#Reik` `#Reikland` `#Université` `#Tzeentch-Influence` `#PalaisImpérial`
+
+## Source canon
+- EiS ch.3 *Heart of the Empire* (description compacte) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/03 - Heart of the Empire.md` lignes 5-42, 43-69, 121-138
+- *Altdorf - Crown of the Empire* (référence complète) : `Source/Altdorf - Crown of the Empire/` (à explorer quand pertinent)
+- Empire in Ruins (Arc 7 — climax canon impérial)
+
+## Description canon
+
+> "**Something is very wrong in Altdorf**. Those living in the capital are quite used to it, inured to its **subtle, pervasive influence**, but those freshly arrived can't help but feel… **uneasy**, and find themselves getting lost rather easily, as if the streets themselves don't meet up correctly." (EiS ch.3 l.9)
+>
+> **Influence Tzeentch en arrière-plan** (canon ch.3 l.52) : "**Behind every plot, every scheme, every turn of the wheel in Altdorf, lies Tzeentch**, the Chaos God of Magic, Mutation, and Change. Its horrific influence is close, but hidden, and will not be revealed until **Empire in Ruins**."
+
+### Effets sur les PJ visiteurs (canon ch.3 l.23-40)
+- Spellcasters : +1 SL Channelling/Language (Magick). Mais sur 9 (19/92...), +1d10 SL + Major Miscast.
+- Sixth Sense désactivé non-magicien.
+- 1d10 par jour : 8 = 1 Corruption ; 9 = couleur cheveux/yeux change ; 10 = +1 Fortune.
+- Holy Visions = nightmares + 1 Fatigued/semaine, removed by leaving city or 1d10 hours of prayer.
+- 1 item de vêtement change de couleur avant de quitter.
+
+## Géographie & lieux notables
+
+### Districts principaux
+- **Königplatz / King's Square** : place centrale, en haut du **Street of a Hundred Taverns**. **Lieu du défilé impérial** (S6).
+- **Street of a Hundred Taverns** : artère depuis Königplatz vers le riverfront. Innombrables tavernes.
+- **Reiksport** : énorme port naturel hors-murs, abrite l'**Imperial First Fleet** (warships rarement quittés à cause des taxes Marienburg). Greatship **Emperor Wilhelm III** (1000 men, 70 ans sans sortir).
+- **Universitätsstrasse** : où se situe l'**Université d'Altdorf**.
+- **Riverfront** : tous types de navires (high-masted ships, barges, houseboats).
+- **Imperial Palace** : sur l'autre rive du Reik (canon EiS ch.3 l.6 : "across the river, some distance away"). Le vrai Karl-Franz y convalesce.
+
+### Lieux marqués (PJ y ont été)
+- **Königplatz** [S6] — arrivée coche + défilé impérial + cultistes Main Pourpre.
+- **Boatman Inn** [S6] — tenu par **Una Mühlmauer** (Townsman Silver 2, mère Tilean racketeer). Sur le riverfront. Vieille amie de Josef. Lieu de l'altercation avec Jacob/Georg/Max Ernst.
+- **Black Bull** (sur les docks, canon ch.4 l.13) — Jacob von Katzenreik mort cette nuit-là.
+
+### Inns et tavernes mentionnés
+- **Nine Stars Coaching Inn** (Middenheim Road) — résidence/contact de **[[Quintus Fassbinder]]** (FIL-16).
+- **Angelino's** + **Cat and Fiddle** — bawds rabattent au Königplatz.
+
+### Institutions clés
+- **Imperial Palace** : Karl-Franz convalescent (Arc 7 = empoisonné Purple Brain Pox). Bedchamber Karl-Franz : large 4-poster silk + griffon bedposts. **Pomander Schlafenkraut+Moonflower+pine sous lit** = anesthetic gas (canon ch.8 l.105+).
+- **Volkshalle** : grand hall impérial octagonal. **Lieu du climax canonique Arc 7** (cérémonie 9 Brauzeit 9h pour invoquer Sheerargetru via faux Ghal Maraz). **Reliquary new gold+silver** (Albertus Goldformer) avec **diamond button trapdoor → 30ft drop → wine cellar canon ch.13**.
+- **Volkshalle Wine Cellar** : built 1149 IC Emperor Ludwig the Fat (elevator throne descend cellar). Trône relocated long ago + Gideon uncovered hole. Heavy wooden door + stout lock Ermine only key. Rare vintages + brandy casks. **Hole ceiling exact under Reliquary**.
+- **Grand Cathedral Sigmar** : **wedding venue S61** (Katarina+Wolfgang interrompu Barthelm). **Side doors** Wasmeier entrée. **Domplatz cemetery alleys** Wasmeier chase canon ch.6. **Grande Bibliothèque Sigmar annexe** : coffre tomes interdits + traités hérétiques. Knights of Fiery Heart guards + Order of Anvil vetting (canon Altdorf city). Yorri/Volkmar autorisation possible.
+- **Imperial Residence wing** : Maria-Luise apartments private. Private sitting room PJ convocation + token retinue.
+- **Université d'Altdorf** : où Ernst Heidlemann devait livrer ses fioles à **Doktor Schmidt** (daemonologue caché). **Quintus Fassbinder Verena Temple-Library annexe** (ch.8 handouts SHEERARGETRU acrostiche + Yodri khazalid + Bertoldt Malleun + permit minier Teugen-Steinhäger-Haagen). **Schulergegend district** : où 3 Yeux Altdorf-based Wilhelmina+Wulfrum+Gislind preparing lessons.
+- **Manoir Helstein** (Mauerblumchen district) : **Residence Todbringer in Altdorf** depuis PBT. Owned by **Helstein noble family of Middenheim** loyaux. **PJ résidence Arc 7 S60-S62** + **assault S63 homebrew Boris mort**.
+- **Cathédrale de Sigmar** : Volkmar le Grand Theogonist post-Yorri (Arc 7 post-Turmoil).
+- **Île Noire** : Chambre Noire HQ. Notorious island. Holzkrug + Zuntermein run Cercle Intérieur.
+- **Imperial Zoo** : **Deathclaw** (le Griffon de l'Empereur). Fermé depuis des semaines (canon ch.1 rumour).
+- **Aldig Quarter** : où Emmanuelle peut avoir fortified mansion (canon ch.12 l.189 — alternate location si trop watched).
+- **Reikerbahn slums** : où Kappelmuller dit Wasmeier vit canon ch.8 sell out option.
+
+### Arc 7 ch.13 climax — Volkshalle layout canon
+- **Main Hall + Viewing Area mezzanine** : entourages observers gallery.
+- **Emperor's Throne** : pierre stone.
+- **Reliquary new** + **Main Entrance**.
+- **Guard Posts** + **Shrine Sigmar**.
+- **Stairs to Cellar** + **Under Reliquary cellar** + **Wine Racks** + **Beer Kegs** + **Anteroom** + **Stairs Up** + **Courtyard exit**.
+- **9 cultist-Reiksguard False Honour Guard** halberds Iztak Graksk chant 9 times sacrifice Wolfgang+Yorri.
+
+## État politique
+- **Empereur Karl-Franz Holswig-Schliestein** : officiellement actif. **Réellement empoisonné depuis ~1 an** (canon Arc 7 EiR) avec **Purple Brain Pox** via Henrik Kappelmuller. **Hermann von Feilbach** (Reiksguard Cercle Intérieur) = sosie qui défile à sa place.
+- **Prince Héritier Wolfgang** : héritier. **Hôte parfait préparé par Gideon** pour Sheerargetru (Arc 7).
+- **Imperial Chancellor Immanuel-Ferrand Holswig-Schliestein** : oncle de Karl-Franz. **Manipulé par Yann Zuntermein** (Main Pourpre).
+- **Le vrai vacuum politique** : Karl-Franz alité, Wolfgang isolé, courriers et chancellerie infiltrés. Cf. Arc 7 spoilers.
+
+## Factions actives à Altdorf
+- **Maison Holswig-Schliestein** (Karl-Franz, Wolfgang, Immanuel-Ferrand) — pouvoir officiel.
+- **Cellule Main Pourpre d'Altdorf** (FIL-24) — dirigée par **[[Yann Zuntermein]]** (Arc 7 reveal). 2 cultistes morts à S6 (rang inférieur).
+- **Red Crown** (Tzeentch rival) — base à l'Université via **Doktor Schmidt**. Ernst Heidlemann livreur.
+- **Reiksguard** : garde impériale. Cercle Intérieur dont Hermann von Feilbach.
+- **Réseau anti-Main Pourpre** : Fassbinder, Adolphus (mort), Nacht (Ubersreik). Très restreint.
+- **Cellule Sigmar** : Volkmar (post-Arc 4).
+- **Mages des Colleges of Magic** : influence diminuée selon les rumeurs (l'Empereur s'en détourne — canon EiS rumour).
+
+## Fils ouverts locaux
+- **FIL-19** Karl-Franz a un double (Hermann von Feilbach) — révélation Arc 4+7.
+- **FIL-24** Cellule Main Pourpre d'Altdorf (Yann Zuntermein) — antagoniste central Arc 7.
+- **FIL-26** Mandat d'arrêt pour mort Jacob von Katzenreik — à clarifier.
+- **FIL-16** Quintus Fassbinder Nine Stars Coaching Inn — contact Arc 7.
+- **Doktor Schmidt** à l'Université — daemonologue Red Crown, possible cible Arc 4+.
+- **Imperial Zoo / Deathclaw fermé** — pourquoi ? Hook Arc 4.
+
+## PNJ présents / liés
+- **Empereur Karl-Franz Holswig-Schliestein** [VIVANT, empoisonné en secret]
+- **Hermann von Feilbach** [VIVANT, le sosie] — Reiksguard Cercle Intérieur
+- **Prince Héritier Wolfgang** [VIVANT, manipulé futur Arc 7]
+- **Immanuel-Ferrand Holswig-Schliestein** [VIVANT, oncle, Chancellor]
+- **Yann Zuntermein** [VIVANT, espion Main Pourpre Altdorf, Arc 7]
+- **[[Quintus Fassbinder]]** [VIVANT, Nine Stars Inn]
+- **Una Mühlmauer** [VIVANT, Boatman Inn]
+- **Doktor Schmidt** [VIVANT, daemonologue Université Red Crown]
+- **Jacob von Katzenreik** [MORT, nuit après S6]
+- **Georg von Ostbrun** [VIVANT, slumming toff, demi-jumeau de Jacob]
+- 2 cultistes Main Pourpre tués S6 par Adolphus [MORT]
+
+## Hooks de retour
+- **Arc 4** : Altdorf en début (S22 — récupération avant DotR).
+- **Arc 7** : Altdorf est le **centre du climax canon EiR** (ch.8-13).
+- **Mandat d'arrêt résolu** : un nouveau coupable identifié pour Jacob, PJ blanchis.
+- **Visite à Fassbinder** : à n'importe quel moment de la campagne entre Arc 2 et Arc 7.
+- **Université d'Altdorf** : recherche académique, daemonologie défensive.
+- **Imperial Zoo** : Deathclaw rampage rumour à investiguer.
+
+## Liens
+- **Arcs** : [[Arc 2 - Bögenhafen]] (S6), tous arcs ultérieurs (capitale)
+- **PNJ-clé liés** : [[Quintus Fassbinder]], Karl-Franz, Wolfgang, Yann Zuntermein
+- **Lieux connexes** : Reiksport (port), Imperial Palace (autre rive), Université, Volkshalle, Cathédrale Sigmar
+- **Factions** : [[Main Pourpre]] (cellule Altdorf), [[Red Crown]] (Université), Reiksguard
+
+## Liens externes
+- [Altdorf — Lexicanum](https://whfb.lexicanum.com/wiki/Altdorf)
+- [Altdorf — Fandom](https://warhammerfantasy.fandom.com/wiki/Altdorf)

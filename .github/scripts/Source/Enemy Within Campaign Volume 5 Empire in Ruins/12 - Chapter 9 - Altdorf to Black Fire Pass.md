@@ -1,0 +1,524 @@
+# Chapter 9 - Altdorf to Black Fire Pass
+
+*Pages PDF 112-129*
+
+## Chapter 9 Altdorf to Black Fire Pass
+## **The Carroburg**
+For their journey to Black Fire Pass, the Characters receive the services of _The Carroburg_ , one of the latest Imperial Fast Patrol Boats. The pride of the Imperial Navy, these ‘City-Class’ boats accommodate 28 oarsmen and are said to be the fastest vessels on the Reik in high winds or dead calm. 
+
+put those two sides at odds in her mind. During the course of the voyage, if she ever encounters some sort of conflict between the Emperor and the Cult of Ulric or the Ulrican faction then she becomes increasingly hesitant to make decisions, eventually finding it almost impossible to act. If this happens, Brunhilde defaults to doing nothing at all, unless she can be convinced otherwise. 
+
+Rules for boats can be found in the **Death on the Reik Companion** (pages 28–29 **)** . If you don’t have that book, quick rules can be used by adjusting the rules for flying dirigibles given in **Chapter 1** as follows. 
+
+Count hits to the Balloon as hits to the sails. Critical hits to the sails reduce speed by 25%. 
+
+Any Trade (Engineer) Tests made to repair the vessel should be replaced by Trade (Carpentry) Tests. 
+
+The vessel may not gain height. 
+
+Any Critical Hit or condition that would make the vessel lose height ought to be replaced with a breach in the hull that causes water to flood the vessel. Water comes in at a rate equal to the number of times the hull has been breached. Keep a running total of this number and when it reaches the vessel’s toughness, the vessel sinks. Any Character can bail water out of the vessel, reducing the number by 1 per turn per Character bailing. A successful **Average (+20) Trade (Carpentry)** Test can be made every 10 Rounds and fixes as many breaches as it generates SL. 
+
+## **Captain Brunhilde Von Flamme**
+Brunhilde von Flamme is the captain of _The Carroburg._ She is a distant relative of the von Bildhofens, and her family is successfully rebuilding its influence in Middenland after years of obscurity. The family practically paid for the entire boat and so earned her rank. Von Flamme has very little grasp of river life or military matters, but enjoys the attention and the camaraderie, even if it is enforced. She does cut quite a dash in her extravagant interpretation of the Imperial Navy captain’s uniform, however. She knows her limitations and is content to leave her first officer in charge of the day-to-day running of the boat. 
+
+Though she is patriotically enthusiastic about the Empire, von Flamme is also loyal to her family and so wishes the Ulrican faction in the civil war to prosper. She easily reconciles this with her support for the Emperor, provided nothing comes up to 
+
+**CAPTAIN BRUNHILDE VON FLAMME**
+
+**HUMAN BOATSWAIN (SILVER 5)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 46 | 32 | 31 | 32 | 52 | 44 | 55 | 31 | 31 | 54 | 12 |
+
+**Traits:** Ranged (Pistols) +9  (20), Weapon (Cutlass) +7 
+
+**Skills:** Athletics 54, Bribery 64, Charm 74, Climb 46, Consume Alcohol 47, Cool 36, Dodge 59, Endurance 52, Evaluate 36, Gamble 46, Gossip 69, Intimidate 42, Language (Wastelander) 34, Leadership 59, Lore (Heraldry) 41, Melee (Basic 66, Brawling 61), Perception 62, Row 41, Sail 54, Swim 46 
+
+**Talents:** Attractive, Doomed ( _Slippery harbourside evening, eels ravenous and riotous, gudgeon eat toes rotting underwater_ ), Etiquette (Nobles), Noble Blood, Orientation, Read/Write, Sea Legs, Strider (Coastal), Strong Swimmer 
+
+**Trappings:** Very Ostentatious Captain’s Uniform, Preposterous Hat, Telescope, Pouch containing 4 Shillings, Brace of Pistols loaded with Bullets, Cutlass, Pouch containing 10 Gold Crowns and 4 Shillings 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+## **Lieutenant Ottilie Grissen**
+Lieutenant Ottilie Grissen is a wizened water dog who is popular among the ranks on _The Carroburg_ and has the trust of her captain. She runs a relaxed and effective ship, but the crew know never to cross her. 
+
+**LIEUTENANT OTTILIE GRISSEN**
+
+**HUMAN BOATSWAIN(SILVER 5)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|52|34|48|49|49|47|41|42|33|37|12|
+
+**Traits:** Traits: Ranged (Bow) +7  (50), Weapon (Sword) +8 
+
+**Skills:** Athletics 57, Climb 58, Consume Alcohol  59, Dodge 57, Gamble 42, Gossip 47, Intuition 59, Language (Wastelander) 37, Leadership 52, Lore (Reikland 47, Riverways 52), Melee (Basic 67, Brawling 57), Navigation 62, Perception 59, Ranged (Bow) 39, Row 58, Sail 57, Swim 58, Trade (Carpenter) 61 
+
+**Talents:** Catfall, Doomed ( _Thine own instrument carries thee off_ ), Fisherman, Orientation, Resistance (Disease), River Guide, Strong Legs, Strong Swimmer, Super Numerate 
+
+**Trappings:** Cloak, Clothing, Sword, Pouch containing 2 Gold Crowns and 4 Shillings, Sling Bag containing a Flask of Spirits, Bow and 12 Arrows 
+
+## **Marine-Captain Karl Bauermann**
+Bauermann is the captain of the marines on board _The Carroburg_ . He is subservient to von Flamme and Grissen on board the boat, but once they disembark, the company of marines is entirely his. He is an experienced soldier and seafarer, and knows what’s what. Although he doesn’t care for von Flamme (too inexperienced and eager to social climb), he respects Grissen enough to make sure he does his best for _The Carroburg_ ’s captain. 
+
+## **Marine-Captain Karl Bauermann Sergeant (Silver 5)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|57|54|38|54|49|37|31|32|53|27|18|
+
+**Traits:** Armour 2, Ranged (Bow) +6 (50), Weapon (Sword) +7 
+
+**Skills:** Athletics 52, Climb 58, Consume Alcohol  64, Cool 68, Dodge 47, Endurance 64, Language (Battle 42, Wastelander 37), Leadership 68, Melee (Basic) 67, Play (Drum) 41, Ranged (Bow) 37, Sail 42, Swim 41 
+
+**Talents:** Doomed ( _A beat upon the drum, thy doom doth come_ ), Etiquette (Soldiers), Fisherman, Resistance (Disease), Strong Legs, Strong Swimmer, Super Numerate, Very Resilient, War Leader 
+
+**Trappings:** Cloak, Clothing, Breastplate, Helmet, Pouch containing 12 Shillings, Sling Bag containing a Flask of Spirits, Bow and 12 Arrows, Sword 
+
+_The Carroburg_ is fitted with two banks of seven oars on each side. This gives it unequalled speed in calm weather. A company of marines doubles as the firepower on board, as well as its oarpower. It’s fairly clear the marines much prefer the former to the latter. The boat is narrow and sleek and, for its size, remarkably quick in the wind. The crew dread calm days when they are required to man the oars. Less experienced officers love to show off the unique speed of the oared patrol boats on the calmest days, alienating their crew, but Grissen is astute enough to only give such an order in an emergency. 
+
+All City-Class boats, such as _The Carroburg_ , are part of the Imperial Navy. There is nothing its crew despises more than being confused with the Imperial River Patrol, whose boats are similar, to an untrained eye, but generally smaller and slower. The Imperial River Patrol are looked down upon by the Imperial Navy marines, much like a professional soldier might look down upon a Road Warden. 
+
+If they make a good impression on him, and treat his men reasonably, Bauermann  will become a competent and constructive ally of the Characters. If he takes a dislike to them, however, he begins a campaign of petty resistance, undermining them at every opportunity, and doing his best to make them look bad, as long as it doesn’t risk his crew. He’s just petty like that. 
+
+## **The Carroburg**
+|**Item**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|**Vehicle**<br>**Encumbrance**<br>**Carries**<br>**Motive**<br>**Power**<br>**Move**<br>**Toughness**<br>**Wounds**<br>**Length**<br>**(Yards)**|
+|---|---|---|---|---|---|---|---|
+|Imperial<br>Navy Fast<br>Patrol Boat|180|120|Oars/Sails|10|60|140|35|
+
+_The Carroburg_ is reminiscent of the Heavy Patrol Boat that some local Riverwardens use, except it is slightly smaller and is clearly built for speed — looking sleeker but having little armour. It is decked out with two gunports on each side (and two cannon), with eight swivel guns dotted around the deck. Enemies to the front of the boat could be targeted by four swivel guns, and enemies to either side by four swivel guns and a cannon, Bernard (or Bernie, when Bauermann is out of earshot). The oars are arranged in two banks of seven on each side, and the mainsail proudly displays a golden Imperial death’s-head. 
+
+## **Armaments of the Carroburg**
+|**Weapon**|**Range**<br>**Damage**<br>**Qualities/Flaws**|
+|---|---|
+|Cannon<br>(Small)|50<br>+10<br>Blast 2, Damaging,<br>Dangerous, Reload 4|
+|Swivel<br>Gun|30<br>+15<br>Blast 2, Dangerous,<br>Reload 4|
+
+These weapons belong to the Engineering group, all marines on board are trained in their use with a Ranged (Engineering) Skill of 55. 
+
+The Characters should be allowed to bring with them whatever equipment they wish, within reason. There is no room for horses on board. There is little facility for passengers, so Grissen has grudgingly moved into the ship’s prison cell, leaving the Characters to use her quarters. 
+
+## **Bon Voyage**
+Characters used to life on the river might be expecting passage on _The Carroburg_ to be somewhat slow and halting, but they are likely to be surprised at just how rapid the _Carroburg_ travels. Manoeuvring treacherous waters and difficult bends is made to look easy with 28 rowers and Grissen’s expert command. However, no provision has been made for food beyond iron rations,  so Characters may want to eat at riverside inns at any opportunity. Those used to luxury may wish to pay for lodgings, too, instead of spending the night in Grissen’s cramped quarters. 
+
+## **Off to Kemperbad**
+Leaving Altdorf behind, the journey towards the mountains begins swiftly and safely, and Characters can relax and enjoy the voyage. Reikland and Talabecland are close allies still, and it is the river that marks the border between the two provinces. You may wish to emphasise the pleasantness of this stage as ‘calm before the storm’. The sun is shining, the wind is perfect for upriver travel, and all’s right with the world — for now. 
+
+During this part of the journey, it should be worth letting the Characters get to know their captain and _The Carroburg_ ’s crew. Von Flamme is apt to spend the day, in good weather, strutting around the deck, pulling out her ornate brass telescope — a gift from uncle Tristan — and surveying the horizon as if she were on the ocean. As she passes each crew member they are likely to roll their eyes or give each other a knowing look — if they think they are unobserved. Von Flamme discusses the weather with Grissen and makes summary forecasts as if she were a grizzled shepherd, but she is often wrong. 
+
+It should be clear, soon enough, that Grissen is the effective captain of _The Carroburg_ . She goes about her job efficiently, judiciously avoiding the potential for conflict with her captain. Bauermann is pensive. He has an inkling that the Characters mean trouble, and feels a battle might be looming. He is drilling his company with that in mind. The Characters will have to put in real efforts, with **Difficult (–10) Charm** Tests to make a good impression on the marine-captain. 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+## **Kemperbad to Nuln**
+As _The Carroburg_ journeys from Kemperbad to Nuln, the mood on the river begins to turn. With the Reikland on one bank and Stirland, their firm allies, on the other, war has not reached here yet. As _The Carroburg_ approaches the border with Wissenland, though, things start to become more interesting. 
+
+## **A Ramshackle Raft**
+About a day’s journey before _The Carroburg_ reaches the burned village of Schertal (see the following section), the Characters come across a flotilla of refugees. The flotilla is made up of a dozen smaller vessels that have been lashed together to form a large floating platform. A medium-size cargo boat is at the centre of the makeshift arrangement, which offers some shelter from the elements, but every other vessel is either an open rowing boat, or a small fishing raft. Part of the structure seems to be made of pieces of jetty that have been put to use, linking the boats together. Tents and lean-tos have been constructed on top of this raft to give the impression of some sort of haphazard floating campsite. The tents are all made of the light-green hemp cloth that the villagers use for clothing. 
+
+The refugees are in desperate need of help. They require food and water, and they have no idea where they might make landfall. Their attempts so far at stopping at riverside villages have been thwarted. No one wants a band of refugees landing on their doorstep in such uncertain and suspicious times, for any number of reasons. 
+
+The villagers beg for food and water as they float past _The Carroburg_ , but are also wary of such a powerful and official vessel. They do not attempt to stop or board _The Carroburg._ If the Characters ignore them, or merely give them small portions of food, that is the last they see of them. However, if the Characters choose to interact with the refugees, then they can tie up to the flotilla and board it. If they do this, it will take a lot of work to secure the raft to the bank and stop it drifting, otherwise _The Carroburg_ drifts downstream (the wrong direction) with it. 
+
+If they do board, an old man immediately makes himself known to the Characters. This is Cerdic Linden, the erstwhile village elder. He is flanked by two muscular villagers, armed with quarterstaffs. Though they can offer no serious resistance to the Imperial Navy, they stand beside their leader staunchly. 
+
+Linden is eager to tell the Characters about the destruction of his village by Wissenland men-at-arms. He explains that two smaller settlements, Graubach and Florianfeld, have also been raided. The inhabitants of the raft are made up of survivors from all three villages. Though the villagers will be grateful for any food they get, they are wary of any military personnel. The Characters are likely to feel strongly distrusted. 
+
+The villagers wear deeply unfashionable clothing more becoming of a Bretonnian peasant than a citizen of the Empire. There is no reason why farmers from the back end of the Reikland should be up on the latest fashions, of course, but these appear decidedly ancient in style. Each villager also wears an unusual, carved wooden pendant. They seem to be depicting a bird-like head, but from a different point of view it looks more like a rabbit head, facing the other way. This is known as predatorprey and is a local tradition going all the way back to the days of the Old Faith. A successful **Difficult (–10) Lore Theology** Test reveals this. If the villagers were seen in another context, all dressed the same, all with a similar pendant, they would look a bit cult-like. 
+
+If the characters are respectful of the stone and allow the villagers to go on their way, or even actively help them, Linden gives the perceived party leader a predator-prey pendant. It provides a **+20 bonus** to the next three tests the Character makes with one of the following skills: Stealth (Rural), Track, Outdoor Survival, Swim, Perception, Intuition. 
+
+The whole issue with the predator-prey iconography has nothing to do with the Characters’ quest and is entirely innocent, though it could unnerve the Characters or delay them. 
+
+If treated with a great deal of friendliness or courtesy, Linden is forthcoming about the villagers’ belief in the Old Faith. The predator-prey is the embodiment of the natural cycle and of balance between creatures. This has been a tradition in Schertal and the surrounding countryside as long as anyone can remember. 
+
+In the hold of the cargo boat at the heart of the flotilla, wrapped in hemp cloth is a monolith. It is roundish, about 3 feet in diameter, and about a foot high. Needless to say, it is extremely heavy. It holds a half-carved and half-natural depiction of the predator-prey symbol. The stone lay at the centre of the village until it was attacked, and the villagers managed to get it aboard the boat. It is surrounded by a confused swirl of magical winds. 
+
+Should the Characters try to search the flotilla, the villagers look on anxiously. If they find the predator-prey monolith then tensions rise. If Characters attempt to take it or destroy it, this moves the villagers to action, despite the danger it brings them. 
+
+**CERDIC LINDEN – UNORTHODOX PRIEST**
+
+**OF RHYA(SILVER 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|37|36|26|24|33|22|25|71|42|51|14|
+
+**Traits:** Weapon (Quarterstaff) +7 
+
+**Skills:** Art (Writing) 45, Athletics 42, Charm 66, Cool 65, Endurance 44, Entertain (Speeches 76, Storytelling 61), Gossip 56, Heal 76, Intimidate 46, Intuition 42, Invoke 62, Leadership 64, Lore (Plants 86, Theology 91), Melee (Basic) 40, Perception 52, Pray 62, Research 81 
+
+**Talents:** Bless (Rhya), Doomed ( _Move with the times or face extinction_ ), Holy Visions, Impassioned Zeal, Read/Write, Super Numerate
+
+**Trappings:** Green Robes, PredatorPrey Pendant, Quarterstaff
+
+**Blessings:** Conscience, Courage, Fortune, Protection **Miracles:** Rhya’s Children, Rhya’s Harvest, Rhya’s Shelter, Rhya’s Touch 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+## **The Village Formerly Known as Schertal**
+A day or so after coming across the refugee boats, near the Reikland–Wissenland border, _The Carroburg_ reaches the remains of Schertal village, on the west bank of the Reik. It has been razed by Wissenlander raiders who have crossed into Reikland territory and pillaged what they can. Little remains standing in the village save for blackened rock walls. The bodies of several villagers lie where they fell. 
+
+The village temple is the only substantial structure remaining. A large stone building, this was ostensibly the temple of Sigmar and the centre of village life. In fact, it was used to venerate the Old Faith and the predator-prey detailed above. An examination of the blackened stone shows that much of the Sigmarite iconography has been subverted into the predatorprey symbol. Is that an Imperial eagle, or the predator? Is that a twin-tailed comet, or a two-eared rabbit? 
+
+A bare patch in the grass outside the temple is testament to the removal of the monolith the Characters may have discovered on the refugee raft. 
+
+The two other villages mentioned by the refugees, Graubach and Florianfeld, have also been raided. If the Characters are interested in finding evidence of this, they are both within a few miles of Schertal, and in a similar state. 
+
+## **Into Wissenland**
+If Characters wish to pursue the perpetrators, then they have to leave their quest, and the river, to do so. Characters passing a **Very Difficult (–30) Perception** Test or an **Average (+20) Track** Test are able to follow the route the raiders took. It is apparent that there were a great number of soldiers involved, maybe as many as a hundred, a number of which were mounted. 
+
+The trail follows the river for several miles, crosses into Wissenland, and then starts to turn inland and up a steep ridge. Baron Klaus von Bachmann’s striking castle, Schloss Bachmann, sits atop the ridge, with commanding views of this stretch of the river, about 20 miles from Schertal. 
+
+Seeing the rise in tension across the Empire, von Bachmann has decided to make a move while other powers are distracted. He has had no backing from the Countess Emmanuelle, but has long coveted Schertal and its environs. If the Characters approach the Baron diplomatically then von Bachmann is prepared to grant them an audience. If the Characters threaten him or try to attack the castle (a clearly foolhardy endeavour), then with over one hundred men-at-arms at his disposal, he is not concerned. In fact, Bachmann is confident enough to lead his troops out and deal with the much smaller force of the Characters and their marines in open battle if it comes to it. 
+
+## **Schloss Bachmann**
+Despite being a ‘strike first and ask questions later’ sort, von Bachmann is perfectly capable of playing the considerate statesman. If the Characters arrive at his castle and offer him the respect a noble lord is due then he offers them every hospitality. 
+
+Von Bachmann is brighter and more observant than his blustering persona might reveal. His first line of defence is to question the Characters to see whether they are aware of his family’s great history and the land around Schertal. He requires that they tell him exactly what happened at the razing of Schertal. The Characters are likely to know little about either, in which case von Bachmann politely requests they come back when they have a fuller understanding of the situation. 
+
+His second resort is to sow doubt about the integrity of the people of Schertal and the neighbouring villages. He casts their Old Faith traditions as witchcraft, and can supply any number of witnesses to back him up. 
+
+It is unlikely the Characters are able to do much about Baron von Bachmann now, but bringing up his behaviour might wrong-foot the countess when they again meet up with her later in the adventure. 
+
+## **Baron Klaus Von Bachmann**
+Von Bachmann is tall, barrel-chested, and red-haired, with a florid complexion. On the one hand, he is a belligerent boor, who uses brute force as a first resort. On the other hand, he has been taught well in the art of diplomacy and uses this to his advantage. He finds it easy to get people to underestimate him. This can work to his advantage as people often reveal more than they intended, as they believe that he is not really paying attention. In fact he listens closely and takes in every word. 
+
+**BARON KLAUS VON BACHMANN**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|50|33|52|35|48|43|33|37|38|28|14|
+
+**Traits:** Weapon (Armour 4, Ranged (Longbow) +9 (100), Weapon (Sword) +9 
+
+**Skills:** Animal Care 52, Athletics 48, Charm Animal 53, Cool 53, Dodge 53, Endurance 50, Haggle 31, Heal 47, Intimidate 62, Language (Battle) 57, Leadership 31, Lore (Heraldry) 47, Melee (Basic 75, Cavalry 65), Ranged (Bow) 36, Ride (Horse) 53, Trade (Farrier) 48 
+
+**Talents:** Doomed _(Burning sands invite the bite of an ancient blade_ ), Etiquette (Nobles), Luck, Noble Blood, Read/Write, Shieldsman, Strike Mighty Blow 
+
+**Trappings:** Full Plate Armour, Sword, Longbow and 12 Arrows, Warhorse, Lance, Bachmann Castle and all within it 
+
+## **Welcome to Nuln, Enjoy Your Stay**
+Two parties are very interested in the Characters’ arrival in Nuln. The first is the Grand Countess Emmanuelle von Liebwitz; the second, slightly more humble, but perhaps even more directly dangerous to them, is Orla Feder. 
+
+Through her contacts and various spies in the capital, von Liebwitz is aware that the Characters are heading to Averland on an important mission. Despite her access, she has been unable, as yet, to glean the precise nature of their undertaking — but she intends to find out. The Countess has the power to move openly, but that could cause repercussions she doesn’t want, so she has decided to play a careful and measured hand. 
+
+_‘First of all, we require a disembarkation certificate, in triplicate, you should have picked one up back in Altdorf, but I can arrange to get you a copy. Shouldn’t take more than a day to have it drafted. Then a boarding pass for each of you, with a signed affidavit from a notarised official. Tomorrow I will try to get hold of a ship’s manifest roster, which you must fill in for every member of the crew. Don’t forget the ship’s cat’s date of birth. That sometimes gets omitted, which often contributes to unnecessary delays…’_ 
+
+Knees wears the uniform of the harbourmaster’s office; however, a Character passing an **Easy (+40) Perception** Test notices that apart from his ill-fitting and dusty hat, everything else he wears _never_ fits him perfectly, is well-tailored, and could be afforded on a mere assistant harbourmaster’s salary. 
+
+She has arranged for a favoured agent of hers, Hans Knees, to create no end of petty bureaucratic obstacles to slow _The Carroburg_ , and hence the Characters, keeping them in Nuln until she learns the truth about their mission. Being heroes of the Empire with official backing, the Characters are now likely to consider themselves above the sort of petty bureaucratic nonsense that no doubt plagued them in their earlier adventures. The number, and banality, of obstacles in their path should make it obvious that they are being intentionally delayed, but there is little they can do about it. Knowing these orders are coming down from upon high prevents even the poorest watchman accepting the Characters’ bribes. 
+
+## **This Petty Pace**
+As soon as _The Carroburg_ reports to the harbourmaster’s office in Nuln (as all river traffic must do) they are met by one Hans Knees who promises to do everything he can to get them through the tedious bureaucratic process as fast as possible. He appreciates that the Imperial First Fleet should be given every help and privilege, _‘but unfortunately a couple of minor formalities must be fulfilled for everyone’s benefit._ 
+
+**HANS KNEES HUMAN SPY (SILVER 3)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 53 | 33 | 33 | 39 | 49 | 52 | 32 | 40 | 58 | 43 | 14 |
+
+**Traits:** Armour 1, Weapon (Sword) +7 
+
+**Skills:** Athletics 72, Bribery 63, Charm 58, Cool 81, Endurance 49, Entertain (Act 68, Storytelling 53), Gamble 60, Gossip 68, Haggle 58, Heal 50, Intimidate 48, Intuition 84, Leadership 56, Lore (Reikland 50, Wissenland 55), Melee (Basic) 73, Perception 84, Sleight of Hand 57 
+
+**Talents:** Blather, Carouser, Doomed ( _Sold her egregiously, even rats appalled, repulsed, gotten even, trusted rigour untied_ ), Gregarious, Lightning Reflexes, Read/Write, Shadow, Sixth Sense
+
+**Trappings:** Harbourmaster’s Hat and Documents, Fine Clothes, Leather Jerkin, Sword coated with Black Lotus
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+A Character passing an **Average (+20) Perception** or **Intuition** Test susses out that Knees isn’t concerned in the slightest that the Characters might guess his true motives. He is openly delaying them in full view, albeit politely, in order to make it clear where the power lies. 
+
+While they are delayed, and Knees continues to claim he’s doing everything he can to help the Characters, he carefully probes them for details of their true mission. Knees is clever and subtle, but at the same time he is happy to let the Characters realise that the quicker they spill the beans, the quicker they can continue on their way. 
+
+## **Purple Hand – Nuln Branch**
+Nuln is where Adolphus Kuftsos first picked up the trail of Kastor Lieberung and the Cult of the Purple Hand. A number of cultists from those days are still active in Nuln. If the Lieberung look-a-like is still in the party then they are recognised during their stay. They will be the focus of the Nuln branch of the Purple Hand’s attempted retribution. If the lookalike is no longer around, then one of their associates is recognised. 
+
+Amidst all this, Knees is charming and amenable. He recommends that the Characters stay at _The Green Waterwheel_ , a smart establishment that should suit them, a couple of hundred yards from _The Carroburg_ . Winona, barmaid at _The Green Waterwheel_ , is part of Knees’s staff and reports anything she thinks might be useful. Sven, the strapping dockhand who works near _The Carroburg_ and who is employed to work on her should _The Carroburg_ require any maintenance, also spies for Knees. Marines are famous braggarts, and deck hands are famous drinkers, so whatever _The Carroburg’s_ crew has managed to learn of the Characters’ mission, Knees soon knows too. Knees can have more personnel at his disposal, if you have other ideas for getting close to the Characters and pumping them for information. 
+
+If the Characters somehow find a way to thwart Knees, then well done to them! Perhaps they manage to sneak out of Nuln in the dead of night, perhaps they play such a straight bat that Knees gets no inkling at all of their mission and makes the judgement to let them go. Perhaps they can come up with a brilliant strategy to turn him against his mistress (unlikely, but who knows; anything is possible). 
+
+In any case, at least two full days need to be spent in Nuln, as it takes a day to dismantle the mast and rigging in order to get _The Carroburg_ to fit under the city’s bridges to join the River Aver, then another day to get out of the river traffic press. Once Knees decides he has enough information on the Characters, he reports his findings to Emmanuelle von Liebwitz. 
+
+Regardless of what Knees uncovers, the countess has them let go, but her response changes depending on a number of things. If their true mission has been discovered, she’s surprised, believing them to be on a fool’s errand, but slightly hopeful that the return of Ghal Maraz could indeed heal her friend Karl-Franz. ‘Aiding’ in such an endeavour will give her the leverage to get what she truly wants though: an excuse to attack Wissenland. She sets spies to look for the Characters’ return. If she believes they are going to survey the Orc situation, or head into the Border Princes, she dismisses their mission as mostly irrelevant to her interests and puts them out of mind, unless later events bring them back to her attention. 
+
+The Purple Hand in Nuln actually split into multiple splinter groups when the cult was recently compromised by Witch Hunters (perhaps as a result of the Characters’ activities). The cell that thinks of itself as the ‘Nuln Branch’ has lost contact with the other cells in the city and beyond, but they assume the others are all dead or compromised. The Nuln Branch is now under Orla Feder’s fanatical leadership. The branch’s mission is to sow anarchy, ostensibly as a vague revenge for the Purple Hand’s setbacks. The Characters’ arrival is seen as a boon sent directly from Tzeentch. 
+
+Orla Feder has a profound mutation. Her body is almost entirely that of a great bird. Her head and neck display no sign of mutation so she is able to walk around without detection under a long, heavy, dark cloak. Her awkward gait, however, does betray her slightly. She has no arms or hands, as these are entirely mutated into great iridescent wings. 
+
+## **Orla Feder – Nuln Branch Leader**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|5|49|25|45|30|55|55|35|42|35|15|13|
+
+**Traits:** Armour 1, Distracting (Hideous Cackling), Flight 50, Night Vision, Spellcaster (Tzeentch), Stealthy, Venom, Weapon (Talons) +6 
+
+**Skills:** Dodge 75, Melee (Brawling) 69 
+
+**Mental Corruptions:** Fearful Concern (when indoors) 
+
+## **Spells**
+**Arcane:** Blast, Corrosive Blood, Teleport, **Tzeentch:** Treason of Tzeentch 
+
+Although she is able to pass as human in the dark or on busy streets, she tends to shun company, preferring to brood, perched upon Nuln’s tallest buildings, surveying her city and dreaming of revenge. She has a number of similar cloaks secreted around the city in obscure nooks so that she may fly from one area to another, and then resume her disguise. She has also developed a severe aversion to confined spaces and _never_ willingly ventures indoors. Conveniently, all of Nuln Branch’s meetings happen in dark alleyways, where she can swoop down, almost undetected against the night sky, give her orders, then retreat to the rooftops. 
+
+Other cultists hail from all walks of Nulner life. Their new secret cult sign is to show their middle finger, slightly bent like a bird’s claw, to prospective allies, then wait to be shown the same back. Feder holds the Nuln Branch together through tyranny and fear. 
+
+Several recalcitrant cultists have already been plucked from the streets by a giant swooping bird and devoured. This sort of encouragement is working for the moment, but they’ll break if Feder falls. 
+
+## **Revenge from Above**
+Feder spots the Characters while brooding of an evening upon a dramatic vantage point overlooking the docks. She summons her cultists and instructs them to keep an eye on the Characters, while waiting for a good moment to spring an ambush. She follows the Characters too, especially at night. Those with the **Sixth Sense** Talent believe that they are being watched from the shadows and from the sky. 
+
+Depending on how long the Characters are delayed, and how cautiously they behave, Feder has the opportunity to attempt a number of ambushes. The first one involves several Purple Hand Cultists. They’ll certainly try to attack at night, under an open sky so Feder can assist. They try to ambush the Characters using crossbows from out of the dark. There are twice as many cultists as there are Characters. If the Characters manage to take any alive, they immediately spill all they know of Feder, but they have no idea where she roosts or perches at any given time. 
+
+Once the Characters leave town, Feder — desperate for revenge — has no option but to follow alone. She shadows _The Carroburg_ up the River Aver and tries to pick off the Characters opportunistically. As _The Carroburg_ leaves Nuln, the Characters soon become aware of the giant bird circling high above them, following their every move. 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS  IX
+
+## **Nuln to Streissen**
+_The Carroburg_ enters the River Aver for the next leg of the journey. The river narrows appreciably, the traffic noticeably more modest, but the boat is nimble and small enough to cope with the new conditions. 
+
+It is harder to catch the wind in the more sheltered valley, so if good progress is to be made, the marines need to spend much longer at the oars, resulting in some low grumbling from the crew. Von Flamme is content to row her marines into the ground, if necessary, even beyond the Imperial Navy’s regulations. Grissen is reluctant for this and tries to reason with the Characters behind von Flamme’s back. If the Characters don’t discourage overworking the marines, they are less effective if called upon for assistance in the two following sections, and suffer from two _Fatigued_ Conditions. 
+
+## **Wolves Dressed as Goats Dressed as Lions**
+As the daylight wanes and the crew start to talk about tying up for the night, the boat rounds a bend in the river and the Characters see orange smoke rising from a settlement a few hundred yards upstream, on the Stirland bank of the Aver. This is the village of Heidheinheim. 
+
+Heidheinheim village is in the process of being raided by a devious band of Sudenland soldiers, who are posing as mercenaries posing as soldiers from Nuln. Several villagers have already been put to the sword and more will be killed if the Characters do not intervene. Refugees have fled into the nearby woods, while their village burns to the ground. As soon as _The Carroburg_ arrives, the raiders are massively outnumbered. 
+
+A few attempt to fight, equal to the number of Characters +3 or so, but others attempt to flee. Their leader, Fione Brecht, is one of the last to run, so stands a good chance of being captured. 
+
+The encounter is not truly intended to test the Characters’ fighting prowess, as they have a full complement of marines with them, but it may illustrate how the Empire’s political divisions can be exploited by its enemies. 
+
+## **The Threshers**
+The Toppenheimers of Sudenland hate Countess Emmanuelle and have long desired her downfall, especially since she openly favours the Pfiefrauchers — a fierce rival family of theirs — to take their place and their Runefang. The Toppenheimers have a group of soldiers, known as the Threshers, to occasionally carry out brutal or clandestine deeds on their behalf. 
+
+The Toppenheimers hired Fione Brecht — an infamously cunning mercenary captain — to lead the Threshers against Nuln with orders to _‘make life difficult for the countess’_ . Brecht has had the Threshers pose as soldiers from Nuln to attack innocent settlements along the Reik in both Stirland and Averland. Brecht intends for this to build resentment towards Nuln in both provinces and provoke retaliation against the city-state. Thus, the warband has donned the deep-black uniform of Nuln, with the gold lion picked out on a makeshift banner. 
+
+To further hide their true origins, Brecht has used the cunning ruse of having some of her soldiers wear the dress of fictitious independent mercenary regiment ‘The Goats’, who wear blue and white uniforms with a goat’s head emblem beneath their Nuln garb, whereas others wear the buff uniforms of the Sudenland army, their actual colours. When her troops asked why, she only answered with a sly smile and a wink. Brecht is confident so many layers of subterfuge will be utterly impenetrable, but it only requires an **Average (+20) Observation** Test for a witness to compare the two to see that the Sudenland uniforms are old and well made, whereas the Goat ones are neither. 
+
+Discovering this key piece of information — that Wissenland soldiers were attacking targets in Stirland and Averland dressed as Nuln troops — is _exceedingly_ useful later in the adventure, especially if the Characters have to negotiate with Countess von Liebwitz (page 168). 
+
+## **Stress in Streissen**
+## **Fione Brecht**
+Brecht is obsessed with playing her part in the convoluted chain of events that leads to the end of the world. She is obsessed with subterfuge and disinformation. All her communications are done in convoluted codes. Her orders to her warband are made with an impenetrable series of complex gestures and grunts. This actually serves to slow the communication and sow confusion in her own side. 
+
+Fione is also obsessed with the many rumours of conspiracy and intrigue that are gossiped around the Empire. She believes every one and also believes it is her duty to support them. As far as she is concerned, conspiracy is a means to its own end. The actual conspiracy is largely irrelevant. This makes the ‘cults within cults’ approach favored in Tzeentch worship ideal for her. If she is taken alive, she will only answer questions with obscure riddles and acrostics. Brecht has tried to cover her Purple Hand tattoo over with a convoluted bird tattoo, but a knowing Character can see the lines of the original at a glance. 
+
+**FIONE BRECHT**
+
+**HUMAN OFFICER(GOLD 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|67|64|35|54|47|33|47|70|55|61|18|
+
+**Traits:** Armour 3, Weapon (Sword) +7 
+
+**Skills:** Athletics 43, Charm 76, Climb 45, Consume Alcohol 74, Cool 75, Dodge 43, Endurance 59, Evaluate 85, Gamble 75, Gossip 71, Haggle 71, Heal 85, Intuition 67, Language (Battle) 80, Leadership 76, Lore (Warfare) 85, Melee (Basic 87, Polearm 82), Navigation 67, Outdoor Survival 75, Perception 62, Play (Fife) 57, Ranged (Bow) 74 
+
+**Talents:** Combat Aware, Commanding Presence, Doomed ( _Your nemesis shall strike from the river_ ), Etiquette (Soldiers), Iron Will, Marksman, Public Speaker, Read/Write, Unshakable, War Leader 
+
+**Trappings:** Nuln Uniform worn over a Sudenland Uniform, Mail Shirt, Helmet, Shield, Sword 
+
+The struggle for power in Averland has smouldered for generations with the House of Alptraum and the Leitdorfs exchanging the title of Elector Count several times. Even simply naming the incumbent can be dangerous, so many Averlanders find it expedient to simply refer to ‘the Elector’ and let their audience worry about who they mean. The Alptraums, under Lumilla’s tenacious leadership, rule at present, but over the last couple of years her power has steadily waned with her ageing body. The mercurial Marius Leitdorf is poised and ready to take advantage of this at the drop of a hat. Their differences are coming to a head over the city of Streissen even as the Characters approach along the Aver. 
+
+## **A New Uprising**
+The independent spirit of Streissen was never extinguished. Through whispered conversations in shady taverns and assignations at the university, independence for Streissen is still discussed. Needless to say, such clandestine scheming leaves scope for sacrilegious practices to flourish too. 
+
+Recent events in the Empire, the wars that are beginning to rage throughout the provinces, a new shortage of food, strange lights in the sky, destabilising rumours, simmering resentment against the Alptraums — all these create the ideal conditions for a new uprising. A small and little-known group, the Streissen Independence Party (SIP), under the competent leadership of Marcus Karlssen, seized control of the Rathaus in a brilliant, nearly bloodless coup, forcing the surprised and depleted garrison to leave the city. This galvanised the common citizen and merchant class who readily joined the cause. The SIP promptly set up an independent council assuming all rights and exemptions of the historical freistadt. 
+
+Ludmilla was forced to react. Too old and infirm to take to the field herself, she stayed in Averheim with her Runefang, and sent her daughter, Marlene, to put down the uprising. Little did she know, however, that she was sending her into a trap. Marlene Alptraum summoned what troops she could from Averheim and the nearby garrisons and marched on Streissen, anticipating a short siege against a disorganised civilian rabble. 
+
+Unknown to the Alptraums and the general populace of Streissen, the SIP was conceived by Marius Leitdorf. Marcus Karlssen is a captain in Leitdorf ’s personal bodyguard, and the bulk of the SIP are trusted members of Leitdorf ’s army. The uprising, ostensibly by desperate revolutionaries and ill-disciplined students, was actually a carefully planned military operation. Leitdorf has supported this by secretly manoeuvring his army to within half a day’s march of Streissen, and is poised to ambush Alptraum’s forces. It is at this point the Characters arrive. 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+## **Nice Night, Eh?**
+_The Carroburg_ approaches Streissen as Leitdorf ’s trap is about to be sprung. Leitdorf ’s army is camped half a day’s march downriver from Streissen. The opposing Alptraum army has just begun to dig in for its siege. Leitdorf plans to march his army towards Streissen first thing tomorrow and surprise the enemy. 
+
+Leitdorf has a number of support vessels on the Aver which travel alongside his army. This is mainly for supplies, but it also serves to prevent river vessels moving ahead of the army and potentially warning the Alptraums. These boats warn off any river traffic and attempt to head off anyone who tries to break through the blockade. 
+
+However, because the Characters are travelling in an Imperial Navy vessel, they present a sticky problem. Technically, Leitdorf has no authority to stop them. They are officially greeted by the commander of the flotilla, Johan Sperren, who politely insists they talk to his lord, Marius Leitdorf. 
+
+It’s technically possible to run the blockade, as _The Carroburg_ is a fast boat with a competent crew, but the odds are heavily against it. If the Characters haven’t earned the trust of both von Flamme and Grissen, one or the other would refuse to assist such a foolhardy endeavour. 
+
+If the Characters have the right skills and inspiration to spur on the crew, they might have a fighting chance, but, despite Grissen’s best efforts, _The Carroburg_ is eventually forced into a mudbank by a string of hefty cargo boats. At that point, they are asked to meet with Leitdorf at gunpoint. 
+
+## **Historical Grievances**
+Streissen, the second city of Averland, is at the sharp end of Averlander politics. It prides itself on being more forwardthinking than the staid provincial capital, Averheim. Streissen College is a small but influential university that also incorporates a prestigious medical school. It is a bastion of new philosophies, and conservatives shun it as a den of decadence. 
+
+In 2456 IC, agitation from progressive Streisseners, backed by wealthy wine magnates, earned the city a freistadt charter. This gave the city the right to rule itself and exemption from many Imperial and provincial taxes. In light of newfound freedoms, the people of Streissen grew confident and the university became famous for its revolutionary schools of thought. 
+
+Grand Countess Ludmilla von Alptraum saw this increase in confidence and the infamous university as a threat to her power. She perpetrated a relentless covert campaign dedicated to undermining Streissen’s prosperity. This came to a head around the turn of the century when a sudden pestilence led to severe food shortages. The famine was suspiciously limited to the area around Streissen — some locals put the crop failure down to Alptraum’s conniving. This may be untrue, but undoubtedly, the Countess was slow to come to the aid of the stricken freistadt. 
+
+In the desperation of the times, many factions vied for power in the city, some idealistic, some blasphemous. As starvation loomed, the official town council had little choice but to beg Ludmilla for relief. She did so only with the understanding that Streissen would relinquish all further claims to independence. 
+
+With the arrival of Ludmilla’s forces, however, things went disastrously wrong. Thinking they were merely bringing in welcome supplies, the Averland regiment was surprised to meet determined resistance from the more extreme factions. A bloody battle erupted and in the confusion hundreds of citizens were slaughtered. Throughout the Empire, ‘Streissen’ is now a byword for massacre. 
+
+## **Marius Leitdorf**
+Marius Leitdorf is very busy on the eve of a vital battle, but he makes time to meet with folks from the Imperial Navy.  He is more interested if he finds out the Characters are on a mission from the Emperor. In such a case, he seeks tacit approval from the Characters and takes time to justify himself. He plays on his loyalty to the Emperor, his role in the Emperor’s election — he spoke for Karl-Franz before anyone else had the courage to — and his record in the fight against many of the Empire’s enemies. 
+
+Leitdorf is a colourful and controversial character. He is widely known as ‘the Mad Count’ because of his unpredictable and idiosyncratic behaviour. His madness may be overstated, but he certainly has a bright mind and quick wit, and is easily distracted. He has any number of plans and strategies going through his mind and bounces between them without considering whether his audience can keep up. If he flits between the relative merits of the spear and the halberd to the relative merits of Grubentreich and Grevenfeld cheeses, and a quick rendition of the old bawdy song ‘Klaus’s Mouse Outside the House’, he has his reasons. Some of his behaviour on campaign seems irrational and impossible to justify, but he often displays a genius understanding of strategy and an unmatched bravery in the field. 
+
+His soldiers think his talent is inspired by Sigmar and his odd behaviour is simply beyond the ken of mortals. 
+
+The Characters are invited to join the Count for a meal within his enormous campaign tent. His favourite advisor is his horse, whom he introduces with a chuckle as Daisy Kurt von Hellboring the Second — a clear jab at the Emperor’s Reiksmarshal. She stands at his side throughout the meal, munching on hay from a large silver tray. 
+
+Leitdorf asks probing questions, trying to determine what the Characters are about without directly asking. He assumes the Character with the highest Status is the leader of the party and directs comments to them, unless he is told otherwise. If they say they’re off to look into Orc movements or meet with Border Princes, he’ll nod sagely and ask: _‘Daisy, what do you think of that? Off to hand out spankings, they are.’_ 
+
+If told they’re on a quest for Ghal Maraz. Marius will note dryly, _‘And I’m the one they call mad.’_ 
+
+Daisy takes a fancy to a Character’s hat, and begins to eat it. Marius takes it as a grave discourtesy if the Character protests. If they gamely let it happen, he hands them an excellent (and expensive) replacement at the end of the meal without comment. 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+Marius keeps looking at one of the Characters with an arch gaze. He eventually fixates on something about them — ideally something of which the Character is very proud — and begins to mock it relentlessly. He improvises insulting verses and likens the feature to the most awful thing he can imagine, going hilariously on and on until he is distracted by a successful **Charm** Test on the part of another Character, or by some other means. Once distracted, which is easily achieved, he completely forgets that he ever found anything amusing  about the Character. 
+
+However the Characters react to him, Leitdorf needs persuading to let them go on their way. He cannot risk his dispositions being betrayed to the enemy, and in any case, there would be no clear route for the Characters through Alptraum’s lines. Leitdorf mentions ‘ _a good way out of this predicament’_ and tells the Characters about the SIP — though he certainly doesn’t mention his connection to it. If the Characters suggest that they are willing to talk to the SIP or perhaps mediate with Marlene Alptraum, Marius is delighted, taking this as the Emperor’s agents favouring his interests. Even if they don’t offer to assist, he cheerfully allows them to continue on their way once Streissen is in his possession. 
+
+**MARIUS OF HOUSE LEITDORF**
+
+**NOBLE LORD(GOLD 7**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|64|58|52|44|69|57|55|55|51|47|23|
+
+## **Baroness Marlene Alptraum**
+Marlene Alptraum is a wiry, domineering presence with piercing, beady eyes. She tolerates the trappings of power, protocol, and politeness, but would rather tell it straight, and be told it the same way. She is keen to lead her army, but is a belligerent commander, always ready to charge in before thinking. She has no time for her mother’s patience and statecraft. She does not value scheming and subtlety, which may be her downfall. 
+
+**Traits:** Armour 4, Weapon (Sword) +9 
+
+**Skills:** Animal Care 65, Art (Engraving 70, Poetry 70), Athletics 72, Bribery 57, Charm 67, Consume Alcohol 64, Cool 71, Dodge 77, Drive 77, Endurance 64, Entertain (Storytelling 62, Insults 67), Evaluate 58, Gamble 65, Gossip 67, Haggle 62, Heal 60, Intimidate 72, Intuition 77, Language (Battle 75, Brigundian 70, Classical 65), Leadership 67, Lore (Arts 70, Averheim 75, Averland 75, Engineering 70, Empire 75, Heraldry 70, History 75, Warfare 70), Melee (Basic 84, Fencing 80, Parry 74), Navigation 75, Outdoor Survival 65, Perception 79, Perform (Dancing) 77, Play (Lute) 65, Ranged (Blackpowder 68, Bow 63), Ride (Horse) 70, Row 57, Trade (Engineer) 70 
+
+She has little interest in the Characters’ mission. They have an Imperial Navy vessel, so they are clearly working for the Emperor and it’s none of her business. The Characters will find her remarkably easy to deal with if they get on her good side, especially if they are straightforward with her. On the other hand, if they try to be clever or expect her to have a nuanced view of the world, then she can be stubborn just for the sake of it. She is totally stunned to learn that Leitdorf has a sizable force nearby. 
+
+**Talents:** Ambidextrous, Beat Blade, Blather, Carouser 2, Combat Reflexes 2, Commanding Presence 2, Craftsman (Engineer), Disarm 2, Distract 3, Doomed ( _First the worst, second the best, third will put you to the test_ ), Dual Wielder 3, Etiquette (Nobles) 2, Feint 3, Frenzy, Inspiring 2, Iron Will 2, Luck 2, Noble Blood, Public Speaking 2, Read/Write, Reversal 3, Riposte 2, Speedreader, Step Aside, Stout-hearted, Tenacious 2, Warleader, Wealthy 10 
+
+Marlene’s mother, Ludmilla, the Elector Countess, is old and in declining health despite her will of iron. She is a great schemer and subtle manipulator, which her daughter finds tedious and pointless. Anyone with any grasp of politics realises that the Alptraums’ grip on power will falter with Marlene in charge — because her view on the world is too black and white. With the Empire on the verge of ruin, someone with a nuanced view and skilled at diplomacy is far more likely to succeed than Marlene’s restricted style. 
+
+**Trappings:** County of Streissen, High-Quality Clothing, Full Plate Armour, Main Gauche, Sword 
+
+## **Marcus Karlssen, Sip Leader**
+Karlssen has taken the role of idealistic revolutionary and managed to throw off the Imperial yoke in Streissen, uniting all the disparate interests in that city. He and the Streissen Independence Party have achieved a meteoric rise in a few short weeks. But instead of a freedom fighter, he is actually a career soldier acting under Marius Leitdorf ’s orders. The reason the coup in Streissen seemed to go off with such military discipline was because it was led by a disciplined military mind. 
+
+It is difficult to imagine a less likely idealistic revolutionary than Marcus Karlssen. He is immaculately turned out, as if for the parade ground. His moustache is perfectly waxed. He stands to attention by instinct. He is apt to address anyone of status as ‘sir’ or ‘ma’am’ without thinking. He mostly surrounds himself with other elite soldiers of Leitdorf ’s retinue, all of whom give a similar impression of professionalism and utmost obedience. 
+
+If the Characters manage to meet him while he is holding out in Streissen against Alptraum’s army then he is resolute in its defence. He has difficulty explaining the ideological grounds on which he is fighting. He will, instead, interject with empty phrases such as _‘for the cause’_ and ‘ _up the revolution’_ . 
+
+## **Marcus Karlssen — Rabble Rouser (Brass 3)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|62|56|36|44|53|32|40|51|54|56|16|
+
+**Traits:** Armour 4, Weapon (Sword) +7 
+
+**Skills:** Athletics 52, Art (Writing) 55, Bribery 71, Charm 71, Climb 51, Consume Alcohol 59, Cool 82, Dodge 47, Endurance 59, Entertain (Storytelling) 66, Gamble 76, Gossip 71, Haggle 71, Heal 56, Intuition 63, Language (Battle) 61, Leadership 76, Lore (Politics 66, Warfare 71), Melee (Basic 90, Fencing 87), Navigation 63, Outdoor Survival 61, Perception 68, Play (Fife) 60, Ranged (Blackpowder) 76, Trade (Printing) 65 
+
+**Talents:** Argumentative, Blather, Combat Aware, Beat Blade, Combat Reflexes, Distract, Doomed ( _Wear th_ e _yellow and black, and you’ll face an attack_ ), Etiquette (Military), Fast Shot, Feint, Flee!, Step Aside 
+
+**Trappings:** Full Plate Armour, Sword, Pamphlets, Writing Kit 
+
+## **Mediation**
+The Characters may attempt to use their authority to orchestrate a meeting and try to mediate a truce. If he thinks they’ll go his way, Leitdorf may even suggest it. Marius agrees to mediation because he holds all the cards and it makes his goal easier to achieve. The SIP under Marcus Karlssen agrees for the same reason. Alptraum agrees because she is guileless and unsuspecting. All are prepared to allow the Characters, agents of the Empire, to neutrally dictate the future of Streissen. 
+
+Meeting in a tent in the middle of a pasture outside the city, only a handful of representatives of each side should attend, and none with a purely martial function. The Characters can get all parties to swear in the name of Sigmar and the Empire that their arbitration should be binding to all. Streissen’s high priest of Sigmar can attend to lend the event legitimacy. 
+
+When asked to state their case, Leitdorf ’s address is put with a poetic flourish, focusing on abstract principles and aspiration. He is a skilled, if sometimes sporadic, orator, occasionally going off tangent, but he has enough imagination, drive, and conviction to carry his speech. Though he might be known for being entertaining and distracted, he has incredible concentration and focus when it comes to things that matter to him. Anyone rooting for the triumph of ideas over pragmatism and the aspirations of the common folk over those of oppressive nobility would not fail to be moved, although an astute observer might find it incredible that Leitdorf could actually believe what he is saying, especially as he delivers it with such clear conviction. 
+
+Marlene Alptraum’s speech is blunt and practical. Although she speaks highly of her (much disliked) mother, it seems she is unable to blow her own trumpet. The crux of her argument is the simple notion that Streissen belonged to her mother before all this happened, and therefore should belong to her afterwards. 
+
+Marcus Karlssen’s address is ostensibly on behalf of the people of Streissen, but he is under orders to make sure no one is left in any doubt that the people wish to be ruled by Leitdorf. However, there is no nuance in the way the old soldier plays his role. There is no understanding of complexity or sign the populace might hold diverse opinions. For a freedom fighter to be so secure in his desire for one aristocratic ruler over another, this may come across as odd and even disingenuous. 
+
+The Characters are free to make up their own minds about how best Streissen should be ruled. Having committed to the arbitration, once it is decreed, no party has any reason to detain the Characters further. 
+
+## **Battle**
+Without the Characters’ intervention, a battle occurs and ends in a convincing victory for Marius Leitdorf. Leitdorf ’s forces surprise Alptraum’s and drive home their advantage. The besieging forces are caught unprepared. Troops in the rear manage to manoeuvre to face Leitdorf ’s charge, but they in turn are outflanked by the militia that Marcus Karlssen has managed to raise, emerging from the city gates. Alptraum’s forces are scattered and flee back to Averheim. 
+
+If the Characters intervene on either side, then you should consider what intelligence and expertise they might bring to the field and decide on other outcomes accordingly. If they do save the day for Marlene, the Alptraums are grateful while Leitdorf swears vengeance eternal upon them for their meddling. 
+
+## **Averheim**
+As _The Carroburg_ passes around a wide curve in the river, Averheim appears. Resting on a bluff above the Aver, the city has a commanding view of the rolling, fertile fields of Averland. The great towers of the Averburg, citadel of Averheim and fortress of Elector Counts since the days of Siggurd, Companion of Sigmar, rise high above the city. 
+
+Once they reach Averheim, the plan, as far as von Flamme is concerned, is to dock and let the Characters continue along the Old Dwarf Road. She is prepared to wait for their return for a month, before returning back to Altdorf to report them missing. There could be any number of reasons why the Characters might decide against this, and von Flamme is open to reasonable alternatives. 
+
+If the Characters decide to spend any time in Averheim, they may be confronted, depending on their behaviour in Streissen. If they helped attack Marlene, word soon spreads and catches up with them, and they are forcibly accosted by Averland soldiers. Their status as agents of the Emperor barely keeps them alive, but they’ll be turned out of the city and _The Carroburg_ will not be allowed to stay. If they helped mediate, but turned Streissen over to Leitdorf, an agent of the Alptraums, with heavily armed bodyguards, bluntly tells them they are not welcome in Averheim, to make their purchases and leave by nightfall. Once again, _The Carroburg_ is not allowed to stay at dock and the Characters must work out something with von Flamme. 
+
+## **Grenzstadt**
+The distance to Grenzstadt from Averheim is around 190 miles. It takes approximately seven days via foot, or four days via horse, if they can arrange for such. Grenzstadt is the last major settlement before the Old Dwarf Road starts to rise steadily up into the mountains and Black Fire Pass. 
+
+It is famous as the last place Sigmar stayed before he left the Empire and one of the major pilgrimage sites for the Cult of Sigmar. The temple has become large and wealthy due to the constant traffic. 
+
+## **It’s a Circus**
+If the Characters have been indiscreet about their journey and have revealed something of their mission to any but the closest of allies, then word has reached Grenzstadt through the endless flux of pilgrims. If they revealed the details of their quest on their journey, or shared it with _The Carroburg_ ’s crew, then a number of Grenzstadt citizens are already aware of exactly what their mission is. If the Characters have been circumspect throughout, they can be rewarded with a quiet passage through the city. 
+
+If they’ve played up their importance at any point, or been boastful, turn this up to ludicrous proportions. The whole town turns out to see their arrival. People line the streets, cheering and waving makeshift flags as the Characters process towards the main square. Townsfolk clamour and start fistfights over the right for just a touch of the Characters’ robes as they pass. 
+
+They have babies thrust at them to bless and kiss. Small children waving gold-painted wooden toy Ghal Marazes run riot. At the town square Capitular Almeric Zischler, Grenzstadt’s high priest, awaits them with a coterie of civic dignitaries to welcome them officially and bestow upon them the freedom of the city. 
+
+The high priest of Sigmar invites the Characters to a civic reception where they are forcibly wined and dined and praised for their efforts. And they no doubt have come to the attention of the Eternal Watch (see below). 
+
+Remember the people of Grenzstadt do not necessarily need to know all the details of the Characters’ mission, they simply need to know it is official, important, and following in the ancient footsteps of Sigmar. 
+
+## **The Eternal Watch**
+The Eternal Watch is an organisation within the Cult of Sigmar in Grenzstadt. It is dedicated to keeping a vigil for Sigmar’s return. Its home is a tall tower in the centre of Grenzstadt, the tallest building in the city by far: part temple, part look-out tower, part campanile, with commanding views of the Worlds Edge Mountains and the entrance to Black Fire Pass. It is constantly staffed by cultists keeping their eternal watch for the prophesied return of Sigmar. 
+
+The cult is well known and takes an open role in wider Grenzstadt society. However, there is a secret cult within the Eternal Watch that calls itself the ‘Night Vigil’, which has beliefs seemingly at odds with those of the wider Eternal Watch. While the Eternal Watch believes that Sigmar will return one day through Black Fire Pass to save the Empire, the Night Vigil is concerned with facilitating this actively and murderously. 
+
+## **The Night Vigil**
+Ancient prophecies tell that Sigmar will return with his great army through Black Fire Pass with all their weapons and armour and other accoutrements intact. The Night Vigil, logically perhaps, surmise that Sigmar can never return if these objects are not available to him. 
+
+Therefore, the Night Vigil is dedicated to hunting down treasure hunters and tomb robbers and returning their ill-gotten gains to the Worlds Edge Mountains. If they get any inkling that the Characters are on their way to the mountains to look for ancient treasure, then they do their best to thwart this. 
+
+The Night Vigil is set up to follow and kill tomb robbers on their way through the mountains, or to intercept them on their return and kill them as they try to sell their discoveries to academics and collectors. Many tomb robbers have disappeared while exploring the mountains — this is put down to Greenskins and other hazards. Many dealers are killed in Grenzstadt and other trading posts along the Old Dwarf Road —this is put down to the internecine conflicts between those sordid traders. In truth, this is often the work of the Night Vigil. 
+
+As well as relying on murder, the Night Vigil is an organisation that values information and research. They are more expert on the treasures, mausoleums, and lost holds of the Worlds Edge Mountains than any academic or antiquarian in Altdorf or Nuln. Because of Sigmar’s alliance with the Dwarfs and their contingent in his army, the Night Vigil is just as concerned with protecting the treasures of the lost Dwarf holds. They have a number of members among the Dwarf communities in Grenzstadt and in the mountains. These Dwarfs are especially dedicated to stopping tomb robbing and treasure hunting in the lost Dwarf holds. 
+
+## **Rauf Wasserburg**
+Wasserburg is a priest of Sigmar attached to the temple of Grenzstadt. He is a member of the Eternal Watch, and a fanatical member of the Night Vigil. He has already killed a number of tomb robbers passing through Grenzstadt. He affects the manner of a gentle academic, careful not to reveal his athleticism or ruthless demeanour. His hunched shoulders, thin face, lank, thinning hair, and spectacles (which are plain glass), his awkward gait, scholarship, and verbosity, all point to a man who has no time for physical activity. In fact, he is the Night Vigil’s best agent, a competent killer, and resourceful spy who hides his muscular frame under voluminous robes. 
+
+EMPIRE IN RUINS — ALTDORF TO BL ACK FIRE PASS 
+
+If the Characters interact with the high priest of Sigmar in Grenzstadt, Wasserburg is foisted upon them. The high priest will be acting in good faith, but Night Vigil cultists have manoeuvred to get Wasserburg recommended as a renowned expert. He is exactly the sort of academic who could help the Characters with the next part of their journey. It will be difficult for them to refuse Wasserburg’s help without insulting the entire city. 
+
+Wasserburg tries to make himself as useful as possible to the Characters while he swiftly attempts to assess exactly what they are about. If he ever susses out that they intend to find and retrieve Ghal Maraz, he is utterly stunned and decides immediately that they all must die. He’ll send word to his Night Vigil allies in the mountains and try to remove at least one Character through an accidental rockfall, if at all possible. He tries to attach himself to the party, arguing that he can best help them if he accompanies them. 
+
+Night Vigil cultists use the same profile as Purple Hand Cultists. If they can get away with kicking rocks down on to the party, they try to do that as many times as they can get away with it. If they are spotted, they resort to using their crossbows. There are four cultists as well as Wasserburg. 
+
+## **On to Black Fire Pass**
+**RAUF WASSERBURG**
+
+**HUMAN ASSASSIN (GOLD 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 58 | 53 | 53 | 59 | 64 | 52 | 32 | 50 | 58 | 53 | 25 |
+
+Leaving Grenzstadt on the Old Dwarf Road, the Characters find the route rising steadily as it approaches the mountains. Gradually the vineyards and pasture make way for scrub and heath. Sometimes the road itself is the only sign of civilisation. Sometimes the road disappears, giving way to muddy ruts and scattered cairns. The wind picks up, blowing through the pass, and down the valley into the Characters’ faces, a warning that they are leaving the Empire, and approaching unknown dangers. 
+
+**Traits:** Ranged (Heavy Crossbow) +9 (100), Weapon (Maul) +9 
+
+**Skills:** Athletics 72, Bribery 63, Charm 63, Cool 78, Dodge 72, Endurance 79, Entertain (Act 73, Storytelling 63, Taunt 68), Gamble 60, Gossip 68, Haggle 68, Heal 60, Intimidate 73, Intuition 84, Leadership 73, Lore (Averland 65, Theology 70), Melee (Basic) 78, Perception 84, Pray 73, Ranged (Crossbow) 70, Research 60, Sleight of Hand 52 
+
+## **Experience Awards**
+Good roleplaying and clever thinking should be rewarded, but there are additional XP for the following: 
+
+- 40 points for mediating between the armies at Streissen 
+
+**Talents:** Blather, Bless (Sigmar), Carouser, Combat Reflexes, Disarm, Doomed ( _So here every evil rogue accumulates, reaving god, eventually treasure rustlers undo_ ), Furious Assault, Gregarious, Hardy, Holy Visions, Invoke (Sigmar), Lightning Reflexes, Read/ Write, Shadow, Sixth Sense, Strike to Stun 
+
+- 25 points for helping the villagers on the raft 
+
+- 25 points for bringing Baron Klaus von Bachmann to justice 
+
+- 20 points for fighting or escaping the Purple Hand in Nuln 
+
+**Trappings:** Heavy Crossbow with 12 Bolts, Maul, Robes, Amulet of a Golden Hammer (worth 3 GC) **Blessings:** Battle, Courage, Might, Tenacity **Miracles:** Heed Not the Witch, Sigmar’s Fiery Hammer, Soulfire, Twin-Tailed Comet 
+
+- 20 points for figuring out that the Threshers are Sudenlanders dressed as Nulners 
+
+- 20 points for fighting or avoiding the Night Vigil 
+
+- 9 points for not giving much away to Hans Knees

@@ -1,0 +1,353 @@
+# Chapter 5 - The March of Unity
+
+*Pages PDF 75-83*
+
+## Chapter 5 the March of Unity
+## **A Spy on the Road**
+The journey from Castle Reikguard back to Altdorf is straightforward, and relatively quick on horseback. The Characters ought to be at least a day ahead of the Crown Prince unless they used up all their spare time at Castle Reikguard. 
+
+There is a sense of peace throughout the Reikland. News of the upcoming wedding is spreading throughout the province and provides common folk with a great sense of relief. On their journey, if the Characters mention they are on their way to the capital, people might ask if they are attending the wedding and, if so, can they pass on good wishes. Only the most maladjusted of churls would opine that the Princess is too low born and Ulrican to be marrying the Crown Prince. 
+
+During the journey the Characters should have several opportunities to spot that they are being followed at a distance by a Halfling on a pony. This is Hugo Bottomdown, a rather incompetent spy in the employment of Etelka Toppenheimer of Sudenland. She has ordered Hugo to keep an eye on Castle Reikguard, and he is fixated on the Characters. 
+
+If Hugo notices that he has been spotted, he guides his horse into the undergrowth by the side of the road to escape notice. However, once he thinks the coast is clear, he will ride hard to catch up with the Characters and continue to shadow them. 
+
+The Handout reads: 
+
+## If Hugo Is Cornered, He Becomes Indignant.
+## _A New Dawn for Solland_
+_‘Very well, I may have been keeping tabs on you. I act in the interests of a noble elector of our great Empire, and you must let me work unhindered! Now, I will be kind enough to assume that you are not up to anything untoward. You go your way, and I shall go mine.’_ 
+
+_Actions required as vital priorities in the service of her majesty:_ 
+
+_1. Acquire horse, camping gear,  trail rations, spare uniforms._ 
+
+_2. At Pfiefdorf ask for Fione the Thresher. Give her the uniforms and pay her. The word is Heideinheim._ 
+
+If the Characters let Hugo go, he resumes following them after an hour. If he is threatened, he proves surprisingly dedicated to his role, fights with fierce bravery, and even carries a small vial of poison with which to end his own life if he is captured. He never reveals which elector hired him. 
+
+_3. Travel to the Reikland. Confirm the marriage between the Todbringers and the House of the Third Wilhelm. Record any persons of interest._ 
+
+_4. Report back before the solstice._ 
+
+Hugo carries a note from his employer on him, which he may either drop, if the Characters do not search him; or have upon his person if they do. Whilst the handout may provide some clues that Hugo was commissioned by someone in Sudenland (Pfeildorf is the capital, and Solland an older and grander province that Toppenheimer hopes to emulate) the true import of this information becomes apparent later. 
+
+## **The Return to Altdorf**
+The Characters may be shocked to see so many soldiers camped outside Altdorf. At first they might even think the city may be under siege. Fortunately, it becomes clear that these troops are gathered to partake in a great parade to mark the wedding. 
+
+The Characters can make their way to Helstein Manor in Mauerblumchen ( **Altdorf** , page 63). For political reasons the Todbringers do not keep their own estate in Altdorf, but stay at the lavish townhouse of their loyal subjects, the noble Helsteins of Middenheim. Ar-Ulric, Veiran Thugenheim, and the Todbringers are all here. 
+
+Baron Heinrich debriefs the Characters, as the other members of the household are busy with the wedding preparations. He reviews their questions to the Crown Prince and gently cajoles them if they forgot to ask an obvious question. 
+
+Wilhelmina Novak (of the Withering Eye), Wulfrum Ahlquist (of the Public Eye), and Gislind Ursin (of the Hollow Eye) are all in Altdorf at this time, preparing lessons for the Crown Prince at the University of Altdorf. Should the Characters wish to track them down they can do so. The three tutors dress in the same grey robes as their comrades at the castle. 
+
+Though formidable, the tutors are socially awkward. They are more comfortable behind a podium than mixing with other academics, or holding forth in front of awed (or bored) students. 
+
+If the Characters want to do away with them quietly, this is not hard. But the trio never reveal anything about their background or motives — no matter how carefully they are questioned. 
+
+## **The Parade**
+The impending nuptials deserve a public display of celebration and what better way to signal a great alliance than a military parade to showcase the might of the Empire united? Such an occasion demands an audience of the most exalted individuals in Sigmar’s Realm, those who wield such power that nations could crumble before their armies. 
+
+No less than three Elector Counts (Reikland, Middenheim, and Nuln) and two Cult Electors (Sigmar and Ulric) attend this great event. 
+
+The Characters are also invited. Katarina and Heinrich Todbringer secured them an invitation, knowing they are useful observers, and able to handle any difficult situations which might arise. This is a great display of shared military might with countless standards, drums, and blaring horns marching across the artillery fields outside the city walls. 
+
+The sun is shining and there is just enough wind to keep banners flying. In the midst of all this pomp and ceremony, there are notable absences — the wizards have declined to participate, there are no mercenaries, and the Emperor knows better than to insist Elves or Dwarfs join such a display. 
+
+The parade starts at 2:00 p.m and continues until 7:30 p.m. 
+
+## **The Pavilion**
+The Royal spectators watch the parade from a newly raised pavilion. The arms of the Reikland, Middenheim, and Nuln fly from the tent, to reflect the presence of three Elector Counts. There is a large crowd of Altdorfers kept safely away from the pavilion, corralled behind a wooden barrier. The guests sit around three sides of a long table with a fine view of the parade ground, but events in the tent are more diverting than the display. Most make a cursory effort to watch the proceedings, but often move seats and stand to talk in small groups. Servants continually refresh the table with a supply of victuals and wines. 
+
+## **Mixing in the Highest Society**
+The party knows the Middenheim court and the Graf, so they are used to socialising with the nobility. But never before have they been part of a small gathering which apparently includes the Emperor, another Elector Count, and many powerful courtiers. The party has the opportunity to observe these exalted individuals and, if they are tactful and follow the correct protocol, perhaps even talk with them. 
+
+The Characters cannot approach the Emperor’s double directly. If any Character wants to speak with him, they need a high-ranking go-between (such as the Graf, Holzkrug, or Emmanuelle) to vouch for them. Alternatively, von Fielbach (who is playing ‘Emperor’) may request their company for a moment. He largely avoids socialising to avoid close scrutiny. Countess Emmanuelle is more accessible. She is curious about the current dispositions of Middenheim and Reikland, so she may speak directly to the Characters — if she thinks they know something or seem amusing. Should they wish to approach the countess, her high steward permits them. 
+
+## **Didn’t We Meet at the Opera?**
+If the Party has played ‘ **A Night at the Opera** ’ ( **Rough Nights and Hard Days** , page 36), they may have met the countess. If they made a good impression, she greets them with condescending approval. Otherwise, she’ll pretend to have forgotten them in their entirety. 
+
+They see a different side to the countess here. Despite her reputation, she is an adept politician, who makes astute observations about the situation. She uses her observations to her advantage. 
+
+The other notables can be approached directly — the Characters wouldn’t be here if they were people of no consequence. The PCs do need a good opening to address such important people in conversation. Needless to say, the Characters are expected to dress in their finest. Anyone in the tent with a military standing wears dress uniform, but not armour. Countess Emmanuelle has an especially fine tunic that is somehow both formal _and_ the height of fashion. 
+
+EMPIRE IN RUINS — THE MARCH OF UNIT Y 
+
+## **Whose Side Are You on?**
+The Characters’ behaviour here influences their reputation as supporters of the Sigmarite or Ulrican faction. If they lend vocal support to one party over the other, they change their allegiance score. 
+
+Remember: this is about reputation, not reality. During the event, keep track of each time the Characters act in favour of moderate or partisan Sigmarites and Ulricans. At the end, take a view of where they ended up and change their score by somewhere between –2 and +2 accordingly. 
+
+## **The Emperor’s Party**
+The ‘Emperor’ (von Fielbach) — is here to present the Middenheimers a healthy, vigourous ‘Karl Franz’. He remains quiet and distant from the proceedings to avoid close scrutiny, aided by two High Helm knights, a cadre within the Reiksguard. **Moderate Sigmarite** . 
+
+Grand Theogonist Yorri XV — accompanied by two Knights Griffon, the Grand Theogonist is dressed in full priestly regalia. He is keen to smooth the discord with the Ulricans. After all, the marriage should place them tactfully under the wing of the Reikland. This occasion should placate the Middenheimers. **Moderate Sigmarite** . 
+
+High Capitular Volkmar — a less compromising priest than Yorri, Volkmar is not here to show weakness to the Cult of Ulric, or make any concessions. He doesn’t do small talk. **Partisan Sigmarite** . 
+
+Graf Liepmund Holzkrug — the High Lord Ambassador puts on the charm, particularly for Countess Emmanuelle, Graf Boris, and Ambassador Yabo Chao. He scrutinises the important guests for weaknesses which he, or his spies, might exploit in future. **Moderate Sigmarite** . 
+
+Yann Zuntermein — the head of the Altdorf Ordo Terriblis is here with Holzkrug as a member of the Black Chamber’s Inner Circle. He observes and sows discord between the various parties in attendance. **Moderate Sigmarite in appearance** . 
+
+Grey Guardian Immanuel-Ferrand Holswig-Schliestein — the High Chancellor proposed this parade to demonstrate Reikland’s military might. He argues in favour of centralising the Empire, stopping short of anything which causes obvious offence. **Partisan Sigmarite** . 
+
+## **The Middenheim Delegation**
+Graf Boris Todbringer — the Graf is not happy to give away his daughter, but he’s persuaded that peace in the Empire should take precedence. He maintains a polite distance from the Emperor’s party and broods on the price he is paying. **Moderate Ulrican.** 
+
+Veiran Thugenheim — the preceptor of the Knights Panther is in good spirits and, at first, thoroughly enjoys the parade. As he realises the power of the Reikland forces, he becomes perturbed and makes sarcastic comments about the Altdorf regiments. **Moderate Ulrican.** 
+
+Ar-Ulric Valgeir — the High Priest does not like Altdorf and is unimpressed by _‘preening southerners marching about in fancy frills’_ . He sticks with the Ulricans but keeps his opinions largely to himself, bar the occasional growl. **Partisan Ulrican** 
+
+Katarina Todbringer — the ‘Princess’ is resigned to her situation. This is a dull occasion to be endured, but she’s curious to know what agendas are at play in the pavilion. She asks the characters to make enquiries if they hold back. **Moderate Ulrican.** 
+
+Hildegarde Zimperlich — the chaperone knows her place and will go with the Graf ’s wishes, even though she wholeheartedly disapproves of her ward marrying a Reiklander. This doesn’t stop her making critical comments about everything in sight. **Moderate Ulrican.** 
+
+Lord Malthe Barthelm — a young Nordlander whose father, Harman Barthelm, is a commander in the Nordland State Army. Malthe is out of his depth, but quietly plays his role as loyal vassal of the Graf. He’s secretly a Nordland separatist and plans to assassinate Katarina at the wedding tomorrow. **Moderate Ulrican in appearance, Partisan Sigmarite in reality.** 
+
+## **Others**
+Countess Emmanuelle von Liebwitz — a sharp-witted political player. Emmanuelle is here to advance her aim to take over Sudenland. She is accompanied by High Steward Hildemar Kalb and Moritz Arbogast, a Knight of the Blazing Sun. Moritz was chosen deliberately as he is neither a Sigmarite nor an Ulrican. **Moderate Sigmarite** . 
+
+Colonel Sievers — the frontier commander is in Altdorf trying to raise an army to attack the Orcs massing in the Badlands. He is uncomfortable in this refined setting and has no luck persuading Karl-Franz of the threat. **Moderate Sigmarite** . 
+
+There are several dozen guards, servants, and officious factotums busying themselves with security and catering to the whims of the guests. 
+
+## **Plots at the Parade**
+During the parade, several parties are working to their own agenda. 
+
+## **Plot 1 — the Double**
+The Emperor’s double is here to give the impression Karl-Franz is in sound mind and body, ready for the joyous alliance of two of the Empire’s greatest families. Unfortunately for him, this is the first time he’s been faced with Emmanuelle and Boris, who may see through the sham and take offence. The Characters could discover this isn’t the real Emperor — and perhaps wonder why Karl-Franz is absent. 
+
+## **Plot 2 — Fuel to the Fire**
+Zuntermein sees the parade as the perfect opportunity to stir the pot and advance the likelihood of civil war. He is subtle, but works carefully to stoke hostility between factions. The Characters could sense that Zuntermein is manipulating the situation and suspect his motives. 
+
+## **Plot Ust Need an Army 3 — I J**
+Colonel Sievers was invited to the parade as a trusted subordinate to the Emperor. He hopes to use this opportunity to persuade Karl-Franz to take swift action against the Orcs in the Badlands. 
+
+But the Colonel is a fish out of water, more comfortable stalking Greenskins in the mountains than negotiating politics in the capital. The Characters become acquainted with Sievers and possibly help him talk with the ‘Emperor’. 
+
+## **Plot 4 — Political Leverage**
+Countess Emmanuelle von Liebewitz seeks political advantage and to negotiate support for her claim to Sudenland. She wishes to talk with Immanuel-Ferrand Holswig-Schliestein, assuming his support for the annexation of Ubersreik makes him a likely ally. She plans to use the false Emperor as leverage. The Characters could help Emmanuelle and gain her gratitude or just learn more about the situation in the south. 
+
+## **Plot 5 — Porcine Pranks**
+This gathering of the exalted ruling classes is a perfect opportunity for a priestess of Ranald to cause mischief. Petra Schneller has painted three large sows in the colours of Altdorf (blue and red), Middenheim (blue and white), and Nuln (black with a crude yellow lion). She’s given them  ale and a dose of Ranald’s Delight. The plan is to unleash them in the pavilion at an opportune moment. The Characters can deal with the mayhem and impress everyone with their hog-handling prowess. 
+
+EMPIRE IN RUINS — THE MARCH OF UNIT Y 
+
+## The Marching Formations
+Although much of the military parade is a backdrop to the intrigue and events in the pavilion, it’s important the Characters know what’s happening on the field. Whilst this is ostensibly a display of combined Reikland and Middenheim forces, the latter had few regiments in marching distance of the city when the order was despatched — and they are sorely (and intentionally) under-represented. Each regiment carries its banner and all salute the pavilion as they pass. 
+
+Time Event
+2:00–2:20p.m. The High Command  - Reiksmarshall Kurt Helborg  leads the parade, holding aloft his Runefang at the
+head of the command section. Accompanying him are mounted standard bearers carrying the colours of
+the Emperor, the Reikland, Middenheim, Graf Todbringer, Altdorf, Countess von Liebwitz, and Nuln, in
+that order. Several heralds blow fanfare trumpets and march proudly alongside.
+2:20–2:40p.m. Knightly Orders and Pistolkorps  -  The  Reiksguard  lead, with the Inner Circle to the fore, followed by
+preceptors and several ‘banners’ of knights, their steel armour glinting brightly in the sun. A regiment of
+Knights Panther  follow, including many from the Middenheim chapter. The  Knights of the Blazing Sun
+have sent sufficient knights to serve their duty to the Emperor and no more.
+Three regiments of  pistoliers  follow, drawn from Nuln, Middenheim, and the Reikland. Several
+g the Middenheim horses, but the riders bring them under control.
+Reiklanders fire into the air, startlin
+2:40–3:30 p.m. Regiments of Foot  -  The  Carroburg Greatswords  lead the infantry, carrying their zweihanders over their
+shoulders. They fly their own banner and the ‘wedding gift’ from Middenheim (assuming the Characters
+gave it to the Crown Prince).
+Teutogen Guard  — Ar-Ulric’s personal bodyguards glower at the crowd as they pass. They salute with the
+Ulrican sign of the wolf.
+Nuln Greatswords  — The Countess’ personal honour guards accompanied her to Altdorf. She winks at
+them as they pass.
+Imperial Palace Guard , foot knights of the Reiksguard, including a band of High Helms.
+3:30–4:10p.m. State Regiments  -  A full battalion of  Altdorf Halberds  from Hammerpfad’s barracks, led by the famous
+Company of Honour  with Captain Otto Helstein leading. Several companies of  Reikland Halberds
+follow. Keen observers see notable absences, thanks to the force occupying Ubersreik. Middenheim is
+represented only by the  Swords of Ulric , who march with heads held high and no attempt to keep a
+tight formation.
+4:10–5:00p.m. Artillery  -  A loud clanking heralds the arrival of the  Steam Tank Conqueror  with an Imperial engineer
+standing in the hatch. The crowd cheers with enthusiasm. A battery of  Great Cannon  follow, pulled on
+limbers by strong dray horses and accompanied by their crews.
+A motley collection of  Helblaster Volley Guns ,  Helstorm Rocket Batteries , and several other
+experimental weapons — A small company of Imperial engineers accompany them, looking almost as
+eccentric as their inventions. Another  Steam Tank  follows,  The Indomitable . It has problems with its
+steering and causes a serious incident (see  4:40 p.m.  on “4:40 p.m.” on page <?>).
+A regiment of Imperial  Outriders  trot after the mayhem caused by the Steam Tank. Another battery
+of  Great Cannon  follow and halt for their well-drilled crews to swiftly unlimber the guns ready for the
+artillery demonstration.
+5:00–5:45p.m. Artillery demonstration  -  y bird within 2 miles.
+The first shot scatters ever
+5:45–6:15p.m. Regiments of Foot  -  Several companies of  Handgunners  from Altdorf and the Reikland. Their guns are
+polished to an impressive shine.
+They are followed by regiments of  Crossbowmen , with just one Middenheim contingent amongst the
+sea of Altdorf and Reikland livery.
+Altdorf Spears  march past, a little less disciplined than their fellow soldiers. Some wave to relatives and
+friends in the crowd.
+The Fighting Cocks  are a company of Halflings attached to the Altdorf garrison. They were especially
+keen to join the p y waddle along in loose formation, beaming with pride.
+arade. The
+6:15–6:30p.m. Respite  -  A brief pause in proceedings while stewards lay out the ‘battleground’ for the mock battle.
+6:30–7:00p.m. Mock battle  -  A staged event with Altdorf and Middenheim swordsmen sparring in mock combat as a
+ghting prowess. It starts out rather tame, but later escalates.
+demonstration of fi
+7:00–7:20p.m. Closing Parade  -  The  Knights Griffon  are led by Grandmaster Bacham, who has taken umbrage at their
+place in the parade. The parade ends with another company of  Reiksguard , the last of which carries the
+Emperor’s colours once again.
+
+## **Events**
+As the following incidents unfold in the pavilion, the Players need to choose what to do — they can strike up conversations, involve themselves in what happens, or eavesdrop. Many of the conversations are happening simultaneously, so their decisions determine what they learn and who they impress. 
+
+## **1:45 P.m.**
+The Middenheim party arrives along with the Characters. The Emperor’s party is already in the pavilion with ‘Karl-Franz’ on a throne-like chair in the centre, overlooking the artillery ground. There are formal greetings between Graf Boris and ‘Karl-Franz’ before anyone takes a seat. 
+
+Colonel Sievers salutes the Emperor and attempts to approach, but one of the High Helms politely tells him later would be preferable. An observer can take an **Opposed Test — Intuition vs von Fielbach’s Cool** to notice ‘Karl-Franz’ did not recognise the colonel. Thugenheim explains Sievers’ identity to Katarina, adding that he has an impressive reputation but it’s unusual to see him in the city rather than campaigning in the mountains. 
+
+## **2:00 P.m.**
+Just as the parade begins, Countess Emmanuelle sweeps in and gives ‘Karl-Franz’ and Boris an elegant wave. She speaks loudly for all to hear, ‘ _What a gathering. It rather reminds me of the event your father arranged for your 16th birthday, Your Majesty.’_ The ‘Emperor’ smiles and nods. 
+
+The parade begins accompanied by a cadence of clapping from the crowd. Thugenheim is enthusiastic. Most of the group watch attentively, but Holzkrug, Immanuel-Ferrand, and Zuntermein talk amongst themselves. Katarina offers to introduce the Characters to anyone other than the Emperor, Yorri, or Volkmar. 
+
+## **2:15 P.m.**
+A servant passes around the room with goblets of wine. Emmanuelle and Holzkrug are deep in conversation, but as they sip the wine, the high ambassador splutters: _‘What is this? Reik water?’_ The countess laughs, tastes hers, and pulls a face: ‘ _Ugh. Someone should have a word with Ermine.’_ She points at a sourfaced woman — Ermine Liebwitz von Decker und Hanulf, a distant relation of Emmanuelle and steward of the Imperial Wine Cellars. The Characters could take this cue and persuade Ermine to bring a better vintage with an **Average (+20) Bribery** Test or a threat to her position. They shall meet her again in Chapter 7. 
+
+Zuntermein asks Volkmar and Ar-Ulric to enlighten him on how their cults fare against worshippers of the Ruinous Powers. The two priests give pious and pointed responses intended to make the other look lax. If they are close, Zuntermein addresses the Characters, _‘I believe you have exposed some followers of the Ruinous Powers in Middenheim — am I correct?’_ Their response affects their standing with the Sigmarite or Ulrican factions, depending on whether Middenheim comes out of their account badly. Zuntermein is also keen to discover what they know of the Purple Hand, and asks more questions than anyone else. 
+
+## **2:30 P.m.**
+Colonel Sievers corners a functionary and begins relaying a detailed anecdote about tracking and fighting Orcs in the Black Mountains. He asks a Character to ‘play the Orc’ and demonstrates how to eviscerate an Orc. The volunteer makes a **Challenging (+0)** Test using **Entertain (Acting)** or **Melee** to determine how convincing they are — this may impress Sievers. He continues to talk about the best ways to defeat Greenskins (‘ _Get ’em fighting each other — they can’t help themselves’_ ) and explains why he wants to speak with the Emperor: _‘Do you know him? I thought I did, but he’s very distant these days.’_ 
+
+EMPIRE IN RUINS — THE MARCH OF UNIT Y 
+
+## **2:40 P.m.**
+There are some reactions when the Carroburg Greatswords march past with the banner given to the Crown Prince by Middenheim. Thugenheim smiles with a mischievous twinkle in his eye. Volkmar and Yorri glower at Graf Boris. Lord Barthelm comments: _‘Isn’t that the banner Middenheim won at Carroburg? How did they get it back?’_ The Characters may choose to explain. 
+
+Servants bring a covered platter to the table and reveal an Altdorf delicacy favoured by the wealthy — Reik elvers stewed in pear brandy. Etiquette dictates how they should be eaten. One must offer thanks to Manann, then slurp the baby eels without chewing, biting, or gagging as they slip down the throat. Characters know this on a successful **Hard (–20) Charm** Test (+40 if they have **Etiquette (Nobles)** ) — and may otherwise embarrass themselves. 
+
+## **2:50 P.m.**
+If they pass a **Challenging (+0) Intuition** Test, the Characters notice a servant behaving oddly by the rear tent wall. She keeps checking through a gap in the canvas. This is Petra Schneller, priestess of Ranald, disguised as a serving maid. If challenged, she explains she’s waiting for the pork to arrive. 
+
+Katarina speaks in hushed tones with Zimperlich. If the Characters eavesdrop: 
+
+**Zimperlich:** _These people, dear, they’re typical decadent southerners. And that one (pointing at Yabo Chao) — she’s a foreign agent!_ 
+
+**Katarina** : _Hildegarde, please. Not here._ 
+
+**Zimperlich** : _Of course, your Highness. But that Nulner — please, I implore you, have no dealings with her. She’ll corrupt an innocent like you._ 
+
+Thugenheim asks Immanuel-Ferrand what tactics they employed at Ubersreik, not intending to cause offence. The Grey Guardian bristles. _‘They were about to declare war. We had no option. And how goes it with Nordland?_ ’ It’s Thugenheim’s turn to frown. He asks Barthelm, _‘Lord Barthelm, how_ does _it go? You’ve dealt with the troublemakers, haven’t you?’_ but the Nordlander gives a noncommittal grunt. The Characters could choose to recount their own experiences. 
+
+## **3:00 P.m.**
+Countess Emmanuelle is talking with the ‘Emperor’. The Characters can eavesdrop: 
+
+**Countess:** _The Toppenheimers are no different to the Jungfreuds. They sow discord, look beyond their borders, and revive old claims._ 
+
+**Emperor’s Double:** _I’m not sure now is the time. There are too many other matters._ 
+
+**Countess** : _Your ‘Majesty’, but how would you know?_ 
+
+## **Emperor’s Double** : _I Beg Your Pardon?_
+**Countess** : _Do you speak with Karl-Franz to learn your lines, or does Holzkrug write them for you?_ 
+
+## **Emperor’s Double:** _What Lines?_
+**Countess** : _Oh come on. You might fool this lot, but I’ve known him since we were children. You’ve been avoiding Todbringer all day. Where is Karl-Franz? Is he truly ill?_ 
+
+Von Fielbach is crestfallen. The Countess leaves him with an exaggerated curtsey. 
+
+Across the room, Yorri leads a prayer to Sigmar in praise of the Empire — his response to the Teutogen Guard’s Ulrican salute. Everyone other than Ar-Ulric joins in, with varying levels of enthusiasm. The Characters’ behaviour affects their perceived allegiance. 
+
+## **3:15 P.m.**
+A woman laughs outside the tent and three crazed pigs charge in through a flap in the canvas. They are painted in the colours of Altdorf, Middenheim, and Nuln, and are in a state of wild intoxication. It’s mayhem. Nobles don’t know how to handle pigs. Sievers, Ar-Ulric, and the High Helms draw their swords. Zimperlich almost faints. Others hide behind chairs. 
+
+The Characters really should help. Catching an over-stimulated pig requires a successful **Grapple** (see **WFRP** , page 163). Alternatively, they could use magic or try to corner them or as a last resort, they could attempt to attack the poor beasts. 
+
+If the Characters fail or don’t intervene, Sievers eviscerates the Altdorf pig, spraying blood on Immanuel-Ferrand’s cloak. The Middenheim pig leaps into the crowd and disappears. The Reikland pig settles at Emmanuelle’s feet and goes to sleep. She smiles and strokes its head. 
+
+The guests thank or berate the Characters depending on the outcome. As servants clear up, Ar-Ulric comments on law and order in Altdorf. The ‘Emperor’ speaks up. ‘ _Let me reassure you that we will do everything in our Imperial power to locate and punish those responsible for this frenzied hog incident_ .’ He’s not a good speaker and few are convinced. 
+
+Petra Schneller is nowhere to be found, but she is now greatly favoured by Ranald. 
+
+|1|**DRUNKEN HERALDIC PIGS**<br>**M WS BS**<br>**S**<br>**T**<br>**I**<br>**Ag Dex Int WP Fel**<br>**W**<br>6<br>35<br>–<br>33<br>38<br>33<br>45<br>–<br>10<br>10<br>–<br>7<br>**Traits:**Bestial, Skittish, Frenzy, Weapon (Bite) +6|
+|---|---|
+
+## **3:30 P.m.**
+As yet another column of Altdorf troops march past, Graf Boris, Katarina, and Thugenheim talk quietly. If the Characters eavesdrop: 
+
+**Thugenheim:** _It’s a show of strength. It’s got Holswig-Schliestein or Holzkrug’s mark all over it._ 
+
+**Graf Boris:** _Perhaps, but is it a provocation?_ 
+
+**Thugenheim:** _It’s provoking me … we’re powerful, but Middenheim can’t raise a force like this._ 
+
+**Graf Boris:** _Katarina, what do you think ?_ 
+
+**Katarina:** _They’re sending us a message, but it’s about our role in an alliance. They’re not setting us up as the next Ubersreik._ 
+
+Thugenheim is a little surprised at Katarina’s astute answer — she has matured in the last few months. 
+
+Meanwhile, Sievers sits alone eating venison and radish soup, after Holzkrug and Zuntermein brushed him off. He spills it on his lap and curses. 
+
+## **4:00 P.m.**
+Zuntermein says something to Holzkrug and ImmanuelFerrand. The former responds sharply. _‘Well, you know my view. It was no way to treat a sovereign noble like Jungfreud.’_ ImmanuelFerrand sighs, _‘We all know your opinion, Liepmund. But how are we to handle Norse raids and squabbling in the Eastern provinces if we can’t get our own house in order?’_ Holzkrug turns to the nearest Character, _‘We’ve been over this so many times; let’s hear a fresh view. What’s your name again? What do you think? Should we have left Ubersreik to its own devices?’’_ 
+
+Holzkrug, Emmanuelle, Graf Boris, the ‘Emperor’, ImmanuelFerrand, Zuntermein, and Lord Barthelm all turn to the Character to await their response. Anything they say should impress some people and annoy others. 
+
+## **4:40 P.m.**
+Steam Tank _The Indomitable_ chugs along the parade ground, but a sickening crunch echoes from inside its metal shell. The war engine veers sharply off course and steam vents from the hatch. A choking engineer climbs out and jumps to the ground as the Steam Tank careens out of control towards the crowd — and the pavilion! 
+
+Onlookers run screaming from the crowd, clearing a path for the Characters. They need to act fast. Here are a few options, although imaginative players may have other ideas. 
+
+They can attempt to stop the tank by climbing inside. This takes a successful **Difficult (–10) Climb** Test to enter the hatch. Finally, a **Challenging (+0) Lore (Engineering)** Test to pull the right levers or uncouple the right mechanism. 
+
+They could damage the mechanism at the rear of the tank. Hitting it requires an **Average (+20) WS** Test (or appropriate **Casting** Test), but it has T 80 and they must inflict 8 Wounds to disable the mechanism. 
+
+is They could build a buffer to stop the tank. _The Indomitable_ moving fast and has considerable momentum, but a large pile of hay bales and wooden crates could work. This requires 5 successful **Strength** Tests in 3 rounds to pile up whatever is at hand to create a buffer in time. 
+
+They could help an evacuation of the pavilion and let the Tank do its worst. This isn’t particularly heroic, but good fortune saves the day … just before it reaches the front of the tent, there is a tearing sound and _The Indomitable’s_ boiler falls off, bringing it to a dead stop. The cannon’s muzzle stops exactly where Zimperlich’s head was a few moments before. 
+
+As everyone brushes themselves down and pretends they weren’t scared, a crew of Engineers tow away _The Indomitable_ and the parade continues. If the party causes too much damage, the Imperial Engineers are very unhappy about it. 
+
+EMPIRE IN RUINS — THE MARCH OF UNIT Y 
+
+## **5:00 P.m.**
+The artillery demonstration is deafening. Every 10 seconds, the well-drilled crews fire another shot into the distance. Conversation is almost impossible, but some use the noise to cover their discussions. 
+
+If the Characters use _Lipreading_ , they’ll see the Emperor’s double talking with Holzkrug. _‘I can’t keep this up. The countess knows. Todbringer suspects.’_ The High Ambassador reacts: _‘What are we supposed to do? Karl-Franz gets worse every day. Doctor Kappelmuller may need to up the dosage.’_ 
+
+## **5:30 P.m.**
+Countess Emmanuelle is making polite small talk with Katarina. Zimperlich looks on with pursed lips as servants deliver a plethora of sweetmeats, desserts, and confections. She leans over to Lord Barthelm and speaks at a volume intended to carry. _‘I think I’ll pass, Lord Barthelm. I find the dessert overdressed to compensate for its lack of taste. It spoils the appetite. Bring me a northern delicacy, fresh and unpretentious.’_ 
+
+Emmanuelle looks up. _‘Try the cheese. They say it’s been ripening on the shelf since the reign of Emperor Magnus. ’_ 
+
+Zimperlich splutters and prepares for a return salvo. If the Characters don’t de-escalate the situation, thinly veiled insults fly back and forth. Katarina is mortified, and Zimperlich is eventually escorted out of the pavilion by Thugenheim, who struggles not to laugh. 
+
+## **6:30 P.m.**
+Two regiments face one another across the parade ground, armed with wooden swords and shields. The Swords of Ulric represent Middenheim, facing Steil’s Swords (formally the Altdorf 3rd). This is a display of ordered swordsmanship and each combatant faces a matched adversary to go through a choreographed series of thrusts and parries. It’s accomplished, but lacks drama. 
+
+Ar-Ulric praises the Middenheimers’ contained savagery. Immanuel-Ferrand comments on the elegant discipline of Steil’s Swords. The combatants move around and switch adversaries. 
+
+Towards the end of the battle, Maximillian Steil, the Altdorfer captain, starts playing to the crowd and makes several reckless thrusts at his Middenheimer opponent. The fight becomes more aggressive and Steil accidentally draws blood. Ar-Ulric, Thugenheim, and Graf Boris leap to their feet. The Middenheim swordsman fights back and hits Steil on the side of his head with the flat of his blade. The crowd boos as the mock battle becomes more serious. Protests break out in the pavilion. 
+
+## **6:50 P.m.**
+Countess Emmanuelle whispers emphatically to ImmanuelFerrand. Eavesdropping reveals her ultimatum: _‘Make no mistake, I shall act. Sudenland is no different to Ubersreik. The Toppenheimers will fall. Should you object, I shall tell the other Electors about the false Emperor. Do you understand?’_ 
+
+## **7:00**
+The parade comes to a close. The Middenheim party looks morose or annoyed. The ‘Emperor’ is rattled. A **Challenging (+0) Intuition** Test reveals that only Zuntermein cracks a sly grin as he leaves. 
+
+## **Aftermath**
+The wedding is going ahead, but this display of unity has sown disquiet amongst the Ulricans in particular. The party’s actions should have helped or hindered their reputation with the Sigmarites, Ulricans, and others. There are several other potential outcomes: 
+
+- They may have suspicions Karl-Franz is ill and von Fielbach is a double. 
+
+- They may suspect Zuntermein is more than he appears. 
+
+- They may have learned something about the unrest in Ubersreik and Emmanuelle’s plans for Sudenland. 
+
+## **Experience Awards**
+Good roleplaying and clever thinking should be rewarded, but there are additional XP for the following: 
+
+- Y 40 points for stopping the runaway Steam Tank 
+
+- Y 30 points for efficiently dealing with the pigs 
+
+- Y 20 points for each time the Characters defuse a disagreement between the Middenheimers and Altsdorfers 
+
+- Y 15 points for calling a halt to the battle before it gets out of hand 
+
+- Y 9 points for appropriate comments made during the war of words between Hildegarde Zimperlich and Grand Countess Emmanuelle 
+
+The Characters can try to call a halt to the battle — perhaps by petitioning the ‘Emperor’ to halt proceedings. If they don’t take action, Holzkrug eventually urges Von Fielbach to stop the battle. The ‘Emperor’ stands, applauds, and gestures for the battle to end.

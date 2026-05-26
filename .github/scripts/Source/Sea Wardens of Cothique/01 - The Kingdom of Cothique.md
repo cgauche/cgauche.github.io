@@ -1,0 +1,290 @@
+# The Kingdom of Cothique
+
+*Pages PDF 4-16*
+
+## The Kingdom of Cothique
+## **An Adventurous People**
+## **Windswept and Foam-Washed**
+The kingdom of Cothique is a chilly, windswept realm located to the north-east of the island-continent of Ulthuan. Its rugged landscapes, considered nigh inhospitable by many High Elves of the Inner Kingdoms, consist of a band of craggy plains around the coast, a vast forest of spindly trees in the interior, and grey shale cliffs that rise from the white foam wash of the ocean. The roiling seas are treacherous due to the enchanted Shifting Isles that lie to the north-east of the kingdom, but they have shaped much of Cothique’s history, and a maritime lifestyle does much to define its people. 
+
+The many merchants and sailors from the kingdom are disproportionately represented among those High Elves who travel overseas. They return home having experienced the values, ideas, and cultures of foreign lands, providing Cothique with a more rounded point of view on the wider world and its people than that common to more inward-looking kingdoms of Ulthuan. Allies, agents, and strategies from abroad contribute to Cothique’s reputation for weaving some of the most complex tapestries of political intrigue in Ulthuan. 
+
+The kingdom’s wealth and freedom have led to fierce competition between its merchant houses, as well as a resurgence in forbidden cults who worship the Cytharai and other, darker, gods, but the phoenix king trusts Cothique to take care of its own. Finubar has a special fondness for the intrepid character of the Elves of Cothique, as it was aboard their ships that he set out on his adventures before becoming the phoenix king. Cothique exemplifies the sort of adventurous spirit he demonstrated in his youth, and it is Finubar’s earnest wish that contact with the outside world will lead to a bright future for Ulthuan. He treats the kingdom’s ruling council with more generosity than many of his advisors would prefer. 
+
+Despite the navigational hazards of the Shifting Isles, Cothique is well connected with the wider world. Its folk enjoy greater opportunity than those of other kingdoms, for the sea rewards those skilful and brave enough to master it. Elves here have outgoing attitudes, and Cothique receives more foreign visitors than anywhere in Ulthuan, save for the city of Lothern. Whilst suspicion of outsiders may be moderate, the folk of Cothique are not complacent. They know that whilst the Shifting Isles do a great deal to protect the shores of Cothique, Norse raiders and Dark Elf corsairs are always looking for a chance to attack. 
+
+## **The Kingdom’s Geography**
+Cothique is known for its rugged landscape and difficult seas. It is a land of harsh weather and bears old but ugly scars of having been besieged multiple times during bitter conflicts with the Dark Elves of Naggaroth. It may be a surprise to those who travel to Ulthuan to learn that many sites in the kingdom of Cothique are built, partially or wholly, underground. Exposure to enemies and the elements alike has forced Cothique’s Elves to dig into the shale and soil of their homeland, and grand redoubts and defensible tunnels have been carved beneath the cliffside settlements that overlook its shores. 
+
+## **Craggy Coastal Plains**
+Great ridges and rock formations stand proud throughout the barren plains of the mainland, and the coasts are craggy and exposed to storms. The rocky terrain, stony soil, and windy weather render much of the kingdom unfit for productive farming without magical assistance. Although some arable lands have been cleared by a dedicated few, much of Cothique’s produce is imported, and its people tend to enjoy diets richer in seafood than is normal on Ulthuan. 
+
+Since ancient times, the majority of Cothique’s settlements have been coastal. Its cities are built high on cliffsides and dug down into the rock, built to weather storms and invaders alike. Magically reinforced glass stretches over the top of dug-in areas, allowing natural light and a view of the often-stormy skies above. On sunnier days, the walls of buildings in its whitestone cities are decorated with murals evoking the seas, heavens, and gods. Such artwork is intentionally ephemeral beauty, as Cothique’s harsh conditions soon wash the scenes away. 
+
+The kingdom borders the wild and forested realm of Chrace to the north, and the misty and mournful land of Yvresse to the south. Although its rocky plains resemble those of Yvresse, Cothique is windswept and dry, whereas the notorious fogs of its southern neighbour bring moisture and mud. The shrine of Vaul found to the north-west of Cothique is of particular importance to its neighbours, as the priests there possess the skill to shape and repair ithilmar. Even farther north is the Blighted Isle, Altar of Khaine, and the legendary Widowmaker, whose baleful influence, some say, stretches all the way across the sea to reach Cothique itself. 
+
+## **The Forest of Cothique**
+To the west of Cothique is Avelorn, although it is only accessible through the perilous Chasm of Sorrows. This pass, difficult as it is, is one of few access points to the inner ring of Ulthuan. Some military theorists argue this explains why Cothique has seen the brunt of so many attacks on the island, although no proper army could make use of the route. Like Avelorn and neighbouring Chrace, Cothique is a forested realm. Beyond the band of craggy land of the coastal regions, a vast forest rises up, full of dense stands of pine and birch that thrive despite the poor soil and cold wind. This woodland blankets the inland and the foothills of the Annulii Mountains to the kingdom’s southern edge. 
+
+The eastern reaches of the Great Ocean lie east of Cothique. The enchantment of the Shifting Isles, woven to protect Ulthuan from naval aggression, makes the oceans particularly difficult to navigate and the smaller islands a true challenge to reliably locate. Small shrines to Mathlann are scattered throughout the isles, many of which are tended only by itinerant storm weavers and sailors who, by the mercy of the god, chance upon them for safe harbour in a storm. 
+
+## **The Shifting Isles**
+Created during the reign of Phoenix King Bel-Hathor to guard against Norse raiding, the eastern sea routes to Ulthuan are protected by potent and complex spells designed to confuse and confound, and the islands that make up the archipelago in the area have no fixed positions, making charting the region a matter of vague approximation at best. Three decades of preparation culminated in powerful enchantments that wreathed the area in illusions and mists making it all but impossible to reach Ulthuan except by chance. The magical rotation of shoals and sandbars means a multitude of aquatic plants and sealife are washed ashore, allowing the Elves of Cothique to collect the prized pearl-leafed torrelain and delightfully scented moon rose. 
+
+Those entering the enchantment without guidance risk becoming lost as compasses spin and the stars are obscured. Crews of lost vessels face starvation or shipwreck unless spotted by flying fish riders, fishermen from the merchant houses of Caraidh Eldoir-iasg, that inhabit the isles. If found, such crews are restocked and escorted towards Cothique or back to the open ocean. Even High Elf sailors can become confused in the area, though many are still recruited as pilots by Human merchants in Rokhame, situated on the edge of the region. Within the enchantment, smugglers and cultists run the risk of being marooned, wrecked, or forever lost, but if they survive, they can evade the eyes of the authorities there. 
+
+Since the ruin of Yvresse and the destruction of many waystones, the degradation of leylines has corrupted the enchantment, making the area even more dangerous. Now, within the enchanted archipelago, daemons lurk alongside sea monsters. Patrols of hawkships guard the western sea-routes closest to Cothique, ensuring safe passage, while the shipwrecks of the unfortunate are searched by merchant adventurers for treasures. 
+
+The Shifting Isles cannot be charted in the normal way. To successfully traverse the area involves reading the Winds of Magic that flow amongst the complex pattern of spells, leylines, and waystones. Elven magical charts, with ever-changing coloured lines and markers upon paper, are highly guarded, and can only be understood by those who can read Elthárin and pass a **Combined Difficult (–10) Lore (Magic)** and **Navigation** Test. Elves also use wayshards attuned to an individual waystone in Ulthuan that allow the bearer to sense the position of individual waystones, and thus navigate the world. 
+
+## Navigating the Shifting Isles
+To navigate the Shifting Isles, a **Navigation** Test is required once per day (see the **Through the Mists** table). 
+
+The following modifiers apply to the Test: 
+
+- Without _Second Sight_ Talent: –2 SL 0 Able to read and use magical sea chart: +2 SL 0 Navigator possesses a Wayshard: +1 SL 
+
+For detailed rules on seafaring, see **Sea of Claws** , pages 103–120. 
+
+## Through the Mists
+SL Effect
+A mysterious wind blows. You arrive at your
++4 or
+destination early: weeks of travel turn to days, days
+more
+to hours.
++0 to  Success! You successfully navigate the mists and
++3 illusions, avoiding the shifting sandbars and shoals.
+You enter magically still water or run aground
+–0 to  on a sandbar. You must wait 2d10 hours until the
+–1 enchantment renews before continuing (retest
+Navigation ).
+–2 to  The enchanted mists surround your vessel, confusing
+the direction of travel, you emerge from the Shifting
+–4
+y 100 + 1d100 miles.
+Isles but are off course b
+Strange lights appear in the mists, and upon exiting,
+–5 or
+you discover the vessel is turned around to exit the
+less
+Shifting Isles from the direction you entered.
+
+## **The Dead Shale Sea**
+South of Tor Koruali is an expanse of waters where hunters seek glory and sea burials are performed to sate the megalodons that roam its depths. During festivals linked with the moon Sariour (Mannslieb), the Elves of Cothique celebrate through the Sea Dragon Dance, in which dancers cavort alongside sinuous and massive animated illusions of merwyrms. 
+
+Elven legends speak of Mathlann’s trident rending open the seafloor, releasing his children, in the raising of Ulthuan from the seas. Another hypothesis suggests they come from beneath Ulthuan, where an entire species of aquatic people lurk. Loremasters, in the quest for knowledge, sometimes venture too deeply into the Dead Shale Sea seeking answers to questions best left alone. 
+
+## **Whitereach Bay**
+Whitereach Bay is known for massive waves, riptide currents, and whitestone spires that extend from the sea like grasping fingers. The rocky crevices beneath the bay are littered with shipwrecks and skulking monsters. Cadets from Seasong Academy in Tor Koruali attempt to prove they have the favour of Mathlann by cliff diving to retrieve a pearl-bearing oyster from the depths. Golden tokens set with these pearls are said to ensure a marriage weathers any storm. When the tide is low, the shallows split into ephemeral lagoons, though the returning waters rise so quickly that unwary beachcombers may be trapped. 
+
+## **Starwood Groves**
+The Starwood Groves are simultaneously among Cothique’s greatest military resources and most beautiful places. The tall stands of trees virtually thrum with magical power. Light filtered through the cloud-scraping canopy carries the White Wind _Hysh_ , and the animals possess an uncanny intellect. A special kind of Spite called Luminescents are plentiful. The magical essence of these Spites is similar to starwood itself, but cannot be extracted without destroying them. 
+
+## **The Burned Glades**
+The Burned Glades are a stretch of scorched stumps and brushland that runs from geothermal vents beneath Tor Dynal to basalt cliffs beneath the Sky Forge. This strip of scorched earth follows a leyline and is the aftereffect of a magical disaster that occurred during the Sundering, and is riddled with seawater geysers, glowing coals, and dangerous heat. Although a delegation of mages has _Aqshy_ back made significant progress in syphoning excess into the leyline, the ground remains scalding hot. A small shrine to Addaioth is located at the centre of the area. 
+
+## **Chasm of Sorrows**
+The Chasm of Sorrows is a narrow and perilous route that connects Cothique to the mouth of Avelorn’s River Vilu via the Annuliis. The pathway that follows the ravine is barely a person wide for much of its length, and the ravine plunges all the way down to sea level, and monsters are known to lurk there. As such, despite providing access to Ulthuan’s Inner Kingdoms, only the brave, foolish, or desperate would travel through it. On occasion, small groups of Elves vanish into the chasm, and those who return do not tell of what happened to their companions. 
+
+## **Isle of Endless Chill**
+A perpetually snowy island surrounded by ice floes. A lighthouse, staffed year-round, guards a magical focus that helps regulate the enchantment of the Shifting Isles. The Shrine of the Widowmaker can be seen from the isle, and it is frequented by austere visitors rumoured to belong to the Cult of the Forbidden Blade, a group of assassins committed to killing anyone they believe is likely to draw the Widowmaker. 
+
+## **Rokhame**
+Rokhame is a forested island in the fertile but tempestuous zone at the edge of the enchantment of the Shifting Isles. A rural community flourishes here on the blessings of Mathlann and rebuilds after weathering his wrath. Morelion, firstborn of Aenarion, lived here for some time, and some of his descendants still reside on the islands. They are invariably skilled warriors, essential in fending off frequent raids. Warriors from Rokhame are often found in Tor Koruali competing in tournaments at the Gymnasium or duelling at the Galineth Amphitheater. 
+
+## **Sky Forge**
+The Sky Forge is a fortified tower that also serves as a shrine to Vaul. It is seated atop a mountainside ridge, built along a basalt spur at the end of the Burned Glades. As the Forge of Vaul is located on the exact opposite end of Ulthuan, the Sky Forge serves as a crucial centre of ithilmar craft and repair for the northeastern kingdoms. Smith-priests at the Sky Forge fashion many weapons for Cothique’s navy and valuable trade goods besides, including the occasional ithilmar piece. The practice of producing goods for trade is a source of controversy within the cult and without. Smith-priests from the Cadai temple in Tor Koruali deliver magical items and rare minerals to and from the Sky Forge. 
+
+## **Tor Dynal**
+Tor Dynal sits high on a peninsula bluff and serves as a centre of astronomical and astrological study due to its high towers and clear summer skies. The city frequently produces seers who are in demand as navigators and consultants, often leading to tensions with the cult of Mathlann. While storm weavers frequently visit Tor Dynal to share theories and observations on behalf of the Celestial Observatory in Tor Koruali, they do not enjoy their time in the city, as there is a pervading air of sorrow. Tor Dynal is littered with subtle shrines to Morai-Heg, and around the new moon, corvids tend to outnumber seagulls in its surroundings. The city has come under recent scrutiny after the discovery of an assassination plot led to several highborn sons being executed by the swordmasters, the latest in a series of tragic events that shape life in this mournful place. 
+
+## **Elisia**
+Elisia is the sister city of Tor Dynal, though it lies to the south and, historically, has benefited from the protection of the other city. Invaders from the sea must get past Tor Dynal to strike at Elisia, and this has led to a degree of resentment between the citizens of the two cities. The Elves of Tor Dynal claim those of Elisia do little to pull their weight in wartime, whilst the folk of Elisia mutter that on occasions Dark Elves have struck past their defences, it must have been due to the complacency, or perhaps even the complicity, of their neighbours. The city climbs from the sea along cliffs from which several waterfalls pour down into serene reflecting pools. Crisscrossed stairways and sky bridges connect many of Elisia’s towering white stone spires, many of which are among the oldest structures in Cothique. The ruling princess, Litharys Starshard, commands Cothique’s capital fleet, which means she can often be found at the Tor Koruali Naval Base. 
+
+## **The Seven Sisters**
+Standing at the border with the kingdom of Yvresse are seven colossal statues of Elven maidens, arranged to overlook the cliffs of Tor Koruali‘s bay. This mysterious shrine is often associated with the Cytharai goddess Ladrielle. The Elves of Cothique do not worship her as exuberantly as those from Yvresse, but they do not approach her with the reticence that Elves of the Inner Kingdoms do. Sea Elf mariners visit the Sisters to pray for good fortune before embarking on long journeys. The monument is positioned at a powerful magical junction, where a leyline that traces its origins to distant Couronne intersects and feeds magic into the outermost ring of waystones that encircle Ulthuan. 
+
+## **Mistnar**
+Mistnar is the name of a small but bustling town built around a cove on an island in the Shifting Isles that was founded during the early years of the reign of Finubar the Seafarer. It has become a haven for craftsmen and itinerant merchants. Its stony cliffs form an effective, natural defence, and Mistnar is famously successful at repelling invaders from the north. The island is legally part of the domain of Tor Andar, but in reality, it is dominated by the Merchant House Tallaindeloth as part of a Marienburg-inspired taxation scheme. The Waverider house owns a new palace in Tor Koruali, from where it lobbies for Mistnar to receive a council seat. 
+
+## **Tor Andar**
+Tor Andar is a rugged fortress city that was once outgrown by the demands of its itinerant fleets. Although Cothique’s navy is returning to its former glory, recent policies have ensured that at any given time, most of Tor Andar’s ships are away from port. At one time, additional docking was constructed outside the city’s walls, but many of these structures only see use during rare periods of ill-planned overcrowding, or else for stashing loot gained from piratical actions. Tor Andar is the first line of defence against serious naval threats, and the only part of Cothique many sailors frequently see. Given its strategic importance, it is generally closed to outsiders. The mighty kraken that inhabit Tor Andar’s waters are periodically culled with approval from the temple of Mathlann in Tor Koruali, a risky task that only the most experienced monster hunters are capable of carrying out with any degree of success. 
+
+## **Tor Vael**
+Tor Vael is an inland city that sits near the entrance of the Chasm of Sorrows, guarding one of of the few mountain passes between Cothique’s and the Inner Kingdoms. The chasm is as dangerous as its name suggests, and fine warriors with no interest in the ocean make their living in Tor Vael by offering to guide travellers safely along the edge of the chasm. The city features a temple of Hoeth, and serves as the base for Cothique’s loremasters, who are often the first to receive visitors from Avelorn. The city has long been known for its importance to the loremasters and is home to a remote underground chamber known as the Vault, where a number of magical artefacts are kept under their dutiful watch. 
+
+## **Tor Alin**
+The boyhood home of Tyrion and Teclis is a town at the base of the peninsula upon which Tor Koruali stands. Several villages and hunting retreats can be found in the woods nearby, as the forest in the area is among the most verdant in the kingdom. Forest spirits congregate here and delight in causing mischief for travellers unfamiliar with their ways. Cothique’s largest temple to Asuryan is here, and assigns acolytes to maintain a lighthouse shrine on the outskirts of Tor Koruali. 
+
+## **Ruins of Anirain**
+This sad site of shattered marble towers and scattered paving stones is all that remains of Cothique’s former capital, destroyed millennia ago during the Sundering. Efforts to reclaim or rebuild the city have been famously unlucky, ruined by everything from devastating storms to the invasions of Norse raiders and the Goblins of Grom the Paunch. Surface-level rubble has long been overgrown by seagrass, but the dead city’s broken face continues to erode, exposing an ever more porous crag of lost halls and dark caverns. Dark shadows lurk in the passages beneath sea level, where cave-ins are common. 
+
+## **Tor Koruali**
+The largest and most politically important city in Cothique is Tor Koruali, which stands on a narrow peninsula of land close to the border with Yvresse. Whilst High Elves do not really regard any particular prince or city as the kingdom’s ultimate decision maker, as some Human societies do, Tor Koruali may be thought of as the region’s capital for all intents and purposes and is covered in detail in chapter 2. 
+
+COMMON HERALDIC DEVICES OF THE PREEMINENT
+HIGHBORN HOUSES OF COTHIQUE
+Tor Dynal Elisia Mistnar Tor Andar Tor Vael Tor Alin Lost Anirain Tor Koruali
+
+## **The Culture of the Kingdom**
+The Elves of Cothique are generally hardy and bold. They have a reputation as explorers and adventurers, possessed of ambition and bravado considered rather flashy and improper by other High Elves. 
+
+## **The Value of Being Intrepid**
+Due to the difficulty of eking out a living from the wild and barren land of the kingdom, as well as their proud naval traditions, many Cothiqui Elves make their lives on or over the ocean. During their youth, their sailors quickly become habituated to navigating the magically turbulent waters of the Shifting Isles. 
+
+An air of conspicuous bravery and glory-seeking élan, both on the hazardous waters of their own coast and in strange seas far afield is typical of the Elves of Cothique. Seaborne trade, monster hunting, and even acts of piracy (provided the targets are those numbered among the enemies of Ulthuan) are among the kingdom’s most famed and esteemed professions. 
+
+Physical pastimes like riding along the coastal plains and sailing small vessels through the pounding surf hold more appeal than the arts for many. The seafarers are braggadocious for good reason, which makes many Cothiqui somewhat difficult to impress — they have heard countless tales of audacious exploits before and may well have undertaken such challenges personally. 
+
+## **The Kingdom’s Famous Sons**
+Adventurous lifestyles lend Cothique an air of heroism and worldliness. It is the homeland of Tyrion and Teclis, two of the most prominent and influential figures in Ulthuan’s broader society, and Cothiqui Elves venture abroad more regularly than those from other kingdoms. Cothique’s notoriety as a place to do trade attracts visitors. Influenced by its constant exposure to foreign culture, Cothique’s people look forward and outward — every Elf has their own perspective on foreigners. 
+
+Many in Cothique look outward to worldly accomplishments, temporal wealth, and their perceived status both at home and abroad. While one’s destiny is largely determined by birth in Asur society, many Cothiqui find seaborne opportunities that let them transcend their station. The youth understand that they can take the opportunity to become major players in newly wealthy merchant concerns. Ambitious young Asur affect an air of nobility, conducting themselves with an air of deliberately constructed ease. 
+
+Unrestrained ambition can grow dangerous, and the hectic business of Cothique can be twisted into disguising unwholesome influences that might otherwise be difficult to conceal. The drive, determination, and open-mindedness of outgoing merchants can be twisted into greed, envy, and ultimately ruinous desire. A silent, but not insignificant, minority of Cothique’s citizens are more tolerant of the cults of excess than is common on Ulthuan — most know someone somewhere who has dabbled in a little clandestine supplication to Atharti or Anath Raema, from time to time. 
+
+## **A Focus on the Present**
+In their everyday dealings, Elves of Cothique possess a sense of urgency and a focus on the present that is alien to many Elves from other kingdoms. They know from experience that a year-long delay, insignificant to most Elves, can make or break foreign affairs. When striking a deal, they graciously endeavour to make their Human trading partners wait weeks or months, rather than years or decades common in Elven negotiations, to better accommodate them. Cothique is driven ever faster by its naval pursuits and known across Ulthuan for quick turnarounds everywhere except in government. 
+
+Foreign contacts hold a great deal of value as sources of information, agents, partners, and distractions to the Elves of Cothique. Particularly impressive foreigners can even serve as status symbols or political tools, proving the worthiness of their hosts and the value of reaching out across the ocean. The enthusiasm for foreign friends is not merely rooted in ambition, for sincere value is found in forging bonds with the outside world and the people who live there. Even those citizens who consider foreigners unwelcome are often still fascinated by new experiences, influences, and ideas, so it is a rare resident of Cothique who finds nothing to admire in the venture of travelling abroad and discovering the people and cultures to be found there. 
+
+## **The Kingdom’s Princes**
+As elsewhere in Ulthuan, Cothique is ruled by its nobility. Highborn sons and daughters have the title of prince or princess, a rank that makes them peers to all other nobles save the phoenix king. Seniority itself has little meaning in political life, though older princes have more experience in games of social manipulation and peddling influence, so are treated with careful circumspection by those wise enough to grant it. 
+
+The primacy of intrigue means a skilled schemer prevails when those with workable plans for improvement or demonstrable leadership skills fall from grace. Despite this, intrigue is usually carried out in a spirit of courtesy and sportsmanship. Asur nobles generally act in what they believe to be their people’s best interests and trust others to do the same. This makes bitter enmity between the highborn families historically rare. After all, a rival in the present may become someone with whom a prince shares significant interests a few brief decades later. 
+
+The political landscape has been recently complicated by the emergence of Asur merchant houses, confederations of lesser nobles and daring entrepreneurs who have gained power by cornering opportunities in foreign lands. The houses of Tallaindeloth and Lianllach are the most notorious among these in Cothique and actively engage in high-level intrigue. 
+
+## **The Council of Seven Princes**
+Kingdom-level policy is determined by a council of seven princes and princesses, each representing a noble family that rules a city. Though the prince who takes a seat may potentially be changed through council vote, the existing status quo has been maintained since the reign of Caradryel the Peacemaker. This council hears concerns from local representatives, ranging from lesser nobles to more humble citizens and even, on occasion, the nature spirits of Cothique. 
+
+Anirain, Cothique’s former capital, remains entitled to two seats despite having been razed during the Sundering. The ease with which it forms political coalitions has long affected the shape of the kingdom. Prince Interik maintains his landless position through talented politicking, careful application of his modest army, and the mercantile talent of Arianne, his daughter, heir apparent, and second councillor. 
+
+## **The Seventh Seat**
+If the assembly does not reach a clear consensus on a matter, it is the privilege of the occupant of the council’s seventh seat to make a final decision. The seventh seat is the greatest political prize in Cothique. 
+
+As the kingdom’s capital, Tor Koruali has a claim to the seat, but Crown Prince Dalloran has no ambition to take it, maintaining that the prince of Anirain should occupy the seat to honour its sacrifice. The decision is made easy by Interik’s reliable support in council matters, and cynics may note that his palace in Tor Koruali is the greatest of his few remaining possessions. Many believe that, when and if either of Dalloran’s sons, Dannor and Dalroth, should replace him, they would fail to exhibit the grace embodied in their father. 
+
+Certain scions of Cothique’s merchant houses feel that the dominance of the highborn deprives the council of a rounded point of view. They lobby for Lord Tallaindeloth, governor of Mistnar, to gain a seat. This position wins the cautious sympathy of many of Cothique’s citizens. They point out, with due regret, that Mistnar contributes more than the ruins of Anirain, and they also suggest that it prevents Tor Koruali from taking the seventh seat. Their unspoken fear is that if Dannor or Dalroth were to take it, it would lead to their misrule. 
+
+## Schemes of House Lianllach
+Traditionalists within the assembly fear the consequences should a merchant house seize the seventh seat. Lord Tallaindeloth is a respectable Elf, but his closest ally, the house of Lianllach, is headless, having ousted its lord and adopted rule by a democratic council. This sets an intimidating precedent, not least because recent rumours suggest Lianllach dealings with Dark Elf corsairs. 
+
+Should any Characters receive the patronage of an important Elf in Tor Koruali, they may be tasked with confirming these rumours. Perhaps they are spread merely to tarnish the reputation of a powerful merchant house, or perhaps Lianllach traitors really do meet with Dark Elves beyond the Shifting Isles, providing the corsairs with information on the planned future voyages of their competitors. Either way, House Lianllach will not appreciate the scrutiny should they notice it. 
+
+## **Military and Navy**
+Cothique’s enchanted skyships leap from the waves to launch mid-air broadsides from their batteries of Eagleclaw Bolt Throwers, while war catamarans deploy from their hawkships to swiftly sail circles around ravenous sea monsters and the cannonry of pirate war galleys from Sartosa. The kingdom’s eagleships are among Ulthuan’s finest, fashioned from salt-kissed livewood, kept supple and capable of regrowth through enchantments woven during the harvesting of starwood and the building of the vessels. They are capable of weathering any storm. These living ships are sometimes still inhabited by stubborn resident Spites, and sailors revere these spirits in accordance with various superstitions, occasionally winning over guardian tricksters to aid them in battle. 
+
+## **The Ships’ Companies**
+More impressive than their glorious fleet are Cothique’s sailors themselves. These Elves specialise in daring naval tactics and practice manoeuvres that baffle their foes. These sailors leap from their decks during boarding actions or latch onto the hulls of ships travelling at full speed. Scouts borne atop Skycutters, or great flying fish, outflank their foes with derring-do as they skim across the waves. 
+
+These sailors of Cothique make up a disproportionate number of those Asur who are otherwise known as the Sea Elves. Due to their maritime lifestyles, when contrasted to most landbound Asur they tend toward rough dispositions and possess a fiery temperament. Although some of these Elves have a roguish and worldly charm, others develop resentment to folk from the Old World due to frequent conflict, making them justifiably mistaken for their dark cousins while away in foreign lands. Indeed, few Men of Bretonnia or the Empire would be able to explain the distinction between a piratically inclined Sea Elf and a Dark Elf raider. 
+
+## **Military Forces**
+The landbound military is less majestic in comparison. Funding for permanent standing forces pales in comparison to naval investment among Cothique’s nobility, and vainglorious sailors whisper accusations of cowardice about their landlubber peers. Much of the military might in Cothique consists of naval soldiery stationed ashore, eager to return to the waves and reluctant to travel far inland. 
+
+Even so, Cothique’s standing army is among the best-respected in the Outer Kingdoms. Its forces are particularly adept at marine assault and eagerly deploy in speedy catamarans to lend aid to Chrace and Yvresse, Cothique’s closest neighbours. Under the strong winds of the coastal regions, this rapid response can dramatically outpace those on foot or even horseback and has led to close ties between the soldiers of Cothique and those of bordering kingdoms. 
+
+## **Policy and Problems**
+In peacetime, most of Cothique’s forces are deployed in foreign waters, escorting merchant princes, engaging in self-directed suppression of enemy vessels, and adventurously scouting deep into dangerous territory. Rumours abound of less wholesome activities as well; given the lack of supervision inherent to much naval activity, holding the vessels to any account is virtually impossible, and inquiring as to where a sailor acquired their latest haul of treasure is considered terribly impolite. 
+
+Cothique faces constant external scrutiny for this lenience. The greatest criticism is that their navy, spread thin on adventure afield, is unprepared to muster for Ulthuan’s defence. While none deny that a fleet is strongest with all vessels at the ready, Cothique’s princes maintain that their far-ranging deployments are a source of strength before anything else, since they win great prizes at sea and their expert sailors can return so quickly that the impact on readiness is minimised. 
+
+Cothique’s military has an entirely different and far more serious problem: discipline. Drunken revelry and reckless behaviour have become an issue both among active sailors and at the military academy, accompanying numerous disciplinary incidents ranging from gambling to dockside brawling with Humans from the Old World and other visitors. This is a relatively recent and thoroughly embarrassing development with little apparent source, but it is quickly becoming a growing concern. 
+
+## **Magic and Religion**
+The commonplace enchantments learned by the Elves of Cothique reflect the needs and desires of its people, ranging from humble, industrious prayers of fishermen to the predatory urges of piratical sailors. The maritime traditions, outward-facing attitudes, and stoic endurance of Cothique’s harsh lands and weather shape local practices into something unique among the kingdoms of Ulthuan. 
+
+## **Mathlann**
+Mathlann, the god of the oceans, is Cothique’s preeminent deity. Many High Elves fear his fickle moods and ward against his destructive wrath, but not so in Cothique. Here, Elves feel a strong connection to the seas, and revere Mathlann not only for the bounty of his waters, but for the challenges too. It is his trials that have made them among the finest sailors in the world. 
+
+Small shrines to Mathlann are littered everywhere throughout Cothique. Most homes have at least one altar to the god, and even the smallest boats have his rune painted somewhere, both to display reverence and avoid offence. Simple prayers to Mathlann shape many of the petty magics in Cothique. Invocations for waterproofing objects and orientation during fog are frequently taught to Asur youths, and the kingdom’s many storm weavers work more powerful enchantments to use in the manufacture of practical equipment such as self-righting astrolabes, perfect compasses, fast-drying garments, glowing fishing lures, and the like. 
+
+Storm weavers are respected for their counsel on matters of war, trade, and public conduct. Their knowledge of coming storms sets the pace of life across Cothique. Ships blessed with a storm weaver are rightly considered among the most dangerous on the oceans. The blessed of Mathlann are easily capable of scuttling fleets singlehandedly by summoning dread monsters from the depths and weaving their eponymous storms, but they also enable feats of tactical dominance by rendering Cothique’s ships invisible in fog and directing the winds. 
+
+## **Isha and the Green Wind**
+As Cothique’s wind-scarred landscape is notoriously difficult to farm, its residents rely on inter-kingdom trade, hunting, and fishing to supplement local produce. Expertise with _Ghyran_ , the Green Wind, is almost mandatory to farm in Cothique, either to revitalise its salt-fallow soil or to create and maintain a glasshouse, 
+
+a self-contained environment safer for a plant than leaving it exposed to the ocean wind. Some plants are notoriously difficult to rear in glasshouses, and doing so successfully is considered a sign of favour by Isha. 
+
+The Green Wind also sees use in the tending of the Starwood Groves, a natural resource that is among Cothique’s most important for naval construction. Shrines to Isha dot the forest, and complex rituals of High Magic and _Ghyran_ are used to coax the still-living trees from the ground and shape them for use on the water. Several noble houses of Cothique sponsor mages from their own families who spend their lives dedicated to this task, as it is so vital to maintain their naval strength. 
+
+## **Kurnous and Anath Raema**
+Kurnous is often worshipped by fishermen, who bless their hooks, nets, and spears in a similar fashion to how archers bless their arrowheads. More ambitious (or foolhardy) hunters are sometimes drawn to pursue Cothique’s sea monsters in the name of Anath Raema. This practice is considered a great offence by the priesthood of Mathlann. They call upon these creatures in times of strife, sometimes know them by name, and insist that to hunt them for selfish reasons would be to risk Mathlann’s violent displeasure. 
+
+## **Vaul and the Gold Wind**
+The harsh conditions of Cothique punish Asur creations, from humble everyday items to their grandest works. Many objects are enchanted with simple weatherproofing charms, and the Gold Wind _Chamon_ is often employed for mending. The grandest Cothiqui ships are shaped from salt-kissed livewood using rites employing _Ghyran_ and _Chamon_ . These vessels naturally resist the elements and heal damage over time, but their making must be undertaken with extreme care lest the spirits of the trees turn rebellious. 
+
+Quality craftsmanship is a must for smaller items as well, as even if fixed or made resilient by magic, garments and practical goods that are poorly made do not last long. Vaul sees widespread worship as a result, from enthusiasts making their own fishing rods and canoes to trade craftsmen fashioning exportable goods. The Cult of Vaul has a major temple in Cothique, the Sky Forge, that stands among the Annulii Mountains, adding to its influence. Purists from the cult sometimes object to local practice, however, as the priests occasionally fashion goods for export themselves. 
+
+## **Hoeth**
+The Cult of Hoeth has a significant influence in Cothique. Tor Vael has long been a centre of study and learning for the cult, and loremasters give counsel and conduct inquiry throughout the kingdom, much to its benefit. Even the boldest sailors often whisper prayers to Hoeth for guidance — after all, few places require quick, clear thinking more than the dangerous seas of the Shifting Isles. For the less devout, the cult offers to cast mindquickening charms for a nominal donation. 
+
+Of late, swordmasters have become a frequent sight in Tor Andar and Tor Koruali. The reign of phoenix king Finubar has seen profits rise for Cothique’s merchants but has also sparked a resurgence of interest in cults of pleasure and luxury. Some foreign visitors may wonder how any cultist could hide from such inquisitors, but the outgoing and open-minded lifestyle common to Cothique helps mask cult activity, and, unlike Human witch hunters, a swordmaster only acts if they feel their suspicions are clearly justified. 
+
+## **Khaine**
+Life on the ocean can become unexpectedly violent, and the possibility of sudden, pitched battle hangs heavy over many in Cothique. Attacks on merchant vessels are not uncommon, and the kingdom still bears the scars of invasion. Any Elf may resort to a quick prayer to Khaine when under violent duress, but his repeated invocation can rapidly imbalance the spirit, replacing the fears that drive one to beseech the god of murder with a lust for violence in his name. 
+
+Cultists of Khaine carry out his bloodthirsty mission wherever they may. In Cothique, such cultists can be found on the open ocean, concealing anointed daggers that grant their wielders exquisite thrills when wet with lifeblood. These murderers often gravitate towards piratical captains or else become them, craving the adrenaline of seaborne violence. 
+
+## **Atharti and Cults of Pleasure and Luxury**
+The ocean provides opportunities for wealth, and the Cult of Atharti promises greater riches and pleasures should they be sought in her name. Atharti is a goddess of seduction, and her cultists are experts at convincing others to embrace their hedonistic lifestyles. Cults of pleasure and luxury pay her significant obeisance, and her worship has grown as Cothique has continued to import novel luxuries. 
+
+Many of these cults masquerade as clubs of aestheticists, highborn socialites, and merchants, and whilst the behaviour they promote is selfish, they act within the same bounds as any other trader or sophisticate pursuing self-enrichment and appreciation of the finer things in life. The swordmasters monitor these cults, but rarely interfere, as to round up and arrest Atharti’s worshippers would cause a political vacuum that would only be to the ultimate benefit of Ulthuan’s foes. 
+
+Instead, resources are allocated to rooting out her most ardent devotees. These pleasure-seekers are sufficiently aligned to Atharti that they must also pay obeisances to her sister, Hekarti, to avoid drawing the jealous sibling’s ire. Hekarti is the goddess of Dark Magic and, whatever the reason for their supplications, rewards those who sacrifice to her with knowledge of sorcerous power. She demands blood and favours spellcasters who spurn her for her sister above all other offerings. 
+
+## **Slaanesh**
+These cults, however, are not the swordmasters’ highest priorities. Above all else, they stand vigil against a god whose true name, many believe, must never be spoken: Slaanesh, the Lord of Excess. Cothique is fertile ground for the machinations of the Chaos God, as the ambition, opportunity, and wealth of the kingdom are breeding pools for desire. Cultists of Slaanesh can be from any walk of life; the only thing that truly unites them is allconsuming desire. 
+
+Known Atharti cults are an evil that pales in comparison to that of the Thirsting Prince — while unwholesome and dangerous, Atharti is, at least, an Elven god. Loremasters sometimes tolerate the activities of less severe pleasure cults to reduce the strength of taboo, one of Slaanesh’s favourite lures. They also provide a gathering place where agents of the god are likely to appear. Many loremasters are willing to wager the Atharti worshippers’ souls against their ability to detect something worse. 
+
+The Cult of Slaanesh is widespread and deep-rooted in Cothique’s society. The perverse gifts of the Dark Prince deceive, beguile, and corrupt in terrifyingly subtle ways, and those who embrace Chaos on Ulthuan are particularly adept at concealing themselves among lesser evils. Worshippers of Slaanesh thrive amongst the pleasure cults, but almost always in secret, as only the most arrogant believe themselves capable of consorting with Chaos and escaping unscathed. 
+
+## **The Cults of Pleasure and Luxury**
+High Elves are watchful for signs of excess and the forbidden worship of the Cytharai, or gods of the Underworld, or the more insidious cults of pleasure and luxury that indulge in rites to the Chaos God Slaanesh. However, excess can take root in all forms of worship, including that of the Cadai, or gods of the heavens, and corruption festers unless it is purged. 
+
+## **Cult of the Embers of Resistance**
+Cothique’s violent past brought like-minded Elves together as kindred. In preparation for future invasions, they hide stockpiles of supplies in grottos and abandoned mines. The Embers of Resistance is one of many such groups that prepare in hidden shelters for the prophesied _Rhana Dandra_ , or End Times. 
+
+The group attracted the attention of a secret benefactor, whose funds have allowed them to focus on preparations such as combat training, and to set up a retreat on an island in the Shifting Isles. New recruits with combat experience are being sought, and those with military positions are targeted for recruitment so that better weapons can be obtained by the group. 
+
+Selected members are taken to the island to compete in bloody tournaments. The victors are inducted into the sacred rites of Khaine and initiated into the cult’s secret belief that Prince Tyrion will take up the Sword of Khaine when Ulthuan’s need is greatest. Cultists move throughout society, removing those they perceive to be weakening Cothique and preparing to assist Tyrion when the time comes. 
+
+## Shattered Glass
+An agent for Prince Arathion is recruiting investigators to explore allegations that his head gardener, Kalebyn Greenfinger, is poisoning his villa. These rumours are the work of the Cult of the Embers of Resistance, seeking to ruin Kalebyn. The cult’s motives are to wait until Kalebyn is desperate for support, recruit him, and transport him to the island where he will prepare its gardens for Tyrion’s ascension. Cultists amongst the villa’s staff are also drawn to items that could be linked to Tyrion, palming small trinkets to be taken to the island’s shrine. 
+
+## **Cult of the Endless Hunt**
+Whilst many in Tor Koruali have been turning away from fishing with spears in favour of fishing practices involving nets, the merchant house of Caraidh Eldoiriasg have long worshipped Kurnous, god of the hunt, and continue to fish without nets. Unfortunately, since the enchantment of the Shifting Isles, large schools of fish have become harder to locate as the sporadic movement of shoals and sandbars constantly disrupts the natural order. Resentment has grown towards the net-based practices, and some of the more zealous members of the house of Caraidh Eldoir-iasg have taken to actively sabotaging fishing equipment, or driving schools of fish away from boats crewed by fishermen who make use of nets. 
+
+Mirion Swiftspear once rode the waves peacefully on her fish companion until, one day, it became entangled in gillnets from Tor Koruali. In anguish, Mirion cursed the city and set out to destroy all it represents by embracing Anath Raema, goddess of the savage hunt. Seeking retribution, she attacks ships from the mists leading a glide of flying fish. 
+
+Many have rallied to her cause, sowing division amongst the merchant houses. Initiation into the cult involves feasting upon sea monster flesh, as it is believed to imbue members with savagery and strength. Squadrons are directed to drive sea monsters towards shipping lanes and the fishing grounds used by trawlers. 
+
+## The Bitter Taste of Success
+Harmony Master Taradhir is unsettled by what he regards as a rising number of Elves in Cothique who seem spiritually imbalanced and prone to aggression. Elves affected have eaten meat from sea monsters, and though parts are believed to have medicinal properties, some cuts have an impact on _yenlui_ . Not wanting a formal investigation, he offers the Characters the opportunity to explore the issue as a form of reflection. 
+
+Investigations might lead the Characters to the door of Mage Kyraelle Palemoon, who is attempting to better master the control of sea beasts through the consumption of their meat, supplied by Mirion Swiftspear. This is smuggled into the city and enters the food chain through the Fish Market (page 37). Kyraelle is not herself an advocate of Aneth Raema, though she is risking a descent into dark yenlui through her experiments. 
+
+## **Glass Houses**
+Cothique’s climate presents challenges to farmers, as the winds that scour it kill most crops. These conditions motivated the development of techniques, both magical and mundane, for insulating plants from the elements. The few open farmlands in Cothique that exist are bolstered by a series of windbreaks and barriers, since even robust plants benefit from some modicum of cover during the worst storms. 
+
+In contrast to these mundane solutions are the glass houses. They are fine feats of Elven engineering: gleaming structures fashioned almost entirely from glass. They are constructed to create an internal environment with a consistent temperature and humidity, trapping the heat of the sun and keeping out the cold and rain. 
+
+Despite the fragile materials used to build them, glass houses must be robust. To strengthen their construction, they are shaped into domes. Enchantments of _Aqshy_ and _Hysh_ can create whatever levels of heat and light are desired, and magic of _Chamon_ can make a glass house’s frame impervious to storm damage. The more the climate inside a glass house differs from the climate outside it, the more powerfully it must be enchanted, and the larger glass houses are home to a resident mage who monitors the spells maintaining it by the hour. 
+
+As such, although it is possible to grow nearly anything in a glass house, certain plants are only practical to cultivate in smaller, room-sized enclosures. Generally, these are specimens from the jungles of Lustria or the Southlands, although some less conventional glass houses emulate frigid climates through the employment of enchantments that chill the air and freeze water. The exotic fruits, vegetables, and herbs produced in glass houses lend Cothique’s cuisine some of its unique charm. 
+
+## **Cothiqui Beef**
+Although the great cattle of Ulthuan are hardy creatures, their robust flesh is ill-suited for consumption. Novel farming techniques have emerged in response to this issue, and farmers in Cothique take care to ensure their livestock is protected from the stresses of predation and parasitism, sheltered from the worst of the weather, and fed a diet of lush grass and aromatic herbs. 
+
+Raising livestock in this way is expensive and logistically complex but produces cattle of unparalleled quality. Cothiqui cattle are famed for their mottled fur, whitemarbled fat, and the sea-salty essence that permeates their flesh from years of breathing the ocean air. The appearance of the beef is particularly striking, its intense marbling resembles thick seafoam at sunset. 
+
+The midsections of these cattle are delicacies of the highest order. The waiting list for such cuts is years long, and obtaining one on short notice requires the right connections and a fat purse. As a result, although the practice has inspired many farmers across Ulthuan to reduce herd sizes and increase standards of care, few outside Cothique attempt to create meat akin to this beef. It is seen as an eccentricity of the kingdom and an indulgent pleasure for many highborn Elves. 
+
+## Like Cattle to Slaughter
+The Characters are offered rich payment to defend a ranch to the west of Tor Koruali for several days until the permanently hired staff arrives in Cothique. They are warned that a pride of White Lions has developed a taste for the cattle and will even break into paddocks and barns to attack them. In truth, the job is a Khainite ruse, meant to create a plausible scenario for a series of violent deaths. 
+
+## Floral Manbane
+Among the most wicked poisons in Naggaroth’s arsenal is manbane, a terrifyingly potent anticoagulant that causes tiny wounds to gush like torn arteries. Manbane is made from a particularly rare and beautiful flower, the lathranoi, that is native to the chilly isles north of Nagarythe. A small club of horticulturalists has begun cultivating the flower in secret using magically chilled glass houses. Whilst their work is being carried out in secret, they believe their client to be a pirate from Sartosa, failing to understand the inroads Dark Elves have made in forming contacts there.

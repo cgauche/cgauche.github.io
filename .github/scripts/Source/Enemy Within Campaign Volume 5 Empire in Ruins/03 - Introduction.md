@@ -1,0 +1,1130 @@
+# Introduction
+
+*Pages PDF 4-35*
+
+## Introduction
+Welcome to **Empire in Ruins** , fifth and final volume in the Director’s Cut edition of the **Enemy Within** campaign. While it can be played on its own, it has been designed to be played after completing volume 4, **The Horned Rat** . This book contains everything you need to play the adventure, except for the **WFRP** 4th edition rulebook. 
+
+If you are looking for more options, side quests, and background information, the **Empire in Ruins Companion** includes a wealth of supplemental material you can use to make this final chapter of the **Enemy Within** campaign even more entertaining. 
+
+If you do not possess the earlier volumes of **the Enemy Within** , we strongly recommend you find them and play through them before commencing **Empire in Ruins** . However, some ideas are given for starting with this adventure on page 35. 
+
+## **A Hidden History**
+The real history of the Empire is different to the one taught by scholars. Most people believe that Sigmar designed, or at least approved of the system of electors and emperors before he departed the Empire circa 50 IC. They assume that he handed his hammer, Ghal Maraz, down to his successor, intending it to stand as a sign of his approval and a symbol of the uninterrupted rule of emperors tracing their authority back to him. 
+
+In fact, the hammer wielded by the emperor is not the same Ghal Maraz that was gifted to Sigmar. It is a mighty magical weapon, blessed by Sigmarite priests and constructed by skilled Dwarf Runesmiths, but it is merely an imitation. 
+
+Ghal Maraz itself is in a cave deep within the Black Mountains. During his final journey Sigmar was confronted by Sheerargetru, an immense and powerful Lord of Change who had tried to influence the creation of Ghal Maraz and who resented its wielder. The hero fought the Daemon, a titanic struggle that left its mark on the mountainsides. Sigmar could not destroy Sheerargetru, but he was able to trap the Daemon deep inside a cave, surrendering Ghal Maraz in the process. Only the immense magical energy worked during the Hammer’s forging could restrain the Daemon. 
+
+Sigmar passed into legend, and Sheerargetru raged against his bonds. For a thousand years he languished in the cave. Then the Daemon discovered a weak link, providing it with enough freedom to project a sliver of its consciousness into the mortal world. Sheerargetru’s influence was felt by corrupt folk all over the Empire, but it concentrated on Altdorf, a nexus of magical power and the site with most significance to Sigmar. It was able to instil prophetic visions in those able to perceive the winds of magic. Weak and disoriented, Sheerargetru was not able to communicate clearly, but a body of arcane lore developed inspired by its psychic projections. 
+
+Amongst scholars of the arcane and worshippers of the ruinous powers, several schools of thought developed as a result of Sheerargetru’s efforts. In its delirium the Daemon let slip information that would both help and hinder it. It inspired the creation of the Purple Hand, luring the cultists into the worship of Tzeentch with the secrets of attaining temporal power. It surrendered techniques needed to master sorcery, leading to prophecies foretelling of a Champion in Shadows — a fabled sorcerer of such power that all Tzeentch’s followers would have to respect and heed them. 
+
+The Daemon Gideon was the first to realise that hidden within this body of lore were clues to the location of the trapped Daemon and formulae which, if followed, would see Sheerargetru made manifest in all its glory once more. Gideon knew that by rescuing the Daemon he could win favour with Tzeentch, the gratitude of Sheerargetru, and the desolation of the Empire. 
+
+Gideon had a problem. Human allies who made such useful pawns in arranging affairs in the mortal world may worship Tzeentch, but they tend to do so in order to attain temporal power. Many of them would baulk at the thought of unleashing Daemons in the heart of Altdorf, as doing so would destroy the very institutions they sought to control. 
+
+So Gideon fooled his mortal allies, encouraging them in the belief that by weakening the Empire and preparing the conditions most suitable for Sheerargetru’s return, they were facilitating their own rise. 
+
+Prince, now a young man, is the perfect heir: cultured, refined, enlightened, and wise. The Purple Hand, who have worked with Gideon to facilitate and fund this circumstance, believe that Crown Prince Wolfgang is the perfect leader to reunite the shattered Empire, and heap rewards on them as a consequence. 
+
+Gideon spun a different story to one member of the Purple Hand. He explained to Kastor Lieberung of Nuln that the Crown Prince would not only make a pliable emperor, but could rise to become the fabled Champion in Shadows. He encouraged Kastor to travel the Empire, risking exposure of the Purple Hand in the process. Gideon worked subtle changes on Kastor’s appearance, and left clues about Kastor’s activities where they could be discovered by enemies of Chaos. 
+
+The final circumstance Gideon needs to arrange in order to bring about Sheerargetru’s manifestation is the removal of Ghal Maraz. Even after 2500 years, during which much of its magical energy has depleted, the Hammer will not suffer a follower of Chaos to grasp it. Through manipulating Kastor into exposing the Purple Hand, Gideon intends to set a party of adventurers on a path to recover the Hammer and unleash the Daemon. 
+
+## **Adventure Synopsis**
+The Characters begin the adventure just after Baron Heinrich Todbringer rescues them from Karak Skygg. He takes them back to Middenheim in his dirigible, _The Sky Wolf_ . They are attacked by rebels from Nordland, who wish to win independence from the rule of Graf Boris Todbringer. 
+
+## **Return to Middenheim**
+Gideon encouraged the Purple Hand’s convoluted structure with its secretive ordos and confusing ever-changing coded messages. The Magisters of the Purple Hand thought that they were merely taking measures to protect themselves as they rose to power, but it also prevented them from realising that they were being put to a greater, self-destructive purpose. They have weakened the Empire to such a point that it is collapsing into civil strife, but they do not realise the aim of such disruption is to leave Altdorf unguarded against Daemonic manifestation. 
+
+Gideon needed a suitable vessel in order to return Sheerargetru to its former magnificence. Cult leaders could potentially make suitable hosts for Sheeragetru, as would scholars of the arcane, but the best vessel would be an ambitious soul, of royal bearing, knowledgeable, with mastery of many skills — an individual whose corruption would symbolise victory over all that Sigmar had fought for. 
+
+Gideon mustered the resources of several cults to see to it that Crown Prince Wolfgang Holswig Abenauer, heir apparent to the Imperial throne, was tutored by experts who were themselves steeped in Tzeentchian lore. From across the Old World, nine learned people were recruited, each a member of a cult dedicated to expertise in a particular field. The Crown 
+
+Reaching Middenheim, the Characters discover that the Empire has become increasingly riven during their departure. War between Ostland and Talabecland has grown intense, quarrels between nobles in Averland and Hochland have led to conflict, the rulers of Nuln and Sudenland rattle sabres at one another, and Middenheim itself is growing increasingly insecure regarding its borders. The blame for this parlous state is placed firmly at the feet of Karl-Franz, whose recent edicts have sparked consternation. 
+
+## **Visitors from Altdorf**
+A delegation from Altdorf is in Middenheim led by High Capitular Volkmar. The Characters are invited to a conclave between the party from Altdorf and Middenheim’s rulers. The Characters are also introduced to Yann Zuntermein, head of the Altdorf Purple Hand and an accomplished spy. The Capitular has two proposals he wishes to make in order to prevent the exacerbation of the conflicts in the Empire: a meeting and a marriage. The first is for Ar-Ulric and the Grand Theogonist to meet at Shining Rock, a site holy to both Sigmar and Ulric, to make a show of unity between the religious sects in the Empire. The second is to extend an offer of marriage from Crown Prince Wolfgang to Katarina Todbringer. Boris accepts the first offer, but Katarina refuses the second. 
+
+## **Middenheim to Shining Rock**
+The Characters travel to Shining Rock. They are reunited with old acquaintances who have surprising insights into the Emperor’s health, but who unwittingly sow seeds about the legitimacy of his rule. 
+
+## **The Shrine Attacked**
+The meeting at Shining Rock goes sour when the party comes under attack from the Bearers of the Blood, a band of Ulrican extremists. As several members of the Altdorf delegation are hurt, recriminations between the two sides grow heated and are only assuaged when Katarina agrees to marry Crown Prince Wolfgang. 
+
+## **Questioning the Groom to Be**
+The Characters are sent to Castle Reikguard in order to appraise Wolfgang’s character. They find him to be almost too perfect, and may come to suspect that he is being tutored by followers of Tzeentch. 
+
+## **A Parade at Altdorf**
+The Characters return to Altdorf to find that the entourages of several noble families have arrived in the city. The Emperor seeks to impress the Middenheimers with a show of military strength and to hold a conclave after the wedding to discuss reuniting the Empire. As the nobles preen and gossip, the Characters must negotiate a minefield of personalities, ambitions, and grievances using the high-level contacts they made in **Power Behind the Throne** , **The Horned Rat** , and elsewhere. 
+
+## **A Wedding Interrupted**
+The wedding goes ahead, but is interrupted by a Nordlander assassin who shoots at Katarina, just before the vows are exchanged. It is up to the Characters to prevent a tragedy, but either way the wedding is off. 
+
+## **The Shattering of Ghal Maraz**
+The assassin’s actions overshadow the planned conclave, and Boris Todbringer even lashes out in anger at Karl-Franz. The impossible happens: Ghal Maraz is shattered, something that would never happen to the true Hammer of Sigmar. 
+
+As events unfold, the Characters may realise that the KarlFranz they see before them is as false as his hammer. They may rescue Emperor Karl-Franz from a plot that kept him enfeebled for months, and restore him to his former strength and stature. 
+
+## **War Looms Large**
+It is clear that the Empire will collapse into total war unless the Emperor’s authority is restored — without Ghal Maraz this is not likely to happen. Research and adventure lead to its resting place, a cave in a hidden valley infested with Night Goblins. After securing the divine weapon, the Characters return to Altdorf, navigating the machinations of Marius Lietddorf and Emmanuelle von Liebwitz as they do so. 
+
+## **The Hammer Returned**
+In their absence, things have gone from bad to worse. The influence of Chaos on the capital is stronger than ever, and the Electors are preparing for war. At a ceremony to mark the return of Ghal Maraz, Sheerargetru makes its bid to manifest and spread Chaos throughout the Empire. 
+
+## **The Empire Renewed**
+Provided the Characters defy the Daemon, the revitalised Karl-Franz has a firm grip on the throne and is supported by Graf Boris Todbringer, the acknowledged leader of the Ulrican north. Some Electors are dead, and some are stripped of their titles as punishment for their disloyalty. The Empire’s territories are re-organised in a series of reforms aimed at strengthening and stabilising the Empire. 
+
+The campaign ends with the Characters having saved the Empire, and with it, the whole of the Old World. However, another threat is already growing. The forces of Chaos are roused, and are not easily swayed from their course. 
+
+## Introduction **Designs of the Great Architect**
+Even as the Characters and their allies scramble to keep the peace, the forces of Chaos work tirlessly to stop them. Indeed, the attempt to rouse an ancient and powerful servant of Tzeentch is centuries in the making. As is his nature, the Lord of Change works his will through numerous, often competing, agents of change. 
+
+## **Gideon**
+The shapeshifting Daemon known as Gideon is alive and at large in the Old World once again. After his performance in Bögenhafen, he is either looking to redeem himself in the eyes of the Great Mutator (if the Characters foiled his plot), or given a prestigious new mission (if he opened up a daemonic portal in the town). 
+
+Gideon has been given the task of liberating Sheerargetru. He has made certain preparations over the years in order to pave the way for the return of the mighty Exalted Daemon. He needs to complete two tasks in order to do this: prepare a vessel for the demon and retrieve the real Hammer. 
+
+## **The Nine Eyes**
+Throughout the Empire there are nine small and secretive cults that Gideon has encouraged and patronised over the centuries. Each of these cults is dedicated to gathering knowledge and secrets on a particular topic, and their inner circles include some of the most learned and informed people in the Empire. Nearly nine years ago Gideon approached each of the cults and asked their most erudite members to provide tutelage to Crown Prince Wolfgang. These tutors are collectively known as the Nine Eyes. 
+
+Gideon has used the Nine Eyes to provide Crown Prince Wolfgang with a superb and cosmopolitan education, but their teachings have also had an insidious effect on the Crown Prince, who has unwittingly been turned into the perfect vessel for daemonic possession. 
+
+The Nine Eyes have also been made Gideon’s unwitting stooges. Whilst they share an inkling that they are all serving Tzeentch’s grand plans, they do not realise that they are intended to become the vessels for daemonic possession themselves. 
+
+Gideon has prepared several vessels, the first and best of these is Crown Prince Wolfgang. Gideon has seen to it that he has been tutored by servants of Tzeentch throughout his youth, and whilst the Prince is the consummate gentleman, his mind and body have been subtly prepared to provide the perfect host for Sheerargetru. Gideon has prepared alternative vessels in the event of the Prince’s death, but they are inferior specimens. 
+
+The other task Gideon needs to complete in order to facilitate Sheerargetru’s manifestation is to retrieve Ghal Maraz. However, he cannot touch the weapon himself as the very presence of Sigmar’s Hammer is inimical to creatures of Chaos. So he has conspired for a group of adventurers to retrieve it at the time most conducive to his plans. 
+
+**Tutor**
+
+**Cult**
+
+**Home Town**
+
+**Speciality**
+
+Kathe Ruttmann
+
+Vigilant Eye
+
+Bögenhafen
+
+History and politics
+
+Per Haldestaake
+
+Fractured Eye
+
+Ubersreik
+
+Trade secrets and technical
+
+expertise
+
+Wilhelmina Novak Withering Eye
+
+Altdorf
+
+Magic
+
+Wolfie Jessner
+
+Wandering Eye
+
+Middenheim
+
+Rural affairs and the
+
+Empire’s North
+
+Ingrid Rademakers
+
+Eagle Eye
+
+Talabheim
+
+Natural history and
+
+fencing
+
+Wulfrum Ahlquist
+
+Public Eye
+
+Nuln
+
+Society and Human
+
+nature
+
+Gustav Klaus
+
+Kaleidoscope Eye
+
+Bechafen
+
+Non-Human species
+
+Gislind Ursin
+
+Hollow Eye
+
+Averheim
+
+Culture and philosophy
+
+Vatheck Fulci
+
+Far Eye
+
+Remas
+
+Geography and foreign
+
+affairs
+
+**THE**
+
+**NINE EYES**
+
+|---|---|---|---|---|
+||**Tutor**<br>Kathe Ruttmann<br>Per Haldestaake<br>Wilhelmina Novak <br>Wolfie Jessner<br>Ingrid Rademakers<br>Wulfrum Ahlquist<br>Gustav Klaus<br>Gislind Ursin<br>Vatheck Fulci|**Cult**<br>Vigilant Eye<br>Fractured Eye<br> Withering Eye<br>Wandering Eye<br>Eagle Eye<br>Public Eye<br>Kaleidoscope Eye<br>Hollow Eye<br>Far Eye|**Home Town**<br>Bögenhafen<br>Ubersreik<br>Altdorf<br>Middenheim<br>Talabheim<br>Nuln<br>Bechafen<br>Averheim<br>Remas|**Speciality**<br>History and politics<br>Trade secrets and technical<br>expertise<br>Magic<br>Rural affairs and the<br>Empire’s North<br>Natural history and<br>fencing<br>Society and Human<br>nature<br>Non-Human species<br>Culture and philosophy<br>Geography and foreign<br>affairs|
+
+## **The Purple Hand**
+## **Kastor Lieberung**
+The Purple Hand used to be the largest and most successful cult of Tzeentch in the Empire, but over the last year they have been rocked by misfortune. One of their senior members went missing, possibly rogue, after being told to collect a significant inheritance. Soon after this the cult in Middenheim was smashed through the efforts of Ulrich Schutzmann and the Komission of Investigation into Threats Unknown to Middenheim. 
+
+Kastor Lieberung is dead, but before he died Gideon convinced him to try to facilitate an old prophecy. Kastor had been the Magister Impedimentae of the Nuln cell of the Purple Hand, and like most of his fellow cultists, he was largely kept in the dark about the schemes of other cells. 
+
+This struck Kastor as unsatisfactory. He believed the cult could only achieve its potential if it acted as a more coherent unit with coherent goals. He was encouraged in his beliefs by Gideon, who informed Kastor of an ancient piece of Tzeentchian lore prophesying that a Champion in Shadows might one day unite faithful worshippers of Tzeentch. Before he died, Kastor hoped that this prophecy would lead to a unified Purple Hand. Gideon hopes that it will lead to the destruction of the Empire. 
+
+The cult is still active and dangerous in other parts of the Empire. However, many members are compromised, either as a result of counter-cult activity, or because of Gideon’s orchestration. 
+
+## **Yann Zuntermein**
+Zuntermein is head of the Altdorf cell of the Purple Hand. He is one of Altdorf ’s most accomplished spies and has infiltrated many high-ranking organisations. He worships Tzeentch under the misguided impression that doing so will lead to his own advancement. He worships change and instability, but only insofar as he believes he will benefit from it. He has been working alongside Gideon to promote division throughout the Empire, to poison the Emperor, and to establish Crown Prince Wolfgang as a suitable heir. However, Zuntermein is not aware that Gideon plans for a Daemon to possess Crown Prince Wolfgang. He thinks the Nine Eyes are merely in the process of preparing the Crown Prince to share ideological goals with the Purple Hand. 
+
+Kastor had gone some way to laying the groundwork for unifying the Purple Hand, and he had also been instrumental in recruiting the Nine Eyes. Unfortunately for him, he was lured to Bögenhafen to collect a fake inheritance, and slain by mutants who waylaid his coach. 
+
+## **Karl-Heinz Wasmeier**
+Wasmeier seems a spent force. He poured all his resources into his plan to replace Middenheim’s Graf with a Doppelgänger. This plan  — which Zuntermein had derided from the start for its inelegance — failed, and Wasmeier was forced to flee. 
+
+Throughout **Empire in Ruins** , Zuntermein pursues his intended goals of trying to sow discord between the provinces, edge the Empire towards civil war, remove his enemies, and have Crown Prince Wolfgang rise to power and reunite the Empire. 
+
+During the course of **Empire in Ruins** , Wasmeier tries to inveigle himself back into the Purple Hand. Zuntermein uses Wasmeier as an agent to help stir up Nordlander separatists, but beyond that he sees his old rival as little more than a liability. 
+
+For his part, Wasmeier realises that the only way he is likely to climb to a senior position in the cult again is if he gets rid of Zuntermein. Wasmeier and Zuntermein develop such mutual resentment that they may even try to alert the Characters to one another’s presence during the adventure. If Wasmeier can get to Zuntermein before Zuntermein gets to him, maybe he won’t be such a spent force after all. 
+
+## **Elvyra Kleinestun**
+Elvyra is not a worshipper of Tzeentch, but she is one of Gideon’s unwitting pawns. He took the guise of the Daemonologist in Altdorf who tried to have her kidnapped during **Death on the Reik** . Since the Characters last saw Elvyra, he has managed to twist her to his ends using more subtle forms of persuasion. He has used Zuntermein to raise her up in the world. Now she is the personal pharmacist to none other than the Grand Theogonist Yorri XV. 
+
+Whilst Elvyra serves the Grand Theogonist loyally, she has been driven to believe that it is necessary to inform Boris Todbringer that the hammer wielded by the Emperor is not actually Sigmar’s Hammer. She has been led to believe that this is a wise course of action. 
+
+## **The Red Crown**
+Both Sheerargetru’s psychic projections and Gideon’s manipulations have influenced the Red Crown’s actions as more of an indirect consequence than a consolidated part of the plan. The Red Crown cult play a small role in the upcoming turmoil, as the Beastmen they rile up throughout the Reikland prove a drain on military resources, leaving Altdorf vulnerable at the most convenient time for Sheerargetru’s manifestation. 
+
+## **Ghal-Maraz**
+The Empire’s people would be shocked to learn that Sigmar’s Hammer lies in a cave within the Black Mountains. As far as they are concerned, it is in the Emperor’s possession, and has been ever since Sigmar left it in the keeping of his people nearly 2500 years ago. 
+
+But this isn’t the case. The hammer wielded by the Emperors is no doubt a mighty artefact, but it is merely an imitation of Ghal-Maraz, forged by the Sigmarite cult in its early days. In the centuries since, the origin of this hammer has been forgotten. 
+
+Whilst the early Sigmarites may have honestly acknowledged that it was a mere spiritual successor of Ghal-Maraz, these days people think the Emperor’s hammer is the self-same weapon wielded by Sigmar during his conquests. 
+
+There are some who suspect the truth, and who sense an opportunity to reveal that the iconic symbol of royal power and Sigmarite supremacy is merely a fraud. 
+
+## **Factions in the Empire**
+The Empire teeters ever closer to the brink of total war. Already Ostland and Talabecland are at one another’s throats, and other nobles continue to jockey for position, power, and prestige. 
+
+## **Emperor Karl-Franz**
+Karl-Franz is confined to his bed, suffering from a lingering malaise and further weakened through the malpractice of his personal physician, Henrik Kappelmuller, a member of the Altdorf Purple Hand. His double, Hermann von Feilbach, a member of the Reiksguard’s Inner Circle, does his best to cover up for the fact that the Emperor is ill, but rumours are spreading throughout the Empire. Hermann is loyal, but he is also naïve and like many in Altdorf he has been influenced by Yann Zuntermein. Through careful manipulation, Zuntermein has persuaded Karl-Franz to order the takeover of Ubersreik, and the signing of the notorious mutant edict. 
+
+Having offended his nobility by deposing the Jungfreud family of Ubersreik, and having alienated the Sigmarite priesthood by his defence of mutants, Karl-Franz is steadily losing his grip on the Empire he was trusted to govern and unite. 
+
+## **Middenheim and Middenland**
+In the city of Middenheim people are increasingly angry with Emperor Karl-Franz. They feel that the recent mutant edict is weak, hypocritical, and liable to encourage the spread of Chaos worship. They suspect agitators from Altdorf of stirring up trouble with Nordland and blinding them to the dangers posed by the Purple Hand. 
+
+Newly anointed Ar-Ulric Emil Valgeir is far more aggressive in his defence of Ulrican values than his predecessor, and secretly spoils for a fight with the Sigmarites of the south. He has lifted the ban on the Sons of Ulric, despite the fact that the sect wishes to depose him in favour of one their own. Now these sectarian zealots preach openly in Middenheim. 
+
+In Middenland the von Bildhofen family is increasingly torn. Related to the Todbringers by marriage, they have loyalties to Middenheim, yet they also remember their forebear Magnus von Bildhofen, known as Magnus the Pious — one of the greatest Sigmarite Emperors to have sat on the throne. 
+
+## **Nordland**
+Nordland joined the Empire in 767 IC, after centuries on the edge of Sigmar’s domains. In the intervening millennia it became a province in its own right, never as powerful or politically important as wealthier regions in the south, but significant enough to hold electoral status. It even produced an Emperor: the universally loathed Hjalmar the Tyrannical. But Imperial provinces’ fortunes fluctuate over the centuries, and Nordland is now ruled by Middenheim and governed by the puppet Baron Werner Nikse, an enthusiastic relative-bymarriage to the Todbringers. 
+
+Many Nordlanders resent Middenheim rule, calling back to times past when Nordland determined its own fate and took its place with the Electors. The separatist movement has no central control or organisation, but pockets of rebellion have arisen throughout the province. Some signal their allegiance with an hourglass emblem, which echoes a symbol of defiance used by Count Ostrein of Nordland in 2015 IC against the armies of Middenheim at the Battle of Elstwater Keep. 
+
+It is an open secret that Nordmarshall Theodoric Gausser supports independence from Middenheim, as his ancestors ruled Nordland in the past and harbour a rivalry with the Nikses. While Gausser proclaims public condemnations of violence or destruction for the Nordland cause, he plots to overthrow the Nikses. To this end, he has made alliances in Altdorf and elsewhere, plotting to return Electoral authority to a province he will rule. 
+
+## **Nuln, Wissenland, and Sudenland**
+Sudenland is a small and impoverished province to the south of the Empire. It stands within the borders of the former realm of Solland, a once prosperous province that was torn apart by the invasion of the Orc Warlord Gorbad Ironclaw in 1707 IC. The city state of Nuln lies to the north of Sudenland. It also bore the brunt of Gorbad’s rage, and bitter recrimination flew between the nobles of Nuln and Sudenland as to who paid a heavier price during the Orc’s depredations. 
+
+The county of Wissenland, attached to Nuln, lies between the city state and Sudenland. Whilst the borders of the county were drawn following the restoration of Imperial authority following Gorbad’s eventual withdrawal, there are many in Sudenland who feel that estates granted to Wissenlander nobles extend over lands that ought rightfully to belong to a restored Solland. Elector Etelka Toppenheimer, the current elector of Sudenland, is their most vocal champion. She has also been so rash as to declare that, were she to have her way, the Toppenheimers would rule Nuln as they did in previous centuries. 
+
+Emmanuelle von Liebwitz of Nuln longs to be rid of the Toppenheimers, and hopes to take advantage of the fact that Etelka has recklessly promised her crown to her adopted son, Basil, leaving her 12 natural children dismayed and rebellious. Were Emmanuelle to be provided with a credible justification for declaring war on Sudenland, she would be eager to make the best of it. 
+
+## **Ostland, Talabecland, and Hochland**
+Ostland and Talabecland have enjoyed a spotted history. Ostland is a fiercely Sigmarite province; whilst the folk of Talabecland pay Ulric great regard as the brother of their divine patron Taal. During the Age of Wars the centre of the Ulrican cult moved to Talabheim, and skirmishes between the two provinces were sporadic but frequent. 
+
+Bellicose Talabeclanders have argued that it would be a simple matter to squeeze Ostland between their forces and the borders of Kislev, but Ostland has proved a staunch bastion, and since the reunification of the Empire under Magnus the Pious, the two provinces have enjoyed an uneasy peace. 
+
+Sorrow has befallen Ostland a number of times in recent years. Their beloved ruler, Ostwald von Konigswald, had won himself a reputation as a heroic adventurer in his youth, but now few speak his name. Rumours suggest that Ostwald had been possessed by a dark power and that his death at the hands of a Sudenland baron was a mercy. Proud Ostlanders rankled at the fact that their champion had been revealed to be corrupt and treasonous. Refusing to be humbled, they turned to the hotheaded Hans-Hals von Tasseninck to rule in Ostwald’s stead. 
+
+Hans-Hals’s son, Crown Prince Hergard, led an expedition into the middle mountains where he was slain by a Skaven agent working on a tip-off from the Purple Hand. Purple Hand agents have spread rumours that the Crown Prince Hergard’s murderers were mercenaries under the command of Grand Duke Gustav Krieglitz of Talabecland. Diplomatic attempts to persuade the two noble houses to set aside their differences have failed, and the provinces have already engaged in multiple skirmishes that are threatening to escalate into outright war. 
+
+Hochland, an area to the north of Talabecland, separated from the rest of the province by the river Talabec and largely Sigmarite, grows dissatisfied with their rulers in Talabheim, and demands increased autonomy. To the east the region of Ostermark, also Sigmarite, recall a time when they ruled themselves rather than defer to Talabecland. 
+
+## **The Turmoil**
+The period of unrest that develops over the course of **Empire in Ruins** comes to be known as the Turmoil. During this period, old scores are settled and new grievances established. Some of these changes happen in front of the Characters’ eyes, whilst others occur in distant provinces or during the aftermath of the adventure. 
+
+|Electors prior to the Turmoil|Electors after the Turmoil|
+|---|---|
+|Ludmilla Alptraum the Grand Countess of Averland|Marius Leitdorf the Grand Count of Averland|
+|Boris Todbringer the Grand Duke of Middenheim|Boris Todbringer the Grand Duke of Middenland|
+|Leopold Bildhofen the Grand Duke of Middenland|Teodric Gausser the Grand Baron of Nordland|
+|Emmanuelle von Liebwitz the Grand Countess of Nuln|Emmanuelle von Liebwitz the Grand Countess of<br>Wissenland|
+|Hans-Hals Tasseninck the Grand Prince of Ostland|Valmir von Raukov the Grand Prince of Ostland|
+|Karl-Franz Holswig-Schliestein the Grand Prince of<br>Reikland|Karl-Franz Holswig-Schliestein the Grand Prince of<br>Reikland|
+|Alberich Haupt-Anderssen the Grand Duke of Stirland|Alberich Haupt-Anderssen the Grand Count of Stirland|
+|Elise Krieglitz-Untern the Grand Duchess of Talabheim|Wolfram Hertwig the Grand Chancellor of Ostermark|
+|Gustav Krieglitz the Grand Duke of Talabecland|Helmut Feuerbach the Grand Duke of Talabecland|
+|Etelka Toppenheimer the Grand Baroness of Sudenland|Aldebrand Ludenhof the Grand Baron of Hochland|
+|Hisme Stoutheart the Elder of the Moot|Hisme Stoutheart the Elder of the Moot|
+|Yorri the Grand Teogonist of Sigmar|Volkmar the Grand Teogonist of Sigmar|
+|Aglim the Arch Lector of the East|Esmer the Arch Lector of the East|
+|Kaslain the Arch Lector of the South|Kaslain the Arch Lector of the South|
+|Ar-Ulric Jarrick Valgeir|Ar-Ulric Emil Valgeir|
+
+## **How Has the Purple Hand Influenced the Turmoil?**
+The conflict proliferating throughout the Empire has many causes, and might even have arisen without the guiding influence of the Purple Hand. However, they have been careful to push fractious elements and destabilising agendas so many of the conflicts gaining traction are doing so, or at least doing so _now_ , because of the Purple Hand. 
+
+Together they concocted a body of doctored evidence suggesting that the von Jungfreud family had expansionist ambitions, mostly by twisting accounts of the Jungfreud feud with the Wallensteins of Auerswald, and making it appear that Jungfreud paranoia in this regard was leading them to prepare for war with the Reikland in general. 
+
+The details of each of these operations are not the focus of this adventure. However, the situation around the Ubersreik takeover provides a good example of how the Altdorf cell of the Purple Hand, in particular, go about using proxies and red herrings to achieve their aims — whilst keeping their own key agents’ hands clean. 
+
+Immanuel-Ferrand, Karl-Franz’s uncle and a member of the Empire’s Council of State, is a brilliant man, but has a notable flaw. He firmly believes that Sigmar desired his empire to be centralised, and that the Emperor ought to have greater control over the affairs of other noble estates and provinces. That this is his overarching goal made it easy for Zuntermein and Holzkrug to feed him information on the apparently rebellious Jungfreuds, have him take note of it, and then leave it to him to develop the idea that it would be necessary to take Ubersreik and bring a powerful noble family to heel. 
+
+In the case of the Ubersreik situation, Yann Zuntermein of the Purple Hand had worked his way into the ranks of the Black Chamber, and had earned the trust of Liepmund Holzkrug, the Lord High Ambassador. Zuntermein learned that Holzkrug resented the Holswig-Schliestein family and wished to see them humiliated. 
+
+The Emperor, who would normally decry such actions, approved Immanuel-Ferrand’s proposals; though on the day he was to review them, his doctor administered a particularly strong dose of medicine with a noted side effect of increased suggestibility of mind. 
+
+The ensuing takeover of the town was a debacle. Whilst the Jungfreuds were by no means enlightened rulers, they were not tyrants either, and many of their subjects rankled at the notion of being ‘liberated’ by Altdorf. Resistance to the occupation occurred immediately, and much of it was spontaneous rebellion by the common folk, undirected by the Jungfreuds who retreated to their ancestral home, Black Rock Castle. 
+
+Worse, the takeover of the town stood as evidence in the eyes of every noble in the Empire that Karl-Franz would move to possess their suzerains if he so desired. His reputation for even-handed statesmanship was ruined overnight, and nobles throughout the Empire sought to expand their retinues of trained soldiers to display their intent to defend themselves. Immanuel-Ferrand despatched his best agent, Emmanuelle Nacht, to help quell the unrest and gather information. This is of significant relief to Yann Zuntermein — Nacht was one of the few spies in Altdorf who was making inroads into the Purple Hand. 
+
+No one knows Holzkrug and Zuntermein gathered evidence used to persuade the Holswig-Schleisteins to depose the Jungfreuds. In particular, Holzkrug is keen to make a public show of condemning the rash decision to occupy Ubersreik. Whilst Zuntermein values his relationship with Holzkrug, he knows the Lord Ambassador would never willingly consort with Chaos. If Holzkrug were to ever turn on Zuntermein, Zuntermein could use his knowledge of Holzkrug’s part in this affair as leverage. 
+
+**INTRODUCTION** 
+
+|Phenomenon|Cells Involved|Effect|
+|---|---|---|
+|Sick Emperor|<br>Altdorf|Henrik Kappelmuller of the Altdorf cell of the Purple Hand has infltrated the<br>Emperor’s privy council, and slips the Emperor soporifc concoctions to keep<br>him sleepy and confused. The pharmacist Elvyra Kleinestun is positioned to<br>take the fall if Kappelmuller is accused of malfeasance.|
+|Mutant Edict|Altdorf|<br>Having weakened the Emperor, the Purple Hand in Altdorf manipulated<br>Shallyan reformers to persuade him of the wisdom of the Mutant Edict.|
+|Ubersreik<br>Takeover|Altdorf|<br>Yann Zuntermein was able to play of two rivals in the Black Chamber to the end<br>of persuading the suggestible Emperor to depose the Jungfreuds of Ubersreik.|
+|Nordlander Unrest|Altdorf and<br>Middenheim|<br>Agents from Altdorf have been persuading the Gausser family that the time<br>is right to depose the Nikses, whilst Wasmeier supplied the separatists with<br>information on how to assassinate members of Middenheim’s court.|
+|Death of Crown<br>Prince von<br>Tasseninck|Altdorf,<br>Wolfenburg, and<br>Middenheim|<br>A rare example of effective coordination between cells. Altdorf made sure the<br>prince’s expedition was tracked and poorly equipped, Middenheim employed<br>the Skaven Snikkit to assassinate the prince, and agents in Wolfenburg spread<br>rumours blaming the von Krieglitz family of Talabecland.|
+|Quarrels between<br>Averland Nobility|Averheim|<br>An old feud between the Alptraums and Lietdorfs. Even without the Purple<br>Hand of Averheim riling things up, eventually this would have led to violence.|
+|<br>Emmanuelle<br>von Liebwitz’s<br>Southern<br>Ambitions|Nuln|<br>Having been provoked by the Toppenheimers on several occasions, Grand<br>Countess Emmanuelle would probably wish to conquer Sudenland without the<br>aid of the Purple Hand, though they are working hard to spread infammatory<br>rumours and compromising information to help speed the process.|
+
+## **The Importance of the Date**
+Gideon has many criteria he needs to meet in order to perform a perfect summoning of Sheerargetru. One of these is a ceremony to be held at nine in the morning on the ninth of Brauzeit, the ninth month. This date and time is auspicious. 
+
+If you have been tracking the days and weeks since the start of the campaign, and are commencing Empire in Ruins shortly before, or just after this date, then do not let it worry you – Gideon has missed his chance and does as best he can to meet the remaining criteria. 
+
+If you have not been keeping close track of the passage of time in your campaign, then we suggest the following as a rough guide to how much progress the Characters made and the date upon which they commence **Empire in Ruins** . 
+
+This gives Gideon seven weeks before the best date to have the Hammer returned to Altdorf. Gideon does all he can to ensure that the Characters bring Ghal Maraz to Altdorf a day or two before the ninth of Brauzeit. If they are ahead of schedule, he places obstacles in their way or tries to tempt them from their path. If they are delayed, Gideon tries to smooth their progress. Hints as to how he might do this are given throughout **Empire in Ruins** . 
+
+If the players delay beyond the date, or if they figure out that they are expected to deliver the Hammer according to Gideon’s schedule and wait for the date to pass, then Gideon gives up trying to prod them. The date is just one part of an intricate puzzle, after all. 
+
+## **The Enemy Within Approximate Dates**
+Adventure Start Date Duration
+Enemy in Shadows 24th Jahrdrung 2 weeks
+Death on the Reik 6th Pflugzeit 10 weeks
+Power Behind the  20th Sommerzeit 4 weeks
+Throne
+The Horned Rat 19th Vorgeheim 4 weeks
+–
+Empire in Ruins 18th Nachgeheim
+
+## **Party Allegiance**
+At the start of **Empire in Ruins** the Characters should feel that they are reasonably well regarded by the grandees of Middenheim. After all, they should have been instrumental in saving the Graf ’s life and enlightening Middenheimers to the full extent of the Skaven menace. However, they are also likely regarded by many Middenheimers as rather too southern and Sigmarite to truly have the best interests of Middenheim and Ulric at heart. 
+
+During **Empire in Ruins** , there are several occasions where the apparent loyalties of the party will affect how people deal with them. Should the Characters advocate for Sigmarite interests at one juncture it may serve them well in the short term, but have consequences later on. Keep a log of the Characters’ behaviour throughout the adventure. If they behave in overtly partisan fashion, it will adjust their score up or down on the table below. Depending on how partisan the Characters are perceived as being, they apply Fellowship Test modifiers based on this table. Particular NPCs may also react to the Characters based on this perception, or try to manipulate them using different arguments or appeals. 
+
+For the purpose of this table, Ulrican and Sigmarite do not necessarily indicate religious allegiance, rather that the Characters are (rightly or wrongly) seen as supporting the Ulrican factions (Middenheim, Middenland, and Talabheim) or Sigmarite ones (Ostland, Reikland, Averheim, and Nuln). 
+
+If the Characters have been following the plot of the **Enemy Within** more or less as it is written, they start with a score of –2, indicating that they are neutral but on the cusp of being perceived as moderately Ulrican. 
+
+## **The Effects of Allegiance**
+Score Perceived  Fellowship
+Test ModifiersTest
+6 or more Sigmarite  Sigmarite Partisans (+1 SL),
+Partisans Neutral (–1 SL), Ulrican
+Moderates (–2 SL), Ulrican
+Partisans (–3 SL)
+3 to 5 Sigmarite  Ulrican Moderates (–1 SL),
+Moderates Ulrican Partisans (–2 SL)
+–2 to 2 Neutral Sigmarite Partisans (–1 SL),
+Ulrican Partisans (–1 SL)
+–3 to –5 Ulrican  Sigmarite Moderates (–1 SL),
+Moderates Sigmarite Partisans (–2 SL)
+–6 or less Ulrican  Ulrican Partisans (+1 SL),
+Partisans Neutral (–1 SL), Sigmarite
+Moderates (–2 SL), Sigmarite
+Partisans (–3 SL)
+
+## **Journeys Through a Ruined Empire**
+During the events of **Empire in Ruins** , the Characters must undertake several journeys by road or river. Comprehensive rules for road travel can be found in the **Enemy in Shadows Companion** ; river travel is examined in the **Death on the Reik Companion** . 
+
+If you don’t have these books, or if you want to cover travel in a more abstract way, this table shows the average times it takes to complete a section of the journey. These are the various journeys the Characters need to make to complete the adventure (in addition to journeying inside Black Fire Pass, which is covered in more detail in the adventure itself). Boat travel assumes the Characters are using a fast boat such as _The Carroburg_ , which is placed at their convenience during the adventure. If they travel by another vessel, then journeys by boat are likely to take 33% more time to complete. 
+
+The travel times listed here assume a comfortable, moderate pace. Characters who announce they want to travel as fast as possible could reduce these times by 33% by passing a **Challenging (+0) Endurance** Test for each day of travel. Failure indicates that the testing Character receives a _Fatigued_ Condition, and may even suffer further disaster such as damage to their boat, or injury to their horse. 
+
+**Note:** The effects of war and disorder will be seen on roads and rivers as the Characters travel during the adventure. As events proceed this will become notably worse. 
+
+The Middenheim to Altdorf road that they journey on at the start is well made and uncongested, whilst the roads they travel in Averheim are muddy, rutted, and teeming with refugees. 
+
+## **Gideon and the 9th of Brauzeit**
+Gideon would like the Characters to reach Altdorf a day or two before this important date. Delaying them during their journey is the best way to do this, and Gideon is likely to play any number of the following tricks on the party to prevent them from arriving ahead of his schedule. 
+
+- Putting a breach in the hull of their boat, requiring them to have it repaired. 
+
+- Burning or sinking their boat, requiring them to find a replacement. 
+
+- Hamstringing a horse, requiring them to get a replacement. 
+
+- Feeding their horse poisonous fodder, requiring them to wait a day or two whilst the animal recovers. 
+
+- Digging up a section of the road, causing a traffic jam that delays them for a few hours. 
+
+Any time Gideon tries to delay the Characters, there is a chance that someone spots him engaging in the sabotage. If the Characters ask around after anyone who was seen loitering near their boat, or interfering with their horses, then call for them to take a **Challenging (+0) Gossip** Test. If they pass they may get the description of a young boy, no more than 12, with a wide grin and a pudding bowl haircut in the vicinity. 
+
+## **Suggested Journey Times**
+Stage of Journey Approximate Distance (Miles) By Boat On Horseback On Foot
+Middenheim to Shining Rock 50 — 1 day 3 days
+Shining Rock to Altdorf 300 — 5 days 15 days
+Altdorf to Castle Reikguard 60 3 days 2 days 3 days
+Castle Reikguard to Altdorf  60 2 days 2 days 3 days
+Altdorf to Kemperbad 120 6 days 4 days 6 days
+Kemperbad to Nuln 130 6 days 4 days 6 days
+Nuln to Streissen 150 7 days 5 days 7 days
+Streissen to Averheim 20 1 day 1 day 1 day
+Averheim to Grenzstadt 150 — 5 days 7 days
+Grenzstadt to Averheim 150 — 5 days 7 days
+Averheim to Streissen  20 1 day 1 day 1 day
+Streissen to Nuln 150 4 days 5 days 7 days
+Nuln to Diesdorf 130 4 days 4 days 6 days
+Diesdorf to Altdorf 120 5 days 4 days 6 days
+
+## **Random Encounters**
+War has come to the Empire. There is increasing unrest. Minor nobles and petty warlords take opportunities as they present themselves. Law and order have begun to break down in localised areas. The Characters have better things to do than act as a police force, and they are likely to be untroubled by a lot of the minor unrest. Random encounters ought to be used to emphasise that the Empire is descending into chaos and war, but should not distract the Players too much from the plot and themes of the adventure. 
+
+## **Drown the Northerner**
+A band of villagers are out at the riverbank attaching heavy weights to a terrified woman. They plan on throwing her in the river to see if she floats. Her only crime, it seems, is having a Middenheim accent. 
+
+## **Mercenary Camp**
+The Characters pass a sprawling camp of soldiers, campfires, and bivouacs spread throughout a large area of forest. Guards are posted at regular intervals and keep a close eye on the Characters, although they are generally friendly. This is a battalion of Reikland Troops, the 7th Reikland Foot (called ‘ _The Never Dies’_ ), heading to Altdorf and beyond. 
+
+## **Looters**
+The Characters pass an ancient Oak tree from which six people have been hung. Their hands have been cut off and are nowhere to be seen. A sign saying ‘Looters’ hangs around the neck of one. The crows have feasted on their bodies and the smell is terrible. There is nothing to indicate who they are except their clothes are of poor quality. 
+
+## **On Their Way to War**
+The Characters hear barked orders from behind them. Soon a unit of infantry passes them, heading north. They count over a hundred troops, mostly new recruits. If the Characters are on the road, they are expected to get out of the way. 
+
+## **A Broken Man**
+Sitting on a stump at the side of the road is Old Dirk. A skinny sheep dog is tied with a rope to a root and a well-worn pitchfork stands against a tree. His face is bruised and he stifles tears as he asks the Characters for any alms they can spare. He says that soldiers came and stole all his animals for provisions, besides his dog, ‘ _Captain’_ . When he complained they beat him and his sons before robbing their home. He has been driven to begging so that he can feed his family, including ‘ _poor little Sylvia, only just born’_ . 
+
+Old Dirk is a swindler looking to make an easy shilling or two of travellers. He sticks to his story whatever he is threatened with. The dog and pitchfork are stolen. 
+
+## **Thrown to the Wolf**
+In his youth, the Ulrican priest Griswald Voit marched to war half a dozen times. But due to inclement weather, indecisive leadership, and poorly timed charges, he never fought a single battle. Others might count themselves blessed with such incredible luck, but Griswald always thought he had somehow offended his god. He drilled relentlessly, praying for a chance to prove himself, but despite his efforts he retired having accomplished nothing more than troop along one muddy road to the next, his well-worn boots and good knowledge of the terrain hardly count as souvenirs. Now he is an old man whose knees swell in the rain, tending a rural Ulrican shrine and watching Sigmarite influence glow along Middenland’s border. 
+
+As the tensions between provinces grows, Griswald might finally get his war. The tension is obvious as soon as the Characters enter town. Shouting matches in the pub turn to all-out brawls, and the local Sigmarite priest spends the weekly service disparaging, _‘the savagery of wolves’_ in a thinly veiled stab at Ulric’s order. In answer, Griswald hammers on the chapel doors nightly, waving his battle-axe and demanding the Sigmarites answer for their insults. Once the Characters grasp the local politics but before Griswald notices them, his grandson Wigbert pulls them aside. 
+
+Wigbert offers the Characters a deal. He can pay them well if they pose as Sigmarite priests, give Griswald a convincing duel, and then throw the fight before the old man hurts himself. If they don’t, then Wigbert worries Griswald will either get himself killed or arrested. The party is his only chance, Wigbert can’t turn to anyone else in town without his grandfather recognising them. Wigbert emphasises his grandfather is ageing and inexperienced, he rocounts Griswald’s story if it seems like it might convince the Characters to cooperate. 
+
+However they manage to convince Griswald that they represent Sigmar’s faithful, Griswald faces as many Characters as they dare bring against him. But though he seems stooped and frail, the winter wind howls around him as he sheds his fur cloak. Soon it becomes clear that decades of continuous training, pent-up battle fury, and divine favour have made Griswald a surprisingly dangerous foe. If the Characters hold back, then he punishes them accordingly. 
+
+If the Characters do tackle Griswald, use the profile for Beate Moser on page 66 to represent the aged, but far from powerless, old priest. 
+
+## **Chaos Cultists**
+The Purple Hand has been dealt a severe blow by the Characters’ actions in **The Horned Rat** . Word has spread of their organisation and throughout the Empire they are being persecuted by Witch Hunters and vigilant wizards. Still, many of them remain active and seek vengeance against the people thought culpable of blowing their cover: Kastor Lieberung and his associates. Unless otherwise mentioned, every third cultist is armed with a crossbow; others carry swords or axes. 
+
+## **Chaos Cultists – Silver 2**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|40|40|35|35|34|35|34|35|41|30|13|
+
+**Traits:** Animosity (Kastor and Friends), Armour 1, Ranged (Crossbow) +9 (60), Weapon (Hand Weapon) +7
+
+**Skills:** Athletics 45, Cool 51, Dodge 45, Melee (Basic) 50, Perception 44, Ranged (Crossbow) 50
+
+**Trappings:** Leather Jacket, Sword, Crossbow and 12 Bolts, Purse containing 2d10 Shillings 
+
+## **Religious Fanatic**
+As the Empire descends into civil war, religious divides throughout the nation grow more distinct. In Middenheim and Middenland, the Sons of Ulric rove the countryside. They are convinced that the blood descendants of Ulric are among their ranks, and they demand that the right to be named Ulric’s High Priest belongs only to them. In Sigmarite lands, groups of rootless flagellants band together. They mortify their own flesh with whips and scourges, but given the chance they are eager to turn those weapons on the enemies of their god. 
+
+The profile represents a determined pilgrim of any particular faith. Ideas for adjusting this profile to specifically represent a Son of Ulric or a Sigmarite Flagellant are given below. 
+
+## **Peasants**
+The Characters may meet groups of refugees, rural townsfolk, and paranoid villagers during their travels. Whilst these groups are not necessarily hostile, they may react badly to the Characters if they perceive them to be a threat. 
+
+## **Peasants – Brass 2**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4<br>|40<br>|30<br>|40<br>|40<br>|30<br>|40<br>|30<br>|30|30|30|15|
+
+**Traits:** Armour 1, Weapon (Axe) +8 
+
+**Skills:** Athletics 50, Haggle 40, Melee (Basic) 45 
+
+**Trappings:** Leather Jerkin, Axe, Purse containing 2d10 Pennies 
+
+## **Servants**
+The Characters are often surrounded by servants during the early stages of the adventure. Whilst most servants treat them deferentially, they are notorious for sharing gossip, passing information on to spies and alerting their masters should they spot anything untoward. 
+
+## **Servants – Silver 1**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|30|30|40|40|40|40|30|30|30|30|15|
+
+**Traits:** Weapon (Dagger) +6 
+
+**Skills:** Athletics 50, Dodge 50, Melee (Basic) 35, Perception 50, Stealth (Urban) 50 
+
+## **Senior Servants**
+## **Religious Fanatic – Brass 1**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|45|30|40|40|35|35|35|30|35|30|15|
+|||||||||||||
+
+**Traits:** Hatred (Enemies of the faith), Prejudice (Those who do not share their faith), Weapon (Hand Weapon) +8 
+
+**Skills:** Athletics 55, Cool 45, Dodge 45, Intimidate 50, Melee (Basic) 55 
+
+**Talents:** Frenzy, Implacable 
+
+**Sons of Ulric:** Sons of Ulric have the Furious Assault Talent and a Melee (basic) of 60. 
+
+**Flagellant:** Sigmarite Flagellants have the Berserk Charge Talent, their Melee (Basic) Skill becomes Melee (Flail). They wield Flails that provide them with the Weapon (Flail) +9 Trait. 
+
+Senior maids, stewards, and wardens owe a comfortable life and handsome wage to their noble employers. In response they are highly protective of their masters’ and mistresses’ needs, and keenly perceptive of threats. 
+
+**SENIOR SERVANTS – SILVER 3**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 35 | 30 | 45 | 45 | 45 | 45 | 35 | 40 | 40 | 35 | 16 |
+
+**Traits:** Armour 1, Weapon (Sword) +8
+
+**Skills:** Athletics 55, Cool 45, Dodge 55, Melee (Basic) 35, Perception 60, Stealth (Urban) 60
+
+**Talents:** Strike to Stun
+
+**Trappings:** Leather Jack, Sword 
+
+## **Knight**
+The warrior elite of the Empire are heavily armoured knights. It costs a great deal of money to train and equip a knight, so most are drawn from the nobility. The temples also sponsor squadrons of knights, known as Templars. These religious knights are not always aristocratic, as the temples will sponsor common folk, if they show enough devotion and talent. Even so the vast majority of knights are both fierce warriors and the scions of high society.  The profile represents a generic knight, but those associated with a particular order or tradition may benefit from additional skills or talents as explained below. 
+
+**Knights Panther:** Dedicated to the integrity of Imperial Union, the Knights Panther are considered the archetypal knight. Those in the service of Middenheim are strangely dedicated to the Graf and his family. They benefit from the _Implacable_ and _Supportive_ Talents when fighting in the defence of the Todbringers. 
+
+**White Wolves:** To honour Ulric these Templars fight with no helmets. They do not benefit from Armour if struck on the head. They use Warhammers and so have Melee (Two-Handed) 60 and the Weapon (Two-Handed Warhammer) +12 Trait. 
+
+**Knights of the Fiery Heart:** In order to join the order of the Fiery Heart a Knight must have spent some time as a Priest of Sigmar. They have the _Miracles (Sigmar)_ Trait, and the following Miracles of Sigmar: _Beacon of Righteous Virtue_ , S _igmar’s Fiery Hammer_ , and _Soulfire_ . 
+
+**Reiksguard:** The bodyguard of the Imperial family. Members of the Reiksguard have the _Commanding Presence_ , _Iron Will_ , and _Supportive_ Talents. 
+
+## **Knight – Silver 5**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|50|30|50|35|50|45|35|30|40|40|15|
+
+## **Knight Preceptor**
+Veteran knights may be known by a number of titles depending on the order to which they belong, such as squadron sergeants, first knights, cleric-captains, and preceptors. In order to rise to such a position a knight must prove themselves a highly skilled warrior, an inspiration to other knights, and someone who embodies the values and oaths of their order with integrity. 
+
+## **Knight Preceptor – Gold 2**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|30|60|35|55|55|35|30|50|40|17|
+
+**Traits:** Armour 4, Weapon (Sword) +11, Weapon (Lance) +13
+
+**Skills:** Athletics 65, Cool 60, Dodge 65, Heal 55, Intimidate 75, Leadership 55, Melee (Basic 70, Cavalry 70), Ride (Horse) 70 
+
+**Talents:** Roughrider, Strike Mighty Blow, Unshakable 
+
+## **Soldiers**
+Soldiers are on the march all over the Empire. Many of them are reluctant recruits who hope to win a little loot and return home safely, but there are hotheads in every regiment who clamour for war. Most carry a sword or crossbow as a primary weapon. Guards and watchmen also use this profile, but add Perception 55 to the listed skills. 
+
+## **Soldiers – Silver 3**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|45|45|35|40|40|30|30|30|40|30|15|
+
+**Traits:** Armour 2, Ranged (Crossbow) +9 (60), Weapon (Sword) +7, Weapon (Halberd) +7
+
+**Skills:** Athletics 40, Cool 50, Dodge 40, Melee (Basic 55, Polearm 55), Ranged (Crossbow) 55 
+
+**Trappings:** Mail Shirt, Sword, Crossbow and 12 Bolts or Halberd, Purse containing 3d10 Shillings 
+
+**Traits:** Armour 4, Weapon (Sword) +10, Weapon (Lance) +12 
+
+**Skills:** Athletics 55, Cool 50, Dodge 55, Heal 40, Intimidate 60, Melee (Basic 60, Cavalry 60), Ride (Horse) 60 
+
+**Talents:** Roughrider, Strike Mighty Blow 
+
+**Trappings:** Warhorse, Suit of Plate Armour, Lance, Sword, Purse containing 5d10 Shillings 
+
+## **Nobles**
+**There are a number of times in the adventure when the Characters spend time in the company of minor nobles and their households. If you need a profile for a noble who isn’t described elsewhere in the book use the profile for a knight, but ignore the Armour and Weapon (Lance) Traits.** 
+
+## **Sergeants**
+Army officers can use the profile given below. 
+
+**SERGEANTS – SILVER 5**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|55|35|45|40|30|30|30|50|40|16|
+
+**Traits:** Armour 3, Ranged (Pistol) +8 (20), Weapon (Sword) +7
+
+**Skills:** Athletics 40, Cool 60, Dodge 45, Intuition 55, Leadership 60, Melee (Basic) 75, Perception 55, Ranged (Blackpowder) 65 
+
+**Trappings:** Mail Shirt, Breastplate, Helmet, Sword, Brace of 2 Pistols with Bullets and Powder for 12 Shots, Symbol of Rank, Purse containing 5d10 Shillings 
+
+## **Goals**
+Holzkrug seeks to destabilise the Empire out of spite towards the Holswig-Schliestein family. He wishes to ensure that the Jungfreud family of Ubersreik remain under suspicion not because he holds great animus towards them, but because the more he can get them and the Emperor to fight, the worse it looks for the Emperor in the long term. He privately arranges for doctored evidence of Jungfreud insubordination to be discovered by the Emperor’s agents, whilst publically decrying the rash takeover of Ubersreik. So far, his part in persuading the Emperor to depose of the Jungfreuds is plausibly deniable and Holzkrug is keen to keep it that way. Holzkrug seeks to make the situation worse by ensuring that High Capitular Volkmar’s diplomatic mission to Middenheim descends into farce. 
+
+## **Knowledge**
+Holzkrug knows the Emperor is ill and that a double takes his place in public. 
+
+## **Misconceptions and Weaknesses**
+Holzkrug believes his adjunct, Yann Zuntermein, shares his goals. He does not realise Yann is the head of the Purple Hand in Altdorf. 
+
+## **Liepmund Holzkrug Human Spymaster (Gold 4)**
+## Graf Liepmund Holzkrug
+_Lord High Ambassador_ 
+
+The Black Chamber is Reikland’s foremost intelligence network, and the best equipped espionage organisation in the Empire. The notorious Black Isle in Altdorf is their headquarters, but they have operatives and safe houses throughout the Old World. Liepmund Holzkrug, the high lord ambassador of the Reikland Council, runs the inner circle of the Black Chamber. Many in Altdorf doubt the wisdom of his appointment, as the Holzkrug family are historic rivals of the Holswig-Schliestein dynasty. Yet, whilst Liepmund is fiery and ambitious, all evidence suggests that he is loyal to the Emperor. 
+
+Liepmund is a vindictive man, and runs the group with a ferocious attention to detail and a ruthless need for obedience. He is obsessed with the threat from Bretonnia and Marienburg, and demands each member of the Inner Circle redouble their efforts against both. He is a keen hunter, who puts skills he has learned tracking and bagging game to practice in his approach to statecraft. 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**65**|**53**|**46**|**49**|**58**|**57**|**57**|**63**|**60**|**57**|**18**|
+
+**Traits:** Ranged (Pistol) +11 (20), Weapon (Rapier) +8
+
+**Skills:** Athletics 72, Bribery 77, Charm 77, Charm Animal 70, Climb 56, Cool 80, Consume Alcohol 69, Dodge 72, Endurance 64, Entertain (Act) 72, Gamble 83, Gossip 77, Haggle 77, Intimidate 66, Intuition 78, Language (Bretonnian 66, Classical 73, Wastelander 68), Leadership 77, Lore (Altdorf 83, Beasts 73, Heraldry 83, History 78, Politics 83, Reikland 83), Melee (Basic 85, Fencing 90), Outdoor Survival 78, Perception 78, Ranged (Bow 73, Blackpowder 73), Ride (Horse) 77, Secret Signs (Black Chamber 83, Hunter 83), Set Trap 72, Sleight of Hand 77, Stealth (Rural 67, Urban 77), Track 78
+
+**Talents:** Accurate Shot 2, Blather, Briber, Carouser, Doomed, Etiquette (Nobles), Feint, Gregarious, Luck, Noble Blood, Read/Write, Riposte, Schemer, Shadow, Trapper, Wealthy 5
+
+**Trappings:** Rapier, Brace of Pistols loaded with Bullets and Powder, Fine Set of Blue and Red Clothing decorated with Holzkrug Family Crest, Quill and Ink, 10 Sheets of Parchment, Purse containing 10 GCs
+
+## Immanuel-Ferrand Holswig-Schliestein
+_Grey Guardian and High Chancellor of the Realm_ 
+
+Immanuel-Ferrand is an uncle of the Emperor, and an important Imperial spymaster. He keeps his own clandestine network, the Graukappen, who are the arm of the Black Chamber responsible for gathering intelligence and acting against hostile forces outside Altdorf. He is a member of the Grey Order, but has not sought power within the ranks of the Shadowmancers for fear that it would compromise his political standing. 
+
+Immanuel-Ferrand sits on the Council of State. As high chancellor of the realm, he is more politically powerful than Liepmund Holzkrug, though Liepmund directs the Black Chamber as a whole, making him a more powerful member of the spy network than Immanuel-Ferrand. Publically the two men are staunch allies and fast friends, but privately they are deeply suspicious of one another. 
+
+Immanuel-Ferrand is normally a careful diplomat, but a notable flaw has allowed rivals to exploit him. He is myopic in his belief that the Empire would benefit if power were centralised, and he thinks Karl-Franz is worthy of absolute authority. Yann Zuntermein used doctored evidence to influence ImmanuelFerrand to help persuade the Emperor to order the reckless deposition of the Jungfreuds of Ubersreik. Immanuel-Ferrand was led to believe that the Jungfreuds were planning to wage war on their neighbours, but since the takeover, evidence to support this belief has proved elusive. He has not yet figured out that he has been played by other spies. 
+
+## **Goals**
+Immanuel-Ferrand is torn between two conflicting goals. He is in denial of the fact that the takeover of Ubersreik is going badly. On one hand, he would be relieved if the occupation were brought to an end. On the other hand, he grasps at any opportunity to be proved right about the Jungfreuds’ treachery and the wisdom of making Karl-Franz an absolute ruler. 
+
+## **Knowledge**
+Immanuel-Ferrand knows the Emperor is ill and that a double takes his place in public. 
+
+## **Misconceptions and Weaknesses**
+Immanuel-Ferrand believes that despite their objections to the Ubersreik takeover, Holzkrug and Zuntermein are loyal men of the Empire. He would need to be presented with solid evidence before altering this point of view. 
+
+## **Allegiance**
+## **Immanuel-Ferrand Holswig-Schliestein Human Spymaster (Gold 4)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 59 | 31 | 55 | 55 | 57 | 58 | 38 | 64 | 59 | 64 | 14 |
+
+**Traits:** Weapon (Sword) +11 
+
+**Skills:** Athletics 73, Animal Care 79, Bribery 84, Channelling ( _Ulgu_ ) 74, Charm 84, Charm Animal 74, Cool 79, Consume Alcohol 75, Drive 74, Dodge 78, Endurance 65, Gamble 84, Gossip 84, Haggle 84, Heal 79, Intimidate 75, Intuition 77, Language (Battle 74, Bretonnian 67, Classical 74, Magick 74, Wastelander 69), Leadership 84, Lore (Altdorf 84, Heraldry 84, History 79, Politics 84, Reikland 84, Warfare 74), Melee (Basic 79, Cavalry 79, Fencing 79, Polearm 64), Navigation 77, Perception 77, Ranged (Bow 41, Blackpowder 41), Ride (Horse) 78, Row 75, Secret Signs (Black Chamber) 84, Sleight of Hand 58, Stealth (Urban) 78, Track 77, Trade (Farrier) 53 
+
+**Talents:** Arcane Magic (Lore of Shadows), Blather, Carouser, Commanding Presence, Doomed ( _All the shades ye seek to bend o’ercome thee in the end_ ), Etiquette (Nobles, Servants, Soldiers), Gregarious, Luck, Noble Blood, Petty Magic, Read/Write, Roughrider, Schemer, Strike Mighty Blow 2, Wealthy 7 
+
+**Trappings:** Sword, Fine Set of Grey Clothing decorated with Holswig-Schliestein Family Crest, Hooded Green Velvet Cloak, Quill and Ink, 10 Sheets of Parchment, Purse containing 14 GCs 
+
+## **Spells**
+**Petty Magic Spells:** Dart, Eavesdrop, Magic Flame, Open Lock, Sounds, Twitch 
+
+**Arcane Spells:** Choking Shadows, Entangle, Illusion, Mystifying Miasma, Terrifying 
+
+## **Knowledge**
+Zuntermein knows the Emperor is ill and that a double takes his place. Henrik Kappelmuller maintains this illness, and is one of Zuntermein’s agents. He knows the Nine Eyes have left the Crown Prince open to Tzeentchian sympathies. He knows Holzkrug dislikes the Emperor and works against him. He knows Wasmeier has agents promoting revolution in Nordland. 
+
+**Misconceptions and Weaknesses:** Unaware that the Crown Prince has been subverted by Kastor Lieberung and Gideon. 
+
+**YANN ZUNTERMEIN — AGENT(GOLD 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|53|32|33|35|60|53|40|65|64|58|15|
+
+**Traits:** Weapon (Sword) +7 
+
+## Yann Zuntermein
+_Head of the Spionwerber, and Magister Magistri_ 
+
+Yann Zuntermein is Graf Liepmund’s adjunct. The head of the Black Chambers recruitment arm (the Spionwerber), he diverts the Black Chamber away from Chaos cults. He is a member of the Chamber’s Inner Circle and magister magistri of the Altdorf cell of the Purple Hand. 
+
+Zuntermein is a very tall man, standing a little over 6 feet. He looks every one of his 58 years, with rather rheumy blue eyes and unkempt light-brown hair. He is an odd character: slightly bumbling, with a taste for cheap costume rather than expensive tailoring. He speaks in a rather disconnected, pretentious manner — a mix of philosophical digressions, proverbs, children’s fables, and smatterings of Bretonnian poetry. 
+
+Beneath this dishevelled exterior is a sharp mind. The head of the Altdorf cell of the Purple Hand runs a tight ship. He doesn’t even know his fellow magisters, and may only surmise at their identities. Under his direction, Altdorf’s Ordo Terribilis, the branch of the Purple Hand that concentrates on developing strategies and ideas, are embedded among the spies and diplomats of the Black Chamber, and concentrate on gathering and manipulating intelligence. 
+
+## **Goals**
+Zuntermein wishes to see the Empire destabilised and the Emperor sicken and die. Zuntermein’s plan entails the Crown Prince first becoming prince regent for the ailing Emperor and then ascending to the throne in his own right. He will then be among those who promote Crown Prince Wolfgang to become heir. He believes Wolfgang has been prepared to be sympathetic to the Purple Hand and their cause, enabling him to become a power behind the throne. 
+
+**Skills:** Bribery 78, Channelling (Dhar) 84, Charm 78, Climb 53, Consume Alcohol 50, Cool 84, Dodge 68, Entertain (Act) 78, Evaluate 68, Gamble 80, Gossip 90, Haggle 85, Intimidate 53, Intuition 80, Language (Bretonnian 75, Dark Tongue 75, Magick 80), Leadership 78, Lore (Altdorf 85, Averland 75, Bretonnia 70, Law 70, Middenland 70, Middenheim 70, Nuln 75, Ostland 70, Nordland 75, Politics 75, Stirland 80, Talabheim 75, Talabecland 80, Tilea 70, Theology 70, Tzeentch 85, Wasteland 75), Melee (Basic) 73, Perception 80, Research 70, Secret Signs (Black Chamber 85, Purple Hand 85), Sleight of Hand 60, Stealth (Urban 73, Rural 73) 
+
+**Talents:** Arcane Lore (Daemonology), Beneath Notice, Blather, Bookish, Carouser, Chaos Magic (Tzeentch), Commanding Presence, Criminal, Disciple of Change, Doomed ( _Severed heads, eroding eyes rupture asunder, roaring gullet erupts, terrible ravaging unnatural_ ), Etiquette (Nobles, Scholars), Frightening, Gregarious, Read/Write, Lip Reading, Magical Sense, Master of Disguise, Petty Magic, Savant (Law), Secret Identity, Shadow, Super Numerate 
+
+**Trappings:** Respectable but Cheap Clothing, Sigmarite Icons, Purse containing 7 crowns, Sword, 3 Doses of Black Lotus, 3 Doses of Heartkill (a slow-acting variant, takes 2d10 hours to take effect) 
+
+## **Spells**
+**Petty Magic Spells:** Drain, Eavesdrop, Magic Flame, Open Lock, Sounds, Warning **Arcane Spells:** Corrosive Blood, Distracting, Entangle, Manifest Lesser Daemon, Octagram, Teleport, Ward 
+
+**Lore of Tzeentch Spells:** Bolt of Change, Boon of Tzeentch, Blue Fire of Tzeentch, Curse of Tzeentch, The Flickering Flames of Fickle Fate, Pink Fire of Tzeentch, The Purple Hand, Treason of Tzeentch, Tzeentch’s Firestorm, Tzeentch’s Golden Aura, Sense the Skein, Word of Tzeentch 
+
+## Wolfgang Holswig-Abenhauer
+_Crown Prince of the Reikland_ 
+
+According to rumour, Crown Prince Wolfgang is many things: a hideous mutant, a revolutionary bent on seizing the Empire through military force, and the architect of blunders such as the Ubersreik takeover and Mutant Edict. In truth, the Crown Prince is an upstanding young gentleman, dedicated to the integrity of the Empire with ambitions to rule wisely and institute reasonable, careful reforms. He is intelligent, cultured, insightful, sensitive, and courageous (not forgetting exceptionally handsome). 
+
+So why is he a prize asset of the Altdorf Purple Hand? 
+
+As a child, nine tutors were found for Wolfgang, experts in a wide range of skills from across the Old World. Thanks to them, he has received a comprehensive and cosmopolitan education. However, these tutors, known as the Nine Eyes, are dedicated to subverting knowledge in the cause of their true master, Tzeentch. The Crown Prince is not a worshipper of Chaos — it is the one area in which he is notably ignorant — but through his tutors’ influence, he is primed to be sympathetic towards the Purple Hand. 
+
+**WOLFGANG HOLSWIG-ABENHAUER HEIR APPARENT (GOLD 10)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 57 | 31 | 34 | 48 | 58 | 47 | 55 | 65 | 65 | 65 | 15 |
+
+Or, he would be had Kastor Lieberung not subverted this plot. The very man who recruited the Nine Eyes wished the Crown Prince to be more than a political pawn. If Kastor’s plans bear fruit, Wolfgang will never be satisfied to just rule for the benefit of a single cult, but will seek out Engrim van Horstmann to instruct him in becoming the fabled Champion in Shadows — greatest sorcerer-champion of Tzeentch ever known. 
+
+**Traits:** Weapon (Rapier) +7, Regenerate 
+
+**Skills:** Athletics 67, Bribery 70, Charm 80, Consume Alcohol 63, Dodge 67, Endurance 58, Entertain (Storytelling) 75, Gamble 80, Gossip 75, Haggle 75, Heal 75, Intimidate 49, Intuition 78, Language (Bretonnian 75, Classical 80, Khazalid 80), Lore (Engineering 75, Geology 75, Heraldry 80, History 80, Law 75, Magick 70, Politics 75, Reikland 85, Science 80, Theology 80), Melee (Fencing) 77, Perception 68, Research 80, Ride (Horse) 62 
+
+But the promise of a Champion of Shadows is just bait, planted by the daemon Gideon in ages past. A mortal man prepared in such a way makes the perfect vessel for Sheerargetru’s return. 
+
+## **Goals**
+Consciously, the Crown Prince wishes to serve his family and nation, promote unity, and prove a worthy example to fellow nobles and future subjects. Subliminal coding implanted through his tuition is leading to increasing sympathies with those who seek more radical reform. 
+
+**Talents:** Argumentative, Attractive, Blather 3, Bookish 2, Cat-tongued, Commanding Presence 3, Dealmaker, Distract, Doomed ( _Shell harbouring embryonic entity, released amid rite, gaining entry through repeated utterances_ ), Etiquette (Nobles 2, Scholars, Servants 2, Soldiers), Feint, Gregarious, Inspiring, Iron Will, Linguistics, Luck 2, Master Orator, Nimble Fingered, Noble Blood, Public Speaker, Read/ Write, Resistance (Disease), Schemer, Speedreader, Tenacious, Tower of Memories, Wealthy 10 
+
+## **Knowledge**
+The Crown Prince knows that the Emperor is ill and has a double for public appearances. 
+
+## **Misconceptions and Weaknesses**
+The Crown Prince thinks Yann Zuntermein is a loyal servant of the Empire and that the Nine Eyes are beyond reproach. 
+
+**Trappings:** Clothing (Best Quality), Jewellery worth no less than 150 GC, Amulet of Jade (grants the wearer the Regenerate Creature Trait), Writing Kit and Several Sheets of Parchment, Rapier 
+
+## **Allegiance**
+## **Goals**
+Volkmar wishes to serve the Cult of Sigmar, keep the Empire stable, and oppose Chaos. This opposition to the forces of the Ruinous Powers concerns all Sigmarites, but Volkmar takes it particularly seriously, spending every free moment engaged in research in the Cathedral vaults. 
+
+He feels that Yorri is rather too compromising as Grand Theogonist. Whilst he respects Yorri’s authority, he nurses a desire to see a more hard-line priest — such as himself — in the role. 
+
+## **Knowledge**
+Volkmar knows the Emperor is ill and that a double takes his place in public. His single-minded pursuit of arcane lore blinds him to threats underneath his nose. 
+
+## **Misconceptions and Weaknesses**
+Volkmar’s disinterest in politics leaves him rather ignorant of what is going on, but neither does he have particular misconceptions. 
+
+## **Allegiance**
+Partisan Sigmarite. 
+
+**VOLKMAR ‘THE GRIM’ VON HINDENSTERN LECTOR (GOLD 2)** 
+
+## Volkmar ‘the Grim’ Von Hindenstern _High Capitular of Sigmar_
+Volkmar is the high capitular of the Sigmarite Cult in Altdorf, a position almost as vaunted as that of Arch Lector. He is an experienced warrior priest, who has earned renown not only for his deep knowledge and devotion to Sigmarite doctrine, but also because he is an effective and inspiring battlefield commander. 
+
+Volkmar is a man of deeds, not words, and prefers to let his actions speak for themselves. He is serious to a fault, and his unsmiling blunt nature wins him admirers, but few friends. 
+
+Volkmar has a single-minded obsession with rooting out and destroying the followers of Chaos. Whilst this is not unusual for a follower of Sigmar, the energy and focus by which he pursues this goal consumes him totally. When he isn’t on the battlefield, he tirelessly researches tomes in the chambers beneath the Grand Cathedral, searching for any key to the defiance of the dark that his predecessors may have overlooked. 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|64|37|50|57|58|52|38|75|75|55|22|
+
+**Traits:** Armour 4, 
+
+Weapon (Two-Handed Warhammer) +11 
+
+**Skills:** Athletics 77, Art (Writing) 53, Charm 65, Cool 105, Endurance 77, Entertain (Speeches 65, Storytelling 65), Gossip 70, Heal 90, Intimidate 75, Intuition 78, Language (Battle 90, Classical 85, Khazalid 90), Leadership 75, Lore (Heraldry 80, History 85, Politics 80, Reikland 80, Theology 85, Warfare 85), Melee (Basic 84, Two-Handed 84), Perception 78, Pray 95, Research 80 
+
+**Talents:** Bless (Sigmar), Bookish, Combat Aware, Doomed ( _Thy end is not thy end, would thee though it were_ ), Holy Hatred, Holy Visions, Impassioned Zeal, Inspiring, Invoke (Sigmar), Pure Soul, Read/Write, Savant (Theology), Warleader
+
+**Trappings:** Full Plate Armour, Two-Handed Warhammer.
+
+## **Blessings and Miracles**
+**Blessings:** Battle, Courage, Might, Recuperation, Righteousness, Tenacity 
+
+**Miracles of Sigmar:** Beacon of Righteous Virtue, Sigmar’s Fiery Hammer, Twin-tailed Comet, Vanquish the Unrighteous 
+
+## Grand Theogonist Yorri
+_High Priest of Altdorf_ 
+
+The Grand Theogonist is the head of the Cult of Sigmar and the single most powerful religious official in The Empire. The office is important because the Grand Theogonist is an elector (and can rely on the Arch Lector of the East and Arch Lector of the South, also electors, to vote in support of his choice). By tradition the Grand Theogonist also holds the offices of Arch Lector of the West, Theogonist of the Empire, and high priest of Altdorf (these place him under certain ceremonial expectations, such as sermonising in the Grand Cathedral, but don’t grant him powers beyond those he holds as Grand Theogonist). 
+
+Yorri sits on the Council of State in his capacity as high confessor. He wields such power in this role that he arguably has more autonomy to make nation-shaking decisions than the Emperor, for none could gainsay him in rulings over Sigmarite dogma. In practice, Yorri is moderate and cautious in his approach, and embodies in himself the values he extols to others. He could make radical decisions, but fears schisms and instability. 
+
+**YORRI XV — LECTOR (GOLD 2)** 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 55 | 37 | 48 | 58 | 55 | 55 | 38 | 75 | 70 | 75 | 21 |
+
+**Traits:** Armour 4, Regenerate, Weapon (Warhammer) +8
+
+**Skills:** Athletics 75, Art (Writing) 58, Charm 95, Cool 90, Dodge 75, Endurance 78, Entertain (Speeches 95, Storytelling 95), Gossip 95, Heal 95, Intimidate 68, Intuition 75, Language (Classical 95, Khazalid 95), Leadership 90, Lore (Heraldry 80, History 95, Politics 80, Reikland 85, Theology 105), Melee (Basic) 65, Perception 70, Pray 95, Research 85
+
+Yorri is conflicted about many of the changes taking place in the Empire. He is somewhat supportive of Immanuel-Ferrand’s desire to see power centralised — after all, the Emperor stands as Sigmar’s representative — but he also feels the takeover of Ubersreik is a blunder. The instability that followed is a horror to him, but he keeps a cool public face. 
+
+**Talents:** Bless (Sigmar), Bookish, Doomed ( _Sigmar harried exalted entity, raging arcane riotous gigantic entity, traitors repetitive utterances_ ), Holy Visions, Impassioned Zeal, Inspiring, Invoke (Sigmar), Read/Write, Savant (Theology), Stout-Hearted, Strong-Minded, Warleader,
+
+**Trappings:** The Jade Griffon, Staff of Command, Full Plate Armour, Warhammer. **The Jade Griffon:** This amulet is a wide carving of deep-green stone affixed to the Grand Theogonist’s breastplate. It is reputed to have been blessed by Magnus the Pious, and grants its wearer the Regenerate Creature Trait.
+
+## **Goals**
+Yorri wants stability in the Empire. If it were up to him, he would make serious concessions to secure peace. He knows his fellow Sigmarites expect more though, so for their sake he is prepared to take a hard line if he meets resistance or disrespect. He is dismayed by the Emperor’s mutant edict, but feels it is an artefact of Karl-Franz’s illness and tries to avoid being drawn into debate about it. 
+
+## **Knowledge**
+Yorri knows the Emperor is ill and that a double takes his place in public. He is aware that the hammer borne by the Emperor is unlikely to be the one wielded by Sigmar, but does not let it trouble him. 
+
+**Staff of Command:** When carrying the Staff of Command, the Grand Theogonist benefits from a permanent Blessing of Might (add +10 to his S). 
+
+## **Misconceptions and Weaknesses**
+## **Blessings and Miracles**
+Yorri is rather incurious about why the Emperor is ill and trusts the Privy Council in its decisions. 
+
+**Blessings:** Battle, Charisma, Conscience, Courage, Finesse, Fortune, Protection, Recuperation 
+
+**Miracles of Sigmar:** Beacon of Righteous Virtue, Heed Not the Witch, Sigmar’s Fiery Hammer, Soulfire, Twin-tailed Comet, Vanquish the Unrighteous 
+
+## **Allegiance**
+## **Goals**
+Emmanuelle is a strong and beloved ruler, in contrast to the more feckless Grand Countess of Sudenland, whose lands border Emmanuelle’s suzerain. During **Empire in Ruins** Emmanuelle’s chief obsession is to obtain a license to annex the neighbouring province. She has already been informed of some sinster goings on in Pfeildorf from her respected advisor Elspeth von Draken, but lacks the conclusive evidence that would justify military action. 
+
+## **Knowledge**
+Emmanuelle realises at first sight that the Emperor’s double is not Karl-Franz. 
+
+## **Misconceptions and Weaknesses**
+Emmanuelle lacks good reason to declare war on Sudenland and would be in the debt of anyone who could provide such a thing. She underestimates the seriousness of the conflicts between provinces in the Empire’s north. 
+
+## **Allegiance**
+## **Emmanuelle Von Liebwitz Elector Countess (Gold 15)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|48|31|31|38|67|51|57|59|68|80|15|
+
+**Traits:** Weapon (Magical Dagger) +6 
+
+## Emmanuelle Von Liebwitz
+_Elector and Countess of Nuln_ 
+
+The Grand Countess of Nuln is a childhood friend of the Emperor, and widely rumoured to have used this relationship to secure her own rise to power. Known for her opulent balls, trend-setting fashions, and many romances, she is reputed to be the most powerful woman in the Empire. It is a truth universally acknowledged that any unmarried gentleman in possession of a good fortune must be in want of her. It is commonly attested that she is hot-tempered and politically naïve, though those who know her dismiss such rumours as the wishful thinking of those envious of her position. She is a careful and clever political player, but not without caprice — as a number of co-conspirators would attest, if they still lived. 
+
+Emmanuelle has faced down her share of horrors, and narrowly avoided disaster during Altdorf’s Great Fog Riots and a chain of events that saw a portion of Nuln destroyed eight years ago, known by those not too blind to see it as the work of the Skaven. Emmanuelle emerged from the aftermath a stronger ruler, but with an edge of ruthlessness when it comes to the pursuit of her own protection. 
+
+**Skills:** Art (Calligraphy) 62, Bribery 105, Charm 115, Consume Alcohol 63, Cool 73, Endurance 48, Entertain (Singing) 90, Evaluate 64, Gamble 89, Gossip 110, Haggle 100, Intimidate 63, Intuition 93, Language (Classical 64, Merogen 60, Tilean 79), Leadership 100, Lore (The Arts 69, The Empire 74, Heraldry 84, History 72, Law 64, Nuln 89, Politics 79, Wissenland 69), Melee (Fencing) 54, Perform (Dancing) 76, Perception 91, Play (Harpsichord 64, Virginal 62, Violin 67), Ride (Horse 71, Pegasus 56), Sleight of Hand 62 
+
+**Talents:** Alley Cat, Ambidextrous 2, Argumentative, Attractive 8, Blather 5, Briber, Carouser 3, Cattongued 2, Commanding Presence 6, Dealmaker, Doomed ( _Thy end is not thy end_ ), Etiquette (Nobles) 8, Frightening 2, Gregarious 4, Inspiring 4, Iron Will, Lip Reading, Luck 4, Master Orator 5, Nimble Fingered, Noble Blood, Public Speaker 8, Read/ Write, Resistance (Disease), Schemer 5, Tenacious 2, Warleader, Wealthy 25 
+
+**Trappings:** Emmanuelle could conceivably equip herself with anything the treasury of Nuln could afford. In public she typically restrains herself to Best Quality Royal Garb, including Jewellery worth no less than 300 GC, and a small but exquisite Dagger (Every wounding hit inflicts 1 _Bleeding_ Condition). 
+
+## Hermann Von Feilbach
+_The Emperor’s Double_ 
+
+Hermann von Feilbach is a minor noble from one of the fiefs in the vicinity of Altdorf. After joining the Reiksguard as a young man, he was immediately made a figure of fun for his resemblance to Crown Prince (as he was then) Karl-Franz. 
+
+As both men grew older, and ever more alike in looks, Hermann came to the attention of Karl-Franz’s uncle, Immanuel-Ferrand Holswig-Schliestein. The spymaster saw the potential for a lookalike to help confuse the Emperor’s enemies and rivals. Hermann was inducted into the Black Chamber, taught the art of spycraft, and given new names and identities. 
+
+## **Goals**
+Hermann considers himself a knight, first and foremost, and the business of spying and pretending to be someone else does not sit well with him, even if such pretences complement his oaths to protect the Emperor. He would dearly love to be relieved of his burdensome and inauthentic double life. 
+
+## **Knowledge**
+Hermann knows the Emperor is ill but has no particular insights beyond that. He has only a passing knowledge of Imperial politics, but knows that his role requires him to nod wisely and say very little about any matter brought before him. 
+
+## **Misconceptions and Weaknesses**
+Hermann has spent time in the Black Chamber and believes Leipmund Holzkrug and Yann Zuntermein to be loyal servants of Karl-Franz. 
+
+## **Allegiance**
+**HERMANN VON FEILBACH FIRST KNIGHT (GOLD 2)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 66 | 37 | 51 | 38 | 52 | 64 | 55 | 44 | 59 | 51 | 16 |
+
+**Traits:** Armour 4, Magic Resistance 2, Ward 8+, Weapon (Two-Handed Warhammer) +10 
+
+**Skills:** Athletics 84, Animal Care 63, Bribery 62, Charm 65, Charm Animal 71, Consume Alcohol 54, Cool 73, Dodge 77, Endurance 52, Entertain (Acting) 69, Gossip 65, Heal 60, Intimidate 75, Language (Battle) 66, Leadership 66, Lore (Heraldry) 63, Melee (Basic 82, Fencing 73, TwoHanded 83), Perception 71, Ride (Horse) 85, Stealth (Urban) 80, Trade (Farrier) 61 
+
+**Talents:** Carouser, Doomed ( _Morr sends a maiden_ ), Etiquette (Nobles), Menacing, Noble Blood, Read/Write, Secret Identity, Shadow, Shieldsman, Strike Mighty Blow 
+
+**Trappings:** Full Plate Armour, the Silver Seal, the Imitation Ghal Maraz (Magical Two-Handed Warhammer) 
+
+## **Von Feilbach’s Magic Items**
+## **The Imitation Ghal Maraz**
+A once-potent magical artefact combining Dwarf Runesmithery and Sigmarite blessings, the imitation Ghal Maraz has diminished in power over recent years. As Sigmar’s Empire weakens from within, his divine presence grows faint. 
+
+**Magical Weapon:** The imitation Ghal Maraz is magical and can injure creatures noted as immune to non-magical attacks. 
+
+**Radiant Nimbus:** The hammer gives off a faint glow of holy power. Creatures with the Unstable Trait engaged with the bearer lose 1 wound at the end of each turn. 
+
+**Rune of Goblin Bane:** Add the Impact quality to the weapon if the target is an Orc, Goblin, Snotling, or Hobgoblin. 
+
+**Rune of Fire:** Targets struck receive an _Ablaze_ Condition. 
+
+## **The Silver Seal**
+The warrior mage Fredrik von Tarnus crafted this artefact for Magnus the Pious following the Great War against Chaos. The wearer of the seal benefits from the following Creature Traits: Ward 8+ and Magic Resistance 2. 
+
+## **The Todbringers**
+The most important noble house in Middenheim, the Todbringers have ruled the city state since the time of Magnus the Pious. Whilst they have not been the strongest supporters of Karl-Franz, they have balanced their Ulrican faith with loyalty to the Empire as a whole. 
+
+As Grand Count (known locally as ‘Graf ’), Boris Todbringer rules the city of Middenheim and its surrounding territories. His legitimate son, Stefan, is unwell and under the constant care of the court physician. He is close to his illegitimate children, Heinrich and Katarina, in whom he places much trust and responsibility. 
+
+## **Graf Boris Todbringer, Imperial Elector Noble Lord (Gold 7)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 71 | 42 | 52 | 57 | 68 | 53 | 55 | 62 | 68 | 66 | 26 |
+
+**Traits:** Animosity (those he feels have wronged him)
+
+**Skills:** Art (Calligraphy) 75, Athletics 73, Bribery 86, Charm 86, Consume Alcohol 62, Cool 88, Dodge 73, Drive 73, Endurance 77, Entertain (Speeches 76, Storytelling 71), Evaluate 72, Gamble 72, Gossip 81, Haggle 81, Heal 67, Intimidate 72, Intuition 88, Language (Ancient Teutogen 72, Battle 72, Classical 82, Khazalid 67), Leadership 91, Lore (Arts 72, Empire 72, History 77, Law 72, Middenheim 82, Middenland 82, Nordland 77, Politics 77, Warfare 82), Melee (Basic 91, Cavalry 87, Fencing 81), Navigation 88, Outdoor Survival 82, Perception 83, Perform (Dancing) 63, Play (Harpsichord) 65, Ranged (Bow) 62, Ride (Horse) 73
+
+## **Graf Boris Todbringer**
+**Talents:** Beat Blade 2, Blather 2, Carouser, Combat Reflexes 3, Commanding Presence 3, Dealmaker, Disarm 2, Distract, Doomed ( _Vengeance made for vengeance repaid, be then dragged down, ript, and slayd_ ), Etiquette (Guilders, Nobles, Soldiers), Feint 2, Gregarious, Hardy, Inspiring 3, Iron Will 3, Luck 2, Noble Blood, Public Speaking 2, Read/Write, Reversal, Riposte 2, Step Aside 2, Stout-hearted 2, Tenacious, Warleader 2, Wealthy 10
+
+**Trappings:** The Middenland Runefang ( _Peak Leveller_ ), Full Plate (Best Quality), Grand Duchy of Middenheim, Wardenship of the Barony of Nordland, Royal Garb (Best Quality), The Middenheim City Coffers and Crown Jewels, Various Lands and Estates throughout the Empire
+
+At 6’ 1”, the Graf is an imposing figure. Boris is increasingly confident and independent since his recent bout of melancholy. He regards the Characters who saved his life during the events of **Power Behind the Throne** with great regard and, whilst he does not let his noble dignity slip, is very keen to see them promoted and kept within his ambit. 
+
+Boris is growing impatient with the Emperor’s Court in Altdorf. He is dismayed by the recent Mutant Edict (Altdorfers have long complained that Middenheim’s attitude to magical instruction is too lenient, but now they outlaw persecution of mutants?) and the takeover of Ubersreik (no true Emperor would so rudely depose a major noble house). He also suspects Altdorf of sponsoring rebellious Nordlanders and believes they have their own problems with the Purple Hand. 
+
+## **Baron Heinrich Todbringer**
+Heinrich is a giant of a man, standing 6’ 11” with a powerful build, dark auburn hair, and blue-grey eyes. He is also every bit as intimidating intellectually as he is physically. He is a confident, self-assured man, and has often borne the weight of his familiy’s concerns. He cares deepy for the future of Middenheim. His illegitimate birth limits his ability to take action without being accused of usurpation, and he serves the city by engaging in diplomatic missions. 
+
+When expecting trouble, or if he wants to make an impression, Heinrich wears a full suit of plate armour and carries the magical two-handed sword, _Rathewer_ , which enjoys the _Impact_ Quality when used against Skaven. He is said to have acquired this weapon during a prolonged diplomatic mission to the court of the Tilean City State of Miragliano. 
+
+## **Baron Heinrich Todbringer — Envoy (Gold 2) Former Advisor, Former Warden**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|45|46|61|52|36|44|31|49|51|44|22|
+
+**Skills:** Athletics 54, Cool 61, Consume Alcohol 57, Charm 54, Drive 54, Dodge 54, Endurance 62, Gossip 54, Intuition 46, Lore (Middenheim 59, Ostland 54, Altdorf 54), Melee (Basic) 55, Perception 46, Ride (Horse) 54, Row 66, Secret Signs (Middenheim Spy Network) 54, Stealth (Urban 59, Rural 54) 
+
+**Talents:** Etiquette (Nobles), Night Vision, Read/ Write, Seasoned Traveller, Strike to Stun 
+
+**Trappings:** Bundle of Diplomatic Papers, Fine but Sensible Courtly Dress, Ring of Spies throughout Middenheim 
+
+## **The ‘Princess’: Katarina Todbringer**
+The Graf ’s daughter is referred to as ‘the Princess’, though she has no official claim to the title. She is 19 and petite, with strawberry-blonde hair and light-blue eyes. She has a small dimple on her chin, and delicate hands and feet. Katarina is a sweet and kindly soul, with a refined aesthetic sense and delightful manners. While some think her naïve and illinformed about many political matters, she has recently taken a greater interest in affairs of state. She has a strong sense of fairness and justice, and is not lacking in courage. She is very interested in good works and is a prominent patron, via her ladies in waiting, of the orphanage run by the Temple of Shallya. She has an exquisite dress sense. The little make-up and jewellery she does wear is of dazzling quality. 
+
+## **Katarina Todbringer — Noble (Gold 3)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 38 | 32 | 31 | 31 | 42 | 32 | 44 | 34 | 37 | 51 | 12 |
+
+**Skills:** Bribery 61, Charm 71, Consume Alcohol 41, Cool 40, Evaluate 37, Gamble 39, Gossip 64, Intimidate 41, Language (Classical) 49, Leadership 66, Lore (Heraldry 45, Middenheim 49, Politics 39), Melee (Fencing) 43, Play (Lute) 59, Ride (Horse) 42
+
+**Talents:** Attractive, Coolheaded, Doomed ( _A whistling wind  from the North bites deep_ ), Etiquette (Nobles), Noble Blood, Read/Write **Possessions:** Court Clothing (Best Quality), Jewellery worth 50 Gold Crowns, Magical Golden Necklace depicting the Todbringer Coat of Arms (grants 3 AP on all locations and the Trait _Magic Resistance 3_ . This necklace would be worth at least 25 gold crowns to those who didn’t realise its properties, and at least 250 crowns to those who did.) 
+
+## **Misconceptions and Weaknesses**
+Emil believes his relaxed attitude towards the Sons of Ulric, who were prevented from assembly by Ar-Ulric Jarrick, will win him their respect. He has not realised that they will only be satisfied when one of them is made Ar-Ulric. 
+
+## **Allegiance**
+Partisan Ulrican. 
+
+**AR-ULRIC EMIL VALGEIR**
+
+**LECTOR (GOLD 2)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**67**|**33**|**56**|**56**|**58**|**52**|**36**|**50**|**51**|**50**|**20**|
+
+## Ar-Ulric Emil Valgeir
+_High Preist of Ulric_ 
+
+The Valgiers are one of Middenheim’s most celebrated noble families. They have achieved a lengthy and stable legacy in part because they have never sought to rule Middenheim, instead nurturing a close relationship over many generations with the religious power base in the city, the cult of Ulric. Over the centuries so many Valgeirs have attained the rank of Ar-Ulric that Middenheim’s more boorish raconteurs joke that it is a surprise they aren’t extinct, given all the vows of chastity their first sons have sworn. The family, on the contrary, is large, extended, and mutually supportive. 
+
+Ar-Ulric is the supreme head of the cult of Ulric in Middenheim and throughout the Empire. Emil was long tipped to be anointed Ar-Ulric, but preferred to serve the god as the greatest of his Templars, the Grand Master of the Knight of the White Wolf. Instead his younger brother Jarrick earned the rank of Ulric’s High Priest. As a result of the events of **Power Behind the Throne** , Jarrick became compromised, abandoned his office, and went adventuring to the north. 
+
+Emil, who is now too elderly and stiff to make a fine knight, has been raised to the position of Ar-Ulric in Jarrick’s stead. He is a harsher priest than his brother, and is encouraging a belligerent strain of Ulrican tradition to flourish in Middenheim. 
+
+**Traits:** Armour 4, Immunity (Fire), Magic Resistance 2, Ward 2, Weapon (Hammer-axe of Skoll) +12 
+
+**Skills:** Athletics 67, Animal Care 65, Bribery 60, Charm 60, Charm Animal 66, Consume Alcohol 76, Cool 71, Dodge 67, Endurance 71, Entertain (Speeches 70, Storytelling 65), Gamble 65, Gossip 65, Haggle 63, Heal 70, Intimidate 76, Intuition 78, Language (Battle 70, Classical 65, Heraldry 65, Teutogen 65), Leadership 70, Lore (Middenheim 65, Theology 65, Politics 65, Warfare 70), Melee (Basic 87, Cavalry 87, Two-Handed 87), Perception 78, Pray 70, Research 60, Ride (Horse) 72, Trade (Farrier) 51 
+
+**Talents:** Blather, Bless (Ulric), Bookish, Combat Aware, Doomed ( _Raised through the death of one that looks like another, cast down by the raising of one who looks like another_ ), Etiquette (Nobles, Soldiers), Fearless (Beastmen, Outlaws), Inspiring, Invoke (Ulric), Read/Write, Roughrider, Strike Mighty Blow, Super Numerate, Supportive, Warleader
+
+**Trappings:** Blue and Grey Robes, Staff of Office, Hammer-axe of Skoll, Wolfplate. **Hammer-axe of Skoll:** A legendary two-handed weapon said to have been carried by Ar-Ulrics since the time of Sigmar. The weapon is magical. Furthermore, when it is wielded with intent by a Blessed follower of Ulric they should make a **Challenging (+0) Pray** Test. For every +SL they achieve they may choose one of the following weapon qualities: _Damaging_ , _Impact_ , _Impale_ , or _Penetrating_ . **Wolfplate:** While worn, it grants 4 AP to all locations and grants the following traits to the wearer: _Immunity (Fire)_ , _Magic Resistance (2)_ , _Ward (2)_ .
+
+## **Blessings and Miracles**
+## **Goals**
+Emil seeks Ulrican supremacy in the north. He did not necessarily intend the wave of anti-Sigmarite feeling his example has unleashed, but it does not concern him. 
+
+## **Knowledge**
+**Blessings:** Battle, Courage, Might, Protection, Recuperation 
+
+**Miracles of Ulric:** Hoarfrost’s Chill, Ulric’s Fury, Pelt of the Winter Wolf, The Snow King’s Judgement, Winter’s Bite 
+
+Emil knows nothing of importance to the plot. 
+
+## Veiran Thugenheim
+_First Knight of The Knights Panther of Middenheim, and Friend of the Graf_ 
+
+The Thugenheims are one of Middenheim’s noble families, known for hosting opulent parties in their large estates to the western side of the Grand Duchy. They have had a long history of cooperation with the Todbringer family, which is emphasised by their close association with Middenheim’s order of the Knights Panther, who are also famed for their loyalty to the Todbringers. Stories are told that some sort of pact between the Todbringers and the knights was forged during the crusades to Araby. The fact that a number of Thugenheims’ ancestors fought in the crusades gives credence to these rumours. 
+
+Whatever the truth, the fact is that the Thugenheims have emphasised loyalty to the Todbringers as a core value for generations. Veiran, the current head of the Thugenheim household, is a cherished companion of Graf Boris and a preceptor of the Knights Panther in Middenheim. 
+
+Veiran is boisterous and good humoured, often willing to play the fool and smooth over tensions with bonhomie. Behind this front, he is focused and ruthless in identifying and eliminating threats to Middenheim’s security. 
+
+## **Goals**
+Veiran wishes to re-establish himself as the Graf ’s closest aide and confidant following his absence. This may bring him into conflict with the Characters — they solved a serious threat to Boris whilst Veiran was in Wolfenburg, so he feels a need to retain his position as favourite. 
+
+Veiran has great faith in the military prowess of Middenheim, and will support the Graf even should Boris decide to make war on the southern provinces. 
+
+## **Knowledge**
+Veiran has no particular insights into the events of the adventure. He overestimates the north’s fervour for war. The Todbringers are not quite as confident in themselves as Veiran is. 
+
+## **Misconceptions and Weaknesses**
+Veiran perceives Altdorfers’ actions as motivated by malice, which isn’t always the case. 
+
+## **Allegiance**
+Moderate Ulrican. 
+
+**VEIRAN THUGENHEIM**
+
+**FIRST KNIGHT(GOLD 2)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|**4**|**62**|**33**|**52**|**35**|**58**|**63**|**43**|**42**|**58**|**58**|**16**|
+
+**Traits:** Armour 4, Weapon (TwoHanded Warhammer) +10 
+
+**Skills:** Athletics 83, Animal Care 62, Charm 78, Charm Animal 78, Consume Alcohol 55, Cool 78, Dodge 83, Endurance 55, Heal 62, Intimidate 72, Language (Battle) 62, Leadership 73, Lore (Heraldry) 57, Melee (Battle 82, Cavalry 82), Ride (Horse) 83, Trade (Farrier) 58 
+
+**Talents:** Carouser, Doomed ( _Duty’s proof underhoof, to die for an eye), Etiquette (Nobles_ ), Luck, Menacing, Noble Blood, Read/Write, Savvy, Shieldsman, Strike Mighty Blow, Warrior Born
+
+**Trappings:** Full Plate Armour, The Fang of Horros (magical sword)
+
+**The Fang of Horros:** This enchanted blade is a beautiful cold-blue steel, enticing to all that behold it. As well as counting as magical and inflicting extra damage, it has the fine, unbreakable and damaging qualities. 
+
+## Malthe Barthelm
+_Nordlander assassin_ 
+
+Malthe Barthelm is the first son of Baron Harman Barthelm, a minor noble who commands a small border regiment in the Nordland State Army. The Barthelms have served the military for generations and Malthe joined the Pistoliers in his father’s footsteps. After years of campaigning and earning several honours in combat against Norse, Beastmen and Orcs, he expected to be elevated to the officer class. But despite his prowess, Baron Nikse intervened and the Sigmarite Barthelm lost out to a dissolute Ulrican from Middenheim. Malthe seethed as he witnessed his superior’s incompetence, and he slowly grew to hate Middenheim and its power over Nordland. 
+
+Barthelm turned his anger inwards, until a ‘chance’ meeting with Wasmeier after he escaped Middenheim. The former Law Lord fanned the flames of the young Nordlander’s resentment and radicalised him. He put him in contact with hardline separatists and watched as Barthelm became convinced that nothing less than direct action and his own martyrdom would overturn Middenheim rule. 
+
+The young noble has an intense look with an unblinking stare; sports a neat red beard and his immaculate pistolier uniform. The Nordland pistoliers are less flashy than their Reikland and Averlander equivalents, but they still take pride in their appearance. He wears a Sigmarite comet pendant and an hourglass badge. He is not a raving fanatic. He is composed and utterly convinced the only way to liberate Nordland from the Middenheim yoke is to strike at their beloved daughter. He is likely to pay with his life, but it’s a small price for freedom. 
+
+**MALTHE BARTHELM, NORDLANDER ASSASSIN**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|64|58|47|36|55|41|45|34|34|44|13|
+
+**Traits:** Armour 2, Ranged (Pistol) +9 (20), Weapon (Sword) +8 
+
+## **Goals**
+Barthelm is determined that the only way to liberate Nordland is to strike directly at the Todbringers. During the events of Empire in Ruins he will get his chance to get close to the ruling family of Middenheim, and will take the opportunity to inflict as much damage as he can. 
+
+**Skills:** Animal Care 44, Charm 54, Charm Animal 39, Consume Alcohol 46, Cool 54, Endurance 41, Evaluate 37, Gossip 54, Intimidate 57, Intuition 60, Language (Battle Tongue) 44, Leadership 57, Lore (Nordland) 54, Lore ( Reikland) 37, Melee ( Basic) 87, Melee (Cavalry) 74, Outdoor Survival 54, Perception 65, Ranged (Blackpowder) 73, Ride (Horse) 61 
+
+## **Knowledge**
+Barthelm does not know much of the wider events. He does know that Wasmeier is helping organise Nordland resistance, but this is a secret he is determined to keep. 
+
+**Talents:** Combat Aware, Combat Reflexes, Crack the whip, Doomed ( _To bring death to the death bringers shall bring about thine own_ ), Etiquette (Soldiers), Fast Shot, Gunner, Noble Blood, Read/Write, Suave 
+
+## **Misconceptions and Weaknesses**
+He believes Law Lord Wasmeier was ousted from his position in Middenheim due to his support for a free Nordland. He knows nothing of the man’s involvement with the Purple Hand. 
+
+**Trappings:** Cavalry uniform incorporating breastplate, expensive sword, three pistols (each loaded with bullet and powder), Badge depicting an hourglass symbol, Pendant decorated with the twin-tailed comet worth 2 GC, Purse containing 3 GC 
+
+## **Allegiance**
+## Karl-Heinz Wasmeier
+_The Fallen Magister Magistri of Middenheim_ 
+
+Karl-Heinz is about 40, tall, of slight build, with mediumlength wavy brown hair and intense dark-brown eyes. Since his flight from the Fauschlag, he has been increasingly sidelined by the wider cult, and left starved and tattered from his travails in the wilderness. The Middenheim cell he once headed has been broken apart and his best agents have been unmasked or eliminated. Zuntermein, who he only knows as the Altdorf Magister Magistri, has kept him frozen out of the Altdorf cell, and the only mission he has been given is the organisation of his last Nordland assets — who are probably now all dead. Despite this, Wasmeier is still a dangerous sorcerer and if he is cornered, he fights bravely with all the tools he has at his disposal. Tzeentch still has a plan for Wasmeier, and has gifted him with greater magical insight since his time in Middenheim, but beyond that he is an increasingly broken man. 
+
+**KARL-HEINZ WASMEIER DISGRACED BARRISTER (BRASS 1)**
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 33 | 32 | 24 | 46 | 58 | 53 | 55 | 64 | 57 | 64 | 15 |
+
+**Traits:** Weapon (Dagger) +5 
+
+**Skills:** Bribery 84, Channelling (Dhar) 82, Charm 84, Consume Alcohol 61, Cool 80, Dodge 68, Endurance 66, Entertain (Acting) 74, Evaluate 77, Gossip 82, Haggle 84, Intimidate 44, Intuition 73, Language (Classical 84, Magick 89), Leadership 84, Lore (Middenheim 79, Law 84, Politics 79, Theology 74, Tzeentch 84), Melee (Basic) 43, Perception 78, Research 84, Secret Signs (Purple Hand 84, Wasmeier’s Cipher 89), Sleight of Hand 75, Stealth (Urban) 63 
+
+**Talents:** Argumentative, Beneath Notice, Blather, Bookish, Cat-tongued, Chaos Magic (Tzeentch), Commanding Presence, Criminal, Disciple of Change, Doomed ( _No juggler ought tarry too long afront the hostile crowd_ ), Etiquette (Guilders, Nobles, Scholars), Gregarious, Read/Write, Magical Sense, Master of Disguise, Petty Magic, Savant (Law), Schemer, Secret Identity, Speedreader, Super Numerate, Supportive **Possessions:** The Clothes on His Back, 2d10 Brass Pennies, Seething Rage. 
+
+## **Spells**
+**Petty Magic Spells:** Dazzle, Dart, Eavesdrop, Magic Flame, Warning 
+
+**Arcane Spells:** Aethyric Armour, Aethyric Arms, Bridge, Drop, Flight, Push 
+
+**Lore of Tzeentch Spells:** Bolt of Change, Boon of Tzeentch, Blue Fire of Tzeentch, Curse of Tzeentch, Master of Fortune, Pink Fire of Tzeentch, Treason of Tzeentch, Tzeentch’s Firestorm, Tzeentch’s Golden Aura, Word of Tzeentch 
+
+## **Goals**
+Wasmeier wishes to become an important member of the Altdorf cell of the Purple Hand, winning back the prestige he used to enjoy in Middenheim by arranging for the assassination of Katarina Todbringer. As the adventure progresses, he realises how little Zuntermein respects him, and so his goals turn to revenge against Zuntermein and against the Characters who robbed him of his victory. 
+
+## **Knowledge**
+Wasmeier knows Zuntermein is planning something big, but is vague on the details. He knows about his own plots to provoke an uprising in Nordland. 
+
+## **Misconceptions and Weaknesses**
+Wasmeier is effectively being frozen out, seen by his fellow cultists as a liability. If Zuntermein can use Wasmeier to attract the attention of anyone who comes close to discovering his own plans, such as the Characters, he will not hesitate. 
+
+## **Allegiance**
+Neutral (Tzeentch), himself. 
+
+## Colonel Olaf Sievers
+_Frontiersman and Patriot_ 
+
+The Imperial Ostlanders were raised during Emperor Dieter IV’s reign. Gerson von Tasseninck had boasted that a regiment of self-sufficient mountain men would prove as effective as artillery barrages or squadrons of knights in defying the Goblin horde of Grom the Paunch. The Imperial Ostlanders were mustered and, whilst they won no major battles against Grom’s main force, there’s no doubt their skirmishing, scouting, and information-gathering saved many lives. Ever since that time, both Wolfenburg and Altdorf have sponsored them to patrol the Empire’s perimeter to look out for threats. 
+
+The Sievers family have served in the Imperial Ostlanders for generations. Since childhood, Olaf Sievers trained in the use of sword, bow, and halberd for the express purpose of confronting Orcs. The family are not noble, but have served with great distinction in the military. As a result, they are held in high regard by both commoners and aristocrats. 
+
+Colonel Sievers is a man of action, more comfortable ranging through the mountains than he is hobnobbing with counts and barons in Altdorf. Recently he has been forced to try and learn to navigate high society, for he has come to understand the terrible threat that is posed by Orcs and Goblins massing in the Badlands to the south of Black Fire Pass. The Orcs are growing in numbers and confidence — if they aren’t checked they may invade the Empire in force once again. 
+
+## **Colonel Olaf Sievers Officer (Gold 1)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 60 | 56 | 37 | 58 | 60 | 33 | 33 | 30 | 62 | 25 | 18 |
+
+**Traits:** Armour (Mail shirt) 2, Ranged (Bow) +6, Weapon (Sword) +7, Weapon (Polearm) +7
+
+**Skills:** Athletics 53, Climb 57, Consume Alcohol 78, Cool 77, Dodge 53, Endurance 78, Gamble 45, Gossip 30, Haggle 30, Heal 45, Language (Battle Tongue) 50, Lore (Ostland 45, Warfare 45), Melee (Basic 70, Polearm 65), Outdoor Survival 55, Navigation 45, Perception 70, Ranged (Bow) 71, Stealth (Rural) 53 
+
+**Talents:** Combat Aware, Doomed ( _Seekest thou not what others have forgot_ ), Etiquette (Soldiers), Stout-Hearted, War Leader
+
+**Trappings:** Sword, Bow, Halberd, Uniform, Grey Surcoat, Cloak
+
+## **Goals**
+Sievers is concerned about developments south of the Black Mountains and Karl-Franz’s behaviour. If he cannot get support from nobles in Altdorf, he may resort to more immediate measures to confront the threat. This is a weakness Gideon may exploit if the Characters fail to retrieve the Hammer and release Sheerargetru. 
+
+## **Knowledge**
+Colonel Sievers has no knowledge of particular relevance to the adventure. 
+
+## **Misconceptions and Weaknesses**
+His preoccupations have perhaps blinded him to the brewing civil war. 
+
+## **Allegiance**
+INTRODUCTION **EMPIRE IN RUINS**

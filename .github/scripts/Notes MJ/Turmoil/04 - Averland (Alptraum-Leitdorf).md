@@ -1,0 +1,587 @@
+# Front — 04 Averland (Alptraum-Leitdorf)
+
+> **One-liner** : **Marius Leitdorf** (*"the Mad Count"*) exploite (a) le déclin politique de la **Grand Countess Ludmilla III Alptraum** *"old and infirm"* (EiR ch.9 l.332) et l'incompétence tactique de sa fille **Marlene** *"belligerent commander, always ready to charge in before thinking"* (EiR ch.9 l.390) ; (b) la **Streissen Independence Party** (SIP) — fausse révolution civile/universitaire orchestrée par lui via son captain **Marcus Karlssen** comme cheval de Troie politique (EiR ch.9 l.330-332) ; (c) la **manipulation Averheim Main Pourpre cell** *"riling things up"* (EiR Intro l.282-284) aggravant la vieille feud Alptraum-Leitdorf — pour appâter Marlene en piège militaire (siège Streissen) et la **flanquer décisivement à la Battle of Streissen** (EiR ch.9 l.438-439). Résultat canon : Marius devient **Grand Count of Averland** post-Turmoil (EiR ch.17 l.18 ; ch.17 l.26 ; Companion ch.6 l.162 *"the Alptraums are deposed"*). **Mécanique identique à la cascade Nuln-Sudenland (fiche 03)** : feud noble pré-existante + cellule Main Pourpre locale + casus belli forgé → annexion/destitution. Mais ici, **pas d'annexion territoriale** — Averland reste Averland avec dynastie changée. Effet pervers du règne Marius post-coup : **dépression aiguë, purges arbitraires à Streissen, Deep Haus secret executions** (EiR ch.15 l.91-95) — Marcus Karlssen tente de mitiger.
+
+---
+
+## 1. Identité du front
+
+- **Province** : **Grand County of Averland** — Grande Province de l'Empire (siège électoral propre) ; **non affectée territorialement par le Turmoil** (contrairement à Sudenland fiche 03) mais **dynastie changée** (Alptraum → Leitdorf).
+- **Capitale** : **Averheim** — sur un *"bluff above the river Aver"* (Fandom Averheim ; EiR ch.9 l.442) ; ancienne capitale de la tribu **Brigundienne** sous le chieftain **Siggurd** (compagnon de Sigmar, fondateur de l'**Averburg**, la citadelle des Elector Counts) (Fandom Averheim).
+- **Symboles politiques centraux** :
+  - **Runefang d'Averland** : ***Mother's Ruin*** (alias ***Sword of Ruin***) — forgée par Alaric the Mad ; **porté par Ludmilla III Alptraum** pré-Turmoil (EiR ch.9 l.332 : *"she stayed in Averheim with her Runefang"*) ; **passe à Marius Leitdorf** post-Turmoil (Fandom Runefang).
+  - **Bannière au soleil d'or** : *"Averland's state banner shows a sun, and has since the downfall of Solland, when many of its nobles fled to Averland"* (Fandom Averland). Bannière héritée du Solland détruit (1707 IC) après accueil de la noblesse réfugiée — symbole partagé canoniquement avec l'agitation Söllite de Sudenland (cf. fiche 03).
+- **Devise / sobriquet de Marius** : ***"The Mad Count"*** — *"Colourful and controversial character, widely known as 'the Mad Count' because of his unpredictable and idiosyncratic behaviour"* (EiR ch.9 l.363).
+- **Coat of arms** : **soleil d'or** sur fond, hérité Solland (cf. supra).
+
+### Acteurs principaux pré-Turmoil — camp Alptraum (sortants)
+
+#### Maison Alptraum
+- **Grand Countess Ludmilla III Alptraum** — *"Grand Countess of Averland, Princess of Averheim, Countess of Gaital"* (Archives Vol I l.18 ; Lexicanum Ludmilla III) ; **âgée et infirme** *"old and infirm"* (EiR ch.9 l.332) ; *"declining health despite her will of iron"* (EiR ch.9 l.400) ; *"great schemer and subtle manipulator, which her daughter finds tedious and pointless"* (EiR ch.9 l.400) ; gouverne Averland pré-Turmoil mais pouvoir *"steadily waning"* (EiR ch.9 l.325). **Réprime durement le Streissen Massacre 2502 IC** (Fandom Streissen) — *"In 2502 IC, riots broke out when crop disease produced a shortage of food. The town council appealed to a now-elderly Grand Countess Ludmilla for troops to suppress the revolution, but she would do so only if the councillors agreed to return the town's charter. In desperation, they did so, and Ludmilla's forces restored order in a blood bath that has made 'Streissen' a byword for 'atrocity' to this day"*. Doute publiquement de la santé mentale de Karl-Franz post-Ubersreik (Archives Vol I).
+- [[Marlene Alptraum]] — **fille aînée** de Ludmilla III (Lexicanum Elector Count of Averland) ; héritière désignée ; *"wiry, domineering presence with piercing, beady eyes. Tolerates trappings of power, protocol, politeness, but would rather tell it straight"* (EiR ch.9 l.390) ; *"keen to lead her army, but is a belligerent commander, always ready to charge in before thinking. Has no time for her mother's patience and statecraft. Does not value scheming and subtlety, which may be her downfall"* (EiR ch.9 l.390-391) ; Doomed *"First the worst, second the best, third will put you to the test"* (EiR ch.9 — partagé avec Marius, voir section 10).
+- **Lien possible Alptraum / réfugiés Solland 1707 IC** : *"Some noble families of Solland managed to flee Waaagh! Gorbad and established themselves in other parts of the Empire, mainly in Averland"* (Fandom Solland). **Pas de confirmation explicite que les Alptraum soient issus de ces réfugiés** — voir section 10.
+
+#### Armée et lieutenants Alptraum
+- **Garrison d'Averheim** + garnisons locales (canon EiR ch.9 l.332 : *"summoned what troops she could from Averheim and the nearby garrisons"*).
+- **Cavalerie + piquiers** (composition canonique armée Averland — Archives Vol I).
+- **Lieutenants individuels non précisés canon** — voir section 10.
+
+#### Autres soutiens Alptraum
+- **Streisseners loyalistes à Ludmilla** post-coup : *"supporters of Ludmilla arrested, disappeared in Deep Haus gaol, secretly executed"* (EiR ch.15 l.91). Identités non précisées canon.
+- **Famille élargie Alptraum** : canon ne nomme que Ludmilla III et Marlene.
+
+### Acteurs principaux pré-Turmoil — camp Leitdorf (vainqueurs)
+
+#### Maison Leitdorf
+- [[Marius Leitdorf]] — futur Grand Count, *"the Mad Count of Averland"* (Fandom Marius Leitdorf) ; Noble Lord Gold 7 ; *"colourful and controversial… unpredictable and idiosyncratic behaviour. Madness may be overstated, but he has a bright mind and quick wit, easily distracted. Any number of plans and strategies going through his mind and bounces between them"* (EiR ch.9 l.363) ; *"genuine genius for strategy and bravery in battle that is unmatched. Soldiers think his talent inspired by Sigmar + odd behaviour beyond the ken of mortals"* (EiR ch.9 l.365) ; Doomed *"First the worst, second the best, third will put you to the test"* (EiR ch.9 l.387). **A réprimé brutalement la Halfling Rebellion de 2502 IC** — *"After Leitdorf's ruthless suppression of the infamous Halfling Rebellion of 2502 IC, Karl Franz dispatched his champion Ludwig Schwarzhelm"* (Fandom Marius Leitdorf) — démontre une capacité militaire confirmée bien avant le coup. **Trappings** : *County of Streissen, High-Quality Clothing, Full Plate Armour, Main Gauche, Sword* (EiR ch.9 l.381) — porte le titre *County of Streissen* dès EiR (pré-coup nominal ? ou post-coup ?).
+- **Maison Leitdorf** : *"a relative newcomer to the reins of power — having previously ousted the ruling Alptraum family and seized power in a brilliant if unconventional coup"* (Fandom Averland) — les Leitdorfs ont déjà eu le pouvoir auparavant ; *"the struggle for power in Averland has smouldered for generations with the House of Alptraum and the Leitdorfs exchanging the title of Elector Count several times"* (EiR ch.9 l.325).
+- **Heideck** — town fortifié au carrefour Old Dwarf Road / Agbeiten Road ; peut basculer pour Charter d'Indépendance ou rester loyal aux Leitdorfs (Fandom Heideck) — **possible base seigneuriale Leitdorf, non confirmée explicitement canon**.
+
+#### Cour et armée Leitdorf
+- **Marcus Karlssen** — *"captain in Marius Leitdorf's personal bodyguard"*, **chef nominal idéaliste révolutionnaire de la SIP** mais en réalité agent direct de Marius (EiR ch.9 l.404-410) ; *"immaculately turned out, parade ground standard. Moustache perfectly waxed. Stands attention by instinct. Addresses status-people 'sir'/'ma'am' without thinking. Surrounds self with elite soldiers Leitdorf retinue"* (EiR ch.9 l.407-408) ; Doomed *"Wear the yellow and black, and you'll face an attack"* (EiR ch.9 l.422) ; **PNJ EiR-exclusif** (non Fandom/Lexicanum — voir section 10) ; **mitigates worst Marius impulses post-coup** (EiR ch.15 l.95).
+- **Johan Sperren** — *"commander of flotilla support vessels"* sur l'Aver (EiR ch.9 l.343) ; bloque le trafic fluvial pour prévenir tout avertissement aux Alptraums ; **PNJ EiR-exclusif** (voir section 10).
+- **Daisy Kurt von Helboring II** — **hongre conseiller** de Marius (gelding canon Fandom = cheval hongre mâle castré, pas une jument — corriger toute mention "jument" héritée de note table) ; *"his favorite advisor"* ; nom = **jab nominal au Reiksmarshall Kurt Helborg** (canon Fandom Marius Leitdorf : *"name an obvious jab at his harshest critic, the Reiksmarshall himself"*) ; le **"II"** indique l'existence d'un prédécesseur Daisy Kurt von Helboring **I** (non détaillé canon). *"Stands at his side throughout the meal, munching on hay from large silver tray"* (EiR ch.9 l.367) ; *"takes a fancy to a Character's hat, devours it"* — politesse exige laisser faire, sinon insulte grave envers Marius ; Marius rembourse silver hat post-meal (EiR ch.9 l.373).
+- **Streissen Independence Party (SIP)** : *"a small little-known group… independent spirit of Streissen was never extinguished, discussed in whispered taverns and university assignations… such clandestine scheming leaves scope for sacrilegious practices to flourish too"* (EiR ch.9 l.330) — **cover story canon**. **Réalité** : *"conceived by Marius Leitdorf… bulk SIP = trusted Leitdorf army members… uprising, ostensibly desperate revolutionaries and ill-disciplined students, was actually a carefully planned military operation"* (EiR ch.9 l.331-332). **SIP est canon Fandom Streissen** : *"Marius Leitdorf used the Streissen Independence Party to destabilize Averland as he sought to replace the House von Alptraum as Electors"*.
+- **Armée Leitdorf** : *"half day's march downriver of Streissen"* (EiR ch.9 l.334) ; *"support vessels on the Aver for supplies and to prevent river traffic warning the Alptraums"* (EiR ch.9 l.343) ; manœuvre canon = flanker l'armée Alptraum assiégeant Streissen.
+
+### Acteurs Main Pourpre impliqués
+
+- **Averheim Main Pourpre cell** — canon EiR Intro l.282-284 : *"An old feud between the Alptraums and Leitdorfs. Even without the Main Pourpre of Averheim riling things up, eventually this would have led to violence"*. **Cellule distincte** de celles de Nuln (cf. fiche 03), Altdorf, Drakwald. **Identité individuelle non précisée canon** — voir section 10.
+- **Mécanique manipulation** : amplification de la feud pré-existante par rumeurs et incitations (mécanique identique à la cellule Main Pourpre de Nuln vs Liebwitz-Toppenheimer, fiche 03).
+- **Yann Zuntermein** (Altdorf cell, spymaster Chambre Noire) : *"installer Wolfgang Holswig-Abenauer en marionnette"* (Fandom Turmoil of 2512) — orchestrateur Empire-wide.
+- **Neuf Yeux — Blank Eye tutor** : **Gislind Ursin** — *"teaches Blank Eye (Averheim Culture and Philosophy)"* (Fandom Neuf Yeux ; EiR Intro l.173-176). **Structure distincte de la Main Pourpre** : les Neuf Yeux sont patronnées par **Gideon** (servant Tzeentch via possession démoniaque visée sur Wolfgang). **Gislind est cultiste Tzeentch d'une autre obédience que la Main Pourpre**. **Pas de lien direct documenté canon** entre Blank Eye et la cellule Main Pourpre d'Averheim — voir section 10.
+
+### Autres acteurs canon
+
+- **High Priest of Sigmar Streissen** — attend les médiations possibles à Streissen (EiR ch.9 l.427) ; *"lends legitimacy ceremony"* si les Characters organisent une médiation Marius/Marcus/Marlene. **Identité non précisée canon**.
+- **Master Albertus Nyman** — University Chancellor / Loremaster Streissen College (EiR ch.15 l.127-162) ; pivot hooks ch.15 pour les Characters cherchant à fuir Marius.
+- **Captain Neuer** — Streissen College Watch (EiR ch.15 l.128-141).
+- **Vorn Nyman** — bookmaker, frère d'Albertus (EiR ch.15 l.132).
+- **Gerdt & Gertie** — Nyman servants (EiR ch.15 l.132).
+- **Hiero Greendale** — halfling assistant Nyman University (EiR ch.15 l.128).
+- **Sergeant Alberecht Haessler** — Grenzstadt Bergjaeger Patrol, Black Fire Pass (EiR ch.10 l.40-41) ; *"professional regiment, strict discipline, richly attired, offers news if Characters reassured"*.
+- **Mountainguard Bergjaeger** — patrouille Black Fire Pass (EiR ch.10 l.40-45) — pivot militaire frontière sud Averland.
+- **Averland 8th Halberds** — garnison Dok a Dum watchtower (EiR ch.10 l.112).
+
+---
+
+## 2. État pré-Turmoil (Spring 2512 IC)
+
+### Gouvernance
+- **Grand Countess** : **Ludmilla III Alptraum**, Princess of Averheim, Countess of Gaital (Archives Vol I l.18) ; règne déclinant.
+- **Statut** : Grande Province autonome avec siège électoral propre.
+- **Capitale** : Averheim (Averburg citadelle).
+- **Streissen** : pré-2502 IC = freistadt (charter octroyée par jeune Ludmilla "au cours du dernier siècle", date EiR-exclusive **2456 IC** non confirmée Fandom — voir notes hors filtre) ; **charter révoquée 2502 IC** après le Massacre de Streissen ; gouvernée par un Lord Mayor sous tutelle Alptraum jusqu'au coup SIP en 2512 IC.
+- **Avermarshal** : commandant l'armée provinciale (identité canonique non précisée pour 2512 — Archives Vol I l.27).
+- **Gouvernement Averland** : féodal classique, *"tight control by Grand Countess + Avermarshal, nobles captain + equip individual regiments"* (Archives Vol I l.27).
+
+### Statut hiérarchique impérial
+- **Averland** = 1 siège électoral (Ludmilla III).
+- Position : 1 des 12 Grandes Provinces, **non modifiée territorialement par le Turmoil** (seule la dynastie change).
+
+### Historique électoral et dynastique
+
+| Date | Événement | Source |
+|---|---|---|
+| Pré-Sigmar (~-1000 IC) | Tribus **Brigundiennes** migration vers la région ; s'établissent | Archives Vol I l.25-26 |
+| ~-15 IC | **Chieftain Siggurd** (compagnon de Sigmar) fonde l'**Averburg** sur le bluff de l'Aver — citadelle des Elector Counts depuis | Fandom Averheim |
+| 1 IC | Couronnement de Sigmar — Averland intégrée à l'Empire | Lexicanum Sigmar |
+| Depuis fondation | **Maisons Alptraum et Leitdorf alternent au pouvoir** *"exchanging the title of Elector Count several times"* (EiR ch.9 l.325) | EiR ch.9 l.325 |
+| **1707 IC** | **Battle of Solland's Crown** — Gorbad Ironclaw détruit Solland ; noblesse solandaise réfugiée vers Averland ; bannière au soleil d'or adoptée comme symbole d'accueil | Fandom Averland ; Fandom Solland |
+| **2305 IC** | Magnus le Pieux refonde **Sudenland** sur les ruines de Solland + moitié sud Wissenland (cf. fiche 03) — **frontière sud-ouest Averland modifiée** ; Sudenland devient nouvelle Grande Province voisine | Archives Vol I l.272 ; Lexicanum Sudenland |
+| ~2412-2502 IC | **Streissen freistadt charter** — octroyée par une *"young Ludmilla Alptraum"* sous pression de marchands progressistes + magnats du vin de Streissen (date précise EiR-exclusive **2456 IC** non confirmée Fandom, voir notes hors filtre) | EiR ch.9 l.352 ; Fandom Streissen |
+| 2500 IC | **Radical clique de l'Université de Streissen** prend le contrôle politique ; politiques radicales débattues (sécession, abolition titres nobiliaires) | EiR ch.9 l.354 |
+| **2502 IC** | **Streissen Massacre** — famine post-épidémie céréalière, riots, communards demandent troupes à Ludmilla qui exige **restitution de la charter** avant intervention ; *"forces restored order in a blood bath"* ; charter révoquée | EiR ch.9 l.354-358 ; Fandom Streissen |
+| **2502 IC** | **Halfling Rebellion** réprimée brutalement par **Marius Leitdorf** ; Karl-Franz dispatche **Ludwig Schwarzhelm** pour enquête | Fandom Marius Leitdorf |
+| 2502-2512 IC | **Déclin steady du pouvoir Alptraum** ; Marius scheme la SIP ; cellule Averheim Main Pourpre amplifie la feud (EiR Intro l.282-284) | EiR ch.9 l.325 ; Intro l.282-284 |
+| Spring 2512 IC | Climat impérial déstabilisé (Hergard disparu, Karl-Franz fragilisé, abdication Jarrick) ; **Averland *"first fell into anarchy"*** parmi les fronts Turmoil (Fandom Turmoil of 2512) | EiR ch.17 l.10-18 ; Fandom Turmoil of 2512 |
+| Spring 2512 IC | **SIP saisit le Rathaus de Streissen** *"in a brilliant, nearly bloodless coup"* | EiR ch.9 l.330 |
+| Spring 2512 IC | SIP *"set up an independent council, assumed freistadt rights and exemptions"* | EiR ch.9 l.330-332 |
+| Spring 2512 IC | **Ludmilla envoie Marlene** assiéger Streissen *"anticipating a short siege against a disorganised civilian rabble"* — ignorant le piège Leitdorf | EiR ch.9 l.332 |
+
+### Alliances et rivalités pré-Turmoil
+
+**Pro-Leitdorf** :
+- Marius Leitdorf + Maison Leitdorf + Daisy Kurt von Helboring II
+- Marcus Karlssen + Leitdorf army bodyguard
+- Johan Sperren + flotilla Aver
+- SIP (façade civile/universitaire)
+- **Cellule Averheim Main Pourpre** (amplification rumeurs — manipulation, pas alliance formelle)
+- **Karl-Franz** : Marius soutient la maison impériale (Fandom Marius Leitdorf : *"loyal to Karl Franz"*) — détail "first to speak for Karl-Franz's election" = note table, non confirmée canon EiR, voir section 10
+
+**Pro-Alptraum** :
+- Ludmilla III + Marlene + Maison Alptraum
+- Garrison Averheim + nearby garrisons
+- Loyalistes Streissen (réprimés post-coup SIP)
+- **Imperial agent older servant** à l'Alptraum's Winter Residence post-coup (EiR ch.15 — warns Characters)
+
+**Neutralité ostensible** :
+- High Priest Sigmar Streissen (possible médiateur)
+- Streissen University (faction radicale = SIP front ; Master Albertus Nyman pivot ch.15)
+- Bergjaeger Mountainguard Black Fire Pass (loyaux à la Province, indifférents à la feud dynastique)
+
+**Tensions latentes** :
+- Vieille feud Alptraum-Leitdorf (générationnelle, plusieurs alternances)
+- Streissen Massacre 2502 = traumatisme mémoriel + ressentiment latent
+- Cellule Averheim Main Pourpre (manipulation)
+- 3 fiefs disputés Brachland / Achter Aver / Auld Ryding (frontière Stirland — cascade fiche 08, source Archives Vol I l.33)
+- Frontière Sudenland (cascade fiche 03 — Toppenheimer-Liebwitz feud parallèle)
+
+### Religion / cultes
+- **Sigmar** dominant (héritage Brigundien post-Sigmar ; High Priest Sigmar Streissen pivot).
+- **Ulric** minoritaire (héritage nord-Empire).
+- **Taal** présent (rural, Aver annual floods *"Taal's price for abundant crops"* Archives Vol I).
+- **Cultes du Chaos** : cellule Averheim Main Pourpre + Neuf Yeux/Blank Eye tutor Gislind Ursin (Tzeentch via Gideon) — voir section 5.
+
+---
+
+## 3. Déclencheur(s) canon
+
+Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par Marius Leitdorf et amplifiées par la cellule Averheim Main Pourpre. Averland est canon **la première province à tomber en anarchie** dans le Turmoil 2512 (Fandom Turmoil of 2512).
+
+### 1. Climat impérial déstabilisé (Spring 2512 IC)
+- **Prince Héritier Hergard von Tasseninck disparu** (Grey Mountains) — Ostland-Talabecland war ; Empire distrait (EiR ch.17 l.10-12)
+- **Karl-Franz fragilisé** (édit mutant + Ubersreik + rumeurs empoisonnement) — Ludmilla doute publiquement de sa santé mentale (Archives Vol I)
+- **Renaissance ulricaine fanatique** — abdication Jarrick Valgeir → Emil (EiR ch.17 l.14)
+
+### 2. Main Pourpre Averheim amplifie la feud
+- **Cellule Averheim Main Pourpre** répand des rumeurs sur les ambitions Alptraum vs Leitdorf (EiR Intro l.282-284 : *"riling things up"*).
+- *"An old feud between the Alptraums and Leitdorfs. Even without the Main Pourpre of Averheim riling things up, eventually this would have led to violence"* — la Main Pourpre **accélère** mais ne **crée pas** la feud.
+- **Mécanique parallèle** à la cellule Main Pourpre de Nuln vs Liebwitz-Toppenheimer (fiche 03).
+
+### 3. Marius conçoit la SIP comme cheval de Troie
+- *"Conceived by Marius Leitdorf"* (EiR ch.9 l.331).
+- **Marcus Karlssen** (captain bodyguard) installé comme leader nominal idéaliste.
+- **Bulk SIP = trusted Leitdorf army members** — *"uprising… was actually a carefully planned military operation"* (EiR ch.9 l.331-332).
+- **Cover story** : *"independent spirit of Streissen never extinguished, discussed in whispered taverns and university assignations"* (EiR ch.9 l.330) — recyclage des frustrations post-Massacre 2502.
+- **Marius positionne son armée à demi-journée de Streissen** secrètement (EiR ch.9 l.334).
+
+### 4. Coup SIP Rathaus Streissen
+- *"In a brilliant, nearly bloodless coup, the SIP seized the Rathaus, and forced the surprised, depleted garrison out of the city"* (EiR ch.9 l.330).
+- *"Galvanised the common citizen and merchant class who readily joined the cause"*.
+- SIP installe un *"independent council, assumed freistadt rights and exemptions"*.
+
+### 5. Ludmilla réagit en envoyant Marlene
+- *"Ludmilla was forced to react. Too old and infirm to take to the field herself, she stayed in Averheim with her Runefang, and sent her daughter, Marlene, to put down the uprising. Little did she know, however, that she was sending her into a trap"* (EiR ch.9 l.332-333).
+- **Marlene marche sur Streissen** avec troupes Averheim + garnisons locales, *"anticipating a short siege against a disorganised civilian rabble"* (EiR ch.9 l.332).
+
+### 6. Battle of Streissen — la trappe se referme
+- *"Within weeks Averland was in uproar as the Alptraums laid siege to the defiant town of Streissen, only to find their forces outflanked by those of Marius Leitdorf"* (EiR ch.17 l.26).
+- **Manœuvre canonique** : Leitdorf charge depuis demi-journée downstream ; force Alptraum *"in the rear manage to manoeuvre to face Leitdorf's charge, but in turn are outflanked by militia Marcus Karlssen managed to raise, emerging from the city gates"* (EiR ch.9 l.438).
+- **Outcome** : *"Alptraum's forces are scattered and flee Averheim"* (EiR ch.9 l.438-439).
+
+### 7. Marius prend Streissen + dépression
+- **Marius occupe l'Alptraum's Winter Residence** post-coup (EiR ch.15 l.91).
+- **Purges Alptraum supporters → Deep Haus gaol secret executions** (EiR ch.15 l.91).
+- **Dépression profonde de Marius** : *"mopes within the Alptraum's Winter Residence, suffering from profound depression"* + alcool + ordres erratiques (EiR ch.15 l.94-95).
+- **Marcus Karlssen mitigates** worst impulses (EiR ch.15 l.95).
+
+### 8. Confirmation post-Turmoil
+- *"After the Turmoil, he was confirmed as the new legitimate Elector Count"* (Fandom Turmoil of 2512).
+- **Alptraums déposés** (EiR Companion ch.6 l.162 : *"the Krieglitzes, Toppenheimers, Bildhofens, and Alptraums"*).
+- Marius devient **Grand Count of Averland** post-9 Brauzeit 2512 IC (EiR Intro l.279 tableau post-Turmoil).
+
+---
+
+## 4. Chronologie détaillée
+
+| Date IC | Repère narratif EiR | Événement | Source ligne |
+|---|---|---|---|
+| ~-1000 IC | (background) | Migration tribus Brigundiennes vers la région future Averland | Archives Vol I l.25-26 |
+| ~-15 IC | (background) | **Chieftain Siggurd** (compagnon Sigmar) fonde l'**Averburg** sur le bluff de l'Aver | Fandom Averheim |
+| 1 IC | (background) | Couronnement Sigmar — Averland intégrée à l'Empire | Lexicanum Sigmar |
+| Antiquité-pré-2512 | (background) | **Maisons Alptraum et Leitdorf alternent au pouvoir** (*"exchanging the title of Elector Count several times"*) | EiR ch.9 l.325 |
+| **1707 IC** | (background) | **Battle of Solland's Crown** — Gorbad Ironclaw détruit Solland ; **noblesse solandaise réfugiée vers Averland** ; bannière au soleil d'or adoptée | Fandom Averland ; Fandom Solland |
+| **2305 IC** | (background) | Magnus le Pieux refonde Sudenland ; frontière sud-ouest Averland modifiée (cascade fiche 03) | Archives Vol I l.272 |
+| ~2412-2502 IC | (background) | **Streissen freistadt charter** octroyée par jeune Ludmilla (date précise EiR-exclusive **2456 IC** — voir notes hors filtre) | EiR ch.9 l.352 ; Fandom Streissen |
+| 2500 IC | (background) | Radical clique Université Streissen prend contrôle politique | EiR ch.9 l.354 |
+| **2502 IC** | (background) | **Streissen Massacre** — riots famine + charter révoquée + intervention militaire Ludmilla *"in a blood bath"* | EiR ch.9 l.354-358 ; Fandom Streissen |
+| **2502 IC** | (background) | **Halfling Rebellion** réprimée par **Marius Leitdorf** ; Karl-Franz dispatche **Ludwig Schwarzhelm** enquête | Fandom Marius Leitdorf |
+| 2502-2512 IC | (background) | **Déclin Alptraum** ; Marius scheme la SIP ; cellule Averheim Main Pourpre amplifie la feud | EiR ch.9 l.325 ; Intro l.282-284 |
+| Spring 2512 IC | EiR ch.17 l.10-18 | Climat impérial déstabilisé ; **Averland *"first fell into anarchy"*** | EiR ch.17 l.18 ; Fandom Turmoil of 2512 |
+| Spring 2512 IC | (background, peu avant Battle) | **Marius positionne son armée à demi-journée de Streissen** secrètement | EiR ch.9 l.334 |
+| Spring 2512 IC | (background, peu avant Battle) | **Johan Sperren bloque le trafic fluvial sur l'Aver** | EiR ch.9 l.343 |
+| Spring 2512 IC | (background) | **SIP saisit le Rathaus de Streissen** en coup *"brilliant, nearly bloodless"* | EiR ch.9 l.330 |
+| Spring 2512 IC | (background) | SIP installe *"independent council, assumed freistadt rights"* | EiR ch.9 l.330-332 |
+| Spring 2512 IC | (background) | **Ludmilla envoie Marlene assiéger Streissen** ignorant le piège | EiR ch.9 l.332-333 |
+| Pendant EiR ch.9 | (Avant Battle) | **Characters arrivent au camp Leitdorf** (Streissen-half-day-march) ; rencontrent Marius + Daisy ; meal in enormous tent ; *"And I'm the one they call mad"* si Ghal Maraz révélé | EiR ch.9 l.360-376 |
+| Pendant EiR ch.9 | (Avant Battle) | **Characters peuvent mediator** (Marius/Marcus/Marlene + High Priest Sigmar Streissen) | EiR ch.9 l.424-435 |
+| Pendant EiR ch.9 | Battle of Streissen | **Leitdorf charge** depuis aval ; force Alptraum outflanked **deux fois** (Leitdorf rear + SIP gates) ; **Marlene's forces scattered, fuient Averheim** | EiR ch.9 l.438-439 ; ch.17 l.26 |
+| Pendant EiR ch.12 | Streissen post-coup | **Characters reviennent à Streissen** post-Black Fire Pass | EiR ch.12 l.85+ |
+| Pendant EiR ch.12 | Alptraum's Winter Residence | **Marius mope** ; alcool + ordres erratiques ; purges Alptraum supporters → Deep Haus secret executions | EiR ch.15 l.91-95 (= ch.12 in pagination EiR) |
+| Pendant EiR ch.12 | Alptraum's Winter Residence | **Marcus Karlssen mitigates** worst Marius impulses ; **older servant imperial agent** warns Characters | EiR ch.15 l.95 ; EiR ch.15 l.155 |
+| Pendant EiR ch.12 | (si Characters découverts) | **12 soldats arrest order** + Marius **veut saisir Ghal Maraz** s'il découvre que les PJ l'ont | EiR ch.12 l.117-123 |
+| Post-EiR ch.13 | Post-9 Brauzeit 2512 | **Marius confirmé Grand Count of Averland** ; Alptraums **déposés** | EiR ch.17 l.26 ; Companion ch.6 l.162 ; Fandom Turmoil of 2512 |
+| **2520 IC** | (post-Turmoil, hors période fiche) | **Marius mort à la Troisième bataille de Black Fire** ; tué par **Vorgaz Ironjaw** (Orc warlord) ; Karl-Franz tue Vorgaz en duel | Fandom Third Battle of Black Fire ; Lexicanum Vorgaz Ironjaw |
+
+---
+
+## 5. État post-Turmoil canon
+
+### Gouvernance
+- **Grand County of Averland** — entité **inchangée territorialement** (vs Sudenland qui est absorbée fiche 03).
+- **Grand Count** : **Marius Leitdorf** ; confirmé par Karl-Franz post-9 Brauzeit 2512 IC.
+- **Capitale** : Averheim (Averburg).
+- **Streissen** : sous contrôle Leitdorf direct (Alptraum's Winter Residence occupée) ; lord mayor purgé ; régime militaire post-coup, lent retour à la normalité.
+- **Avermarshal** : non précisé canon (continuité possible ou nomination Leitdorf).
+
+### Titre complet post-Turmoil (Marius)
+- *"Elector Count Marius of House Leitdorf, Grand Count of Averland, [titres internes non détaillés canon — voir section 10]"* + **Trappings** : *County of Streissen, High-Quality Clothing, Full Plate Armour, Main Gauche, Sword, **Runefang Mother's Ruin** (héritée d'Alptraum)*.
+
+### Symboles politiques et reliques
+- **Runefang Averland** : ***Mother's Ruin*** (alias ***Sword of Ruin***) — **passe d'Alptraum à Leitdorf** post-coup ; forgée par Alaric the Mad (Fandom Runefang).
+- **Bannière au soleil d'or** : conservée (héritage Solland, non liée à la dynastie).
+- **Averburg citadelle** : occupée par Marius post-coup.
+
+### Statut hiérarchique impérial
+- **1 siège électoral Averland** (continuité) — Marius vote.
+- **Pas de modification provinciale** (Averland reste Averland).
+
+### Statut des perdants
+- **Ludmilla III Alptraum** : **déposée** (canon EiR Companion ch.6 l.162) ; **statut personnel post-Turmoil non précisé canon** — voir section 10. Probablement décédée peu après par déclin de santé (canon EiR ch.9 l.400 *"declining health"*).
+- **Marlene Alptraum** : **forces scattered, fuie Averheim** (EiR ch.9 l.438-439) ; **statut personnel post-Turmoil non précisé canon** — voir section 10.
+- **Maison Alptraum** dans son ensemble : *"deposed"* ; perd Averland après plusieurs générations.
+- **Streisseners loyalistes Alptraum** : **purgés**, *"disappeared in Deep Haus gaol, secretly executed"* (EiR ch.15 l.91) — campagne de terreur post-coup.
+- **SIP idéalistes** : trahis ; certains *"rounded up as enemies"* par Marius dans sa paranoïa post-coup (EiR ch.15 l.93-94).
+
+### Structure de pouvoir Leitdorf post-Turmoil
+- **Grand Count** : Marius (titulaire, mais en dépression profonde EiR ch.15).
+- **Captain of personal bodyguard + de facto gouverneur Streissen** : Marcus Karlssen.
+- **Commander flotilla Aver** : Johan Sperren.
+- **Avermarshal** : non précisé.
+- **High Priest of Sigmar Streissen** : continuité, neutralité.
+- **Master Albertus Nyman** (University Chancellor) : continuité, devient pivot d'opposition civile silencieuse possible.
+
+### Religion post-Turmoil
+- **Sigmar** : continuité dominante (Leitdorf canon Sigmarite traditionnel).
+- **Cellule Averheim Main Pourpre** : **non démasquée canon EiR**, continue à opérer.
+- **Gislind Ursin (Neuf Yeux / Blank Eye)** : continuité, agenda Tzeentch via Gideon distinct de la Main Pourpre.
+
+### Streissen post-Turmoil
+- **Régime militaire** : *"Smoke hanging over town, perpetual gloomy light"* (EiR ch.15 l.112) ; *"few people in streets, shops boarded closed, bodies in road (ash raven daub foreheads by priests of Morr), feral dogs work corpses"* ; *"Town Criers declare: if not surrender by hour, townsperson executed"* (EiR ch.15 l.155).
+- **Charter freistadt** : **non restaurée** post-coup (Marius n'avait pas l'intention de la rendre — la SIP était une couverture).
+- **Deep Haus gaol** : symbole de la répression nouvelle.
+
+### Mention destin futur Marius (hors période fiche)
+- **Marius est tué en 2520 IC** à la Troisième bataille de Black Fire Pass par **Vorgaz Ironjaw** (Orc warlord) ; Karl-Franz tue Vorgaz en duel (Fandom Third Battle of Black Fire). **Hors période Turmoil** mais utile pour situer Marius dans la chronologie longue.
+
+---
+
+## 6. Acteurs — pré → post
+
+| Acteur | Pré-Turmoil | Post-Turmoil | Statut canon |
+|---|---|---|---|
+| **Marius of House Leitdorf** | Noble lord Averland, Mad Count, scheme SIP | **Grand Count of Averland** ; Runefang Mother's Ruin ; Trappings County of Streissen ; dépression profonde + purges Streissen | Vivant 2512, mort 2520 IC (Vorgaz Ironjaw, Third Battle of Black Fire) |
+| **Daisy Kurt von Helboring II** | Gelding "favorite advisor" de Marius, jab Reiksmarshall Helborg | (idem) | Vivante (EiR ch.9 l.367 ; Fandom Marius Leitdorf) |
+| **Marcus Karlssen** | Captain bodyguard Marius, **chef nominal idéaliste SIP** ; PNJ EiR-exclusif | **De facto gouverneur Streissen** ; mitigates worst Marius impulses | Vivant post-Turmoil (EiR ch.15 l.95) |
+| **Johan Sperren** | Commander flotilla Aver, blocus communications Alptraum ; PNJ EiR-exclusif | (idem) ; flotilla Aver Leitdorf | Vivant (EiR ch.9 l.343) |
+| **Streissen Independence Party (SIP)** | Cover story Marius, *"clandestine scheming"* université + tavernes | Trahie ; **SIP idéalistes purgés** par Marius paranoïa | Démantelée canon (EiR ch.15 l.93-94) |
+| **Maison Leitdorf** | Newcomer back to power, base Heideck possible | **Maison régnante Averland** | Dynastie victorieuse (Fandom Averland) |
+| **Ludmilla III Alptraum** | Grand Countess Averland + Princess Averheim + Countess Gaital ; old + infirm + waning power ; porte Runefang Mother's Ruin | **Déposée** (Companion ch.6 l.162) ; statut personnel non précisé canon ; probable décès rapide vu santé déclinante | Variable (EiR Companion ch.6 l.162) |
+| **Marlene Alptraum** | Baroness, fille aînée Ludmilla III, héritière désignée ; *"belligerent commander"* | **Forces scattered, fuie Averheim** ; statut personnel non précisé canon | Variable (EiR ch.9 l.438-439) |
+| **Maison Alptraum** | Dynastie régnante Averland | **Déposée** ; survivants Alptraum non précisés | Déposée (Companion ch.6 l.162) |
+| **High Priest Sigmar Streissen** | Neutral, médiateur possible | (idem) | Continuité (EiR ch.9 l.427) |
+| **Master Albertus Nyman** | University Chancellor / Loremaster Streissen College | (idem) ; pivot opposition civile silencieuse possible | Vivant (EiR ch.15 l.127-162) |
+| **Captain Neuer** | Streissen College Watch | (idem) | Vivant (EiR ch.15 l.128-141) |
+| **Sergeant Alberecht Haessler** | Grenzstadt Bergjaeger Patrol, Black Fire Pass | (idem) | Vivant (EiR ch.10 l.40-41) |
+| **Cellule Averheim Main Pourpre** | Active, amplifie feud Alptraum-Leitdorf | **Non démasquée canon** ; continue à opérer | Variable (EiR Intro l.282-284) |
+| **Gislind Ursin (Blank Eye, Neuf Yeux)** | Tutor culture/philosophie Averheim, cultiste Tzeentch via Gideon | (idem) ; agenda Wolfgang continue jusqu'à mort de Wolfgang ch.13 | Variable (EiR Intro l.173-176 ; Fandom Neuf Yeux) |
+| **Yann Zuntermein** (Altdorf Main Pourpre) | Spymaster Chambre Noire + orchestrateur Empire-wide | Démasqué par dossier Chambre Noire post-Turmoil (cf. fiche 11) | Variable (EiR Intro l.215 ; cf. fiche 11) |
+| **Karl-Franz** (Holswig-Schliestein) | Empereur fragilisé, **canon EiR = imposteur** (révélation ch.7) | Reconnaît Marius Leitdorf comme Grand Count d'Averland post-Turmoil | Variable selon résolution PJ (EiR ch.17 l.26) |
+
+---
+
+## 7. Cascades vers d'autres fronts
+
+- **Cascade décisive depuis [[Turmoil/03 - Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer)]]** :
+  - **Mécanique Main Pourpre identique** : cellule Nuln vs Liebwitz-Toppenheimer (fiche 03) et cellule Averheim vs Alptraum-Leitdorf (présente fiche) — **deux fronts sud-Empire parallèles**, mêmes méthodes (amplification feud noble pré-existante).
+  - **Géographie partagée** : Averland borde Sudenland (ouest) ; Marius opère dans le même théâtre que Marius Karlssen / Etelka Toppenheimer.
+  - **Bannière au soleil d'or** : symbole partagé Averland (bannière officielle depuis 1707 IC) et culte Söll de Sudenland (agitation restaurationniste) — racine commune Solland 1707 IC.
+  - **Pas d'intervention militaire croisée canon** entre Marius et Emmanuelle ou Etelka — les deux conflits sont parallèles, pas couplés militairement.
+
+- **Cascade vers [[Turmoil/08 - Stirland (Haupt-Anderssen)]]** :
+  - **3 fiefs disputés frontière Averland/Stirland** : **Brachland, Achter Aver, Auld Ryding** (Archives Vol I l.33 : *"In the far southeast, just south of Mootland and west of Sylvania, are the three independent fiefs of Brachland, Achter Aver, and the Auld Ryding. These are claimed by both Averland and Stirland, a source of friction between the two"*).
+  - **Post-Turmoil** : Marius hérite de ce contentieux + n'est pas dans une posture militaire pour le presser (Streissen purges l'absorbent).
+  - **Heideinheim raid Threshers ch.9** (Stirland bank Aver — cascade fiche 03) : géographiquement proche d'Averland mais pas une cible directe.
+
+- **Cascade vers [[Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire)]]** :
+  - **Plan Main Pourpre canon** : installer Wolfgang Holswig-Abenauer en marionnette (Fandom Turmoil of 2512). Cellule Averheim Main Pourpre = un des leviers.
+  - **Gislind Ursin (Blank Eye, Neuf Yeux)** : tutor de Wolfgang, manipulation Tzeentch via Gideon — agenda direct sur Wolfgang.
+  - **Saisie Ghal Maraz par Marius en ch.12** (EiR ch.12 l.117-123) : Marius dépressif veut le Hammer si Characters le possèdent — moment de risque majeur pour la quête.
+  - **Conclave brisé ch.7** : Ludmilla et Marius **pas explicitement présents** au Conclave canon (le Conclave est tenu à Altdorf et Averland est trop loin / Ludmilla trop infirme) — voir section 10.
+
+- **Cascade vers [[Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains)]]** :
+  - **Mountainguard Bergjaeger Black Fire Pass** : patrouille de la frontière sud Averland (Border Princes, Greenskins, Trolls) (EiR ch.10 l.40-45).
+  - **Averland 8th Halberds Dok a Dum** : garnison watchtower (EiR ch.10 l.112).
+  - **Dwarfs Black + Worlds Edge Mountains** : voisins économiques (gems, minéraux, fourrures) ; *"jealously guard mining claims"* (Archives Vol I).
+  - **Vorgaz Ironjaw 2520 IC** (Third Battle of Black Fire) : prélude lointain à la mort de Marius — hors période Turmoil mais cohérence chronologique.
+
+- **Cascade vers [[Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur)]]** :
+  - **Karl-Franz confirme Marius** comme Grand Count post-Turmoil (EiR ch.17 l.26+).
+  - **Halfling Rebellion 2502 IC** : Karl-Franz a dispatché **Ludwig Schwarzhelm** enquêter sur les méthodes de Marius — précédent diplomatique mais sans rupture (Fandom Marius Leitdorf).
+  - **Ludmilla doute publiquement de la santé mentale de Karl-Franz** post-Ubersreik (Archives Vol I) — érode l'alliance Alptraum-Reikland.
+
+- **Cascade vers [[Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs)]]** :
+  - **Marius Sigmarite traditionnel** + High Priest Sigmar Streissen pivot médiation.
+  - **Pas de proposition Ulric d'Etelka qui s'applique ici** (contrairement à Sudenland fiche 03).
+  - **Religion stable** dans Averland post-Turmoil.
+
+- **Cascade vers [[Turmoil/01 - Nordland (Gausser - Crow Feeder)]] et [[Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen)]]** :
+  - **Pas de cascade directe canon** entre Averland et le nord-Empire — fronts parallèles mais déconnectés militairement.
+
+---
+
+## 8. Hooks jouables
+
+### Hooks canon (explicites)
+
+- **(canon)** **Camp Leitdorf à demi-journée de Streissen** (EiR ch.9 l.334) — Characters rencontrent Marius + Daisy ; meal dans enormous tent ; Marius probes la mission, mock features, *"And I'm the one they call mad"* si Ghal Maraz révélé. *Position : actif ch.9.*
+- **(canon)** **Mediation Streissen** (EiR ch.9 l.424-435) — Characters organisent médiation Marius/Marcus/Marlene avec High Priest Sigmar Streissen pour légitimité. **Choix narrativement important** : faveur Leitdorf = canon post-Turmoil mais Alptraum gratitude ; faveur Marlene = pacifie Averland mais Leitdorf swears vengeance ; balanced = aucun side content.
+- **(canon)** **Battle of Streissen** (EiR ch.9 l.437-440) — Characters intervienent ou non ; outcomes varient selon intelligence/expertise.
+- **(canon)** **Capture Brecht (Threshers)** *via* Heideinheim raid (cascade fiche 03 ch.9) — pas direct Averland mais proche géographiquement.
+- **(canon)** **Streissen post-coup ch.15** : Alptraum's Winter Residence + *"older servant imperial agent warns Characters: 'You must go! Quickly! Leitdorf will have you all imprisoned or killed and will take the hammer'"* (EiR ch.15 l.155 paraphrase).
+- **(canon)** **Évasion 12 soldats arrest order** (EiR ch.12 l.117-123) — si Characters restent à Streissen alors que Marius découvre Ghal Maraz : 12 soldats les arrêtent, Marius saisit le Hammer.
+- **(canon)** **Master Albertus Nyman + Captain Neuer** — pivots ch.15 ; rescue mission cellar fugitives ; Wolfshügel temple clues research (EiR ch.15 l.127-162).
+- **(canon)** **Sergeant Alberecht Haessler + Bergjaeger Mountainguard** (EiR ch.10 l.40-41) — patrouille Black Fire Pass, professional regiment, offre nouvelles si Characters reassured.
+- **(canon)** **Averheim Main Pourpre cell** (EiR Intro l.282-284) — cellule non démasquée post-Turmoil ; hook investigation PJ post-Turmoil.
+- **(canon)** **Gislind Ursin Blank Eye tutor Averheim** (Fandom Neuf Yeux) — tutor Wolfgang Tzeentch via Gideon ; hook PJ ch.10-13 si recoupement avec Chambre Noire.
+- **(canon)** **Halfling Rebellion 2502 IC + investigation Schwarzhelm** (Fandom Marius Leitdorf) — précédent suppression brutale par Marius ; hook PJ enquête historique ou conséquences résiduelles dans la Mootland frontière.
+- **(canon)** **Bannière au soleil d'or Averland** + **agitation Söllite Sudenland** (cascade fiche 03) — Characters peuvent exploiter le symbolisme commun pour rallier des soutiens cross-frontière.
+
+### Hooks canon + déduction
+
+- **(canon + déduction)** **Marius dépression post-coup** : Characters bien positionnés peuvent (a) le manipuler, (b) plaider pour les Streisseners purgés, (c) déclencher un assassinat opportuniste si la table veut une rupture. *Position : actif ch.12-15.*
+- **(canon + déduction)** **Sort personnel de Marlene** non précisé canon — si fuite réussie, elle peut **mener une fronde Alptraum** ailleurs dans l'Empire (probable Mootland, Stirland, ou Border Princes).
+- **(canon + déduction)** **3 fiefs Brachland/Achter Aver/Auld Ryding** (Archives Vol I l.33) — Characters traversent → croisent les disputes Averland/Stirland (cascade fiche 08).
+- **(canon + déduction)** **Mort Marius 2520 IC** (Fandom Vorgaz Ironjaw) — pour des campagnes longues, Averland post-2520 sera dans une nouvelle crise de succession Leitdorf — hook futur.
+- **(canon + déduction)** **Streissen freistadt charter** : Characters peuvent plaider pour sa restauration post-coup (Marius dépressif pourrait y consentir sous pression PJ ou Karlssen).
+- **(canon + déduction)** **Réseau Alptraum résiduel** : si certains membres de la maison survivent (canon ne précise pas), hook PJ ralliement ou neutralisation.
+- **(canon + déduction)** **Heideck town** comme base Leitdorf : si confirmé par mais GM, hook PJ visite et exploration de l'héritage seigneurial.
+- **(canon + déduction)** **Mountainguard Bergjaeger** : recrutement PJ ou mission frontalière Black Fire Pass (vers Border Princes / Greenskins).
+
+---
+
+## 9. Sources canon (lignes précises)
+
+> **Note méta — pagination EiR ch.12/ch.15** : selon les versions du PDF EiR Volume 5, le chapitre couvrant Streissen post-coup est numéroté ch.12 (*"Black Fire Pass to Altdorf"*) ou ch.15 selon la pagination interne. Les deux conventions sont utilisées dans la conversion .md de Source/. Pour cette fiche, **ch.12 = chapitre principal du retour Altdorf** (incluant section Streissen post-coup) ; les lignes `EiR ch.15 l.X` réfèrent à la même section que `EiR ch.12 l.X` selon la pagination employée — les deux pointent vers le même passage canonique.
+
+### Sources primaires C7 directement lues
+
+- **EiR Volume 5 — Introduction** :
+  - l.45 — *"war between Ostland and Talabecland… quarrels between nobles in Averland and Hochland"* (climat impérial)
+  - l.173-176 — **Neuf Yeux tableau** : Gislind Ursin (Blank Eye, Averheim Culture and Philosophy)
+  - l.215 — Wasmeier-Zuntermein orchestration
+  - **l.282-284 — Averheim Main Pourpre cell + Alptraum-Leitdorf feud** *"riling things up"*
+  - l.279 — tableau Electors post-Turmoil (Marius confirmé)
+  - l.332-333 — **Ludmilla envoie Marlene dans le piège**
+
+- **EiR ch.9 *Altdorf to Black Fire Pass*** :
+  - l.325 — *"the struggle for power in Averland has smouldered for generations"*
+  - **l.330-332 — SIP coup Rathaus Streissen** + cover story + réalité Marius
+  - l.334 — Marius armée demi-journée downstream
+  - l.343 — Johan Sperren flotilla Aver
+  - **l.350-358 — Streissen historique** (charter, Massacre 2502)
+  - **l.360-388 — Marius Leitdorf personnalité + statbloc complet Gold 7**
+  - l.363 — *"Mad Count"* description complète
+  - l.365 — soldiers think Sigmar-inspired
+  - **l.367-373 — Daisy Kurt von Helboring II**
+  - l.381 — statbloc Marius
+  - l.387 — Doomed Marius
+  - **l.389-403 — Marlene Alptraum statbloc + personnalité**
+  - l.395-397 — Marlene interactions PJ
+  - **l.400-401 — Ludmilla santé + politique**
+  - **l.404-422 — Marcus Karlssen** (SIP leader cover, statbloc Rabble Rouser Brass 3)
+  - l.422 — Doomed Karlssen
+  - l.424-435 — Mediation Streissen
+  - **l.427 — High Priest Sigmar Streissen**
+  - **l.438-439 — Battle of Streissen** outcome
+  - l.442-446 — arrivée Averheim, Averburg
+  - l.446-447 — réception Averheim selon Streissen outcome
+
+- **EiR ch.10 *In Sigmar's Footsteps*** :
+  - **l.40-45 — Sergeant Alberecht Haessler + Bergjaeger Mountainguard**
+  - l.112 — Averland 8th Halberds Dok a Dum
+
+- **EiR ch.12 *Black Fire Pass to Altdorf*** :
+  - **l.85-95 — Streissen post-coup** (état général)
+  - l.91 — Deep Haus gaol secret executions
+  - l.93-94 — Marius paranoïa, SIP roundup
+  - l.94-95 — Marius dépression, alcool, Karlssen mitige
+  - l.117-123 — **12 soldats arrest order + saisie Ghal Maraz**
+  - l.112 — atmosphère Streissen ("smoke hanging over town")
+
+- **EiR ch.15 (= ch.12 in some pagination) *Streissen post-coup details*** :
+  - l.91 — Deep Haus gaol secret executions
+  - l.94-95 — Marius dépression, Karlssen mitigates
+  - l.117-124 — Alptraum's Winter Residence
+  - **l.127-162 — Master Albertus Nyman University Chancellor + Captain Neuer + Vorn Nyman + Hiero Greendale + Gerdt + Gertie**
+  - l.155 — older servant imperial agent warns Characters
+  - l.155 — Town Criers executions
+
+- **EiR ch.17 *History of the Turmoil*** :
+  - l.10-14 — climat impérial (Hergard, Karl-Franz, Jarrick)
+  - **l.18 — *"the province of Averland that next descended into anarchy"***
+  - **l.26 — *"Within weeks Averland was in uproar as the Alptraums laid siege to the defiant town of Streissen, only to find their forces outflanked by those of Marius Leitdorf"***
+
+- **EiR Companion ch.6 *Alternative Empires*** :
+  - **l.162 — *"the former ruling families are either deposed — the Krieglitzes, Toppenheimers, Bildhofens, and Alptraums — or replaced upon their extinction"***
+  - **Tableau Electors prior/after** : Ludmilla Alptraum → Marius Leitdorf
+
+- **Archives of the Empire Vol I ch.4 *The Grand Provinces*** :
+  - **section Averland** (autour l.18-38) :
+    - l.18 — titres Ludmilla III
+    - l.20 — capitale Averheim, exports (cattle, fashionable clothing, fine porcelain, horses, leather goods, wine)
+    - l.23-33 — géographie (Upper Reik, Aver, Blue Reach, Wissenland border, Black + Worlds Edge Mountains, Brachland/Achter Aver/Auld Ryding 3 fiefs disputés Stirland)
+    - l.25-26 — Brigundian tribes
+    - l.27 — State Army cavalry + pike, Avermarshal, alternance Alptraum-Leitdorf
+    - l.29-30 — recent Ubersreik troubled court, Ludmilla doubts Emperor's mental state, refuge Jungfreud rumour
+    - l.36-38 — Streissen Massacre 2502 byword for atrocity
+  - **section Streissen** (autour l.350-358) :
+    - l.350 — Streissen 2nd city Averland
+    - l.352 — charter freistadt (date EiR-exclusive 2456 IC mais Archives ne date pas)
+    - l.354-358 — Massacre 2502 IC
+    - l.38 — informants malcontents *"other allies happy to see human governments in turmoil"* (allusion Main Pourpre)
+
+### Sources web
+
+- [Marius Leitdorf — Fandom](https://warhammerfantasy.fandom.com/wiki/Marius_Leitdorf) — Mad Count, Daisy Kurt von Helboring II gelding, jab Helborg, mort 2520 IC Vorgaz Ironjaw, Halfling Rebellion 2502 + Schwarzhelm dispatched
+- [Marius Leitdorf — Lexicanum](https://whfb.lexicanum.com/wiki/Marius_Leitdorf)
+- [Ludmilla III — Lexicanum](https://whfb.lexicanum.com/wiki/Ludmilla_III) — Grand Countess of Averland, Princess of Averheim, Countess of Gaital
+- [Elector Count of Averland — Lexicanum](https://whfb.lexicanum.com/wiki/Elector_Count_of_Averland) — Marlene = eldest daughter Ludmilla
+- [Averland — Fandom](https://warhammerfantasy.fandom.com/wiki/Averland) — bannière soleil d'or post-Solland, Brigundian heritage
+- [Averland — Lexicanum](https://whfb.lexicanum.com/wiki/Averland)
+- [Averheim — Fandom](https://warhammerfantasy.fandom.com/wiki/Averheim) — Averburg fondé par Siggurd compagnon Sigmar, Plenzerplatz, Steilstrasse
+- [Averheim — Lexicanum](https://whfb.lexicanum.com/wiki/Averheim)
+- [Streissen — Fandom](https://warhammerfantasy.fandom.com/wiki/Streissen) — Massacre 2502 + SIP canon + Marius destabilization
+- [Streissen — Lexicanum](https://whfb.lexicanum.com/wiki/Streissen)
+- [Turmoil of 2512 — Fandom](https://warhammerfantasy.fandom.com/wiki/Turmoil_of_2512) — Averland *"first fell into anarchy"* + Marius confirmé
+- [Runefang — Fandom](https://warhammerfantasy.fandom.com/wiki/Runefang) — **Mother's Ruin / Sword of Ruin** = Runefang Averland, forgée Alaric the Mad
+- [Solland — Fandom](https://warhammerfantasy.fandom.com/wiki/Solland) — Battle of Solland's Crown 1707 IC, refugiés vers Averland
+- [Waaagh! Gorbad — Lexicanum](https://whfb.lexicanum.com/wiki/Waaagh!_Gorbad) — 1707-1712 IC
+- [Heideck — Fandom](https://warhammerfantasy.fandom.com/wiki/Heideck) — town fortifié Old Dwarf Road / Agbeiten Road, loyalty Leitdorfs
+- [Neuf Yeux — Fandom](https://warhammerfantasy.fandom.com/wiki/Nine_Eyes) — **Blank Eye** (Gislind Ursin Averheim, Tzeentch via Gideon)
+- [Third Battle of Black Fire — Fandom](https://warhammerfantasy.fandom.com/wiki/Third_Battle_of_Black_Fire) — Marius mort 2520 IC
+- [Vorgaz Ironjaw — Lexicanum](https://whfb.lexicanum.com/wiki/Vorgaz_Ironjaw) — Orc warlord tueur Marius
+- [Halfling Rebellion — Fandom](https://warhammerfantasy.fandom.com/wiki/Halfling_Rebellion) — 2502 IC, Marius répression brutale, Schwarzhelm dispatched
+- [Black Fire Pass — Fandom](https://warhammerfantasy.fandom.com/wiki/Black_Fire_Pass)
+- [River Aver — Fandom](https://warhammerfantasy.fandom.com/wiki/River_Aver)
+- [Main Pourpre — Fandom](https://warhammerfantasy.fandom.com/wiki/Purple_Hand)
+
+---
+
+## 10. Ambiguïtés canon
+
+*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas résolu par règle WFRP4 supersède WFRP2/3.*
+
+### Statbloc Marlene Alptraum = copy-paste de Marius (erreur typo C7)
+
+- **EiR ch.9 l.389-402** : statbloc Marlene **strictement identique** à celui de Marius (l.381-387) — mêmes caractéristiques M/WS/BS/S/T/I/Ag/Dex/Int/WP/Fel/W, mêmes skills, mêmes talents, même Doomed.
+- **Web cross-check** : **Fandom/Lexicanum ne fournissent aucun statbloc alternatif pour Marlene**.
+- **Poids relatif** : ambiguïté canon non résoluble par web.
+- **Interprétation** : probable erreur de copy-paste éditorial Cubicle 7 dans EiR ch.9. Marlene est censée être *"wiry, domineering presence"* (l.390) et tactiquement inférieure à Marius (*"belligerent commander always ready to charge in before thinking"*), donc des stats inférieures ou différentes seraient attendues.
+- **Décision GM** : (a) **utiliser le statbloc tel quel** (canon official EiR) ; ou (b) **moduler** : Marlene = mêmes stats brutes, mais GM réduit Cool/Intuition/Lore et augmente Frenzy/Intimidate pour refléter sa personnalité ; ou (c) **inventer un statbloc adapté** (hors canon strict).
+
+### Sort personnel de Ludmilla III post-déposition
+
+- **EiR Companion ch.6 l.162** : *"deposed"* — mais ne précise pas si exil, emprisonnement, mort de cause naturelle, ou simple perte de titre.
+- **Fandom Ludmilla III** : *"declining health"* déjà 2512 IC.
+- **Web cross-check** : aucune source canon valide ne précise.
+- **Décision GM** : très probablement **décédée peu après 2512 IC** par déclin de santé (cohérent avec EiR ch.9 l.400). À inventer le moment selon tempo de la table.
+
+### Sort personnel de Marlene post-fuite Streissen
+
+- **EiR ch.9 l.438-439** : *"Alptraum's forces are scattered and flee Averheim"*.
+- **Canon post-Turmoil** : ne précise pas le destin de Marlene (fuite réussie ? capturée ? tuée ? exil ?).
+- **Web cross-check** : aucune source.
+- **Décision GM** : à inventer. **Hook fronde Alptraum** possible.
+
+### Identité de la cellule Averheim Main Pourpre
+
+- **Canon EiR Intro l.282-284** : la cellule existe et amplifie la feud. **Aucune identité individuelle nommée canon EiR**.
+- **Web cross-check** : aucune source ne précise les agents de Nuln spécifiquement.
+- **Distinction canon Blank Eye** : Gislind Ursin (tutor Wolfgang, Neuf Yeux via Gideon) **n'est pas explicitement** membre de la cellule Main Pourpre — c'est une structure distincte. Mais les deux opèrent à Averheim — coexistence possible.
+- **Décision GM** : à inventer si pertinent. Hypothèse cohérente : un cultiste Tzeentch lié à Wasmeier-Zuntermein réseau, distinct de Gislind.
+
+### Connexion Maison Alptraum / réfugiés noblesse Solland 1707 IC
+
+- **Fandom Solland** : *"Some noble families of Solland managed to flee Waaagh! Gorbad and established themselves in other parts of the Empire, mainly in Averland"*.
+- **Fandom/Lexicanum/EiR/Archives** : ne nomment **pas explicitement** la Maison Alptraum comme issue de cette migration.
+- **Possible cohérence narrative** : Alptraum (= "cauchemar" en allemand approximatif) émerge comme dynastie Averland après 1707 IC ?
+- **Web ne tranche pas** : aucune source confirme ni dément.
+- **Décision GM** : à étoffer si pertinent. **Pas un fait canon** — laisser ambigu.
+
+### PNJ EiR-exclusifs sans corroboration externe
+
+- **Marcus Karlssen** (Captain bodyguard Marius, SIP cover leader) : aucune mention Fandom/Lexicanum.
+- **Johan Sperren** (flotilla commander Aver) : aucune mention Fandom/Lexicanum.
+- **Master Albertus Nyman** + **Captain Neuer** + **Vorn Nyman** + **Hiero Greendale** + **Gerdt & Gertie** (Streissen College) : tous EiR-exclusifs.
+- **Sergeant Alberecht Haessler** (Bergjaeger) : EiR-exclusif.
+- **Décision GM** : canon EiR uniquement, pas de complément externe.
+
+### Présence Ludmilla et Marius au Conclave d'urgence ch.7
+
+- **EiR ch.7** : le Conclave réunit certains Électeurs à Altdorf, **mais Ludmilla et Marius ne sont pas explicitement nommés présents** (contrairement à Etelka Toppenheimer fiche 03, Emmanuelle, Boris).
+- **Cohérence** : Ludmilla *"old and infirm"* (EiR ch.9 l.332) peut être trop souffrante pour voyager ; Marius est probablement déjà engagé dans la campagne Streissen au moment du Conclave.
+- **Canon EiR** : silencieux sur leur présence/absence.
+- **Web cross-check** : aucune source canonique externe.
+- **Décision GM** : présupposer **absence** des deux (cohérent avec leurs situations respectives). À inventer si tempo de table justifie une présence.
+
+### Marius Leitdorf "first to speak for Karl-Franz's election"
+
+- **Note table Gauche Marius Leitdorf.md** : *"Marius first to speak for Karl-Franz Election Empereur — loyaliste"*.
+- **Canon EiR/Archives/RN&HD** : ne mentionne **pas explicitement** ce détail.
+- **Canon Fandom Marius Leitdorf** : confirme support général à Karl-Franz mais sans préciser "first to speak".
+- **Web ne tranche pas** : aucune source canonique externe confirme la formulation exacte.
+- **Décision GM** : usage de la note table comme cohérent canon, mais ne pas l'attribuer comme canon EiR.
+
+---
+
+## Notes hors filtre section 10 (résolutions documentées)
+
+*Cas où le web ou la règle d'arbitrage édition (WFRP4 supersède WFRP2/3) a tranché — déplacés ici pour ne pas surcharger section 10.*
+
+### Runefang Averland : nom canon RÉSOLU
+
+- **Fandom Runefang** : *"The Runefang of Averland is known as **Mother's Ruin** and the **Sword of Ruin**"*. Forgée par Alaric the Mad.
+- **EiR/Archives** : silencieux sur le nom (EiR ch.9 l.332 dit juste *"her Runefang"*).
+- **Adopté fiche** : **Mother's Ruin** (alias Sword of Ruin).
+
+### Mort de Marius Leitdorf — RÉSOLUE (canon stable cross-édition)
+
+- **Fandom Third Battle of Black Fire** : Marius tué en **2520 IC** par **Vorgaz Ironjaw** (Orc warlord) ; Karl-Franz tue Vorgaz en duel.
+- **Aucun conflit WFRP4/WFRP2** sur ce point — canon stable.
+- **Note** : la rumeur "Marius tué par Skarbrand" parfois citée dans fluff fan est **non canon tabletop**.
+- **Adopté fiche** : mort 2520 IC Vorgaz Ironjaw (mention section 5 et chronologie section 4 comme contexte futur).
+
+### Orthographe canon "Daisy Kurt von Helboring II" — RÉSOLUE
+
+- **Fandom Marius Leitdorf** : **"Daisy Kurt von Helboring II"** (un seul `l` dans Helboring, "II" = prédécesseur, **gelding** = cheval hongre, pas jument).
+- **Note table Gauche Marius Leitdorf.md** : *"Daisy Kurt von Hellboring the Second"* — orthographe double-`l` est artefact local.
+- **Adopté fiche** : Daisy Kurt von Helboring II (canon Fandom).
+
+### Cult Averheim canon : "Blank Eye" — RÉSOLUE
+
+- **Fandom Neuf Yeux** : *"Gislind Ursin teaches Blank Eye (Averheim Culture and Philosophy)"*.
+- **Hypothèse Phase 1 fiche 04** : *"Hollow Eye"* — orthographe erronée (probable artefact OCR ou confusion lecture).
+- **Adopté fiche** : **Blank Eye** (canon Fandom).
+- **Note** : Blank Eye = structure Neuf Yeux patronnée par Gideon (Tzeentch via possession Wolfgang), **distincte** de la Main Pourpre qui opère aussi à Averheim. Les deux structures coexistent sans lien hiérarchique direct documenté canon.
+
+### Date Streissen freistadt charter (2456 IC EiR-exclusif vs Fandom "last century")
+
+- **EiR ch.9 l.352** : implique date précise dans la période "last century" sans la nommer ; **note table Gauche utilise 2456 IC** comme date EiR-exclusive.
+- **Fandom Streissen** : dit seulement *"over the course of the last century"* et *"a young Ludmilla"* (donc dans les ~80 ans pré-2502 IC).
+- **Règle WFRP4 supersède WFRP2/3** : applicable — WFRP4 EiR fait foi si une date est précisée.
+- **Adopté fiche** : **~2412-2502 IC** (fenêtre Fandom) avec mention possible 2456 IC comme date EiR-exclusive si confirmée à la table.
+
+### 3 fiefs disputés Averland/Stirland — confirmé canon EiR
+
+- **Archives Vol I l.33** : Brachland, Achter Aver, Auld Ryding.
+- **Sources fan-tier** (Kanka World) : reprennent ce qui est dans Archives.
+- **Fandom/Lexicanum** : pas de page dédiée trouvée dans le cross-check.
+- **Adopté fiche** : canon Archives Vol I retenu, cascade vers fiche 08 Stirland.
+
+### Heideck comme possible base Leitdorf — INCONFIRMÉ canon
+
+- **Fandom Heideck** : town fortifié au carrefour Old Dwarf Road / Agbeiten Road, *"may swing for Independence Charter or remain loyal to the Leitdorf family"*.
+- **Pas de confirmation explicite** comme siège seigneurial Leitdorf.
+- **Adopté fiche** : mention possible base Leitdorf, non affirmée canon.

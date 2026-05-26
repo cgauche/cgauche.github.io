@@ -1,0 +1,55 @@
+# High Elf Player's Guide - Index
+
+- [The Defenders of Order](<01 - The Defenders of Order.md>) — p. 4-5
+- [The Old Ones, Chaos, and the Great Vortex](<02 - The Old Ones, Chaos, and the Great Vortex.md>) — p. 6-18
+- [Asur Society](<03 - Asur Society.md>) — p. 19-22
+- [Upbringing](<04 - Upbringing.md>) — p. 23-26
+- [Naggaroth, Nagarythe, and the Kinstrife](<05 - Naggaroth, Nagarythe, and the Kinstrife.md>) — p. 27
+- [Attitude to Other Species](<06 - Attitude to Other Species.md>) — p. 28-30
+- [High Elf Outposts](<07 - High Elf Outposts.md>) — p. 31
+- [Armoury of the High Elves](<08 - Armoury of the High Elves.md>) — p. 32-37
+- [Maintaining Order](<09 - Maintaining Order.md>) — p. 38
+- [Naval Power](<10 - Naval Power.md>) — p. 39-40
+- [The Importance of Trade](<11 - The Importance of Trade.md>) — p. 41
+- [High Elf Merchant Ships](<12 - High Elf Merchant Ships.md>) — p. 42
+- [Dragons and the Asur](<13 - Dragons and the Asur.md>) — p. 43-44
+- [High Elf Characters](<14 - High Elf Characters.md>) — p. 45
+- [Yenlui](<15 - Yenlui.md>) — p. 46-47
+- [Obsessions](<16 - Obsessions.md>) — p. 48
+- [Dreams](<17 - Dreams.md>) — p. 49-50
+- [Blood of Aenarion](<18 - Blood of Aenarion.md>) — p. 51
+- [Elders of the Asur](<19 - Elders of the Asur.md>) — p. 52-53
+- [High Elves from the Inner Kingdoms](<20 - High Elves from the Inner Kingdoms.md>) — p. 54
+- [High Elves from the Outer Kingdoms](<21 - High Elves from the Outer Kingdoms.md>) — p. 55
+- [Sea Elf Characters](<22 - Sea Elf Characters.md>) — p. 56
+- [Playing a Sea Elf](<23 - Playing a Sea Elf.md>) — p. 57
+- [High Elf Careers](<24 - High Elf Careers.md>) — p. 58-59
+- [Adapting Careers](<25 - Adapting Careers.md>) — p. 60-63
+- [Sea Guard](<26 - Sea Guard.md>) — p. 64-65
+- [Swordmaster](<27 - Swordmaster.md>) — p. 66-67
+- [The Way of the Warrior](<28 - The Way of the Warrior.md>) — p. 68
+- [Way of the Sword](<29 - Way of the Sword.md>) — p. 68-69
+- [Shadow Warrior](<30 - Shadow Warrior.md>) — p. 70-71
+- [Merchant Adventurer](<31 - Merchant Adventurer.md>) — p. 72-73
+- [Aestheticist](<32 - Aestheticist.md>) — p. 74-75
+- [High Magic](<33 - High Magic.md>) — p. 76-78
+- [Asur Magehood](<34 - Asur Magehood.md>) — p. 79
+- [Petty Magic Spells](<35 - Petty Magic Spells.md>) — p. 80
+- [Elven Arcane Spells](<36 - Elven Arcane Spells.md>) — p. 81-82
+- [High Magic Skills and Talents](<37 - High Magic Skills and Talents.md>) — p. 83
+- [Casting High Magic](<38 - Casting High Magic.md>) — p. 84
+- [Runes of the Cadai](<39 - Runes of the Cadai.md>) — p. 84
+- [High Magic Questions and Answers](<40 - High Magic Questions and Answers.md>) — p. 85
+- [The Lore of High Magic](<41 - The Lore of High Magic.md>) — p. 86-89
+- [Mage](<42 - Mage.md>) — p. 90
+- [High Elf Religion](<43 - High Elf Religion.md>) — p. 91-99
+- [Smith-priest of Vaul](<44 - Smith-priest of Vaul.md>) — p. 100-103
+- [Storm Weaver](<45 - Storm Weaver.md>) — p. 104-107
+- [Loremaster of Hoeth](<46 - Loremaster of Hoeth.md>) — p. 108-111
+- [The Pleasure Cults](<47 - The Pleasure Cults.md>) — p. 112
+- [Cults of Khaine](<48 - Cults of Khaine.md>) — p. 113-114
+- [Intrigues](<49 - Intrigues.md>) — p. 115-117
+- [Players and Intrigues](<50 - Players and Intrigues.md>) — p. 118-124
+- [Is the Intrigue Concluded?](<51 - Is the Intrigue Concluded-.md>) — p. 125-126
+- [INDEX](<52 - INDEX.md>) — p. 127
+- [Front Matter](<53 - Front Matter.md>) — p. 128

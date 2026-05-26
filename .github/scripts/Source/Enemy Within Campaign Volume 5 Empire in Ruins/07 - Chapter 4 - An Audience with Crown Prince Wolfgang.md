@@ -1,0 +1,303 @@
+# Chapter 4 - An Audience with Crown Prince Wolfgang
+
+*Pages PDF 67-74*
+
+## Chapter 4 an Audience with Crown Prince Wolfgang
+## **The War Prize**
+There is a great deal of gossip around the two camps as news of Katarina’s acceptance of the marriage proposal spreads. People generally express relief at this outcome, though a few partisans amongst the knightly orders continue to grumble. Whilst the two high priests do not make an appearance, word is that they are both rather relieved that the ‘Princess’ has spared them the need to talk with one another again. Talk even starts to permeate throughout the camp that a military parade will be arranged in Altdorf to herald the happy couple, and two members of the Knights Panther ride north to Middenheim in order to organise some of the city’s troops to participate. 
+
+Whilst the Characters prepare for their journey, they are interrupted by Baron Heinrich, who has concerns. 
+
+He unfurls the standard. It is fine quality, but getting threadbare at the edges. It depicts symbols of Sigmar and the Reikland in antiquated styling. To those with magical sight who pass a **Hard (–20) Perception** Test it glitters faintly with interwoven threads of _Aqshy_ and _Chamon_ . The bearer of this banner benefits from +1 SL to successful Leadership Tests. 
+
+_‘We brought it here to present to the Sigmarite delegation as a sign of rapprochement, but I am convinced that it would make more impact if you delivered it to the Crown Prince as a prenuptial gift.’_ 
+
+Thugenheim is not being wholly honest. His loyalty lies first to his friend and liege lord Graf Boris. Any suspicious Character can make a **Very Hard (–30) Intuition** Test. If the test is passed, they detect a mischievious glint in Thugenheim’s eye as he presents them with the banner. 
+
+_‘There are a lot of strange rumours regarding Crown Prince Wolfgang. There are those who say he is a mutant, and others who say he is gathering troops to his side in preparation for rebellion. Still others say he is a man of wild temper, a spoiled southern brat who exhibits the worst aspects of Unberogen entitlement. Have you heard anything of this sort yourselves?’_ 
+
+He waits for the Characters to provide their answers. 
+
+_‘We would like you to travel south and deliver news of Katarina’s acceptance to the Crown Prince. But do not hurry back from Castle Reikguard. Spend a little time with the man and try to get a measure of him. We want to know if he has had anything to do with this Mutant Edict, or the Ubersreik takeover. What sort of ruler does he plan to be? But most importantly, why does he wish to marry my sister? By the time you are finished there, we will be in Altdorf. Seek us out at the Helstein Manor in Mauerblumchen to give your report.’_ 
+
+## **Veiran’s Proposal**
+Just as the Characters are readying to set off they are approached by Veiran Thugenheim, who carries a folded red and white cloth. He proffers it to them, saying: 
+
+_‘As a member of the Knights Panther, I am sworn to act in the best interests of national unity and to protect the Graf of Middenheim: tasks that will grow increasingly fraught if the Empire should fall to civil war. With the Graf ’s permission, I have brought a relic of a previous age from the Middenpalaz vaults. This is an enchanted war banner taken at Carroburg during the Age of Wars.’_ 
+
+If the Characters ask Thugenheim for more details why the banner was not presented to the Sigmarites at Shining Rock, he initially says, _‘Given our troubles with the Sons of Ulric it was not thought diplomatic to raise the spectre of old conflicts at such a time, even in the spirit of reconciliation.’_ Pressed further, he says, _‘We didn’t come to this decision without careful consultation. We spoke to some of the more measured  delegates among the Reikland delegation, who agreed that it would make a greater impact if presented to the Crown Prince.’_ 
+
+Thugenheim was actually approached by Yann Zuntermein. He had been tipped off as to the existence of the banner, and persuaded Thugenheim to send it to the Crown Prince. 
+
+## **Seeking Clarification**
+If the Characters seek further opinions from the Ulrican side as to what to do about the banner, they find people are either in agreement with Thugenheim, or think it makes little difference. Only Ar-Ulric Emil Valgeir resents the surrender of the war prize. _‘The capture of this standard was achieved through the exercise of Ulrican might and the shedding of Ulrican blood. We should not proffer it meekly; the Sigmarites should plead for its return.’_ Even staunch Ulricans amongst the Middenheim delegation think that Ar-Ulric, whilst due all respect, is being unreasonable. 
+
+Should the Characters seek to consult the Sigmarites about the gift, Thugenheim tries to dissuade them: _‘You’ll spoil the surprise!’_ Furthermore, Zuntermein tries to intercept them and assure them of the wisdom of the plan. _‘Ah, I believe that you are the intrepid folk due to meet the Crown Prince. I do hope you find him cordial. Between you and me, I hear you are to make him a present of the old Carroburg banner. A fine idea! I wholeheartedly approve. Unfurl and flourish it as soon as you see Castle Reikguard!’_ 
+
+However, other Sigmarites are less impressed and if the Characters ask anyone with a religious or military background in the opposite camp they are treated with disdain. _‘A rotten old banner, long forgotten about. What is achieved by this gift other than to keep us mindful of Ulrican ferocity?’_ 
+
+Characters can also query the banner’s provenance themselves by passing a **Hard (–20) Lore (History)** or **Lore (Heraldry)** Test. Those who pass get a sense that whilst the banner is an appropriate gift in the eyes of the public, there is an underlying message of ‘remember that time we beat you’. Of course, Thugenheim and others in the Ulrican camp deny this. 
+
+The intrigue over the banner seems a minor controversy, but the characters subsequent behaviour could have ramifications. 
+
+## **The Banner’s Effect on Party Allegiance**
+**Characters’ Attitude Effects to the Banner** 
+
+Refuse to take it Suspected of Sigmarite bias —
+increase party allegiance by 3.
+Cast it aside during  Suspected of Sigmarite bias —
+the journey increase party allegiance by 2.
+Also check to see if the action is
+spotted by a spy (see page 75).
+Discreetly lose it  Suspected of Sigmarite bias —
+during the journey increase party allegiance by 1.
+Also check to see if the action is
+spotted by a spy (see page 75).
+Make a discreet  This is the safest option — there
+private gift of it  are no other effects.
+to Crown Prince
+Wolfgang
+Make an open show  Suspected of Ulrican bias —
+of giving it to Crown  decrease party allegiance by 2
+Prince Wolfgang
+Unfurl and fly it  Suspected of Ulrican bias —
+during the journey decrease party allegiance by 3
+
+## **Castle Reikguard**
+Castle Reikguard sits on a promontory overlooking the Reiker Marshes, above the confluence of the Teufel and the Reik. It is the headquarters of the Grand Order of the Reiksguard: an elite, secular order of knights sworn to defend the Reikland and the Imperial bloodline. 
+
+The tall keep and flanking towers rise more than 200 feet from the top of the promontory, dominating the surrounding area. A strong curtain wall surrounds the complex, dotted with lesser towers. The main gatehouse is at the south, overlooking a broad plain that has been cleared of trees and other obstacles so that it is impossible to approach the castle unseen. 
+
+Castle Reikguard is a striking building, tall and imposing, built above the Reik on a steep cliff side. Pennants depicting the heraldry of the Reiksguard as well as the coat of arms of the Emperor’s family can be seen fluttering from towers and turrets, and intricate Dwarf runes are carved into the stonework. 
+
+Castle Reikguard is known throughout the Empire as the military headquarters of the Reiksguard Knights. It is devoted to providing the order with training grounds, barracks, armouries and adjunct facilities for relaxation and religious observance. 
+
+EMPIRE IN RUINS — AN AUDIENCE WITH CROWN PRINCE WOLFGANGE 
+
+Since the invasion of Gorbad Ironclaw in 1707 IC it has also served as a bolthole for the Emperor and his family in times of crisis. It was heavily refortified after Gorbad’s forces withdrew, and incorporates runic devices designed by Dwarf architects that repel magic. 
+
+## **How Would You Bring Peace to the Empire?**
+_‘By marrying the daughter of Graf Boris. Our union should allay much of the fears folk have about creeping supremacism from either Sigmarites or Ulricans.’_ 
+
+## **What About Ostland and Talabecland?**
+Within the walls of Castle Reikguard, all Language (Magick) **–** and Channelling Tests suffer a penalty of 3 SL. Those made to cast spells from the lores of Witchcraft, Necromancy, Daemonology, and all Chaos magic suffer a penalty of **–** 6 SL. It is considered highly impolitic to cast a spell here. 
+
+_‘The war between Talabecland and Ostland strikes me as a quarrel between nobles grown out of hand. I would urge the Prime Estates to join me to find a way of disposing of any count who allowed a personal vendetta to proliferate into open war.’_ 
+
+## **What of the Ubersreik Situation?**
+The Reiksguard are predominantly Sigmarite. Whilst they treat the Characters professionally during their visit, their attitude is coloured by the party allegiance. If the party are perceived as Sigmarite, they are received warmly and offered any assistance they might require. Whereas if they are perceived as Ulrican, they are afforded cold respect and left to look after themselves. 
+
+## **Interviewing Wolfgang**
+Wolfgang is happy to meet the Characters and allow them to interview him. He does not have the demand for respect and protocol that many aristocracs in the Empire demand. As long as the Characters are not rude or aggressive, he speaks to them as equals. If they are disrespectful, he expresses sadness that there is such hate and division in the Empire, but summons guards to gently but firmly escort them from the fortress. 
+
+Despite his youth, Wolfgang is a man of great integrity and intelligence. He tries his best to answer any questions the Characters put to him in good faith, and only demurs if he feels an answer risks genuine jeopardy to others. He is well versed in most subjects and lines of argument. Only on the subject of Tzeentch is his attitude out of character, he knows little and does not seem to care. 
+
+## **What Is Your Part in the Mutant Edict?**
+_‘I was rather taken aback by the proclamation, but I was happy to see it made. Sigmarites deplore mutation and there is evidence to suggest that corruption of the body correlates with corruption of the mind, but I am inclined to heed those Verenans and Shallyans who insist that we treat individuals justly despite their outward appearance. It was hastily done, I cannot deny, but I think it is just in its intentions.’_ 
+
+## **Why Do You Wish to Marry Katarina?**
+_‘My driving motive is to bridge the rift between Ulrican and Sigmarite in our Empire. The Todbringers are deemed by all but the most fanatical Ulricans to be worthy exemplars, and Katarina is well liked in Middenheim. Our union will stand as evidence that the two faiths can coexist in harmony. Her birth might stand against her in the eyes of my snobbier subjects, but only the most myopic of them would overlook the quality of her character.’_ 
+
+_‘I hesitate to criticise Karl-Franz’s actions, and the Jungfreuds have their flaws, but I cannot fathom why he was so hasty to project power in the way he did. Given the situation is what it is, I think the best way to resolve matters is to work out some sort of solution that allows the Jungfreuds to save face without facilitating a slide back to their habitual regime, which was rather stultifying.’_ 
+
+## **Nordland Seem Restless.**
+_‘With regard to Nordland, I will punish those who commit crimes. But if people there desire autonomy, I feel it is foolish to deny them.’_ 
+
+## **What Sort of Ruler Do You Want to Be?**
+_‘I feel that the Empire’s people deserve a change. I have a passing familiarity with the arguments put forth by New Millennialists and Brustellites, and whilst I find them steeped in resentment and bloodthirst, I can see that they herald a need to reform. I plan to establish a constitution along the lines of certain of the Tilean republics, obliging the aristocracy to obey common law and giving greater import to advisory councils, like Middenheim’s Burgerlich Komisionen. My hope would be that decision-making is clearer, with more investment for the masses.’_ 
+
+## **You Want to Be More Democratic?**
+_‘Not heedlessly. I still think there is some benefit to the notion of lifelong preparation for rule, and we can’t have that without an aristocracy of some sort. But I think the loudest voices in the Empire tend to be older, Unberogen, and male. Not that there is anything wrong with that — I am myself Unberogen and male and aspire to be old — but other perspectives require representation.’_ 
+
+## **Are You a Sigmarite?**
+_‘I am, but I do not see how this precludes me from being an Ulrican. The gods are real and to be revered. The division between Ulricans and Sigmarites is a matter of mortal frailty, not divine intent.’_ 
+
+## **What Are You Going to Do About the Skaven?**
+_‘It is a constant frustration to me that the Empire’s people  prove so complacent as to the genuine and serious threat posed by the Skaven. Here, you can see correspondence between myself and High King Thorgrim of the Karaz Ankor. I promised him that under my rule the Empire will be vigilant of the Skaven menace._ 
+
+_Regiments of our state troops will be seconded regularly to assist in tunnel fighting in the World’s Edge Mountains — this is the best way to demonstrate the reality of the Skaven to our people. In return, High King Thorgrim has agreed to help re-engineer the walls of the Empire’s cities, and assist in ridding our lands of Goblins and Beastmen. One does not break one’s word to the Dwarf High King.’_ 
+
+## **Who Are the Nine Eyes?**
+_‘Ah! I must say I’m surprised to hear them brought up. How did you come to hear about them?’_ 
+
+The Crown Prince is concerned here that there is a spy in his household. If his mind is set at ease on this point he continues. 
+
+## **What Are You Going to Do About Marienburg?**
+_‘I think it would cause lasting resentment to pressure them into rejoining the Empire. I hope in time that we can persuade them that it is to our mutual benefit for them to return. Trade would benefit, and they could retain much of their independence and customs.’_ 
+
+**Do you know of the Purple Hand? The Champion in Shadows?** _‘I do not.’_ 
+
+_‘I have been lucky enough to receive a comprehensive education. Since I was young man, I have been tutored by some of the finest minds in the Empire. There are nine of them and, in recognition of their keen perception, they are informally known as the Nine Eyes.’_ 
+
+## **You May Not Know It, but You Are Being Groomed to Become a Champion of Darkness!**
+_‘Please, I’ve received you with respect. Spare me this nonsense.’_ 
+
+## **Sermo Interruptus**
+Crown Prince Wolfgang takes his interview with the Characters seriously, but they are not his sole concern. He has an open door policy with regard to the many collaborators and advisors he works with. 
+
+At three points during his interview with the Characters, other parties interject in order to give him status reports on projects he is involved in at this time. 
+
+The second interruption comes from Claudia Karll, a Shallyan Priestess who has arrived from Altdorf to thank the Crown Prince for his recent charitable work with the cult. 
+
+**Claudia:** _‘Your majesty, my apologies, but I am only stopping off briefly on my way back to the capital from Nuln. I just wanted to thank you personally for the generous assistance you have provided to our hospice in recent months.’_ 
+
+During each of these interruptions, the Crown Prince says to the Characters, _‘I am so sorry, but I must speak with this person. It won’t take a moment’._ He receives the report and accepts praise that comes to him briskly but graciously. He is not falsely humble but he does not demand further credit either. 
+
+The first interruption is from Preceptor Leberecht von Hardenburg, a much decorated Knight Panther who strides into the room, snaps to attention and givies a brisk salute. 
+
+**Leberecht:** _‘Your majesty. The duke of Parravon has agreed to your proposal. He says he is ready to muster his forces according to any sensible schedule you set. With his cooperation we can lay siege to Blood Keep from both east and west at once.’_ 
+
+**Wolfgang:** _‘Preceptor, it is good to see you again! The menace of Blood Keep has blighted both of our borders for too long. I am pleased to hear that the duke is so gracious. It seems not everyone has forgotten the benefits of comity.’_ 
+
+**Leberecht:** _‘Your majesty, it is more than that. The Bretonnians have rarely been so cooperative in terms of military alliance. Your manner with their ambassador secured their faith in this endeavour.’_ 
+
+**Wolfgang:** _‘I pray we have the soldiers to spare. Thank you, Leberecht. Please accept the hospitality of Castle Reikguard until such a time as I can take a detailed debrief. You are dismissed.’_ 
+
+**Wolfgang:** _‘Priestess, please don’t let any perceived need to thank me delay you. Any noble son of the Reikland could do the same.’_ 
+
+**Claudia:** _‘Then why don’t they? It’s not just the money, your majesty; you have provided our patients with your time and your fellowship as few other noble personages do.’_ 
+
+**Wolfgang:** _‘Thank you for your kind words.’_ 
+
+The third interruption comes from Hans Bauer, a farmer who tends an estate in the shadow of the castle. He is a humble man who dresses in a rough, beige shift and nervously holds a worn hat in his hands. 
+
+**Hans:** _‘Milord, beggen yer pardon, I were just wanten to give my regards. The knights at the gatehouse said you woulden mine if I speaks to ye briefly.’_ 
+
+**Wolfgang:** _‘Not at all, Hans, not at all. I’m sure my friends here won’t mind if you wish to interrupt us just one minute.’_ 
+
+**Hans:** _‘Et’s just me and the missus, milord. We tried what you said and it seems to ’ave worked for us, and now we’re expecten our first child, milord.’_ 
+
+**Wolfgang:** _‘Wonderful news! I’m so pleased for you, Hans. Please give my best wishes to Heidi.’_ 
+
+EMPIRE IN RUINS — AN AUDIENCE WITH CROWN PRINCE WOLFGANGE 
+
+## **The Nine Eyes**
+As their meeting with Crown Prince Wolfgang concludes, Kathe Ruttman, a secret member of the Vigilant Eye, knocks on the door of the room and lets herself in. She is an elderly lady dressed in simple grey robes, and in her arms she carries four large scrolls. The Crown Prince stands and bows to her. 
+
+_‘Learned tutor, these people are scions of the Graf of Middenheim. We are just concluding our meeting. If you could just give us a second to say goodbyes.’_ 
+
+Kathe acknowledges him with a brisk nod, walks over to a table, and begins to lay out her scrolls. They are exhaustive accounts of key moments in the Empire’s history: 
+
+_Didrick the Unjust, a Compendium of his Blunders and Contentions_ by Professor Scheydt; _Seven Key Battles of the Age of Wars_ by Kurt Muller, Scholar, University of Altdorf; _Fassbinder’s Astonishing Summary of Sigmarian Controversies: The Unique Divine Nature of Sigmar_ by Hans Pfaff, Scholar, University of Altdorf. 
+
+The scrolls are all copies of papers produced by scholars at the University of Altdorf, and are dense, serious works. Kathe is keen to commence her lessons, but briefly remarks on the scrolls if asked about them. She is not rude, but lets the Characters know she has only so much time to devote to questions before she must commence her lesson. 
+
+_‘A much maligned Emperor, and with good reason, Didrick was a tyrant with a marked propensity to order extensive redrafting of Imperial law to suit himself and his cronies. A true Emperor should be careful to live by the laws he expects his subjects to obey.’_ 
+
+_‘Muller is an exemplary scholar, determined to marry accounts from various sides of the conflict and to delineate between knowledge agreed upon by bitter enemies and that which is only purported to have happened according to one side. A true historian.’_ 
+
+**MEMBER OF THE NINE EYES HUMAN PROFESSOR (GOLD 1)** 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 4 | 49 | 42 | 31 | 41 | 44 | 46 | 44 | 65 | 53 | 53 | 16 |
+
+**Skills:** Art (Writing) 69, Athletics 56, Bribery 63, Charm 66, Climb 41, Cool 68, Consume Alcohol 61, Dodge 66, Entertain (Lecture 73, Rhetoric 63, Storytelling 73), Endurance 51, Evaluate 68, Gamble 80, Gossip 73, Haggle 78, Intimidate 41, Intuition 56, Language (Classical 85, Any *85), Leadership 58, Lore (Tzeentch 90, Any * 90), Melee (Basic 52), Navigation 75, Perception 64, Research 85, Trade (Printing) 54 
+
+**Talents:** Argumentative, Blather, Bookish 3, Carouser, Doomed ( _So here every ending reached, arcane rite gathers experts to render unreality_ ), Etiquette (Nobles, Scholars), Gregarious, Linguistics, Panhandle, Public Speaker, Savant (Any*) 3, Read/Write, Speedreader, Super Numerate, Tower of Memories 2 ***** When it comes to the Lore Skill, Language Skill and Savant Talent, each of the Nine Eyes has whatever is appropriate for their specialist area of expertise (see page 74). 
+
+_‘Fassbinder has some rum thoughts about accounts of Sigmar’s last journey, and his notions on the true fate of Ghal Maraz are borderline heretical. A crank with a propensity to favour wild anecdote over solid research. I include him here as an example of how_ not _to pursue scholarship.’_ 
+
+_‘Pfaff is a staunch Sigmarite who believes the Heldenhammer alone represents humanity among the pantheon of the gods. I regard his paper as a fine example of polemic: he makes fine arguments, but rather too easily dismisses notions that would complicate his model.’_ 
+
+## **Investigating the Nine Eyes**
+This section is intended for proactive Characters. Many may have no knowledge of or interest in the Nine Eyes, and if this is the case, the strange tutors simply join the Crown Prince’s party when it sets off for Altdorf. 
+
+Characters may be suspicious of the Nine Eyes, depending on how much they recall of earlier mentions of such things (for example, the Declaration of Change handout in **The Horned Rat** , page 38). If they wish to investigate, remind them that they are in a castle heavily patrolled by members of the Reiksguard, and that any provocative actions they take may contribute to the instability of the Empire. 
+
+The Crown Prince announces that he and his household plan to journey to Altdorf as soon as convenient, which means the day after the Characters interviewed him. If the Characters wish to reach Altdorf in time to make a report to Baron Heinrich before Crown Prince Wolfgang arrives in Altdorf, they barely have 24 hours to snoop around Castle Reikguard. If the party announces their desire to stay in the castle, they are provided spartan accommodation in the north wing of the castle. 
+
+Any exploration of the castle should take place after dark. During the daytime, it is thronging with bustling staff, patrolling knights, and visitors. 
+
+Castle staff are tight-lipped and professional, and the knights guard against giving away any information that might compromise the security of the castle, so any Gossip Tests made to find out who people are and where they stay are **Very Hard (–30)** . Failure indicates that the Characters are asked to leave immediately, but each level of success reveals the following information in order: 
+
+- The Nine Eyes have been tutors to the Crown Prince for the past nine years. 
+
+- Three of them are currently at the castle. 
+
+- Three of them are preparing their lessons at the University of Altdorf. 
+
+- Three of them are further abroad; no one knows exactly where. 
+
+- They all have private quarters in the east wing of the castle. 
+
+Characters may decide to try and locate the quarters of the Nine Eyes by searching the castle. This is likely to end up with them being discovered. In order to find the quarters in the east wing, they must make an extended **Difficult (+0) Perception** Test. If they have been told the Nine Eyes reside in the east wing then 20 SL must be achieved before they find the rooms. If they are searching the whole castle they must reach 50 SL. 
+
+After every test, roll on the table below to see if the Characters run into any trouble. 
+
+If the Characters succeed the extended test to search the castle, they come to a small corridor lined with nine doorways, each with a small brass sign. 
+
+Each door has a lock requiring 10 SL on an extended **Hard (–20) Pick Lock** Test to open. Alternatively they can be forced open, which requires 17 SL on an extended **Difficult (–10) Strength** Test. Roll again on the Exploring Castle Reikguard table for every Turn a Character tries to force a door, ignoring results of 66 or below. 
+
+EMPIRE IN RUINS — AN AUDIENCE WITH CROWN PRINCE WOLFGANGE 
+
+## **Exploring Castle Reikguard**
+## **D100 Roll Result**
+01–50 **Nothing.** peded. The Characters search can continue unim 51–61 **Just the Place!** The Characters feel that if they were eccentric tutors they would want access to a related place they have stumbled across, such as a bookshelf or study. One of them can make a **Challenging (+0) Intuition** Test, and any SL resulting from that test added or subtracted from their current total. 62–66 **A Clue!** Those scuff marks might be made by a shuffling old tutor. That torn bit of parchment looks like it came from an academic treatise. One Character can make an **Average (+20) Track** Test, and any SL resulting from that test can be added or subtracted from their current total. 67–00 **Footsteps!** The Characters hear footsteps approaching. They have two Rounds to prepare. If they wish to hide, there are many convenient alcoves, arrow slits, suits of armour, and arrases throughout the castle. Whoever is making the noise will spot a Character on an opposed **Perception/Stealth (Urban)** Test. Roll d100 to determine who made the footsteps: 01–45: Junior Servant 46–60: Senior Servant 61–80: Patrolling Knight 81–96: Pair of Patrolling Knights 97–99: One of the resident Nine Eyes (Kathe Ruttmann, Per Haldestaake, or Ingrid Rademakers) 00: Crown Prince Wolfgang 
+
+## **Infractions and Party Allegiance**
+The Reiksguard at the castle really do own the place and have zero tolerance for anyone behaving in a suspicious manner. If they catch people sneaking about, or asking too many pointed questions, they gently but firmly escort them from the premises. 
+
+- If the party is perceived as Sigmarite, they may attempt a **Difficult (–10) Charm** Test to fast talk their way out of trouble. If the test is passed, they are returned to their quarters. A second infraction requires a **Hard (–20) Charm** Test, a third a **Very Hard (–30) Charm** Test, and the fourth attempt sees them expelled from the castle. 
+
+- If the party is perceived as neutral, they may make one **Very Hard (–30) Charm** Test to avoid being expelled on the first infraction. 
+
+- If the party is perceived as being Ulrican, they are expelled with prejudice as soon as they are caught doing anything suspicious. 
+
+**Note:** An infraction here is something as innocent as asking a pointed question or being found outside their quarters. 
+
+If Characters are caught picking locks or rummaging about in other people’s rooms, they are expelled immediately no matter their allegiance. 
+
+Each room contains the items listed in the table below. Aside from any details listed, each of the rooms contains a narrow, single bed, a wooden cabinet, and several shelves for books and artefacts. 
+
+The Nine Eyes are all elderly scholars. They are steeped in the worship of Tzeentch, but admit to nothing beyond being loyal tutors to the Crown Prince. None of them bear any mark that might identify them as a member of a cult, or own cult artefacts (though Characters who explored Karak Skygg in **The Horned Rat** may have legitimate suspicions about the broken mirror in Gustav’s room). 
+
+## **Experience Awards**
+Good roleplaying and clever thinking should be rewarded, but there are additional XP for the following: 
+
+- Y 40 points for eliminating the three Nine Eye tutors at the castle without arousing suspicion 
+
+- Y 30 points for delivering the war prize in a discreet manner 
+
+- Y 20 points for carrying out a thorough interview of the Crown Prince 
+
+Whilst Ingrid puts up such an immediate and violent defence that Characters may be forgiven for killing her, other Nine Eyes do not react violently. Their death is seen as murder. However, if they are disposed of silently and carefully, their disappearance does not arouse suspicion. They often make unplanned journeys to research obscure lore, and in the confusion of the Crown Prince’s journey to Altdorf it is assumed that they took the opportunity to depart for their own reasons. 
+
+- Y 15 points for each of the Nine Eyes eliminated 
+
+- Y 9 points for the first Character who voices the opinion that Crown Prince Wolfgang is too good to be true. 
+
+If the party were already perceived as Ulrican on entering the castle, and subsequently behaved in a suspicious manner, reduce the party allegiance by 2. 
+
+## **Rooms of the Tutors**
+Sign on Door State of Room
+The Vigilant  The room is occupied by Kathe Ruttmann. Bookcases filled with historical and political texts line the
+Eye walls. A searching Character who passes a  Very Hard (–30) Perception  Test finds a scrap of an obscure
+prophetic text. See the handout  The Dream Sights of Bertoldt the Malleun  on page 109.
+The Fractured  Inside, Per Haldestaake sleeps heavily, is not roused even if his door is broken down, and only wakes on
+Eye being shaken. He has just returned from Altdorf and his bags are still unpacked. They contain hand-
+written notes detailing expert techniques employed by various artisans and professionals.
+The Withering  Wilhelmina Novak left for Altdorf recently. Her room is spotless and the many bookshelves here are
+Eye bare. A colourful mural depicting the eight winds of magic arranged as a wheel is painted on one wall.
+The  Wolfie Jessner left for Middenheim a month ago. His room is mostly bare, but dozens of wax seals have
+Wandering  been peeled away from whatever correspondence they were once attached to and piled in one corner.
+Eye With a  Hard (–20) Perception  Test, a Character notice leaves of paper behind a bookshelf. These are
+a private diary, where Wolfie expresses concerns that some of his fellow tutors are worshippers of dark
+powers.
+The Eagle Eye Ingrid Rademakers sleeps lightly. Unlike the other Nine Eyes, if she is disturbed she snatches up a
+rapier and defends herself with gusto. She has Melee (Fencing) 88 and the following Talents: Beat
+Blade, Distract, Feint, Riposte. Her room contains a number of geological samples, the bones of assorted
+animals, several beautifully g weapons.
+illuminated bestiaries, and a rack of fine fencin
+The Public Eye Wulfrum Ahlquist is currently studying in Altdorf. His room is bare and dusty, aside from a small scrap
+of paper taken from an odd religions text for children. See handout  Virtuous Visions Volume V: Auntie
+Augusta’s Awesome Auguries  on page 108.
+The  The occupant, Gustav Klaus, has been away for some time and the room is very dusty. Artefacts include
+Kaleidoscope  a string of Orc teeth, diagrams of the autopsy of an Ogre, a pickled Snotling, and a book on Khazalid.
+Eye Underneath the bed is a small gold-backed mirror that has been shattered into nine pieces.
+The Hollow  Gislind Ursin left for Altdorf several weeks ago. Her bookshelf holds folios of dramas by the playwrights
+Eye Tarradasch, Sierck, Malvosin, and Pikewaver. A copy of von Deihl’s  Strange Flower  is left open by the
+bed. With a  Difficult (–10) Intuition  Test, a Character may glean that someone interested in von Deihl’s
+work may sympathise with Mutants.
+The Far Eye Vatheck Fulci is currently travelling from the Border Princes to Altdorf. His room is old and dusty. His
+desk is littered with numerous charts and maps of distant lands.

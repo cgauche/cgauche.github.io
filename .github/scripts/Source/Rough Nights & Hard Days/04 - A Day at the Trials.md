@@ -1,0 +1,386 @@
+# A Day at the Trials
+
+*Pages PDF 24-36*
+
+## A Day at the Trials
+Our Heroes arrive in Kemperbad for the gravin’s trial. This will be a day that they will remember for a very long time. 
+
+## **Location**
+Kemperbad’s courthouse stands at the centre of the town, opposite the Council House. Kemperbad is a free town, whose town council answers directly to the Emperor and not to a local noble: the council also rules a number of local towns and villages, most notably Brandenburg, whose ‘Echte Brandenburger’ brandy is widely claimed to be the Emperor’s favourite. The wealth of the town, and the power of the council, is reflected in the impressive architecture of the courthouse and council house. 
+
+## **Getting There**
+Kemperbad stands at the confluence of the rivers Reik and Stir. The town is perched on high cliffs above the two rivers, and a series of rope-and-pulley lifts conveys travellers and their belongings from the wharves to the town. The Nuln Road runs southwards from Kemperbad alongside the Reik, but is not well serviced. A main road cuts through the Reikwald Forest from Kemperbad to Auerswald, then south to the Vorbergland. It is one of the busiest roads in Reikland, and also one of the most heavily tolled. Another major road heads northward along the Reikland bank of the River Reik, following the river’s curve westward until it heads through the forest to Grunberg, then heads north to Altdorf. 
+
+## **Following the Campaign**
+From the Three Feathers, Gravin Maria-Ulrike and her party, which now includes the Characters, make their way to Kemperbad by river. The lifts look daunting at first sight, but the gravin’s staff handles things with remarkable efficiency and the party soon finds itself in the town before they have time to reconsider their involvement. Carts are hired to convey the party’s baggage to a small mansion near the town centre, which the gravin has borrowed from a noble friend for her visit. The party has a day and two nights before the gravin’s trial, giving the adventurers time to go shopping and to make any other necessary preparations. If one of the party is now the gravin’s champion, some armour and weapons may be needed, as well as liveries and other items. 
+
+## **A Stand-Alone Adventure**
+If this adventure is being played on its own, the adventurers can come to the courts for several reasons. They may have run into legal trouble in Kemperbad or one of its tributary villages or towns, and need to answer to charges or fight a lawsuit against an NPC. They may have been hired to pay bail for a prisoner — for example, a high-spirited young noble who has crossed the town’s famously humourless town council — and escort the noble safely back to the family estate. They may be on a less respectable mission, perhaps to effect the escape of a prisoner sentenced to death. Imperial law is complex, powerful, and farreaching, with endless ways to complicate the lives of a group of adventurers. Once the Characters are there, all you need do now is find a reason for the, perhaps somewhat desperate, gravin to hire them. 
+
+## **The Courthouse**
+The courthouse is a solid, two-storey stone building with a colonnaded front. A side-passage, secured against escape by two pairs of gates, conveys prisoners and others to a yard where two gallows poles stand as a reminder that the Council does not tolerate crime. On special occasions — such as public executions, or when two nobles agree to trial by combat — the open space in front of the courthouse is roped off to create a makeshift arena. 
+
+## **The Square**
+An oval area is marked off by colourful ropes, secured to stakes set into the cobbles of the square. There is an opening at either end, and on one side a group of servants in Dammenblatz livery of green and white mill around a pavilion from which green and white pennants flies. The gravin’s servants quickly set up a similar pavilion, flying the Ambosstein colours of magenta and yellow. 
+
+Behind the rope on the side nearest the courthouse, carpenters build a grandstand with a box for the presiding magistrate and the two nobles to view the combat, along with their lawyers, personal servants, and other hangers-on. A further 13 seats are set aside for any members of the town council who might care to attend. 
+
+## **The Yard**
+Stout oak-and-iron gates give access to a narrow passage that runs alongside the courthouse, leading to the yard. An identical pair of gates marks the far end of the passage. Prisoners are conveyed here in locked carriages. As a precaution against escape, they wait in the passage while one gate is closed and the other opened: both pairs of gates are never open at the same time. 
+
+The yard is surrounded by a 20ft-high wall, which is topped with iron spikes. It is featureless apart from two gallows poles. Small doors in the back wall of the courthouse lead to the cells, where prisoners wait to be called for trial. 
+
+## **The Ground Floor**
+A short flight of steps leads up from the square to a pair of wooden doors with stained-glass windows displaying Kemperbad’s coat of arms. Past the doors is a lobby with a marble floor and marble columns supporting the upper floor. Small rooms to either side accommodate a porter, three legal clerks, and a small body of State Soldiers assigned to protect the courthouse. A wide, stone staircase leads up from the middle of the lobby to the upper floor. 
+
+Wood-panelled passages lead off to the two courtrooms. A small door at the back of each courtroom opens onto a narrow passage leading to the cells. 
+
+## **The Upper Floor**
+The upper floor is laid out around a gallery that overlooks the lobby. Between the stairs and the back wall is a landing; its many windows overlook the yard: chairs are sometimes set out here so the town’s luminaries can witness an execution. 
+
+The other three sides of the gallery give access to a suite of offices, maintained by Kemperbad’s legal guild, the Worshipful Company of Advocates, for the use of lawyers whose cases are being heard. There is also a comfortable lounge, an extensive law library, and a small chapel to Verena, the Goddess of Justice and Wisdom. 
+
+## **The Adventure**
+The adventure starts on the morning of the trial. Final preparations are made to the makeshift arena, and the disputing parties arrive along with the magistrates. 
+
+## **Players’ Introduction**
+The impending trial by combat is the talk of the town. Baron Eberhardt von Dammenblatz, a noble of some distinction from Wissenburg, has accused Gravin Maria-Ulrike von Liebwitz of Ambosstein, niece to Grand Countess Emmanuelle I, the Elector of Nuln. The Grand Countess is renowned for her parties, and Baron Eberhardt’s father, Baron Otto von Dammenblatz, died at one of the largest held during Nuln’s famous Black Powder Week festival. Now his son is suing Gravin Maria-Ulrike, claiming she caused the Baron’s death by poisoning or witchcraft. The gravin claims the Baron drank himself unconscious, slumped face-first into a punch bowl, and drowned. 
+
+The case would normally be heard in Nuln, where the party in question took place, but Baron von Dammenblatz appealed successfully to move the trial to a neutral location: after all, Nuln is under the jurisdiction of Grand Countess Emmanuelle, who is also named in the complaint. After some legal wrangling, the plaintiff ’s lawyers have managed to persuade the magistrates of the free town of Kemperbad to hear the case. In theory, at least, they should be impartial. 
+
+For her part, Gravin Maria-Ulrike appealed successfully to be granted her ancient right of trial by combat, thwarting von Dammenblatz who hoped to sway a jury with lurid tales and low gossip about the goings-on at the Countess Emmanuelle’s infamous soirees in Nuln. Both nobles and their champions have arrived in Kemperbad, and preparations for the trial are under way. 
+
+## **Plot Summaries**
+## **Plot 1 – Trial by Combat**
+The trial by combat will take place under the eyes of the town magistrates and a crowd of onlookers, but von Dammenblatz has taken certain precautions to make certain of victory. The Characters must thwart his plans or the gravin’s champion is doomed! 
+
+## **Plot 2 – Breakout**
+Kemperbad’s court is a busy place, with a dozen or more cases heard in the course of a typical day, and the arrangements for a trial by combat between two nobles have disrupted the court’s regular business. The execution of Alfonzo Kappan, an infamous crime lord, has been postponed until after the trial, and his confederates plan to break him out of the cells behind the courthouse while all eyes are on the two champions. 
+
+## **Plot 3 – Youthful Indiscretions**
+As the adventurers may have learned in the Three Feathers, the gravin’s lawyer Gustaf Rechtshandler is being blackmailed by members of a Chaos cult. 
+
+Rechtshandler was once associated with a Slaanesh cult called _Ordo Ultima_ — unknowingly and very slightly — during his student days at the University of Nuln. Three members of the _Ordo Ultima_ died trying to pressure him into doing the cult a favour. Now those who sent them are out for revenge. During the course of the day, two attempts will be made to kill the lawyer. 
+
+## **Plot 4 – Innocence Maintained**
+Among those attending the trial are a Witch Hunter named Matthias Hubkind, who has heard disturbing rumours about the gravin from various Dammenblatz agents. According to the baron, the gravin and her aunt — the Elector Countess, Emmanuelle von Liebwitz — caused his father’s death by poisoning or witchcraft, and one or both are certainly in league with the Ruinous Powers. Rumours of the Countess’s excesses have long concerned Hubkind, so he has decided to observe the trial and make up his own mind on the matter — if he finds either her or the gravin suspect, he will investigate both and their servants closely. 
+
+The last time Hubkind was in Kemperbad, he saw to the burning of an accused cultist, Samrich Weizen, in the very same square where the trial by combat is to take place. The accusation was false, and the tortured soul is bound to the place of its death — until its accuser’s reappearance gives it an opportunity to find justice… 
+
+## **Plot 5 – a Few Gold Crowns More**
+Back at the Three Feathers, the bounty hunter Ursula Kopfgeld took the head of wanted agitator Josef Aufwiegler, killing the smugglers who had been hired to take him to safety. She brought the head to Kemperbad to claim her bounty, but was cheated by a corrupt magistrate who claimed the reward for himself. For the sake of her reputation, she cannot, and will not, let this stand. 
+
+## **Plot 6 – Day of Blood**
+Like many town courthouses throughout the Empire, Kemperbad’s has seen its share of witches and cultists burnt. Unlike Samrich Weizen in _Plot 4_ , many of them were guilty — including the members of the Sanguine Brotherhood, followers of Khorne who had infiltrated the town Watch under the guise of an elite paramilitary society with a firm stance on punishment. 
+
+Just a month ago, accusations of unlawful torture and mutilation led to a purge of the Watch, with several of the cult’s leaders burned in front of the courthouse. However, some members managed to escape the net and now plan to use the distraction of the trial — and the blood shed by the two champions — to wreak a terrible revenge on Kemperad and its magistrates. 
+
+## **Plot 7 – You’ve Got to Pick a Pocket, or Several**
+Ursula Kopfgeld is not the only Character the adventurers may recognise from the Three Feathers. Trials, fairs, and other spectacles attract crowds, and whenever a spectacle holds a crowd’s attention, it provides an opportunity for pickpockets. The Gnome thief Glimbrin Oddsocks is working the crowd — and the stands, too, if he can get close enough — throughout the trial by combat, and he may turn up unexpectedly elsewhere, especially if his presence complicates matters for the adventurers. 
+
+## **Events**
+These events can be affected by what the Characters do and where they are at any particular time. You should also feel free to change the events as desired. 
+
+## **9:00 A.m.**
+The gravin sends the party to observe the preparations for the trial. 
+
+_‘We’ve seen how low von Dammenblatz will stoop. He may try to bribe or threaten one of the magistrates, or tamper with the arena somehow, or — well, you would know better than I do. Just keep your eyes open and trust no one. And, above all —’_ she points to her champion _‘— look after this one. I’ve lost one champion already, and I can’t afford to lose another on the day of the trial.’_ 
+
+## **9:15 A.m.**
+The adventurers arrive at the court to find an oval ring marked out with rope. A few workers are inside the rope, sprinkling sawdust on the cobbles to provide better footing and soak up any spilled blood. A wooden stand is being erected in front of the courthouse. Three ornate chairs in the middle are reserved for the town magistrates, and seating at either end of the stands is marked with the arms of Ambosstein and von Dammenblatz. At either end of the arena, servants are erecting small pavilions for use by the two champions. 
+
+## **9:30 A.m.**
+The champions’ pavilions are raised, and servants carry in furnishings and equipment: armour stands, weapon racks, and some light furniture. Gustaf Rechtshandler, the gravin’s lawyer, is talking with a group of people in front of the stands: two men and a woman wear magistrate’s robes emblazoned with Kemperbad’s town crest, the fourth is dressed in a lawyer’s court garb like Rechtshandler himself. Clerks stand to either side of the small group, making notes as the others talk. 
+
+If the Characters overhear the conversation, they find that it concerns the procedural details of the trial: the bout will begin at noon, and will last until one champion is unable to continue. 
+
+## **9:45 A.m.**
+Rechtshandler comes over to the adventurers to check that everything is in order with the preparations for the trial. Any Character scanning the scene can make a **Perception** Test to notice that two people — a man and a woman, both in their twenties — seem to be watching the lawyer. If the adventurers try to question them, they melt into the crowd, using their Stealth Skill to evade pursuit. 
+
+These are _Ordo Ultima_ cultists (see _Plot 3_ above) who have been sent to murder the lawyer in revenge for the deaths of their comrades in the Three Feathers. If the Characters capture the cultists, they find the telltale letter O enclosed within a letter U tattooed on their chests. 
+
+While this is happening, another successful **Perception** Test will allow one or more Characters to recognise a familiar face from the Three Feathers. Ursula Kopfgeld approaches the magistrates after their conversation with the lawyers. She speaks to one of the male magistrates, and the conversation grows heated. He signals two guards who approach with their halberds at the ready, and Ursula strides off fuming. If anyone tries to stop or question her, she tells them in no uncertain terms to mind their own business. 
+
+## **10:00 A.m.**
+As work continues on the stands, part of one railing collapses. There are some minor injuries, but nothing serious; however, the accident makes a lot of noise and every head turns to see. Every head, that is, except one: a Dammenblatz agent arranged for the accident to happen. 
+
+While the adventurers are looking at the source of the commotion, he slips a blowgun and a small wallet of poisoned darts into the clothing of the Character who looks least likely to notice the attempt. This is treated identically to pocketpicking — it just works in the opposite direction — so requires an **Opposed Sleight of Hand/Perception** Test to succeed, with the Difficulty modified according to the circumstances as you see fit. The wallet has spaces for four darts, but it contains only three: the significance of this is revealed later (see _10:45 a.m._ ). The three darts are coated with Black Lotus ( **WFRP,** p. 306). 
+
+## **10:15 A.m.**
+Work on the stands is completed. Servants hang curtains while others position chairs and bring cushions. A successful **Perception** Test allows the adventurers to notice the two _Ordo Ultima_ cultists (see _9:45 a.m._ above) among those bringing cushions. They speak briefly to a liveried official who points them to a space on the right of the gravin’s chair, and they leave a cushion there. 
+
+The cushion has a concealed needle coated in Black Lotus ( **WFRP** , p. 306). Unless the adventurers investigate and find the needle, Rechtshandler will sit on it when the gravin’s party takes their seats at 11:00 a.m. 
+
+## **10:30 A.m.**
+A mob of street urchins, tired of waiting for the trial to begin, starts to scuffle among themselves. Two of them begin fighting in earnest, and one breaks away with several of his fellows in hot pursuit. Apparently by chance, he runs right into one or more of the adventurers. Seconds later, the whole mob of pursuing urchins does the same thing. 
+
+If the gravin’s champion is with the Characters, the urchins target him or her; if not, they pick the toughest-looking PC in the honest but mistaken belief that this is the Ambosstein champion. As they bump and buffet their way past their target, three attacks will be made on that Character’s legs. Knees and hamstrings are the main targets, with the aim of rendering the gravin’s champion incapable of fighting. The urchins attack with a modest **WS** of 20. Use the normal combat rules, with all three attacks taking place in the same Round and benefitting from the Outnumbering rules. Unless the target Character has an appropriate Talent to avoid Surprise, it requires a **Very Hard (−30) Perception** Test to spot the makeshift knives being drawn. If this Test is failed, the target receives a _Surprised_ Condition. 
+
+The urchins are small, quick, and streetwise. They know every alley, every gap between two buildings, and every hole in every wall and fence in the whole town of Kemperbad. Catching them will be a challenge — if you wish to use the Pursuit rules, the urchins have an Athletics of 40 and start at a Distance of 4 — but if even one is detained, it won’t take much to force a confession. A stranger gave the urchins a small bag of coins containing 80d, a small fortune in their eyes, to disable the gravin’s champion. The urchins can give a description of this stranger, which matches the Dammenblatz agent (see page 18). 
+
+## **10:45 A.m.**
+The von Dammenblatz party arrives. Led by a drummer-boy and a servant carrying the family’s banner, it consists of Baron Eberhardt, on horseback; his widowed mother the dowager Baroness Violetta, riding in a sedan chair; his champion, Heinrich Böttcher; and a dozen or so footmen and other servants. They take their places to the left of the magistrates. 
+
+Böttcher takes a moment to acknowledge the crowd’s cheers before heading to his pavilion. However, as he does so, he flinches for a moment before pulling a small, feathered dart from the leather of his breeches. Baron von Dammenblatz hurries to his champion’s side, followed by a liveried junior official; it appears that an attempt has been made to injure or even kill the Baron’s champion. Von Dammenblatz claims, very loudly, that someone in the Ambosstein party is behind the attempt, probably acting on the orders of their unscrupulous mistress. He points to the adventurers, Gustaf Rechtshandler the lawyer, and anyone else in Ambosstein livery, and insists that they be searched forthwith. 
+
+If the blowgun and darts are found on one of the adventurers (see _10:00 a.m._ above), it is clear that the dart fired at Böttcher is an exact match for those in the wallet. The Character in question is immediately marched off to the cells, stripped of all equipment, and locked up. The gravin will face some questions after the trial is over. 
+
+## **11:00 A.m.**
+Gravin Maria-Ulrike arrives with her own retinue of servants and hired guards. Anyone watching the witch hunter, Matthias Hubkind, will see him studying the gravin intently, as if searching for something. 
+
+If the cushion with the hidden needle has not been found (see _10:15 a.m._ above) Gustaf Rechtshandler stands up with a yelp as the gravin’s party seats itself. He picks up the cushion from **WFRP** , his seat and finds the hidden needle: the Black Lotus ( p. 306) is already in his system and he’s beginning to choke. If Rechshandler falls to 0 Wounds, he dies, face swollen and black, bloody froth spilling from his nose and lips. 
+
+Unless the cultists are captured and the truth comes out, the gravin assumes that the attempt on her lawyer’s life comes from Baron von Dammenblatz. She complains to the magistrates, who deliberate for a few minutes before ruling that her complaint against von Dammenblatz is a separate case, which must be heard after the trial by combat. Meanwhile, if required, a clerk stands in for Rechtshandler. 
+
+## **11:15 A.m.**
+Flanked by two watchmen, a herald in the town’s livery marches into the ring and blows three flourishes on a trumpet. 
+
+_‘Hear ye, hear ye!’_ he cries. _‘Order and silence for their worshipful eminences, Magistrate Hannes Richter, Magistrate Hanna Anwalt, and Assistant Magistrate Gerhard Urteil!’_ The hubbub around the ring dies down a little as the town’s three magistrates take their seats. 
+
+## Trial by Combat
+Under Imperial law, nobles — and others, under certain circumstances — can appeal for the right of trial by combat rather than face a jury. Many nobles, and quite a few senior priests and influential merchants, keep judicial champions among their retinues for this purpose. 
+
+The law surrounding trial by combat is complex, and parts of it are very old, dating back to the legal duels of the early tribes that founded the Empire. Further, there are divers local variations, with many subtle differences in how laws are applied, so it’s always wise to secure the services of a capable lawyer before entering any trial by combat. 
+
+Depending on the severity of the charge, a trial by combat may be fought to first blood or until one combatant can no longer continue. In game terms, first blood is the first wound that causes loss of more than 3 Wounds (lesser blows are considered to be bruises at best); a combatant is unable to continue when reduced to 0 Wounds. 
+
+Before combat begins, all parties take an oath that their causes are just and they will respect the law regardless of the outcome. The combatants and their weapons are inspected for poison, sorcery, or other trickery, and a Priestess of Verena speaks a prayer as she walks around the designated ring, asking that the Goddess of Justice watch over the fight. 
+
+The parties and their champions normally have free choice of weapons, although most local laws prohibit missile weapons. Some law codes, usually very ancient and localised, prescribe specific weapons for specific circumstances: in the Ostland village of Wendorf, for example, domestic disputes are settled by arming one spouse with a pot-lid and a single turnip and the other with a fist-sized stone in a sock. 
+
+_‘I swear before all assembled here and in the sight of Verena that my cause is just and my case is truthful. I swear that I shall abide forever by the results of this trial, seeking no other remedies and pursuing no other means if my appeal to Verena’s judgement should be unsuccessful. May all-knowing Verena strengthen the hand that is true, and see justice prevail. This I swear.’_ 
+
+While all eyes are upon the swearing-in, von Dammenblatz’s agent approaches the back of the Ambosstein pavilion, carrying a wicker basket: the adventurers may notice this with an **Opposed Perception/Stealth** Test. Unless intercepted, the agent crouches down and slides the basket under the canvas wall of the pavilion, releasing a poisonous snake inside. 
+
+Once the oaths are sworn, the herald blows another flourish on his trumpet and the nobles return to their seats in the stands. Liveried court officials inspect the two champions and their equipment, and after a few minutes they stand before the magistrates and declare that nothing untoward has been found. The magistrates respond with a wave of their hands and the trumpet sounds again; the champions retire to their pavilions to prepare themselves. If the assassin was successful in releasing the snake, it attacks the Ambosstein champion. 
+
+## **11:45 A.m.**
+As the champions prepare, the high priestess of Verena walks around the perimeter of the ring, accompanied by two acolytes. She sprinkles the sawdust with blessed oil and chants a succession of prayers intended to prevent any attempts to interfere with the bout. 
+
+## **12:00 A.m.**
+The herald re-enters the ring and blows his trumpet again. Silence falls as he turns to the magistrates in the stand, who nod their permission that the trial may commence. 
+
+## **11:30 A.m.**
+The crowd is starting to grow restless as the herald blows another blast on his trumpet. 
+
+_‘Hear ye, hear ye!’_ he cries. _‘In the matter of the noble Baron Eberhardt von Dammenblatz of Wissenberg, against the noble Gravin MariaUlrike von Liebwitz of Ambosstein, concerning the death of the late noble Baron Otto von Dammenblatz, let the parties and their champions come forward and be duly sworn!’_ 
+
+The two nobles and their champions enter the ring, where they are joined by the town’s high priest of Verena, Mother Petra Steinmetz. She administers the Oath of Verity, the first step in the preparations for the trial. 
+
+_‘Hear ye, hear ye!’_ he cries. _‘In the matter of the noble Baron Eberhardt von Dammenblatz, lord of Wissenberg, against the noble Gravin Maria-Ulrike von Liebwitz, Baroness of Ambosstein and Lady of Nuln, concerning the death of the late noble Baron Otto von Dammenblatz, lord of Wissenberg, let the champions come forth and let the trial begin!’_ 
+
+The two champions come out of their pavilions and face off. Magistrate Richter raises a white handkerchief in the air. For a long moment, all is hushed. Then he lets the handkerchief fall, and the fight is on! Or is it? 
+
+## **Two Rounds Later…**
+The racketeers ( _Plot 2_ ) have placed gunpowder charges against the door of Kappan’s cell and the back wall of the courthouse yard. Unfortunately, they have seriously overestimated the amount of powder needed to achieve their goal. On Round 1, the fuse is lit. At the end of Round 2, there is an almighty explosion of fairly epic proportions at the back of the courthouse. The ground is rocked, and several hundred yards away, some of the more precarious buildings perched upon the cliffsides of Kemperbad fall loose to the Reik below. There is a sharp intake of collective breath as the fiery plume rolls into the heavens. The magistrates, as they gather their wits, frantically signal for the bout to be stopped. The herald intervenes, blowing his trumpet and yelling for the champions to return to their pavilions immediately. 
+
+Watchmen from around the square run into the courthouse. The guards flanking the stands escort the three magistrates inside, while everyone else either scrambles for a view of the damage or simply stands there, unsure what just happened. 
+
+## **12:15 A.m.**
+The magistrates and guards return and signal the herald, who announces that the bout should recommence and calls the two champions from their pavilions. An excited rumour runs through 
+
+the crowd that a criminal gang tried to blow up the courthouse to free a prisoner who was imprisoned there ( _Plot 2_ ). 
+
+Details vary wildly: some say the escape was successful, others that everyone involved was killed. Some say the back wall of the courthouse was brought down, others that the explosion caused no damage. Some say the criminal was a murderer, others a racketeer, and others still are certain he was actually a washerwoman accused of witchcraft, who escaped by means of some spell. It is up to you to know how successful the attempt to free Kappan is, but any Characters locked up in prison (see **10:45 a.m.** ) can easily make their escape in the confusion to rejoin the party. Meanwhile, the two champions come forth, and the magistrate drops his handkerchief again to restart the bout. 
+
+## **Two Rounds Later…**
+Matthias Hubkind the witch hunter ( _Plot 4_ ) edges around the outside of the ring, trying to get closer to the spot where Gravin Maria-Ulrike sits in the stands. When he is more or less in front of the magistrates, something horrific happens. 
+
+Sawdust flies into the air as a greenish-white flame erupts from the ground between the two champions, at the very spot where Hubkind’s innocent victim was burned years before. The crowd draws back: there are screams, and some are trampled. A shape begins to form within the flame.  A distorted image of a man is in the centre of the flame, wavering as though seen through a heat haze, his eyes bulging and his mouth open in a perpetual scream. The figure flies at the witch hunter, trying to lock its insubstantial fingers around his neck. As it does so, the herald blows his trumpet again, signalling that the bout should stop. 
+
+The figure is a Ghost. If the adventurers intervene, they can fight it normally; if not, the Ghost and the witch hunter struggle for a moment before Kemperbad’s high priest of Morr gains his wits and begins to intone a prayer — _Vanquish the Unrighteous_ . If you want to make it easier on the party, or if the party does not involve itself, count this as the _Destroy Undead_ Miracle, which the priest can invoke each Round with a **Challenging (+0) Pray** Test (count his _Pray_ Skill as 50). Otherwise, the priest’s words are ineffective as he is not blessed by Morr. 
+
+When the Ghost is dealt with (or Hubkind is dead, and the Ghost vanishes), the magistrates officially call a break so that order can be restored and those injured in the stampede can receive medical attention. Any help the Characters can offer will be welcomed. 
+
+## **12:30 A.m.**
+Order is finally restored, and the last of the injured are carried off to the temple of Shallya. The magistrates give the signal for the bout to re-start. Just as they do so, the _Ordo Ultima_ cultists approach the stands and, half-hidden in the crowd, one of them fires a blowgun dart at Rechtshandler from short range. It is coated in Black Lotus ( **WFRP** , p. 306) like the needle in the cushion (see _11:00 a.m._ ). Again, the adventurers can spot them with an **Opposed Perception/Stealth** Test, and raise a hue and cry to prevent them escaping. 
+
+Rechtshandler cries out in dismay and clutches his neck, pulling out the dart and showing it to the gravin, who stands and approaches the magistrates. The bout is stopped yet again — to some jeers and boos from the crowd — while the dart is examined. Guards are dispatched into the crowd to try and find the attackers, but all they come up with is a discarded blowpipe, which the cultists dropped after firing the dart. Meanwhile, Rechtshandler is either black-faced and very dead, or not in particularly good shape, so a clerk steps in to take over for the rest of the trial. 
+
+## **12:45 A.m.**
+By now, the cultists have either been captured or they have made good their escape. The magistrates make another attempt to restart the trial, signalling the champions to take their positions as one of the magistrates raises a handkerchief. 
+
+## **Two Rounds Later…**
+The bout seems to be under way at long last, until Assistant Magistrate Gerhard Urteil suddenly stands up, his face a mask of horror and his arm stretched out toward the crowd. The adventurers may remember that he is the same magistrate who argued with the bounty hunter Ursula Kopfgeld earlier (see _9:45 a.m._ ). Scanning the crowd, they find her standing toward the back, with a small, sleeping child on her shoulder. 
+
+‘Hanna!’ bawls the magistrate, rushing down from the stands and running across the ring where the champions have just begun to fight. The herald quickly stops the bout once more — to more boos and catcalls from the crowd — as the magistrate crosses the ring and tries to push his way through the crowd on the other side. Ursula is already running towards a horse that is hitched to a post outside a nearby building: it will take the Characters 3 Rounds of pushing through the crowds to reach her, but by that time she will already have mounted and spurred her horse away. 
+
+Hanna is Urteil’s daughter. If the party can stop the bounty hunter, they may be able to find out the full story: when Ursula brought the head of the wanted agitator Josef Aufwiegler to Kemperbad to claim her bounty, a corrupt magistrate cheated her and claimed the bounty for himself. 
+
+He dismissed her when she approached him this morning, so Ursula retaliated by kidnapping his daughter. She intends to keep the girl until the magistrate pays her what she is owed. Ursula used a harmless drug to put the little girl to sleep, and looks after Hanna with great care — she is a hard-bitten bounty hunter, certainly, but she has no desire to harm an innocent child on account of a parent’s transgressions. 
+
+The Watch is mobilised, but will be too late to stop the escaping bounty hunter by itself. The distraught Urteil is led away weeping and raving, while the herald announces that Mother Petra Steinmetz, High Priestess of Verena will take his place. 
+
+## **1:00 P.m.**
+Once again, the champions take their places and the white handkerchief is raised. And at last, the bout gets under way in earnest. The crowd cheers for both champions, less interested in the causes they represent than in their ability to spill blood. The dignitaries in the stand watch closely, alert for any breach of the rules. Clerks make notes and the two nobles shoot each other glances that are smug and venomous by turns, whenever one champion wounds the other. 
+
+Play the bout using the normal combat rules, but remember the fight is the spectacle here, and that plenty of time should be spent savouring the details and the crowd’s reaction to them. Eventually, one champion weakens and falls to the bloody, sawdust-covered ground, unable to rise: the bout is decided, and the trial is over. A huge cheer erupts from the crowd. Then something terrifying happens. 
+
+Eight watchmen step into the ring. Unless the party intervenes, three seize the fallen, bleeding champion while a fourth cuts off the Character’s head; four more attempt to do the same to the victor. As blood pours onto the ground, the watchmen cry ‘Blood for the Blood God!’ Characters passing a **Challenging (+0) Lore (Theology)** Test recognise this as a profane warcry of Khorne, the Blood God. An Impressive Success (+4) or better also allows the PCs to know that eight is Khorne’s sacred number. 
+
+Any of the watchmen not fighting then draw daggers and cut their own throats, spraying blood everywhere. As the crowd gapes in horror, the blood draws in on itself, ripples, then pools upright into several slick forms. The watchmen are survivors of a Chaos cult recently rooted out by the authorities ( _Plot 6_ ), and their sacrifice is an act of revenge that summons Bloodletters, ferocious Daemons of Khorne. The exact number is up to you: there should be enough so the Characters can only overcome them after a hard fight (with the help of any others they can rally to their side). The Daemons attack anything close — they care not from whence the blood flows, just that it does. 
+
+## **Who Won?**
+Once the Daemons are destroyed, any surviving magistrates render their verdict. The outcome is clear enough: the champion still standing when the renegade watchmen came forward wins. 
+
+## **Resolution**
+However, Rechtshandler — or his replacement — claims the original charge was imprecise and requires clarification. The complaint accused the gravin of causing a death by poisoning or by witchcraft, but the trial by combat did not establish which of these means was used. While witchcraft is punishable by burning, the penalties for murder by poison are different — and, in the case of a noble, commutable to a fine. The lawyer entreats the magistrates to accept a payment of bail and hear further arguments at a later time. Any surviving magistrates, backed up by Mother Steinmetz of the cult of Verena, agree to Rechtshandler’s motion. Both parties are to return to Kemperbad in one month. 
+
+Later, the gravin’s lawyer promises that any further proceedings can be delayed almost indefinitely, and that the court will almost certainly find in her favour — especially if the Characters testify on the murder of Bruno Franke at the Three Feathers and the attempts by the Baron’s agent to sabotage the trial. 
+
+## **A Stand-Alone Adventure**
+If _A Day at the Trials_ is played as a stand-alone adventure, the Characters are under no further obligation to the gravin. However, before they part ways, she insists each of them dictates a full account of the day’s events for her lawyer to cite later. In the future, when least expected, the party may receive a message from the 
+
+gravin, summoning them back 
+
+to Kemperbad as witnesses… 
+
+## **Rewards**
+As well as the usual awards for good roleplaying and bright ideas, experience points should be awarded for the following. There are variable amounts on offer: the more involved the Characters are with resolving the situation, the more points should be awarded. 
+
+10–50 points if the gravin wins 10–50 points for each time the Dammenblatz agent is foiled 10 points for thwarting the _Ordo Ultima_ cultists 20 points for helping capture the cultists 20 points for helping deal with the Ghost 5 points for helping the wounded in the crowds 10–30 points for helping recover the magistrate’s daughter, Hanna 20 points for capturing Ursula Kopfgeld 
+
+## **Aftermath**
+## **Following the Campaign**
+If the gravin’s champion was victorious, Maria-Ulrike is free to leave Kemperbad. Her party travels to Nuln, there to report the outcome of the trial to Grand Countess Emmanuelle von Liebwitz. If Baron von Dammenblatz wins, he insists the gravin be burned without any further delay. If Matthias Hubkind the witch hunter is still alive, he offers to have a stake and firewood ready within the hour. 
+
+## **Non-Player Characters**
+## **’ the Gravin S Party**
+Use the statistics on pages 16–18 for the gravin and her party. 
+
+## **The Dammenblatz Party**
+## **Baron Otto Von Dammenblatz**
+In his late 30s, Otto has been angry his entire life. Though years in the State Army have left him relatively fit, he was never much of a fighter, preferring fierce debate to physical solutions. His accent is urbane, but somewhat monotone. 
+
+## **Otto Von Dammenblatz – Noble Lord (Gold 7)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|52|67|51|49|41|42|42|47|43|54|17|
+
+**Skills:** Bribery 82, Charm 62, Consume Alcohol 65, Gamble 71, Gossip 69, Intimidate 71, Intuition 46, Language (Bretonnian) 57, Leadership 64, Lore (Heraldry) 62, Lore (Wissenland) 57, Lore (Politics) 62, Melee (Fencing) 67, Melee (Parry) 72, Perception 56, Ride (Horse) 47
+
+**Traits:** Prejudice (Rivals), Weapon (Main Gauche) +7, Weapon (Rapier) +9
+
+**Talents:** Attractive 1, Carouser 3, Commanding Presence, Doomed (Blood and betrayal bring thee low), Etiquette (Nobles) 2, Iron Will, _Marksman_ , Noble Blood, Public Speaker 2, Read/Write, _Savvy, Suave,_ Wealthy 5
+
+**Trappings:** Best Quality Courtly Garb, a large retinue of staff, Jewellery worth 500 GC
+
+## **The Agent**
+If Dominique Herveaux survived _A Rough Night at the Three Feathers_ , she’s back, having escaped custody to continue her work. To ensure she’s not recognised, she has cut her hair short, bleached it blonde, and donned a heavy hood. She also adopts a thick Talabeclander accent. She’s very good at her job, meaning any Tests to recognise her are at least **Very Hard (−30)** . If Dominique is already dead, von Dammenbratz hires Wilhelm König to replace her. Use Dominique’s statistics from page 18 to represent Wilhelm, but reduce all Attributes and Skills by −10 due to his relative inexperience. 
+
+due to his relative inexperience.
+
+**The Agent’s Snake** Normally no longer than 3’ in length, the Imperial Viper is one of the more deadly snakes in the Empire. It typically inhabits meadows, fields, and rocky hillsides, and is known for its irritable disposition. It readily strikes when approached, and its venom is potent enough to kill. 
+
+## **Imperial Viper**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|40|–|25|35|35|35|–|5|45|–|10|
+
+**Traits:** Armour (Scales) 1, Bestial, Cold-Blooded, Size (Small), Weapon (Fangs) +4, Venom (Hard) 
+
+## **Other Staff**
+Should you need profiles for any other member of Otto von Dammenblatz’s staff, use the equivalent statistics from the gravins party on pages 16–18 . 
+
+## **The Local Businessmen**
+## **Racketeers**
+A group of racketeers in Alfonzo Kappan’s employ are planning an explosive escape for their boss. For all they lack intelligence, they make up for it with enthusiasm and ignorance. 
+
+**KAPPAN’S RACKETEERS – THUGS (BRASS 3)** 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|45|37|50|54|32|34|28|25|43|31|19|
+
+**Traits:** Armour (Leathers) 1, Tough, Weapon (Cosh) +9 
+
+## **The Cultists**
+## **Cultists of the Ordo Ultima**
+Statistics for the secretive Cultists of the _Ordo Ultima_ can be found on page 20. 
+
+## **The Witch Hunter and His Victim**
+## **Matthias Hubkind**
+The most promising orphan raised by the flagellant Order of the Three Brothers in a generation, Hubkind came to Altdorf 40 years ago to train as a Witch Hunter. He now has three decades of experience burning the enemies of Sigmar, and he tirelessly pursues this holy duty. He is suspicious of everyone and rarely speaks, except to sonorously pronounce judgement on heretics. 
+
+Though deep into his 50s, Matthais’s body is still strong, and his will is even stronger. His back is a lattice of scars won from decades of purifying his soul with blessed pain. 
+
+## **Matthias Hubkind – Witch Hunter (Silver 3)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|51|43|46|38|27|27|35|58|37|29|
+
+**Skills:** Charm 47, Cool 73, Consume Alcohol 58, Dodge 45, Endurance 66, Gossip 47, Heal 55, Intimidate 63, Intuition 63, Language (Classical) 50, Language (Khazalid) 43, Lore (Sigmar) 51, Lore (Theology) 45, Lore (Torture) 50, Melee (Brawling) 75, Melee (Basic) 65, Perception 48, Ranged (Blackpowder) 66, Ride (Horse) 37 
+
+**Traits:** Armour (Leathers) 1, Hatred (Heretics), Prejudice (the Indulgent), Prejudice (the Rich), Ranged (Pistol) +8 (20), Weapon (Sword) +8 
+
+**Talents:** Ambidextrous, Berserk Charge, Coolheaded, Flagellant, Furious Assault, _Hardy 3_ , Implacable 3, Marksman, Menacing, Read/Write, Resolute, Shadow, Stone Soup, _Very Resilient_ 
+
+**Trappings:** Book of Sigmar, Finger Bone of St. Helga, Magnificent Hat, 2 Pistols with 20 bullets and shot, Silvered Sword 
+
+## **The Ghost**
+The enraged Ghost has no recollection of who it was in life. Nor does it know why it screams with hatred for Matthias Hubkind. But it does scream, its torment is unbearable, and it will not stop until it has had its revenge. 
+
+The Ghost appears as a billowing cloud of indistinct green and ash white robes topped with a distended skull twisted with hatred and pain. Tarnished bells hang from rusted manacles about its wrists, each of which resound far too deeply given their relatively small size. 
+
+## **Restless Ghost**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|40|–|30|32|35|43|18|14|45|–|13|
+
+**Traits:** Dark Vision, Ethereal, Fear 2, Fury, Hatred (Matthias Hubkind), Undead, Unstable, Weapon +7 
+
+## **The Bounty Hunter**
+## **Ursula Kopfgeld**
+Ursula Kopfgeld’s full Character Profile can be found on page 19. 
+
+## **The Opportunistic Thief**
+## **Glimbrin Oddsocks**
+Glimbrin Oddsock’s mischievous statistics can be found on page 21. 
+
+## **The Court Dignitaries**
+**The Magistrates** Jovial Magistrate Hannes Richter is in his 60s and dyes his hair in a failed attempt to appear younger. Magistrate Hanna Anwalt is near blind, relying on Assistant Magistrate Gerhard Urteil to navigate. Urteil is theoretically a powerful man, but in actuality is little more than Anwalt’s eyes, ears, and general dogsbody. 
+
+8 WATCHMEN **– KHORNE CULTISTS (SILVER 1)** 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|45|35|35|30|30|30|25|55|25|17|
+
+**Traits:** Armour (Half-plate) 3, Elite, Frenzy, Fury, _Hardy_ , Weapon (Halberd) +7 
+
+## **Magistrates – Judges (Gold 2)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|35|38|30|26|47|24|34|55|45|48|11|
+
+**Skills:** Lore (Law) 75
+
+**Traits:** Prejudice (Liars), Weapon (Gavel) +3
+
+**Trappings:** Book of Law, Magistrate’s Robes, Wig
+
+## **The Priestess of Verena**
+Quiet Mother Steinmetz was blessed by Verena at the tender age of seven, and has been learning law, justice, and swordplay since then. Now in her 20s, she is a rising star in her cult. 
+
+## **Petra Steinmetz – High Priestess (Gold 1)**
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|35|41|43|56|39|35|72|63|56|18|
+
+**Skills:** Lore (Law) 84, Melee (Basic) 68, Pray 78
+
+**Traits:** Blessed (Verena), Miracles (Verena), Weapon (Sword) +3
+
+## **Daemons of Khorne**
+Bloodletters kill anything in their path, caring only that blood flows. To make this encounter more challenging or climatic, add Mutations or the _Elite_ , _Fast_ , _Hardy_ , or _Tough_ Creature Traits. 
+
+## Bloodletters
+## **The Followers of Khorne**
+## **Watchmen**
+The End Times are coming, and these watchmen fully embrace it, knowing all else is folly. Blood for the Blood God. Skulls for the Throne of Khorne. 
+
+| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|4|55|35|45|35|60|40|30|25|75|15|17|
+
+**Traits:** Armour (Skin) 5, Champion, Claws, Corruption (Moderate), Daemonic 8+, Fear 3, Frenzy, Horns +8, Painless, Unstable, Weapon +9

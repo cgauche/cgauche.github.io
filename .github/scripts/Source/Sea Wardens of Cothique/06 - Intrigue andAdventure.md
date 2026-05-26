@@ -1,0 +1,258 @@
+# Intrigue andAdventure
+
+*Pages PDF 85-94*
+
+## Intrigue and Adventure
+For her first adventure, Taylor looks to the party’s Shortterm Ambition, which is to take charge of a ship and a crew. Purchasing a ship is beyond the party’s current resources, so the group engages in a spot of intrigue — disgracing a rival naval officer and convincing his superior to let them take over his post. This intrigue leads nicely into an exploration adventure, where the crew charts a course to a nearby archipelago, battles ravenous marine predators, and uncovers lost treasures they can sell back home during downtime. 
+
+Adventures and campaigns in **Warhammer Fantasy Roleplay** are usually about travel, investigation, and confronting mortal peril. Running a campaign that prominently features social interaction is certainly doable, but it benefits from a change in perspective. This section contains advice for running a campaign where intrigue is a significant part of play. 
+
+## **Mixing Intrigue with Adventure**
+A typical campaign alternates between phases of adventuring and downtime. During adventures, the Characters pursue their Ambitions, seek profit, defend their allies, and vanquish their enemies. During downtime, they reap the benefits of their victories or commiserate their losses. Ideally, the adventures loop into an overarching story — perhaps unravelling a conspiracy, building strength to confront a powerful enemy, or at the very least advancing their own Careers. 
+
+Having proved themselves, the party is then hired to transport goods to Nagarythe, but the party is intercepted by Dark Elf corsairs. After a closely fought battle, the party interrogate a captive corsair, which could be played out using the intrigue rules if the party seek to trick useful information from their prisoner. Another successful intrigue reveals the corsairs were tipped off by the disgraced naval officer, who is secretly collaborating with the Druchii! 
+
+Intrigue scenes slot perfectly into this cycle of play. A GM should plan how the outcome of an adventure can lead into an intrigue, how the outcome of an intrigue can lead into an adventure, or how the outcome of an intrigue could advance the overarching story. The basic rhythm is the same, but the content of play is different. By swapping out a few combat or travel encounters for intrigues, you shift the spotlight onto the socially-minded members of the party — and encourage players to pick up Skills, Talents, or Careers that specialise in that style of play. 
+
+Whilst plotting their next move during downtime in Tor Koruali, the party receives a tip off — their nemesis has levelled an accusation to Prince Dannor that they are the ones secretly aligned with the Dark Elves. The party must answer these allegations and persuade Prince Dalloran to recognise the true culprit. The scene is set for a showdown within Dalloran’s halls, but there could be other agents at work besides those the party already knows about… 
+
+**Example:** _Taylor is running a_ _**WFRP** campaign based around the shores of Ulthuan. Because of the relative peace enjoyed on Asur homeland, she advises her players that these games will lean more into social interaction and less into feats of combat prowess than the last campaign she ran in the Reikland — but, of course, nowhere in the world can be truly described as ‘safe’…_ 
+
+## **Intrigue-Focused Adventures**
+Not every adventure is cause for bloodshed. For a more social-slanted campaign, you can occasionally drop in adventures that revolve entirely around intrigue, rather than using them as a counterpoint to more traditional play. To run an adventure like this, you will need a large cast of NPCs, a spider’s web of conflicting motivations, and a set-piece social arena to conclude the story. 
+
+If an intrigue will take a long time to resolve, it is more important than ever that every Character has a way to contribute to the narrative. Nevertheless, if you have a mixed party of varying capabilities, it never hurts to give your social specialist an adventure where they get to shine — just so long as you have combat, travel, or other adventures planned to turn the spotlight on other Characters as well! 
+
+## **Full-Intrigue Campaign**
+If your party is especially enthusiastic about political machinations, you can run a **WFRP** campaign where intrigue is the core activity of play. If this is the intention, it is a good idea to make this clear during Character Creation. You will also need to take care to introduce variety into your intrigue scenes so that one courtly deliberation or fancy ball does not blend into another. 
+
+Consider all the different kinds of intrigue scenes and adventures you can run and present options to explore them all. Strategy meetings, trade negotiations, trials, theatrical productions, interrogations, secret society inductions, con jobs, and scholarly debates can all be approached as intrigues. For the same reason, give the players the chance to interact with a variety of NPCs (Elf and Human, powerful and powerless, friend and mortal foe), and choose a broad setting where you can justify several different venues. 
+
+A full-intrigue campaign benefits from a strong, overarching hook, so that the stakes feel concrete and the party’s schemes are adding up to something. Enacting a controversial political agenda, attaining a high-ranking political position, or troubleshooting for a powerful patron are all classic examples. Use the party’s Long-term Ambition as the lodestar against which they can measure their progress. Long-term intrigue calls for substantial opposition, so make sure their missions collide with the personal interests of other powerful individuals, with the resources to make the party’s life difficult. 
+
+Even if other activities have been deprioritised, there is no harm mixing them in now and again for variety. Journeys to distant kingdoms, spies within your own ranks, and even assassination attempts are all occupational hazards for the world’s political elite. Be advised, though, that if the group has been developing their Characters to specialise in intrigue encounters, their capacity to deal with other challenges may be lesser than normal WFRP Characters of the same Career level. Of course, a skilled persuader can probably convince an NPC with the prerequisite skillset to solve the problem for them! 
+
+## The Cost of Failure
+If the players have spent several sessions acquiring leverage, earning Favours, and performing services for NPCs, it can feel anticlimactic for a string of poor dice rolls to end their final conclusive Persuasion Test in failure. As GM, it is a good idea to prepare for this outcome by having alternative conclusions in mind, such as escalating to combat what cannot be solved with intrigue. 
+
+In other cases, especially Marginal Failures, you may allow the target to be persuaded even if the Persuasion Test failed — but with an additional cost levied for failing to secure a ‘true’ success. Some examples of success-with-cost on a Persuasion Test include: 
+
+- The target extracts additional cost as the price of their cooperation: more money, bigger Favours, or an extra service to perform. 
+
+- The target only agrees after taking some time to think about it, a delay the Characters’ enemies use to advance their own schemes. 
+
+- The target agrees begrudgingly, but the group’s reputation (or the target’s disposition towards them) takes a hit. 
+
+- The target only agrees to part of the persuader’s request. 
+
+- The target temporarily cooperates, but will withdraw their assistance later if a better offer comes along. 
+
+- The target agrees to help, but only halfheartedly, providing a poor service or drawing undue attention to their activities. 
+
+- The target plays both sides, agreeing to help the Characters, but also helping their enemies. 
+
+## **Intriguing Themes Throughout Ulthuan**
+**The Role of the Everqueen — Traditionalists:** A coterie of traditionalist highborn Elves, mostly from the Inner Kingdoms, princes of Caledor, Tiranoc, and even Avelorn, are growing increasingly concerned that the current Everqueen has taken to commanding armies in the field. She is supposed to be the peaceful protector of Ulthuan, and they worry that by defying Isha with her warlike ways, Alarielle may be tainted by the Curse of Aenarion. They hope to suppress her military activities, but as yet they have not taken any direct action. 
+
+**The Role of the Everqueen — Belligerents:** Other High Elves rage against complacency in the face of decline. For them, Alarielle’s martial role is a cause for celebration, a reassertion of the fighting spirit of the Asur. Led by the forceful Princess Giurenne of Chrace, this faction endeavour to weaken the influence of any who default to peace. 
+
+**Supremacy of Asuryan:** This tendency believe the Emperor of the Heavens is the only god who can herald the rebirth of the Asur, much as a phoenix rises from the ashes. They argue that Elves do not truly respect Asuryan’s dominion and neglect him in favour of Isha and lesser gods. Ironically, those working against this religious tendency include the Phoenix Guard, who reassert the role of Asuryan as the Keeper of Balance. 
+
+**The Lance Arhaluin:** A martial fraternity within the Silver Helms and the citizen levy, this group is named for the lance carried by Aenarion before he took up the Sword of Khaine. They take inspiration from Archmage Elyssian, who writes troubled meditations on Asur decadence. The fraternity are obsessed with promoting their own nobles into positions of power, where they can enforce a puritanical discipline to suppress ‘degenerate’ poetry, art, and other creative practices. 
+
+**The Cult of the Forbidden Blade:** A secret society with members throughout Ulthuan, the Cult are sworn to kill any High Elf who attempts to draw Widowmaker on the Isle of Khaine. 
+
+## **Intrigues Between Kingdoms**
+**Eataine Dominance:** Factions in Caledor and Saphery want to challenge Eataine’s pre-eminent position amongst the Asur. Both kingdoms were once dominant on Ulthuan and believe they have a rightful place as equals, or betters, of Eataine. 
+
+**Ellyrion and Tiranoc:** Druchii raiders sometimes penetrate to the Inner Kingdom of Ellyrion to steal the finest steeds from the great herds of the Ellyrian Plains. To cross the mountains, they come from the shattered land of Nagarythe and the northern reaches of Tiranoc. Princes Fhirion and Khessol of Tor Elyr suspect the princes of Tiranoc are less diligent in preventing Druchii raids into Ellyrion than they might be. Espionage and counter-espionage is building to a simmering conflict. 
+
+**Sapherian Manipulation:** Sapherian mages are a common sight in other kingdoms, where they act as magical advisors to princes, their sorcerous insight proving invaluable to their hosts. Their support is genuine, but these mages are not without guile. Through careful words and manipulation, they advance the cause of Saphery, the White Tower, or their own individual agendas. 
+
+**Caledor’s Lament:** All Ulthuan knows the dragons sleep deeper than in the past. Only the rulers of Caledor know that they slumber deeper than ever, seemingly oblivious to the call of the dragonsong — if word was to reach the other kingdoms, Caledor’s status would be considerably diminished in the Phoenix Court. 
+
+## Overdue Books
+The merchant adventurers Galendra Fireheart and Mirael Cloudfoam have amassed a considerable collection of ancient tomes, manuscripts, and scrolls from their voyages. From long-lost High Elf encampments on the Lustrian coast to the windswept ruins of Tor Eldroth, their library has become legendary amongst scholar collectors across Ulthuan. Galendra and Mirael are intelligent enough to keep their collection in several secret locations until they decide to sell its contents to the highest bidders. However, not all the scholars are patient enough to wait. 
+
+## **Cothiqui Intrigues**
+## **Cothiqui Irreverence**
+Elves of Cothique have a reputation for maverick behaviour, disrespect for proper Elven conduct, and an impulsive character which other kingdoms believe may be easily corrupted. The swordmasters of Hoeth have become increasingly watchful of the Cothiqui since the Druchii invasion in 2397 IC. Elves elsewhere whisper that Cothique’s dabbling in the Old World shall come to no good, as they may not be sufficiently loyal to the phoenix king. 
+
+## **Cothique in the Old World**
+Away from Ulthuan, agents of Cothique intrigue for power and profit. 
+
+**Altdorf:** The Waverider Trading Company is a Cothiqui business established to circumvent Lothern’s trade restrictions in Marienburg. While the Human partners deal with the daily business, House Waverider Elves cannot prevent themselves from scheming to subvert Marienburg and Lothern’s commercial dominance. 
+
+Saphery has an embassy in Altdorf and an advisor on the Emperor’s Privy Council. While the Cothiqui ambassador Cendrus Laeoc keeps a low profile, he slowly undermines Sapherian efforts to empower the Empire’s wizards, as he believes it can lead to nothing but disaster. See **Altdorf: Crown of Empire** for more details. 
+
+**Marienburg:** The port city is the largest Asur settlement in the Old World and a hotbed of intrigue. Eataineaffiliated clans dominate the resident Elven Council, notably Clan Ulliogtha, house of the phoenix king’s viceroy. Clans Lianllach and Tallaindeloth affiliate with Cothique, but they are outnumbered. 
+
+**Brionne:** The Sea Elves of Brionne originate mainly from Cothique. They are notoriously roguish and famous for tactical duelling to remove Elves from other kingdoms who threaten their stranglehold on the enclave. 
+
+## **Cothique and Laurelorn**
+In the last four centuries, relations between the Phoenix Court and Tor Lithanel have improved after Finubar finally acknowledged Laurelorn’s independence from Ulthuan. The Eonir are still resentful of their Ulthuan cousins, a factor which Cothiqui diplomats exploit for the advantage of their kingdom. Princesses Kaele of Tor Dynal, Nielle of Tor Vael, and Iondir of Tor Koruali are frequently seen in the company of the High Council of Laurelorn. They have taken to insinuating that the other Ulthuan kingdoms, led by Caledor, would see the Eonir forcibly returned to the phoenix king’s rule. Representatives from Tor Andar, Tor Koruali, and Mistnar hope to grow trade with the Eonir and gain their support to explore the sunken colonies of Lothlakh and Ildenfane beneath the Sea of Claws. 
+
+## **House Selithion and House Whitepath**
+House Whitepath of Tor Vael and House Selithion of Tor Koruali were once the most powerful noble houses in Cothique. They have been at odds for centuries. Prince Erione was once a rival of Finubar for the throne of the phoenix king. Prince Dalloran’s noble house has surpassed him in political power since those days, and the intrigues continue between the Houses, particularly initiated by Dannor and Dalroth, the wayward sons of Dalloran. 
+
+## The Tip Off
+At the heart of the Nordland village of Luftberg is an impressive wooden temple of Ulric which, unbeknownst to the villagers, is built over a toppled waystone lying beneath the temple mound. Loremaster Jarellian of the White Tower is planning an excursion to raze the temple, punish the villagers, and restore the waystone. In his attempts to muster a fleet for this purpose, Princess Trasinaya of Tor Andar has learned of Jarellian’s plans. She sees an opportunity to secure greater influence for Cothique in Altdorf by warning the Emperor of an imminent Asur attack on his coastline. In Altdorf, House Waverider seek to arrange a discreet meeting with Kriegsmeister Helborg without the Sapherian Embassy finding out. 
+
+**Fu-Chow:** Tiranoc once ruled the High Elf enclave in Fu-Chow. Today the population is a cosmopolitan blend of Elves from all kingdoms. Cothique maintains an impressive embassy in the docks, from where Tor Koruali’s diplomats aim to foster a stronger relationship with Yin-Yin, Mistress of the Jade Sea, ruler of the city and the eastern provinces of Cathay. 
+
+## **Intrigue Beyond Ulthuan**
+## **Humanity and Magic**
+As Humans grow in number and influence across the world, the High Elves debate the proper course of action regarding their mastery of magic. Most High Elves seek to vanquish all sorcerers of the Chaos Gods, but struggle to reach any consensus on whether it is wise to tolerate other Human wizards. At one extreme are the Followers of the Three, a faction inspired by Teclis, Myrtle, and Finreir who tutor Humans in the safe use of magic, believing that Humans and High Elves should be allies against darker powers. Chief amongst their numbers is Archmage Thuriel the Sagacious, who strives to accelerate learning in the Empire’s Colleges of Magic. 
+
+Other Elves would rather suppress all Human wizardry, citing how often Human practitioners of magic fall to Chaos and corruption when exposed to the Winds. A cadre of highborn from Yvresse and Tiranoc sends agents to the Old World to reverse Teclis’ mistakes. 
+
+## **Estroi’iath**
+Under the direction of Prince Haldin of Avethir, Lord Valoriel of Chrace, and Lady Allynia of Avelorn, the Estroi’iath are a group who wish to deter Asur from any dealings with other species. This puts them in opposition to most Sea Elves, especially those who have a presence in Human ports. The group sponsor several schemes to discredit the Sea Elves and cut them off from Ulthuan, and Lord Valoriel has planted agent provocateurs in Human cities to increase anti-Elf sentiment in the Old World and Araby. 
+
+## **Restoration of Empire**
+Traditionally-inclined highborn look back on the preSundering power of the Asur with nostalgia, when High Elves ruled continents. They advocate for a return to glory, starting with military conquest of the Old World, restoring Elthin Arvan and taking Asrai, Eonir, Humans, and even Dwarfs as vassals of the High Elves. This tendency is an influential minority in Lothern, and has enthusiastic supporters in Tiranoc, elements of Nagarythe, Cothique, and Yvresse. An unknown princess from Angerrial writes pseudonymous missives to highborn to recruit support for this cause. 
+
+## **Anar’s Rage**
+Constant Druchii raids have taken their toll on Nagarythe, Chrace, and Tiranoc. Elves in these kingdoms push for an invasion of Naggaroth, hoping to persuade the phoenix king, Prince Tyrion, and Prince Imrik that the Asur’s survival depends on such drastic measures. Several White Lions are at the heart of this conspiracy, led by Guardian Aesinal Farsight. 
+
+## **Additional Considerations**
+The rules for intrigue in the **High Elf Player’s Guide** assume that political machinations will be a relatively small part of play. If you expect intrigues to be a significant part of your campaign, you can use the options below to add an extra layer of interest to the game. 
+
+## **Tracking Reputation**
+Reputation is a key leverage factor — people want to do business with peers they trust or respect. If intrigue is a core part of a campaign, it is a good idea to document the shifting reputation of the party from adventure to adventure. Tracking this reputation, and providing reputation modifiers in future intrigues, rewards Characters for acting subtly, discourages players from always defaulting to the most direct solution, and teaches your group that their actions have consequences. 
+
+Whenever the players finish an intrigue, fulfil an Ambition, or complete an adventure, make a note somewhere of what impressions the most influential NPCs will come away with. This can be a perspective on the party or, if some Characters truly distinguished themselves, individual judgements. These notes do not need to be extremely detailed — short sentences indicating that the party ‘honours its commitments’, ‘avoids direct confrontation’, or ‘causes a big scene’ are best practice. 
+
+Use emphasis to denote instances that were conducted extremely publicly, involved especially influential individuals, or had particularly broad consequences. Achievements accomplished secretly, involved lowly individuals, or had few broader consequences, might not be listed at all. 
+
+When the party attempts a Persuasion Test against an NPC, you can use this growing resume as reference for what impact the party’s reputation has as a leverage factor. Turning this list into a Difficulty modifier is a judgement call, like all leverage factors, but you should give more weight to reputational effects that are emphasised; prioritise recent events ahead of historic events, and most importantly, highlight the instances most relevant to the NPC’s interests. 
+
+In addition, players can consult this chronicle of their reputation as a guide for how to proceed. If they realise they are acquiring a particular reputation, they can take steps to mitigate that to avoid alienating potential allies… or double down on that reputation, to secure a closer working relationship with those most impressed by their service record. 
+
+## **Starting Reputation**
+To highlight the significance of reputation right from the start of the campaign, you can allow the party to set an initial reputation in Step 7 of Character Creation ( **WFRP** , page 41). The reputation should relate to an event recently undertaken by the party, and should set a neutral baseline — something that will impress as many influential people as it displeases. Alternatively, if you would prefer an unambiguously positive reputation, you can add a second, unambiguously negative instance to the reputation tracker to balance things out. For a fullintrigue campaign, you can add this starting reputation for all Characters as well, whilst choosing Ambitions in Step 6 of Character Creation ( **WFRP** , page 40). 
+
+## On Blackpowder
+Blackpowder weapons offend almost every Asur sensibility. They are hideously loud, stink of sulfur, stain what they touch, and are prone to dangerous misfire, besides. Such things are seen as artless implements designed for ease of use by drunks, and are understood to be generally outclassed by Asur armaments, besides. A few Elves in the Old World have adopted them to excellent effect, but in the context of production and military use by Ulthuan, even the most pragmatic military theorists have found no place for them. 
+
+## **Intrigue and Trade**
+Commerce is intrinsically linked with politics and espionage, especially for the Asur. Many in the Old World suspect the High Elves trade not due to any material deficiency, but only as a pretext to gather information and position spies. If your party expects to mix business with politics, you can use the rules for intrigues when exchanging goods and services. 
+
+Shopping for trappings may involve a bit of haggling, per **WFRP** , page 291. Whilst the most decisive factor in these negotiations is usually cold hard cash, the GM can introduce other leverage factors here to adjust the Difficulty. Reputation is especially relevant — merchants want to do business with those that honour their commitments and consistently provide a return on investment — so undertaking the _Repair Reputation_ Endeavour (page 91) in advance may be useful. Haggling for trappings is a single Dramatic Test, not an Extended Test, but is Opposed by the _Haggle_ Skill of the corresponding merchant (2d10 + 45, by default). 
+
+If you are using the trading rules in **Death on the Reik Companion** pages 70–78, or **Sea of Claws** pages 135– 139, haggling is also a part of buying and selling cargo. For arranging larger deals like this, the intrigue rules can be used to expand a single die roll into a set piece negotiation encounter. Besides leverage factors, GMs may introduce rival traders who compete to secure the most valuable trading contracts, or other individuals in the same social arena with alternate offers for the party. 
+
+Completing a business transaction is not just good for the bottom line. If a party successfully takes on cargo, transports it to a new location, and sells it for a profit, it is worth adding the accomplishment to their reputation tracker (if you are using one). These reputational benefits are not just useful for negotiating future business deals — they can also provide access to individuals and social arenas that would be otherwise restricted, where the Characters can engage in other forms of intrigue. 
+
+## **Intrigue Endeavours**
+If intrigue is a significant part of your adventures, you can introduce the Endeavours below between adventures to help the party prepare for the challenges to come. 
+
+## **Cast Aspersions**
+People need little encouragement to think the worst of others. It is always much harder to build someone up than it is to tear them down. 
+
+Choose a target whose reputation you wish to tarnish. Make an **Average (+20) Gossip** Test to insert a rumour about the target’s shortcomings into common discourse. If the target has their own agents burnishing their reputation, make an **Opposed Gossip** Test instead. 
+
+If you succeed, you can use the target’s new reputation as leverage in upcoming intrigues. The rumour should be plausible, but you can increase the Difficulty of the Test to encourage more outlandish falsehoods. 
+
+If you fail, the target becomes aware you are spreading rumours about them. Astounding Failures indicate your schemes have become common knowledge, which could mar your own reputation. You cannot _Cast Aspersions_ on the same target more than once between adventures. 
+
+## **Repair Reputation**
+A bad reputation is a difficult thing to shake — but if you accomplish good works, it helps people to forget whatever else they heard. 
+
+You make yourself known to influential people in the vicinity and contrive opportunities to present yourself in a positive light. Make an **Average (+20) Charm** Test. If you succeed, you decide what impression people have formed of you, based on your actions. You cannot change the disposition of mortal enemies or accomplish something so impressive it would require an adventure in its own right, but you can establish a reasonable first impression, or get a skeptical Character to give second thoughts. The reputation you establish may be leveraged in upcoming intrigues — add it to your reputation tracker, if you are using one. 
+
+The reputation you are establishing will determine the most relevant Skill to Test. _Charm_ is the default for making a good impression, but you could instead use _Intimidate_ to make people afraid of you, _Leadership_ to 
+
+boost respect for your authority, _Bribery_ for targeted acts of charity, or whatever other Skill seems relevant. If you want people to think you are good at your job, use your Career’s Earning Skill ( **WFRP** , page 52). 
+
+A variant of this Endeavour is working to improve the reputation of another Character or NPC. This is usually a **Challenging (+0) Gossip** Test, and may be even more difficult if the target is not cooperating with your promotion! To tarnish another Character’s reputation, see _Cast Aspersions_ . 
+
+If you fail your Test to _Repair Reputation_ , you can use another Endeavour to Test again, but you cannot successfully forge a reputation more than once between adventures. The extra effort can only be made on ensuring your one attempt works as well as it can. 
+
+## **Intriguing Npcs**
+Intrigue is always a deeply personal business. To make someone do what you want, you need to know what makes them tick. This section provides GMs with advice for creating interesting NPCs for players to interact with in intrigue scenes — either prepared in advance, or improvised on the fly. 
+
+## **Motivation**
+When designing an NPC for an intrigue encounter, their Motivation, Short-term Ambition, and Longterm Ambition are the most important things to decide first. These details provide suggestions for the most appropriate leverage to exert, information that Characters can discover with surveillance, and even guidance for how to roleplay the character and their reactions. 
+
+Motivations are just one or two word descriptions that get to the core of what drives the character — descriptions like Ambitious, Faithful, or Hedonistic. Most NPCs do not appear all that often in a game, so strong, powerful Motivations the players can immediately recognise and understand are better than nuanced or complicated impulses. Motivations that suggest a corresponding leverage factor, like Greedy or Vengeful, are especially useful. If a scene consists of multiple NPCs, clashing Motivations like Conservative/Reformist, Duty-bound/ Rebellious, or Peacekeeper/Warmonger always produce exciting drama. 
+
+## **Ambitions**
+Short-term Ambitions should be a problem the Characters can solve, or a desire the Characters can satisfy, either directly or indirectly. Alternatively, a Shortterm Ambition could be something the Characters can impede, to frustrate an enemy, or extort a potential asset. Satisfying or thwarting an NPC’s Short-term Ambition might be achievable within the same intrigue, or require the party to complete an adventure, but it should not cost any more than that. If you are worried a specific Character will be excluded from an intrigue scene, an NPC’s Shortterm Ambition which plays to that Character’s skillset can be a good way to get them back in the game. 
+
+Long-term Ambitions tie directly into the NPC’s Motivation, and may amount to their life’s work. Unless the NPC is on the bottom rung of society, with Ambitions that seem modest to more resourceful Characters, it is very unlikely the party can solve a Long-term Ambition quickly or easily. However, Characters can still gain positive leverage with an NPC by making a meaningful contribution to the success of their Long-term Ambition. Actually completing a Long-term Ambition on an NPC’s behalf is a spectacular gift, one which might secure their gratitude and loyal service for the rest of their life. 
+
+## **Skills and Talents**
+NPCs do not need full character sheets to be used in an intrigue scene. If the players are rolling against a passive Difficulty, the target’s statline is irrelevant. You will want a couple of numbers if a particular NPC is Opposing a Persuasion Test, or undertaking a Persuasion Test of their own, but the detail required is nothing most GMs cannot improvise on the fly. 
+
+Most social Skills are Opposed with _Cool_ , or occasionally with _Gossip_ or _Haggle_ . NPCs undertaking Persuasion Tests need at least one good Persuasion Skill — usually _Charm_ , but sometimes _Intimidate_ or _Leadership_ . 50 is the baseline for NPCs who specialise in this line of work, up to 80 (or higher!) for the most dangerous political operators. If in doubt, randomise the Skill rating as 2d10 + 40. 
+
+Intrigue Talents such as _Dealmaker_ , _Impassioned Zeal_ , _Noble Blood_ , or _Public Speaker_ can add a little mechanical interest to an NPC. Those especially competent in a specific Skill might have another Talent to spotlight it (such as _Carouser_ or _Gregarious_ ), but it is simpler to just increase their rating in that Skill. You do not need NPCs to have Talents for an intrigue scene to be interesting, and 
+
+it is often best not to bother. It is more important and interesting to keep track of the leverage factors in play than remember which NPC uses a special rule. 
+
+## **Options for Intrigue**
+Often you will design an NPC to order — the party will go searching for a target who can provide what they want, and you will detail a character who fits the bill. But just as often, you will design an NPC without the players’ input and leave it to the Characters to calculate how best to profit from the interaction. 
+
+If you are designing NPCs in this way, it is a good idea to think in advance about possible intrigues they might be involved with, and how the players can interact with them. These intrigues can be broadly categorised as sponsorship, trade, rivalries, and cult intrigues. 
+
+Sponsorship intrigues are jobs an NPC needs doing that require an element of political manoeuvring or skullduggery. Rather than undertake these intrigues themselves, NPCs employ the Characters, often because the use of deniable operatives protects them from potential blowback. Sponsorship intrigues are most common for patrons, powerful NPCs that provide parties with mentorship, improved resources, and regular work. NPC antagonists involved in sponsorship intrigues might hire a rival of the Characters to do the job instead, confronting the party with the dangerous prospect of two enemies united in opposition against them. 
+
+Trade intrigues revolve around difficulties in the purchase and sale of goods or services. To escalate to the level of intrigue, the products exchanged might be smuggled, difficult to obtain, hunted by thieves, or a cover for more discreet politicking. Player Characters usually trade with allies (or potential allies), someone they want to remain on even footing with. But merchant patrons may employ Characters to complete a sensitive business transaction, and enemy commerce may be a target for parties who want to hit their opponents in their coinpurse. 
+
+Rivalry intrigues focus on the conflict between two or more NPCs, be it political or personal. They present Characters with a choice — to aid one side, or another. Fulfilling a rivalry intrigue can be especially profitable, but there is usually a good reason for such work to be outsourced rather than completed by the NPC themselves. Many counselors and advisors make their careers out of playing rival NPCs off against each other, but just as many are caught in the crossfire. 
+
+Cult intrigues concern esoteric, forbidden, or taboo practices, and task agents with the promotion of a specific cause. Whilst many cult intrigues taint those involved by association (such as the pleasure cults of Slaanesh), just as many correspond to secret societies or obscure faiths that are ritualistic but not actively dangerous. Many groups require the completion of a cult intrigue as an initiation rite — Characters may earnestly participate in these practices, or go undercover to incriminate a rival. 
+
+## **Getting the Best from High Elf Npcs**
+Elven society is shaped by non-Human perspectives, and its every layer is interwoven with intrigue. Good note-taking is essential for the pace of play on Ulthuan, because the GM must portray characters with centuries or millennia of political experience and accumulated knowledge. Carefully tracking NPC motivations and relationships is imperative, as is considering how they might react to and plan around ongoing situations. 
+
+Listed below are some values important to the High Elven character and aesthetic. While not all Asur exemplify all of these concepts, and some may embody few or none at all, they represent some important norms and ideals. 
+
+## **Duty**
+All Asur are charged with a duty to the throne of the phoenix king, to their prince, and to their house, in that order. Asur are often subservient to the same figures for centuries on end, and are generally assumed to act on behalf of their head of household. An Elf ’s level of responsibility correlates to their competence: the long scale of Elven politics weeds out the inept. Important Elves tend to be exceedingly well-qualified, thoroughly devious, or, as is frequent at the highest level, both. 
+
+## **Tranquility**
+Elves have acute senses and are keenly aware of their surroundings. As a result, they find great value in pleasant, tranquil, and inoffensive environments. Intense or undesirable sensory experiences are sequestered from public spaces, and bothersome conduct that creates such noxious offences is seldom tolerated for long. Unpleasant personal odours, sour notes in song, and an unkempt appearance are all considered highly uncouth. 
+
+## **Subtlety**
+Subtlety is near to the heart of the High Elf aesthetic. Asur styles disfavors garish and clashing patterns, the Asur people conduct themselves with humility and an air of effortless ease, and Asur society itself is home to intrigues that play out over decades, all hidden in plain sight. Understatement and implication are common, and a lack of discretion is treated as a cardinal sin. 
+
+## **Balance**
+High Elves are taught to seek balance in all things. In the grandest philosophical sense, this refers to a given Elf ’s balance of _yenlui_ , an important matter of the Asur soul. More generally, the balanced approach is considered by the Asur to be best in all things, and extremes are avoided wherever possible. Sensibility holds that a martial education should accompany a scholarly one, that rashness is a folly on par with overcautious hesitation, and that compassion should be backed with steely resolve. 
+
+## **Beauty**
+Ulthuan is considered among the most beautiful places in the world for good reason. The Asur, both as a people and as individuals, have spent millennia honing schools of art, architecture, and fashion that have influenced societies the world over. The Asur value beauty not only for personal vanity’s sake, but out of consideration. The Asur believe that since beauty is pleasant, the world should be made a beautiful place. 
+
+## **Mindfulness**
+Asur wisdom holds that to truly know one’s mind is to immediately know the appropriate course of action in any situation: to act as one must even as the thought to do so is formed. Mindfulness is thought to improve one’s magical aptitude, to help think under pressure, and to guard the soul against the clutches of Chaos. Living the ideal is a challenge: fear of acting wrongly leads to hesitation, which can be worse than rashness. 
+
+## **Imperfection**
+To avoid unwholesome fixation on ‘perfection’ that does not (or should not) exist, the Asur embrace deliberate flaws. These are generally subtle and unobtrusive: reversestitches in a robe’s seams, breaks in a carpet’s pattern, or breathy notes at an aria’s end. This practice reminds the Asur not to expect perfection from themselves, or from anyone else. Many Elves derive grace from this when receiving visitors from the Old World. 
+
+## **Older Elf Npcs**
+Among the most significant differences between Elves and Humans is their gap in longevity. Elves can live for hundreds or even thousands of years and are often shaped by the centuries in profound ways. 
+
+## **Maturity and Passion**
+Accumulated experiences lend greater perspective to everyday happenstance. The older an Elf becomes, the less individual events and circumstances tend to affect them. 
+
+Many Elder Asur only emotionally invest in matters related to what they consider most important, whether that means grand political designs, closely held beliefs, or the mastery of art. Savvy visitors sometimes attempt to appeal to such Elves by relating to their passions, but it is not easy to do so. Such Elves act as if they have seen it all before because they honestly have. 
+
+## **Planning and Patience**
+Over the centuries, Elves tend to take on greater responsibilities and find it easier to fill their days with matters of import. At the same time, the days pass at a quickening pace. Elves eager to prove themselves in their first few centuries of life lose themselves in their obsessions. They make long-term plans due to their constant commitments, stack obligations into the future, and struggle to adapt when urgent problems arise. 
+
+More venerable High Elves plan for the long-term to avoid this, scheduling matters as far in the future as is efficient, convenient, and serviceably polite. Such Elves calculate everything they do to serve grand ambitions and allow themselves time to indulge in sociopolitical intrigues. Often, this necessitates delegation to ambitious youths, who prioritise garnering esteem over leveraging it, and are unaware of their elders’ schemes. 
+
+This frustrates Human associates, who may spend years pursuing deals with Elves that would be a matter of urgency in other circumstances. Many take it as an insult or sign of elves’ mercuriality—they cannot understand how a prince can wait twenty years for the building of a tower to begin, only to become angry when its construction continues a little longer than promised. This is a matter of perspective. Ten years awaiting a luxury pass quickly, but days unexpectedly spent subject to an unfinished eyesore are frustrating (or, unforgivably, humiliating). 
+
+## **Mundane Moments and Strong Impressions**
+Over time, insignificant memories fade. Many Elves recall little from entire years or even decades in the distant past. In contrast, some events are so important that they leave powerful impressions on the Elven psyche. These memories are revisited frequently, although they may be subtly revised over time. Strong impressions can form around personal milestones or moments of joy, but are more frequently rooted in tragedy and disaster. 
+
+The Experience of the Elders table ( **High Elf Players Guide,** page 53) indicates moments that can influence a High Elf ’s worldview, and it is worth considering what events they consider most important. They may have had first-hand impressions of pivotal events like the Sundering or the War of the Beard. 
+
+One reason the Asur come across as aloof is that so many have experienced terrible loss. Any High Elf older than 220 can recall firsthand the most recent Druchii invasion of Ulthuan and likely fought against Grom the Paunch. Nearly all households lost friends (either in battle or from betrayal), and Asur tend to derive grim lessons about trust, caution, and preparedness from these experiences. 
+
+## **Personal Growth and Tendency to the Extreme**
+The older a High Elf becomes, the more set in their ways they become. This is not because the Asur are unwilling to challenge their beliefs, but because they grow complacent in their ability to do so. Intellectual curiosity is valued in High Elf society, and young Elves are taught to interrogate their conceptions. After centuries of doing so, some arguments can begin to feel so well-defended as to become effectively unassailable. 
+
+An Elf ’s behavioural tendencies tend to become more pronounced as they age. They grow more reserved, more calculating, or more earnest and direct, as befits their inclination. Often, these tendencies are shaped by philosophical or religious motivations, which can be as intractable as quirks of personality.
