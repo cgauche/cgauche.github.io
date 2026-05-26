@@ -91,11 +91,21 @@ def scan(fpath: str) -> list[tuple[int, str, str]]:
         if idx >= 0:
             nxt = body.find('\n## ', idx + 5)
             body = body[:idx] + (body[nxt:] if nxt != -1 else '')
+    hits: list[tuple[int, str, str]] = []
+
+    # Canon refs with mixed range+single (e.g. `EiR ch.3 l.87+226-231`) —
+    # the popover parser handles pure ranges (`l.X-Y`) OR pure non-adjacent
+    # (`l.X+Y+Z`), never a mix. Mixed refs render with empty/broken extracts.
+    # Run BEFORE stripping refs since `body = re.sub(...)` removes them.
+    for m in re.finditer(r'`([^`]*l\.[0-9+\-]+)`', md):
+        spec = m.group(1).split('l.', 1)[-1]
+        if '+' in spec and '-' in spec:
+            ln = md[:m.start()].count('\n') + 1
+            hits.append((ln, 'REF', m.group(0)))
+
     body = re.sub(r'`[^`]+`', '', body)              # canon refs
     body = re.sub(r'\[[^\]]+\]\([^)]+\)', '', body)  # links
     body = re.sub(r'\[\[[^\]]+\]\]', '', body)       # wikilinks
-
-    hits: list[tuple[int, str, str]] = []
 
     # VO citations
     for m in re.finditer(r'\*«[^»]{6,}»\*|\*"[^"]{6,}"\*', body):

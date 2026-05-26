@@ -53,7 +53,7 @@
 
 **Apparence** : âge 38, corpulent, **rouge de visage** (brassage + bière), tablier de cuir habituel. Tonitruant en public, **secret en privé**.
 
-**Position** : Master de la Brewers' Guild. **Possède 3 brasseries** : Bögenhafen + Weissbruck + Bögen Beer Tent à la Schaffenfest (canon — la **Rosa Blatt** de la Bögen Beer Tent serait son employée).
+**Position** : Maître de la Brewers' Guild. **Possède 3 brasseries** : Bögenhafen + Weissbruck + Bögen Beer Tent à la Schaffenfest (canon — la **Rosa Blatt** de la Bögen Beer Tent serait son employée).
 
 **Motivation Ordo** : **avidité pure**. Croyait au rituel "fait rentrer or via magie". **Pas magicien**.
 
@@ -70,7 +70,7 @@
 
 **Apparence** : âge 55, **chauve**, mains brûlées (forge), barbe grise tressée. Voix bourrue. **A perdu sa fille jadis** (maladie), aigri.
 
-**Position** : Master de la **Metalworkers' Guild de Bögenhafen** (canon ch.8 l.483 — c'est cette guilde qui a fabriqué le **cercle de copper 15ft** pour Teugen). **C'est par lui que le rituel a eu son équipement.**
+**Position** : Maître de la **Metalworkers' Guild de Bögenhafen** (canon ch.8 l.483 — c'est cette guilde qui a fabriqué le **cercle de cuivre de 15 pieds** pour Teugen). **C'est par lui que le rituel a eu son équipement.**
 
 **Motivation Ordo** : **deuil de sa fille** → Teugen lui aurait promis de "ramener les morts par magie". Mensonge total. **Le plus naïf des survivants.**
 
