@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hub — Mon Ennemi Intérieur</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../../style.css">
+<script src="../../../mj-mode.js" defer></script>
+</head>
+<body class="page-mj-overlay">
+<header class="site-header">
+  <a class="site-title" href="../../../index.html">
+    <span class="wordmark">Mon Ennemi Intérieur</span>
+  </a>
+  <div class="search" role="search">
+    <input class="search-input" type="search" autocomplete="off" spellcheck="false"
+           placeholder="Rechercher…" aria-label="Rechercher dans le site"
+           data-base="../../../">
+    <div class="search-results" role="listbox" aria-label="Résultats de recherche"></div>
+  </div>
+  <nav class="site-nav"><a href="../../../resumes/index.html">Résumés</a> · <a href="../../../pj/index.html">PJ</a> · <a href="../../../pnj/index.html">PNJ</a> · <a href="../../../lieux/index.html">Lieux &amp; Organisations</a> · <a href="../../../documents/index.html">Documents</a> · <a href="../../../univers/index.html">Univers</a><span class="mj-only"> · <a href="../index.html">Scénarios</a></span><span class="mj-only"> · <a href="../../notes/index.html">Notes MJ</a></span></nav>
+  <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Navigation par arc">
+<h2 class="sidebar-title">Les Sept Arcs</h2>
+<ol class="sidebar-arcs">
+<li>
+<a class="sidebar-arc" href="../../../arc-1.html"><span class="sidebar-num">I</span><span class="sidebar-name">Prologue</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../../arc-2.html"><span class="sidebar-num">II</span><span class="sidebar-name">L&#x27;Ennemi dans l&#x27;Ombre</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../../arc-3.html"><span class="sidebar-num">III</span><span class="sidebar-name">Aventures à Ubersreik</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../../arc-4.html"><span class="sidebar-num">IV</span><span class="sidebar-name">Mort sur le Reik</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../../arc-5.html"><span class="sidebar-num">V</span><span class="sidebar-name">Le Pouvoir Derrière le Trône</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../../arc-6.html"><span class="sidebar-num">VI</span><span class="sidebar-name">Le Rat Cornu</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../../arc-7.html"><span class="sidebar-num">VII</span><span class="sidebar-name">L&#x27;Empire en Ruine</span></a>
+</li>
+</ol>
+</nav>
+<main>
+
+<nav class="mj-breadcrumb"><a href="../../index.html">Notes MJ</a> · <a href="../index.html">Scénarios</a> · <span>Le réveil d&#x27;Altdorf</span></nav>
+<article class="post mj-content">
+<div class="post-body">
+<pre>
+# Le réveil d'Altdorf — Hub
+
+&gt; **Scénario homebrew** pour 2-3 sessions. Démarre au matin du **4 Erntezeit 2512 IC**, lendemain de l'assaut nocturne du manoir Helstein (S63). Couvre tout le séjour Altdorf des PJ avant leur départ vers Nuln.
+&gt;
+&gt; Pour le cadre framework long-terme (3 pistes coffre, calendrier 12 mois, concept Johannes), voir [11 - Cadre Le réveil d'Altdorf](../../notes/11-cadre-le-reveil-daltdorf.html).
+
+## Composition table
+
+**6 PJ Altdorf** : Mark, Elvira (grande prêtresse Rhya), Anselm (sorcier), Yuridika (sorcière), Phineas, Johannes Woblhoffer (nouveau PJ, apprenti gris Grey Order).
+
+**Hors champ** :
+- **Dietrich** — ailleurs depuis longtemps (Ferlangst / Kärzburdger), n'apparaît pas.
+- **Pesold** — joueur, décide s'il part avec Heinrich pour Middenheim (voir [01 - Briefing Helstein](01-briefing-helstein.html)).
+- **Heinrich Todbringer** — présent au manoir le matin puis quitte Altdorf à 11h avec le convoi funéraire.
+
+## Horloge in-game — événements NPC-driven
+
+Les événements suivants se produisent à horaire fixe, **indépendamment des PJ**. Le MJ tient l'horloge ; les PJ choisissent leur tempo dans ce cadre.
+
+| Heure | Événement |
+|---|---|
+| Aube | [01 - Briefing Helstein](01-briefing-helstein.html) disponible au manoir |
+| 8h-11h | Heinrich termine ses préparatifs et reçoit les PJ |
+| ~9h-10h30 | Fassbinder attend à sa table habituelle de la salle de lecture (rendez-vous fixé en S62). Agent Spionwerber déjà en place dans la salle, surveillance routinière. |
+| ~10h | Spionwerber confirme à Zuntermein que Fassbinder s'est installé pour la matinée avec un groupe d'inconnus (les PJ) |
+| ~10h30 | Zuntermein dispatche le commando Templiers depuis la Chambre Noire |
+| 11h | Heinrich part en convoi vers Middenheim |
+| ~11h | Commando Templiers arrive à la bibliothèque (salle de lecture), arrestation publique |
+| 11h15-11h30 | Fassbinder mené hors du bâtiment en menottes |
+| 11h30-13h | Fouille de la table et du casier de Fassbinder par Templiers + agent Spionwerber |
+| 13h+ | Table et casier scellés. Bibliothèque rouverte avec agent Spionwerber en planque (table proche, fait semblant de lire) |
+| 16h-18h | Si **trigger Maria-Luise** activé : billet livré au manoir par Bertholdt |
+| 17h-19h | Rumeur « Fassbinder mort en cellule » commence à circuler |
+| 22h | Rendez-vous Lina à Hangmann's Gasse (si billet accepté) |
+| J+1 aube | La Comète gréée au quai, prête à partir |
+
+## Menu — lieux et activités disponibles
+
+Les PJ choisissent librement à tout moment de la journée. La plupart des options peuvent être combinées ou faites dans n'importe quel ordre.
+
+### Au Manoir Helstein
+- [01 - Briefing Helstein](01-briefing-helstein.html) — Heinrich avant son départ (avant 11h)
+- [08 - Retour Helstein](08-retour-helstein.html) — repos, soins
+- Réception coursier rumeur Fassbinder mort (17h-19h) — voir [10 - Rumeur Fassbinder mort](10-rumeur-fassbinder-mort.html)
+- Réception billet Maria-Luise (si trigger activé, 16h-18h)
+
+### Trajet et zones de transition
+- [02 - Trajet vers l'université](02-trajet-vers-luniversite.html) — prêcheurs sigmarites, climat tendu
+- [03 - Glissement Reikerbahn](03-glissement-reikerbahn.html) — Sigmarites zélotes confus + silhouette 1/3 (déclenché par traversée des zones de bleed)
+
+### Au Quartier Universitaire
+- [04 - Bureau Fassbinder](04-bureau-fassbinder.html) — rendez-vous avant 11h
+- [04b - Bureau Fassbinder — arrivée tardive](04b-bureau-fassbinder-arrivee-tardive.html) — après 11h
+- [05 - Arrestation et fuite](05-arrestation-et-fuite.html) — pendant l'arrestation et la fuite par les toits (suit 04 ou entrée tardive sous-scène A)
+- Enquête discrète post-arrestation (témoins, portier, étudiants)
+
+### Au Grand Temple de Shallya
+- [11 - Mark au temple de Shallya](11-mark-au-temple-de-shallya.html) — soins post-S63 (toute la journée)
+
+### Au Rathaus
+- [12 - Elvira au Rathaus](12-elvira-au-rathaus.html) — audience Burgomaître Heinz (30-45 min d'attente)
+
+### Enquête Kappelmuller — déclencheurs Maria-Luise
+
+Cinq pistes d'enquête (Guilde des Physiciens, pharmacie Elvyra Kleinestun, questions au Palais, audiences directes Privy Council, action publique). **Un seul activateur suffit** pour déclencher le billet. Détail complet : [Enquête Kappelmuller](enquete-kappelmuller.html).
+
+### En ville (rumeurs, climat)
+- [09 - Écoute des rumeurs](09-ecoute-des-rumeurs.html) — taverne, marché, doklands, temple
+- [Ambiance](ambiance.html) — escalation horaire de la ville
+- [Rumeurs](rumeurs.html) — 3 tables (matin / après-midi / soir)
+
+### Le soir (si billet Maria-Luise reçu et accepté)
+- [13 - Approche via Lina](13-approche-via-lina.html) — 22h Hangmann's Gasse
+- [14 - Visite Karl-Franz](14-visite-karl-franz.html) — briefing salon → chambre impériale → entrée sorciers → fin de visite (toute la séquence nocturne)
+
+### Le matin J+1
+- [18 - Départ matinal](18-depart-matinal.html) — embarquement Comète, silhouette 2/3
+
+## Triggers et conditions de déclenchement
+
+| Scène / Événement | Condition |
+|---|---|
+| [01 - Briefing Helstein](01-briefing-helstein.html) | Aube. Heinrich présent au manoir. |
+| [03 - Glissement Reikerbahn](03-glissement-reikerbahn.html) | PJ traversent une zone de bleed (Reikerbahn ou route équivalente vers l'université). |
+| [04 - Bureau Fassbinder](04-bureau-fassbinder.html) | PJ présents au bureau **avant 11h**. |
+| [04b - Bureau Fassbinder — arrivée tardive](04b-bureau-fassbinder-arrivee-tardive.html) | PJ arrivent **après 11h** (arrestation en cours ou terminée). |
+| [05 - Arrestation et fuite](05-arrestation-et-fuite.html) | Suit 04 à 11h (arrestation publique dans la salle de lecture) puis enchaîne sur la fuite par les sorties de la bibliothèque. |
+| **Trigger Maria-Luise** | PJ posent des questions sur Kappelmuller (Guilde, Elvyra, contact Palais, audiences) ou expriment publiquement leurs inquiétudes pour l'Empereur. **Billet livré au manoir vers 16h-18h** par Bertholdt. Détail : [Enquête Kappelmuller](enquete-kappelmuller.html). |
+| [13 - Approche via Lina](13-approche-via-lina.html) | Billet reçu et accepté. Présence à Hangmann's Gasse à 22h. |
+| [14 - Visite Karl-Franz](14-visite-karl-franz.html) | Suite après 13 (séquence nocturne complète briefing salon + chambre + sorciers + sortie). |
+| [10 - Rumeur Fassbinder mort](10-rumeur-fassbinder-mort.html) | 17h-19h, indépendant des PJ. |
+| [18 - Départ matinal](18-depart-matinal.html) | J+1 aube. |
+
+### Détail du trigger Maria-Luise
+
+Détail complet (cinq pistes, mécanique du billet, conséquences si pas d'activateur) dans [Enquête Kappelmuller](enquete-kappelmuller.html).
+
+## Variantes selon les variables d'état
+
+- **PJ wanted Sigmarite ?** → variante B globale (CVC en chasse, possibles combats imprévus).
+- **PJ tachés Fassbinder ?** → variante C globale (suivis Spionwerber, PJ identifiés par témoins ou Spionwerber).
+- **PJ ont visité Maria-Luise ?** → Module 5 joué = beaucoup d'acquis (Kappelmuller démasqué, sort Tzeentch confirmé, Zuntermein nommé) ; non = path ouvert mais info perdue.
+- **PJ ont fouillé le cabinet de Fassbinder ?** → documents supplémentaires (Yodri vol. 2, lettre chiffrée Wasmeier à Lieberung) mais risque hérésie matérielle.
+- **PA Sigmarite** au départ : -8. Selon actions du jour, peut monter ou descendre.
+
+## Flux suggéré par défaut
+
+Si les PJ ne prennent pas d'initiative particulière, le flux le plus probable est :
+
+1. **Matinée** : briefing Helstein → trajet université → glissement Reikerbahn → consultation Fassbinder à la bibliothèque (avant 11h) → arrestation publique → fuite par les sorties de la bibliothèque.
+2. **Après-midi** : retour manoir + repos + écoute rumeurs + un ou deux modules au choix (Shallya, Rathaus, enquête Kappelmuller).
+3. **Soir** : si trigger Maria-Luise activé → rendez-vous Lina → visite Karl-Franz.
+4. **Matin J+1** : départ Comète.
+
+C'est une suggestion d'orientation, pas un railroad. Les PJ peuvent décider :
+- de ne pas aller à la bibliothèque consulter Fassbinder (et tout perdre côté marteau)
+- d'aller au Rathaus en premier puis Fassbinder dans l'après-midi (déclenche 04b)
+- de ne jamais enquêter sur Kappelmuller (pas de billet Maria-Luise, pas de visite Karl-Franz)
+- de quitter Altdorf le matin même (scénario s'effondre, leur choix)
+
+Voir [Pacing](pacing.html) pour la version compressée 3h en séance.
+
+## Pages de référence transversales
+
+- [Pacing](pacing.html) — table de pacing 3h modulaire.
+- [Ambiance](ambiance.html) — escalation horaire de la ville, factions de rue.
+- [Rumeurs](rumeurs.html) — 3 tables (matin / après-midi / soir).
+- [Gestion table](gestion-table.html) — adaptations (lent/rapide/sans Maria-Luise/forcer le départ) + XP.
+- [Cap suivant — destinations possibles](cap-suivant-destinations-possibles.html) — directions activables au départ d'Altdorf.
+
+## Inflexions par rapport au canon EiR ch.8
+
+Synthèse détaillée dans [11 - Cadre Le réveil d'Altdorf](../../notes/11-cadre-le-reveil-daltdorf.html) §3. En résumé : glissement Reikerbahn pré-Fassbinder, arrestation Fassbinder en cours de consultation, coffre du Grand Temple comme objectif d'arc longue durée 12 mois, Maria-Luise comme contact pro-actif via Lina.
+
+**Climax décalé** : cérémonie Sheerargetru le **9 Brauzeit 2513 IC** (un an et un mois après ce scénario).
+
+## Liens
+
+- **Framework cadre** : [11 - Cadre Le réveil d'Altdorf](../../notes/11-cadre-le-reveil-daltdorf.html) (3 pistes coffre, calendrier annuel, concept Johannes, etc.).
+- **Handouts in-game** : Fassbinder - documents bureau.
+- **Pré-scénario** : [09 - Prep post-S63](../../notes/09-prep-post-s63.html).
+- **Canon** : [07 - Suite canonique (Empire in Ruins)](../../notes/07-suite-canonique-empire-in-ruins.html).
+- **Arc** : Arcs/Arc 7 - Empire in Ruins.</pre>
+</div>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <div class="footer-flourish"><svg class="fleuron" viewBox="0 0 220 30" aria-hidden="true"><path class="vine" d="M2 15 C 30 15, 30 6, 60 8 C 75 9, 80 15, 90 15" /><path class="vine" d="M28 15 C 36 15, 38 21, 42 21" /><circle class="berry" cx="42" cy="21.5" r="1.4" /><circle class="berry" cx="56" cy="8.5" r="1.4" /><path class="vine" d="M218 15 C 190 15, 190 6, 160 8 C 145 9, 140 15, 130 15" /><path class="vine" d="M192 15 C 184 15, 182 21, 178 21" /><circle class="berry" cx="178" cy="21.5" r="1.4" /><circle class="berry" cx="164" cy="8.5" r="1.4" /><g class="rosette" transform="translate(110 15)">  <path d="M0 -8 C 4 -4, 4 4, 0 8 C -4 4, -4 -4, 0 -8 Z" />  <path d="M-8 0 C -4 -4, 4 -4, 8 0 C 4 4, -4 4, -8 0 Z" />  <circle r="2.2" class="rosette-core" /></g></svg></div>
+  <p>Campagne <em>Warhammer Fantasy Roleplay</em> 4ᵉ édition — Notes de partie.</p>
+</footer>
+<script src="../../../search.js" defer></script>
+</body>
+</html>

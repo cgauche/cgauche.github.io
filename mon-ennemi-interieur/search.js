@@ -13,9 +13,19 @@
   var index = null, indexPromise = null;
   function loadIndex(base) {
     if (indexPromise) return indexPromise;
-    indexPromise = fetch(base + 'search-index.json')
-      .then(function (r) { return r.json(); })
-      .then(function (data) { index = data; return data; });
+    var promises = [fetch(base + 'search-index.json').then(function (r) { return r.json(); })];
+    var mjToken = document.body && document.body.dataset.mjToken;
+    if (mjToken) {
+      promises.push(
+        fetch(base + 'mj-' + mjToken + '/search-index.json')
+          .then(function (r) { return r.ok ? r.json() : []; })
+          .catch(function () { return []; })
+      );
+    }
+    indexPromise = Promise.all(promises).then(function (results) {
+      index = [].concat.apply([], results);
+      return index;
+    });
     return indexPromise;
   }
 
@@ -31,9 +41,11 @@
           escapeHtml(e.n != null ? String(e.n).padStart(2, '0') : (e.t.charAt(0) || '·')) +
           '</span>';
       var cat = e.c ? '<span class="search-cat">' + escapeHtml(e.c) + '</span>' : '';
-      return '<a class="search-result" href="' + escapeHtml(base + e.u) + '">' +
+      var mjBadge = e.mj ? '<span class="search-mj-badge">MJ</span>' : '';
+      var cls = 'search-result' + (e.mj ? ' search-result-mj' : '');
+      return '<a class="' + cls + '" href="' + escapeHtml(base + e.u) + '">' +
              thumb +
-             '<span class="search-meta"><span class="search-title">' + escapeHtml(e.t) + '</span>' + cat + '</span>' +
+             '<span class="search-meta"><span class="search-title">' + escapeHtml(e.t) + mjBadge + '</span>' + cat + '</span>' +
              '</a>';
     }).join('');
   }
@@ -217,12 +229,18 @@
   }
 
   document.addEventListener('click', function (e) {
-    var img = e.target;
-    if (!img || img.tagName !== 'IMG') return;
-    var anchor = img.closest('a');
+    // Catch clicks anywhere inside an <a> that wraps a post image — not just
+    // clicks on the <img> itself. The anchor often has padding / line-height
+    // that extends past the image edges, and clicking that border would
+    // otherwise follow the link to the Blogger CDN and leave the site.
+    var target = e.target;
+    if (!target || !target.closest) return;
+    var anchor = target.closest('a');
     if (!anchor) return;
     var href = anchor.getAttribute('href');
     if (!href || !IMG_EXT.test(href)) return;
+    var img = anchor.querySelector('img');
+    if (!img) return;
     e.preventDefault();
     openLightbox(href, img.getAttribute('alt'));
   });

@@ -903,9 +903,9 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
 /* PJ pages: variants rendered as stacked inline bios with floating portrait */
 .variants-bios { display: flex; flex-direction: column; gap: 2.5rem;
                   margin-top: 1.5rem; }
-.variant-bio { border-top: 1px solid var(--rule); padding-top: 1.8rem;
-               overflow: hidden; /* contain the float */ }
+.variant-bio { border-top: 1px solid var(--rule); padding-top: 1.8rem; }
 .variant-bio:first-child { border-top: 0; padding-top: 0; }
+.variant-bio > .appearances { clear: both; margin-top: 1.4rem; }
 .variant-bio-title {
   font-family: var(--serif-display-2);
   font-size: 1.35rem; line-height: 1.2;
@@ -923,7 +923,10 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   font-weight: normal;
 }
 .variant-bio-body { font-size: 0.98rem; line-height: 1.65;
-                     color: var(--ink-soft); }
+                     color: var(--ink-soft);
+                     overflow: hidden; /* contain the floated portrait so
+                                          the apparitions block starts on
+                                          a clean line below */ }
 .variant-bio-body > h1,
 .variant-bio-body > h2 { display: none; /* hide blogger's inner heading */ }
 .variant-bio-body p { margin: 0.7rem 0; }
@@ -1081,4 +1084,288 @@ h3 { font-size: 1.15rem; margin: 1.6rem 0 0.6rem; }
   .hero-title { font-size: clamp(2rem, 8vw, 2.6rem); }
   .arc-card { grid-template-columns: 2.5rem 1fr; padding: 0.8rem; }
   .arc-roman { font-size: 1.8rem; }
+}
+
+
+/* === MJ MODE === */
+.mj-only { display: none !important; }
+body.mj-mode .mj-only { display: revert !important; }
+
+#mj-mode-badge {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  background: #6b3a2c;
+  color: #efe5cf;
+  padding: 0.4rem 0.9rem;
+  border-radius: 3px;
+  z-index: 9999;
+  font-family: "IM Fell English SC", serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+}
+#mj-mode-badge button {
+  background: transparent;
+  border: 1px solid rgba(239, 229, 207, 0.5);
+  color: #efe5cf;
+  cursor: pointer;
+  font-size: 1.1rem;
+  padding: 0 0.4rem;
+  border-radius: 2px;
+  line-height: 1;
+  font-family: inherit;
+}
+#mj-mode-badge button:hover {
+  background: rgba(239, 229, 207, 0.15);
+}
+
+.mj-badge {
+  display: inline-block;
+  background: #6b3a2c;
+  color: #efe5cf;
+  font-size: 0.6em;
+  padding: 0.1em 0.45em;
+  border-radius: 2px;
+  margin-left: 0.4em;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+  font-family: "IM Fell English SC", serif;
+  font-weight: normal;
+}
+
+.broken-link {
+  color: #b85c5c;
+  text-decoration: line-through dashed;
+  cursor: help;
+}
+
+.mj-breadcrumb {
+  font-size: 0.85rem;
+  color: #6b5a3c;
+  margin-bottom: 1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #c4b58a;
+}
+.mj-breadcrumb a { color: #6b3a2c; text-decoration: none; }
+.mj-breadcrumb a:hover { text-decoration: underline; }
+
+.mj-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.93rem;
+}
+.mj-content th, .mj-content td {
+  border: 1px solid #c4b58a;
+  padding: 0.4rem 0.65rem;
+  text-align: left;
+  vertical-align: top;
+}
+.mj-content th { background: #efe5cf; }
+.mj-content blockquote {
+  border-left: 4px solid #6b3a2c;
+  padding: 0.4rem 1rem;
+  margin: 0.8rem 0;
+  background: rgba(107, 58, 44, 0.05);
+  font-style: italic;
+}
+.mj-content blockquote p { margin: 0.3rem 0; }
+.mj-content h1 {
+  color: #6b3a2c;
+  border-bottom: 2px solid #6b3a2c;
+  padding-bottom: 0.3rem;
+}
+.mj-content h2 {
+  color: #6b3a2c;
+  border-bottom: 1px solid #c4b58a;
+  padding-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+.mj-content h3 { color: #6b3a2c; margin-top: 1.5rem; }
+.mj-content pre {
+  background: #efe5cf;
+  padding: 0.8rem;
+  border-radius: 3px;
+  overflow-x: auto;
+  font-size: 0.88rem;
+  border-left: 3px solid #6b3a2c;
+}
+.mj-cat-list { display: grid; gap: 1rem; }
+
+/* MJ-only entries in the top nav are tinted */
+body.mj-mode .site-nav .mj-only a {
+  color: #6b3a2c;
+  font-style: italic;
+}
+body.mj-mode .site-nav .mj-only a:hover {
+  text-decoration: underline;
+}
+
+/* Search result MJ badge */
+.search-mj-badge {
+  display: inline-block;
+  background: #6b3a2c;
+  color: #efe5cf;
+  font-size: 0.65em;
+  padding: 0.1em 0.4em;
+  border-radius: 2px;
+  margin-left: 0.5em;
+  letter-spacing: 0.08em;
+  vertical-align: middle;
+  font-family: "IM Fell English SC", serif;
+}
+.search-result-mj { background: rgba(107, 58, 44, 0.04); }
+.search-result-mj:hover { background: rgba(107, 58, 44, 0.10); }
+
+/* MJ enrichment section on public entity pages */
+.mj-entity-enrichment {
+  margin-top: 2.5rem;
+  padding: 0;
+}
+.mj-entity-enrichment .mj-separator {
+  border: none;
+  border-top: 2px solid #6b3a2c;
+  margin: 2rem 0 1rem;
+  position: relative;
+}
+.mj-entity-enrichment .mj-label {
+  display: inline-block;
+  background: #6b3a2c;
+  color: #efe5cf;
+  padding: 0.25rem 0.8rem;
+  border-radius: 3px;
+  font-family: "IM Fell English SC", serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.1em;
+  margin-bottom: 1rem;
+}
+.mj-entity-enrichment .mj-content {
+  padding: 0.5rem 0;
+}
+
+/* MJ-only entries in public category indexes */
+ul.mj-only-entries {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px dashed #6b3a2c;
+}
+ul.mj-only-entries::before {
+  content: "Entrées MJ";
+  display: block;
+  font-family: "IM Fell English SC", serif;
+  color: #6b3a2c;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.6rem;
+}
+
+/* === Canon refs (MJ-only) ============================================= */
+/* `<code>EiR Intro l.205-218</code>` blocks become hover popover triggers
+   that show the cited markdown lines from Source/. As <a> they also
+   navigate to the rendered Source page at the cited line anchor. */
+.canon-ref {
+  color: #6b3a2c;
+  cursor: help;
+  text-decoration: none;
+  transition: color 120ms ease;
+}
+a.canon-ref { text-decoration: none; }
+.canon-ref sup {
+  font-size: 0.75em;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+  padding: 0 0.15em;
+  border-radius: 2px;
+  vertical-align: super;
+  line-height: 0;
+}
+.canon-ref:hover { color: #4a2820; }
+.canon-ref:hover sup {
+  background: rgba(107, 58, 44, 0.14);
+}
+
+/* === Line anchors on canon Source pages =============================== */
+/* Each raw markdown line gets a `<a class="line-anchor" id="LN"></a>` prefix
+   so canon refs can deep-link to #L144. The anchor itself is invisible
+   (zero-width inline). On :target the parent element flashes a highlight. */
+.line-anchor {
+  display: inline;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+  position: relative;
+  /* Scroll past the sticky header (if any) when jumping to a line. */
+  scroll-margin-top: 80px;
+}
+@keyframes canon-target-flash {
+  0%   { background-color: rgba(255, 220, 90, 0.85); }
+  60%  { background-color: rgba(255, 220, 90, 0.55); }
+  100% { background-color: transparent; }
+}
+/* Highlight the parent block of the targeted line anchor.
+   :target only matches the element with the id, so we style the anchor
+   itself + use a sibling-aware rule for common block parents.
+   The cheapest effective rule: outline the anchor's containing block via
+   :has() — supported in evergreen browsers. */
+.line-anchor:target {
+  background: rgba(255, 220, 90, 0.85);
+  outline: 2px solid rgba(180, 130, 30, 0.6);
+  outline-offset: 2px;
+  animation: canon-target-flash 2.2s ease-out;
+}
+/* Better: highlight the parent block (heading, paragraph, list item) of
+   the targeted line anchor. :has() ensures the flash covers the whole
+   logical line, not just the zero-width anchor itself. */
+.canon-source-page :is(h1,h2,h3,h4,h5,h6,p,li,blockquote,td,th):has(> .line-anchor:target),
+.canon-source-page :is(h1,h2,h3,h4,h5,h6,p,li,blockquote,td,th):has(> .line-anchor:target *) {
+  background: rgba(255, 220, 90, 0.55);
+  animation: canon-target-flash 2.2s ease-out;
+}
+/* Canon Source pages get a slightly denser type for code-heavy chapters. */
+.canon-source-page .post-body pre {
+  font-size: 0.9rem;
+}
+
+.canon-popover {
+  position: fixed;
+  z-index: 110;
+  display: none;
+  max-width: 520px;
+  min-width: 280px;
+  background: #fbf3df;
+  border: 1px solid #6b3a2c;
+  box-shadow: 0 4px 18px rgba(60, 30, 10, 0.28);
+  padding: 0.75rem 0.95rem;
+  animation: canon-pop-fade 140ms ease-out;
+  pointer-events: auto;
+  font-family: "EB Garamond", "Garamond", serif;
+}
+@keyframes canon-pop-fade {
+  from { opacity: 0; transform: translateY(2px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.canon-popover-header {
+  font-family: "IM Fell English SC", serif;
+  font-size: 0.78rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #6b3a2c;
+  margin-bottom: 0.45rem;
+  border-bottom: 1px solid #c4b58a;
+  padding-bottom: 0.3rem;
+}
+.canon-popover-body {
+  font-size: 0.92rem;
+  line-height: 1.4;
+  color: #2c241a;
+  white-space: pre-wrap;
+  max-height: 320px;
+  overflow-y: auto;
+}
+@media (hover: none) {
+  .canon-popover { display: none !important; }
 }
