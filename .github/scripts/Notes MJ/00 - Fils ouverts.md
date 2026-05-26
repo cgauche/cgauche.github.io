@@ -456,9 +456,9 @@
 - **Hooks** : (a) sauvetage paradoxal des PJ pour réclamer leur mort plus tard ; (b) pillage de la bibliothèque universitaire de Streissan ; (c) tentative de résurrection de Heinrich Kemmler à La Maisontaal ; (d) si Gräber tué pour de bon, possibilité de découvrir l'emplacement des restes de Kemmler.
 - **Liens** : [[Hans Gräber]] · Heinrich Kemmler (idole) · [[Marius Leitdorf]] (occupant Streissen) · La Maisontaal (Grey Mountains)
 
-### FIL-57 — Anika-Elise Nikse / Magus du Jade Sceptre / preuves Wasmeier
+### FIL-57 — Anika-Elise Nikse / Magus du Sceptre de Jade / preuves Wasmeier
 - **Statut** : OUVERT (latent, post-Arc 5)
-- **Né en** : pré-S30 (Wasmeier connaît Anika-Elise comme cultiste Slaaneshi Magus du Jade Sceptre à Middenheim, canon PBT Companion ch. 6)
+- **Né en** : pré-S30 (Wasmeier connaît Anika-Elise comme cultiste Slaaneshi Magus du Sceptre de Jade à Middenheim, canon PBT Companion ch. 6)
 - **Dernier mouvement** : Anika-Elise empoisonnée par Gideon (Purple Brain Pox) pré-Arc 5 (cf. fiche [[Gideon]] note S30). Wasmeier détient des **preuves écrites** de son culte secret.
 - **Réactivation canon** : EiR Companion ch. 5 *The Nordland Question* — Wasmeier transmet les preuves à [[Ingrid Gausser]] (Dowager) → agents Gausser → [[Liepmund Holzkrug]] → déposition de **Werner Nikse** comme Grand Baron de Nordland.
 - **Hooks** : (a) les PJ découvrent ce dossier en interrogeant Wasmeier ; (b) ils peuvent **bloquer** la transmission pour protéger Nikse, OU **accélérer** pour faciliter l'ascension Gausser ; (c) scandale Slaaneshi historique exploitable contre la famille Todbringer (mariage Boris × Anika-Elise = boudoir compromis).

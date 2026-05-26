@@ -1,6 +1,6 @@
 # Front — 02 Middenheim-Middenland (Todbringer-Bildhofen)
 
-> **One-liner** : Boris X Todbringer absorbe **Middenland** en compensation canonique de la perte de Nordland (cf. fiche 01) ; **Leopold II von Bildhofen** est rétrogradé à simple Prince de Carroburg vassal. En parallèle : montée fanatique des **Fils d'Ulric**, abdication de **Jarrick Valgeir** (révélation conspiration Main Pourpre) au profit d'**Emil Valgeir** *"fire-breathing"*, attentat raté sur Katarina au mariage par **Malthe Barthelm**, et **bris de Ghal Maraz** par Boris au Conclave ch.7. La cour de Boris reste hantée par le legs corrupteur d'Anika-Elise (Jade Sceptre Slaanesh).
+> **One-liner** : Boris X Todbringer absorbe **Middenland** en compensation canonique de la perte de Nordland (cf. fiche 01) ; **Leopold II von Bildhofen** est rétrogradé à simple Prince de Carroburg vassal. En parallèle : montée fanatique des **Fils d'Ulric**, abdication de **Jarrick Valgeir** (révélation conspiration Main Pourpre) au profit d'**Emil Valgeir** *"fire-breathing"*, attentat raté sur Katarina au mariage par **Malthe Barthelm**, et **bris de Ghal Maraz** par Boris au Conclave ch.7. La cour de Boris reste hantée par le legs corrupteur d'Anika-Elise (Sceptre de Jade Slaanesh).
 
 ---
 
@@ -24,7 +24,7 @@
 #### Famille Todbringer
 - **Graf Boris X Todbringer** — BanUlric, Imperial Elector, 47 ans (2512), 6'1" ; en dépression depuis la mort d'Anika-Elise ; Trappings *Peak Leveller* + Wardenship Nordland + Royal Garb Best Quality + Middenheim City Coffers and Crown Jewels (PBT ch.2 l.119) ; Doomed *"Vengeance made for vengeance repaid be then dragged down, ript and slayd"*
 - **Maria von Richthofen** (1ère femme) — morte **2471 IC** en accouchant Stefan (Fandom Boris)
-- **Anika-Elise Nikse** (2e femme) — voir fiche 01 ; **leader du Cult of the Jade Sceptre à Middenheim — canon explicite** : *"their leader had been none other than the vivacious second wife of Graf Boris himself"* (Middenheim ch.7 l.144) + *"malign infector who secretly worshipped Prince of Chaos and desired to foster corruption and misrule"* (Middenheim ch.1 l.379) ; mentor de Gotthard von Wittgenstein (alias **Wallenstein**) ; morte 2512 IC à 23 ans, *"only toehold on the ladder of political power"* du cult (Middenheim ch.7 l.144)
+- **Anika-Elise Nikse** (2e femme) — voir fiche 01 ; **leader du Cult of the Sceptre de Jade à Middenheim — canon explicite** : *"their leader had been none other than the vivacious second wife of Graf Boris himself"* (Middenheim ch.7 l.144) + *"malign infector who secretly worshipped Prince of Chaos and desired to foster corruption and misrule"* (Middenheim ch.1 l.379) ; mentor de Gotthard von Wittgenstein (alias **Wallenstein**) ; morte 2512 IC à 23 ans, *"only toehold on the ladder of political power"* du cult (Middenheim ch.7 l.144)
 - **Baron Stefan Todbringer** — fils légitime héritier, ~11 ans (2512), malade chronique ; condition s'améliore avec Pavarotti (hypnose) (PBT ch.2 l.129-141)
 - **Baron Heinrich Todbringer** — fils illégitime officialisé, 6'11", brun-auburn yeux blue-grey ; **organise le secret service de Middenheim post-Anika-Elise** (Middenheim ch.1 l.374) ; **agents Ring of Spies throughout Middenheim** (PBT ch.2 l.160) ; conçu la nuit avant le mariage Boris-Maria ; épée magique *Rathewer* (Impact vs Skaven, acquise Miragliano) ; en mission diplomatique Ostland/Wolfenburg pendant PBT
 - **Princess Katarina Todbringer** — fille illégitime, *"commonly called 'Princess', has no hereditary entitlement"* (Middenheim ch.1 l.365) ; *"sweet-natured but rather unimaginative"* ; *"distracted and incurious — a bit of a bore"* (Middenheim ch.1 l.370-371) ; mariée Wolfgang Holswig-Abenauer au ch.6 (assassinée ou pas selon PJ)
@@ -77,7 +77,7 @@
 
 #### Acteurs PBT (Carnaval, contexte historique fiche 02)
 - **Brunhilde Klaglich** — villain Ostwald lair (PBT)
-- **Gotthard von Wittgenstein** (alias **Gotthard Wallenstein**) — Chairman Merchants' Guild + Covenor Kommission for Commerce, Trade and Taxation ; **Magus du Jade Sceptre** (canon Middenheim ch.7 l.146-150 + PBT Companion ch.6) ; protégé d'Anika-Elise qui lui fit adopter le pseudo Wallenstein pour cacher la lignée mutée Wittgenstein du Reikland ; promotion rapide après son arrivée à Middenheim
+- **Gotthard von Wittgenstein** (alias **Gotthard Wallenstein**) — Chairman Merchants' Guild + Covenor Kommission for Commerce, Trade and Taxation ; **Magus du Sceptre de Jade** (canon Middenheim ch.7 l.146-150 + PBT Companion ch.6) ; protégé d'Anika-Elise qui lui fit adopter le pseudo Wallenstein pour cacher la lignée mutée Wittgenstein du Reikland ; promotion rapide après son arrivée à Middenheim
 - **Petra Schneller** — Ranaldan PBT (drunken pigs prank)
 - **Janna Eberhauer** — Deputy Wizard Middenheim, Ulricsmund
 
@@ -189,7 +189,7 @@
 | ~2470 IC | Boris apprend qu'il est père d'Heinrich (illégitime, lady-at-court) — quelques mois avant la mort de Maria | PBT ch.2 l.93 |
 | ~2480-2490 IC | Katarina née (lady-at-court, "Princess") | PBT ch.2 l.99 |
 | 2502 IC | **Boris (47) épouse Anika-Elise Nikse (13)**, fille du Baron Werner Nikse (cf. fiche 01) | PBT ch.2 l.101 ; Companion ch.5 l.16 |
-| 2502-2512 IC | Anika-Elise apporte sybarites et power worshippers à la cour Middenheim ; mentor Gotthard von Wittgenstein (alias Wallenstein) ; **leader canon du Cult of the Jade Sceptre à Middenheim** (Middenheim ch.7 l.144 : *"their leader had been none other than the vivacious second wife of Graf Boris himself"*) | Middenheim ch.1 l.379 + ch.7 l.144 |
+| 2502-2512 IC | Anika-Elise apporte sybarites et power worshippers à la cour Middenheim ; mentor Gotthard von Wittgenstein (alias Wallenstein) ; **leader canon du Cult of the Sceptre de Jade à Middenheim** (Middenheim ch.7 l.144 : *"their leader had been none other than the vivacious second wife of Graf Boris himself"*) | Middenheim ch.1 l.379 + ch.7 l.144 |
 | 2510 IC env. | Montée des **Fils d'Ulric** comme umbrella organisation ; "Middenland for Middenfolk" graffiti et agitation | PBT ch.2 l.178 |
 | 2512 IC (printemps) | **Anika-Elise meurt** ("strange illness", quelques mois avant PBT) | PBT ch.2 l.101 ; Fandom |
 | 2512 IC (été) | **PBT events** — Carnival Middenheim, attentat Boris (étranglement Hoflich-Gideon-Changeling), complot Wasmeier démasqué (Magister Magistri), Wasmeier fugitif Drakwald | PBT entier |
@@ -246,7 +246,7 @@
 - **Red Crown** (Tzeentch) — sponsor Beastmen Drakwald (blight harvests)
 - **Crimson Skull** (Khorne) — **"secret society" issue de la Brotherhood of the Axe** (Fandom Brotherhood of the Axe + Fandom Crimson Skull) ; les guerriers les plus bloodthirsty de la Brotherhood sont recrutés ; **Magus = Boris Eichermann (ex-Priest of Ulric)** (canon Fandom Crimson Skull) ; **Convocation of Blood annuelle à Middenheim** ; **Claus Liebnitz appartient à la Brotherhood of the Axe** qui est *"infiltrée par des frères vénérant un dieu plus sombre"* (Middenheim ch.1 l.456) — vulnérabilité Khorne indirecte, son allégeance personnelle n'est pas tranchée canon
 - **Tinean Fellowship** (Nurgle) — Herr Doktor Sesselweiss
-- **Jade Sceptre** (Slaanesh) — *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139) ; **Anika-Elise canon-explicite leader** (Middenheim ch.7 l.144) ; succession à Gotthard von Wittgenstein/Wallenstein
+- **Sceptre de Jade** (Slaanesh) — *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139) ; **Anika-Elise canon-explicite leader** (Middenheim ch.7 l.144) ; succession à Gotthard von Wittgenstein/Wallenstein
 
 ### Organisations proscrites NON-Chaos (canon Middenheim ch.7 + Fandom)
 *Distinguées canon C7 des cultes du Chaos — proscribed mais pas Chaos-aligned :*
@@ -264,7 +264,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 ### 1. Vide politique laissé par Anika-Elise (PBT post-Carnival)
 - Anika-Elise morte 2512 IC ; Boris en dépression aiguë
-- **Cult Jade Sceptre Middenheim privé de son animatrice** — *"the death of a noteworthy influencer did not worry the cultists as much as the loss of an enthusiastic and creative sybarite"* (Middenheim ch.7 l.146)
+- **Cult Sceptre de Jade Middenheim privé de son animatrice** — *"the death of a noteworthy influencer did not worry the cultists as much as the loss of an enthusiastic and creative sybarite"* (Middenheim ch.7 l.146)
 - Cult cherche un nouveau leader → Gotthard von Wittgenstein (protégé Anika-Elise) émerge
 - **Émerge le complot Wasmeier-Hoflich** (= Gideon-Changeling) pour assassiner Boris au Carnival
 - Hoflich démasqué, Wasmeier fugitif Drakwald
@@ -325,7 +325,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **2471 IC** | (background) | **Maria von Richthofen meurt en couches** ; naissance Stefan | Fandom Boris ; PBT ch.2 l.91 |
 | ~2480-2490 IC | (background) | Naissance Katarina (autre lady-at-court) | PBT ch.2 l.99 |
 | 2502 IC | (background) | **Mariage Boris (47) — Anika-Elise (13)** | Fiche 01 + PBT ch.2 l.101 |
-| 2502-2512 IC | (background) | Anika-Elise apporte sybarites à la cour ; mentor Gotthard von Wittgenstein ; cercle Jade Sceptre Middenheim grows | Middenheim ch.1 l.379 ; ch.7 |
+| 2502-2512 IC | (background) | Anika-Elise apporte sybarites à la cour ; mentor Gotthard von Wittgenstein ; cercle Sceptre de Jade Middenheim grows | Middenheim ch.1 l.379 ; ch.7 |
 | 2510-2512 IC | (background) | Fils d'Ulric umbrella organisation grows ; "Middenland for Middenfolk" propaganda | PBT ch.2 l.178 |
 | 2512 IC | (background, "few months before PBT") | **Mort d'Anika-Elise** ("strange illness") ; Boris dépression aiguë | PBT ch.2 l.101 ; fiche 01 |
 | **2512 IC été** | PBT events (S30-S39 table Gauche) | Carnival Middenheim ; complot Wasmeier-Hoflich-Gideon démasqué ; attentat sur Boris déjoué ; Wasmeier fugitif Drakwald | PBT entier ; fiche Boris.md |
@@ -404,7 +404,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 |---|---|---|---|
 | **[[Boris Todbringer]]** | Graf Middenheim + Grand Duke Middenland (nominal) + Warden Nordland + Imperial Elector + BanUlric ; Trappings *Peak Leveller* | **Graf Middenheim + Grand Duke Middenland (entité unifiée) + Prince Carroburg + Protector Drakwald + Warden Middle Mountains + BanUlric** ; perd Wardenship Nordland | Vivant (Fandom) ; *"last Elector Count of Middenland"* |
 | **Maria von Richthofen** | Morte 2471 IC en couches (Stefan) | (morte) | Morte (Fandom Boris) |
-| **[[Anika-Elise Nikse]]** | 2e femme Boris, morte 2512 IC ; **animatrice cercle Jade Sceptre Middenheim** | (morte) ; legacy corrupteur à la cour | Cf. fiche 01 |
+| **[[Anika-Elise Nikse]]** | 2e femme Boris, morte 2512 IC ; **animatrice cercle Sceptre de Jade Middenheim** | (morte) ; legacy corrupteur à la cour | Cf. fiche 01 |
 | **[[Stefan Todbringer]]** | Fils légitime héritier, ~11 ans (2512), malade chronique | (idem) ; héritier de droit mais inapte | Vivant (PBT ch.2) |
 | **[[Heinrich Todbringer]]** | Fils illégitime officialisé, 6'11" ; organisateur secret service Middenheim ; Envoy Gold 2 | (idem) ; **rôle EiR WFRP4 = secret service uniquement** ; canon 1st-edition (variation édition, voir section 10) le présente comme successeur Boris | Vivant (Fandom Heinrich) |
 | **[[Katarina Todbringer]]** | Fille illégitime officialisée, "Princess", *"sweet but unimaginative"* | Mariée Wolfgang (ch.6 — interrompu par Barthelm) | Vivante ou morte selon PJ ch.6 |
@@ -434,7 +434,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **Reiner Ehrlich** | Law Lord Grafsmund | (idem) ; loyal Boris | Vivant (PBT ch.2 l.207) |
 | **[[Karl-Heinz Wasmeier]]** | Law Lord Grafsmund, Magister Magistri secret Tzeentch | Fugitif Drakwald, "liability" Zuntermein | Variable (cf. fiche 01) |
 | **[[Joachim Hoflich]] (= Gideon Changeling)** | Law Lord Palace | Démasqué PBT, fugitif | Cf. fiche 11 |
-| **Gotthard von Wittgenstein** *(alias **Gotthard Wallenstein**)* | Protégé Anika-Elise, promu Deviant Master du Jade Sceptre ; lignée Wittgenstein mutée depuis générations (Reikland) ; Anika-Elise lui fait adopter le pseudo Wallenstein pour cacher ses origines ; devient **Chairman of the Merchants' Guild + Covenor of the Kommission for Commerce, Trade, and Taxation** dans les 6 mois suivant son arrivée à Middenheim, grâce à l'influence d'Anika-Elise (canon Middenheim ch.7 l.146-150) | Successeur Anika-Elise comme leader cult Jade Sceptre Middenheim post-mortem | Variable (Middenheim ch.7 l.146-150 ; PBT Companion ch.6) |
+| **Gotthard von Wittgenstein** *(alias **Gotthard Wallenstein**)* | Protégé Anika-Elise, promu Deviant Master du Sceptre de Jade ; lignée Wittgenstein mutée depuis générations (Reikland) ; Anika-Elise lui fait adopter le pseudo Wallenstein pour cacher ses origines ; devient **Chairman of the Merchants' Guild + Covenor of the Kommission for Commerce, Trade, and Taxation** dans les 6 mois suivant son arrivée à Middenheim, grâce à l'influence d'Anika-Elise (canon Middenheim ch.7 l.146-150) | Successeur Anika-Elise comme leader cult Sceptre de Jade Middenheim post-mortem | Variable (Middenheim ch.7 l.146-150 ; PBT Companion ch.6) |
 | **Janna Eberhauer** | Deputy Wizard Middenheim, Ulricsmund | (idem) | Vivante |
 | **Brunhilde Klaglich** | Villain PBT Ostwald lair | Variable post-PBT | Variable (PBT) |
 | **Petra Schneller** | Ranaldan PBT (drunken pigs) | Variable | Variable |
@@ -504,8 +504,8 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 - **(canon)** **Vieran Thugenheim Chevaliers Panthères senior commander** — PJ peuvent l'approcher ; son Vorn aux Loups Blancs possible double allégeance
 - **(canon)** **Brotherhood of the Axe infiltrée Khorne via Liebnitz** (Middenheim ch.1 l.456) — Denfather High Temple ; investigation interne Cult Ulric
 - **(canon)** **Affaire Emmanuelle Schlagen × Ar-Ulric Jarrick** — exposition publique = *"dangerous scramble for power"* (Middenheim ch.1 l.408-409). Hook : PJ peuvent découvrir, monnayer, ou révéler.
-- **(canon)** **Anika-Elise legacy à la cour** — *"sybarites and power worshippers found a home at court"* (Middenheim ch.1 l.379). Cult Jade Sceptre Middenheim actif. Hook investigation PJ.
-- **(canon)** **Gotthard von Wittgenstein** = successeur Anika-Elise comme Magus du Jade Sceptre (PBT Companion ch.6) — actif post-PBT
+- **(canon)** **Anika-Elise legacy à la cour** — *"sybarites and power worshippers found a home at court"* (Middenheim ch.1 l.379). Cult Sceptre de Jade Middenheim actif. Hook investigation PJ.
+- **(canon)** **Gotthard von Wittgenstein** = successeur Anika-Elise comme Magus du Sceptre de Jade (PBT Companion ch.6) — actif post-PBT
 - **(canon)** **Spotted Green Brain Pox à Norderingen** (Middenheim ch.5 l.248) — cordon Shallyans + State Army + Margrave's retinue. Hook quarantaine.
 - **(canon)** **Eaters of the World à Linz** travaillent à ressusciter Babrakkos (Middenheim ch.5 l.243). Spectral riders s'intensifient.
 - **(canon)** **Penal colony Kärzburdger Estate** — prisoners worked to death, sold to slavers. Square of Hope = "abuse and exploitation". Hook libération/enquête.
@@ -566,13 +566,13 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
     - l.107-145 — Ancient Earthworks + Red Claw Temples + Wolf Watch + Forgotten Legacies + Lupus
     - **l.135-296 — Provinces internes** : Holzbek (Dunfurter Castle, Oberholzbek mine), Tomb of Kazron Gorespite, Two Fingers ruin, Karak Khazarak, Immelscheid (slate, Fort Immelscheid, Blackweb Goblins), Kärzburdger Estate (Square of Hope penal colony, Mittler Castle, Brass Keep Chaos), Linz (Babrakkos), Norderingen (Spotted Green Brain Pox), Sohk (Eisenhal, Teutogen Brotherhood, Wolf Watch), Thugenheim (Jager Keep)
   - **ch.7 *Dark Cults in Middenheim*** :
-    - **l.138-148 — Slaanesh + Jade Sceptre + Anika-Elise + Gotthard von Wittgenstein**
+    - **l.138-148 — Slaanesh + Sceptre de Jade + Anika-Elise + Gotthard von Wittgenstein**
 - **Power Behind the Throne** :
   - **ch.2 *Middenheim*** : 
     - **l.90-160 — Boris + family** (Boris statbloc complet l.108-119, Maria von Richthofen, Stefan, Heinrich, Katarina, Anika-Elise = "daughter of Baron Rudolph von Niske" — voir section 10 ambiguïté)
     - l.164-184 — Religion + Fils d'Ulric + tension Sigmar/Ulric
     - l.190-242 — Districts Middenheim (Palast, Grafsmund, Ulricsmund, Altmarkt, Southgate-Ostwald, Neumarkt-Osttor-Nordtor, Freiburg, Wynd, Westor-Sudgarten, Geldmund-Kaufseit-Brotkopfs) + 3 Midden Marshals + Law Lords (Ehrlich, Wasmeier, Hoflich)
-- **PBT Companion ch.6 *Jade Sceptre — A GM's Guide*** — Gotthard Wallenstein Magus, contexte cult
+- **PBT Companion ch.6 *Sceptre de Jade — A GM's Guide*** — Gotthard Wallenstein Magus, contexte cult
 - **Up in Arms ch.4 *Knights of the Empire*** :
   - l.18 — Chevaliers du Loup Blanc religious origins
   - l.20 — Chevaliers Panthères founded during Estalia/Araby crusades

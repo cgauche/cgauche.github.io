@@ -55,7 +55,7 @@
 **Cadre** : Retour de Karak Skygg sur le dirigeable **Sky Wolf** (offert par Dwarfs Engineers' Guild Middenheim), piloté par **Nabbi Nodrisson + Sindri Suttrisdottir** (canon ch.1 l.130). 80 miles Karak Skygg → Middenheim en 2-3 jours.
 
 **Plots canon (ch.1)** :
-- **Briefing Heinrich** : situation Empire dégradée. Ar-Ulric Emil Valgeir extrémiste, suspecte Sigmarites tentative assassinat Graf. Talabecland aligné Middenheim (rumeurs « Empereur du Nord »). Wasmeier corps non retrouvé (ENNEMI ACTIF présumé). Watch éradique cellule MP + Jade Sceptre. Ostland-Talabecland en guerre ouverte post-mort Hergard.
+- **Briefing Heinrich** : situation Empire dégradée. Ar-Ulric Emil Valgeir extrémiste, suspecte Sigmarites tentative assassinat Graf. Talabecland aligné Middenheim (rumeurs « Empereur du Nord »). Wasmeier corps non retrouvé (ENNEMI ACTIF présumé). Watch éradique cellule MP + Sceptre de Jade. Ostland-Talabecland en guerre ouverte post-mort Hergard.
 - **Première rencontre** : Aigles géants Drakwald (évitable Perception Hard -20).
 - **Malfunction steam engine** : moteur surchauffé, Dwarfs ronchonnent.
 - **Attaque Helstorm Rockets Nordland séparatistes** : 5 missiles (1 malfunction = 4 effectifs) tirés depuis forêt Drakwald. **Nielsa Klammer** (démagogue), **Sepp Wurnhauser** (artilleur ex-Imperial 2nd Fleet), 4 separatists Hanne/Boris/Niklas/Mikhal. Origine canon = **greatship Queen of Tides** (table = « Queen of Time » — simplification joueur). Tip-off canon : **Wasmeier disguised « Karl-Heinz » purple feather hat** a livré l'itinéraire dirigeable.

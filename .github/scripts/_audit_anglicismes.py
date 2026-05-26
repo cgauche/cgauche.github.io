@@ -107,6 +107,21 @@ def scan(fpath: str) -> list[tuple[int, str, str]]:
     body = re.sub(r'\[[^\]]+\]\([^)]+\)', '', body)  # links
     body = re.sub(r'\[\[[^\]]+\]\]', '', body)       # wikilinks
 
+    # Mot « canon » en prose (le contenu des fiches EST canon par défaut —
+    # le mot est tautologique en prose). Tolère les marqueurs structurels :
+    #   - H2 section titles : `## Phrases canon`, `## Apparitions canon …`,
+    #     `## Statbloc — … canon …`
+    #   - Construction "voie canon EiR" / "scène canon" si vraiment nécessaire
+    # Flagge toutes les autres occurrences pour relecture.
+    for m in re.finditer(r'\bcanon\w*', body, re.IGNORECASE):
+        # Skip if on a `## ` H2 header line containing 'canon' as section marker
+        line_start = body.rfind('\n', 0, m.start()) + 1
+        line_text = body[line_start:body.find('\n', m.start()) if body.find('\n', m.start()) != -1 else len(body)]
+        if line_text.lstrip().startswith('## '):
+            continue
+        ln = body[:m.start()].count('\n') + 1
+        hits.append((ln, 'CANON', m.group(0)))
+
     # VO citations
     for m in re.finditer(r'\*«[^»]{6,}»\*|\*"[^"]{6,}"\*', body):
         q = m.group(0)

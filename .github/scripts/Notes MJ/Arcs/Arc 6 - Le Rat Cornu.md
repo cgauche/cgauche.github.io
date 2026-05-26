@@ -18,7 +18,7 @@
   - **Ordo Impedimentae [Kalzbad]** (l.1287-1612) : enquête Lina Gerdt + Jonas Kalzbad + Englebrecht Offices + Stiefel's Emporium + The Sword and Flail + Pursuit + Red Shield Company + Kalzbad's spells (Animated Flames)
   - **The Great Defector [Jarmund]** (l.1613-1878) : Armund's Home + Five Shrines of Shallya + Sister Anais + Jarmund's revelations (Cipher + Bahr + Reya + Couronne Rouge + Vogel) + Dierk Vormann + Max the Racketeer
   - **Ordo Terribilis Resurgens [Bhar]** (l.1879-2175) : Chaos pigeons + Pigeon Guild + Bretonnian House + Hannes + Daemonic Wolf + Windhund Haulage + Bhar's Enhanced Zombies + Bhar's Blue Horror + Theodor + dogs
-  - **The Missing Convenor [Wallenstein]** (l.2176-2398) : Hans Pendelwert + Felix von Rosam + Blanca Emrich + Jade Sceptre Acolytes + Heaven's Lament club + Martina Graf + Galzara + Heidi + Verdra Room + Wallenstein tortured + cavern of secrets
+  - **The Missing Convenor [Wallenstein]** (l.2176-2398) : Hans Pendelwert + Felix von Rosam + Blanca Emrich + Sceptre de Jade Acolytes + Heaven's Lament club + Martina Graf + Galzara + Heidi + Verdra Room + Wallenstein tortured + cavern of secrets
   - **The Cover Up [Hasche dissection]** (l.2398-2611) : Eunice Hasche profile + Karl Zeigenalter + Gaius Stummzunge + Ungor torsos + giant rat heads + Yellow Fang reveal (incisive manquante)
   - **Mysterious Thefts [Heaume]** (l.2611-2843) : Middenpalaz (heaume) + Dr Kopernik + Collegium Library + Royal College of Music + Pity Square Sudgarten + Ranald connection + Luigi and Salvatore's + Prospect + Fifth Finger + Bors + Yellow Fang stash + Scathe the Tainted (skaven thief) + Stabb-Stabb the Rat Ogre
   - **Assassinations [skaven brumeux]** (l.2844-2965) : Clan Eshin (assassin skaven) + Corpse Inquiry (Yiva + Haludan Gerg + Ansten Krohn) + Guarding Eunice + Master Assassin Fleer Twitchkill + Shadow Cloak
@@ -318,8 +318,8 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Plots canon présents** (HR *The Missing Convenor* l.2176-2398) :
 - **Gotthard Wallenstein enlevé** [canon *Who's Got Gotthard?* l.2255+] — il est **torturé** par les Skavens (cf. peau de rat + carnet Dagmar).
-- **Hans Pendelwert** [canon l.2195] — *« Lovers Not Fighters »* — Jade Sceptre attaqué.
-- **Felix von Rosam + Blanca Emrich** [canon l.2208 + l.2227] — Senior Jade Sceptre Cultists ; tentent agression contre Elvira (homebrew). À table : enlèvent Elvira pour interroger Wallenstein.
+- **Hans Pendelwert** [canon l.2195] — *« Lovers Not Fighters »* — Sceptre de Jade attaqué.
+- **Felix von Rosam + Blanca Emrich** [canon l.2208 + l.2227] — Senior Sceptre de Jade Cultists ; tentent agression contre Elvira (homebrew). À table : enlèvent Elvira pour interroger Wallenstein.
 
 **Plots homebrew table S45 — kidnapping d'Elvira** :
 - **Elvira rentre Templar's Arms abattue**, dit qu'elle veut rentrer Reikland. Yuridika analyse : **sort chaotique (Dhar) sur Elvira** (Slaanesh ?).
@@ -340,12 +340,12 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 ### Ce que les PJ savent à la fin de S45
 - Wallenstein libéré, héritier Wittgenstein.
 - Skavens cherchent **carnet Dagmar** (Arc 4) + lien Morrslieb (3 météorites).
-- **Heaven's Lament** = club privé Jade Sceptre.
+- **Heaven's Lament** = club privé Sceptre de Jade.
 - Gardienne Verte présente Middenheim.
 
 ### MJ-only S45
-- **Wallenstein torturé canon HR** : confirme la cellule MP a tenté de pressuriser Wallenstein (rivalité MP/Jade Sceptre toujours active). Wallenstein **survit canon ch.7 *Requirements* p.106**.
-- **Felix + Blanca Jade Sceptre** : senior cultists, **survivent** Arc 6. À table : **probable que Wallenstein les liquide post-S45** pour leur trahison (Jade Sceptre interne).
+- **Wallenstein torturé canon HR** : confirme la cellule MP a tenté de pressuriser Wallenstein (rivalité MP/Sceptre de Jade toujours active). Wallenstein **survit canon ch.7 *Requirements* p.106**.
+- **Felix + Blanca Sceptre de Jade** : senior cultists, **survivent** Arc 6. À table : **probable que Wallenstein les liquide post-S45** pour leur trahison (Sceptre de Jade interne).
 - **Plan Dagmar + 3 météorites** : canon HR — Dagmar Wittgenstein avait découvert **3 météorites Morrslieb** (Arc 4 ne couvrait que 1 — Barren Hills). Lien Maliss : il **cherche les autres pour son Moonbreaker Cannon**.
 - **Carnet Dagmar** : **Filianore l'a** (elle l'a pris S24 à Grissenwald). Si la MP/Bhar comprend qu'**Anselm + Yuridika ont vu Filianore via Pathsokar**, **hook tension Arc 6+** (Bhar pourrait cibler Filianore).
 

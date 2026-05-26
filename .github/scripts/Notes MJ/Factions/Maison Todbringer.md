@@ -26,7 +26,7 @@
 
 ### Morts pré-Arc 5
 - **Maria von Richthofen** — 1ère épouse de Boris, **morte en accouchant Stefan**.
-- **Anika-Elise Nikse** — 2nde épouse de Boris, **morte « il y a quelques mois » Arc 5** = canon « strange illness ». **MJ-only : empoisonnée par Gideon (Purple Brain Pox)**. Canon **Magus du Jade Sceptre Slaaneshi** (PBT Companion ch.6).
+- **Anika-Elise Nikse** — 2nde épouse de Boris, **morte « il y a quelques mois » Arc 5** = canon « strange illness ». **MJ-only : empoisonnée par Gideon (Purple Brain Pox)**. Canon **Magus du Sceptre de Jade Slaaneshi** (PBT Companion ch.6).
 - **Mères de Heinrich + Katarina** : Ladies at Court non identifiées.
 
 ## Histoire

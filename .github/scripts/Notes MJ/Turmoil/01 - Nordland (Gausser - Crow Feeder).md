@@ -169,7 +169,7 @@
 | 2502 IC | **Mariage Anika-Elise Nikse (13 ans) — Boris Todbringer (47 ans)** — alliance Nordland-Middenheim cimentée | Companion ch.5 l.16 ; Fandom |
 | 2502-2512 IC | Décennie de préparation politique (Gausser + Walfen + Köhler + Manann + Sigmar tacite) ; Ingrid accumule de l'intel compromettante | Companion ch.5 l.20 ; Salzenmund ch.4 l.392 |
 | **2506 IC** | **Battle of Fjordlingtribe** — Gausser, Nordmarshal, ordonne un assaut maritime sur Fjordlingtribe (settlement Norscan). **L'armée nordlandaise est repoussée par les Glottkin (trio Norscan).** Gausser humilié, jure vengeance | Salzenmund ch.4 l.394 |
-| 2512 IC (pré-EiR) | PBT post-S38 table | **Mort d'Anika-Elise à 23 ans** — officiellement *"deadly illness"* ; deux théories canon Fandom : Witch Hunter sur ordre Boris OU Main Pourpre alarmés par croissance Jade Sceptre | Fandom Jade Sceptre ; PBT Companion ch.6 |
+| 2512 IC (pré-EiR) | PBT post-S38 table | **Mort d'Anika-Elise à 23 ans** — officiellement *"deadly illness"* ; deux théories canon Fandom : Witch Hunter sur ordre Boris OU Main Pourpre alarmés par croissance Sceptre de Jade | Fandom Sceptre de Jade ; PBT Companion ch.6 |
 
 ### Alliances et rivalités pré-Turmoil
 
@@ -274,7 +274,7 @@ Au moment où Ingrid se résigne à mourir sans succès, *"an agent of Karl-Hein
 | 2502 IC | (background) | **Mariage Anika-Elise (13) — Boris (47)** | Companion ch.5 l.16 ; Fandom |
 | 2502-2512 IC | (background) | Décennie de préparation politique ; Anika-Elise anime cercle Slaaneshi Lilac Grove (Flachsfrau Wood) | Companion ch.5 l.20 ; Salzenmund ch.4 l.392 ; ch.11 l.61 |
 | **2506 IC** | (background) | **Battle of Fjordlingtribe** — Gausser humilié par les Glottkin | Salzenmund ch.4 l.394 |
-| 2512 IC (pré-EiR) | PBT post-S38 table | **Mort d'Anika-Elise à 23 ans** ; cercle Lilac Grove s'effondre, **Hals Krimmen seul survivant** | Fandom Jade Sceptre ; Salzenmund ch.11 l.61 |
+| 2512 IC (pré-EiR) | PBT post-S38 table | **Mort d'Anika-Elise à 23 ans** ; cercle Lilac Grove s'effondre, **Hals Krimmen seul survivant** | Fandom Sceptre de Jade ; Salzenmund ch.11 l.61 |
 | Spring 2512 IC | EiR ch.17 l.10 | Disparition Prince Héritier Hergard ; début Turmoil | EiR ch.17 l.10 |
 | Avant EiR ch.1 | (background) | Wasmeier (déguisé) visite Klammer à Beeckerhoven, prétend représenter Gausser, oriente l'attaque sur Sky Wolf | EiR ch.1 l.258 |
 | Avant EiR ch.6 | (background) | Wasmeier brief Lord Barthelm à Altdorf (rencontres au *Black Bat*, 4-8pm) | EiR ch.6 l.115-120 |
@@ -570,7 +570,7 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
   - ch.19 *The Cult of Manann* : l.76 ("Grand Count Theodoric Gausser" + Sider "most influential Manannite")
 - **Forest of Hate ch.3** : l.144 (Grand Count Nikse pré-Turmoil ; Margravinate Forstmark reste Nikse), l.419 (Treaty of the Leaf 630 IC + Forstfast Dwarfs)
 - **Altdorf - Crown of the Empire ch.5** : l.860-864 (Lord Tyrkel von Hargenfels)
-- **Power Behind the Throne Companion** ch.6 *Jade Sceptre — A GM's Guide* — contexte général du culte Slaanesh (note : ne mentionne pas explicitement Anika-Elise comme leader)
+- **Power Behind the Throne Companion** ch.6 *Sceptre de Jade — A GM's Guide* — contexte général du culte Slaanesh (note : ne mentionne pas explicitement Anika-Elise comme leader)
 
 ### Sources web
 

@@ -72,7 +72,7 @@ Découpage de la campagne en 7 arcs narratifs, du début aux 62 sessions actuell
 - **Filianore se sacrifie au chaos S33** pour sauver Pathsokar (minotaure), corruption Tzeentch permanente, fonde la **Croix de Lilas** avec Pathsokar.
 - **Anselm rejoint la Tour de magie sous Janna Eberhauer**, **Yuridika** devient sa partenaire.
 - **Phineas démasque l'addiction Sparsam** au Délice de Ranald (chantage par Brunhilde = « Frau Kenner ») + **Mark confronté par Ar-Ulric Jarrick Valgeir S35** + **passe la Flamme d'Ulric S36** : défiguré + perd une main, devient élu d'Ulric. **Dietrich Sprintboch rejoint le groupe** S35.
-- **Elvira charme Kirsten + tombe dans le piège de Wallenstein S35** (Jade Sceptre Slaaneshi) ; **Phineas + Elvira chez Wallenstein S36** → blason Wittgenstein démasqué.
+- **Elvira charme Kirsten + tombe dans le piège de Wallenstein S35** (Sceptre de Jade Slaaneshi) ; **Phineas + Elvira chez Wallenstein S36** → blason Wittgenstein démasqué.
 - **Raid planque Wallenstein S37** (sauvetage enfants kidnappés, femme aux bijoux de jade), **Pathsokar intronisé champion + chasse Emmanuelle Schlagen** (chantée par Brunhilde sur lettres avec Ar-Ulric), retrouve les lettres.
 - **Climax S38 (Angestag)** : **Brunhilde Klaglich tuée**, **Rhéa Ehrlich libérée** (nièce de Law Lord Ehrlich, lever chantage), **Joachim Hoflich démasqué** = démon métamorphe (canon Doppelgänger / **à table Changeling = Gideon**, le même qu'à Bögenhafen), **étrangle Boris** dans sa chambre, fuit sous forme d'oiseau. **Wasmeier (Karl-Heinz)** révélé comme vrai cerveau = **Magister Magistri Main Pourpre**.
 - **Climax final S39 (Festag)** : raid demeure Wasmeier (Grafsmund) → battle-wagon → **explosion porte Sud** + **effondrement viaduc Sud par sort Wasmeier** → Elvira l'attrape au fouet → Wasmeier **tombe dans l'abîme**. **PRÉSUMÉ MORT mais canon : Opal Brooch Flight le sauve**. Refuge Drakwald lair, revient S61.
@@ -83,8 +83,8 @@ Découpage de la campagne en 7 arcs narratifs, du début aux 62 sessions actuell
 - **Wasmeier** : présumé mort mais **REVIENT en S61** au mariage impérial avec Lord Barthelm (Tzeench, boule de feu rosâtre). Donc **ENNEMI ACTIF**, en disgrâce auprès de Zuntermein.
 - **Bhar (Grand Vizier Bahr de l'Ordo Terribilis)** : chef de l'Ordo Terribilis (exécuteurs Tzeentch), repreneur de facto de la cellule post-S41 (mort Kalzbad), fuit en S43 par les égouts (trafic humain Osttor), jamais retrouvé. Actif.
 - **Démon métamorphe (= [[Gideon]] Sheru-Tar Gee'taru)** : disparu en S38 sous forme d'oiseau après avoir tenté de tuer le Graf. **Réapparaîtra Arc 7 EiR** (antagoniste central, forme « Volkmar » fake S63).
-- **[[Gotthard Wallenstein]] (= Gotthard von Wittgenstein)** : Jade Sceptre, en cavale post-S37, planque démantelée. Torturé S45 Arc 6, sort indéterminé.
-- **Anika-Elise Nikse** : 2nde épouse de Boris, **morte avant Arc 5**, canon Magus du Jade Sceptre, MJ-only empoisonnée par Gideon.
+- **[[Gotthard Wallenstein]] (= Gotthard von Wittgenstein)** : Sceptre de Jade, en cavale post-S37, planque démantelée. Torturé S45 Arc 6, sort indéterminé.
+- **Anika-Elise Nikse** : 2nde épouse de Boris, **morte avant Arc 5**, canon Magus du Sceptre de Jade, MJ-only empoisonnée par Gideon.
 - Graf Boris Todbringer + Katarina + Heinrich (fils bâtard officialisé) : alliés, dette de vie envers le groupe. **Boris meurt S63** homebrew. **Heinrich héritier de fait post-S63**.
 - Stefan Todbringer : héritier légal inapte, soigné par Pavarotti.
 - Chancelier Josef Sparsam : allié, soigné de son addiction Délice de Ranald, défend Phineas. Collaboration forcée avec Janna Eberhauer post-PBT.

@@ -125,7 +125,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 
 ### Conforme massivement
 - Carnaval 8 jours (Wellentag→Festag), Wasmeier traître = Magister Magistri, Ordo Impedimentae/Novitae/Terribilis, démon métamorphe imitant Hoflich, addiction Sparsam au Délice de Ranald, chantage Ar-Ulric/Emmanuelle, hypnose Dieter par « Charlotte », Rhéa Ehrlich otage : **tout canon**.
-- Schutzmann + offre d'affiliation post-PBT, Wallenstein/Wittgenstein Jade Sceptre, Janna Eberhauer + Tour de magie, Brunhilde Klaglich (alias Charlotte/Elise/Frau Kenner), Brunhilde tuée S38, Wasmeier fui par Opal Brooch Flight, démission Jarrick Valgeir + remplacement par Emil Valgeir : **canon strict**.
+- Schutzmann + offre d'affiliation post-PBT, Wallenstein/Wittgenstein Sceptre de Jade, Janna Eberhauer + Tour de magie, Brunhilde Klaglich (alias Charlotte/Elise/Frau Kenner), Brunhilde tuée S38, Wasmeier fui par Opal Brooch Flight, démission Jarrick Valgeir + remplacement par Emil Valgeir : **canon strict**.
 - Conséquences post-PBT (canon ch.7) : Erich Kalzbad nommé Law Lord, Reiner Ehrlich retiré, mariage Dieter-Kirsten, Emmanuelle part pour Altdorf, Boris se rétablit, Stefan toujours soigné par Pavarotti : **tout canon**.
 - Snikkit + carte du Fort d'Airain volée S34 (Templar's Arms raid canon ch.6) : **canon**.
 

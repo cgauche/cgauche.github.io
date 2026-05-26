@@ -153,7 +153,7 @@
 
 #### Cultes Chaos religieux infiltrants
 - **Crimson Skull (Khorne)** : *"secret society"* issue de la Brotherhood of the Axe (Fandom Crimson Skull) ; *"Magus = Boris Eichermann (ex-Priest of Ulric)"* (cascade fiche 02) ; **Convocation of Blood annuelle Middenheim**.
-- **Jade Sceptre (Slaanesh)** : **Anika-Elise Nikse canon-explicite leader** Middenheim (Middenheim ch.7 l.144 — cascade fiche 02) ; *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139).
+- **Sceptre de Jade (Slaanesh)** : **Anika-Elise Nikse canon-explicite leader** Middenheim (Middenheim ch.7 l.144 — cascade fiche 02) ; *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139).
 - **Cult of the Hallowed Larva (Nurgle)** : présent à Nuln, intéressé par la gemme sacrée de Nurgle (cascade fiche 03 note Nuln).
 - **Tinean Fellowship (Nurgle)** : Herr Doktor Sesselweiss (cascade fiche 02).
 - **Red Crown (Tzeentch)** : sponsor Beastmen Drakwald (cascade fiche 02).
@@ -242,7 +242,7 @@
 - **Morr fort** Stirland (Order of the Raven Knights).
 - **Manann fort** côte Nordland + Marienburg.
 - **Söll restaurationniste** Sudenland est (Auld Solland).
-- **Cultes du Chaos** : Main Pourpre infiltrée 8+ cellules ; Jade Sceptre Middenheim ; Crimson Skull Brotherhood of the Axe ; Tinean Fellowship ; Red Crown Drakwald.
+- **Cultes du Chaos** : Main Pourpre infiltrée 8+ cellules ; Sceptre de Jade Middenheim ; Crimson Skull Brotherhood of the Axe ; Tinean Fellowship ; Red Crown Drakwald.
 
 ---
 
@@ -388,7 +388,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 - **Sigmar dominant Empire-wide** institutionnellement.
 - **Ulric maintenu** Middenheim + nord.
 - **Cultes folkloriques** continuité (Taal, Rhya, Söll, Morr, Manann).
-- **Cultes Chaos** partiellement démasqués (Main Pourpre) ; **Crimson Skull, Jade Sceptre, Tinean Fellowship non démasqués canon**.
+- **Cultes Chaos** partiellement démasqués (Main Pourpre) ; **Crimson Skull, Sceptre de Jade, Tinean Fellowship non démasqués canon**.
 
 ### Cellules Main Pourpre religieuses post-Turmoil
 - **Démasquage Empire-wide** via dossier Chambre Noire (cascade fiches 09 + 11).
@@ -424,7 +424,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 | **Order of the Raven Knights** | Morr Templars Siegfriedhof, anti-Undead | (continuité) ; renforcés politiquement | Continuité (Fandom Knights of the Raven) |
 | **Wave Lord Otto Sider** | High Priest Manann Salzenmund, Conspirators' Congress | **Pivot Second Fleet Imperial Navy post-Turmoil** ; *"most influential Manannite in the Empire"* | Vivant (cascade fiche 01 ; Sea of Claws ch.19 l.76) |
 | **High Priest Erich Granholm** | Cult of Ulric Salzenmund, *"will side with whomever promises to restore Nordland's honour"* | (continuité) ; allié Gausser post-Turmoil (cascade fiche 01) | Vivant (cascade fiche 01) |
-| **Anika-Elise Nikse (Jade Sceptre Slaanesh)** | Animatrice cercle Slaaneshi Lilac Grove Salzenmund + leader Jade Sceptre Middenheim | **Morte 2512 IC pré-Turmoil** (cascades fiches 01 + 02) | Morte (cascade fiche 02) |
+| **Anika-Elise Nikse (Sceptre de Jade Slaanesh)** | Animatrice cercle Slaaneshi Lilac Grove Salzenmund + leader Sceptre de Jade Middenheim | **Morte 2512 IC pré-Turmoil** (cascades fiches 01 + 02) | Morte (cascade fiche 02) |
 | **Crimson Skull (Khorne)** | Infiltre Brotherhood of the Axe Middenheim | (continuité — non démasqué canon) | Continuité (Fandom Crimson Skull) |
 | **Cultistes Main Pourpre déguisés Reiksguard** | Infiltrent Volkshalle climax ch.13 | **Morts climax** (PJ + Volkmar les éliminent) | Morts canon (EiR ch.13 l.389-401) |
 
@@ -443,7 +443,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - **Cult of Ulric Middenheim** = épicentre renaissance ulricaine.
   - **Emil Valgeir + Fils d'Ulric** lèvement du ban.
   - **Brotherhood of the Axe infiltrée Crimson Skull** via Claus Liebnitz.
-  - **Jade Sceptre Slaanesh** Anika-Elise.
+  - **Sceptre de Jade Slaanesh** Anika-Elise.
   - **Conspirators' Congress (Stoltz Sigmar Middenheim)**.
 
 - **Cascade depuis [[Turmoil/03 - Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer)]]** :
@@ -523,7 +523,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 - **(canon + déduction)** **4e Arch Lector non nommé** (poste North ou West-cumulé) — Characters peuvent rencontrer le nom canon EiR non identifié.
 - **(canon + déduction)** **Sigmarian Heresy 3 positions** : Characters peuvent infiltrer cercles Ulricans extrêmes pour comprendre la doctrine.
 - **(canon + déduction)** **Cellules régionales Main Pourpre non démasquées** (Nuln, Hochland, Stirland) — hook investigation post-Turmoil.
-- **(canon + déduction)** **Anika-Elise legacy Jade Sceptre Middenheim** (cascade fiche 02) — Gotthard von Wittgenstein successeur cult.
+- **(canon + déduction)** **Anika-Elise legacy Sceptre de Jade Middenheim** (cascade fiche 02) — Gotthard von Wittgenstein successeur cult.
 - **(canon + déduction)** **Fils d'Ulric post-Turmoil** : umbrella continue ; possible évolution radicale ou implosion interne.
 - **(canon + déduction)** **Tension Volkmar (hardline) vs Stolz (modéré)** post-Turmoil : Volkmar nouveau Grand Theogonist, Stolz toujours papable — possible rivalité interne Sigmar.
 

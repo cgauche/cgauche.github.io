@@ -20,7 +20,7 @@
   - `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/12 - APPENDIX II Doppelgängers.md` (référence créature canon — **inflexion table : remplacé par Gideon / Changeling**, cf. PBT Companion ch.10)
   - `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/13 - APPENDIX III Hypnotism.md` (mécanique hypnose Dieter)
   - `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/15 - Appendix IV- Master Attractions Calendar.md` (calendrier maître par jour)
-  - `Source/Power Behind the Throne Companion/06 - The Jade Sceptre- A Gamemaster's Guide.md` (Wallenstein + Jade Sceptre étoffé)
+  - `Source/Power Behind the Throne Companion/06 - The Sceptre de Jade- A Gamemaster's Guide.md` (Wallenstein + Sceptre de Jade étoffé)
   - `Source/Power Behind the Throne Companion/04 - The Graf's Garden Party.md` (Garden Party joué scène par scène — S34)
   - `Source/Power Behind the Throne Companion/10 - The Changeling.md` (alternative Doppelgänger = **inflexion table** = Gideon)
   - `Source/Power Behind the Throne Companion/05 - Cameo Adventures.md` (rencontres mineures du carnaval — Bamber's Singing Frogs)
@@ -94,7 +94,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Templar's Arms** : auberge canon (p.22 + p.89). Tenancière **Ulrike Bauerlein** (canon). C'est **l'auberge attaquée par Snikkit S34** (cf. *Chaos Strikes by Night*). Les PJ y restent tout l'Arc 5.
 - **Wasmeier (Magister Magistri)** : invisible pour les PJ S30. Il observe à distance via ses sources (Klaglich, Kalzbad). Il n'a pas ordonné l'embuscade — elle est désobéissante.
 - **Joachim Hoflich (canon vrai) est déjà mort** depuis ~2 mois (canon ch.3 *The Evil Plot*). C'est le **Doppelgänger / Changeling** qui est en place. **À table : c'est [[Gideon]] (Sheru-Tar Gee'taru)** lui-même — le même démon métamorphe Tzeentch qu'à Bögenhafen S12, retrouvé S38 (cf. PBT Companion ch.10 *The Changeling*). Gideon n'agit pas encore activement contre les PJ ; il est en hibernation diplomatique dans le rôle Hoflich, suivant les ordres de Wasmeier.
-- **Anika-Elise Nikse** (2e femme du Graf, morte « il y a quelques mois ») = canon **morte de Purple Brain Pox / Brain Fever** (signature Gideon — cf. EiS ch.9 + EiR). À table : **probable assassinat par Gideon** pour briser le Graf et faciliter le plan Wasmeier. Liée au [[Gideon|Cult of the Jade Sceptre]] canon PBT Companion ch.6 (elle était **Magus du Jade Sceptre** — la patrone de Wallenstein/Wittgenstein dans le canon). À table : empoisonnement par Gideon avec un objectif Tzeentch unifié.
+- **Anika-Elise Nikse** (2e femme du Graf, morte « il y a quelques mois ») = canon **morte de Purple Brain Pox / Brain Fever** (signature Gideon — cf. EiS ch.9 + EiR). À table : **probable assassinat par Gideon** pour briser le Graf et faciliter le plan Wasmeier. Liée au [[Gideon|Cult of the Sceptre de Jade]] canon PBT Companion ch.6 (elle était **Magus du Sceptre de Jade** — la patrone de Wallenstein/Wittgenstein dans le canon). À table : empoisonnement par Gideon avec un objectif Tzeentch unifié.
 
 ---
 
@@ -291,7 +291,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Parade des éléphants au Square** [canon ch.5 *Barnumble's Incredible Elephant Show* p.69] — Le groupe y assiste. **Dieter présent** (canon attending list). Phineas/Elvira/Anselm lui parlent de la taxe — **Dieter récite des arguments en boucle sans réfléchir** (canon ch.6 *Deadly Secret: Hypnotised!* p.115 + canon Dieter NPC card phrases d'hypnose : « I think the Temple Tax is a good idea », « Everyone knows the Wizards have chests of gold », etc.). **Yuridika songe à l'hypnose** (canon : c'est l'indice clé, à débloquer pour libérer Dieter).
 - **Matchs de Snotball / Middenball Quarter-Finals** [canon ch.5 p.68-69] — Le groupe y assiste. **Luigi Pavarotti** présent, **ivre**, beugle sur l'équipe pariée.
 - **Le piège Gotthard Wallenstein sur Elvira** [canon ch.6 *Komission Convenor* p.86 + Companion *Cult of Ulric* + ch.6 *Wallenstein*] — Elvira parie seule aux Snotball. **Gotthard Wallenstein la rencontre par hasard**, **la charme**, dit croire à son culte et ses rêves. Propose le **financement d'un temple à Rhya à Middenheim**. Rdv demain matin chez lui, **seul à seul**.
-- **Elvira réalise après le départ qu'elle a pactisé avec un cultiste**. **Mort de honte**. Mais a accepté le rdv chez ce pervers (qui est canon Slaaneshi Jade Sceptre, MJ-only).
+- **Elvira réalise après le départ qu'elle a pactisé avec un cultiste**. **Mort de honte**. Mais a accepté le rdv chez ce pervers (qui est canon Slaaneshi Sceptre de Jade, MJ-only).
 
 ### Ce que les PJ savent à la fin de S35
 - **Schutzmann allié confirmé**.
@@ -300,12 +300,12 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Dietrich rejoint le groupe** (Shallya), tempérament cynique.
 - **Dieter est hypnotisé** (déduction Yuridika).
 - **Emmanuelle a peur d'Elvira** (sait qu'elle sait).
-- **Gotthard Wallenstein veut Elvira seule chez lui** = piège (Slaaneshi/Jade Sceptre, MJ-only).
+- **Gotthard Wallenstein veut Elvira seule chez lui** = piège (Slaaneshi/Sceptre de Jade, MJ-only).
 
 ### MJ-only S35
 - **Convocation d'Ar-Ulric canon Companion *Cult of Ulric*** : Jarrick Valgeir confronte Mark sur les meurtres de Bögenhafen. **Le jugement par la Flamme** se fait le lendemain (S36 table).
 - **Dieter hypnotisé canon ch.3 *Evil Plot*** : « **Charlotte** » (= Brunhilde) il y a 2 mois (Showboat, restaurant Great Park). Yuridika détecte l'hypnose (canon Test).
-- **Wallenstein piège Elvira** : canon ch.6 *Komission Convenor* « *clearly only interested in what he can get out of any relationship... money, power, or pleasure* ». Le rdv chez lui est un piège **double** : il veut sexualiser Elvira (Slaanesh) **et** la recruter au Jade Sceptre. Elvira l'ignore.
+- **Wallenstein piège Elvira** : canon ch.6 *Komission Convenor* « *clearly only interested in what he can get out of any relationship... money, power, or pleasure* ». Le rdv chez lui est un piège **double** : il veut sexualiser Elvira (Slaanesh) **et** la recruter au Sceptre de Jade. Elvira l'ignore.
 - **Bébé mutant** = canon EiR édit impérial mutants (les mutants ne peuvent plus être tués/maltraités, plus de bébés mutants sont laissés à des prêtres). Plot dormant Arc 7.
 - **Schutzmann debrief canon ch.6** : « *Schutzmann will be more open, expressing concern about the political situation while emphasising his determination to remain above politics for the sake of his military duty* ». À table : il propose dès maintenant l'enquête plus large sur la Main Pourpre.
 - **L'Ar-Ulric Jarrick Valgeir** confronte Mark canon : à table = Jarrick lui-même (canon ch.4 *Religion* + Companion ch.7). **Pas sous l'influence d'un démon**, sincèrement sigmaro-phobe et stricte. Le confronter pour les meurtres de Bögenhafen = sa réputation de **vrai juge moral**. **Il démissionnera après PBT** (canon ch.7 *Consequences of Carnival Week*) — remplacé par **Emil Valgeir** son frère aîné, plus radical encore.
@@ -317,8 +317,8 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 
 **Cadre** : Cinquième jour. **Entrevue chez Wallenstein**. Heraldic Arts au Square 5-7pm. Snotball Quarter-Finals. Opera Vessille. **Raid précurseur de la planque Wallenstein** dans l'Altquartier.
 
-**Plots canon présents** (PBT ch.5 J5 + ch.6 + Companion *Jade Sceptre*) :
-- **Elvira + Phineas chez Wallenstein** [canon ch.6 *Komission Convenor*] — Elvira a demandé à Phineas de l'accompagner. **Wallenstein agacé d'avoir affaire à 2** (canon : il voulait Elvira seule). **Beaucoup plus méfiant**. Refuse toute collation. Dit qu'Elvira **doit recruter de jeunes femmes pour lui** si elle veut son aide (= **recrutement Jade Sceptre déguisé**). **Phineas remarque le blason sur sa bague** : armoiries de la **maison Wittgenstein** (canon ch.6 p.86 : *Wittgenstein's coat of arms on his ring*). **Le dernier fils des Wittgenstein, donc** (échos Arc 4 château Wittgenstein S27-S28).
+**Plots canon présents** (PBT ch.5 J5 + ch.6 + Companion *Sceptre de Jade*) :
+- **Elvira + Phineas chez Wallenstein** [canon ch.6 *Komission Convenor*] — Elvira a demandé à Phineas de l'accompagner. **Wallenstein agacé d'avoir affaire à 2** (canon : il voulait Elvira seule). **Beaucoup plus méfiant**. Refuse toute collation. Dit qu'Elvira **doit recruter de jeunes femmes pour lui** si elle veut son aide (= **recrutement Sceptre de Jade déguisé**). **Phineas remarque le blason sur sa bague** : armoiries de la **maison Wittgenstein** (canon ch.6 p.86 : *Wittgenstein's coat of arms on his ring*). **Le dernier fils des Wittgenstein, donc** (échos Arc 4 château Wittgenstein S27-S28).
 - **Exposition héraldique au Square** [canon ch.5 *Exhibition of Heraldic Arts* p.69] — Le groupe y va pour se changer les idées. **Retrouve Wallenstein** (canon attending list). **Sparsam aussi présent** — sympathique avec Phineas, **Phineas le rassure** sur l'approvisionnement alternatif (Yuridika). Phineas voit aussi **Joachim Hoflich et Karl-Heinz Wasmeier** (canon attending list). Décide de leur faire confiance (homebrew choix table) : leur **parle du souhait d'abroger la taxe**. **Hoflich indifférent. Wasmeier approuve l'idée** (canon : Wasmeier joue le rôle public du Law Lord modéré, anti-taxe).
 - **Dietrich accuse le groupe** [homebrew] — Vient les voir avec des nouvelles : il **accuse le groupe** d'avoir mis des enfants en danger. Référence aux **garnements** que Yuridika et Anselm ont mis sur la piste de la femme blonde (S34). Certains garnements **ne sont pas revenus**. Dietrich insiste qu'on les retrouve.
 - **Recherche à Ostwald** [canon ch.4 *Districts* p.36 — district Ostwald + ch.7 *Pawns lair* préfiguration] — Bas-quartier dangereux. **Guet-apens dans une maisonnette abandonnée**. Une **femme tente de blesser Phineas**, **assomée par Dietrich** (coup de poing bien placé). Mark détruit son adversaire direct. **Anselm sent un vent de magie**, suit.
@@ -341,7 +341,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Les pigeons** : signature Wasmeier (canon ch.7 *Brunhilde's Chamber* p.99 : « *aviary containing d10 carrier pigeons trained to go to Wasmeier* »).
 - **L'échange du 7e jour à 20h** : canon ch.7 *Brunhilde's plan*. **C'est l'instant climax canon** où les PJ doivent intercepter pour libérer Rhéa.
 - **Phineas confiance accidentelle à Wasmeier** : Phineas vient de confier l'objectif (abroger la taxe) à l'ennemi numéro un. Wasmeier réfléchit immédiatement à un plan pour les éliminer (canon : *Wasmeier... will secretly hinder them until he can silence all of them at once*). **Hook MAJEUR** : Wasmeier déclenche les opérations contre les PJ S37+ (raids, embuscades — à improviser table).
-- **Wallenstein** = canon Jade Sceptre Magus chef (cf. Companion ch.6 *Jade Sceptre - A GM's Guide*). Sa **patronne morte** = **Anika-Elise Nikse** (canon : la 2e femme de Boris, morte récemment, **Cult Magus du Jade Sceptre**). À table : ça lie Wallenstein à l'assassinat d'Anika-Elise par Gideon S30+.
+- **Wallenstein** = canon Sceptre de Jade Magus chef (cf. Companion ch.6 *Sceptre de Jade - A GM's Guide*). Sa **patronne morte** = **Anika-Elise Nikse** (canon : la 2e femme de Boris, morte récemment, **Cult Magus du Sceptre de Jade**). À table : ça lie Wallenstein à l'assassinat d'Anika-Elise par Gideon S30+.
 - **Mark + Flamme d'Ulric (résolution S36)** : Le rite consiste à demander à Ulric de juger. **Le succès marque Mark comme élu d'Ulric** — il devient une figure d'Ulric à Middenheim. **Anchor narrative** : Mark Arc 6 (S42 pèlerinage) + Arc 7 (mariage impérial avec Ar-Ulric Emil).
 
 ---
@@ -351,7 +351,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 **Cadre** : Sixième jour. Snotball Semi-Finals au Bernabau 2-4pm + 5-7pm. Illuminations 9-11pm au Great Park. **Audience champion Pathsokar au Palais**. **Chasse Emmanuelle**. **Raid sur la planque Wallenstein**.
 
 **Plots canon présents** (PBT ch.6 + ch.7 *Premature Annihilation*) :
-- **Recherche enfants perdus** [continuité S36] — Bordels avec enfants signalés. Anselm enquête, **prend une dose de Délice de Ranald** (involontaire ? ou choisie ? — homebrew). **Enfant interviewé** : confirme que les garnements ont été **rachetés pour une orgie obscure** par une **femme aux bijoux de jade** — lien direct au **Jade Sceptre de Wallenstein** (canon Companion *Jade Sceptre*).
+- **Recherche enfants perdus** [continuité S36] — Bordels avec enfants signalés. Anselm enquête, **prend une dose de Délice de Ranald** (involontaire ? ou choisie ? — homebrew). **Enfant interviewé** : confirme que les garnements ont été **rachetés pour une orgie obscure** par une **femme aux bijoux de jade** — lien direct au **Sceptre de Jade de Wallenstein** (canon Companion *Sceptre de Jade*).
 - **Plan d'attaque sur la planque Wallenstein** [homebrew, fonction ch.7 *Premature Annihilation* p.100] — Pathsokar dit avoir « **des amis** » qui peuvent aider. (MJ-only : c'est Filianore + ses Croix de Lilas, à confirmer ; ou c'est Schutzmann en sous-main ; ou les nains de Grissenwald — à table inventer.)
 - **Lancement d'une rumeur** [homebrew/canon ch.6 *Encountering NPCs - Wizards* + ch.4 *Religion*] — Elvira lance une rumeur sur une **prochaine taxe pour les elfes** afin de gagner leur soutien sur l'abrogation. Stratégie politique.
 - **Pathsokar convoqué au palais — Intronisation officielle champion** [canon ch.5 p.74 *Audience with the Graf*] — Cérémonie avec **seigneurs de loi (Hoflich + Wasmeier + Ehrlich indirectement)**, généraux (Midden Marshals Schutzmann + Schwermutt + von Genscher), et le **fils Stefan** (encore là par tradition mais peu lucide canon). Le Graf est **présent mais en forme dégradée** (canon : « *swathed in blankets, particularly bad Malaise -30 to all Tests* »). Sa favorite **Emmanuelle Schlagen a quitté le palais** — Graf demande à Pathsokar de la retrouver. **Pathsokar refuse l'audience avec le Chancelier Sparsam** quand il sollicite (canon : Sparsam **rarement disponible**, MJ-only il est en pleine crise d'abstinence + chantage).
@@ -366,7 +366,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Pathsokar officiellement champion**, à servir le Graf.
 - **Sparsam refuse audience** (anormal).
 - **Emmanuelle blackmailée par une femme** ayant volé ses lettres avec Ar-Ulric.
-- **Cellule Jade Sceptre de Wallenstein démantelée** (enfants sauvés).
+- **Cellule Sceptre de Jade de Wallenstein démantelée** (enfants sauvés).
 - **Rhéa Ehrlich, nièce d'un Law Lord, est prisonnière** — son oncle est Reiner Ehrlich.
 - **Brunhilde + 2-3 mercenaires + un mage** = la cellule Wasmeier.
 
@@ -489,7 +489,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Dietrich** = prêtre Shallya, rejoint le groupe.
 - **Schutzmann** allié + offre d'affiliation.
 - **Heinrich Todbringer** = allié futur (via Nastassia, à révéler Arc 6).
-- **Anika-Elise** (Cult Magus Jade Sceptre) déjà morte (Gideon).
+- **Anika-Elise** (Cult Magus Sceptre de Jade) déjà morte (Gideon).
 - **Wallenstein/Wittgenstein** = encore vivant, planque démantelée, mais lui-même non capturé.
 
 ---
@@ -573,7 +573,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/13 - APPENDIX III Hypnotism.md` (mécanique hypnose Dieter)
 - `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/15 - Appendix IV- Master Attractions Calendar.md` (qui est où quand)
 - `Source/Power Behind the Throne Companion/04 - The Graf's Garden Party.md` (Garden Party joué scène par scène)
-- `Source/Power Behind the Throne Companion/06 - The Jade Sceptre- A Gamemaster's Guide.md` (Wallenstein/Wittgenstein + Jade Sceptre étoffé + Anika-Elise Magus)
+- `Source/Power Behind the Throne Companion/06 - The Sceptre de Jade- A Gamemaster's Guide.md` (Wallenstein/Wittgenstein + Sceptre de Jade étoffé + Anika-Elise Magus)
 - `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Ar-Ulric Jarrick + Emil Valgeir + Fils d'Ulric + Flame of Ulric trial)
 - `Source/Power Behind the Throne Companion/08 - Some very important people.md` (Heinrich Todbringer agents + Nastassia)
 - `Source/Power Behind the Throne Companion/10 - The Changeling.md` (alternative Doppelgänger = Gideon table)
@@ -584,4 +584,4 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Arcs adjacents** : [[Arc 4 - Mort sur le Reik]] (S22-29) → **Arc 5 (S30-39)** → [[Arc 6 - Le Rat Cornu (à venir)|Arc 6]] (S40-55, skavens + cellule MP Middenheim suite)
 - **Lieux** : [[Middenheim]] (centre tout Arc 5), [[Altdorf]] (Emmanuelle s'y rend post-PBT)
 - **PNJ-clé** : [[Boris Todbringer]], [[Karl-Heinz Wasmeier]], [[Joachim Hoflich]], [[Reiner Ehrlich]], [[Josef Sparsam]], [[Ulrich Schutzmann]], [[Gotthard Wallenstein]], [[Jarrick Valgeir]], [[Emil Valgeir]], [[Katarina Todbringer]], [[Heinrich Todbringer]], [[Emmanuelle Schlagen]], [[Dieter Schmiedehammer]], [[Gideon]], [[Filianore]]
-- **Factions** : [[Main Pourpre]] (cellule Middenheim Wasmeier-Kalzbad-Jarmund), Jade Sceptre (Wallenstein), Cult d'Ulric (Jarrick → Emil), Fils d'Ulric, Skavens (Snikkit, lien Maliss Arc 6), Chevaliers du Loup Blanc
+- **Factions** : [[Main Pourpre]] (cellule Middenheim Wasmeier-Kalzbad-Jarmund), Sceptre de Jade (Wallenstein), Cult d'Ulric (Jarrick → Emil), Fils d'Ulric, Skavens (Snikkit, lien Maliss Arc 6), Chevaliers du Loup Blanc

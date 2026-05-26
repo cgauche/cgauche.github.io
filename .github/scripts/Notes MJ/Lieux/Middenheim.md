@@ -79,7 +79,7 @@ Accès :
 - **Stefan Todbringer** — Fils légitime de Boris (mère Maria von Richthofen). **Handicapé congénital**. Seul héritier légal. Soigné par **Luigi Pavarotti** (hypnose).
 - **Heinrich Todbringer** — Fils bâtard officialisé. À **Wolfenburg (Ostland)** mission diplomatique Arc 5. Reviendra dirigeable Arc 6 S55. Agente **Nastassia** à Middenheim. **Pas d'autorité directe en raison de sa naissance, mais excellent diplomate**.
 - **Katarina Todbringer** « la Princesse » — Fille bâtarde officialisée, mère = autre Lady at Court. **Pas héritière**. Patronne d'œuvres caritatives (orphelinat de Shallya). **Sortie de torpeur post-S39**, plus active.
-- **Anika-Elise Nikse** — Seconde épouse. **Morte avant Arc 5** (canon : « *a few months ago*, *strange illness* »). **MJ-only** : empoisonnée par Gideon (Purple Brain Pox). **Cult Magus du Jade Sceptre Slaaneshi** (canon PBT Companion ch.6) — donc Wallenstein était son protégé.
+- **Anika-Elise Nikse** — Seconde épouse. **Morte avant Arc 5** (canon : « *a few months ago*, *strange illness* »). **MJ-only** : empoisonnée par Gideon (Purple Brain Pox). **Cult Magus du Sceptre de Jade Slaaneshi** (canon PBT Companion ch.6) — donc Wallenstein était son protégé.
 
 ### Le gouvernement (Powers That Be)
 *(canon ch.2 p.31)*
@@ -152,7 +152,7 @@ Major events Arc 5 :
 
 ### Illégales / occultes
 - **[[Main Pourpre]]** — **Cellule Middenheim** : Wasmeier (Magister Magistri jusqu'à S39), **Erich Kalzbad** (Magister Impedimentae, mort S41), **Gottfried Jarmund** (Magister Novitae, capturé S42), **Bhar** (Grand Vizier Ordo Terribilis, repreneur de facto post-S41, fui S43). Cellule **partiellement démantelée S39** mais **non détruite** ; nettoyage Arc 6.
-- **Jade Sceptre** (Slaaneshi) — **Gotthard Wallenstein/Wittgenstein** chef-de-fait. Patrone morte = Anika-Elise Nikse. Recrute parmi les jeunes nobles + riches oisifs. Planque Ostwald démantelée S37. Wallenstein toujours libre.
+- **Sceptre de Jade** (Slaaneshi) — **Gotthard Wallenstein/Wittgenstein** chef-de-fait. Patrone morte = Anika-Elise Nikse. Recrute parmi les jeunes nobles + riches oisifs. Planque Ostwald démantelée S37. Wallenstein toujours libre.
 - **Yellow Fang / Croc Jaune** (Skaven cult) — Infiltré Rat Catchers, Sewer Jacks, Collegium Theologica. Cellule **non démantelée** Arc 5 ; ennemi clé Arc 6.
 - **Fils d'Ulric** — Extrémistes Ulric + séparatistes Middenland + bigots. **Ar-Ulric Emil Valgeir** post-PBT est dans leur sphère.
 - **Underworld** — 2 gangs principaux : **Ostwald gang** + **Altquartier gang**. **Low Kings** = chefs de gangs. **Bleydane** (Altquartier petit roi, ennemi d'Elvira Arc 6) et **L'Homme** (Ostwald petit roi, ennemi prioritaire Arc 6).
@@ -214,7 +214,7 @@ Major events Arc 5 :
 - **Arcs** : [[Arc 5 - Power Behind the Throne]] (S30-39, centre), [[Arc 6 - Le Rat Cornu (à venir)|Arc 6]] (S40-55, skavens + nettoyage MP), Arc 7 EiR (S56+, allié Boris + mariage Katarina + attaque manoir S63).
 - **PNJ-clé** : [[Boris Todbringer]], [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Ulrich Schutzmann]], [[Karl-Heinz Wasmeier]], [[Josef Sparsam]], [[Jarrick Valgeir]], [[Emil Valgeir]], [[Gotthard Wallenstein]], [[Janna Eberhauer]], [[Gideon]], [[Filianore]] (Croix de Lilas).
 - **Lieux liés** : [[Altdorf]] (rival politique), [[Wittgendorf]] (Wallenstein origine), Wolfenburg (Heinrich en mission), Drakwald (Wasmeier lair post-S39).
-- **Factions** : [[Main Pourpre]] (cellule Wasmeier), Cult d'Ulric (Jarrick → Emil), Chevaliers du Loup Blanc, Jade Sceptre (Wallenstein), Yellow Fang (skaven), Fils d'Ulric, Croix de Lilas (homebrew Filianore-Pathsokar).
+- **Factions** : [[Main Pourpre]] (cellule Wasmeier), Cult d'Ulric (Jarrick → Emil), Chevaliers du Loup Blanc, Sceptre de Jade (Wallenstein), Yellow Fang (skaven), Fils d'Ulric, Croix de Lilas (homebrew Filianore-Pathsokar).
 
 ## Liens externes
 - [Middenheim — Lexicanum](https://whfb.lexicanum.com/wiki/Middenheim)

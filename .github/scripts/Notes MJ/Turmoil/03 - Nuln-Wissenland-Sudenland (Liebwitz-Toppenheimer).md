@@ -536,7 +536,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
   - l.165-173 — strictures (sun cleansing, righteous fury, never tolerate impurity, never compromise)
   - l.186 — *"Söll's Faithful agitate for Solland independence"*
 
-- **PBT Companion ch.6** (cf. fiche 02) — contexte Jade Sceptre, Wallenstein
+- **PBT Companion ch.6** (cf. fiche 02) — contexte Sceptre de Jade, Wallenstein
 
 ### Sources web
 

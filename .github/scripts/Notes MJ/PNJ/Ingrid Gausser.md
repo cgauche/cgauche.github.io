@@ -16,7 +16,7 @@
 - **Détient et orchestre l'usage** des preuves compromettantes via Wasmeier.
 
 ## Opération clé
-- **Possède les preuves** que **Anika-Elise Nikse** était cultiste du Chaos — **Magus du Jade Sceptre** (culte Slaaneshi à Middenheim, cf. fiche [[Gideon]]). *(Fiche dédiée Anika-Elise pas encore créée.)*
+- **Possède les preuves** que **Anika-Elise Nikse** était cultiste du Chaos — **Magus du Sceptre de Jade** (culte Slaaneshi à Middenheim, cf. fiche [[Gideon]]). *(Fiche dédiée Anika-Elise pas encore créée.)*
 - **Source des preuves** : **[[Karl-Heinz Wasmeier]]** qui a personnellement connu Anika-Elise dans sa carrière de Magister à Middenheim.
 - **Distribution** : Ingrid filtre les preuves à **agents Gausser** qui les transmettent **discrètement à Holzkrug** et autres power brokers post-EiR.
 
@@ -40,7 +40,7 @@
 
 ## Hooks pour les PJ
 - **Levier majeur** : si les PJ exposent son lien avec Wasmeier, ils peuvent **forcer Theoderic à abandonner Wasmeier** sous peine de scandale familial.
-- **Source d'information** : ce qu'Ingrid sait sur les cultes pourrait être pratique (Magus du Jade Sceptre, structure MP, etc.).
+- **Source d'information** : ce qu'Ingrid sait sur les cultes pourrait être pratique (Magus du Sceptre de Jade, structure MP, etc.).
 - **Ennemie résolue** si offensée : Ingrid n'oublie pas et a 10 ans d'expérience d'opérations politiques.
 
 ## Liens
