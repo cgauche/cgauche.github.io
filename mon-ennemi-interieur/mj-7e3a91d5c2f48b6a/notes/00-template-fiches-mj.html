@@ -300,7 +300,7 @@ et le MJ a souvent besoin de retrouver leur contexte historique.</p>
 Paragraphe physique + indices sociaux + comportement. Sourcer la
 description physique.
 
-## Phrases canon
+## Phrases
 
 - *« Citation littérale du livre »* — contexte + ref `BOOK ch.N l.NNN`.
 - *(2-4 phrases dans des registres différents si possible)*
@@ -338,7 +338,7 @@ Chaque lien sourcé.
 - **Confrontation** `BOOK ref` : modes de résolution.
 - **Variantes** : situations alternatives sourcées.
 
-## Apparitions canon Arc N
+## Apparitions Arc N
 
 - SXX — Action ; éventuelle citation. `BOOK ref`.
 
@@ -592,7 +592,7 @@ conflit canon <strong>WFRP4 vs WFRP2/3</strong> → WFRP4 fait foi.</p>
 
 ## &lt;2-3 sections additionnelles selon type&gt;
 
-[Au moins 5-10 bullets sourcés canon.]
+[Au moins 5-10 bullets sourcés.]
 
 ## Liens externes
 
@@ -640,7 +640,7 @@ grep -oE 'class="entity-pop"[^&gt;]*data-title="[^"]+"' "_site/pnj/&lt;fiche&gt;
 # (lancer python _site_build.py ; les refs cassées apparaissent comme &lt;span&gt; au lieu de &lt;a&gt;)
 grep -E 'class="canon-ref"[^&gt;]*&gt;(?!&lt;sup&gt;)' "_site/pnj/&lt;fiche&gt;.html"
 </code></pre>
-<h2>Quand le contenu canon est cassé</h2>
+<h2>Quand le contenu des sources est cassé</h2>
 <p>Le <code>.md</code> issu de la conversion PDF peut être désordonné (paragraphes orphelins) ou contenir des tables écrabouillées en <code>&lt;br&gt;</code>. Le script <code>_convert_pdfs.py</code> fait une passe <code>_splice_clean_tables</code> pour reconstituer les tables, mais ne réorganise pas les paragraphes.</p>
 <p>Pour les refs qui tombent sur du contenu cassé :</p>
 <ol>
