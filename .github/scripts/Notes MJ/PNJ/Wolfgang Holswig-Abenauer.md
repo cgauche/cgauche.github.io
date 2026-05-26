@@ -49,7 +49,7 @@ militaire, il hausse les épaules et invoque la patience qu'on lui a enseignée
 - **Oncle et empereur régnant** : Karl-Franz Holswig-Schliestein — Wolfgang s'adresse publiquement à son « Seigneur Oncle » lorsqu'il salue le retour de Ghal Maraz à la Volkshalle ch.13, confirmant que la lignée passe par la branche cadette Holswig-Abenauer et non par filiation directe `EiR ch.13 l.211`. Il sait son oncle malade et qu'un sosie occupe les apparitions publiques, mais croit aux explications fournies par son entourage `EiR Intro l.729`.
 - **Cousin légitime, héritier d'Altdorf** : Prince Luitpold — fils légitimé de Karl-Franz et Maria-Luise von Walfen, héritier d'Altdorf mais pas Grand-Prince en attente puisque Wolfgang hérite déjà du Reikland ; Luitpold a les mains tremblantes depuis Drachenfels, demeure naïf et indécis malgré ses tuteurs `Altdorf ch.2 l.25+30`.
 - **« Belle-tante » officieuse** : Maria-Luise von Walfen — concubine de Karl-Franz, mère du Prince Luitpold et d'Alia ; aucune affection entre eux. Wolfgang est ambitieux, brillant, et avide d'hériter ; quand il le fera, Maria-Luise et ses enfants deviendront superflus. Maria-Luise refuse pourtant de le tenir pour traître, même s'il figure dans ses cauchemars `EiR ch.13 l.229`.
-- **Fiancée** : Katarina Todbringer — proposée comme épouse par Volkmar à Shining Rock comme acte de réconciliation Sigmar/Ulric (ch.2) ; Katarina refuse d'abord, accepte après l'attaque des Bearers of the Blood (ch.3) ; mariage prévu à la Grande Cathédrale d'Altdorf, interrompu par la tentative d'assassinat ch.6 `EiR Intro l.48+54` `EiR ch.6 l.46`.
+- **Fiancée** : Katarina Todbringer — proposée comme épouse par Volkmar à Shining Rock comme acte de réconciliation Sigmar/Ulric (ch.2) ; Katarina refuse d'abord, accepte après l'attaque des Porteurs de Sang (ch.3) ; mariage prévu à la Grande Cathédrale d'Altdorf, interrompu par la tentative d'assassinat ch.6 `EiR Intro l.48+54` `EiR ch.6 l.46`.
 - **Manipulateur en chef qu'il croit loyal** : Yann Zuntermein — le Prince Héritier le tient pour un serviteur loyal de l'Empire `EiR Intro l.732`. Zuntermein orchestre en réalité la maladie de Karl-Franz et l'élévation de Wolfgang au rang d'empereur sympathique à la Main Pourpre `EiR Intro l.687+206`.
 - **Tuteurs cosmopolites — au-dessus de tout reproche selon lui** : les Neuf Yeux — neuf érudits recrutés depuis tout l'Empire il y a près de neuf ans pour parfaire son éducation. Wolfgang en parle pour la première fois sans qu'on le sollicite à la Cathédrale-Hospice de Shallya ch.6, citant la patience comme vertu qu'ils lui ont enseignée ; il les croit irréprochables `EiR Intro l.707+90` `EiR ch.6 l.46` `EiR Intro l.732`. Présents au Castle Reikguard (Kathe Ruttmann, Per Haldestaake, Ingrid Rademakers) ou ailleurs (Wilhelmina Novak, Wulfrum Ahlquist, Gislind Ursin à l'Université d'Altdorf ; Wolfie Jessner à Middenheim ; Gustav Klaus et Vatheck Fulci en voyage) `EiR ch.4 l.214-303`.
 - **Garde rapprochée** : Reiksguard de Castle Reikguard — ordre séculier élite voué à défendre le Reikland et le sang impérial, caserne principale de l'ordre `EiR ch.4 l.67`. Tolérance zéro pour quiconque rôde dans le château ; effets runiques nains qui pénalisent les sorts (Language Magick et Channelling −3 SL, lores Witchcraft / Necromancy / Daemonology / Chaos −6 SL) `EiR ch.4 l.83+239`.
@@ -124,8 +124,8 @@ chant *Iztak Graksk* répété neuf fois pour que Sheerargetru manifeste.
 ## Plans en cours (autour de Wolfgang) `EiR Intro l.687+206-213`
 
 - **Mariage avec Katarina Todbringer** : alliance Sigmar/Ulric proposée par
-  Volkmar à Shining Rock ; Katarina accepte après l'attaque des Bearers of
-  the Blood ; mariage prévu à la Grande Cathédrale d'Altdorf ch.6,
+  Volkmar à Shining Rock ; Katarina accepte après l'attaque des Porteurs
+  de Sang ; mariage prévu à la Grande Cathédrale d'Altdorf ch.6,
   interrompu par la tentative d'assassinat tirée par Lord Malthe Barthelm
   via Karl-Heinz Wasmeier `EiR Intro l.48+54+62`.
 - **Cérémonie de remise de Ghal Maraz à la Volkshalle, 9 Brauzeit** : le
@@ -171,7 +171,7 @@ chant *Iztak Graksk* répété neuf fois pour que Sheerargetru manifeste.
   `EiR ch.13 l.203-215` : Wolfgang vigoureux, ferme, décidé contrastant
   avec son oncle pâle et tremblant ; salue les PJ en mode triomphal,
   caresse le Marteau (test Intuition +0 : éclair de convoitise),
-  ordonne à Ermine d'aller chercher du vin, annonce que la cérémonie aura
+  ordonne à Hermine d'aller chercher du vin, annonce que la cérémonie aura
   lieu comme prévu le surlendemain.
 - **Cérémonie de remise et sacrifice ch.13** `EiR ch.13 l.375-405` :
   Wolfgang prend Ghal Maraz, le brandit (cri scripté dans Phrases canon),
@@ -192,7 +192,7 @@ chant *Iztak Graksk* répété neuf fois pour que Sheerargetru manifeste.
 
 - S57-S58 — Mariage proposé à Shining Rock : Volkmar propose Katarina
   Todbringer comme épouse à Wolfgang en geste d'unité Sigmar/Ulric ;
-  Katarina refuse d'abord ; après l'attaque des Bearers of the Blood,
+  Katarina refuse d'abord ; après l'attaque des Porteurs de Sang,
   elle accepte `EiR Intro l.48+54`. Wolfgang lui-même n'est pas présent
   à Shining Rock — il est à Castle Reikguard.
 - S58-S59 — Castle Reikguard, audience canon ch.4 : les PJ envoyés par

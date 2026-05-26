@@ -19,7 +19,7 @@
 
 ## Ce que les PJ savent
 - Plus senior prêtre Sigmar à Middenheim.
-- Survit attaque Sons of Ulric quartier pauvre Fauschlag.
+- Survit attaque Fils d'Ulric quartier pauvre Fauschlag.
 
 ## MJ-only
 - **Allié Sigmarite Middenheim** modéré. Coordinate Volkmar's mission.

@@ -247,7 +247,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 ### 10. Cérémonie 9 Brauzeit Volkshalle (climax ch.13) — date Tzeentch sacrée
 - **Date canon** : **9 Brauzeit** (9e jour du 9e mois) — Tzeentch sacred number 9 (EiR ch.13 l.11, l.307). Gideon orchestre le timing de la quête pour coïncider avec cette date (EiR ch.13 l.13, l.313).
 - **Lieu** : **Volkshalle** au sud Imperial Palace.
-- **Reliquaire piégé** : construction Ludwig the Fat 1149 IC, comporte **trap door** descendant vers vin cellar via **push-button caché** (EiR ch.13 l.287-288, l.383). **Ermine Liebwitz** (cellier steward) bribé par Gideon pour laisser cultistes découvrir et réassembler le mécanisme (EiR ch.13 l.287) — backup plan : arrestée pour trahison post-facto.
+- **Reliquaire piégé** : construction Ludwig the Fat 1149 IC, comporte **trap door** descendant vers vin cellar via **push-button caché** (EiR ch.13 l.287-288, l.383). **Hermine Liebwitz** (cellier steward) bribé par Gideon pour laisser cultistes découvrir et réassembler le mécanisme (EiR ch.13 l.287) — backup plan : arrestée pour trahison post-facto.
 - **Setup canon** (EiR ch.13 l.334-401) :
   - Guests assemblés : Reiksguard mezzanine + Theogonist Yorri XV + **Karl-Franz lui-même présent au climax** (canon EiR ch.13 l.200-213 *"On the great stone throne sits a sad sight"* — vrai Empereur sickly officie ; Hermann sosie probablement libéré du rôle pour cette cérémonie d'importance impériale unique, **balisage déduction GM** : canon EiR ne précise pas explicitement le sort de Hermann au climax) + Wolfgang Prince Héritier + Grand Priestess clergy.
   - Characters/Party entrent avec **le Vrai Ghal Maraz récupéré intact** des Caves of Chaos (ch.11) — **le marteau présenté est le Vrai**, pas l'Imitation reforgée (canon EiR ch.13 cohérent avec EiR Intro l.71 *"After securing the divine weapon"* + Fandom Ghal Maraz *"true Ghal Maraz was found by adventurers"*).
@@ -358,7 +358,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 | Pendant EiR ch.12 | EiR ch.12 | **Black Fire Pass to Altdorf** : retour ; **machinations Leitdorf + Emmanuelle** (cascades fiches 04+03) ; **Skull Splitter Has Returned** (titre EiR ch.12) — référence retour Peak Leveller à Middenheim post-S62 | EiR Intro l.71 ; EiR ch.12 l.578 |
 | **Pendant EiR ch.13 (9 Brauzeit 2512 IC)** | **EiR ch.13** | **CÉRÉMONIE VOLKSHALLE — RETOUR GHAL MARAZ REFORGÉ** | EiR ch.13 |
 | Pendant EiR ch.13 | EiR ch.13 l.237-338 | **Helborg absent Ubersreik crisis** ; **Baron von Teufelsmilch** commande garnison palais | EiR ch.13 l.237 ; l.338 |
-| Pendant EiR ch.13 | EiR ch.13 l.287-288 | **Reliquaire trap door** activable via push-button caché ; Ermine Liebwitz bribed par Gideon | EiR ch.13 l.287-288 |
+| Pendant EiR ch.13 | EiR ch.13 l.287-288 | **Reliquaire trap door** activable via push-button caché ; Hermine Liebwitz bribed par Gideon | EiR ch.13 l.287-288 |
 | Pendant EiR ch.13 | EiR ch.13 l.345-381 | Setup cérémonie : Wolfgang prend marteau Characters + accompagne Yorri reliquaire | EiR ch.13 l.345-381 |
 | Pendant EiR ch.13 | EiR ch.13 l.385 | ***"Iztak Graksk!"* chanté 9 fois** + **Yorri assassiné poleaxe** + **Wolfgang poignardé dans le dos** | EiR ch.13 l.385 |
 | Pendant EiR ch.13 | EiR ch.13 l.385 | **Aglim également tué** par cultistes (cascade fiche 10) | EiR ch.13 l.385 |
@@ -489,7 +489,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 | **Kastor Lieberung** | Magister Impedimentae Main Pourpre Nuln ; recruteur Neuf Yeux via Gideon | **Mort historique** Bögenhafen ~2505-2510 (leuré faux héritage, tué mutants) ; = S8 PBT table Gauche off-canon | Mort historique (EiR Intro l.208 ; Cubicle 7 blog) |
 | **Wilhelm II (background)** | Premier Holswig-Schliestein Emperor 2426 IC ; vainc Holzkrug coalition | (background dynastique pré-Turmoil) | Mort historique (Altdorf ch.5 l.279) |
 | **Wilhelm III the Wise (background)** | Consolide dynastie 2429 IC + fonde Reiksguard 2429 IC ; éponyme House Holswig-Schliestein "House of the Third Wilhelm" + Wilhelm Chamber Volkshalle | (background dynastique pré-Turmoil) | Mort historique (Altdorf ch.5 l.595 + ch.7 l.572-584 ; Fandom House Holswig-Schliestein) |
-| **Ermine Liebwitz (cellier steward Volkshalle)** | Bribed par Gideon pour laisser cultistes réassembler trap door reliquaire | Arrestée post-facto pour trahison (canon EiR ch.13 l.287) | Variable (EiR ch.13 l.287) |
+| **Hermine Liebwitz (cellier steward Volkshalle)** | Bribed par Gideon pour laisser cultistes réassembler trap door reliquaire | Arrestée post-facto pour trahison (canon EiR ch.13 l.287) | Variable (EiR ch.13 l.287) |
 | **Else Barnhelm** (Fandom *"Barnheim"*) | Chef Schattenkabinett pré-Turmoil ; agents provocateurs vs révolutionnaires Altdorf | Continuité probable (canon ne précise pas) | Variable (Altdorf ch.10) |
 | **General Erik Hoffmann** | Chef Palisades (4e wing Chambre Noire) ; basé Imperial Palace nord ; *"dislikes politics… stays in the palace"* | Continuité probable (Palisades restent autonomes Île Noire) | Vivant (Altdorf ch.10 l.54) |
 | **Yorri XV** | Grand Theogonist of Sigmar (cumul Arch Lector West) ; sait Ghal Maraz faux + KF double ; cumul cascade fiches 09+10 | **Mort climax** ch.13 poleaxe cultiste | Mort canon (EiR ch.13 l.385 ; cascade fiches 09+10) |
@@ -569,7 +569,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
   - **Yorri XV + Aglim tués climax** = effondrement sommet sigmarite (cascade fiche 10).
   - **Volkmar von Hindenstern Grand Theogonist** ~Jahrdrung 2513.
   - **Promotions sigmarites compensatoires** (EiR ch.17 l.34) : équilibrage Sigmar/Ulric Empire-wide.
-  - **Renaissance ulricaine fanatique** post-Emil Valgeir lève ban Sons of Ulric (cascade fiches 02+10).
+  - **Renaissance ulricaine fanatique** post-Emil Valgeir lève ban Fils d'Ulric (cascade fiches 02+10).
 
 - **Cascade vers [[Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains)]]** :
   - **Vatheck Fulci Far Eye Remas (Tilea)** Nine Eye = cellule Tzeentch extra-impériale (cascade fiche 12).
@@ -697,7 +697,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
   - l.200-213 — Karl-Franz Volkshalle very sick *"On the great stone throne sits a sad sight"*
   - l.218-258 — Maria-Luise convoque PJ private chambers + token retinue impériale + statbloc Gold 5
   - **l.237 — Helborg absent Ubersreik** ; Baron von Teufelsmilch commande garnison palais
-  - **l.287-288 — Reliquaire Ludwig the Fat 1149 IC + trap door + push-button caché** ; Ermine Liebwitz bribed par Gideon
+  - **l.287-288 — Reliquaire Ludwig the Fat 1149 IC + trap door + push-button caché** ; Hermine Liebwitz bribed par Gideon
   - **l.307 — Date Tzeentch sacrée ritualistic significance**
   - **l.313 — Gideon retard/accélère timing quête**
   - **l.334-381 — Setup cérémonie** : Wolfgang prend marteau Characters + accompagne Yorri reliquaire ; *"odd-looking young page"* Reiksguard avec *"grins with utter triumph"* (possible Gideon)

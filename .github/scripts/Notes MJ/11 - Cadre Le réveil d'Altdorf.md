@@ -203,7 +203,7 @@ Sans coffre, reconstituer la même information en allant chercher les pièces l�
 Monter la PA Sigmarite de **-8 à +5 minimum** par actions concrètes :
 - Démasquer un cultiste MP en province (+2 à +4).
 - Sauver un templier sigmarite (+1 à +3).
-- Combattre Sons of Ulric / Bearers of the Blood pro-Sigmarites (+3 à +5, mais coût Ulric).
+- Combattre Fils d'Ulric / Porteurs de Sang pro-Sigmarites (+3 à +5, mais coût Ulric).
 - Action publique de bravoure attribuée à Sigmar.
 
 **Combinable** avec Piste A (mission de rachat Kaslain).

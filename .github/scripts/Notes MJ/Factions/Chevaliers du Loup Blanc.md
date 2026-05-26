@@ -44,7 +44,7 @@
 
 - **Cult d'Ulric** : Bras martial direct.
 - **Chevaliers Panthères** : Ordre Ulrican rival/complémentaire à Middenheim (escorte personnelle du Graf + Katarina). Chevaliers Panthères = **secular noble warriors**, Chevaliers du Loup Blanc = **priest-warriors**.
-- **Sons of Ulric** : Canon ch.2 : « *it is rumoured that the movement has begun to gain supporters in the rank and file of the Chevaliers du Loup Blanc* ». **Pas officiel** mais **les rangs basses sont infiltrés par sympathisants extrémistes**.
+- **Fils d'Ulric** : Canon ch.2 : « *it is rumoured that the movement has begun to gain supporters in the rank and file of the Chevaliers du Loup Blanc* ». **Pas officiel** mais **les rangs basses sont infiltrés par sympathisants extrémistes**.
 - **Cult de Sigmar / Reiksguard** : Tension. **Kurt Helborg** (Reiksmarshall Sigmar) **respecte grudgingly Emil Valgeir** (canon p.55).
 - **Beastmen Drakwald** : Cibles principales des patrouilles.
 
@@ -60,17 +60,17 @@
 - **[S40-S55]** — Patrouilles dans la Drakwald + chasse skaven.
 
 ### Arc 7
-- **[S58]** — **Shining Rock** : possible **complicité passive** des Knights with the Sons of Ulric. À voir table.
+- **[S58]** — **Shining Rock** : possible **complicité passive** des Knights with the Fils d'Ulric. À voir table.
 
 ## Hooks de retour
 
 - **Mark allié des Loup Blanc Arc 6** : peut requérir leur aide militaire.
-- **Sons of Ulric infiltration** : tensions internes exploitables.
+- **Fils d'Ulric infiltration** : tensions internes exploitables.
 - **Heaume de Mandred Arc 6** : possible mission Loup Blanc.
 
 ## Fils ouverts
 
-- **FIL Sons of Ulric infiltration Loup Blanc** — actif Arc 6+.
+- **FIL Fils d'Ulric infiltration Loup Blanc** — actif Arc 6+.
 - **FIL Heaume de Mandred** — récupéré S46.
 
 ## Liens
@@ -78,7 +78,7 @@
 - **Arcs** : Arc 5 (S35 mention), Arc 6 (Heaume + skavens), Arc 7 (Shining Rock).
 - **PNJ-clé** : [[Emil Valgeir]] (Grand Master Arc 5), Rein Volkhard (successeur), Claus Liebnitz, Mark (PJ), [[Jarrick Valgeir]] (Ar-Ulric).
 - **Lieux** : [[Middenheim]] (Temple d'Ulric + caserne), Drakwald (patrouilles).
-- **Factions** : [[Cult d'Ulric]] (bras martial), Chevaliers Panthères (collègues mais distincts), Sons of Ulric (infiltrants).
+- **Factions** : [[Cult d'Ulric]] (bras martial), Chevaliers Panthères (collègues mais distincts), Fils d'Ulric (infiltrants).
 
 ## Liens externes
 - [Chevaliers du Loup Blanc — Lexicanum](https://whfb.lexicanum.com/wiki/Knights_of_the_White_Wolf)

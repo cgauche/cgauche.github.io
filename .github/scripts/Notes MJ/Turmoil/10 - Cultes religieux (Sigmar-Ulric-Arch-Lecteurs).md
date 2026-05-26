@@ -1,6 +1,6 @@
 # Front — 10 Cultes religieux (Sigmar-Ulric-Arch-Lecteurs)
 
-> **One-liner** : Le Turmoil 2512 IC est une **crise religieuse Empire-wide** convergeant à Altdorf : (a) la **renaissance ulricaine fanatique** déclenchée par l'**abdication post-PBT de Jarrick Valgeir** (chantage Wasmeier-Brunhilde via affaire Schlagen, démission + pèlerinage Nord jamais revenu) au profit de son frère aîné **Emil Valgeir** *"fire-breathing preacher with little respect for Sigmarites"* (EiR ch.17 l.14) qui lève le ban sur les **Sons of Ulric** *"sectarian zealots [qui] preach openly in Middenheim"* (EiR Intro l.247) — propagée à Middenland, Middenheim, Talabheim, Talabecland ; (b) l'**effondrement du sommet sigmarite** au climax 9 Brauzeit Volkshalle (cascade fiche 09) — **9 cultistes Main Pourpre déguisés en Reiksguard** assassinent **Grand Theogonist Yorri XV** (né 2456 → mort 2512 à 56 ans, *"a poleaxe stoves his skull in"* EiR ch.13 l.385) **et l'Arch Lector Aglim** (70 ans, Talabheim) ; **Volkmar von Hindenstern** (High Capitular Altdorf) élu Grand Theogonist **~4 mois plus tard (Jahrdrung 2513)** ; **Johann Esmer** élu Arch Lector East post-Aglim ; **Kaslain** Arch Lector South (Nuln) inchangé ; (c) une **compensation sigmarite canonique post-Turmoil** : *"northern provinces with large Sigmarite populations were granted higher status, so The League of Ostermark, Grand County of Nordland, and Grand Barony of Hochland earned Grand Provincial status"* (EiR ch.17 l.34) — promotions Hertwig (fiche 06) + Gausser (fiche 01) + Ludenhof (fiche 07). En parallèle : **Order of the Silver Hammer** (Warrior Priests Sigmar fondé 1682 IC par Siebold II) purge la dynastie Krieglitz (cascade fiche 05) ; **Brotherhood of the Axe** (sub-Teutogen Ulrican Middenheim) **infiltrée par le culte Khorne Crimson Skull** via Claus Liebnitz (cascade fiche 02) ; **cultes folkloriques activés** — Söll restaurationniste Sudenland (fiche 03), Cult of Taal Niav avec lien Aldebrand Ludenhof (fiche 07), Order of the Raven Knights Morr Stirland (fiche 08), Cult of Manann Wave Lord Otto Sider Nordland (fiche 01).
+> **One-liner** : Le Turmoil 2512 IC est une **crise religieuse Empire-wide** convergeant à Altdorf : (a) la **renaissance ulricaine fanatique** déclenchée par l'**abdication post-PBT de Jarrick Valgeir** (chantage Wasmeier-Brunhilde via affaire Schlagen, démission + pèlerinage Nord jamais revenu) au profit de son frère aîné **Emil Valgeir** *"fire-breathing preacher with little respect for Sigmarites"* (EiR ch.17 l.14) qui lève le ban sur les **Fils d'Ulric** *"sectarian zealots [qui] preach openly in Middenheim"* (EiR Intro l.247) — propagée à Middenland, Middenheim, Talabheim, Talabecland ; (b) l'**effondrement du sommet sigmarite** au climax 9 Brauzeit Volkshalle (cascade fiche 09) — **9 cultistes Main Pourpre déguisés en Reiksguard** assassinent **Grand Theogonist Yorri XV** (né 2456 → mort 2512 à 56 ans, *"a poleaxe stoves his skull in"* EiR ch.13 l.385) **et l'Arch Lector Aglim** (70 ans, Talabheim) ; **Volkmar von Hindenstern** (High Capitular Altdorf) élu Grand Theogonist **~4 mois plus tard (Jahrdrung 2513)** ; **Johann Esmer** élu Arch Lector East post-Aglim ; **Kaslain** Arch Lector South (Nuln) inchangé ; (c) une **compensation sigmarite canonique post-Turmoil** : *"northern provinces with large Sigmarite populations were granted higher status, so The League of Ostermark, Grand County of Nordland, and Grand Barony of Hochland earned Grand Provincial status"* (EiR ch.17 l.34) — promotions Hertwig (fiche 06) + Gausser (fiche 01) + Ludenhof (fiche 07). En parallèle : **Order of the Silver Hammer** (Warrior Priests Sigmar fondé 1682 IC par Siebold II) purge la dynastie Krieglitz (cascade fiche 05) ; **Brotherhood of the Axe** (sub-Teutogen Ulrican Middenheim) **infiltrée par le culte Khorne Crimson Skull** via Claus Liebnitz (cascade fiche 02) ; **cultes folkloriques activés** — Söll restaurationniste Sudenland (fiche 03), Cult of Taal Niav avec lien Aldebrand Ludenhof (fiche 07), Order of the Raven Knights Morr Stirland (fiche 08), Cult of Manann Wave Lord Otto Sider Nordland (fiche 01).
 
 ---
 
@@ -56,7 +56,7 @@
 
 #### Hiérarchie ulricaine (Middenheim)
 - **Ar-Ulric Jarrick Valgeir** (déchu pré-Turmoil immédiat) — Lector Gold 2 (PBT p.130) ; **48 ans** ; *"rangy rather than muscular, cheveux brun-roux, yeux brun clair"* ; *"decent man, honorable"* ; **vœu de célibat** (canon Middenheim sourcebook) ; **chantagé par Wasmeier-Brunhilde** via *"love letters"* échangées avec **Emmanuelle Schlagen** (consort Boris Todbringer, cascade fiche 02 PBT canon p.131) ; **abdique post-PBT** + *"undertakes a lone pilgrimage to the far and freezing north. He never returns"* (PBT ch.7 *Consequences*) ; **Hammer-axe of Skoll + Wolfplate** transmis au successeur ; Doomed *"Temptation paves an inevitable path to the Maelstrom"* (PBT p.130).
-- **Ar-Ulric Emil Valgeir** (entrant post-PBT) — **frère AÎNÉ** de Jarrick (Fandom Emil Valgeir : *"Originally, he was the Grand Master of the Chevaliers du Loup Blanc, whilst his younger brother Jarrick was the High Priest"*) ; ex-Grand Master Chevaliers du Loup Blanc (Middenheim Chapter) ; Senior Priest Warrior Priest of Ulric Silver 2 (PBT p.55) ; *"man of few words, with a gaze that few can meet, and an impressive physical presence"* (PBT Companion ch.4) ; *"fire-breathing preacher with little respect for Sigmarites"* (EiR ch.17 l.14) — **expression métaphorique canon** (= prêcheur enflammé/militant, **pas pouvoir littéral**) ; **lève le ban sur les Sons of Ulric** (EiR Intro l.247 : *"He has lifted the ban on the Sons of Ulric, despite the fact that the sect wishes to depose him in favour of one their own"*) ; **sympathisant passif Sons of Ulric** (note PNJ Emil) ; *"notably more proactive in the promotion of Ulrican values than Jarrick"* (PBT Companion ch.7 p.105) ; *"Hardline Ulrican rhetoric is openly proclaimed from the pulpit of the High Temple"*.
+- **Ar-Ulric Emil Valgeir** (entrant post-PBT) — **frère AÎNÉ** de Jarrick (Fandom Emil Valgeir : *"Originally, he was the Grand Master of the Chevaliers du Loup Blanc, whilst his younger brother Jarrick was the High Priest"*) ; ex-Grand Master Chevaliers du Loup Blanc (Middenheim Chapter) ; Senior Priest Warrior Priest of Ulric Silver 2 (PBT p.55) ; *"man of few words, with a gaze that few can meet, and an impressive physical presence"* (PBT Companion ch.4) ; *"fire-breathing preacher with little respect for Sigmarites"* (EiR ch.17 l.14) — **expression métaphorique canon** (= prêcheur enflammé/militant, **pas pouvoir littéral**) ; **lève le ban sur les Fils d'Ulric** (EiR Intro l.247 : *"He has lifted the ban on the Sons of Ulric, despite the fact that the sect wishes to depose him in favour of one their own"*) ; **sympathisant passif Fils d'Ulric** (note PNJ Emil) ; *"notably more proactive in the promotion of Ulrican values than Jarrick"* (PBT Companion ch.7 p.105) ; *"Hardline Ulrican rhetoric is openly proclaimed from the pulpit of the High Temple"*.
 
 #### Chevaliers du Loup Blanc (Templars Ulric)
 - *"The most ancient and largest of the Templar Orders in the entire Old World, their founding dating back to the time of Ar-Ulric Wulca, during the age of Sigmar some 2,500 years ago… tasked with guarding the temples and priests of Ulric throughout the Empire"* (Fandom Chevaliers du Loup Blanc). Basés Middenheim (Grand Battle Company High Temple) + chapter houses provinces. Combattent sans casques, Cavalry Hammers (PBT Companion l.140). **Grand Battle Company à la High Temple Middenheim** (seconded from Chapterhouses). **Blue Company** = local Middenheim, Salzenmund Road grounds (cascade fiche 02).
@@ -74,7 +74,7 @@
 #### Order of the Howling Wolf
 - Conclave senior priests qui **élit Ar-Ulric pour la vie** (cascade fiche 02 Middenheim ch.1 l.454).
 
-#### Sons of Ulric (umbrella montante)
+#### Fils d'Ulric (umbrella montante)
 - *"The Sons of Ulric believe they are literally blood descendants of the God himself… they are most popular in Middenland, where they are strictly illegal. In Middenheim, legal distinction is made as Sons of Ulric are forbidden from congregating"* (Fandom Sons of Ulric).
 - *"Once a tiny group of extremists who no one took seriously, have emerged as an umbrella organisation uniting a wide range of groups ranging from Human supremacists to Ulrican fundamentalists"* (PBT ch.2 l.178).
 - **Doctrine canon** : *"only they were worthy to be his priests… implacably opposed to the growing power of the southern interloper Sigmar"* (EiR ch.2 l.95).
@@ -84,7 +84,7 @@
   - Attaques caravanes marchands Reikland (EiR Intro l.213)
   - Persécutions minorités Sigmarites Middenland/Nordland (EiR Intro l.211)
   - **Attaque Shining Rock** (9 prêtres/chevaliers, EiR ch.3 l.196-228)
-- **Bearers of the Blood** : sub-faction extrémiste Sons of Ulric ; **attaque Shining Rock S58** (EiR Intro l.54).
+- **Porteurs de Sang** : sub-faction extrémiste Fils d'Ulric ; **attaque Shining Rock S58** (EiR Intro l.54).
 - **Infiltration Loups Blancs** : *"the movement has begun to gain supporters in the rank and file of the Chevaliers du Loup Blanc"* (PBT ch.2 l.184).
 - **Maintiennent le Womb of the Wolf** : *"site where Ulric's first mortal child was born"* — lieu sacré secret dans l'undercity Fauschlag (Fandom Womb of the Wolf).
 - **Paradoxe canon** : *"the sect wishes to depose Emil in favour of one their own"* (EiR Intro l.247) — Emil les tolère mais ils veulent le remplacer.
@@ -206,9 +206,9 @@
 | Pré-2512 IC | **Jarrick Valgeir** Ar-Ulric Middenheim — chantagé par Wasmeier-Brunhilde via *"love letters"* à Emmanuelle Schlagen | PBT canon p.131 |
 | **Pre-Spring 2512 IC** | **Jarrick Valgeir abdique** + pèlerinage Nord post-PBT (chantage Main Pourpre résolu après Wasmeier exposé) ; *"never returns"* | PBT ch.7 ; Fandom Jarrick Valgeir |
 | **Pre-Spring 2512 IC** | **Emil Valgeir devient Ar-Ulric** ; ex-Grand Master Chevaliers du Loup Blanc → cède place à **Rein Volkhard** ; Hammer-axe of Skoll + Wolfplate transmis | PBT Companion p.105 |
-| Spring 2512 IC | **Emil Valgeir lève le ban sur les Sons of Ulric** ; *"sectarian zealots preach openly in Middenheim"* | EiR Intro l.247 |
+| Spring 2512 IC | **Emil Valgeir lève le ban sur les Fils d'Ulric** ; *"sectarian zealots preach openly in Middenheim"* | EiR Intro l.247 |
 | Spring 2512 IC | **Renaissance ulricaine fanatique** : *"hard-line Ulrican attitude underwent a renaissance"* Middenland/Middenheim/Talabheim/Talabecland | EiR ch.17 l.14 |
-| Spring 2512 IC (S58) | **Attaque Shining Rock par Bearers of the Blood** (sub-Sons of Ulric) : 9 prêtres/chevaliers ; Yorri + Volkmar survivent | EiR ch.3 l.196-228 |
+| Spring 2512 IC (S58) | **Attaque Shining Rock par Porteurs de Sang** (sub-Fils d'Ulric) : 9 prêtres/chevaliers ; Yorri + Volkmar survivent | EiR ch.3 l.196-228 |
 
 ### Alliances et rivalités pré-Turmoil
 
@@ -229,7 +229,7 @@
 
 **Tensions latentes** :
 - **Brotherhood of the Axe infiltrée Crimson Skull** : Claus Liebnitz pivot vulnérable Khorne.
-- **Sons of Ulric umbrella montant** : extrémistes terrorisent caravanes + Sigmarites.
+- **Fils d'Ulric umbrella montant** : extrémistes terrorisent caravanes + Sigmarites.
 - **Sigmarian Heresy** doctrinaire : Ulricans extrêmes proclament *"Sigmar = Chaos God"*.
 - **Cult of Taal Niav** : indépendance des cultes folkloriques vs Sigmar Empire.
 - **Cult of Söll** : agitation restaurationniste Sudenland (cascade fiche 03).
@@ -252,7 +252,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 
 ### 1. Renaissance ulricaine fanatique post-Emil Valgeir
 - **Abdication Jarrick + accession Emil** (post-PBT, pré-Turmoil immédiat).
-- **Levée du ban Sons of Ulric** (EiR Intro l.247).
+- **Levée du ban Fils d'Ulric** (EiR Intro l.247).
 - *"Hardline Ulrican rhetoric is openly proclaimed from the pulpit of the High Temple"* (PBT Companion ch.7 p.105).
 - *"In Middenland, Middenheim, Talabheim and Talabecland a hard-line Ulrican attitude that had been in check for centuries underwent a renaissance. It became fashionable for Ulricans in these locales to scorn their Sigmarite neighbours and proclaim the illegitimacy of their god and the Emperor who ruled in his name"* (EiR ch.17 l.14).
 
@@ -263,7 +263,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 - **Yorri XV dismayed** par Mutant Edict mais *"évite débattre"* (note PNJ Yorri).
 
 ### 3. Attaque Shining Rock S58
-- **Bearers of the Blood** (sub-Sons of Ulric) attaquent la délégation interconfessionnelle.
+- **Porteurs de Sang** (sub-Fils d'Ulric) attaquent la délégation interconfessionnelle.
 - 9 prêtres/chevaliers ; Yorri + Volkmar survivent à l'attaque (EiR ch.3 l.196-228).
 - **Mort de plusieurs Sigmarites + Ulricans modérés** (canon EiR ch.3).
 - **Tension Sigmar/Ulric s'intensifie** ; mariage Wolfgang-Katarina Todbringer proposé en réponse (apaisement diplomatique, EiR ch.17 l.24, cascade fiche 02).
@@ -314,10 +314,10 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 | ~2512 IC pré | (background) | **Jarrick Valgeir Ar-Ulric chantagé par Wasmeier-Brunhilde** (lettres Schlagen) | PBT p.131 |
 | Pre-Spring 2512 IC | (PBT) | **Jarrick abdique + pèlerinage Nord** ; *"never returns"* | PBT ch.7 |
 | Pre-Spring 2512 IC | (PBT) | **Emil Valgeir devient Ar-Ulric** ; Rein Volkhard prend Grand Master Chevaliers du Loup Blanc | PBT Companion p.105 |
-| Spring 2512 IC | EiR Intro l.247 | **Emil Valgeir lève le ban sur les Sons of Ulric** ; preach openly in Middenheim | EiR Intro l.247 |
+| Spring 2512 IC | EiR Intro l.247 | **Emil Valgeir lève le ban sur les Fils d'Ulric** ; preach openly in Middenheim | EiR Intro l.247 |
 | Spring 2512 IC | EiR ch.17 l.14 | **Renaissance ulricaine fanatique** Middenland/Middenheim/Talabheim/Talabecland | EiR ch.17 l.14 |
-| Spring 2512 IC | EiR Intro l.211-213 | **Sons of Ulric attaques** : caravanes Reikland + persécutions Sigmarites Middenland/Nordland | EiR Intro l.211-213 |
-| Pendant EiR ch.3 (S58) | EiR ch.3 l.196-228 | **Attaque Shining Rock par Bearers of the Blood** ; 9 prêtres/chevaliers tués ; Yorri + Volkmar survivent | EiR ch.3 l.196-228 |
+| Spring 2512 IC | EiR Intro l.211-213 | **Fils d'Ulric attaques** : caravanes Reikland + persécutions Sigmarites Middenland/Nordland | EiR Intro l.211-213 |
+| Pendant EiR ch.3 (S58) | EiR ch.3 l.196-228 | **Attaque Shining Rock par Porteurs de Sang** ; 9 prêtres/chevaliers tués ; Yorri + Volkmar survivent | EiR ch.3 l.196-228 |
 | Pendant EiR ch.5 (S60) | EiR ch.5 | Défilé Altdorf March of Unity ; Yorri pâle (Elvyra empoisonne) ; Volkmar partisan | EiR ch.5 |
 | Pendant EiR ch.6 (S61) | EiR ch.6 | Mariage Wolfgang-Katarina Grand Cathedral Sigmar ; Yorri officie ; attentat Barthelm | EiR ch.6 |
 | Pendant EiR ch.7 (S62) | EiR ch.7 | Conclave Volkshalle ; Emil push hardline ; Volkmar idem ; Yorri résiste | EiR ch.7 |
@@ -346,7 +346,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 - **Knights of the Fiery Heart** : bodyguard nouveau Grand Theogonist.
 
 ### Cult of Ulric
-- **Ar-Ulric** : **Emil Valgeir** (continuité — Sons of Ulric paradoxe persiste, *"wish to depose him in favour of one their own"*).
+- **Ar-Ulric** : **Emil Valgeir** (continuité — Fils d'Ulric paradoxe persiste, *"wish to depose him in favour of one their own"*).
 - **Grand Master Chevaliers du Loup Blanc** : Rein Volkhard (continuité).
 - **Brotherhood of the Axe** : continuité, **infiltration Crimson Skull non démasquée canon** (cascade fiche 02 hooks).
 - **Teutogen Guard** : continuité.
@@ -369,7 +369,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 - **Ulric maintenu** mais entouré par Sigmarite bloc.
 - **Tension Sigmar/Ulric persiste** mais sans guerre civile religieuse ouverte.
 - **Sigmarian Heresy** continue à circuler dans cercles Ulricans extrêmes.
-- **Sons of Ulric umbrella** non dissous canon — continuité menaçante.
+- **Fils d'Ulric umbrella** non dissous canon — continuité menaçante.
 
 ### Statut des perdants
 - **Yorri XV** : **mort** climax ch.13.
@@ -409,14 +409,14 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 | **Order of the Silver Hammer** | Branche militante itinérante Sigmar | **Acteur clé purge Krieglitzes** (cascade fiche 05) | Continuité (Fandom Templar Witch Hunter) |
 | **Knights of the Fiery Heart** | Bodyguard Grand Theogonist | (continuité — bodyguard nouveau Volkmar) | Continuité (Fandom Order of the Fiery Heart) |
 | **Ar-Ulric Jarrick Valgeir** | Ar-Ulric pré-PBT, chantagé Wasmeier-Brunhilde | **Démissionne post-PBT + pèlerinage Nord** ; *"never returns"* | Disparu canon (PBT ch.7 ; Fandom Jarrick Valgeir) |
-| **Ar-Ulric Emil Valgeir** | Grand Master Chevaliers du Loup Blanc, frère aîné Jarrick | **Ar-Ulric post-PBT** ; *"fire-breathing preacher"* ; lève ban Sons of Ulric | Vivant (PBT Companion p.105 ; Fandom Emil Valgeir) |
+| **Ar-Ulric Emil Valgeir** | Grand Master Chevaliers du Loup Blanc, frère aîné Jarrick | **Ar-Ulric post-PBT** ; *"fire-breathing preacher"* ; lève ban Fils d'Ulric | Vivant (PBT Companion p.105 ; Fandom Emil Valgeir) |
 | **Rein Volkhard** | (pré-Turmoil senior Chevaliers du Loup Blanc) | **Grand Master Chevaliers du Loup Blanc** (post-Emil) | Vivant (PBT Companion p.105) |
 | **Chevaliers du Loup Blanc** | Plus ancien Templar order Empire (2500+ ans) | (continuité) ; Grand Master Volkhard | Continuité (Fandom Chevaliers du Loup Blanc) |
 | **Teutogen Guard** | Élite Ar-Ulric Middenheim | (continuité) | Continuité (PBT Companion l.145-146) |
 | **Brotherhood of the Axe** | Sub-Teutogen pré-Sigmar, anti-Sigmar | (continuité) ; **infiltration Crimson Skull non démasquée** | Variable (Fandom Brotherhood of the Axe) |
 | **Claus Liebnitz** | Denfather Middenheim, Brotherhood of the Axe, vulnérable Crimson Skull | (continuité) ; allégeance non tranchée canon | Vivant (cascade fiche 02 ; Middenheim ch.1 l.456) |
-| **Sons of Ulric** | Umbrella montante extrémiste pré-Turmoil | **Continuité** ; paradoxe canon (veulent déposer Emil malgré sa tolérance) | Continuité (Fandom Sons of Ulric) |
-| **Bearers of the Blood** | Sub-faction extrémiste Sons of Ulric ; attaque Shining Rock | (continuité) | Continuité (EiR Intro l.54) |
+| **Fils d'Ulric** | Umbrella montante extrémiste pré-Turmoil | **Continuité** ; paradoxe canon (veulent déposer Emil malgré sa tolérance) | Continuité (Fandom Sons of Ulric) |
+| **Porteurs de Sang** | Sub-faction extrémiste Fils d'Ulric ; attaque Shining Rock | (continuité) | Continuité (EiR Intro l.54) |
 | **Niav (Hierarch of Taal)** | Head Cult of Taal Old World depuis 2487 IC, Talabecland ouest | (continuité) ; influence post-Turmoil indirecte | Vivant (Fandom Niav and Katrinelya) |
 | **Katrinelya (Hierarch of Rhya)** | Épouse Niav, Talabecland ouest | (continuité) | Vivante (Fandom Niav and Katrinelya) |
 | **Father Rostov** | High Priest Taal Talabheim, Brethren of the Oak | (continuité) ; relations Talabheim incertaines post-fusion | Vivant (cascade fiche 05) |
@@ -441,7 +441,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 - **Cascade depuis [[Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen)]]** :
   - **Cult of Ulric Middenheim** = épicentre renaissance ulricaine.
-  - **Emil Valgeir + Sons of Ulric** lèvement du ban.
+  - **Emil Valgeir + Fils d'Ulric** lèvement du ban.
   - **Brotherhood of the Axe infiltrée Crimson Skull** via Claus Liebnitz.
   - **Jade Sceptre Slaanesh** Anika-Elise.
   - **Conspirators' Congress (Stoltz Sigmar Middenheim)**.
@@ -503,11 +503,11 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 ### Hooks canon (explicites)
 
-- **(canon)** **Shining Rock attack S58** (EiR ch.3 l.196-228) — Bearers of the Blood attaquent ; Characters peuvent défendre ou enquêter.
+- **(canon)** **Shining Rock attack S58** (EiR ch.3 l.196-228) — Porteurs de Sang attaquent ; Characters peuvent défendre ou enquêter.
 - **(canon)** **Audience Yorri ch.8** (EiR ch.8 l.27) — Yorri sponsoriser quête si Party Sigmarite ; accès coffres tomes interdits Grand Cathedral.
 - **(canon)** **Sauver Yorri ch.13** — possible si chant 9 *"Iztak Graksk!"* interrompu avant complet ; **Yorri n'est tué qu'après 2e cultist action** (note PNJ Yorri).
 - **(canon)** **9 cultistes Main Pourpre déguisés Reiksguard ch.13** (EiR ch.13 l.389-401) — combat Volkshalle ; WS 50, Polearm 70, full plate, Main Pourpre tattoos.
-- **(canon)** **Sons of Ulric — démasquer leaders obscurs** (PBT ch.2 l.178) — hook PJ identification ; *"the sect wishes to depose Emil"* paradoxe canon.
+- **(canon)** **Fils d'Ulric — démasquer leaders obscurs** (PBT ch.2 l.178) — hook PJ identification ; *"the sect wishes to depose Emil"* paradoxe canon.
 - **(canon)** **Brotherhood of the Axe infiltrée Khorne via Liebnitz** (cascade fiche 02 ; Fandom Brotherhood of the Axe) — investigation interne Cult Ulric.
 - **(canon)** **Order of the Silver Hammer** opération anti-Krieglitz (cascade fiche 05) — Characters Sigmarites peuvent rejoindre.
 - **(canon)** **Werner Stolz papable** (Fandom Werner Stolz) — hook politique Sigmar Empire-wide post-Volkmar.
@@ -524,7 +524,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 - **(canon + déduction)** **Sigmarian Heresy 3 positions** : Characters peuvent infiltrer cercles Ulricans extrêmes pour comprendre la doctrine.
 - **(canon + déduction)** **Cellules régionales Main Pourpre non démasquées** (Nuln, Hochland, Stirland) — hook investigation post-Turmoil.
 - **(canon + déduction)** **Anika-Elise legacy Jade Sceptre Middenheim** (cascade fiche 02) — Gotthard von Wittgenstein successeur cult.
-- **(canon + déduction)** **Sons of Ulric post-Turmoil** : umbrella continue ; possible évolution radicale ou implosion interne.
+- **(canon + déduction)** **Fils d'Ulric post-Turmoil** : umbrella continue ; possible évolution radicale ou implosion interne.
 - **(canon + déduction)** **Tension Volkmar (hardline) vs Stolz (modéré)** post-Turmoil : Volkmar nouveau Grand Theogonist, Stolz toujours papable — possible rivalité interne Sigmar.
 
 ---
@@ -535,19 +535,19 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 - **EiR Volume 5 — Introduction** :
   - l.14 — *"hard-line Ulrican attitude that had been in check for centuries underwent a renaissance"*
-  - l.54 — Bearers of the Blood attaque Shining Rock
+  - l.54 — Porteurs de Sang attaque Shining Rock
   - **l.190-198 — Sigmarian Heresy 3 positions**
-  - l.211-213 — Sons of Ulric attaques caravanes + persécutions
-  - **l.247 — Emil Valgeir lève ban Sons of Ulric**
+  - l.211-213 — Fils d'Ulric attaques caravanes + persécutions
+  - **l.247 — Emil Valgeir lève ban Fils d'Ulric**
   - **l.729-755 — Volkmar 'the Grim' Von Hindenstern High Capitular Sigmar**
   - **l.757-794 — Yorri XV Grand Theogonist statbloc Lector Gold 2**
 
 - **EiR ch.2 *Chilly Reception*** :
   - Volkmar ambassadeur Middenheim ; proposition Shining Rock + mariage Wolfgang
-  - l.95 — Sons of Ulric doctrine *"only they were worthy to be his priests"*
+  - l.95 — Fils d'Ulric doctrine *"only they were worthy to be his priests"*
 
 - **EiR ch.3 *Journey to Shining Rock*** :
-  - **l.196-228 — Attaque Shining Rock par Bearers of the Blood**
+  - **l.196-228 — Attaque Shining Rock par Porteurs de Sang**
 
 - **EiR ch.6 *The Wedding*** :
   - Yorri officie mariage Wolfgang-Katarina Grand Cathedral
@@ -605,7 +605,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - p.105 — *"Almost immediately Ar-Ulric Jarrick Valgeir resigns… Emil Valgeir takes on the mantle of Ar-Ulric"*
 
 - **Power Behind the Throne ch.2** :
-  - l.178 — Sons of Ulric umbrella organisation
+  - l.178 — Fils d'Ulric umbrella organisation
   - l.184 — Infiltration Chevaliers du Loup Blanc
 
 - **PBT canon p.130-131** :
@@ -679,9 +679,9 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 - **Web cross-check** : Fandom Arch Lectors ne précise pas non plus un 4e nom pour 2512.
 - **Décision GM** : à inventer si pertinent.
 
-### Identité Bearers of the Blood leaders
+### Identité Porteurs de Sang leaders
 
-- **Canon EiR Intro l.54** : sub-faction extrémiste Sons of Ulric attaquant Shining Rock.
+- **Canon EiR Intro l.54** : sub-faction extrémiste Fils d'Ulric attaquant Shining Rock.
 - **Identités individuelles non précisées canon**.
 - **Décision GM** : à inventer.
 
@@ -712,15 +712,15 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 ### Slogan "Middenland for Middenfolk" canonicity
 
-- **Note PNJ + EiR référence** : slogan utilisé par Sons of Ulric.
+- **Note PNJ + EiR référence** : slogan utilisé par Fils d'Ulric.
 - **Fandom Sons of Ulric** : **non confirmé** comme slogan officiel canon.
 - **Possible source** : `Source/Middenheim - City of the Loup Blanc/` sourcebook spécifique WFRP4 (à vérifier).
 - **Décision GM** : utiliser le slogan canon si confirmé Source/, sinon **traiter comme formulation propre à la fiche / cascade fiche 02**.
 
-### Sons of Ulric paradoxe : Emil tolère mais Sons veulent le déposer
+### Fils d'Ulric paradoxe : Emil tolère mais Fils veulent le déposer
 
 - **Canon EiR Intro l.247** : *"He has lifted the ban on the Sons of Ulric, despite the fact that the sect wishes to depose him in favour of one their own"*.
-- **Identité du candidat Sons of Ulric pour remplacer Emil** : non précisée canon.
+- **Identité du candidat Fils d'Ulric pour remplacer Emil** : non précisée canon.
 - **Décision GM** : à inventer ; possibilité narrative riche.
 
 ---

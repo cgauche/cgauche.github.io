@@ -45,6 +45,6 @@
 
 ## Liens
 - **Arcs** : `Arc 7` (Arc 7 ch. 13)
-- **PNJ liés** : [[Gideon]] (recruteur), [[Yann Zuntermein]] (chef hiérarchique cellule Altdorf), [[Ermine Liebwitz von Decker und Hanulf]] (autre complice involontaire des caves)
+- **PNJ liés** : [[Gideon]] (recruteur), [[Yann Zuntermein]] (chef hiérarchique cellule Altdorf), [[Hermine Liebwitz von Decker und Hanulf]] (autre complice involontaire des caves)
 - **Factions** : [[Main Pourpre]] (cellule Altdorf)
 - **Lieux** : **Volkshalle** (lieu de l'œuvre), atelier d'orfèvre Altdorf

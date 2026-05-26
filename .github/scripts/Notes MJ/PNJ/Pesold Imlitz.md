@@ -34,9 +34,9 @@
 ### Arc 7
 - **[S56]** — Dirigeable Sky Wolf retour Middenheim.
 - **[S57]** — Cérémonie accueil délégation Altdorf, **questionne Holzkrug** sur ses sous-entendus à Emmiline (« la guerre peut faire renaître des familles »).
-- **[S58]** — Voyage Shining Rock + attaque Bearers of the Blood.
+- **[S58]** — Voyage Shining Rock + attaque Porteurs de Sang.
 - **[S59]** — Castle Reikguard + voyage Altdorf.
-- **[S60]** — Défilé Altdorf. **Tente + réussit** l'épreuve des anguilles sous les bravos clan Middenheim. **Quémande la meilleure bouteille à Ermine Liebwitz** post-écoute conversation Emmanuelle-Holzkrug sur la qualité du vin (canon ch.5 l.207 — accès à Ermine établi tôt).
+- **[S60]** — Défilé Altdorf. **Tente + réussit** l'épreuve des anguilles sous les bravos clan Middenheim. **Quémande la meilleure bouteille à Hermine Liebwitz** post-écoute conversation Emmanuelle-Holzkrug sur la qualité du vin (canon ch.5 l.207 — accès à Hermine établi tôt).
 - **[S61]** — Mariage cathédrale Sigmar. **Se rue sur Barthelm** pour le neutraliser avec Mark.
 - **[S62]** — Conclave Volkshalle. **Surprend conversation Emmanuelle-Maria-Luise** sur banc gallery (eavesdrop canon ch.7 l.215). Tente sa chance + **révèle à Maria-Luise** que le groupe sait pour le faux empereur. **Maria-Luise lui confirme** : Karl-Franz alité depuis ~1 an, édits récents hors moyens. **Canal Maria-Luise via Pesold établi** — important pour ch.13 climax canon où Maria-Luise donne tokens retinue.
 

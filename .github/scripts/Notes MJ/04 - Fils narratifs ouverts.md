@@ -37,7 +37,7 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 ### 2. Démasquer Henrik Kappelmuller (ch. 8 du livre)
 - Médecin de Karl-Franz, l'empoisonne avec Purple Brain Pox (induite par Gideon).
 - Si démasqué, **Karl-Franz se rétablit** → climax beaucoup plus facile.
-- Pour le voir, il faut convaincre Immanuel-Ferrand / Maria-Luise / Ermine, **Test Charm Très Difficile**.
+- Pour le voir, il faut convaincre Immanuel-Ferrand / Maria-Luise / Hermine, **Test Charm Très Difficile**.
 - Indices : visites régulières de **Elvyra** (mature lady, accent Altdorf) et **Gideon** (boy ~13 ans, coupe au bol, large sourire).
 - En cas d'affrontement : Black Lotus daggers + Ranald's Delight + throwing knives. Gold 1 assassin.
 
@@ -65,7 +65,7 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - Émeute à la porte (Sergent Egon Pfeffer).
 - Possible **rencontre Captain Emil Baecker** si Zuntermein vivant (tente de voler le marteau).
 - **Maria-Luise convoque les PJ** discrètement, leur donne des tokens.
-- Investigations possibles : Volkshalle (reliquaire piégé par **Albertus Goldformer**), Ermine + caves à vin (accès Gideon), Reiksguard infiltrée (**Baron von Teufelsmilch** commande, Reiksmarshall Helborg absent).
+- Investigations possibles : Volkshalle (reliquaire piégé par **Albertus Goldformer**), Hermine + caves à vin (accès Gideon), Reiksguard infiltrée (**Baron von Teufelsmilch** commande, Reiksmarshall Helborg absent).
 - **La cérémonie** : reliquaire piégé → trappe → marteau dans les caves → Sheerargetru manifeste avec **9 Incarnations** (Wolfgang + 9 Yeux).
 
 ---

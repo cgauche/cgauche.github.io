@@ -76,7 +76,7 @@ Stats partielles d'après le canon :
 
 - **Levier MP non exploité** : exploitable par Wasmeier vivant Arc 6.
 - **Bruno Kohl** : si capturé/tué, Hildegarde dégagée du chantage.
-- **Anti-Sigmar Arc 7** : possibles sympathies avec les Sons of Ulric.
+- **Anti-Sigmar Arc 7** : possibles sympathies avec les Fils d'Ulric.
 
 ## Fils ouverts
 
@@ -85,7 +85,7 @@ Stats partielles d'après le canon :
 
 ## Liens
 
-- **Arcs** : [[Arc 5 - Power Behind the Throne]] (S34+ secondaire), Arc 6-7 (possible alliée Sons of Ulric).
+- **Arcs** : [[Arc 5 - Power Behind the Throne]] (S34+ secondaire), Arc 6-7 (possible alliée Fils d'Ulric).
 - **PNJ-clé** : [[Katarina Todbringer]] (charge), Bruno Kohl (neveu chantageur), [[Boris Todbringer]] (souverain), [[Emil Valgeir]] (sympathie idéologique potentielle).
 - **Lieux** : [[Middenheim]] (Inner Palace avec Katarina).
 - **Factions** : Court de Middenheim, **sympathisante naïve [[Main Pourpre]]** (croit que c'est cult Ulrican puritain).

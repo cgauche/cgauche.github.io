@@ -36,7 +36,7 @@ Mesure 6'1" (1,85 m), figure jadis imposante désormais marquée par l'âge : ch
 
 ## Plans en cours
 
-- **Coalition Ulricane du Nord** : appui à Werner Nikse contre la rébellion nordlandaise (qu'il croit fomentée depuis Altdorf), maintien d'une posture militaire dissuasive contre les Sons of Ulric `EiR Intro l.916`.
+- **Coalition Ulricane du Nord** : appui à Werner Nikse contre la rébellion nordlandaise (qu'il croit fomentée depuis Altdorf), maintien d'une posture militaire dissuasive contre les Fils d'Ulric `EiR Intro l.916`.
 - **Mariage Katarina Todbringer / Wolfgang Holswig-Abenauer** : accepte à contrecœur la proposition du Grand Théogoniste comme prix de la paix impériale `EiR ch.5 l.95`.
 - **Vote du Conclave** : exige une intervention contre Theoderic Gausser et le commandement temporaire d'un corps d'armée d'Altdorf comme gage de bonne foi `EiR ch.7 l.242`.
 
@@ -50,7 +50,7 @@ Mesure 6'1" (1,85 m), figure jadis imposante désormais marquée par l'âge : ch
 - **S40-S55** — Rétablissement progressif (Arc 6). Boris redevient actif et engagé, reprend la chasse, évoque même le retour à l'aventure militaire de sa jeunesse `PBT ch.7 l.596`. Audience S48 où la menace Skaven est officialisée par Boris auprès des PJ.
 - **S55-S56** — Présent indirectement via Heinrich Todbringer sur le dirigeable *Sky Wolf* qui récupère les PJ après Karak Skygg `EiR ch.1 l.28+36`.
 - **S57** — Audience de retour au Middenpalaz : Boris reçoit les PJ + Heinrich Todbringer + Veiran Thugenheim, congédie le reste, consulte les PJ sur l'opportunité de recevoir le High Capitular Volkmar. Heinrich et Veiran s'étonnent de la déférence du Graf envers les PJ `EiR ch.2 l.108-116`. Le Graf retrouve progressivement son autorité, encore un peu hésitant après sa période de retrait `EiR ch.2 l.165-167`.
-- **S58** — Shining Rock : commande la défense du camp Middenheim contre les Sons of Ulric `EiR ch.3 l.215-218`.
+- **S58** — Shining Rock : commande la défense du camp Middenheim contre les Fils d'Ulric `EiR ch.3 l.215-218`.
 - **S60** — March of Unity à Altdorf : maintient une distance polie avec le cortège impérial et rumine le prix payé `EiR ch.5 l.95`. Un échange chuchoté détecté en *Lipreading* révèle que Holzkrug murmure à von Feilbach que Boris suspecte la supercherie `EiR ch.5 l.309`.
 - **S61 — Mariage Katarina** : conduit sa fille à l'autel `EiR ch.6 l.188`. Cible des conspirateurs canon : Lord Malthe Barthelm planifie une attaque contre la famille Todbringer pendant la cérémonie, ciblant Katarina Todbringer, Heinrich Todbringer et Boris dans cet ordre `EiR ch.6 l.225-226`.
 - **S62 — Conclave d'urgence** : dénonce la sédition nordlandaise et les attaques contre sa famille `EiR ch.7 l.242` ; s'emporte contre Hermann von Feilbach (faux Karl-Franz Holswig-Schliestein) qui brandit Ghal Maraz vers lui en lui ordonnant courtoisie ou silence ; Boris saisit son Runefang (*Peak Leveller*) pour parer, frappe en transe, et le marteau d'imitation vole en neuf fragments — geste qui révèle que ce Ghal Maraz est un faux `EiR ch.7 l.247-250`. Ordonne le retour à Middenheim `EiR ch.7 l.265`.

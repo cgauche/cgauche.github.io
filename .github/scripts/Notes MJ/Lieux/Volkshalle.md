@@ -39,7 +39,7 @@ Galerie pour observateurs. Réfectoire attenant.
   Ludwig le Gros, ancien système d'ascenseur royal pour descendre boire
   post-réunion (trône-ascenseur retiré depuis longtemps, puits couvert).
   Gideon a fait creuser/découvrir le trou récemment.
-- **Stewardess** : Ermine Liebwitz von Decker und Hanulf — soudoyée par
+- **Stewardess** : Hermine Liebwitz von Decker und Hanulf — soudoyée par
   Gideon, arrêtée post-facto pour trahison.
 
 ## Hooks
@@ -54,5 +54,5 @@ Galerie pour observateurs. Réfectoire attenant.
 ## Liens
 
 - **Lieu parent** : Altdorf (Palais Impérial).
-- **PNJ associés** : Albertus Goldformer (orfèvre), Ermine Liebwitz von Decker und Hanulf (cellier), Baron von Teufelsmilch (Reiksguard infiltré), Yorri XV (mort climax).
+- **PNJ associés** : Albertus Goldformer (orfèvre), Hermine Liebwitz von Decker und Hanulf (cellier), Baron von Teufelsmilch (Reiksguard infiltré), Yorri XV (mort climax).
 - **Climax** : ch.13 EiR — 9 Brauzeit 2512.

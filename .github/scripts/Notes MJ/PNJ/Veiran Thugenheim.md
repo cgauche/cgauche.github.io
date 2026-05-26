@@ -1,109 +1,86 @@
 # Veiran Thugenheim
 
-[Veiran Thugenheim — Lexicanum](https://whfb.lexicanum.com/wiki/Veiran_Thugenheim) · [Veiran Thugenheim — Fandom](https://warhammerfantasy.fandom.com/wiki/Veiran_Thugenheim)
+**Sous-titre** : Précepteur des Chevaliers Panthères, compagnon chéri du Graf Boris Todbringer  
+**Statut** : [ALLIÉ Arc 6 (S55 dirigeable) → ALLIÉ MAJEUR Arc 7 → DISPARU S63 (homebrew, attaque manoir Todbringer)]
 
-> **Preceptor de la Chevaliers Panthères** de Middenheim. **Duc de Thugenheim** (vassal Todbringer). **Compagnon chéri de [[Boris Todbringer]]** + ami de [[Heinrich Todbringer]]. **Modéré Ulrican**. Apparait sur le dirigeable Karak Skygg S55 (Arc 6), puis allié majeur Arc 7. **Disparaît S63** (homebrew, attaque manoir Todbringer) — corps non retrouvé.
+## Apparence et manières
 
-> **Note orthographe** : Sources divergentes.
-> - **Canon Cubicle 7 WFRP 4e** : « **Veiran** » (HR + EiR Intro, uniforme).
-> - **PBT ch.2 PDF** : « **Vieiran** » (probable artefact OCR).
-> - **Lexicanum WHFB wiki** (wiki autoritatif Games Workshop) : « **Veiran** ».
-> - **Fandom Warhammer wiki** : « **Veiran** ».
->
-> À table + dans toutes les Notes MJ = « **Veiran** » — orthographe assumée par le MJ (alignée avec Fandom) et propagée pour cohérence locale, malgré la prééminence de « Veiran » dans le canon PDF + Lexicanum.
+Massif, comparable en stature à Heinrich Todbringer (6'11" / 2,10 m), armure et décorations des Chevaliers Panthères visibles sous l'éclairage des brûleurs du dirigeable au-dessus de Karak Skygg `HR l.5585`. Tête de la maison Thugenheim, lignée ancienne du Middenland connue pour ses fêtes opulentes dans ses vastes domaines à l'ouest du Grand Duché ; les Thugenheim ont fait de la loyauté aux Todbringer une valeur centrale depuis des générations `EiR Intro l.991-993`. Tonitruant et bonhomme, prêt à jouer le fou pour désamorcer les tensions ; derrière la façade : focalisé, impitoyable dans l'identification et l'élimination des menaces à la sécurité de Middenheim `EiR Intro l.995`. À Middenheim, c'est le favori que le Graf Boris Todbringer écoute pour la vérité brute, là où Rallane Lafarel apporte le divertissement courtisan — assume seul le rôle qu'un fou de cour assumerait ailleurs `Middenheim ch.1 l.397`. Conseiller privé du Graf, vétéran de campagne, commandant senior de l'Ordre des Chevaliers Panthères `Middenheim ch.1 l.384`. Sur le dirigeable au-dessus des Monts du Milieu Arc 6 S55, se penche pour murmurer à l'oreille de Heinrich Todbringer en lançant des regards noirs aux PJ, faisant les cent pas sur le pont visiblement agacé par le retard du voyage `HR l.5589`. Un sourire en coin malicieux apparaît lorsqu'il complote pour son liège — signature canon au défilé d'Altdorf quand passe la bannière de Carroburg (voir Apparitions canon S60) `EiR ch.5 l.217`.
 
-## Identité publique
-- **Titre** : **Duc de Thugenheim** (vassalité Todbringer, le Duchy de Thugenheim couvre une partie du Middenland, canon *Middenheim - City of the Loup Blanc* p.129+291).
-- **Fonction militaire** : **Preceptor de la Chevaliers Panthères** de Middenheim (canon EiR ch.7 p.63). Officier élite, escorte du Graf et de la famille Todbringer.
-- **Apparence** : **Massif** (canon HR : « *the equally massive Veiran Thugenheim* » → comparable à Heinrich qui mesure 6'11" / 2.10m). **Uniforme Chevaliers Panthères** + décorations.
-- **Personnalité** : **Loyal absolu à Boris** + Heinrich. **Modéré Ulrican** (canon EiR ch.5). **Mischievous twinkle** quand il manigance pour son liège (canon EiR ch.5 l.217 : *« Thugenheim smiles with a mischievous twinkle in his eye »*). **Sarcastique** envers les forces du Reikland.
-- **Famille** : **Thugenheims** = lignée historique du Middenland, plusieurs héros des War of the Poses sont Thugenheims. **Loyauté générationnelle aux Todbringers** (canon EiR Intro p.971 : « *the Thugenheims have emphasised loyalty to the Todbringers as a core value for generations* »).
-- **Statut** : [VIVANT Arc 5 (absent à Wolfenburg) → ALLIÉ Arc 6 (dirigeable S55) → ALLIÉ MAJEUR Arc 7] → [DISPARU S63 — corps non retrouvé]
-- **Tags** : `#VeiranThugenheim` `#Thugenheim` `#KnightsPanther` `#Preceptor` `#Middenheim` `#DuchyOfThugenheim` `#Boris` `#Heinrich` `#Modéré` `#Ulrican` `#Arc5` `#Arc6` `#Arc7` `#DisparuS63`
+> **Note orthographe** : Le canon PDF Cubicle 7 alterne entre **Veiran** (EiR Intro l.988+993+995+998, uniforme) et **Vieran** (EiR ch.2 l.108, ch.6 l.192, ch.7 l.63 ; Middenheim ch.1 l.383-384). Lexicanum et Fandom retiennent **Veiran**. Forme retenue à table et dans les Notes MJ : **Veiran**.
 
-## Source canon
-- **PBT ch.2 *The Prodigal Son*** (canon p.32, accompagne Heinrich à Wolfenburg) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md`
-- **The Horned Rat** (canon Vol 4, dirigeable Karak Skygg) : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - Enemy Within Campaign Volume 4 The Horned Rat.md` ligne 5585.
-- **EiR Introduction** (canon l.966+971, description complète de la maison Thugenheim) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/03 - Introduction.md`
-- **EiR ch.1 *Dirigible in Danger*** (canon l.8+246) : sur le dirigeable avec Heinrich.
-- **EiR ch.2 *Chilly Reception*** (canon l.93+108+150) : présent à l'audience post-S56.
-- **EiR ch.3 *Journey to Shining Rock*** (canon l.61+156+216+248+259) : voyage Shining Rock, dialogues avec Elvyra, combats Sons of Ulric.
-- **EiR ch.5 *March of Unity*** (canon l.38+97+199+204+217+232+268+270+274+280+316+323) : présent défilé Altdorf, modéré Ulrican. *« mischievous twinkle »* canon l.217 (banner Carroburg).
-- **EiR ch.6 *The Wedding*** (canon l.192) : présent au mariage Katarina-Wolfgang en uniforme Chevaliers Panthères (le page porte la bannière, pas Veiran).
-- **EiR ch.7 *Emergency Conclave*** (canon l.63 NPC sheet « *Preceptor Veiran Thugenheim* »).
-- **Middenheim - City of the Loup Blanc ch.1 + ch.5** (Veiran Favourite + Duchy of Thugenheim) : `Source/Middenheim - City of the Loup Blanc/`
-- **PBT Companion ch.7 *The Cult of Ulric*** (canon p.322+344, mentions liées à Boris).
+## Phrases canon
 
-## Statbloc canon
+- *« We all want to get home in one piece my lord, but there are miscreants down there who just made an attempt on your life, and they may send more rockets flying towards us at any moment. I suggest we land and take the fight to them. »* — désaccord avec Heinrich Todbringer après l'attaque des séparatistes nordlandais sur le dirigeable, voudrait atterrir pour engager les attaquants `EiR ch.1 l.248`.
+- *« Protect your Graf! »* — ordre à Shining Rock pendant l'attaque des Fils d'Ulric, 3 chevaliers à la poursuite, 11 restent au camp `EiR ch.3 l.219`.
+- *« As a member of the Knights Panther, I am sworn to act in the best interests of national unity and to protect the Graf of Middenheim: tasks that will grow increasingly fraught if the Empire should fall to civil war. With the Graf's permission, I have brought a relic of a previous age from the Middenpalaz vaults. This is an enchanted war banner taken at Carroburg during the Age of Wars. »* — présentation de la bannière de Carroburg aux PJ comme cadeau prénuptial pour le Prince Héritier `EiR ch.4 l.26`.
+- *« You'll spoil the surprise! »* — tente de dissuader les PJ de consulter les Sigmarites au sujet du cadeau, quand ces derniers cherchent à vérifier l'opportunité politique `EiR ch.4 l.35`.
+- *« It's a show of strength. It's got Holswig-Schliestein or Holzkrug's mark all over it. »* puis *« It's provoking me … we're powerful, but Middenheim can't raise a force like this. »* — chuchoté au Graf Boris Todbringer et à Katarina Todbringer pendant le défilé d'Altdorf `EiR ch.5 l.270+274`.
+## Réseau
 
-Stats détaillées probablement dans EiR ch.7 NPC sheets ou Middenheim City of the Loup Blanc. Par défaut (à étoffer à la lecture canon précise) :
-- **Carrière** : Knight (Gold) — Chevaliers Panthères Preceptor.
-- **Compétences fortes** : Melee (Cavalry, Basic, Polearm), Charm, Cool, Endurance, Leadership, Lore (Heraldry, Middenheim, Warfare), Ride (Horse).
-- **Talents** : Combat Master, Etiquette (Nobles, Soldiers), Inspiring, Noble Blood, Warrior Born.
-- **Trappings** : Plate armour Chevaliers Panthères + décorations + magical sword (à confirmer).
+- **Liège** : Graf Boris Todbringer — Veiran est son compagnon chéri et un précepteur des Chevaliers Panthères de Middenheim `EiR Intro l.993`. Conseiller privé, vétéran de campagne, commandant senior de l'Ordre `Middenheim ch.1 l.384`. Le Graf lui parle directement parmi ses confidents les plus proches `EiR ch.7 l.17`.
+- **Frère d'armes** : Heinrich Todbringer — compagnon de la mission diplomatique à Wolfenburg en Ostland, présent à ses côtés sur le dirigeable *Sky Wolf* `PBT ch.2 l.146`. Ensemble sur le vol retour de Karak Skygg `HR l.5585`. Visiblement surpris (avec Heinrich Todbringer) de la déférence du Graf Boris envers les PJ — réaction lisible à un Test *Perception* `EiR ch.2 l.116`.
+- **Fils** : Vorn Thugenheim — Veiran nourrit en secret l'ambition que Vorn le suive et le surpasse ; il l'a tutoré dans tous les rouages du pouvoir séculier et l'a fait initier à l'Ordre des Chevaliers du Loup Blanc `Middenheim ch.1 l.384`.
+- **Charge protégée** : Katarina Todbringer — voyage à Shining Rock dans son carrosse avec Hildegarde Zimperlich, escorte de fait depuis le retour au Middenpalaz S57 `EiR ch.3 l.61`. Plaide avec Heinrich Todbringer pour assister au Conclave d'urgence malgré la méfiance d'Emil Valgeir `EiR ch.7 l.19`.
+- **Manipulé sans le savoir** : Yann Zuntermein — l'aborde discrètement à Shining Rock après l'acceptation de la proposition de mariage, lui souffle l'existence de la bannière de Carroburg dans les chambres-fortes du Middenpalaz, le persuade de l'envoyer au Prince Héritier comme cadeau prénuptial — Veiran ignore le piège politique `EiR ch.4 l.30`. Au défilé d'Altdorf, Zuntermein, Liepmund Holzkrug et Immanuel-Ferrand Holswig-Schliestein parlent entre eux pendant que Veiran regarde le défilé avec enthousiasme initial `EiR ch.5 l.204`.
+- **Échanges hostiles** : Lord Malthe Barthelm — Veiran lui demande au défilé comment va Nordland et s'il s'est occupé des fauteurs de troubles ; Barthelm répond par un grognement non-engagé `EiR ch.5 l.232`. Immanuel-Ferrand Holswig-Schliestein — Veiran l'interroge sur les tactiques employées à Ubersreik, sans intention d'offense, mais le Grand Chancelier se hérisse `EiR ch.5 l.232`. Hildegarde Zimperlich — l'escorte hors du pavillon après l'esclandre avec Emmanuelle von Liebwitz, luttant pour ne pas rire `EiR ch.5 l.316`.
+- **Faction d'élite** : Chevaliers Panthères — ordre canon de Middenheim, escorte personnelle du Graf et de la famille Todbringer. Veiran en est précepteur `EiR ch.7 l.63`. L'ordre revendique une fondation aux Croisades d'Arabie ; ses Chevaliers Panthères de Middenheim sont dotés des Talents *Implacable* et *Supportive* lorsqu'ils défendent les Todbringer `EiR Intro l.531`.
 
-## Apparitions par session
+## Objectifs et angle mort
 
-### Arc 5
-- **[S30-S39]** — **À Wolfenburg (Ostland)** en mission diplomatique avec Heinrich (canon PBT ch.2 p.32). **Non rencontré directement** par les PJ.
+**Ce qu'il veut** `EiR Intro l.998-1000` : se rétablir comme l'aide et le confident le plus proche du Graf après son absence à Wolfenburg. Cette ambition peut le mettre en conflit avec les PJ, qui ont résolu une menace sérieuse contre Boris pendant qu'il était parti — Veiran ressent le besoin de retenir sa position de favori. Grande foi dans la prouesse militaire de Middenheim, soutiendra le Graf même si Boris décide de faire la guerre aux provinces du sud.
 
-### Arc 6
-- **[S55]** — **Apparait sur le dirigeable Todbringer** au-dessus des Monts du Milieu avec Heinrich (canon HR l.5582-5585 *Need a Lift?* + *Ending the Adventure*). **Sauve les PJ + Janna Eberhauer** après la destruction de Karak Skygg. Initialement **rustre + maniéré + agacé** envers les PJ (canon : *« insignes des Todbringer s'entretenait avec agacement »*) ; **se calme** après l'explication de Janna + Elvira.
-- **[S56]** — **Retour à Middenheim** sur le dirigeable.
+**Ce qu'il sait** `EiR Intro l.995` : focalisé et impitoyable dans l'identification des menaces à la sécurité de Middenheim malgré sa façade bonhomme. À Middenheim joue le rôle de voix de la vérité brute auprès du Graf, au conseil restreint `Middenheim ch.1 l.397`. Lit la propagande politique du défilé d'Altdorf comme une démonstration de force orchestrée par Immanuel-Ferrand Holswig-Schliestein ou Liepmund Holzkrug `EiR ch.5 l.270`.
 
-### Arc 7
-- **[S57]** — **Audience du Graf** post-dirigeable. Présent quand Boris convoque les PJ pour briefing.
-- **[S58]** — **Voyage à Shining Rock** avec la délégation. **Combat les Sons of Ulric** lors du massacre de Yorri XV. **Peut prendre un coup critique** canon (table d'incidents 83-87 EiR ch.6 p.293).
-- **[S59-S60]** — **Trajet Altdorf + défilé impérial March of Unity**. **Modéré Ulrican** : enthousiaste au début puis perturbé par la puissance Reikland. Sarcasmes sur les Altdorfers.
-- **[S60]** — **Bannière Carroburg piège Wolfgang** : Veiran présente une **bannière Chevaliers Panthères** aux PJ pour le Prince Héritier Wolfgang — **piège politique orchestré par Zuntermein** (Veiran a été manipulé sans le savoir, canon EiR ch.4 l.30).
-- **[S61]** — **Mariage impérial** : Veiran suit Boris et Katarina jusqu'à mi-chemin de l'autel en uniforme Chevaliers Panthères (canon EiR ch.6 l.192 — c'est un **page** qui porte la bannière de Middenheim, Veiran les suit). **Tentative d'assassinat Barthelm/Wasmeier** sur Katarina.
-- **[S62]** — **Conseil impérial / Emergency Conclave** : présent. Soutient Boris contre Volkmar.
-- **[S63]** — **ATTAQUE DU MANOIR TODBRINGER** (homebrew off-canon). **Disparait — corps non retrouvé**. **Hook majeur** Arc 7 ch.8+.
+**Ce qu'il ignore** `EiR ch.4 l.30` : que Yann Zuntermein l'a manipulé pour faire offrir la bannière de Carroburg au Prince Héritier. Veiran croit servir l'unité impériale ; il sert en réalité l'agenda de la cellule Altdorf Main Pourpre — la bannière porte un message politique sous-jacent (« on se souvient quand on vous a battus ») que les PJ peuvent décrypter par un Test *Lore (History/Heraldry)* **Hard (–20)**, message qui blesse les sentiments ulricains tout en flattant les Sigmarites et déstabilise le mariage Katarina-Wolfgang dans son rôle de réconciliation `EiR ch.4 l.39`.
 
-## Ce que les PJ savent
+## Plans en cours
 
-### Arc 5
-- Mentionné comme compagnon de Heinrich à Wolfenburg. **Pas rencontré**.
+- **Reprendre la place de favori du Graf** : présent à toutes les audiences importantes Arc 7 (retour Middenpalaz S57, réception Volkmar von Hindenstern, salon privé pré-Conclave) — réaffirme sa pertinence après Wolfenburg `EiR Intro l.998` `EiR ch.7 l.17`.
+- **Escorter la procession middenheimer** : voyage à Shining Rock S58, défilé d'Altdorf S60, mariage S61, Conclave S62 — porte l'uniforme et les décorations des Chevaliers Panthères à chaque occasion publique `EiR ch.3 l.61` `EiR ch.5 l.38` `EiR ch.6 l.192`.
+- **Mission Conclave** `EiR ch.7 l.63-64` : être disponible quand son liège a besoin de son conseil. Entre-temps, se mêler aux autres délégations pour apprendre ce qu'elles trament. Demande aux PJ d'en faire autant et de rapporter.
+- **Servir d'instrument involontaire à la cellule Altdorf Main Pourpre** `EiR ch.4 l.30` : transmettre la bannière de Carroburg au Prince Héritier sans saisir que l'acte est un cadeau empoisonné politique orchestré par Zuntermein.
 
-### Arc 6
-- Sauveur du dirigeable Karak Skygg.
-- Officer Chevaliers Panthères.
+## Démasquage et confrontation (ch.3 + S63 homebrew)
 
-### Arc 7
-- Allié majeur, conseiller fidèle de Boris.
-- Duc de Thugenheim, Preceptor Chevaliers Panthères.
-- Modéré Ulrican, pas extrémiste.
-- **Disparu S63** lors de l'attaque manoir — sort indéterminé.
+- **Coup critique Shining Rock S58** `EiR ch.3 l.296` : sur le tirage 83-87 de la table des complications de la 2ᵉ attaque des Fils d'Ulric, Veiran reçoit un coup critique qui le force à se retirer du combat et à chercher des soins. Conséquence narrative possible : marginalisé pour le reste du voyage S58, voire l'arrivée à Altdorf S60.
+- **Manipulation Zuntermein S58 → conséquences S60+** `EiR ch.4 l.30` : si les PJ découvrent que la bannière a été suggérée par Zuntermein et le révèlent à Veiran, rage personnelle contre la cellule Altdorf Main Pourpre — allié actif des PJ contre Zuntermein possible. Levier narratif : un PJ qui passe un Test *Intuition* **Very Hard (–30)** lors de la présentation de la bannière détecte *« mischievious glint in Thugenheim's eye »* `EiR ch.4 l.15`.
+- **S63 — disparition au manoir Todbringer** (scénario table) : lors de l'attaque par « Volkmar » (en réalité Gideon le changelin), Veiran disparaît. Corps non retrouvé. Quatre scénarios possibles ouverts pour la suite Arc 7 :
+  - **Mort au combat** : corps emporté ou détruit par Gideon le changelin.
+  - **Prisonnier de la Main Pourpre** : Zuntermein l'a fait enlever pour interrogation (Veiran connaît la cour Todbringer mieux que personne).
+  - **Témoin caché** : s'est échappé blessé, se planque, peut témoigner du *vrai* Volkmar von Hindenstern absent de l'attaque (la révélation Gideon changelin se débloque).
+  - **Agent retourné** : Tzeentch l'a possédé ou retourné — peu probable vu sa fermeté morale canon, mais possible si torture.
+- **Succession Duché de Thugenheim** `Middenheim ch.5 l.291-294` : Veiran est la tête actuelle du household ; son fils Vorn Thugenheim, initié à l'Ordre du Loup Blanc, est l'héritier désigné secrètement préparé par son père `Middenheim ch.1 l.384`. Si Veiran est confirmé mort, la transmission Vorn est canonique mais peut être contestée si Vorn est en mission Teutogen Guard hors du Duché — crise de succession possible.
 
-## MJ-only
+## Apparitions canon Arc 5 → Arc 7
 
-- **Loyauté absolue à Boris + Heinrich** : Veiran soutiendrait n'importe quelle décision de la maison Todbringer, même illégale. **Mischievous side** : prêt à manipuler subtilement pour ses lièges (canon : la bannière Carroburg).
-- **Manipulé par Zuntermein S60** : Veiran ignore qu'il a été utilisé. **Hook narrative** : si les PJ le découvrent + lui révèlent, **rage personnelle contre Zuntermein** = allié actif contre la cellule Altdorf MP.
-- **Duchy of Thugenheim** : vassalité Middenland importante. Si Veiran meurt sans héritier connu, **crise de succession** dans le duchy. **Hook Arc 6/7** : qui hérite ?
-- **Disparu S63** : 4 scénarios possibles homebrew :
-  - (a) **Mort** au combat, corps emporté/détruit par le Changeling Gideon.
-  - (b) **Prisonnier** de la Main Pourpre (Zuntermein l'a fait enlever pour interrogation).
-  - (c) **Témoin caché** : s'est échappé blessé, se planque.
-  - (d) **Agent retourné** : Tzeentch l'a possédé ou retourné (peu probable, Veiran est ferme moralement, mais possible si torture).
-- **Si retrouvé Arc 7** : témoin du **vrai Volkmar** vs **Volkmar-Gideon**. Pourrait débloquer la révélation Gideon Changeling.
-- **Chevaliers Panthères** : ordre canon de Middenheim, escorte personnelle du Graf + Katarina. Veiran est leur Preceptor → **escorte de fait Katarina** depuis S57 (canon). Hook : sa disparition S63 = **brèche de sécurité** dans la garde Katarina.
+- **[S30-S39, Arc 5]** — Absent de Middenheim, en mission diplomatique à Wolfenburg (Ostland) avec Heinrich Todbringer `PBT ch.2 l.146`. Non rencontré par les PJ. Pendant son absence, les PJ sauvent Boris du Doppelgänger Hoflich — Veiran rentrera frustré d'avoir manqué la crise.
+- **[S55-S56, Arc 6]** — Apparaît sur le dirigeable Todbringer (le *Sky Wolf*) au-dessus de Karak Skygg en compagnie de Heinrich Todbringer, et récupère les PJ qui s'échappent de la forteresse naine envahie par les Skavens — la lumière des brûleurs reflète sur son armure et révèle ses décorations de Chevaliers Panthères `HR l.5585`. Se penche pour murmurer à l'oreille de Heinrich, lance des regards noirs aux PJ, fait les cent pas sur le pont visiblement agacé par le retard `HR l.5589`. Pendant l'attaque des séparatistes nordlandais de Nielsa Klammer au-dessus des Monts du Milieu, désaccord ouvert avec Heinrich : Veiran veut atterrir et engager les attaquants, Heinrich veut continuer route — si les PJ soutiennent Veiran, ils trouvent un chœur de soutien chez les pilotes nains `EiR ch.1 l.246-248`. Si l'attaque est repoussée, Heinrich prend des prisonniers contre l'avis de Veiran `EiR ch.1 l.350`.
+- **[S57] Retour au Middenpalaz** `EiR ch.2 l.93+108-116+150` — Avec Heinrich Todbringer, traverse la Place des Martiaux et croise la démonstration des Fils d'Ulric — réaction confuse à un Test *Intuition* **Hard (–20)** : Veiran et Heinrich ignoraient que l'interdiction des Fils d'Ulric avait été levée. Entre dans la salle d'audience pendant l'annonce de l'arrivée du Haut Capitulaire Volkmar von Hindenstern par Werner Stolz. Le Graf Boris Todbringer le retient avec Heinrich et les PJ pour un compte-rendu privé. Surprise visible à un Test *Perception* **Challenging** : Veiran et Heinrich écarquillent les yeux devant la déférence que Boris accorde aux PJ. Reste après le départ des PJ pour donner son propre rapport.
+- **[S57] Réception du Haut Capitulaire** `EiR ch.2 l.465+476` — Présent lors de la consultation du Graf avec Emil Valgeir sur l'opportunité de rencontrer Yorri XV. Veiran et Heinrich Todbringer plaident pour l'acceptation contre l'opposition initiale d'Emil Valgeir, qui finit par céder.
+- **[S58] Voyage à Shining Rock** `EiR ch.3 l.61` — Voyage dans le carrosse avec Katarina Todbringer et Hildegarde Zimperlich. **Conversation Elvyra** `EiR ch.3 l.156-169` : à Shining Rock, soutire de l'information à Elvyra Kleinestun sur le traitement de Ghal Maraz et de l'Empereur à la cour d'Altdorf — Veiran saisit qu'elle est une source d'information non gardée ; les PJ peuvent intervenir pour la couper avant qu'elle ne se découvre trop. Explique aux PJ la signification du sobriquet ulricain *« Hammer of the Elderly »* prononcé par Beate Moser — allusion au meurtre du roi Artur de Middenheim par Sigmar `EiR ch.2 l.91+99`.
+- **[S58] Attaque des Fils d'Ulric au camp** `EiR ch.3 l.215-220+251+276` — Commande la défense au camp de Middenheim : ordre *« Protect your Graf! »*, 3 chevaliers partent à la poursuite des assaillants, 11 restent au camp. Tant qu'il est au combat, ajoute +1 SL à la réserve des chevaliers. Sur le tirage 83-87 de la table des complications de la 2ᵉ attaque, coup critique qui le force à se retirer du combat `EiR ch.3 l.296`.
+- **[S58] Manipulation Zuntermein** `EiR ch.4 l.23-39` — Approché discrètement par Yann Zuntermein qui lui a soufflé l'existence de la bannière de Carroburg dans les chambres-fortes du Middenpalaz. Veiran porte la bannière aux PJ comme cadeau prénuptial à transmettre au Prince Héritier Wolfgang Holswig-Abenauer, en présentant le geste comme un acte d'unité nationale. Test *Intuition* **Very Hard (–30)** révèle un *« mischievious glint in Thugenheim's eye »* — Veiran sait que la bannière est un cadeau ambigu (sa loyauté va d'abord au Graf, pas aux Sigmarites) mais ignore que Zuntermein l'a manipulé.
+- **[S60] Défilé d'Altdorf — March of Unity** `EiR ch.5 l.38+97+199+204+217+232+270-280+316+323` — Loge à Helstein Manor avec les Todbringer et Emil Valgeir. Enthousiaste au début du défilé, puis perturbé en mesurant la puissance des forces reiklandaises ; sarcasmes sur les régiments d'Altdorf — **Modéré Ulrican**. À 1h45 : explique à Katarina Todbringer l'identité du Colonel Sievers et sa réputation. À 2h00 : enthousiaste. À 2h40 : sourire entendu (*« mischievous twinkle in his eye »*) quand passent les Greatswords de Carroburg avec la bannière middenheimer — Volkmar von Hindenstern et Yorri XV foudroient Boris Todbringer du regard, Lord Malthe Barthelm s'étonne du retour de la bannière. À 2h50 : interroge Immanuel-Ferrand Holswig-Schliestein sur les tactiques à Ubersreik, sans intention d'offense ; le Grand Chancelier se hérisse. Interroge Lord Malthe Barthelm sur Nordland, qui répond par un grognement non-engagé. À 3h30 : chuchote au Graf et à Katarina sa lecture du défilé comme démonstration de force orchestrée par Immanuel-Ferrand Holswig-Schliestein ou Liepmund Holzkrug ; surpris par la réponse mature de Katarina. À 5h30 : escorte Hildegarde Zimperlich hors du pavillon après l'esclandre Emmanuelle von Liebwitz vs Zimperlich, luttant pour ne pas rire. À 6h30 : bondit sur ses pieds avec Emil Valgeir et le Graf quand Maximillian Steil pousse la bataille simulée jusqu'au sang.
+- **[S61] Mariage à la Grande Cathédrale de Sigmar à Altdorf** `EiR ch.6 l.192` — Suit Katarina Todbringer et le Graf Boris Todbringer jusqu'à mi-chemin de l'autel dans l'uniforme des Chevaliers Panthères (un page porte la bannière de Middenheim devant eux). La cérémonie est interrompue par l'attentat de Lord Malthe Barthelm sur Katarina avec intervention de Karl-Heinz Wasmeier. Cible n°1 du plan canon Barthelm-Wasmeier : Katarina, Heinrich Todbringer, Boris dans cet ordre `EiR ch.6 l.225-226`.
+- **[S62] Salon privé pré-Conclave + Conclave d'urgence** `EiR ch.7 l.17-19+63-64+192` — Dans le salon privé du Graf, Veiran plaide avec Heinrich Todbringer et Katarina Todbringer pour assister au Conclave d'urgence malgré la méfiance d'Emil Valgeir ; le Graf accepte. Au Conclave, classé parmi les non-Électeurs admis dans la galerie, sa mission est d'être disponible pour le Graf et d'apprendre ce que les autres délégations trament — il demande aux PJ d'en faire autant. Pendant la 2ᵉ pause, prend un ou deux PJ à part avec Heinrich Todbringer pour recueillir leurs impressions.
+- **[S63] Attaque du manoir Todbringer** (scénario table hors canon) — Disparaît pendant l'attaque par « Volkmar » (en réalité Gideon le changelin). Corps non retrouvé. Voir *Démasquage et confrontation* ci-dessus pour les quatre scénarios ouverts.
 
-## Hooks de retour
+> Dans la voie canon EiR, Veiran survit au Conclave et peut être présent à la cérémonie de remise de Ghal Maraz au Volkshalle (ch.13) `EiR ch.7 l.105` — son sort post-Conclave n'est pas fixé par le canon. Le réordonnancement table place sa disparition à S63 lors de l'attaque homebrew.
 
-- **Dirigeable S55** : sauveur des PJ + connection Heinrich.
-- **Shining Rock S58** : peut être blessé selon table d'incident.
-- **Bannière piège S60** : manipulation Zuntermein.
-- **Disparu S63** : 4 scénarios possibles, **gros hook Arc 7 ch.8-13**.
+## Statbloc — Knight (Gold) — Précepteur des Chevaliers Panthères
 
-## Fils ouverts
+Le canon EiR ne fournit pas de statbloc complet pour Veiran. La fiche personnage du Conclave d'urgence se limite aux *Goals* `EiR ch.7 l.63-64`. Profil reconstitué par défaut sur la carrière Knight de WFRP4 et les indices canon disponibles :
 
-- **FIL Veiran disparu S63** — sort indéterminé, hook majeur.
-- **FIL Veiran manipulé par Zuntermein (bannière)** — non révélé.
-- **FIL Duchy of Thugenheim sans héritier** — si mort confirmée.
+- **Carrière** : Knight (Gold) — Précepteur des Chevaliers Panthères de Middenheim `EiR Intro l.993` `EiR ch.7 l.63` `Middenheim ch.1 l.384`.
+- **Compétences attendues** : Melee (Basic, Cavalry, Polearm), Charm, Cool, Endurance, Intuition, Leadership, Lore (Heraldry, Middenheim, Warfare), Perception, Ride (Horse).
+- **Talents attendus** : Combat Master, Etiquette (Nobles, Soldiers), Inspiring, Noble Blood, Warrior Born ; Implacable et Supportive lorsqu'il défend les Todbringer `EiR Intro l.531`.
+- **Trappings attendus** : Plate Armour Chevaliers Panthères, épée, décorations visibles à la lumière des brûleurs du dirigeable `HR l.5585`.
 
-## Liens
+À étoffer si une source canon (Middenheim - City of the White Wolf, EiR ch.7 NPC sheet) fournit un statbloc précis ; sinon improviser sur le profil Knight Gold standard WFRP4.
 
-- **Arcs** : Arc 5 (mention indirecte, à Wolfenburg), Arc 6 (S55 dirigeable), Arc 7 (allié majeur + disparu S63).
-- **PNJ-clé** : [[Boris Todbringer]] (liège), [[Heinrich Todbringer]] (compagnon), [[Katarina Todbringer]] (charge protégée), [[Stefan Todbringer]] (protégé via Pavarotti), **Volkmar canon** (collègue à l'Emergency Conclave), [[Gideon]] (« Volkmar-fake » = meurtrier S63 ?), [[Yann Zuntermein]] (manipulateur S60, ennemi).
-- **Lieux** : [[Middenheim]] (Middenpalaz, Chevaliers Panthères HQ), Duchy of Thugenheim (Middenland), Altdorf (Arc 7 mariage).
-- **Factions** : **Chevaliers Panthères** (Preceptor), [[Maison Todbringer]] (vassal), [[Cult d'Ulric]] (modéré).
+## Liens externes
+
+- [Veiran Thugenheim — Lexicanum](https://whfb.lexicanum.com/wiki/Veiran_Thugenheim)
+- [Veiran Thugenheim — Fandom](https://warhammerfantasy.fandom.com/wiki/Veiran_Thugenheim)
+- [Chevaliers Panthères — Bibliothèque Impériale](https://bibliotheque-imperiale.com/index.php/Chevaliers_Panth%C3%A8res)

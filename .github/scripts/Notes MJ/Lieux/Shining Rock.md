@@ -1,15 +1,15 @@
 # Shining Rock
 
-> **Sacred Shrine Sigmar + Ulric simultanément** — unique Empire. Located ~50 miles sud Middenheim, juste nord Malstedt. Scène S58 attaque Bearers of the Blood (Beate Moser) durant rencontre Volkmar+Yorri ↔ Ar-Ulric Emil + Boris.
+> **Sacred Shrine Sigmar + Ulric simultanément** — unique Empire. Located ~50 miles sud Middenheim, juste nord Malstedt. Scène S58 attaque Porteurs de Sang (Beate Moser) durant rencontre Volkmar+Yorri ↔ Ar-Ulric Emil + Boris.
 
 ## Identité
 - **Type** : **Place of Shining Rock** — sanctuaire dédié à la fois Sigmar et Ulric. **Unique Empire** dualité religieuse.
 - **Localisation** : ~50 miles sud Middenheim, juste nord **Malstedt**.
-- **Tags** : `#ShiningRock` `#Sanctuaire` `#Sigmar` `#Ulric` `#NeutralRock` `#Malstedt` `#Volkmar` `#Yorri` `#ArUlric` `#BearersOfBlood` `#BeateMoser` `#Mark` `#Arc7` `#S58` `#Ch3`
+- **Tags** : `#ShiningRock` `#Sanctuaire` `#Sigmar` `#Ulric` `#NeutralRock` `#Malstedt` `#Volkmar` `#Yorri` `#ArUlric` `#PorteursDeSang` `#BeateMoser` `#Mark` `#Arc7` `#S58` `#Ch3`
 
 ## Source canon
 - **EiR ch.3 l.75-86** *The Legend of Shining Rock* + *Arrival* + *The Shrine Attacked*.
-- **EiR ch.3 l.193-336** *The Attack* — 3 groupes Sons of Ulric.
+- **EiR ch.3 l.193-336** *The Attack* — 3 groupes Fils d'Ulric.
 
 ## Légende canon ch.3 l.76-82
 
@@ -39,23 +39,23 @@
 - **Altdorf delegation déjà arrivé** : Volkmar von Hindenstern + 20 knights (Knights Griffon + Fiery Heart + Panthères d'Altdorf) + Yann Zuntermein + Elvyra Kleinestun. Coach gone Altdorf.
 - **15:00 prière silencieuse** Ar-Ulric+Yorri au boulder peint. 5 minutes voices low. Agreement gesture unity (eavesdrop magic).
 - **Vigil sanctuaire nuit** : *« decided to spend night inside shrine, conducting vigil with few knights »*.
-- **04:30 attaque Sons of Ulric** 3 groupes :
+- **04:30 attaque Fils d'Ulric** 3 groupes :
   - **Groupe 1** (6) : peinture boulder Sigmar + diversion.
   - **Groupe 2** (20) **Weregardt Schlupmann** leader Loup Blanc traître : rampage Sigmarite camp.
-  - **Groupe 3** (30) **Beate Moser** leader Bearers of the Blood : sanctuaire kill Yorri + humiliate Ar-Ulric.
-- **Bilan canon résumé table** : 50 Sons of Ulric morts + 20 soldats Altdorf morts. **Mark perd œil gauche** (homebrew table — canon prévoit critical hit table d10).
+  - **Groupe 3** (30) **Beate Moser** leader Porteurs de Sang : sanctuaire kill Yorri + humiliate Ar-Ulric.
+- **Bilan canon résumé table** : 50 Fils d'Ulric morts + 20 soldats Altdorf morts. **Mark perd œil gauche** (homebrew table — canon prévoit critical hit table d10).
 - **Yorri survit canon** (PJ aident défense). **Ar-Ulric survit canon**.
 - **Rapprochement Sigmar-Ulric brisé** → Katarina accepte mariage Wolfgang pour stabiliser.
 
 ## Ce que les PJ savent
 - Sanctuaire dual Sigmar/Ulric unique.
-- Sons of Ulric extrémistes attack massacre.
+- Fils d'Ulric extrémistes attack massacre.
 - Mark perd œil — *« encore un œil en moins »*.
 
 ## MJ-only
 - **Pas cultiste site — sacré authentique**.
 - **Beate Moser claim descent Ulric** : canon profile p.66.
-- **Weregardt Schlupmann** : signal howls Sons of Ulric scout.
+- **Weregardt Schlupmann** : signal howls Fils d'Ulric scout.
 
 ## Hooks Arc 7
 - **S58 défense Vigil** : earlier warnings (canon ch.3 l.10-14 Alfric Half-Nose info Bretonnian House Inn Altquartier 6 shillings).
@@ -65,4 +65,4 @@
 - **Arcs** : Arc 7 (S58 unique).
 - **PNJ** : [[Volkmar von Hindenstern]], [[Yorri XV]], [[Emil Valgeir]] Ar-Ulric, [[Yann Zuntermein]], [[Elvyra Kleinestun]], [[Beate Moser]], **Weregardt Schlupmann** Loup Blanc traître, **Konrad Metternich** Cleric-Captain Fiery Heart, [[Boris Todbringer]] + [[Heinrich Todbringer]] + [[Katarina Todbringer]] + [[Veiran Thugenheim]].
 - **Lieux** : [[Middenheim]] (50 miles nord), **Malstedt** (sud proche), **Grubentreich** (étape voyage).
-- **Factions** : **Sons of Ulric**, **Bearers of the Blood**, **Chevaliers Panthères**, **Loup Blanc**, **Fiery Heart**, **Knights Griffon**, **Cult de Sigmar + Cult d'Ulric** (dual sanctuaire).
+- **Factions** : **Fils d'Ulric**, **Porteurs de Sang**, **Chevaliers Panthères**, **Loup Blanc**, **Fiery Heart**, **Knights Griffon**, **Cult de Sigmar + Cult d'Ulric** (dual sanctuaire).

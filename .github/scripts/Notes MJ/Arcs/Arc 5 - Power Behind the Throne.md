@@ -24,7 +24,7 @@
   - `Source/Power Behind the Throne Companion/04 - The Graf's Garden Party.md` (Garden Party joué scène par scène — S34)
   - `Source/Power Behind the Throne Companion/10 - The Changeling.md` (alternative Doppelgänger = **inflexion table** = Gideon)
   - `Source/Power Behind the Throne Companion/05 - Cameo Adventures.md` (rencontres mineures du carnaval — Bamber's Singing Frogs)
-  - `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Ar-Ulric Jarrick Valgeir + Emil Valgeir + Sons of Ulric)
+  - `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Ar-Ulric Jarrick Valgeir + Emil Valgeir + Fils d'Ulric)
   - `Source/Power Behind the Throne Companion/08 - Some very important people.md` (Heinrich Todbringer agents + Nastassia)
 - **Tags** : `#PowerBehindTheThrone` `#PBT` `#Middenheim` `#Carnaval` `#TaxesInjustes` `#BorisTodbringer` `#KatarinaTodbringer` `#StefanTodbringer` `#HeinrichTodbringer` `#JosefSparsam` `#UlrichSchutzmann` `#KarlHeinzWasmeier` `#JoachimHoflich` `#ReinerEhrlich` `#GotthardWallenstein` `#GotthardWittgenstein` `#EmmanuelleSchlagen` `#JarrickValgeir` `#ArUlric` `#EmilValgeir` `#RallaneLafarel` `#AllavandrelFanmaris` `#DieterSchmiedehammer` `#NatashaSinnlich` `#PetraLiebkosen` `#KirstenJung` `#LuigiPavarotti` `#SiegfriedPrunkvoll` `#HildegardeZimperlich` `#JannaEberhauer` `#AlbrechtHelseher` `#Yuridika` `#BrunhildeKlaglich` `#FrauKenner` `#Charlotte` `#EliseKaltblutig` `#BrunoKohl` `#JadeSceptre` `#MainPourpre` `#PurpleHand` `#Kalzbad` `#Jarmund` `#Bhar` `#Vogel` `#Skavens` `#Snikkit` `#TemplarArms` `#ThePit` `#Altquartier` `#Ostwald` `#Palast` `#Fauschlag` `#Doppelganger` `#Changeling` `#Gideon` `#RanaldsDelight` `#PurpleBrainPox` `#Hypnose` `#FilianoreSacrificeS33` `#CroixDeLilas` `#PathsokarChampion` `#MarkFlammeUlric` `#YuridikaApprentie` `#AnselmTour` `#DietrichRecontre` `#EberhardtRichter` `#ErichKalzbad-Promo` `#HannesBrucker` `#ReinVolkhard`
 
@@ -112,7 +112,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Entourage du Graf** mentionné : le **Ménestrel** [[Rallane Lafarel]] (elfe), le médecin du fils **Luigi Pavarotti** (tilien). **Fils Heinrich** dans une autre région (canon : Wolfenburg, mission diplomatique). **Fille Katarina** « la Princesse » (légalement Baronne — non héritière). **Stefan** = seul héritier légal, mais inapte.
 - **Capitaine [[Ulrich Schutzmann]]** [canon ch.6 *Marshal Sheet*] — Chef de la garde (Watch Commander). « Approuve peu cette loi qui stigmatise les nains » et leur utilité défensive. **Sigmarite** dans une ville Ulricaine — exception remarquable.
 - **Réactions publiques** : Marchands soulagés (pas eux), Dwarfs furieux (un nain furieux = violent), érudits et sorciers font leurs bagages, temples accablés (sauf Ulric, étrangement tranquille). **Ar-Ulric ne dit rien** = suspicion publique.
-- **Sons of Ulric / tensions Sigmar-Ulric** [canon ch.2 *Growing Tensions* + ch.4 *Religion*] — Prédicateurs Ulric extrémistes, slogans « Middenland for Middenfolk », attaques sur Sigmarites en arrière-plan. **Trompette d'un futur conflit civil** (Arc 7).
+- **Fils d'Ulric / tensions Sigmar-Ulric** [canon ch.2 *Growing Tensions* + ch.4 *Religion*] — Prédicateurs Ulric extrémistes, slogans « Middenland for Middenfolk », attaques sur Sigmarites en arrière-plan. **Trompette d'un futur conflit civil** (Arc 7).
 - **Tour de magie + Janna Eberhauer** [canon ch.4 + ch.6 *Wizards*] — Affleurement de la mention. La Grand Guild of Wizards est mécontente. Helseher inaccessible, Janna plus approchable.
 
 ### Ce que les PJ savent à la fin de S31
@@ -574,7 +574,7 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/15 - Appendix IV- Master Attractions Calendar.md` (qui est où quand)
 - `Source/Power Behind the Throne Companion/04 - The Graf's Garden Party.md` (Garden Party joué scène par scène)
 - `Source/Power Behind the Throne Companion/06 - The Jade Sceptre- A Gamemaster's Guide.md` (Wallenstein/Wittgenstein + Jade Sceptre étoffé + Anika-Elise Magus)
-- `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Ar-Ulric Jarrick + Emil Valgeir + Sons of Ulric + Flame of Ulric trial)
+- `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Ar-Ulric Jarrick + Emil Valgeir + Fils d'Ulric + Flame of Ulric trial)
 - `Source/Power Behind the Throne Companion/08 - Some very important people.md` (Heinrich Todbringer agents + Nastassia)
 - `Source/Power Behind the Throne Companion/10 - The Changeling.md` (alternative Doppelgänger = Gideon table)
 - `Mon Ennemi Intérieur Blog/Résumés/30 - 30) Middenheim.md` à `39 - 39) Carnaval Jour 8.md` (10 récits narratifs)
@@ -584,4 +584,4 @@ Le Carnaval canon dure **8 jours actifs** : Wellentag → Aubentag → Marktag �
 - **Arcs adjacents** : [[Arc 4 - Mort sur le Reik]] (S22-29) → **Arc 5 (S30-39)** → [[Arc 6 - Le Rat Cornu (à venir)|Arc 6]] (S40-55, skavens + cellule MP Middenheim suite)
 - **Lieux** : [[Middenheim]] (centre tout Arc 5), [[Altdorf]] (Emmanuelle s'y rend post-PBT)
 - **PNJ-clé** : [[Boris Todbringer]], [[Karl-Heinz Wasmeier]], [[Joachim Hoflich]], [[Reiner Ehrlich]], [[Josef Sparsam]], [[Ulrich Schutzmann]], [[Gotthard Wallenstein]], [[Jarrick Valgeir]], [[Emil Valgeir]], [[Katarina Todbringer]], [[Heinrich Todbringer]], [[Emmanuelle Schlagen]], [[Dieter Schmiedehammer]], [[Gideon]], [[Filianore]]
-- **Factions** : [[Main Pourpre]] (cellule Middenheim Wasmeier-Kalzbad-Jarmund), Jade Sceptre (Wallenstein), Cult d'Ulric (Jarrick → Emil), Sons of Ulric, Skavens (Snikkit, lien Maliss Arc 6), Chevaliers du Loup Blanc
+- **Factions** : [[Main Pourpre]] (cellule Middenheim Wasmeier-Kalzbad-Jarmund), Jade Sceptre (Wallenstein), Cult d'Ulric (Jarrick → Emil), Fils d'Ulric, Skavens (Snikkit, lien Maliss Arc 6), Chevaliers du Loup Blanc

@@ -54,7 +54,7 @@ protection `EiR Intro l.841`.
 - **Conseillère respectée** : Elspeth von Draken — l'a alertée de manœuvres louches à Pfeildorf ; renseignement utile mais insuffisant pour justifier une intervention militaire ouverte `EiR Intro l.820`.
 - **Chevalier d'escorte au défilé** : Moritz Arbogast, Chevalier du Soleil Flamboyant — choisi délibérément parce que ni Sigmarite ni Ulricain, signal politique de neutralité confessionnelle `EiR ch.5 l.108`. L'accompagne avec son Grand Intendant Hildemar Kalb `EiR ch.5 l.108`.
 - **Escorte de cérémonie** : Joueurs d'Épée de Nuln — garde d'honneur personnelle qui défile au pavillon S60 `EiR ch.5 l.156`.
-- **Parente méprisée** : Ermine Liebwitz von Decker und Hanulf — cousine éloignée, intendante des caves de la Volkshalle ; le père d'Emmanuelle l'avait casée là pour s'en débarrasser `EiR ch.13 l.234`. La méprise discrètement, la trouve pénible et la qualifie ouvertement de désagréable et d'ingérable ; Ermine en retour ressent une amertume profonde envers ses « supérieures » Emmanuelle et Maria-Luise von Walfen `EiR ch.7 l.92`.
+- **Parente méprisée** : Hermine Liebwitz von Decker und Hanulf — cousine éloignée, intendante des caves de la Volkshalle ; le père d'Emmanuelle l'avait casée là pour s'en débarrasser `EiR ch.13 l.234`. La méprise discrètement, la trouve pénible et la qualifie ouvertement de désagréable et d'ingérable ; Hermine en retour ressent une amertume profonde envers ses « supérieures » Emmanuelle et Maria-Luise von Walfen `EiR ch.7 l.92`.
 - **Cible politique** : Etelka Toppenheimer, Grande Baronne de Sudenland — rivale immédiate ; Emmanuelle veut une raison crédible d'envahir et d'annexer Sudenland, et Toppenheimer lui en a fourni plusieurs (provocations sur l'héritage, déclarations sur le retour des Toppenheimer à Nuln) `EiR Intro l.261-263+820`.
 - **Cible secondaire d'opportunité** : Immanuel-Ferrand Holswig-Schliestein — Grand Chancelier, qu'elle teste comme allié possible pour l'annexion de Sudenland, en s'appuyant sur le précédent qu'il a établi à Ubersreik ; cible de l'ultimatum S60 `EiR ch.5 l.129+326`.
 - **Ennemis informels** : Liepmund Holzkrug — Grand Ambassadeur, lui fait du charme au défilé, scrute ses faiblesses pour exploitation future `EiR ch.5 l.88`. Holzkrug n'est pas dans la confidence du double, mais Emmanuelle ne le sait pas et le manipulerait volontiers à son tour.
@@ -108,7 +108,7 @@ exposerait Maria-Luise von Walfen, et elle s'y refuse `EiR ch.7 l.46`.
 - **Démasquage du sosie au défilé S60** `EiR ch.5 l.235-249` : conversation à voix audible avec Hermann von Feilbach au pavillon impérial ; le pousse sur les Toppenheimer, le sosie répond mal ; trois questions plus tard, elle le quitte sur une révérence exagérée, le sosie décomposé. Les PJ témoins peuvent saisir l'échange.
 - **Ultimatum S60** `EiR ch.5 l.326` : chuchote à Immanuel-Ferrand Holswig-Schliestein qu'elle révélera le faux Empereur aux autres Électeurs s'il s'oppose à son annexion de Sudenland. Test d'écoute disponible pour les PJ.
 - **Confidence Conclave S62** `EiR ch.7 l.212+216-225` : escorte Maria-Luise von Walfen à un banc à l'écart, 18h05 ; lui révèle qu'elle sait pour le sosie, jure le secret, lui rappelle qu'elle n'est pas seule. Captable par un test Easy Stealth (Urban) à +40 contre Perception 91 d'Emmanuelle.
-- **Joute verbale avec Etelka Toppenheimer au Conclave** `EiR ch.7 l.166+180-194` : éclate de rire en pleine séance, raille la souveraineté de Sudenland qu'elle juge insuffisamment digne du titre de Grande Province, envoie un PJ chercher du vin chez Ermine quand la conversation l'ennuie. Toppenheimer humiliée, Thyrus Gormann amusé.
+- **Joute verbale avec Etelka Toppenheimer au Conclave** `EiR ch.7 l.166+180-194` : éclate de rire en pleine séance, raille la souveraineté de Sudenland qu'elle juge insuffisamment digne du titre de Grande Province, envoie un PJ chercher du vin chez Hermine quand la conversation l'ennuie. Toppenheimer humiliée, Thyrus Gormann amusé.
 - **Calme Thyrus Gormann après le bris de Ghal Maraz** `EiR ch.7 l.268` : 20h10, si les PJ ne tentent rien pour apaiser le Grand Patriarche enflammé, c'est Emmanuelle qui l'apaise. Lecture pour le MJ : sa présence d'esprit, son Iron Will et son Charm 115 + Cool 73 suffisent à imposer le silence dans une salle qui s'embrase magiquement.
 - **Pas présente au climax ch.13** `EiR ch.13 l.231` : Maria-Luise von Walfen indique aux PJ que seuls les Reiklanders seront présents à la cérémonie ; les autres Électeurs, Emmanuelle comprise, sont rentrés préparer leurs domaines à la guerre. Pas d'apparition canon à la cérémonie de remise de Ghal Maraz.
 
@@ -116,7 +116,7 @@ exposerait Maria-Luise von Walfen, et elle s'y refuse `EiR ch.7 l.46`.
 
 - S60 — Défilé d'Altdorf et pavillon impérial :
   - 14h00 : entrée majestueuse, salutation au sosie et à Boris Todbringer `EiR ch.5 l.202`.
-  - 14h15 : conversation avec Liepmund Holzkrug, plaint le vinaigre servi par Ermine Liebwitz von Decker und Hanulf, désigne celle-ci à un PJ qui peut intervenir `EiR ch.5 l.207`.
+  - 14h15 : conversation avec Liepmund Holzkrug, plaint le vinaigre servi par Hermine Liebwitz von Decker und Hanulf, désigne celle-ci à un PJ qui peut intervenir `EiR ch.5 l.207`.
   - 15h00 : démasquage du sosie en trois questions ; Hermann von Feilbach décomposé, elle le quitte sur une révérence `EiR ch.5 l.235-249`.
   - 15h15 : le porc « de Reikland » de l'irruption Petra Schneller se couche à ses pieds et s'endort ; elle sourit et lui caresse la tête `EiR ch.5 l.258`.
   - 17h30 : passe d'armes avec Hildegarde Zimperlich sur les desserts d'Altdorf `EiR ch.5 l.312+314`.
@@ -124,7 +124,7 @@ exposerait Maria-Luise von Walfen, et elle s'y refuse `EiR ch.7 l.46`.
 - S62 — Conclave d'urgence Volkshalle :
   - 15h00 : entrée comme Électrice de Nuln, Runefang dans son fourreau posée sur la table devant elle, à côté des sièges vides qui signalent les fractures de l'Empire `EiR ch.7 l.105`.
   - 17h30 : raille Etelka Toppenheimer en plein discours sur la succession de Sudenland, éclat de rire qui interrompt la séance `EiR ch.7 l.166+180`.
-  - 18h00 : envoie un PJ chercher un meilleur vin chez Ermine sur une intuition ratée `EiR ch.7 l.194`.
+  - 18h00 : envoie un PJ chercher un meilleur vin chez Hermine sur une intuition ratée `EiR ch.7 l.194`.
   - 18h05 : confidence à Maria-Luise von Walfen sur un banc à l'écart `EiR ch.7 l.212+216-225`.
   - 20h10 : calme Thyrus Gormann après le bris du faux Ghal Maraz, si les PJ n'agissent pas eux-mêmes `EiR ch.7 l.268`.
 - S64+ — Après le Conclave : rentre à Nuln, prépare ses forces ; signale à l'Empire qu'elle ne se laissera plus mener `EiR ch.13 l.231`. Pas d'apparition canon à la cérémonie de remise de Ghal Maraz `EiR ch.13 l.231`.

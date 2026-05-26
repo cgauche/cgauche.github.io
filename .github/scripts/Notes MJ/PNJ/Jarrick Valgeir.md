@@ -76,7 +76,7 @@
 - **Sincérité de la dévotion Ulric** : Jarrick **est sincèrement Ulrican**. Il **a tué un loup de la Drakwald de ses propres mains** comme initié (rite canon). Sa **culpabilité est réelle** — il a brisé son vœu de chasteté pour Emmanuelle, et il le sait.
 - **Mark survit la Flamme** = aux yeux d'Ar-Ulric, **Ulric a jugé Mark digne** malgré ses meurtres de Bögenhafen. Cela **bouleverse** Jarrick (sa propre légitimité est questionnée). **Hook table** : après cela, Ar-Ulric est **moins militant** contre Mark, mais plus militant **dans son auto-confrontation morale**.
 - **Pèlerinage Nord post-PBT** : Jarrick part **expier sa faute**. Il **ne revient jamais** (canon EiR). À table : peut être mort, peut être en vie quelque part, **probablement perdu dans la Drakwald ou Norsca**.
-- **Emil Valgeir successeur** : frère aîné, **plus radical Ulrican**. Lien avec les **Sons of Ulric** (le mouvement extrémiste). À table Arc 7 : Emil Valgeir **soutient passivement les Sons of Ulric** + tendances pro-Middenland séparatistes. Hook Arc 7 (Shining Rock attack S58, etc.).
+- **Emil Valgeir successeur** : frère aîné, **plus radical Ulrican**. Lien avec les **Fils d'Ulric** (le mouvement extrémiste). À table Arc 7 : Emil Valgeir **soutient passivement les Fils d'Ulric** + tendances pro-Middenland séparatistes. Hook Arc 7 (Shining Rock attack S58, etc.).
 - **Hammer-axe of Skoll** : restera à Emil Valgeir post-PBT.
 
 ## Hooks de retour

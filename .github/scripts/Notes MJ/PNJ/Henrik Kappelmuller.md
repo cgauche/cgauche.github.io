@@ -28,7 +28,7 @@ couteaux de jet enduits de Black Lotus `EiR ch.8 l.76`.
 - **Couverture officielle** : intégré à la Guilde des Médecins d'Altdorf trois ans avant le début d'EiR, via fausses lettres prétendant des cursus à l'Université de Nuln (faussement signées de Professeure Süde Nimme) et appuyé par des dons et témoignages flatteurs — pratique restée dormante jusqu'à son recrutement au Palais `EiR ch.8 l.62`.
 - **Fournisseuse et bouc émissaire prête à servir** : Elvyra Kleinestun — pharmacienne lui livrant les préparations de Ranald's Delight ; sa carrière à Altdorf lui doit son emploi, ce qui la rend dépendante et reconnaissante. Zuntermein l'a positionnée explicitement comme la coupable à charger si Kappelmuller est démasqué `EiR Intro l.320`.
 - **Inducteur de la maladie** : Gideon — applique le sort de Purple Brain Pox à distance et le retire chaque fois que Kappelmuller administre une préparation, donnant à Kappelmuller l'apparence d'un thérapeute compétent. Kappelmuller voit Gideon comme un page de Zuntermein qui passe parfois `EiR ch.8 l.54`.
-- **Visiteurs identifiables** signalés par Immanuel-Ferrand Holswig-Schliestein, Maria-Luise et Ermine Liebwitz aux PJ qui poussent l'enquête : une dame d'âge mûr à l'accent altdorfer qui lui livre les ingrédients de ses préparations (Elvyra Kleinestun), et un jeune homme d'environ treize ans, coupe au bol, sourire remarquablement large (Gideon) `EiR ch.8 l.86`.
+- **Visiteurs identifiables** signalés par Immanuel-Ferrand Holswig-Schliestein, Maria-Luise et Hermine Liebwitz aux PJ qui poussent l'enquête : une dame d'âge mûr à l'accent altdorfer qui lui livre les ingrédients de ses préparations (Elvyra Kleinestun), et un jeune homme d'environ treize ans, coupe au bol, sourire remarquablement large (Gideon) `EiR ch.8 l.86`.
 - **Victime** : Karl-Franz Holswig-Schliestein — empoisonné lentement par Ranald's Delight introduit dans les médications, état de léthargie et de suggestibilité accrue `EiR ch.8 l.54`.
 - **Sosie qu'il rencontre** : Hermann von Feilbach — la maladie de Karl-Franz a justifié la mise en place du double public, dont Kappelmuller connaît évidemment l'existence (il soigne le vrai au Palais) `EiR Intro l.240`.
 - **Cible de sa diversion ultime** : Karl-Heinz Wasmeier — Zuntermein a indiqué à Kappelmuller où Wasmeier vit dans les bidonvilles du Reikerbahn, précisément pour que Kappelmuller le donne aux PJ comme commanditaire fictif s'il est acculé `EiR ch.8 l.118`.
@@ -70,7 +70,7 @@ protège des divinations cléricales sigmarites ou véréniennes.
 
 ## Apparitions canon Arc 7
 
-- S64+ — Asking After Henrik Kappelmuller : enquête à la Guilde des Médecins (district de Zwillingsgrab), interrogatoire d'Elvyra Kleinestun, recoupement avec Immanuel-Ferrand Holswig-Schliestein / Maria-Luise / Ermine Liebwitz sur les visiteurs (Elvyra Kleinestun et Gideon) `EiR ch.8 l.56-88`.
+- S64+ — Asking After Henrik Kappelmuller : enquête à la Guilde des Médecins (district de Zwillingsgrab), interrogatoire d'Elvyra Kleinestun, recoupement avec Immanuel-Ferrand Holswig-Schliestein / Maria-Luise / Hermine Liebwitz sur les visiteurs (Elvyra Kleinestun et Gideon) `EiR ch.8 l.56-88`.
 - S64+ — Calling on the Doctor : audience arrachée à Charm Very Hard (-30), entrée dans la chambre impériale, accueil onctueux, confrontation cinq paliers `EiR ch.8 l.92-126`.
 
 ## Statbloc — Henrik Kappelmuller `EiR ch.8 l.64-76`

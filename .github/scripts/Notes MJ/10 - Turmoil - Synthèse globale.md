@@ -57,7 +57,7 @@
 | Spring 2512 IC | **Mort Prince Héritier Hergard von Tasseninck** Grey Mountains par Snikkit (Stormvermin Under-Middenheim clanless) → guerre Ostland-Talabecland (rumeurs anti-Krieglitz) | 05+06+12 | EiR Intro l.272-279 + Fandom Snikkit |
 | Spring 2512 IC | **Cellule Wolfenburg Main Pourpre** amplifie rumeurs anti-Krieglitz ; cellule Averheim (Gislind Ursin) amplifie feud Alptraum-Leitdorf ; cellule Nuln rumeurs Liebwitz-Toppenheimer | 03+04+05+06 | EiR Intro l.282-284 |
 | Spring 2512 IC | **Threshers Pfeildorf false flag** Sudenland-en-uniforme-Nuln contre Heideinheim (manipulés Main Pourpre) | 03+08 | EiR ch.9 |
-| Spring 2512 IC (S58) | **Attaque Shining Rock** par Bearers of the Blood (sub-Sons of Ulric) ; 9 prêtres/chevaliers tués ; Yorri + Volkmar survivent | 10+02 | EiR ch.3 l.196-228 |
+| Spring 2512 IC (S58) | **Attaque Shining Rock** par Porteurs de Sang (sub-Fils d'Ulric) ; 9 prêtres/chevaliers tués ; Yorri + Volkmar survivent | 10+02 | EiR ch.3 l.196-228 |
 | Spring 2512 IC | **Compromettants Wasmeier-Ingrid transmis Anika-Elise → Ingrid Gausser → Alberich Stirland** → vote restauration Nordland | 01+08 | Salzenmund ch.4 l.440-449 |
 | Spring 2512 IC | **Imperial Ostlanders patrouille Black Mountains** ; découverte horde Vorgaz Ironjaw en formation | 04+06+12 | EiR Companion ch.4 l.506 |
 | Pendant EiR ch.4 (~S59) | **Audience Prince Héritier Wolfgang Castle Reikguard** ; Characters peuvent suspecter Neuf Yeux | 11 | EiR ch.4 l.274-303 |
@@ -144,7 +144,7 @@
 | 13 | **Sudenland** (Grand Baronnie) | Etelka Morella Toppenheimer Grand Baroness (12 enfants déshérités au profit du fils adoptif Basil) | **Toppenheimer déposée** ; **Sudenland absorbé Wissenland** sous Liebwitz ; 8 des 12 enfants ralliés Liebwitz | Province absorbée | 03 |
 | 14 | **Mootland** (Grand County) | Eldermarshal Halflings | Continuité (stable, non affecté Turmoil canon) | (stable) | (référence Archives Vol I ch.6) |
 | 15 | **Grand Theogonist of Sigmar** (siège religieux électeur) | Yorri XV (Altdorf, cumul Arch Lector West) | **Yorri XV mort climax** ; **Volkmar von Hindenstern élu** ~Jahrdrung 2513 (4 mois post-mort) | Changement religieux | 10+11 |
-| 16 | **Ar-Ulric** (siège religieux électeur) | Emil Valgeir (post-PBT, frère aîné Jarrick déchu) | Continuité ; lève ban Sons of Ulric ; renaissance ulricaine fanatique | Continuité (mais radicalisation) | 02+10 |
+| 16 | **Ar-Ulric** (siège religieux électeur) | Emil Valgeir (post-PBT, frère aîné Jarrick déchu) | Continuité ; lève ban Fils d'Ulric ; renaissance ulricaine fanatique | Continuité (mais radicalisation) | 02+10 |
 | 17 | **Arch Lector East** (siège sigmarite) | Aglim (Talabheim, Mace of Helsturm, 70 ans) | **Aglim mort climax** ; **Johann Esmer élu** post-Aglim | Changement religieux | 10+11 |
 | 17b | **Arch Lector South** (siège sigmarite) | Kaslain (Nuln, Reikhammer, 62 ans) | Continuité | Continuité | 10 |
 
@@ -240,14 +240,14 @@
                        → 12 + 11 (post-Turmoil 2520 IC) : Marius tué par Vorgaz Ironjaw Third Battle Black Fire Pass
 ```
 
-### Cascade religieuse (Sigmar / Ulric / Sons of Ulric)
+### Cascade religieuse (Sigmar / Ulric / Fils d'Ulric)
 ```
 02 PBT (Wasmeier-Brunhilde chantage Jarrick Valgeir via Schlagen letters)
    → 02 Middenheim : Jarrick Valgeir abdique + pèlerinage Norsca "never returned" (cascade fiche 12)
-       → 02 + 10 : Emil Valgeir Ar-Ulric "fire-breathing" ; lève ban Sons of Ulric
+       → 02 + 10 : Emil Valgeir Ar-Ulric "fire-breathing" ; lève ban Fils d'Ulric
            → 02 + 10 : renaissance ulricaine fanatique Middenland/Middenheim/Talabheim/Talabecland
-               → 02 + 10 : Sons of Ulric attaques caravanes Reikland + persécutions Sigmarites
-                   → 10 + 02 : attaque Shining Rock par Bearers of the Blood (S58)
+               → 02 + 10 : Fils d'Ulric attaques caravanes Reikland + persécutions Sigmarites
+                   → 10 + 02 : attaque Shining Rock par Porteurs de Sang (S58)
                        → 09 + 10 : mariage Wolfgang-Katarina proposé (apaisement diplomatique)
                            → 02 + 09 : attentat Malthe Barthelm Grand Cathedral (cascade fiche 01)
                                → 09 + 11 : Conclave d'urgence Volkshalle ch.7
@@ -322,7 +322,7 @@
 - **Ar-Ulric** : Emil Valgeir (continuité post-PBT ; renaissance ulricaine fanatique persiste).
 - **Tension Sigmar/Ulric** : persiste sans guerre civile religieuse ouverte ; **promotions sigmarites compensatoires** Hochland + Ostermark + Nordland équilibrent Middenheim.
 - **Order of the Silver Hammer** : renforcé politiquement (purge Krieglitzes post-Turmoil EiR ch.17 l.34).
-- **Sons of Ulric umbrella** : non dissous canon — continuité menaçante.
+- **Fils d'Ulric umbrella** : non dissous canon — continuité menaçante.
 
 ### Armées et navy
 - **Imperial Navy** : armada Sea of Claws déployée vs raids Norscan 2512 ; **Second Fleet Imperial Navy** lancée post-Turmoil (cascade fiche 01 — Wave Lord Otto Sider pivot Salzenmund).
@@ -330,7 +330,7 @@
 - **Imperial Ostlanders** : alertes Black Mountains (Vorgaz Ironjaw préfiguration 2520 IC).
 
 ### Édits impériaux signés sous influence (révisés/maintenus ?)
-- **Mutant Edict** (signé sous Purple Brain Fever) : statut post-Turmoil non précisé canon EiR (probablement maintenu ; effets cascade fiche 10 persistance Sons of Ulric).
+- **Mutant Edict** (signé sous Purple Brain Fever) : statut post-Turmoil non précisé canon EiR (probablement maintenu ; effets cascade fiche 10 persistance Fils d'Ulric).
 - **Ubersreik Takeover** (saisi Jungfreuds) : statut post-Turmoil non précisé canon EiR ; Helborg dépêché à Ubersreik crisis (EiR ch.13 l.338).
 
 ### Statut Ubersreik
@@ -376,7 +376,7 @@ Citation canon EiR ch.17 l.34 : *"In light of these revelations the positions of
 | # | Front | Fiche | One-liner condensé |
 |---|---|---|---|
 | 01 | Nordland (Gausser - Crow Feeder) | [Turmoil/01](<Turmoil/01 - Nordland (Gausser - Crow Feeder).md>) | **Theoderic Gausser Nordmarshal** exploite scandale Anika-Elise Slaanesh + compromettants + Haugfylk → dépose Werner Nikse, prend Crow Feeder Castle Salzenmund, vote 7 Électeurs → **Nordland restauré Grand County** ; humiliation Boris compensée par annexion Middenland. |
-| 02 | Middenheim-Middenland (Todbringer-Bildhofen) | [Turmoil/02](<Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen).md>) | **Boris X Todbringer absorbe Middenland** en compensation perte Nordland ; **Bildhofen rétrogradé** ; Sons of Ulric montée fanatique ; **Jarrick → Emil Valgeir** Ar-Ulric ; Boris brise Ghal Maraz au Conclave ch.7. |
+| 02 | Middenheim-Middenland (Todbringer-Bildhofen) | [Turmoil/02](<Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen).md>) | **Boris X Todbringer absorbe Middenland** en compensation perte Nordland ; **Bildhofen rétrogradé** ; Fils d'Ulric montée fanatique ; **Jarrick → Emil Valgeir** Ar-Ulric ; Boris brise Ghal Maraz au Conclave ch.7. |
 | 03 | Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer) | [Turmoil/03](<Turmoil/03 - Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer).md>) | **Emmanuelle XV von Liebwitz** exploite scandale Toppenheimer (8 sur 12 enfants rallient) + Threshers false flag + **Leopold's Leopard Company Tilea** → **annexe Sudenland** + Pfeifrauchers confisqués 2514 → **Grand Province of Wissenland** sud-Empire. |
 | 04 | Averland (Alptraum-Leitdorf) | [Turmoil/04](<Turmoil/04 - Averland (Alptraum-Leitdorf).md>) | **Marius Leitdorf "the Mad"** exploite déclin Ludmilla III + Marlene belligérante + SIP Streissen (Marcus Karlssen) + Averheim Main Pourpre → piège Marlene Battle of Streissen → **Grand Count of Averland post-Turmoil** ; règne dépressif + purges Deep Haus. |
 | 05 | Talabecland-Talabheim (Krieglitz - Order of Silver Hammer) | [Turmoil/05](<Turmoil/05 - Talabecland-Talabheim (Krieglitz - Order of Silver Hammer).md>) | **Main Pourpre orchestre destruction Krieglitz-Untermensch** via mort Hergard (Snikkit) + rumeurs Wolfenburg + **Order of the Silver Hammer purge post-Turmoil** → **unification Talabheim+Talabecland sous Feuerbach** ; Hochland reprend indépendance. |
@@ -384,7 +384,7 @@ Citation canon EiR ch.17 l.34 : *"In light of these revelations the positions of
 | 07 | Hochland (Ludenhof) | [Turmoil/07](<Turmoil/07 - Hochland (Ludenhof).md>) | **Promotion sigmarite compensatoire** — **Aldebrand Ludenhof Grand Baron + Elector + Goblin Bane** ; **Grand Barony of Hochland Grand Provincial status** ; confédération marcher lords est sous Hertwig porte-parole ; régence Tussen-Hochen éteinte 2514. |
 | 08 | Stirland (Haupt-Anderssen) | [Turmoil/08](<Turmoil/08 - Stirland (Haupt-Anderssen).md>) | **Non-engagement militaire récompensé** — **Alberich V Haupt-Anderssen Grand Duke → Grand Count** ; manipulé par compromettants Main Pourpre pour vote Nordland ; cherche trustworthy band Altdorf (Purple Fingerprints hook PJ) ; **Orc Hewer Runefang** symbol. |
 | 09 | Reikland-Altdorf (Karl-Franz - le faux Empereur) | [Turmoil/09](<Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur).md>) | **Karl-Franz alité Purple Brain Fever magique Gideon** ; double Hermann von Feilbach Reiksguard porte Imitation Ghal Maraz ; **mariage Maria-Luise 2512** post-Turmoil → Luitpold (Altdorf) + Alia (Reikland) légitimés ; Trio Emmanuelle + Alberich. |
-| 10 | Cultes religieux (Sigmar-Ulric-Arch-Lecteurs) | [Turmoil/10](<Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs).md>) | **Crise religieuse Empire-wide** : (a) renaissance ulricaine fanatique Emil Valgeir + Sons of Ulric ; (b) effondrement sommet sigmarite climax (Yorri+Aglim tués) ; **Volkmar von Hindenstern Grand Theogonist** ~Jahrdrung 2513 ; promotions sigmarites compensatoires. |
+| 10 | Cultes religieux (Sigmar-Ulric-Arch-Lecteurs) | [Turmoil/10](<Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs).md>) | **Crise religieuse Empire-wide** : (a) renaissance ulricaine fanatique Emil Valgeir + Fils d'Ulric ; (b) effondrement sommet sigmarite climax (Yorri+Aglim tués) ; **Volkmar von Hindenstern Grand Theogonist** ~Jahrdrung 2513 ; promotions sigmarites compensatoires. |
 | 11 | Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire) | [Turmoil/11](<Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire).md>) | **Mécanique impériale transversale** : Ghal Maraz vrai/Imitation/9 fragments + Wolfgang vessel Sheerargetru + Neuf Yeux 9 cellules + Chambre Noire 4-wing avec Palisades ; climax Volkshalle 9 Brauzeit ; **dossier Chambre Noire expose Main Pourpre Empire-wide**. |
 | 12 | Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains) | [Turmoil/12](<Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains).md>) | **Écosystème externe** : Marienburg sécession 2429 IC (Directorate) ; Norsca raids 2512 → Second Fleet ; Bretonnia diplomatie ; Tilea condottieri (**Leopold's Leopard pour Liebwitz annexion Sudenland**) + Vatheck Fulci ; Nains (Karak Skygg = Vol 4 ; Black Fire Pass = vrai Ghal Maraz Vol 5). |
 

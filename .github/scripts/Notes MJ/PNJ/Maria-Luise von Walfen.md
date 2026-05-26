@@ -47,7 +47,7 @@ de fuite ou conspiratrice, elle perdrait tout — et ses enfants avec.
 - **Membre du Conseil privé impérial** : sa voix est entendue et écoutée au Conseil privé, où les autres conseillers la surnomment « Impératrice » en privé — il serait imprudent de le faire devant les agents des Électeurs `Altdorf ch.2 l.23`.
 - **Sosie qu'elle escorte sans y croire** : Hermann von Feilbach — au Conclave d'urgence S62, c'est elle qui mène le « faux Empereur » à son trône ; l'absence de chaleur et son sourire forcé trahissent sa connaissance de la supercherie `EiR ch.7 l.107`.
 - **Rival domestique** : Wolfgang Holswig-Abenauer — Prince Héritier du Reikland, neveu de Karl-Franz, qui héritera du Reikland (Luitpold n'en sera pas Grand-Prince) ; froideur affichée des deux côtés, et Wolfgang figure dans les cauchemars de Maria-Luise `Altdorf ch.2 l.25` `EiR ch.13 l.229`.
-- **Méprisée discrètement** : Ermine Liebwitz von Decker und Hanulf — cousine éloignée d'Emmanuelle, intendante des caves de la Volkshalle, méprise « l'Impératrice » en silence ; montrer le jeton de Maria-Luise durcit son attitude au lieu de l'amadouer `EiR ch.13 l.234+283`.
+- **Méprisée discrètement** : Hermine Liebwitz von Decker und Hanulf — cousine éloignée d'Emmanuelle, intendante des caves de la Volkshalle, méprise « l'Impératrice » en silence ; montrer le jeton de Maria-Luise durcit son attitude au lieu de l'amadouer `EiR ch.13 l.234+283`.
 - **Garnison qui l'inquiète** : Reiksguard — son malaise sur des visages nouveaux dans la troupe du palais est canon ; Baron Augustus Bardeleben von Teufelsmilch, chef de la garnison du palais, est âgé et perméable aux manipulations de Gideon, qui en a profité pour faire passer des hommes à lui `EiR ch.13 l.237+309`.
 - **Entourage proche** : ses dames d'honneur — l'une d'elles introduit les PJ par les couloirs privés jusqu'à la Résidence Impériale ch.13 et peut servir d'intermédiaire pour des messages confidentiels `EiR ch.13 l.218-220`.
 
@@ -64,7 +64,7 @@ travaux dans la Volkshalle ont été commandés par personne d'identifié
 mais tout le monde accepte ; de nouveaux visages sont apparus dans
 la Reiksguard du palais ; ses cauchemars récurrents montrent du
 feu et du sang dans la Volkshalle, et Wolfgang y figure. Connaît
-Ermine comme membre de la parenté d'Emmanuelle, sans plus.
+Hermine comme membre de la parenté d'Emmanuelle, sans plus.
 
 **Ce qu'elle ignore** `EiR ch.13 l.224+226` : l'identité du complot,
 le rôle de Yann Zuntermein, l'existence du démon Sheerargetru, le
@@ -89,8 +89,8 @@ les Électeurs l'entendaient `Altdorf ch.2 l.23` `EiR ch.13 l.240`.
 ## Démasquage et confrontation (ch.13)
 
 - **Salon privé Résidence Impériale** `EiR ch.13 l.220-222` : la conversation a lieu hors des yeux des conseillers et de la Reiksguard ; un test Average Charm (+20) révèle aux PJ à quel point la situation est inhabituelle (aucun serviteur, aucune dame d'honneur, aucun garde).
-- **Réponses aux questions des PJ** `EiR ch.13 l.226-240` : Maria-Luise dit ce qu'elle perçoit — pas de preuve dure, mais cohérence des indices. Aux PJ d'enquêter sur les trois pistes qu'elle pose : nouveau reliquaire dans la Volkshalle, Ermine et la cave à vins, changements dans la Reiksguard.
-- **Jeton de retinue impériale** `EiR ch.13 l.242` : chaque PJ reçoit un jeton identifiant comme « retinue de l'Impératrice » ; ce jeton ouvre des portes auprès de ceux qui la respectent (bonus +10 aux tests Charm / Intimidate / Leadership sur les Reiksguards qui patrouillent la Volkshalle de nuit `EiR ch.13 l.274`). Inopérant ou pire face à ceux qui la méprisent (Ermine `EiR ch.13 l.283`, l'artisan-cultiste Albertus Goldformer `EiR ch.13 l.272`).
+- **Réponses aux questions des PJ** `EiR ch.13 l.226-240` : Maria-Luise dit ce qu'elle perçoit — pas de preuve dure, mais cohérence des indices. Aux PJ d'enquêter sur les trois pistes qu'elle pose : nouveau reliquaire dans la Volkshalle, Hermine et la cave à vins, changements dans la Reiksguard.
+- **Jeton de retinue impériale** `EiR ch.13 l.242` : chaque PJ reçoit un jeton identifiant comme « retinue de l'Impératrice » ; ce jeton ouvre des portes auprès de ceux qui la respectent (bonus +10 aux tests Charm / Intimidate / Leadership sur les Reiksguards qui patrouillent la Volkshalle de nuit `EiR ch.13 l.274`). Inopérant ou pire face à ceux qui la méprisent (Hermine `EiR ch.13 l.283`, l'artisan-cultiste Albertus Goldformer `EiR ch.13 l.272`).
 - **Présence au climax** `EiR ch.13 l.345` : pendant la cérémonie de remise de Ghal Maraz, Maria-Luise se tient dans la galerie au mur du fond, parmi les dames de la cour et le personnel du palais — observatrice silencieuse, pas actrice de la scène.
 - **Importance canon — ne pas la faire mourir** `EiR ch.13 l.613` : en cas de défaite des PJ (Sheerargetru s'incarne, Zuntermein l'emporte), Maria-Luise survivante devient une patronne en coulisses des PJ dans la lutte continue contre Zuntermein. La perdre prive le groupe d'un appui clé pour la suite.
 - **Récompense canon — agréer son aide vaut 30 points** `EiR ch.13 l.667` : la quête « accepter d'aider Maria-Luise » est notée comme attribuant 30 points dans l'évaluation finale du chapitre, signal canon de son importance.
@@ -102,8 +102,8 @@ les Électeurs l'entendaient `Altdorf ch.2 l.23` `EiR ch.13 l.240`.
   - Entrée du « faux Empereur » à 15h05 — escorte Hermann von Feilbach jusqu'à son trône, fait sa révérence, gagne la galerie ; absence de chaleur perceptible sur un test Intuition à (+0) `EiR ch.7 l.107`.
   - 18h05 — banc à l'écart avec Emmanuelle von Liebwitz, échange feutré : la Grande Comtesse de Nuln lui révèle qu'elle sait que l'homme sur le trône n'est pas Karl-Franz, lui prend les mains, jure le secret. Maria-Luise se confie effrayée et piégée. Capté seulement par un test Easy Stealth (Urban) à (+40) contre Perception 91 d'Emmanuelle `EiR ch.7 l.212+216+223+225`.
 - S64+ — chapitres 8 et 13 :
-  - ch.8 : peut être interrogée par les PJ comme l'un des trois proches de Karl-Franz (avec Immanuel-Ferrand Holswig-Schliestein et Ermine Liebwitz) ; confirme l'Empereur alité et son médecin étrange, et mentionne les visites régulières d'« une dame mûre d'accent altdorfien » (Elvyra Kleinestun) et d'« un jeune homme de treize ans environ au sourire remarquable » (Gideon en jeune garçon) `EiR ch.8 l.83-87`.
-  - ch.13 — section canon *A Lady in Distress* `EiR ch.13 l.217-242` : après retour des PJ avec Ghal Maraz, une dame d'honneur les conduit à la Résidence Impériale ; entretien privé dans son salon ; monologue sur ses inquiétudes (Reiksguard, Volkshalle, Karl-Franz inaccessible, cauchemars) ; réponses aux questions (Wolfgang, Électeurs, Ermine, retarder la cérémonie) ; remise des jetons de retinue.
+  - ch.8 : peut être interrogée par les PJ comme l'un des trois proches de Karl-Franz (avec Immanuel-Ferrand Holswig-Schliestein et Hermine Liebwitz) ; confirme l'Empereur alité et son médecin étrange, et mentionne les visites régulières d'« une dame mûre d'accent altdorfien » (Elvyra Kleinestun) et d'« un jeune homme de treize ans environ au sourire remarquable » (Gideon en jeune garçon) `EiR ch.8 l.83-87`.
+  - ch.13 — section canon *A Lady in Distress* `EiR ch.13 l.217-242` : après retour des PJ avec Ghal Maraz, une dame d'honneur les conduit à la Résidence Impériale ; entretien privé dans son salon ; monologue sur ses inquiétudes (Reiksguard, Volkshalle, Karl-Franz inaccessible, cauchemars) ; réponses aux questions (Wolfgang, Électeurs, Hermine, retarder la cérémonie) ; remise des jetons de retinue.
   - ch.13 climax `EiR ch.13 l.345` : dans la galerie du mur du fond avec les dames de la cour pendant que les PJ apportent Ghal Maraz au trône.
 
 ## Dénouements canon ch.13

@@ -42,13 +42,13 @@
 - **Loi salique** : seul **descendant légitime** peut hériter.
 - **Stefan = seul héritier légal**. Mais **inapte**.
 - **Heinrich + Katarina** = bâtards officialisés, **barrés de la succession** par leur naissance.
-- **Si Stefan meurt ou est confirmé inapte** : crise de succession. **Heinrich** = héritier de fait pratique, mais **Reikland (Karl-Franz)** pourrait nommer **un Imperial Plenipotentiary** (viceroy from Altdorf) — **scénario redouté** par les Sons of Ulric Arc 5+.
+- **Si Stefan meurt ou est confirmé inapte** : crise de succession. **Heinrich** = héritier de fait pratique, mais **Reikland (Karl-Franz)** pourrait nommer **un Imperial Plenipotentiary** (viceroy from Altdorf) — **scénario redouté** par les Fils d'Ulric Arc 5+.
 - **À table post-S63** : Boris mort, Heinrich revendiqué régent / héritier de fait. **Tension constitutionnelle**.
 
 ## Politique
 
 - **Indépendantisme Middenland** : Boris **sceptique de Karl-Franz**, **rival historique**. **Pas activement déloyal Arc 5**, mais **prêt à confronter** Reikland S57+.
-- **Sons of Ulric** : Boris **n'approuve pas explicitement** mais ne les condamne pas.
+- **Fils d'Ulric** : Boris **n'approuve pas explicitement** mais ne les condamne pas.
 - **Cult d'Ulric** : Boris est Ulrican par naissance (Imperial Elector via Ar-Ulric position), mais **pragmatique**.
 - **Patronage** : Katarina = orphelinat Shallya. Heinrich = Pavarotti recruit (médical Stefan).
 - **Chevaliers Panthères** = ordre de chevalerie sécuré du Graf, escorte Katarina + garde du Middenpalaz.

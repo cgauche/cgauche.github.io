@@ -70,7 +70,7 @@
 
 - **Liaison avec Emmanuelle Schlagen** : canon p.93. **Schutzmann l'a installée comme Lady at Court** il y a ~4 ans, par favoritism. Affaire courte mais réelle. Emmanuelle l'a quitté pour Boris. **Schutzmann est encore mal à l'aise** quand on en parle (canon Intuition Test Difficult –10 révèle son inconfort). **Wasmeier ne le sait pas** Arc 5 — un hook : si Wasmeier le découvre, il aurait un levier sur Schutzmann (canon ch.3 *For Grognards: Deadly Secrets* alternative).
 - **Schutzmann a culpabilité post-PBT** : canon ch.7 *Conclusion* p.105 : « *On a Difficult (-10) Intuition Test the Characters may get the impression that he is feeling guilty.* » Il se reproche de **n'avoir pas vu la conspiration** sous son nez pendant des mois.
-- **Sigmarite à Middenheim** : politique délicate. Il maintient un profil bas religieux. **Vulnérable aux Sons of Ulric** (qui pourraient le viser comme « sigmarite infiltré dans Middenheim »). Sons of Ulric montent Arc 5+, Schutzmann pourrait être pris pour cible Arc 7.
+- **Sigmarite à Middenheim** : politique délicate. Il maintient un profil bas religieux. **Vulnérable aux Fils d'Ulric** (qui pourraient le viser comme « sigmarite infiltré dans Middenheim »). Fils d'Ulric montent Arc 5+, Schutzmann pourrait être pris pour cible Arc 7.
 - **Refus de juger la Skaven menace** Arc 5 : canon p.107 « *He is sceptical, as many Middenheimers are, that a breed of rat-headed Beastmen exist as anything other than rare aberrations. He finds the notion that they pose an existential threat to Middenheim ridiculous* ». Arc 6 il **change d'avis** : la quantité de preuves (S40-S48) le convainc, l'**audience du Graf S48** scelle.
 - **Patron Watch + ressources Arc 6** : canon p.107. 1 GC/semaine + équipement non-magique + logement. **Haggle pour 1 GC 6/-/semaine** baisse son opinion.
 - **À table** : Schutzmann reste à Middenheim quand les PJ partent en mission (Karak Skygg S54, etc.). Coordonne via courrier.
@@ -79,7 +79,7 @@
 ## Hooks de retour
 
 - **Patron officieux Arc 6** : enquêtes MP + Skavens.
-- **Conflit Sons of Ulric Arc 7** : Schutzmann pourrait être visé/dénoncé pour Sigmarisme.
+- **Conflit Fils d'Ulric Arc 7** : Schutzmann pourrait être visé/dénoncé pour Sigmarisme.
 - **Mort Boris S63** : Schutzmann doit gérer la transition + sécurité Heinrich/Katarina.
 - **[[Veiran Thugenheim]] disparu S63** : Schutzmann enquête.
 

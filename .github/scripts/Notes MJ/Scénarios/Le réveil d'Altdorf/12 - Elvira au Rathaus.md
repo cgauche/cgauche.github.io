@@ -63,7 +63,7 @@ Provocation directe publique. **Action publique de prêtresse Rhya**. **Charme (
 
 ## Si Elvira pousse plus loin
 
-Si Elvira (ou un autre PJ avec elle) veut tenter une audience directe avec l'un des noms cités par Heinz, voir [[Enquête Kappelmuller#Piste 4 — Audiences directes avec les pouvoirs en place|Enquête Kappelmuller §Piste 4]]. Six cibles documentées : Maria-Luise, Immanuel-Ferrand, Ermine Liebwitz, Yorri XV (fermé), Helborg (absent), Baron von Teufelsmilch (piège MP).
+Si Elvira (ou un autre PJ avec elle) veut tenter une audience directe avec l'un des noms cités par Heinz, voir [[Enquête Kappelmuller#Piste 4 — Audiences directes avec les pouvoirs en place|Enquête Kappelmuller §Piste 4]]. Six cibles documentées : Maria-Luise, Immanuel-Ferrand, Hermine Liebwitz, Yorri XV (fermé), Helborg (absent), Baron von Teufelsmilch (piège MP).
 
 ## Effet narratif
 

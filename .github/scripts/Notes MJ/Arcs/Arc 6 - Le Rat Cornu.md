@@ -741,7 +741,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 | **FIL Empereur muté/mort/malade** | OUVERT (rumeur S53) | Arc 7 EiR |
 | **FIL Nordland Théodoric Gausser séparatiste** | OUVERT (raids village S53) | Arc 7 EiR |
 | **FIL Ostland-Talabecland tensions** | OUVERT (rumeurs S50+S53) | Arc 7 EiR (assassinat Hergard) |
-| **FIL Sons of Ulric montée + Sigmar massacre Priestlicheim** | OUVERT (rumeurs S53) | Arc 7 EiR (Shining Rock S58) |
+| **FIL Fils d'Ulric montée + Sigmar massacre Priestlicheim** | OUVERT (rumeurs S53) | Arc 7 EiR (Shining Rock S58) |
 
 ## Synthèse statuts PNJ post-Arc 6
 

@@ -24,7 +24,7 @@
 
 - **Immanuel-Ferrand Holswig-Schliestein** : oncle de Karl-Franz, peut être admis sur simple demande en tant que personnage royal `Winds of Magic ch.12 l.158`.
 - **Grand Chambellan** : seul membre du Conseil d'État qui assiste régulièrement au Conseil privé avec l'Empereur — pont institutionnel entre les deux organes `Altdorf ch.2 l.138`.
-- **Représentant pyromancien** : un mage du Collège Lumineux toujours en attente au Palais Impérial pour donner l'avis du collège quand demandé ; Thyrus Gormann, ancien Patriarche Suprême et chef du Collège Lumineux, compte parmi les conseillers les plus proches `Winds of Magic ch.14 l.139`.
+- **Représentant pyromancien** : un mage du Collège Flamboyant toujours en attente au Palais Impérial pour donner l'avis du collège quand demandé ; Thyrus Gormann, ancien Patriarche Suprême et chef du Collège Flamboyant, compte parmi les conseillers les plus proches `Winds of Magic ch.14 l.139`.
 - **Ambassadeur de Saphery** : Cendrus Laeoc — diplomate elfe discret, mine officiellement les efforts sapheriens d'empowerment des magiciens impériaux `Sea Wardens ch.6 l.86`.
 
 ## Rôle officiel
@@ -54,7 +54,7 @@ ajouté celle d'un Elfe d'Ulthuan `Altdorf ch.2 l.40+45`.
 - **Audience Kappelmuller (ch.8)** : pour atteindre le médecin dans la chambre impériale, les PJ doivent convaincre un membre du Conseil privé (ou Elvyra Kleinestun) qu'il est dans l'intérêt de l'Empire de voir Kappelmuller à l'œuvre — test de Charm Très Difficile (-30) `EiR ch.8 l.93`. Maria-Luise, le Grand Chambellan ou Schwartzhelm sont les cibles naturelles selon l'angle d'approche choisi par les PJ.
 - **Démasquage de Kappelmuller** : si les PJ exposent Kappelmuller, c'est tout le Conseil privé qui est secoué — Karl-Franz s'éveille (Gideon retirant son sort de *Purple Brain Pox*), et le Conseil doit purger l'aile médicale `EiR ch.13 l.187`.
 - **Maria-Luise comme alliée potentielle** : observatrice canny et loyale, peut basculer si les PJ lui démontrent la conspiration ; sa proximité avec Karl-Franz et sa position de mère des héritiers en font un canal politique unique.
-- **Pyromancien et Collège Lumineux** : si Thyrus Gormann est sollicité officiellement, l'avis du Collège peut peser au Conseil privé — option homebrew si les PJ ont des appuis aux Colleges of Magic.
+- **Pyromancien et Collège Flamboyant** : si Thyrus Gormann est sollicité officiellement, l'avis du Collège peut peser au Conseil privé — option homebrew si les PJ ont des appuis aux Colleges of Magic.
 - **Successions** : Prince Luitpold (héritier Altdorf, fragile) et Wolfgang Holswig-Abenauer (héritier Reikland, neveu de Karl-Franz par la lignée Holswig — *cible* du rituel Sheerargetru) sont les deux fils de la couronne dont l'avenir se joue au climax.
 
 ## Liens externes

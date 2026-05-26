@@ -114,9 +114,9 @@ Organe politique de Middenheim. Les Marshals + Chancellor + Law Lords + autres d
 **Pour faire passer une loi, il faut 9/17 votes** (majorité). **Wasmeier contrôlait 9 votes** au début Arc 5 (Sparsam + Law Lords + Ar-Ulric + Paramour + Champion = 9). **L'objectif PJ Arc 5 = retourner ces votes**.
 
 ### Tensions politiques Arc 5
-- **Sigmar vs Ulric** — Bouillonnant. Middenheim = bastion Ulric, Altdorf = bastion Sigmar. Tensions historiques. **Sons of Ulric** (extrémistes, séparatistes Middenland, Sigmar-phobes) montent en puissance.
-- **Le Grand Theogonist** est venu récemment à Middenheim avec une grosse escorte + **witch hunters + Templars of the Fiery Heart**. Tensions accrues. Sons of Ulric protestent.
-- **Imperial Edict mutants** (Arc 7 EiR background) — controversé : interdit les violences contre les mutants. Vu comme une **trahison sigmarite** par les Sons of Ulric. (À table : édit canon EiR, manipulation Main Pourpre via Kappelmuller-Karl-Franz.)
+- **Sigmar vs Ulric** — Bouillonnant. Middenheim = bastion Ulric, Altdorf = bastion Sigmar. Tensions historiques. **Fils d'Ulric** (extrémistes, séparatistes Middenland, Sigmar-phobes) montent en puissance.
+- **Le Grand Theogonist** est venu récemment à Middenheim avec une grosse escorte + **witch hunters + Templars of the Fiery Heart**. Tensions accrues. Fils d'Ulric protestent.
+- **Imperial Edict mutants** (Arc 7 EiR background) — controversé : interdit les violences contre les mutants. Vu comme une **trahison sigmarite** par les Fils d'Ulric. (À table : édit canon EiR, manipulation Main Pourpre via Kappelmuller-Karl-Franz.)
 - **Indépendantisme Middenland** : « *Middenland for Middenfolk* » est devenu un slogan. Carroburg trop proche d'Altdorf politiquement → Middenheim portée comme « vraie capitale » par les séparatistes.
 
 ### Le Carnaval (Arc 5)
@@ -154,7 +154,7 @@ Major events Arc 5 :
 - **[[Main Pourpre]]** — **Cellule Middenheim** : Wasmeier (Magister Magistri jusqu'à S39), **Erich Kalzbad** (Magister Impedimentae, mort S41), **Gottfried Jarmund** (Magister Novitae, capturé S42), **Bhar** (Grand Vizier Ordo Terribilis, repreneur de facto post-S41, fui S43). Cellule **partiellement démantelée S39** mais **non détruite** ; nettoyage Arc 6.
 - **Jade Sceptre** (Slaaneshi) — **Gotthard Wallenstein/Wittgenstein** chef-de-fait. Patrone morte = Anika-Elise Nikse. Recrute parmi les jeunes nobles + riches oisifs. Planque Ostwald démantelée S37. Wallenstein toujours libre.
 - **Yellow Fang / Croc Jaune** (Skaven cult) — Infiltré Rat Catchers, Sewer Jacks, Collegium Theologica. Cellule **non démantelée** Arc 5 ; ennemi clé Arc 6.
-- **Sons of Ulric** — Extrémistes Ulric + séparatistes Middenland + bigots. **Ar-Ulric Emil Valgeir** post-PBT est dans leur sphère.
+- **Fils d'Ulric** — Extrémistes Ulric + séparatistes Middenland + bigots. **Ar-Ulric Emil Valgeir** post-PBT est dans leur sphère.
 - **Underworld** — 2 gangs principaux : **Ostwald gang** + **Altquartier gang**. **Low Kings** = chefs de gangs. **Bleydane** (Altquartier petit roi, ennemi d'Elvira Arc 6) et **L'Homme** (Ostwald petit roi, ennemi prioritaire Arc 6).
 - **Croix de Lilas (homebrew)** — Schisme Tzeentch fondé par **Filianore + Pathsokar S33**. Petit, secret. Bas-quartiers.
 
@@ -192,7 +192,7 @@ Major events Arc 5 :
 - **FIL Pont Sud effondré S39** — viaduc reconstruit en plusieurs mois. **Implications logistiques Arc 6** (le commerce passe par Est).
 - **FIL Filianore + Croix de Lilas** — fondés à Middenheim, hook Arc 7.
 - **FIL Yellow Fang skaven** — infiltrés institutions, à démanteler Arc 6.
-- **FIL Sons of Ulric / Emil Valgeir** — montée en puissance, **hook Arc 7** (Shining Rock attack S58).
+- **FIL Fils d'Ulric / Emil Valgeir** — montée en puissance, **hook Arc 7** (Shining Rock attack S58).
 
 ## Hooks de retour
 
@@ -214,7 +214,7 @@ Major events Arc 5 :
 - **Arcs** : [[Arc 5 - Power Behind the Throne]] (S30-39, centre), [[Arc 6 - Le Rat Cornu (à venir)|Arc 6]] (S40-55, skavens + nettoyage MP), Arc 7 EiR (S56+, allié Boris + mariage Katarina + attaque manoir S63).
 - **PNJ-clé** : [[Boris Todbringer]], [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Ulrich Schutzmann]], [[Karl-Heinz Wasmeier]], [[Josef Sparsam]], [[Jarrick Valgeir]], [[Emil Valgeir]], [[Gotthard Wallenstein]], [[Janna Eberhauer]], [[Gideon]], [[Filianore]] (Croix de Lilas).
 - **Lieux liés** : [[Altdorf]] (rival politique), [[Wittgendorf]] (Wallenstein origine), Wolfenburg (Heinrich en mission), Drakwald (Wasmeier lair post-S39).
-- **Factions** : [[Main Pourpre]] (cellule Wasmeier), Cult d'Ulric (Jarrick → Emil), Chevaliers du Loup Blanc, Jade Sceptre (Wallenstein), Yellow Fang (skaven), Sons of Ulric, Croix de Lilas (homebrew Filianore-Pathsokar).
+- **Factions** : [[Main Pourpre]] (cellule Wasmeier), Cult d'Ulric (Jarrick → Emil), Chevaliers du Loup Blanc, Jade Sceptre (Wallenstein), Yellow Fang (skaven), Fils d'Ulric, Croix de Lilas (homebrew Filianore-Pathsokar).
 
 ## Liens externes
 - [Middenheim — Lexicanum](https://whfb.lexicanum.com/wiki/Middenheim)

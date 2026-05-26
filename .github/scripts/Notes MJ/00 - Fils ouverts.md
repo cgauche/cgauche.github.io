@@ -464,13 +464,13 @@
 - **Hooks** : (a) les PJ découvrent ce dossier en interrogeant Wasmeier ; (b) ils peuvent **bloquer** la transmission pour protéger Nikse, OU **accélérer** pour faciliter l'ascension Gausser ; (c) scandale Slaaneshi historique exploitable contre la famille Todbringer (mariage Boris × Anika-Elise = boudoir compromis).
 - **Liens** : [[Karl-Heinz Wasmeier]] · [[Ingrid Gausser]] · [[Theoderic Gausser]] · [[Liepmund Holzkrug]] · Werner Nikse · [[Gideon]] (Purple Brain Pox sur Anika-Elise) · `Arc 5` (mort Anika-Elise) · `Arc 7` (révélation post-EiR)
 
-### FIL-58 — Bearers of the Blood / Beate Moser / Ar-Ulric Emil Valgeir
+### FIL-58 — Porteurs de Sang / Beate Moser / Ar-Ulric Emil Valgeir
 - **Statut** : OUVERT
 - **Né en** : Arc 7 ch. 2-3 EiR
 - **Dernier mouvement** : à activer ch. 3 EiR (attaque Shining Rock).
 - **Réactivation canon** : EiR ch. 3 — 3 groupes coordonnés (Weregardt Schlupmann + Beate Moser).
 - **Hooks** : (a) combat à Shining Rock, capture de Beate Moser vivante ; (b) information sur la politique Ulricaine de Middenheim ; (c) lien possible avec Anika-Elise (un Son d'Ulric peut avoir vu des indices Slaaneshi).
-- **Liens** : [[Beate Moser]] · [[Sons of Ulric et Bearers of the Blood]] · Weregardt Schlupmann · Ar-Ulric Emil Valgeir
+- **Liens** : [[Beate Moser]] · [[Fils d'Ulric et Porteurs de Sang]] · Weregardt Schlupmann · Ar-Ulric Emil Valgeir
 
 ### FIL-59 — Réceptacle Wolfgang préparé par les Neuf Yeux
 - **Statut** : OUVERT (climax)
@@ -488,12 +488,12 @@
 - **Hooks** : (a) démasquer Kappelmuller dans la chambre impériale ; (b) Karl-Franz redevient lucide si traité ; (c) Elvyra comme bouc émissaire vs. retournée comme alliée.
 - **Liens** : [[Henrik Kappelmuller]] · [[Elvyra Kleinestun]] · [[Gideon]] · [[Hermann von Feilbach]] · [[Yann Zuntermein]] · FIL-17 (Elvyra) · FIL-19 (double Karl-Franz)
 
-### FIL-61 — Reliquaire piégé du Volkshalle (Albertus Goldformer + Ermine)
+### FIL-61 — Reliquaire piégé du Volkshalle (Albertus Goldformer + Hermine)
 - **Statut** : OUVERT (climax)
 - **Né en** : Arc 7 ch. 13
 - **Réactivation canon** : EiR ch. 13.
-- **Hooks** : (a) découvrir le bouton diamant (Diff –10 Trade test), (b) sceller/détruire le reliquaire pré-cérémonie, (c) retourner Ermine comme allié, (d) démasquer Albertus.
-- **Liens** : [[Albertus Goldformer]] · [[Ermine Liebwitz von Decker und Hanulf]] · [[Gideon]] · [[Maria-Luise von Walfen]] (peut alerter Ermine) · [[Sheerargetru]] (manifestation finale)
+- **Hooks** : (a) découvrir le bouton diamant (Diff –10 Trade test), (b) sceller/détruire le reliquaire pré-cérémonie, (c) retourner Hermine comme allié, (d) démasquer Albertus.
+- **Liens** : [[Albertus Goldformer]] · [[Hermine Liebwitz von Decker und Hanulf]] · [[Gideon]] · [[Maria-Luise von Walfen]] (peut alerter Hermine) · [[Sheerargetru]] (manifestation finale)
 
 ### FIL-62 — Lord Malthe Barthelm / assassinat au mariage
 - **Statut** : OUVERT

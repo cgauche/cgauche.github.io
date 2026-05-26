@@ -10,7 +10,7 @@ L'Empereur Karl-Franz est officiellement « en convalescence ». **Henrik Kappel
 
 En réalité : Kappelmuller est un membre de la **Main Pourpre**, assassin entraîné (canon EiR ch.8 l.64-76 : statbloc CC 63, Couteaux de Lancer +6/8 enduits de Lotus Noir). Ses préparations contiennent du **Ranald's Delight** (sédatif) fournies par l'apothicaire **Elvyra Kleinestun**. Le sort de **Mal Pourpre du Cerveau** sur Karl-Franz est en réalité maintenu à distance par [[Gideon]] — Kappelmuller n'est que le gardien-dispensateur visible.
 
-Trois NPC du Privy Council ([[Maria-Luise von Walfen]], [[Immanuel-Ferrand Holswig-Schliestein]], [[Ermine Liebwitz von Decker und Hanulf]]) le suspectent sans pouvoir agir publiquement.
+Trois NPC du Privy Council ([[Maria-Luise von Walfen]], [[Immanuel-Ferrand Holswig-Schliestein]], [[Hermine Liebwitz von Decker und Hanulf]]) le suspectent sans pouvoir agir publiquement.
 
 **Enjeu pour les PJ** : faire remonter leurs soupçons jusqu'à Maria-Luise pour qu'elle prenne l'initiative du rendez-vous du soir.
 
@@ -139,7 +139,7 @@ Six personnalités sont théoriquement approchables, avec des profils d'accès e
 |---|---|---|---|
 | [[Maria-Luise von Walfen]] | Charme (-10) ou Statut (+0) | Billet immédiat (avant 16h) | Aucun |
 | [[Immanuel-Ferrand Holswig-Schliestein]] | Via Johannes (canal Graukappen) ou Charme (-10) | Remontée à Maria-Luise dans la journée | Aucun |
-| [[Ermine Liebwitz von Decker und Hanulf]] | Via Phineas (connue depuis S60) | Remontée à Maria-Luise dans la journée | Aucun |
+| [[Hermine Liebwitz von Decker und Hanulf]] | Via Phineas (connue depuis S60) | Remontée à Maria-Luise dans la journée | Aucun |
 | [[Yorri XV]] (Grand Théogoniste) | Refusé au portier, redirigé vers Lecteur junior | **Pas de remontée** | Variante C globale possible |
 | [[Reiksmarshall Kurt Helborg]] | **Absent à Ubersreik** | n/a | n/a |
 | [[Baron von Teufelsmilch]] (commandement intérimaire) | Statut (+0) | **Pas de remontée** | **Bascule Variante C forcée, MP infiltré** |
@@ -184,7 +184,7 @@ Sur la mort de Boris :
 
 ---
 
-### Cible C — Ermine Liebwitz von Decker und Hanulf
+### Cible C — Hermine Liebwitz von Decker und Hanulf
 
 **Profil** : noble courtisane proche de Karl-Franz. Phineas la connaît depuis S60.
 
@@ -288,7 +288,7 @@ Les PJ ratent :
 - Confirmation que Elvyra Kleinestun est complice (involontaire ou pas).
 - **Détection du sort Tzeentch** maintenu à distance par un caster non présent (par les sorciers PJ).
 - Premier rapprochement de l'enfant coupe au bol comme **manifestation démonique masquée** ([[Gideon]]).
-- Alliance scellée avec Maria-Luise — canal de correspondance ouvert vers Nuln via [[Ermine Liebwitz von Decker und Hanulf|Hermine Liebwitz]].
+- Alliance scellée avec Maria-Luise — canal de correspondance ouvert vers Nuln via [[Hermine Liebwitz von Decker und Hanulf|Hermine Liebwitz]].
 
 Maria-Luise écrira aux PJ à Nuln plus tard avec les aveux d'un Kappelmuller interrogé par d'autres voies, mais ces acquis seront perdus en temps réel — l'arc 7 sera substantiellement allégé sur la branche Karl-Franz / Main Pourpre.
 
@@ -301,7 +301,7 @@ Maria-Luise écrira aux PJ à Nuln plus tard avec les aveux d'un Kappelmuller in
 - [[Elvyra Kleinestun]]
 - [[Maria-Luise von Walfen]]
 - [[Immanuel-Ferrand Holswig-Schliestein]]
-- [[Ermine Liebwitz von Decker und Hanulf]]
+- [[Hermine Liebwitz von Decker und Hanulf]]
 - [[Yann Zuntermein]]
 - [[Karl-Heinz Wasmeier]]
 - [[12 - Elvira au Rathaus]] (Piste 5 connectée)

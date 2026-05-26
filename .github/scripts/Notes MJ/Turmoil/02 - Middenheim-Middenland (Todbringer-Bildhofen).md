@@ -1,6 +1,6 @@
 # Front — 02 Middenheim-Middenland (Todbringer-Bildhofen)
 
-> **One-liner** : Boris X Todbringer absorbe **Middenland** en compensation canonique de la perte de Nordland (cf. fiche 01) ; **Leopold II von Bildhofen** est rétrogradé à simple Prince de Carroburg vassal. En parallèle : montée fanatique des **Sons of Ulric**, abdication de **Jarrick Valgeir** (révélation conspiration Main Pourpre) au profit d'**Emil Valgeir** *"fire-breathing"*, attentat raté sur Katarina au mariage par **Malthe Barthelm**, et **bris de Ghal Maraz** par Boris au Conclave ch.7. La cour de Boris reste hantée par le legs corrupteur d'Anika-Elise (Jade Sceptre Slaanesh).
+> **One-liner** : Boris X Todbringer absorbe **Middenland** en compensation canonique de la perte de Nordland (cf. fiche 01) ; **Leopold II von Bildhofen** est rétrogradé à simple Prince de Carroburg vassal. En parallèle : montée fanatique des **Fils d'Ulric**, abdication de **Jarrick Valgeir** (révélation conspiration Main Pourpre) au profit d'**Emil Valgeir** *"fire-breathing"*, attentat raté sur Katarina au mariage par **Malthe Barthelm**, et **bris de Ghal Maraz** par Boris au Conclave ch.7. La cour de Boris reste hantée par le legs corrupteur d'Anika-Elise (Jade Sceptre Slaanesh).
 
 ---
 
@@ -50,7 +50,7 @@
 
 #### Cult of Ulric (Middenheim)
 - **Ar-Ulric Jarrick Valgeir** — pré-Turmoil ; *"generally well regarded, though some Ulricans feel he isn't quite strident enough and close friends have noticed that he has been distracted recently"* (Middenheim ch.1 l.454) ; relativement jeune, ambition fonder une lignée Graf+Ar-Ulric ; **affaire secrète avec Emmanuelle Schlagen**, *"resenting the obligations of his vow [of celibacy]"* ; **abdique Spring 2512 IC** suite à la **révélation de la conspiration Main Pourpre** (canon Fandom Emil Valgeir) ; part en **pèlerinage au nord** post-abdication
-- **Ar-Ulric Emil Valgeir** — frère de Jarrick, **ex-Grand Master of the Chevaliers du Loup Blanc avant de devenir Ar-Ulric** (canon Fandom Emil Valgeir) ; post-abdication Jarrick (Spring 2512 IC, EiR ch.17 l.14) ; *"fire-breathing preacher with little respect for Sigmarites"* ; lève le ban des **Sons of Ulric** (EiR Intro l.247) ; renouveau ulricain fanatique
+- **Ar-Ulric Emil Valgeir** — frère de Jarrick, **ex-Grand Master of the Chevaliers du Loup Blanc avant de devenir Ar-Ulric** (canon Fandom Emil Valgeir) ; post-abdication Jarrick (Spring 2512 IC, EiR ch.17 l.14) ; *"fire-breathing preacher with little respect for Sigmarites"* ; lève le ban des **Fils d'Ulric** (EiR Intro l.247) ; renouveau ulricain fanatique
 - **Denfather Claus Liebnitz** — Deputy High Priest Middenheim High Temple, *"fierce fighting man and inductee of the Brotherhood of the Axe"* ; **infiltré par les ``brothers worshipping a darker god`` — vulnérabilité Khorne canon** (Middenheim ch.1 l.456)
 - **Brotherhood of the Axe** — order Ulrican élite à la base, infiltré Khorne (Middenheim ch.1 l.456)
 - **Order of the Howling Wolf** — conclave senior priests qui **élit Ar-Ulric pour la vie** (Middenheim ch.1 l.454) ; priests viennent de Sudenland à Kislev pour le conclave
@@ -66,7 +66,7 @@
 - **Matika Flenz** — senior Red Claw + fervent suivant **Lupus** (vieux dieu des prédateurs, "borderline" canon)
 - **Teutogen Brotherhood** — *"strange organisation devoted to honouring Ulric as a Teutogen ideal"* ; **ethnic-nationalist anti-Sigmarite** ; non approuvée cult officiel ; temple sur road Sohk-Immelscheid (Middenheim ch.5 l.274-280)
 
-#### Sons of Ulric (umbrella organisation montante)
+#### Fils d'Ulric (umbrella organisation montante)
 - *"Once a tiny group of extremists who no one took seriously, have emerged as an umbrella organisation uniting a wide range of groups ranging from Human supremacists to Ulrican fundamentalists"* (PBT ch.2 l.178)
 - **Slogan** : *"Middenland for Middenfolk"*
 - **Tactiques** : agitateurs de rue, demagogues, handbills, attaques sur outsiders (Altdorfers, Sigmarites, foreigners), bandit groups under Ulrican banners
@@ -190,17 +190,17 @@
 | ~2480-2490 IC | Katarina née (lady-at-court, "Princess") | PBT ch.2 l.99 |
 | 2502 IC | **Boris (47) épouse Anika-Elise Nikse (13)**, fille du Baron Werner Nikse (cf. fiche 01) | PBT ch.2 l.101 ; Companion ch.5 l.16 |
 | 2502-2512 IC | Anika-Elise apporte sybarites et power worshippers à la cour Middenheim ; mentor Gotthard von Wittgenstein (alias Wallenstein) ; **leader canon du Cult of the Jade Sceptre à Middenheim** (Middenheim ch.7 l.144 : *"their leader had been none other than the vivacious second wife of Graf Boris himself"*) | Middenheim ch.1 l.379 + ch.7 l.144 |
-| 2510 IC env. | Montée des **Sons of Ulric** comme umbrella organisation ; "Middenland for Middenfolk" graffiti et agitation | PBT ch.2 l.178 |
+| 2510 IC env. | Montée des **Fils d'Ulric** comme umbrella organisation ; "Middenland for Middenfolk" graffiti et agitation | PBT ch.2 l.178 |
 | 2512 IC (printemps) | **Anika-Elise meurt** ("strange illness", quelques mois avant PBT) | PBT ch.2 l.101 ; Fandom |
 | 2512 IC (été) | **PBT events** — Carnival Middenheim, attentat Boris (étranglement Hoflich-Gideon-Changeling), complot Wasmeier démasqué (Magister Magistri), Wasmeier fugitif Drakwald | PBT entier |
-| 2512 IC (Spring) | **Abdication Ar-Ulric Jarrick Valgeir** en faveur de son frère Emil — *"fire-breathing preacher"* (EiR ch.17 l.14) ; **Sons of Ulric ban lifted** (EiR Intro l.247) | EiR ch.17 l.14 ; Intro l.247 |
+| 2512 IC (Spring) | **Abdication Ar-Ulric Jarrick Valgeir** en faveur de son frère Emil — *"fire-breathing preacher"* (EiR ch.17 l.14) ; **Fils d'Ulric ban lifted** (EiR Intro l.247) | EiR ch.17 l.14 ; Intro l.247 |
 
 ### Alliances et rivalités pré-Turmoil
 
 **Middenheim alliés** :
 - Cult of Ulric (Ar-Ulric Court Cleric) — mais tension Jarrick-Boris via Emmanuelle Schlagen
 - Chevaliers Panthères (depuis 1450 IC, "secret obligation")
-- Chevaliers du Loup Blanc — quoique l'infiltration Sons of Ulric inquiète
+- Chevaliers du Loup Blanc — quoique l'infiltration Fils d'Ulric inquiète
 - Dwarfs Middenheim (depuis Karak Kazarak refugees)
 - Halflings Kleinmoot (~ Greenhill clan)
 - Nordland (vassal via Treaty of Schoninghagen 2368 IC — voir fiche 01)
@@ -215,14 +215,14 @@
 **Tension Middenheim ↔ Middenland** :
 - 4 fois unifiées puis séparées depuis 555 IC
 - 1550 IC indépendance Middenland (vol Beast Slayer)
-- Sons of Ulric portent Middenheim comme "capital naturel de Middenland libre"
+- Fils d'Ulric portent Middenheim comme "capital naturel de Middenland libre"
 - Carroburg dépeinte comme "trop proche d'Altdorf, politiquement et physiquement" (PBT ch.2 l.174)
 - **Vieran Thugenheim** (Chevaliers Panthères) — territoire contesté Jager Keep
 - von Genscher castle near Schoninghagen (Middenland border)
 
 **Tension Ulric/Sigmar exacerbée pré-Turmoil** :
 - Mutant Edict de Karl-Franz (impopulaire à Middenheim)
-- Sons of Ulric agitation
+- Fils d'Ulric agitation
 - "Mandred the Ratslayer assassinated as part of Sigmarite plot" rumour (PBT ch.2 l.180)
 - Ar-Ulric pressuré par cult radicalisme
 
@@ -250,8 +250,8 @@
 
 ### Organisations proscrites NON-Chaos (canon Middenheim ch.7 + Fandom)
 *Distinguées canon C7 des cultes du Chaos — proscribed mais pas Chaos-aligned :*
-- **Sons of Ulric** : zélotes ulricains revendiquant descendance physique d'Ulric (Fandom Sons of Ulric) — *"those who trace their lineage to Ulric are entitled to lead his cult"* (Middenheim ch.7 l.158) ; umbrella organisation politique post-2510 IC ; maintiennent **le Womb of the Wolf** (lieu sacré secret dans l'undercity Fauschlag, *"site where Ulric's first mortal child was born"*, canon Fandom Womb of the Wolf) ; ban lifted par Emil Valgeir post-abdication (EiR Intro l.247) ; **"wishes to depose Emil in favour of one their own"* (paradoxe canon)*
-- **Bearers of the Blood** : sub-faction Sons of Ulric ; Beate Moser leader (Middenheim ch.7)
+- **Fils d'Ulric** : zélotes ulricains revendiquant descendance physique d'Ulric (Fandom Sons of Ulric) — *"those who trace their lineage to Ulric are entitled to lead his cult"* (Middenheim ch.7 l.158) ; umbrella organisation politique post-2510 IC ; maintiennent **le Womb of the Wolf** (lieu sacré secret dans l'undercity Fauschlag, *"site where Ulric's first mortal child was born"*, canon Fandom Womb of the Wolf) ; ban lifted par Emil Valgeir post-abdication (EiR Intro l.247) ; **"wishes to depose Emil in favour of one their own"* (paradoxe canon)*
+- **Porteurs de Sang** : sub-faction Fils d'Ulric ; Beate Moser leader (Middenheim ch.7)
 - **Eaters of the World** : travaillent à ressusciter le Liche-Thing Babrakkos à Linz (Middenheim ch.5 l.243)
 - **New Millennialists** : agitation populiste anti-merchant (Middenheim ch.7) ; urge les commun folk à se plaindre du traitement préférentiel des merchants (Middenheim ch.1 l.442)
 - **Volans's Oath** : association proscribed lié à l'héritage du Magister magistralis Volans (Middenheim ch.7)
@@ -273,7 +273,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 ### 2. Renouveau ulricain fanatique
 - **Abdication Ar-Ulric Jarrick Valgeir** Spring 2512 IC (EiR ch.17 l.14) — cause précise non précisée canon mais cohérent avec scandale Emmanuelle Schlagen possible révélation, ou usure politique
 - **Emil Valgeir** prend la robe — *"fire-breathing preacher with little respect for Sigmarites, only exacerbated the matter"*
-- **Sons of Ulric ban lifted** (EiR Intro l.247) — *"despite the fact that the sect wishes to depose him in favour of one their own"*
+- **Fils d'Ulric ban lifted** (EiR Intro l.247) — *"despite the fact that the sect wishes to depose him in favour of one their own"*
 - **"Now these sectarian zealots preach openly in Middenheim"* (EiR Intro l.247)
 
 ### 3. Mutant Edict de Karl-Franz
@@ -326,11 +326,11 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | ~2480-2490 IC | (background) | Naissance Katarina (autre lady-at-court) | PBT ch.2 l.99 |
 | 2502 IC | (background) | **Mariage Boris (47) — Anika-Elise (13)** | Fiche 01 + PBT ch.2 l.101 |
 | 2502-2512 IC | (background) | Anika-Elise apporte sybarites à la cour ; mentor Gotthard von Wittgenstein ; cercle Jade Sceptre Middenheim grows | Middenheim ch.1 l.379 ; ch.7 |
-| 2510-2512 IC | (background) | Sons of Ulric umbrella organisation grows ; "Middenland for Middenfolk" propaganda | PBT ch.2 l.178 |
+| 2510-2512 IC | (background) | Fils d'Ulric umbrella organisation grows ; "Middenland for Middenfolk" propaganda | PBT ch.2 l.178 |
 | 2512 IC | (background, "few months before PBT") | **Mort d'Anika-Elise** ("strange illness") ; Boris dépression aiguë | PBT ch.2 l.101 ; fiche 01 |
 | **2512 IC été** | PBT events (S30-S39 table Gauche) | Carnival Middenheim ; complot Wasmeier-Hoflich-Gideon démasqué ; attentat sur Boris déjoué ; Wasmeier fugitif Drakwald | PBT entier ; fiche Boris.md |
 | **2512 IC Spring** | EiR ch.17 l.14 | Abdication Ar-Ulric Jarrick Valgeir → Emil Valgeir | EiR ch.17 l.14 |
-| **2512 IC Spring** | EiR Intro l.247 | Sons of Ulric ban lifted par Emil ; "preach openly in Middenheim" | EiR Intro l.247 |
+| **2512 IC Spring** | EiR Intro l.247 | Fils d'Ulric ban lifted par Emil ; "preach openly in Middenheim" | EiR Intro l.247 |
 | Pendant EiR ch.1 (S56) | Sky Wolf attack | Heinrich avec Sky Wolf (dirigeable Dwarf gift) attaqué par Klammer / Helstorm rockets sur le retour Karak Skygg | EiR ch.1 ; fiche 01 |
 | Pendant EiR ch.2 (S57) | Audience Boris Middenpalaz | Boris reçoit délégation Reikland glacialement ; discute reaving Nordland | EiR ch.2 l.141 |
 | Pendant EiR ch.5 (S60) | Défilé Altdorf — March of Unity | **Boris dans la procession à Altdorf** ; banner Middenheim ; suivi de Vieran Thugenheim en uniforme Chevaliers Panthères ; Harman + Malthe Barthelm dans entourage | EiR ch.5 (March of Unity) |
@@ -381,7 +381,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 - **Siegfried von Bildhofen** : continue à administrer Carroburg sous son frère (canon ne tranche pas explicitement la transition)
 - **House Bildhofen** : conserve **Palace of Glass** + Drakschloss (mais abandonné) + Bildhofen family estates ; **claim Magnus le Pieux conservé** mais sans support politique
 - **Ar-Ulric Emil Valgeir** : reste Ar-Ulric Empire-wide (cf. fiche 10) — n'est pas déposé
-- **Sons of Ulric** : continuent à agitate post-Turmoil mais sous régime resserré Boris
+- **Fils d'Ulric** : continuent à agitate post-Turmoil mais sous régime resserré Boris
 
 ### Structure de pouvoir Middenheim post-Turmoil (continue)
 - **Graf** : Boris (cumul des titres)
@@ -392,7 +392,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 ### Religion post-Turmoil
 - Tension Sigmar/Ulric reste vive ; **Volkmar succède Yorri XV** comme Grand Theogonist canon (mort de Yorri au climax ch.13, cf. fiche 10/11)
-- **Sons of Ulric** continuent à prêcher
+- **Fils d'Ulric** continuent à prêcher
 - **Cult of Manann** marginal mais présent (Westenmark si applicable)
 - **Cultes Bildhofen** : Sigmar Carroburg (tradition Magnus le Pieux)
 
@@ -415,8 +415,8 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **Solveig von Bildhofen** (petite-fille Gunthar) | Épouse Boris Todbringer 2371 IC | (historique) ; mère de Bertholdt | Morte historique (Middenheim ch.1 l.307) |
 | **Bertholdt Todbringer** | Premier Todbringer Graf de Middenheim ; arrière-grand-père de Graf Boris actuel | (historique) | Mort historique (Middenheim ch.1 l.307) |
 | **Ar-Ulric Jarrick Valgeir** | High Priest Ulric ; affaire secrète avec Emmanuelle Schlagen | **Abdique Spring 2512** suite révélation conspiration Main Pourpre ; **pèlerinage au nord** post-abdication (canon Fandom Emil Valgeir) | Vivant en pèlerinage (Fandom) |
-| **Ar-Ulric Emil Valgeir** | **Grand Master des Chevaliers du Loup Blanc** | Devient Ar-Ulric post-abdication Jarrick ; *"fire-breathing"* ; lève ban Sons of Ulric | Vivant (canon Fandom Emil Valgeir) |
-| **Ar-Ulric Emil Valgeir** | Frère Jarrick, fire-breathing preacher | Ar-Ulric ; lève ban Sons of Ulric ; continue post-Turmoil | Vivant (EiR ch.17 ; Intro l.247) |
+| **Ar-Ulric Emil Valgeir** | **Grand Master des Chevaliers du Loup Blanc** | Devient Ar-Ulric post-abdication Jarrick ; *"fire-breathing"* ; lève ban Fils d'Ulric | Vivant (canon Fandom Emil Valgeir) |
+| **Ar-Ulric Emil Valgeir** | Frère Jarrick, fire-breathing preacher | Ar-Ulric ; lève ban Fils d'Ulric ; continue post-Turmoil | Vivant (EiR ch.17 ; Intro l.247) |
 | **Denfather Claus Liebnitz** | Deputy High Priest High Temple ; Brotherhood of the Axe (ordre infiltré par cultistes Khorne — Crimson Skull) ; **son allégeance personnelle non tranchée canon** | (idem) ; vulnérabilité indirecte | Vivant (Middenheim ch.1 l.456) |
 | **Boris Eichermann** | (non détaillé pré-Turmoil) | **Magus du Crimson Skull** (Khorne), ex-Priest of Ulric ; organise la Convocation of Blood annuelle à Middenheim | Vivant (canon Fandom Cult of the Crimson Skull) |
 | **Vieran Thugenheim** | Favourite Boris ; senior commander Chevaliers Panthères ; old campaigner | (idem) ; commandement Chevaliers Panthères durant guerre Nordland | Vivant (Middenheim ch.1 l.383) |
@@ -447,7 +447,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **House Helstein (Middenheim)** | Loyal subjects, Manor à Altdorf (Mauerblumchen) | (idem) — résidence délégation Middenheim à Altdorf | Vivants (EiR ch.5 l.38) |
 | **von Genscher family** | Small castle near Schoninghagen (Middenland border) ; military service | (idem) | Vivants (Middenheim ch.5 l.12) |
 | **Dieter Helsnicht (Doom Lord)** | Necromancer fugitif depuis 1207 IC, Forest of Shadows | (idem) — toujours actif folklore | "Last seen 1244 IC" (Middenheim ch.1) |
-| **Sons of Ulric leaders** | Obscur canon | (idem) | Variable |
+| **Fils d'Ulric leaders** | Obscur canon | (idem) | Variable |
 
 ---
 
@@ -472,7 +472,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 - **Cascade vers [[Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs)]]** :
   - **Abdication Jarrick Valgeir → Emil Valgeir** comme Ar-Ulric (Spring 2512 IC)
-  - **Sons of Ulric ban lifted** ; preach openly in Middenheim
+  - **Fils d'Ulric ban lifted** ; preach openly in Middenheim
   - **Brotherhood of the Axe infiltrée Khorne** via Liebnitz
   - **Affaire secrète Emmanuelle Schlagen × Jarrick** — risk *"dangerous scramble for power"*
 
@@ -515,7 +515,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 - **(canon)** **Red Claw sect investigation** — *"All manner of interested parties might like to sponsor some sort of spy effort to discover how their teachings vary"* (Middenheim ch.5 l.141)
 - **(canon)** **Boris recovery from depression** — possible PJ catalyseur (PBT post-S38)
 - **(canon)** **Chevaliers Panthères secret obligation aux Todbringer** depuis 1450 IC — "Why this obligation exists remains secret" (Middenheim ch.1 l.242). Hook investigation deep history.
-- **(canon)** **Sons of Ulric leadership obscur** (PBT ch.2 l.178) — hook PJ d'identifier les leaders. Le sect *"wishes to depose Emil Valgeir in favour of one their own"* (EiR Intro l.247).
+- **(canon)** **Fils d'Ulric leadership obscur** (PBT ch.2 l.178) — hook PJ d'identifier les leaders. Le sect *"wishes to depose Emil Valgeir in favour of one their own"* (EiR Intro l.247).
 - **(canon)** **Carroburg politics** — Leopold von Bildhofen "claim to the Imperial Throne" via Magnus + ceremonies Palace of Glass (Archives Vol I l.110) — *"a potential challenge not unnoticed in Altdorf"*
 
 ### Hooks canon + déduction
@@ -538,7 +538,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 - **EiR Volume 5 — Introduction** :
   - l.36 — Sky Wolf attaqué (cf. fiche 01)
   - l.215 — Wasmeier-Zuntermein
-  - **l.244-249 — section Middenheim and Middenland** (mutant edict, Sons of Ulric, Bildhofen torn loyalties Magnus)
+  - **l.244-249 — section Middenheim and Middenland** (mutant edict, Fils d'Ulric, Bildhofen torn loyalties Magnus)
   - l.890-895 — Boris Trappings complets (Peak Leveller + Wardenship Nordland)
 - **EiR ch.5 *March of Unity*** : Boris dans procession Altdorf ; Helstein Manor (l.38)
 - **EiR ch.6 *The Wedding*** : l.167 (Helstein Manor délégation Middenheim), l.181 (iconography Bildhofens of Carroburg + Barthelms + Nikses)
@@ -570,7 +570,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 - **Power Behind the Throne** :
   - **ch.2 *Middenheim*** : 
     - **l.90-160 — Boris + family** (Boris statbloc complet l.108-119, Maria von Richthofen, Stefan, Heinrich, Katarina, Anika-Elise = "daughter of Baron Rudolph von Niske" — voir section 10 ambiguïté)
-    - l.164-184 — Religion + Sons of Ulric + tension Sigmar/Ulric
+    - l.164-184 — Religion + Fils d'Ulric + tension Sigmar/Ulric
     - l.190-242 — Districts Middenheim (Palast, Grafsmund, Ulricsmund, Altmarkt, Southgate-Ostwald, Neumarkt-Osttor-Nordtor, Freiburg, Wynd, Westor-Sudgarten, Geldmund-Kaufseit-Brotkopfs) + 3 Midden Marshals + Law Lords (Ehrlich, Wasmeier, Hoflich)
 - **PBT Companion ch.6 *Jade Sceptre — A GM's Guide*** — Gotthard Wallenstein Magus, contexte cult
 - **Up in Arms ch.4 *Knights of the Empire*** :

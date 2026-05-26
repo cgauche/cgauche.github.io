@@ -12,7 +12,7 @@
   - **Introduction** (l.1-1108) : plot Gideon-Sheerargetru + statblocs 17 PNJ centraux (Liepmund Holzkrug Gold 4, Immanuel-Ferrand Gold 4, Yann Zuntermein Gold 1 Magister Magistri, Wolfgang Holswig-Abenauer Gold 10, Volkmar Gold 2 Lector, Yorri XV Gold 2 Lector, Emmanuelle Gold 15 Elector Countess, Hermann von Feilbach Gold 2 First Knight, Boris Todbringer Gold 7, Heinrich Gold 2 Envoy, Katarina Gold 3, Emil Valgeir Gold 2 Lector, Veiran Thugenheim Gold 2 First Knight, Malthe Barthelm Nordlander Assassin, Karl-Heinz Wasmeier Brass 1 Disgraced Barrister, Colonel Olaf Sievers Gold 1, Henrik Kappelmuller, Quintus Fassbinder).
   - **Ch.1 *Dirigible in Danger*** (363l) — S56 retour Karak Skygg → Middenheim sur le **Sky Wolf** (table = "Loup des Cieux").
   - **Ch.2 *Chilly Reception*** (488l) — S57 délégation Altdorf + propositions Shining Rock + mariage Katarina-Wolfgang.
-  - **Ch.3 *Journey to Shining Rock*** (387l) — S58 attaque Bearers of the Blood + Beate Moser.
+  - **Ch.3 *Journey to Shining Rock*** (387l) — S58 attaque Porteurs de Sang + Beate Moser.
   - **Ch.4 *Audience with Wolfgang*** (303l) — S59 Castle Reikguard + bannière Carroburg piège Zuntermein + 9 Eyes Kathe Ruttmann.
   - **Ch.5 *March of Unity*** (353l) — S60 défilé Altdorf + faux empereur + Emmanuelle + pigs Petra Schneller + Indomitable tank.
   - **Ch.6 *The Wedding*** (280l) — S61 Malthe Barthelm tire sur Katarina + Wasmeier Pink Fire Tzeentch.
@@ -22,7 +22,7 @@
   - **Ch.10 *In Sigmar's Footsteps*** (665l) — Black Fire Pass + Bloodmoss Plain + Black Fire Keep + Stations of Exodus + Vithang Dum + Three Mothers + Zan Mingol + Schmerzeit Mine + Lost Gorge + Madcraw Clan (Cacklespit + Mansplatta + Moongobba + Gruntlob) + Sievers Imperial Ostlanders.
   - **Ch.11 *Caves of Chaos*** (543l) — 9 cavernes thématiques (Vents de la magie) + Three-Headed Chaos Hound + Ghosts + Treacherous Herald + Adelfried Jarmund heretic Verena + Chaos Minotaur Lord + Harpies + **Ghal Maraz canon** (SB+7 Damaging Fine3 Pummel Unbreakable + Radiant Nimbus + Smednir's Master Rune Head-Wrecking + Rune of Goblin Bane + *Fire/Stalwart/Spell-Breaking inactives*).
   - **Ch.12 *Black Fire Pass to Altdorf*** (601l) — Iron Marshall Kina Hammerwatch + Grimshank's Chain Dwarf network + Cult of Broken Fingers Martin Schmidt + Loremaster Albertus Nyman + Wolfshügel Mother's Mound + Drexol the Extinction Bestigor + Krukan arachnoid + Thirteen Slayer + Brother Adric Taal.
-  - **Ch.13 *The Empire Saved*** (709l) — Captain Emil Baecker Zuntermein ambush + Maria-Luise von Walfen Empress token + Volkshalle reliquaire piégé Albertus Goldformer + Ermine Liebwitz wine cellar + Baron von Teufelsmilch Reiksguard infiltré + cérémonie 9 Brauzeit + Iztak Graksk chant + Sheerargetru manifesté + 5 endings possibles.
+  - **Ch.13 *The Empire Saved*** (709l) — Captain Emil Baecker Zuntermein ambush + Maria-Luise von Walfen Empress token + Volkshalle reliquaire piégé Albertus Goldformer + Hermine Liebwitz wine cellar + Baron von Teufelsmilch Reiksguard infiltré + cérémonie 9 Brauzeit + Iztak Graksk chant + Sheerargetru manifesté + 5 endings possibles.
   - **History of Turmoil** (44l, Fassbinder POV) : résolution canon post-Arc 7 — Chambre Noire expose Zuntermein cultiste, Krieglitz+Bildhofen perdent siège, Gausser obtient Nordland Grand Baron + Runefang, Leitdorf prend Averland, Emmanuelle annexe Sudenland → Grand Countess Wissenland, Boris devient Grand Duke Middenland, Karl-Franz récupéré, Yorri+Wolfgang morts au climax, Volkmar Grand Theogonist.
 - **Sources annexes** : `Source/Empire In Ruins Companion/` (deleted scenes + Filianore retour option). `Source/Altdorf - Crown of the Empire/` (Volkshalle + Grand Cathedral + univers Altdorf). `Notes MJ/04 Fils ouverts` + `07 Suite canonique` + `08 Vision ancien MJ` + `09 Prep post-S63`.
 
@@ -32,7 +32,7 @@
 |---|---|---|---|
 | S56 | ~18 Nachgeheim 2512 IC | Dirigeable Sky Wolf → Middenheim | Attaque Helstorm rockets Nordland séparatistes |
 | S57 | ~19 Nachgeheim | Middenheim, Middenpalaz | Délégation Altdorf, propositions Shining Rock + mariage Wolfgang |
-| S58 | ~21 Nachgeheim | Shining Rock | Attaque Bearers of the Blood (Beate Moser), Mark perd œil |
+| S58 | ~21 Nachgeheim | Shining Rock | Attaque Porteurs de Sang (Beate Moser), Mark perd œil |
 | S59 | ~22-28 Nachgeheim | Voyage + Castle Reikguard | Audience Wolfgang + 9 Yeux mentionnés (Kathe Ruttmann + 3 noms donnés) |
 | S60 | ~29-30 Nachgeheim | Altdorf, pavillon défilé | Faux empereur démasqué Emmanuelle, pigs Petra Schneller, tank Indomitable, prêche paix Elvira |
 | S61 | ~1 Erntezeit | Cathédrale Sigmar Altdorf | Malthe Barthelm tire Katarina, Wasmeier Pink Fire (boule rosâtre), Phineas poignarde Barthelm |
@@ -42,7 +42,7 @@
 
 ### Tags
 
-`#EmpireInRuins` `#EiR` `#Arc7` `#Reikland` `#Altdorf` `#KarlFranz` `#Wolfgang` `#NeufYeux` `#Sheerargetru` `#Gideon` `#Zuntermein` `#Kappelmuller` `#Volkmar` `#Yorri` `#MariaLuise` `#Emmanuelle` `#Holzkrug` `#ImmanuelFerrand` `#Toppenheimer` `#Bildhofen` `#Fassbinder` `#KastorLieberung` `#Elvyra` `#9Brauzeit` `#Volkshalle` `#GhalMaraz` `#FauxMarteau` `#Wasmeier` `#Barthelm` `#Gausser` `#Hergard` `#Tasseninck` `#Krieglitz` `#Streissen` `#Leitdorf` `#Alptraum` `#BlackFirePass` `#Wolfshügel` `#Drexol` `#Madcraw` `#Cacklespit` `#GrimshanksChain` `#NightVigil` `#EternalWatch` `#WolfgangHolswigAbenauer` `#HermannVonFeilbach` `#OrlaFeder` `#Carroburg` `#BloodyBoris` `#9YeuxKathe` `#Albertus` `#Ermine` `#TeufelsmilchReiksguard` `#Helborg` `#KastorAndFriends`
+`#EmpireInRuins` `#EiR` `#Arc7` `#Reikland` `#Altdorf` `#KarlFranz` `#Wolfgang` `#NeufYeux` `#Sheerargetru` `#Gideon` `#Zuntermein` `#Kappelmuller` `#Volkmar` `#Yorri` `#MariaLuise` `#Emmanuelle` `#Holzkrug` `#ImmanuelFerrand` `#Toppenheimer` `#Bildhofen` `#Fassbinder` `#KastorLieberung` `#Elvyra` `#9Brauzeit` `#Volkshalle` `#GhalMaraz` `#FauxMarteau` `#Wasmeier` `#Barthelm` `#Gausser` `#Hergard` `#Tasseninck` `#Krieglitz` `#Streissen` `#Leitdorf` `#Alptraum` `#BlackFirePass` `#Wolfshügel` `#Drexol` `#Madcraw` `#Cacklespit` `#GrimshanksChain` `#NightVigil` `#EternalWatch` `#WolfgangHolswigAbenauer` `#HermannVonFeilbach` `#OrlaFeder` `#Carroburg` `#BloodyBoris` `#9YeuxKathe` `#Albertus` `#Hermine` `#TeufelsmilchReiksguard` `#Helborg` `#KastorAndFriends`
 
 ---
 
@@ -64,7 +64,7 @@
 - Anselm + Yuridika détruisent les 4 missiles en vol par magie (canon prévoit Perception + Sail evasion + Ranged Very Hard).
 - **Tous les tireurs tués sans prisonniers**. Canon prévoit Heinrich pro-prisonniers vs Veiran Thugenheim pro-fight (note canon Veiran = "Vieran" à table — choix MJ assumé).
 - Werner Stolz mentionné dans le résumé table (canon ch.2 le présente comme High Capitular of Sigmar Middenheim, salle du trône).
-- Arrivée Middenheim : afflux migrants, salle du trône avec Werner Stolz qui annonce visite Volkmar von Hindenstern. Porteurs de Sang vus en ville sur la place des Parades (canon dit Bearers of the Blood, leader Beate Moser jeune femme cheveux blancs).
+- Arrivée Middenheim : afflux migrants, salle du trône avec Werner Stolz qui annonce visite Volkmar von Hindenstern. Porteurs de Sang vus en ville sur la place des Parades (canon dit Porteurs de Sang, leader Beate Moser jeune femme cheveux blancs).
 - Schutzmann paye le groupe pour Karak Skygg.
 
 **Ce que les PJ savent** : Wasmeier vivant fournit info Nordland séparatistes. Volkmar von Hindenstern ambassadeur Sigmar arrive. Porteurs de Sang extrémistes Ulric agitent.
@@ -103,13 +103,13 @@
 **Cadre** : Délégation Middenheim (Boris + Heinrich + Katarina + Veiran + Ar-Ulric + escorte Chevaliers Panthères + Knights Loup Blanc) → Shining Rock (50 miles sud, 2 jours).
 
 **Plots canon (ch.3)** :
-- **Sons of Ulric warning** : info **Alfric Half-Nose** (Bretonnian House Inn Altquartier, 6 shillings) — préparent surprise au Warrenburg + raid Shining Rock. Si PJ écoutent : **+1-3 Party Allegiance**.
-- **Warrenburg Incident** : Sons of Ulric jettent peat+wolf scat sur le coach délégation Altdorf. PJ peuvent intervenir.
+- **Fils d'Ulric warning** : info **Alfric Half-Nose** (Bretonnian House Inn Altquartier, 6 shillings) — préparent surprise au Warrenburg + raid Shining Rock. Si PJ écoutent : **+1-3 Party Allegiance**.
+- **Warrenburg Incident** : Fils d'Ulric jettent peat+wolf scat sur le coach délégation Altdorf. PJ peuvent intervenir.
 - **Délégation Sigmar campe sud du rocher peint** (Sigmar comète 2 queues jaune ↔ Ulric loup bleu). Délégation Altdorf : Volkmar, **20 knights mixtes (Griffon + Fiery Heart + Panthères d'Altdorf)**, **Yann Zuntermein**, **Elvyra Kleinestun** (apothicaire personnelle Yorri XV — canon l.93). Holzkrug+Eckstein+Laue+Fassbinder envoyés en avance vers Altdorf (canon l.91 : *« High Capitular was displeased by the diplomats' performance, and sent them on »*).
 - **Elvyra Kleinestun** : pawn unwilling Gideon, doppelgänger Bögenhafen Daemonologist kidnap, repositioned pharmacist Yorri par Zuntermein. **Pousse rumeurs faux Ghal Maraz** (canon Intro l.220 : *« She has been driven to believe that it is necessary to inform Boris Todbringer that the hammer wielded by the Emperor is not actually Sigmar's Hammer »*).
 - **Conversation Elvyra-Veiran canon l.157** : Elvyra à Veiran : *« they don't seem to even treat the Hammer with much respect... when it's just Altdorfers and Sigmarites in the room, they just treat it like a glorified paperweight »*. **Très important** — graine MJ-only Veiran/Boris connaîssent faux marteau.
 - **Rencontre Yorri ↔ Ar-Ulric Emil au rocher 15:00** : 5 minutes prière silencieuse, voix basses. Eavesdrop magie = priest agree gesture of unity.
-- **Trois groupes Sons of Ulric attaquent 4:30 AM** : Groupe 1 (6, peinture boulder + diversion), Groupe 2 (20, Sigmarite camp rampage, **Weregardt Schlupmann** Loup Blanc traître), Groupe 3 (30, sanctuaire, **Beate Moser** Bearers of the Blood leader).
+- **Trois groupes Fils d'Ulric attaquent 4:30 AM** : Groupe 1 (6, peinture boulder + diversion), Groupe 2 (20, Sigmarite camp rampage, **Weregardt Schlupmann** Loup Blanc traître), Groupe 3 (30, sanctuaire, **Beate Moser** Porteurs de Sang leader).
 - **Cleric-Captain Konrad Metternich** (Fiery Heart) — défense Sigmar camp.
 - **Le groupe doit prêter main forte** + Boris charge avec ses troupes.
 
@@ -118,7 +118,7 @@
 - **Œil gauche béant** : interprétation marque divine Ulric (cf. perte main S36 + œil régénéré S26 phare).
 - **Reconnaissance Elvyra** : Anselm la connaît Bögenhafen, conversation possible.
 
-**Ce que les PJ savent** : Sons of Ulric extrémistes + Beate Moser (cheveux blancs, **descendante revendiquée du Loup Blanc** canon ch.3 l.343). Volkmar et Yorri voulaient paix. Massacre. Mark défiguré.
+**Ce que les PJ savent** : Fils d'Ulric extrémistes + Beate Moser (cheveux blancs, **descendante revendiquée du Loup Blanc** canon ch.3 l.343). Volkmar et Yorri voulaient paix. Massacre. Mark défiguré.
 
 **MJ-only** : Le miracle Volkmar (canon non explicite ici) + Beate Moser **canon profile p.66** (Hardy +4W, Bless Ulric, Holy Visions). Weregardt Schlupmann canon = traître Loup Blanc qui a signalé Sons via howls.
 
@@ -163,7 +163,7 @@
   - **Plot 5 Porcine Pranks** : **Petra Schneller** (priestess of Ranald disguised serving maid). 3 porcs peints Altdorf-Middenheim-Nuln, dose Ranald's Delight. Évaporée post-déclenchement.
 - **Timeline événements 14:00** :
   - 14:00 Emmanuelle entrée + connaît KF père événement 16e anniversaire (test KF reconnaît).
-  - 14:15 Wine bad (Emmanuelle complain Ermine Liebwitz **Ermine Liebwitz von Decker und Hanulf** steward Imperial Wine Cellars — canon ch.5 l.207).
+  - 14:15 Wine bad (Emmanuelle complain Hermine Liebwitz **Hermine Liebwitz von Decker und Hanulf** steward Imperial Wine Cellars — canon ch.5 l.207).
   - 14:30 Sievers anecdote Orcs.
   - 14:40 Régiment Carroburg arbore bannière donnée S59 = embarrassant Veiran (mischievous twinkle), Volkmar+Yorri glower.
   - 14:50 **Petra Schneller** suspicious near tent (preparation pigs). **Zimperlich double-warning à Katarina** (canon ch.5 l.226-230) : (1) xénophobe contre **Yabo Chao** *« she's a foreign agent! »* (Cathay), (2) anti-Nuln contre **Emmanuelle** *« that Nulner — please, I implore you, have no dealings with her »* (politique interne).
@@ -182,7 +182,7 @@
 **Plots homebrew (S60)** :
 - **Yuridika or-change la barricade** pour arrêter le tank Indomitable — coup brillant.
 - **Elvira prêche paix devant l'empereur** — l'empereur applaudit, scène imposante.
-- **Phineas demande la meilleure bouteille à Ermine** (lien S64+ wine cellar).
+- **Phineas demande la meilleure bouteille à Hermine** (lien S64+ wine cellar).
 - **Olaf Sievers** se lie amitié Mark (« nouvel ami de beuverie »).
 
 **Ce que les PJ savent** : Faux empereur **confirmé** (Emmanuelle dit à Immanuel-Ferrand). Empereur vrai alité depuis ~1 an. Kappelmuller médecin lié (lipread). Toppenheimer rival Emmanuelle. Holzkrug ambitions impériales.
@@ -259,7 +259,7 @@
 **Cadre** : Le lendemain du conclave brisé (~3 Erntezeit 2512 IC). Manoir Helstein à Mauerblumchen, résidence Todbringer Altdorf. Sigmarites furieux post-Ghal Maraz shattered.
 
 **Plots homebrew (S63)** :
-- **Assaut sigmarite extrémiste** sur le manoir Helstein. Vraisemblablement Sons of Ulric ou Sigmarite radicaux interprétation MJ.
+- **Assaut sigmarite extrémiste** sur le manoir Helstein. Vraisemblablement Fils d'Ulric ou Sigmarite radicaux interprétation MJ.
 - **« Volkmar » mène l'assaut** et tue **Boris Todbringer** au garrote (selon `09 - Prep post-S63.md`). **[BORIS MORT]**.
 - **Vrai Volkmar prie à la cathédrale** au même moment — alibi vérifiable.
 - **Mécanique cachée MJ-only** : c'est **Gideon le changelin** sous forme Volkmar. Pattern Doppelgänger Joachim Hoflich S38 répété.
@@ -411,7 +411,7 @@
 - **Maria-Luise von Walfen** convoque PJ private chambers Imperial Residence. **Tokens retinue** (canon : *« This identifies you as one of my retinue, acting on my behalf. It will open doors for you with those who respect me »*). Marie-Luise dreams = nightmares fire and blood Volkshalle.
 - **Investigations 3 voies canon** :
   - **New Reliquary Volkshalle** : Albertus Goldformer master metalsmith cultiste recruté Gideon. **Diamond button doorframe** déclenche **trap door cushion drops 30ft → wine cellar**.
-  - **Ermine Liebwitz von Decker und Hanulf** : steward Volkshalle wine cellars, distant cousin Emmanuelle, embittered. **Young lad (Gideon) paid for discreet access** cellars. Cellar built 1149 IC Ludwig the Fat elevator throne — Gideon uncovered hole.
+  - **Hermine Liebwitz von Decker und Hanulf** : steward Volkshalle wine cellars, distant cousin Emmanuelle, embittered. **Young lad (Gideon) paid for discreet access** cellars. Cellar built 1149 IC Ludwig the Fat elevator throne — Gideon uncovered hole.
   - **Reiksguard infiltrated** : **Baron Augustus Bardeleben von Teufelsmilch** commands palace garrison (age past retirement, friend Luitpold, Helborg disapprove). Gideon arranged transfers. Roster signed by Baron lists new men assigned **honour guard reliquary tomorrow**.
 - **Cérémonie 9 Brauzeit 12:00** :
   - Yorri chants + choir. PJ enter, présent marteau à Wolfgang.
@@ -512,13 +512,13 @@
 | **Elvyra Kleinestun** | [VIVANTE — PAWN] | Apothicaire Yorri. Outée par Kappelmuller. Anselm relation. |
 | **Hugo Bottomdown** | [VIVANT — SPY Toppenheimer] | Halfelin, releasable. Pfeildorf → Fione the Thresher → Heideinheim. |
 | **Albertus Goldformer** | [VIVANT — ENNEMI ACTIF] | Master metalsmith cultist Gideon. Reliquaire piège. |
-| **Ermine Liebwitz von Decker und Hanulf** | [VIVANTE — STATUT INCERTAIN] | Steward wine cellars. Could repent ch.13. |
+| **Hermine Liebwitz von Decker und Hanulf** | [VIVANTE — STATUT INCERTAIN] | Steward wine cellars. Could repent ch.13. |
 | **Baron von Teufelsmilch** | [VIVANT — DÉLINQUANT] | Old commander Reiksguard, manipulé Gideon. |
 | **Marius Leitdorf** | [VIVANT — ALLIÉ POTENTIEL] | Mad Count Averland. Gain Averland post-Turmoil. PJ peuvent négocier S70+. |
 | **Ludmilla / Marlene Alptraum** | [VIVANTES — FUTURE PERDANTE] | Perdent Averland post-Turmoil. |
 | **Colonel Olaf Sievers** | [VIVANT — ALLIÉ] | Mark ami beuverie. Backup Gideon ch.11 si PJ refusent. |
-| **Beate Moser** | [STATUT INCERTAIN S58] | Tué possible si PJ + Knights. Bearers of the Blood leader. |
-| **Weregardt Schlupmann** | [STATUT INCERTAIN S58] | Traître Loup Blanc signal Sons. |
+| **Beate Moser** | [STATUT INCERTAIN S58] | Tué possible si PJ + Knights. Porteurs de Sang leader. |
+| **Weregardt Schlupmann** | [STATUT INCERTAIN S58] | Traître Loup Blanc signal Fils. |
 | **Werner Stolz** | [VIVANT — ALLIÉ Sigmar Middenheim] | High Capitular Sigmar Middenheim S56. |
 | **Hans-Hals von Tasseninck** | [VIVANT — DOOMED] | Ostland fail post-Turmoil canon. |
 | **Gustav Krieglitz** | [VIVANT — DOOMED] | Talabecland perd Order Silver Hammer chasse cultistes. |
@@ -549,5 +549,5 @@
 
 - **Arcs adjacents** : [[Arc 6 - Le Rat Cornu]] (S40-55) → **Arc 7 (S56-63 joué + S64+ à préparer)** → post-EiR.
 - **Lieux** : [[Middenheim]] (centre S56-S57), **Altdorf / Manoir Helstein** (S58-S63), **Castle Reikguard** (S59), **Volkshalle** (S62 + climax ch.13), **Black Fire Pass + Wolfshügel** (ch.10-12), **Caves of Chaos** (ch.11), **Streissen + Averheim + Grenzstadt** (ch.9-12).
-- **PNJ centraux** : [[Boris Todbringer]] (mort S63), [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Vieran Thugenheim]] (disparu S63), [[Karl-Heinz Wasmeier]], [[Gideon]], [[Maria-Luise von Walfen]] (à créer), Wolfgang Holswig-Abenauer (à créer), Karl-Franz Holswig-Schliestein (à créer), Hermann von Feilbach (à créer), Yann Zuntermein (à créer), Henrik Kappelmuller (à créer), Volkmar von Hindenstern (à créer), Yorri XV (à créer), [[Quintus Fassbinder]] (canon allié), Elvyra Kleinestun (à créer), Liepmund Holzkrug (à créer), Immanuel-Ferrand (à créer), Emmanuelle von Liebwitz (à créer), Ermine Liebwitz (à créer), Albertus Goldformer (à créer), Baron Teufelsmilch (à créer), Captain Emil Baecker (à créer), Marius Leitdorf (à créer), Theoderic Gausser (à créer), Etelka Toppenheimer (à créer), Leopold Bildhofen (à créer), 9 Yeux × 9 (à créer).
-- **Factions** : [[Main Pourpre]] (cellule Altdorf Zuntermein), Chevaliers Panthères + Reiksguard + Knights Fiery Heart, Chambre Noire, Spionwerber, Bearers of the Blood (Sons of Ulric), 9 Yeux (organisation), Grimshank's Chain, Eternal Watch + Night Vigil, Threshers Toppenheimer, Nuln Branch Main Pourpre, Cult of the Broken Fingers, Horde Drexol Extinction (à créer ou linker).
+- **PNJ centraux** : [[Boris Todbringer]] (mort S63), [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Vieran Thugenheim]] (disparu S63), [[Karl-Heinz Wasmeier]], [[Gideon]], [[Maria-Luise von Walfen]] (à créer), Wolfgang Holswig-Abenauer (à créer), Karl-Franz Holswig-Schliestein (à créer), Hermann von Feilbach (à créer), Yann Zuntermein (à créer), Henrik Kappelmuller (à créer), Volkmar von Hindenstern (à créer), Yorri XV (à créer), [[Quintus Fassbinder]] (canon allié), Elvyra Kleinestun (à créer), Liepmund Holzkrug (à créer), Immanuel-Ferrand (à créer), Emmanuelle von Liebwitz (à créer), Hermine Liebwitz (à créer), Albertus Goldformer (à créer), Baron Teufelsmilch (à créer), Captain Emil Baecker (à créer), Marius Leitdorf (à créer), Theoderic Gausser (à créer), Etelka Toppenheimer (à créer), Leopold Bildhofen (à créer), 9 Yeux × 9 (à créer).
+- **Factions** : [[Main Pourpre]] (cellule Altdorf Zuntermein), Chevaliers Panthères + Reiksguard + Knights Fiery Heart, Chambre Noire, Spionwerber, Porteurs de Sang (Fils d'Ulric), 9 Yeux (organisation), Grimshank's Chain, Eternal Watch + Night Vigil, Threshers Toppenheimer, Nuln Branch Main Pourpre, Cult of the Broken Fingers, Horde Drexol Extinction (à créer ou linker).

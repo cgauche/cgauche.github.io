@@ -46,7 +46,7 @@ Quand Maria-Luise dit *« Hauser et deux gardes de confiance dans le couloir »*
 
 ## Hooks futurs
 
-- **Canal de communication post-départ** : si les PJ veulent écrire à Maria-Luise depuis Nuln, leurs lettres passent par [[Ermine Liebwitz von Decker und Hanulf|Hermine Liebwitz]] aux caves, mais c'est Annaliese qui les remet en main propre à Maria-Luise.
+- **Canal de communication post-départ** : si les PJ veulent écrire à Maria-Luise depuis Nuln, leurs lettres passent par [[Hermine Liebwitz von Decker und Hanulf|Hermine Liebwitz]] aux caves, mais c'est Annaliese qui les remet en main propre à Maria-Luise.
 - **Cible MP potentielle** : si Zuntermein (ou Gideon) suspecte Maria-Luise, Annaliese serait une cible de neutralisation discrète. À garder en tête pour ch.12-13.
 
 ## Liens

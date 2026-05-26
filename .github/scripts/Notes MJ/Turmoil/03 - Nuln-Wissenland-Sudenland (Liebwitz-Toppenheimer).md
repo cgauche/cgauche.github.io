@@ -30,7 +30,7 @@
 - **Konstantin von Liebwitz** (historique) — **père d'Emmanuelle**, ancien **Count of Nuln** + Chancellor of the University of Nuln (Fandom Konstantin von Liebwitz) ; mort avant 2503 IC.
 - **Leos von Liebwitz** (canon Black Library/Fandom) — **sœur biologique d'Emmanuelle élevée et présentée comme garçon** (Fandom Konstantin von Liebwitz : *"his secondborn daughter as a boy"* ; Fandom Leos von Liebwitz), duelliste *"The Deadly Blade"*, mort/te post-Fog Riots tué·e par Harald Kleindeinst ; **canon WFRP4 ne mentionne pas explicitement Leos** dans EiR/Archives/RN&HD — voir section 10.
 - **Gravin Maria-Ulrike von Liebwitz** — **nièce d'Emmanuelle**, Duchess d'**Ambosstein** (Lexicanum) ; *"confident and usually calm woman in her late thirties"* ; apparition RN&HD ch.5 ; **morte canon table S3** (variation Gauche hors périmètre fiche).
-- **Ermine Liebwitz von Decker und Hanulf** — lointaine cousine d'Emmanuelle, **Steward des celliers du Volkshalle** à Altdorf (EiR ch.7 l.91 ; ch.13 l.234) — pivot logistique au Conclave.
+- **Hermine Liebwitz von Decker und Hanulf** — lointaine cousine d'Emmanuelle, **Steward des celliers du Volkshalle** à Altdorf (EiR ch.7 l.91 ; ch.13 l.234) — pivot logistique au Conclave.
 - **Maison originaire de Meissen** (Sudenland) (Fandom Konstantin von Liebwitz) — la lignée Liebwitz vient historiquement du sud, ce qui justifie en partie la claim sur Sudenland.
 
 #### Maison Pfeifrauchers — vassaux Wissenland (perdants différés)
@@ -363,7 +363,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 | **Konstantin von Liebwitz** (historique) | Count of Nuln + Chancellor University, **mort avant 2503 IC** | (mort) ; legacy = succession Emmanuelle | Mort historique (Fandom Konstantin von Liebwitz) |
 | **Leos von Liebwitz** (frère canon Fandom) | Duelliste *"The Deadly Blade"* | (canon Black Library : mort post-Fog Riots tué par Harald Kleindeinst) | Variable selon source ; **non mentionné EiR/Archives/RN&HD** — voir section 10 |
 | **Gravin Maria-Ulrike von Liebwitz** | Nièce Emmanuelle, Duchess Ambosstein (RN&HD ch.5) | (canon post-Turmoil non précisé) | Vivante canon (Lexicanum Maria-Ulrike) |
-| **Ermine Liebwitz von Decker und Hanulf** | Steward Volkshalle cellars Altdorf | (idem) | Vivante (EiR ch.7 l.91 ; ch.13 l.234) |
+| **Hermine Liebwitz von Decker und Hanulf** | Steward Volkshalle cellars Altdorf | (idem) | Vivante (EiR ch.7 l.91 ; ch.13 l.234) |
 | **Count Bruno Pfeifraucher** | Vassal Wissenland sous Emmanuelle, base Kreutzhofen | **Dépossédé de Wissenland en 2514 IC** par Emmanuelle (perdant différé) | Vivant 2512, déposé 2514 (Lexicanum Kreutzhofen) |
 | **Hugo Pfeifraucher** | Membre de la cour Nuln, allié humilié canon-table | (idem) | Vivant (note Emmanuelle.md ; RN&HD ch.5) |
 | **[[Etelka Toppenheimer]]** (Etelka Morella) | Grand Baroness Sudenland + Baroness Pfeildorf + Baroness Grissenwald + Baroness Geschburg + Lady of the Granite Pass ; Electrice Sudenland | **Déposée comme Grand Baroness en 2515 IC** (Fandom Pfeildorf) ; **conserve titre Baroness of Pfeildorf** ; *"still appreciated by her subjects, occasionally called to bear arms"* | Annexion militaire 2512, déposition formelle 2515 (Fandom Pfeildorf ; EiR Companion ch.6 l.162) |
@@ -473,7 +473,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 - **EiR ch.7 *Emergency Conclave*** :
   - **l.27 — Etelka speech succession** (demande garantie Grand Provincial laws of inheritance)
   - l.46 — Emmanuelle veut bloquer toute résolution réaffirmant succession
-  - l.91 — Ermine Liebwitz Steward Volkshalle
+  - l.91 — Hermine Liebwitz Steward Volkshalle
   - **l.105 — Etelka présente comme Électrice Sudenland**
   - **l.165-166 — Emmanuelle humilie Etelka publiquement** (*"Etelka, darling…"*)
   - **l.169 — Sudenland Proposition** (offre Ulric ↔ aide militaire Boris)
@@ -499,7 +499,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 - **EiR ch.13 *The Empire Saved*** :
   - l.10 — cérémonie 9 Brauzeit
-  - l.234 — Ermine Liebwitz
+  - l.234 — Hermine Liebwitz
   - **l.336 — *"all have gone home to defend their holdings, plot against their neighbours"*** (justification absence Etelka/Emmanuelle)
 
 - **EiR ch.17 *History of the Turmoil*** :

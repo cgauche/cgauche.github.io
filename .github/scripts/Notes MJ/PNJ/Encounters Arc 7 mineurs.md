@@ -27,14 +27,14 @@
 - **M3 WS 45 BS 49 Int 42** + Magic Resistance, Night Vision, Tinker.
 - Pilote The Sky Wolf dirigible Middenheim → Karak Skygg → return.
 
-## Arc 7 ch.3 S58 — Bearers of the Blood
+## Arc 7 ch.3 S58 — Porteurs de Sang
 
 ### Konrad Metternich — Cleric-Captain Knights Fiery Heart
 - Commander Sigmar knights défense Shining Rock attack (canon ch.3 l.224). Orders : *« All righteous men of Sigmar to me! We will not be mocked! »*.
 - Profile Knight canon EiR Intro l.517 + Order Fiery Heart **Miracles Sigmar** Trait : Beacon Righteous Virtue, Sigmar's Fiery Hammer, Soulfire.
 
 ### Weregardt Schlupmann — Loup Blanc traître
-- Sons of Ulric infiltrator. *« commands the second group of 20 Sons of Ulric attacking Sigmarite camp »*. Howls signal complices.
+- Fils d'Ulric infiltrator. *« commands the second group of 20 Sons of Ulric attacking Sigmarite camp »*. Howls signal complices.
 - *« +3 bonus combat extended Test if Character kills Weregardt Schlupmann »* (canon ch.3 l.277).
 
 ### Wolfgang Munchburger — Loup Blanc loyal

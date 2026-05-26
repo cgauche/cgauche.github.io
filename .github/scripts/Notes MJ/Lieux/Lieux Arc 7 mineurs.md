@@ -104,7 +104,7 @@
 
 ### Volkshalle Wine Cellar (canon ch.13 l.285)
 - **Built 1149 IC Ludwig the Fat** : trône-elevator descend cellar pour boire post-meetings. Trône relocated + elevator removed + hole covered long ago.
-- **Heavy wooden door + stout lock**. Ermine only key. Hard -20 Pick Lock.
+- **Heavy wooden door + stout lock**. Hermine only key. Hard -20 Pick Lock.
 - **Rare vintage wines + brandy casks**. Old bottles dust + cobwebs.
 - **Hole ceiling under Reliquary** : antique mais récemment uncovered Gideon's artisans.
 

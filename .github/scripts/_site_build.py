@@ -622,6 +622,46 @@ class EntityPopover:
     subtitle: str | None   # role / function line shown under the name
 
 
+# Manual whitelist of entity aliases that resolve to a canonical title in
+# the GLOBAL popover map (i.e. fire everywhere, not just inside their
+# session-tagged résumé). Each entry is `alias_form → canonical_title`.
+# Two flavours, same mechanism:
+#   (a) short forms — first-name / surname-only mentions for entities cited
+#       often enough that writing the full name every time would be tedious
+#       ('Karl-Franz' → 'Karl-Franz Holswig-Schliestein').
+#   (b) alternate full forms — Notes MJ uses one spelling, blog file is
+#       titled differently ('Emmanuelle von Liebwitz' → 'Comtesse
+#       Emmanuelle Von Liebwitz'). Maps Notes MJ canon to blog canon so
+#       prose using either form pops the correct entity.
+# Keep this list tight: every entry creates a popover trigger that fires
+# on EVERY occurrence of the alias in any rendered page, including MJ
+# overlay and source/Notes MJ extracts where ambiguity is more likely.
+# For one-off disambiguations, prefer `[[Canonical Title|alias]]` wikilinks
+# in the source markdown, or rely on `session_alias_popovers` for
+# session-tagged résumé bodies.
+_GLOBAL_ENTITY_ALIASES: dict[str, str] = {
+    # Short forms — globally unambiguous first-name / surname.
+    "Karl-Franz": "Karl-Franz Holswig-Schliestein",
+    "Boris": "Boris Todbringer",
+    "Helborg": "Kurt Helborg",
+    "Yorri": "Yorri XV",
+    "Volkmar": "Volkmar von Hindenstern",
+    "Karl-Heinz": "Karl-Heinz Wasmeier",
+    "Wasmeier": "Karl-Heinz Wasmeier",
+    # Alternate full forms — Notes MJ canon ↔ blog title with title prefix,
+    # translation, casing, or naming variation. Previously lived in
+    # `_MJ_MANUAL_ALIASES` (alongside genuine OCR typos), moved here to
+    # separate semantics: typos are blog-side errors to be corrected,
+    # these are equally valid naming conventions to be reconciled.
+    "Emmanuelle von Liebwitz":  "Comtesse Emmanuelle Von Liebwitz",
+    "Etelka Toppenheimer":      "Comtesse Etelka Toppenheimer",
+    "Bettie Greenhill":         "Bettie Vertebutte",
+    "Schloss Grauenberg":       "Château Graunenberg",
+    "Ewald von Laue":           "Ewald Von Laue",
+    "Jendrick von Dabernick":   "Jendrick Dabernick",
+}
+
+
 def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
     """Global map of canonical-name → popover payload for PJ/PNJ/Lieu pages.
     Used to wrap any occurrence of the name in résumé bodies and in MJ
@@ -630,14 +670,15 @@ def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
     Two layers:
       1. Full titles ("Karl-Franz Holswig-Schliestein", "Emmanuelle von
          Liebwitz") — always indexed.
-      2. Short aliases derived from `_entity_aliases` (forenames, dropped
-         titles) — added ONLY when globally unambiguous (a single main page
-         claims them). Per-session ambiguous aliases (e.g. 'Boris' shared
-         across Boris Todbringer / Boris Dunhoring) stay session-scoped via
-         `session_alias_popovers`, which adds them on top of this map for
-         résumé bodies where the right disambiguation is known."""
+      2. Manually whitelisted aliases (`_GLOBAL_ENTITY_ALIASES`): short
+         forms ('Karl-Franz') and alternate full forms ('Emmanuelle von
+         Liebwitz' → 'Comtesse Emmanuelle Von Liebwitz'). Every other
+         ambiguous alias must be either (a) written out as the full title
+         in the source markdown, (b) handled per-session via
+         `session_alias_popovers` for résumé bodies, or (c) explicitly
+         linked with `[[Canonical Title|alias]]` wikilinks."""
     out: dict[str, EntityPopover] = {}
-    main_pages: list[Page] = []
+    by_title: dict[str, Page] = {}
     for pg in pages:
         if pg.variant_group and not pg.is_main:
             continue
@@ -647,25 +688,16 @@ def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
         payload = _entity_to_popover(pg)
         if payload is not None:
             out[payload.title] = payload
-            main_pages.append(pg)
+            by_title[payload.title] = pg
 
-    # Non-ambiguous short aliases.
-    alias_mains: dict[str, set[Path]] = {}
-    alias_source: dict[str, Page] = {}
-    for pg in main_pages:
-        forms = set(_entity_aliases(pg.post.title))
-        if pg.subtitle:
-            forms.update(_aliases_from_subtitle(pg.subtitle))
-        for alias in forms:
-            if alias in out:
-                # The full title is already indexed; don't shadow it.
-                continue
-            alias_mains.setdefault(alias, set()).add(pg.site_rel)
-            alias_source.setdefault(alias, pg)
-    for alias, source in alias_source.items():
-        if len(alias_mains[alias]) != 1:
-            continue  # ambiguous globally — let session_alias_popovers handle it
-        payload = _entity_to_popover(source)
+    # Whitelisted aliases — resolve each to its canonical entity.
+    for alias, canonical in _GLOBAL_ENTITY_ALIASES.items():
+        if alias in out:
+            continue  # full title indexing already covers it
+        pg = by_title.get(canonical)
+        if pg is None:
+            continue  # canonical entity not in the corpus (yet)
+        payload = _entity_to_popover(pg)
         if payload is not None:
             out[alias] = payload
     return out
@@ -701,6 +733,41 @@ def _mirror_dash_space(aliases: set[str]) -> None:
             aliases.add(a.replace(' ', '-'))
 
 
+# Single-token aliases that would collide with common French/WHFB nouns,
+# titles, ranks or creature types. Even when a single entity globally claims
+# one of these tokens, the popover would fire on unrelated occurrences in
+# prose (e.g. 'Grand-Duc Léopold' → 'Grand' would popover any 'Grand Maître',
+# 'Grand Théogoniste', 'Grand Cathédrale'). Compared case-insensitively.
+_ALIAS_BLOCKLIST: frozenset[str] = frozenset({
+    # Common titles + ranks (FR + EN canon)
+    'grand', 'duc', 'duke', 'duchesse', 'duchess', 'comte', 'count',
+    'comtesse', 'countess', 'baron', 'baronne', 'baroness',
+    'seigneur', 'lord', 'dame', 'lady', 'sir',
+    'roi', 'king', 'reine', 'queen',
+    'empereur', 'emperor', 'impératrice', 'empress',
+    'prince', 'princesse', 'princess',
+    'saint', 'sainte',
+    'frère', 'soeur', 'sœur', 'père', 'mère',
+    'brother', 'sister', 'father', 'mother',
+    'capitaine', 'captain', 'sergent', 'sergeant',
+    'colonel', 'major', 'général', 'general',
+    'maître', 'master', 'chevalier', 'knight',
+    'prêtre', 'priest', 'prêtresse', 'priestess',
+    'mage', 'wizard', 'sorcier', 'sorcière',
+    'reiksmarshall', 'reiksmarshal', 'reiksguard',
+    'graf', 'gravin', 'gravinne', 'kurfürst', 'elector',
+    'archilecteur', 'lecteur', 'capitulaire',
+    # Creature types (WHFB)
+    'griffon', 'gryphon', 'cheval', 'horse', 'loup', 'wolf',
+    'aigle', 'eagle', 'corbeau', 'raven', 'dragon',
+    'démon', 'demon', 'daemon', 'troll', 'orc', 'gobelin',
+    'goblin', 'skaven', 'mutant', 'mutante',
+    # Generic narrative nouns that occur as entity titles too
+    'homme', 'femme', 'enfant', 'garçon', 'fille',
+    'guerrier', 'voleur', 'marchand', 'paysan',
+})
+
+
 def _entity_aliases(title: str) -> list[str]:
     """Short forms of `title` that might appear in narrative.
 
@@ -716,6 +783,10 @@ def _entity_aliases(title: str) -> list[str]:
     Only the pre-comma portion is mined for aliases — a role line like
     'émissaire de Dietrich' often mentions OTHER characters and would
     produce false-positive aliases.
+
+    Single-token candidates listed in `_ALIAS_BLOCKLIST` (common titles,
+    ranks, creature types) are dropped even when globally unambiguous —
+    they would fire on unrelated prose ('Grand Maître', 'Loup Blanc').
 
     Dash↔space mirroring is applied at the end so 'Ar Ulric' matches
     'Ar-Ulric' and vice versa."""
@@ -740,6 +811,8 @@ def _entity_aliases(title: str) -> list[str]:
         for piece in [token, *token.split('-')]:
             clean = piece.strip(',;.:()"\'')
             if len(clean) >= 4 and clean[:1].isupper() and clean != title:
+                if clean.lower() in _ALIAS_BLOCKLIST:
+                    continue
                 aliases.add(clean)
     _mirror_dash_space(aliases)
     return [a for a in aliases if a]
@@ -4316,19 +4389,19 @@ _MJ_ENTITY_FOLDERS = {
 # Mismatches sourced from `Notes MJ/Orthographe canon - corrections à
 # appliquer.md` § 2. Workaround in effect until the blog posts are edited
 # on Blogger (and the local blog mirror re-synced).
+# OCR/spelling typos on the blog side, keyed by the canonical Notes MJ
+# form. Used as a fallback when norm-key enrichment matching fails because
+# the blog file is mis-spelled. Pure typos only — alternate naming
+# conventions (title prefixes, translations, casing) live in
+# `_GLOBAL_ENTITY_ALIASES` and feed the popover map via
+# `build_entity_popover_map`.
 _MJ_MANUAL_ALIASES = {
     "Immanuel-Ferrand Holswig-Schliestein": "Immanuel-Fernand Holswig-Schliestein",
     "Volkmar von Hindenstern":               "Votkmar von Hindenstern",
     "Detlef Sierck":                         "Detlef Sierek",
-    "Jendrick von Dabernick":                "Jendrick Dabernick",
     "Wolfgang Holswig-Abenauer":             "Wolfgang Holswig-Abenhauer",
-    "Emmanuelle von Liebwitz":               "Comtesse Emmanuelle Von Liebwitz",
-    "Etelka Toppenheimer":                   "Comtesse Etelka Toppenheimer",
-    "Bettie Greenhill":                      "Bettie Vertebutte",
-    "Ewald von Laue":                        "Ewald Von Laue",
     "Yabo Chao":                             "Yobo Chao",
     "Altdorf":                               "Aldorf",
-    "Schloss Grauenberg":                    "Château Graunenberg",
 }
 
 
@@ -4522,12 +4595,21 @@ def _populate_mj_entity_caches(pages: list[Page],
             for pg in page_idx.get((e.src_folder, k), []):
                 if pg not in matches:
                     matches.append(pg)
-        # Fallback: manual alias mapping resolves orthographic typos blog-side.
-        if not matches and e.title in _MJ_MANUAL_ALIASES:
-            blog_title = _MJ_MANUAL_ALIASES[e.title]
-            pg = blog_title_by_norm.get(_norm_entity_key(blog_title))
-            if pg is not None and pg.post.folder == e.src_folder:
-                matches.append(pg)
+        # Fallback chain when strict norm-key matching misses:
+        #   1. `_MJ_MANUAL_ALIASES` covers OCR/spelling typos blog-side.
+        #   2. `_GLOBAL_ENTITY_ALIASES` covers alternate naming conventions
+        #      (title prefix, translation, casing). Same enrichment intent
+        #      either way: route Notes MJ entity X onto blog page Y when
+        #      titles diverge.
+        if not matches:
+            alias_target = (
+                _MJ_MANUAL_ALIASES.get(e.title)
+                or _GLOBAL_ENTITY_ALIASES.get(e.title)
+            )
+            if alias_target:
+                pg = blog_title_by_norm.get(_norm_entity_key(alias_target))
+                if pg is not None and pg.post.folder == e.src_folder:
+                    matches.append(pg)
         if matches:
             for pg in matches:
                 enrichment[pg.site_rel] = e

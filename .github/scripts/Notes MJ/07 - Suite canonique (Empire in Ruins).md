@@ -172,7 +172,7 @@ Cérémonie de retour de Ghal Maraz. Sheerargetru tente sa manifestation.
 
 ### Investigations possibles
 1. **Le Volkshalle** : nouveau reliquaire piégé. Albertus refuse l'accès. Mais accessible la nuit (2 gardes seulement, **Diff -10 Trade** test pour voir le bouton diamant).
-2. **Ermine Liebwitz von Decker und Hanulf** (la stewart des caves à vin) : cousine éloignée d'Emmanuelle, vexée, accepte de l'argent d'un « young lad » (Gideon) pour donner accès aux caves.
+2. **Hermine Liebwitz von Decker und Hanulf** (la stewart des caves à vin) : cousine éloignée d'Emmanuelle, vexée, accepte de l'argent d'un « young lad » (Gideon) pour donner accès aux caves.
 3. **Reiksguard** : Baron von Teufelsmilch commande la garde du palais. Faces nouvelles infiltrées. Reiksmarshall Helborg absent.
 
 ### Old Friends rencontrés
@@ -217,7 +217,7 @@ Cérémonie de retour de Ghal Maraz. Sheerargetru tente sa manifestation.
 ### À éviter
 - Ne pas trop appuyer sur Gideon — il doit être un mystère résolu en fin de campagne.
 - Ne pas révéler que Ghal Maraz est un faux trop tôt si pas découvert.
-- Ne pas faire mourir Hermann von Feilbach, Boris, Etelka, Emmanuelle, Maria-Luise, Ermine, Fassbinder (importants au climax).
+- Ne pas faire mourir Hermann von Feilbach, Boris, Etelka, Emmanuelle, Maria-Luise, Hermine, Fassbinder (importants au climax).
 
 ### Twists ajustables au groupe
 - Si le groupe est trop puissant : Sheerargetru manifeste en force.

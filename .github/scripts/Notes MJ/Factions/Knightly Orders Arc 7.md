@@ -86,7 +86,7 @@
 
 ### Rôle Arc 7
 - **S58 Shining Rock** vanguard Middenheim delegation 6 + rearguard mixte.
-- **Weregardt Schlupmann traître Loup Blanc** signal Sons of Ulric.
+- **Weregardt Schlupmann traître Loup Blanc** signal Fils d'Ulric.
 - **Wolfgang Munchburger loyal**.
 
 ## Reiksguard

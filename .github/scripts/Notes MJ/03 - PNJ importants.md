@@ -128,7 +128,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - **Fragilité** : sa position est précaire (concubine, pas épouse) ; si elle est exposée publiquement comme source de fuite, elle est répudiée ou pire. **NE PAS la faire mourir** (canon EiR le rappelle explicitement : importante au climax).
 - **Trou narratif à anticiper** : si Pesold sort de la table avant le ch. 13, le canal Maria-Luise meurt avec lui. **Passation explicite à organiser** (proposé : Pesold présente Dietrich à Maria-Luise lors du séjour Altdorf étiré ch. 8 — voir [Dietrich Sprintboch — dossier complet.md](<Dietrich Sprintboch — dossier complet.md>) §11).
 
-### Ermine Liebwitz von Decker und Hanulf — `[STATUT INCERTAIN / CANON-EI]`
+### Hermine Liebwitz von Decker und Hanulf — `[STATUT INCERTAIN / CANON-EI]`
 - **Steward des caves à vin du Volkshalle**. Cousine éloignée d'Emmanuelle.
 - Aigrie, veut la reconnaissance qu'elle n'a jamais eue.
 - A accepté de l'argent d'un « young lad » (Gideon) pour donner accès aux caves.
@@ -381,7 +381,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 
 À ressortir au Volkshalle :
 - Maria-Luise (alerte les PJ)
-- Ermine (steward caves à vin, douteuse)
+- Hermine (steward caves à vin, douteuse)
 - Wolfgang (avec un de ses tuteurs au moins)
 - Yorri (malade)
 - Karl-Franz (très affaibli si Kappelmuller non démasqué)
@@ -454,7 +454,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - [[Liepmund Holzkrug]] (statbloc Spymaster Gold 4)
 - [[Immanuel-Ferrand Holswig-Schliestein]] (statbloc Gold 4 Grey Order)
 - [[Albertus Goldformer]] (climax)
-- [[Ermine Liebwitz von Decker und Hanulf]] (statbloc Noble Gold 1 + correction Ludwig the Fat)
+- [[Hermine Liebwitz von Decker und Hanulf]] (statbloc Noble Gold 1 + correction Ludwig the Fat)
 - [[Theoderic Gausser]] (orthographe canon Theoderic)
 - [[Drexol the Extinction]] (statbloc + Thirteen pas son intermédiaire)
 - [[Krukan]] (statbloc canon)

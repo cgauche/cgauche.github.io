@@ -60,7 +60,7 @@
 
 ## MJ-only
 
-- **Doomed → Altdorf** : « *The capital is a city in flux until your solemn sacrifice.* » Hook Arc 7 : Erina pourrait être à Altdorf pendant la crise + se sacrifier dans un rituel (Sheerargetru ? Volkmar ? Sons of Ulric ?). **À table : à activer Arc 7** si la table veut une scène émotionnelle Eberhauer.
+- **Doomed → Altdorf** : « *The capital is a city in flux until your solemn sacrifice.* » Hook Arc 7 : Erina pourrait être à Altdorf pendant la crise + se sacrifier dans un rituel (Sheerargetru ? Volkmar ? Fils d'Ulric ?). **À table : à activer Arc 7** si la table veut une scène émotionnelle Eberhauer.
 - **PAS sœur de Kirsten Jung** : canon est clair, Erina est **uniquement** sœur de Janna (canon ch.6 p.91 : « *Erina Eberhauer, the Deputy High Wizard's younger sister* »). Kirsten = famille Jung d'Altdorf, **pas Eberhauer**.
 - **Sources alternatives Sparsam Délice ?** Non, Erina ne sait pas pour ça. C'est **Yuridika** qui a les contacts via les bas-quartiers.
 - **Hook Arc 6 : Erina à Middenheim** : si Erina reste à Middenheim post-S34, peut être **apprentie supplémentaire** ou **mage de soutien** pour les PJ.

@@ -116,7 +116,7 @@ C'était **[[Gideon]] le changelin** (Sheru-Tar Gee'taru, signature Tzeentch). V
   - Cause naturelle (migraines/cauchemars canon).
   - Assassinat MP (Zuntermein veut décapiter l'opposition).
   - Coup d'État interne sigmarite (Volkmar et les radicaux).
-  - Sons of Ulric ressayent (récidive de Shining Rock).
+  - Fils d'Ulric ressayent (récidive de Shining Rock).
 - **Si Yorri meurt avant ch.13** : Volkmar prend le titre, le climax Volkshalle perd Yorri comme victime canon, mais Volkmar peut quand même mourir au climax.
 - **Si Yorri survit** : faire la **passerelle** vers le coffre — il est l'allié modéré qui peut autoriser l'accès si les PJ le convainquent.
 
@@ -144,14 +144,14 @@ C'était **[[Gideon]] le changelin** (Sheru-Tar Gee'taru, signature Tzeentch). V
 
 ### D. (Plan B Reikland) Imperial Plenipotentiary
 - Si la crise s'éternise, **Karl-Franz / Immanuel-Ferrand** peut nommer un **viceroy** d'Altdorf.
-- **Scénario canon redouté** par les Sons of Ulric.
+- **Scénario canon redouté** par les Fils d'Ulric.
 - À table : Karl-Franz empoisonné → nomination de facto par **Immanuel-Ferrand (manipulé par Zuntermein)** → **piège Main Pourpre** sur Middenheim.
 - Le miracle Volkmar **augmente** la pression vers cette option (Reikland sigmarite imposé sur Middenland ulrican).
 
 ### Variables externes
 - **[[Theoderic Gausser]]** (Nordmarshall) — indépendantiste Nordland. Va exploiter le vacuum pour la sécession. **Wardenship de Nordland était dans le portefeuille Todbringer** — celui qui le perd perd la légitimité.
 - **Faction sigmarite radicale (Volkmar)** — exigence d'un grand-duc « loyal à Sigmar » → exclut Heinrich (Ulrican), Stefan (de facto inapte), Heinricus (Ulrican).
-- **Sons of Ulric** — soutiendront le candidat le plus anti-sigmarite. Probablement Heinrich par défaut.
+- **Fils d'Ulric** — soutiendront le candidat le plus anti-sigmarite. Probablement Heinrich par défaut.
 
 ---
 

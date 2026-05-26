@@ -308,11 +308,11 @@ Annaliese disparaît. Quelques minutes plus tard, deux gardes Reiksgarde de conf
 
 ## À la porte du salon — en les raccompagnant à Annaliese
 
-> *« Si vous avez besoin de moi, écrivez à [[Ermine Liebwitz von Decker und Hanulf|Hermine Liebwitz]] aux caves du Palais. Elle me transmet. Je peux ouvrir quelques portes — pas toutes, quelques-unes. »*
+> *« Si vous avez besoin de moi, écrivez à [[Hermine Liebwitz von Decker und Hanulf|Hermine Liebwitz]] aux caves du Palais. Elle me transmet. Je peux ouvrir quelques portes — pas toutes, quelques-unes. »*
 
 > *« Allez. Et prudence. »*
 
-(Phineas connaît Hermine depuis S60 — canal déjà établi. Voir [[Ermine Liebwitz von Decker und Hanulf]].)
+(Phineas connaît Hermine depuis S60 — canal déjà établi. Voir [[Hermine Liebwitz von Decker und Hanulf]].)
 
 ## Sortie
 
@@ -344,6 +344,6 @@ Annaliese raccompagne les PJ par les communs. Voiture sans armoiries, trajet inv
 
 ## Liens
 
-- PNJ : [[Maria-Luise von Walfen]], [[Annaliese]], [[Henrik Kappelmuller]], [[Karl-Franz Holswig-Schliestein]], [[Yann Zuntermein]] (MJ-only), [[Karl-Heinz Wasmeier]], [[Gideon]] (MJ-only), [[Ermine Liebwitz von Decker und Hanulf]], [[Baron von Teufelsmilch]] (MJ-only Phase 2B).
+- PNJ : [[Maria-Luise von Walfen]], [[Annaliese]], [[Henrik Kappelmuller]], [[Karl-Franz Holswig-Schliestein]], [[Yann Zuntermein]] (MJ-only), [[Karl-Heinz Wasmeier]], [[Gideon]] (MJ-only), [[Hermine Liebwitz von Decker und Hanulf]], [[Baron von Teufelsmilch]] (MJ-only Phase 2B).
 - Lieux : Palais Impérial, [[Manoir Helstein]].
 - Suite : [[18 - Départ matinal]].
