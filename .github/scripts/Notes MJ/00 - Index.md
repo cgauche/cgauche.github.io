@@ -66,7 +66,7 @@ Pour les questions de détails (stats PNJ, locations précises, handouts complet
 - **PNJ créés (1ère vague)** : Boris Todbringer, Ulrich Schutzmann, Josef Sparsam, Joachim Hoflich (mort + Doppelgänger=Gideon), Katarina Todbringer, Heinrich Todbringer, Emmanuelle Schlagen, Jarrick Valgeir (Ar-Ulric Arc 5), Emil Valgeir (Ar-Ulric post-PBT), Brunhilde Klaglich, Gottfried Jarmund, Erich Kalzbad, Bhar, Vogel, Yuridika, Dieter Schmiedehammer, Kirsten Jung.
 - **PNJ créés (2e vague — secondaires comblant les [[…]])** : Stefan Todbringer, Reiner Ehrlich, Janna Eberhauer, Allavandrel Fanmaris, Luigi Pavarotti, Rallane Lafarel, Hildegarde Zimperlich, Erina Eberhauer, Nastassia (agente Heinrich — distincte de Nastassia von Saponatheim), Vieran Thugenheim.
 - **PNJ mis à jour** : Karl-Heinz Wasmeier (Magister Magistri, fui Drakwald), Gideon (Hoflich-Changeling S38), Gotthard Wallenstein (Sceptre de Jade + identité Wittgenstein), Filianore (Croix de Lilas).
-- **Factions créées** : Cult d'Ulric, Chevaliers du Loup Blanc, Maison Todbringer. Main Pourpre mis à jour pour la cellule Middenheim.
+- **Factions créées** : Culte d'Ulric, Chevaliers du Loup Blanc, Maison Todbringer. Main Pourpre mis à jour pour la cellule Middenheim.
 
 **Arc 7 (Empire in Ruins — S56-S62 + S63 homebrew + plan S64+) entièrement documenté (2026-05-18)** :
 - `Arcs/Arc 7 - Empire in Ruins.md` créé (densité Arc 6 : sessions S56-S62 + S63 homebrew + plan S64+ ch.8-13).

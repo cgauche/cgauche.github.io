@@ -65,4 +65,4 @@
 - **Arcs** : Arc 7 (S58 unique).
 - **PNJ** : [[Volkmar von Hindenstern]], [[Yorri XV]], [[Emil Valgeir]] Ar-Ulric, [[Yann Zuntermein]], [[Elvyra Kleinestun]], [[Beate Moser]], **Weregardt Schlupmann** Loup Blanc traître, **Konrad Metternich** Cleric-Captain Fiery Heart, [[Boris Todbringer]] + [[Heinrich Todbringer]] + [[Katarina Todbringer]] + [[Veiran Thugenheim]].
 - **Lieux** : [[Middenheim]] (50 miles nord), **Malstedt** (sud proche), **Grubentreich** (étape voyage).
-- **Factions** : **Fils d'Ulric**, **Porteurs de Sang**, **Chevaliers Panthères**, **Loup Blanc**, **Fiery Heart**, **Knights Griffon**, **Cult de Sigmar + Cult d'Ulric** (dual sanctuaire).
+- **Factions** : **Fils d'Ulric**, **Porteurs de Sang**, **Chevaliers Panthères**, **Loup Blanc**, **Fiery Heart**, **Knights Griffon**, **Cult de Sigmar + Culte d'Ulric** (dual sanctuaire).

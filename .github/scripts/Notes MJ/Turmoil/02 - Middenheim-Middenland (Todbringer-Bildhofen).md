@@ -48,7 +48,7 @@
 - **Karl-Heinz Wasmeier** — Law Lord, résidence Grafsmund-Nordgarten ; **Magister Magistri secret de Tzeentch** (PBT antagonist) ; fugitif post-PBT (Drakwald) ; cascade fiche 01
 - **Joachim Hoflich** — Law Lord, résidence Palace ; **Changeling = Gideon** (cf. fiche 11) — *Note : à exclure variation table*
 
-#### Cult of Ulric (Middenheim)
+#### Culte d'Ulric (Middenheim)
 - **Ar-Ulric Jarrick Valgeir** — pré-Turmoil ; *"generally well regarded, though some Ulricans feel he isn't quite strident enough and close friends have noticed that he has been distracted recently"* (Middenheim ch.1 l.454) ; relativement jeune, ambition fonder une lignée Graf+Ar-Ulric ; **affaire secrète avec Emmanuelle Schlagen**, *"resenting the obligations of his vow [of celibacy]"* ; **abdique Spring 2512 IC** suite à la **révélation de la conspiration Main Pourpre** (canon Fandom Emil Valgeir) ; part en **pèlerinage au nord** post-abdication
 - **Ar-Ulric Emil Valgeir** — frère de Jarrick, **ex-Grand Master of the Chevaliers du Loup Blanc avant de devenir Ar-Ulric** (canon Fandom Emil Valgeir) ; post-abdication Jarrick (Spring 2512 IC, EiR ch.17 l.14) ; *"fire-breathing preacher with little respect for Sigmarites"* ; lève le ban des **Fils d'Ulric** (EiR Intro l.247) ; renouveau ulricain fanatique
 - **Denfather Claus Liebnitz** — Deputy High Priest Middenheim High Temple, *"fierce fighting man and inductee of the Brotherhood of the Axe"* ; **infiltré par les ``brothers worshipping a darker god`` — vulnérabilité Khorne canon** (Middenheim ch.1 l.456)
@@ -113,7 +113,7 @@
 - **Chevaliers Panthères chapterhouse** Middenheim (depuis 1450 IC)
 - **Chevaliers du Loup Blanc — Blue Company** grounds Salzenmund Road
 - **Grand Guild of Wizards Middenheim** — "centre for magical learning... traditions derive from before Magnus" (Middenheim ch.1 l.23)
-- **Cult d'Ulric High Temple + secondary chapels chaque district**
+- **Culte d'Ulric High Temple + secondary chapels chaque district**
 - **Chevaliers Panthères chapterhouse** Middenheim depuis 1450 IC (Estalia/Araby crusades canon)
 - **Imperial Family** : Karl-Franz Holswig-Schliestein (Reikland) — rival historique Middenheim ; ce sont les Wolf Emperors qui ont disputé l'Empire à Reikland pendant 800 ans
 
@@ -198,7 +198,7 @@
 ### Alliances et rivalités pré-Turmoil
 
 **Middenheim alliés** :
-- Cult of Ulric (Ar-Ulric Court Cleric) — mais tension Jarrick-Boris via Emmanuelle Schlagen
+- Culte d'Ulric (Ar-Ulric Court Cleric) — mais tension Jarrick-Boris via Emmanuelle Schlagen
 - Chevaliers Panthères (depuis 1450 IC, "secret obligation")
 - Chevaliers du Loup Blanc — quoique l'infiltration Fils d'Ulric inquiète
 - Dwarfs Middenheim (depuis Karak Kazarak refugees)
@@ -558,7 +558,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
     - l.38-145 — History (Teutogens, Artur, Babrakkos, Sigmar, Wolf Emperors, Vampire Wars, Magnus, Goblin King)
     - l.146-280 — Timeline détaillée (-500 IC à 2179 IC)
     - **l.355-440 — City Today** : Boris Todbringer, Todbringer family, Courtiers of Note (Vieran, Breugal, Sparsam, Rallane, Allavandrel, Hildegarde, Dieter, Emmanuelle, Pavarotti, Bettie)
-    - **l.444-490 — Cult of Ulric** : Ar-Ulric, Chevaliers du Loup Blanc, Order of the Howling Wolf, Vow of Celibacy, Brotherhood of the Axe + Liebnitz Khorne vulnerability
+    - **l.444-490 — Culte d'Ulric** : Ar-Ulric, Chevaliers du Loup Blanc, Order of the Howling Wolf, Vow of Celibacy, Brotherhood of the Axe + Liebnitz Khorne vulnerability
     - l.379 — *"Anika-Elise had been a malign infector who secretly worshipped the Prince of Chaos"*
   - **ch.5 *The Grand Duchy of Middenheim*** entier :
     - l.6-30 — Grand Duchy + Timber Trade + Farming

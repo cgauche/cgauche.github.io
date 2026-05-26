@@ -170,7 +170,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 **Cadre** : Mark **revient en ville**, en héros — **yeux bleus brillants** (épreuve de la Flamme + pèlerinage). Cérémonie d'accueil par Emil Valgeir au Temple d'Ulric.
 
 **Plots présents** (HR *The Great Defector* l.1613-1878) :
-- **Mark revient transformé** [homebrew lié à PBT Companion *Cult of Ulric* l.342 *Claus Liebnitz*] — Mark devient figure ulrican notable. Emil Valgeir l'accueille publiquement.
+- **Mark revient transformé** [homebrew lié à PBT Companion *Culte d'Ulric* l.342 *Claus Liebnitz*] — Mark devient figure ulrican notable. Emil Valgeir l'accueille publiquement.
 - **Statue Rhya** : Phineas travaille pour Elvira. Recherche au temple de Verena (apparence Rhya inconnue, sauf via Elvira).
 - **Barbier Heimer + pommade chat** [homebrew lié au canon HR *Moggy Medical Misery* l.1087] — Foule devant échoppe de barbier. **Procédé Collegium : broyer des chats pour pommade vérole**. Manifeste de Linwourm/Lindwurm. Anselm démonte arguments. Disperse foule.
 - **Convocation Schutzmann — Jarmund veut se rendre** [canon l.1613-1620] — **1000 GC pour Jarmund + libération**. **L'Homme l'a kidnappé, demande 1000 GC à Demi-nez** (canon *Half-Nose* l.1664). Schutzmann refuse de céder au chantage — demande PJ d'extraire Jarmund.
@@ -666,7 +666,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Travel Advice Emiline / Tylik / Dengi / Hildegund** [canon l.4725+l.4732+l.4735+l.4738].
 - **Chèvre Yuridika** (proie pour bêtes).
 - **Hazards** : pluie + skavens fuyards + spectre + neige + maladie hauteur Elvira + Anselm.
-- **Jarrick Valgeir ermite chaumière** [homebrew table — canon Companion *Cult of Ulric* p.105 *« undertakes a lone pilgrimage to the far and freezing north. He never returns »* mais à table il est trouvé]. Discussions troll + fils d'Ulric + sigmarites.
+- **Jarrick Valgeir ermite chaumière** [homebrew table — canon Companion *Culte d'Ulric* p.105 *« undertakes a lone pilgrimage to the far and freezing north. He never returns »* mais à table il est trouvé]. Discussions troll + fils d'Ulric + sigmarites.
 - **Chauve-Souris de la Mort = Bartog the Naff + troll Scuttlescree** [canon *Bartog the Naff – Night Goblin Diplomat* l.4916 + l.4900 *Scuttlescree – Stone Troll*]. **Tonneau alcool** négocie passage.
 - **Karak Skygg** [canon *Karak Skygg* l.4963+] : forteresse naine. **~1000 personnes**. **Canon immense** dehors.
 - **3 passages** : grande porte / fosse cadavres / monte-charge.

@@ -75,4 +75,4 @@
 - **Arcs** : [[Arc 6 - Le Rat Cornu]] (S52-S55).
 - **PNJ-clé** : [[Emmiline von Kärzburdger]], [[Hildegund Froiz]], [[Tylik]], [[Dengi Rulsson]], [[Otfried Brantner]] (mort), [[Willus Habicht]] (détenu), [[Heinricus von Kärzburdger]] (rival), [[Dietrich Sprintboch]] (à Place de l'Espoir).
 - **Lieux liés** : [[Karak Skygg]] (au sud, détruit S55), Fort d'Airain (au nord, Nurgle), [[Place de l'Espoir]] (étape arrière), [[Middenheim]] (source des ordres).
-- **Factions** : [[Maison Kärzburdger]] (autorité), Cult de Myrmidia (Hildegund), Cult d'Ulric + Sigmar (temple cubique), [[Cult de Sigmar et Ulric]] (œcuménique inhabituel).
+- **Factions** : [[Maison Kärzburdger]] (autorité), Cult de Myrmidia (Hildegund), Culte d'Ulric + Sigmar (temple cubique), [[Cult de Sigmar et Ulric]] (œcuménique inhabituel).

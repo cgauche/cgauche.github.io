@@ -51,7 +51,7 @@
 - **Arch Lector Kaslain** (Arch Lector South) — continuité.
 - **Johann Esmer** — *"raised as the Arch Lector of the East"* post-Turmoil (succède Aglim, Fandom Volkmar the Grim).
 
-#### Cult of Ulric (limité à Altdorf)
+#### Culte d'Ulric (limité à Altdorf)
 - Renaissance ulricaine fanatique post-Emil Valgeir affecte indirectement Altdorf via les Sigmarites radicaux Volkmar push hard line.
 
 ### Acteurs Main Pourpre Altdorf
@@ -339,7 +339,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 - **Arch Lector West** : continuité (Yorri tué libère ce poste — non précisé canon).
 - **Arch Lector South** : Kaslain (continuité).
 - **Cult of Sigmar** renforcé politiquement post-Turmoil (Volkmar partisan).
-- **Cult of Ulric** : tension avec Sigmar persiste (cascades fiche 02 + 10).
+- **Culte d'Ulric** : tension avec Sigmar persiste (cascades fiche 02 + 10).
 
 ### Chambre Noire post-Turmoil
 - **Head** : Immanuel-Ferrand Holswig-Schliestein (succède Holzkrug).

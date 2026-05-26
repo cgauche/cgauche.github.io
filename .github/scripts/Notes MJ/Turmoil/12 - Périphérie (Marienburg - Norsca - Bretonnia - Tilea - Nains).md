@@ -207,7 +207,7 @@
 - **Cult of Manann** : dominant côte Empire + Marienburg + Bretonnia coastal. Otto Sider Wave Lord Salzenmund (cascade fiches 01+10).
 - **Cult of Stromfels** : pirates Sartosa + Sea of Claws raiders + côtes vulnérables.
 - **Cult of Myrmidia** : dominant Tilea + Estalia. Great Temple Remas + Archecclesiastium Estalia ; Order Eagle + Order Righteous Spear.
-- **Cult of Ulric** : dominant nord Empire ; absent Tilea-Bretonnia ; pèlerinage Jarrick Valgeir Norsca.
+- **Culte d'Ulric** : dominant nord Empire ; absent Tilea-Bretonnia ; pèlerinage Jarrick Valgeir Norsca.
 - **Chaos religieux périphérique** :
   - Norsca tribus Khorne (Vargs, Aeslings, Skaelings extrémistes).
   - Sheerargetru Lord of Change Tzeentch emprisonné Black Fire Pass (cascade fiche 11).

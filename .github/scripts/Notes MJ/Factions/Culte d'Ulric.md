@@ -1,6 +1,6 @@
-# Cult d'Ulric
+# Culte d'Ulric
 
-> **Cult d'Ulric (Wolf God)** — la 2e religion de l'Empire après Sigmar. **Centre à Middenheim** (Temple d'Ulric). Officiellement encadré, mais **bras radical = Fils d'Ulric** (séparatistes pro-Middenland). Tension croissante avec Sigmar Arc 5+. Tournant **S58 (Shining Rock)** : massacre du Theogonist Yorri XV par des fanatiques.
+> **Culte d'Ulric (Wolf God)** — la 2e religion de l'Empire après Sigmar. **Centre à Middenheim** (Temple d'Ulric). Officiellement encadré, mais **bras radical = Fils d'Ulric** (séparatistes pro-Middenland). Tension croissante avec Sigmar Arc 5+. Tournant **S58 (Shining Rock)** : massacre du Theogonist Yorri XV par des fanatiques.
 
 ## Identité
 - **Allégeance** : **Ulric** (le Loup Blanc, dieu du froid + guerre + nord + loups + courage).
@@ -18,7 +18,7 @@
 ## Source
 - **PBT ch.2 *Religion + Growing Tensions*** (canon p.32-33) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md`
 - **PBT ch.4 *Religion - The Sigmarian Heresy + Fils d'Ulric*** (canon p.49-51) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/07 - Chapter 4 Initial Inquiries.md`
-- **PBT Companion ch.7 *The Cult of Ulric*** : `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md`
+- **PBT Companion ch.7 *The Culte d'Ulric*** : `Source/Power Behind the Throne Companion/07 - The Culte d'Ulric.md`
 - **EiR ch.X** (Arc 7) : Shining Rock massacre + Fils d'Ulric montée.
 
 ## Doctrine
@@ -120,5 +120,5 @@
 - **Factions liées** : [[Chevaliers du Loup Blanc]] (bras martial), [[Main Pourpre]] (ennemi infiltrant via Wasmeier), Cult de Sigmar (rivalité).
 
 ## Liens externes
-- [Cult of Ulric — Lexicanum](https://whfb.lexicanum.com/wiki/Cult_of_Ulric)
-- [Cult of Ulric — Fandom](https://warhammerfantasy.fandom.com/wiki/Cult_of_Ulric)
+- [Culte d'Ulric — Lexicanum](https://whfb.lexicanum.com/wiki/Cult_of_Ulric)
+- [Culte d'Ulric — Fandom](https://warhammerfantasy.fandom.com/wiki/Cult_of_Ulric)

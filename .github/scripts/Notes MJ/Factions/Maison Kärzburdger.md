@@ -85,4 +85,4 @@
 - **Arcs** : [[Arc 6 - Le Rat Cornu]] (centre Arc 6 politique).
 - **PNJ-clé** : [[Heinricus von Kärzburdger]] (chef hostile), [[Dietrich Sprintboch]] (héritier montant), [[Emmiline von Kärzburdger]] (commandante Piquet), [[Hildegund Froiz]] (conseillère), [[Tylik]] (capitaine Ungol), [[Dengi Rulsson]] (artilleur), [[Pesold Imlitz]] (héraut Dietrich), Varik (gérant Place de l'Espoir).
 - **Lieux** : Ferlangst Tower, Mittler (ruines), [[Place de l'Espoir]], [[Le Piquet]].
-- **Factions liées** : [[Maison Todbringer]] (rival historique), Cult de Shallya (lien via Sainte Hildegarde + Place de l'Espoir), Cult de Myrmidia (Hildegund), Cult d'Ulric (par défaut Middenland).
+- **Factions liées** : [[Maison Todbringer]] (rival historique), Cult de Shallya (lien via Sainte Hildegarde + Place de l'Espoir), Cult de Myrmidia (Hildegund), Culte d'Ulric (par défaut Middenland).

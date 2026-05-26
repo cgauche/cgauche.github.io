@@ -20,7 +20,7 @@
 - [[Werner Nikse]] — Grand Baron / Grand Count de Nordland en place (puppet Middenheim) (titre inconsistant canon — Salzenmund "Baron" vs Forest of Hate l.144 "Grand Count")
 - [[Anika-Elise Nikse]] — fille de Werner, 2e femme de Boris (mariée 2502 IC à 13 ans, lui à 47), morte 2512 IC à 23 ans ; **animatrice d'un cercle Slaaneshi au Lilac Grove (Flachsfrau Wood, Salzenmund)** avec *"clique of debauched admirers"* (Salzenmund ch.11 l.61) — culte effondré après son départ pour Middenheim, **seul survivant Hals Krimmen** ; Fandom ajoute pseudo *"Nikki"* + identification explicite comme "chef secrète"
 - **Baron Ludolf Köhler** — Dietershafen, allié naval ; **beau-frère de Theoderic Gausser** (sa sœur cadette Malin a épousé Theoderic il y a 32 ans, Salzenmund ch.4 l.388) ; famille Köhler = tradition d'amiraux pour l'Imperial Navy ; **second only to Gausser in Nordland** (Salzenmund ch.13 l.121)
-- **Lord Wolf Erich Granholm** — Cult of Ulric Salzenmund (titre cult complet *"Lord Wolf"*, Salzenmund ch.7 l.45) ; 56 ans, né Kronven (sud Nordland), parents scouts armée baronniale, initiate à Forstfast ; *"will side with whomever promises to restore Nordland's honour"* (Companion ch.5 l.49) ; *"feels no subservience"* à Ar-Ulric Middenheim (Salzenmund ch.7 l.52) ; principal advocate de la position pro-Middenheim au sein du Cult d'Ulric (Salzenmund ch.7 l.37) tout en cultivant des relations correctes avec Gausser
+- **Lord Wolf Erich Granholm** — Culte d'Ulric Salzenmund (titre cult complet *"Lord Wolf"*, Salzenmund ch.7 l.45) ; 56 ans, né Kronven (sud Nordland), parents scouts armée baronniale, initiate à Forstfast ; *"will side with whomever promises to restore Nordland's honour"* (Companion ch.5 l.49) ; *"feels no subservience"* à Ar-Ulric Middenheim (Salzenmund ch.7 l.52) ; principal advocate de la position pro-Middenheim au sein du Culte d'Ulric (Salzenmund ch.7 l.37) tout en cultivant des relations correctes avec Gausser
 - **Wave Lord Otto Sider** — High Priest of Manann Salzenmund ; allié actif de la sécession (cf. Conspirators' Congress, Companion ch.5 l.70) ; *"arguably the most influential Manannite in the Empire today"* (Sea of Claws ch.19 l.76)
 - **High Capitular Werner Stoltz** — Cult of Sigmar (basé Middenheim mais sa juridiction couvre Nordland), conspirateur pro-indépendance (Companion ch.5 l.70, l.86-88)
 - **Lord Harman Barthelm** *(orthographe inconsistante canon — voir section 10)* — commander dans la Nordland State Army pré-Turmoil ; présent à l'audience Boris EiR ch.5 l.105 ; **père de Lord Malthe Barthelm**
@@ -66,7 +66,7 @@
 ### Cultes officiels et religion
 
 - **Lector Germund Vorstell** — **High Priest of Sigmar Salzenmund** (Temple of Sigmar Protector, Magnusschild), né Altdorf, envoyé par le Grand Theogonist *"to champion the faith in the north as support for High Capitular Stoltz against the domination of Ulric"* (Salzenmund ch.9 l.140). Relaxed pragmatist, fin 40 ans, *"good relationship with High Priest Erich Granholm and Wave Lord Otto Sider, as well as Count Theodoric Gausser"* (Salzenmund ch.9 l.142). Statbloc Lector Gold 2.
-- **Lord Wolf Erich Granholm** — Cult of Ulric Salzenmund (détail section "Acteurs pré-coup" + section 6)
+- **Lord Wolf Erich Granholm** — Culte d'Ulric Salzenmund (détail section "Acteurs pré-coup" + section 6)
 - **Denfather Holger Blatzmeir** — **deputy de Granholm**, ancien captain City Guard, 65 ans, *"huge and imposing"*, Salzenmund character, *"drags people to ceremonies"* (Salzenmund ch.7 l.39)
 - **Wave Lord Otto Sider** — Cult of Manann Salzenmund (détail section "Acteurs")
 
@@ -187,7 +187,7 @@
 - Cult of Sigmar (High Capitular Werner Stoltz à Middenheim ; Lector Germund Vorstell envoyé en renfort à Salzenmund par le Grand Theogonist)
 - Count Siegfried von Walfen — appui Reikland-côté Karl-Franz
 - Duchess Ullana Velten (Imperial Council of State, Altdorf) — sympathisante (Companion ch.5 l.70) ; canal codé avec Knights of the North Star
-- **Cult of Ulric local (Granholm)** : **"studied neutrality"** au moment du coup (Salzenmund ch.4 l.372) — pas active alliance ; opportuniste, prêt à pivoter ; cultive ensuite *"growing respect"* pour Gausser tout en gardant *"good relations with deposed Baron Nikse"* (Salzenmund ch.7 l.52-54)
+- **Culte d'Ulric local (Granholm)** : **"studied neutrality"** au moment du coup (Salzenmund ch.4 l.372) — pas active alliance ; opportuniste, prêt à pivoter ; cultive ensuite *"growing respect"* pour Gausser tout en gardant *"good relations with deposed Baron Nikse"* (Salzenmund ch.7 l.52-54)
 - **Knights of the North Star** (Grandmaster Artur von Pretzer) : **agents impériaux secrets** depuis le pacte Magnus the Pious, supportent Gausser pré-coup
 
 **Séparatistes violents** (sans coordination centrale, hourglass emblem) :
@@ -435,7 +435,7 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 | **Burgomeister Maximilian von Kirscheschlage** | (non mentionné pré-Turmoil) | Burgomeister Salzenmund | Gold 1 (Salzenmund ch.4 l.711) |
 | **Captain Harald Driest (Nordland Seahawks)** | Captain Seahawks, *"womaniser"* fuyant les cocus | (idem) ; potentielle affaire avec Countess Malin Gausser | Vivant (Salzenmund ch.4 l.674) |
 | **Count Siegfried von Walfen** | Allié politique clé Gausser dans la décennie 2502-2512 | (canon ne précise pas post-coup) | Vivant (Salzenmund ch.4 l.392) |
-| **Lord Wolf Erich Granholm (Ulric Salzenmund)** | High Priest Ulric, 56 ans, né Kronven, Lector Gold 2, Doomed *"A storm shall pass and so shall thee"* | *"Studied neutrality"* pendant le coup ; **principal advocate de la position pro-Middenheim au sein du Cult d'Ulric** (Salzenmund ch.7 l.37) ; mais aussi *"growing respect"* pour Gausser — joue les deux jeux | Vivant, centriste (Salzenmund ch.7 l.45-65) |
+| **Lord Wolf Erich Granholm (Ulric Salzenmund)** | High Priest Ulric, 56 ans, né Kronven, Lector Gold 2, Doomed *"A storm shall pass and so shall thee"* | *"Studied neutrality"* pendant le coup ; **principal advocate de la position pro-Middenheim au sein du Culte d'Ulric** (Salzenmund ch.7 l.37) ; mais aussi *"growing respect"* pour Gausser — joue les deux jeux | Vivant, centriste (Salzenmund ch.7 l.45-65) |
 | **Denfather Holger Blatzmeir** | Captain ancien City Guard, deputy Granholm | 65 ans, *"huge and imposing"*, drags people to ceremonies | Vivant (Salzenmund ch.7 l.39) |
 | **Lector Germund Vorstell (Sigmar Salzenmund)** | Envoyé à Salzenmund par le Grand Theogonist pour contrer la domination Ulric ; Lector Gold 2 | Pragmatist, bonnes relations Granholm + Sider + Gausser | Vivant (Salzenmund ch.9 l.137-155) |
 | **Wave Lord Otto Sider (Manann Salzenmund)** | Conspirateur pro-indépendance | *"Arguably the most influential Manannite in the Empire today"* (Sea of Claws ch.19 l.76) ; pivot Second Fleet | Vivant, renforcé (Sea of Claws ch.19 l.76 ; Salzenmund ch.4 l.803) |

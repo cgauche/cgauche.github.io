@@ -11,7 +11,7 @@
 ## Source
 - **Source principale** : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md` (la cité + districts + Graf + government + religion + tensions)
 - *Middenheim — City of the Loup Blanc* (supplément dédié) : PDF à `Source/` (à convertir si nécessaire pour les détails étendus de la cité — référencé canon PBT comme livre compagnon).
-- `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Cult d'Ulric détaillé)
+- `Source/Power Behind the Throne Companion/07 - The Culte d'Ulric.md` (Culte d'Ulric détaillé)
 - `Source/Power Behind the Throne Companion/08 - Some very important people.md` (Nastassia + agents Heinrich)
 - *The Horned Rat* (Arc 6) : suite skavens à Middenheim.
 - *Empire in Ruins* (Arc 7) : Middenheim allié face au Reikland.
@@ -60,7 +60,7 @@ Accès :
 - **Great Park** — Grand parc public. **Festival of Fine Ales + Illuminations of the Black Pool**. **Black Pool** : étang noir au centre (le « Pool » des illuminations).
 - **Royal Gardens** — Jardins du palais. **Garden Party** (canon ch.5 p.72 — l'événement social majeur). **Labyrinthe** central (lieu de réunions discrètes).
 - **Royal College of Music** — Centre culturel + opéra. Operatic Recitals + Operas (Vessille + Nibble Unger Lied) + Matinee of Bards.
-- **Temple d'Ulric** — Le grand temple. Centre du cult Ulric. **Flamme Éternelle d'Ulric** (canon Companion ch.7 *Cult of Ulric* — jugement-feu). **Mark y est convoqué S35** par Jarrick Valgeir, **passe la Flamme S36** (survit, perd une main).
+- **Temple d'Ulric** — Le grand temple. Centre du cult Ulric. **Flamme Éternelle d'Ulric** (canon Companion ch.7 *Culte d'Ulric* — jugement-feu). **Mark y est convoqué S35** par Jarrick Valgeir, **passe la Flamme S36** (survit, perd une main).
 - **Temple de Sigmar** — Plus petit. Lieu du **High Capitular Werner Stolz** (canon ch.4 p.55). Tensions avec Ulric en arrière-plan.
 - **Temple de Shallya** — Westor / Sudgarten. **Isolde Begegnen** matriarche. **Dietrich Sprintboch y rejoint le groupe S35**.
 - **Tour de magie (Grand Guild of Wizards)** — Ulricsmund. **Albrecht Helseher** (High Wizard) + **Janna Eberhauer** (Deputy). **Anselm + Yuridika y étudient Arc 5**.
@@ -138,7 +138,7 @@ Major events Arc 5 :
 ## Factions actives Arc 5
 
 ### Légales
-- **Cult d'Ulric** (officiel, dominant) — Ar-Ulric Jarrick Valgeir Arc 5 → Emil Valgeir post-PBT.
+- **Culte d'Ulric** (officiel, dominant) — Ar-Ulric Jarrick Valgeir Arc 5 → Emil Valgeir post-PBT.
 - **Chevaliers du Loup Blanc** — Ordre martial sacré d'Ulric. Grand Master = Emil Valgeir Arc 5 ; remplacé par **Rein Volkhard** post-PBT (canon ch.7 *Consequences*).
 - **Cult de Sigmar** — Plus petit, conflit larvé avec Ulric.
 - **Cult de Shallya** — Isolde Begegnen matriarche. Hôpital. **Hospice de Frederheim** (canon ch.1) gère les troubles mentaux (hors-Middenheim, mais lié).
@@ -214,7 +214,7 @@ Major events Arc 5 :
 - **Arcs** : [[Arc 5 - Power Behind the Throne]] (S30-39, centre), [[Arc 6 - Le Rat Cornu (à venir)|Arc 6]] (S40-55, skavens + nettoyage MP), Arc 7 EiR (S56+, allié Boris + mariage Katarina + attaque manoir S63).
 - **PNJ-clé** : [[Boris Todbringer]], [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Ulrich Schutzmann]], [[Karl-Heinz Wasmeier]], [[Josef Sparsam]], [[Jarrick Valgeir]], [[Emil Valgeir]], [[Gotthard Wallenstein]], [[Janna Eberhauer]], [[Gideon]], [[Filianore]] (Croix de Lilas).
 - **Lieux liés** : [[Altdorf]] (rival politique), [[Wittgendorf]] (Wallenstein origine), Wolfenburg (Heinrich en mission), Drakwald (Wasmeier lair post-S39).
-- **Factions** : [[Main Pourpre]] (cellule Wasmeier), Cult d'Ulric (Jarrick → Emil), Chevaliers du Loup Blanc, Sceptre de Jade (Wallenstein), Yellow Fang (skaven), Fils d'Ulric, Croix de Lilas (homebrew Filianore-Pathsokar).
+- **Factions** : [[Main Pourpre]] (cellule Wasmeier), Culte d'Ulric (Jarrick → Emil), Chevaliers du Loup Blanc, Sceptre de Jade (Wallenstein), Yellow Fang (skaven), Fils d'Ulric, Croix de Lilas (homebrew Filianore-Pathsokar).
 
 ## Liens externes
 - [Middenheim — Lexicanum](https://whfb.lexicanum.com/wiki/Middenheim)

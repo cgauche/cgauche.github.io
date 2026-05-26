@@ -3,7 +3,7 @@
 > **Ordre martial sacré d'Ulric**. Le **principal Templar Order of Ulric** (canon ch.2 « *the largest Templar order of Ulric* »). Centre à Middenheim. **Combattants élite** Ulrican, fight avec **warhammers traditionnellement** (canon ; spéculation rumeur Arc 5 : pourraient passer aux **haches** pour se démarquer du Sigmarisme — non confirmé canon).
 
 ## Identité
-- **Allégeance** : **Ulric** (Cult d'Ulric).
+- **Allégeance** : **Ulric** (Culte d'Ulric).
 - **Type** : Ordre martial templier + chevalier sacré.
 - **Chef** : **Grand Master de Middenheim Chapter**.
   - Arc 5 : **[[Emil Valgeir]]**.
@@ -17,7 +17,7 @@
 - **PBT ch.2 *Growing Tensions*** (canon p.33) : mention des Chevaliers du Loup Blanc comme **bras martial** d'Ulric.
 - **PBT ch.4 *GM Option: Dropping Names*** (canon p.55) : **Emil Valgeir = Grand Master de Middenheim Chapter** + Claus Liebnitz Senior Priest Sergeant.
 - **PBT ch.7 *Consequences*** (canon p.105) : Rein Volkhard successeur.
-- **PBT Companion ch.7 *The Cult of Ulric*** : `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md`
+- **PBT Companion ch.7 *The Culte d'Ulric*** : `Source/Power Behind the Throne Companion/07 - The Culte d'Ulric.md`
 
 ## Doctrine
 
@@ -42,7 +42,7 @@
 
 ## Relations
 
-- **Cult d'Ulric** : Bras martial direct.
+- **Culte d'Ulric** : Bras martial direct.
 - **Chevaliers Panthères** : Ordre Ulrican rival/complémentaire à Middenheim (escorte personnelle du Graf + Katarina). Chevaliers Panthères = **secular noble warriors**, Chevaliers du Loup Blanc = **priest-warriors**.
 - **Fils d'Ulric** : Canon ch.2 : « *it is rumoured that the movement has begun to gain supporters in the rank and file of the Chevaliers du Loup Blanc* ». **Pas officiel** mais **les rangs basses sont infiltrés par sympathisants extrémistes**.
 - **Cult de Sigmar / Reiksguard** : Tension. **Kurt Helborg** (Reiksmarshall Sigmar) **respecte grudgingly Emil Valgeir** (canon p.55).
@@ -78,7 +78,7 @@
 - **Arcs** : Arc 5 (S35 mention), Arc 6 (Heaume + skavens), Arc 7 (Shining Rock).
 - **PNJ-clé** : [[Emil Valgeir]] (Grand Master Arc 5), Rein Volkhard (successeur), Claus Liebnitz, Mark (PJ), [[Jarrick Valgeir]] (Ar-Ulric).
 - **Lieux** : [[Middenheim]] (Temple d'Ulric + caserne), Drakwald (patrouilles).
-- **Factions** : [[Cult d'Ulric]] (bras martial), Chevaliers Panthères (collègues mais distincts), Fils d'Ulric (infiltrants).
+- **Factions** : [[Culte d'Ulric]] (bras martial), Chevaliers Panthères (collègues mais distincts), Fils d'Ulric (infiltrants).
 
 ## Liens externes
 - [Chevaliers du Loup Blanc — Lexicanum](https://whfb.lexicanum.com/wiki/Knights_of_the_White_Wolf)

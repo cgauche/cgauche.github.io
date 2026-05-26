@@ -1,6 +1,6 @@
 # Emil Valgeir
 
-**Sous-titre** : Ar-Ulric, Grand Prêtre du Cult d'Ulric, Électeur Impérial intransigeant  
+**Sous-titre** : Ar-Ulric, Grand Prêtre du Culte d'Ulric, Électeur Impérial intransigeant  
 **Statut** : [VIVANT — ENNEMI INSTITUTIONNEL]
 
 ## Apparence et manières

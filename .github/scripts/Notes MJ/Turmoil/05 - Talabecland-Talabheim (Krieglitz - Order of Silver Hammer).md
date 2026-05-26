@@ -128,7 +128,7 @@
 **Pro-Krieglitz (camp Talabecland-Talabheim)** :
 - Maison Krieglitz-Untermensch (Gustav + Elise IX)
 - Cult of Taal (Father Rostov + Brethren of the Oak + Order of the Antler)
-- Cult of Ulric (renaissance fanatique post-Emil)
+- Culte d'Ulric (renaissance fanatique post-Emil)
 - Baroness Hildegarde TussenHochen (Hochland, vassal Talabheim)
 - Taal's Chosen (élite militaire Talabheim)
 - Sectes radicales anti-Sigmarite (héritage Ottilien)

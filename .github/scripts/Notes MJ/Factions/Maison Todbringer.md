@@ -49,7 +49,7 @@
 
 - **Indépendantisme Middenland** : Boris **sceptique de Karl-Franz**, **rival historique**. **Pas activement déloyal Arc 5**, mais **prêt à confronter** Reikland S57+.
 - **Fils d'Ulric** : Boris **n'approuve pas explicitement** mais ne les condamne pas.
-- **Cult d'Ulric** : Boris est Ulrican par naissance (Imperial Elector via Ar-Ulric position), mais **pragmatique**.
+- **Culte d'Ulric** : Boris est Ulrican par naissance (Imperial Elector via Ar-Ulric position), mais **pragmatique**.
 - **Patronage** : Katarina = orphelinat Shallya. Heinrich = Pavarotti recruit (médical Stefan).
 - **Chevaliers Panthères** = ordre de chevalerie sécuré du Graf, escorte Katarina + garde du Middenpalaz.
 
@@ -117,7 +117,7 @@
 - **Arcs** : Arc 5-6-7 (centre permanent à Middenheim).
 - **PNJ-clé** : [[Boris Todbringer]], [[Stefan Todbringer]], [[Heinrich Todbringer]], [[Katarina Todbringer]], Anika-Elise Nikse (morte), Maria von Richthofen (morte), Mandred Ratslayer (ancêtre légendaire).
 - **Lieux** : [[Middenheim]] (Middenpalaz central), Carroburg (vassal), Drakwald (estates).
-- **Factions** : [[Cult d'Ulric]] (lié par Imperial Elector), [[Chevaliers du Loup Blanc]] (martial), Chevaliers Panthères (escorte), Watch Middenheim, [[Main Pourpre]] (ennemi Arc 5+), Reikland Karl-Franz (rival historique).
+- **Factions** : [[Culte d'Ulric]] (lié par Imperial Elector), [[Chevaliers du Loup Blanc]] (martial), Chevaliers Panthères (escorte), Watch Middenheim, [[Main Pourpre]] (ennemi Arc 5+), Reikland Karl-Franz (rival historique).
 
 ## Liens externes
 - [House Todbringer — Fandom](https://warhammerfantasy.fandom.com/wiki/House_Todbringer)

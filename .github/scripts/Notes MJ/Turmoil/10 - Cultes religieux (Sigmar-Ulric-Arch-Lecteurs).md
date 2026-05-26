@@ -9,7 +9,7 @@
 - **Nature du front** : **front thématique transversal** (religieux) — pas une province, mais un **écosystème religieux Empire-wide** dont les institutions s'effondrent, se reconfigurent ou émergent durant le Turmoil 2512 IC.
 - **Cultes principaux concernés** :
   - **Cult of Sigmar** (religion d'État, dominant Empire)
-  - **Cult of Ulric** (dominant Middenheim/Middenland + nord)
+  - **Culte d'Ulric** (dominant Middenheim/Middenland + nord)
   - **Cultes mineurs activés** : Taal, Rhya, Söll, Morr, Manann, Myrmidia, Verena, Shallya, Ranald
 - **Capitales religieuses** :
   - **Altdorf** : siège Grand Theogonist + Grand Cathedral of Sigmar + Imperial College of Magic.
@@ -52,7 +52,7 @@
 - **Sigmar's Blood** (Talabecland/Averland/Stirland) : nobility sélection, lances blanches.
 - **Hammer of Sigmar** : zealots cavalry-hammers, prosélytisme paix.
 
-### Acteurs principaux pré-Turmoil — Cult of Ulric
+### Acteurs principaux pré-Turmoil — Culte d'Ulric
 
 #### Hiérarchie ulricaine (Middenheim)
 - **Ar-Ulric Jarrick Valgeir** (déchu pré-Turmoil immédiat) — Lector Gold 2 (PBT p.130) ; **48 ans** ; *"rangy rather than muscular, cheveux brun-roux, yeux brun clair"* ; *"decent man, honorable"* ; **vœu de célibat** (canon Middenheim sourcebook) ; **chantagé par Wasmeier-Brunhilde** via *"love letters"* échangées avec **Emmanuelle Schlagen** (consort Boris Todbringer, cascade fiche 02 PBT p.131) ; **abdique post-PBT** + *"undertakes a lone pilgrimage to the far and freezing north. He never returns"* (PBT ch.7 *Consequences*) ; **Hammer-axe of Skoll + Wolfplate** transmis au successeur ; Doomed *"Temptation paves an inevitable path to the Maelstrom"* (PBT p.130).
@@ -172,7 +172,7 @@
 - **Order of the Silver Hammer** : bras militant itinérant subordonné Grand Theogonist.
 - **Knights of the Fiery Heart** : bodyguard Grand Theogonist.
 
-### Gouvernance Cult of Ulric
+### Gouvernance Culte d'Ulric
 - **Ar-Ulric** : **Emil Valgeir** (post-PBT, frère aîné Jarrick déchu) ; vit Inner Palace Middenheim.
 - **Grand Master Chevaliers du Loup Blanc** : **Rein Volkhard** (post-Emil promotion).
 - **Hammer-axe of Skoll + Wolfplate** : artefacts d'office Ar-Ulric.
@@ -345,7 +345,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 - **Order of the Silver Hammer** : renforcé politiquement post-Turmoil, purge Krieglitzes (fiche 05).
 - **Knights of the Fiery Heart** : bodyguard nouveau Grand Theogonist.
 
-### Cult of Ulric
+### Culte d'Ulric
 - **Ar-Ulric** : **Emil Valgeir** (continuité — Fils d'Ulric paradoxe persiste, *"wish to depose him in favour of one their own"*).
 - **Grand Master Chevaliers du Loup Blanc** : Rein Volkhard (continuité).
 - **Brotherhood of the Axe** : continuité, **infiltration Crimson Skull non démasquée canon** (cascade fiche 02 hooks).
@@ -423,7 +423,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 | **Mother Jeska Schopf** | Green Watcher Rhya Reikland (Altdorf) | (continuité) | Vivante (Archives Vol III l.85-86) |
 | **Order of the Raven Knights** | Morr Templars Siegfriedhof, anti-Undead | (continuité) ; renforcés politiquement | Continuité (Fandom Knights of the Raven) |
 | **Wave Lord Otto Sider** | High Priest Manann Salzenmund, Conspirators' Congress | **Pivot Second Fleet Imperial Navy post-Turmoil** ; *"most influential Manannite in the Empire"* | Vivant (cascade fiche 01 ; Sea of Claws ch.19 l.76) |
-| **High Priest Erich Granholm** | Cult of Ulric Salzenmund, *"will side with whomever promises to restore Nordland's honour"* | (continuité) ; allié Gausser post-Turmoil (cascade fiche 01) | Vivant (cascade fiche 01) |
+| **High Priest Erich Granholm** | Culte d'Ulric Salzenmund, *"will side with whomever promises to restore Nordland's honour"* | (continuité) ; allié Gausser post-Turmoil (cascade fiche 01) | Vivant (cascade fiche 01) |
 | **Anika-Elise Nikse (Sceptre de Jade Slaanesh)** | Animatrice cercle Slaaneshi Lilac Grove Salzenmund + leader Sceptre de Jade Middenheim | **Morte 2512 IC pré-Turmoil** (cascades fiches 01 + 02) | Morte (cascade fiche 02) |
 | **Crimson Skull (Khorne)** | Infiltre Brotherhood of the Axe Middenheim | (continuité — non démasqué canon) | Continuité (Fandom Crimson Skull) |
 | **Cultistes Main Pourpre déguisés Reiksguard** | Infiltrent Volkshalle climax ch.13 | **Morts climax** (PJ + Volkmar les éliminent) | Morts canon (EiR ch.13 l.389-401) |
@@ -440,7 +440,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - **Lector Germund Vorstell (Sigmar Salzenmund)** envoyé d'Altdorf par Grand Theogonist Yorri.
 
 - **Cascade depuis [[Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen)]]** :
-  - **Cult of Ulric Middenheim** = épicentre renaissance ulricaine.
+  - **Culte d'Ulric Middenheim** = épicentre renaissance ulricaine.
   - **Emil Valgeir + Fils d'Ulric** lèvement du ban.
   - **Brotherhood of the Axe infiltrée Crimson Skull** via Claus Liebnitz.
   - **Sceptre de Jade Slaanesh** Anika-Elise.
@@ -600,8 +600,8 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - **l.140-186 — section Söll complète** : doctrine + strictures + Steingart temple
   - l.153 — *"Söll = northern incarnation of Solkan"*
 
-- **Power Behind the Throne Companion ch.7 *The Cult of Ulric*** :
-  - Structure complète Cult of Ulric : Ar-Ulric + Loups Blancs + Teutogen Guard + Brotherhood of the Axe + Order of the Howling Wolf + Lore Haus + Drakwald College of the Holy Wolf
+- **Power Behind the Throne Companion ch.7 *The Culte d'Ulric*** :
+  - Structure complète Culte d'Ulric : Ar-Ulric + Loups Blancs + Teutogen Guard + Brotherhood of the Axe + Order of the Howling Wolf + Lore Haus + Drakwald College of the Holy Wolf
   - p.105 — *"Almost immediately Ar-Ulric Jarrick Valgeir resigns… Emil Valgeir takes on the mantle of Ar-Ulric"*
 
 - **Power Behind the Throne ch.2** :
@@ -633,7 +633,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - Cult of Sigmar institutions
 
 - **Middenheim - City of the Loup Blanc ch.1** :
-  - l.444-490 — Cult of Ulric Middenheim détaillé
+  - l.444-490 — Culte d'Ulric Middenheim détaillé
   - l.454 — Order of the Howling Wolf élit Ar-Ulric
   - l.456 — Claus Liebnitz Brotherhood of the Axe Khorne vulnerability
   - l.301-307 — Magnus le Pieux history Sigmar
@@ -780,5 +780,5 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 - **Date Turmoil = 2512 IC** (WFRP4 EiR), pas 2510 (legacy WFRP2/Storm of Chaos).
 - **Volkmar successeur ~Jahrdrung 2513** (4 mois post-Yorri WFRP4).
-- **Cult of Ulric célibat Ar-Ulric** : WFRP4 Middenheim sourcebook (renforce chantage Jarrick).
+- **Culte d'Ulric célibat Ar-Ulric** : WFRP4 Middenheim sourcebook (renforce chantage Jarrick).
 - Pas d'autre divergence majeure WFRP4 vs WFRP2/3 détectée pour ce front.
