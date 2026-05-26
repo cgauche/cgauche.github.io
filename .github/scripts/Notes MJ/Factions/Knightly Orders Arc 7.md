@@ -23,6 +23,8 @@
 
 ## Knights of the Fiery Heart
 
+→ Fiche dédiée [[Chevaliers du Cœur Ardent]].
+
 > **Sigmarite Templar Order** require former Priest of Sigmar. **Miracles Sigmar Trait** + specific miracles : **Beacon Righteous Virtue, Sigmar's Fiery Hammer, Soulfire**.
 
 ### Source canon

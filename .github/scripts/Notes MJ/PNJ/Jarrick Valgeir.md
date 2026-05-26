@@ -20,7 +20,7 @@ Le ne fixe aucune réplique directe de Jarrick Valgeir. Sa voix se construit à 
 - **Chantageuse** : Brunhilde Klaglich — sous l'alias « Frau Elise Kaltblutig », lui présente une des lettres d'amour volées et le menace de scandale + exécution potentielle pour trahison des vœux solennels, sauf s'il soutient les nouvelles taxes `PBT Appendix l.634`.
 - **Commanditaire occulte du chantage** : Karl-Heinz Wasmeier — Seigneur des Lois de Middenheim, Magister Magistri de la cellule Main Pourpre, sur les instructions duquel Klaglich agit `PBT ch.6 l.54`.
 - **Suzerain temporel** : Boris Todbringer — Graf de Middenheim ; Ar-Ulric a une influence modeste (1 vote) au conseil, et le Graf le juge trop préoccupé par le culte impérial et sa position d'Électeur au détriment des intérêts middenheimers `PBT Appendix l.579`.
-- **Confrère d'Ordre** : Claus Liebnitz — Senior Priest Sergeant de l'Ordre du Loup Blanc, ancien camarade d'Emil dans la Garde Teutogen ; bénit personnellement les Crocs du Loup d'Hiver `PBT ch.4 l.377`.
+- **Confrère d'Ordre** : Claus Liebnitz — Senior Priest Sergeant de l'Ordre du Loup Blanc, ancien camarade d'Emil dans la Garde Teutogène ; bénit personnellement les Crocs du Loup d'Hiver `PBT ch.4 l.377`.
 - **Suspicions paranoïaques** : Jarrick croit qu'un puissant seul peut chanter un Électeur, il est trop effrayé pour démasquer le chanteur lui-même ; il suspecte vaguement Gotthard Wallenstein et s'interroge sur Petra Liebkosen `PBT Appendix l.590` `PBT Appendix l.615+621`.
 
 ## Objectifs et angle mort

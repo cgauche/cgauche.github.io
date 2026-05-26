@@ -10,7 +10,7 @@
   - Post-PBT : **[[Emil Valgeir]]** (frère aîné, plus radical).
 - **Branches martiales** :
   - **Chevaliers du Loup Blanc** = ordre martial des prêtres-guerriers.
-  - **Teutogen Guard** = élite ulrican (drawn from Loup Blanc).
+  - **Garde Teutogène** = élite ulrican (drawn from Loup Blanc).
   - **Brotherhood of the Axe** = élite parmi les Teutogen.
 - **Statut** : [ACTIF — DOMINANT à Middenheim] [TENSION Sigmar Arc 5+]
 - **Tags** : `#CultUlric` `#Ulric` `#WhiteWolf` `#TeutogenGuard` `#FilsDUlric` `#Middenheim` `#Religion` `#Arc5` `#Arc7` `#TensionSigmar`
@@ -39,7 +39,7 @@
 
 ### Branches martiales
 - **Chevaliers du Loup Blanc** (cf. fiche dédiée).
-- **Teutogen Guard** : escorte d'Ar-Ulric. **Elite** : Brotherhood of the Axe.
+- **Garde Teutogène** : escorte d'Ar-Ulric. **Elite** : Brotherhood of the Axe.
 
 ### Mouvement schismatique
 - **Fils d'Ulric** : extrémistes + séparatistes pro-Middenland. **Officiellement non reconnus**, **discours militant**, **attaques violentes contre Sigmarites**. Ar-Ulric **ne les condamne pas explicitement** = leur donne du crédit. **Emil Valgeir** post-PBT = **plus sympathique aux Fils d'Ulric**.
@@ -116,7 +116,7 @@
 
 - **Arcs** : Arc 5 (présence canon PBT), Arc 6 (Heaume + skavens), Arc 7 (Shining Rock + Fils d'Ulric).
 - **PNJ-clé** : [[Jarrick Valgeir]], [[Emil Valgeir]], Mark (PJ), [[Boris Todbringer]] (souverain ulrican).
-- **Lieux** : [[Middenheim]] (Temple d'Ulric centre), Shining Rock (Arc 7), Drakwald (Teutogen Guard).
+- **Lieux** : [[Middenheim]] (Temple d'Ulric centre), Shining Rock (Arc 7), Drakwald (Garde Teutogène).
 - **Factions liées** : [[Chevaliers du Loup Blanc]] (bras martial), [[Main Pourpre]] (ennemi infiltrant via Wasmeier), Cult de Sigmar (rivalité).
 
 ## Liens externes

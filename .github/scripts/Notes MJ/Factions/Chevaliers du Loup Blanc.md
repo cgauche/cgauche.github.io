@@ -24,7 +24,7 @@
 - **Combat** : traditionnellement **warhammers**, mais rumeur Arc 5 (canon ch.2) qu'ils pourraient passer aux **haches** pour se distinguer définitivement de Sigmar. **Source démentie officiellement** mais persistante.
 - **Initiation** : **tuer un loup à mains nues** (rite Ulric standard).
 - **Drakwald patrols** : périmètre régulier autour de Middenheim.
-- **Teutogen Guard** : élite formée de Chevaliers du Loup Blanc, **garde Ar-Ulric**.
+- **Garde Teutogène** : élite formée de Chevaliers du Loup Blanc, **garde Ar-Ulric**.
 - **Brotherhood of the Axe** : **élite parmi l'élite** (Companion p.55, ambition de Liebnitz).
 
 ## Structure
@@ -38,7 +38,7 @@
 
 - **[[Emil Valgeir]]** : Grand Master Arc 5 → Ar-Ulric post-PBT.
 - **Rein Volkhard** : Grand Master post-PBT (canon : « *a grizzled campaigner* »).
-- **Claus Liebnitz** : Senior Priest Sergeant + ancien Chevalier du Loup Blanc. **Vise la Brotherhood of the Axe**. **Servait avec Valgeir dans la Teutogen Guard**.
+- **Claus Liebnitz** : Senior Priest Sergeant + ancien Chevalier du Loup Blanc. **Vise la Brotherhood of the Axe**. **Servait avec Valgeir dans la Garde Teutogène**.
 
 ## Relations
 
