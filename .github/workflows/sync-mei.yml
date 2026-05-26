@@ -30,8 +30,10 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        # lxml is the XML tree-builder BeautifulSoup uses for the Atom feed.
-        run: pip install requests beautifulsoup4 lxml markdownify
+        # lxml      : XML tree-builder BeautifulSoup uses for the Atom feed
+        # markdownify: HTML → markdown (blog post bodies in _blog_sync.py)
+        # markdown-it-py: markdown → HTML (Notes MJ rendering in _site_build.py)
+        run: pip install requests beautifulsoup4 lxml markdownify markdown-it-py
 
       - name: Refresh blog mirror
         working-directory: .github/scripts
