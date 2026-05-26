@@ -11,7 +11,7 @@
 - **Statut** : [VIVANTE] [ENNEMIE ACTIVE] (Arc 7 ch. 9).
 - **Tags** : `#OrlaFeder` `#MainPourpre` `#PurpleHand` `#Tzeentch` `#Nuln` `#MutéeIridescente` `#CelluleAutonome`
 
-## Source canon
+## Source
 - **EiR ch. 9** *Altdorf to Black Fire Pass* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Black Fire Pass.md`
 
 ## Plan

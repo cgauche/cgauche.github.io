@@ -10,7 +10,7 @@
 
 ---
 
-## 1. Table de correspondance orthographe canon
+## 1. Table de correspondance orthographe
 
 | Canon (Lexicanum/Fandom) | Variantes incorrectes rencontrées | Origine |
 |---|---|---|
@@ -102,7 +102,7 @@ Fiche PNJ renommée :
 
 ---
 
-## 3. Corrections appliquées dans `Source/` (PDF canon converti) — ✅ FAIT 2026-05-19
+## 3. Corrections appliquées dans `Source/` (PDF converti) — ✅ FAIT 2026-05-19
 
 > Le PDF Cubicle 7 a été converti via OCR et contenait des **artefacts**. Toutes les corrections OCR claires ont été appliquées via `sed` le 2026-05-19.
 
@@ -135,11 +135,11 @@ Citations Notes MJ qui référençaient les anciennes variantes OCR ont été mi
 
 ### ⚠️ Personnage à NE PAS confondre
 
-- **Egrim Stonehammer** (Dwarf Thane, Archives of the Empire Vol I — récupéra le Runefang *Grudge Settler*) : **personnage différent** d'Egrimm van Horstmann. Son nom « Egrim » sans 2 m est correct canon. Préservé lors des corrections (2 occurrences intactes dans Archives).
+- **Egrim Stonehammer** (Dwarf Thane, Archives of the Empire Vol I — récupéra le Runefang *Grudge Settler*) : **personnage différent** d'Egrimm van Horstmann. Son nom « Egrim » sans 2 m est correct. Préservé lors des corrections (2 occurrences intactes dans Archives).
 
 ### Variantes canon-PDF mixtes intentionnellement conservées
 
-Le PDF Cubicle 7 mélange officiellement plusieurs orthographes selon les chapitres. Ce **n'est pas** du bruit OCR — c'est une inconsistance éditoriale canon. Conservées telles quelles :
+Le PDF Cubicle 7 mélange officiellement plusieurs orthographes selon les chapitres. Ce **n'est pas** du bruit OCR — c'est une inconsistance éditoriale. Conservées telles quelles :
 
 | Personnage | Variantes en PDF | Comptes (après corrections) |
 |---|---|---|
@@ -252,7 +252,7 @@ sed -i "s/Egrim van Horstmann/Egrimm van Horstmann/g; s/that Egrim would be judg
 - Wikilinks `[[Order of the Purple Hand|Main Pourpre]]` simplifiés en `[[Main Pourpre]]`
 - Citations canon EiR/Lexicanum/Fandom préservées en VO (italique-guillemets) ; labels de pages wiki externes (`[X — Fandom]`) préservés en VO
 - Corrections grammaticales FR appliquées (du/le/au + accord genre : `du Chambre Noire` → `de la Chambre Noire`, `l'Cercle Intérieur` → `le Cercle Intérieur`)
-- Fiche Yann Zuntermein refondue selon nouveau template PNJ : blockquote en-tête, apparence/manières, réseau, objectifs/angle mort, plans en cours, démasquage/confrontation, hooks fusionnés, liens, sources canon en table, statbloc complet en pied de fiche, sans tags, sans wikilinks autour des entités (texte plat — popovers gérés par `_site_build.py`)
+- Fiche Yann Zuntermein refondue selon nouveau template PNJ : blockquote en-tête, apparence/manières, réseau, objectifs/angle mort, plans en cours, démasquage/confrontation, hooks fusionnés, liens, sources en table, statbloc complet en pied de fiche, sans tags, sans wikilinks autour des entités (texte plat — popovers gérés par `_site_build.py`)
 - Source FR de référence : [Bibliothèque Impériale](https://bibliotheque-imperiale.com/)
 
 ### Couverture liens externes Lexicanum/Fandom (état final)
@@ -260,7 +260,7 @@ sed -i "s/Egrim van Horstmann/Egrimm van Horstmann/g; s/that Egrim would be judg
 - **Lieux** : 18 / 33 (55%)
 - **Factions** : 17 / 33 (52%)
 - **Total** : 133 / 237 (56%)
-- Le reste : PJ, homebrew table, ou PNJ mineurs canon sans page wiki dédiée
+- Le reste : PJ, homebrew table, ou PNJ mineurs sans page wiki dédiée
 
 ### Total session
 - ~210 fichiers modifiés (Notes MJ + Source/)

@@ -17,7 +17,7 @@
 
 ## Stats indicatifs
 
-Profil canon WFRP4 *Veteran* ou *Soldier (Silver 2-3)* :
+Profil WFRP4 *Veteran* ou *Soldier (Silver 2-3)* :
 - CC 45-55, F 40, E 40
 - Hand Weapon (épée courte), Bouclier, Cuir + jambières en plate
 - Talents : Implacable, Resistance (Magic), Strike Mighty Blow

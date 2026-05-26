@@ -60,7 +60,7 @@
 - **Valmir von Raukov** — *"In the aftermath of the Turmoil, House von Tasseninck was stripped of the Electoral office, which was transferred to Valmir von Raukov. Under the von Raukovs, order and stability returned"* (Fandom Valmir von Raukov). Titre complet canon : **Grand Prince of Ostland, Margrave of the Northern March, Hammer of the East** (Lexicanum + Fandom).
 - **Famille Raukov** : *"head of the von Raukov family, an old noble Ostland family that was known to be loyal to Emperors Mattheus II and Luitpold"* (Fandom Valmir von Raukov). Marié à **Ivana von Raukov** ; deux fils légitimes : **Vassily** (aîné, héritier en titre 2512 IC) et **Oleg** (cadet, Grand Marshal — devient héritier apparent post-2514 IC après disgrâce Vassily).
 - **Vassily von Raukov** — **fils aîné légitime** de Valmir et Ivana (Fandom Vassily von Raukov : *"the eldest legitimate son… the man in line to inherit the rule of Ostland"*). **Héritier en titre pré-2514 IC**. Sera **déshérité post-2514 IC** suite à sa lâcheté à Castle Raukov (Fandom Vassily) — note : événement post-Turmoil, hors période fiche.
-- **Oleg von Raukov** — **fils cadet** de Valmir et Ivana (Fandom Oleg von Raukov : *"the younger of Valmir's two legitimate sons"*) ; **titre canon complet : Prince of Ostland + Grand Marshal of the Ostland Military** (Fandom Oleg) ; *"fearsome"* ; **devient heir apparent post-2514 IC** après la disgrâce de Vassily (mécanisme canon Castle Raukov / lâcheté Vassily). **Au moment du Turmoil 2512, Vassily est encore l'héritier en titre** — l'inversion d'héritage est post-Turmoil.
+- **Oleg von Raukov** — **fils cadet** de Valmir et Ivana (Fandom Oleg von Raukov : *"the younger of Valmir's two legitimate sons"*) ; **titre complet : Prince of Ostland + Grand Marshal of the Ostland Military** (Fandom Oleg) ; *"fearsome"* ; **devient heir apparent post-2514 IC** après la disgrâce de Vassily (mécanisme canon Castle Raukov / lâcheté Vassily). **Au moment du Turmoil 2512, Vassily est encore l'héritier en titre** — l'inversion d'héritage est post-Turmoil.
 
 #### Cour Raukov Wolfenburg
 - **Schönfeld fortress** : *"Northern March ruled by the grand prince's vassal who bears the title of Margrave of the North from the fortress at Schönfeld"* (Fandom Ostland) — base militaire Northern March.
@@ -185,7 +185,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabecland-Talabheim (fiche 05)** : la mort de Prince Héritier Hergard déclenche la guerre Ostland-Talabecland, qui à son tour fragilise les Tasseninck et permet l'élévation Raukov + la promotion Ostermark Grand Province.
 
@@ -227,7 +227,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 - **Ostermark promue Grand Province** : compensation Sigmarite (EiR ch.17 l.34 + Companion ch.6 l.162).
 
 ### Acteurs Main Pourpre impliqués
-- **Cellule Wolfenburg Main Pourpre** — identité non précisée canon.
+- **Cellule Wolfenburg Main Pourpre** — identité non précisée.
 - **Yann Zuntermein** (Altdorf cell, orchestrateur Empire-wide).
 - **Cellule Middenheim Main Pourpre** (Wasmeier-Hoflich, cf. fiches 02 + 05).
 - **Snikkit** (Skaven mercenaire).
@@ -274,7 +274,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance Ostland post-Turmoil
 - **Grand Prince** : **Valmir von Raukov** ; Margrave of the Northern March + Hammer of the East.
@@ -311,7 +311,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 - **House Hertwig Bechafen** : continuité lignée depuis 2000 IC (Mordheim).
 
 ### Statut des perdants
-- **Hans-Hals III von Tasseninck** : **dépouillé de l'office électoral** (canon Fandom *"stripped of the electoral office"*) ; **statut personnel post-Turmoil canon non précisé** (probablement déposé sans extinction biologique) — voir section 10.
+- **Hans-Hals III von Tasseninck** : **dépouillé de l'office électoral** (canon Fandom *"stripped of the electoral office"*) ; **statut personnel post-Turmoil non précisé** (probablement déposé sans extinction biologique) — voir section 10.
 - **House Tasseninck** dans son ensemble : **pas extinction biologique canon**, mais perte du pouvoir politique. *"Replaced upon their extinction"* (EiR Companion ch.6 l.162) — formule ambiguë suggérant que l'extinction (au moins politique) est l'issue.
 - **Trauma Königswald** définitivement classé : la dynastie Königswald est éteinte depuis 2505 IC, plus de réhabilitation possible.
 
@@ -351,7 +351,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 | Acteur | Pré-Turmoil | Post-Turmoil | Statut canon |
 |---|---|---|---|
-| **Hans-Hals III von Tasseninck** | Grand Prince Ostland depuis 2505 IC (62 ans, *"hotheaded"*) ; père de Hergard | **Stripped of the electoral office** (Fandom Valmir von Raukov) ; sort personnel canon non précisé | Variable (EiR ch.17 l.34 ; Companion ch.6 l.162) |
+| **Hans-Hals III von Tasseninck** | Grand Prince Ostland depuis 2505 IC (62 ans, *"hotheaded"*) ; père de Hergard | **Stripped of the electoral office** (Fandom Valmir von Raukov) ; sort personnel non précisé | Variable (EiR ch.17 l.34 ; Companion ch.6 l.162) |
 | **Prince Héritier Hergard von Tasseninck** | Fils Hans-Hals III ; expédition Grey Mountains | **Mort 2512 IC tué par Snikkit** sur tip Main Pourpre | Mort canon (EiR Intro l.272-279 ; Fandom Turmoil of 2512) |
 | **House von Tasseninck** | Dynastie Ostland 2505-2512 IC | **Dépouillée de l'office électoral** ; pas extinction biologique canon, mais perte de pouvoir politique | Déposée (Fandom + EiR Companion ch.6 l.162) |
 | **Borys von Tasseninck** (historique ~2000 IC) | Refus handguns ; proverbe critique | (historique mort) | Mort historique (Sea of Claws ch.7 l.17) |
@@ -399,7 +399,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 - **Cascade vers [[Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire)]]** :
   - **Dossier Chambre Noire expose la Main Pourpre** post-Turmoil ; **cellule Wolfenburg démasquée** parmi les 3 coordonnées contre Hergard.
   - **Plan Main Pourpre canon** : installer Wolfgang Holswig-Abenauer en marionnette (Fandom Turmoil of 2512) ; le Turmoil Ostland-Talabecland = étincelle initiale de cette opération.
-  - **Karl-Franz exécute l'imposteur Tzeentch Königswald avec Ghal Maraz 2502 IC** — précédent canon de l'utilisation de Ghal Maraz contre la corruption Tzeentch.
+  - **Karl-Franz exécute l'imposteur Tzeentch Königswald avec Ghal Maraz 2502 IC** — précédent de l'utilisation de Ghal Maraz contre la corruption Tzeentch.
 
 - **Cascade vers [[Turmoil/04 - Averland (Alptraum-Leitdorf)]]** :
   - **Imperial Ostlanders patrouillent Black Mountains** sous instruction Tasseninck (éviter Talabecland) ; **découvrent horde Vorgaz Ironjaw** (EiR Companion ch.4 l.55-57).
@@ -413,12 +413,12 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 - **Cascade vers [[Turmoil/03 - Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer)]]** :
   - **Mort d'Oswald von Königswald** *"at the hands of a Sudenland baron"* (EiR Intro l.270) — **identité du baron Sudenland anonyme** est une cascade ouverte vers le sud-Empire.
-  - **Pas de connexion militaire directe** entre Ostland et Sudenland canon.
+  - **Pas de connexion militaire directe** entre Ostland et Sudenland.
 
 - **Cascade vers [[Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur)]]** :
   - **Karl-Franz confirme Valmir von Raukov + Wolfram Hertwig** post-Turmoil.
   - **Cellule Altdorf Main Pourpre (Zuntermein)** = orchestrateur Empire-wide.
-  - **Karl-Franz exécute l'imposteur Königswald avec Ghal Maraz 2502 IC** — précédent canon.
+  - **Karl-Franz exécute l'imposteur Königswald avec Ghal Maraz 2502 IC** — précédent.
 
 - **Cascade vers [[Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains)]]** :
   - **Snikkit** (Skaven Under-Middenheim) : imbrication Skaven dans les manipulations Empire-wide.
@@ -464,14 +464,14 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 - **(canon + déduction)** **Sort personnel Hans-Hals III post-déposition** non précisé canon — Characters peuvent (a) le sauver, (b) le venger, (c) le faire exécuter.
 - **(canon + déduction)** **Identité agents cellule Wolfenburg Main Pourpre** — hook investigation PJ ; identité à inventer.
 - **(canon + déduction)** **Vassily von Raukov** : second fils Valmir, **statut non précisé canon** — hook future succession ou intrigue dynastique.
-- **(canon + déduction)** **Identité du baron Sudenland tueur d'Oswald** : canon dit *"rumours suggest"* — hook révélation historique éclatant.
+- **(canon + déduction)** **Identité du baron Sudenland tueur d'Oswald** : dit *"rumours suggest"* — hook révélation historique éclatant.
 - **(canon + déduction)** **Tasseninck survivants** : *"replaced upon their extinction"* (EiR Companion ch.6 l.162) — formulation ambiguë ; Characters peuvent rencontrer des Tassenincks survivants en exil.
 - **(canon + déduction)** **Imperial Ostlanders post-2512** : rôle dans la Third Battle of Black Fire Pass 2520 IC (Vorgaz Ironjaw vs Karl-Franz) — hook campagne longue.
 - **(canon + déduction)** **Lien Königswald-Tzeentch** : la dynastie est *"cursed to be afflicted with the spirits of the Undead"* (Fandom House von Königswald) — hook PJ recherche historique sur la malédiction.
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -546,7 +546,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 ### Sources web
 
-- [Hans-Hals III von Tasseninck — Fandom](https://warhammerfantasy.fandom.com/wiki/House_von_Tasseninck) — Hans-Hals III canon WFRP4, règne 2505-2512 IC
+- [Hans-Hals III von Tasseninck — Fandom](https://warhammerfantasy.fandom.com/wiki/House_von_Tasseninck) — Hans-Hals III WFRP4, règne 2505-2512 IC
 - [Valmir von Raukov — Fandom](https://warhammerfantasy.fandom.com/wiki/Valmir_von_Raukov) — Grand Prince Ostland post-Turmoil, Brain Wounder, famille Ivana/Oleg/Vassily
 - [Oleg von Raukov — Fandom](https://warhammerfantasy.fandom.com/wiki/Oleg_von_Raukov) — fils cadet, Grand Marshal, héritier apparent
 - [Wolfram Hertwig — Fandom](https://warhammerfantasy.fandom.com/wiki/Wolfram_Hertwig) — Chancellor + Elector Count Ostermark, Troll Cleaver, Bloodfeather
@@ -566,15 +566,15 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
 
 ### Identité du baron Sudenland tueur d'Oswald von Königswald
 
 - **EiR Intro l.270** : *"his death at the hands of a Sudenland baron was a mercy"* — **identité du baron Sudenland non précisée**.
 - **Fandom Oswald von Königswald** : reprend la formulation rumeur sans précision.
-- **Web cross-check** : aucune source canon ne nomme le baron.
+- **Web cross-check** : aucune source ne nomme le baron.
 - **Décision GM** : à inventer ; possibilité narrative riche (lien Sudenland fiche 03, baron lié à un Toppenheimer ?).
 
 ### Sort personnel de Hans-Hals III post-déposition
@@ -587,8 +587,8 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 - **EiR Companion ch.6 l.162** : *"replaced upon their extinction, as with the Tassenincks"* — formulation ambiguë.
 - **Fandom House von Tasseninck** : *"stripped of the electoral office"* (pas extinction biologique explicite).
-- **Tension canon interne** : EiR Companion suggère extinction, Fandom suggère seulement déposition politique.
-- **Décision GM** : possibilité de survivants Tasseninck en exil ; canon ambigu permet les deux lectures.
+- **Tension interne** : EiR Companion suggère extinction, Fandom suggère seulement déposition politique.
+- **Décision GM** : possibilité de survivants Tasseninck en exil ; ambigu permet les deux lectures.
 
 ### Identité de la cellule Wolfenburg Main Pourpre
 
@@ -607,7 +607,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 - **Sea of Claws ch.7 l.19-20** : *"the nobleman Oleg von Raukov has suggested that Ostland create its own Sea Lord, and even a Third Fleet"*.
 - **Fandom Oleg von Raukov** : ne mentionne pas la proposition Sea Lord.
 - **Possible variabilité canon** : la proposition existe dans Sea of Claws mais n'est pas reprise dans la biographie Fandom — possible non-canon ou détail oublié.
-- **Web ne tranche pas** : aucune autre source canon confirme ou dément.
+- **Web ne tranche pas** : aucune autre source confirme ou dément.
 - **Décision GM** : adopter la proposition Sea of Claws comme canon (source primaire WFRP4) ; possibilité que Fandom soit incomplet.
 
 ### Identité du Margrave of the North (Schönfeld)
@@ -624,7 +624,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 ### Hans-Hals III (Fandom WFRP4) supersède Hans-Hals I (Lexicanum DE WFRP2) — RÉSOLU par règle WFRP4
 
-- **Fandom House von Tasseninck + Turmoil of 2512** : canon WFRP4 = **Hans-Hals III** (règne 2505-2512 IC).
+- **Fandom House von Tasseninck + Turmoil of 2512** : WFRP4 = **Hans-Hals III** (règne 2505-2512 IC).
 - **Lexicanum DE Hans-Hals I von Tassenick** : compilation WFRP2 = "Hans-Hals I".
 - **Règle d'arbitrage projet** : WFRP4 supersède WFRP2.
 - **Adopté fiche** : **Hans-Hals III von Tasseninck**. Cohérent avec fiche 05 (correction v3 post-audit).
@@ -632,7 +632,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 ### Hochland Aldebrand Ludenhof (WFRP4) supersède Hildegarde Tussen-Hochen (WFRP2) — RÉSOLU par retcon
 
 - **Lexicanum Elector Count of Hochland** : *"Baroness Hildegarde Tussen-Hochen was elector of Hochland prior to 4th edition, when the elector of Hochland was retconned to Count Aldebrand Ludenhof"*.
-- **Archives Vol I l.355-356 (canon WFRP4)** : mentionne Hildegarde TussenHochen comme dirigeant pré-Turmoil — **inconsistance interne WFRP4** (Archives mentionne Hildegarde, EiR Intro + Fandom utilisent Ludenhof).
+- **Archives Vol I l.355-356 (WFRP4)** : mentionne Hildegarde TussenHochen comme dirigeant pré-Turmoil — **inconsistance interne WFRP4** (Archives mentionne Hildegarde, EiR Intro + Fandom utilisent Ludenhof).
 - **Interprétation cohérente** : Archives Vol I (publié tôt dans la timeline WFRP4) garde Hildegarde par inertie éditoriale ; EiR (publié plus tard) retcon vers Ludenhof.
 - **Adopté fiche** : Ludenhof post-Turmoil ; cascade fiche 07 à clarifier pour le statut pré-Turmoil.
 

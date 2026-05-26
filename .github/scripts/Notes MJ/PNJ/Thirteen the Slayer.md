@@ -9,12 +9,12 @@
 - **Statut** : [VIVANT — ALLIÉ Wolfshügel]
 - **Tags** : `#Thirteen` `#Slayer` `#Dwarf` `#TrollSlayer` `#Wolfshügel` `#Gideon` `#Envoyé` `#Arc7` `#Ch12` `#NumberThirteen` `#BadLuck`
 
-## Source canon
+## Source
 - **EiR ch.12 l.414-438** *A Dwarf Named Thirteen* + statbloc.
 - **EiR ch.12 l.417** Origine de l'envoi : *« He met a young human called Gideon who told him that there was a chaos war party coming to kill everyone. 'Sounded like my kind of thing, so he pointed me this way' »*.
 - **EiR ch.12 l.419** : *« This was Gideon who, having learnt of the horde, sent Thirteen to help. The Characters may realise this and not trust Thirteen, but he is difficult to get rid of. Gideon did not account for the horde. He knows the Characters are tenacious, but is totally unaware why they have gone to Wolfshügel »*.
 
-## Statbloc canon (EiR ch.12 l.424)
+## Statbloc (EiR ch.12 l.424)
 
 **THIRTEEN DWARF TROLL SLAYER (BRASS 2)**
 
@@ -49,7 +49,7 @@
 
 ## Hooks Arc 7
 - **Ch.12 Wolfshügel battle** : allié massif Slayer + Magic Resistance + Frenzy.
-- **Détection Gideon link** : Thirteen témoigne *« young human »* description = boy ~13 ans coupe bol large sourire = Gideon canon signature.
+- **Détection Gideon link** : Thirteen témoigne *« young human »* description = boy ~13 ans coupe bol large sourire = Gideon signature.
 
 ## Fils ouverts
 - **FIL Thirteen envoyé Gideon** — détectable détection sa description Gideon.

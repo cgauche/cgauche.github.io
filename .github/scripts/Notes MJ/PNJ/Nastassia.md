@@ -12,11 +12,11 @@
 - **Statut** : [VIVANT — AGENTE COUVERTE]
 - **Tags** : `#Nastassia` `#HeinrichTodbringer` `#Spy` `#Middenheim` `#Arc5` `#MécèneAnonyme` `#TemplarArms` `#Spionage`
 
-## Source canon
+## Source
 - **PBT ch.6 *Nastassia, the Spy*** (canon p.99-100) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT Companion ch.8 *Some very important people - Heinrich Todbringer agents*** : `Source/Power Behind the Throne Companion/08 - Some very important people.md`
 
-## Statbloc canon (PBT p.99)
+## Statbloc (PBT p.99)
 
 **Nastassia, Agent (Gold 1)**
 
@@ -61,12 +61,12 @@ Verdigris amulet bénie par une Shallyan High Priestess. **Immunity to Poison Tr
 ## MJ-only
 
 - **Loyauté absolue à Heinrich** : recrutée pré-Arc 5 par Heinrich, opère sans surveillance directe (Heinrich est à Wolfenburg).
-- **Ring of Spies de Heinrich** : canon p.32 — Heinrich a son propre réseau d'espions à Middenheim. **Nastassia en est le pivot opérationnel**.
+- **Ring of Spies de Heinrich** : p.32 — Heinrich a son propre réseau d'espions à Middenheim. **Nastassia en est le pivot opérationnel**.
 - **Suspicions Arc 5** : Nastassia **flaire la conspiration** (les taxes + Wasmeier + Brunhilde) mais **n'a pas l'identité du cerveau**. Elle **utilise les PJ comme pions** pour démêler l'affaire à sa place (canon : « *investigates indirectly — using the Characters as pawns, if possible — reporting any concrete information to Baron Heinrich* »).
 - **Ne sait pas Wasmeier = Magister Magistri** Arc 5. Apprend post-S38.
 - **Ne sait pas le Hoflich-Changeling** Arc 5.
 - **Doomed** « *lurid claw* » : peut-être une **attaque skaven** ou **mutant** sur sa maison Arc 6/7. Hook.
-- **Distincte de Nastassia von Saponatheim** : la jeune noble Arc 2 enfuie S13 avec son amoureux roturier (Cousin Grauenberg). **Aucun lien** entre les deux à table — homonymie canon.
+- **Distincte de Nastassia von Saponatheim** : la jeune noble Arc 2 enfuie S13 avec son amoureux roturier (Cousin Grauenberg). **Aucun lien** entre les deux à table — homonymie.
 - **Si l'identité réelle est révélée par accident** Arc 5 (par exemple un PJ qui la suit habilement) : elle **n'avouera pas** son employeur immédiatement. Hook : enquête contre-espionnage.
 
 ## Hooks de retour

@@ -7,11 +7,11 @@
 - **Statut** : [VIVANT] [ALLIÉ — Rhya / Elvira]
 - **Tags** : `#Corrobreth` `#Rhya` `#Druide` `#Unterbaum` `#BarrenHills` `#OldFaith` `#PrêtreRural` `#Allié` `#Skysoarer` `#AlliéElvira`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* (apparition Unterbaum + Barren Hills + statbloc + Skysoarer) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md` lignes 59-105, 258-289
 - *Death on the Reik* ch.5 *Unterbaum to Wittgendorf* (départ d'Unterbaum, escorte retour) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/08 - Chapter 5 Unterbaum to Wittgendorf.md`
 
-## Description canon
+## Description
 
 > "Corrobreth's face bears **deep score-marks down each side of his cheeks**, which are very evident when he smiles. **He does not indulge in casual conversation, but when he does speak it is to offer advice or provide important information.** Like all followers of Rhya, he avoids taking life unless it is necessary for sustenance or defence. Consequently, he **prefers to avoid conflict, relying on stealth or compromise to avoid danger**." (DotR ch.4 l.259)
 
@@ -19,7 +19,7 @@
 
 > Le village : "Unterbaum is an idyllic, rural village, protected by druidic priests from the dangers of the Empire's forests. Villagers have little interest in events in the outside world... **They are a trusting, peaceful folk, devout followers of Rhya, with a strong sense of hospitality**" (l.86). **83 villageois** au total (33 hommes, 35 femmes, 15 enfants), tous bruns aux yeux verts, vêtus de vert et brun.
 
-## Statbloc canon — **Corrobreth the Priest – Human Priest (Silver 1)**
+## Statbloc — **Corrobreth the Priest – Human Priest (Silver 1)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 
 > **Note tactique** : prêtre **Silver 1** — pouvoir modeste mais réel. **Pas un combattant**. Heal 50 + miracles Rhya = **soutien médical / spirituel précieux** pour les PJ. **Resistance (Poison)** = utile en zone Barren Hills (toxiques). Si combat direct nécessaire, il **fuira plutôt que de tuer** (doctrine Rhya).
 
-## Skysoarer le corbeau (compagnon canon)
+## Skysoarer le corbeau (compagnon)
 
 Entraîné par Corrobreth comme **éclaireur**. Voler dans une direction indiquée, plonger pour marquer la position de toute créature plus grosse que lui.
 
@@ -69,7 +69,7 @@ Entraîné par Corrobreth comme **éclaireur**. Voler dans une direction indiqu�
 - **Si Elvira y revient seule ou avec une enfant à placer** (orpheline, victime de cult, etc.) : Unterbaum **accueillera** — la doctrine Rhya impose l'accueil des innocents. Hook structurel Elvira / Arc 5+.
 - **Pas de statbloc spécial pour les miracles** : à improviser selon WFRP 4e core. **Rhya's Touch** = bénédiction de fertilité / guérison ; **Rhya's Children** = communion avec animaux/nature ; **Rhya's Harvest** = bénédiction de récolte / contre-mildiou. **Le miracle qui aurait combattu le mildiou S26** = vraisemblablement **Rhya's Harvest**, co-canalisé par Elvira lors du concert. À étoffer.
 - **Vulnérabilité d'Unterbaum** : village **autarcique, naïf**. Une cellule chaotique (Red Crown, Beastmen, Pestilens) qui y arriverait avec ruse pourrait le corrompre vite. Corrobreth = **première ligne de défense spirituelle** mais **n'est pas équipé** pour une attaque organisée. Hook latent — si la campagne y repasse Arc 5+, le village peut avoir été frappé.
-- **Pas de Doomed canon publié** dans DotR (le statbloc Silver 1 ne précise pas de Doomed — peut être improvisé MJ ; suggestion : *Thy Voice Shall Fail When Most Needed* — il mourra silencieux, fidèle à son code de discrétion).
+- **Pas de Doomed publié** dans DotR (le statbloc Silver 1 ne précise pas de Doomed — peut être improvisé MJ ; suggestion : *Thy Voice Shall Fail When Most Needed* — il mourra silencieux, fidèle à son code de discrétion).
 - **Score-marks sur les joues canon** : marques rituelles probablement druidiques (initiation Old Faith) ou cicatrices d'un combat ancien contre une bête mutante. À improviser au besoin.
 
 ## Hooks de retour

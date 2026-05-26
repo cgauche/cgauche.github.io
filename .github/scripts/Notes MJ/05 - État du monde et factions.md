@@ -8,7 +8,7 @@
 
 ### Le Reikland (Altdorf)
 - Capitale. Empereur **Karl-Franz** officiellement régnant, mais **un imposteur (Hermann von Feilbach, Reiksguard Cercle Intérieur) tient son rôle depuis ~un an** ; le vrai est alité, empoisonné par **Henrik Kappelmuller** (médecin = agent Main Pourpre) avec une **Purple Brain Pox** magiquement induite par Gideon.
-- **Maria-Luise von Walfen** : concubine du vrai empereur, mère de ses enfants. Sait. Confirmé canon.
+- **Maria-Luise von Walfen** : concubine du vrai empereur, mère de ses enfants. Sait. Confirmé.
 - **Immanuel-Ferrand Holswig-Schliestein** : oncle de Karl-Franz, Chancellor + Imperial Spymaster (Chambre Noire). Manipulé par **Zuntermein** (Main Pourpre Altdorf) sans le savoir. A poussé pour la prise d'Ubersreik.
 - **Liepmund Holzkrug** : Grand Ambassadeur, autre Chambre Noire spymaster. Ambition impériale (famille ex-Empereur). Manipulé par Zuntermein utilement. Antagoniste politique mais pas cultiste.
 - **Prince héritier Wolfgang Holswig-Aberhauer** : cloitré à Reikgarde, fiancé forcé à Katarina. "Trop parfait". Tuteurs = **les 9 Yeux** (Gideon les a recrutés via Kastor il y a 9 ans). **EST l'hôte préparé pour Sheerargetru**.
@@ -182,7 +182,7 @@
 
 ---
 
-## Calendrier / temps (canon CTL7)
+## Calendrier / temps (CTL7)
 
 | Aventure | Date début | Durée |
 |---|---|---|
@@ -196,7 +196,7 @@
 - Le groupe doit arriver à Altdorf **1-2 jours avant** (selon Gideon).
 - Au sortir de S62, on est probablement vers fin Nachgeheim / début Brauzeit.
 
-## Le Turmoil (cadre canonique)
+## Le Turmoil (cadre)
 
 Voici la table de transition des électeurs durant le Turmoil :
 

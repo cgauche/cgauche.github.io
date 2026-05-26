@@ -12,12 +12,12 @@
 - **Statut** : [VIVANT — CHANTÉ Arc 5 → LIBÉRÉ S38 → RETIRÉ post-PBT]
 - **Tags** : `#ReinerEhrlich` `#LawLord` `#Middenheim` `#Arc5` `#Chanté` `#Rhéa` `#Skavens` `#Animaux` `#Retiré`
 
-## Source canon
+## Source
 - **PBT Appendix I p.121** (NPC sheet Law Lords) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.3 *Evil Plot - Law Lords*** (canon p.40) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/06 - Chapter 3 The Evil Plot.md`
 - **PBT ch.7 *The Game Is Afoot* + *Consequences*** (canon p.100, p.105).
 
-## Statbloc canon (PBT p.121)
+## Statbloc (PBT p.121)
 
 **Reiner Ehrlich — Barrister (Gold 1)**
 
@@ -33,7 +33,7 @@
 
 **Doomed**: *No peace of mind, just a mind in pieces.* (= sa dépression sévère + la pression du chantage le détruisent mentalement.)
 
-## Deadly Secret : Reya kidnappée (canon p.123)
+## Deadly Secret : Reya kidnappée (p.123)
 
 - Il y a **~2 mois** avant Arc 5, **Hoflich-Doppelgänger menace Ehrlich** : « *soutenez les taxes proposées si vous voulez revoir votre nièce* ».
 - Ehrlich **complète** (vote pour) — taxe passe.
@@ -49,7 +49,7 @@
 
 ## Apparitions par session (post-Arc 5)
 
-- **[S39]** — Vouche pour les PJ post-PBT canon.
+- **[S39]** — Vouche pour les PJ post-PBT.
 - **[S40+]** — **Retire de la fonction** (canon ch.7 *Consequences* p.105 : « *Reiner Ehrlich also retires* »). Vit retiré avec Rhéa et ses animaux. Possible source de **témoignage sur la cellule MP** si Schutzmann l'interroge Arc 6.
 
 ## Ce que les PJ savent

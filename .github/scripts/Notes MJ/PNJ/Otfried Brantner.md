@@ -10,10 +10,10 @@
 - **Statut** : [MORT S54]
 - **Tags** : `#Brantner` `#OtfriedBrantner` `#Sergent` `#Piquet` `#YellowFang` `#CrocJaune` `#TraficPoudre` `#MortS54` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4502+l.4507.
 
-## Statbloc canon (HR l.4507)
+## Statbloc (HR l.4507)
 
 **Sergeant Otfried Brantner — Sergeant/cultist (Silver 5)**
 

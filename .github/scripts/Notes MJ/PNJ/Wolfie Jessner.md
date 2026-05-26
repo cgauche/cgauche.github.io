@@ -10,12 +10,12 @@
 - **Statut** : [VIVANT — ENNEMI HÉSITANT ?]
 - **Tags** : `#WolfieJessner` `#NineEyes` `#WanderingEye` `#Middenheim` `#RuralAffairs` `#North` `#Tzeentch` `#Wolfgang` `#Doubts` `#Arc7` `#Ch4` `#Ch13`
 
-## Source canon
+## Source
 - **EiR Intro l.131-140** liste 9 Yeux.
 - **EiR ch.4 l.282-286** room Reikguard : *« Wolfie Jessner left for Middenheim a month ago. His room is mostly bare, but dozens of wax seals have been peeled away from whatever correspondence they were once attached to and piled in one corner. With a Hard (-20) Perception Test, a Character notice leaves of paper behind a bookshelf. These are a private diary, where Wolfie expresses concerns that some of his fellow tutors are worshippers of dark powers »*.
 - **EiR ch.13** climax — peut être présent Volkshalle ou pas (Middenheim).
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 Standard Member of the Neuf Yeux (Gold 1) :
 
@@ -26,7 +26,7 @@ Standard Member of the Neuf Yeux (Gold 1) :
 - **Skills** : standard + **Lore (Middenheim 90, Nordland 90, Rural Empire 90, Tzeentch 90)**, **Language (Reikspiel 85, Wastelander 80)**.
 - **Talents** : standard 9 Yeux + **Savant (Empire North) 3**.
 
-## MJ-only canon clé (Hard -20 Perception)
+## MJ-only clé (Hard -20 Perception)
 
 > Diary canon : *« concerns that some of his fellow tutors are worshippers of dark powers »*.
 

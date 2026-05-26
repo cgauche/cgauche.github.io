@@ -27,7 +27,7 @@ peut-être seulement dépassé par Reiksmarshall Kurt Helborg
 
 ## Rôle dans l'Arc 7
 
-Aucune apparition scriptée dans les chapitres canon d'EiR (chs.2-13).
+Aucune apparition scriptée dans les chapitres d'EiR (chs.2-13).
 Schwartzhelm est typiquement en mission hors Altdorf pour faire
 respecter la loi impériale — fonction documentée dans le supplément
 Altdorf, antérieure à la Turmoil `Altdorf ch.2 l.37`. À noter : la

@@ -8,8 +8,8 @@
 - **Économie** : commerce de luxe, **métallurgie naine** (poterie + maçonnerie de roche grise du Fauschlag), brasseries (Festival of Fine Ales), mercenariat (Chevaliers du Loup Blanc), trade Middle Mountains. Hub commercial nord-impérial.
 - **Tags** : `#Middenheim` `#Middenland` `#BorisTodbringer` `#Ulric` `#LoupBlanc` `#WhiteWolf` `#Fauschlag` `#Carnaval` `#PowerBehindTheThrone` `#Arc5` `#Arc6` `#Arc7`
 
-## Source canon
-- **Source canon principale** : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md` (la cité + districts + Graf + government + religion + tensions)
+## Source
+- **Source principale** : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md` (la cité + districts + Graf + government + religion + tensions)
 - *Middenheim — City of the Loup Blanc* (supplément dédié) : PDF à `Source/` (à convertir si nécessaire pour les détails étendus de la cité — référencé canon PBT comme livre compagnon).
 - `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md` (Cult d'Ulric détaillé)
 - `Source/Power Behind the Throne Companion/08 - Some very important people.md` (Nastassia + agents Heinrich)
@@ -22,7 +22,7 @@
 **Le rocher monolithique** sur lequel la cité est construite. Hauteur estimée ~500 ft (167 yd) (canon ch.7 *Wasmeier at Bay* p.105 : « *a fatal 500-ft drop to the base of the Fauschlag rock* »).
 
 Accès :
-- **Viaduc Sud** : porte principale. Long, étroit, surplombé. **Effondré S39** par Wasmeier (sort canon ch.7). Reconstruction de plusieurs mois.
+- **Viaduc Sud** : porte principale. Long, étroit, surplombé. **Effondré S39** par Wasmeier (sort ch.7). Reconstruction de plusieurs mois.
 - **Viaduc Est** : 2e accès principal. Le **viaduc le plus fréquenté** pour les commerciaux venant du Reikland/Altdorf via les routes du nord.
 - **Viaduc Nord** : accès vers la Drakwald nord et Nordland.
 - **Téléphérique Ouest** : système de cabines + chaînes, utilisé pour le ravitaillement et l'accès civil. Plus lent mais plus sûr en cas d'attaque.
@@ -48,9 +48,9 @@ Accès :
 ### Sous-terrain : l'Undercity
 **Le rocher du Fauschlag est miné** par les Dwarfs depuis ses débuts. **L'Undercity** = un réseau de tunnels, mines, anciens passages.
 - **Première ligne de défense Dwarven** contre les menaces du dessous.
-- **Skavens y vivent depuis longtemps** (canon ch.4 *The Skaven* p.45 + ch.6 *Chaos Strikes by Night* p.89). Le canon refuse leur existence officielle, mais les sewer jacks (police égouts) les rencontrent régulièrement.
+- **Skavens y vivent depuis longtemps** (canon ch.4 *The Skaven* p.45 + ch.6 *Chaos Strikes by Night* p.89). Le refuse leur existence officielle, mais les sewer jacks (police égouts) les rencontrent régulièrement.
 - **Lien Arc 6** : centre de la résurgence skaven (Maliss, S40-S55).
-- **Cult Yellow Fang** (= **Croc Jaune**, canon ch.4 p.46) infiltré dans la Rat Catchers' Guild + Sewer Jacks + Collegium Theologica. Cult Skaven en surface.
+- **Cult Yellow Fang** (= **Croc Jaune**, ch.4 p.46) infiltré dans la Rat Catchers' Guild + Sewer Jacks + Collegium Theologica. Cult Skaven en surface.
 
 ### Lieux notables précis (Arc 5)
 - **Middenpalaz** — Palais ducal. Quartier Palast. Inner Palace (résidence Graf + Ladies-at-Court + Hoflich) + Outer Palace (résidence Rallane + autres dignitaires).
@@ -67,7 +67,7 @@ Accès :
 - **Collegium Theologica** — Freiburg. Université. **Recrutement Yellow Fang skaven** infiltré.
 - **La Fosse (The Pit)** — Taverne miteuse de l'Altquartier (canon ch.6 p.92). **Fritz Dreckig** proprio. **Bruno Kohl** fournisseur Délice de Ranald. **Vieillard Josef** informant.
 - **Showboat** — Restaurant/cabaret Great Park (canon ch.6 *De-Hypnotising Dieter*). **Lieu où Brunhilde a hypnotisé Dieter** 2 mois avant le Carnaval (« Charlotte »).
-- **Demeure Wasmeier** — Grafsmund-Nordgarten (canon ch.7 p.102). **Battle-wagon canon dans l'écurie**. Strong Room avec documents MP. **Climax S39**.
+- **Demeure Wasmeier** — Grafsmund-Nordgarten (canon ch.7 p.102). **Battle-wagon dans l'écurie**. Strong Room avec documents MP. **Climax S39**.
 - **Demeure Wallenstein** — Geldmund (canon p.36). Quartier commercial. Wallenstein s'y trouve rarement (« virtually never at home »). **Servant Adolphus** ouvre la porte avec chaîne.
 - **Planque Brunhilde Klaglich** — Ostwald (canon ch.7 p.99). Sous-sol d'une maison en ruine. **Aviary de pigeons messagers vers Wasmeier**. Strong Room. **Climax S37-S38**.
 - **Croix de Lilas (homebrew)** — Bas-quartiers, lieu secret. **Filianore + Pathsokar y vivent S33+**. Pas encore localisé précisément S39.
@@ -84,7 +84,7 @@ Accès :
 ### Le gouvernement (Powers That Be)
 *(canon ch.2 p.31)*
 - **3 Midden Marshals** : **[[Ulrich Schutzmann]]** (Watch Commander, sécurité intérieure, Sigmarite — allié majeur post-PBT), **Johann Schwermutt** (Garrison Commander, défenses + walls), **Maximillian von Genscher** (Field Army Commander, expéditions militaires).
-- **3 Law Lords** : **[[Reiner Ehrlich]]** (retiré post-S39), **[[Joachim Hoflich]]** (mort + Doppelgänger = Gideon table — fui S38), **[[Karl-Heinz Wasmeier]]** (Magister Magistri MP, mort apparente S39). Remplacés canon post-PBT par **Eberhardt Richter, Erich Kalzbad (!), Hannes Brucker** — Kalzbad est en réalité Magister Impedimentae MP, **mort S41 Arc 6**.
+- **3 Law Lords** : **[[Reiner Ehrlich]]** (retiré post-S39), **[[Joachim Hoflich]]** (mort + Doppelgänger = Gideon table — fui S38), **[[Karl-Heinz Wasmeier]]** (Magister Magistri MP, mort apparente S39). Remplacés post-PBT par **Eberhardt Richter, Erich Kalzbad (!), Hannes Brucker** — Kalzbad est en réalité Magister Impedimentae MP, **mort S41 Arc 6**.
 - **Chancellor** : **[[Josef Sparsam]]** (finances + taxes). Reste après réprimande + traitement addiction.
 - **High Wizard** : **Albrecht Helseher**, head de la Grand Guild of Wizards. **Janna Eberhauer** = Deputy. Influents auprès du Graf sur les questions magiques.
 - **Kommissions** (organes administratifs) :
@@ -177,7 +177,7 @@ Major events Arc 5 :
 | S35 | Square (**Pathsokar champion**) + Bernabau + Royal Gardens + **Temple d'Ulric (Mark convoqué)** | Carnaval J4 Backertag (Dietrich rejoint) |
 | S36 | Square + Bernabau + Royal College + **Altquartier (planque enfants)** + **Temple d'Ulric (Mark Flamme)** + Temple Shallya | Carnaval J5 Bezahltag |
 | S37 | Middenpalaz (Pathsokar) + diligence (chasse Emmanuelle) + Altquartier (**raid planque Wallenstein**) | Carnaval J6 Konigstag |
-| S38 | Royal College → Altquartier (échange Brunhilde) → Ehrlich → **Middenpalaz climax** | Carnaval J7 Angestag — climax canon ch.7 |
+| S38 | Royal College → Altquartier (échange Brunhilde) → Ehrlich → **Middenpalaz climax** | Carnaval J7 Angestag — climax ch.7 |
 | S39 | Demeure Wasmeier (Grafsmund) → Porte Sud → **Pont Fauschlag effondré** | Carnaval J8 Festag — climax final |
 
 ## Fils ouverts liés à Middenheim

@@ -216,7 +216,7 @@ Structure type (voir `Notes MJ/PNJ/Yann Zuntermein.md`) :
 Paragraphe physique + indices sociaux + comportement. Sourcer la
 description physique.
 
-## Phrases canon
+## Phrases
 
 - *« Citation littérale du livre »* — contexte + ref `BOOK ch.N l.NNN`.
 - *(2-4 phrases dans des registres différents si possible)*
@@ -254,7 +254,7 @@ Chaque lien sourcé.
 - **Confrontation** `BOOK ref` : modes de résolution.
 - **Variantes** : situations alternatives sourcées.
 
-## Apparitions canon Arc N
+## Apparitions Arc N
 
 - SXX — Action ; éventuelle citation. `BOOK ref`.
 
@@ -463,7 +463,7 @@ Une fiche stub créée à la volée doit respecter **au minimum** :
 
 ## <2-3 sections additionnelles selon type>
 
-[Au moins 5-10 bullets sourcés canon.]
+[Au moins 5-10 bullets sourcés.]
 
 ## Liens externes
 
@@ -513,7 +513,7 @@ grep -oE 'class="entity-pop"[^>]*data-title="[^"]+"' "_site/pnj/<fiche>.html" | 
 grep -E 'class="canon-ref"[^>]*>(?!<sup>)' "_site/pnj/<fiche>.html"
 ```
 
-## Quand le contenu canon est cassé
+## Quand le contenu des sources est cassé
 
 Le `.md` issu de la conversion PDF peut être désordonné (paragraphes orphelins) ou contenir des tables écrabouillées en `<br>`. Le script `_convert_pdfs.py` fait une passe `_splice_clean_tables` pour reconstituer les tables, mais ne réorganise pas les paragraphes.
 

@@ -7,7 +7,7 @@
 - **Statut** : [VIVANTE, ennemie latente, post-S21] — n'a pas été affrontée frontalement, mais ses agissements ont été dévoilés en partie par les PJ. Capable de représailles civiles ou criminelles.
 - **Tags** : `#Hochs` `#FourSeasons` `#QuatreSaisons` `#CannonBallExpress` `#Ubersreik` `#EnnemiLatent` `#Wagenkneicht` `#FIL-42`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — The Guilty Party* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` (chapitre p.107+). Elle est commanditaire des manœuvres contre **Cannon Ball Express** via **[[Andreas Wagenkneicht]]** utilisé comme **agent double sous chantage**.
 - *A Guide to Ubersreik* (Starter Set) : `Source/Starter Set/A Guide to Ubersreik/` (compagnie Four Seasons).
 

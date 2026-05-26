@@ -27,8 +27,8 @@
 - **Lieutenants individuels non précisés canon** — voir section 10.
 
 #### Autres soutiens Alptraum
-- **Streisseners loyalistes à Ludmilla** post-coup : *"supporters of Ludmilla arrested, disappeared in Deep Haus gaol, secretly executed"* (EiR ch.15 l.91). Identités non précisées canon.
-- **Famille élargie Alptraum** : canon ne nomme que Ludmilla III et Marlene.
+- **Streisseners loyalistes à Ludmilla** post-coup : *"supporters of Ludmilla arrested, disappeared in Deep Haus gaol, secretly executed"* (EiR ch.15 l.91). Identités non précisées.
+- **Famille élargie Alptraum** : ne nomme que Ludmilla III et Marlene.
 
 ### Acteurs principaux pré-Turmoil — camp Leitdorf (vainqueurs)
 
@@ -135,7 +135,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par Marius Leitdorf et amplifiées par la cellule Averheim Main Pourpre. Averland est canon **la première province à tomber en anarchie** dans le Turmoil 2512 (Fandom Turmoil of 2512).
 
@@ -216,7 +216,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
 - **Grand County of Averland** — entité **inchangée territorialement** (vs Sudenland qui est absorbée fiche 03).
@@ -336,7 +336,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 ### Hooks canon (explicites)
 
 - **(canon)** **Camp Leitdorf à demi-journée de Streissen** (EiR ch.9 l.334) — Characters rencontrent Marius + Daisy ; meal dans enormous tent ; Marius probes la mission, mock features, *"And I'm the one they call mad"* si Ghal Maraz révélé. *Position : actif ch.9.*
-- **(canon)** **Mediation Streissen** (EiR ch.9 l.424-435) — Characters organisent médiation Marius/Marcus/Marlene avec High Priest Sigmar Streissen pour légitimité. **Choix narrativement important** : faveur Leitdorf = canon post-Turmoil mais Alptraum gratitude ; faveur Marlene = pacifie Averland mais Leitdorf swears vengeance ; balanced = aucun side content.
+- **(canon)** **Mediation Streissen** (EiR ch.9 l.424-435) — Characters organisent médiation Marius/Marcus/Marlene avec High Priest Sigmar Streissen pour légitimité. **Choix narrativement important** : faveur Leitdorf = post-Turmoil mais Alptraum gratitude ; faveur Marlene = pacifie Averland mais Leitdorf swears vengeance ; balanced = aucun side content.
 - **(canon)** **Battle of Streissen** (EiR ch.9 l.437-440) — Characters intervienent ou non ; outcomes varient selon intelligence/expertise.
 - **(canon)** **Capture Brecht (Threshers)** *via* Heideinheim raid (cascade fiche 03 ch.9) — pas direct Averland mais proche géographiquement.
 - **(canon)** **Streissen post-coup ch.15** : Alptraum's Winter Residence + *"older servant imperial agent warns Characters: 'You must go! Quickly! Leitdorf will have you all imprisoned or killed and will take the hammer'"* (EiR ch.15 l.155 paraphrase).
@@ -361,7 +361,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 > **Note méta — pagination EiR ch.12/ch.15** : selon les versions du PDF EiR Volume 5, le chapitre couvrant Streissen post-coup est numéroté ch.12 (*"Black Fire Pass to Altdorf"*) ou ch.15 selon la pagination interne. Les deux conventions sont utilisées dans la conversion .md de Source/. Pour cette fiche, **ch.12 = chapitre principal du retour Altdorf** (incluant section Streissen post-coup) ; les lignes `EiR ch.15 l.X` réfèrent à la même section que `EiR ch.12 l.X` selon la pagination employée — les deux pointent vers le même passage canonique.
 
@@ -469,23 +469,23 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas résolu par règle WFRP4 supersède WFRP2/3.*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas résolu par règle WFRP4 supersède WFRP2/3.*
 
 ### Statbloc Marlene Alptraum = copy-paste de Marius (erreur typo C7)
 
 - **EiR ch.9 l.389-402** : statbloc Marlene **strictement identique** à celui de Marius (l.381-387) — mêmes caractéristiques M/WS/BS/S/T/I/Ag/Dex/Int/WP/Fel/W, mêmes skills, mêmes talents, même Doomed.
 - **Web cross-check** : **Fandom/Lexicanum ne fournissent aucun statbloc alternatif pour Marlene**.
-- **Poids relatif** : ambiguïté canon non résoluble par web.
+- **Poids relatif** : ambiguïté non résoluble par web.
 - **Interprétation** : probable erreur de copy-paste éditorial Cubicle 7 dans EiR ch.9. Marlene est censée être *"wiry, domineering presence"* (l.390) et tactiquement inférieure à Marius (*"belligerent commander always ready to charge in before thinking"*), donc des stats inférieures ou différentes seraient attendues.
-- **Décision GM** : (a) **utiliser le statbloc tel quel** (canon official EiR) ; ou (b) **moduler** : Marlene = mêmes stats brutes, mais GM réduit Cool/Intuition/Lore et augmente Frenzy/Intimidate pour refléter sa personnalité ; ou (c) **inventer un statbloc adapté** (hors canon strict).
+- **Décision GM** : (a) **utiliser le statbloc tel quel** (canon official EiR) ; ou (b) **moduler** : Marlene = mêmes stats brutes, mais GM réduit Cool/Intuition/Lore et augmente Frenzy/Intimidate pour refléter sa personnalité ; ou (c) **inventer un statbloc adapté** (hors strict).
 
 ### Sort personnel de Ludmilla III post-déposition
 
 - **EiR Companion ch.6 l.162** : *"deposed"* — mais ne précise pas si exil, emprisonnement, mort de cause naturelle, ou simple perte de titre.
 - **Fandom Ludmilla III** : *"declining health"* déjà 2512 IC.
-- **Web cross-check** : aucune source canon valide ne précise.
+- **Web cross-check** : aucune source valide ne précise.
 - **Décision GM** : très probablement **décédée peu après 2512 IC** par déclin de santé (cohérent avec EiR ch.9 l.400). À inventer le moment selon tempo de la table.
 
 ### Sort personnel de Marlene post-fuite Streissen
@@ -549,8 +549,8 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 ### Mort de Marius Leitdorf — RÉSOLUE (canon stable cross-édition)
 
 - **Fandom Third Battle of Black Fire** : Marius tué en **2520 IC** par **Vorgaz Ironjaw** (Orc warlord) ; Karl-Franz tue Vorgaz en duel.
-- **Aucun conflit WFRP4/WFRP2** sur ce point — canon stable.
-- **Note** : la rumeur "Marius tué par Skarbrand" parfois citée dans fluff fan est **non canon tabletop**.
+- **Aucun conflit WFRP4/WFRP2** sur ce point — stable.
+- **Note** : la rumeur "Marius tué par Skarbrand" parfois citée dans fluff fan est **non attesté tabletop**.
 - **Adopté fiche** : mort 2520 IC Vorgaz Ironjaw (mention section 5 et chronologie section 4 comme contexte futur).
 
 ### Orthographe canon "Daisy Kurt von Helboring II" — RÉSOLUE
@@ -564,7 +564,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 - **Fandom Neuf Yeux** : *"Gislind Ursin teaches Blank Eye (Averheim Culture and Philosophy)"*.
 - **Hypothèse Phase 1 fiche 04** : *"Hollow Eye"* — orthographe erronée (probable artefact OCR ou confusion lecture).
 - **Adopté fiche** : **Blank Eye** (canon Fandom).
-- **Note** : Blank Eye = structure Neuf Yeux patronnée par Gideon (Tzeentch via possession Wolfgang), **distincte** de la Main Pourpre qui opère aussi à Averheim. Les deux structures coexistent sans lien hiérarchique direct documenté canon.
+- **Note** : Blank Eye = structure Neuf Yeux patronnée par Gideon (Tzeentch via possession Wolfgang), **distincte** de la Main Pourpre qui opère aussi à Averheim. Les deux structures coexistent sans lien hiérarchique direct documenté.
 
 ### Date Streissen freistadt charter (2456 IC EiR-exclusif vs Fandom "last century")
 
@@ -584,4 +584,4 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 
 - **Fandom Heideck** : town fortifié au carrefour Old Dwarf Road / Agbeiten Road, *"may swing for Independence Charter or remain loyal to the Leitdorf family"*.
 - **Pas de confirmation explicite** comme siège seigneurial Leitdorf.
-- **Adopté fiche** : mention possible base Leitdorf, non affirmée canon.
+- **Adopté fiche** : mention possible base Leitdorf, non affirmée.

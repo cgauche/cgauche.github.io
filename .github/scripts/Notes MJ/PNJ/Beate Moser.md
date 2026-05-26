@@ -10,14 +10,14 @@
 - **Statut** : [VIVANTE] [ENNEMIE ACTIVE — NON-CHAOTIQUE] (Arc 7 ch. 3+).
 - **Tags** : `#BeateMoser` `#PorteursDeSang` `#FilsDUlric` `#Ulric` `#Middenheim` `#FanatiqueReligieuse` `#NonChaotique`
 
-## Source canon
+## Source
 - **EiR ch. 3** *Journey to Shining Rock* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/06 - Chapter 3 - Journey to Shining Rock.md` l. 346+
 - **EiR Introduction** : Porteurs de Sang (statut, doctrine).
 
 ## Profil
 - **Prétend descendre du Loup Blanc** (Ulric incarné). Ses partisans la croient.
 - **Modérée au départ**, contrainte à l'action directe par la **clémence excessive d'Emil Valgeir** envers les Porteurs (ironie — il a levé leur interdiction).
-- **Bénie de miracles d'Ulric** : possède des Blessings et Miracles Ulrican (statbloc canon EiR ch. 3 — utilise la **profile Beate Moser** comme générique pour autres antagonistes religieux du Companion ch. 11 Diesdorf, p. ex. Griswald Voit).
+- **Bénie de miracles d'Ulric** : possède des Blessings et Miracles Ulrican (statbloc EiR ch. 3 — utilise la **profile Beate Moser** comme générique pour autres antagonistes religieux du Companion ch. 11 Diesdorf, p. ex. Griswald Voit).
 
 ## Plan
 1. **Déposer Ar-Ulric Emil Valgeir** par l'action directe (assassinat OU démasquage politique).

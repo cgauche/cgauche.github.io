@@ -7,17 +7,17 @@
 - **Localisation** : ~50 miles sud Middenheim, juste nord **Malstedt**.
 - **Tags** : `#ShiningRock` `#Sanctuaire` `#Sigmar` `#Ulric` `#NeutralRock` `#Malstedt` `#Volkmar` `#Yorri` `#ArUlric` `#PorteursDeSang` `#BeateMoser` `#Mark` `#Arc7` `#S58` `#Ch3`
 
-## Source canon
+## Source
 - **EiR ch.3 l.75-86** *The Legend of Shining Rock* + *Arrival* + *The Shrine Attacked*.
 - **EiR ch.3 l.193-336** *The Attack* — 3 groupes Fils d'Ulric.
 
-## Légende canon ch.3 l.76-82
+## Légende ch.3 l.76-82
 
 > *« Millennia ago, the god was resting at the site after a great battle against the forces of Chaos. Ambushed and unarmed (there are many variants on the tale, each giving a different reason why this was so), the god picked up a boulder to fight with. The rock was quickly shattered, leaving a long, sword-like shard in the god's hand. He killed five hundred enemies with this weapon before the forces of Chaos fled. The shard — a jagged outcrop several yards long — still lies where the god dropped it, and the shrine was built around it »*.
 
 > *« While Sigmarites and Ulricans disagree — sometimes violently — over which god wielded the Shining Rock in battle, neither side will profane the shrine by coming to blows within its sacred precinct »*.
 
-## Description canon ch.3 l.82-87
+## Description ch.3 l.82-87
 
 - **Painted boulder route turn-off** :
   - **Northern face** : **Loup d'Ulric en bleu**.
@@ -26,9 +26,9 @@
 - **Camps installés both sides** track : Altdorf delegation southern + Middenheim delegation northern.
 - **Bunker-style shrine** (canon ch.3 l.14 résumé table : *« bâtiment ressemblant plus à un bunker qu'à un sanctuaire »*).
 - **Prêtres locaux appartements** voisins.
-- **Le sanctuaire** abrite **la pierre/relique** : *« pierre oblongue plantée dans le sol »* — *« long, sword-like shard »* canon.
+- **Le sanctuaire** abrite **la pierre/relique** : *« pierre oblongue plantée dans le sol »* — *« long, sword-like shard »*.
 
-## Personnel canon
+## Personnel
 - **Prêtres locaux** : sigmarites + ulricans cohabitent. Peace neutral grounds.
 - **Sanctuaire ouvert** rarement — moments importants seulement.
 
@@ -43,7 +43,7 @@
   - **Groupe 1** (6) : peinture boulder Sigmar + diversion.
   - **Groupe 2** (20) **Weregardt Schlupmann** leader Loup Blanc traître : rampage Sigmarite camp.
   - **Groupe 3** (30) **Beate Moser** leader Porteurs de Sang : sanctuaire kill Yorri + humiliate Ar-Ulric.
-- **Bilan canon résumé table** : 50 Fils d'Ulric morts + 20 soldats Altdorf morts. **Mark perd œil gauche** (homebrew table — canon prévoit critical hit table d10).
+- **Bilan résumé table** : 50 Fils d'Ulric morts + 20 soldats Altdorf morts. **Mark perd œil gauche** (homebrew table — prévoit critical hit table d10).
 - **Yorri survit canon** (PJ aident défense). **Ar-Ulric survit canon**.
 - **Rapprochement Sigmar-Ulric brisé** → Katarina accepte mariage Wolfgang pour stabiliser.
 
@@ -54,7 +54,7 @@
 
 ## MJ-only
 - **Pas cultiste site — sacré authentique**.
-- **Beate Moser claim descent Ulric** : canon profile p.66.
+- **Beate Moser claim descent Ulric** : profile p.66.
 - **Weregardt Schlupmann** : signal howls Fils d'Ulric scout.
 
 ## Hooks Arc 7

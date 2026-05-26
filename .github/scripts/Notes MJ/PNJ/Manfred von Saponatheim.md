@@ -9,11 +9,11 @@
 - **Statut** : [VIVANT, caché, secret protégé par les PJ] depuis S13.
 - **Tags** : `#Manfred` `#Saponatheim` `#Grauenberg` `#FilsCaché` `#SecretFamille` `#HéritierLégitime` `#PlotDormant`
 
-## Source canon
+## Source
 - *Rough Nights & Hard Days* ch.6 *Nastassia's Wedding*, **Plot 6 *In the Best of Families*** : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` lignes 102-106, 172-176, 231-238, 364-379
 - Le « fils caché » est canon RN&HD ch.6 Plot 6 *In the Best of Families*. La seule inflexion table = la décision des PJ de **garder le secret** sur demande de Wilhelm — option canon (cf. ch.6 l.176-177 : Wilhelm peut couvrir l'affaire si Manfred est vite ramené).
 
-## Description canon
+## Description
 
 > "The von Saponatheims guard a terrible secret: unbeknownst to Nastassia, **she is not Graf Wilhelm's only child. Her younger brother Manfred is feeble-minded, and despite his diminished condition is the sole legal heir to the Duchy of Saponatheim**. Pretending he died at birth, so far, the family has managed to keep him hidden in a **filthy, basement cell**. But if his existence should become known, the wedding — and the alliance between the Ambossteins and the von Saponatheims — will be in serious jeopardy." (RN&HD ch.6 l.102-105, Plot 6)
 >
@@ -23,7 +23,7 @@
 >
 > **Inflexion table** : à table, Manfred est intercepté **avant** d'atteindre les cuisines. Les PJ le maîtrisent **sans le violenter** (rare bonne décision — canon RN&HD note que le tuer ou le blesser pose des problèmes politiques). Pas de servants morts table.
 
-## Statbloc canon — **Manfred von Saponatheim – Prisoner (Brass 0)**
+## Statbloc — **Manfred von Saponatheim – Prisoner (Brass 0)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -84,5 +84,5 @@
 ## Liens
 - **Arcs** : [[Arc 3 - Ubersreik]] (S13), Arc 7 (succession Saponatheim, plot dormant)
 - **PNJ liés** : Wilhelm von Saponatheim (père), Grafine Alwilda (mère), [[Nastassia von Saponatheim]] (sœur, ignore son existence), [[Karl-Heinz von Liebwitz]] (beau-frère manqué, ignore son existence), [[Eberhardt von Dammenblatz]] (menace tierce potentielle), Maximilien von Aschaffenberg (rival familial Saponatheim cf. arc 3 S20)
-- **Lieux** : [[Schloss Grauenberg]] (cellule de cave), possible : Frederheim (Hospice Shallya, transfert canon non activé)
+- **Lieux** : [[Schloss Grauenberg]] (cellule de cave), possible : Frederheim (Hospice Shallya, transfert non activé)
 - **Factions** : [[Maisons nobles d'Ubersreik]] (maison Saponatheim — Manfred = héritier secret)

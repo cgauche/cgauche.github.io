@@ -30,7 +30,7 @@ et indécis `Altdorf ch.2 l.30`.
 
 **Ce qu'il veut** `Altdorf ch.2 l.28` : honorer la dignité de sa
 position d'héritier d'Altdorf malgré son infirmité et son inexpérience
-— le canon le décrit en « confiance croissante » sur les matières
+— le le décrit en « confiance croissante » sur les matières
 d'État, mais le fond reste celui d'un naïf incapable de trancher seul.
 
 **Ce qu'il ignore** `EiR Intro l.240` : son père est empoisonné depuis
@@ -42,7 +42,7 @@ privé impérial qui couvre la maladie.
 ## Place dans les endings ch.13 `EiR ch.13 l.600-602`
 
 Luitpold n'est pas un acteur direct du climax — il n'a aucune scène
-scriptée dans les apparitions canon de l'Arc 7 (chs.2-13). Sa fonction
+scriptée dans les apparitions de l'Arc 7 (chs.2-13). Sa fonction
 est successorale, exploitable dans les endings :
 
 - **Ending Zuntermein (Wolfgang mort, Karl-Franz vivant)** : Zuntermein
@@ -59,12 +59,12 @@ héritier secondaire (Altdorf seulement, pas Reikland). Sa promotion au
 rang de Prince Héritier impérial = scénario d'effondrement, jamais
 voulu par Karl-Franz.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 Aucune scène scriptée. Karl-Franz et sa famille restent au palais
 durant tout l'arc `EiR ch.6 l.165`. Luitpold peut être croisé en
 arrière-plan au Palais Impérial si les PJ y obtiennent une audience
-(ch.8 chambre impériale ; ch.13 retour du marteau), mais le canon ne
+(ch.8 chambre impériale ; ch.13 retour du marteau), mais le ne
 lui donne pas de réplique.
 
 ## Liens externes

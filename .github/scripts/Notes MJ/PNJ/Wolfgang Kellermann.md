@@ -7,11 +7,11 @@
 - **Statut** : [DISPARU, vraisemblablement mort] depuis [S19] — « introuvable » après le retour des PJ avec la tête d'Annalisa. **MJ-only critique** : EiS Companion canon = Drakensberg le fait tuer ensuite par Bruno pour fermer la boucle. À table, **non confirmé mort** explicitement.
 - **Tags** : `#Kellermann` `#Drakensberg` `#FlecheNoire` `#PiquesCroisées` `#FlammeBleue` `#JambeDeBois` `#FauxAlliéRéel` `#MortProbable`
 
-## Source canon
+## Source
 - *Enemy in Shadows Companion* ch.11 *The Affair of the Hidden Jewel* (apparition + statbloc + plot) : `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md` lignes 36-38, 47-87, 108-138, 140-148, 250-253
 - Origine plus ancienne : **WFRP 1e — White Dwarf 101** *The Affair of the Hidden Jewel* (mentionné canon EiS Companion ch.11 l.25 « *first published in White Dwarf 101* »).
 
-## Description canon
+## Description
 
 > "If the Characters wish to go to the Crossed Lances inn (and they ought to), they can get there easily enough by road. […] In addition, there is a knot of hard-looking men-at-arms seated in one corner. These are **retainers of Count von Drakensberg, who is staying here incognito**, though he will remain in his room. The gossip in the bar is that they are mercenaries and the 'gentleman upstairs' is their captain." (EiS Companion ch.11 l.41-45)
 >
@@ -21,7 +21,7 @@
 >
 > *"'This is why Bruno came to me. Until this minor problem,' Kellerman gestures toward his missing foot, '**it was I who led the band now known as the Black Arrows**. I know their hideout, and how it can be infiltrated.'"* (l.81)
 
-## Statbloc canon — **Wolfgang Kellermann – Human Outlaw Chief (Brass 4)**
+## Statbloc — **Wolfgang Kellermann – Human Outlaw Chief (Brass 4)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -45,15 +45,15 @@
 
 ## Ce que les PJ savent
 - Vieux bandit reconverti aubergiste, mauvaise jambe.
-- Disait être le **père supposé** d'Annalisa Kessler / Flèche Noire (à table, le résumé S19 dit littéralement *"Son père avait de son temps fait un larcin mémorable […] D'une manière ou d'une autre, il lui avait transmis l'endroit où se trouvait le bijou"* — à table Kellermann a été présenté comme **le père** d'Annalisa, simplification du canon où il est en fait l'**ancien chef de bande**, le vrai père étant **Otto Kessler**). **Inflexion table à entériner** : Wolfgang Kellermann = père d'Annalisa Kessler à table.
+- Disait être le **père supposé** d'Annalisa Kessler / Flèche Noire (à table, le résumé S19 dit littéralement *"Son père avait de son temps fait un larcin mémorable […] D'une manière ou d'une autre, il lui avait transmis l'endroit où se trouvait le bijou"* — à table Kellermann a été présenté comme **le père** d'Annalisa, simplification du où il est en fait l'**ancien chef de bande**, le vrai père étant **Otto Kessler**). **Inflexion table à entériner** : Wolfgang Kellermann = père d'Annalisa Kessler à table.
 - A demandé aux PJ d'interroger Annalisa sur la **Flamme Bleue** (bijou volé jadis).
 - A disparu après la mort d'Annalisa, sans qu'ils sachent pourquoi.
 - **Drakensberg apparu en parallèle** — les PJ ne lient pas explicitement Kellermann à Drakensberg.
 
 ## MJ-only
 
-- **« Père d'Annalisa » : inflexion table** vs canon. Canon EiS Companion (l.79) : le père d'Annalisa est **Otto Kessler** (le voleur original, mort) — Kellermann est seulement l'**ancien chef de la bande**, qui s'est fait raconter l'histoire par **Bruno** (faux défecteur de Drakensberg). À table, raccourci : Kellermann présenté comme le père. **Garder l'inflexion table** (plus simple, plus dramatique) tout en sachant que le canon a plus de couches.
-- **Le vrai but de Drakensberg (canon EiS Companion)** : la **Flamme Bleue est tatouée sur le crâne d'Annalisa** depuis l'enfance — son père Otto le lui a fait sans le lui dire. La planque réelle du bijou : selon canon ch.11 l.144, *"Old Kessler actually hid the jewel in the cellar of the Crossed Lances. Nobody knows, at least not yet."* → **le tatouage donne les directions** vers la cave des Piques Croisées où le bijou est physiquement caché. **Inflexion table** : la consigne MJ table dit « la Flamme Bleue est cachée DANS son crâne » → simplification dramatique du tatouage en « le bijou physiquement DANS le crâne ». À garder côté table comme version simplifiée, mais le canon dit tatouage. **À MJ de choisir lors d'une éventuelle révélation table**.
+- **« Père d'Annalisa » : inflexion table** vs. Canon EiS Companion (l.79) : le père d'Annalisa est **Otto Kessler** (le voleur original, mort) — Kellermann est seulement l'**ancien chef de la bande**, qui s'est fait raconter l'histoire par **Bruno** (faux défecteur de Drakensberg). À table, raccourci : Kellermann présenté comme le père. **Garder l'inflexion table** (plus simple, plus dramatique) tout en sachant que le a plus de couches.
+- **Le vrai but de Drakensberg (canon EiS Companion)** : la **Flamme Bleue est tatouée sur le crâne d'Annalisa** depuis l'enfance — son père Otto le lui a fait sans le lui dire. La planque réelle du bijou : selon ch.11 l.144, *"Old Kessler actually hid the jewel in the cellar of the Crossed Lances. Nobody knows, at least not yet."* → **le tatouage donne les directions** vers la cave des Piques Croisées où le bijou est physiquement caché. **Inflexion table** : la consigne MJ table dit « la Flamme Bleue est cachée DANS son crâne » → simplification dramatique du tatouage en « le bijou physiquement DANS le crâne ». À garder côté table comme version simplifiée, mais la source dit tatouage. **À MJ de choisir lors d'une éventuelle révélation table**.
 - **Kellermann est un PION**, pas un acteur conscient. EiS Companion ch.11 l.140-148 : *"What Kellermann doesn't know is that Bruno has not defected from his master. He was sent. Von Drakensberg had all the information pulled from Otto Kessler's erstwhile crony."* Drakensberg connaissait déjà la planque tatouée et la planque cave depuis longtemps ; Kellermann a été **manipulé** par Bruno (faux torturer-défecteur) pour servir d'**appât** menant à Annalisa. Kellermann croit sincèrement chercher le bijou et accuse les PJ de bonne foi.
 - **Disparition / mort de Kellermann (canon)** : *"Back at the inn, things have moved on. **Count von Drakensberg decided that Kellermann was no longer of use and had Bruno kill him**. The staff are as yet unaware of the murder, and the count is waiting for the Characters to return."* (EiS Companion ch.11 l.250-251) → **Drakensberg le fait assassiner pendant l'expédition au château**. Cadavre dans la chambre. À table : non révélé, juste « introuvable ». Plot dormant — **option MJ** : à un retour aux Piques Croisées (très improbable arc 4-5 mais pas exclu), le corps est trouvé ou un témoin parle.
 - **Kaspar Lauengram (homme de main scarface)** = en réalité **agent infiltré des Flèches Noires** dans l'auberge de Kellermann (canon ch.11 l.193-197). Lauengram a lancé la bombe dans la cheminée de la chambre des PJ au matin pour les ralentir. Kellermann ne sait pas que son propre garde du corps le surveille pour les Flèches Noires. Triple-jeu : Drakensberg ↔ Bruno (faux défecteur) ↔ Kellermann (manipulé) ↔ Lauengram (espion bandit).
@@ -67,7 +67,7 @@
 - **Cadavre découvert** : un voyageur passant aux Piques Croisées après S19 trouve le corps de Kellermann. Rumeur dans les coches. Si les PJ entendent parler des Piques Croisées (~Arc 4), un coup d'œil rétrospectif sur leur mission s'impose.
 - **Vengeance d'un ex-Flèche Noire survivant** : un bandit ayant survécu au massacre du château retrouve les PJ sur la route Altdorf-Kemperbad (Arc 4) → leur reproche la mort de Kellermann (qu'ils n'ont pas commise) + d'Annalisa. Combat ou marchandage.
 - **Témoin chez Drakensberg** : un domestique de Drakensberg, écœuré de la conduite du comte, fuit et témoigne aux PJ que Drakensberg a fait tuer Kellermann.
-- **La cave des Piques Croisées** : si les PJ y retournent (Arc 4 trajet Altdorf-Kemperbad si le MJ détourne par cette route), **le bijou réel a été extrait par Drakensberg via décapitation d'Annalisa** — à moins que le bijou tatoué n'ait été qu'un leurre et le bijou réel encore en cave (option canon ch.11 l.144 « *Old Kessler actually hid the jewel in the cellar of the Crossed Lances*, nobody knows »). Plot dormant **vraiment riche**.
+- **La cave des Piques Croisées** : si les PJ y retournent (Arc 4 trajet Altdorf-Kemperbad si le MJ détourne par cette route), **le bijou réel a été extrait par Drakensberg via décapitation d'Annalisa** — à moins que le bijou tatoué n'ait été qu'un leurre et le bijou réel encore en cave (option ch.11 l.144 « *Old Kessler actually hid the jewel in the cellar of the Crossed Lances*, nobody knows »). Plot dormant **vraiment riche**.
 - **Lauengram en cavale** : s'il a survécu (canon : possible, il fuit après avoir bombé les PJ), il devient bandit indépendant sur les routes, croise les PJ Arc 4-5 sur la Reik ou un chemin terrestre.
 
 ## Fils ouverts

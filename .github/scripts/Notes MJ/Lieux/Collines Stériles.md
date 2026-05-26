@@ -8,10 +8,10 @@
 - **Statut** : [ZONE MAUDITE — esprits apaisés post-S25]
 - **Tags** : `#CollinesSteriles` `#BarrenHills` `#Morrslieb` `#PierreCeleste` `#Skystone` `#DagmarWittgenstein` `#Esprits` `#EtelkaHerzen` `#Reikland`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md`
 
-## Description canon (DotR ch.4)
+## Description `DotR ch.4`
 
 Zone élevée et désolée. **Terre malade**, vent qui hurle. **Lac formé dans un cratère** (impact de la pierre céleste tombée de Morrslieb il y a ~2-3 siècles). **Cairns autour du lac**. **Restes humains** sur le sol (expédition Dagmar trahie).
 
@@ -26,7 +26,7 @@ Zone élevée et désolée. **Terre malade**, vent qui hurle. **Lac formé dans 
 - **Salle du combat final** [S25] — Etelka + Heidlemann + sbires morts. Esprits aident les PJ.
 - **Tombeau improvisé** [S25] — Sépulture érigée par les PJ pour les esprits trahis. Effet : esprits soulagés.
 
-## Histoire (canon DotR ch.4)
+## Histoire (DotR ch.4)
 - **~2-3 siècles avant 2512 IC** : **Dagmar von Wittgenstein** voit une pierre tomber depuis **Morrslieb** (lune chaotique). Organise une expédition pour la récupérer.
 - **L'expédition atteint les Collines Stériles**, trouve la pierre.
 - **Dagmar trahit son expédition** : les tue tous sur place pour garder le secret. **Esprits coincés**.

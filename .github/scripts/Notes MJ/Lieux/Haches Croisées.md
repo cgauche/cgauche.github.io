@@ -5,7 +5,7 @@
 - **Localisation** : Reikland, route principale Bögenhafen → Altdorf, environ à un jour de cheval d'Altdorf. Position exacte à étoffer.
 - **Tags** : `#HachesCroisées` `#Auberge` `#QuatreSaisons` `#FourSeasons` `#Wagenkneicht` `#Arc3` `#S21` `#FIL-42`
 
-## Source canon
+## Source
 - Trajet et étapes canon EiS Companion ch.10 *On the Road* : `Source/Enemy in Shadows Companion/13 - CHAPTER 10- ON THE ROAD.md`.
 - Référence Quatre Saisons : `Source/Starter Set/A Guide to Ubersreik/`.
 
@@ -42,6 +42,6 @@
 
 ## Liens
 - **Arcs** : [[Arc 3 - Ubersreik]] (S21)
-- **PNJ liés** : [[Andreas Wagenkneicht]] (disparu ici), [[Delberz Trotte]] (cocher témoin), [[Elisha Hochs]] (employeuse canon de Wagenkneicht), [[Emmanuelle Nacht]] (commanditaire potentiel d'exfiltration)
+- **PNJ liés** : [[Andreas Wagenkneicht]] (disparu ici), [[Delberz Trotte]] (cocher témoin), [[Elisha Hochs]] (employeuse de Wagenkneicht), [[Emmanuelle Nacht]] (commanditaire potentiel d'exfiltration)
 - **Lieux liés** : [[Ubersreik]] (départ), [[Bögenhafen]] (étape antérieure), [[Altdorf]] (destination), [[Maison du Pont]] (relais départ)
 - **Factions** : Four Seasons, Régence Nacht (latente)

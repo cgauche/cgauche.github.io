@@ -9,7 +9,7 @@
 - **Statut** : [VIVANT, présumé — STATUT INCONNU depuis intervention Zuntermein] [DISPARU/EN FUITE]
 - **Tags** : `#AlbericHollzauber` `#Daemonologue` `#Tzeentch` `#NonMainPourpre` `#Altdorf` `#Weissbruck` `#Elvyra` `#GideonAvatar`
 
-## Source canon
+## Source
 - **EiR ch. 3** *Journey to Shining Rock* l. 116+ : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/06 - Chapter 3 - Journey to Shining Rock.md`
 - **DotR** (Death on the Reik) : enlèvement d'Elvyra historique.
 
@@ -24,11 +24,11 @@
 - **NE PAS le confondre avec un membre officiel** de la Main Pourpre.
 - **Sa marginalité explique pourquoi Zuntermein le déplace** : un daemonologue maladroit attire l'attention des Witch Hunters, ce qui menace la cellule Altdorf MP.
 
-## Lien avec Gideon (canon EiR ch. 3)
+## Lien avec Gideon (EiR ch. 3)
 - Selon EiR Introduction l. 220 : **Gideon a pris la guise de « the Daemonologist in Altdorf » qui a essayé de faire kidnapper Elvyra**.
 - → **Hollzauber peut être Gideon dans une de ses formes**, OU Hollzauber est réel mais Gideon a utilisé son identité.
 
-⚠️ **Question canon non tranchée** : Hollzauber est-il :
+⚠️ **Question non tranchée** : Hollzauber est-il :
 - (a) **Gideon en personne** sous identité humaine ?
 - (b) **Daemonologue réel** dont Gideon a usurpé l'identité pour orchestrer le kidnapping ?
 - (c) **Daemonologue réel manipulé** par Gideon (le plus simple) ?

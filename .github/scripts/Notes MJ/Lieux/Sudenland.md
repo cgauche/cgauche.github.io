@@ -18,7 +18,7 @@
 - **Caractère** : *"a quiet, thoughtful lot, as if their past weighs on them"* (Vol I l.292) — peuple mélancolique, hanté par la destruction de Solland.
 - **Tags** : `#Sudenland` `#Solland` `#Pfeildorf` `#Toppenheimer` `#Etelka` `#Vennland` `#Söll` `#Rhya` `#Auld Solland` `#Arc7` `#DoomedTurmoil`
 
-## Source canon
+## Source
 - *Archives of the Empire - Vol I* ch.4 *The Grand Provinces*, section **Sudenland** : `Source/Archives of the Empire - Vol I/04 - The Grand Provinces.md` l.260-307
 - *Archives of the Empire - Vol III* ch.4 *Minor Gods, Folk Worship & Hedgecraft*, section **Söll** : `Source/Archives of the Empire - Volume III/07 - 4. Minor Gods, Folk Worship & Hedgecraft.md` l.140-153 + l.186
 - *Enemy Within Vol 5 — Empire in Ruins* Introduction, section *Nuln, Wissenland, and Sudenland* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/03 - Introduction.md` l.258-263
@@ -37,7 +37,7 @@
 - **Pierres dressées et cercles de pierres** : *"some still in use, though temples are now more common"* (Vol I l.300) — cultes anciens encore actifs en zones reculées.
 - **Foothills sud** (Black + Grey Mountains) : *"loyalty to Sigmar and other common deities is rare, and that the locals have pledged themselves to more ancient, obscure gods"* (Vol I l.300).
 
-## Religion — la mosaïque tendue (canon Archives Vol I l.298 + Vol III l.140-186)
+## Religion — la mosaïque tendue (Archives Vol I l.298 + Vol III l.140-186)
 
 ### Carte religieuse
 | Culte | Zone | Statut | Source canon |
@@ -87,7 +87,7 @@ La promesse d'Etelka — *"declare Ulric the official cult of Sudenland"* (ch.7 
 - **Elfes Sylvains de Loren** — surveillent le passage de Montdidier.
 
 ## Hooks Arc 7 (et au-delà) pour les PJ
-- **Annexion de Sudenland par Nuln** (canon post-Turmoil) : si les PJ s'intéressent au sud, ils peuvent infléchir, accélérer ou retarder cette annexion. Le canon dit qu'elle se produit — pas qu'elle est facile.
+- **Annexion de Sudenland par Nuln** (canon post-Turmoil) : si les PJ s'intéressent au sud, ils peuvent infléchir, accélérer ou retarder cette annexion. La source dit qu'elle se produit — pas qu'elle est facile.
 - **Course au Runefang** : si Etelka apprend que les PJ ont accès aux Holds nains (cf. leur historique Black Fire Pass / Karak Skygg / etc.), elle peut leur commander une expédition de "récupération" de *Grudge Settler* (ou d'une lame naine plausible) en échange de faveurs politiques majeures.
 - **Réseau Threshers** : si les PJ démantèlent les Threshers (Fione Brecht et son réseau Pfeildorf), c'est un coup direct au plan false-flag d'Etelka et un cadeau à Emmanuelle.
 - **Söllites comme alliés** : faction non-affrontée dans la campagne actuelle. Ils sont restaurationnistes, militants, anti-statu quo — exploitables par n'importe quel camp (Emmanuelle pour déstabiliser Etelka ; Etelka pour mobiliser populairement ; PJ pour leur propre agenda).

@@ -10,12 +10,12 @@
 - **Statut** : [VIVANT — ENNEMI CACHÉ — ABROAD]
 - **Tags** : `#GustavKlaus` `#NineEyes` `#KaleidoscopeEye` `#Bechafen` `#NonHuman` `#Greenskins` `#Skavens` `#Tzeentch` `#Wolfgang` `#KarakSkygg` `#Arc7` `#Ch4` `#Arc6Link`
 
-## Source canon
+## Source
 - **EiR Intro l.162-170** liste 9 Yeux.
 - **EiR ch.4 l.295-297** room Reikguard : *« The occupant, Gustav Klaus, has been away for some time and the room is very dusty. Artefacts include a string of Orc teeth, diagrams of the autopsy of an Ogre, a pickled Snotling, and a book on Khazalid. Underneath the bed is a small gold-backed mirror that has been shattered into nine pieces »*.
 - **EiR ch.4 l.253** lien Arc 6 : *« Characters who explored Karak Skygg in The Horned Rat may have legitimate suspicions about the broken mirror in Gustav's room »*.
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 Standard Member of the Neuf Yeux (Gold 1) :
 
@@ -26,7 +26,7 @@ Standard Member of the Neuf Yeux (Gold 1) :
 - **Skills** : standard + **Lore (Tzeentch 90, Beasts 90, Greenskins 90, Skavens 90, Ogres 90)**, **Language (Khazalid 85, Goblin 80, Queekish 80, Classical 85)**.
 - **Talents** : standard 9 Yeux + **Savant (Non-Human Species) 3**.
 
-## Mirror canon Arc 6 link
+## Mirror Arc 6 link
 - **Karak Skygg mirror canon HR** : possibles broken pieces. **Lien direct cult Skaven Skygg** = Maliss Manrack ? À explorer.
 - **9 pieces** : symbolisme 9 Yeux + Sheerargetru date.
 

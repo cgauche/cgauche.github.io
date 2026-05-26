@@ -5,14 +5,14 @@
 > **Grand Vizier de l'Ordo Terribilis** (canon *Middenheim - City of the Loup Blanc* + PBT Companion) = **chef opérationnel des exécuteurs Tzeentch** de la cellule Main Pourpre Middenheim. **Pas Magister Impedimentae** (correction post-relecture : un Magister ne dirige qu'un seul Ordo. Kalzbad = Impedimentae, Bhar = Terribilis. Ce sont deux Ordos distincts). **Fuit S43 par les égouts** lors du raid Osttor.
 
 ## Identité publique
-- **Fonction** : Profession publique non détaillée canon. À table : à étoffer (peut-être noble mineur ou marchand mid-niveau pour avoir des entrepôts à Osttor).
-- **Identité secrète** : **Grand Vizier de l'Ordo Terribilis** de la cellule MP Middenheim (canon *Middenheim - City of the Loup Blanc*). **Subordonné direct à Wasmeier (Magister Magistri)** au sein de l'Inner Council canon. Post-S39 (Wasmeier en cavale) + S41 (Kalzbad mort), **Bhar reprend de facto la direction opérationnelle de la cellule** sans titre formel élevé (il ne devient pas Magister Magistri ; reste à la tête de Terribilis).
+- **Fonction** : Profession publique non détaillée. À table : à étoffer (peut-être noble mineur ou marchand mid-niveau pour avoir des entrepôts à Osttor).
+- **Identité secrète** : **Grand Vizier de l'Ordo Terribilis** de la cellule MP Middenheim (canon *Middenheim - City of the Loup Blanc*). **Subordonné direct à Wasmeier (Magister Magistri)** au sein de l'Inner Council. Post-S39 (Wasmeier en cavale) + S41 (Kalzbad mort), **Bhar reprend de facto la direction opérationnelle de la cellule** sans titre formel élevé (il ne devient pas Magister Magistri ; reste à la tête de Terribilis).
 - **Apparence** : Canon : un homme avec **prominent 'whiskers'** (canon ch.6 *Chaos Strikes by Night* p.91 — c'est l'**intermédiaire humain** que les skavens ont mentionné quand ils ont remis Rhéa). À table : un homme aux bacchantes proéminentes.
 - **Statut** : [VIVANT — FUYARD S43]
 - **Tags** : `#Bhar` `#Bahr` `#MainPourpre` `#PurpleHand` `#GrandVizierTerribilis` `#OrdoTerribilis` `#Middenheim` `#Arc6` `#FuyardS43` `#CelluleMPMid`
 
-## Source canon
-- **PBT ch.7 *Requirements* p.106** : « *Grand Vizier Bahr of the Ordo Terribilis (see Middenheim: City of the Loup Blanc) remains at large, or at least alive* » — canon préfère qu'il survive.
+## Source
+- **PBT ch.7 *Requirements* p.106** : « *Grand Vizier Bahr of the Ordo Terribilis (see Middenheim: City of the Loup Blanc) remains at large, or at least alive* » — préfère qu'il survive.
 - **PBT ch.6 *Chaos Strikes by Night* — Prisoners** (canon p.91) : skavens mentionnent un homme « *with prominent whiskers* » comme l'intermédiaire ayant pris Rhéa. **À table : c'est Bhar**.
 - **Middenheim - City of the Loup Blanc** (canon PDF supplément) : Ordo Terribilis détaillé.
 
@@ -60,6 +60,6 @@
 ## Liens
 
 - **Arcs** : Arc 5 (intermédiaire skaven S34, MJ-only), Arc 6 (S41+ repreneur de facto post-Kalzbad, S43 fuyard).
-- **PNJ-clé** : [[Karl-Heinz Wasmeier]] (chef vivant en Drakwald), [[Erich Kalzbad]] (collègue Impedimentae, mort S41), [[Gottfried Jarmund]] (collègue Novitae, capturé S42), **Vogel** (intermédiaire), Snikkit (skaven contact via canon ch.6 p.90).
+- **PNJ-clé** : [[Karl-Heinz Wasmeier]] (chef vivant en Drakwald), [[Erich Kalzbad]] (collègue Impedimentae, mort S41), [[Gottfried Jarmund]] (collègue Novitae, capturé S42), **Vogel** (intermédiaire), Snikkit (skaven contact via ch.6 p.90).
 - **Lieux** : [[Middenheim]] (entrepôt Osttor, égouts).
 - **Factions** : [[Main Pourpre]] (Grand Vizier de l'Ordo Terribilis), Yellow Fang (alliés skavens).

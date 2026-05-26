@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT — ALLIÉ]
 - **Tags** : `#Albert` `#AlbertReichau` `#Sergent` `#FieldArmy` `#Middenland` `#Arc6` `#Allié` `#Schutzmann`
 
-## Source canon
+## Source
 - **Pas de canon HR direct** — Albert est probablement un PNJ générique vétéran utilisé table comme escorte canon HR mentionne « *Schutzmann's New Komission... resources of the watch* » (l.3164).
 
 ## Statbloc (générique vétéran, à étoffer)

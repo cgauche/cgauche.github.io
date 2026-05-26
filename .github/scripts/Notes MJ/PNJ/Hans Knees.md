@@ -10,11 +10,11 @@
 - **Statut** : [VIVANT — AGENT EMMANUELLE]
 - **Tags** : `#HansKnees` `#Spy` `#Emmanuelle` `#Nuln` `#Harbourmaster` `#Carroburg` `#Bureaucratic` `#Arc7` `#Ch9`
 
-## Source canon
+## Source
 - **EiR ch.9 l.202-244** *This Petty Pace + Hans Knees*.
 - **EiR ch.12 l.189** : si PJ revenir Altdorf vers Nuln, **Hans Knees brings PJ to Emmanuelle's fortified mansion Aldig Quarter** (wears very stylish hat now).
 
-## Statbloc canon (EiR ch.9 l.218)
+## Statbloc (EiR ch.9 l.218)
 
 **HANS KNEES HUMAN SPY (SILVER 3)**
 
@@ -27,7 +27,7 @@
 - **Talents** : Blather, **Carouser**, **Doomed** (*« Sold her egregiously, even rats appalled, repulsed, gotten even, trusted rigour untied »*), Gregarious, **Lightning Reflexes**, Read/Write, **Shadow**, **Sixth Sense**.
 - **Trappings** : Harbourmaster's Hat and Documents, Fine Clothes, **Leather Jerkin**, **Sword coated with Black Lotus**.
 
-## Plan canon
+## Plan
 1. **Carroburg arrives Nuln** : Knees présente petite formalités. *« We require a disembarkation certificate, in triplicate... boarding pass for each of you, with a signed affidavit from a notarised official... ship's manifest roster, fill in for every member of the crew. Don't forget the ship's cat's date of birth »*.
 2. **Délays minimum 2 jours** : *« it takes a day to dismantle the mast and rigging in order to get The Carroburg to fit under the city's bridges to join the River Aver, then another day to get out of the river traffic press »*.
 3. **Probes PJ** : carefully extract details mission. **Subtle mais happy let PJ realise** quicker spill = quicker continuer.

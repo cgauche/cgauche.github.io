@@ -7,9 +7,9 @@
 - **Statut** : [VIVANT, post-S21] — termine son trajet jusqu'à Altdorf sans encombre majeure et reste actif sur la ligne.
 - **Tags** : `#Trotte` `#QuatreSaisons` `#FourSeasons` `#Cocher` `#Diligence` `#Vivant` `#TransportReikland`
 
-## Source canon
+## Source
 - *A Guide to Ubersreik* (Starter Set) : `Source/Starter Set/A Guide to Ubersreik/` (compagnie Four Seasons + cochers types).
-- Trotte est un PNJ d'enchâssement (intermédiaire) — pas une figure canon majeure, peut servir de **cocher de route récurrent**.
+- Trotte est un PNJ d'enchâssement (intermédiaire) — pas une figure majeure, peut servir de **cocher de route récurrent**.
 
 ## Apparitions par session
 - **[S16]** — Conduit les PJ d'Ubersreik vers les **Montagnes Grises** (traque Carolus). Marchande chaque sou.

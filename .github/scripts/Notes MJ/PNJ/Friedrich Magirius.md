@@ -9,7 +9,7 @@
 - **Statut** : [MORT S12] (canoniquement — sacrifié dans le rituel de Teugen au Warehouse 13). **Confirmé mort à table**, mais statut précis dans nos notes encore à vérifier — corps non explicitement identifié post-S12.
 - **Tags** : `#Magirius` `#Bögenhafen` `#OrdoSeptenarius` `#InnerCouncil` `#Marchand` `#MORT` `#MortS12`
 
-## Source canon
+## Source
 - EiS ch.8-10 *Bögenhafen* : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/08 - Death in Bögenhafen.md` + ch.10 *A Guide to Bögenhafen* (Inner Council list).
 - Statbloc et rôle Inner Council : EiS ch.8 (statblocs Council).
 

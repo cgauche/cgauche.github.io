@@ -12,10 +12,10 @@
 - **Statut** : [VIVANTE — ALLIÉE post-S54]
 - **Tags** : `#Emmiline` `#EmmilineKärzburdger` `#Kärzburdger` `#Commandante` `#Piquet` `#Arc6` `#Allié` `#FortdAirain` `#Hildegund`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4199-4700, notamment **Commander Emmiline Von Kärzburdger** l.4388.
 
-## Statbloc canon (partiel, à étoffer)
+## Statbloc (partiel, à étoffer)
 
 - **Carrière** : Officier vétéran Gold-level.
 - **Compétences fortes** : Cool, Endurance, Intimidate, Leadership, Lore (Warfare + Middenheim + Heraldry), Melee (Basic, Polearm), Ride (Horse).
@@ -27,12 +27,12 @@
 - **Méfiante** envers les agents Todbringer (S54 cordialité initiale froide).
 - **Pragmatique** : accepte les preuves PJ après l'attaque skaven S54.
 - **Stricte** mais juste : punit ses propres soldats.
-- **Vie privée** : relation amoureuse cachée avec **Hildegund Froiz** (prêtresse Myrmidia) — **homebrew table**, canon ambigu.
+- **Vie privée** : relation amoureuse cachée avec **Hildegund Froiz** (prêtresse Myrmidia) — **homebrew table**, ambigu.
 
 ## Apparitions par session (Arc 6)
 
 - **[S52]** — Mentionnée par Katarina comme la diplomatique à approcher pour mission Fort d'Airain.
-- **[S54]** — **Session entière**. Cordial mais froid initialement. **Accepte les PJ** après l'attaque skaven + révélations sur le canon nain Karak Skygg. **Autorise mission Karak Skygg**.
+- **[S54]** — **Session entière**. Cordial mais froid initialement. **Accepte les PJ** après l'attaque skaven + révélations sur le nain Karak Skygg. **Autorise mission Karak Skygg**.
 - **[S55]** — Fournit ressources + carte + équipement pour la mission Karak Skygg.
 
 ## Ce que les PJ savent

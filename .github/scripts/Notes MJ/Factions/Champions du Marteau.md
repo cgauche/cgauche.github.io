@@ -7,7 +7,7 @@
 
 - **Fondateur** : Karl-Franz Holswig-Schliestein — instaure l'ordre par décret impérial le lendemain du climax, à la fin de l'audience privée dans ses chambres `EiR ch.13 l.630`.
 - **Membres fondateurs** : les PJ — chacun reçoit le titre de membre fondateur de l'ordre, plus une pension impériale de **100 couronnes d'or par an** à vie `EiR ch.13 l.630`.
-- **Recrutement futur** : non spécifié canon. L'ordre est créé spécifiquement pour reconnaître les héros qui ont sauvé l'Empire à Altdorf ; la trajectoire institutionnelle ultérieure dépend du MJ.
+- **Recrutement futur** : non spécifié. L'ordre est créé spécifiquement pour reconnaître les héros qui ont sauvé l'Empire à Altdorf ; la trajectoire institutionnelle ultérieure dépend du MJ.
 
 ## Doctrine
 

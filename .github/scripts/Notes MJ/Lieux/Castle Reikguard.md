@@ -9,7 +9,7 @@
 - **Apparence canon** : *« strikes building, tall + imposing, built above Reik on steep cliff side. Pennants Reiksguard heraldry + coat of arms Emperor's family fluttering. Intricate Dwarf runes carved into stonework »*.
 - **Tags** : `#CastleReikguard` `#Reiksguard` `#Reikland` `#Wolfgang` `#9Yeux` `#KatheRuttmann` `#PerHaldestaake` `#IngridRademakers` `#AntiMagic` `#Dwarf` `#Arc7` `#S59` `#Ch4` `#Altdorf`
 
-## Source canon
+## Source
 - **EiR ch.4 l.66-77** *Castle Reikguard* description complète.
 - **EiR ch.4 l.81-83** : *« Within the walls of Castle Reikguard, all Language (Magick) and Channelling Tests suffer a penalty of -3 SL. Those made to cast spells from the lores of Witchcraft, Necromancy, Daemonology, and all Chaos magic suffer a penalty of -6 SL. It is considered highly impolitic to cast a spell here »*.
 - **EiR ch.4 l.272-303** *Rooms of the Tutors* — 9 Eyes rooms (3 occupants Reikguard).
@@ -22,25 +22,25 @@
 - **Main gatehouse** : south overlooking broad plain (cleared trees, impossible approche unseen).
 - **Inner buildings** : training grounds + barracks + armouries + facilités relaxation + observance religieuse.
 
-## Restrictions canon
+## Restrictions
 
 - **Casting Tests -3 SL** : *« any Sail Tests made to control the balloon are made with a penalty of -3 SL »* — appliqué Channelling+Language Magick.
 - **Lores Witchcraft + Necromancy + Daemonology + Chaos** : -6 SL.
 - **Spell casting socially impolitic**.
 
-## Zones canon ch.4
+## Zones ch.4
 
 ### East Wing — Neuf Yeux private quarters (canon ch.4 l.272)
 - Corridor 9 doorways + brass signs (Vigilant Eye, Fractured Eye, etc.).
 - Locks : 10 SL extended Hard (-20) Pick Lock. Forcing : 17 SL extended Difficult (-10) Strength.
 
 ### North Wing — guest accommodation
-- **Spartan** : where PJ stay if remain canon ch.4 l.208.
+- **Spartan** : where PJ stay if remain ch.4 l.208.
 
 ### Throne Chamber Wolfgang
 - Receive PJ. **Open door policy advisors**.
 
-## Investigations canon ch.4
+## Investigations ch.4
 
 ### Exploring Castle Table (canon ch.4 l.235)
 - d100 :
@@ -55,7 +55,7 @@
 - **Ulrican party** : *« expelled with prejudice as soon as caught doing anything suspicious »*.
 - Lock picking / rummaging = expulsion immédiate.
 
-## Yeux résidents canon ch.4 l.272-303
+## Yeux résidents ch.4 l.272-303
 
 ### The Vigilant Eye — [[Kathe Ruttmann]] room
 - Bookcases historical+political texts. **Very Hard -30 Perception** find scrap *« Songes de Bertoldt le Malleun »* handout.

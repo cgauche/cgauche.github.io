@@ -8,7 +8,7 @@
 - **Statut** : [VIVANT] [PRISONNIER] [DANGER LATENT] (Companion ch. 11, Diesdorf).
 - **Tags** : `#Red` `#Beastman` `#Gor` `#TempleDeSigmar` `#Diesdorf` `#ContrôleMental` `#DanGideChaos`
 
-## Source canon
+## Source
 - **Companion ch. 11** *The Siege of Diesdorf* : `Source/Empire In Ruins Companion/13 - CHAPTER 11 The Siege of Diesdorf.md` l. 79-96
 
 ## Capture

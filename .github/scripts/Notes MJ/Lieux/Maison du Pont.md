@@ -6,7 +6,7 @@
 - **Gérance** : **[[Gunther Abend]]** (gérant officiel). Personnel comprend cuisinières, serveurs, palefreniers, et un **postmaster** : **Gustav Schtupp** (espion canon).
 - **Tags** : `#MaisonDuPont` `#BridgeHouseInn` `#Ubersreik` `#Auberge` `#QuatreSaisons` `#FourSeasons` `#GustavSchtupp` `#Espionnage` `#Arc3`
 
-## Source canon
+## Source
 - *A Guide to Ubersreik* (Starter Set) : `Source/Starter Set/A Guide to Ubersreik/` — entrée Bridge House Inn (Gunther Abend gérant, Gustav Schtupp postmaster espion, fonction de relais Four Seasons, p.15).
 - Apparitions UA1 : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` — référence chambre Vielfrass (Heart of Glass), passage du courrier intercepté.
 

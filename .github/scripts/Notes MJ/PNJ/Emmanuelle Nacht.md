@@ -9,12 +9,12 @@
 - **Statut** : [VIVANTE, ACTIVE] (fin S21)
 - **Tags** : `#EmmanuelleNacht` `#RégenceUbersreik` `#KarlFranz` `#Espionnage` `#MaîtresseEspionne` `#AntiMainPourpre` `#PurpleHand` `#Filianore`
 
-## Source canon
+## Source
 - **Description physique + biographie + agenda Main Pourpre** : `Source/Starter Set/A Guide to Ubersreik/03 - Welcome to Ubersreik.md` (lignes 211-213 — description physique + autorité réelle) et `Source/Starter Set/A Guide to Ubersreik/04 - Ubersreik- A Visitor’s Guide.md` (lignes 162-167 — Grauer Palast + biographie + enquête Main Pourpre)
 - **Bal masqué — incognito chevalier panthère** : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` lignes 76 (Reception Room) et 311-314 (sa couverture)
 - **Heart of Glass employeuse** : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` chapitre *Heart of Glass*
 
-## Description canon
+## Description
 
 > « *However, despite von Dabernick's seeming authority, the true power lies in the hands of the quietly spoken Imperial Herald, Lady Emmanuelle Nacht. Standing over six feet tall, she is a strikingly beautiful woman, with dark hair, delicate cheekbones, and a steady gaze that could give a Manticore pause. She always dresses in the finery of a noble fresh from the Imperial Court, her green-velvet cloak pinned at one shoulder with an expensive, but understated, gem-studded brooch.* » (*Guide to Ubersreik*)
 
@@ -22,8 +22,8 @@
 
 > « *Lady Emmanuelle Nacht is the Imperial Herald, representative of the Emperor in Ubersreik, and currently the true power in the fortress-town. Over 6-foot tall, she is in disguise as a Knight Panther guarding General von Dabernick to better monitor the local politics first hand.* » (RN&HD ch.7)
 
-## Statbloc canon
-**Aucun statbloc 4e canon publié** pour Emmanuelle Nacht (RN&HD ch.7 l.314 : « *Nacht is not given any statistics in this adventure as she will not interact with it directly* »). À improviser si combat — **Noble (Gold 3) + agent / maîtresse-espionne** : profil de socialite calibrée + intuition/perception élevées, escortée par des Chevaliers Panthère réels (canon RN&HD = elle se cache parmi eux). Pas de capacité martiale connue mais entraînée à la cour.
+## Statbloc
+**Aucun statbloc 4e publié** pour Emmanuelle Nacht (RN&HD ch.7 l.314 : « *Nacht is not given any statistics in this adventure as she will not interact with it directly* »). À improviser si combat — **Noble (Gold 3) + agent / maîtresse-espionne** : profil de socialite calibrée + intuition/perception élevées, escortée par des Chevaliers Panthère réels (canon RN&HD = elle se cache parmi eux). Pas de capacité martiale connue mais entraînée à la cour.
 
 ## Apparitions par session
 - **[S14]** — Convoque **Filianore** au palais (Grauer Palast). Révèle aux PJ que Filianore était son espionne avant Bögenhafen, dépêchée pour enquêter sur **[[Kastor Lieberung]]**, **agent important de la Main Pourpre**. Confond initialement Pathsokar avec Kastor (cf. faux héritage Bögenhafen), libère Pathsokar après éclaircissement. **Éponge les ennuis judiciaires de Bögenhafen** des PJ. Réintègre Filianore comme agente.

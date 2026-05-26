@@ -5,14 +5,14 @@
 > **Lady at Court** à Middenheim. **Fiancée à [[Dieter Schmiedehammer]]** ; **mariée à lui post-PBT canon**. **Famille Jung d'Altdorf** (canon ch.1) — **cousine** d'Ulrike + Bertha Jung. **Pas de lien Eberhauer** (correction post-relecture : Erina Eberhauer est sœur de Janna, pas de Kirsten).
 
 ## Identité publique
-- **Fonction** : **Lady at Court** (une des 4 — avec Emmanuelle, Petra, Natasha). **Cousine** canon d'Ulrike + Bertha Jung — filles d'un marchand prospère d'Altdorf (canon PBT ch.1 p.10 « *travelling to Middenheim to visit their cousin Kirsten Jung* »).
+- **Fonction** : **Lady at Court** (une des 4 — avec Emmanuelle, Petra, Natasha). **Cousine** d'Ulrike + Bertha Jung — filles d'un marchand prospère d'Altdorf (canon PBT ch.1 p.10 « *travelling to Middenheim to visit their cousin Kirsten Jung* »).
 - **Apparence** : À étoffer (canon ne détaille pas spécifiquement Kirsten — les sœurs Jung sont mentionnées comme « *young and clearly quite refined* »).
-- **Origine** : **Famille Jung d'Altdorf**, marchande prospère. **Cousine** d'Ulrike et Bertha Jung (qui visitent Middenheim au Carnaval canon ch.1 *The Jung Sisters*). **Pas de lien familial avec Erina Eberhauer** (= sœur cadette de Janna Eberhauer, famille Eberhauer).
+- **Origine** : **Famille Jung d'Altdorf**, marchande prospère. **Cousine** d'Ulrike et Bertha Jung (qui visitent Middenheim au Carnaval ch.1 *The Jung Sisters*). **Pas de lien familial avec Erina Eberhauer** (= sœur cadette de Janna Eberhauer, famille Eberhauer).
 - **Personnalité** : **Pensive**, **réservée** (canon S33 résumé : « *semblait penser à autre chose* »). Engagement public à Dieter. **Aimable mais distante**.
 - **Statut** : [VIVANT — FIANCÉE → MARIÉE post-PBT]
 - **Tags** : `#KirstenJung` `#LadyAtCourt` `#Middenheim` `#Dieter` `#Fiancée` `#JungSisters` `#Altdorf` `#Arc5` `#PostPBTMariée`
 
-## Source canon
+## Source
 - **PBT Appendix I p.142** (NPC sheet Ladies at Court) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.1 *Fellow Travellers - The Jung Sisters*** (canon p.10) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/04 - Chapter 1 The Road to Middenheim.md`
 - **PBT ch.6 *Encountering NPCs - Ladies at Court*** (canon p.85) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
@@ -38,7 +38,7 @@ Les **3 Ladies at Court** ont un statbloc général similaire (canon Appendix I)
 
 - **Pensive et un peu rêveuse** (canon S33 résumé table).
 - **Aimable** envers les amis de Dieter (qui sont au cœur de sa vie sociale).
-- **Famille de marchands d'Altdorf** : cousine d'Ulrike + Bertha (qui visitent le Carnaval canon ch.1).
+- **Famille de marchands d'Altdorf** : cousine d'Ulrike + Bertha (qui visitent le Carnaval ch.1).
 
 ## Apparitions par session (Arc 5)
 
@@ -61,10 +61,10 @@ Les **3 Ladies at Court** ont un statbloc général similaire (canon Appendix I)
 
 ## MJ-only
 
-- **Pas de lien Eberhauer** (correction post-relecture) : canon ch.6 *Chaos Strikes by Night* p.91 dit « *Erina Eberhauer, the Deputy High Wizard's younger sister* » = Erina est sœur de Janna **uniquement**. Kirsten = famille **Jung** (Altdorf marchands, ch.1) — **rien à voir** avec les Eberhauer (famille mage de Middenheim). Mes notes antérieures avaient inventé une parenté qui n'existe pas.
+- **Pas de lien Eberhauer** (correction post-relecture) : ch.6 *Chaos Strikes by Night* p.91 dit « *Erina Eberhauer, the Deputy High Wizard's younger sister* » = Erina est sœur de Janna **uniquement**. Kirsten = famille **Jung** (Altdorf marchands, ch.1) — **rien à voir** avec les Eberhauer (famille mage de Middenheim). Mes notes antérieures avaient inventé une parenté qui n'existe pas.
 - **Manipulation Wallenstein** : Kirsten **n'est pas piégée directement** par Wallenstein S33, mais Wallenstein **draguer toutes les jeunes femmes du Garden Party** + l'événements. **Hook : si Wallenstein tente d'approcher Kirsten**, Dieter pourrait s'enrager.
 - **Soutien à Dieter** : si Dieter ré-hypnotisé par Pathsokar (homebrew S38), Kirsten **finit par soupçonner**. Hook narratif.
-- **Cousines Ulrike + Bertha Jung** : Filles d'un marchand prospère d'Altdorf canon ch.1. Présentes pendant le Carnaval. Hook **liaison avec Altdorf** (information politique).
+- **Cousines Ulrike + Bertha Jung** : Filles d'un marchand prospère d'Altdorf ch.1. Présentes pendant le Carnaval. Hook **liaison avec Altdorf** (information politique).
 
 ## Hooks de retour
 

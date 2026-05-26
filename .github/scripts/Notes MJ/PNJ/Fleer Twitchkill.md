@@ -12,10 +12,10 @@
 - **Statut** : [MORT S47]
 - **Tags** : `#Fleer` `#FleerTwitchkill` `#ClanEshin` `#Assassin` `#MasterAssassin` `#ShadowCloak` `#Skaven` `#MortS47` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. Assassinations* l.2844-2965, statbloc l.2946.
 
-## Statbloc canon (HR l.2946-2955)
+## Statbloc (HR l.2946-2955)
 
 **Clan Eshin Master Assassin Fleer Twitchkill**
 
@@ -43,7 +43,7 @@
 - **Shadow Cloak récupéré** par les PJ S47. **Dérobée tour des mages S53** lors de la purge Yellow Fang (canon homebrew). **À qui maintenant ?** Hook : Maliss ou Clan Eshin successeur.
 - **Clan Eshin = assassins skavens canon Warhammer**. **Fleer = un des leurs élite**. **D'autres assassins existent** — Maliss + Bhar peuvent en commander d'autres Arc 7.
 - **Marqué pour ces deux meurtres canon** : canon HR donne explicitement Raina Müs + Eunice comme cibles Fleer.
-- **Autres victimes canon S47** : Ansten Krohn (Kommission Santé Nortor) + Yiva (espionne Suttor) + Haludan Gerg (Sewer Jack Neumark) — tous par Fleer canon. Possible apparitions de Fleer plus tôt = table = S43 + S47.
+- **Autres victimes canon S47** : Ansten Krohn (Kommission Santé Nortor) + Yiva (espionne Suttor) + Haludan Gerg (Sewer Jack Neumark) — tous par Fleer. Possible apparitions de Fleer plus tôt = table = S43 + S47.
 
 ## Hooks de retour
 

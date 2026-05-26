@@ -9,12 +9,12 @@
 - **Statut** : [ACTIF — siège seigneurial]
 - **Tags** : `#Grauenberg` `#Saponatheim` `#Reikland` `#Bögen` `#Chateau` `#MariageAnnulé` `#EpéeMaudite`
 
-## Source canon
+## Source
 - *Rough Nights & Hard Days* ch.6 *Nastassia's Wedding* : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` (PDF p.55-68)
 - Mention indirecte : *EiS ch.10 A Guide to Bögenhafen* (Graf Wilhelm comme seigneur féodal de Bögenhafen) — Saponatheim est aussi la suzeraineté de Bögenhafen.
 - *Ubersreik Adventures III - A Tragic Tale of Upheaval* : positionne Saponatheim dans la politique régionale.
 
-## Description canon (RN&HD ch.6)
+## Description (RN&HD ch.6)
 
 > "Schloss Grauenberg is the seat of House Saponatheim, an ancient and storied bloodline that can trace its roots back to the Time of Sigmar. The venerable castle is situated in the heart of the Reikland, and has frequently stood as a near impenetrable defensive bastion during times of war. It stands on a rock above the River Bögen, some 40 miles downstream of the influential trading town of Bögenhafen." (RN&HD ch.6 l.9)
 >

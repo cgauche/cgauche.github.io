@@ -7,7 +7,7 @@
 
 Magister Patriarche du Collège Flamboyant (Aqshy, voie de la Pyromancie), élu Patriarche Suprême des huit Collèges de Magie pour les sept dernières années — c'est-à-dire le représentant permanent des Ordres à la cour impériale et le premier conseiller de l'Empereur sur tout sujet de magie. Homme imposant, presque 1m80, large d'épaules, longue barbe sculptée en forme de flammes et nez aquilin qui lui donnent une mine farouche. Personnalité brusque, directe, impatiente avec les mondanités : pense que ces gens-là sont tous des idiots et qu'il a bien mieux à faire que de se mêler de querelles politiques mesquines, mais une convocation impériale ne se refuse pas `EiR ch.7 l.61`. Favorise l'unité et ne supporte pas les sots, gracieusement ou non `EiR ch.7 l.61`. Tempérament feu littéral : quand la colère monte, des flammes lèchent ses cheveux, sa barbe et le bout de ses doigts — capable de perdre le contrôle de son Vent `EiR ch.7 l.255`.
 
-## Phrases canon
+## Phrases
 
 - *« Get out of my way, you clods! I'm invited! »* — entrée fracassante au Conclave d'urgence en bousculant les Reiksguard pour prendre place à la table, sans être Électeur `EiR ch.7 l.112`.
 - *« At last someone who can get down to business! »* — quand Boris Todbringer tranche enfin avec des paroles directes après les discours mielleux et demande un vote d'attaque sur Gausser `EiR ch.7 l.242`.
@@ -40,10 +40,10 @@ Magister Patriarche du Collège Flamboyant (Aqshy, voie de la Pyromancie), élu 
 - **Pas de démasquage** : Thyrus est loyaliste sincère, sans agenda caché. Aucun secret canon à dévoiler ; aucun complot à débusquer.
 - **Apaiser le Patriarche après le bris de Ghal Maraz** `EiR ch.7 l.268` : test Challenging (+0, +20 si le PJ est lui-même magicien) Charm pour le calmer. Échec ou personne n'essaie → Emmanuelle von Liebwitz le calme. Aucune conséquence dure si elle intervient — mais la scène appartient au PJ s'il réussit, +1 réputation auprès du Patriarche Suprême.
 - **Confrontation Sheerargetru ch.13** `EiR ch.13 l.413` : Thyrus et les deux autres Patriarches canalisent leurs sortilèges les plus puissants contre le Seigneur du Changement ; bataille narrative à arbitrer selon la performance des PJ.
-- **Victime optionnelle ch.13** `EiR ch.13 l.417` : le canon désigne explicitement le Patriarche du Collège de Jade comme victime possible (échange d'éclairs sorciers avec le Seigneur du Changement, dont la chute couvre les PJ pour récupérer le marteau). Thyrus n'est pas nommé comme victime — la convention canon le maintient vivant. À table : libre à l'arbitre si la dramaturgie l'exige.
+- **Victime optionnelle ch.13** `EiR ch.13 l.417` : la source désigne explicitement le Patriarche du Collège de Jade comme victime possible (échange d'éclairs sorciers avec le Seigneur du Changement, dont la chute couvre les PJ pour récupérer le marteau). Thyrus n'est pas nommé comme victime — la convention le maintient vivant. À table : libre à l'arbitre si la dramaturgie l'exige.
 - **Post-Turmoil** `EiR ch.17 l.5-34` : pas mentionné nommément dans le résumé Quintus Fassbinder ; statut canon = vivant et toujours Patriarche Suprême à la fin de la campagne.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S62 — Conclave d'urgence Volkshalle (ch.7) :
   - 15:08 entrée fracassante en bousculant les Reiksguard, prend place sans être Électeur ; *« Get out of my way, you clods! I'm invited! »* `EiR ch.7 l.111-112`. Empereur (Hermann von Feilbach) justifie l'invitation, personne n'ose challenger `EiR ch.7 l.114`. Spéculation Gossip +20 sur l'arrière-pensée impériale `EiR ch.7 l.116`.
@@ -57,12 +57,12 @@ Magister Patriarche du Collège Flamboyant (Aqshy, voie de la Pyromancie), élu 
 
 ## Statbloc
 
-Le Patriarche Suprême ne reçoit pas de statbloc dédié dans *Empire in Ruins* — il intervient comme figure scriptée du Conclave et du climax, sans bloc M/WS/.../W. Pour usage à table, le MJ s'appuie sur le profil Master Wizard générique (Collège Flamboyant, Lore of Fire) sans valeurs canon imposées. Repères qualitatifs canon utilisables sans inventer :
+Le Patriarche Suprême ne reçoit pas de statbloc dédié dans *Empire in Ruins* — il intervient comme figure scriptée du Conclave et du climax, sans bloc M/WS/.../W. Pour usage à table, le MJ s'appuie sur le profil Master Wizard générique (Collège Flamboyant, Lore of Fire) sans valeurs imposées. Repères qualitatifs utilisables sans inventer :
 
 - Carrière : Wizard Lord Niveau 4 (Patriarche), Collège Flamboyant (Aqshy, Pyromancien).
-- Lore : Lore of Fire (canon WFRP4 *Winds of Magic*).
+- Lore : Lore of Fire (WFRP4 *Winds of Magic*).
 - Bonus situationnel canon : un PJ magicien tentant de calmer Thyrus après le bris reçoit +20 au test Charm `EiR ch.7 l.268`.
-- Statut au climax : le canon ne le désigne pas comme victime — convention table par défaut = survit `EiR ch.13 l.413+417`.
+- Statut au climax : le ne le désigne pas comme victime — convention table par défaut = survit `EiR ch.13 l.413+417`.
 
 Si la table doit le faire combattre, restituer un profil de Magister haut niveau avec **Channelling (Aqshy)**, **Language (Magick)**, **Lore (Magic)**, **Lore (Daemonology)**, et les sortilèges Lore of Fire usuels :
 

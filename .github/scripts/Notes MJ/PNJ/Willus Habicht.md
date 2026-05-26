@@ -9,7 +9,7 @@
 - **Statut** : [VIVANT — DÉTENU post-S54]
 - **Tags** : `#Willus` `#WillusHabicht` `#Intendant` `#Quartermaster` `#Piquet` `#TraficPoudre` `#Détourment` `#Détenu` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4462.
 
 ## Statbloc (partiel)

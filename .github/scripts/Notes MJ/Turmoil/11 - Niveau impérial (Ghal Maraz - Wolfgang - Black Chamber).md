@@ -12,7 +12,7 @@
 - **Capitale institutionnelle** : **Altdorf** — siège de tous les organes impériaux (Volkshalle, Imperial Palace, Grand Cathedral Sigmar, Imperial College of Magic, Île Noire, Castle Reikguard à proximité). *"The Imperial Palace of Altdorf is a massive, highly elaborate keep standing near the middle of the Imperial capital city. To the north of the impressive building is the Emperor's residence, home to his privy council and his family. The southern part of the palace is the public-facing facility, housing council chambers and the Volkshalle"* (Fandom Imperial Palace).
 
 - **Lieux institutionnels clés** :
-  - **Volkshalle** : grande salle d'État, *"where the electors meet to elect the emperor and where the newly-elected emperor is crowned. The Reikland Council and Reikland Diet also meet in the Volkshalle"* (Fandom Imperial Palace) ; comporte **deux chambres canon nommées** : **Wilhelm Chamber** (siège Reikland Council 10 High Lords — *"Reikland Council meetings are held each week in the Wilhelm Chamber of the Volkshalle to discuss matters of import"* Altdorf ch.3 l.141, nommée d'après Wilhelm III the Wise fondateur dynastie 2429 IC) + **Holzkrug Chamber** (siège Reikland Diet assemblée nobles vassaux — nommée d'après House Holzkrug Fandom Imperial Palace) ; lieu du Conclave d'urgence S62 ch.7 et du climax cérémonie 9 Brauzeit ch.13.
+  - **Volkshalle** : grande salle d'État, *"where the electors meet to elect the emperor and where the newly-elected emperor is crowned. The Reikland Council and Reikland Diet also meet in the Volkshalle"* (Fandom Imperial Palace) ; comporte **deux chambres nommées** : **Wilhelm Chamber** (siège Reikland Council 10 High Lords — *"Reikland Council meetings are held each week in the Wilhelm Chamber of the Volkshalle to discuss matters of import"* Altdorf ch.3 l.141, nommée d'après Wilhelm III the Wise fondateur dynastie 2429 IC) + **Holzkrug Chamber** (siège Reikland Diet assemblée nobles vassaux — nommée d'après House Holzkrug Fandom Imperial Palace) ; lieu du Conclave d'urgence S62 ch.7 et du climax cérémonie 9 Brauzeit ch.13.
   - **Imperial Palace** : bipartite (nord privé Privy Council + résidence KF ; sud public Volkshalle + council chambers) ; gymnasium, great ballroom, Hall of Mirrors, Emperor's private library (contient *"the war journal of Magnus the Pious"* — Fandom Imperial Palace) ; administré par le **High Lord Chamberlain** côté sud.
   - **Île Noire** : *"juts darkly out of the River Reik"* (Fandom Black Isle) — île fortifiée dans le Reik reliée aux murs d'Altdorf, QG de la Chambre Noire ; *"the cannon-guarded fortress is on an island in the Reik… the Chambre Noire intentionally cultivates an aura of menace by lining the castle's ramparts with the decapitated heads of traitors and heretics"* (Fandom Black Isle).
   - **Castle Reikguard** : QG du Grand Order of the Reiksguard Knights ; *"located south-east of the grand city of Altdorf, along the confluence of the Reik River"* (Fandom Grand Order of the Reiksguard) ; *"runic devices repel magic"* (canon Altdorf ch.4 — perçu par Wolfgang lors de son séjour).
@@ -23,13 +23,13 @@
 
   - **Ghal Maraz** (vrai marteau de Sigmar) : *"The creation of Ghal Maraz is attributed to Dwarf Ancestor Gods Thungni, the God of Runesmiths, and his older brother Smednir, the Shaper of Ore, at the dawn of time"* (Fandom Ghal Maraz, tradition divine) + *"Some maintain the warhammer of Sigmar, Ghal Maraz itself, was the work of Skalf Blackhammer, a renowned Dwarf Runesmith"* (Fandom Ghal Maraz, tradition historique — les deux coexistent canon). *"This mighty magical weapon was gifted to the young Unberogen prince Sigmar in **-15 IC**, when a young Sigmar and his warband of Unberogen warriors rescued the Dwarf High King Kurgan Ironbeard"* (Fandom Ghal Maraz). Comporte *"four or five extremely powerful Dwarfen runes"* (Fandom — au-dessus du plafond canon "no Runelord thinks it is even possible to make a runic weapon with more than 3 runes"). **Le vrai Ghal Maraz est perdu depuis Sigmar** — substitué par l'Imitation portée par tous les empereurs Holswig-Schliestein jusqu'en 2512 IC : *"The true Ghal Maraz was found by adventurers during the civil strife of the Turmoil of 2512 IC in the Black Fire Pass and returned to Karl Franz after they defeated the Tzeentchian Lord of Change Sheerargetru"* (Fandom Ghal Maraz). Symbolisme runique : **la magie du marteau a scellé Sheerargetru** dans le Black Fire Pass *"by the magic of the runehammer"* (Fandom Sheerargetru).
 
-  - **Imitation Ghal Maraz** : *"a powerful magical weapon, blessed by the priests of the Cult of Sigmar and constructed by skilled Dwarf Runesmiths, but only an imitation"* (Fandom Ghal Maraz). Statbloc canon EiR Intro l.856-862 : Magical Two-Handed Warhammer, Radiant Nimbus (Unstable Trait), Rune of Goblin Bane, Rune of Fire ; *"forged combining Dwarf Runesmithery + Sigmarite blessings 2500 years ago"* (EiR Intro l.859). Portée par Hermann von Feilbach (sosie public KF) pour toutes les apparitions impériales. **Brisée en 9 fragments par Boris X Todbringer avec son Runefang Peak Leveller** au Conclave S62 — *"there is a flash of light and a CRACK! like thunder. And Sigmar's Hammer shatters"* (EiR ch.7 l.247-253, titre de section EiR ch.7 = *"Splitting the Skull Splitter"* — wordplay sur le sobriquet du Runefang Middenland).
+  - **Imitation Ghal Maraz** : *"a powerful magical weapon, blessed by the priests of the Cult of Sigmar and constructed by skilled Dwarf Runesmiths, but only an imitation"* (Fandom Ghal Maraz). Statbloc EiR Intro l.856-862 : Magical Two-Handed Warhammer, Radiant Nimbus (Unstable Trait), Rune of Goblin Bane, Rune of Fire ; *"forged combining Dwarf Runesmithery + Sigmarite blessings 2500 years ago"* (EiR Intro l.859). Portée par Hermann von Feilbach (sosie public KF) pour toutes les apparitions impériales. **Brisée en 9 fragments par Boris X Todbringer avec son Runefang Peak Leveller** au Conclave S62 — *"there is a flash of light and a CRACK! like thunder. And Sigmar's Hammer shatters"* (EiR ch.7 l.247-253, titre de section EiR ch.7 = *"Splitting the Skull Splitter"* — wordplay sur le sobriquet du Runefang Middenland).
 
   - **Silver Seal** : *"crafted by warrior mage Fredrik von Tarnus for Magnus the Pious post-Great War Against Chaos"* (EiR Intro l.870). Ward 8+ + Magic Resistance 2. Porté par Hermann von Feilbach en symétrie de l'Imitation Ghal Maraz pour compléter l'apparence impériale publique.
 
   - **Dragon Tooth / Drachenzahn** : Runefang Reikland, *"The Runefang of Reikland is called Dragon Tooth and is owned by Karl Franz, Elector Count and Emperor of Reikland… Karl Franz inherited Dragon's Tooth, the Reikland Runefang, when his father Emperor Luitpold died in 2502 IC"* (Lexicanum Runefang + Karl Franz). Forgé par Alaric the Mad. Détenu personnellement par Karl-Franz (pas porté par Hermann en public — Hermann porte l'Imitation Ghal Maraz seule).
 
-  - **Grudge Settler** : Solland Runefang, *"When Solland was razed by the WAAAGH! of Gorbad Ironclaw, its Runefang was thought lost… Gorbad ripped Solland's Runefang, Grudge Settler, from the dying grasp of Eldred, the province's last Elector Count"* (Archives Vol I ch.4 l.282-283). **Trajet canon de récupération** : *"Grudge Settler, Solland's Runefang, was recovered in **2378 IC** by a joint expedition of Dwarfs and Men led by the Dwarf Thane Egrim Stonehammer. The Runefang was retrieved from the lair of a Chimera in the Worlds Edge Mountains"* (Fandom Solland) → présenté à l'Empereur à Altdorf → placé dans l'**Imperial Treasury** → confié au Reiksmarshall en gardiennage : *"It soon became tradition for the incumbent Emperor to entrust the Runefang to the care of one of the Empire's greatest heroes, and that honor currently sits with the Reiksmarshall, Kurt Helborg"* (Fandom Kurt Helborg). Trappings statbloc Helborg : *"Solland Runefang"* (Altdorf ch.5 l.665) — porté en permanence par Helborg (Altdorf ch.5 l.655). Solland province éteinte depuis **1707 IC** (raid Gorbad Ironclaw ; monument 1707 IC Altdorf — Altdorf ch.5 l.687). **Alias canon de Grudge Settler** : Grollhalter (Grudgebearer), Lightshard, Helbringer, Warpsbane, Klingerach (Sword of Vengeance) (Fandom Solland).
+  - **Grudge Settler** : Solland Runefang, *"When Solland was razed by the WAAAGH! of Gorbad Ironclaw, its Runefang was thought lost… Gorbad ripped Solland's Runefang, Grudge Settler, from the dying grasp of Eldred, the province's last Elector Count"* (Archives Vol I ch.4 l.282-283). **Trajet de récupération** : *"Grudge Settler, Solland's Runefang, was recovered in **2378 IC** by a joint expedition of Dwarfs and Men led by the Dwarf Thane Egrim Stonehammer. The Runefang was retrieved from the lair of a Chimera in the Worlds Edge Mountains"* (Fandom Solland) → présenté à l'Empereur à Altdorf → placé dans l'**Imperial Treasury** → confié au Reiksmarshall en gardiennage : *"It soon became tradition for the incumbent Emperor to entrust the Runefang to the care of one of the Empire's greatest heroes, and that honor currently sits with the Reiksmarshall, Kurt Helborg"* (Fandom Kurt Helborg). Trappings statbloc Helborg : *"Solland Runefang"* (Altdorf ch.5 l.665) — porté en permanence par Helborg (Altdorf ch.5 l.655). Solland province éteinte depuis **1707 IC** (raid Gorbad Ironclaw ; monument 1707 IC Altdorf — Altdorf ch.5 l.687). **Alias de Grudge Settler** : Grollhalter (Grudgebearer), Lightshard, Helbringer, Warpsbane, Klingerach (Sword of Vengeance) (Fandom Solland).
 
   - **Imperial regalia secondaire** : couronne impériale (cérémonies), trône impérial Volkshalle (couronnement), sceau impérial (édits).
 
@@ -64,7 +64,7 @@
 - **[[Isabella von Holswig-Schliestein]]** — sœur Karl-Franz, mère Wolfgang ; lignée maternelle justifie position d'héritier Wolfgang (Fandom Wolfgang).
 - **[[Maria-Luise von Walfen]]** — *"Lady at the Imperial Court of Altdorf, and the mother of the children of Emperor Karl Franz… childhood friend of the emperor as well as his distant cousin"* (Fandom Maria-Luise von Walfen) ; titre canon EiR = *"Chief Lady of Court, mother of his children, informally (out of electors' earshot) known as 'the Empress'"* (EiR ch.7 l.107). Mère probable de **Luitpold + Alia** (bâtards pré-2512, légitimés post-mariage 2512).
 - **Luitpold (fils KF)** — *"legitimised bastard son and designated heir of Emperor Karl Franz… Luitpold was first legitimised as the emperor's designated heir to the Principality of Altdorf"* (Fandom Luitpold Prince). Pré-Turmoil 2512 = non légitimé. Post-Turmoil = **héritier du Principat d'Altdorf**.
-- **Alia von Holswig-Schliestein** — bâtarde infant pré-2512 ; *"In the case of Karl Franz's death, his titles would be divided, with Luitpold inheriting the Principality of Altdorf and his infant sister Alia inheriting Karl Franz's position as Elector Countess of Reikland"* (Fandom Maria-Luise) — **héritière Elector Countess of Reikland canon post-Turmoil**.
+- **Alia von Holswig-Schliestein** — bâtarde infant pré-2512 ; *"In the case of Karl Franz's death, his titles would be divided, with Luitpold inheriting the Principality of Altdorf and his infant sister Alia inheriting Karl Franz's position as Elector Countess of Reikland"* (Fandom Maria-Luise) — **héritière Elector Countess of Reikland post-Turmoil**.
 
 #### Cour impériale et institutions
 - **Immanuel-Ferrand Holswig-Schliestein** — *"uncle of Emperor Karl Franz… Grey Guardian… sat on the Council of State as the 'High Chancellor of the Realm'… ran a subdivision of the Chambre Noire spy ring called the Graukappen"* (Fandom Immanuel-Ferrand). **Wizard of the Grey Order** (Ulgu). *"Normally a careful diplomat, but a notable flaw has allowed rivals to exploit him. He is myopic in his belief that the Empire would benefit if power were centralised, and he thinks his nephew is worthy of absolute authority"* (Fandom Immanuel-Ferrand). **Architecte involontaire** du Turmoil : *"Acting on intelligence provided by Yann Zuntermein, funneled through Liepmund Holzkrug, his underling, he persuaded the Emperor to seize Ubersreik"* (Fandom Immanuel-Ferrand). Recruteur de Hermann von Feilbach : *"Hermann was inducted into the Chambre Noire [by Immanuel-Ferrand], taught the art of spycraft, and given various new names and identities"* (Fandom Hermann von Feilbach). Post-Turmoil : **head Chambre Noire** (succède Holzkrug — Fandom Immanuel-Ferrand). *"By at least 2522, his office had been passed to Siegfried von Walfen"* (Fandom Immanuel-Ferrand) — post-canonique fiche 11.
@@ -78,7 +78,7 @@
 #### Acteurs Main Pourpre & Chaos (orchestrateurs)
 - **Gideon (Changeling Tzeentch)** — *"a Lesser Daemon of Tzeentch. His true form is a small, wizened creature with bat-like wings, long spindly legs and arms covered in scaly, wrinkled skin, though he can appear exactly as any human he chooses"* (Fandom Gideon). *"Gideon was involved in the fall of the house of Teugen in Bögenhafen and the takeover of Übersreik in 2512 IC, and was also chief architect of the imperial civil war known as Turmoil of 2512"* (Fandom Gideon). **Vrai goal** : *"Gideon's true goal was the freedom of the Lord of Change Sheerargetru, and for this reason, the prince's body was prepared to be a host for the daemon. Prince Wolfgang was the first and best vessel prepared, and Gideon had ensured that he had been tutored by Tzeentch's servants throughout his youth"* (Fandom Sheerargetru). **Identité PBT impliquée** *(canon Source/EiR Companion ch.7 + cascade fiche 02 — déduction GM solide, non explicitement nommée Fandom)* : *"At the start of [Power Behind the Throne] adventure, Hoflich has been replaced by a doppelganger. Within his apartments, the body of Joachim Hoflich is found dead for a month or two and left in a waxed sack within a large chest"* (Fandom Joachim Hoflich) — confirme doppelganger remplaçant + corps réel mort ; **identité Gideon = ce doppelganger** = canonisée Source/EiR Companion ch.7 *The Changeling* + cohérent cascade fiche 02 Wasmeier-Hoflich-Gideon réseau Tzeentch Middenheim (Fandom Joachim Hoflich ne nomme pas Gideon explicitement, déduction Source/ requise).
 - **Sheerargetru** — *"an Exalted Lord of Change of Tzeentch who tried to influence the creation of Sigmar's warhammer Ghal Maraz and held a grudge against any of its possessors after Sigmar defeated it and imprisoned the Daemon for millennia"* (Fandom Sheerargetru). Historique canon : *"Sheerargetru first entered the Known World during the Great Catastrophe… they battled deep beneath the earth near Black Fire Pass, and Sheerargetru was sealed away by the magic of the runehammer"* (Fandom Sheerargetru). **Vrai antagoniste** ; Gideon n'est que son agent. *"This Greater Daemon of Tzeentch was ultimately responsible for the events of the Turmoil of 2512 IC"* (Fandom Sheerargetru).
-- **Neuf Yeux (tuteurs Tzeentch de Wolfgang)** — *"Almost nine years ago, Gideon approached each of the cults and asked their most erudite members to tutor Prince Héritier Wolfgang. These tutors are known as the Neuf Yeux"* (Fandom Neuf Yeux). *"Tzeentch's sacred number is nine, and while they all have an inkling that they are serving grand plans of Tzeentch, they do not realise that they are about to become vessels for daemon possession"* (Fandom Neuf Yeux). **9 tuteurs canon nommés** :
+- **Neuf Yeux (tuteurs Tzeentch de Wolfgang)** — *"Almost nine years ago, Gideon approached each of the cults and asked their most erudite members to tutor Prince Héritier Wolfgang. These tutors are known as the Neuf Yeux"* (Fandom Neuf Yeux). *"Tzeentch's sacred number is nine, and while they all have an inkling that they are serving grand plans of Tzeentch, they do not realise that they are about to become vessels for daemon possession"* (Fandom Neuf Yeux). **9 tuteurs nommés** :
 
 | # | Nom | Titre | Ville | Discipline | Source |
 |---|---|---|---|---|---|
@@ -134,9 +134,9 @@ NB : Symbologie chiffre 9 récurrente — 9 Eyes, 9 fragments Ghal Maraz, 9 Brau
 - **Silver Seal** : porté par Hermann en complément Imitation Ghal Maraz.
 
 ### Statut hiérarchique électoral (15-17 sièges)
-- **15 sièges électoraux canon pré-Turmoil** (cf. master `10 - Turmoil - Synthèse globale.md` section B et fiches 01-08) :
+- **15 sièges électoraux pré-Turmoil** (cf. master `10 - Turmoil - Synthèse globale.md` section B et fiches 01-08) :
   - Reikland (Karl-Franz), Middenheim (Boris Todbringer), Middenland-Carroburg (Bildhofen), Nordland (Tasseninck via Wardenship Boris), Hochland (Aldebrand Ludenhof), Ostermark (Hertwig), Ostland (Valmir von Raukov), Talabecland (Krieglitz), Talabheim (Feuerbach), Stirland (Alberich Haupt-Anderssen), Averland (Ludmilla Alptraum), Nuln-Wissenland (Emmanuelle von Liebwitz), Sudenland (Toppenheimer), Moot (Halflings Eldermarshal), Grand Theogonist of Sigmar (Yorri XV — cumule Arch Lector West).
-  - + Arch Lector East (Aglim Talabheim), Arch Lector South (Kaslain Nuln) = sièges électoraux additionnels selon traditions canon.
+  - + Arch Lector East (Aglim Talabheim), Arch Lector South (Kaslain Nuln) = sièges électoraux additionnels selon traditions.
   - + Ar-Ulric (Emil Valgeir, post-PBT) = siège électoral cult Ulric.
 - **Karl-Franz vote double** : Reikland + Empereur (suffrage protocolaire).
 
@@ -176,7 +176,7 @@ NB : Symbologie chiffre 9 récurrente — 9 Eyes, 9 fragments Ghal Maraz, 9 Brau
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique** par Sheerargetru via son agent Gideon. La cellule Main Pourpre d'Altdorf (Zuntermein) est le **vecteur opérationnel humain** ; la Chambre Noire est l'**institution capturée** ; Wolfgang est le **vessel programmé** ; Ghal Maraz est l'**enjeu symbolique central**.
 
@@ -381,7 +381,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance impériale
 - **Empereur** : Karl-Franz I Holswig-Schliestein **restauré** *"renewed vigour and purpose"* (EiR ch.17 l.30) ; *"Ghal Maraz in hand, the Emperor is a new man"* (EiR ch.13 l.623).
@@ -394,7 +394,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 
 ### Symboles et reliques impériales post-Turmoil
 - **Vrai Ghal Maraz** : **récupéré intact des Caves of Chaos ch.11 et en possession Karl-Franz** post-Turmoil (canon EiR ch.13 l.623 *"Ghal Maraz in hand, the Emperor is a new man"* + Fandom Ghal Maraz *"returned to Karl Franz after they defeated the Tzeentchian Lord of Change Sheerargetru"*). **Le Vrai marteau n'a jamais été brisé** — seule l'Imitation a été brisée par Boris S62. Variante Fandom Sheerargetru WFRP2 legacy *"banished back to the Realm of Chaos with Ghal Maraz, which followed it into the Aethyr"* — **résolue par règle d'arbitrage projet en Notes hors filtre** (WFRP4 EiR supersède).
-- **9 fragments Imitation Ghal Maraz** : **statut post-Turmoil non précisé canon EiR**. Hypothèse : remisés Grand Cathedral ou Chambre Noire comme reliques (Imitation = artefact magique avec runes), ou détruits/dispersés. EiR canon ne tranche pas la reconstitution ou la disposition finale des 9 fragments.
+- **9 fragments Imitation Ghal Maraz** : **statut post-Turmoil non précisé canon EiR**. Hypothèse : remisés Grand Cathedral ou Chambre Noire comme reliques (Imitation = artefact magique avec runes), ou détruits/dispersés. EiR ne tranche pas la reconstitution ou la disposition finale des 9 fragments.
 - **Dragon Tooth / Drachenzahn** : continuité Karl-Franz.
 - **Solland Runefang Grudge Settler** : continuité Helborg.
 - **Silver Seal** : continuité (probablement remisé Chambre Noire après Hermann libéré du rôle de sosie).
@@ -436,7 +436,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
   - Head : Immanuel-Ferrand Holswig-Schliestein.
   - Schattenkabinett (Else Barnhelm probable continuité, lacune canon).
   - Graukappen : continuité institutionnelle, Immanuel-Ferrand délègue après promotion head.
-  - **Spionwerber purgé** (Zuntermein mort + Ordo Terribilis Main Pourpre exposée) — reconstruction sous direction loyaliste, lacune canon sur identité du successeur.
+  - **Spionwerber purgé** (Zuntermein mort + Ordo Terribilis Main Pourpre exposée) — reconstruction sous direction loyaliste, lacune sur identité du successeur.
   - **Cercle Intérieur restructuré** : Hermann von Feilbach probablement libéré du rôle de sosie (note GM Hermann survit canon).
 - **Reiksguard** : continuité institutionnelle ; Helborg revient d'Ubersreik post-crisis ; Cercle Intérieur probablement renforcé.
 - **Imperial College of Magic** : continuité 8 Colleges ; Grey College reste lié à la Chambre Noire via Immanuel-Ferrand.
@@ -458,7 +458,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 - **Sheerargetru** : **exorcisé/banni** ; manifestation réduite si Karl-Franz tient Ghal Maraz vrai (-4 Power) + 9 Yeux démasqués + Wolfgang vessel limité.
 
 ### Endings alternatifs canon (EiR Companion ch.6 *Alternative Empires*)
-4 scénarios canon si les conditions varient (Power Score Sheerargetru, vessel échoué, etc.) :
+4 scénarios si les conditions varient (Power Score Sheerargetru, vessel échoué, etc.) :
 1. **Zuntermein Win** (canon) : KF sickly puppet ; Luitpold succession sous regency Zuntermein ; Empire fracturé civil wars cascade.
 2. **Wasmeier Win** (canon) : Wolf Empire breakaway Middenheim sous Wasmeier (cascade fiche 02).
 3. **Gideon Win** (canon) : Empire = Mordheim ; corruption Chaos cascading.
@@ -476,7 +476,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 | **Maria-Luise von Walfen** | Chief Lady of Court + maîtresse KF + mère enfants + confidente Emmanuelle | **Épouse légitime Karl-Franz** post-2512 ; *"informally Empress"* devient formelle ; voix Privy Council renforcée | Vivante (Fandom Maria-Luise) |
 | **Luitpold (fils KF)** | Bâtard non légitimé | **Légitimé** ; **héritier Principat d'Altdorf** | Vivant (Fandom Luitpold Prince) |
 | **Alia von Holswig-Schliestein** | Bâtarde infant non légitimée | **Légitimée** ; **héritière Elector Countess of Reikland canon** | Vivante (Fandom Maria-Luise + Princess Alia) |
-| **Isabella von Holswig-Schliestein** | Sœur KF ; mère Wolfgang | Mère endeuillée post-Wolfgang ; canon ne précise pas réaction | Vivante (Fandom Karl Franz) |
+| **Isabella von Holswig-Schliestein** | Sœur KF ; mère Wolfgang | Mère endeuillée post-Wolfgang ; ne précise pas réaction | Vivante (Fandom Karl Franz) |
 | **Immanuel-Ferrand Holswig-Schliestein** | Oncle KF, Grey Wizard, Chancellor of the Empire, head Graukappen, recruteur Hermann, architecte involontaire Turmoil (manipulé Zuntermein-Holzkrug) | **Head Chambre Noire** post-Holzkrug ; continuité Chancellor ; reste Grey Wizard | Vivant (Fandom Immanuel-Ferrand ; Fandom Chambre Noire) |
 | **Graf Liepmund Holzkrug** | Head Chambre Noire Altdorf + foreign relations Reikland + House Holzkrug + **High Lord Ambassador on the Reikland Council** (Altdorf ch.5 l.279) ; **agenda anti-Holswig-Schliestein** via Jungfreuds Ubersreik | **Mort climax** *"die for it"* confront Zuntermein seul | Mort canon (EiR ch.13 l.144 ; Fandom Liepmund Holzkrug) |
 | **Reiksmarshall Kurt Helborg** | 8e Grand Master Reiksguard + Reiksmarshall Empire ; porte Grudge Settler ; absent Ubersreik | **Continuité** ; revient d'Ubersreik post-crisis | Vivant (Fandom Kurt Helborg ; EiR ch.13 l.338) |
@@ -485,7 +485,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 | **Henrik Kappelmuller** | Médecin personnel KF + agent Main Pourpre Altdorf ; entretient Purple Brain Fever via sédatifs | **Démasqué + "vanished or dead"** (EiR ch.13 l.623) | Variable (EiR ch.13 l.623 ; Fandom Henrik Kappelmuller) |
 | **Gideon (Changeling Tzeentch)** | Lesser Daemon shape-shifter Tzeentch ; alias Joachim Hoflich post-PBT ; orchestrateur Neuf Yeux ; sorcerer Purple Brain Fever | **Démasqué + exorcisé/tué** climax ch.13 | Variable (Fandom Gideon ; EiR Companion ch.7) |
 | **Sheerargetru (Lord of Change)** | Exalted Lord of Change Tzeentch ; emprisonné Black Fire Pass depuis Great Catastrophe ; daemon préparé vessel Wolfgang | **Exorcisé/banni** ; manifestation réduite -4 Power si Ghal Maraz présent | Variable (Fandom Sheerargetru ; EiR ch.13 l.485, l.498-543) |
-| **Neuf Yeux (9 tuteurs Tzeentch — bloc)** | 9 tuteurs canon nommés dans 9 villes Empire+Tilea — Kathe Ruttmann (Watchful Eye Bögenhafen, history+politics), Per Haldestaake (Broken Eye Ubersreik, trade+technical), Wilhelmina Novak (Sinister Eye Altdorf, magic, lien Imperial College of Magic), Wolfie Jessner (Wandering Eye Middenheim, rural+North), Ingrid Rademakers (Eagle Eye Talabheim, natural history+fencing), Wulfrum Ahlquist (Public Eye Nuln, society+human nature), Gustav Klaus (Kaleidoscope Eye Bechafen, non-human species — miroir brisé 9 fragments symbolique), Gislind Ursin (Blank Eye Averheim, culture+philosophie — cascade fiche 04), Vatheck Fulci (Far Eye Remas Tilea, geography+foreign affairs — cascade fiche 12) | **Démasqués partiellement** post-Turmoil ; **morts si Power Score les active comme vessels secondaires** (chaque Nine Eye vivant au climax brûle en flammes pink/blue et devient vessel daemonic — Lord of Change inférieur) ; **survivants restent menace** post-Turmoil (cellules Tzeentch régionales actives) | Variable (Fandom Neuf Yeux ; EiR ch.13 l.405 ; EiR ch.4 l.274-303) |
+| **Neuf Yeux (9 tuteurs Tzeentch — bloc)** | 9 tuteurs nommés dans 9 villes Empire+Tilea — Kathe Ruttmann (Watchful Eye Bögenhafen, history+politics), Per Haldestaake (Broken Eye Ubersreik, trade+technical), Wilhelmina Novak (Sinister Eye Altdorf, magic, lien Imperial College of Magic), Wolfie Jessner (Wandering Eye Middenheim, rural+North), Ingrid Rademakers (Eagle Eye Talabheim, natural history+fencing), Wulfrum Ahlquist (Public Eye Nuln, society+human nature), Gustav Klaus (Kaleidoscope Eye Bechafen, non-human species — miroir brisé 9 fragments symbolique), Gislind Ursin (Blank Eye Averheim, culture+philosophie — cascade fiche 04), Vatheck Fulci (Far Eye Remas Tilea, geography+foreign affairs — cascade fiche 12) | **Démasqués partiellement** post-Turmoil ; **morts si Power Score les active comme vessels secondaires** (chaque Nine Eye vivant au climax brûle en flammes pink/blue et devient vessel daemonic — Lord of Change inférieur) ; **survivants restent menace** post-Turmoil (cellules Tzeentch régionales actives) | Variable (Fandom Neuf Yeux ; EiR ch.13 l.405 ; EiR ch.4 l.274-303) |
 | **Kastor Lieberung** | Magister Impedimentae Main Pourpre Nuln ; recruteur Neuf Yeux via Gideon | **Mort historique** Bögenhafen ~2505-2510 (leuré faux héritage, tué mutants) ; = S8 PBT table Gauche off-canon | Mort historique (EiR Intro l.208 ; Cubicle 7 blog) |
 | **Wilhelm II (background)** | Premier Holswig-Schliestein Emperor 2426 IC ; vainc Holzkrug coalition | (background dynastique pré-Turmoil) | Mort historique (Altdorf ch.5 l.279) |
 | **Wilhelm III the Wise (background)** | Consolide dynastie 2429 IC + fonde Reiksguard 2429 IC ; éponyme House Holswig-Schliestein "House of the Third Wilhelm" + Wilhelm Chamber Volkshalle | (background dynastique pré-Turmoil) | Mort historique (Altdorf ch.5 l.595 + ch.7 l.572-584 ; Fandom House Holswig-Schliestein) |
@@ -573,7 +573,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 - **Cascade vers [[Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains)]]** :
   - **Vatheck Fulci Far Eye Remas (Tilea)** Nine Eye = cellule Tzeentch extra-impériale (cascade fiche 12).
-  - **Black Fire Pass + Caves of Chaos** (Worlds Edge / Black Mountains — canon EiR ch.10-11 Volume 5) = lieux canon récupération vrai Ghal Maraz + prison Sheerargetru Great Catastrophe (cascade fiche 12). **NB** : **Karak Skygg** (Middle Mountains, Dwarf hold abandonné squatté Clan Skryre Skaven) = lieu Volume 4 EiR *The Horned Rat* ; Characters sortent Karak Skygg au début Volume 5 ch.1 (rescue Baron Heinrich Todbringer dirigible Sky Wolf) — **PAS étape Volume 5 quête Ghal Maraz**.
+  - **Black Fire Pass + Caves of Chaos** (Worlds Edge / Black Mountains — canon EiR ch.10-11 Volume 5) = lieux récupération vrai Ghal Maraz + prison Sheerargetru Great Catastrophe (cascade fiche 12). **NB** : **Karak Skygg** (Middle Mountains, Dwarf hold abandonné squatté Clan Skryre Skaven) = lieu Volume 4 EiR *The Horned Rat* ; Characters sortent Karak Skygg au début Volume 5 ch.1 (rescue Baron Heinrich Todbringer dirigible Sky Wolf) — **PAS étape Volume 5 quête Ghal Maraz**.
   - **Castle Drachenfels** : background historique double — (a) **2480 IC** Oswald von Königswald + Genevieve Dieudonné tuent Constant Drachenfels une première fois ; (b) **2505 IC** Detlef Sierck tue Drachenfels ressuscité lors de la première de sa pièce + château cleared 2505 IC + rasé date ultérieure non précisée. **PAS étape canon EiR Volume 5 quête Ghal Maraz** (cascade fiche 12 Notes hors filtre).
   - **Marienburg + Bretonnia** = cibles Graukappen Chambre Noire (Fandom Chambre Noire : *"In particular they're interested in curtailing the political power wielded by the Bretonnian court and Marienburg's ruling directorate"*).
   - **Norsca** = pèlerinage Jarrick Valgeir Ar-Ulric déchu (cascade fiches 10+12).
@@ -604,12 +604,12 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 - **(canon)** **Île Noire infiltration** — Characters peuvent enquêter sur Chambre Noire via Holzkrug/Zuntermein/Immanuel-Ferrand contacts.
 - **(canon)** **Castle Reikguard** — accès aux Reiksguard ; Hermann von Feilbach allié potentiel.
 - **(canon)** **Reiksmarshall Helborg à Ubersreik** ch.13 (EiR ch.13 l.338) — Characters peuvent communiquer urgence Volkshalle.
-- **(canon)** **Endings alternatives EiR Companion ch.6** : Zuntermein Win / Wasmeier Win / Gideon Win / Lieberung Win — scénarios canon si conditions varient.
+- **(canon)** **Endings alternatives EiR Companion ch.6** : Zuntermein Win / Wasmeier Win / Gideon Win / Lieberung Win — scénarios si conditions varient.
 
 ### Hooks canon + déduction
 
 - **(canon + déduction)** **Conférence électorale post-Turmoil** : EiR ch.17 implique restructuration provinces requiert assemblée formelle Electors ; date/lieu/procédure non détaillés canon — Characters peuvent y être convoqués comme témoins-clés (libérateurs Ghal Maraz, défenseurs Volkshalle).
-- **(canon + déduction)** **Sort personnel Hermann post-Turmoil** : note GM canon dit *"survit"* + Fandom *"would dearly love to be relieved"* — hook future Reiksguard mission ou retraite chevaleresque.
+- **(canon + déduction)** **Sort personnel Hermann post-Turmoil** : note GM dit *"survit"* + Fandom *"would dearly love to be relieved"* — hook future Reiksguard mission ou retraite chevaleresque.
 - **(canon + déduction)** **Reikland succession post-Wolfgang/Alia** : canon Fandom Luitpold disinherited Reikland *"reasons unknown"* (post-canonique Storm of Chaos era) — possible dynamique non détaillée canon EiR.
 - **(canon + déduction)** **Cellules régionales Main Pourpre non démasquées** : Nuln + Hochland + Averheim + Wolfenburg + Bechafen + Ubersreik + Bögenhafen + Remas — hook investigation post-Turmoil pour purge Neuf Yeux survivants.
 - **(canon + déduction)** **Wilhelmina Novak Sinister Eye Altdorf magic** : tuteur Wolfgang spécialiste magic + lien Imperial College of Magic → infiltration Grey/Bright/etc. College probable, hook investigation pour Grey Wizard (Immanuel-Ferrand) ou Patriarch.
@@ -617,12 +617,12 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 - **(canon + déduction)** **Reconstruction Spionwerber** post-Zuntermein : qui prend la direction ? Hook recrutement Characters comme agents Chambre Noire.
 - **(canon + déduction)** **Bilan dossier Chambre Noire** : combien d'Electors disgraciés (Krieglitz, Bildhofen, Alptraum, Toppenheimer, Tasseninck) vs récompensés (Leitdorf, von Raukov, Liebwitz, Haupt-Anderssen, Gausser, Hertwig, Ludenhof) — restructuration majeure (EiR ch.17 l.34).
 - **(canon + déduction)** **Vrai Ghal Maraz post-Turmoil** : canon Fandom Ghal Maraz dit *"returned to Karl Franz"* ; canon Fandom Sheerargetru dit *"banished back to the Realm of Chaos with Ghal Maraz, which followed it into the Aethyr"* — divergence interne Fandom. **Source/EiR ch.13 fait foi** (Karl-Franz tient Ghal Maraz). Voir section 10 + Notes hors filtre.
-- **(canon + déduction)** **Imperial College of Magic post-Turmoil** : si Wilhelmina Novak (Sinister Eye Altdorf) infiltre un College, hook purge + restructuration ; lacune canon sur Patriarch 2512.
+- **(canon + déduction)** **Imperial College of Magic post-Turmoil** : si Wilhelmina Novak (Sinister Eye Altdorf) infiltre un College, hook purge + restructuration ; lacune sur Patriarch 2512.
 - **(canon + déduction)** **Helborg Solland Runefang Grudge Settler** : *"Grudgebearer"* mentionné Altdorf ch.5 l.655 vs *"Grudge Settler"* mentionné Archives Vol I ch.4 l.282-283 et Archives Vol III ch.7 l.141 ; **Archives Vol I primary source + plus récent** → **Grudge Settler canon**, *"Grudgebearer"* = variante OCR ou ancienne édition.
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -728,7 +728,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
   - l.506 — Imperial Ostlanders Helborg Battle of the Plain 2506 IC
 
 - **EiR Companion ch.7 *The Changeling*** :
-  - Gideon Changeling canon détails
+  - Gideon Changeling détails
   - Identité doppelganger Joachim Hoflich
   - Orchestrateur Neuf Yeux
   - Relation Sheerargetru maître
@@ -819,9 +819,9 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3.*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3.*
 
 *(Entrée "Lieu et date climax Heinrich Todbringer" déplacée en Notes hors filtre — divergence WFRP4 EiR vs WFRP2 legacy Sheerargetru Fandom résolue par règle d'arbitrage projet.)*
 
@@ -831,9 +831,9 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ### Identité des 9 villes Neuf Yeux vs 9 cellules Main Pourpre régionales
 
-- **Canon Fandom Neuf Yeux** : 9 tuteurs canon nommés + 9 villes (Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim, Remas).
+- **Canon Fandom Neuf Yeux** : 9 tuteurs nommés + 9 villes (Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim, Remas).
 - **9 cellules Main Pourpre** : ≠ 9 Eyes structurellement (Neuf Yeux = tuteurs personnels Wolfgang, pas tous magisters Main Pourpre cells locales).
-- **Lien Nine Eye + cellule Main Pourpre locale** : canon variable selon ville. **Confirmé** : Gislind Ursin (Averheim — cascade fiche 04 Main Pourpre cell active) ; Wulfrum Ahlquist (Nuln — Kastor Lieberung Magister Impedimentae cell historique) ; Wilhelmina Novak (Altdorf — Zuntermein head cell).
+- **Lien Nine Eye + cellule Main Pourpre locale** : variable selon ville. **Confirmé** : Gislind Ursin (Averheim — cascade fiche 04 Main Pourpre cell active) ; Wulfrum Ahlquist (Nuln — Kastor Lieberung Magister Impedimentae cell historique) ; Wilhelmina Novak (Altdorf — Zuntermein head cell).
 - **Non confirmé** : si chaque Nine Eye est magister Main Pourpre de sa ville ou si certains sont distincts.
 - **Décision GM** : à interpréter au cas par cas selon Source/EiR + cascades fiches régionales.
 
@@ -874,18 +874,18 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 ### Conférence électorale post-Turmoil — date/lieu/procédure exacts
 
 - **Canon Fandom Turmoil of 2512** : **"Electoral Conference" explicite canon** ; *"Emperor Karl Franz called a large Electoral Conference, the largest since Magnus the Pious reunited the Empire two centuries before"*.
-- **Canon EiR ch.17 l.34** : reconfiguration provinces canon mais **détails procéduraux exacts non précisés** (date précise post-9 Brauzeit ? lieu confirmé Volkshalle ? ordre du jour ?).
+- **Canon EiR ch.17 l.34** : reconfiguration provinces mais **détails procéduraux exacts non précisés** (date précise post-9 Brauzeit ? lieu confirmé Volkshalle ? ordre du jour ?).
 - **Décision GM** : Electoral Conference est canon Fandom ; lieu probable Volkshalle (siège électoral traditionnel) dans les mois post-9 Brauzeit 2512 ; détails à inventer.
 
 ### Statut Prince Héritier Reikland post-Wolfgang
 
-- **Canon Fandom Luitpold + Alia** : Luitpold Principat Altdorf, Alia Elector Countess Reikland héritière. **Prince Héritier poste lui-même = non précisé canon post-Wolfgang**.
+- **Canon Fandom Luitpold + Alia** : Luitpold Principat Altdorf, Alia Elector Countess Reikland héritière. **Prince Héritier poste lui-même = non précisé post-Wolfgang**.
 - **Hypothèse** : poste vacant ou éliminé post-2512 (succession scindée Altdorf/Reikland rend Prince Héritier unique obsolète).
 - **Décision GM** : à inventer si pertinent.
 
 ### Sort Wasmeier post-Turmoil
 
-- **Canon EiR ch.13 + EiR Companion ch.6 Alternative Empires** : Wasmeier survivant cellule Middenheim = vessel alternatif Sheerargetru ; mais **sort canon principal climax** = non précisé (Drakwald fugitif persiste).
+- **Canon EiR ch.13 + EiR Companion ch.6 Alternative Empires** : Wasmeier survivant cellule Middenheim = vessel alternatif Sheerargetru ; mais **sort principal climax** = non précisé (Drakwald fugitif persiste).
 - **Cascade fiche 02** : Wasmeier non démasqué canon Turmoil 2512.
 - **Décision GM** : à étoffer cascade fiche 02.
 
@@ -897,7 +897,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ### Boris Runefang = "Peak Leveller" (nom canon EiR Intro) ≠ "Skull Splitter" (sobriquet/titre EiR ch.7+ch.12) — RÉSOLU
 
-- **EiR Intro l.890 statbloc Boris Todbringer** : *"The Middenland Runefang (Peak Leveller)"* — nom canon.
+- **EiR Intro l.890 statbloc Boris Todbringer** : *"The Middenland Runefang (Peak Leveller)"* — nom.
 - **EiR ch.7 l.247** titre de section : *"Splitting the Skull Splitter"* — wordplay sur sobriquet du Runefang Middenland.
 - **EiR ch.12 l.578** titre de section : *"The Skull Splitter Has Returned"*.
 - **Convention dossier établie** : **Peak Leveller** = nom canon ; *"Skull Splitter"* = sobriquet/jeu de mots employé dans les titres EiR.
@@ -905,7 +905,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ### Solland Runefang = "Grudge Settler" (Archives Vol I + III canon) ≠ "Grudgebearer" (Altdorf ch.5 l.655 OCR variante) — RÉSOLU
 
-- **Archives Vol I ch.4 l.282-283** : *"Gorbad ripped Solland's Runefang, Grudge Settler, from the dying grasp of Eldred"* — nom canon.
+- **Archives Vol I ch.4 l.282-283** : *"Gorbad ripped Solland's Runefang, Grudge Settler, from the dying grasp of Eldred"* — nom.
 - **Archives Vol III ch.7 l.141** : *"Solland Runefang was named 'Grudge Settler'"* — confirme.
 - **Altdorf ch.5 l.655** : Helborg porte *"Runefang Grudgebearer"* — variante OCR ou édition antérieure.
 - **Convention dossier établie** : **Grudge Settler** (Archives primary source + Fandom Kurt Helborg référence cohérente).
@@ -914,7 +914,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 ### Neuf Yeux recensement complet 9 tuteurs — RÉSOLU
 
 - **Fandom Neuf Yeux** + **EiR Intro l.43-48 + EiR ch.4 l.274-303** : recensement complet 9 tuteurs nommés (Kathe Ruttmann, Per Haldestaake, Wilhelmina Novak, Wolfie Jessner, Ingrid Rademakers, Wulfrum Ahlquist, Gustav Klaus, Gislind Ursin, Vatheck Fulci) + 9 villes (Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim, Remas) + disciplines associées.
-- **Adopté fiche** : recensement canon intégré section 1 tableau.
+- **Adopté fiche** : recensement intégré section 1 tableau.
 
 ### Karl-Franz titres complets — RÉSOLU
 
@@ -949,7 +949,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 ### Chambre Noire structure 4-wing — RÉSOLUE
 
 - **Fandom Chambre Noire + Altdorf ch.10 l.13+54** : Schattenkabinett (secret police interior) + Graukappen (external) + Spionwerber (recruitment) + **Palisades** (Electors at Altdorf protection, head General Erik Hoffmann) ; QG Île Noire (3 ailes) + Imperial Palace nord (Palisades).
-- **Adopté fiche** : structure 4-wing canon intégrée section 1 (correction v2 — voir entrée Notes hors filtre dédiée *"Chambre Noire structure 4-wing (avec Palisades) — RÉSOLU (correction v2)"*).
+- **Adopté fiche** : structure 4-wing intégrée section 1 (correction v2 — voir entrée Notes hors filtre dédiée *"Chambre Noire structure 4-wing (avec Palisades) — RÉSOLU (correction v2)"*).
 
 ### Karl-Franz couronnement 2502 IC + Dragon Tooth héritage — RÉSOLU (renvoi fiche 09)
 
@@ -958,7 +958,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ### Maria-Luise titre "Chief Lady of Court" vs "Lady at Imperial Court" — RÉSOLU (renvoi fiche 09)
 
-- **EiR ch.7 l.107** : *"Chief Lady of Court"* canon C7 EiR direct.
+- **EiR ch.7 l.107** : *"Chief Lady of Court"* C7 EiR direct.
 - **Fandom Maria-Luise** : *"Lady at the Imperial Court of Altdorf"*.
 - **Adopté fiche** : *"Chief Lady of Court"* (canon EiR Source/) avec note Fandom *"Lady at Imperial Court"* comme variante équivalente.
 
@@ -983,7 +983,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 - **Fandom Kurt Helborg** : *"8th and current Grand Marshal of the Reiksguard Knights and Reiksmarshall of the Empire's military forces"* + titres *"Hand of Vengeance, the Emperor's Chosen, Kriegsmeister and the Hammer of Chaos"*.
 - **Altdorf ch.5 l.655** : description physique + Runefang.
-- **Adopté fiche** : titres canon intégrés.
+- **Adopté fiche** : titres intégrés.
 
 ### Imperial Palace bipartite + Volkshalle + Holzkrug Chamber — RÉSOLU
 
@@ -1004,16 +1004,16 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 - **Canon WFRP4 EiR ch.13** : climax = **Volkshalle Altdorf 9 Brauzeit 2512 IC** (cérémonie retour Ghal Maraz reforgé, défense par Characters).
 - **Fandom Sheerargetru WFRP2 legacy** : *"defeated during the attempted assassination of Heinrich Todbringer and was banished back to the Realm of Chaos with Ghal Maraz, which followed it into the Aethyr to keep the Lord of Change from returning"* + *"After a tough fight in the Volkshalle, Heinrich banished the Daemon by throwing Ghal Maraz at it"* + *"Heinrich was crowned as Emperor Heinrich X and married to Elector Countess Emmanuelle von Liebwitz of Nuln, ending the civil war"*. **Lecture canon WFRP2/Realms of Sorcery** où Heinrich Todbringer succède Karl-Franz comme Empereur post-Volkshalle (canon legacy fil Wolf Emperors).
-- **Application règle d'arbitrage projet** : **WFRP4 EiR ch.13 supersède Fandom Sheerargetru WFRP2 legacy**. EiR ch.13 canon principal : Karl-Franz survit ; Characters défendent Volkshalle ; Ghal Maraz reste avec Karl-Franz (EiR ch.13 l.623).
+- **Application règle d'arbitrage projet** : **WFRP4 EiR ch.13 supersède Fandom Sheerargetru WFRP2 legacy**. EiR ch.13 principal : Karl-Franz survit ; Characters défendent Volkshalle ; Ghal Maraz reste avec Karl-Franz (EiR ch.13 l.623).
 - **Adopté fiche** : Volkshalle 9 Brauzeit 2512 IC ; Karl-Franz survit ; Characters protagonistes ; Heinrich Todbringer succession = scénario WFRP2 legacy non applicable WFRP4.
 
 ### Statut Vrai Ghal Maraz post-Turmoil — Karl-Franz vs Aethyr — RÉSOLU
 
-- **Fandom Ghal Maraz** : *"returned to Karl Franz after they defeated the Tzeentchian Lord of Change Sheerargetru"* → Karl-Franz possède le Vrai Ghal Maraz post-Turmoil (canon WFRP4 EiR).
+- **Fandom Ghal Maraz** : *"returned to Karl Franz after they defeated the Tzeentchian Lord of Change Sheerargetru"* → Karl-Franz possède le Vrai Ghal Maraz post-Turmoil (WFRP4 EiR).
 - **Fandom Sheerargetru WFRP2 legacy** : *"banished back to the Realm of Chaos with Ghal Maraz, which followed it into the Aethyr"* → marteau suit le daemon (canon legacy).
-- **EiR ch.13 l.623** : *"Ghal Maraz in hand, the Emperor is a new man"* — **canon WFRP4 EiR direct + récent**.
+- **EiR ch.13 l.623** : *"Ghal Maraz in hand, the Emperor is a new man"* — **WFRP4 EiR direct + récent**.
 - **Application règle d'arbitrage projet** : Source/EiR + Fandom Ghal Maraz (cohérent WFRP4) > Fandom Sheerargetru (WFRP2 legacy).
-- **Adopté fiche** : **Karl-Franz tient Ghal Maraz post-Turmoil** (canon WFRP4).
+- **Adopté fiche** : **Karl-Franz tient Ghal Maraz post-Turmoil** (WFRP4).
 
 ### Identité Gideon = doppelganger Joachim Hoflich — RÉSOLU
 
@@ -1044,11 +1044,11 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ### Wilhelm II 2426 IC (canon WFRP4 Source/Altdorf) vs Wilhelm III 2429 IC (Fandom WFRP2/3 legacy) — RÉSOLU (correction v4 — divergence WFRP4 vs Fandom legacy explicitement balisée)
 
-- **Source/Altdorf - Crown of the Empire ch.5 l.279** (C7 WFRP4, supplément 2020+) : *"The first Holswig-Schliestein Emperor, Wilhelm II, defeated a Holzkrug-led coalition army to solidify his claim to the Reikland crown in 2426 IC"* → **Wilhelm II premier Holswig-Schliestein 2426 IC** canon WFRP4.
-- **Fandom Wilhelm the Wise + Lexicanum Wilhelm III** (WFRP2/3 legacy) : Wilhelm **III** "the Wise" est canon legacy *"first Emperor"* de la dynastie Holswig-Schliestein, élu 2429 IC après que les Electors aient déposé son cousin Dieter IV (corruption Marienburg, anti-Magnus bribery laws).
+- **Source/Altdorf - Crown of the Empire ch.5 l.279** (C7 WFRP4, supplément 2020+) : *"The first Holswig-Schliestein Emperor, Wilhelm II, defeated a Holzkrug-led coalition army to solidify his claim to the Reikland crown in 2426 IC"* → **Wilhelm II premier Holswig-Schliestein 2426 IC** WFRP4.
+- **Fandom Wilhelm the Wise + Lexicanum Wilhelm III** (WFRP2/3 legacy) : Wilhelm **III** "the Wise" est legacy *"first Emperor"* de la dynastie Holswig-Schliestein, élu 2429 IC après que les Electors aient déposé son cousin Dieter IV (corruption Marienburg, anti-Magnus bribery laws).
 - **Nature du conflit canon** : Source/Altdorf C7 WFRP4 introduit **Wilhelm II 2426 IC** comme premier HHS Emperor, absent du canon Fandom/Lexicanum legacy (qui suit WFRP2/3 et fait commencer la dynastie à Wilhelm III 2429 IC).
-- **Application règle d'arbitrage projet (CLAUDE.md memory `feedback_wfrp4-supersedes-other-editions.md`)** : **WFRP4 EiR/Altdorf supersède éditions antérieures** → Source/Altdorf ch.5 l.279 canon principal ; Fandom WFRP2 legacy à dépriorer pour ce point précis.
-- **Reconciliation possible** : Wilhelm II 2426 IC (Source/Altdorf C7) = père/prédécesseur de Wilhelm III 2429 IC (Fandom legacy) ; ou bien réindexation canon WFRP4 où Wilhelm II est nouveau personnage et Wilhelm III a inherited un titre déjà fondé.
+- **Application règle d'arbitrage projet (CLAUDE.md memory `feedback_wfrp4-supersedes-other-editions.md`)** : **WFRP4 EiR/Altdorf supersède éditions antérieures** → Source/Altdorf ch.5 l.279 principal ; Fandom WFRP2 legacy à dépriorer pour ce point précis.
+- **Reconciliation possible** : Wilhelm II 2426 IC (Source/Altdorf C7) = père/prédécesseur de Wilhelm III 2429 IC (Fandom legacy) ; ou bien réindexation WFRP4 où Wilhelm II est nouveau personnage et Wilhelm III a inherited un titre déjà fondé.
 - **Adopté fiche** : **Wilhelm II premier HHS 2426 IC** + **Wilhelm III consolide + fonde Reiksguard 2429 IC** (canon Source/Altdorf C7 WFRP4 ; Fandom WFRP2 legacy non applicable).
 
 ### Wilhelm Chamber + Holzkrug Chamber Volkshalle — RÉSOLU (correction v2)
@@ -1056,7 +1056,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 - **Altdorf ch.3 l.141** : *"Reikland Council meetings are held each week in the Wilhelm Chamber of the Volkshalle to discuss matters of import"* — Wilhelm Chamber = siège Reikland Council 10 High Lords.
 - **Fandom Imperial Palace** : Holzkrug Chamber = siège Reikland Diet assemblée nobles vassaux.
 - **Correction v1 → v2** : fiche v1 mentionnait seulement Holzkrug Chamber. **v2 ajoute Wilhelm Chamber**.
-- **Adopté fiche** : Wilhelm Chamber (Reikland Council) + Holzkrug Chamber (Reikland Diet) — deux chambres canon nommées dans le Volkshalle.
+- **Adopté fiche** : Wilhelm Chamber (Reikland Council) + Holzkrug Chamber (Reikland Diet) — deux chambres nommées dans le Volkshalle.
 
 ### Else Barnhelm vs Barnheim orthographe — RÉSOLU
 
@@ -1067,21 +1067,21 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
 
 ### Electoral Conference post-Turmoil — RÉSOLU
 
-- **Fandom Turmoil of 2512** : *"Emperor Karl Franz called a large Electoral Conference, the largest since Magnus the Pious reunited the Empire two centuries before"* — **Electoral Conference canon explicite**.
+- **Fandom Turmoil of 2512** : *"Emperor Karl Franz called a large Electoral Conference, the largest since Magnus the Pious reunited the Empire two centuries before"* — **Electoral Conference explicite**.
 - **Adopté fiche** : Electoral Conference post-Turmoil canon Fandom ; détails procéduraux exacts restent en section 10 (date précise, ordre du jour).
 
 ### Reiksguard Cercle Intérieur 20 knights exact — RÉSOLU
 
-- **Fandom Reiksguard Inner Circle** : *"they numbered a mere twenty warriors"* — chiffre exact canon.
+- **Fandom Reiksguard Inner Circle** : *"they numbered a mere twenty warriors"* — chiffre exact.
 - **Correction v1 → v2** : *"~20"* → **"20"** (suppression du tilde).
 - **Adopté fiche** : 20 knights exact.
 
 ### Orthographe "Egrim Stonehammer" (Source/ Archives Vol I) vs "Ergrim" (Fandom/Lexicanum) — RÉSOLU (correction v5 propagation)
 
-- **Source/Archives of the Empire Vol I ch.4** : canon C7 WFRP4 = **"Egrim Stonehammer"** (sans 'r' supplémentaire) — Dwarf Thane récupérateur Grudge Settler 2378 IC.
+- **Source/Archives of the Empire Vol I ch.4** : C7 WFRP4 = **"Egrim Stonehammer"** (sans 'r' supplémentaire) — Dwarf Thane récupérateur Grudge Settler 2378 IC.
 - **Fandom Solland + Lexicanum Ergrim Stonehammer** : orthographe = "Ergrim Stonehammer" (legacy WFRP2/3).
-- **NB distinction critique** : Egrim Stonehammer (Dwarf Thane, Source/Archives) ≠ **Egrimm van Horstmann** (sorcerer Tzeentch Silver Tower, 2 'm'). Personnages différents canon.
-- **Application règle d'arbitrage projet** : **Source/Archives Vol I WFRP4 supersède Fandom legacy** ; décision GM canon documentée dans `Notes MJ/Orthographe canon - corrections à appliquer.md`.
+- **NB distinction critique** : Egrim Stonehammer (Dwarf Thane, Source/Archives) ≠ **Egrimm van Horstmann** (sorcerer Tzeentch Silver Tower, 2 'm'). Personnages différents.
+- **Application règle d'arbitrage projet** : **Source/Archives Vol I WFRP4 supersède Fandom legacy** ; décision GM documentée dans `Notes MJ/Orthographe canon - corrections à appliquer.md`.
 - **Correction v4 → v5** : fiches 11+12+master v4 utilisaient "Ergrim" (Fandom) — v5 corrigées en "**Egrim Stonehammer**" (Source/Archives Vol I + décision GM).
 - **Adopté fiche** : **Egrim Stonehammer** (Source/Archives Vol I C7 WFRP4 + décision GM).
 

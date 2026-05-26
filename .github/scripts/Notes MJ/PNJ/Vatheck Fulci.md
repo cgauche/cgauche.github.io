@@ -10,12 +10,12 @@
 - **Statut** : [VIVANT — ENNEMI CACHÉ — TRAVELLING]
 - **Tags** : `#VatheckFulci` `#NineEyes` `#FarEye` `#Remas` `#Tilea` `#Geography` `#ForeignAffairs` `#Tzeentch` `#Wolfgang` `#BorderPrinces` `#Étranger` `#Arc7` `#Ch4` `#Ch13`
 
-## Source canon
+## Source
 - **EiR Intro l.178-186** liste 9 Yeux. Note : *« an outsider »* canon Intro l.96 (parmi 9 Yeux).
 - **EiR ch.4 l.302-303** room Reikguard : *« Vatheck Fulci is currently travelling from the Border Princes to Altdorf. His room is old and dusty. His desk is littered with numerous charts and maps of distant lands »*.
 - **EiR ch.13** climax — peut être présent Volkshalle.
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 Standard Member of the Neuf Yeux (Gold 1) :
 

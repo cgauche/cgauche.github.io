@@ -11,12 +11,12 @@
 - **Statut** : [VIVANT — ALLIÉ ELFE]
 - **Tags** : `#AllavandrelFanmaris` `#MasterOfTheHunt` `#ElfeWood` `#Middenheim` `#Drakwald` `#Archery` `#Arc5` `#Allié` `#Rallane` `#Dieter`
 
-## Source canon
+## Source
 - **PBT ch.2 + ch.6 *The Master of the Hunt*** (canon p.84-85) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT Appendix I p.139** (NPC sheet) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.5 *Archery Tournament*** (canon p.75) : participation systématique au Carnaval.
 
-## Statbloc canon (PBT p.139)
+## Statbloc (PBT p.139)
 
 **Allavandrel Fanmaris — Huntmaster (Silver 3)**
 
@@ -43,7 +43,7 @@
 
 - **Pas politicien** mais **observateur fin** (Intuition 95 !).
 - **Adventureux** : « *The Elf has a taste for adventure* ». Pourrait **partir en mission directe** si convaincu.
-- **Pense que Heinrich ferait un meilleur Graf** : canon p.139 — opinion privée, ne le dit jamais.
+- **Pense que Heinrich ferait un meilleur Graf** : p.139 — opinion privée, ne le dit jamais.
 - **Drinking partner** : Rallane + Dieter sont ses 2 meilleurs amis humains.
 
 ## Apparitions par session (Arc 5)
@@ -65,7 +65,7 @@
 
 ## MJ-only
 
-- **Lien Heinrich Todbringer** : canon p.139 — Allavandrel **pense que Heinrich ferait un meilleur Graf** (silencieusement). **Lien possible Arc 7** : si la lignée légitime se brise (post-S63), Allavandrel pourrait **soutenir Heinrich** comme régent.
+- **Lien Heinrich Todbringer** : p.139 — Allavandrel **pense que Heinrich ferait un meilleur Graf** (silencieusement). **Lien possible Arc 7** : si la lignée légitime se brise (post-S63), Allavandrel pourrait **soutenir Heinrich** comme régent.
 - **Connait Emmanuelle Schlagen** : ancien occasional dalliance (canon p.131). Sympathique, protective. **A flairé** qu'Emmanuelle est paramour du Graf + suspecte qu'elle a aussi un autre amant secret (Ar-Ulric, qu'il ne sait pas).
 - **Connait Wallenstein** : sait qu'il est un crook (par Dieter + autres) + maltraite les femmes. **Dislike**.
 - **Cordelia Greenhill** : sa housekeeper halfling — **fidèle confidente**. À utiliser comme **canal de communication** si les PJ veulent contacter Allavandrel discrètement.

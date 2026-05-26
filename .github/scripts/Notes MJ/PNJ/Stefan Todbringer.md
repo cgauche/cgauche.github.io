@@ -26,7 +26,7 @@ Stature moyenne, cheveux bruns et yeux bruns — il n'a pas hérité de la silho
 
 **Ce qu'il ignore** `PBT ch.2 l.95+99` : qu'il est, par défaut juridique, seul héritier légal du Grand Duché de Middenland — Heinrich et Katarina Todbringer écartés par leur naissance illégitime. Son inaptitude rend cette position purement nominale, et la régence devient inévitable si Boris Todbringer disparaît.
 
-**Angle mort exploitable** `PBT ch.2 l.130` : *Afraid (Strangers)* — son trait canon. Toute irruption d'inconnus dans sa chambre déclenche peur paralysante ou crise maniaque, ce qui contraint la défense à un cercle restreint et identifié (Pavarotti, Hildegarde Zimperlich, gardes du Palais Intérieur).
+**Angle mort exploitable** `PBT ch.2 l.130` : *Afraid (Strangers)* — son trait. Toute irruption d'inconnus dans sa chambre déclenche peur paralysante ou crise maniaque, ce qui contraint la défense à un cercle restreint et identifié (Pavarotti, Hildegarde Zimperlich, gardes du Palais Intérieur).
 
 ## Plans en cours
 
@@ -40,7 +40,7 @@ Stature moyenne, cheveux bruns et yeux bruns — il n'a pas hérité de la silho
 - **Régence post-S63 (voie homebrew table)** : Boris Todbringer tué dans son manoir lors de l'attaque off-canon par « Volkmar » (Gideon le changelin). Stefan reste l'héritier légal nominal ; Heinrich Todbringer, écarté juridiquement, devient l'homme du moment pour assurer la régence avec le soutien implicite de Katarina Todbringer, Luigi Pavarotti et Ulrich Schutzmann (cf. `Notes MJ/09 - Prep post-S63.md`).
 - **Cible passive Arc 7** : Stefan reste dans son aile du Palais Intérieur, gardé par Luigi Pavarotti et le détachement habituel du Middenpalaz. Le canon PBT/EiR ne fixe aucune tentative directe sur sa personne — son rôle reste celui d'un pion symbolique de la lignée légitime.
 
-## Apparitions canon Arc 5 → Arc 7
+## Apparitions Arc 5 → Arc 7
 
 - **S30-S38 (Carnaval, Arc 5)** — Non rencontré en audience publique. Mentionné par les autres fiches comme l'héritier maladif sous les soins de Luigi Pavarotti `PBT ch.2 l.95+130`. Les PJ qui assistent à une séance de Pavarotti dans les appartements de Stefan voient l'hypnose appliquée `PBT Appendix l.934`.
 - **Arc 6 (S40-S55)** — Reste au Palais Intérieur, état stabilisé sans guérison. Sujet récurrent des conversations de cour sur la succession Todbringer (`Notes MJ/Factions/Maison Todbringer.md`).

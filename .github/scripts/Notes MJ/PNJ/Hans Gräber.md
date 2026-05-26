@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT] [ENNEMI ACTIF — PERSONNEL] (sous-intrigue continue).
 - **Tags** : `#Gräber` `#Gravelord` `#Nécromancien` `#Kemmler` `#Lichemaster` `#Streissan` `#SousIntrigue` `#VendettaPJ`
 
-## Source canon
+## Source
 - **Empire in Ruins Companion ch. 12** *Triumph of the Gravelord* : `Source/Empire In Ruins Companion/14 - CHAPTER 12 Triumph of the Gravelord.md`
 - **Death on the Reik Companion** *Vengeance of the Gravelord*
 - **Power Behind the Throne Companion** *Flying Death Skulls*

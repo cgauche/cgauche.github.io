@@ -2,7 +2,7 @@
 
 Fichier consolidé des **étapes de la route Est** entre Middenheim et Le Piquet (Arc 6 S53 + S55 dirigeable retour). Inclut Hovelhof, Hohenfahrt, ruines Mittler.
 
-## Itinéraire canon (HR *The Road East* l.3967-4198)
+## Itinéraire (HR *The Road East* l.3967-4198)
 
 Stage points of interest (canon l.4020) :
 

@@ -9,7 +9,7 @@
 - **Statut** : [VIVANT — RIVAL HOSTILE]
 - **Tags** : `#Heinricus` `#HeinricusKärzburdger` `#Kärzburdger` `#Rival` `#Dietrich` `#Arc6` `#RivalHostile`
 
-## Source canon
+## Source
 - *HR ch. The Road East* (Ferlangst Tower mention).
 - *HR ch. The Stolen Village* (l.3770 *The Kärzburdger Crest* — baril porte le crest familial, mais le canon HR ch.*The Picket* l.4147 attribue le détournement à Habicht + Brantner uniquement, **pas à Heinricus**).
 - *HR ch. The Picket* (l.4147) : coupables canoniques du détournement.
@@ -38,7 +38,7 @@
 
 - **Trafic Maliss — Heinricus INNOCENT** : canon HR ch.*The Picket* (l.4147) = Quartermaster **Willus Habicht** (échange la poudre Kärzburdger contre de la mauvaise poudre Salzenmund, empoche la marge + bakchich skaven) + Sergeant **Otfried Brantner** (passeur vers Valeria Roth → Karl/Gaius → skavens). Heinricus n'est ni informé ni complice. Le crest sur le baril S52 reflète l'origine de la poudre (Kärzburdger fournit légitimement le Piquet), pas l'identité du trafiquant.
 - **Hook Arc 7** : Si Dietrich gagne en influence, **rivalité ouverte** → conflit interne Kärzburdger. **Heinricus pourrait être renversé** par Dietrich + alliés (Emmiline, Pesold) — sur des bases politiques/personnelles, **pas sur le trafic** (qu'il pourrait au contraire dénoncer si on lui révélait, pour épurer sa garnison du Piquet).
-- **Famille Kärzburdger** : canon historiquement = ancienne famille régnante de Middenheim avant les Todbringer. **Rivalité Boris-Heinricus** est profonde et ancestrale.
+- **Famille Kärzburdger** : historiquement = ancienne famille régnante de Middenheim avant les Todbringer. **Rivalité Boris-Heinricus** est profonde et ancestrale.
 - **Place de l'Espoir** = sa source de revenus principale (bagne + mine fer).
 - **Perception PJ erronée** : si les PJ l'accusent publiquement, Heinricus aurait l'alibi solide (canon HR Habicht) et **pourrait retourner l'accusation** contre les PJ (calomnie noble). Garde-fou narratif.
 

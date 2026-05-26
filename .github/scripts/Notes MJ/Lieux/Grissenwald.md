@@ -8,11 +8,11 @@
 - **Statut** : [ACTIF, allié Elvira/PJ post-S24]
 - **Tags** : `#Grissenwald` `#Reikland` `#Reik` `#Stir` `#Nains` `#AutelRhya` `#FIL51`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md`
 - Référence Arc 1 : mention dans `Rough Nights & Hard Days` ch.3 (auberge des 3 Plumes = 20 mi nord de Grissenwald)
 
-## Description canon (DotR ch.4)
+## Description `DotR ch.4`
 
 Petit village peu animé sur confluent fluvial. Population humaine majoritaire avec un **bidonville nain** à l'extérieur (mineurs déchus, tolérés mais ostracisés). Tension communautaire forte : les nains sont accusés d'**attaques nocturnes sur les fermes alentours** depuis quelques mois.
 

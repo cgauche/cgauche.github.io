@@ -12,13 +12,13 @@
 - **Statut** : [VIVANTE — ALLIÉE NEUTRE]
 - **Tags** : `#Brunhilde` `#BrunhildeVonFlamme` `#Carroburg` `#ImperialNavy` `#FastPatrolBoat` `#Bildhofen` `#Ulrican` `#Arc7` `#Ch9` `#Captain` `#Boatswain`
 
-## Source canon
+## Source
 - **EiR ch.9 l.21-40** *Captain Brunhilde von Flamme* + statbloc Boatswain Silver 5.
 - **EiR ch.9 l.79-83** : *« It should be clear, soon enough, that Grissen is the effective captain of The Carroburg »*.
 - **EiR ch.9 l.108-110** Bon Voyage : *« strutting around the deck, pulling out her ornate brass telescope — a gift from uncle Tristan — and surveying the horizon as if she were on the ocean »*. Crew eye-rolls.
 - **EiR ch.9 l.282-285** Nuln→Streissen : *« Von Flamme is content to row her marines into the ground, if necessary, even beyond the Imperial Navy's regulations »*.
 
-## Statbloc canon (EiR ch.9 l.30)
+## Statbloc (EiR ch.9 l.30)
 
 **CAPTAIN BRUNHILDE VON FLAMME HUMAN BOATSWAIN (SILVER 5)**
 
@@ -31,7 +31,7 @@
 - **Talents** : **Attractive**, **Doomed** (*« Slippery harbourside evening, eels ravenous and riotous, gudgeon eat toes rotting underwater »*), Etiquette (Nobles), **Noble Blood**, **Orientation**, Read/Write, **Sea Legs**, **Strider (Coastal)**, **Strong Swimmer**.
 - **Trappings** : Very Ostentatious Captain's Uniform, **Preposterous Hat**, Telescope (gift uncle Tristan), Pouch 4 Shillings, Brace of Pistols, Cutlass, Pouch 10 GCs.
 
-## Le Carroburg (canon ch.9 l.86-100)
+## Le Carroburg (ch.9 l.86-100)
 
 **Imperial Navy Fast Patrol Boat City-Class** :
 

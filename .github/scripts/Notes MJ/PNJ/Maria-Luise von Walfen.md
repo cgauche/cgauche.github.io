@@ -29,7 +29,7 @@ Mère consciencieuse, consciente de sa position politique précaire
 `Altdorf ch.2 l.23` : si elle était publiquement exposée comme source
 de fuite ou conspiratrice, elle perdrait tout — et ses enfants avec.
 
-## Phrases canon
+## Phrases
 
 - *« Maria, I know the truth. It's not him. »* — Emmanuelle von Liebwitz à elle, sur un banc à l'écart au Conclave d'urgence, 18h05 ; Maria-Luise écoute et confirme à demi-mot `EiR ch.7 l.216`.
 - *« Emmy, I'm so scared. I feel trapped. »* — réponse soufflée à Emmanuelle au même banc, mains dans les mains de la Grande Comtesse `EiR ch.7 l.223`.
@@ -93,9 +93,9 @@ les Électeurs l'entendaient `Altdorf ch.2 l.23` `EiR ch.13 l.240`.
 - **Jeton de retinue impériale** `EiR ch.13 l.242` : chaque PJ reçoit un jeton identifiant comme « retinue de l'Impératrice » ; ce jeton ouvre des portes auprès de ceux qui la respectent (bonus +10 aux tests Charm / Intimidate / Leadership sur les Reiksguards qui patrouillent la Volkshalle de nuit `EiR ch.13 l.274`). Inopérant ou pire face à ceux qui la méprisent (Hermine `EiR ch.13 l.283`, l'artisan-cultiste Albertus Goldformer `EiR ch.13 l.272`).
 - **Présence au climax** `EiR ch.13 l.345` : pendant la cérémonie de remise de Ghal Maraz, Maria-Luise se tient dans la galerie au mur du fond, parmi les dames de la cour et le personnel du palais — observatrice silencieuse, pas actrice de la scène.
 - **Importance canon — ne pas la faire mourir** `EiR ch.13 l.613` : en cas de défaite des PJ (Sheerargetru s'incarne, Zuntermein l'emporte), Maria-Luise survivante devient une patronne en coulisses des PJ dans la lutte continue contre Zuntermein. La perdre prive le groupe d'un appui clé pour la suite.
-- **Récompense canon — agréer son aide vaut 30 points** `EiR ch.13 l.667` : la quête « accepter d'aider Maria-Luise » est notée comme attribuant 30 points dans l'évaluation finale du chapitre, signal canon de son importance.
+- **Récompense canon — agréer son aide vaut 30 points** `EiR ch.13 l.667` : la quête « accepter d'aider Maria-Luise » est notée comme attribuant 30 points dans l'évaluation finale du chapitre, signal de son importance.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S57-S60 — Avant le Conclave : présente à Altdorf, hors-champ pour les PJ. Pas vue lors du défilé S60.
 - S62 — Conclave d'urgence Volkshalle :
@@ -106,10 +106,10 @@ les Électeurs l'entendaient `Altdorf ch.2 l.23` `EiR ch.13 l.240`.
   - ch.13 — section canon *A Lady in Distress* `EiR ch.13 l.217-242` : après retour des PJ avec Ghal Maraz, une dame d'honneur les conduit à la Résidence Impériale ; entretien privé dans son salon ; monologue sur ses inquiétudes (Reiksguard, Volkshalle, Karl-Franz inaccessible, cauchemars) ; réponses aux questions (Wolfgang, Électeurs, Hermine, retarder la cérémonie) ; remise des jetons de retinue.
   - ch.13 climax `EiR ch.13 l.345` : dans la galerie du mur du fond avec les dames de la cour pendant que les PJ apportent Ghal Maraz au trône.
 
-## Dénouements canon ch.13
+## Dénouements ch.13
 
 - **Victoire des PJ** `EiR ch.13 l.623` : le lendemain dans les chambres impériales, Maria-Luise vient juste de quitter Karl-Franz quand les PJ entrent ; elle prend un instant pour les remercier en partant. Karl-Franz restauré, Kappelmuller disparu ou mort, le sort de Gideon levé — elle retrouve l'accès à Karl-Franz et son rôle informel reprend stabilité.
-- **Victoire de Zuntermein** `EiR ch.13 l.613` `EiR Companion ch.6 l.28` : Maria-Luise survivante devient une patronne en coulisses des PJ contre Zuntermein si elle est protégée. Mais le scénario canon de la victoire Zuntermein l'efface du jeu : peu après la régence de Wolfgang, le Palais annonce que la santé du Prince Luitpold a empiré, qu'il part « prendre les eaux » au Grand Hospice, et que sa mère l'accompagne pour le soigner — un don généreux de Wolfgang à l'hospice scelle le départ. Zuntermein la sait sortie du jeu.
+- **Victoire de Zuntermein** `EiR ch.13 l.613` `EiR Companion ch.6 l.28` : Maria-Luise survivante devient une patronne en coulisses des PJ contre Zuntermein si elle est protégée. Mais le scénario de la victoire Zuntermein l'efface du jeu : peu après la régence de Wolfgang, le Palais annonce que la santé du Prince Luitpold a empiré, qu'il part « prendre les eaux » au Grand Hospice, et que sa mère l'accompagne pour le soigner — un don généreux de Wolfgang à l'hospice scelle le départ. Zuntermein la sait sortie du jeu.
 - **Victoire de Gideon** : non précisé — Altdorf devient un nouveau Mordheim et la cour impériale est emportée dans la catastrophe.
 
 ## Statbloc — *Impératrice* Maria-Luise von Walfen, Noble (Gold 5) `EiR ch.13 l.244-258`

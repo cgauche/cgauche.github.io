@@ -11,12 +11,12 @@
 - **Murs** : "white walls of Altdorf" (canon EiS ch.3 l.43). Entrée nord via **Wolf Gate**.
 - **Tags** : `#Altdorf` `#Altdorf` `#Capitale` `#KarlFranz` `#Reik` `#Reikland` `#Université` `#Tzeentch-Influence` `#PalaisImpérial`
 
-## Source canon
+## Source
 - EiS ch.3 *Heart of the Empire* (description compacte) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/03 - Heart of the Empire.md` lignes 5-42, 43-69, 121-138
 - *Altdorf - Crown of the Empire* (référence complète) : `Source/Altdorf - Crown of the Empire/` (à explorer quand pertinent)
-- Empire in Ruins (Arc 7 — climax canon impérial)
+- Empire in Ruins (Arc 7 — climax impérial)
 
-## Description canon
+## Description
 
 > "**Something is very wrong in Altdorf**. Those living in the capital are quite used to it, inured to its **subtle, pervasive influence**, but those freshly arrived can't help but feel… **uneasy**, and find themselves getting lost rather easily, as if the streets themselves don't meet up correctly." (EiS ch.3 l.9)
 >
@@ -42,7 +42,7 @@
 ### Lieux marqués (PJ y ont été)
 - **Königplatz** [S6] — arrivée coche + défilé impérial + cultistes Main Pourpre.
 - **Boatman Inn** [S6] — tenu par **Una Mühlmauer** (Townsman Silver 2, mère Tilean racketeer). Sur le riverfront. Vieille amie de Josef. Lieu de l'altercation avec Jacob/Georg/Max Ernst.
-- **Black Bull** (sur les docks, canon ch.4 l.13) — Jacob von Katzenreik mort cette nuit-là.
+- **Black Bull** (sur les docks, ch.4 l.13) — Jacob von Katzenreik mort cette nuit-là.
 
 ### Inns et tavernes mentionnés
 - **Nine Stars Coaching Inn** (Middenheim Road) — résidence/contact de **[[Quintus Fassbinder]]** (FIL-16).
@@ -50,9 +50,9 @@
 
 ### Institutions clés
 - **Imperial Palace** : Karl-Franz convalescent (Arc 7 = empoisonné Purple Brain Pox). Bedchamber Karl-Franz : large 4-poster silk + griffon bedposts. **Pomander Schlafenkraut+Moonflower+pine sous lit** = anesthetic gas (canon ch.8 l.105+).
-- **Volkshalle** : grand hall impérial octagonal. **Lieu du climax canonique Arc 7** (cérémonie 9 Brauzeit 9h pour invoquer Sheerargetru via faux Ghal Maraz). **Reliquary new gold+silver** (Albertus Goldformer) avec **diamond button trapdoor → 30ft drop → wine cellar canon ch.13**.
+- **Volkshalle** : grand hall impérial octagonal. **Lieu du climax canonique Arc 7** (cérémonie 9 Brauzeit 9h pour invoquer Sheerargetru via faux Ghal Maraz). **Reliquary new gold+silver** (Albertus Goldformer) avec **diamond button trapdoor → 30ft drop → wine cellar ch.13**.
 - **Volkshalle Wine Cellar** : built 1149 IC Emperor Ludwig the Fat (elevator throne descend cellar). Trône relocated long ago + Gideon uncovered hole. Heavy wooden door + stout lock Hermine only key. Rare vintages + brandy casks. **Hole ceiling exact under Reliquary**.
-- **Grand Cathedral Sigmar** : **wedding venue S61** (Katarina+Wolfgang interrompu Barthelm). **Side doors** Wasmeier entrée. **Domplatz cemetery alleys** Wasmeier chase canon ch.6. **Grande Bibliothèque Sigmar annexe** : coffre tomes interdits + traités hérétiques. Knights of Fiery Heart guards + Order of Anvil vetting (canon Altdorf city). Yorri/Volkmar autorisation possible.
+- **Grand Cathedral Sigmar** : **wedding venue S61** (Katarina+Wolfgang interrompu Barthelm). **Side doors** Wasmeier entrée. **Domplatz cemetery alleys** Wasmeier chase ch.6. **Grande Bibliothèque Sigmar annexe** : coffre tomes interdits + traités hérétiques. Knights of Fiery Heart guards + Order of Anvil vetting (canon Altdorf city). Yorri/Volkmar autorisation possible.
 - **Imperial Residence wing** : Maria-Luise apartments private. Private sitting room PJ convocation + token retinue.
 - **Université d'Altdorf** : où Ernst Heidlemann devait livrer ses fioles à **Doktor Schmidt** (daemonologue caché). **Quintus Fassbinder Verena Temple-Library annexe** (ch.8 handouts SHEERARGETRU acrostiche + Yodri khazalid + Bertoldt Malleun + permit minier Teugen-Steinhäger-Haagen). **Schulergegend district** : où 3 Yeux Altdorf-based Wilhelmina+Wulfrum+Gislind preparing lessons.
 - **Manoir Helstein** (Mauerblumchen district) : **Residence Todbringer in Altdorf** depuis PBT. Owned by **Helstein noble family of Middenheim** loyaux. **PJ résidence Arc 7 S60-S62** + **assault S63 homebrew Boris mort**.
@@ -60,7 +60,7 @@
 - **Île Noire** : Chambre Noire HQ. Notorious island. Holzkrug + Zuntermein run Cercle Intérieur.
 - **Imperial Zoo** : **Deathclaw** (le Griffon de l'Empereur). Fermé depuis des semaines (canon ch.1 rumour).
 - **Aldig Quarter** : où Emmanuelle peut avoir fortified mansion (canon ch.12 l.189 — alternate location si trop watched).
-- **Reikerbahn slums** : où Kappelmuller dit Wasmeier vit canon ch.8 sell out option.
+- **Reikerbahn slums** : où Kappelmuller dit Wasmeier vit ch.8 sell out option.
 
 ### Arc 7 ch.13 climax — Volkshalle layout canon
 - **Main Hall + Viewing Area mezzanine** : entourages observers gallery.

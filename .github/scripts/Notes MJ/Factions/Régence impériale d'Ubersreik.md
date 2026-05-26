@@ -10,7 +10,7 @@
 - **Statut** : [ACTIF — fragile]. Tensions structurelles avec **loyalistes Jundfreud** (résistance populaire) + **maisons nobles candidates** (Bruner/Aschaffenberg/Holzenauer/Saponatheim). Toutes affaiblies post-S20.
 - **Tags** : `#RégenceUbersreik` `#EmmanuelleNacht` `#Dabernick` `#OccupationImpériale` `#KarlFranz` `#Altdorfers` `#Espionnage`
 
-## Source canon
+## Source
 - *Starter Set / A Guide to Ubersreik* : `Source/Starter Set/A Guide to Ubersreik/` (background politique Ubersreik)
 - *Ubersreik Adventures III - A Tragic Tale of Upheaval* : `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md` (chronologie 2509-2513 IC)
 - *Rough Nights & Hard Days* ch.7 *Lord of Ubersreik* : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` (situation politique post-Jundfreud)

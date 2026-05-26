@@ -10,7 +10,7 @@
 - **Statut** : [ACTIF] partout en Empire
 - **Tags** : `#PurpleHand` `#Tzeentch` `#CulteEmpire` `#Sheerargetru` `#Antagoniste-Central` `#KastorLieberung` `#Conspiration`
 
-## Source canon
+## Source
 - EiS ch.1 (Kastor = magister impedimentae) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/01 - Wanted- Bold Adventurers.md` ligne 10
 - EiS ch.3-4 (cellules + Adolphus + Fassbinder)
 - *Empire in Ruins* (révélation hiérarchie complète + Yann Zuntermein + plan central) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/`
@@ -23,7 +23,7 @@
 - **Connaissance ésotérique** : Daemonology, Channelling (Dhar), Magick.
 - **Méthode signature** : empoisonnement magique discret (Purple Brain Pox), assassinats orchestrés via démons.
 
-## Hiérarchie canon
+## Hiérarchie
 
 ### Titres
 - **Magister Magistri** : **chef suprême** d'une cellule (canon PBT p.123 — Wasmeier). Au sommet de la hiérarchie d'une cellule.
@@ -82,7 +82,7 @@
 - Étapes : (a) préparer Wolfgang hôte parfait via 9 Yeux, (b) faire ramener vrai Ghal Maraz par PJ, (c) empoisonner Karl-Franz (Kappelmuller + Purple Brain Pox).
 - **Gideon** orchestre depuis l'intérieur, sait que **Zuntermein ne sait pas** que le rituel = possession démoniaque (Zuntermein croit servir Tzeentch pour son élévation).
 
-## Trait canon : Animosity (Kastor and Friends)
+## Trait : Animosity (Kastor and Friends)
 - Les cultistes survivants pourchassent les PJ comme **associés du "traître" Kastor**. Trait par défaut des cultistes Main Pourpre rencontrés.
 - Ils ne savent pas (la plupart) que Kastor est mort — pensent qu'il est en fuite avec les PJ.
 - Hook récurrent (FIL-25).
@@ -92,7 +92,7 @@
 - **Ernst Heidlemann** = membre bas rang Red Crown (Arc 2/Arc 4).
 - Rivalité interne Tzeentch = exploitable. Hook : Main Pourpre et Red Crown peuvent s'entretuer si manipulés.
 
-## Identités secrètes confirmées par Arc 7 canon (révélations)
+## Identités secrètes confirmées par Arc 7 (révélations)
 
 | PNJ | Rôle Main Pourpre | Statut |
 |---|---|---|

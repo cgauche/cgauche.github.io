@@ -11,12 +11,12 @@
 - **Statut** : [VIVANT — ALLIÉ MÉNESTREL]
 - **Tags** : `#RallaneLafarel` `#CourtMinstrel` `#ElfeHaut` `#Middenheim` `#Arc5` `#Allié` `#DwarfTax` `#Dieter` `#Allavandrel`
 
-## Source canon
+## Source
 - **PBT Appendix I p.119** (NPC sheet) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.6 *The Minstrel*** (canon p.82) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT ch.4 *Religion - Rallane and the Dwarf Tax*** (canon p.53) : rumeurs d'instigation de la Dwarf Tax.
 
-## Statbloc canon (PBT p.119)
+## Statbloc (PBT p.119)
 
 **Rallane Lafarel — Troubadour (Silver 3)**
 
@@ -66,11 +66,11 @@
 ## MJ-only
 
 - **Suggesté la Dwarf Tax ?** Canon p.53 : rumeurs **fausses**. Rallane n'est **pas pour** la taxe en tant que telle (« *He realises that the taxes are socially divisive, and increasingly convinced that all is not well in Middenheim* »). **Veut clearer son nom**, hook : si les PJ peuvent prouver qu'il n'a pas suggéré → fidèle reconnaissance.
-- **Connait l'affaire Emmanuelle Schlagen-Ar-Ulric** : canon p.119 — un des rares qui le sait. **A eu une affaire avec Emmanuelle il y a 4 ans** (couvent canon : « *They had an affair some four years ago, but will certainly not mention this to the Characters* »). Maintenant **amis platoniques**.
-- **Suspecte le High Priest Ar-Ulric d'être impliqué** : canon p.119 — Rallane note l'anxiété d'Ar-Ulric + suspecte qu'il a violé son vœu de chasteté. **Veut comprendre** ce qui se passe. **Hook Arc 5 ch.6** : Rallane peut **donner aux PJ des indices** sur l'affaire Ar-Ulric-Emmanuelle s'il les trouve trustworthy.
+- **Connait l'affaire Emmanuelle Schlagen-Ar-Ulric** : p.119 — un des rares qui le sait. **A eu une affaire avec Emmanuelle il y a 4 ans** (couvent canon : « *They had an affair some four years ago, but will certainly not mention this to the Characters* »). Maintenant **amis platoniques**.
+- **Suspecte le High Priest Ar-Ulric d'être impliqué** : p.119 — Rallane note l'anxiété d'Ar-Ulric + suspecte qu'il a violé son vœu de chasteté. **Veut comprendre** ce qui se passe. **Hook Arc 5 ch.6** : Rallane peut **donner aux PJ des indices** sur l'affaire Ar-Ulric-Emmanuelle s'il les trouve trustworthy.
 - **Mimic Siegfried Prunkvoll** : canon — Rallane fait des **imitations brillantes** du Knight Eternal. **Le Knight Eternal le déteste**.
 - **Dieter + Kirsten engagement** : Rallane est proche de Dieter, **a peur que le mariage** termine leurs sessions de drinking. **Touch émotionnel**.
-- **Katarina infatuation hopeless** : canon p.119 — Rallane sait qu'**aucun elfe ne peut épouser** un Todbringer. **Mais fantasme** romantiquement de temps en temps. Joue de la musique dans ses chambres.
+- **Katarina infatuation hopeless** : p.119 — Rallane sait qu'**aucun elfe ne peut épouser** un Todbringer. **Mais fantasme** romantiquement de temps en temps. Joue de la musique dans ses chambres.
 
 ## Hooks de retour
 

@@ -1,15 +1,15 @@
 # Grimshank's Chain
 
-> **Ancient Dwarf network** activé pour transmettre messages + goods importants long distance. **Rarement activé**. Members **usually eldest + most respected** of community. **Knowledge passed within families** oral tradition. **Token = Grimshank's coin** (rune-marked). PJ reçoivent canon ch.12 d'**Iron Marshall Kina Hammerwatch** post-récupération Ghal Maraz.
+> **Ancient Dwarf network** activé pour transmettre messages + goods importants long distance. **Rarement activé**. Members **usually eldest + most respected** of community. **Knowledge passed within families** oral tradition. **Token = Grimshank's coin** (rune-marked). PJ reçoivent ch.12 d'**Iron Marshall Kina Hammerwatch** post-récupération Ghal Maraz.
 
 ## Identité
 - **Type** : **Informal Dwarf network** transport+protection messengers important messages/goods.
-- **Motto canon ch.12 l.38** : *« Our ancestors, our steel, our battle line — only broken at the weakest part »*.
+- **Motto ch.12 l.38** : *« Our ancestors, our steel, our battle line — only broken at the weakest part »*.
 - **Activation** : informal, activé members en cas besoin. **Rare**.
 - **Function** : transmission important messages + goods over long distances. Support + protect messenger.
 - **Tags** : `#GrimshanksChain` `#Chain` `#Dwarf` `#Transport` `#Network` `#Grimshank` `#Coin` `#Arc7` `#Ch12` `#Hammerwatch`
 
-## Source canon
+## Source
 - **EiR ch.12 l.37-46** *Grimshank's Chain* description complète.
 - **EiR ch.12 l.6-32** *The First Link* — Hammerwatch activate Chain pour PJ.
 
@@ -28,7 +28,7 @@
 - **Plus coin expensive + plus message important**.
 - **Runes painted coin** indicate when coin was issued = use specific + limited.
 
-## Chain members canon ch.12 PJ trajet
+## Chain members ch.12 PJ trajet
 
 ### Iron Marshall Kina Hammerwatch (canon ch.12 l.7)
 - **First Link** — Black Fire Pass post-Hammer recovery.
@@ -61,7 +61,7 @@
 - Sends Ablesniz get fresh food.
 - Ablesniz **kills par Cult of the Broken Fingers** night attack (canon ch.12 l.221) : throat slit + chest of tools dragged onto trapdoor.
 
-## Plan canon trajet Ghal Maraz retour
+## Plan trajet Ghal Maraz retour
 
 1. **Three-Axe Brewery Grenzstadt** (Gararoth).
 2. **Western Clock Tower Averheim** dusk (Khardrif Inglepeak).

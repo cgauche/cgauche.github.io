@@ -9,12 +9,12 @@
 - **Statut** : [VIVANT — OPPORTUNISTE]
 - **Tags** : `#Bachmann` `#KlausVonBachmann` `#Wissenland` `#SchlossBachmann` `#Schertal` `#OldFaith` `#Witchcraft` `#Arc7` `#Ch9`
 
-## Source canon
+## Source
 - **EiR ch.9 l.169-201** *Baron Klaus von Bachmann* + statbloc.
 - **EiR ch.9 l.174** : *« No backing from Countess Emmanuelle, but has long coveted Schertal and its environs. If the Characters approach diplomatically → audience. If threaten or attack castle → with over 100 men-at-arms, not concerned + lead troops in open battle »*.
 - **EiR ch.9 l.176-183** : **Schloss Bachmann strategy** vs PJ : 1) Question their knowledge family history+land. 2) Sow doubt Old Faith witchcraft.
 
-## Statbloc canon (EiR ch.9 l.188)
+## Statbloc (EiR ch.9 l.188)
 
 **BARON KLAUS VON BACHMANN**
 

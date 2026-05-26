@@ -1,22 +1,22 @@
 # Jendrick von Dabernick
 
-[Jendrick von Daberninck — Fandom (espagnol)](https://warhammerfantasy.fandom.com/es/wiki/Jendrick_von_Daberninck) *(orthographe canon variable : « Daberninck » sur Fandom ES vs « Dabernick » dans nos notes)*
+[Jendrick von Daberninck — Fandom (espagnol)](https://warhammerfantasy.fandom.com/es/wiki/Jendrick_von_Daberninck) *(orthographe variable : « Daberninck » sur Fandom ES vs « Dabernick » dans nos notes)*
 
 ## Identité publique
 - **Fonction** : **Général impérial**, commandant en chef des **forces d'occupation aldorfer** à Ubersreik. **Façade publique de la régence** — c'est lui qui parade, qui beugle aux burgomeisters et aux guildmasters, qui reçoit officiellement les hommages. Le **pouvoir réel** revient à **[[Emmanuelle Nacht]]** (Imperial Herald) qu'il ne soupçonne pas surpasser publiquement.
 - **Apparence** (canon *Guide to Ubersreik*) : « **a stiff-necked man of average height in his mid 30s**. He wears his heavily coiffured hair **swept up in blond twin-tailed comet**, a gesture as distinctive as it is devout. He **constantly shouts orders** from beneath his **enormous moustache**, and is never seen without his privately tailored **red and blue uniform**, complete with a **gilded breastplate**, medals, and **gold-trimmed, green-velvet cloak**. »
-- **Origine** : Officier impérial aldorfer, mi-trentaine. Noble bas-rang à voir (Noble Blood canon stat). **Ami de longue date** de **Xavier von Hammastrat** (cf. statbloc canon Mirror of Desire) — correspondance régulière, faveurs réciproques.
+- **Origine** : Officier impérial aldorfer, mi-trentaine. Noble bas-rang à voir (Noble Blood stat). **Ami de longue date** de **Xavier von Hammastrat** (cf. statbloc Mirror of Desire) — correspondance régulière, faveurs réciproques.
 - **Statut** : [VIVANT, façade impériale]
 - **Tags** : `#Dabernick` `#GénéralImpérial` `#Altdorfer` `#Ubersreik` `#FaçadeRégence` `#Sigmar` `#QueueDeComèteDouble` `#OccupationAltdorfer`
 
-## Source canon
+## Source
 - *A Guide to Ubersreik* (Starter Set) — description + rôle d'occupation : `Source/Starter Set/A Guide to Ubersreik/03 - Welcome to Ubersreik.md` lignes 205-213
 - *RN&HD — Lord of Ubersreik* (présent au bal masqué S20, costume) : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` lignes 76, 86-89, 131, 311-314
 - *Mirror of Desire — Dramatis Personae* (statbloc + lien Hammastrat) : `Source/Homebrew & Fan Material/Mirror of Desire/06 - Appendix 1- Dramatis Personae.md` lignes 97, 313-321
 
-> **Note de hiérarchie source** : la **stat block officielle** se trouve dans *Mirror of Desire* (fan/homebrew Cubicle 7 affilié, pas canon strict). Les descriptions et le rôle dans Ubersreik sont **canon dur** (Starter Set + RN&HD).
+> **Note de hiérarchie source** : la **stat block officielle** se trouve dans *Mirror of Desire* (fan/homebrew Cubicle 7 affilié, pas attesté strict). Les descriptions et le rôle dans Ubersreik sont **canon dur** (Starter Set + RN&HD).
 
-## Description canon
+## Description
 
 > « The Emperor ordered over five hundred soldiers to seize and hold Ubersreik. Now two strikingly different nobles represent his will in the town. **General Jendrick von Dabernick is in direct command of the military forces**. The general is a **stiff-necked man of average height in his mid 30s**. He wears his heavily coiffured hair swept up in **blond twin-tailed comet**, a gesture as distinctive as it is devout. He constantly shouts orders from beneath his **enormous moustache**, and is never seen without his privately tailored **red and blue uniform**, complete with a **gilded breastplate**, medals, and **gold-trimmed, green-velvet cloak**. »
 >
@@ -24,7 +24,7 @@
 
 > « The general will be **plagued for most of the evening by nobles who believe he has the ear of the Emperor**. **He hasn't**, but is **happy to be thought of as important**, and loudly boasts of his many important deeds. » (*Lord of Ubersreik* l.131)
 
-## Statbloc canon — **Jendrik von Dabernick – Officer (Gold 1)**
+## Statbloc — **Jendrik von Dabernick – Officer (Gold 1)**
 
 Source : *Mirror of Desire* (homebrew Cubicle 7) — `Source/Homebrew & Fan Material/Mirror of Desire/06 - Appendix 1- Dramatis Personae.md` l.313-321
 
@@ -73,7 +73,7 @@ Source : *Mirror of Desire* (homebrew Cubicle 7) — `Source/Homebrew & Fan Mate
 - **Conflit potentiel** : si Nacht prend une décision qui humilie publiquement Dabernick, il peut renauder. Réservoir politique à exploiter post-S21.
 
 ### Pas le plus malin
-- **Int 32** dans le statbloc canon. **Manipulable.**
+- **Int 32** dans le statbloc. **Manipulable.**
 - Sa **piété sigmarite** (queue de comète) en fait un terrain pour le clergé radical (le père **Gunther Emming** a son oreille, cf. S20). **Hubkind**, s'il était plus persuasif, aurait pu trouver en Dabernick un soutien dans sa traque des PJ. **Heureusement** Hubkind est trop chaotique pour s'appuyer sur un général.
 - **Soumis au culte des médailles et du paraître**. Bonne cible pour de la flatterie.
 

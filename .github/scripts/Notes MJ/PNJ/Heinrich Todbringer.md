@@ -7,7 +7,7 @@
 
 Géant — 6'11" (2,10 m), forte stature, cheveux brun-auburn, yeux bleu-gris `PBT ch.2 l.149`. Aussi intimidant intellectuellement que physiquement, confiant et sûr de lui ; porte souvent le poids des préoccupations familiales et se soucie profondément de l'avenir de Middenheim `EiR Intro l.919`. Son illégitimité limite sa capacité d'action sans qu'on l'accuse d'usurpation — il sert la cité par des missions diplomatiques `EiR Intro l.919`. En tenue de cour, vêtu sobrement mais avec soin ; en cas de menace, *Full Plate* et épée à deux mains magique *Rathewer* (*Impact* Quality contre Skaven), acquise lors d'une longue mission diplomatique à Miragliano `EiR Intro l.921`.
 
-## Phrases canon
+## Phrases
 
 - *« Delaying will save a few lives at the cost of many. I'd rather save many lives at the cost of a few. »* — refus d'atterrir pendant le vol Karak Skygg → Middenheim alors qu'un village brûle au sol `EiR ch.1 l.193`.
 - *« I'm sure there's no need, if Chef Greenhill says she can make amends then she will. »* — désamorçage d'un incident à la table du Graf, ton diplomate `EiR ch.2 l.266`.
@@ -42,7 +42,7 @@ Géant — 6'11" (2,10 m), forte stature, cheveux brun-auburn, yeux bleu-gris `P
 - **Reprise en main de Middenheim** : à son retour, dérouté par tout ce qui a changé en son absence, déterminé à réaffirmer son contrôle `EiR ch.2 l.171`.
 - **Conclave d'urgence** : maintenir Middenheim solidaire, observer où se placent les autres Électeurs si la guerre civile éclate, faire des PJ les espions du clan Todbringer auprès des délégations `EiR ch.7 l.70`.
 
-## Apparitions canon Arc 6-7
+## Apparitions Arc 6-7
 
 - **[S55] Karak Skygg → vol retour** — Apparaît avec le dirigeable *Sky Wolf* au-dessus de Karak Skygg et récupère les PJ qui s'échappent de la forteresse naine envahie par les Skavens `EiR Intro l.36`. Il poursuit en parallèle une étude aérienne des Monts du Milieu `EiR ch.1 l.25`.
 - **[S55-S56] Attaque du dirigeable** — Au-dessus des Monts du Milieu, le dirigeable est attaqué par des séparatistes nordlandais menés par Nielsa Klammer, manipulés par Karl-Heinz Wasmeier `EiR ch.1 l.259`. Heinrich crie ses ordres aux pilotes nains ; il préfère continuer route, Veiran Thugenheim veut atterrir et engager `EiR ch.1 l.242-250`. Si l'attaque est repoussée, il prend des prisonniers contre l'avis de Veiran Thugenheim et saisit les roquettes restantes `EiR ch.1 l.350`.
@@ -57,7 +57,7 @@ Géant — 6'11" (2,10 m), forte stature, cheveux brun-auburn, yeux bleu-gris `P
 
 - **[S63] Attaque du manoir Todbringer** (scénario homebrew « Le réveil d'Altdorf ») — Boris Todbringer est tué par « Volkmar » (en réalité Gideon Changeling). Veiran Thugenheim disparaît, corps non retrouvé. Heinrich survit avec Katarina Todbringer. Politiquement, son illégitimité l'empêche d'hériter du Grand Duché de Middenheim, mais militairement et pratiquement il devient l'homme du moment pour assurer la régence — soutien implicite des PJ, de Katarina Todbringer, d'Ulrich Schutzmann, de Luigi Pavarotti, et de Janna Eberhauer.
 
-> Dans la voie canon EiR, Heinrich reste un allié majeur des PJ au Conclave puis après, sans drame parricidal — Boris Todbringer survit. Le réordonnancement table place l'assassinat de Boris avant la suite canon.
+> Dans la voie EiR, Heinrich reste un allié majeur des PJ au Conclave puis après, sans drame parricidal — Boris Todbringer survit. Le réordonnancement table place l'assassinat de Boris avant la suite.
 
 ## Statbloc — Envoy (Gold 2), Former Advisor, Former Warden `EiR Intro l.923-932`
 

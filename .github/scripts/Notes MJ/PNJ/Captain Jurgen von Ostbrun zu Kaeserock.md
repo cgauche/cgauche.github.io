@@ -9,7 +9,7 @@
 - **Statut** : [VIVANT — REIKSGUARD CAPTAIN]
 - **Tags** : `#Ostbrun` `#JurgenVonOstbrun` `#Kaeserock` `#Reiksguard` `#Captain` `#Georg` `#Katzenreik` `#Altdorf` `#EnemyInShadows` `#Arc7` `#S62` `#Arc2Link`
 
-## Source canon
+## Source
 - **EiR ch.7 l.75-77, l.219-222** *Captain Jurgen von Ostbrun zu Kaeserock* + goals.
 - **Enemy in Shadows p.37** : *« my cousin Georg von Ostbrun was murdered while enjoying a night out with his friend, Jacob von Katzenreik »*. Tué pendant que PJ pass through Altdorf.
 

@@ -19,7 +19,7 @@ Il en est conscient et le dit franchement aux pétitionnaires qui viennent l'eng
 
 - **Fils** : lieutenant des Veilleurs (Watch). Heinz dort mal depuis l'assaut — il a passé la nuit à éplucher la liste des morts pour vérifier que son fils n'y était pas. Levier émotionnel pour qui sait l'approcher avec Charme.
 
-## Apparition canonique
+## Apparition
 
 - Apparaît à [[12 - Elvira au Rathaus]] (scène d'audience).
 

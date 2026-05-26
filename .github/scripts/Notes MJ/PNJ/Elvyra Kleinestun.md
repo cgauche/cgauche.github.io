@@ -27,7 +27,7 @@ traitent l'Empereur et le Marteau quand personne d'extérieur ne regarde
 mission de prévenir Boris Todbringer que le marteau brandi par
 l'Empereur n'est pas le vrai Ghal Maraz `EiR Intro l.222`.
 
-## Phrases canon
+## Phrases
 
 - *« Well, I can't understand why they don't give the Emperor more respect. I mean, I know he's meant to consider the advice of others before making decisions, but half the time they act like he isn't even in the room. »* — au camp de Shining Rock, confidence à Veiran Thugenheim sur l'attitude de la cour altdorfer envers Karl-Franz Holswig-Schliestein `EiR ch.3 l.163`.
 - *« Well, they don't seem to even treat the Hammer with much respect. I mean, when folk from other provinces are present, they expect everyone to fall silent if it's so much as looked at. But when it's just Altdorfers and Sigmarites in the room, they just treat it like a glorified paperweight. »* — même conversation, le verrou qu'elle doit faire entendre à un Middenheimer pour que l'idée d'un faux Ghal Maraz commence à circuler `EiR ch.3 l.167`.
@@ -91,12 +91,12 @@ usage criminel `EiR ch.3 l.125`.
 - **Sacrifiée par Kappelmuller** `EiR ch.8 l.116` : au palier 3 de l'escalade de défense de Kappelmuller, il rejette la faute sur elle (*« that pharmacist I've been using is spicing them with the wrong ingredients »*) — l'enquête peut alors la retourner pleinement contre le médecin, ou la précipiter à fuir si les PJ ne lui montrent pas qu'elle est manipulée.
 - **Levier émotionnel** `EiR ch.8 l.81` : Elvyra n'est pas Tzeentchéenne `EiR Intro l.220`. Confrontée aux preuves que ses ingrédients servent à empoisonner Karl-Franz Holswig-Schliestein, et que Hollzauber n'a jamais été son sauveur réel mais une création de Gideon, elle peut basculer du côté des PJ — Skill Charm aidé du levier Liza (Shallyan institution) ou de son passé Reikerbahn comme garantie d'amnistie.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **[S58 Shining Rock]** — Présente parmi le personnel du Grand Théogoniste ; herborise dans les bois alentour ; sur prise de contact, livre sa première ou sa seconde histoire selon le passé des PJ avec elle `EiR ch.3 l.93-98` `EiR ch.3 l.115-135`. Conversation candide avec Veiran Thugenheim au camp Middenheim, surprise possible par les PJ — confidences sur l'attitude méprisante de la cour altdorfer envers l'Empereur et Ghal Maraz `EiR ch.3 l.156-169`. Après l'attaque des Fils d'Ulric, si elle n'a pas encore eu sa fenêtre, devient plus pressante encore pour prévenir la délégation middenheimer que tout n'est pas comme il devrait à la cour `EiR ch.3 l.365`.
 - **[S64+ Asking After Henrik Kappelmuller]** — Interrogée par les PJ qui remontent la piste du médecin impérial, défend spontanément Kappelmuller (« he secured her own job ») et lâche prudemment quelques concessions sur la difficulté reconnue à soigner la Purple Brain Pox `EiR ch.8 l.78-81`.
 - **[Variante : audience arrachée]** — Si les PJ la convainquent (Charm Very Hard (-30) qu'il est dans l'intérêt de l'Empire qu'ils voient Kappelmuller à l'œuvre), elle peut leur ouvrir la porte de la chambre impériale `EiR ch.8 l.93`.
-- **[Variante : retournement]** — Si les PJ exposent à Elvyra qu'elle est manipulée (Hollzauber = Gideon, ses ingrédients tuent l'Empereur), une bascule canon est possible : elle n'est pas Tzeentchéenne et son ascension à Altdorf est obtenue sous chantage `EiR Intro l.220` `EiR ch.3 l.125+133`.
+- **[Variante : retournement]** — Si les PJ exposent à Elvyra qu'elle est manipulée (Hollzauber = Gideon, ses ingrédients tuent l'Empereur), une bascule est possible : elle n'est pas Tzeentchéenne et son ascension à Altdorf est obtenue sous chantage `EiR Intro l.220` `EiR ch.3 l.125+133`.
 
 ## Statbloc — Master Apothecary (Silver 3) `EiS ch.6 l.494-508`
 

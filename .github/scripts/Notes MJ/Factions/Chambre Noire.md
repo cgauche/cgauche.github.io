@@ -9,7 +9,7 @@
 - **Cercle Intérieur** + **Spionwerber** (recruitment arm — Zuntermein head) + **Graukappen** (Immanuel-Ferrand external branch).
 - **Tags** : `#BlackChamber` `#Spionwerber` `#Graukappen` `#Altdorf` `#BlackIsle` `#Holzkrug` `#ImmanuelFerrand` `#Zuntermein` `#PurpleHandInfiltration` `#Empire` `#Intelligence` `#Arc7`
 
-## Source canon
+## Source
 - **EiR Intro l.585-603** *Graf Liepmund Holzkrug Lord High Ambassador*.
 - **EiR Intro l.605-635** *Immanuel-Ferrand Holswig-Schliestein Grey Guardian + High Chancellor*.
 - **EiR Intro l.647-676** *Yann Zuntermein head Spionwerber + Magister Magistri*.
@@ -21,7 +21,7 @@
 - **Liepmund Holzkrug** : Grand Ambassadeur, runs Cercle Intérieur. Loyaliste Empereur mais aussi anti-Holswig-Schliestein dynasty.
 - **Immanuel-Ferrand Holswig-Schliestein** : High Chancellor + member Cercle Intérieur + Grey Order wizard.
 - **Yann Zuntermein** : adjunct Holzkrug + head **Spionwerber** + secret Magister Magistri Altdorf cell Main Pourpre.
-- **Emmanuelle Nacht** : *« Top Spy/Diplomat »* (canon Intro l.302) — Best agent Immanuel-Ferrand. Envoyée Ubersreik canon. Investigating Main Pourpre pré-redirection.
+- **Emmanuelle Nacht** : *« Top Spy/Diplomat »* (canon Intro l.302) — Best agent Immanuel-Ferrand. Envoyée Ubersreik. Investigating Main Pourpre pré-redirection.
 
 ### Spionwerber (recruitment arm Chambre Noire)
 - **Head Zuntermein**.
@@ -33,7 +33,7 @@
 - **Immanuel-Ferrand** runs.
 - Intelligence gathering + acting hostile forces **outside Altdorf**.
 
-## Mission canon
+## Mission
 - **Intelligence Empire-wide** (multiples cellules).
 - **Île Noire HQ** : *« they have operatives and safe houses throughout the Old World »* (canon Intro l.585).
 
@@ -44,7 +44,7 @@
 - **Immanuel-Ferrand ignore** Zuntermein cultiste.
 - **Emmanuelle Nacht** = best agent Immanuel-Ferrand investigating Main Pourpre → **redirected Ubersreik par Zuntermein** = neutralised threat (canon Intro l.297).
 
-## Plots canon Chambre Noire-utilisé
+## Plots Chambre Noire-utilisé
 
 (canon Intro l.302 — *« Plots of the Main Pourpre »*)
 1. **Sick Emperor** : Kappelmuller drogue + Elvyra positioned fall guy.

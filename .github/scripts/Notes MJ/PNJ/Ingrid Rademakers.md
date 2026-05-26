@@ -10,12 +10,12 @@
 - **Statut** : [VIVANTE — ENNEMIE ACTIVE COMBATTANTE]
 - **Tags** : `#IngridRademakers` `#NineEyes` `#EagleEye` `#Talabheim` `#NaturalHistory` `#Fencing` `#Tzeentch` `#Wolfgang` `#CastleReikguard` `#Arc7` `#Ch4` `#Ch13`
 
-## Source canon
+## Source
 - **EiR Intro l.142-151** liste 9 Yeux.
 - **EiR ch.4 l.287-291** room Reikguard : *« Ingrid Rademakers sleeps lightly. Unlike the other Neuf Yeux, if she is disturbed she snatches up a rapier and defends herself with gusto. She has Melee (Fencing) 88 and the following Talents: Beat Blade, Distract, Feint, Riposte. Her room contains a number of geological samples, the bones of assorted animals, several beautifully illuminated bestiaries, and a rack of fine fencing weapons »*.
 - **EiR ch.4 l.262-264** : *« Whilst Ingrid puts up such an immediate and violent defence that Characters may be forgiven for killing her, other Neuf Yeux do not react violently. Their death is seen as murder. However, if they are disposed of silently and carefully, their disappearance does not arouse suspicion »*.
 
-## Statbloc canon (EiR ch.4 l.191 + ch.4 l.288 upgrades)
+## Statbloc (EiR ch.4 l.191 + ch.4 l.288 upgrades)
 
 **MEMBER OF THE NINE EYES HUMAN PROFESSOR (GOLD 1)** — Ingrid spécifique :
 
@@ -24,7 +24,7 @@
 | 4 | 49 | 42 | 31 | 41 | 44 | 46 | 44 | 65 | 53 | 53 | 16 |
 
 - **Skills** : standard + **Melee (Fencing) 88** (canon upgrade), **Lore (Beasts 90, Nature 90, Tzeentch 90)**, **Language (Classical 85, Talabec 85)**.
-- **Talents** : standard 9 Yeux + **Beat Blade, Distract, Feint, Riposte** (fencing combat — canon upgrade), **Savant (Natural History) 3**.
+- **Talents** : standard 9 Yeux + **Beat Blade, Distract, Feint, Riposte** (fencing combat — upgrade), **Savant (Natural History) 3**.
 
 ## Apparitions par session
 
@@ -38,12 +38,12 @@
 ## MJ-only
 - **Cultiste Tzeentch active** + fence-master niveau Gold.
 - **PJ qui essaient assassinat silencieux** → réveil + fight back. **Reikguard alarm = expulsion immédiate** (canon ch.4 l.249).
-- **Killing forgiven canon** : *« Characters may be forgiven for killing her »* car defense violente. Mais les autres 9 Yeux *« seen as murder »* si tués canon.
+- **Killing forgiven canon** : *« Characters may be forgiven for killing her »* car defense violente. Mais les autres 9 Yeux *« seen as murder »* si tués.
 - **Cible possible élimination** : -1 Power Sheerargetru.
 
 ## Hooks Arc 7
 - **S59 confrontation** : préparation duel rapier OR neutralisation à distance.
-- **Murder vs forgiveness** : Ingrid = exception canon car defense.
+- **Murder vs forgiveness** : Ingrid = exception car defense.
 
 ## Fils ouverts
 - **FIL Ingrid Rademakers fence-master** — confrontation possible.

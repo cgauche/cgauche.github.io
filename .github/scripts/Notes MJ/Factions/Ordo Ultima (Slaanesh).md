@@ -8,7 +8,7 @@
 - **Statut** : [ACTIF] — non-affronté à table
 - **Tags** : `#OrdoUltima` `#Slaanesh` `#Nuln` `#CulteCaché` `#NonAffronté`
 
-## Source canon
+## Source
 - RN&HD ch.3 (Plot 3 "Face from the Past") : `Source/Rough Nights & Hard Days/03 - A Rough Night at the Three Feathers.md` lignes 78-80
 - RN&HD ch.4 (Plot 3 "Youthful Indiscretions") : `Source/Rough Nights & Hard Days/04 - A Day at the Trials.md` lignes 60-63
 - RN&HD ch.5 (Plot 4 "College Ties", apparition Kavenner) : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` lignes 112-126
@@ -27,7 +27,7 @@
 - **Cultistes mineurs anonymes** — voir RN&HD ch.3 (cultistes attaquant Rechtshandler à l'auberge S1, certains tués), ch.5 (cultistes potentiels à l'opéra).
 
 ### Personnages anciens / défunts
-- **Gustaf Rechtshandler** (mort S1) — ex-membre involontaire de jeunesse à Nuln. A refusé de coopérer quand recontacté. **Tué par les cultistes à l'auberge S1** (canon : 2 tentatives — la première (à l'auberge) a réussi à table, alors que canon prévoyait survie pour permettre la 2e tentative).
+- **Gustaf Rechtshandler** (mort S1) — ex-membre involontaire de jeunesse à Nuln. A refusé de coopérer quand recontacté. **Tué par les cultistes à l'auberge S1** (canon : 2 tentatives — la première (à l'auberge) a réussi à table, alors que prévoyait survie pour permettre la 2e tentative).
 - **Edvard Lowenhertz** (statut indéterminé post-S3) — magicien noir auto-formé, **possiblement membre Slaanesh** (à confirmer table). Spellcaster Daemonology probable. Vengeance personnelle contre Detlef Sierck = mobile principal, mais le culte a pu fournir la formation magique.
 
 ## Apparitions par session
@@ -50,7 +50,7 @@
 ## Hooks de retour
 - **Affaire juridique de l'un des PJ** où Kavenner intervient comme adversaire ou conseil → premier contact.
 - **Rituel découvert** : les PJ tombent par hasard sur une cérémonie Slaanesh discrète (manoir, sous-sol d'un hôtel particulier).
-- **Mariage Nastassia (S13 — Arc 3)** : canon ch.6 prévoit un rituel Slaanesh dans la cave si Kavenner ou Rechtshandler mutant est vivant. À vérifier ce qui a été joué table.
+- **Mariage Nastassia (S13 — Arc 3)** : ch.6 prévoit un rituel Slaanesh dans la cave si Kavenner ou Rechtshandler mutant est vivant. À vérifier ce qui a été joué table.
 - **Invitation suspecte** : un PJ reçoit une invitation à un "cercle philosophique" ou "salon privé" → piège de recrutement.
 - **Corruption d'un allié** : un PNJ allié des PJ (politicien, mécène) tombe progressivement sous influence Slaanesh — les PJ remarquent les signes.
 

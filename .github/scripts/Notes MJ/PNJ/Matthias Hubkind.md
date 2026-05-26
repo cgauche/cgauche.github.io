@@ -7,11 +7,11 @@
 - **Statut** : [VIVANT] [EN RETRAIT] depuis S20 (mat sans combat par Mark au bal masqué d'Ubersreik).
 - **Tags** : `#Hubkind` `#Répurgateur` `#Sigmar` `#EnnemiLatent` `#WeizenGhost`
 
-## Source canon
+## Source
 - RN&HD ch.4 (Plot 4 Innocence Maintained + description + statbloc) : `Source/Rough Nights & Hard Days/04 - A Day at the Trials.md` lignes 302-318
 - RN&HD ch.5 (Plot 7 The Witch Hunter + Hubkind's Mob) : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` lignes 484-492
 
-## Description canon
+## Description
 
 > "The most promising orphan raised by the **flagellant Order of the Three Brothers** in a generation, Hubkind came to Altdorf 40 years ago to train as a Witch Hunter. He now has **three decades of experience burning the enemies of Sigmar**, and he tirelessly pursues this holy duty. He is **suspicious of everyone and rarely speaks**, except to sonorously pronounce judgement on heretics.
 >
@@ -19,7 +19,7 @@
 >
 > **Apparence** : âgé 50+, fort malgré l'âge, dos cicatriciel (flagellation rituelle). **Magnificent Hat** (canon trapping), 2 pistolets, épée argentée.
 
-## Statbloc canon — **Matthias Hubkind – Witch Hunter (Silver 3)**
+## Statbloc — **Matthias Hubkind – Witch Hunter (Silver 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

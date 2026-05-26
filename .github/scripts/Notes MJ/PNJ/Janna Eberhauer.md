@@ -4,20 +4,20 @@
 
 ## Identité publique
 - **Fonction** : **Deputy High Wizard** de la **Grand Guild of Wizards de Middenheim** (canon p.83-84). Sous **Albrecht Helseher** (High Wizard).
-- **Apparence** : Jeune, attirante, **outgoing** (canon : « *more attractive, and more outgoing* » que Helseher). Mage Master Wizard d'une Lore canon non précisée (probable Lore of Heavens ou Light vu son ouverture).
-- **Personnalité** : **Approachable, intelligent, decisive**. **Sympathique aux mages renégats jeunes + bonne volonté** (cf. son acceptation d'Anselm S33). **Fâché par les avances de Sparsam** (le menace de transformation en rat — canon p.114).
+- **Apparence** : Jeune, attirante, **outgoing** (canon : « *more attractive, and more outgoing* » que Helseher). Mage Master Wizard d'une Lore non précisée (probable Lore of Heavens ou Light vu son ouverture).
+- **Personnalité** : **Approachable, intelligent, decisive**. **Sympathique aux mages renégats jeunes + bonne volonté** (cf. son acceptation d'Anselm S33). **Fâché par les avances de Sparsam** (le menace de transformation en rat — p.114).
 - **Famille** : **Sœur aînée d'[[Erina Eberhauer]]** (Bright Wizard, novice).
 - **Statut** : [VIVANT — ALLIÉE MAJEURE post-S34]
 - **Tags** : `#JannaEberhauer` `#DeputyHighWizard` `#GrandGuildOfWizards` `#Middenheim` `#Arc5` `#Arc6` `#Mentore` `#Anselm` `#Yuridika` `#Erina` `#Alliée`
 
-## Source canon
+## Source
 - **PBT ch.2 *Government*** (canon p.31) : Helseher + Eberhauer mentionnés.
 - **PBT ch.4 *Religion - Wizard Tax* + *The Grand Guild of Wizards*** (canon p.46-47, p.52) : mages s'opposent à la Scroll Tax.
 - **PBT ch.6 *Encountering NPCs - High Wizard and His Deputy*** (canon p.83) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT Appendix I p.127** (NPC sheet Janna Eberhauer Wizards) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.6 *A Helping Hand*** (canon p.91) : Erina Eberhauer + lien avec Janna.
 
-## Statbloc canon (HR l.5444-5454, NPC sheet complet)
+## Statbloc (HR l.5444-5454, NPC sheet complet)
 
 **Janna Eberhauer — Master Wizard (Gold 1)**
 
@@ -26,7 +26,7 @@
 | 4 | 43 | 27 | 30 | 32 | 52 | 54 | 37 | 58 | 53 | 55 | 12 |
 
 - **Carrière** : Master Wizard niveau Gold 1.
-- **Lore** : **Lore of Heavens (Azyr)** — canon explicite l.5451 *Arcane Magic (Lore of Heavens)*. Voyageait vers la Celestial College à Altdorf S49 quand capturée (canon l.5458).
+- **Lore** : **Lore of Heavens (Azyr)** — explicite l.5451 *Arcane Magic (Lore of Heavens)*. Voyageait vers la Celestial College à Altdorf S49 quand capturée (canon l.5458).
 - **Skills canon** : Channelling (Azyr) 68, Charm 70, Cool 66, Dodge 69, Evaluate 71, Gossip 68, Intimidate 45, Intuition 67, Language (Battle 68, Classical 68, Magick 73), Leadership 60, Lore (Magic 73, Middenheim 63, Warfare 68), Melee (Basic 53, Polearm 53), Perception 67, Ride (Horse) 64.
 - **Talents canon** : Aethyric Attunement, Arcane Magic (Lore of Heavens), Detect Magic, Doomed (*« An Ogre's feast, a six-legged beast, a hope at least, then a film of yeast »*), Etiquette (Nobles), Instinctive Diction, Magical Sense, Petty Magic, Pure Soul, Read/Write, Savvy, Second Sight, Sixth Sense, Suave.
 - **Sorts** (canon l.5454) : Petty (Bearings, Dart, Dazzle, Gust, Light, Magic Flame, Open Lock, Sleep, Warning) + Arcane (Aethyric Armour, Aethyric Arms, Arrow Shield, Chain Attack, Flight, Teleport) + Lore (Cerulean Shield, Fate's Fickle Fingers, Starcrossed, T'Essla's Arc, The First Portent of Amul, The Second Portent of Amul).
@@ -63,8 +63,8 @@
 
 ## MJ-only
 
-- **Avances Sparsam** : canon p.114 — Sparsam ivre a fait des avances à Janna récemment, **elle l'a menacé de transformation en rat**. Sparsam **terrifié**. **Hook Arc 6** : la collaboration forcée canon post-PBT met Sparsam-Janna en tension constante. Janna pourrait **demander des services aux PJ** pour gérer Sparsam.
-- **Sœur d'Erina** : canon ch.6 p.91 — Erina = sœur cadette, Bright Wizard novice. **Janna est protective** d'Erina. **Si Erina est en danger**, Janna devient féroce.
+- **Avances Sparsam** : p.114 — Sparsam ivre a fait des avances à Janna récemment, **elle l'a menacé de transformation en rat**. Sparsam **terrifié**. **Hook Arc 6** : la collaboration forcée post-PBT met Sparsam-Janna en tension constante. Janna pourrait **demander des services aux PJ** pour gérer Sparsam.
+- **Sœur d'Erina** : ch.6 p.91 — Erina = sœur cadette, Bright Wizard novice. **Janna est protective** d'Erina. **Si Erina est en danger**, Janna devient féroce.
 - **Aetheric Attunement + Magical Sense** : Janna peut **détecter la magie active** + **les artefacts magiques**. À utiliser pour : détecter Brunhilde, Wasmeier, Wallenstein, Filianore (corruption Tzeentch), etc. Hook : si les PJ lui montrent un objet suspect Arc 6+, elle peut **diagnostiquer**.
 - **Refuser le badinage romantique** : canon : « *She is not interested in romantic advances* ». Allavandrel + Helseher la séduiraient s'ils essayaient mais elle est **professionnelle uniquement** dans cette relation.
 - **Helseher** : son supérieur direct. **Très impressionnant** (canon : « *a Wizard Lord of the Gold Order*, *piercing eyes of a startlingly vivid blue* »). **Plus distant** que Janna, **canon Altdorf** *Allies of Order*.

@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT — CACHÉ Arc 5 → CAPTURÉ S42 — INTERROGÉ]
 - **Tags** : `#GottfriedJarmund` `#MainPourpre` `#PurpleHand` `#MagisterNovitae` `#Wizard` `#Middenheim` `#Arc5` `#Arc6` `#CapturéS42` `#CelluleMPMiddenheim`
 
-## Source canon
+## Source
 - **PBT ch.7 *Requirements* p.106** : « *Senior Cult Magi Gottfried Jarmund and Erich Kalzbad keep their heads low and remain undiscovered* » — survit canon PBT, démantelé Arc 6 table.
 - **EiS Companion ch.9 *The Main Pourpre - A GM's Guide*** : `Source/Enemy in Shadows Companion/` (structure des cellules MP).
 - **PBT Appendix I p.123** (Wasmeier sheet — mentionne Jarmund) : « *Wasmeier is Magister Magistri of the Main Pourpre, whose Inner Council consists of himself, respected v Gottfried Jarmund, and Chancellor's clerk Erich Kalzbad* ».
@@ -46,7 +46,7 @@ Canon PBT p.123 :
 
 ## MJ-only
 
-- **Jarmund ignorait le plan complet** : canon. Il **ne soupçonnait pas Wasmeier** d'être la tête. Il croyait servir « Tzeentch » dans l'abstrait, sans connaître les détails. **Choc à l'interrogation**.
+- **Jarmund ignorait le plan complet** :. Il **ne soupçonnait pas Wasmeier** d'être la tête. Il croyait servir « Tzeentch » dans l'abstrait, sans connaître les détails. **Choc à l'interrogation**.
 - **Réseau de recrutement** : Jarmund a recruté plusieurs cultistes mineurs dans :
   - Grand Guild of Wizards (apprentis disgracieux).
   - Collegium Theologica (étudiants déçus).

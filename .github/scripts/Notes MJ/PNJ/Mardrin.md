@@ -7,7 +7,7 @@
 - **Statut** : [VIVANT, inactif, post-S21] — abandonné à Ubersreik au départ du groupe pour Altdorf S21. Pas de contact depuis. Cf. **FIL-36**.
 - **Tags** : `#Mardrin` `#Nain` `#Mercenaire` `#Bruner` `#Inactif` `#Ubersreik` `#FIL-36`
 
-## Source canon
+## Source
 - Aucun — PNJ homebrew créé pour le **Contrat Oldenhaller** transposé à Ubersreik (S17).
 - Profil mécanique recommandé : **Soldier (Silver 1)** nain ou **Dwarf Slayer-adjacent (Silver 2)** sans Slayer Oath, hache + armure mailles, **Resolute** + **Hatred (Goblinoids)**.
 

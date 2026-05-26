@@ -32,7 +32,7 @@ le cherche, trop occupé pour converser mais salut chaleureux pour les PJ
 militaire, il hausse les épaules et invoque la patience qu'on lui a enseignée
 — première mention spontanée des Neuf Yeux comme tuteurs `EiR ch.6 l.46`.
 
-## Phrases canon
+## Phrases
 
 - *« I have been lucky enough to receive a comprehensive education. Since I was young man, I have been tutored by some of the finest minds in the Empire. There are nine of them and, in recognition of their keen perception, they are informally known as the Nine Eyes. »* — quand les PJ enquêtent à Castle Reikguard sur ses tuteurs `EiR ch.4 l.130`.
 - *« Ah! I must say I'm surprised to hear them brought up. How did you come to hear about them? »* — première réaction quand les PJ prononcent « Neuf Yeux » ; il craint un espion dans sa maison `EiR ch.4 l.121-123`.
@@ -184,18 +184,18 @@ chant *Iztak Graksk* répété neuf fois pour que Sheerargetru manifeste.
   debout, bras écartés, se fend dans un déchirement insupportable pour
   laisser émerger Sheerargetru.
 - **Empêcher Wolfgang d'être l'hôte vaut 50 points** `EiR ch.13 l.663` :
-  signal canon majeur que la priorité narrative est de sauver le Prince
+  signal majeur que la priorité narrative est de sauver le Prince
   Héritier avant le rituel — soit en l'extrayant de la cérémonie, soit en
   désamorçant le reliquaire, soit en éliminant les Neuf Yeux pré-cérémonie.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S57-S58 — Mariage proposé à Shining Rock : Volkmar propose Katarina
   Todbringer comme épouse à Wolfgang en geste d'unité Sigmar/Ulric ;
   Katarina refuse d'abord ; après l'attaque des Porteurs de Sang,
   elle accepte `EiR Intro l.48+54`. Wolfgang lui-même n'est pas présent
   à Shining Rock — il est à Castle Reikguard.
-- S58-S59 — Castle Reikguard, audience canon ch.4 : les PJ envoyés par
+- S58-S59 — Castle Reikguard, audience ch.4 : les PJ envoyés par
   Baron Heinrich Todbringer délivrent le pavillon-trophée de Carroburg
   (cadeau prénuptial préparé par Yann Zuntermein via Veiran Thugenheim)
   et interrogent le Prince Héritier ; trois interruptions canon
@@ -233,7 +233,7 @@ chant *Iztak Graksk* répété neuf fois pour que Sheerargetru manifeste.
     trahison ; si le chant *Iztak Graksk* aboutit neuf fois, son corps
     se déchire pour laisser sortir Sheerargetru `EiR ch.13 l.375-405`.
 
-## Dénouements canon ch.13
+## Dénouements ch.13
 
 - **Victoire des PJ** `EiR ch.13 l.620-628` : si les PJ déjouent Gideon,
   Zuntermein, Wasmeier et Kastor, et que Wolfgang est sauvé du rôle

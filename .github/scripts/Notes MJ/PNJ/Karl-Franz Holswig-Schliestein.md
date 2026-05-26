@@ -26,7 +26,7 @@ sa réputation d'arbitre impartial ; les nobles s'arment désormais
 publiquement par crainte qu'il ne saisisse d'autres provinces
 `Altdorf ch.2 l.20`.
 
-## Phrases canon
+## Phrases
 
 - *« I have invited the High Patriarch to provide his wisdom and counsel as a valued servant of the Empire in this time of crisis, as is my right. Shall we get started? »* — au Conclave d'urgence ch.7, le sosie Hermann von Feilbach justifie l'invitation surprise de Thyrus Gormann ; phrase scriptée pour donner à l'Empereur l'autorité de couper court à toute contestation `EiR ch.7 l.114`.
 - *« We will settle matters in Ubersreik without further bloodshed, old friend. And we will do it without again painting the throne as weak or dithering. I will see to this matter myself, the first of many I am sure. Saddle Deathclaw! I ride this very night for Neufaljung. Then, on to Middenheim! The Graf and I have much to discuss. »* — au Reiksmarshall Kurt Helborg le lendemain du climax, restauré et lucide, ton à nouveau impérial `EiR ch.13 l.650`.
@@ -100,11 +100,11 @@ de Liepmund Holzkrug et d'Immanuel-Ferrand Holswig-Schliestein comme prête-noms
 
 - **Audience à la chambre impériale** `EiR ch.8 l.92-103` : les PJ doivent convaincre un membre du Conseil privé impérial (ou Elvyra Kleinestun) avec un Charm Very Hard (-30), rendre clair qu'ils savent que l'Empereur est malade, qu'un sosie le remplace, qu'ils soupçonnent une faute médicale et qu'ils agissent pour l'Empire ; abandonner les armes et laisser les magiciens à la porte.
 - **Preuve par Vitality Draught** `EiR ch.8 l.114` : Kappelmuller lui-même peut administrer la dose (en Sleight of Hand, espérant fuir dans la confusion), ce qui ramène brièvement Karl-Franz à ses sens — les PJ ont alors un témoin lucide quelques minutes.
-- **Effet en aval sur le climax** `EiR ch.13 l.187+195+486` : si Kappelmuller est démasqué avant la cérémonie de Ghal Maraz, l'Empereur n'est plus malade au moment du rituel Sheerargetru — un critère canon du rituel saute, et le Power Score du démon prend -2.
+- **Effet en aval sur le climax** `EiR ch.13 l.187+195+486` : si Kappelmuller est démasqué avant la cérémonie de Ghal Maraz, l'Empereur n'est plus malade au moment du rituel Sheerargetru — un critère du rituel saute, et le Power Score du démon prend -2.
 - **Apparition au climax** `EiR ch.13 l.201-203` : si Kappelmuller est encore en place, Karl-Franz est présent sur le trône de la Volkshalle, hagard et incapable de réagir aux événements ; si démasqué, le rituel rate plus facilement.
 - **Restauration totale** `EiR ch.13 l.621-623` : si les PJ gagnent (Sheerargetru vaincu, Wolfgang survit), au lendemain Karl-Franz est un homme nouveau — sort de Gideon levé, Kappelmuller disparu ou mort. Il accorde aux PJ titres et baronnies, Reiksmarshall Kurt Helborg arrive d'Ubersreik et l'art d'État reprend son cours `EiR ch.13 l.628-650`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **S57-S60 (chs.2-5)** : Karl-Franz est alité à la chambre impériale du Palais Impérial Altdorf, jamais vu par les PJ. Toutes les apparitions publiques de « l'Empereur » sont le sosie Hermann von Feilbach.
 - **S60 — Défilé ch.5** : le sosie Hermann von Feilbach (von Fielbach dans le texte) trône au pavillon impérial, deux chevaliers High Helm en encadrement, reste distant pour éviter le regard d'Emmanuelle von Liebwitz et de Boris Todbringer `EiR ch.5 l.82+118`. Emmanuelle l'identifie comme imposteur lors d'un échange feutré, lui demandant à demi-mot s'il apprend ses répliques avec Karl-Franz ou si c'est Holzkrug qui les lui écrit `EiR ch.5 l.244+247`.
@@ -114,7 +114,7 @@ de Liepmund Holzkrug et d'Immanuel-Ferrand Holswig-Schliestein comme prête-noms
 - **S64+ — ch.13 climax** : selon les actions des PJ, soit Karl-Franz reste presque catatonique pendant l'invocation, soit (si Kappelmuller démasqué) il est rendu à la santé et le Power Score du démon chute de 2 `EiR ch.13 l.486`.
 - **Lendemain canon « Win »** : audience privée dans ses chambres, restauré ; reçoit les PJ, fonde l'ordre des Champions du Marteau, accorde la baronnie de Wittgendorf et titres divers ; voit arriver Reiksmarshall Kurt Helborg d'Ubersreik et part sur Deathclaw `EiR ch.13 l.628-650`.
 
-## Endings canon ch.13
+## Endings ch.13
 
 - **Win des PJ** `EiR ch.13 l.620-623` : Karl-Franz restauré, le maléfice de Gideon levé, Kappelmuller disparu ou mort, l'Empire engage des réformes ; la guerre civile s'achève rapidement.
 - **Win de Gideon** `EiR ch.13 l.568` : Altdorf devient un nouveau Mordheim, Karl-Franz absorbé dans la catastrophe ; culte de Sigmar éclipsé.

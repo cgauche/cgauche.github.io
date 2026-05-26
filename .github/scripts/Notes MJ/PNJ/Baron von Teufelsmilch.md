@@ -9,12 +9,12 @@
 - **Statut** : [VIVANT — DÉLINQUANT INVOLONTAIRE] (Arc 7 ch.13).
 - **Tags** : `#Teufelsmilch` `#Augustus` `#Bardeleben` `#ReiksguardCommander` `#PalaceGarrison` `#Volkshalle` `#Climax` `#Arc7` `#Ch13` `#Manipulé`
 
-## Source canon
+## Source
 - **EiR ch.13 l.309-325** *Baron Augustus Bardeleben von Teufelsmilch* — palace garrison commander.
 - **EiR ch.13 l.322** : Si PJ visitent + Maria-Luise token bonus → warm welcome heroes. Demande hear stories. Si question new guardsmen : *« harrumphs about needs of war + admits 'there has been some shifting about', but doesn't remember details »*.
 - **EiR ch.13 l.324** : *« Hard (-20) Perception Test, the Character finds a duty roster listing all the new men as assigned to the honour guard for the Reliquary at tomorrow's ceremony. Each paper is signed by the Baron and stamped with his seal »*. **Confused — has no memory of this**.
 
-## Plan canon
+## Plan
 - **Sa garnison palatiale a été manipulée par Gideon** (transfers infiltrating cultists comme honour guard reliquaire).
 - **9 cultist-Reiksguard** (false honour guard) chant *Iztak Graksk* + tuent Yorri + Wolfgang ch.13 climax.
 - **Baron innocent** — pas cultiste, juste vieux + inattentif.

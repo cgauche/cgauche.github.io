@@ -10,13 +10,13 @@
 - **Statut** : [VIVANT — RÉFUGIÉ ARRAGÉ] [Old Faith]
 - **Tags** : `#Cerdic` `#CerdicLinden` `#Rhya` `#OldFaith` `#PredatorPrey` `#Schertal` `#Reikland` `#Wissenland` `#Bachmann` `#Arc7` `#Ch9` `#Carroburg`
 
-## Source canon
+## Source
 - **EiR ch.9 l.116-156** *Cerdic Linden – Unorthodox Priest of Rhya (Silver 1)* — statbloc.
 - **EiR ch.9 l.118-128** : flotilla refugees + raid Wissenland soldiers. Schertal + Graubach + Florianfeld villages razed.
 - **EiR ch.9 l.135** : Predator-prey iconography Old Faith ancestral.
 - **EiR ch.9 l.136-138** : **Monolith predator-prey** dans cargo (3 feet diameter + 1 foot high, half-carved half-natural, swirling magical winds).
 
-## Statbloc canon (EiR ch.9 l.140)
+## Statbloc (EiR ch.9 l.140)
 
 **CERDIC LINDEN – UNORTHODOX PRIEST OF RHYA (SILVER 1)**
 
@@ -38,7 +38,7 @@
 - **Tradition Schertal + surrounding countryside as long as anyone can remember**.
 - **Examination Schertal temple shows Sigmarite iconography subverted into predator-prey** (canon ch.9 l.163-165) : Imperial eagle / predator + twin-tailed comet / two-eared rabbit.
 
-## Monolith canon (ch.9 l.136)
+## Monolith (ch.9 l.136)
 - **Roundish**, ~3 ft diameter, ~1 ft high. Très lourd.
 - Half-carved + half-natural predator-prey symbol.
 - **Surrounded by confused swirl of magical winds** (Lore Theology Difficult -10 = Old Faith).
@@ -64,7 +64,7 @@
 
 ## MJ-only
 - **Pas cultiste — Old Faith ancestral**, distinct du Chaos.
-- **Monolith predator-prey magique** : swirling winds canon. **Pas Chaos** — Old Faith Rhya/Taal ancestrale.
+- **Monolith predator-prey magique** : swirling winds. **Pas Chaos** — Old Faith Rhya/Taal ancestrale.
 - **Hook narratif Schertal** : PJ peuvent enquêter Bachmann (canon ch.9 l.169-200).
 - **Pendant bonus** : utilisable Black Fire Pass + Lost Gorge skills nécessaires.
 
@@ -72,7 +72,7 @@
 - **Aider refugees** : nourriture + eau + protection.
 - **Pendant predator-prey** : +20 bonus 3 tests skills nature.
 - **Suivre raiders Bachmann** : Hook Schloss Bachmann (canon ch.9 l.169+).
-- **Témoignage canon ch.9 l.183** : *« bringing up his behaviour might wrong-foot the countess when they again meet up with her later in the adventure »* (Emmanuelle).
+- **Témoignage ch.9 l.183** : *« bringing up his behaviour might wrong-foot the countess when they again meet up with her later in the adventure »* (Emmanuelle).
 
 ## Fils ouverts
 - **FIL Schertal raid Bachmann** — actif.
@@ -80,6 +80,6 @@
 
 ## Liens
 - **Arcs** : Arc 7 (ch.9).
-- **PNJ liés** : **Baron Klaus von Bachmann** (Wissenland baron — raider), [[Emmanuelle von Liebwitz]] (Bachmann acted *« alone, without her authority »* canon ch.9 l.197), villageois Schertal/Graubach/Florianfeld.
+- **PNJ liés** : **Baron Klaus von Bachmann** (Wissenland baron — raider), [[Emmanuelle von Liebwitz]] (Bachmann acted *« alone, without her authority »* ch.9 l.197), villageois Schertal/Graubach/Florianfeld.
 - **Lieux** : **Schertal** (village rasé), **Graubach + Florianfeld** (raids voisins), **Schloss Bachmann** (Wissenland castle), **Reik river** (flotilla).
 - **Factions** : **Old Faith** (ancestrale), **Rhya cult** (Unorthodox branch).

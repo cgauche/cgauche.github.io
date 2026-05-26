@@ -13,12 +13,12 @@
 - **Mère** : Gunnhilde Teugen (probablement morte)
 - **Frère aîné** : **Karl Teugen** — mort jadis (~2510 IC) **empoisonné par Gideon avec Purple Brain Pox**. Sa mort a "ouvert la voie" à Johannes pour prendre la tête de la famille (canon EiS ch.5 l.46).
 
-## Source canon
+## Source
 - EiS ch.9 *The Darkest Hour* (description + statbloc + background) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/09 - The Darkest Hour.md` lignes 410-454
 - EiS ch.5 (What's Going on in Bögenhafen, background Teugen+Gideon pact) : ch.5 l.41-48
 - EiS ch.8 (Town Gossip on Teugen + Vampire bluff) : ch.8 l.43-52, l.228-247
 
-## Description canon
+## Description
 
 > "Teugen is tall, in his 50s, and has black hair and brown eyes. His family's emblem, a **rose stylised into a circular cross**, is displayed on a heavy chain round his neck and on one of the massive rings that bedeck his hands. His face is deeply lined, but he appears to be in good health for his age; **however, he has a very pale complexion, a legacy of his years of study and his largely nocturnal lifestyle**. When he smiles, **his canine teeth are unusually pronounced**. His voice is deep and refined, almost mellifluous, betraying his long education in Nuln." (EiS ch.9 l.411)
 >
@@ -29,7 +29,7 @@
 - **Style de vie nocturne** (lumière du soleil insupportable) → +1 step difficile pour tous les Tests au soleil
 - **Aversion garlic** → recule à 1 yard ; si attaqué proche d'ail, +1 step difficile pour tous Tests
 
-## Statbloc canon — **Johannes Teugen – Daemonologist and Merchant Prince (Gold 3)**
+## Statbloc — **Johannes Teugen – Daemonologist and Merchant Prince (Gold 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

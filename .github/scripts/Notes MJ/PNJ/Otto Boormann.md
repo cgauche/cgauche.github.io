@@ -7,11 +7,11 @@
 - **Statut** : [VIVANT] [ALLIÉ FORT] — protecteur politique de Phineas depuis S23.
 - **Tags** : `#Boormann` `#Plénipotentiaire` `#Kemperbad` `#Altdorf` `#Phineas` `#AlliéFort` `#Diplomate` `#NobleReikland` `#PolitiqueImpériale`
 
-## Source canon
+## Source
 - *Death on the Reik Companion* ch.3 *Deleted Scenes — The Imperial Plenipotentiary* (apparition + statbloc + rôle Middenheim + rôle EiR) : `Source/Death on the Reik Companion/10 - CHAPTER 3- DELETED SCENES.md` lignes 12-55
 - *Empire in Ruins* ch.13 *The Empire Saved* (présent au climax Volkshalle Altdorf) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/16 - Chapter 13 - The Empire Saved.md` lignes 152-172
 
-## Description canon
+## Description
 
 > "Count Otto is in his middle years, slightly portly, with grey, thinning hair kept carefully trimmed. On the surface he is a **stuffy, petty minor noble**, insisting on every courtesy and treating everyone as inferiors. Beneath this façade, though, he is a **shrewd judge of people and an able politician**; while he is certainly a snob, he overplays the role because **he finds it useful to be underestimated**." (DotR Companion ch.3 l.32)
 
@@ -19,7 +19,7 @@
 
 > Arrivée canon : "a company of liveried soldiers clearing civilians away from one of the larger jetties as a large **River Patrol boat** moors there, with the **Imperial Ensign** flying from her masthead. Amid a fanfare of trumpets, a richly dressed, rather corpulent character teeters down the gangway." (l.20)
 
-## Statbloc canon — **Count Otto Boormann – Human Noble, Former Diplomat (Gold 3)**
+## Statbloc — **Count Otto Boormann – Human Noble, Former Diplomat (Gold 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 - **[S24-S25]** — Phineas reste à Kemperbad sous Boormann. **Hors-table**, mais le réseau Boormann travaille — quand la Main Pourpre tente de tuer Phineas, c'est la garde rapprochée Boormann qui l'en sauve.
 - **[S26]** — **Boormann sauve Phineas de l'assassinat Main Pourpre**. Phineas réinstallé au palais de justice **sous haute sécurité**. Boormann affrète **un navire diplomatique** pour Phineas vers Wittgendorf (mission financière auprès des Wittgenstein — surveillés par la finance de Kemperbad). Les PJ embarquent dessus pour fuir Kemperbad après l'attentat sur leur barge.
 - **[S30+]** — Phineas continue de référer politiquement à Boormann pendant tout l'Arc 5 (Middenheim) et au-delà. Le réseau Boormann à Altdorf devient l'**entrée politique impériale** des PJ.
-- **[S62 — Arc 7 — canon EiR ch.13]** — **Boormann présent à Altdorf** lors du climax Volkshalle. **Boormann croise les PJ** avant la cérémonie de remise de Ghal Maraz à l'Empereur. **Plaisante (ou se plaint) du renversement de leurs positions sociales respectives** (« Il fut un temps où je vous présentais à la cour ; aujourd'hui c'est l'inverse »). Donne des renseignements canon sur **Liepmund Holzkrug** (« ruthless and competent ») et lâche le hook canon : « *Folk say [the shade of Emperor Eberhardt] still haunts the Volkshalle, and if he hears a proposal that offends his sense of justice he sets papers flying.* »
+- **[S62 — Arc 7 — canon EiR ch.13]** — **Boormann présent à Altdorf** lors du climax Volkshalle. **Boormann croise les PJ** avant la cérémonie de remise de Ghal Maraz à l'Empereur. **Plaisante (ou se plaint) du renversement de leurs positions sociales respectives** (« Il fut un temps où je vous présentais à la cour ; aujourd'hui c'est l'inverse »). Donne des renseignements sur **Liepmund Holzkrug** (« ruthless and competent ») et lâche le hook canon : « *Folk say [the shade of Emperor Eberhardt] still haunts the Volkshalle, and if he hears a proposal that offends his sense of justice he sets papers flying.* »
 
 ## Ce que les PJ savent
 - Plénipotentiaire impérial à Kemperbad — diplomate de haut rang.
@@ -77,5 +77,5 @@
 ## Liens
 - **Arcs** : [[Arc 4 - Mort sur le Reik]] (S23 — première rencontre + S26 — sauve Phineas), [[Arc 5 - Le Pouvoir Derrière le Trône]] (Middenheim — hook canon), [[Arc 7 - Empire in Ruins]] (S62 climax Volkshalle)
 - **PNJ liés** : [[Phineas]] (protégé politique), [[Emmanuelle Nacht]] (réseau espionnage Altdorf — coexistence tacite), [[Liepmund Holzkrug]] (canon EiR — Boormann en parle aux PJ), [[Luigi Belladonna]] (coexistence tacite à Kemperbad — administration vs bas-fonds)
-- **Lieux** : [[Kemperbad]] (mission Arc 4), [[Altdorf]] (base + climax Arc 7), [[Middenheim]] (mission canon post-DotR — Arc 5 latent)
+- **Lieux** : [[Kemperbad]] (mission Arc 4), [[Altdorf]] (base + climax Arc 7), [[Middenheim]] (mission post-DotR — Arc 5 latent)
 - **Factions** : Cour impériale d'Altdorf (administration fiscale impériale), Conseil des Treize de Kemperbad (relation tendue mais respectueuse)

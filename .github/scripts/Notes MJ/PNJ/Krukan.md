@@ -11,10 +11,10 @@
 - **Statut** : [VIVANTE] [ENNEMIE ACTIVE — STRATÈGE] (Arc 7 ch. 12).
 - **Tags** : `#Krukan` `#Beastman` `#Mutant` `#Arachnide` `#StratègeHorde` `#Wolfshügel`
 
-## Source canon
+## Source
 - **EiR ch.12 l.474-487** *Krukan* lieutenant Drexol — arachnoid mutant beastman.
 
-## Statbloc canon (EiR ch.12 l.481)
+## Statbloc (EiR ch.12 l.481)
 
 **KRUKAN**
 

@@ -12,7 +12,7 @@
 | S1 | **27 Vorhexen 2511 IC** | Auberge des 3 Plumes | Nuit du meurtre de Bruno |
 | S2 | **30 Vorhexen 2511 IC** | Kemperbad | ~3 jours après S1 (bateau auberge→Kemperbad + arrivée + duel) |
 | S3 | **5 Nachhexen 2512 IC** | Nuln | ~5-6 jours après S2 (bateau Kemperbad→Nuln) |
-| (S3 → S4) | ~Jahrdrung 2512 IC | Voyage Nuln → Altdorf | ~6 semaines de transition. EiS démarre canon le **24 Jahrdrung 2512 IC** à Altdorf. |
+| (S3 → S4) | ~Jahrdrung 2512 IC | Voyage Nuln → Altdorf | ~6 semaines de transition. EiS démarre le **24 Jahrdrung 2512 IC** à Altdorf. |
 
 > **Convention calendrier impérial** : 1.Nachhexen → 2.Jahrdrung → 3.Pflugzeit → 4.Sigmarzeit → 5.Sommerzeit → 6.Vorgeheim → 7.Nachgeheim → 8.Erntezeit → 9.Brauzeit → 10.Kaldezeit → 11.Ulriczeit → 12.Vorhexen. **Vorhexen → Nachhexen = transition d'année.**
 
@@ -38,10 +38,10 @@
 
 **Cadre** : Auberge isolée à 20 mi nord de Grissenwald. La **Gravin Maria-Ulrike von Liebwitz d'Ambosstein** (nièce de la comtesse Emmanuelle de Nuln) y dort avec sa suite, en route vers Kemperbad pour un procès en duel judiciaire que lui intente le **baron Eberhardt von Dammenblatz**.
 
-**Plots canon résolus à table** (RN&HD ch.3) :
+**Plots résolus à table** (RN&HD ch.3) :
 - **Plot 1 (Matter of Import)** — Empoisonnement de la chope de **Bruno Franke** par un agent de Dammenblatz. Phineas boit par erreur, suffoque, survit. Plus tard, Bruno est poignardé avec la dague volée de Sigrun par **Dominique Herveaux** (servante stipendiée). Les PJ tendent un piège (cheminée), Sigrun + Skippy la finissent au quai.
 - **Plot 2 (Compromising Positions)** — Couple adultère démasqué dans une chambre : **Baron Friedrich von Pfeifraucher** + **Hanna Lastkahn**, ont assommé un maître-chanteur. Elvira choisit de les couvrir.
-- **Plot 3 (Face from the Past)** — **Gustaf Rechtshandler** (juriste de la Gravin) attaqué par les cultistes de l'***Ordo Ultima* (Slaanesh)** — il est ex-membre involontaire de la Slaanesh-cult. **MORT** au matin (canon : 2 tentatives, ici l'attentat réussit hors-champ). Le contact cultiste qui le punit dans le canon est **[[Brecht Kavenner]]**, lawyer rival à Nuln — qui sera présent à l'opéra S3 (mais sans cible vu que Rechtshandler est déjà mort).
+- **Plot 3 (Face from the Past)** — **Gustaf Rechtshandler** (juriste de la Gravin) attaqué par les cultistes de l'***Ordo Ultima* (Slaanesh)** — il est ex-membre involontaire de la Slaanesh-cult. **MORT** au matin (canon : 2 tentatives, ici l'attentat réussit hors-champ). Le contact cultiste qui le punit dans le est **[[Brecht Kavenner]]**, lawyer rival à Nuln — qui sera présent à l'opéra S3 (mais sans cible vu que Rechtshandler est déjà mort).
 - **Plot 4 (Creating a Scene)** — **Thomas Prahmhandler** (fiancé bafoué de Hanna) débarque ivre avec 3 hommes de main. Gardes + PJ les jettent dehors.
 - **Plot 5 (Ashes to Ashes)** — Faux **prêtres de Morr** transportant **Josef Aufwiegler** (agitateur anti-Nuln drogué dans un cercueil). **Massacrés** dans la nuit (assassins ? Aufwiegler réveillé ? — non précisé table, canon = drogue cesse, il se réveille).
 - **Plot 6 (Fistful of Gold Crowns)** — **Ursula Kopfgeld** (chasseuse de prime) à l'auberge, fait un bras de fer avec Bruno (perd de justesse). Suivait Aufwiegler.
@@ -66,7 +66,7 @@
 
 **Cadre** : Place de Kemperbad transformée en arène de duel. Procès Gravin/Dammenblatz.
 
-**Plots canon résolus à table** (RN&HD ch.4) :
+**Plots résolus à table** (RN&HD ch.4) :
 - **Plot 1 (Trial by Combat)** — Dammenblatz sabote le duel : enfants payés pour blesser Sigrun avant le combat (les PJ en attrapent un), **fléchette empoisonnée** glissée dans la poche de Phineas pour être trouvée + plantée sur Böttcher (Phineas la balance discrètement), **serpent dans la tente** de la Gravin (Elvira l'enferme). Le duel a lieu : **Sigrun bat Heinrich Böttcher** (KO, pas tué).
 - **Plot 2 (Breakout)** — **Une partie du palais de justice explose** pendant le duel : c'est l'évasion d'**Alfonzo Kappan** orchestrée par ses sbires. Les PJ voient l'explosion, ignorent la cause.
 - **Plot 4 (Innocence Maintained)** — **Matthias Hubkind** (répurgateur) dans la tribune, attaqué par le **fantôme de Samrich Weizen** (cultiste qu'il avait fait brûler à tort à Kemperbad jadis). Lirrian dissipe le fantôme. Hubkind sauvé mais soupçonne toujours la Gravin/comtesse.
@@ -82,7 +82,7 @@
 - Hubkind les déteste et il sera dur à secouer.
 
 ### MJ-only S2
-- L'évasion d'**Alfonzo Kappan** profite de la diversion. Kappan = crime lord canon. Encore en liberté.
+- L'évasion d'**Alfonzo Kappan** profite de la diversion. Kappan = crime lord. Encore en liberté.
 - Le **magistrat corrompu** qui a spolié Ursula est nommé canon → cherchable dans `04 - A Day at the Trials.md` si besoin.
 - La Sanguine Brotherhood a survécu à une purge récente de la Watch de Kemperbad — il reste des cellules dormantes en ville. Réactivables.
 
@@ -92,8 +92,8 @@
 
 **Cadre** : Opéra Staatsoper de Nuln. Première d'*Otenno*, pièce remaniée par **Detlef Sierck**. La Gravin invitée par sa tante **comtesse Emmanuelle von Liebwitz** dans la loge ducale.
 
-**Plots canon résolus à table** (RN&HD ch.5) :
-- **Plot 1 (Best Served Hot)** — Agents de Dammenblatz placent **une bombe dans un cadeau offert à la comtesse**. Explosion en début de 2e acte → loge ducale détruite → Gravin et comtesse tombent 2 étages sur la scène. **Gravin morte sur le coup**. **Emmanuelle agonise**. Elvira invoque Rhya, la bénédiction la sauve. **Divergence canon majeure : dans le livre, les PJ doivent contrer la bombe et les deux nobles survivent.**
+**Plots résolus à table** (RN&HD ch.5) :
+- **Plot 1 (Best Served Hot)** — Agents de Dammenblatz placent **une bombe dans un cadeau offert à la comtesse**. Explosion en début de 2e acte → loge ducale détruite → Gravin et comtesse tombent 2 étages sur la scène. **Gravin morte sur le coup**. **Emmanuelle agonise**. Elvira invoque Rhya, la bénédiction la sauve. **Divergence majeure : dans le livre, les PJ doivent contrer la bombe et les deux nobles survivent.**
 - **Plot 2 (Student Prank)** — Pétards d'étudiants lancés dans la salle. Compétition entre eux. PJ évitent l'incident in extremis.
 - **Plot 3 (Critics Rebutted)** — **Edvard Lowenhertz** (acteur masqué, magicien noir auto-formé) attaque **Detlef Sierck** avec sa fille **Edwina** comme complice. Tente de pétrifier Sierck pendant un faux numéro improvisé. PJ sauvent Sierck discrètement.
 - **Plot 5 (Local Rivalries)** — Bagarre **Toppenheimer/Pfeifraucher** se termine en défenestration.
@@ -135,7 +135,7 @@
 
 | PNJ | Canon (fichier, lignes approx.) | Statut | À retenir |
 |---|---|---|---|
-| **Gravin Maria-Ulrike von Liebwitz d'Ambosstein** | RN&HD ch.3-5 — employeuse canonique | [MORT] S3 | Divergence canon. Mort dans l'explosion de la loge ducale. |
+| **Gravin Maria-Ulrike von Liebwitz d'Ambosstein** | RN&HD ch.3-5 — employeuse canonique | [MORT] S3 | Divergence. Mort dans l'explosion de la loge ducale. |
 | **Comtesse Emmanuelle von Liebwitz de Nuln** | Electeur de Nuln (canon Empire setting) ; RN&HD ch.5 | [VIVANT] [ALLIÉ] | Sauvée par Elvira/Rhya. Reverra le groupe S60. Affaiblie physiquement post-S3. |
 | **Bruno Franke** (champion Gravin) | RN&HD ch.3 | [MORT] S1 | Tué par Dominique Herveaux. |
 | **Gustaf Rechtshandler** (juriste) | RN&HD ch.3-4 — ex-*Ordo Ultima* (Slaanesh) | [MORT] S1 | Tué par cultistes Slaanesh hors-champ. |

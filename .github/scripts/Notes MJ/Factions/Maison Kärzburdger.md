@@ -15,7 +15,7 @@
 - **Statut** : [VIVANT — RIVAL TODBRINGER]
 - **Tags** : `#Kärzburdger` `#MaisonKärzburdger` `#Heinricus` `#Dietrich` `#RivalTodbringer` `#FortdAirain` `#Piquet` `#PlaceDeLEspoir` `#Ferlangst` `#Arc6` `#TraficPoudre`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4199-4700 (canon mentionne la maison).
 - *HR ch. The Road East* (canon mentionne Ferlangst Tower + Hope Square + Mittler).
 - *HR ch. The Stolen Village* (canon trace **Kärzburdger Crest** sur baril poudre l.3770).

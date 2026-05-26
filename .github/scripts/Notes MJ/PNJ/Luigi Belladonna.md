@@ -9,12 +9,12 @@
 - **Statut** : [VIVANT] [CONTACT — tier 1 Blue Heron acquis S23]
 - **Tags** : `#Belladonna` `#BlueHeron` `#MafiaTilienne` `#Kemperbad` `#Tilea` `#Miragliano` `#NonChaotique` `#ProfitDriven` `#Contact` `#CarloFurio`
 
-## Source canon
+## Source
 - *Death on the Reik* Appendix I *Training and Mentors — The Racketeer* (apparition + statbloc + Carlo et Furio + scénario du colis) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/12 - Appendix I Training and Mentors.md` lignes 135-199
 - *Death on the Reik Companion* ch.1 *Easter Eggs* (origine du nom — « Tilean racketeer ») : `Source/Death on the Reik Companion/08 - CHAPTER 1- EASTER EGGS.md` ligne 18
 - *Archives of the Empire Vol I* (réseau Blue Heron condottieri Emmanuelle Nuln) : `Source/Archives of the Empire - Vol I/04 - The Grand Provinces.md` ligne 135
 
-## Description canon
+## Description
 
 > "Luigi is of medium height with grey hair. He is also somewhat overweight but **no one ever points that out twice**. His heavy jowls appear to be stuffed with spare food or a pair of small socks, and his **dark-brown eyes are hard and unforgiving**. His voice is a **hoarse whisper**, and listeners are often forced to lean in to hear what he is saying. **Luigi never repeats himself or raises his voice**. He has no need: it is up to his audience to pay attention. His language is careful, formal, and betrays an education and a complexity of thought that one might not expect to find in a criminal. His clothes are of the finest silks and wools, his hair elegantly pomaded, and his podgy, pink fingers are festooned with **gold and diamond rings**. He looks, in many ways, like a successful merchant, but from 'new money' rather than old.
 >
@@ -22,7 +22,7 @@
 
 > Côté tendre canon (notes Training and Mentors) : "What no one in town knows is that Luigi is something of a **'Robin Hood' character**. He spends vast sums to support the town's poorest inhabitants, operating a number of soup kitchens and almshouses. These charitable activities are typically attributed to any one of a number of wealthy local individuals who, for the most part, are happy to claim the credit." (l.136)
 
-## Statbloc canon — **Luigi Belladonna – Human Gang Boss (Silver 3)**
+## Statbloc — **Luigi Belladonna – Human Gang Boss (Silver 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -69,7 +69,7 @@ Cousins tiliens « massifs et au regard vide », loyaux par peur (Carlo fait des
 - Réseau Blue Heron tilien, lié à Tilea et Nuln.
 
 ## MJ-only
-- **Le colis livré S23 (contenu canon ambigu)** : canon DotR App.I — le scénario standard de Belladonna est une **livraison d'un casket fermé de 1000 GCs en diamants bruts** (transit Altdorf → Kemperbad). À table : pas vérifié — les PJ ne l'ont **pas ouvert** (test de fiabilité réussi). Hypothèses ouvertes : (a) version canon = diamants bruts ; (b) message codé sur le trafic Reik ; (c) acte notarié truqué (cohérent avec le profil Blue Heron). À garder ambigu : ne pas révéler avant nécessité narrative.
+- **Le colis livré S23 (contenu ambigu)** : canon DotR App.I — le scénario standard de Belladonna est une **livraison d'un casket fermé de 1000 GCs en diamants bruts** (transit Altdorf → Kemperbad). À table : pas vérifié — les PJ ne l'ont **pas ouvert** (test de fiabilité réussi). Hypothèses ouvertes : (a) version canon = diamants bruts ; (b) message codé sur le trafic Reik ; (c) acte notarié truqué (cohérent avec le profil Blue Heron). À garder ambigu : ne pas révéler avant nécessité narrative.
 - **Tier 1 contact Blue Heron acquis** : les PJ sont marqués comme **fiables non-membres**. Belladonna **peut les solliciter** pour une mission ponctuelle (Arc 5+) sans préavis. Réseau Tilea-Nuln-Kemperbad-Altdorf accessible **par ricochet**.
 - **« Robin Hood » caché canon** : Belladonna finance secrètement les soupes populaires et hospices de Kemperbad, **laissant le crédit à des notables locaux qui se félicitent publiquement**. Personne en ville ne le sait. À révéler à un PJ qui creuserait sa biographie — peut **humaniser** définitivement le personnage. Possible **fil pour Elvira** (Rhya / charité).
 - **Doomed *Thy Death Hides in Celebration*** : mourra dans un contexte festif — peut être à Kemperbad lors d'un carnaval, d'un mariage, ou d'une réception diplomatique. À garder en réserve pour un moment dramatique.

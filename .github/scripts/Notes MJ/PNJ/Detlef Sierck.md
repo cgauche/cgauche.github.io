@@ -9,11 +9,11 @@
 - **Statut** : [VIVANT] [ALLIÉ] depuis S3 — sauvé par les PJ
 - **Tags** : `#DetlefSierck` `#Dramaturge` `#Nuln` `#Altdorf` `#AlliéCulturel` `#Drachenfels`
 
-## Source canon
+## Source
 - RN&HD ch.5 (apparition, victime de Plot 3 Critics Rebutted, statbloc) : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` lignes 163-179 (attaque) + 407-426 (description + statbloc)
 - Référence externe : Jack Yeovil, *Drachenfels* (1989, Black Library) — Detlef Sierck protagoniste canonique
 
-## Description canon
+## Description
 
 > "Sierck is a **genius**, a fact even he can't deny. **Actor, playwright, and poet** without compare, even his greatest critics don't doubt his brilliance.
 >
@@ -21,7 +21,7 @@
 >
 > However, when he turns on the charm, the dashing leading man he has perfected after many years of extraordinary performances comes to life, and few are left unimpressed." (RN&HD ch.5 l.408)
 
-## Statbloc canon — **Detlef Sierck – Genius (Gold 3)**
+## Statbloc — **Detlef Sierck – Genius (Gold 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

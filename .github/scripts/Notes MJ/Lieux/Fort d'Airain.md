@@ -7,7 +7,7 @@
 - **Statut** : [ACTIF — ENNEMI INACTIF — zone de sécurité respectée tant que distance maintenue]
 - **Tags** : `#FortdAirain` `#BrassKeep` `#Nurgle` `#ChevaliersDuChaos` `#MontsDuMilieu` `#Kärzburdger` `#Surveillance` `#ZoneSecurite` `#Arc6` `#Arc7Possible`
 
-## Source canon
+## Source
 - *Enemy Within Campaign Volume 4 The Horned Rat* : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - …md` ch. *Approaching the Keep* l.4617 + *The Brass Keep* l.4626 + *Unexpected Visitor* l.4685 (mouche géante).
 - Mentions diverses dans EiR (Arc 7) possibles si trajet via Black Fire Pass + Monts du Milieu.
 

@@ -8,7 +8,7 @@
 - **Disponibilité de matos** : **City-level Availability** (cf. WFRP p.290)
 - **Tags** : `#Kemperbad` `#VilleFranche` `#Reik` `#ConseilDes13` `#ReformePolitique` `#Brandenburg`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.2 *Altdorf to Kemperbad* (description complète) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/05 - Chapter 2 Altdorf to Kemperbad.md` lignes 310-380+
 - RN&HD ch.4 *A Day at the Trials* (description du palais de justice + place du tribunal) : `Source/Rough Nights & Hard Days/04 - A Day at the Trials.md` lignes 8-45
 - *Death on the Reik Companion* (extensions, GM info) : `Source/Death on the Reik Companion/`

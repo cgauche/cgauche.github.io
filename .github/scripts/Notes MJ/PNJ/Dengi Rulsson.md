@@ -6,14 +6,14 @@
 - **Fonction** : **Artillerist** (canon HR p.4422 *Artillerist Degni Rulsson*). Note canon : « Degni » avec un seul « e » ; à table = « Dengi ». **Variante orthographique** comme « Veiran »/« Veiran ».
 - **Apparence** : Nain artilleur, casque + outils.
 - **Origine** : Engineers' Guild de Middenheim (probable) ou indépendant.
-- **Personnalité** : **Colérique, méfiant, isolé**. Vit dans l'entrepôt avec son canon. **Aime peu les humains** mais respecte le travail bien fait. **Loyal Emmiline** + le Piquet après 60 ans.
+- **Personnalité** : **Colérique, méfiant, isolé**. Vit dans l'entrepôt avec son. **Aime peu les humains** mais respecte le travail bien fait. **Loyal Emmiline** + le Piquet après 60 ans.
 - **Statut** : [VIVANT — ALLIÉ post-S54]
 - **Tags** : `#Dengi` `#Degni` `#Rulsson` `#Nain` `#Artilleur` `#Piquet` `#Astrid` `#Cinderblast` `#Arc6` `#Allié`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4422 *Artillerist Degni Rulsson*.
 
-## Statbloc canon (partiel)
+## Statbloc (partiel)
 
 - **Carrière** : Engineer / Artillerist (canon Silver 5 ou Gold 1).
 - **Compétences fortes** : Cool, Drive (Cart), Endurance, Intimidate, Language (Khazalid), Lore (Engineering, Warfare), Melee (Basic), Ranged (Artillery, Blackpowder), Trade (Engineer, Gunsmith).

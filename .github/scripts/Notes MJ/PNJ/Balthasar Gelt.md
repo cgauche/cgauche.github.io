@@ -7,7 +7,7 @@
 
 Magister Patriarche du Collège Doré (Chamon, voie du Métal), second magicien le plus puissant de l'Empire après le Patriarche Suprême Thyrus Gormann `Winds of Magic ch.9 l.182`. Robes, gants et chaperon d'or de la tête aux pieds ; sous le masque d'or, seuls les yeux apparaissent — clairement les siens mais froids et dérangeants au point que ses pairs Patriarches eux-mêmes les fuient `Winds of Magic ch.9 l.178+180`. Parle le Reikspiel avec la diction noble, mais son accent trahit un exotisme méridional non identifié — Marienburg quinze ans plus tôt, sorti précipitamment d'un navire tiléen quand l'or qu'il avait payé pour le voyage s'est mué en plomb `Winds of Magic ch.9 l.169`. Avant l'accident : chercheur zélé, populaire auprès des apprentis, professeur engageant. Depuis : froidement logique, sans émotion, présent en Cour comme conseiller régulier de Karl-Franz Holswig-Schliestein, soupçonné de voir les autres comme des sujets d'expérimentation `Winds of Magic ch.9 l.180-182`.
 
-## Phrases canon
+## Phrases
 
 - *« Something I alone must do. »* — refuse l'entrée du laboratoire à ses apprentis la veille de l'accident `Winds of Magic ch.9 l.174`.
 - *« Leave us! »* — cri tonitruant depuis l'intérieur du laboratoire après l'explosion et le hurlement ; le « us » est au pluriel `Winds of Magic ch.9 l.176`.
@@ -22,7 +22,7 @@ Magister Patriarche du Collège Doré (Chamon, voie du Métal), second magicien 
 - Émerge un jour plus tard, en apparence intact mais entièrement vêtu d'or (robes + gants + chaperon + masque), masque jamais retiré depuis. Yeux visibles, froids.
 - Personnalité changée du tout au tout : froide, logique, dénuée d'émotion.
 
-Spéculations canon (sans confirmation) : miscast magique grave qui l'aurait défiguré ou muté, ou touche de Tzeentch `Winds of Magic ch.9 l.178`. La nature du « us » reste un blanc canon.
+Spéculations canon (sans confirmation) : miscast magique grave qui l'aurait défiguré ou muté, ou touche de Tzeentch `Winds of Magic ch.9 l.178`. La nature du « us » reste un blanc.
 
 ## Réseau
 
@@ -45,9 +45,9 @@ Spéculations canon (sans confirmation) : miscast magique grave qui l'aurait dé
 - **Recherche alchimique de pointe** : Al-kahest, Panacée Universelle ; le Collège Doré ravitaille en métaux précieux prélevés sur les mines de son ordre `Winds of Magic ch.9 l.117`.
 - **Climax Volkshalle 9 Brauzeit** : canalise contre Sheerargetru avec Thyrus Gormann et le Patriarche du Collège de Jade `EiR ch.13 l.338+413`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
-- **[S64+ Climax Volkshalle 9 Brauzeit]** — Présent dans la travée des Patriarches avec Thyrus Gormann et le Patriarche du Collège de Jade — les autres Patriarches sont aux armées `EiR ch.13 l.338`. Quand Sheerargetru se manifeste, canalise les sortilèges les plus puissants du Collège Doré contre le Seigneur du Changement `EiR ch.13 l.413`. Le canon ne le désigne pas comme victime — seul le Patriarche du Collège de Jade est nommé casualty possible `EiR ch.13 l.417`.
+- **[S64+ Climax Volkshalle 9 Brauzeit]** — Présent dans la travée des Patriarches avec Thyrus Gormann et le Patriarche du Collège de Jade — les autres Patriarches sont aux armées `EiR ch.13 l.338`. Quand Sheerargetru se manifeste, canalise les sortilèges les plus puissants du Collège Doré contre le Seigneur du Changement `EiR ch.13 l.413`. Le ne le désigne pas comme victime — seul le Patriarche du Collège de Jade est nommé casualty possible `EiR ch.13 l.417`.
 
 ## Statbloc — Alchemist Lord (Gold 4) `Winds of Magic ch.9 l.186-214`
 

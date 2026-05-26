@@ -8,7 +8,7 @@
 - **Statut** : [VIVANT] [ENNEMI ACTIF — TZEENTCH] (Arc 7 ch. 13).
 - **Tags** : `#Albertus` `#Goldformer` `#Metalsmith` `#MainPourpre` `#Volkshalle` `#ReliquairePiégé` `#Altdorf`
 
-## Source canon
+## Source
 - **EiR ch. 13** *The Empire Saved* l. 184-185 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/16 - Chapter 13 - The Empire Saved.md`
 
 ## Mission

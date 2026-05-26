@@ -5,10 +5,10 @@
 - **Région** : Reikland, sur la rive du **Reik**, **~20 mi nord de Grissenwald** (canon RN&HD ch.3 l.23). Auberge isolée — village le plus proche à 1/2 journée à cheval, ville la plus proche encore plus loin.
 - **Tags** : `#Auberge` `#Reik` `#Reikland` `#Prologue` `#Grissenwald`
 
-## Source canon
+## Source
 - RN&HD ch.3 *A Rough Night at the Three Feathers* (description architecturale complète) : `Source/Rough Nights & Hard Days/03 - A Rough Night at the Three Feathers.md` lignes 8-49
 
-## Géographie & description canon
+## Géographie & description
 
 ### Plan général
 - **Mur de pierre de 10 ft** entoure le complexe, depuis le bâtiment principal jusqu'au quai

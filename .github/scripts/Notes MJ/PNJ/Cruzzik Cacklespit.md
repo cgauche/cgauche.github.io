@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT] [ENNEMI ACTIF] [POSITION PRÉCAIRE]
 - **Tags** : `#Cacklespit` `#Cruzzik` `#Madcraw` `#NightGoblin` `#Shaman` `#Warboss` `#PurpleCaps` `#LostGorge` `#BlackFirePass`
 
-## Source canon
+## Source
 - **EiR ch. 10-11** : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/13 - Chapter 10 - In Sigmar's Footsteps.md`, `14 - Chapter 11 - Caves of Chaos.md`
 - **Companion ch. 3** *The Madcraw Clan* : profil complet. `Source/Empire In Ruins Companion/05 - CHAPTER 3 The Madcraw Clan.md`
 

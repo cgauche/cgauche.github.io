@@ -11,7 +11,7 @@
 - **Statut** : [VIVANT — PJ JOUÉ post-S33]
 - **Tags** : `#Yuridika` `#PJ` `#Mage` `#Alchimiste` `#TourMagieMiddenheim` `#JannaEberhauer` `#Anselm` `#Arc5` `#Apprentie` `#MaîtreS49`
 
-## Source canon
+## Source
 - **Aucun canon Cubicle 7** — personnage joué + narration table.
 - Création table S33 — apparait dans le résumé blog `Mon Ennemi Intérieur Blog/Résumés/33 - 33) Carnaval Jour 2.md`.
 

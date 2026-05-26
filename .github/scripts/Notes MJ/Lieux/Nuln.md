@@ -11,7 +11,7 @@
 - **Exports** : argenterie + orfèvrerie, mode haute couture, alcools distillés. **Artillerie** (Imperial Gunnery School)
 - **Tags** : `#Nuln` `#Liebwitz` `#Électeur` `#Wissenland` `#Artillerie` `#Université` `#Mondain`
 
-## Source canon
+## Source
 - *Archives of the Empire - Vol I* ch.4 *The Grand Provinces* lignes 112-164 : `Source/Archives of the Empire - Vol I/04 - The Grand Provinces.md`
 - RN&HD ch.5 (opéra Staatsoper, Plot 1-7) : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md`
 - *Patrons of the Old World I/II* : à explorer (potentiel patrons nulniens)

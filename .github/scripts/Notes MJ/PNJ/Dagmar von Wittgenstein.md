@@ -7,14 +7,14 @@
 - **Statut** : [MORT JADIS, ~107 ans avant 2512 = mort vers ~2405-2410 IC, étranglé par son cousin Hermann le Fou peu après son retour de Barren Hills].
 - **Tags** : `#Dagmar` `#Wittgenstein` `#DagmarAncêtre` `#Astronome` `#Mage` `#Morrslieb` `#Malpierre` `#CollinesStériles` `#ÎleAuPhare` `#TraîtreExpédition` `#MortJadis`
 
-## Source canon
+## Source
 - DotR ch.2 *Altdorf to Kemperbad* §*Dagmar von Wittgenstein* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/05 - Chapter 2 Altdorf to Kemperbad.md` lignes 154-179 (biographie complète, expédition, trahison, mort)
 - DotR ch.2 *Signal Tower* l.238-296 : observatoire, gardiens morts-vivants (ghoul + 5 zombies), bibliothèque secrète, journal de Dagmar (Handout 8)
-- DotR ch.4 *Grissenwald to the Barren Hills* l.140-220 : **fantôme de Brunhilde** scout victime de Dagmar + squelettes des autres expéditionnaires enterrés vivants → leur récit canon de la trahison
+- DotR ch.4 *Grissenwald to the Barren Hills* l.140-220 : **fantôme de Brunhilde** scout victime de Dagmar + squelettes des autres expéditionnaires enterrés vivants → leur récit de la trahison
 - DotR ch.6 *Wittgendorf* l.299 : *« The brother of the local baron, Dagmar von Wittgenstein, was renowned as an astronomer, and suspected of researching sorcery »*
 - DotR ch.7 *Castle Wittgenstein* l.679, 828, 1047, 1050 : héritage, journal dans bibliothèque Margritte, salle des lentilles (où il polissait ses télescopes)
 
-## Description canon — biographie
+## Description — biographie
 
 ### L'observatoire et la découverte (canon DotR ch.2 l.155-165)
 
@@ -36,11 +36,11 @@
 
 > *« Unfortunately for Dagmar, he did not live to reap the fruits of his labours. One of his cousins, Hermann, known to chroniclers as Hermann the Mad, strangled Dagmar in a rage because his relative had refused to let him see the contents of a certain casket. In the customary manner of noble houses, the family covered up the murder. Hermann was confined in an outer tower of the castle, and quietly erased from memory. The strange casket and its deadly contents were also never mentioned again. So things remained until Lady Margritte, Dagmar's great-great-granddaughter, found his books and learned of the stone... »*
 
-## Statbloc canon
-**Aucun statbloc canon disponible** — Dagmar est mort 107 ans avant les événements. Le canon le traite comme **figure historique reconstituée** par les documents.
+## Statbloc
+**Aucun statbloc disponible** — Dagmar est mort 107 ans avant les événements. Le le traite comme **figure historique reconstituée** par les documents.
 
 ### Si nécessaire (à improviser table — Dagmar vivant)
-**Profil suggéré MJ** : *Wizard, Astronomer, Former Noble (Silver 4)*. Stats à puiser dans le Wizard canon WFRP4 + Magic (Heavens), Lore (Astronomy) 70+, Channelling 60+, Read/Write, Noble Blood, Sixth Sense, Aethyric Attunement, Read Daemonic (Language) 50+. **Pas de Necromancy** active de son vivant — il s'orientait vers les **mystères célestes et l'utilisation de la malpierre comme source de puissance**, pas vers les morts-vivants (c'est Margritte qui a dérivé vers Necromancy en lisant son journal).
+**Profil suggéré MJ** : *Wizard, Astronomer, Former Noble (Silver 4)*. Stats à puiser dans le Wizard WFRP4 + Magic (Heavens), Lore (Astronomy) 70+, Channelling 60+, Read/Write, Noble Blood, Sixth Sense, Aethyric Attunement, Read Daemonic (Language) 50+. **Pas de Necromancy** active de son vivant — il s'orientait vers les **mystères célestes et l'utilisation de la malpierre comme source de puissance**, pas vers les morts-vivants (c'est Margritte qui a dérivé vers Necromancy en lisant son journal).
 
 ## Apparitions par session
 - **Aucune apparition directe** — Dagmar est mort 107 ans avant la campagne. **Présence textuelle uniquement** :
@@ -63,7 +63,7 @@
 - **Pourquoi l'observatoire à Grünburg et pas à Wittgendorf** : Dagmar voulait **cacher ses recherches à sa propre famille** (canon : *« its location was kept secret even from the rest of the family »*). **Paranoïa académique** — il savait que ce qu'il cherchait était hérétique. **À table** : Mark a brûlé la bibliothèque S26, donc certains secrets sont définitivement perdus (Dagmar avait-il **prévu de revenir lui-même** prendre la pierre depuis son observatoire avant que Hermann ne le tue ? oui canon, oui à MJ).
 - **Doom non-canonique** : pas de Doom listée pour Dagmar (mort hors-game). **À MJ** : *« Thy Blood Shall Curse Thy Name For Centuries »* — accomplie à 100% (lignée Wittgenstein éteinte par sa faute après 107 ans de pourriture).
 - **Sa langue daemonique** : il avait traduit un parchemin en langage des démons. **À MJ** : si une relique Dagmar (Language Daemonic 50+) refait surface, c'est **un objet rare** convoité par tout magicien noir Empire (cellule Main Pourpre Altdorf ? Sceptre de Jade Middenheim ? Couronne Rouge ?). **Pont latent vers Arc 5+**.
-- **Charte impériale 1979 IC** : la famille Wittgenstein tient une charte impériale de l'**Impératrice Margaritha** pour *« services to Imperial security »* canon. **Sens vague** = services secrets, chasse à des ennemis politiques. **À MJ** : Dagmar lui-même a probablement servi l'Empire jeune avant de basculer dans l'obsession Morrslieb. **Backstory possible**.
+- **Charte impériale 1979 IC** : la famille Wittgenstein tient une charte impériale de l'**Impératrice Margaritha** pour *« services to Imperial security »*. **Sens vague** = services secrets, chasse à des ennemis politiques. **À MJ** : Dagmar lui-même a probablement servi l'Empire jeune avant de basculer dans l'obsession Morrslieb. **Backstory possible**.
 
 ## Hooks de retour
 - **Reliques Dagmar** refont surface : journal (Necromancy + Daemonic Language), staff de contrôle de zombies, télescope de Morrslieb (permet de voir des phénomènes invisibles à l'œil nu, +20 Lore Astronomy mais Corruption Minor par utilisation). **Marché noir Altdorf ou Middenheim** (Arc 5+).
@@ -73,7 +73,7 @@
 
 ## Fils ouverts
 - **FIL-46** — *Pierre céleste perdue aux skavens* — OUVERT (la pierre que Dagmar a ramenée 107 ans plus tôt est désormais entre les mains des skavens).
-- **FIL-48** — *Gotthard Wallenstein héritier caché* — OUVERT (dernier descendant vivant de la lignée Wittgenstein, fils canon de Ludwig+Ingrid).
+- **FIL-48** — *Gotthard Wallenstein héritier caché* — OUVERT (dernier descendant vivant de la lignée Wittgenstein, fils de Ludwig+Ingrid).
 - **Fil mineur** — *Reliques Dagmar marché noir* — OUVERT (Arc 5+).
 - **Fil mineur** — *Carnet Etelka + Filianore + Dagmar* — OUVERT (FIL-50 + Filianore corruption FIL-28 + FIL-44).
 

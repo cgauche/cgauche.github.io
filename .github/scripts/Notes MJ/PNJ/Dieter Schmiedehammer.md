@@ -7,7 +7,7 @@
 
 Début de la trentaine, grand et musclé, cheveux auburn, yeux vert-noisette, nez cassé, allure ouverte et amicale `PBT ch.6 l.94`. Vif pour un guerrier, bien disposé envers tout aspirant combattant digne ; chevaleresque, bien élevé, étonnamment doux dans la parole — sauf légèrement éméché, et il ne dépasse jamais ce seuil `PBT ch.6 l.94`. Scrupuleusement honnête, jamais d'agissements en sous-main ; humain authentiquement décent, rare dans le Vieux Monde `PBT ch.6 l.94`. De basse extraction, il a gagné renom et position par les armes `PBT Appendix l.91`. Pendant les phases d'hypnose, voix légèrement plate et regard vitreux quand le sujet des taxes est abordé `PBT ch.6 l.248-250`.
 
-## Phrases canon
+## Phrases
 
 Phrases programmées par l'hypnose de *Charlotte* (Brunhilde Klaglich), récitées d'un ton invariant quand on l'interroge sur les taxes `PBT ch.6 l.160` :
 
@@ -24,7 +24,7 @@ Hors sujet taxes, voix posée et chaleureuse — soft-spoken, chevaleresque, cap
 ## Réseau
 
 - **Souverain** : Boris Todbringer — Graf de Middenheim, qui l'apprécie depuis longtemps ; Dieter dispose d'une influence modeste (1 vote) à la cour `PBT Appendix l.91`.
-- **Fiancée** : Kirsten Jung — Dame de la cour, famille marchande Jung d'Altdorf ; mariage canon post-Carnaval `PBT ch.6 l.108` `PBT ch.7 l.586`. Ils discutent personnes et événements — c'est ainsi que Dieter colporte les derniers commérages des Ladies-at-Court `PBT ch.6 l.108`.
+- **Fiancée** : Kirsten Jung — Dame de la cour, famille marchande Jung d'Altdorf ; mariage post-Carnaval `PBT ch.6 l.108` `PBT ch.7 l.586`. Ils discutent personnes et événements — c'est ainsi que Dieter colporte les derniers commérages des Ladies-at-Court `PBT ch.6 l.108`.
 - **Amis et compagnons de boisson** : Rallane Lafarel — ménestrel elfe, ami de longue date, vont souvent boire ensemble `PBT ch.6 l.121` ; Allavandrel Fanmaris — Maître de la Chasse, compétitions amicales, joutes et tir à l'arc, Carnaval en commun avec Kirsten Jung et/ou Rallane Lafarel `PBT ch.6 l.139`.
 - **Hypnotiseuse** : Brunhilde Klaglich — sous l'alias *Charlotte* (rousse, yeux verts, mi-vingtaine, accent bretonnien), l'hypnotise au Showboat (Great Park) ~2 mois avant le Carnaval Arc 5 dans un secluded booth `PBT ch.6 l.148` `PBT ch.6 l.297+303`.
 - **Commanditaire occulte** : Karl-Heinz Wasmeier — Seigneur des Lois, Magister Magistri Main Pourpre ; aucune relation directe, le contrôle hypnotique passe par Brunhilde `PBT Appendix l.1187`.
@@ -57,7 +57,7 @@ Hors sujet taxes, voix posée et chaleureuse — soft-spoken, chevaleresque, cap
 - **Trace canon Showboat** `PBT ch.6 l.321` : la filature du Showboat est stérile — Dieter y va souvent, Brunhilde Klaglich sous l'alias Charlotte a opéré dans une alcôve isolée conçue pour éviter les regards. Le seul gain : Luigi Pavarotti n'est pas l'hypnotiste original, ce qui le disculpe si les PJ le soupçonnaient.
 - **Conséquences canon** `PBT ch.7 l.586` : s'il garde son titre post-PBT, Dieter s'accorde avec le Graf pour former un protégé qui le remplace (souvent un Character qui l'a poussé sérieusement au Carnaval) ; mariage avec Kirsten Jung rapidement célébré. Si l'hypnose n'est pas traitée, il peut continuer à émettre d'étranges opinions sur la taxation.
 
-## Apparitions canon Arc 5
+## Apparitions Arc 5
 
 - **[S32] — Wellentag (Carnaval J1)** : Challenges to the Graf's Champion au Square of Martials, 11h-13h — Dieter combat ses challengers, invaincu `PBT ch.5 l.627` `PBT ch.5 l.697`.
 - **[S33] — Aubentag (Carnaval J2)** : Challenges to the Graf's Champion — Dieter combat encore, invaincu canon `PBT ch.5 l.630` `PBT ch.5 l.699`.

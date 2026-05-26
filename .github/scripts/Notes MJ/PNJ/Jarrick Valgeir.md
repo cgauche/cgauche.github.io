@@ -7,9 +7,9 @@
 
 Homme grand et bien-bâti, élancé plutôt que musculeux, cheveux brun-roux, yeux brun clair, nez fort et pommettes hautes lui donnant un profil saisissant `PBT Appendix l.561`. À 48 ans il paraît une décennie plus jeune — il s'entraîne deux heures par jour à diverses armes en plus des devoirs de sa charge `PBT Appendix l.561`. Porte une robe longue en soie gris-argent et un manteau-capuche en peau de loup blanc — selon le rite ulricain, il a tué de ses mains nues le loup quand il était encore initié `PBT Appendix l.561`. Pendentif en tête de loup d'argent au cou, bâton d'office à embout d'argent surmonté des icônes d'Ulric et de Middenheim `PBT Appendix l.561`. Homme convenable, sous tension extrême pendant les événements de Middenheim — son anxiété est manifeste à qui passe un test Average (+20) Perception : vague et distrait, balbutiements occasionnels, évite le contact visuel `PBT Appendix l.561`. Avec les femmes : –10 au Fel des tests sociaux, il est anxieux et tente de les éviter `PBT Appendix l.585`. Avec les prêtres d'Ulric : +5 au Fel `PBT Appendix l.587`.
 
-## Phrases canon
+## Phrases
 
-Le canon ne fixe aucune réplique directe de Jarrick Valgeir. Sa voix se construit à partir des Talents canon — Blather, Inspiring, Supportive, Warleader `PBT Appendix l.572` — et de son humeur de fond : décent, anxieux, accablé par la culpabilité, tente de masquer son trouble derrière un registre officiel ulricain. Le MJ improvise.
+Le ne fixe aucune réplique directe de Jarrick Valgeir. Sa voix se construit à partir des Talents canon — Blather, Inspiring, Supportive, Warleader `PBT Appendix l.572` — et de son humeur de fond : décent, anxieux, accablé par la culpabilité, tente de masquer son trouble derrière un registre officiel ulricain. Le MJ improvise.
 
 > **Note** : son Doomed *« Temptation paves an inevitable path to the Maelstrom »* `PBT Appendix l.572` est une prophétie de fiche WFRP4, pas une phrase prononcée — sa place reste au statbloc.
 
@@ -44,11 +44,11 @@ Le canon ne fixe aucune réplique directe de Jarrick Valgeir. Sa voix se constru
 
 - **Déclencheur S38** `PBT ch.7 l.144` : les PJ trouvent dans la planque de Brunhilde Klaglich (sous le plancher de la pièce du Pit, S38 à table) les lettres d'amour d'Ar-Ulric adressées à « Em » et signées « Big Bad Wolf », sur parchemin et à l'encre de très haute qualité.
 - **Libération du chantage S38** : avec les lettres récupérées, Klaglich neutralisée et Wasmeier en fuite, Jarrick est libéré de la pression. Disposé à aider les PJ dans leur audience finale avec le Graf Boris Todbringer, fournit guérison et introductions aux autres PNJ majeurs ; ne peut pas les accompagner publiquement et leur fait prêter serment de silence au Temple d'Ulric `PBT Appendix l.638`.
-- **Confrontation morale avec Mark — table** : S35 Mark prêtre d'Ulric (PJ) vient au Temple d'Ulric pour audience ; Jarrick le confronte sur les meurtres de Bögenhafen (Arc 2) et l'emmène pour jugement par la Flamme Éternelle. S36 Mark survit à la Flamme, perd une main, ressort défiguré et reconnu Élu d'Ulric. Jarrick lit cette survie comme un verdict divin et en sort moralement bouleversé — sa propre légitimité, lui qui a brisé son vœu de chasteté, est mise en cause par contraste. Scène de table, non canonique.
-- **Démission canon post-PBT** `PBT ch.7 l.580` : après la chute de Wasmeier, Jarrick résigne sa charge d'Ar-Ulric et entreprend un pèlerinage solitaire vers le nord lointain et glacé. Il ne revient jamais. Son frère aîné Emil Valgeir reçoit la charge d'Ar-Ulric, plus combatif que lui dans la promotion des valeurs ulricaines, et la rhétorique ulricaine durcie est ouvertement proclamée depuis la chaire du Grand Temple.
+- **Confrontation morale avec Mark — table** : S35 Mark prêtre d'Ulric (PJ) vient au Temple d'Ulric pour audience ; Jarrick le confronte sur les meurtres de Bögenhafen (Arc 2) et l'emmène pour jugement par la Flamme Éternelle. S36 Mark survit à la Flamme, perd une main, ressort défiguré et reconnu Élu d'Ulric. Jarrick lit cette survie comme un verdict divin et en sort moralement bouleversé — sa propre légitimité, lui qui a brisé son vœu de chasteté, est mise en cause par contraste. Scène de table, non attestéique.
+- **Démission post-PBT** `PBT ch.7 l.580` : après la chute de Wasmeier, Jarrick résigne sa charge d'Ar-Ulric et entreprend un pèlerinage solitaire vers le nord lointain et glacé. Il ne revient jamais. Son frère aîné Emil Valgeir reçoit la charge d'Ar-Ulric, plus combatif que lui dans la promotion des valeurs ulricaines, et la rhétorique ulricaine durcie est ouvertement proclamée depuis la chaire du Grand Temple.
 - **Date canon** `EiR ch.17 l.14` : l'abdication a lieu au printemps 2512 IC. Au-delà de cette date Jarrick est hors-jeu de l'intrigue principale ; toute réapparition est une accroche libre pour le MJ.
 
-## Apparitions canon Arc 5
+## Apparitions Arc 5
 
 - **[S31]** — Inactif sur la Temple Tax, suspicion publique : silence anormal d'un grand prêtre face à une taxe sur les temples `PBT ch.4 l.322+330`.
 - **[S33-S34]** — Présent à l'opéra Operatic Recitals puis à la Garden Party ; regard tendu Emmanuelle Schlagen ↔ Ar-Ulric repéré à table par Elvira ; tristesse visible `PBT Appendix l.561`.

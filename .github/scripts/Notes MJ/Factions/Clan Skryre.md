@@ -3,12 +3,12 @@
 > **Grand clan skaven** spécialisé dans la **techno-magie / warlock-engineering**. Le clan de [[Maliss]] (Master Warlock-Engineer) dans la campagne. Producteurs d'armes prodigieuses (warpstone weapons, Doomwheels, jezzails) et de mutations bioniques. **Adversaire central Arc 6** via le plan **Moonbreaker** à [[Karak Skygg]].
 
 ## Identité
-- **Type** : **Grand clan skaven** (l'un des Four Greater Clans canon WHFB, équivalent skaven d'un guild d'ingénieurs / sorciers).
+- **Type** : **Grand clan skaven** (l'un des Four Greater Clans WHFB, équivalent skaven d'un guild d'ingénieurs / sorciers).
 - **Spécialité** : **Warlock-Engineering** = ingénierie à base de warpstone (Dhar solidifiée). Armes à projectiles surdimensionnées, augmentations bioniques cybernétiques, machines de guerre.
 - **Hiérarchie** : Warlock-Engineers (mages-ingénieurs) → Engineer Apprentices → Skaven workers.
 - **Idéologie** : « Tout problème est résolu par une machine plus grosse et plus dangereuse. » Le warpstone est leur monnaie de puissance.
 
-## Source canon
+## Source
 - *HR ch. Karak Skygg* (canon HR l.4963-5605) — Maliss Manrack et son plan Moonbreaker à Karak Skygg.
 - *Middenheim - City of the Loup Blanc* — mentions Under-Middenheim Skryre.
 - Canon WHFB classique (multiples sources).
@@ -22,8 +22,8 @@
 
 ## Plan Moonbreaker (Arc 6)
 
-- **Objectif** : tirer sur **Morrslieb** depuis Karak Skygg avec un canon nain modifié + warpstone amplification → récolter la pluie de warpstone qui tombera de la lune fissurée.
-- **Méthode** : occupation forteresse naine [[Karak Skygg]], asservissement d'astronomes (dont [[Janna Eberhauer]] capturée S49), conversion du canon nain.
+- **Objectif** : tirer sur **Morrslieb** depuis Karak Skygg avec un nain modifié + warpstone amplification → récolter la pluie de warpstone qui tombera de la lune fissurée.
+- **Méthode** : occupation forteresse naine [[Karak Skygg]], asservissement d'astronomes (dont [[Janna Eberhauer]] capturée S49), conversion du nain.
 - **Échec** : sabotage PJ S55, explosion massive de la forteresse. **3e météorite** mentionnée par Maliss (au-delà de Wittgenstein S28 et Karak Skygg) = hook Arc 7+.
 
 ## Rapports inter-clans

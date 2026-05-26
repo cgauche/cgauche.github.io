@@ -7,7 +7,7 @@
 - **Statut** : [DÉCAPITÉ] depuis S12 — chef Teugen mort, Magirius mort, Steinhäger fugitif, 6 Inner Council membres survivants en fuite
 - **Tags** : `#OrdoSeptenarius` `#Tzeentch` `#Bögenhafen` `#Décapité` `#Survivants` `#Sheerargetru`
 
-## Source canon
+## Source
 - EiS ch.5 (Background "What's Going on in Bögenhafen") : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/05 - The False Inheritance.md` lignes 41-60
 - EiS ch.8-9 (Inner Council, rituel)
 - EiS ch.7 (Hidden Temple) : ch.7 l.199-225
@@ -34,13 +34,13 @@
 - **Steinhäger** : ambitieux, apprenait la magie sous Gideon, prévoyait de déposer Teugen.
 - **Magirius** : naïf, croyait l'Ordo bienveillant. **A craqué moralement** quand sacrifice humain annoncé.
 
-## Plan canonique (révélé S11-S12)
+## Plan (révélé S11-S12)
 - **Surface (ce que Inner Council croit)** : rituel sorcier pour "**influencer les forces du marché**" et faire de Bögenhafen le centre commercial de l'Empire. Inner Council convaincu de devenir immensément riche.
 - **Vraie mission de Teugen** : sacrifier les 7 Inner Council pour racheter son âme du pacte Gideon.
 - **Vraie mission de Gideon** : ouvrir un **Chaos Gate** sur Bögenhafen, sacrifier toute la population, créer une **brèche pour les hordes Tzeentch** au cœur de l'Empire. **Faux Teugen — vrai Sheerargetru.**
 
 ## Date critique
-- **Rituel canon ch.9** : doit être **complété AVANT midnight** le jour J. S12 = stoppé par PJ (Teugen tué). Conséquence : Sheerargetru réclame l'âme de Teugen + brûle Gideon temporairement (forme matérielle dispersée).
+- **Rituel ch.9** : doit être **complété AVANT midnight** le jour J. S12 = stoppé par PJ (Teugen tué). Conséquence : Sheerargetru réclame l'âme de Teugen + brûle Gideon temporairement (forme matérielle dispersée).
 
 ## Apparitions par session
 - **[S8]** — Gideon tue Adolphus pour protéger l'Ordo.

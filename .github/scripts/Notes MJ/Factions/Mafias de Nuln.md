@@ -6,7 +6,7 @@
 - **Statut** : Valentinas [DOMINANT] / Schatzenheimers [DIMINUÉ] / Huydermans [ACTIF, en montée]
 - **Tags** : `#MafiasNuln` `#Valentina` `#Schatzenheimer` `#Huydermans` `#GuerreDesGangs` `#GemmeNurgle`
 
-## Source canon
+## Source
 - RN&HD ch.5 (Plot 6 "Family Honour") : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` lignes 411-441
 - *Archives of the Empire - Vol I* ch.4 *The Grand Provinces* (background mafia tiléenne à Nuln) : `Source/Archives of the Empire - Vol I/04 - The Grand Provinces.md`
 
@@ -28,7 +28,7 @@
 ### Famille Huydermans (wastelander)
 - **Origine** : **Wastelander** (région de Marienburg / Wasteland). Probablement présence à Nuln via comptoir commercial.
 - **Puissance** : Avait été nearly wiped out par Valentinas mais **vient de gagner un coup majeur** en empoisonnant Oldenhaller à l'opéra S3.
-- **Apparition S3** : la **Huydermans Assassin** = canon ch.5 l.441. **Elite Trait + Attractive (4)**. Plusieurs dagues *Impale* en rab. **Bague à compartiment caché contenant Heartkill** : elle approche Oldenhaller comme une "discussion intime" à l'opéra, lui parle, lui empoisonne discrètement la boisson. **Spin trick** : utilise simultanément un faux mouvement pour faire en sorte que le 2e assassin (l'agent Schatzenheimer apparemment) se poignarde lui-même avec sa propre dague (cf. ch.5 l.152). **Très professionnelle**.
+- **Apparition S3** : la **Huydermans Assassin** = ch.5 l.441. **Elite Trait + Attractive (4)**. Plusieurs dagues *Impale* en rab. **Bague à compartiment caché contenant Heartkill** : elle approche Oldenhaller comme une "discussion intime" à l'opéra, lui parle, lui empoisonne discrètement la boisson. **Spin trick** : utilise simultanément un faux mouvement pour faire en sorte que le 2e assassin (l'agent Schatzenheimer apparemment) se poignarde lui-même avec sa propre dague (cf. ch.5 l.152). **Très professionnelle**.
 - **Statut** : [ACTIF, en ascension] — **détient probablement la gemme** (ou sait où elle est) maintenant.
 
 ## Apparitions par session
@@ -46,7 +46,7 @@
 - **Patronages politiques** : à Nuln, les gangs ont presque tous des protecteurs nobles (qui empochent un % en échange de tolérance). Identifier qui protège qui = hook politique.
 - **Tilean Blue Heron condottieri** d'Emmanuelle (canon Archives) : mercenaires nulniens. Possible que les Valentinas aient infiltré ou neutralisé ce réseau.
 
-## Statbloc canon (assassins, Silver 1)
+## Statbloc (assassins, Silver 1)
 
 > Profile commun aux 3 assassins, avec modifications par gang (RN&HD ch.5 l.428-441).
 

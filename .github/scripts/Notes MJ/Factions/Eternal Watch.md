@@ -9,16 +9,16 @@
 - **Constantly staffed** cultists keeping eternal watch prophesied return.
 - **Tags** : `#EternalWatch` `#Sigmar` `#Grenzstadt` `#BlackFirePass` `#WorldsEdgeMountains` `#NightVigil` `#TombRobbers` `#Arc7` `#Ch9`
 
-## Source canon
+## Source
 - **EiR ch.9 l.465-503** *The Eternal Watch + The Night Vigil*.
 
-## Doctrine canon
+## Doctrine
 
 - **Eternal Watch belief** : Sigmar will return one day through Black Fire Pass to save the Empire.
 - **Public role** : open intégré Grenzstadt society. Pilgrimage support + Sigmar return preparation.
 - **Constant vigil tower**.
 
-## Night Vigil (sub-cult secret canon ch.9 l.470)
+## Night Vigil (sub-cult secret ch.9 l.470)
 
 - **Secret cult within Eternal Watch** : *« beliefs seemingly at odds with those of the wider Eternal Watch »*.
 - **Doctrine** : *« Sigmar can never return if these objects are not available to him »*. **Therefore hunt tomb robbers + treasure hunters + return ill-gotten gains to Worlds Edge Mountains**.
@@ -27,7 +27,7 @@
 - **Dwarf members** : *« a number of members among the Dwarf communities in Grenzstadt and in the mountains »*. Especially dedicated stop tomb robbing in lost Dwarf holds.
 - **Voir [[Night Vigil]]** fiche dédiée pour détails complets.
 
-## Personnages canon
+## Personnages
 
 ### Eternal Watch (publique)
 - **Capitular Almeric Zischler** : Grenzstadt's high priest. *« welcomes them officially and bestows upon them the freedom of the city »* si PJ flagrants (canon ch.9 l.459).
@@ -35,7 +35,7 @@
 ### Night Vigil (secret)
 - **[[Rauf Wasserburg]]** : *« Night Vigil's best agent, a competent killer, and resourceful spy »*. Affects gentle academic façade. Hides muscular frame voluminous robes.
 
-## Plan vis-à-vis PJ canon
+## Plan vis-à-vis PJ
 
 1. **PJ arrivent Grenzstadt** : public Eternal Watch welcome (Sigmar pilgrims).
 2. **Si PJ révèlent quête Ghal Maraz** : Eternal Watch suspicious *« treasure hunt »*.

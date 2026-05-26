@@ -24,7 +24,7 @@
 #### Famille Todbringer
 - **Graf Boris X Todbringer** — BanUlric, Imperial Elector, 47 ans (2512), 6'1" ; en dépression depuis la mort d'Anika-Elise ; Trappings *Peak Leveller* + Wardenship Nordland + Royal Garb Best Quality + Middenheim City Coffers and Crown Jewels (PBT ch.2 l.119) ; Doomed *"Vengeance made for vengeance repaid be then dragged down, ript and slayd"*
 - **Maria von Richthofen** (1ère femme) — morte **2471 IC** en accouchant Stefan (Fandom Boris)
-- **Anika-Elise Nikse** (2e femme) — voir fiche 01 ; **leader du Cult of the Sceptre de Jade à Middenheim — canon explicite** : *"their leader had been none other than the vivacious second wife of Graf Boris himself"* (Middenheim ch.7 l.144) + *"malign infector who secretly worshipped Prince of Chaos and desired to foster corruption and misrule"* (Middenheim ch.1 l.379) ; mentor de Gotthard von Wittgenstein (alias **Wallenstein**) ; morte 2512 IC à 23 ans, *"only toehold on the ladder of political power"* du cult (Middenheim ch.7 l.144)
+- **Anika-Elise Nikse** (2e femme) — voir fiche 01 ; **leader du Cult of the Sceptre de Jade à Middenheim — explicite** : *"their leader had been none other than the vivacious second wife of Graf Boris himself"* (Middenheim ch.7 l.144) + *"malign infector who secretly worshipped Prince of Chaos and desired to foster corruption and misrule"* (Middenheim ch.1 l.379) ; mentor de Gotthard von Wittgenstein (alias **Wallenstein**) ; morte 2512 IC à 23 ans, *"only toehold on the ladder of political power"* du cult (Middenheim ch.7 l.144)
 - **Baron Stefan Todbringer** — fils légitime héritier, ~11 ans (2512), malade chronique ; condition s'améliore avec Pavarotti (hypnose) (PBT ch.2 l.129-141)
 - **Baron Heinrich Todbringer** — fils illégitime officialisé, 6'11", brun-auburn yeux blue-grey ; **organise le secret service de Middenheim post-Anika-Elise** (Middenheim ch.1 l.374) ; **agents Ring of Spies throughout Middenheim** (PBT ch.2 l.160) ; conçu la nuit avant le mariage Boris-Maria ; épée magique *Rathewer* (Impact vs Skaven, acquise Miragliano) ; en mission diplomatique Ostland/Wolfenburg pendant PBT
 - **Princess Katarina Todbringer** — fille illégitime, *"commonly called 'Princess', has no hereditary entitlement"* (Middenheim ch.1 l.365) ; *"sweet-natured but rather unimaginative"* ; *"distracted and incurious — a bit of a bore"* (Middenheim ch.1 l.370-371) ; mariée Wolfgang Holswig-Abenauer au ch.6 (assassinée ou pas selon PJ)
@@ -189,7 +189,7 @@
 | ~2470 IC | Boris apprend qu'il est père d'Heinrich (illégitime, lady-at-court) — quelques mois avant la mort de Maria | PBT ch.2 l.93 |
 | ~2480-2490 IC | Katarina née (lady-at-court, "Princess") | PBT ch.2 l.99 |
 | 2502 IC | **Boris (47) épouse Anika-Elise Nikse (13)**, fille du Baron Werner Nikse (cf. fiche 01) | PBT ch.2 l.101 ; Companion ch.5 l.16 |
-| 2502-2512 IC | Anika-Elise apporte sybarites et power worshippers à la cour Middenheim ; mentor Gotthard von Wittgenstein (alias Wallenstein) ; **leader canon du Cult of the Sceptre de Jade à Middenheim** (Middenheim ch.7 l.144 : *"their leader had been none other than the vivacious second wife of Graf Boris himself"*) | Middenheim ch.1 l.379 + ch.7 l.144 |
+| 2502-2512 IC | Anika-Elise apporte sybarites et power worshippers à la cour Middenheim ; mentor Gotthard von Wittgenstein (alias Wallenstein) ; **leader du Cult of the Sceptre de Jade à Middenheim** (Middenheim ch.7 l.144 : *"their leader had been none other than the vivacious second wife of Graf Boris himself"*) | Middenheim ch.1 l.379 + ch.7 l.144 |
 | 2510 IC env. | Montée des **Fils d'Ulric** comme umbrella organisation ; "Middenland for Middenfolk" graffiti et agitation | PBT ch.2 l.178 |
 | 2512 IC (printemps) | **Anika-Elise meurt** ("strange illness", quelques mois avant PBT) | PBT ch.2 l.101 ; Fandom |
 | 2512 IC (été) | **PBT events** — Carnival Middenheim, attentat Boris (étranglement Hoflich-Gideon-Changeling), complot Wasmeier démasqué (Magister Magistri), Wasmeier fugitif Drakwald | PBT entier |
@@ -249,7 +249,7 @@
 - **Sceptre de Jade** (Slaanesh) — *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139) ; **Anika-Elise canon-explicite leader** (Middenheim ch.7 l.144) ; succession à Gotthard von Wittgenstein/Wallenstein
 
 ### Organisations proscrites NON-Chaos (canon Middenheim ch.7 + Fandom)
-*Distinguées canon C7 des cultes du Chaos — proscribed mais pas Chaos-aligned :*
+*Distinguées C7 des cultes du Chaos — proscribed mais pas Chaos-aligned :*
 - **Fils d'Ulric** : zélotes ulricains revendiquant descendance physique d'Ulric (Fandom Sons of Ulric) — *"those who trace their lineage to Ulric are entitled to lead his cult"* (Middenheim ch.7 l.158) ; umbrella organisation politique post-2510 IC ; maintiennent **le Womb of the Wolf** (lieu sacré secret dans l'undercity Fauschlag, *"site where Ulric's first mortal child was born"*, canon Fandom Womb of the Wolf) ; ban lifted par Emil Valgeir post-abdication (EiR Intro l.247) ; **"wishes to depose Emil in favour of one their own"* (paradoxe canon)*
 - **Porteurs de Sang** : sub-faction Fils d'Ulric ; Beate Moser leader (Middenheim ch.7)
 - **Eaters of the World** : travaillent à ressusciter le Liche-Thing Babrakkos à Linz (Middenheim ch.5 l.243)
@@ -258,7 +258,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cumulent canoniquement.
 
@@ -271,7 +271,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 - Boris commande la traque Wasmeier ("Locate the traitor Wasmeier and bring his body back to me!")
 
 ### 2. Renouveau ulricain fanatique
-- **Abdication Ar-Ulric Jarrick Valgeir** Spring 2512 IC (EiR ch.17 l.14) — cause précise non précisée canon mais cohérent avec scandale Emmanuelle Schlagen possible révélation, ou usure politique
+- **Abdication Ar-Ulric Jarrick Valgeir** Spring 2512 IC (EiR ch.17 l.14) — cause précise non précisée mais cohérent avec scandale Emmanuelle Schlagen possible révélation, ou usure politique
 - **Emil Valgeir** prend la robe — *"fire-breathing preacher with little respect for Sigmarites, only exacerbated the matter"*
 - **Fils d'Ulric ban lifted** (EiR Intro l.247) — *"despite the fact that the sect wishes to depose him in favour of one their own"*
 - **"Now these sectarian zealots preach openly in Middenheim"* (EiR Intro l.247)
@@ -349,7 +349,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
 - **Entité unifiée canon** : **"Grand Duchy of Middenland"** (renommée selon EiR Intro l.279 tableau post-Turmoil, où Boris devient "Grand Duke of Middenland")
@@ -367,7 +367,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 ### Symboles politiques et reliques
 - **Croc Runique Middenland** : ***Peak Leveller*** — Boris le brandit toujours (Trappings PBT ch.2 l.119)
-- **Croc Runique Drakwald** : ***Beast Slayer*** — perdu en 1550 IC ("Greatest Caper") ; détenteur post-Turmoil canon non précisé ; **probablement entre les mains des Bildhofen ou volé à nouveau**
+- **Croc Runique Drakwald** : ***Beast Slayer*** — perdu en 1550 IC ("Greatest Caper") ; détenteur post-Turmoil non précisé ; **probablement entre les mains des Bildhofen ou volé à nouveau**
 - **Ghal Maraz** — brisé S62, retrouvé par Yorri XV pour la cérémonie du 9 Brauzeit (cf. fiche 11)
 - **Eternal Flame** Fauschlag — pilier de feu argenté toujours actif
 
@@ -409,7 +409,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **[[Heinrich Todbringer]]** | Fils illégitime officialisé, 6'11" ; organisateur secret service Middenheim ; Envoy Gold 2 | (idem) ; **rôle EiR WFRP4 = secret service uniquement** ; canon 1st-edition (variation édition, voir section 10) le présente comme successeur Boris | Vivant (Fandom Heinrich) |
 | **[[Katarina Todbringer]]** | Fille illégitime officialisée, "Princess", *"sweet but unimaginative"* | Mariée Wolfgang (ch.6 — interrompu par Barthelm) | Vivante ou morte selon PJ ch.6 |
 | **Leopold II von Bildhofen** | Grand Duke Middenland + Prince Carroburg + Protector Drakwald + Elector | **"Stripped of his more powerful titles, retained only the rule of the principality of Carroburg"** ; vassal Boris ; descendant claim Magnus | Vivant (Fandom Leopold) |
-| **Siegfried von Bildhofen** | Frère cadet Leopold ; héritier ; administre Carroburg | (idem) sous régime Boris ; canon ne tranche pas | Vivant (Archives Vol I l.110) |
+| **Siegfried von Bildhofen** | Frère cadet Leopold ; héritier ; administre Carroburg | (idem) sous régime Boris ; ne tranche pas | Vivant (Archives Vol I l.110) |
 | **Magnus le Pieux (Magnus von Bildhofen)** | Né à Nuln (Middenheim ch.1 + Fandom), Empereur 2304-2369 IC | (historique) ; **Boris Todbringer descend canoniquement de Magnus via Solveig + Bertholdt** (Middenheim ch.1 l.301-307) ; Bildhofen Middenland *"claiming Emperor Magnus as a relative"* (Archives Vol I l.110) — claim parallèle d'une autre branche | Mort 2369 IC ; symbole héraldique Griffon ; petite-fille Solveig → Boris Todbringer 2371 IC |
 | **Gunthar von Bildhofen** (**demi-frère** Magnus) | **Élevé au rang de Grand Duke of Middenland par Magnus** ; fils de Josef + 2e épouse ; quarrel avec Grand Theogonist Kazgar XIV ce qui coûte l'Empire à House Bildhofen ; quitte Nuln pour Middenheim 2369 IC ; sanctuary chez Todbringers | (historique) ; ancêtre direct de la lignée Todbringer-Bildhofen via Solveig | Mort historique (Middenheim ch.1 l.301 + Fandom Gunthar) |
 | **Solveig von Bildhofen** (petite-fille Gunthar) | Épouse Boris Todbringer 2371 IC | (historique) ; mère de Bertholdt | Morte historique (Middenheim ch.1 l.307) |
@@ -531,7 +531,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -585,7 +585,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 - [Boris Todbringer — Fandom](https://warhammerfantasy.fandom.com/wiki/Boris_Todbringer) — titres complets + Maria von Richthofen 2471 IC + Werner Nikse (vs PBT Rudolph)
 - [Boris Todbringer — Lexicanum](https://whfb.lexicanum.com/wiki/Boris_Todbringer)
-- [Heinrich Todbringer — Fandom](https://warhammerfantasy.fandom.com/wiki/Heinrich_Todbringer) — 1st-edition canon successeur Boris
+- [Heinrich Todbringer — Fandom](https://warhammerfantasy.fandom.com/wiki/Heinrich_Todbringer) — 1st-edition successeur Boris
 - [Leopold von Bildhofen — Fandom](https://warhammerfantasy.fandom.com/wiki/Leopold_von_Bildhofen) — stripped of titles + retained Carroburg
 - [Magnus the Pious — Fandom](https://warhammerfantasy.fandom.com/wiki/Magnus_the_Pious) — Magnus von Bildhofen né à Nuln, règne 2304-2369 IC, Griffon heraldic. *Canon primaire C7 sur Magnus = Middenheim ch.1 l.120-135 + l.294 + l.301-307 (lignée Gunthar-Solveig-Bertholdt-Todbringer).*
 - [Magnus the Pious — Lexicanum](https://whfb.lexicanum.com/wiki/Magnus_the_Pious)
@@ -599,29 +599,29 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté.*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté.*
 
 ### Père d'Anika-Elise Nikse — Rudolph vs Werner
 - **PBT ch.2 l.101** (V3, 2018) : *"the beautiful Anika-Elise Nikse, daughter of **Baron Rudolph von Niske** of Nordland"*
 - **EiR Companion ch.5 l.16 + Salzenmund ch.4 l.488 + Fandom Boris** (V5+ 2020+) : père = **Werner Nikse**
 - **Poids relatif** : sources V5+ (récentes, multiples) > PBT V3 (isolé)
-- **Décision GM** : adopter Werner. Possible canon-cohérent : Rudolph = père historique mort/retiré entre PBT et EiR, Werner = successeur. Mais canon ne précise pas la transition.
+- **Décision GM** : adopter Werner. Possible canon-cohérent : Rudolph = père historique mort/retiré entre PBT et EiR, Werner = successeur. Mais ne précise pas la transition.
 
 *Note : l'ambiguïté "Boris title post-Turmoil Middenheim vs Middenland" est résolue par recoupement Fandom Boris Todbringer + Fandom Turmoil of 2512 + EiR Intro l.279 + EiR ch.17 l.34 : titre canon = **"Grand Duke of Middenland"** + entité unifiée renommée **Middenland**. Boris cumule tous les titres (Graf Middenheim + Grand Duke Middenland + Prince Carroburg + etc.). Déplacée hors section 10.*
 
 ### Généalogie Magnus le Pieux : Todbringer + Bildhofen Carroburg = deux branches collatérales
-- **Web canon Fandom Magnus the Pious** : Magnus **n'a pas eu d'enfants** documentés canon. Toute descendance Magnus est donc **collatérale via son demi-frère Gunthar**.
+- **Web canon Fandom Magnus the Pious** : Magnus **n'a pas eu d'enfants** documentés. Toute descendance Magnus est donc **collatérale via son demi-frère Gunthar**.
 - **Branche Todbringer (canon documenté)** : Magnus → demi-frère Gunthar von Bildhofen → petite-fille Solveig → mariage Boris Todbringer 2371 IC → Bertholdt 1er Todbringer Graf → Boris actuel. **Boris est descendant collatéral via Gunthar.**
 - **Branche Bildhofen Carroburg (Archives Vol I l.110)** : *"claiming Emperor Magnus as a relative"* — branche distincte non détaillée généalogiquement. **Probable descendance également via Gunthar** (Gunthar fut ex-Grand Duke of Middenland avant Magnus le force à abdiquer).
 - **Web** (Fandom Leopold von Bildhofen) : Leopold = *"distant descendant of the former Emperor Magnus von Bildhofen"* — confirme parenté Bildhofen Carroburg avec Magnus, sans préciser via quelle branche.
 - **Poids relatif** : les deux claims sont valides canon — **Boris ET Leopold descendent collatéralement de la même branche Bildhofen** (via Gunthar ou parents de Magnus). Aucun n'a une "claim plus solide" — les deux sont collatérales.
 - **Décision GM** : utiliser comme **enjeu politique partagé**, pas comme avantage Boris. La parenté Magnus est un argument symbolique commun à Todbringer et Bildhofen.
 
-*Note : "Peak Leveller vs Leg Biter" retiré comme ambiguïté — canon Fandom Runefang traite les deux noms comme synonymes ("also known as Legbiter"). Pas une vraie contradiction canon mais variation de nom acceptée. Intégrée en section 1 comme variante de nomenclature.*
+*Note : "Peak Leveller vs Leg Biter" retiré comme ambiguïté — canon Fandom Runefang traite les deux noms comme synonymes ("also known as Legbiter"). Pas une vraie contradiction mais variation de nom acceptée. Intégrée en section 1 comme variante de nomenclature.*
 
-*Note : "Date+cause abdication Jarrick" partiellement résolue par Fandom Emil Valgeir = révélation conspiration Main Pourpre + affaire Schlagen + pèlerinage nord post-abdication. Intégrée en section 1/3/6. Mois précis reste indéterminé canon mais ce détail n'est pas une ambiguïté structurante.*
+*Note : "Date+cause abdication Jarrick" partiellement résolue par Fandom Emil Valgeir = révélation conspiration Main Pourpre + affaire Schlagen + pèlerinage nord post-abdication. Intégrée en section 1/3/6. Mois précis reste indéterminé mais ce détail n'est pas une ambiguïté structurante.*
 
 ### Beast Slayer (Drakwald Runefang) — détenteur post-Turmoil
 - Canon Middenheim ch.1 l.248 : volé 1550 IC, "Greatest Caper", finit aux mains du Middenland Elector

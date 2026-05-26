@@ -1,6 +1,6 @@
 # Encounters Arc 7 — PNJ mineurs
 
-> Fiche groupée des **PNJ mineurs Arc 7** rencontrés en cours de campagne avec **interactions courtes** (pas de fiche individuelle dédiée pour préserver lisibilité). Triés par chapitre canon.
+> Fiche groupée des **PNJ mineurs Arc 7** rencontrés en cours de campagne avec **interactions courtes** (pas de fiche individuelle dédiée pour préserver lisibilité). Triés par chapitre.
 
 ## Arc 7 ch.1 S56 — Nordland separatists
 
@@ -60,7 +60,7 @@
 - Solkanite secrète. Outburst von Eckstein-Bettie Greenhill. À Altdorf pose événement.
 
 ### Hildemar Kalb — High Steward Emmanuelle
-- Emmanuelle entourage canon ch.5 l.108.
+- Emmanuelle entourage ch.5 l.108.
 
 ### Moritz Arbogast — Knight Blazing Sun
 - Emmanuelle bodyguard. Chosen deliberately *« neither Sigmarite nor Ulrican »* (canon ch.5 l.108).
@@ -100,7 +100,7 @@
 ## Arc 7 ch.10 — Black Fire Pass
 
 ### Alberecht Haessler — Sergeant Bergjaeger Mountainguard
-- Patrol northern Black Fire Pass canon ch.10 l.42. Highly professional regiment.
+- Patrol northern Black Fire Pass ch.10 l.42. Highly professional regiment.
 - News : *« We'll be called back to Averland soon. Hear they'll need us protect province from insurrection or Ulricans »*.
 
 ### Father Otto Rotmund — Priest Temple Holy Founding
@@ -108,14 +108,14 @@
 - 5-10 pilgrims serving temple in penance.
 
 ### Urd Flintbane — Dwarf warden Vithang Dum
-- *« the dour warden »* canon ch.10 l.126. Travellers shelter horses + austere common room + basic victuals.
+- *« the dour warden »* ch.10 l.126. Travellers shelter horses + austere common room + basic victuals.
 
 ### Madcraw Clan ch.10 (Goblin tribe Lost Gorge)
 - **Cruzzik Cacklespit** (déjà fiche existante — shaman leader)
 - **Slik Moongobba** — *« right-hand gobbo, enjoys meting out discipline. Desperate to eat Purple Cap mushrooms »* (canon ch.10 l.404). Sneaky leader 2.
 - **Globnak Mansplatta** — Skargobbo boss, *« hulking Goblin wears sleeveless robes, broken nose »* (canon ch.10 l.422). Choppa wielder.
 - **Old Gruntlob** — *« elderly Goblin who oversees the runts. Twisted affection »* (canon ch.10 l.442).
-- **Oddblat + Grikkle** — other shamans canon ch.10 l.470. Coven Cacklespit.
+- **Oddblat + Grikkle** — other shamans ch.10 l.470. Coven Cacklespit.
 
 ## Arc 7 ch.11 Caves of Chaos
 - **Treacherous Herald** (canon ch.11 l.168-220) — Daemon Tzeentch Location 3. Already référencé dans Sheerargetru fiche.
@@ -138,12 +138,12 @@
 - Skinny sheepdog **Captain** + worn pitchfork. *« Old Dirk is a swindler looking to make an easy shilling or two of travellers. The dog and pitchfork are stolen »*.
 
 ### Griswald Voit — Ulrican priest (ch.10 l.418)
-- *« retired having accomplished nothing more than troop along one muddy road »*. Tension Sigmarite priest local. *« Wigbert pulls them aside »* (grandson). Use **Beate Moser profile** canon ch.10 l.426 (Hardy +4W, Bless Ulric, Holy Visions).
+- *« retired having accomplished nothing more than troop along one muddy road »*. Tension Sigmarite priest local. *« Wigbert pulls them aside »* (grandson). Use **Beate Moser profile** ch.10 l.426 (Hardy +4W, Bless Ulric, Holy Visions).
 
 ## Arc 7 ch.13 — Altdorf climax
 
 ### Sergeant Egon Pfeffer — Gate watch
-- *« Watchmen 6 Soldiers led by Egon Pfeffer, a Sergeant »* canon ch.13 l.49. Restore order gate riot.
+- *« Watchmen 6 Soldiers led by Egon Pfeffer, a Sergeant »* ch.13 l.49. Restore order gate riot.
 - **Challenging (+0) Leadership** PJ peuvent rally him *« brace up Sergeant Pfeifer »* → restore discipline subdual force.
 
 ### Captain Helstein — Company of Honour

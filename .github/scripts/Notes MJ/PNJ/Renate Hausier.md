@@ -9,23 +9,23 @@
 - **Statut** : [VIVANTE] [LIBÉRÉE — Kemperbad S26]
 - **Tags** : `#Renate` `#Hausier` `#Wreckers` `#Cuisinière` `#Grünburg` `#Pedlar` `#Vagabonde` `#StriganiApparence` `#Libérée` `#Kemperbad`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.1 *Bögenhafen to Altdorf* (apparition, statbloc, comportement) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/04 - Chapter 1 BÖGENHAFEN TO ALTDORF.md` lignes 118-141, 411-444
 - *Death on the Reik* ch.8 *A Stop Along the Way* (récupération éventuelle de la barge par les premiers propriétaires — Josef/Renate la « réclament ») : `Source/Enemy Within Campaign Volume 2 Death on the Reik/11 - Chapter 8 A Stop Along the Way.md` ligne 383
 
-> **Inflexion table** : canon situe la rencontre **ch.1** (Bögenhafen → Altdorf, avant l'Arc 4 du groupe). À table, **rencontre déplacée à S23** (DotR ch.2 *Altdorf to Kemperbad*, lors d'un **Wreckers attack** au lieu d'un **mutant attack** canon). **Cargaison adaptée** (textile + vin Kemperbad ensuite, au lieu des sacs de laine canon Bögenhafen → Altdorf). Le profile Renate reste **strictement canon**.
+> **Inflexion table** : situe la rencontre **ch.1** (Bögenhafen → Altdorf, avant l'Arc 4 du groupe). À table, **rencontre déplacée à S23** (DotR ch.2 *Altdorf to Kemperbad*, lors d'un **Wreckers attack** au lieu d'un **mutant attack** canon). **Cargaison adaptée** (textile + vin Kemperbad ensuite, au lieu des sacs de laine canon Bögenhafen → Altdorf). Le profile Renate reste **strictement canon**.
 
-## Description canon
+## Description
 
 > "A very independent and self-reliant young woman, Renate is **often mistaken for a Strigani**. She favours **brightly coloured, heavily patterned clothing**, and usually wears a **red headscarf over her raven-black hair**, with **two large gold hoops hanging from her ears**. Renate is **naturally cautious** (the Players may have another word for her), and has a **healthy aversion to danger**. She will always try to find some non-violent way out of danger, such as **bluffing, hiding, or running away**. She loves travelling and seeing different places, and **it was this, rather than any particular love for adventure, that motivated her to take up the wandering life of a Pedlar**." (DotR ch.1 l.412)
 
-> Découverte canon dans la cale : "If the crate is opened, there's a woman cowering inside. She screams and brandishes a small knife ineffectually as the lid is removed, but then **collapses with relief at the sight of friendly faces. Or perhaps it's at the sight of normal, non-mutated faces**…" (l.120)
+> Découverte dans la cale : "If the crate is opened, there's a woman cowering inside. She screams and brandishes a small knife ineffectually as the lid is removed, but then **collapses with relief at the sight of friendly faces. Or perhaps it's at the sight of normal, non-mutated faces**…" (l.120)
 
 > Témoignage canon : "*I looked out and saw this horrible skull-faced creature — I knew I ought to fight, but all I could do was run. I hid in here and hoped no one would notice me.*" (l.124)
 
 > Comportement canon : "Even if Josef is available, Renate will offer to help with the boat. It's the least she can do for the heroes who rescued her. Her offer is quite sincere, but she is **quite gushing in her praise** when she makes it: she has been **shaken by the mutant attack**, and is very glad to be alive. **Renate is actually quite useful around boats, too**." (l.135-139)
 
-## Statbloc canon — **Renate Hausier – Human Vagabond, Former Boat-Hand (Brass 1)**
+## Statbloc — **Renate Hausier – Human Vagabond, Former Boat-Hand (Brass 1)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

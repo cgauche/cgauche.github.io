@@ -15,7 +15,7 @@
 - **Statut** : [ACTIF — DOMINANT à Middenheim] [TENSION Sigmar Arc 5+]
 - **Tags** : `#CultUlric` `#Ulric` `#WhiteWolf` `#TeutogenGuard` `#FilsDUlric` `#Middenheim` `#Religion` `#Arc5` `#Arc7` `#TensionSigmar`
 
-## Source canon
+## Source
 - **PBT ch.2 *Religion + Growing Tensions*** (canon p.32-33) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md`
 - **PBT ch.4 *Religion - The Sigmarian Heresy + Fils d'Ulric*** (canon p.49-51) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/07 - Chapter 4 Initial Inquiries.md`
 - **PBT Companion ch.7 *The Cult of Ulric*** : `Source/Power Behind the Throne Companion/07 - The Cult of Ulric.md`

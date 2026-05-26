@@ -10,7 +10,7 @@
 - **Statut** : [ACTIVE — concurrentielle]
 - **Tags** : `#QuatreSaisons` `#Transport` `#Coches` `#Reikland` `#MaisonDuPont` `#FourSeasons` `#CannonBallExpress`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — The Guilty Party* (mention de la concurrence transport) : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md`
 - *Death on the Reik* ch.8 *A Stop Along the Way* (coches Altdorf-Middenheim) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/11 - Chapter 8 A Stop Along the Way.md`
 

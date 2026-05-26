@@ -9,12 +9,12 @@
 - **Statut** : [VIVANTE, ITINÉRANTE — allié potentiel]
 - **Tags** : `#Megret` `#Mystic` `#Prophétesse` `#Schaffenfest` `#Vorbergland` `#Itinérante` `#AlliéePotentielle` `#FIL17`
 
-## Source canon
+## Source
 - *Enemy in Shadows* ch.6 *The Schaffenfest* (apparition + statbloc) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/06 - The Schaffenfest.md` lignes 114-131, 515-525
 
-## Description canon
-- **Statbloc canon EiS ch.6 l.515-525** : à recopier de la source canon si besoin table.
-- **Prophétie canon donnée S9** : *« un endroit sombre où se trouverait la mort, sept hommes, et deux autres qui les détruiraient »* — référence à l'Ordo Septenarius (7 conseillers + 2 Inner Council de tête = Teugen + Magirius). **Vérifiée par les PJ à S10-S12**.
+## Description
+- **Statbloc EiS ch.6 l.515-525** : à recopier de la source si besoin table.
+- **Prophétie donnée S9** : *« un endroit sombre où se trouverait la mort, sept hommes, et deux autres qui les détruiraient »* — référence à l'Ordo Septenarius (7 conseillers + 2 Inner Council de tête = Teugen + Magirius). **Vérifiée par les PJ à S10-S12**.
 
 ## Apparitions par session
 - **[S9]** — Tente à la Schaffenfest de Bögenhafen. Donne sa prophétie à Elvira. Prédiction confirmée S12.
@@ -26,7 +26,7 @@
 - Pas hostile, plutôt complice.
 
 ## MJ-only
-- **Visions canon véridiques** : Megret n'est pas une charlatane. **Possible Sixth Sense + Lore (Cosmology) élevés** + **Aethyric Attunement**. Possible bénédicte de **Verena** ou de **Mórrigan** locale.
+- **Visions véridiques** : Megret n'est pas une charlatane. **Possible Sixth Sense + Lore (Cosmology) élevés** + **Aethyric Attunement**. Possible bénédicte de **Verena** ou de **Mórrigan** locale.
 - **Réseau Rhya / divination ?** : possible lien avec [[Corrobreth]] (prêtre Rhya Unterbaum) ou avec un cercle plus large d'oracles ruraux Reikland. **Hook latent** Arc 5+.
 - **Réutilisation** : Megret peut apparaître à n'importe quelle foire / marché / ville visités par les PJ. **Outil narratif** pour relancer un fil dormant via une prophétie ciblée.
 - **Tarot ou pendule** : non précisé canon, à improviser. Possibles handouts pour les PJ.

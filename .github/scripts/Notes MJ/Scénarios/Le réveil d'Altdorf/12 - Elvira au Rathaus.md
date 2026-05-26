@@ -70,7 +70,7 @@ Si Elvira (ou un autre PJ avec elle) veut tenter une audience directe avec l'un 
 Elvira repart avec **la carte du pouvoir impérial en main** :
 - **Politique** → Immanuel-Ferrand (Palais, accès difficile — possible via Johannes la nuit même).
 - **Religieux** → Yorri (PA Sigmarite -8, fermé) ou Arch-Lecteur extérieur (Kaslain à Nuln).
-- **Militaire** → Helborg absent, Teufelsmilch à éviter (infiltré canon ch.13).
+- **Militaire** → Helborg absent, Teufelsmilch à éviter (infiltré ch.13).
 
 **Aucune voie ouverte ce jour, dans cette ville**. C'est précisément ce qui justifie qu'ils partent vers Nuln rejoindre Kaslain. La quête longue durée du coffre + de la justice se confondent.
 

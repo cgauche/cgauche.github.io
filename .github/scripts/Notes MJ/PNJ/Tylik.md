@@ -11,10 +11,10 @@
 - **Statut** : [VIVANT — ALLIÉ]
 - **Tags** : `#Tylik` `#Kislev` `#Ungol` `#Cavalier` `#Piquet` `#Arc6` `#Allié` `#Emmiline`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4481 *Horse Captain Tylik* + l.4539+l.4542 *Ungol Horse Archers (Silver 4)*.
 
-## Statbloc canon (partiel, à étoffer)
+## Statbloc (partiel, à étoffer)
 
 - **Carrière** : Captain (canon Silver 5 ou Gold 1).
 - **Compétences fortes** : Animal Care, Charm, Charm Animal, Consume Alcohol (très haut !), Cool, Endurance, Intuition, Language (Kislevite, Reikspiel), Leadership, Lore (Kislev + Warfare), Melee (Basic, Cavalry), Outdoor Survival, Ranged (Bow), Ride (Horse).

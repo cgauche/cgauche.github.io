@@ -17,11 +17,11 @@
 - **Statut** : [VIVANT] [ENNEMI ACTIF — COMBAT MAJEUR] (Arc 7 ch. 12).
 - **Tags** : `#Drexol` `#Bestigor` `#Warlord` `#Chaos` `#Beastman` `#PureFire` `#Wolfshügel` `#PionGideon`
 
-## Source canon
+## Source
 - **EiR ch.12 l.447-473** *Drexol the Extinction* + statbloc.
 - **EiR ch.12 l.419** Clarification : *« This was Gideon who, having learnt of the horde, sent Thirteen to help. The Characters may realise this and not trust Thirteen, but he is difficult to get rid of. Gideon did not account for the horde. He knows the Characters are tenacious, but is totally unaware why they have gone to Wolfshügel, and it worries him »*.
 
-## Statbloc canon (EiR ch.12 l.453)
+## Statbloc (EiR ch.12 l.453)
 
 **DREXOL THE EXTINCTION**
 

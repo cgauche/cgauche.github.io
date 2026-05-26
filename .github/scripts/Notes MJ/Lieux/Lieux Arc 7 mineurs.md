@@ -69,7 +69,7 @@
 
 ### Kemperbad (existing fiche [[Kemperbad]] enrichir)
 - **Cult of the Broken Fingers** : **Martin Schmidt** + 4 cultistes splinter Main Pourpre.
-- **Able Kazriksson + nephew Gurrin Ablesniz** workshop (cellar refuge PJ canon ch.12 l.207-228).
+- **Able Kazriksson + nephew Gurrin Ablesniz** workshop (cellar refuge PJ ch.12 l.207-228).
 - **Ablesniz throat slit + workshop arson** : Cult Broken Fingers attack.
 
 ## Arc 7 ch.13 climax — Altdorf

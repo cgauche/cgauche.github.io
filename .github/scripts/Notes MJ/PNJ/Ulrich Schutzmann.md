@@ -12,12 +12,12 @@
 - **Statut** : [VIVANT — ALLIÉ MAJEUR post-S35]
 - **Tags** : `#UlrichSchutzmann` `#Watch` `#WatchCommander` `#MiddenMarshal` `#Middenheim` `#Sigmarite` `#Arc5` `#Arc6` `#AlliéMajeur`
 
-## Source canon
+## Source
 - **PBT ch.6 *The Midden Marshals*** (canon p.83-87) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT Appendix I p.124** (NPC sheet) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.7 *Conclusion* + *The Offer*** (canon p.105-107) : recrutement post-PBT, base Arc 6.
 
-## Statbloc canon (PBT p.124)
+## Statbloc (PBT p.124)
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -68,11 +68,11 @@
 
 ## MJ-only
 
-- **Liaison avec Emmanuelle Schlagen** : canon p.93. **Schutzmann l'a installée comme Lady at Court** il y a ~4 ans, par favoritism. Affaire courte mais réelle. Emmanuelle l'a quitté pour Boris. **Schutzmann est encore mal à l'aise** quand on en parle (canon Intuition Test Difficult –10 révèle son inconfort). **Wasmeier ne le sait pas** Arc 5 — un hook : si Wasmeier le découvre, il aurait un levier sur Schutzmann (canon ch.3 *For Grognards: Deadly Secrets* alternative).
-- **Schutzmann a culpabilité post-PBT** : canon ch.7 *Conclusion* p.105 : « *On a Difficult (-10) Intuition Test the Characters may get the impression that he is feeling guilty.* » Il se reproche de **n'avoir pas vu la conspiration** sous son nez pendant des mois.
+- **Liaison avec Emmanuelle Schlagen** : p.93. **Schutzmann l'a installée comme Lady at Court** il y a ~4 ans, par favoritism. Affaire courte mais réelle. Emmanuelle l'a quitté pour Boris. **Schutzmann est encore mal à l'aise** quand on en parle (canon Intuition Test Difficult –10 révèle son inconfort). **Wasmeier ne le sait pas** Arc 5 — un hook : si Wasmeier le découvre, il aurait un levier sur Schutzmann (canon ch.3 *For Grognards: Deadly Secrets* alternative).
+- **Schutzmann a culpabilité post-PBT** : ch.7 *Conclusion* p.105 : « *On a Difficult (-10) Intuition Test the Characters may get the impression that he is feeling guilty.* » Il se reproche de **n'avoir pas vu la conspiration** sous son nez pendant des mois.
 - **Sigmarite à Middenheim** : politique délicate. Il maintient un profil bas religieux. **Vulnérable aux Fils d'Ulric** (qui pourraient le viser comme « sigmarite infiltré dans Middenheim »). Fils d'Ulric montent Arc 5+, Schutzmann pourrait être pris pour cible Arc 7.
-- **Refus de juger la Skaven menace** Arc 5 : canon p.107 « *He is sceptical, as many Middenheimers are, that a breed of rat-headed Beastmen exist as anything other than rare aberrations. He finds the notion that they pose an existential threat to Middenheim ridiculous* ». Arc 6 il **change d'avis** : la quantité de preuves (S40-S48) le convainc, l'**audience du Graf S48** scelle.
-- **Patron Watch + ressources Arc 6** : canon p.107. 1 GC/semaine + équipement non-magique + logement. **Haggle pour 1 GC 6/-/semaine** baisse son opinion.
+- **Refus de juger la Skaven menace** Arc 5 : p.107 « *He is sceptical, as many Middenheimers are, that a breed of rat-headed Beastmen exist as anything other than rare aberrations. He finds the notion that they pose an existential threat to Middenheim ridiculous* ». Arc 6 il **change d'avis** : la quantité de preuves (S40-S48) le convainc, l'**audience du Graf S48** scelle.
+- **Patron Watch + ressources Arc 6** : p.107. 1 GC/semaine + équipement non-magique + logement. **Haggle pour 1 GC 6/-/semaine** baisse son opinion.
 - **À table** : Schutzmann reste à Middenheim quand les PJ partent en mission (Karak Skygg S54, etc.). Coordonne via courrier.
 - **Survit toute la campagne** (à table jusqu'à S63+).
 

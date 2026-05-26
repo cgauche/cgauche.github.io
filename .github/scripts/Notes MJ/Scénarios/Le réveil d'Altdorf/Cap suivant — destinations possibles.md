@@ -35,7 +35,7 @@ Voir [[Fassbinder - documents bureau]] pour le détail.
 **Trajet** : Altdorf → Kemperbad → Nuln, 10-12 jours sur **La Comète**.
 
 **Pourquoi recommandé** :
-- C'est la **voie canon ch.9** (rencontres prévues, NPC clés).
+- C'est la **voie ch.9** (rencontres prévues, NPC clés).
 - Kaslain est **modéré**, plus accessible que les radicaux d'Altdorf.
 - À Nuln, ils peuvent aussi sonder la cellule MP Nuln Branch ([[Orla Feder]]) — bonus PA Sigmarite si démasquée.
 - Possibles synergies avec Averheim (permis minier) en aval.
@@ -91,7 +91,7 @@ Voir [[Fassbinder - documents bureau]] pour le détail.
 
 **Inconvénient** :
 - **Pas d'accès au coffre** depuis Karak Hirn — la quête politique Sigmar reste à faire.
-- Voyage atypique. Pas canon ch.9 strict.
+- Voyage atypique. Pas ch.9 strict.
 - Possible que King Alrik refuse de coopérer (les Nains protègent leurs secrets).
 
 ## Combinaison conseillée

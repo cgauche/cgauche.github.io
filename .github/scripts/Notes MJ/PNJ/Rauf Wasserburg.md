@@ -10,12 +10,12 @@
 - **Statut** : [VIVANT — ENNEMI ACTIF CACHÉ]
 - **Tags** : `#RaufWasserburg` `#Wasserburg` `#Sigmar` `#Grenzstadt` `#EternalWatch` `#NightVigil` `#Assassin` `#Arc7` `#Ch9` `#Faux Académique`
 
-## Source canon
+## Source
 - **EiR ch.9 l.479-503** *Rauf Wasserburg* + statbloc Assassin Gold 1.
-- **EiR ch.9 l.470-478** *Night Vigil* doctrine canon.
+- **EiR ch.9 l.470-478** *Night Vigil* doctrine.
 - **EiR ch.9 l.484** Sa motivation : *« he susses out that they intend to find and retrieve Ghal Maraz, he is utterly stunned and decides immediately that they all must die »*.
 
-## Statbloc canon (EiR ch.9 l.494)
+## Statbloc (EiR ch.9 l.494)
 
 **RAUF WASSERBURG HUMAN ASSASSIN (GOLD 1)**
 
@@ -30,7 +30,7 @@
 - **Blessings** : Battle, Courage, Might, Tenacity.
 - **Miracles (Sigmar)** : Heed Not the Witch, **Sigmar's Fiery Hammer**, **Soulfire**, **Twin-Tailed Comet**.
 
-## Plan canon (ch.9 l.480-488)
+## Plan (ch.9 l.480-488)
 1. **Eternal Watch publique** : Sigmar return through Black Fire Pass.
 2. **Night Vigil secret cult** : kills tomb robbers + ensures Sigmar's army artifacts not stolen.
 3. **High priest recommends Wasserburg** PJ as expert renowned (canon ch.9 l.484).

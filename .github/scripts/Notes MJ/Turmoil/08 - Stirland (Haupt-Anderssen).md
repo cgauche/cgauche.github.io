@@ -1,12 +1,12 @@
 # Front — 08 Stirland (Haupt-Anderssen)
 
-> **One-liner** : Stirland est le front du **non-engagement militaire récompensé** : **Alberich V Haupt-Anderssen** (~15 ans pendant le Turmoil, Fandom) — *"kept his province out of the fighting and was recognised for his restraint with the slightly more esteemed title of Grand Count"* (EiR ch.17 l.30) — passe du titre **Grand Duke** (pré-Turmoil) à **Grand Count of Stirland, Prince of Wurtbad, Overlord of Sylvania**. Mais Stirland n'est pas neutre pour autant : Alberich est **manipulé par les compromettants Main Pourpre** transmis par Ingrid Gausser pour voter la restauration Nordland (Salzenmund ch.4 l.440-449 *"Purple Fingerprints"*), et le **village Stirlander de Heideinheim** (rive Aver) est ciblé par le **false-flag Threshers Sudenland-en-Nuln** (cascade fiche 03 ch.9). Post-Turmoil, Alberich est à Altdorf *"looking for a trustworthy band to find out how Gausser knew that about his private life — and what else certain parties might know"* (Salzenmund ch.4 l.448-449) — hook canon majeur pour les PJ. Le **Runefang ***Orc Hewer*** ** (forgé par Alaric the Mad, utilisé par Elector Count Martin pour tuer Mannfred von Carstein à la **Bataille de Hel Fenn 2145 IC**) reste l'arme symbolique de la dynastie. Cascade ouverte : **Sylvania** (County interne de Stirland, *de jure* Alberich Overlord, *de facto* sans dirigeant vampire nommé canon 2512) demeure une menace dormante au flanc est.
+> **One-liner** : Stirland est le front du **non-engagement militaire récompensé** : **Alberich V Haupt-Anderssen** (~15 ans pendant le Turmoil, Fandom) — *"kept his province out of the fighting and was recognised for his restraint with the slightly more esteemed title of Grand Count"* (EiR ch.17 l.30) — passe du titre **Grand Duke** (pré-Turmoil) à **Grand Count of Stirland, Prince of Wurtbad, Overlord of Sylvania**. Mais Stirland n'est pas neutre pour autant : Alberich est **manipulé par les compromettants Main Pourpre** transmis par Ingrid Gausser pour voter la restauration Nordland (Salzenmund ch.4 l.440-449 *"Purple Fingerprints"*), et le **village Stirlander de Heideinheim** (rive Aver) est ciblé par le **false-flag Threshers Sudenland-en-Nuln** (cascade fiche 03 ch.9). Post-Turmoil, Alberich est à Altdorf *"looking for a trustworthy band to find out how Gausser knew that about his private life — and what else certain parties might know"* (Salzenmund ch.4 l.448-449) — hook majeur pour les PJ. Le **Runefang ***Orc Hewer*** ** (forgé par Alaric the Mad, utilisé par Elector Count Martin pour tuer Mannfred von Carstein à la **Bataille de Hel Fenn 2145 IC**) reste l'arme symbolique de la dynastie. Cascade ouverte : **Sylvania** (County interne de Stirland, *de jure* Alberich Overlord, *de facto* sans dirigeant vampire nommé canon 2512) demeure une menace dormante au flanc est.
 
 ---
 
 ## 1. Identité du front
 
-- **Province** : **Grand County of Stirland** — Grande Province autonome avec siège électoral propre ; promotion canon post-Turmoil de **Grand Duchy** à **Grand County** (EiR ch.17 l.30).
+- **Province** : **Grand County of Stirland** — Grande Province autonome avec siège électoral propre ; promotion post-Turmoil de **Grand Duchy** à **Grand County** (EiR ch.17 l.30).
 - **Capitale** : **Wurtbad** — *"an Imperial town and the capital of the Grand Province of Stirland that rests at the terminus of the Old Dwarf Road, surrounded by the Great Forest"* (Fandom Wurtbad). Districts canon : **Upper Town** (zone temple, ancient wards), **Lower Town** (Académie de Wurtbad), **quartiers fortunés** (égouts uniquement sous ces zones), **bains chauds** célèbres, **Eagle Castle** (*"site of the conference of the victors after Archaon's defeat following the Storm of Chaos campaign"* Fandom — lieu emblématique des sommets impériaux). Architecture : murs et bâtiments blanchis à la chaux.
 - **Symboles politiques centraux** :
   - **Runefang Stirland** : ***Orc Hewer*** (canon Fandom Runefang) — forgé par Alaric the Mad ; **utilisé par Elector Count Martin de Stirland pour tuer Mannfred von Carstein à la Bataille de Hel Fenn 2145 IC** (Fandom Battle of Hel Fenn). Continuité — passe à Alberich V via succession Haupt-Anderssen.
@@ -31,7 +31,7 @@
 
 #### Régent ou cour d'Alberich pré-Turmoil
 - **Identité régent ou cour** : NON TROUVÉ canon — Alberich V étant **15 ans en 2512**, une régence est probable. Voir section 10.
-- **State Council Wurtbad** : *"selected Prime Estate representatives that meets biannually in Wurtbad to advise the sovereign"* (Archives Vol I l.230) — assemblée consultative ; identités individuelles non précisées canon.
+- **State Council Wurtbad** : *"selected Prime Estate representatives that meets biannually in Wurtbad to advise the sovereign"* (Archives Vol I l.230) — assemblée consultative ; identités individuelles non précisées.
 
 ### Acteurs principaux pré-Turmoil — Sylvania (County interne menaçante)
 
@@ -39,7 +39,7 @@
 - **Vlad von Carstein** — Vampire Wars 2010–2146 IC ; *"killed by Grand Theogonist at Altdorf siege"* (Dwarf Player's Guide).
 - **Konrad von Carstein** — Third Vampire War ; Battle of Four Armies ; *"hunted Halflings for sport, considered them foul-tasting"* (Mootland Guide).
 - **Mannfred von Carstein** — Final Vampire War ; **tué à la Bataille de Hel Fenn 2145 IC par Elector Count Martin de Stirland avec le Runefang Orc Hewer** (Fandom Battle of Hel Fenn).
-- **Sylvania post-2145 IC** : *"in the dreaded County of Sylvania — that one finds the historic home of the Vampire Counts of House Carstein"* (Archives Vol I l.255) ; *"the castles of the old Vampire Lords sit on their craggy peaks"* (Archives Vol I l.256). **Aucun Vampire Count individuel nommé canon pour 2512 IC** — voir section 10.
+- **Sylvania post-2145 IC** : *"in the dreaded County of Sylvania — that one finds the historic home of the Vampire Counts of House Carstein"* (Archives Vol I l.255) ; *"the castles of the old Vampire Lords sit on their craggy peaks"* (Archives Vol I l.256). **Aucun Vampire Count individuel nommé pour 2512 IC** — voir section 10.
 - **Black House** : Sylvania's representative estate à Wurtbad — *"The eastern representative rarely comes to court, and many whisper the curse of vampirism blights the estate"* (Archives Vol I l.258).
 
 #### Sylvania State Army (risque dormant)
@@ -69,8 +69,8 @@
 
 #### Compromettants Wasmeier-Ingrid (canon Salzenmund ch.4 l.440-449)
 - **Texte canon "Purple Fingerprints"** : *"Baroness Ingrid Gausser plotted for years to elevate her son Theodoric to his current position. The final pieces fell into place when an agent of the Main Pourpre gave her compromising information on other electors, and enough circumstantial evidence to suggest that Graf Boris Todbringer had married a Chaos cultist. Now certain manipulated parties want to know what else the baroness learned and how she came by the information. Count Alberich Haupt-Anderssen of Stirland was amongst those 'persuaded' to support Nordland's claim to Electoral status. Now he's in Altdorf looking for a trustworthy band to find out how Gausser knew that about his private life — and what else certain parties might know"* (Salzenmund ch.4 l.440-449).
-- **Source canon de la preuve Anika-Elise cultiste** : *"an agent of the Main Pourpre gave her compromising information on other electors, and enough circumstantial evidence to suggest that Graf Boris Todbringer had married a Chaos cultist"* — c'est la **source canon explicite** de la preuve cultiste qui a été utilisée fiche 01 pour déposer Werner Nikse.
-- **Identité agent Main Pourpre** : non précisée canon. Possible Wasmeier ou intermédiaire — voir section 10.
+- **Source de la preuve Anika-Elise cultiste** : *"an agent of the Main Pourpre gave her compromising information on other electors, and enough circumstantial evidence to suggest that Graf Boris Todbringer had married a Chaos cultist"* — c'est la **source explicite** de la preuve cultiste qui a été utilisée fiche 01 pour déposer Werner Nikse.
+- **Identité agent Main Pourpre** : non précisée. Possible Wasmeier ou intermédiaire — voir section 10.
 
 ### Acteurs cascade fiche 03 — Heideinheim raid Threshers
 
@@ -146,7 +146,7 @@
 
 **Neutralité ostensible** :
 - Pas de coalition avec d'autres fronts (Stirland reste isolé politiquement)
-- **Alberich jeune** = explication canon de la prudence stratégique
+- **Alberich jeune** = explication de la prudence stratégique
 
 ### Religion / cultes
 - **Morr** : très forte association canon Fandom Stirland ; Order of the Raven Knights à Siegfriedhof.
@@ -169,7 +169,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au front Stirland est **passif et indirect** : la province est manipulée politiquement par les compromettants Main Pourpre (cascade fiche 01) et subit le raid false-flag Threshers (cascade fiche 03), mais **ne participe pas militairement** au conflit.
 
@@ -198,7 +198,7 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ### 6. Hook post-Turmoil — Purple Fingerprints
 - *"Now he's in Altdorf looking for a trustworthy band to find out how Gausser knew that about his private life — and what else certain parties might know"* (Salzenmund ch.4 l.447-449).
-- **Hook canon majeur** : Alberich recrute Characters pour enquêter sur (a) le contenu exact du compromettant, (b) la source Main Pourpre, (c) ce que d'autres acteurs pourraient savoir.
+- **Hook majeur** : Alberich recrute Characters pour enquêter sur (a) le contenu exact du compromettant, (b) la source Main Pourpre, (c) ce que d'autres acteurs pourraient savoir.
 
 ### Acteurs Main Pourpre impliqués
 - **Agent Main Pourpre anonyme** (Salzenmund ch.4 l.442) — possible Wasmeier ou intermédiaire.
@@ -236,14 +236,14 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
-- **Statut** : **Grand County of Stirland** (promotion canon de Grand Duchy à Grand County — EiR ch.17 l.30).
+- **Statut** : **Grand County of Stirland** (promotion de Grand Duchy à Grand County — EiR ch.17 l.30).
 - **Grand Count** : **Alberich V Haupt-Anderssen**, *"Grand Count of Stirland, Prince of Wurtbad, Overlord of Sylvania"* (Fandom).
 - **Capitale** : Wurtbad (continuité).
 - **Sylvania** : reste County interne *de jure* Alberich, *de facto* sans dirigeant vampire nommé canon 2512.
-- **Régence** : si Alberich est encore mineur (15 ans en 2512, donc 15 + n années post-Turmoil), régence implicite continue — identité non précisée canon.
+- **Régence** : si Alberich est encore mineur (15 ans en 2512, donc 15 + n années post-Turmoil), régence implicite continue — identité non précisée.
 
 ### Titre complet post-Turmoil (Alberich V)
 - *"Elector Count Alberich V Haupt-Anderssen, Grand Count of Stirland, Prince of Wurtbad, Overlord of Sylvania"* (composition canon Fandom + Archives Vol I).
@@ -270,7 +270,7 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ### Structure de pouvoir Haupt-Anderssen post-Turmoil
 - **Grand Count + Elector Count** : Alberich V (15 ans + post-Turmoil).
-- **Régence** : implicite mais non précisée canon.
+- **Régence** : implicite mais non précisée.
 - **State Council Wurtbad** : continuité.
 - **Order of the Raven Knights** : continuité.
 - **Cult of Morr** : continuité dominante.
@@ -347,7 +347,7 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 - **Cascade vers [[Turmoil/05 - Talabecland-Talabheim (Krieglitz - Order of Silver Hammer)]]** :
   - **Frontière nord** : River Stir, vers Talabecland.
-  - **Pas de connexion militaire directe** — guerre Ostland-Talabecland n'implique pas Stirland canon.
+  - **Pas de connexion militaire directe** — guerre Ostland-Talabecland n'implique pas Stirland.
   - Krieglitz-Untermensch dépouillés post-Turmoil (cascade fiche 05) — Stirland reste neutre.
 
 - **Cascade vers [[Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs)]]** :
@@ -372,7 +372,7 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ### Hooks canon (explicites)
 
-- **(canon)** **Purple Fingerprints — Alberich à Altdorf** (Salzenmund ch.4 l.447-449) — Characters recrutés par Alberich pour découvrir : (a) le contenu exact du compromettant sur sa *"private life"*, (b) la source Main Pourpre, (c) ce que d'autres acteurs pourraient savoir. **Hook canon majeur**. *Position : actif post-Turmoil.*
+- **(canon)** **Purple Fingerprints — Alberich à Altdorf** (Salzenmund ch.4 l.447-449) — Characters recrutés par Alberich pour découvrir : (a) le contenu exact du compromettant sur sa *"private life"*, (b) la source Main Pourpre, (c) ce que d'autres acteurs pourraient savoir. **Hook majeur**. *Position : actif post-Turmoil.*
 - **(canon)** **Heideinheim village raid Threshers** (EiR ch.5 l.25 ; cascade fiche 03) — Characters peuvent enquêter sur les Threshers, identifier le false-flag Sudenland-en-Nuln, alerter Alberich.
 - **(canon)** **Order of the Raven Knights à Siegfriedhof** (Fandom Siegfriedhof) — Morrian Templars dédiés à la destruction des Undead ; hook PJ Morrites ou anti-Vampire.
 - **(canon)** **Battle of Hel Fenn 2145 IC historique** — hook recherches historiques sur Martin de Stirland, Mannfred, Orc Hewer.
@@ -391,13 +391,13 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 - **(canon + déduction)** **Sylvania ruler 2512 IC** non nommé canon — hook PJ : enquête Vampire Count caché, ou Sylvania vacante ?
 - **(canon + déduction)** **Convocation armies of Sylvania** (Archives Vol I l.252) — *"How the Vampire Counts would respond to a new summons worries Stirlander grandees immensely"* — hook crise extrême force Alberich à invoquer Sylvania.
 - **(canon + déduction)** **Identité agent Main Pourpre anonyme** (Salzenmund ch.4 l.442) — hook investigation directement liée au Purple Fingerprints.
-- **(canon + déduction)** **Compromettant exact sur la *"private life"* d'Alberich** — canon intentionnellement vague ; **possibilités cohérentes** : infidélité, affiliation cultiste cachée, parenté illégitime (Alberich non vrai héritier ?), Chaos taint familial Asoborn, dette mystique, accord secret avec un Vampire Count Sylvania, etc. **À inventer GM**.
+- **(canon + déduction)** **Compromettant exact sur la *"private life"* d'Alberich** — intentionnellement vague ; **possibilités cohérentes** : infidélité, affiliation cultiste cachée, parenté illégitime (Alberich non vrai héritier ?), Chaos taint familial Asoborn, dette mystique, accord secret avec un Vampire Count Sylvania, etc. **À inventer GM**.
 - **(canon + déduction)** **Mootland resentment historique** — hook diplomatique Halflings-Stirland.
 - **(canon + déduction)** **Réaction Heideinheim Alberich** — non précisée canon ; possible plaintes diplomatiques Nuln ou Sudenland.
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -459,16 +459,16 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
 
 ### Identité du régent ou conseil de tutelle d'Alberich V (15 ans en 2512)
 
 - **Canon Fandom** : Alberich V est *"at the young age of 15"* pendant le Turmoil 2512.
 - **Régence implicite** : un dirigeant de 15 ans ne gouverne pas seul de facto.
 - **Canon EiR + Archives** : ne précise pas qui occupe le rôle de régent.
-- **Web cross-check** : aucune source canon ne précise.
+- **Web cross-check** : aucune source ne précise.
 - **Décision GM** : à inventer ; possibilités cohérentes : grand-mère/oncle/tuteur Haupt-Anderssen, conseil d'État Wurtbad, prêtre Morr influential, etc.
 
 ### Contenu exact des compromettants Wasmeier-Ingrid sur la *"private life"* d'Alberich
@@ -481,13 +481,13 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 - **Salzenmund ch.4 l.442** : *"an agent of the Main Pourpre"* — non nommé.
 - **Hypothèses canon** : Wasmeier directement (cohérent avec sa fugue Drakwald post-PBT), ou intermédiaire Main Pourpre.
-- **Web cross-check** : aucune source canon ne précise.
+- **Web cross-check** : aucune source ne précise.
 - **Décision GM** : à inventer ; lien possible avec Yann Zuntermein (Altdorf cell) ou Wasmeier.
 
 ### Dirigeant individuel de Sylvania en 2512 IC
 
 - **Canon** : *de jure* Alberich V (Overlord) ; *de facto* "Vampire Counts" génériques (Archives Vol I l.252-258 ; Fandom Sylvania).
-- **Post-Mannfred 2145 IC** : aucun Vampire Count individuel nommé canon pour 2512 IC.
+- **Post-Mannfred 2145 IC** : aucun Vampire Count individuel nommé pour 2512 IC.
 - **Hypothèses** : Sylvania vacante de leadership formel ; revenants/nécromanciens mineurs ; potentiellement nouveau Vampire Count caché.
 - **Décision GM** : à inventer si pertinent. Possibilité narrative riche.
 
@@ -502,13 +502,13 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 - **EiR ch.5 l.25** : mention sans localisation détaillée.
 - **Implicite** : village Stirland sur la rive Aver (entre Nuln et Averland).
-- **Web cross-check** : aucune source canon ne corrobore Heideinheim — détail EiR exclusif.
+- **Web cross-check** : aucune source ne corrobore Heideinheim — détail EiR exclusif.
 - **Décision GM** : géolocalisation à confirmer via cartes EiR.
 
 ### Identité Sylvania representative au Black House Wurtbad
 
-- **Archives Vol I l.258** : *"The eastern representative rarely comes to court, and many whisper the curse of vampirism blights the estate"* — non nommé canon.
-- **Web cross-check** : aucune source canon ne précise.
+- **Archives Vol I l.258** : *"The eastern representative rarely comes to court, and many whisper the curse of vampirism blights the estate"* — non nommé.
+- **Web cross-check** : aucune source ne précise.
 - **Décision GM** : à inventer.
 
 ### Identités courtisans Haupt-Anderssen Wurtbad
@@ -531,7 +531,7 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ### Orthographe "Haupt-Anderssen" — RÉSOLUE
 
-- **Fandom Alberich Haupt-Anderssen + Lexicanum** : forme canon unanime = **"Haupt-Anderssen"** (double 's' final).
+- **Fandom Alberich Haupt-Anderssen + Lexicanum** : forme unanime = **"Haupt-Anderssen"** (double 's' final).
 - **Salzenmund ch.4 l.445** : utilise une fois *"Haupt-Andersson"* — **probable typo OCR**.
 - **Adopté fiche** : **Haupt-Anderssen** (canon Fandom + Lexicanum).
 
@@ -563,25 +563,25 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
 
 ### Stirhügel orthographe (umlaut) — RÉSOLU
 
-- **Fandom Stirland** : *"Stirhügel"* avec umlaut canon.
+- **Fandom Stirland** : *"Stirhügel"* avec umlaut.
 - **Adopté fiche** : Stirhügel.
 
 ### Heideinheim détail EiR exclusif — non corroboré web
 
-- **EiR ch.5 l.25** : seule source canon.
+- **EiR ch.5 l.25** : seule source.
 - **Web cross-check** : aucune source web ne mentionne Heideinheim.
 - **Adopté fiche** : Heideinheim mentionné comme **détail EiR exclusif** ; géolocalisation précise et caractéristiques à inventer GM via cartes EiR.
 
 ### Black House + Wurtbad State Council — détails Archives/EiR exclusifs
 
-- **Archives Vol I l.230, l.258** : sources canon.
+- **Archives Vol I l.230, l.258** : sources.
 - **Web cross-check** : non corroboré.
-- **Adopté fiche** : intégrés comme **détails Archives Vol I exclusifs** (canon WFRP4).
+- **Adopté fiche** : intégrés comme **détails Archives Vol I exclusifs** (WFRP4).
 
 ### Application règle WFRP4 supersède WFRP2/3 — divergences résolues
 
 - **Titulature Alberich V** : forme WFRP4 (Archives + EiR) prévaut sur toute variante WFRP2.
-- **Promotion Grand Duke → Grand Count** : canon WFRP4 EiR strict.
+- **Promotion Grand Duke → Grand Count** : WFRP4 EiR strict.
 - **Sylvania County interne de Stirland** : terminologie WFRP4 Archives + Fandom — pas d'État indépendant en 2512.
-- **Restauration Nordland** : canon WFRP4 EiR (cascade fiche 01).
+- **Restauration Nordland** : WFRP4 EiR (cascade fiche 01).
 - Pas d'autre divergence majeure WFRP4 vs WFRP2/3 détectée pour ce front.

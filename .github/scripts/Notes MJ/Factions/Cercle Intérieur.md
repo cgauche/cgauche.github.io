@@ -6,7 +6,7 @@
 ## Composition
 
 - **Chef** : Graf Liepmund Holzkrug — Grand Ambassadeur, dirige le Cercle Intérieur et la Chambre Noire dans son ensemble `EiR Intro l.611`.
-- **Membres canon connus** : Yann Zuntermein (adjoint Holzkrug, secrètement Magister Magistri de la Main Pourpre `EiR Intro l.605`) ; Immanuel-Ferrand Holswig-Schliestein (Grand Chancelier, politiquement supérieur à Holzkrug mais subordonné à lui à la Chambre Noire ; dirige les Graukappen `EiR Intro l.630+632`) ; Hermann von Feilbach (Reiksguard, sosie public de Karl-Franz Holswig-Schliestein, membre selon Fandom).
+- **Membres connus** : Yann Zuntermein (adjoint Holzkrug, secrètement Magister Magistri de la Main Pourpre `EiR Intro l.605`) ; Immanuel-Ferrand Holswig-Schliestein (Grand Chancelier, politiquement supérieur à Holzkrug mais subordonné à lui à la Chambre Noire ; dirige les Graukappen `EiR Intro l.630+632`) ; Hermann von Feilbach (Reiksguard, sosie public de Karl-Franz Holswig-Schliestein, membre selon Fandom).
 - **Rapports hiérarchiques canon** : Immanuel-Ferrand Holswig-Schliestein est plus puissant politiquement, mais Holzkrug dirige la Chambre Noire entière. En public les deux affichent une alliance ferme ; en privé suspicion mutuelle profonde `EiR Intro l.632`.
 
 ## Doctrine

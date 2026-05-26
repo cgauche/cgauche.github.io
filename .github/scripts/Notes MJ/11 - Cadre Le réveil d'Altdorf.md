@@ -10,7 +10,7 @@
 
 ---
 
-## Cadrage & inflexions par rapport au canon ch.8
+## Cadrage & inflexions par rapport au ch.8
 
 **Date in-game** : 4 Erntezeit 2512 IC (lendemain S63).
 
@@ -175,11 +175,11 @@ Un mandat d'Arch-Lecteur **doit** ouvrir le coffre, quelle que soit la faction r
 | Arch-Lecteur | Lieu | Profil | Risque voyage |
 |---|---|---|---|
 | **Yorri XV** | Altdorf | Modéré, mais filtré par radicaux | n/a (inaccessible) |
-| **Kaslain** | **Nuln** | Arch-Lecteur Sud. Modéré, sage. | Modéré — sur la route canon ch.9 |
+| **Kaslain** | **Nuln** | Arch-Lecteur Sud. Modéré, sage. | Modéré — sur la route ch.9 |
 | **Aglim** | **Talabheim** | Arch-Lecteur Est. Traditionaliste. | Élevé — guerre Ostland-Talabecland |
 
 **Voie A1 — Kaslain à Nuln** (recommandée) :
-- Détour mineur sur le trajet canon vers Averheim.
+- Détour mineur sur le trajet vers Averheim.
 - **Mission de rachat** assignée par Kaslain (PA Sigmarite -8 = il a entendu les PJ comme suspects). 1-2 sessions.
 - Output : PA Sigmarite +3 à +5 + lettre scellée d'Arch-Lecteur.
 - Récupération : Kaslain envoie un templier à Altdorf avec le mandat, copies des documents reviennent à Nuln sous escorte sigmarite. **Les PJ n'ont pas besoin de retourner à Altdorf.**
@@ -262,12 +262,12 @@ Délai max après l'arrestation. La ville devient invivable pour qui n'est pas a
 - Fuite clandestine obligatoire (égouts, route terrestre Kemperbad).
 
 ### Quatre directions possibles dès le 5-6 Erntezeit
-1. **Sud-est Nuln** : Piste A1 (Kaslain) + canon ch.9. **Voie principale recommandée.**
+1. **Sud-est Nuln** : Piste A1 (Kaslain) + ch.9. **Voie principale recommandée.**
 2. **Nord Middenheim** : convoi Heinrich (mais perte d'accès aux pistes vers le marteau).
 3. **Nord-est Talabheim** : Piste A2 (Aglim).
 4. **Est Karak Hirn / Karaz-a-Karak** : Piste B sources naines.
 
-Réalité probable : **mix** — descendre vers Nuln (Kaslain) puis poursuivre vers BFP via Averheim canon — Piste A1 + canon ch.9-12 en flux naturel.
+Réalité probable : **mix** — descendre vers Nuln (Kaslain) puis poursuivre vers BFP via Averheim canon — Piste A1 + ch.9-12 en flux naturel.
 
 ### Silhouette (2/3) — recommandé
 Sur le quai au départ. Un PJ aperçoit l'enfant sur une charrette de pommes, signe d'adieu. Disparaît.
@@ -335,7 +335,7 @@ Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le r
 **Ne jamais confirmer** aux PJ qu'il s'agit du même enfant. Description constante.
 
 ### Sort de Fassbinder — recommandation
-**Liquidé en cellule** entre J+1 et J+2 par agent Spionwerber pour étouffer le dossier. Cohérent avec sa **Doomed** canon. Poids dramatique max — l'élève hérite vraiment de la mission. PJ apprennent en route via rumeur (cf. [[Scénarios/Le réveil d'Altdorf/10 - Rumeur Fassbinder mort|Rumeur Fassbinder mort]]).
+**Liquidé en cellule** entre J+1 et J+2 par agent Spionwerber pour étouffer le dossier. Cohérent avec sa **Doomed**. Poids dramatique max — l'élève hérite vraiment de la mission. PJ apprennent en route via rumeur (cf. [[Scénarios/Le réveil d'Altdorf/10 - Rumeur Fassbinder mort|Rumeur Fassbinder mort]]).
 
 ### Décalage calendaire 9 Brauzeit 2513
 

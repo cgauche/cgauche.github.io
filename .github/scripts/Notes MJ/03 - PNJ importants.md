@@ -61,7 +61,7 @@ Notation : `[Sxx]` = session de dernière apparition / mort / mention.
 
 ### [[Bhar]] — `[ENNEMI ACTIF]`
 - **Grand Vizier de l'Ordo Terribilis** (canon *Middenheim - City of the Loup Blanc*) — chef des exécuteurs Tzeentch. Repreneur de facto de la cellule post-S41 (mort Kalzbad).
-- Fui dans les égouts profonds depuis S43. Statut canon dans EiR : non mentionné explicitement.
+- Fui dans les égouts profonds depuis S43. Statut dans EiR : non mentionné explicitement.
 
 ### [[Heinricus von Kärzburdger]] — `[ENNEMI ACTIF]`
 - Chef de la [[Maison Kärzburdger]], rival historique des Todbringer + rival direct de Dietrich.
@@ -70,7 +70,7 @@ Notation : `[Sxx]` = session de dernière apparition / mort / mention.
 - Présent au conseil impérial S62.
 
 ### [[Maliss]] (Maliss Manrack) — `[STATUT INCERTAIN — probablement MORT S55]`
-- **Master Warlock-Engineer du [[Clan Skryre]]**. Cerveau du plan **Moonbreaker** : tirer sur **Morrslieb** depuis [[Karak Skygg]] avec un canon nain modifié.
+- **Master Warlock-Engineer du [[Clan Skryre]]**. Cerveau du plan **Moonbreaker** : tirer sur **Morrslieb** depuis [[Karak Skygg]] avec un nain modifié.
 - Apparu S50 (cohorte griffon Gladbeich) → S51 rat géant Oberholzbek → S52 Unterfraus → S53 embuscade route est → S55 confrontation Karak Skygg.
 - Évacué par sbire avec bombe fumigène à S55, mais explosion massive de la forteresse derrière lui. **À confirmer s'il a survécu** — hook Arc 7+.
 
@@ -116,7 +116,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 ### Hermann von Feilbach — `[ALLIÉ NAÏF / CANON-EI]`
 - **Le sosie** de Karl-Franz. Reiksguard Cercle Intérieur, **loyal mais naïf**.
 - Joue Karl-Franz en public. A approuvé l'édit des mutants et l'invasion d'Ubersreik sous suggestibilité.
-- Au S62, il a **pointé le faux Ghal Maraz vers Boris** (commande *« civility or silence »*, canon ch.7 l.245) — c'est **Boris** qui, en réplique, a frappé le marteau avec son Runefang, brisant Ghal Maraz.
+- Au S62, il a **pointé le faux Ghal Maraz vers Boris** (commande *« civility or silence »*, ch.7 l.245) — c'est **Boris** qui, en réplique, a frappé le marteau avec son Runefang, brisant Ghal Maraz.
 - À conserver en vie pour le climax.
 
 ### Maria-Luise von Walfen — `[ALLIÉE / CANON-EI]`
@@ -287,7 +287,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - Capitaine Ungol (Kislev) au [[Le Piquet]]. Resté là-bas. Reconnaissance des terrains gelés.
 
 ### [[Dengi Rulsson]] — `[ALLIÉ]`
-- Artilleur nain au [[Le Piquet]]. Lien probable avec Karak Kadrin (origine). Expert canon.
+- Artilleur nain au [[Le Piquet]]. Lien probable avec Karak Kadrin (origine). Expert.
 
 ### [[Emmiline von Kärzburdger]] — `[ALLIÉE COMPLEXE]`
 - Commandante du [[Le Piquet]]. Cousine de Heinricus. **Lien intime probable avec Hildegund Froiz** (homebrew table).
@@ -429,7 +429,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - [[Wilhelmina Novak]] (Withering Eye — Altdorf — Magie)
 - [[Wolfie Jessner]] (Wandering Eye — Middenheim — possible doubts)
 - [[Ingrid Rademakers]] (Eagle Eye — Talabheim — fencer Castle Reikguard)
-- [[Wulfrum Ahlquist]] (Public Eye — Nuln — orthographe canon avec 'l')
+- [[Wulfrum Ahlquist]] (Public Eye — Nuln — orthographe avec 'l')
 - [[Gustav Klaus]] (Kaleidoscope Eye — Bechafen — Karak Skygg mirror)
 - [[Gislind Ursin]] (Hollow Eye — Averheim — Mutants sympathy)
 - [[Vatheck Fulci]] (Far Eye — Remas Tilea — étranger)
@@ -443,13 +443,13 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - [[Brother Adric]] (Taal Initiate Wolfshügel caretaker)
 - **[[Encounters Arc 7 mineurs]]** fiche groupée : Klammer + Wurnhauser + Hanne/Boris/Niklas/Mikhal + Nabbi/Sindri Dwarfs Sky Wolf + Konrad Metternich + Weregardt Schlupmann + Munchburger + Leberecht Hardenburg + Claudia Karll + Hans Bauer + Yabo Chao + Hildemar Kalb + Moritz Arbogast + Ferdinand von Schilderheim + Emmaretta von Uder + von Aarberg/Mendenhall/Drakberg cards + Khypris Border Horse + Bloody Boris Brethren + Alberecht Haessler + Father Otto Rotmund + Urd Flintbane + Slik Moongobba + Globnak Mansplatta + Old Gruntlob + Gararoth + Khardrif Inglepeak + Durkan Orkisson + Captain Fimbur Dimzadson + Able Kazriksson + Gurrin Ablesniz + Martin Schmidt + Old Dirk + Griswald Voit + Sergeant Egon Pfeffer + Captain Helstein + False Honour Guard + Renate Hausier + Sigrid + Golthog (backup Sievers ch.11).
 
-**PNJ enrichis avec statbloc canon + corrections orthographe / faits canon** :
+**PNJ enrichis avec statbloc + corrections orthographe / faits canon** :
 - [[Wolfgang Holswig-Abenauer]] (corrigé : neveu KF pas fils ; canon Fandom = Abenauer)
 - [[Hermann von Feilbach]] (canon Fandom — PDF EiR "Fielbach" = typo OCR)
 - [[Maria-Luise von Walfen]] (corrigé : pas mère Wolfgang ; mère autres enfants KF Luitpold etc.)
 - [[Yann Zuntermein]] (statbloc Agent Gold 1 + Hergard mort + corrections Wolfgang neveu pas fils)
-- [[Henrik Kappelmuller]] (statbloc canon)
-- [[Quintus Fassbinder]] (statbloc canon ch.8)
+- [[Henrik Kappelmuller]] (statbloc)
+- [[Quintus Fassbinder]] (statbloc ch.8)
 - [[Elvyra Kleinestun]] (Arc 7 enrichi)
 - [[Liepmund Holzkrug]] (statbloc Spymaster Gold 4)
 - [[Immanuel-Ferrand Holswig-Schliestein]] (statbloc Gold 4 Grey Order)
@@ -457,12 +457,12 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - [[Hermine Liebwitz von Decker und Hanulf]] (statbloc Noble Gold 1 + correction Ludwig the Fat)
 - [[Theoderic Gausser]] (orthographe canon Theoderic)
 - [[Drexol the Extinction]] (statbloc + Thirteen pas son intermédiaire)
-- [[Krukan]] (statbloc canon)
+- [[Krukan]] (statbloc)
 - [[Emil Baecker]] (statbloc Agent Gold 1)
 - [[Adelfried Jarmund]] (heretic Verena 1700 IC sows suspicion)
 - [[Sheerargetru]] (Lord of Change Exalted antagoniste ultime)
 
-**Erreurs critiques canon corrigées** :
+**Erreurs critiques corrigées** :
 - Wolfgang = **neveu** Karl-Franz (fils d'Isabella sœur KF), **pas fils**. KF a Luitpold disinherited.
 - Hermann **von Feilbach** (canon Fandom — PDF "Fielbach" typo OCR).
 - Wolfgang Holswig-**Abenauer** (canon Lexicanum+Fandom).

@@ -15,7 +15,7 @@
 - **Statut** : [VIVANT] [SÉPARATISTE — NON-CHAOTIQUE] (Arc 7).
 - **Tags** : `#Gausser` `#Theoderic` `#Nordmarshall` `#Nordland` `#Séparatiste` `#NonChaotique` `#Salzenmund`
 
-## Source canon
+## Source
 - **EiR Introduction** : profil de Gausser. `Source/Enemy Within Campaign Volume 5 Empire in Ruins/03 - Introduction.md` l. 252-256
 - **Companion ch. 5** *The Nordland Question* : opération complète Gausser. `Source/Empire In Ruins Companion/07 - CHAPTER 5 The Nordland Question.md`
 
@@ -58,7 +58,7 @@
 
 ## Hooks pour les PJ
 - **Confrontation possible** si les PJ comprennent que Wasmeier a usurpé son nom.
-- **Allié temporaire** si les PJ acceptent l'idée d'un changement politique à Nordland (le scénario canon le promeut à Grand Baron).
+- **Allié temporaire** si les PJ acceptent l'idée d'un changement politique à Nordland (le scénario le promeut à Grand Baron).
 - **Trahison** : Gausser pourrait sacrifier Wasmeier si les PJ menacent de révéler son rôle dans l'affaire dirigeable.
 
 ## Liens

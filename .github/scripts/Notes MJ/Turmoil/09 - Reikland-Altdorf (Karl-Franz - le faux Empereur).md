@@ -32,22 +32,22 @@
 - [[Karl-Franz Holswig-Schliestein]] — **Emperor Karl-Franz I**, titres canon Fandom = *"Elector Count and Grand Prince of Reikland, Prince of Altdorf, Count of the West March"* + canon EiR = *"Protector of the Empire, Defier of the Dark, Emperor Himself and Son of Emperors"* (note GM Karl-Franz). Couronné **2502 IC** à la mort de son père Empereur **Luitpold** ; **âge précis non sourcé canon EiR/Fandom** (déduction GM ~47 ans en 2512 selon note PNJ Karl-Franz) ; hérite alors le Runefang **Dragon Tooth**. **Alité depuis ~1 an** (Spring 2511 → 2512) suite à **Purple Brain Pox magique** appliquée à distance par **Gideon** + entretenue par **Henrik Kappelmuller** (médecin personnel agent Main Pourpre) ; *"deathly pallor, looks older than his years, wrapped in blankets, palsied shake in hands"* (EiR ch.13 l.200). **Side effects** : listlessness + suggestibility → signe sous influence Ubersreik Edict + Mutant Edict + délègue à son sosie public. **Récupérable** si Kappelmuller démasqué + pomander Schlafenkraut+Moonflower+pine retiré (EiR ch.8 l.122) ou Vitality Draught administrée (EiR ch.8 l.114).
 - [[Isabella von Holswig-Schliestein]] (canon Fandom) — **sœur** de Karl-Franz, **mère de Wolfgang Holswig-Abenauer** (le Prince Héritier). Lignée maternelle qui justifie la position d'héritier de Wolfgang.
 - **Emperor Luitpold (père Karl-Franz)** — mort 2502 IC, prédécesseur de Karl-Franz, porte précédent de Dragon Tooth (Lexicanum Karl Franz).
-- [[Wolfgang Holswig-Abenauer]] — **Prince Héritier of Reikland 2505-2512 IC** (Fandom Wolfgang Holswig-Abenauer) ; **neveu de Karl-Franz** (fils d'Isabella, **PAS fils direct KF**) ; *"exceptionally handsome… intelligent, cultured, insightful, sensitive, and courageous"* (EiR Intro l.681) ; carrière canon **Heir Apparent (Gold 10)** ; Doomed *"Shell harbouring embryonic entity, released amid rite, gaining entry through repeated utterances"* (EiR Intro l.687) — **vessel destiné canon de Sheerargetru** ; éduqué depuis ~9 ans (2503 IC) par les **Neuf Yeux** (9 tuteurs Tzeentch dans 9 villes Empire — recrutés par **Kastor Lieberung** sur instruction Gideon) ; *"Wolfgang ignore tout du Chaos"* — victime involontaire. Trappings : Best Quality Clothing, **Amulet of Jade** (Regenerate), Rapier. Fiancé à **Katarina Todbringer** (mariage interrompu ch.6 par Malthe Barthelm, cascade fiche 02).
-- [[Maria-Luise von Walfen]] — **Lady at the Imperial Court of Altdorf, mistress of Karl-Franz, mother of his children** (Fandom Maria-Luise von Walfen) ; **PAS épouse pré-2512** ; titre canon EiR = *"Chief Lady of Court, mother of his children, informally (out of electors' earshot) known as 'the Empress'"* (EiR ch.7 l.107) ; *"childhood friend of the emperor as well as his distant cousin"* (Fandom) ; mère probable de **Luitpold (fils KF)** — bâtard non légitimé pré-2512. **Sait que Karl-Franz a un double** (confidence Emmanuelle, cascade fiche 03 EiR ch.7 l.212-226). Statbloc Noble Gold 5. **Mariage canon avec Karl-Franz post-Turmoil 2512 IC → Luitpold + Alia légitimés** (Fandom Maria-Luise).
+- [[Wolfgang Holswig-Abenauer]] — **Prince Héritier of Reikland 2505-2512 IC** (Fandom Wolfgang Holswig-Abenauer) ; **neveu de Karl-Franz** (fils d'Isabella, **PAS fils direct KF**) ; *"exceptionally handsome… intelligent, cultured, insightful, sensitive, and courageous"* (EiR Intro l.681) ; carrière canon **Heir Apparent (Gold 10)** ; Doomed *"Shell harbouring embryonic entity, released amid rite, gaining entry through repeated utterances"* (EiR Intro l.687) — **vessel destiné de Sheerargetru** ; éduqué depuis ~9 ans (2503 IC) par les **Neuf Yeux** (9 tuteurs Tzeentch dans 9 villes Empire — recrutés par **Kastor Lieberung** sur instruction Gideon) ; *"Wolfgang ignore tout du Chaos"* — victime involontaire. Trappings : Best Quality Clothing, **Amulet of Jade** (Regenerate), Rapier. Fiancé à **Katarina Todbringer** (mariage interrompu ch.6 par Malthe Barthelm, cascade fiche 02).
+- [[Maria-Luise von Walfen]] — **Lady at the Imperial Court of Altdorf, mistress of Karl-Franz, mother of his children** (Fandom Maria-Luise von Walfen) ; **PAS épouse pré-2512** ; titre canon EiR = *"Chief Lady of Court, mother of his children, informally (out of electors' earshot) known as 'the Empress'"* (EiR ch.7 l.107) ; *"childhood friend of the emperor as well as his distant cousin"* (Fandom) ; mère probable de **Luitpold (fils KF)** — bâtard non légitimé pré-2512. **Sait que Karl-Franz a un double** (confidence Emmanuelle, cascade fiche 03 EiR ch.7 l.212-226). Statbloc Noble Gold 5. **Mariage avec Karl-Franz post-Turmoil 2512 IC → Luitpold + Alia légitimés** (Fandom Maria-Luise).
 - **Luitpold** — **fils bâtard de Karl-Franz** (probable enfant de Maria-Luise), *"recently disinherited from the title [Reikland] for reasons unknown, and then banished to the West March"* (Fandom Luitpold). **Pré-Turmoil 2512 = non légitimé** ; **post-Turmoil = légitimé** via mariage parents (héritier du Principat d'Altdorf, Reikland passe à Wolfgang puis cascade post-Wolfgang).
 
 #### Cour Impériale Altdorf
 - **Immanuel-Ferrand Holswig-Schliestein** — **oncle de Karl-Franz** ; **Chancellor of the Empire** ; **Chambre Noire Cercle Intérieur** ; recruteur de Hermann von Feilbach ; *"croit faire le bien (l'oncle pense vraiment que la centralisation impériale est positive)"* (note GM Hermann) ; **probable naïf manipulé**, pas cultiste Main Pourpre. Devient **head Chambre Noire post-Turmoil 2512 IC** (succède Holzkrug — Fandom Chambre Noire).
-- **Graf Liepmund Holzkrug** — **commander Chambre Noire pré-Turmoil 2512** (Fandom Liepmund Holzkrug) ; Cercle Intérieur ; **sait que Karl-Franz a un double** ; **spite vs House Holswig-Schliestein dynasty + agenda maintenir Jungfreud family Ubersreik sous suspicion** (cf. note GM Zuntermein) ; supérieur direct de Zuntermein ; *"si confronté seul, die for it"* canon ch.13 l.144 — éliminé probablement au climax.
+- **Graf Liepmund Holzkrug** — **commander Chambre Noire pré-Turmoil 2512** (Fandom Liepmund Holzkrug) ; Cercle Intérieur ; **sait que Karl-Franz a un double** ; **spite vs House Holswig-Schliestein dynasty + agenda maintenir Jungfreud family Ubersreik sous suspicion** (cf. note GM Zuntermein) ; supérieur direct de Zuntermein ; *"si confronté seul, die for it"* ch.13 l.144 — éliminé probablement au climax.
 - **Reiksmarshall Kurt Helborg** — *"Grand Master of the Reiksguard Knights, Reiksmarshall of the Empire's military forces"* (Lexicanum Kurt Helborg) ; porte le **Solland Runefang Grudge Settler** au nom de l'Empereur (Solland n'a plus d'Elector Count depuis 1707 IC — cf. fiche 03) ; **absent d'Altdorf au climax ch.13** (canon Hermann von Feilbach note GM) — probable patrouille militaire Ubersreik ou frontière.
 - [[Hermann von Feilbach]] — **sosie public de Karl-Franz** ; First Knight Gold 2 ; *"minor Imperial noble and spy who possesses an uncanny physical resemblance to Emperor Karl Franz… member of the Reiksguard and the Chambre Noire's Cercle Intérieur"* (Fandom Hermann von Feilbach). **Pion involontaire loyal** (pas méchant) ; recruté par Immanuel-Ferrand. **Croit que Holzkrug et Zuntermein sont des serviteurs loyaux**. Trappings canon : **Imitation Ghal Maraz** + **Silver Seal** + Full Plate Armour. Doomed *"Morr sends a maiden"*. Note OCR : *"Fielbach"* (EiR ch.5) = artefact, canon Fandom = **Feilbach**.
 
 ### Acteurs religieux Altdorf
 
 #### Cult of Sigmar
-- [[Yorri XV]] — **Grand Theogonist of Sigmar** + Arch Lector of the West + High Priest of Altdorf (EiR Intro l.760) ; **Lector Gold 2** ; *"moderate and cautious, embodies the values he extols"* ; **malade Arc 7** ; **sait que Ghal Maraz n'est pas l'original** mais maintient silence pour stabilité (EiR Intro l.784). **Tué canon au climax ch.13** par cultiste Main Pourpre déguisé en Reiksguard avec poleaxe (EiR ch.13 l.385) — *"Yorri gawps in shock for a moment before a second guardsman stoves his skull in with a poleaxe, killing him instantly"*. Apothicaire personnelle **Elvyra Kleinestun** empoisonne lentement (canon ch.11 l.149).
-- [[Volkmar von Hindenstern]] *(alias **Volkmar "the Grim"**)* — **High Capitular of Sigmar at Altdorf** (EiR Intro l.731) ; **Lector Gold 2** ; partisan Sigmarite, *"single-minded obsession rooting out + destroying Chaos followers"* ; **Pure Soul** talent ; **devient Grand Theogonist canon post-Turmoil 2512** (succède Yorri — Fandom Volkmar the Grim). Note canon : Fandom utilise *"Volkmar the Grim"* sans patronyme ; EiR Intro l.729-755 utilise *"Volkmar 'the Grim' Von Hindenstern"* — **canon EiR retient von Hindenstern** (règle Source/ > Fandom partial).
-- **Arch Lector Aglim** (Arch Lector East) — **tué canon avec Yorri au climax ch.13** (Fandom Volkmar the Grim).
+- [[Yorri XV]] — **Grand Theogonist of Sigmar** + Arch Lector of the West + High Priest of Altdorf (EiR Intro l.760) ; **Lector Gold 2** ; *"moderate and cautious, embodies the values he extols"* ; **malade Arc 7** ; **sait que Ghal Maraz n'est pas l'original** mais maintient silence pour stabilité (EiR Intro l.784). **Tué au climax ch.13** par cultiste Main Pourpre déguisé en Reiksguard avec poleaxe (EiR ch.13 l.385) — *"Yorri gawps in shock for a moment before a second guardsman stoves his skull in with a poleaxe, killing him instantly"*. Apothicaire personnelle **Elvyra Kleinestun** empoisonne lentement (canon ch.11 l.149).
+- [[Volkmar von Hindenstern]] *(alias **Volkmar "the Grim"**)* — **High Capitular of Sigmar at Altdorf** (EiR Intro l.731) ; **Lector Gold 2** ; partisan Sigmarite, *"single-minded obsession rooting out + destroying Chaos followers"* ; **Pure Soul** talent ; **devient Grand Theogonist post-Turmoil 2512** (succède Yorri — Fandom Volkmar the Grim). Note canon : Fandom utilise *"Volkmar the Grim"* sans patronyme ; EiR Intro l.729-755 utilise *"Volkmar 'the Grim' Von Hindenstern"* — **canon EiR retient von Hindenstern** (règle Source/ > Fandom partial).
+- **Arch Lector Aglim** (Arch Lector East) — **tué avec Yorri au climax ch.13** (Fandom Volkmar the Grim).
 - **Arch Lector Kaslain** (Arch Lector South) — continuité.
 - **Johann Esmer** — *"raised as the Arch Lector of the East"* post-Turmoil (succède Aglim, Fandom Volkmar the Grim).
 
@@ -69,7 +69,7 @@
 - *"Almost nine years ago, Gideon approached each of the cults and asked their most erudite members to tutor Prince Héritier Wolfgang. These tutors are known as the Neuf Yeux"* (Fandom Neuf Yeux). **9 cellules Tzeentch dans 9 villes Empire** : **Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim, Remas**.
 - **Tuteurs nommés canon** :
   - **Gislind Ursin** (Blank Eye, Averheim Culture and Philosophy — cascade fiche 04)
-  - Tuteurs Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Remas : identités spécifiques canon dans EiR Intro l.173-176 (cf. notes GM)
+  - Tuteurs Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Remas : identités spécifiques dans EiR Intro l.173-176 (cf. notes GM)
 - **Kastor Lieberung** (recruteur 9 Eyes, mort Bögenhafen S8 = PBT canon — cellule Nuln d'origine).
 
 ### Acteurs Reiksguard + Chambre Noire
@@ -170,7 +170,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main Pourpre de Zuntermein + Gideon. Tous les autres fronts (fiches 01-08) sont des **effets en cascade** de l'opération centrale.
 
@@ -276,7 +276,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
 - **Empereur** : **Karl-Franz I Holswig-Schliestein** restauré (canon History of Turmoil EiR ch.17 l.30).
@@ -363,7 +363,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 | **Maria-Luise von Walfen** | Lady at Imperial Court + maîtresse KF + mère enfants ; confidente Emmanuelle | **Épouse légitime de Karl-Franz** post-Turmoil 2512 ; *"informally Empress"* devient formelle | Vivante (Fandom Maria-Luise) |
 | **Luitpold (fils KF)** | Bâtard non légitimé | **Légitimé post-mariage parents** ; héritier Principat d'Altdorf | Vivant (Fandom Luitpold Prince) |
 | **Alia von Holswig-Schliestein** | Bâtarde non légitimée (infant) | **Légitimée post-mariage parents** ; **héritière Elector Countess of Reikland canon** (Fandom Princess Alia) | Vivante (Fandom Maria-Luise + Princess Alia) |
-| **Isabella von Holswig-Schliestein** | Sœur KF ; mère Wolfgang | Mère endeuillée post-Wolfgang ; canon ne précise pas sa réaction | Vivante (Fandom Karl Franz) |
+| **Isabella von Holswig-Schliestein** | Sœur KF ; mère Wolfgang | Mère endeuillée post-Wolfgang ; ne précise pas sa réaction | Vivante (Fandom Karl Franz) |
 | **Immanuel-Ferrand Holswig-Schliestein** | Oncle KF, Chancellor of the Empire, Chambre Noire Cercle Intérieur, recruteur Hermann | **Head Chambre Noire** (succède Holzkrug) ; continuité Chancellor | Vivant (Fandom Chambre Noire) |
 | **Graf Liepmund Holzkrug** | Commander Chambre Noire pré-Turmoil ; sait double ; **spite vs Holswig-Schliestein dynasty + agenda Jungfreuds Ubersreik suspicion** (Fandom Liepmund Holzkrug) | **Mort climax** *"die for it"* si confront seul Zuntermein | Mort canon (EiR ch.13 l.144 ; Fandom Liepmund Holzkrug) |
 | **Reiksmarshall Kurt Helborg** | Reiksmarshall + Grand Master Reiksguard + porte Grudge Settler | Absent Ubersreik au climax ; **continuité post-Turmoil** | Vivant (note GM Hermann ; Lexicanum Kurt Helborg) |
@@ -464,7 +464,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 ### Hooks canon + déduction
 
-- **(canon + déduction)** **Sort personnel Hermann post-Turmoil** : note GM canon dit *"survit"*, peut être déchargé du rôle de sosie. Hook future Reiksguard mission.
+- **(canon + déduction)** **Sort personnel Hermann post-Turmoil** : note GM dit *"survit"*, peut être déchargé du rôle de sosie. Hook future Reiksguard mission.
 - **(canon + déduction)** **Tension Wolfgang vs Maria-Luise pré-Turmoil** : *"No affection lost between us. He is ambitious, brilliant, and anxious to inherit. And, when he does, I and my children will be superfluous"* (EiR ch.13 l.229) — possible enjeu si Wolfgang survit (alternate ending).
 - **(canon + déduction)** **Reikland succession post-Wolfgang** : canon Fandom dit Luitpold disinherited Reikland *"reasons unknown"* — possible nouvelle dynamique post-Turmoil non détaillée canon EiR.
 - **(canon + déduction)** **Cellules régionales Main Pourpre non démasquées** : Nuln + Hochland + Averheim + Wolfenburg — hook investigation post-Turmoil.
@@ -476,7 +476,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -546,7 +546,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 - **EiR Companion ch.6 *Alternative Empires*** — scénarios alternatifs (Zuntermein/Wasmeier/Lieberung/Gideon)
 
-- **EiR Companion ch.7 *The Changeling*** — Gideon Changeling canon détail
+- **EiR Companion ch.7 *The Changeling*** — Gideon Changeling détail
 
 - **Archives of the Empire Vol I ch.4 *The Grand Provinces*** :
   - **section Grand Province of Reikland** — capitale Altdorf, Karl-Franz titres, Runefang Dragon Tooth implicite, géographie
@@ -586,9 +586,9 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
 
 *(Reikland succession post-Wolfgang : résolue canon Fandom Princess Alia → déplacé en section 5 et bloc résolutions ; Alia héritière Reikland, Luitpold héritier Altdorf.)*
 
@@ -604,7 +604,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 ### Identité agents Spionwerber Captain Emil Baecker
 
-- **Note GM Zuntermein** : Captain Emil Baecker mentionné, mais détails canon non précisés.
+- **Note GM Zuntermein** : Captain Emil Baecker mentionné, mais détails non précisés.
 - **Décision GM** : à inventer pour les scènes ambush ch.13.
 
 ### Sort personnel Gideon post-climax
@@ -615,7 +615,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 ### Identité exacte des 9 tuteurs Neuf Yeux (sauf Gislind Ursin)
 
 - **Canon EiR Intro l.173-176** : tableau partiel. Gislind Ursin (Averheim Blank Eye) confirmée.
-- **Autres tuteurs** : canon partiellement détaillé EiR Intro mais non systématiquement.
+- **Autres tuteurs** : partiellement détaillé EiR Intro mais non systématiquement.
 - **Décision GM** : à étoffer si pertinent (chaque ville cf. cascades fiches).
 
 *(Deux entrées "Chief Lady of Court vs Lady at Imperial Court" et "Patronyme Volkmar von Hindenstern" déplacées en bloc résolutions ci-dessous — auto-marquées résolues canon Source/ > Fandom.)*
@@ -660,7 +660,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 - **Fandom Chambre Noire + Altdorf ch.10 l.13+54** : *"Schattenkabinett (secret police), Graukappen (external), Spionwerber (recruitment), Palisades (Electors at Altdorf protection — head General Erik Hoffmann)"*.
 - **Chef pré-2512** : Liepmund Holzkrug ; **chef post-2512** : Immanuel-Ferrand.
 - **QG** : Île Noire sur le Reik.
-- **Adopté fiche** : structure canon intégrée.
+- **Adopté fiche** : structure intégrée.
 
 ### Reiksguard = ordre séculier — RÉSOLU
 
@@ -674,16 +674,16 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 ### "Chief Lady of Court" (EiR canon) vs "Lady at Imperial Court" (Fandom) — RÉSOLU
 
-- **EiR ch.7 l.107** : *"Chief Lady of Court"* canon C7 EiR direct.
+- **EiR ch.7 l.107** : *"Chief Lady of Court"* C7 EiR direct.
 - **Fandom Maria-Luise** : *"Lady at the Imperial Court of Altdorf"*.
 - **Adopté fiche** : *"Chief Lady of Court"* (canon EiR Source/) avec note Fandom *"Lady at Imperial Court"* comme variante équivalente.
 
 ### Patronyme Volkmar : "von Hindenstern" canon EiR — RÉSOLU
 
 - **EiR Intro l.729-755** : *"Volkmar 'the Grim' Von Hindenstern High Capitular of Sigmar"*.
-- **Fandom Volkmar the Grim** : utilise *"Volkmar the Grim"* sans patronyme ; Fandom alterne aussi avec **Manfred** dans une variante secondaire (non canon EiR).
+- **Fandom Volkmar the Grim** : utilise *"Volkmar the Grim"* sans patronyme ; Fandom alterne aussi avec **Manfred** dans une variante secondaire (non attesté EiR).
 - **Adopté fiche** : **Volkmar von Hindenstern** nom complet canon EiR, *"the Grim"* sobriquet (règle Source/ > Fandom partial).
 
 ### Application règle WFRP4 supersède WFRP2/3 — divergences résolues
 
-- Pas de divergence WFRP4 vs WFRP2/3 majeure détectée pour ce front (tous les éléments canon listés sont directement WFRP4 EiR/Fandom sans contradiction inter-édition).
+- Pas de divergence WFRP4 vs WFRP2/3 majeure détectée pour ce front (tous les éléments listés sont directement WFRP4 EiR/Fandom sans contradiction inter-édition).

@@ -8,19 +8,19 @@
 - **Statut** : [MORT] depuis S8 (tué par Gideon à Bögenhafen)
 - **Tags** : `#Adolphus` `#BountyHunter` `#EmmanuelleNacht` `#Ubersreik` `#AntiPurpleHand` `#Mort-S8`
 
-## Source canon
+## Source
 - EiS ch.4 *On to Bögenhafen* (statbloc + description + employeur) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/04 - On To Bögenhafen.md` lignes 221-238
 - EiS ch.3 (apparition Altdorf, kill cultistes Main Pourpre) : ch.3 l.82-84, l.180-194
 - EiS ch.5 (tué par Gideon Bögenhafen) : ch.5 l.62-89
 
-## Description canon
+## Description
 > "Adolphus Kuftsos is a **simmering ball of anger, muscle, and bloody-mindedness**. Although relatively nondescript... his **constant snarls ensure he stands out**. His only other distinguishing characteristic is a **livid scar around his neck from a time when he barely escaped being hanged by a group of bandits**. This damaged his throat, causing him to **speak with a slow, wheezing voice** that could hardly be more sinister.
 >
 > In his early 30s, Adolphus has been a bounty hunter for six years... **doggedly determined** and uses any means at his disposal to bring his quarry to justice — or to a swift end." (EiS ch.4 l.221-223)
 >
 > **Employeur** : "currently in the employ of **Lady Emmanuelle Nacht**, an important Reiklander noble who hired him in Ubersreik to **pursue the Main Pourpre tirelessly**, wherever this may lead him."
 
-## Statbloc canon — **Adolphus Kuftsos – Master Bounty Hunter (Silver 5)**
+## Statbloc — **Adolphus Kuftsos – Master Bounty Hunter (Silver 5)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

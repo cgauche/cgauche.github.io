@@ -8,10 +8,10 @@
 - **Statut** : [DÉTRUIT S28 — pulvérisé par explosion malpierre]
 - **Tags** : `#ChâteauWittgenstein` `#Wittgenstein` `#Reikland` `#Reik` `#Malpierre` `#Skavens` `#FrankensteinMargritte` `#LudwigCafard` `#IngridMatrone` `#KurtTorture` `#OgreBourreau` `#ExplosionVerte`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.7 *Castle Wittgenstein* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/10 - Chapter 7 Castle Wittgenstein.md`
 
-## Description canon (DotR ch.7)
+## Description (DotR ch.7)
 
 Forteresse de pierre. **Quai souterrain** sous le château accessible par une **grotte** depuis le Reik. Plusieurs niveaux intérieurs lugubres, **bruits angoissants et cris** depuis les pièces. Tableaux qui semblent regarder. Décorations déformées.
 
@@ -36,7 +36,7 @@ Forteresse de pierre. **Quai souterrain** sous le château accessible par une **
 - **Crakatz** (Minotaur, chambres d'hôtes — canon DotR ch.7 l.909-942, non rencontré table).
 - **Animaux mutés** : oiseaux carnivores (serre), chat muté, cafards (tour Ludwig).
 - **Mendiant enlevé** S27 (matériau Margritte, probablement déjà sur la table d'opération).
-- **Daemonette de Slaanesh** dans le temple de la cour (canon DotR ch.7 l.703-728, non confrontée table) — le **temple de Slaanesh actif** dans la cour intérieure est un trou canon non exploré par les PJ.
+- **Daemonette de Slaanesh** dans le temple de la cour (canon DotR ch.7 l.703-728, non confrontée table) — le **temple de Slaanesh actif** dans la cour intérieure est un trou non exploré par les PJ.
 
 ## Lieux marqués (PJ y ont été S28)
 - **Quai souterrain (grotte)** — Accostage. Majordome accueille. Mark refuse de quitter le bateau (armes interdites).

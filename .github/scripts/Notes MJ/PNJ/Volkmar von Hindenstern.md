@@ -1,13 +1,13 @@
 # Volkmar von Hindenstern
 
 **Sous-titre** : Grand Capitulaire de Sigmar à Altdorf, bras intransigeant du Grand Théogoniste Yorri XV  
-**Statut** : [VIVANT — ALLIÉ AMBIGU — successeur canon de Yorri XV comme Grand Théogoniste]
+**Statut** : [VIVANT — ALLIÉ AMBIGU — successeur de Yorri XV comme Grand Théogoniste]
 
 ## Apparence et manières
 
 Grand Capitulaire de Sigmar à Altdorf — un office presque aussi prestigieux qu'Archilecteur `EiR Intro l.753-754`. Prêtre-guerrier expérimenté à la double réputation : profondeur doctrinale sigmarite et talent de commandant de bataille `EiR Intro l.754`. Homme d'actes plutôt que de mots, qu'il laisse parler à sa place ; sérieux jusqu'à l'austérité, son visage qui ne sourit pas lui vaut des admirateurs mais peu d'amis `EiR Intro l.756`. Obsession monomaniaque : traquer et détruire les serviteurs du Chaos — quand il n'est pas au champ de bataille, il sonde inlassablement les chambres souterraines de la Grande Cathédrale d'Altdorf à la recherche de tomes oubliés `EiR Intro l.758`. À Middenheim S57 il rivalise de regards noirs avec Ar-Ulric Emil Valgeir et refuse délibérément le bavardage `EiR ch.2 l.233`. À Shining Rock il reste cloîtré dans sa tente jusqu'à l'attaque, comme Yorri XV et Ar-Ulric Emil Valgeir `EiR ch.3 l.85`. Au défilé S60 il ne se prête à aucune conversation mondaine ; Katarina Todbringer offre de présenter les PJ à n'importe qui sauf à l'Empereur, à Yorri XV ou à lui `EiR ch.5 l.86+204`.
 
-## Phrases canon
+## Phrases
 
 - *« My god is not a god of peace. — Nor mine. And if we can stand united against our enemies then our enemies have true cause for woe. »* — réplique à Ar-Ulric Emil Valgeir au Middenpalaz, S57, après avoir frappé le sol de son bâton d'office `EiR ch.2 l.377+379`.
 - *« Furthermore, Crown Prince Wolfgang Holswig-Abenhauer extends his hand in marriage to Katarina Todbringer, daughter of the Graf of Middenheim. Now you will excuse me, I have a long journey to Shining Rock ahead. Send your answer before I leave in the morning. »* — clôt sa proposition au Middenpalaz et quitte sans cérémonie, le reste de la délégation Altdorf à sa traîne `EiR ch.2 l.383+385`.
@@ -43,15 +43,15 @@ Grand Capitulaire de Sigmar à Altdorf — un office presque aussi prestigieux q
 - **Conseiller Yorri XV au Conclave d'urgence S62** : pousser le Grand Théogoniste à durcir sa position contre l'Hérésie Sigmarite après l'invective d'Ar-Ulric Emil Valgeir, sonder les inclinations religieuses des PJ.
 - **Recherche infatigable sous la Grande Cathédrale** : passe chaque moment libre à fouiller les tomes des chambres souterraines de la Grande Cathédrale de Sigmar à Altdorf, en quête d'un savoir contre le Chaos que ses prédécesseurs auraient pu négliger `EiR Intro l.758`.
 
-## Démasquage et confrontation (S63 homebrew + ch.13 canon)
+## Démasquage et confrontation (S63 homebrew + ch.13)
 
 - **S63 — Doppelgänger à l'attaque du manoir Todbringer** : le « Volkmar » qui assaillit le manoir et tue Boris Todbringer est en réalité Gideon le changelin, qui prend son apparence. Pattern Doppelgänger répété — déjà observé à la table avec le faux Hoflich S38. Le vrai Volkmar prie à la Grande Cathédrale de Sigmar à Altdorf au même moment ; l'alibi est vérifiable auprès des prêtres et gardes présents.
 - **Miracle Volkmar (interprétation publique post-S63)** : la faction sigmarite radicalisée présente l'événement comme un avatar envoyé par Sigmar pour abattre l'hérétique Boris Todbringer. Volkmar passe de conseiller du Grand Théogoniste à icône vivante du Culte de Sigmar — pression interne pour qu'il succède immédiatement à Yorri XV au Grand Théogonisme.
 - **Levier des PJ** : les PJ détiennent la vérité (Gideon changelin Tzeentch, pas Sigmar). Révéler publiquement = discrédit total de Volkmar, effondrement moral sigmarite, calme de la croisade contre Middenheim — mais perte du levier cultuel et risque que le Culte de Sigmar refuse simplement de croire. Soutenir le miracle = utiliser Volkmar comme bras politique sans révéler, au prix d'une complicité dans le mensonge religieux.
-- **Climax canon Volkshalle ch.13** : Volkmar peut être présent à la cérémonie de remise de Ghal Maraz. Le canon ne fixe pas sa survie ; selon l'issue, il rentre dans la suite History of the Turmoil.
+- **Climax canon Volkshalle ch.13** : Volkmar peut être présent à la cérémonie de remise de Ghal Maraz. La source ne fixe pas sa survie ; selon l'issue, il rentre dans la suite History of the Turmoil.
 - **Successeur de Yorri XV au Grand Théogonisme** `EiR Intro l.292` `EiR ch.17 l.28` : la table de remplacement des Électeurs après la cérémonie donne explicitement *Yorri the Grand Theogonist → Volkmar the Grand Theogonist*. La History of the Turmoil note que parmi les nombreux prêtres de Sigmar tombés au Volkshalle, le Grand Théogoniste et le Prince Héritier sont tous deux morts — Volkmar reprend la charge ensuite.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **[S57]** — Middenpalaz, 19h00, salle à manger du Graf : arrive avec la délégation Altdorf cinq minutes après les PJ, laconisme quasi monosyllabique, croise le regard d'Ar-Ulric Emil Valgeir sans se parler `EiR ch.2 l.227+229+233`. 19h45 — s'avance au centre de la salle, frappe le sol de son bâton d'office et délivre les deux propositions de Yorri XV ; conclut sur la formule de communion sigmarite-ulricaine, annonce le départ pour Shining Rock et quitte sans cérémonie `EiR ch.2 l.373-385`.
 - **[S58]** — Shining Rock : voyage en tête de carrosse avec Yann Zuntermein, Liepmund Holzkrug et la délégation `EiR ch.3 l.21`. Au camp Altdorf, ne quitte pas sa tente avec Yorri XV et Ar-Ulric Emil Valgeir `EiR ch.3 l.85`. Commande la sortie sigmarite à l'attaque des Fils d'Ulric : *« Protect the Grand Theogonist! Let no Ulrican cur lay hands on him! »* `EiR ch.3 l.229-231`. Combat à la seconde vague avec Boris Todbringer, Veiran Thugenheim et Baron Heinrich Todbringer `EiR ch.3 l.262`. Sur le tirage 93-97 de la table des complications, il subit un coup critique et doit se retirer du combat pour soins `EiR ch.3 l.298`.

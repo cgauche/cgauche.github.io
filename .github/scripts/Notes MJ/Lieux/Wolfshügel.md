@@ -8,20 +8,20 @@
 - **Visible from any high vantage point miles around** — stands above forest.
 - **Tags** : `#Wolfshügel` `#MothersMound` `#Taal` `#Ulric` `#Rhya` `#Manann` `#SacredFlame` `#OldFaith` `#GhalMaraz` `#Recharge` `#Drexol` `#Krukan` `#Albenriek` `#Arc7` `#Ch12`
 
-## Source canon
+## Source
 - **EiR ch.12 l.146-160** *Albertus Nyman fragments parchment* : Mother's Mound = where Sigmar stopped + bénir Ghal Maraz by Ulric.
 - **EiR ch.12 l.231-339** *Wolfshügel* + bataille Drexol horde.
 - **EiR ch.12 l.560-576** *The Temple* + *The Renewal* canon Sacred Flame Hammer recharge.
 
-## Histoire canon
+## Histoire
 
 - **Sacred long before Sigmar was born** (canon ch.12 l.279). *« First fire of Ulric was lit »* possibly.
 - **Built by followers Taal+Rhya+Ulric Elder days** for gods watch over their domain (canon ch.12 l.279).
 - **Pilgrimage Empire-wide** centuries — declined when Ulric worship focused North + newer gods.
 - **Still maintained by initiates older gods** — view site as holy.
-- **Sigmar passed through** during final journey : **prostration devant Ulric** + **Hammer placed in Sacred Flame Ulric + renewed** = canon recharge ritual.
+- **Sigmar passed through** during final journey : **prostration devant Ulric** + **Hammer placed in Sacred Flame Ulric + renewed** = recharge ritual.
 
-## Géographie canon
+## Géographie
 
 ### Le Wolfsruhe (Wolf's Rest) — niveau bas
 - **8 stone domed huts** around base hill.
@@ -45,11 +45,11 @@
 - **Symbols Ulric + Taal + Rhya + Manann** carved walls.
 - **Main chamber** : musty + dusty. Peaceful + safe feeling. Walls rough hacked.
 - **Centre** : **low stone enclosure filled with smooth black rocks**. **Centre** : **ancient bronze statue howling wolf size large fist**.
-- **Sacred Flame canon mechanism** : *« small dial attached to a disc lies inside the mouth of the wolf statue. Turning the dial causes the discs to turn and disappear downwards, with flints causing sparks that light an odourless gas that pours from the Wolfhead and settles on the stones burning with a heatless silver flame »*.
+- **Sacred Flame mechanism** : *« small dial attached to a disc lies inside the mouth of the wolf statue. Turning the dial causes the discs to turn and disappear downwards, with flints causing sparks that light an odourless gas that pours from the Wolfhead and settles on the stones burning with a heatless silver flame »*.
 - **Light flames** = casting **strange moving shadows Wolfs+Bears+Elks** roaming walls.
 - **3 smaller chambers** : 2 holes Old Gods small statues (removed) + 1 empty chamber priests (polished red stones).
 
-## Ghal Maraz Renewal canon ch.12 l.569-576
+## Ghal Maraz Renewal ch.12 l.569-576
 
 - **Place Hammer in Sacred Flame** → starts glow.
 - **Runes burst blazing white light one by one** — impossibly bright versions cast walls, each clearly seen.
@@ -65,7 +65,7 @@
 - **Rune of Stalwart** → reactive.
 - **Rune of Spell-Breaking** → reactive.
 
-## Bataille Drexol horde canon ch.12 l.342-581
+## Bataille Drexol horde ch.12 l.342-581
 
 ### Timeline Day 3 :
 - Mid-morning Hans returns news horde.

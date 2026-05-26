@@ -10,12 +10,12 @@
 - **Statut** : [VIVANTE — ENNEMIE ACTIVE]
 - **Tags** : `#FioneBrecht` `#Threshers` `#Toppenheimer` `#Sudenland` `#Mercenary` `#FalseFlag` `#Tzeentch` `#PurpleHand` `#Arc7` `#Ch9` `#Heidheinheim`
 
-## Source canon
+## Source
 - **EiR ch.9 l.282-323** *Wolves Dressed as Goats Dressed as Lions* + *Fione Brecht* + statbloc.
-- **EiR ch.9 l.294-301** *Threshers* description complète canon.
+- **EiR ch.9 l.294-301** *Threshers* description complète.
 - **EiR ch.9 l.307** : *« Brecht has tried to cover her Main Pourpre tattoo over with a convoluted bird tattoo, but a knowing Character can see the lines of the original at a glance »*.
 
-## Statbloc canon (EiR ch.9 l.310)
+## Statbloc (EiR ch.9 l.310)
 
 **FIONE BRECHT HUMAN OFFICER (GOLD 1)**
 
@@ -28,7 +28,7 @@
 - **Talents** : **Combat Aware**, **Commanding Presence**, **Doomed** (*« Your nemesis shall strike from the river »*), Etiquette (Soldiers), **Iron Will**, **Marksman**, **Public Speaker**, Read/Write, **Unshakable**, **War Leader**.
 - **Trappings** : **Nuln Uniform worn over a Sudenland Uniform** (false flag layers), Mail Shirt, Helmet, Shield, Sword.
 
-## Threshers (canon ch.9 l.294)
+## Threshers (ch.9 l.294)
 
 - **Toppenheimers hire** for « making life difficult for the countess » Emmanuelle Nuln.
 - **Pose comme soldats Nuln + sous-couche uniforme Sudenland**.

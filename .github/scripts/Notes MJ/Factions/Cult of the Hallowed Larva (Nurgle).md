@@ -7,7 +7,7 @@
 - **Statut** : [ACTIF] — non-affronté à table
 - **Tags** : `#HallowedLarva` `#Nurgle` `#Nuln` `#CulteCaché` `#GemmeNurgle` `#NonAffronté`
 
-## Source canon
+## Source
 - RN&HD ch.5 (Plot 6 "Family Honour") : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` lignes 411-412+
 
 ## Doctrine / objectifs

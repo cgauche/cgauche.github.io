@@ -11,7 +11,7 @@
 - **Statut** : [ACTIF, allié potentiel PJ depuis S23]
 - **Tags** : `#BlueHeron` `#MafiaTilienne` `#Kemperbad` `#Nuln` `#LuigiBelladonna` `#Emmanuelle` `#Condottieri` `#NonChaotique`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.2 *Altdorf to Kemperbad* (Luigi Belladonna) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/05 - Chapter 2 Altdorf to Kemperbad.md`
 - *Archives of the Empire Vol I* (Tilea + condottieri) : `Source/Archives of the Empire - Vol I/04 - The Grand Provinces.md`
 - *Death on the Reik Companion* (réseau commerce + smugglers) : `Source/Death on the Reik Companion/19 - CHAPTER 12- WRECKERS, SMUGGLERS & PIRATES.md`

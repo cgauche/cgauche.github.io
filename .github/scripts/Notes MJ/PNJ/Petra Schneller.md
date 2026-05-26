@@ -9,7 +9,7 @@
 - **Statut** : [VIVANTE — DISPARUE post-S60]
 - **Tags** : `#PetraSchneller` `#Ranald` `#Priestess` `#Pavillon` `#Defile` `#Pigs` `#RanaldsDelight` `#Arc7` `#S60` `#Disparu`
 
-## Source canon
+## Source
 - **EiR ch.5 Plot 5 — Porcine Pranks** l.131-133 : *« Petra Schneller has painted three large sows in the colours of Altdorf (blue and red), Middenheim (blue and white), and Nuln (black with a crude yellow lion). She's given them ale and a dose of Ranald's Delight. The plan is to unleash them in the pavilion at an opportune moment »*.
 - **EiR ch.5 l.222** : *« Characters notice a servant behaving oddly by the rear tent wall. She keeps checking through a gap in the canvas. This is Petra Schneller, priestess of Ranald, disguised as a serving maid. If challenged, she explains she's waiting for the pork to arrive »*.
 - **EiR ch.5 l.262** post-pigs : *« Petra Schneller is nowhere to be found, but she is now greatly favoured by Ranald »*.

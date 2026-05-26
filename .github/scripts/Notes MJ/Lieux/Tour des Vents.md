@@ -10,10 +10,10 @@
 - **Statut** : [ABANDONNÉE — partiellement incendiée par Carolus en fuite S16]
 - **Tags** : `#TourDesVents` `#TowerOfVane` `#MontagnesGrises` `#CarolusEntschlafen` `#ChristophEngel` `#ArmeMagique` `#8VentsDeMagie`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` chapitre Heart of Glass (PDF p.47-77)
 
-## Description (canon UA1)
+## Description (UA1)
 
 Tour de mage classique sur lac gelé, **chaque étage représente une école de magie distincte** :
 1. Rez : entrée / vestibule
@@ -26,7 +26,7 @@ Tour de mage classique sur lac gelé, **chaque étage représente une école de 
 8. Étage 7 : **Chamon** (métaux — Gold)
 9. Étage 8 (sommet) : **Shyish** (mort — Amethyst) — **où se trouvait l'arme magique**
 
-> Note table : ordre indicatif, le récit S16 dit simplement « chaque étage semblait représenter une branche différente de la magie » sans énumération canon précise.
+> Note table : ordre indicatif, le récit S16 dit simplement « chaque étage semblait représenter une branche différente de la magie » sans énumération précise.
 
 ## Apparitions par session
 

@@ -10,13 +10,13 @@
 - **Statut** : [VIVANTE — ENNEMIE CACHÉE]
 - **Tags** : `#KatheRuttmann` `#NineEyes` `#VigilantEye` `#Bögenhafen` `#Histoire` `#Politique` `#Tzeentch` `#Wolfgang` `#CastleReikguard` `#Arc7` `#Ch4` `#Ch13`
 
-## Source canon
+## Source
 - **EiR Intro l.108-115** liste 9 Yeux.
 - **EiR ch.4 l.175-202** : Kathe arrive room Wolfgang post-interview PJ. Pose scrolls. Discussion brève.
 - **EiR ch.4 l.272-275** room Castle Reikguard : *« occupied by Kathe Ruttmann. Bookcases filled with historical and political texts line the walls. A searching Character who passes a Very Hard (-30) Perception Test finds a scrap of an obscure prophetic text. See the handout Les Songes de Bertoldt le Malleun »*.
 - **EiR ch.13** : présente Volkshalle climax. Si vivante = +1 Power Sheerargetru.
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 **MEMBER OF THE NINE EYES HUMAN PROFESSOR (GOLD 1)**
 
@@ -46,7 +46,7 @@
 ## MJ-only
 - **Cultiste Tzeentch active** depuis 9 ans tutorat Wolfgang.
 - **Believes Tzeentch elevation personnelle** — ignore qu'elle sera **hôte secours Sheerargetru** si Wolfgang échoue.
-- **Room Reikguard Hard -30 Perception** : scrap of *« Les Songes de Bertoldt le Malleun »* canon ch.4 l.276.
+- **Room Reikguard Hard -30 Perception** : scrap of *« Les Songes de Bertoldt le Malleun »* ch.4 l.276.
 - **PJ peuvent éliminer Yeux pré-climax** : -1 Power per Eye. Kathe = *one of 3 at Castle Reikguard* (canon ch.4 l.218).
 
 ## Hooks Arc 7

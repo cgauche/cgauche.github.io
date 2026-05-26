@@ -7,7 +7,7 @@
 - **Statut** : [ACTIF, en sommeil] — cellule visible démantelée (purge), survivants dormants
 - **Tags** : `#SanguineBrotherhood` `#Khorne` `#Kemperbad` `#Watch` `#PurgeRécente` `#CulteCaché`
 
-## Source canon
+## Source
 - RN&HD ch.4 (Plot 6 "Day of Blood") : `Source/Rough Nights & Hard Days/04 - A Day at the Trials.md` lignes 73-76
 
 ## Doctrine / objectifs

@@ -34,7 +34,7 @@ s'efforce d'atténuer les pires de ses impulsions ; ses troupes, bien
 disciplinées par tradition, se montrent de plus en plus inquiètes de
 son comportement erratique `EiR ch.12 l.95+117`.
 
-## Phrases canon
+## Phrases
 
 - *« And I'm the one they call mad. »* — réponse sèche si les PJ admettent partir en quête de Ghal Maraz, dans la tente `EiR ch.9 l.371`.
 - *« Daisy, what do you think of that? Off to hand out spankings, they are. »* — adressé à sa jument quand les PJ évoquent des Orques ou les Princes-Frontière ; manière standard de tester une idée à voix haute `EiR ch.9 l.369`.
@@ -102,12 +102,12 @@ veille s'effondre dans l'alcool et la paranoïa.
 - **Aller — Aver, ch.9** `EiR ch.9 l.343-379` : passage forcé par flottille jusqu'à la tente. Trois leviers existent pour gagner sa permission de continuer la route — mentionner la mission impériale au passage (il en cherche l'approbation tacite), proposer de médier avec le SIP / Marlene Alptraum (Marius est enchanté), ou simplement attendre qu'il finisse de railler l'un d'eux et soit distrait. Refuse de laisser passer sans contrepartie : il ne peut pas risquer une fuite de ses dispositions à l'ennemi, et il n'existe aucune route sûre pour les PJ à travers les lignes Alptraum.
 - **Médiation arbitrée** `EiR ch.9 l.425-435` : tente neutre dans un pré devant la ville, représentants des trois camps en petit nombre, aucun à rôle purement martial ; PJ jurent au nom de Sigmar et de l'Empire que leur arbitrage liera tous. Marius parle en orateur poétique abstrait — Marlene parle franchement et sans subtilité (Streissen appartenait à sa mère, donc devrait lui appartenir après) — Karlssen parle censément pour le peuple, mais sans nuance et la voix d'un soldat. PJ libres de trancher : aucun camp ne peut plus les retenir une fois la décision proclamée.
 - **Conséquences à Averheim** `EiR ch.9 l.447` : si les PJ ont aidé à attaquer Marlene, ils sont accostés par des soldats d'Averland, à peine maintenus en vie par leur statut impérial, expulsés de la ville, *The Carroburg* refoulée du quai. S'ils ont médié mais remis Streissen à Leitdorf, un agent Alptraum lourdement escorté leur signifie qu'ils ne sont pas les bienvenus à Averheim — acheter, partir avant la nuit, ne pas attendre au dock.
-- **Retour — Streissen ch.12** `EiR ch.12 l.107-123` : ville sous fumée perpétuelle, corps pendus aux portes, garde épuisée. Pour voir Marius, les PJ doivent convaincre les gardes d'être conduits à Marcus Karlssen — à moins qu'ils n'aient eux-mêmes négocié la remise de la ville à Marius au ch.9, auquel cas ils passent immédiatement. Karlssen leur demande d'attendre pendant qu'il « réveille » Marius des libations, et ordonne en sourdine à une douzaine de soldats de converger en préparation à l'arrestation `EiR ch.12 l.119`. Une vieille servante apportant le vin — agent impérial — leur souffle alors à voix basse l'avertissement canon recensé en Phrases canon `EiR ch.12 l.121`.
+- **Retour — Streissen ch.12** `EiR ch.12 l.107-123` : ville sous fumée perpétuelle, corps pendus aux portes, garde épuisée. Pour voir Marius, les PJ doivent convaincre les gardes d'être conduits à Marcus Karlssen — à moins qu'ils n'aient eux-mêmes négocié la remise de la ville à Marius au ch.9, auquel cas ils passent immédiatement. Karlssen leur demande d'attendre pendant qu'il « réveille » Marius des libations, et ordonne en sourdine à une douzaine de soldats de converger en préparation à l'arrestation `EiR ch.12 l.119`. Une vieille servante apportant le vin — agent impérial — leur souffle alors à voix basse l'avertissement recensé en Phrases canon `EiR ch.12 l.121`.
 - **Si les PJ restent** `EiR ch.12 l.123` : Marius a déjà su pour Ghal Maraz ; les douze soldats convergent ; les PJ n'ont qu'un délai court pour fuir avant engagement ou capitulation forcée.
 - **Évasion / poursuite ch.12** `EiR ch.12 l.167+173` : ville verrouillée, gardes doublés aux portes et aux docks, patrouilles fréquentes, crieurs publics proclamant une récompense de 7 Couronnes d'Or pour la capture des fugitifs. Pour sortir, soit un Test de Stealth réussi, soit corruption (60 schillings minimum), soit Test Very Hard (-20) de Charm appuyé d'une bonne histoire — PJ qui ont jadis remis la ville à Leitdorf au ch.9 bénéficient d'un bonus de +20. Sinon, combat.
 - **Post-Turmoil** `EiR Intro l.281` : Marius émerge gagnant — devient **Grand Comte d'Averland**, remplaçant Ludmilla Alptraum dans le collège électoral.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **S64+, ch.9** — Camp Streissen au bord de l'Aver `EiR ch.9 l.339-347` : flottille de Johan Sperren chasse les navires civils ; *The Carroburg* finit échoué sur un banc de boue, PJ menés à la tente sous la menace.
 - **Tente de campagne** `EiR ch.9 l.360-379` : repas en présence de Daisy Kurt von Helboring II, questions probantes sur la mission des PJ, raillerie improvisée sur un détail dont un PJ est fier, réplique sèche sur Ghal Maraz si mentionné (cf. Phrases canon). Refus de laisser passer sans contrepartie.
@@ -115,14 +115,14 @@ veille s'effondre dans l'alcool et la paranoïa.
 - **S64+, ch.12** — Retour par Streissen `EiR ch.12 l.107-123` : ville sous purge, corps pendus aux portes, garde épuisée qui résume la situation aux PJ sur Test de Charm (cf. Phrases canon). Marius ne reçoit personne en personne avant que Karlssen ne le réveille ; l'agent impérial déguisée en vieille servante prévient ; douze soldats Karlssen convergent pour arrêter si les PJ restent.
 - **Post-Turmoil** `EiR Intro l.281` : Grand Comte d'Averland, vainqueur du collège électoral.
 
-## Périmètre canon Arc 7
+## Périmètre Arc 7
 
 Empire in Ruins n'expose Marius que sur deux passages — ch.9 (camp et
 tente devant Streissen) et ch.12 (retour à Streissen sous purge). Le
 PNJ est absent d'Altdorf, du Conclave d'urgence et du climax ch.13.
 Pour tout ce qui dépasse ces deux scènes, le fluff WHFB historique
 (Lexicanum, Fandom, Bibliothèque Impériale) reste la seule source — sa
-mort canon par la main de Vorgaz Mâch'Fer à la Troisième Bataille du
+mort par la main de Vorgaz Mâch'Fer à la Troisième Bataille du
 Col du Feu Noir en 2520 IC, par exemple, est WHFB hors-EiR.
 
 ## Statbloc — Marius of House Leitdorf, Noble Lord (Gold 7) `EiR ch.9 l.381-402`

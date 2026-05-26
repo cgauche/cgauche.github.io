@@ -8,7 +8,7 @@
 - **Économie** : Aucune (poste militaire pur). Approvisionnement via convoi mensuel Kärzburdger.
 - **Tags** : `#LePiquet` `#ThePicket` `#Kärzburdger` `#FortdAirain` `#BrassKeep` `#MontsDuMilieu` `#Surveillance` `#Arc6` `#S54` `#PoudreKärzburdger` `#Emmiline` `#Hildegund` `#Tylik`
 
-## Source canon
+## Source
 - *Enemy Within Campaign Volume 4 The Horned Rat* : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - …md` ch. *The Picket* (l.4199-4700).
 - *Middenheim - City of the Loup Blanc* (références Maison Kärzburdger).
 
@@ -35,11 +35,11 @@
 ## Personnel
 
 - **[[Emmiline von Kärzburdger]]** — Commandante en chef. ~50 ans. Cordial mais distant. **Relation intime homebrew avec Hildegund**.
-- **[[Hildegund Froiz]]** — Prêtresse-sergent de Myrmidia, **Silver 3 canon p.4427**. Conseillère + médecine + cohésion.
+- **[[Hildegund Froiz]]** — Prêtresse-sergent de Myrmidia, **Silver 3 p.4427**. Conseillère + médecine + cohésion.
 - **[[Tylik|Capitaine Tylik]]** — **Ungol Kislev**, détachement cavaliers (12 hommes). Apprécie l'alcool local, lien fort avec ses hommes.
 - **Sergent [[Otfried Brantner]]** — sergent garnison. **Mort S54** (Croc Jaune révélé, exécuté par Yellow Fang interne).
 - **Intendant [[Willus Habicht]]** — Quartermaster. **Détournements modestes** exposés S54. Détenu post-S54.
-- **Artilleur [[Dengi Rulsson]]** — nain artilleur clan canon. Vit dans l'entrepôt avec son canon « Astrid ». Colérique, méfiant, mais loyal et compétent.
+- **Artilleur [[Dengi Rulsson]]** — nain artilleur clan. Vit dans l'entrepôt avec son canon « Astrid ». Colérique, méfiant, mais loyal et compétent.
 - **Sergent Hortiz** (canon EiR ch.5 mention — sergent Chevaliers Panthères ou Kärzburdger ; reste avec Emmiline post-S55).
 
 ## Histoire (60 dernières années)
@@ -47,7 +47,7 @@
 - **~2452 IC** : Fort d'Airain occupé par armée chaotique Nurgle.
 - **~2452 IC** : Le Piquet établi par Kärzburdger pour surveillance.
 - **~2452-2512 IC** : **Pas d'attaque** Nurgle. Zone de sécurité respectée. Une seule tentative d'avancée Kärzburdger échouée (massacre).
-- **2512 IC (Arc 6)** : **Maliss + Karak Skygg construisent canon nain Moonbreaker**. Skavens font **trafic de poudre** via Brantner (Croc Jaune) + Valeria + Willus.
+- **2512 IC (Arc 6)** : **Maliss + Karak Skygg construisent nain Moonbreaker**. Skavens font **trafic de poudre** via Brantner (Croc Jaune) + Valeria + Willus.
 - **S54** : Canon nain tire sur Fort d'Airain (trop haut, projectile manque). Chevaliers du Chaos sortent + pulvérisent skavens. **PJ témoignent**.
 - **Post-S55** : Karak Skygg détruit. **Statut Le Piquet inchangé** (Fort d'Airain Nurgle toujours actif).
 

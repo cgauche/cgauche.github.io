@@ -7,9 +7,9 @@
 
 De taille moyenne, cheveux blonds saisissants — c'est le seul trait stable, car costume, maquillage et talent hors normes pour l'impersonation modifient à volonté tout le reste de son apparence `PBT ch.7 l.15`. Cruelle et sadique, sans aucune considération pour qui que ce soit `PBT ch.7 l.15`. À l'œil affûté, mouvements rapides, esprit vif, mordante et sarcastique `PBT ch.7 l.15`. Maîtresse du déguisement (*Master of Disguise*, *Mimic*, *Secret Identity 4*) — circule à Middenheim sans armure pour ne pas attirer l'attention, et n'enfile son surcot de mailles qu'à la planque, en prévision d'une attaque `PBT ch.7 l.78`. Ses alter ego les plus utilisés sont *Charlotte*, *Frau Elise Kaltblutig* et *Frau Kenner* — chacun avec sa propre voix, son corpulence apparente, son accent `PBT ch.7 l.14+84`.
 
-## Phrases canon
+## Phrases
 
-Le canon ne fixe aucune réplique propre à Brunhilde Klaglich (Ringleader) — seules ses identités déguisées parlent à table, et leurs lignes sont des leviers de manipulation, pas la voix réelle de Klaglich. Sa voix se construit à partir des Talents canon — *Blather*, *Suave*, *Gregarious*, *Lip Reading*, *Master of Disguise*, *Mimic* `PBT ch.7 l.24` — et de son tempérament cruel et sarcastique : registre froid, observateur, peu loquace en propre, capable de tourner immédiatement la conversation à son avantage. Le MJ improvise. Lignes prononcées par ses identités utilisables comme voice cues — *Charlotte* hypnotisant Dieter Schmiedehammer :
+Le ne fixe aucune réplique propre à Brunhilde Klaglich (Ringleader) — seules ses identités déguisées parlent à table, et leurs lignes sont des leviers de manipulation, pas la voix réelle de Klaglich. Sa voix se construit à partir des Talents canon — *Blather*, *Suave*, *Gregarious*, *Lip Reading*, *Master of Disguise*, *Mimic* `PBT ch.7 l.24` — et de son tempérament cruel et sarcastique : registre froid, observateur, peu loquace en propre, capable de tourner immédiatement la conversation à son avantage. Le MJ improvise. Lignes prononcées par ses identités utilisables comme voice cues — *Charlotte* hypnotisant Dieter Schmiedehammer :
 
 - *« I think the Temple Tax is a good idea. Those priests have been stacking up gold for years. Look at the Temples! »* `PBT Appendix l.150`.
 - *« Everyone knows the Wizards have chests of gold put away, and the Alchemists actually make the stuff! »* `PBT Appendix l.152`.
@@ -39,7 +39,7 @@ Le canon ne fixe aucune réplique propre à Brunhilde Klaglich (Ringleader) — 
 
 - **Livraison Festag à Sparsam** : visite à 21h00 du Inner Palace, remise du prochain lot de Ranald's Delight au Grand Chancelier.
 - **Retour à la planque** : supervision des préparatifs de départ — la planque doit être laissée comme « vacated in a hurry » pour la phase Court Climax du plan Wasmeier.
-- **Transfert de Reya Ehrlich** : remise de la fille du Seigneur des Lois Ehrlich à un membre de l'Ordo Novitiae vers 23h30 le même soir. C'est l'acte final canon de Klaglich.
+- **Transfert de Reya Ehrlich** : remise de la fille du Seigneur des Lois Ehrlich à un membre de l'Ordo Novitiae vers 23h30 le même soir. C'est l'acte final de Klaglich.
 - **Veille permanente** : si l'un des pawns est capturé, déménagement immédiat à une planque pré-préparée — même carte de cellule, autre adresse `PBT ch.7 l.8`.
 - **Stratégie de combat à la planque** : peu encline à se rendre, tentera de s'échapper pour alerter Wasmeier — c'est cette tentative de fuite qui déclenche son Doomed `PBT ch.7 l.153`.
 
@@ -51,9 +51,9 @@ Le canon ne fixe aucune réplique propre à Brunhilde Klaglich (Ringleader) — 
 - **Chambre de Brunhilde** `PBT ch.7 l.141-144` : lit, grande armoire de costumes pour ses alias, table de maquillage, aviary de pigeons. Les love letters Ar-Ulric → Emmanuelle Schlagen y sont cachées (parchemin et encre de très haute qualité, adressées à « Em », signées « Big Bad Wolf »). Le codebook Wasmeier y est également — accessible.
 - **NPC strategy** `PBT ch.7 l.152-153` : pawns vigilants si un combat précédent les a alertés. Brunhilde et Dagmar ne se rendent pas ; Hultz se rend si amnistie offerte ; Anton se rend systématiquement. Brunhilde tentera de fuir pour prévenir Wasmeier — sans succès, car Wasmeier est absent Festag.
 - **Brass Neck Tincture** `PBT ch.7 l.30-31` : si capture imminente, Brunhilde boit la potion — immune to psychology + painless pendant 2-12 heures, mais aussi trois conditions *Stunned* qu'elle ne peut retirer pendant la durée du sort. À table S38 elle n'a pas eu le temps : tuée en combat direct.
-- **Mort canon dans la planque** `PBT ch.7 l.161` : si Klaglich est tuée à la planque, Wasmeier ne le découvre qu'en constatant l'absence de réponse à un message — il déclenche alors une enquête via cultistes mineurs et une seconde équipe va planter les preuves dans une autre maison délabrée.
+- **Mort dans la planque** `PBT ch.7 l.161` : si Klaglich est tuée à la planque, Wasmeier ne le découvre qu'en constatant l'absence de réponse à un message — il déclenche alors une enquête via cultistes mineurs et une seconde équipe va planter les preuves dans une autre maison délabrée.
 
-## Apparitions canon Arc 5
+## Apparitions Arc 5
 
 - **Pré-Arc 5 (–2 mois)** — Sous l'alias *Charlotte* (rouquine, yeux verts, mi-vingtaine, taille moyenne, accent bretonnien), hypnotise Dieter Schmiedehammer au Showboat (Great Park) dans un secluded booth, lui implante les phrases pro-taxes `PBT Appendix l.148` `PBT ch.6 l.297+303`.
 - **Pré-Arc 5 (–2 mois)** — Sous l'alias *Frau Kenner* (~30 ans, ~5'6", longs cheveux blonds), vole les love letters d'Emmanuelle Schlagen depuis les apartments des Ladies-at-Court via le pass Inner Palace de Sparsam `PBT ch.7 l.87`.

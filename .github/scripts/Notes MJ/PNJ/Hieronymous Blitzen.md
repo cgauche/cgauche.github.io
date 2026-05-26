@@ -1,6 +1,6 @@
 # Hieronymous Blitzen
 
-[Heironymous Blitzen — Lexicanum](https://whfb.lexicanum.com/wiki/Heironymous_Blitzen) · [Hieronymus Blitzen — Fandom (espagnol)](https://warhammerfantasy.fandom.com/es/wiki/Hieronymus_Blitzen) *(orthographe canon variable selon les sources)*
+[Heironymous Blitzen — Lexicanum](https://whfb.lexicanum.com/wiki/Heironymous_Blitzen) · [Hieronymus Blitzen — Fandom (espagnol)](https://warhammerfantasy.fandom.com/es/wiki/Hieronymus_Blitzen) *(orthographe variable selon les sources)*
 
 > **STUB Arc 7 — à enrichir lors du traitement d'Empire in Ruins.** **Mage d'Altdorf** sensible aux fissures dans l'aethyr. Présent au **climax Volkshalle** (canon EiR ch.13). Détecte les anomalies magiques majeures à Altdorf, Bögenhafen, Ubersreik. **Allié potentiel** pour les PJ qui enquêtent sur le Chaos.
 
@@ -11,7 +11,7 @@
 - **Statut** : [VIVANT, ALLIÉ POTENTIEL — non rencontré table]
 - **Tags** : `#HieronymousBlitzen` `#Altdorf` `#Mage` `#DétectionAethyrique` `#Arc7` `#Volkshalle` `#STUB`
 
-## Source canon
+## Source
 - *Empire in Ruins* ch.13 *The Empire Saved* (climax Volkshalle) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/16 - Chapter 13 - The Empire Saved.md`
 - Référence Notes MJ : `03 - PNJ importants.md` (mention « ALLIÉ POTENTIEL / CANON-EI »).
 

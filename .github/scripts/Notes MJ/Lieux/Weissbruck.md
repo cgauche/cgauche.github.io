@@ -6,12 +6,12 @@
 - **Économie** : aubergiste/relais, herboristerie (Elvyra), petit artisanat, agriculture locale.
 - **Tags** : `#Weissbruck` `#Reikland` `#CanalBögen` `#Arc2` `#ElvyraKleinestun` `#BlackGoldInn`
 
-## Source canon
-- EiS ch.4 *On to Bögenhafen* : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/04 - On To Bögenhafen.md` (halte canon sur le canal, **Black Gold Inn**).
+## Source
+- EiS ch.4 *On to Bögenhafen* : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/04 - On To Bögenhafen.md` (halte sur le canal, **Black Gold Inn**).
 - EiS ch.5-6 (référence canon).
 
 ## Géographie & lieux notables
-- **Black Gold Inn** [S7] — auberge canon où Adolphus Kuftsos et ses 3 thugs (Bengt, Gurt, Willie) ont monté leur planque avant l'attaque arbalète sur le Berebeli.
+- **Black Gold Inn** [S7] — auberge où Adolphus Kuftsos et ses 3 thugs (Bengt, Gurt, Willie) ont monté leur planque avant l'attaque arbalète sur le Berebeli.
 - **Échoppe Elvyra Kleinestun** — herboristerie/apothicairerie. Domicile principal de **[[Elvyra Kleinestun]]**, rencontrée à la Schaffenfest de Bögenhafen S9, repérée comme attachée à Anselm. Patrie habituelle.
 - **Pont sur le canal** — usage standard pour le passage des charrettes.
 

@@ -55,7 +55,7 @@
 ### Acteurs principaux pré-Turmoil — Cult of Ulric
 
 #### Hiérarchie ulricaine (Middenheim)
-- **Ar-Ulric Jarrick Valgeir** (déchu pré-Turmoil immédiat) — Lector Gold 2 (PBT p.130) ; **48 ans** ; *"rangy rather than muscular, cheveux brun-roux, yeux brun clair"* ; *"decent man, honorable"* ; **vœu de célibat** (canon Middenheim sourcebook) ; **chantagé par Wasmeier-Brunhilde** via *"love letters"* échangées avec **Emmanuelle Schlagen** (consort Boris Todbringer, cascade fiche 02 PBT canon p.131) ; **abdique post-PBT** + *"undertakes a lone pilgrimage to the far and freezing north. He never returns"* (PBT ch.7 *Consequences*) ; **Hammer-axe of Skoll + Wolfplate** transmis au successeur ; Doomed *"Temptation paves an inevitable path to the Maelstrom"* (PBT p.130).
+- **Ar-Ulric Jarrick Valgeir** (déchu pré-Turmoil immédiat) — Lector Gold 2 (PBT p.130) ; **48 ans** ; *"rangy rather than muscular, cheveux brun-roux, yeux brun clair"* ; *"decent man, honorable"* ; **vœu de célibat** (canon Middenheim sourcebook) ; **chantagé par Wasmeier-Brunhilde** via *"love letters"* échangées avec **Emmanuelle Schlagen** (consort Boris Todbringer, cascade fiche 02 PBT p.131) ; **abdique post-PBT** + *"undertakes a lone pilgrimage to the far and freezing north. He never returns"* (PBT ch.7 *Consequences*) ; **Hammer-axe of Skoll + Wolfplate** transmis au successeur ; Doomed *"Temptation paves an inevitable path to the Maelstrom"* (PBT p.130).
 - **Ar-Ulric Emil Valgeir** (entrant post-PBT) — **frère AÎNÉ** de Jarrick (Fandom Emil Valgeir : *"Originally, he was the Grand Master of the Chevaliers du Loup Blanc, whilst his younger brother Jarrick was the High Priest"*) ; ex-Grand Master Chevaliers du Loup Blanc (Middenheim Chapter) ; Senior Priest Warrior Priest of Ulric Silver 2 (PBT p.55) ; *"man of few words, with a gaze that few can meet, and an impressive physical presence"* (PBT Companion ch.4) ; *"fire-breathing preacher with little respect for Sigmarites"* (EiR ch.17 l.14) — **expression métaphorique canon** (= prêcheur enflammé/militant, **pas pouvoir littéral**) ; **lève le ban sur les Fils d'Ulric** (EiR Intro l.247 : *"He has lifted the ban on the Sons of Ulric, despite the fact that the sect wishes to depose him in favour of one their own"*) ; **sympathisant passif Fils d'Ulric** (note PNJ Emil) ; *"notably more proactive in the promotion of Ulrican values than Jarrick"* (PBT Companion ch.7 p.105) ; *"Hardline Ulrican rhetoric is openly proclaimed from the pulpit of the High Temple"*.
 
 #### Chevaliers du Loup Blanc (Templars Ulric)
@@ -203,7 +203,7 @@
 | **2145 IC** | **Bataille de Hel Fenn** — Elector Count Martin de Stirland tue Mannfred von Carstein ; **Order of the Raven Knights aide** → don de Siegfriedhof (cascade fiche 08) | Fandom Battle of Hel Fenn |
 | **2456 IC** | **Naissance Yorri XV** | Fandom Yorri XV |
 | **2487 IC** | **Niav** devient Hierarch of Taal de l'Old World (cascade fiche 07) | Fandom Niav and Katrinelya |
-| Pré-2512 IC | **Jarrick Valgeir** Ar-Ulric Middenheim — chantagé par Wasmeier-Brunhilde via *"love letters"* à Emmanuelle Schlagen | PBT canon p.131 |
+| Pré-2512 IC | **Jarrick Valgeir** Ar-Ulric Middenheim — chantagé par Wasmeier-Brunhilde via *"love letters"* à Emmanuelle Schlagen | PBT p.131 |
 | **Pre-Spring 2512 IC** | **Jarrick Valgeir abdique** + pèlerinage Nord post-PBT (chantage Main Pourpre résolu après Wasmeier exposé) ; *"never returns"* | PBT ch.7 ; Fandom Jarrick Valgeir |
 | **Pre-Spring 2512 IC** | **Emil Valgeir devient Ar-Ulric** ; ex-Grand Master Chevaliers du Loup Blanc → cède place à **Rein Volkhard** ; Hammer-axe of Skoll + Wolfplate transmis | PBT Companion p.105 |
 | Spring 2512 IC | **Emil Valgeir lève le ban sur les Fils d'Ulric** ; *"sectarian zealots preach openly in Middenheim"* | EiR Intro l.247 |
@@ -246,7 +246,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs simultanés convergent.
 
@@ -334,7 +334,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Cult of Sigmar
 - **Grand Theogonist** : **Volkmar von Hindenstern** (élu ~Jahrdrung 2513, 4 mois post-Yorri).
@@ -392,7 +392,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 
 ### Cellules Main Pourpre religieuses post-Turmoil
 - **Démasquage Empire-wide** via dossier Chambre Noire (cascade fiches 09 + 11).
-- **Cellules régionales** : Nuln, Hochland, Wolfenburg, Averheim, Stirland — **partiellement démasquées** ; identités individuelles agents non précisées canon.
+- **Cellules régionales** : Nuln, Hochland, Wolfenburg, Averheim, Stirland — **partiellement démasquées** ; identités individuelles agents non précisées.
 
 ---
 
@@ -475,7 +475,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - **Order of the Silver Mountain** allié Ludenhof.
 
 - **Cascade depuis [[Turmoil/08 - Stirland (Haupt-Anderssen)]]** :
-  - **Cult of Morr Stirland** forte association canon.
+  - **Cult of Morr Stirland** forte association.
   - **Order of the Raven Knights** Siegfriedhof.
   - **Cult of Taal Stirland** historique en déclin.
   - **Cult of Sigmar Stirland** croissance récente.
@@ -507,7 +507,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 - **(canon)** **Audience Yorri ch.8** (EiR ch.8 l.27) — Yorri sponsoriser quête si Party Sigmarite ; accès coffres tomes interdits Grand Cathedral.
 - **(canon)** **Sauver Yorri ch.13** — possible si chant 9 *"Iztak Graksk!"* interrompu avant complet ; **Yorri n'est tué qu'après 2e cultist action** (note PNJ Yorri).
 - **(canon)** **9 cultistes Main Pourpre déguisés Reiksguard ch.13** (EiR ch.13 l.389-401) — combat Volkshalle ; WS 50, Polearm 70, full plate, Main Pourpre tattoos.
-- **(canon)** **Fils d'Ulric — démasquer leaders obscurs** (PBT ch.2 l.178) — hook PJ identification ; *"the sect wishes to depose Emil"* paradoxe canon.
+- **(canon)** **Fils d'Ulric — démasquer leaders obscurs** (PBT ch.2 l.178) — hook PJ identification ; *"the sect wishes to depose Emil"* paradoxe.
 - **(canon)** **Brotherhood of the Axe infiltrée Khorne via Liebnitz** (cascade fiche 02 ; Fandom Brotherhood of the Axe) — investigation interne Cult Ulric.
 - **(canon)** **Order of the Silver Hammer** opération anti-Krieglitz (cascade fiche 05) — Characters Sigmarites peuvent rejoindre.
 - **(canon)** **Werner Stolz papable** (Fandom Werner Stolz) — hook politique Sigmar Empire-wide post-Volkmar.
@@ -529,7 +529,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -580,7 +580,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - **l.67-91 — Conspirators' Congress** (Köhler + Stolz + Sider + Velten)
 
 - **EiR Companion ch.7 *The Changeling*** :
-  - Gideon canon détails
+  - Gideon détails
 
 - **Enemy in Shadows Companion** :
   - l.193 — *"Grand Theogonist Yorri XV… Arch Lector of the West, Lector of Reikland… based in Altdorf, aged 56"*
@@ -608,10 +608,10 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   - l.178 — Fils d'Ulric umbrella organisation
   - l.184 — Infiltration Chevaliers du Loup Blanc
 
-- **PBT canon p.130-131** :
+- **PBT p.130-131** :
   - Jarrick Valgeir statbloc + Deadly Secret (chantage)
 
-- **PBT canon p.55** :
+- **PBT p.55** :
   - Emil Valgeir statbloc Senior Priest Silver 2
 
 - **Deft Steps Light Fingers ch.41 *The Cult of Taal*** :
@@ -663,13 +663,13 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 - [Niav and Katrinelya — Fandom](https://warhammerfantasy.fandom.com/wiki/Niav_and_Katrinelya) — Hierarchs Taal/Rhya
 - [Cult of the Crimson Skull — Fandom](https://warhammerfantasy.fandom.com/wiki/Cult_of_the_Crimson_Skull) — Khorne sect Middenheim
 - [Templar Witch Hunter — Fandom](https://warhammerfantasy.fandom.com/wiki/Templar_Witch_Hunter) — Order of the Silver Hammer fondé 1682 IC
-- [Sons of Ulric (sourcebook canon WFRP4)](https://warhammerfantasy.fandom.com/wiki/Sons_of_Ulric)
+- [Sons of Ulric (sourcebook WFRP4)](https://warhammerfantasy.fandom.com/wiki/Sons_of_Ulric)
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3.*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3.*
 
 ### 4e Arch-Lecteur (poste non identifié canon)
 
@@ -690,7 +690,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 - **PBT ch.7** : *"He never returns"*.
 - **Pas de date ni de lieu de mort canon** ; possible mort Drakwald/Norsca/Kislev/Chaos Wastes.
 - **Hook possible** : retour Arc 7+ comme antagoniste/allié inattendu.
-- **Décision GM** : à inventer ; canon laisse ouvert.
+- **Décision GM** : à inventer ; laisse ouvert.
 
 ### Tension Volkmar (hardline) vs Stolz (papable) post-Turmoil
 
@@ -701,7 +701,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 ### Allégeance Liebnitz (Crimson Skull complète ou résistance interne)
 
-- **Middenheim ch.1 l.456** : *"infiltrée par les ``brothers worshipping a darker god``"* — vulnérabilité Khorne canon mais **son allégeance personnelle non tranchée canon**.
+- **Middenheim ch.1 l.456** : *"infiltrée par les ``brothers worshipping a darker god``"* — vulnérabilité Khorne mais **son allégeance personnelle non tranchée canon**.
 - **Décision GM** : à inventer (cascade fiche 02 décision GM).
 
 ### Magus Crimson Skull Boris Eichermann statut Turmoil
@@ -713,14 +713,14 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 ### Slogan "Middenland for Middenfolk" canonicity
 
 - **Note PNJ + EiR référence** : slogan utilisé par Fils d'Ulric.
-- **Fandom Sons of Ulric** : **non confirmé** comme slogan officiel canon.
+- **Fandom Sons of Ulric** : **non confirmé** comme slogan officiel.
 - **Possible source** : `Source/Middenheim - City of the Loup Blanc/` sourcebook spécifique WFRP4 (à vérifier).
-- **Décision GM** : utiliser le slogan canon si confirmé Source/, sinon **traiter comme formulation propre à la fiche / cascade fiche 02**.
+- **Décision GM** : utiliser le slogan si confirmé Source/, sinon **traiter comme formulation propre à la fiche / cascade fiche 02**.
 
 ### Fils d'Ulric paradoxe : Emil tolère mais Fils veulent le déposer
 
 - **Canon EiR Intro l.247** : *"He has lifted the ban on the Sons of Ulric, despite the fact that the sect wishes to depose him in favour of one their own"*.
-- **Identité du candidat Fils d'Ulric pour remplacer Emil** : non précisée canon.
+- **Identité du candidat Fils d'Ulric pour remplacer Emil** : non précisée.
 - **Décision GM** : à inventer ; possibilité narrative riche.
 
 ---
@@ -761,7 +761,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 - **Fandom Brotherhood of the Axe** : *"the Crimson Skulls slowly subverted the Brotherhood of the Axe, drawing its leaders into the vile Chaos cult"*.
 - **Cohérent fiche 02** : Claus Liebnitz pivot vulnérable.
-- **Adopté fiche** : infiltration canon explicite.
+- **Adopté fiche** : infiltration explicite.
 
 ### Sigmarian Heresy 3 positions — RÉSOLU
 
@@ -769,7 +769,7 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
   1. Sigmar = demigod inférieur Ulric (shield-bearer)
   2. Sigmar = mortel divinisé à tort
   3. Sigmar = Chaos God masqué
-- **Adopté fiche** : 3 positions canon section 2.
+- **Adopté fiche** : 3 positions section 2.
 
 ### Knights of the Raven nom officiel canon — RÉSOLU
 
@@ -780,5 +780,5 @@ La fiche 10 est **transversale** — toutes les cascades religieuses des fiches 
 
 - **Date Turmoil = 2512 IC** (WFRP4 EiR), pas 2510 (legacy WFRP2/Storm of Chaos).
 - **Volkmar successeur ~Jahrdrung 2513** (4 mois post-Yorri WFRP4).
-- **Cult of Ulric célibat Ar-Ulric** : canon WFRP4 Middenheim sourcebook (renforce chantage Jarrick).
+- **Cult of Ulric célibat Ar-Ulric** : WFRP4 Middenheim sourcebook (renforce chantage Jarrick).
 - Pas d'autre divergence majeure WFRP4 vs WFRP2/3 détectée pour ce front.

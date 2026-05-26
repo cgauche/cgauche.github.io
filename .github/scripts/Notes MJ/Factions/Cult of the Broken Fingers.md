@@ -8,7 +8,7 @@
 - **Statut** : [ACTIVE] (Arc 7 ch. 12) — **5 cultistes confirmés** dont leader.
 - **Tags** : `#BrokenFingers` `#MainPourpre` `#PurpleHand` `#Tzeentch` `#Kemperbad` `#MartinSchmidt` `#OffShoot`
 
-## Source canon
+## Source
 - **EiR ch. 12** *Black Fire Pass to Altdorf* l. 217-229 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Black Fire Pass to Altdorf.md`
 
 ## Leader

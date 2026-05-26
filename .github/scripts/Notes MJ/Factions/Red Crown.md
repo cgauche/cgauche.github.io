@@ -6,7 +6,7 @@
 - **Statut** : [ACTIF] — peu rencontré directement à table
 - **Tags** : `#RedCrown` `#Tzeentch` `#RivalMainPourpre` `#DotR` `#Université-Altdorf`
 
-## Source canon
+## Source
 - EiS ch.1 *Wanted: Bold Adventurers* (Ernst Heidlemann) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/01 - Wanted- Bold Adventurers.md` lignes 442-461
 - **Death on the Reik** + **Death on the Reik Companion** (canon ch.15 *The Red Crown — a GM's Guide*) : `Source/Death on the Reik Companion/22 - CHAPTER 15 THE RED CROWN - A GAMEMASTER'S GUIDE.md`
 - **Empire in Ruins Companion** ch.7 *The Changeling* — possibles infos

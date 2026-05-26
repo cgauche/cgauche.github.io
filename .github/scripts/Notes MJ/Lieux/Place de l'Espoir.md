@@ -9,7 +9,7 @@
 - **Statut** : [ACTIF — exploité par Kärzburdger]
 - **Tags** : `#PlaceDeLEspoir` `#HopeSquare` `#Kärzburdger` `#Bagne` `#Mine` `#Shallya` `#SainteHildegarde` `#Dietrich` `#Varik` `#Arc6` `#S53`
 
-## Source canon
+## Source
 - *Enemy Within Campaign Volume 4 The Horned Rat* : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - …md` ch. *Hope Square* l.4176 (mention) + ch. *The Road East* l.3967-4198.
 
 ## Géographie
@@ -48,7 +48,7 @@
 
 ## Apparitions par session (Arc 6)
 
-- **[S53]** — **Étape obligatoire** sur la route Middenheim → Le Piquet. PJ y passent une nuit. **Dietrich Sprintboch présent** comme représentant Kärzburdger. **Dietrich enquête sur la provenance de la poudre** estampillée Kärzburdger ; sa conclusion personnelle pointe Heinricus, mais **conclusion erronée** — le vector réel canon est Habicht/Brantner au Piquet.
+- **[S53]** — **Étape obligatoire** sur la route Middenheim → Le Piquet. PJ y passent une nuit. **Dietrich Sprintboch présent** comme représentant Kärzburdger. **Dietrich enquête sur la provenance de la poudre** estampillée Kärzburdger ; sa conclusion personnelle pointe Heinricus, mais **conclusion erronée** — le vector réel est Habicht/Brantner au Piquet.
 - **[S55]** — Retour depuis Karak Skygg via dirigeable Heinrich, donc pas d'étape à Place de l'Espoir.
 
 ## Fils ouverts

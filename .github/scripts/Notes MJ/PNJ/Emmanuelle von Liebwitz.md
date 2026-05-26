@@ -36,7 +36,7 @@ Skavens (officiellement non reconnue). Émerge plus forte de chacune,
 mais avec un tranchant impitoyable dès qu'il s'agit de sa propre
 protection `EiR Intro l.841`.
 
-## Phrases canon
+## Phrases
 
 - *« What a gathering. It rather reminds me of the event your father arranged for your 16th birthday, Your Majesty. »* — entrée au pavillon du défilé S60, salutation lancée à Hermann von Feilbach et Boris Todbringer `EiR ch.5 l.202`.
 - *« Your "Majesty", but how would you know? »* puis *« Do you speak with Karl-Franz to learn your lines, or does Holzkrug write them for you? »* — perce le sosie en deux échanges, après l'avoir poussé sur les Toppenheimer `EiR ch.5 l.241+244`.
@@ -112,7 +112,7 @@ exposerait Maria-Luise von Walfen, et elle s'y refuse `EiR ch.7 l.46`.
 - **Calme Thyrus Gormann après le bris de Ghal Maraz** `EiR ch.7 l.268` : 20h10, si les PJ ne tentent rien pour apaiser le Grand Patriarche enflammé, c'est Emmanuelle qui l'apaise. Lecture pour le MJ : sa présence d'esprit, son Iron Will et son Charm 115 + Cool 73 suffisent à imposer le silence dans une salle qui s'embrase magiquement.
 - **Pas présente au climax ch.13** `EiR ch.13 l.231` : Maria-Luise von Walfen indique aux PJ que seuls les Reiklanders seront présents à la cérémonie ; les autres Électeurs, Emmanuelle comprise, sont rentrés préparer leurs domaines à la guerre. Pas d'apparition canon à la cérémonie de remise de Ghal Maraz.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S60 — Défilé d'Altdorf et pavillon impérial :
   - 14h00 : entrée majestueuse, salutation au sosie et à Boris Todbringer `EiR ch.5 l.202`.
@@ -129,7 +129,7 @@ exposerait Maria-Luise von Walfen, et elle s'y refuse `EiR ch.7 l.46`.
   - 20h10 : calme Thyrus Gormann après le bris du faux Ghal Maraz, si les PJ n'agissent pas eux-mêmes `EiR ch.7 l.268`.
 - S64+ — Après le Conclave : rentre à Nuln, prépare ses forces ; signale à l'Empire qu'elle ne se laissera plus mener `EiR ch.13 l.231`. Pas d'apparition canon à la cérémonie de remise de Ghal Maraz `EiR ch.13 l.231`.
 
-## Dénouements canon
+## Dénouements
 
 - **Victoire des PJ — Empire restauré** : Emmanuelle conserve Nuln et probablement Wissenland ; voit son rôle stabilisé. Selon la Tourmente canon, elle devient Grande Comtesse de **Wissenland** (l'Empire post-Turmoil la promeut, et Sudenland devient Hochland) `EiR Intro l.284`.
 - **Victoire de Yann Zuntermein** `EiR Companion ch.6 l.34-37` : Emmanuelle déclare la neutralité de Nuln face aux décrets du Prince-Régent Wolfgang Holswig-Abenauer. Mais elle n'attend pas inactive : informée plus que la plupart, elle prépare un soulèvement pour restaurer les Holswig-Schliestein et éliminer Zuntermein. Pour réussir il lui faut un héritier légitime — le Prince Luitpold, expédié au Grand Hospice. Elle contacte les PJ par intermédiaires : extraire Maria-Luise von Walfen et ses enfants du Grand Hospice et les ramener à Nuln, contre titres nobiliaires et domaines. Bain de sang interdit (prêtresses Shallyennes intouchables sous peine de désastre politique).

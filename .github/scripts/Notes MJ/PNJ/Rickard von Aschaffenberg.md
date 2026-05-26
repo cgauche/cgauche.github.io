@@ -9,13 +9,13 @@
 - **Statut** : [VIVANT, AFFAIBLI] post-S20 (tentative ratée de plant de message + Maximilien expulsé + chute publique de prestige)
 - **Tags** : `#Aschaffenberg` `#RickardAschaffenberg` `#MaisonsUbersreik` `#EnnemiBruner` `#Magnate` `#Baron` `#AffaibliS20` `#Ubersreik`
 
-## Source canon
+## Source
 - **Description + comportement au bal masqué + statbloc Magnate (Gold 3)** : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` lignes 70 (Gallery), 115 (rivalité Bruner), 136 (entrée), 244-246 (tentative de framing), 358-364 (House Aschaffenberg), 367-376 (statbloc Rickard Magnate Gold 3)
 - **Description complémentaire + nouveau statbloc Noble (Gold 3)** : `Source/Ubersreik Adventures III/05 - An Eye for an Eye.md` lignes 131-176 (Lord Rickard Aschaffenberg à Grunewald Lodge — recently married into the von Bruner family !)
 - **Récurrence Ubersreik politique 2509-2513** : `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md` (chronologie)
 - **Apparition mention** : `Source/Starter Set/A Guide to Ubersreik/03 - Welcome to Ubersreik.md` l.213 (les Aschaffenbergs parmi les maisons qui courtisent Nacht)
 
-## Description canon
+## Description
 
 > « *Aschaffenberg is a gregarious and generous man and, despite appearances, tries to take the responsibilities of his class seriously. He believes in the inherent superiority of the aristocracy… Although only a minor noble, Lord Aschaffenberg is still a wealthy and powerful individual. He is a huge bear of a man, overweight but otherwise healthy. He has a large, bushy, dark brown beard and dresses ostentatiously, wearing his golden chains of rank over an ermine robe with fashionably slashed silk sleeves. He is extroverted and usually speaks with a booming and commanding voice.* » (UA III ch.5 l.132-134)
 
@@ -23,7 +23,7 @@
 
 > **Au bal S20** : « *Baron Rickard Aschaffenberg arrives a minute later. Rickard is dressed in a black and gold tunic, which is cunningly sewn to look like chain mail, and has a golden fox-fur about his shoulders and a mask fashioned like the visor of a helmet.* » (RN&HD ch.7 l.136)
 
-## Statbloc canon — **Rickard Aschaffenberg – Magnate (Gold 3)** (RN&HD ch.7)
+## Statbloc — **Rickard Aschaffenberg – Magnate (Gold 3)** (RN&HD ch.7)
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -66,15 +66,15 @@
 - **Mariage à la maison Bruner — incohérence canon-table** :
   - **Canon UA III ch.5** (2515 IC) : « *Two months ago, **Ludmilla von Bruner**, one of Andreas's cousins, was betrothed to **Rickard Aschaffenberg**, a member of a minor noble family from Ubersreik. As part of the dowry, Lord Heisman granted Grunewald Lodge to Rickard until Lord Heisman's youngest son, Leopold von Bruner, comes of age.* » → **Rickard épouse une Bruner en 2515**.
   - **Table (2512 IC)** : Rickard et Heinrich Bruner sont **ennemis jurés à mort**, s'insultent à l'entrée du bal.
-  - **Résolution** : on est **trois ans avant** le mariage canon. Possibilités narratives :
+  - **Résolution** : on est **trois ans avant** le mariage. Possibilités narratives :
     - **(a)** L'inimitié actuelle prépare le **mariage de réconciliation forcée** en 2515 — la haine se mue en alliance contrainte par Lady Kisaya et les anciens pour résoudre l'impasse. Cohérent avec l'épuisement mutuel post-S20.
-    - **(b)** Ludmilla Bruner (cousine d'Andreas) est une **branche cadette** indépendante de la haine principale Rickard/Heinrich. Sigmarite Altdorf (côté Heisman). Le mariage canon est entre **branches distinctes**.
+    - **(b)** Ludmilla Bruner (cousine d'Andreas) est une **branche cadette** indépendante de la haine principale Rickard/Heinrich. Sigmarite Altdorf (côté Heisman). Le mariage est entre **branches distinctes**.
     - **(c)** Recensus narratif : ré-écrire le canon UA III ch.5 si jamais déclenché.
 - **Tentative de framing Slaanesh sur Heinrich** : la carte à jouer plantée représentait une **image slaanéenne**. Rickard a donc **accès à un iconographie Slaanesh** — où l'a-t-il trouvée ? Soit :
   - **(a)** Il l'a achetée à un fence sans la regarder de près = bas-quartiers d'Ubersreik. Trivial.
   - **(b)** Il a un **contact discret** avec un répurgateur (ou ex-répurgateur) qui lui a fourni la pièce comme « preuve ». Plus intéressant — connecte Rickard au réseau sigmarite et le rend partenaire potentiel de [[Matthias Hubkind]] (qui est lui-même radical mais sigmarite officiel — alliance contre nature plausible).
   - **(c)** Il a effectivement **un proche** dans un cult Slaanesh, qu'il manipule. Très risqué pour lui (Doomed).
-- **Hostilité Aschaffenberg-Bruner = vraiment génération-long** : confirmé canon par RN&HD (« *Lord Bruner believes [Aschaffenberg is] his most likely rival for control of Ubersreik* ») et UA III ch.5 (rivalité poursuivie via Grunewald Lodge). Origine non détaillée — peut être MJ-fixée (vieille dette commerciale, sang versé en duel, mariage volé, hommage refusé).
+- **Hostilité Aschaffenberg-Bruner = vraiment génération-long** : confirmé par RN&HD (« *Lord Bruner believes [Aschaffenberg is] his most likely rival for control of Ubersreik* ») et UA III ch.5 (rivalité poursuivie via Grunewald Lodge). Origine non détaillée — peut être MJ-fixée (vieille dette commerciale, sang versé en duel, mariage volé, hommage refusé).
 - **Neveu Maximilien Aschaffenberg** : moqueur sans gravité au bal, mais figure récurrente — apparaît dans **UA III ch.4 *A Tragic Tale of Upheaval*** + **UA III ch.8 *Mirror of Desire*** (rival amoureux de Leopold von Bruner). Encore actif à Ubersreik post-S21.
 - **Post-S20** : Rickard est affaibli mais **vivant et solvable**. **Wealthy 10** equivalent. Peut récupérer politiquement à moyen terme s'il se tient tranquille. Cf. UA III ch.5 (2515) = il finit par **acquérir Grunewald Lodge** comme dowry — sa carrière n'est pas finie.
 - **Doomed prophétique** : possible déclencheur Arc 7 — si les Jundfreud reviennent, Rickard pourrait **basculer côté Jundfreud par opportunisme** (cf. `Factions/Maisons nobles d'Ubersreik.md` MJ-only) — et y mourir.
@@ -93,5 +93,5 @@
 ## Liens
 - **Arcs** : [[Arc 3 - Ubersreik]] (S20 — apparition principale), possible Arc 7
 - **PNJ liés** : **Maximilien von Aschaffenberg** (neveu moqueur, récurrent UA III), [[Heinrich Bruner]] (ennemi mortel), [[Andreas Bruner]] (cible des moqueries via Maximilien), [[Emmanuelle Nacht]] (qu'il courtise au bal), [[Erich von Holzenauer]] (rival politique mineur, vise à le ruiner aussi), **Ludmilla von Bruner** (épouse canon UA III 2515 — pas activée table), **Lady Kisaya Bruiner** (matriarche Bruner, négociatrice probable du mariage canon)
-- **Lieux** : [[Ubersreik]] (résidence familiale principale), [[Grunewald Lodge]] (acquis canon en 2515 via dowry)
+- **Lieux** : [[Ubersreik]] (résidence familiale principale), [[Grunewald Lodge]] (acquis en 2515 via dowry)
 - **Factions** : [[Maisons nobles d'Ubersreik]] (Aschaffenberg — chef), **rivale** Bruner, **rivale** Holzenauer ; **courtise** [[Régence impériale d'Ubersreik]]

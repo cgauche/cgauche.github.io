@@ -13,7 +13,7 @@ confuses, ponctuées de digressions philosophiques, de proverbes, de
 fables d'enfance et de bribes de poésie bretonnienne. Sous l'apparence
 dépenaillée, un esprit affûté et un sens politique aigu.
 
-## Phrases canon
+## Phrases
 
 - *« Who are those folks amongst the Middenheim delegation? I'd have thought the Black Chamber had files on every mover and shaker amongst the court of Middenheim's Grand Duke, yet I've no idea who they may be. »* — feint l'ignorance auprès de Quintus Fassbinder pour le faire parler des PJ `EiR ch.2 l.429`.
 - *« Remain at your posts! These mangy dogs are just looking to distract us! »* — ordre tranchant à Shining Rock `EiR ch.3 l.232`.
@@ -63,7 +63,7 @@ l'incarnation d'un démon majeur.
 - **Réceptacle de secours** `EiR ch.13 l.430-432` : si le Prince Héritier Wolfgang Holswig-Abenauer n'est pas disponible, Zuntermein (ou Karl-Heinz Wasmeier) peut servir de vaisseau substitut pour Sheerargetru — réceptacle inférieur, manifestation affaiblie.
 - **Fin victorieuse de Zuntermein** `EiR ch.13 l.598` : si Sheerargetru est vaincu mais Zuntermein survit et Wolfgang Holswig-Abenauer aussi, Zuntermein reprend l'éducation du Prince Héritier (remplaçant les Neuf Yeux sacrifiés). Wolfgang devient Empereur en marionnette indirecte de la Main Pourpre, et l'Empire glisse vers une guerre civile longue.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S57 — Délégation Altdorf à Middenheim ; parle à Elvira, connaît le groupe depuis Bögenhafen `EiR ch.2 l.227`.
 - S58 — Shining Rock : *« Remain at your posts! These mangy dogs are just looking to distract us! »* `EiR ch.3 l.232`.

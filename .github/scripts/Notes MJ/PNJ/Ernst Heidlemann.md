@@ -10,16 +10,16 @@
 - **Statut** : [MORT S25, Barren Hills] — tué par les PJ aux Collines Stériles aux côtés d'Etelka Herzen.
 - **Tags** : `#ErnstHeidlemann` `#RedCrown` `#Tzeentch` `#WizardApprentice` `#DotR` `#Anti-PurpleHand`
 
-## Source canon
+## Source
 - EiS ch.1 *Wanted: Bold Adventurers* (apparition + statbloc + identité) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/01 - Wanted- Bold Adventurers.md` lignes 171-172, 257-270, 442-461
 - **Death on the Reik** (réapparait dans le complot Signal Tower)
 
-## Description canon
+## Description
 > "In his early 20s, Heidlemann is of average height and is trying hard to grow a beard. He has **lank, brown hair and pale-blue eyes**. **He is a low-ranking member of the Red Crown, a Chaos cult dedicated to Tzeentch and hostile to the Main Pourpre**.
 >
 > He pretends to be a physician's apprentice on his way to continue his studies at Altdorf University, but is actually going there **to deliver vital preparations to a daemonologist and to study Dark Magic**." (EiS ch.1 l.443)
 
-## Statbloc canon — **Ernst Heidlemann – Human Wizard's Apprentice (Silver 2)**
+## Statbloc — **Ernst Heidlemann – Human Wizard's Apprentice (Silver 2)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

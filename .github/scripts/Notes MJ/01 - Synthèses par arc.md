@@ -93,7 +93,7 @@ Découpage de la campagne en 7 arcs narratifs, du début aux 62 sessions actuell
 - Princesse Katarina Todbringer : alliée loyale, **sortie de torpeur**, plus active politiquement post-PBT. **Fiancée forcée à Wolfgang du Reikland Arc 7**.
 - **Nouveaux Law Lords post-PBT** canon : Eberhardt Richter, **Erich Kalzbad (en réalité Magister Impedimentae MP !)** = pion MP nommé Law Lord, **liquidé S41**, Hannes Brucker.
 - **Erina Eberhauer** : sœur cadette de Janna Eberhauer, mage Bright, allié post-S34. **Pas de lien avec Kirsten Jung** (canon — Kirsten = famille Jung d'Altdorf, cousine d'Ulrike + Bertha).
-- **Kirsten Jung** : Lady at Court, **famille Jung d'Altdorf** (cousine d'Ulrike + Bertha Jung canon ch.1), fiancée puis épouse de Dieter post-PBT.
+- **Kirsten Jung** : Lady at Court, **famille Jung d'Altdorf** (cousine d'Ulrike + Bertha Jung ch.1), fiancée puis épouse de Dieter post-PBT.
 - **Dieter Schmiedehammer** : marié à Kirsten post-PBT, forgeron + horse trader. **Re-hypnotisé par Pathsokar S38** pour Croix de Lilas (homebrew, non révélé à Dieter).
 - **Carte du Fort d'Airain dérobée S34** par les skavens (Snikkit) → **lien Arc 6 (Le Piquet S54)**.
 - **Pont Fauschlag Sud effondré S39** — viaduc reconstruit en plusieurs mois.
@@ -116,7 +116,7 @@ Découpage de la campagne en 7 arcs narratifs, du début aux 62 sessions actuell
 - Enquête baronnie d'Holzbek : griffon muté à Gladbeich (S50), rat géant muté à Oberholzbek (S51), village massacré d'Unterfraus (S52). Tous liés au clan skaven de **Maliss** (techno mage).
 - Embuscade sur la route est, le groupe est presque massacré (S53), Elvira/Anselm fuient pour chercher des renforts.
 - **Pesold Imlitz** (sergent Kärzburdger) escorte le groupe au Piquet en remplacement de Dietrich (S53+).
-- Au Piquet : trafic de poudre découvert (sergent **Brantner** Croc Jaune assassiné par les skavens). Fort d'Airain attaqué par les skavens — gros canon nain modifié. Origine : **Karak Skygg** (S54).
+- Au Piquet : trafic de poudre découvert (sergent **Brantner** Croc Jaune assassiné par les skavens). Fort d'Airain attaqué par les skavens — gros nain modifié. Origine : **Karak Skygg** (S54).
 - Karak Skygg (S55) : forteresse naine occupée par Maliss. Elvira réalise qu'ils veulent **tirer sur Morrslieb**. Le groupe sabote le canon → **explosion** de toute la forteresse. Janna Eberhauer (mage prisonnière) sauvée. Récupération à bord du dirigeable de **Heinrich Todbringer** (fils du Graf).
 
 **Sessions** : S40 (rapport + projets perso) → S41 (Kalzbad) → S42 (Jarmund) → S43 (Bhar/égouts) → S44 (dissection) → S45 (Wallenstein torturé) → S46 (Bors voleur + Heaume) → S47 (assassin skaven) → S48 (audience Graf) → S49 (Faim noire + fête Rhya) → S50-52 (baronnie Holzbek) → S53 (route est) → S54 (Piquet) → S55 (Karak Skygg).
@@ -157,10 +157,10 @@ Découpage de la campagne en 7 arcs narratifs, du début aux 62 sessions actuell
 - **Attaque manoir Helstein** Altdorf par sigmarites furieux. **Boris MORT** étranglé par « Volkmar » (= Gideon changelin canon Doppelgänger pattern S38). Vrai Volkmar priait cathédrale. **[[Vieran Thugenheim]] DISPARU** corps non retrouvé.
 - **Heinrich Todbringer héritier de fait** — demande aux PJ retrouver vrai Ghal Maraz + ramener pour marcher sur Altdorf demander réparation.
 - **Stefan Todbringer** reste Middenheim avec Pavarotti.
-- **Sponsor quête canon ch.8 remplacé** : Heinrich (mandat Maison Todbringer) plutôt que canon Immanuel-Ferrand/Yorri/Boris/Holzkrug-Zuntermein.
+- **Sponsor quête ch.8 remplacé** : Heinrich (mandat Maison Todbringer) plutôt que canon Immanuel-Ferrand/Yorri/Boris/Holzkrug-Zuntermein.
 
 ### S64+ canon EiR ch.8-13 à préparer
-- **Ch.8 Aventuriers Audacieux Recherchés !** : Altdorf 1-2 jours. **[[Quintus Fassbinder]]** handouts Vithang Dum + Three Mothers + acrostiche SHEERARGETRU + Bertoldt Malleun + permis minier Teugen-Steinhäger-Haagen + Yodri Smednir-Sheerargetru. **[[Henrik Kappelmuller]]** démasquage chambre impériale + Karl-Franz Vitality Draught lucide + 5 escape options canon.
+- **Ch.8 Aventuriers Audacieux Recherchés !** : Altdorf 1-2 jours. **[[Quintus Fassbinder]]** handouts Vithang Dum + Three Mothers + acrostiche SHEERARGETRU + Bertoldt Malleun + permis minier Teugen-Steinhäger-Haagen + Yodri Smednir-Sheerargetru. **[[Henrik Kappelmuller]]** démasquage chambre impériale + Karl-Franz Vitality Draught lucide + 5 escape options.
 - **Ch.9 Altdorf → Black Fire Pass** : ~3 sem. **[[Brunhilde von Flamme]]** Carroburg + **[[Cerdic Linden]]** Schertal Old Faith + **[[Baron Klaus von Bachmann]]** Wissenland + **[[Hans Knees]]** Nuln docks Emmanuelle spy + **[[Orla Feder]]** Nuln Branch MP + **[[Fione Brecht]]** Threshers Sudenland false flag + Streissen Leitdorf coup + **[[Marius Leitdorf]]** Mad Count + Marlene Alptraum + Grenzstadt + **[[Rauf Wasserburg]]** Night Vigil.
 - **Ch.10 In Sigmar's Footsteps** : ~1 sem. Old Dwarf Road + Bloodmoss Plain + Black Fire Keep + 5 Stations Exodus + Vithang Dum + Three Mothers + Zan Mingol + Schmerzeit Mine + Lost Gorge + **Madcraw Clan** (Cruzzik Cacklespit + Slik Moongobba + Globnak Mansplatta + Old Gruntlob) + Sievers Imperial Ostlanders return.
 - **Ch.11 Caves of Chaos** : 1-2 jours. **9 cavernes thématiques Vents de la magie** (Ghur, Ulgu, Chamon, Azyr, Shyish, Aqshy, Hysh, Ghyran, Dhar). Three-Headed Chaos Hound + Ghosts + Treacherous Herald (4 gifts corrupting) + Rainbow Snakes + Zombies + Pink/Blue Horrors + Chaos Minotaur Lord + Adelfried Jarmund heretic Verena + Harpies + **Ghal Maraz récupéré** (drained 3 runes inactives). **Backup canon : si PJ refusent, Gideon recrute Sievers + Renate Hausier + Sigrid + Golthog + Erina Eberhauer**.

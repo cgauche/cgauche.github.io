@@ -5,15 +5,15 @@
 > **Master Warlock-Engineer du Clan Skryre**. **Architecte du Moonbreaker Cannon**. Antagoniste principal Arc 6 (S40-S55). **Statut incertain S55** : grièvement blessé puis évacué par un sbire avec bombe fumigène lors de la destruction de Karak Skygg.
 
 ## Identité publique
-- **Nom canon complet** : **Maliss Manrack** (canon HR l.668+5507). Surnom **« Bronze-Finger »** (l.5492+5497) suite à augmentations mécaniques.
+- **Nom complet** : **Maliss Manrack** (canon HR l.668+5507). Surnom **« Bronze-Finger »** (l.5492+5497) suite à augmentations mécaniques.
 - **Espèce** : Skaven Clan Skryre (technomage).
 - **Fonction** : **Master Warlock-Engineer** (canon l.5507). Chef du clan Skryre à Karak Skygg.
 - **Apparence** : Skaven mutant avec **augmentations mécaniques bioniques** (le membre droit + appareils). Doigt(s) bronze. Fourrure usée par malpierre.
 - **Personnalité** : Brillant ingénieur, ambitieux, ruthless. Traite **Clan Mange/Galeux comme esclaves**, **Yellow Fang comme outils**. Manipule **Hermann von Talg** (humain quisling) pour augmenter ses connaissances.
-- **Statut** : [STATUT INCERTAIN — probable mort S55] — touché à mort par Pesold + Phineas, évacué par sbire avec bombe fumigène, canon explose et détruit Karak Skygg.
+- **Statut** : [STATUT INCERTAIN — probable mort S55] — touché à mort par Pesold + Phineas, évacué par sbire avec bombe fumigène, explose et détruit Karak Skygg.
 - **Tags** : `#Maliss` `#MalissManrack` `#BronzeFinger` `#ClanSkryre` `#WarlockEngineer` `#TechnoMage` `#Moonbreaker` `#KarakSkygg` `#Skaven` `#Tzeentch` `#Arc6` `#StatutIncertainS55`
 
-## Source canon
+## Source
 - **HR ch. *Villainous Factions* l.665-697** : *The Skaven* + *Maliss Manrack* + *Clan Mange* + *Under-Middenheim* + *Snikkit's Warband* + *Yellow Fang*.
 - **HR ch. *Karak Skygg* l.4963-5605**, notamment :
   - **Maliss Manrack, Master Warlock-Engineer** : statbloc l.5507.
@@ -23,7 +23,7 @@
   - **The Final Countdown** : l.5037.
   - **Maliss Manrack's Plan and How to Stop It** : l.5028.
 
-## Statbloc canon (HR l.5507)
+## Statbloc (HR l.5507)
 
 **Maliss Manrack, Master Warlock-Engineer**
 
@@ -37,19 +37,19 @@ Stats partielles d'après lecture canon (à étoffer table sur statbloc précis)
 - **Warpblade Halberd** [canon l.5523] : arme magique malpierre.
 - **Augmentations bioniques** : membre + doigt(s) bronze.
 
-## Plan canon : le Moonbreaker
+## Plan : le Moonbreaker
 
 **Plan en 4 étapes** (canon HR *Maliss Manrack's Plan* l.5028) :
 1. **Récupérer la malpierre liquide** : tubes de Karak Skygg (Refinery).
-2. **Construire un canon nain modifié** : armes naines de Karak Skygg + ingénierie Skryre + Hermann von Talg humain quisling.
+2. **Construire un nain modifié** : armes naines de Karak Skygg + ingénierie Skryre + Hermann von Talg humain quisling.
 3. **Capturer un astronome** : **Janna Eberhauer** pour prédire passage Morrslieb.
 4. **Tirer sur Morrslieb** → la fracturer → **pluie de malpierre sur l'Empire** = **dominion Skryre**.
 
 ### Échec canon S55
-- Canon HR *Escape to Victory* l.5566 : Maliss arrêté par PJ + canon dysfonctionne + explosion forteresse.
+- Canon HR *Escape to Victory* l.5566 : Maliss arrêté par PJ + dysfonctionne + explosion forteresse.
 - À table : **bombe fumigène évacue Maliss agonisant** = **statut incertain**.
 
-## Personnalité (canon HR + interview *A Conversation with Bronze-Finger* l.5497)
+## Personnalité (HR + interview *A Conversation with Bronze-Finger* l.5497)
 
 - Si questionné directement : **mégalomanie**. Décrit son plan avec **enthousiasme**.
 - **Sous-estime les autres clans** Skaven.
@@ -77,9 +77,9 @@ Stats partielles d'après lecture canon (à étoffer table sur statbloc précis)
 
 ## MJ-only
 
-- **Survie possible canon** : *« What Happens If Maliss Gets Close to Success? »* (l.5536) — canon prévoit fuite si plan échoue.
+- **Survie possible canon** : *« What Happens If Maliss Gets Close to Success? »* (l.5536) — prévoit fuite si plan échoue.
 - **Hook Arc 7+** : Maliss survivant peut **réapparaître** dans une autre opération Skryre.
-- **Manrack Family** : canon mention Clan Skryre lignée. Possible vendetta familiale Arc 7+.
+- **Manrack Family** : mention Clan Skryre lignée. Possible vendetta familiale Arc 7+.
 - **Hermann von Talg** [canon l.5367] : ingénieur humain renégat manipulé par Maliss. **Statut indéterminé** post-S55.
 - **Tiktik the Tally Rat** [canon l.5211] : packmaster Skryre. **Statut indéterminé** post-S55.
 - **Three-Eyes Rat Ogre Bellringer** [canon l.5426-5427] : tué dans la bataille.
@@ -97,7 +97,7 @@ Stats partielles d'après lecture canon (à étoffer table sur statbloc précis)
 - **FIL Maliss statut incertain** — actif Arc 7+.
 - **FIL 3e météorite Morrslieb** — inconnue.
 - **FIL Hermann von Talg quisling** — statut indéterminé.
-- **FIL Warlord Kratz Clan Mange** — canon dit qu'il peut s'allier aux PJ si libéré. **À table : non libéré S55**.
+- **FIL Warlord Kratz Clan Mange** — dit qu'il peut s'allier aux PJ si libéré. **À table : non libéré S55**.
 - **FIL-46** — *Pierre céleste perdue aux skavens (Arc 4)* — partiellement consommée par Karak Skygg ; possible reliquat ailleurs.
 
 ## Liens

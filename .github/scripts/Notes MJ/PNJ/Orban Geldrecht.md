@@ -9,9 +9,9 @@
 - **Statut** : [MORT S16] — tué dans l'embuscade aux Montagnes Grises pendant la traque Carolus, alors qu'il participait à la riposte contre les PJ après leur infiltration du gymnase.
 - **Tags** : `#Orban` `#Geldrecht` `#Shornaal` `#Slaanesh` `#CircleOfUnmarredFlesh` `#Pugiliste` `#Gymnase` `#MORT` `#MortS16`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` (UA1, scénario Vielfrass + gymnase).
-- Statbloc canon **Unmarred Flesh Cultist – Pugilist (Brass 4)** : UA1 lignes ~2286-2298 (template applicable, sans doute boosté pour Orban en chef sur le terrain).
+- Statbloc **Unmarred Flesh Cultist – Pugilist (Brass 4)** : UA1 lignes ~2286-2298 (template applicable, sans doute boosté pour Orban en chef sur le terrain).
 
 ## Apparitions par session
 - **[S16]** — Cœur de verre :

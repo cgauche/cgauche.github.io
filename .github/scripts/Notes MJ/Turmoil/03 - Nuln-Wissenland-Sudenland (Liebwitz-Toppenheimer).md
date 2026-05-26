@@ -20,7 +20,7 @@
 - **Devises et bannières** :
   - **Nuln State Army** : *"deep black uniform with gold lion"* — uniforme militaire canon (EiR ch.9 l.297)
   - **Sudenland State Army** : *"buff uniforms"* (EiR ch.9 l.298)
-  - **Surnoms canon de Nuln** : *"Jewel of the Empire"*, *"Bastion of the South"*, *"Armoury of the Empire"* (Fandom Nuln)
+  - **Surnoms de Nuln** : *"Jewel of the Empire"*, *"Bastion of the South"*, *"Armoury of the Empire"* (Fandom Nuln)
 - **Coat of arms** : Nuln = lion d'or sur fond noir (uniforme militaire canon EiR ch.9 l.297) ; Solland historique = soleil d'or.
 
 ### Acteurs principaux pré-Turmoil — Nuln-Wissenland (camp Emmanuelle)
@@ -28,8 +28,8 @@
 #### Maison von Liebwitz
 - [[Emmanuelle von Liebwitz]] — **Grand Countess of Nuln**, **Countess of Wissenland**, **Duchess of Meissen (in Sudenland)** ; Elector Countess ; numérotée canon **Emmanuelle XV** (Fandom Emmanuelle) ; accédant au titre Wissenland en **2503 IC** (Fandom) ; *"beautiful and decadent, loves Nuln and spends almost all her time hosting fabulous balls and dinners that last for days"* (Archives Vol I l.131) ; *"over 10,000 complete outfits"* (Archives Vol I l.133) ; *"adept politician"* (EiR ch.5 l.70) ; *"articulate, measured in her use of words and shrewd in her judgement"* (EiR ch.12 l.193) ; **amitié genuine avec Maria-Luise von Walfen** (lui confesse au Conclave le secret de l'imposteur Karl-Franz, EiR ch.7 l.212-226) ; *"refuses guards of knightly orders"* — *"clanking aggravates her delicate nerves"* (Archives Vol I) ; **Doomed** *"Thy end is not thy end"* (statbloc RN&HD ch.5)
 - **Konstantin von Liebwitz** (historique) — **père d'Emmanuelle**, ancien **Count of Nuln** + Chancellor of the University of Nuln (Fandom Konstantin von Liebwitz) ; mort avant 2503 IC.
-- **Leos von Liebwitz** (canon Black Library/Fandom) — **sœur biologique d'Emmanuelle élevée et présentée comme garçon** (Fandom Konstantin von Liebwitz : *"his secondborn daughter as a boy"* ; Fandom Leos von Liebwitz), duelliste *"The Deadly Blade"*, mort/te post-Fog Riots tué·e par Harald Kleindeinst ; **canon WFRP4 ne mentionne pas explicitement Leos** dans EiR/Archives/RN&HD — voir section 10.
-- **Gravin Maria-Ulrike von Liebwitz** — **nièce d'Emmanuelle**, Duchess d'**Ambosstein** (Lexicanum) ; *"confident and usually calm woman in her late thirties"* ; apparition RN&HD ch.5 ; **morte canon table S3** (variation Gauche hors périmètre fiche).
+- **Leos von Liebwitz** (canon Black Library/Fandom) — **sœur biologique d'Emmanuelle élevée et présentée comme garçon** (Fandom Konstantin von Liebwitz : *"his secondborn daughter as a boy"* ; Fandom Leos von Liebwitz), duelliste *"The Deadly Blade"*, mort/te post-Fog Riots tué·e par Harald Kleindeinst ; **WFRP4 ne mentionne pas explicitement Leos** dans EiR/Archives/RN&HD — voir section 10.
+- **Gravin Maria-Ulrike von Liebwitz** — **nièce d'Emmanuelle**, Duchess d'**Ambosstein** (Lexicanum) ; *"confident and usually calm woman in her late thirties"* ; apparition RN&HD ch.5 ; **morte table S3** (variation Gauche hors périmètre fiche).
 - **Hermine Liebwitz von Decker und Hanulf** — lointaine cousine d'Emmanuelle, **Steward des celliers du Volkshalle** à Altdorf (EiR ch.7 l.91 ; ch.13 l.234) — pivot logistique au Conclave.
 - **Maison originaire de Meissen** (Sudenland) (Fandom Konstantin von Liebwitz) — la lignée Liebwitz vient historiquement du sud, ce qui justifie en partie la claim sur Sudenland.
 
@@ -48,16 +48,16 @@
 - **Imperial Gunnery School** — *"first foundry and gunnery school established in the century leading up to the Great War Against Chaos in 2301 IC… formalised by Emperor Magnus I"* (Fandom Imperial Gunnery School) ; **plus grande fonderie de canons de l'Empire** ; à la pointe de la poudre noire, machines à vapeur, armes de siège (Archives Vol I l.158-161).
 - **College of Engineering** (alias Imperial Engineers School) — rival décrépit de la Gunnery School ; *"Treachery — probably Bretonnian, though possibly from mutants from the Night Market — caused the grand building to burn down, destroying the new Steam Tanks and Organ Gun prototypes"* (Fandom Imperial Engineers School). **Date 2504 IC = canon EiR exclusif** (Archives Vol I l.162), non daté Fandom — voir section 10.
 - **University of Nuln** — ancienne, prestigieuse, *"étudiants jusqu'à Araby"* (Archives Vol I l.120) ; Konstantin von Liebwitz en fut Chancellor ; **origine de la cellule *Ordo Ultima* (Slaanesh)** canon RN&HD ch.3.
-- **Cellule Main Pourpre de Nuln** — *"agents nulniens de la Main Pourpre répandent des rumeurs enflammées pour accélérer ses ambitions"* (EiR Intro l.283 paraphrase). Cellule distincte de celles d'Altdorf/Averheim/Drakwald. Identité non précisée canon.
+- **Cellule Main Pourpre de Nuln** — *"agents nulniens de la Main Pourpre répandent des rumeurs enflammées pour accélérer ses ambitions"* (EiR Intro l.283 paraphrase). Cellule distincte de celles d'Altdorf/Averheim/Drakwald. Identité non précisée.
 - **Mafia Valentina, Mafia Schatzenheimer, Mafia Huydermans** — réseaux criminels canon RN&HD/note Nuln (hors périmètre fiche Turmoil 2512).
 
 ### Acteurs principaux pré-Turmoil — Sudenland (camp Toppenheimer)
 
 #### Maison Toppenheimer
-- [[Etelka Toppenheimer]] — **Grand Baroness of Sudenland**, **Baroness of Pfeildorf**, **Baroness of Grissenwald**, **Baroness of Geschburg**, **Lady of the Granite Pass** (titres canon complets Lexicanum Pfeildorf) ; Elector Countess de Sudenland (Archives Vol I l.261) ; prénom complet canon = **Etelka Morella von Toppenheimer** (Fandom Turmoil of 2512 — orthographe principale ; variante "Molrella" est typo Fandom dans la même page) ; **ambition canon** = *"the current elector of Sudenland, her most vocal champion. Has also been so rash as to declare that, were she to have her way, the Toppenheimers would rule Nuln as they did in previous centuries"* (EiR Intro l.261 — **claim canon EiR-exclusif** non corroboré Lexicanum/Fandom, voir section 10) ; ambition explicite de **restaurer Solland comme Grande Province** (EiR Intro l.261). **House Toppenheimer rules Sudenland depuis sa fondation par Magnus en 2305 IC** (Lexicanum Pfeildorf).
+- [[Etelka Toppenheimer]] — **Grand Baroness of Sudenland**, **Baroness of Pfeildorf**, **Baroness of Grissenwald**, **Baroness of Geschburg**, **Lady of the Granite Pass** (titres complets Lexicanum Pfeildorf) ; Elector Countess de Sudenland (Archives Vol I l.261) ; prénom complet canon = **Etelka Morella von Toppenheimer** (Fandom Turmoil of 2512 — orthographe principale ; variante "Molrella" est typo Fandom dans la même page) ; **ambition canon** = *"the current elector of Sudenland, her most vocal champion. Has also been so rash as to declare that, were she to have her way, the Toppenheimers would rule Nuln as they did in previous centuries"* (EiR Intro l.261 — **claim canon EiR-exclusif** non corroboré Lexicanum/Fandom, voir section 10) ; ambition explicite de **restaurer Solland comme Grande Province** (EiR Intro l.261). **House Toppenheimer rules Sudenland depuis sa fondation par Magnus en 2305 IC** (Lexicanum Pfeildorf).
 - **Basil Toppenheimer** — **fils adoptif d'Etelka, héritier désigné** (EiR Intro l.263 ; ch.7 l.164) ; canon **EiR-exclusif** (non corroboré Fandom/Lexicanum — voir section 10). **A causé le scandale dynastique** : sa désignation comme héritier prive les 12 enfants naturels de leur héritage.
 - **12 enfants naturels d'Etelka** — **dismayed and rebellious** ; **8 d'entre eux soutiennent secrètement Emmanuelle** dans la conquête militaire de Sudenland (EiR Intro l.263 ; ch.17 l.26 : *"To the surprise of many, Grand Countess Emmanuelle was supported in her war efforts by no less than eight of Grand Baroness Toppenheimer's own children"*). **Identités individuelles non précisées canon** — voir section 10.
-- **Molly Toppenheimer** (canon Fandom/Lexicanum Pfeildorf-Geschburg) — *"daughter and named heir"* d'Etelka selon WFRP2 (Sigmar's Heirs era), baronne de **Geschburg**. **Résolution canon WFRP4** (Basil héritier désigné EiR superseding WFRP2 par règle projet) : **Molly = une des 12 enfants naturels déshéritée** au profit de Basil. Voir notes hors filtre section 10.
+- **Molly Toppenheimer** (canon Fandom/Lexicanum Pfeildorf-Geschburg) — *"daughter and named heir"* d'Etelka selon WFRP2 (Sigmar's Heirs era), baronne de **Geschburg**. **Résolution WFRP4** (Basil héritier désigné EiR superseding WFRP2 par règle projet) : **Molly = une des 12 enfants naturels déshéritée** au profit de Basil. Voir notes hors filtre section 10.
 
 #### Threshers — unité clandestine Toppenheimer
 - **Fione Brecht** — **infamously cunning mercenary captain** (EiR ch.9 l.295) ; Human Officer Gold 1 ; *"obsessed with playing her part in the convoluted chain of events that leads to the end of the world. Obsessed with subterfuge and disinformation"* (EiR ch.9 l.305) ; *"the 'cults within cults' approach favored in Tzeentch worship ideal for her"* ; **Main Pourpre tattoo couvert par un bird tattoo convoluté** mais *"a knowing Character can see the lines of the original at a glance"* (EiR ch.9 l.307) ; Doomed *"Your nemesis shall strike from the river"* ; **PNJ EiR-exclusif** (non Fandom/Lexicanum, voir section 10).
@@ -83,7 +83,7 @@
 - **Söll** — dieu solaire ménogoth, *"northern incarnation of Solkan, the ancient patron of the Menogoth tribe"* (Archives Vol III l.153 ; Fandom Söll). Sceptre = lame enflammée. **Doctrine** : *"Worshippers in Solland believe their god will avenge and restore their sovereignty, by wiping out the Orc successors of Gorbad Ironclaw"* (Archives Vol III l.141).
 - **Strictures** : *"Revere the sun's cleansing light each day. Suppress all emotions except righteous fury. Never tolerate signs of impurity. Do not compromise"* (Archives Vol III l.165-173).
 - **Prêtres Söllites militants** — *"agitate for Solland's independence and against the earthy rites of Rhya"* (Archives Vol III l.186) ; bannière de la restauration de Solland comme Grande Province. **Söllites = agresseurs politiques** ; **Rhyans = cible passive** ; *"Riots between Rhyans and Söllites are a regular headache for the authorities"* (Archives Vol I l.298).
-- **Temple à demi en ruines de Söll** près de **Steingart** — *"faded wall frescoes of Söll vanquishing a horde of Bloodletters"* (Archives Vol III l.141) — site canon de pèlerinage Söllite.
+- **Temple à demi en ruines de Söll** près de **Steingart** — *"faded wall frescoes of Söll vanquishing a horde of Bloodletters"* (Archives Vol III l.141) — site de pèlerinage Söllite.
 
 #### Culte de Rhya (Sudenland ouest)
 - **Rhya** — déesse de la fertilité, terre, abondance, amour. **Majoritaire rural** dans l'**ouest de Sudenland** (= ex-sud-Wissenland annexé en 2305 IC).
@@ -98,7 +98,7 @@
 - **Châteaux Sollander en ruines** (est du Söll) — *"old Sollander castles and abandoned towns destroyed in Gorbad's invasion haunt the landscape"* (Archives Vol I l.300).
 
 ### Acteurs Main Pourpre impliqués
-- **Cellule Main Pourpre de Nuln** — répand les rumeurs justificatives de l'annexion (EiR Intro l.283) ; identité non précisée canon.
+- **Cellule Main Pourpre de Nuln** — répand les rumeurs justificatives de l'annexion (EiR Intro l.283) ; identité non précisée.
 - **Yann Zuntermein** (Altdorf cell, spymaster Chambre Noire) — orchestre l'ensemble du Turmoil, *"installer Wolfgang Holswig-Abenauer en marionnette"* (Fandom Turmoil of 2512).
 - **Fione Brecht (Threshers)** — **cultiste Main Pourpre actif**, tattoo Main Pourpre sous bird cover (EiR ch.9 l.307) — instrument false-flag.
 - **Cellule Main Pourpre d'Averheim** — utilise *"an old feud between the Alptraums and Leitdorfs"* (EiR Intro l.283 ; cascade fiche 04). **Mécanique identique** au front Nuln-Sudenland mais sur Averland.
@@ -164,12 +164,12 @@
 - Maison Pfeifrauchers (Wissenland) — favoris d'Emmanuelle dans la guerre d'influence contre les Toppenheimer (EiR Intro l.261) ; **status quo allié**, mais Emmanuelle les dépossédera en 2514 IC (Lexicanum Kreutzhofen)
 - **8 des 12 enfants naturels d'Etelka Toppenheimer** (secret pré-Turmoil, public post-Turmoil)
 - Cellule Main Pourpre de Nuln (manipulation passive — ses agents répandent les rumeurs sans qu'Emmanuelle le sache forcément)
-- **Karl-Franz** (post-Conclave, ratifie l'annexion canon ch.17 l.30)
+- **Karl-Franz** (post-Conclave, ratifie l'annexion ch.17 l.30)
 - **Maria-Luise von Walfen** (amitié genuine, confidente du secret de l'imposteur ch.7 l.212-226)
 
 **Pro-Etelka (camp Toppenheimer)** :
 - Maison Toppenheimer + **Basil** (héritier adopté)
-- **4 enfants naturels restants** : statut canon non précisé (probablement loyaux ou neutres — **par déduction** ; canon EiR Intro l.263 ne parle explicitement que des 8 ralliés à Emmanuelle, les 4 autres peuvent être morts, neutres, ou silencieux)
+- **4 enfants naturels restants** : statut non précisé (probablement loyaux ou neutres — **par déduction** ; canon EiR Intro l.263 ne parle explicitement que des 8 ralliés à Emmanuelle, les 4 autres peuvent être morts, neutres, ou silencieux)
 - **Fione Brecht + Threshers** (mercenaires manipulés par Main Pourpre)
 - **Hugo Bottomdown** (spy halfelin)
 - Prêtres Söllites militants **partiellement** — leur agenda (restauration Solland) aligne avec Etelka mais ils ne sont pas son outil direct
@@ -202,7 +202,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au front Nuln-Sudenland s'enclenche en plusieurs étapes orchestrées par la **Main Pourpre** (cellule de Nuln + manipulation Brecht) qui exploite et amplifie l'animosité Liebwitz-Toppenheimer pré-existante.
 
@@ -294,7 +294,7 @@ Le Turmoil au front Nuln-Sudenland s'enclenche en plusieurs étapes orchestrées
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
 - **Nouvelle entité** : **Grand Province of Wissenland** (canon EiR Companion ch.6 l.162) — englobe Nuln + ex-Wissenland (Pfeifraucher) + ex-Sudenland (Toppenheimer).
@@ -323,9 +323,9 @@ Le Turmoil au front Nuln-Sudenland s'enclenche en plusieurs étapes orchestrées
 
 ### Statut des perdants
 - **[[Etelka Toppenheimer]]** : **déposée comme Grand Baroness de Sudenland en 2515 IC** ; *"forced to resign and accept the re-unification of her province with the Wissenland"* (Fandom Pfeildorf). **Conserve cependant le titre de Baroness of Pfeildorf** ; Fandom : *"the now reduced Baroness of Pfeildorf is still appreciated by her subjects, who occasionally call her to bear arms when required"*. **Annexion militaire 2512** → **déposition formelle différée 2515** (3 ans de transition canoniques).
-- **Basil Toppenheimer** : héritier d'une maison déposée comme Grande Province ; **statut personnel post-2515 canon non précisé** (tension avec Molly Toppenheimer fille canon WFRP2, voir section 10).
-- **8 enfants Toppenheimer pro-Emmanuelle** : récompensés (cohérent avec leur soutien militaire) ; canon ne précise pas leurs nouvelles positions.
-- **4 enfants Toppenheimer pro-Etelka (par déduction)** : déposés également ; canon ne précise pas.
+- **Basil Toppenheimer** : héritier d'une maison déposée comme Grande Province ; **statut personnel post-2515 non précisé** (tension avec Molly Toppenheimer fille canon WFRP2, voir section 10).
+- **8 enfants Toppenheimer pro-Emmanuelle** : récompensés (cohérent avec leur soutien militaire) ; ne précise pas leurs nouvelles positions.
+- **4 enfants Toppenheimer pro-Etelka (par déduction)** : déposés également ; ne précise pas.
 - **Maison Toppenheimer dans son ensemble** : dépouillée de Sudenland (gouvernée depuis 2305 IC — fin de 207 ans de règne).
 - **Count Bruno Pfeifraucher** (perdants différés) : *"errant vassal"*, dépouillé de Wissenland par Emmanuelle en **2514 IC** (Lexicanum Kreutzhofen) — 2 ans après le Turmoil, l'**hégémonie Liebwitz devient totale**.
 - **Maison Pfeifraucher dans son ensemble** : conserve Kreutzhofen et propriétés mineures probables, mais perd le siège vassalique.
@@ -337,7 +337,7 @@ Le Turmoil au front Nuln-Sudenland s'enclenche en plusieurs étapes orchestrées
 - **Imperial Gunnery School** : continuité (renforcement par la victoire militaire post-Turmoil = **déduction** non explicite canon).
 - **Tilean condottieri "Blue Heron"** : continuité (Archives Vol I l.135).
 - **Leopard Company** (mercenaires tiléens) : payés et probablement libérés post-annexion (Fandom Turmoil of 2512).
-- **Margrave of Vennland** (ancienne province interne Sudenland) : statut canon non précisé post-annexion.
+- **Margrave of Vennland** (ancienne province interne Sudenland) : statut non précisé post-annexion.
 
 ### Religion post-Turmoil
 - **Tension Rhya/Söll persistante** dans le sud (Archives Vol III l.186).
@@ -367,13 +367,13 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 | **Count Bruno Pfeifraucher** | Vassal Wissenland sous Emmanuelle, base Kreutzhofen | **Dépossédé de Wissenland en 2514 IC** par Emmanuelle (perdant différé) | Vivant 2512, déposé 2514 (Lexicanum Kreutzhofen) |
 | **Hugo Pfeifraucher** | Membre de la cour Nuln, allié humilié canon-table | (idem) | Vivant (note Emmanuelle.md ; RN&HD ch.5) |
 | **[[Etelka Toppenheimer]]** (Etelka Morella) | Grand Baroness Sudenland + Baroness Pfeildorf + Baroness Grissenwald + Baroness Geschburg + Lady of the Granite Pass ; Electrice Sudenland | **Déposée comme Grand Baroness en 2515 IC** (Fandom Pfeildorf) ; **conserve titre Baroness of Pfeildorf** ; *"still appreciated by her subjects, occasionally called to bear arms"* | Annexion militaire 2512, déposition formelle 2515 (Fandom Pfeildorf ; EiR Companion ch.6 l.162) |
-| **Basil Toppenheimer** | Fils adoptif héritier désigné, **PNJ EiR-exclusif** | Maison déposée ; statut canon non précisé | Variable (EiR Intro l.263) |
+| **Basil Toppenheimer** | Fils adoptif héritier désigné, **PNJ EiR-exclusif** | Maison déposée ; statut non précisé | Variable (EiR Intro l.263) |
 | **12 enfants naturels d'Etelka** | Déshérités au profit de Basil ; 8 secrètement pro-Emmanuelle | **8 publiquement rejoignent guerre Emmanuelle** ; 4 restent fidèles (par déduction) ; identités individuelles non précisées canon | Variable (EiR Intro l.263 ; ch.17 l.26) |
 | **Molly von Toppenheimer** (Geschburg) | Baronne Geschburg (lien Etelka non précisé) | (canon post-Turmoil non précisé) | Vivante canon (Lexicanum Pfeildorf) |
 | **Margrave of Vennland (Sudenmarshal)** | Commandant State Army Sudenland | (statut post-annexion non précisé canon) | Variable (Archives Vol I l.278) |
 | **Chancellor of Wissenburg** | Délégué administratif d'Emmanuelle | (idem) | Continuité (Archives Vol I l.137) |
 | **Fione Brecht** | Mercenary captain Threshers, cultiste Main Pourpre (bird tattoo) ; **PNJ EiR-exclusif** | Sort variable selon ch.9 (capture, fuite, ou mort) ; si capturée → seul issue acrostics + riddles | Variable (EiR ch.9 l.282-323) |
-| **Threshers** (warband) | Unité clandestine Toppenheimer, false-flag Heideinheim | Probablement dissous post-capture ou retraite ; canon ne précise pas | Variable (EiR ch.9) |
+| **Threshers** (warband) | Unité clandestine Toppenheimer, false-flag Heideinheim | Probablement dissous post-capture ou retraite ; ne précise pas | Variable (EiR ch.9) |
 | **Hugo Bottomdown** | Halfelin spy d'Etelka, **PNJ EiR-exclusif** | Sort variable selon ch.5 (capture, suicide poison, ou évasion) | Variable (EiR ch.5 l.6-33) |
 | **Yann Zuntermein** | Spymaster Chambre Noire Altdorf + cellule Main Pourpre | Démasqué post-Turmoil par dossier Chambre Noire (cf. fiche 11) | Variable (EiR Intro l.215 ; cf. fiche 11) |
 | **Cellule Main Pourpre de Nuln** | Active, identité non précisée canon | **Non démasquée canon EiR** ; continue à opérer | Variable (EiR Intro l.283) |
@@ -399,7 +399,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
   - **Hugo Bottomdown handout** : mission cumulée incluait la confirmation du mariage Wolfgang-Katarina (fiche 01) — Etelka veille sur le mariage car il modifie la dynamique politique.
 
 - **Cascade vers [[Turmoil/08 - Stirland (Haupt-Anderssen)]]** :
-  - **Heideinheim village raid Threshers** (Stirland bank Aver) — le Stirland est victime directe du false-flag, mais Haupt-Anderssen ne riposte pas militairement canon. Cascade indirecte uniquement.
+  - **Heideinheim village raid Threshers** (Stirland bank Aver) — le Stirland est victime directe du false-flag, mais Haupt-Anderssen ne riposte pas militairement. Cascade indirecte uniquement.
 
 - **Cascade vers [[Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur)]]** :
   - **Karl-Franz reconnaît officiellement** la nouvelle Wissenland post-Turmoil (EiR ch.17 l.30) — Emmanuelle devient alliée stable.
@@ -441,7 +441,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 ### Hooks canon + déduction
 
-- **(canon + déduction)** **Cellule Main Pourpre de Nuln non démasquée** — si les Characters explorent Nuln post-Turmoil, ils peuvent enquêter sur les rumeurs Wassmeier-style. **Identité de la cellule à inventer** car canon ne précise pas.
+- **(canon + déduction)** **Cellule Main Pourpre de Nuln non démasquée** — si les Characters explorent Nuln post-Turmoil, ils peuvent enquêter sur les rumeurs Wassmeier-style. **Identité de la cellule à inventer** car ne précise pas.
 - **(canon + déduction)** **Confiscation Wissenland aux Pfeifrauchers en 2514 IC** — les Characters peuvent (a) anticiper, (b) protéger, (c) accélérer ce moment. **2 ans après Turmoil** = horizon temporel jouable.
 - **(canon + déduction)** **Sort personnel d'Etelka post-déposition** — exil, emprisonnement, ou simple perte de titre ? Hook PJ : sauvetage, vengeance, ou interrogation.
 - **(canon + déduction)** **Basil Toppenheimer post-Turmoil** — héritier d'une maison déposée, possible centre d'une fronde Sudenlander ou Söllite. **Identité canon EiR-exclusive** à étoffer.
@@ -454,7 +454,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -566,9 +566,9 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté.*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté.*
 
 ### "Toppenheimers ruled Nuln in previous centuries" — claim canon EiR-exclusive
 
@@ -580,7 +580,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 ### Caractéristiques personnelles d'Etelka post-2515
 
-- **Canon Fandom Pfeildorf** : déposition formelle en 2515 IC, conservation du titre Baroness of Pfeildorf, *"still appreciated by her subjects"*. **Cadre canon tranché.**
+- **Canon Fandom Pfeildorf** : déposition formelle en 2515 IC, conservation du titre Baroness of Pfeildorf, *"still appreciated by her subjects"*. **Cadre tranché.**
 - **Non précisés canon** : âge précis (donc santé physique post-2515), résidence (Pfeildorf demeuré ou retrait Geschberg), activités diplomatiques post-déposition (ramène-t-elle des alliances Söllites ? maintient-elle un réseau ?).
 - **Décision GM** : à étoffer selon tempo de la table — Etelka est canon **vivante et active** post-2515, juste réduite politiquement.
 
@@ -615,7 +615,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 ### Confiscation Wissenland aux Pfeifrauchers en 2514 IC — raison du délai
 
 - **Lexicanum Kreutzhofen** : *"Grand Countess Emmanuelle von Liebewitz of Nuln took over the rule of Wissenland from her errant vassal, Count Bruno Pfeifraucher in 2514"*.
-- **Raison du délai 2 ans** : **non précisée canon**. Hypothèses (non canon) : (a) Pfeifrauchers étaient alliés pendant Turmoil donc différé politique, (b) absorption Sudenland prioritaire 2512-2513, (c) raison liée au mot *"errant vassal"* (faute spécifique de Bruno qui justifie la confiscation à ce moment-là).
+- **Raison du délai 2 ans** : **non précisée canon**. Hypothèses (non attesté) : (a) Pfeifrauchers étaient alliés pendant Turmoil donc différé politique, (b) absorption Sudenland prioritaire 2512-2513, (c) raison liée au mot *"errant vassal"* (faute spécifique de Bruno qui justifie la confiscation à ce moment-là).
 - **Décision GM** : à étoffer ; opportunité narrative riche.
 
 ### "Otto von Liebwitz" frère d'Emmanuelle (note table) — relation avec canon
@@ -623,14 +623,14 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 - **Canon C7 EiR/Archives/RN&HD** : ne mentionne **aucun frère** d'Emmanuelle (ni Otto, ni Leos).
 - **Canon Black Library / Fandom Leos von Liebwitz** : un seul frère canon = **Leos** *"The Deadly Blade"*, duelliste mort post-Fog Riots — **canon Black Library**, non intégré aux suppléments WFRP4 directement.
 - **Note GM Emmanuelle.md** : mentionne un frère **"Otto"** mort à un Black Powder Week — **variation table Gauche, explicitement hors périmètre fiche canon-pur**.
-- **Web ne tranche pas** : Fandom/Lexicanum n'ont qu'un frère canon (Leos). Pas de second frère canon. **Otto = pure variation table, pas canon C7 ni Black Library.**
+- **Web ne tranche pas** : Fandom/Lexicanum n'ont qu'un frère canon (Leos). Pas de second frère. **Otto = pure variation table, pas C7 ni Black Library.**
 - **Décision GM** : pour fiche canon-pur, **ne mentionner aucun frère** (canon EiR silencieux) OU **mentionner Leos seul** (canon Black Library/Fandom). La fusion Otto+Leos est une décision table hors périmètre.
 
 ---
 
 ## Notes hors filtre section 10 (résolutions documentées)
 
-*Cas où le web ou le recoupement interne canon a tranché — déplacés ici pour ne pas surcharger section 10. Conservés comme traçabilité.*
+*Cas où le web ou le recoupement interne a tranché — déplacés ici pour ne pas surcharger section 10. Conservés comme traçabilité.*
 
 ### Date 1707 IC vs 1712 IC pour invasion Gorbad — RÉSOLU
 
@@ -647,7 +647,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 ### Date 2504 IC incendie College of Engineering — Canon EiR unique, non contredit
 
-- **Archives Vol I l.162** : **2504 IC** (canon C7 EiR-exclusif).
+- **Archives Vol I l.162** : **2504 IC** (C7 EiR-exclusif).
 - **Fandom Imperial Engineers School** : événement confirmé (trahison bretonnienne + prototypes Steam Tanks détruits) mais **date non précisée Fandom**.
 - **Adopté fiche** : 2504 IC. Pas une contradiction canon, juste un fait canon EiR non-corroboré externe.
 
@@ -666,7 +666,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
 
 - **Canon WFRP2 Pfeildorf supplement (Sigmar's Heirs era, cité par Fandom Pfeildorf)** : Molly Toppenheimer = *"daughter and named heir"* d'Etelka, baronne de Geschburg.
 - **Canon WFRP4 EiR (Intro l.263)** : Basil = fils adoptif héritier désigné, scandale du déshéritement des 12 enfants naturels.
-- **Règle d'arbitrage** : **WFRP4 supersède WFRP2** pour tout conflit canon inter-édition (règle projet Foundry).
+- **Règle d'arbitrage** : **WFRP4 supersède WFRP2** pour tout conflit inter-édition (règle projet Foundry).
 - **Résolution adoptée** : **Basil = héritier canon Sudenland 2512 IC**. Molly = **une des 12 enfants naturels déshéritée** (intégrée comme telle section 1 et section 6).
 - **Pas d'ambiguïté résiduelle** — non admissible en section 10.
 

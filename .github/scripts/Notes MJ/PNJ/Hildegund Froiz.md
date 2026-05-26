@@ -10,10 +10,10 @@
 - **Statut** : [VIVANTE — ALLIÉE]
 - **Tags** : `#Hildegund` `#HildegundFroiz` `#Myrmidia` `#Prêtresse` `#Piquet` `#Arc6` `#Allié` `#Emmiline`
 
-## Source canon
+## Source
 - *HR ch. The Picket* l.4395 + statbloc l.4427 *Priestess Hildegund Froiz Priestess Sergeant (Silver 3)*.
 
-## Statbloc canon (HR l.4427)
+## Statbloc (HR l.4427)
 
 **Priestess Hildegund Froiz — Priestess Sergeant of Myrmidia (Silver 3)**
 

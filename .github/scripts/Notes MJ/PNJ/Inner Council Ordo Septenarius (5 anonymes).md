@@ -1,6 +1,6 @@
 # Inner Council Ordo Septenarius — 5 membres anonymes ⚙ homebrew
 
-> **⚙ Homebrew** : le canon EiS ne nomme que **3 des 7 Inner Council membres** : Teugen (chef), Steinhäger, Magirius. Les 4 autres sont anonymes canon. Pour réactiver FIL-27 (Inner Council survivants), voici 5 identités inventées MJ (le 4e étant un remplaçant drafté par Teugen pour Magirius le soir du rituel S12, cf. EiS ch.9 l.170).
+> **⚙ Homebrew** : le canon EiS ne nomme que **3 des 7 Inner Council membres** : Teugen (chef), Steinhäger, Magirius. Les 4 autres sont anonymes. Pour réactiver FIL-27 (Inner Council survivants), voici 5 identités inventées MJ (le 4e étant un remplaçant drafté par Teugen pour Magirius le soir du rituel S12, cf. EiS ch.9 l.170).
 
 ## Vue d'ensemble
 

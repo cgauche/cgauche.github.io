@@ -8,11 +8,11 @@
 - **Localisation physique** : caverne profonde au cœur des **Caves of Chaos**, **Black Fire Pass**, Montagnes Noires. Vu/entrevu par les PJ à Bögenhafen S12 (œil immense lors du rituel raté — cf. FIL-14).
 - **Tags** : `#Sheerargetru` `#LordOfChange` `#Tzeentch` `#GreaterDaemon` `#Antagoniste-Final` `#BlackFirePass` `#GhalMaraz`
 
-## Sources canon
+## Sources
 - *Enemy Within Vol. 5 — Empire in Ruins* : Introduction (background) + ch. 10 *In Sigmar's Footsteps* (loremaster Yodri, histoire de la forge) + ch. 13 *The Empire Saved* (incarnations, statblocks). `Source/Enemy Within Campaign Volume 5 Empire in Ruins/`
 - *Empire in Ruins Companion* ch. 2 *Altdorf in Chaos* (manifestations daemoniques) + ch. 7 *The Changeling* (lien hiérarchique avec Gideon).
 
-## Histoire canonique (telle qu'établie par les sources)
+## Histoire
 ### L'origine — Forge de Ghal Maraz (~–2500 IC)
 Selon le **loremaster Yodri** (Naine, Bechafen), retrouvé par Quintus Fassbinder à Altdorf :
 - Lors de la forge originelle de Ghal Maraz, un daemon de Tzeentch se présente trois fois à **Smednir** (dieu-ancêtre nain de la forge) :

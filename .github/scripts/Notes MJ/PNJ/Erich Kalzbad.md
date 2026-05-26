@@ -9,7 +9,7 @@
 - **Statut** : [VIVANT — CACHÉ Arc 5 → PROMU LAW LORD post-PBT → MORT S41 (incendie magique)]
 - **Tags** : `#ErichKalzbad` `#MainPourpre` `#PurpleHand` `#MagisterImpedimentae` `#Chancellor` `#LawLord` `#Middenheim` `#Arc5` `#Arc6` `#MortS41` `#CelluleMPMiddenheim`
 
-## Source canon
+## Source
 - **PBT ch.7 *Consequences*** (canon p.105) : promotion Law Lord.
 - **PBT ch.7 *Requirements* p.106** : « *Senior Cult Magi Gottfried Jarmund and Erich Kalzbad keep their heads low and remain undiscovered* ».
 - **PBT Appendix I p.123** (Wasmeier sheet) : Inner Council MP Middenheim incluant Kalzbad.
@@ -31,7 +31,7 @@ Canon PBT p.123 (cité dans la fiche Wasmeier) :
 - Coordonne **logistique des opérations bas-niveau** (financement, livraisons, paiements aux cultistes).
 
 ### Arc 6
-- **[S40]** — **Promotion Law Lord** canon post-PBT. Sceau public.
+- **[S40]** — **Promotion Law Lord** post-PBT. Sceau public.
 - **[S41]** — **« Ordo Impedimentae »** (titre résumé S41) — **Kalzbad mort dans un incendie magique** (selon synthesis : « *Kalzbad mort dans un incendie magique* »). À table : exécution par les PJ après identification + tentative de capture qui tourne au sort de feu (auto-incendie pour ne pas être pris vif ?). **Très peu d'éléments à interroger** → bascule sur Jarmund S42.
 
 ## Ce que les PJ savent
@@ -41,7 +41,7 @@ Canon PBT p.123 (cité dans la fiche Wasmeier) :
 
 ## MJ-only
 
-- **Promotion Law Lord = manipulation MP** : canon PBT donne Kalzbad comme **clerc senior du Worshipful Guild of Legalists** (en plus du Chancellor's office, peut-être les deux postes). Sa promotion comme Law Lord est **une victoire pour la MP** : ils placent un de leurs chefs comme Law Lord, **continuant le plan Wasmeier** d'une autre façon. **À table** : ce détail canon est **crucial mais souvent oublié**. La cellule MP **continue ses opérations** S40+ avec Kalzbad nouveau Law Lord.
+- **Promotion Law Lord = manipulation MP** : canon PBT donne Kalzbad comme **clerc senior du Worshipful Guild of Legalists** (en plus du Chancellor's office, peut-être les deux postes). Sa promotion comme Law Lord est **une victoire pour la MP** : ils placent un de leurs chefs comme Law Lord, **continuant le plan Wasmeier** d'une autre façon. **À table** : ce détail est **crucial mais souvent oublié**. La cellule MP **continue ses opérations** S40+ avec Kalzbad nouveau Law Lord.
 - **Incendie magique S41** : à table c'est probable que **Kalzbad utilise un sort Tzeentch (Bolt of Change ou Blue Fire) pour se suicider** plutôt que d'être capturé. **Aucune info via interrogation**.
 - **Survie canon** : la *Requirements* PBT préfère qu'il survive. **Table = mort S41** par choix table (les PJ démantèlent activement).
 - **Hook Schutzmann culpabilité** : si Schutzmann réalise que Kalzbad **était sous son nez tout l'arc**, sa culpabilité s'accroît.

@@ -12,10 +12,10 @@
 - **Statut** : [MORTE S43]
 - **Tags** : `#RainaMüs` `#SewerJack` `#YellowFang` `#CrocJaune` `#Incisive` `#MortS43` `#FleerTwitchkill` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. Undercity Encounters* l.750+774 (statbloc).
 
-## Statbloc canon (HR p.774)
+## Statbloc (HR p.774)
 
 **Raina Müs — Sewer Jack Sergeant (Silver 3)**
 

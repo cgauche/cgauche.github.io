@@ -28,7 +28,7 @@ Intendant `Altdorf ch.2 l.143+148`.
 ## Géographie et accès
 
 - **Frontières** : Montagnes Grises au sud (frontière naturelle avec la Bretonnie), Reik à l'est et au nord (artère commerciale principale), Wasteland (Marienburg) à l'ouest. Pas de côte.
-- **Reliefs** : Skaag Hills et Hägercrybs hantés au centre ; Vorbergland fertile au sud-est (« Jardin de Ranald » pour ses vignobles) ; Grootscher Marsh sur la frontière Wasteland (site canon de la défaite de Wilhelm III contre Marienburg).
+- **Reliefs** : Skaag Hills et Hägercrybs hantés au centre ; Vorbergland fertile au sud-est (« Jardin de Ranald » pour ses vignobles) ; Grootscher Marsh sur la frontière Wasteland (site de la défaite de Wilhelm III contre Marienburg).
 - **Forêts** : Reikwald, denses, considérées comme parmi les plus sûres de l'Empire — discrétion trompeuse, bandits et bêtes y rôdent.
 - **Voies** : Reik et ses affluents glaciaires depuis les Montagnes Grises, navigables jusqu'à Altdorf et au-delà. Barges marchandes acheminent biens vers Altdorf puis Marienburg.
 

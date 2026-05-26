@@ -7,7 +7,7 @@
 - **Statut** : [VIVANT, inactif, post-S21] — abandonné à Ubersreik au départ du groupe pour Altdorf S21. Pas de contact depuis. Cf. **FIL-36**.
 - **Tags** : `#Caranthir` `#Elfe` `#Mage` `#Mercenaire` `#Bruner` `#Inactif` `#Ubersreik` `#FIL-36`
 
-## Source canon
+## Source
 - Aucun — PNJ homebrew créé pour la scénarisation MJ du **Contrat Oldenhaller** transposé à Ubersreik (S17).
 - Profil mécanique recommandé : **Apprentice Wizard (Brass 4)** ou **Wizard (Silver 1)** elfe, avec quelques sorts spectaculaires mais peu rentables (frime).
 

@@ -9,13 +9,13 @@
 - **Statut** : [VIVANT, DISCRÉDIT PUBLIC] (post-S20, ridiculisé deux fois en public au bal)
 - **Tags** : `#AndreasBruner` `#Bruner` `#Débauché` `#MécèneGemme` `#GemmeOldenhaller` `#ArtefactChaotique` `#MaisonsUbersreik` `#PossibleSlaaneshLink` `#Ubersreik`
 
-## Source canon
+## Source
 - **Andreas Von Bruner « disparu » 2515 IC, corrompu par Piersson + Eldritch Order of the Unblinking Eye (Slaanesh)** : `Source/Ubersreik Adventures III/05 - An Eye for an Eye.md` lignes 96-122, 234-242 (history of Grunewald Lodge + biographie Andreas + Eldritch Order)
 - **Maximilien Aschaffenberg moque Andreas / Bruners au bal** : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` (Maximilien dans le statbloc ; pas d'Andreas Bruner nominé au bal car canon UA III le considère déjà disparu en 2515)
-- **Aucun statbloc canon 4e direct pour Andreas Bruner** — UA III ne fournit qu'une description biographique d'un homme déjà absorbé dans le tableau au moment du scénario.
+- **Aucun statbloc 4e direct pour Andreas Bruner** — UA III ne fournit qu'une description biographique d'un homme déjà absorbé dans le tableau au moment du scénario.
 - **Le Contrat de Oldenhaller** (mécène-gemme) : **WHFRP 1e** scenario, adapté table. Pas de canon 4e.
 
-## Description canon (UA III, biographie pré-disparition)
+## Description (UA III, biographie pré-disparition)
 
 > « *Andreas von Bruner was a **seeker of dark knowledge and unbridled pleasures**. Andreas's manservant, a man named Gregor Piersson, is a dedicated follower of Slaanesh.* » (UA III ch.5 l.107-108)
 
@@ -23,8 +23,8 @@
 
 > « *Andreas had a keen intellect but was easily tempted by the pleasures afforded to him by the City of Ubersreik and his status.* » (ibid. l.239)
 
-## Statbloc canon
-**Pas de statbloc canon 4e** (le canon le suppose déjà absorbé dans le tableau Slaanesh à la date d'UA III). **À improviser table** : noble dégénéré faible au combat, profil **Scion (Brass 2)** ou **Noble (Silver 5)** déclassé, avec **Corruption (Minor) probable**, talents *Carouser*, *Etiquette (Nobles)*, **Animosity (Father Figures)** envisageable. Trappings : vêtements coûteux, beaucoup d'argent de poche, **gemme Oldenhaller (artefact chaotique non identifié)** S17+.
+## Statbloc
+**Pas de statbloc 4e** (le le suppose déjà absorbé dans le tableau Slaanesh à la date d'UA III). **À improviser table** : noble dégénéré faible au combat, profil **Scion (Brass 2)** ou **Noble (Silver 5)** déclassé, avec **Corruption (Minor) probable**, talents *Carouser*, *Etiquette (Nobles)*, **Animosity (Father Figures)** envisageable. Trappings : vêtements coûteux, beaucoup d'argent de poche, **gemme Oldenhaller (artefact chaotique non identifié)** S17+.
 
 ## Apparitions par session
 - **[S14-S16]** — Connu de Phineas comme charge ingrate. Phineas l'escorte/surveille pendant ses sorties nocturnes. Pas d'apparition centrale.

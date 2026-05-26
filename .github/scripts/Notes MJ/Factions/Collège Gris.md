@@ -16,7 +16,7 @@
 - **Fonction politique** : opère traditionnellement en lien avec les
   services de renseignement impériaux (Chambre Noire).
 
-## Personnage canon majeur
+## Personnage majeur
 
 - **Immanuel-Ferrand Holswig-Schliestein** — oncle de Karl-Franz Holswig-Schliestein,
   Grand Chancelier, magister du Collège Gris (« Grey Guardian »).
@@ -36,7 +36,7 @@
 ## Hooks
 
 - Voie de démasquage : Immanuel-Ferrand + alliés du Collège Gris est
-  le scénario canon recommandé.
+  le scénario recommandé.
 - Possibilité de contacter le Collège plus tôt si les PJ ont des
   preuves contre Zuntermein.
 

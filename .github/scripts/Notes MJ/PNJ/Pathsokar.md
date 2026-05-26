@@ -9,7 +9,7 @@
 - **Statut** : [PJ — VIVANT, RETOURNÉ S33] (a rejoint la Croix de Lilas avec Filianore après le sacrifice rituel).
 - **Tags** : `#Pathsokar` `#PJ` `#ChasseurDePrime` `#FilianoreMari` `#KastorSosie` `#MainPourpreCible` `#CroixDeLilas` `#Tzeentch`
 
-## Source canon
+## Source
 - Aucun canon Cubicle 7 — personnage joueur, narration table + blog `Mon Ennemi Intérieur Blog/PJ/Pathsokar*.md`.
 - Sa **ressemblance avec Kastor Lieberung** prend la place du quiproquo canon EiS ch.1 (où n'importe quel PJ peut être confondu avec Kastor par Adolphus).
 

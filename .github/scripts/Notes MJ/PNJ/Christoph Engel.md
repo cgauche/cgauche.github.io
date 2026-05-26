@@ -9,19 +9,19 @@
 - **Statut** : [DISPARU S16] — **plot dormant majeur**, parti avec des pièces de l'arme magique.
 - **Tags** : `#Engel` `#OrdreGris` `#Ulgu` `#Shadowmancer` `#TourDesVents` `#ArmeMagique` `#PlotDormant` `#Ubersreik` `#Disparu`
 
-## Source canon
+## Source
 - *A Guide to Ubersreik* (Starter Set) — fiche Wizard's Way / Christoph Engel : `Source/Starter Set/A Guide to Ubersreik/04 - Ubersreik- A Visitor's Guide.md` lignes 130-134
 - *Ubersreik Adventures I — Bait and Witch* — Engel comme protecteur réseau gris derrière Cordelia Wesselingh : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` lignes 3047, 3062-3064
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` chapitre Heart of Glass (PDF p.47-77)
 - *RN&HD — Lord of Ubersreik* (présent au bal masqué canon, **non rejoué table en S20**) : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` ligne 76
 
-## Écart canon → table — IMPORTANT
+## Écart sources → table — IMPORTANT
 
 **Canon UA1 *Heart of Glass*** : le mage à la **Tour de Vane** (Tower of Vane, Montagnes Grises) est **Sibylle Hagerdorn** (Wizard Lord céleste, Azyr) ; Carolus Entschlafen est son ami d'enfance et agent du **Cabal of Egrimm van Horstmann** (Tzeentch) qui la manipule. Engel n'apparaît pas du tout dans *Heart of Glass* canon — il est juste mentionné comme **disparu d'Ubersreik depuis deux semaines, en visite à Altdorf** (l.1589). **Magnus's Tower** est une autre tour : la grande tour de guet aldorfer à Ubersreik (où Vielfrass meurt, canon UA1 l.1653).
 
 **Adaptation table S16** : le MJ a fusionné les rôles — Hagerdorn supprimée, **Engel = prisonnier dans le coffre transparent**, Carolus = mage renégat solo se voyant en « chef d'orchestre » des 8 Vents. Engel est devenu la figure de mage local victime/complice ambigu.
 
-## Description canon (*Guide to Ubersreik*)
+## Description (*Guide to Ubersreik*)
 
 > « Grey Guardian Christoph Engel has called Ubersreik his home for as long as anyone can remember. He is a **wiry, unassuming fellow with dark-grey eyes and a neatly trimmed grey beard**. On official business, he tends to dress formally, in flowing grey robes, with a pointed, wide-brimmed hat and a staff. However, when seeking to pass incognito, he favours the nondescript clothing of a burgher, the better to blend in and avoid a scene. »
 >
@@ -29,8 +29,8 @@
 
 **Trait notable canon** : sens de l'humour particulier, prêt à se mêler aux civils incognito, **plaisanteries magiques mineures pour s'amuser**. Tempérament ambigu compatible avec l'ambiguïté table.
 
-## Statbloc canon
-**Pas de statbloc canon publié pour Engel** dans UA1 ou Guide to Ubersreik (il n'est pas un antagoniste prévu). **À improviser** si confrontation directe — base proposée : Master Wizard Gris (Silver 5 / Gold 1), spécialiste Ulgu (Shadow), spells : Bewilder, Cloak Activity, Mystifying Aura, Steal Mind. Talents : Aethyric Attunement, Magical Sense, Read/Write, Sixth Sight, Master Orator. Cf. profil approchant de Hagerdorn UA1 l.2212-2217 si besoin d'un gabarit chiffré.
+## Statbloc
+**Pas de statbloc publié pour Engel** dans UA1 ou Guide to Ubersreik (il n'est pas un antagoniste prévu). **À improviser** si confrontation directe — base proposée : Master Wizard Gris (Silver 5 / Gold 1), spécialiste Ulgu (Shadow), spells : Bewilder, Cloak Activity, Mystifying Aura, Steal Mind. Talents : Aethyric Attunement, Magical Sense, Read/Write, Sixth Sight, Master Orator. Cf. profil approchant de Hagerdorn UA1 l.2212-2217 si besoin d'un gabarit chiffré.
 
 ## Apparitions par session
 
@@ -65,7 +65,7 @@ Canon UA1 *Heart of Glass* ne contient pas Engel comme captif (rôle inventé ta
 Lecture proposée :
 - Engel a effectivement été surpris par Carolus lors de son enquête — première phase **vraie captivité**.
 - Mais durant sa captivité, il **a étudié les recherches de Carolus** sur les 8 Vents et **a vu l'opportunité**. Mage gris (Ulgu = ombres, secrets, manipulation) → tempérament compatible.
-- Le canon le décrit comme « **often bored with the responsibilities of his rank** » + ami du **Cabal-adjacent** (puisqu'il est associé à Cordelia Wesselingh, elle-même listée comme « possible Cabal member » canon UA1 l.3065).
+- Le le décrit comme « **often bored with the responsibilities of his rank** » + ami du **Cabal-adjacent** (puisqu'il est associé à Cordelia Wesselingh, elle-même listée comme « possible Cabal member » canon UA1 l.3065).
 - Quand les PJ arrivent → il **les utilise** : leur fait poursuivre Carolus, **se libère pendant qu'ils s'occupent du combat**, **emporte les pièces critiques** (lentilles d'hysh + composants de canalisation).
 
 ### Possibles affiliations dormantes

@@ -8,10 +8,10 @@
 - **Statut** : [INCENDIÉE S26, mais structure en pierre subsistante]
 - **Tags** : `#IleAuPhare` `#Reik` `#Reikland` `#DagmarWittgenstein` `#Observatoire` `#Bibliothèque` `#MortsVivants` `#MarkGuérison` `#FIL45` `#Morrslieb`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.5 *Unterbaum to Wittgendorf* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/08 - Chapter 5 Unterbaum to Wittgendorf.md`
 
-## Description canon
+## Description
 
 Petite île visible depuis le Reik. **Phare en construction par des nains** (vue S23 lors du voyage Altdorf-Kemperbad, **interpellation interrompue par le contremaître**). Le chantier est **inachevé**, **abandonné** à l'arrivée S26 (raisons obscures — sabotage probable, fonds coupés, ou peur des morts-vivants).
 
@@ -41,9 +41,9 @@ Petite île visible depuis le Reik. **Phare en construction par des nains** (vue
 - Bibliothèque détruite par le feu (Mark).
 
 ## MJ-only
-- **Le phare en construction** = canon DotR ch.5. **Pourquoi inachevé** : (c) — les nains ont fui canon après avoir senti la malpierre résiduelle, le contremaître caché en bois reste pour sauver les apparences mais l'âme du chantier est morte. Lectures de repli : (a) sabotage par les Wittgenstein actuels (Margritte / Ingrid) pour empêcher quiconque d'enquêter sur les fondations ; (b) fonds coupés par la guilde nautique de Kemperbad.
-- **Mark guéri = grâce d'Ulric implicite** (FIL-45). **À expliquer rétroactivement S42** lors du pèlerinage canon où Mark reçoit officiellement la grâce. Le S26 = **première manifestation, encore non comprise**.
-- **Bibliothèque** : les PJ ont récupéré le document de Dagmar mais **les autres documents brûlent**. **Perte canon de connaissances** sur l'astronomie Wittgenstein. Le savoir reste accessible à **Hieronymous Blitzen** (Altdorf, canon EiR) qui a des copies dans ses archives.
+- **Le phare en construction** = canon DotR ch.5. **Pourquoi inachevé** : (c) — les nains ont fui après avoir senti la malpierre résiduelle, le contremaître caché en bois reste pour sauver les apparences mais l'âme du chantier est morte. Lectures de repli : (a) sabotage par les Wittgenstein actuels (Margritte / Ingrid) pour empêcher quiconque d'enquêter sur les fondations ; (b) fonds coupés par la guilde nautique de Kemperbad.
+- **Mark guéri = grâce d'Ulric implicite** (FIL-45). **À expliquer rétroactivement S42** lors du pèlerinage où Mark reçoit officiellement la grâce. Le S26 = **première manifestation, encore non comprise**.
+- **Bibliothèque** : les PJ ont récupéré le document de Dagmar mais **les autres documents brûlent**. **Perte de connaissances** sur l'astronomie Wittgenstein. Le savoir reste accessible à **Hieronymous Blitzen** (Altdorf, canon EiR) qui a des copies dans ses archives.
 - **Si les PJ y reviennent post-S28** : **ruines fumantes + plus de gardiens morts-vivants**. La pierre n'a jamais été ici (déplacée). Possible piège skaven (les skavens fouillent les lieux Wittgenstein après l'explosion).
 
 ## Hooks de retour

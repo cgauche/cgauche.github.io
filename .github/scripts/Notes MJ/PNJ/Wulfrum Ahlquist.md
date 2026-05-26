@@ -12,14 +12,14 @@
 - **Statut** : [VIVANT — ENNEMI CACHÉ]
 - **Tags** : `#WulfrumAhlquist` `#NineEyes` `#PublicEye` `#Nuln` `#Society` `#HumanNature` `#Tzeentch` `#Wolfgang` `#University` `#AuntieAugusta` `#SHEERARGETRU` `#Arc7` `#Ch6` `#Ch13`
 
-## Source canon
+## Source
 - **EiR Intro l.151-160** liste 9 Yeux.
 - **EiR ch.4 l.292-295** room Reikguard : *« Wulfrum Ahlquist is currently studying in Altdorf. His room is bare and dusty, aside from a small scrap of paper taken from an odd religions text for children. See handout Visions Vertueuses Volume V: Augures Admirables de Tante Augusta on page 108 »*.
 - **EiR ch.5 l.42** : Wulfrum à Altdorf University Schulergegend (preparing lessons pour Prince Héritier).
 - **EiR ch.6 l.124-125** : section *Neuf Yeux in Altdorf* — locating Extended Average (+20) Perception 15 SL au Schulergegend district (Altdorf p.161). Splittent leur temps entre bookshops rares, University Refectory, Temple-Library de Verena.
 - **EiR ch.13** : présent Volkshalle si vivant.
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 Standard Member of the Neuf Yeux (Gold 1) :
 
@@ -30,7 +30,7 @@ Standard Member of the Neuf Yeux (Gold 1) :
 - **Skills** : standard + **Lore (Tzeentch 90, Nuln 90, Sociology 90, Theology 90)**, **Language (Classical 85, Tilean 80)**, **Charm 70+**, **Gossip 80+**, **Intuition 75+** (people-focus).
 - **Talents** : standard 9 Yeux + **Savant (Sociology/Theology) 3**.
 
-## Handout Tante Augusta canon (ch.8 l.219-222)
+## Handout Tante Augusta (ch.8 l.219-222)
 *« Visions Vertueuses Volume V: Augures Admirables de Tante Augusta »* (brightly illustrated guide intended introduce children to borderline heretical pronouncements Sisters of Sigmar) :
 
 > *« A statue of a goddess, Sigmar bows deeply and deft.*

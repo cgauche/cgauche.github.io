@@ -9,10 +9,10 @@
 - **Statut** : [VIVANT — ALLIÉ Wolfshügel]
 - **Tags** : `#BrotherAdric` `#Adric` `#Taal` `#Initiate` `#Wolfshügel` `#Stirland` `#Sigmar/Ulric/Rhya/Manann` `#Arc7` `#Ch12`
 
-## Source canon
+## Source
 - **EiR ch.12 l.298-318** *Brother Adric Human Initiate of Taal (Brass 2)* + statbloc.
 
-## Statbloc canon (EiR ch.12 l.301)
+## Statbloc (EiR ch.12 l.301)
 
 **BROTHER ADRIC HUMAN INITIATE OF TAAL (BRASS 2)**
 
@@ -26,7 +26,7 @@
 - **Trappings** : **Silver Antlers Symbol**, Robes, Axe.
 - **Blessings (Taal)** : Grace, Hardiness, Healing, **The Hunt**.
 
-## Wolfshügel canon
+## Wolfshügel
 - **Shrine accessed bottom hill par short flight worn, moss-covered, stone steps**. **Tunnel filled with rocks** = sealed temple.
 - **Sacred Flame canon** : *« A small dial attached to a disc lies inside the mouth of the wolf statue. Turning the dial causes the discs to turn and disappear downwards, with flints causing sparks that light an odourless gas that pours from the Wolfhead and settles on the stones burning with a heatless silver flame »*. **Light on stones casts moving shadows Wolfs/Bears/Elks**.
 
@@ -35,7 +35,7 @@
 ### Arc 7 ch.12 Wolfshügel
 - **[S?]** — **PJ + Oldheim + refugees Albenriek** arrivent Wolfsruhe (8 stone domed huts at foot hill). Adric hut. Bras Anglais nervous noble.
 - **Caretaker Wolfshügel pendant 2 ans** post-disappearance previous initiate.
-- **Tunnel clearance** : 35 SL Strength Test extended canon ch.12 l.296. Adric helps + civilians refugees + soldats.
+- **Tunnel clearance** : 35 SL Strength Test extended ch.12 l.296. Adric helps + civilians refugees + soldats.
 - **Sacred Flame stewardship** : Adric peut activer le dial wolf statue mouth.
 - **Bataille Drexol horde** : combat avec axe.
 

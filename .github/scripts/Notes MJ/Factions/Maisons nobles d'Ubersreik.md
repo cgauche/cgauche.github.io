@@ -8,7 +8,7 @@
 - **État global post-S20** : **toutes affaiblies** par le désastre du bal masqué Holzenauer (S20).
 - **Tags** : `#MaisonsUbersreik` `#Bruner` `#Aschaffenberg` `#Holzenauer` `#Saponatheim` `#Liebwitz` `#Jundfreud` `#NoblesseReikland` `#Régence`
 
-## Source canon
+## Source
 - *Starter Set / A Guide to Ubersreik* : `Source/Starter Set/A Guide to Ubersreik/` (Ubersreik post-Jundfreud)
 - *Rough Nights & Hard Days* ch.6-7 (Saponatheim + Holzenauer) : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md`, `07 - Lord of Ubersreik.md`
 - *Ubersreik Adventures I - The Guilty Party* (Aschaffenberg vs Bruner conflit) : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` chapitre The Guilty Party

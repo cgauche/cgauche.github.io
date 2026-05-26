@@ -10,12 +10,12 @@
 - **Greenskin invasions** : Gorbad Ironclaw 1709 IC + Grom the Paunch (700+ ans plus tard) + future canon Third Battle Black Fire Pass.
 - **Tags** : `#BlackFirePass` `#HazDrazhKadrin` `#Sigmar` `#OldDwarfRoad` `#Averland` `#Brigundians` `#Greenskins` `#Karaz-a-Karak` `#ThreeMothers` `#VithangDum` `#ZanMingol` `#LostGorge` `#Arc7` `#Ch10` `#Ch11`
 
-## Source canon
+## Source
 - **EiR ch.10 entire chapter** *In Sigmar's Footsteps* — Black Fire Pass exploration.
 - **EiR ch.11** *Caves of Chaos* — caves Sheerargetru.
-- **EiR ch.12 l.6-32** *The First Link* — return Hammerwatch Iron Marshall canon.
+- **EiR ch.12 l.6-32** *The First Link* — return Hammerwatch Iron Marshall.
 
-## Géographie canon
+## Géographie
 
 ### Pass
 - **Sheer sides slightly glassy patina** réfléchit sun bas.
@@ -80,7 +80,7 @@
 - 3 sections :
   - **Lower Gorge 20 miles** : open. Scouts only.
   - **Pinch Point** : cliffs almost touch. Cacklespit paintings.
-  - **Deep Ravine 5 miles** : permanent semi-darkness. Madcraw Tunnels canon system.
+  - **Deep Ravine 5 miles** : permanent semi-darkness. Madcraw Tunnels system.
   - **Northern Gorge 10 miles** : wider valley, Cacklespit avoids (Sheerargetru influence). Abandoned camp + Purple Cap colonies + Waterfalls.
 
 ### Schmerzeit Mine (canon ch.10 l.169 + ch.8 l.279)
@@ -91,14 +91,14 @@
 ### Caves of Chaos (canon ch.11)
 - Behind waterfall at end Lost Gorge.
 - **9 cavernes thématiques Vents de la magie** (Ghur+Ulgu+Chamon+Azyr+Shyish+Aqshy+Hysh+Ghyran+Dhar).
-- **Sheerargetru sealed canon ch.11**.
+- **Sheerargetru sealed ch.11**.
 - **Ghal Maraz resting place** (canon ch.11 l.451).
 
-## South canon ch.10 l.155
+## South ch.10 l.155
 - Vossheim merchant camp + **Kazad Kolzharr** Dwarf Keep + **Munzig** Border Princes town.
 - *« If Characters go this far, they have overshot their destination and Gideon appears disguised as itinerant priest to set them back on their path »*.
 
-## Inns canon ch.10 l.30
+## Inns ch.10 l.30
 
 3 well-fortified inns + villages between Grenzstadt + Black Fire Keep : **Griffon's Head**, **Stalwart Knave**, **Armoured Turnip** — *« renowned for good service, stout walls, and tough customers »*.
 
@@ -106,7 +106,7 @@
 
 ### Arc 7 ch.10 Black Fire Pass (S?)
 - **Old Dwarf Road** Grenzstadt → Three Mothers : **3 jours easygoing OR 2 jours pushing** (Challenging +0 Endurance ou Fatigued).
-- **Multiple encounters** canon ch.10 : Mountainguard patrol (Sergeant **Alberecht Haessler**), **Faithful Forty Sigmarite pilgrims** (incluant Dieter ex-miner), **Sievers Imperial Ostlanders return**, **Clan Zhuffan Deadshots Dwarf patrol**, Mercenary caravan + Khypris Border Horse.
+- **Multiple encounters** ch.10 : Mountainguard patrol (Sergeant **Alberecht Haessler**), **Faithful Forty Sigmarite pilgrims** (incluant Dieter ex-miner), **Sievers Imperial Ostlanders return**, **Clan Zhuffan Deadshots Dwarf patrol**, Mercenary caravan + Khypris Border Horse.
 - **Three Mothers** = entrée Lost Gorge concealed.
 - **Schmerzeit Mine** access Lost Gorge depuis Mine via tunnel dug.
 

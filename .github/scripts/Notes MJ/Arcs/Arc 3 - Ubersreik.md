@@ -4,7 +4,7 @@
 
 - **Sessions** : S13 → S21 (9 sessions)
 - **Trajet** : barge sur le Bögen (Bögenhafen aval) → arrêt château **[[Schloss Grauenberg]]** (Saponatheim) → barge → [[Ubersreik]] (séjour long) → coche Quatre Saisons → marché aux bestiaux nord d'Ubersreik → Cinq Chênes → Bögenhafen (étape) → Haches Croisées → [[Altdorf]]
-- **Sources canon multiples** (Arc à structure hybride : RN&HD pour les bornes Saponatheim et bal masqué, UA1 pour le cœur Ubersreik, EiS Companion pour l'épisode Drakensberg, adaptation MJ pour Oldenhaller) :
+- **Sources multiples** (Arc à structure hybride : RN&HD pour les bornes Saponatheim et bal masqué, UA1 pour le cœur Ubersreik, EiS Companion pour l'épisode Drakensberg, adaptation MJ pour Oldenhaller) :
   - S13 → `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` (PDF p.55-68)
   - S14 → hors canon ; introduction MJ du fil **Emmanuelle Nacht / Filianore espionne** + arrivée Ubersreik (`Starter Set/A Guide to Ubersreik/` en référence)
   - S15 → `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` — chapitre **Bait and Witch** (p.94-105)
@@ -18,7 +18,7 @@
 
 ### Timeline in-game
 
-EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastassia est canoniquement enchaîné directement après l'arc Bögenhafen. Le séjour à Ubersreik dure plusieurs mois (Phineas s'installe chez Bruner, Elvira intègre une troupe de théâtre, Filianore prend une couverture chez Cordelia). Estimation :
+EiS situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastassia est canoniquement enchaîné directement après l'arc Bögenhafen. Le séjour à Ubersreik dure plusieurs mois (Phineas s'installe chez Bruner, Elvira intègre une troupe de théâtre, Filianore prend une couverture chez Cordelia). Estimation :
 
 | Session | Date estimée | Lieu | Note |
 |---|---|---|---|
@@ -32,7 +32,7 @@ EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastas
 | S20 | **~10 Sommerzeit 2512 IC** | Ubersreik — Niederstadt Haus (Morgenseite) | Bal masqué Holzenauer |
 | S21 | **~25 Sommerzeit → 5 Vorgeheim 2512 IC** | Route Ubersreik → Bögenhafen → Altdorf | 7-10 jours de coche |
 
-> RN&HD canon n'enchaîne pas mécaniquement le mariage Nastassia et l'arrivée à Ubersreik — c'est un choix MJ. Idem pour la durée du séjour à Ubersreik : RN&HD/UA1 supposent des aventures épisodiques, le MJ a tenu une chronologie continue de plusieurs mois.
+> RN&HD n'enchaîne pas mécaniquement le mariage Nastassia et l'arrivée à Ubersreik — c'est un choix MJ. Idem pour la durée du séjour à Ubersreik : RN&HD/UA1 supposent des aventures épisodiques, le MJ a tenu une chronologie continue de plusieurs mois.
 
 ---
 
@@ -56,7 +56,7 @@ EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastas
 
 **Cadre** : Après la fuite de Bögenhafen, [[Josef Quartjin]] embarque le groupe pour Ubersreik. Sur le Bögen, leur barge est arraisonnée par un navire noble Liebwitz — mais comme ils sont identifiés comme ex-employés de la **Gravin Maria-Ulrike**, le ton change : la famille a besoin de main-d'œuvre pour le mariage du frère cadet de la Gravin, **Karl-Heinz von Liebwitz**, avec **Nastassia von Saponatheim** au château **[[Schloss Grauenberg]]**. Les PJ deviennent serviteurs/gardes d'un jour.
 
-**Plots canon présents** (RN&HD ch.6) :
+**Plots présents** (RN&HD ch.6) :
 - **Dot exotique** — Une **épée venue de la Terre des Morts** offerte par les Saponatheim. Maudite : une **forme éthérée parlant une langue inconnue** sort de la lame la nuit. Combat « laborieux plus qu'épique » dans la chambre du maître de maison (Skippy, Anselm, Pathsokar). Vaincue.
 - **Fils caché** (canon RN&HD Plot 6 *In the Best of Families*) — Agression nocturne par un homme « peu vêtu et visiblement fou ». Maîtrisé sans violence. Il s'agit de **Manfred von Saponatheim**, **vrai héritier légitime** du graf Wilhelm (canon : « feeble-minded », faible d'esprit, emprisonné depuis ~30 ans dans les caves, **seul héritier légal de la duchy de Saponatheim**). Canon : Manfred se libère seul à 1h du matin, tue 2 servants en cuisine, fonce vers la tour solar pour tuer son père. **Inflexion table** : les PJ l'attrappent doucement avant les meurtres canon (servants épargnés). **Wilhelm von Saponatheim** demande aux PJ de garder le secret.
 - **Fuite de la mariée** — Elvira aperçoit Nastassia s'enfuir avec un jeune roturier qu'elle aime. Elvira **couvre leur fuite** par les portes principales. Mariage annulé au matin.
@@ -116,7 +116,7 @@ EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastas
 
 **Cadre** : Filianore trouve une couverture comme assistante d'une apothicaire-antiquaire, **[[Cordelia Wesselingh]]**, allée de la Flûte en Os (canon : **Whistlebone Alley**). Cordelia signale à Filianore qu'elle est suivie par des inconnus.
 
-**Plots canon présents** (UA1 *Bait and Witch*) :
+**Plots présents** (UA1 *Bait and Witch*) :
 - **Surveillance** — Deux louches postés place en face de l'échoppe. Plan tendu : Cordelia passe dans Whistlebone Alley, PJ embusqués (tonneau + toit) les attrapent.
 - **Identité des suiveurs** — Ce sont des **chasseurs de prime** à la poursuite du **répurgateur renégat [[Matthias Hubkind]]** (affiche à l'appui — le même que les PJ ont croisé S2 et S3). Hubkind cherche à attraper Cordelia, qu'il considère comme sorcière.
 - **Course à la Pension Rugger** — PJ accourent. Cordelia est à l'étage d'une auberge miteuse au bord du Teufel (**Rugger's Boarding House**) avec un homme blessé au sol. **Hubkind** menace de les tuer. Combat. Hubkind repoussé, saute par la fenêtre.
@@ -133,7 +133,7 @@ EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastas
 ### MJ-only S15
 - **Hubkind** : canon RN&HD/EiS le rend obsessionnel et fanatique. Pour le MJ, le bûcher de Skippy est moins une victoire que la confirmation que Hubkind agit hors de toute hiérarchie sigmarite → **témoignage exploitable contre lui** auprès du grand prêtre Emming (cf. S20 où Mark le confronte au bal et où il bat en retraite).
 - **Ida Vernt = variante MJ-table** : canon UA1 *Bait and Witch* a **Alexander Grün** (homme, herboriste) à la place. Le MJ a renommé/recasté en femme nommée Ida Vernt pour des raisons inconnues (compatibilité PJ Anselm ? préférence narrative ?). À tracer comme inflexion table.
-- **Cordelia Wesselingh canon** : ex-membre du **Collège de Jade** (Ghyran) en disgrâce. Canon UA1 lui donne un **passage secret entre sa cave et la tour de Magnus (Engel)** → elle est **canal d'information du Collège Gris** entre Engel et les mages. **Implication forte** : si Engel est complice de Carolus, Cordelia peut le savoir ou être passive. Filianore comme assistante = couverture canon parfaite pour Nacht qui voulait surveiller le mage local. Réservoir narratif important.
+- **Cordelia Wesselingh canon** : ex-membre du **Collège de Jade** (Ghyran) en disgrâce. Canon UA1 lui donne un **passage secret entre sa cave et la tour de Magnus (Engel)** → elle est **canal d'information du Collège Gris** entre Engel et les mages. **Implication forte** : si Engel est complice de Carolus, Cordelia peut le savoir ou être passive. Filianore comme assistante = couverture parfaite pour Nacht qui voulait surveiller le mage local. Réservoir narratif important.
 - **Heske Glazer canon** = elle-même **agent secret**. Canon UA1 lui donne **3 employeurs possibles** : (a) Nacht (qui voulait surveiller la Tour des Vents), (b) Christoph Engel lui-même, (c) Cult sigmarite (cherchant des hérésies). **13 livraisons de lentilles sur 6 mois** documentées canon (= elle savait que quelque chose se préparait). Plot dormant.
 - **Ida Vernt sort post-S20** → **suicide assisté en S21** par Anselm sur sa demande (« Je l'ai tué à sa demande »). Maladie incurable, peut-être liée à un ancien pacte de sorcellerie qui retournait contre elle. Cf. Anselm — **culpabilité durable**.
 - **Anselm "Protecteur"** : Anselm marmonne « *le protecteur* » plusieurs fois pendant l'arc (cf. S21 à Gotheim). Cohérent avec son profil : sorcier de village dérapant, peut-être lié à un patron forestier non identifié. Pas révélé table.
@@ -146,7 +146,7 @@ EiS canon situe la fuite de Bögenhafen ~6 Pflugzeit 2512 IC ; le mariage Nastas
 
 Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le **meurtre du caporal [[Tylo Vielfrass]]** (armée « loyaliste » jundfreud) tué dans la grande tour de guet, dans des circonstances inexpliquées. Tension Altdorf-loyalistes ; Nacht exige neutralité absolue, rapport à elle seule.
 
-**Plots canon présents** (UA1 *Heart of Glass*) :
+**Plots présents** (UA1 *Heart of Glass*) :
 - **Autopsie au temple de Morr** — Trou net dans la poitrine « gros comme une pomme », pas de sang. Mort par énergie magique inconnue.
 - **Veillée funéraire** — Foule. Le caporal logeait à la **[[Maison du Pont]]** (auberge d'Elvira, contact évident). Connu pour s'opposer au mage de la ville **[[Christoph Engel]]**. Buveur, problèmes avec la hiérarchie.
 - **[[Orban Geldrecht]]** (garde « en civil ») se présente comme grand ami de Vielfrass, propose son aide. Fouille de la chambre du caporal → lettres d'admiratrices, rien de plus.
@@ -168,8 +168,8 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 - Hubkind laissé pour mort.
 
 ### MJ-only S16
-- **Christoph Engel = Mage Gris (Ulgu)** canon `Guide to Ubersreik`. A fui avec les pièces manquantes de l'arme. UA1 *Heart of Glass* canon laisse Engel ambigu (« ami » ou « complice »). Lecture table : **complice partiel** (il voulait l'arme pour lui-même). Plot dormant à réactiver. Lien canon **Cabal / Collège Gris** = peut être agent Tzeentch infiltré dans le Collège, ou loyaliste qui exploite l'occasion.
-- **Carolus Entschlafen** : canon UA1 p.76 = **cabaliste Tzeentch** affilié à la **Cabal d'Egrimm van Horstmann** (le nécromancien-archimage notoire), **manipulant Hagerdorn** (un autre mage). Pas le mégalomane solo de la simplification table. À table = Carolus achevé S16 = solo mégalomane. **Écart canon vs table** : la Cabal van Horstmann est **encore active** canoniquement → autres agents potentiels dans la suite (Altdorf, Middenheim, etc.). Réservoir narratif important.
+- **Christoph Engel = Mage Gris (Ulgu)** canon `Guide to Ubersreik`. A fui avec les pièces manquantes de l'arme. UA1 *Heart of Glass* laisse Engel ambigu (« ami » ou « complice »). Lecture table : **complice partiel** (il voulait l'arme pour lui-même). Plot dormant à réactiver. Lien canon **Cabal / Collège Gris** = peut être agent Tzeentch infiltré dans le Collège, ou loyaliste qui exploite l'occasion.
+- **Carolus Entschlafen** : canon UA1 p.76 = **cabaliste Tzeentch** affilié à la **Cabal d'Egrimm van Horstmann** (le nécromancien-archimage notoire), **manipulant Hagerdorn** (un autre mage). Pas le mégalomane solo de la simplification table. À table = Carolus achevé S16 = solo mégalomane. **Écart vs table** : la Cabal van Horstmann est **encore active** canoniquement → autres agents potentiels dans la suite (Altdorf, Middenheim, etc.). Réservoir narratif important.
 - **Tylo Vielfrass / Orban** = cellule **Shornaal/Slaanesh** dans l'armée d'Ubersreik. Vraisemblablement pas la seule. Sous-couche du cult dont Brecht Kavenner (Nuln, S3) était membre — l'**Ordo Ultima** ? Cf. fil avec [[Brecht Kavenner]] resté ouvert depuis S1.
 - **Hubkind** : canon UA1 = survit à la coupure de gorge. Confirmé S20 (réapparaît au bal). Filianore croit l'avoir tué.
 
@@ -211,7 +211,7 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 
 **Cadre** : Réveil dans un **immeuble vétuste de Spittlefeld**, sans souvenir de la fin de S17. **[[Gino]]** (ogre concierge) réclame un loyer. Porte d'entrée clouée par des soldats : **quarantaine sanitaire**. Prêtres de **Shallya** postés dehors. Le **docteur [[Giliani]]** validera la levée.
 
-**Plots canon présents** (UA1 *Slaughter in Spittlefeld*) :
+**Plots présents** (UA1 *Slaughter in Spittlefeld*) :
 - **Le docteur malade** — Giliani gît à l'étage, gravement atteinte. Elvira la soigne par Rhya. Elle murmure « **mon carnet** » puis perd conscience. Hématome suspect au cou.
 - **Trinité l'enfant voleur** — Ombre dans le conduit d'aération. Phineas le coince. Sortie par l'appartement d'**[[Annika Passerine]]** (femme costaude, orphelinat). Marché : médicaments contre carnet.
 - **Les frères nains Sreluc + Srulem** — Sreluc en colère, tromblon. Srulem à l'agonie, soigné par les PJ. Médicaments fournis en remerciement.
@@ -238,7 +238,7 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 
 **Cadre** : Période calme. Phineas a fait sanctionner Andreas via Heinrich. Elvira répète son théâtre, Pathsokar reprend ses chasses, Mark guérit. Pathsokar revient un soir avec un **gros contrat** : nous suivre dans une auberge à quelques heures.
 
-**Plots canon présents** (EiS Companion ch.11 *The Affair of the Hidden Jewel*) :
+**Plots présents** (EiS Companion ch.11 *The Affair of the Hidden Jewel*) :
 - **Affiche de la Flèche Noire** plantée par une dague sur un cadavre en bord de route (gag macabre).
 - **Auberge des Piques Croisées** (point de passage de coches). Pathsokar demande **[[Wolfgang Kellermann]]**, vieillard à jambe de bois. Salle à l'écart. Surveillance d'un comparse silencieux.
 - **L'histoire de Kellermann** : Son père avait volé la **[[Flamme Bleue]]** (bijou de grande valeur) et l'a cachée. Avant de mourir, il a transmis l'emplacement à **[[Annalisa Kessler]]** (alias **Flèche Noire**), bandit de grand chemin sur les diligences. Kellermann veut la questionner. Planque connue : château abandonné, dix lieues.
@@ -258,7 +258,7 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 - Prime touchée → fête à la Maison du Pont.
 
 ### MJ-only S19
-- **Le vrai but de Drakensberg** : EiS Companion canon ch.11 l.141 → **l'emplacement de la Flamme Bleue est TATOUÉ sur le cuir chevelu d'Annalisa** (depuis qu'elle est bébé, à son insu). Otto Kessler (canon ; **Wolfgang Kellermann** à table) lui disait « *use your head* » comme indice. Drakensberg le savait via Bruno (qui a torturé un ancien sbire d'Otto). Le plateau d'argent + la décapitation + un rasage discret (canon l.253 : « *After a brief shave...* ») → Drakensberg **lit le tatouage** et **part vers la cave indiquée**. **Les PJ ont fait son boulot sans le savoir.**
+- **Le vrai but de Drakensberg** : EiS Companion ch.11 l.141 → **l'emplacement de la Flamme Bleue est TATOUÉ sur le cuir chevelu d'Annalisa** (depuis qu'elle est bébé, à son insu). Otto Kessler (canon ; **Wolfgang Kellermann** à table) lui disait « *use your head* » comme indice. Drakensberg le savait via Bruno (qui a torturé un ancien sbire d'Otto). Le plateau d'argent + la décapitation + un rasage discret (canon l.253 : « *After a brief shave...* ») → Drakensberg **lit le tatouage** et **part vers la cave indiquée**. **Les PJ ont fait son boulot sans le savoir.**
 - **La Flamme Bleue elle-même** : pas physiquement dans le crâne d'Annalisa, c'est seulement l'**adresse de sa cachette** qui y est tatouée. Drakensberg, après S19, doit encore aller la récupérer (cave de l'auberge Piques Croisées canon). Fenêtre d'intervention PJ théoriquement possible si la révélation arrive avant lui.
 - **Wolfgang Kellermann a disparu** : EiS Companion canon (l.251) = **Bruno (l'homme de Drakensberg) le tue** dans sa chambre pendant que les PJ sont au château. Drakensberg ferme la boucle. À table, **non explicité**, juste « introuvable ». Plot dormant.
 - **Père d'Annalisa** : canon = **Otto Kessler**. Table = **Wolfgang Kellermann** (renommé pour fusion narrative, Kellermann étant le vieillard à jambe de bois unique aux Piques Croisées).
@@ -272,7 +272,7 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 
 **Cadre** : Un mois plus tard environ. **[[Erich von Holzenauer]]** organise un **bal masqué** dans une mansion louée à Morgenseite (canon : **Niederstadt Haus**) pour s'imposer comme prétendant au titre de seigneur d'Ubersreik. **[[Heinrich Bruner]]** y délègue **Phineas** pour le faire briller. Filianore agit pour Emmanuelle Nacht ; Elvira y va avec sa troupe ; Mark s'invite plus tard.
 
-**Plots canon présents** (RN&HD ch.7 *Lord of Ubersreik*) :
+**Plots présents** (RN&HD ch.7 *Lord of Ubersreik*) :
 - **Costumes** — Elvira en **poule** (toujours reconnaissable à la démarche). Autres : cerf-chassé, bûcheron-origines, truite-rivière, etc. **Général [[Jendrick von Dabernick]]** (envoyé impérial) en costume militaire sobre, **coupe à double queue de comète** (Sigmar). Accompagné d'un **« chevalier panthère » = [[Emmanuelle Nacht]] incognito** (vraie dirigeante).
 - **Affront Aschaffenberg vs Bruner** — **[[Rickard von Aschaffenberg]]** et Heinrich s'insultent à l'entrée. Le neveu **[[Maximilien von Aschaffenberg]]** entre **déguisé en mutant aux couleurs Bruner** (référence à Andreas). Gardes l'expulsent.
 - **Andreas Bruner** entre en **« être de la nature »** (feuilles cache-sexe). Lourd avec les femmes, vomit après un verre, part honteusement → c'est **Filianore qui l'a empoisonné** (mission Nacht : discréditer un maximum de familles pour avantager le pouvoir actuel). Vengeance personnelle aussi pour la quarantaine de S18.
@@ -332,8 +332,8 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 - **Josef Quartjin vivant**, retrouvailles fugaces.
 
 ### MJ-only S21
-- **Andreas Wagenkneicht** : **PNJ canon UA1 *The Guilty Party***, **Verenan Investigator** (statbloc canon disponible). Patron retenu : **(a) Emmanuelle Nacht** — exfiltrer le groupe vers Altdorf discrètement (mission bidon, but réel = transport Filianore vers la prochaine étape DotR, cohérent avec la « nouvelle enquête » promise par Filianore à Altdorf). Synthèse possible avec le canon : Wagenkneicht est en effet agent Hochs canon, mais Nacht l'a **retourné** ou l'utilise sans qu'il le sache — la « disparition » aux Haches Croisées = il a fait son boulot canon pour Hochs (sabotage Four Seasons) puis livré secrètement Filianore à un contact Nacht pour la suite. Hypothèses de repli :
-  - (b) **Agent canon d'Elisha Hochs / Four Seasons** (canon UA1 explicite).
+- **Andreas Wagenkneicht** : **PNJ canon UA1 *The Guilty Party***, **Verenan Investigator** (statbloc disponible). Patron retenu : **(a) Emmanuelle Nacht** — exfiltrer le groupe vers Altdorf discrètement (mission bidon, but réel = transport Filianore vers la prochaine étape DotR, cohérent avec la « nouvelle enquête » promise par Filianore à Altdorf). Synthèse possible avec le canon : Wagenkneicht est en effet agent Hochs canon, mais Nacht l'a **retourné** ou l'utilise sans qu'il le sache — la « disparition » aux Haches Croisées = il a fait son boulot pour Hochs (sabotage Four Seasons) puis livré secrètement Filianore à un contact Nacht pour la suite. Hypothèses de repli :
+  - (b) **Agent d'Elisha Hochs / Four Seasons** (canon UA1 explicite).
   - (c) Agent **Main Pourpre** testant le groupe.
   - (d) Simple escroc free-lance.
 - La « nouvelle enquête » de Filianore promise à Altdorf renvoie à `Source/Enemy Within Campaign Volume 2 Death on the Reik/01 - Contents.md` → début arc 4.
@@ -420,7 +420,7 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 | **[[Annalisa Kessler]]** | `EiS Companion ch.11` (Outlaw Chief Brass 4) | [MORTE S19] | Flèche Noire. Décapitée. **Adresse de la Flamme Bleue tatouée sur cuir chevelu**. |
 | **[[Amadeus von Drakensberg]]** | `EiS Companion ch.11` (Human Magnate Gold 5) | [VIVANT, ENNEMI LATENT] | A obtenu l'**adresse** de la Flamme Bleue (FIL-31). Doit aller récupérer l'artefact dans la cave des Piques Croisées. |
 | **[[Andreas Wagenkneicht]]** | `UA1 The Guilty Party` (Verenan Investigator Silver 4) | [DISPARU S21] | Faux-nez : Hochs canon, Nacht préférence table (FIL-42). |
-| **[[Gunther Abend]]** | `A Guide to Ubersreik` | [VIVANT, ALLIÉ] | Gérant Maison du Pont. Reconnaissance envers Elvira. Postmaster **Gustav Schtupp** = espion canon. |
+| **[[Gunther Abend]]** | `A Guide to Ubersreik` | [VIVANT, ALLIÉ] | Gérant Maison du Pont. Reconnaissance envers Elvira. Postmaster **Gustav Schtupp** = espion. |
 | **[[Caranthir]]** + **[[Mardrin]]** | hors-canon (homebrew table) | [VIVANTS, abandonnés Ubersreik] | Mercenaires Bruner. FIL-36. |
 | **[[Delberz Trotte]]** | UA1 (cocher générique) | [VIVANT] | Cocher Quatre Saisons. Conduit aussi S16 et S21. |
 | **[[Elisha Hochs]]** | `UA1 The Guilty Party` | [VIVANTE, ennemie latente] | Représentante Four Seasons. Chantage sur Wagenkneicht. |
@@ -475,7 +475,7 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 - **FIL-37** — Loyalistes Jundfreud en montée — OUVERT (escalade vers Arc 7)
 - **FIL-38** — Cordelia + Gunther Abend alliés acquis — OUVERT (positif)
 - **FIL-39** — Hommes-bêtes Ubersreik-Altdorf (Cluster-Eye possible) — OUVERT (background)
-- **FIL-40** — Cabal d'Egrimm van Horstmann (Tzeentch cabal mage) — OUVERT (révélation canon non activée table)
+- **FIL-40** — Cabal d'Egrimm van Horstmann (Tzeentch cabal mage) — OUVERT (révélation non activée table)
 - **FIL-41** — Réseau d'agents secrets Ubersreik (Cordelia / Heske / Schtupp) — OUVERT (canon)
 - **FIL-42** — Andreas Wagenkneicht patron incertain (Nacht/Hochs/MP/escroc) — OUVERT
 
@@ -489,6 +489,6 @@ Filianore les emmène ensuite voir **Emmanuelle Nacht**. Mission : élucider le 
 - **PJ évolution** : Skippy → **Mark** (conversion Ulric S15-S16, peau brûlée par bûcher de Hubkind). Filianore consolidée comme espionne Nacht puis trajectoire vers chaos. Pas de perte PJ Arc 3.
 - **Connexions retroactives Arc 7 (EiR)** :
   - **Sigmund von Jundfreud** (héritier maison déchue) refait surface S57 — **prend racine narrativement à partir de l'affaiblissement multi-maisons S20**.
-  - **Wagenkneicht Verenan Investigator** retiré : le pont canon vers Altdorf est posé S21.
+  - **Wagenkneicht Verenan Investigator** retiré : le pont vers Altdorf est posé S21.
   - **Cabal van Horstmann** (canon Carolus) reste activable comme cellule Tzeentch tertiaire (rival/parallèle Main Pourpre).
 - **Continuité Arc 1-3** : Hubkind continu (S2-S3-S15-S16-S20) ; Josef Quartjin revu S21 ; Emmanuelle von Liebwitz en hors-champ (sa convalescence Arc 1 se poursuit) ; lien latent Brecht Kavenner (Ordo Ultima Nuln) ↔ Cellule Shornaal Ubersreik (FIL-04 + FIL-35).

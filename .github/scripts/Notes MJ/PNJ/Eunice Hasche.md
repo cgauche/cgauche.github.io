@@ -11,11 +11,11 @@
 - **Statut** : [MORTE S47]
 - **Tags** : `#EuniceHasche` `#Hasche` `#Bestiaria` `#Collegium` `#Dissection` `#Skaven` `#MortS47` `#FleerTwitchkill` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. The Cover Up* l.2398-2611, statbloc l.2544.
 - *HR ch. Assassinations* l.2844-2965 — sa mort.
 
-## Statbloc canon (HR l.2544)
+## Statbloc (HR l.2544)
 
 **Eunice Hasche, Professor of Bestiaria**
 

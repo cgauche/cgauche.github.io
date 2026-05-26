@@ -21,7 +21,7 @@ incapable de masquer son trouble `EiR ch.5 l.249`.
 Orthographe canon : **Feilbach** (le PDF EiR ch.5 utilise par
 endroits « Fielbach » — artefact OCR).
 
-## Phrases canon
+## Phrases
 
 - *« I'm not sure now is the time. There are too many other matters. »* — esquive maladroite à Emmanuelle von Liebwitz au pavillon impérial, défilé S60, juste avant qu'elle ne le démasque `EiR ch.5 l.239`.
 - *« I beg your pardon? »* puis *« What lines? »* — réponses paniquées quand la Comtesse de Nuln laisse tomber le masque : *« Do you speak with Karl-Franz to learn your lines, or does Holzkrug write them for you? »* `EiR ch.5 l.243-244` `EiR ch.5 l.246`.
@@ -78,10 +78,10 @@ laisser décomposé sur place `EiR ch.5 l.249`.
 - **Couverture maintenue jusqu'au climax** : tient le rôle public du défilé S60 au Conclave S62, malgré la suspicion croissante des Électeurs et de Maria-Luise von Walfen.
 - **Retrait au climax ch.13** `EiR ch.13 l.201-203` : au moment où les PJ ramènent le vrai Ghal Maraz à la Volkshalle, **c'est le vrai Karl-Franz Holswig-Schliestein qui siège** sur le grand trône de pierre, pas Hermann. L'Empereur est livré tel qu'il est — pâleur cadavérique, mains qui tremblent, regard incapable de fixer quoi que ce soit, drapé dans des couvertures contre un froid que personne d'autre ne ressent. Au passage des PJ, l'Empereur parvient tout juste à esquisser un sourire faible et un signe de la main `EiR ch.13 l.211`. Hermann a été remisé en coulisses pour la cérémonie de remise du marteau ; c'est Wolfgang Holswig-Abenauer qui mène les échanges, et Yorri XV qui prendra Ghal Maraz en charge jusqu'à la cérémonie.
 - **Convergence avec récupération impériale** `EiR ch.13 l.195` : si les PJ ont démasqué Henrik Kappelmuller en amont, Karl-Franz reprend des forces. Plus l'Empereur se rétablit, moins Hermann est sollicité en public — son fardeau s'allège mécaniquement.
-- **Note canon importante** : ne pas faire mourir Hermann avant le climax. C'est un homme bien, et sa mort déstabiliserait Altdorf au pire moment.
+- **Note importante** : ne pas faire mourir Hermann avant le climax. C'est un homme bien, et sa mort déstabiliserait Altdorf au pire moment.
 - **Bascule potentielle allié** : si les PJ le percent à jour et lui prouvent que Karl-Franz est empoisonné (et non simplement malade) ou que Zuntermein sert le Chaos, sa loyauté envers l'idée d'Empereur peut le faire coopérer pour démasquer Kappelmuller et Zuntermein.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S60 — Défilé Altdorf : entre en scène premier sur trône portatif au centre du pavillon, accueille formellement Boris Todbringer `EiR ch.5 l.197`. Encadré de deux High Helms qui écartent Colonel Sievers `EiR ch.5 l.199`. Salué bruyamment par Emmanuelle von Liebwitz qui évoque un événement de jeunesse — il sourit et hoche la tête sans répondre `EiR ch.5 l.202`. Démasqué par Emmanuelle dans un échange feutré (3:00 P.m.) ; se décompose `EiR ch.5 l.235-249`. Tentative ratée de discours impérial après l'épisode des porcs `EiR ch.5 l.260`. Lecture labiale des PJ pendant la démonstration d'artillerie : échange paniqué avec Liepmund Holzkrug, Hermann le supplie qu'il ne tiendra plus `EiR ch.5 l.309`. Holzkrug finit par lui souffler de mettre fin à la bataille démonstrative `EiR ch.5 l.353`.
 - S62 — Conclave d'urgence Volkshalle : entrée escorté par Maria-Luise von Walfen, dépose le faux Ghal Maraz sur la table, garde le silence comme s'il attendait `EiR ch.7 l.107+109`. Plus tard, brandit le marteau vers Yorri XV puis Emil Valgeir pour les rappeler à la civilité au nom de Ghal Maraz `EiR ch.7 l.161`. Rejoue le geste contre Etelka Toppenheimer `EiR ch.7 l.166`. Échec final à 19h : son choix de mots — laisser de petites choses les diviser — enrage Boris Todbringer, qui traite Karl-Franz d'idiot incompétent ; Hermann perd à son tour son sang-froid et brandit le faux marteau vers le Graf — Boris répond du Runefang `EiR ch.7 l.245`. Le faux marteau explose en neuf fragments ; Hermann reste à fixer le manche brisé, hébété `EiR ch.7 l.253`.

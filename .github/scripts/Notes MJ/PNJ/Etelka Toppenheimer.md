@@ -24,7 +24,7 @@ nuque incandescents — quand Emmanuelle von Liebwitz l'humilie
 publiquement ; fait sa révérence sans flancher, reprend son discours
 le visage cramoisi `EiR ch.7 l.166`.
 
-## Phrases canon
+## Phrases
 
 - *« And what is it my northern neighbour finds quite so funny about defending the right of a ruler of a Grand Province to select their own heir? »* — éclat visible au Conclave d'urgence S62, juste avant que Emmanuelle von Liebwitz ne décoche sa réplique humiliante `EiR ch.7 l.180`.
 
@@ -87,7 +87,7 @@ qu'elle ne le retarde `EiR Intro l.261`.
 - **Livraison de la preuve à Emmanuelle ch.12** `EiR ch.12 l.193` `EiR ch.12 l.199-203` : si les PJ apportent à Emmanuelle (a) la note de Hugo Bottomdown, ou (b) le récit du raid Heidheinheim avec la révélation Sudenland-en-Nuln, Emmanuelle se lève d'un bond avec un sourire éblouissant, embrasse les PJ sur les joues, applaudit, et clôt brutalement l'entretien. Un test Easy (+40) Politics révèle aux PJ qu'ils viennent de cautionner officiellement l'annexion future de Sudenland.
 - **Climax ch.13 — absence** `EiR ch.17 l.26` : Etelka n'est pas présente à la cérémonie de remise de Ghal Maraz ; chaque Électeur est rentré préparer son territoire pour la guerre. Les troupes de Nuln sont déjà en marche pour annexer Sudenland, et 8 de ses enfants rejoignent l'effort de guerre d'Emmanuelle.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S60 — Présence (implicite) à Altdorf pour la période du défilé ; Hugo Bottomdown opère sur sa route entre Castle Reikguard et Altdorf, porteur du handout *A New Dawn for Solland* `EiR ch.5 l.11` `EiR ch.5 l.18-32`.
 - S60 — Pavillon impérial : Emmanuelle von Liebwitz évoque Etelka devant Hermann von Feilbach, comparant les Toppenheimer aux Jungfreud qui sèment la discorde et ravivent de vieilles revendications `EiR ch.5 l.237`. Plus tard, ultimatum chuchoté d'Emmanuelle à Immanuel-Ferrand Holswig-Schliestein : Sudenland ne diffère pas d'Ubersreik, les Toppenheimer tomberont `EiR ch.5 l.326`.
@@ -110,7 +110,7 @@ Profil indicatif pour une scène imprévue : Noble Lord (Gold 3-4) selon
 la convention WFRP4 — utiliser le statbloc générique *Noble* du Core
 Rulebook avec un Fel élevé (50-55) et Cool moyen (45-50) pour porter
 la posture provocatrice publique et la maîtrise sous pression
-politique. Aucune confrontation armée canon ne l'implique
+politique. Aucune confrontation armée ne l'implique
 directement : sa scène-clé est verbale au Conclave d'urgence, et sa
 défaite finale est militaire (troupes de Nuln) sans qu'elle ne
 combatte personnellement `EiR ch.17 l.26`.

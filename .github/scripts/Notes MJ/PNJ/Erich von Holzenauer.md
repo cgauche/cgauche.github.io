@@ -7,12 +7,12 @@
 - **Statut** : [VIVANT, POLITIQUEMENT MORT] (post-S20)
 - **Tags** : `#Holzenauer` `#ErichVonHolzenauer` `#MaisonsUbersreik` `#NiederstadtHaus` `#BalMasqué` `#Pistolier` `#Altdorf` `#Outsider` `#PolitiquementMortS20`
 
-## Source canon
+## Source
 - **Description + biographie + statbloc Noble (Gold 2) + bal masqué = son scénario** : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` lignes 8-9 (loue Niederstadt Haus à Morgenseite), 60-66 (Players' Introduction), 70 (Gallery), 244-246 (tentative de framing), 324-345 (House Holzenhauer + statbloc Erich Noble Gold 2)
 - **Niederstadt Haus + dispositions** : ibid. (carte + descriptions room-by-room)
-- **Identification table « livrée verte et noire »** : non-canon — choix MJ (le canon ne précise pas les couleurs Holzenauer). À conserver comme convention table.
+- **Identification table « livrée verte et noire »** : non-canon — choix MJ (la source ne précise pas les couleurs Holzenauer). À conserver comme convention table.
 
-## Description canon
+## Description
 
 > « *Lord Erich recently distinguished himself as a pistolier in the Grey Mountains facing Greenskins, leaving him very popular with the local Ubersreik's garrison. This also makes him somewhat less popular with the Altdorf State Army currently stationed in Ubersreik, who seem him as a potential rallying figure of opposition.* » (RN&HD ch.7 l.329)
 
@@ -20,7 +20,7 @@
 
 > « *Lord Erich von Holzenauer, one of the nobles who wants to be the new lord of Ubersreik, has rented a mansion in Morgenseite, Ubersreik's most exclusive district. There he plans a lavish masquerade ball, and intends to use the occasion to gain the upper hand over his political opponents. Fortunately for von Holzenauer, the estate is already furnished — its owner fled in somewhat of a rush when Ubersreik was recently invaded by the Emperor's forces.* » (RN&HD ch.7 l.9)
 
-## Statbloc canon — **Erich von Holzenauer – Noble (Gold 2)**
+## Statbloc — **Erich von Holzenauer – Noble (Gold 2)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 - **[S20]** — **Bal masqué Holzenauer, son scénario** (RN&HD ch.7 *Lord of Ubersreik*). Organise et **accueille les invités** (Gallery). **Catastrophe totale** de bout en bout :
   - **Attaques magiques anonymes** : sanglier du buffet s'anime, vêtements échangés entre Père Gunther Emming et Sœur Célestine Hoch — humiliations en cascade, Erich impuissant.
   - **Querelles publiques** : Rickard Aschaffenberg vs Heinrich Bruner à l'entrée ; Baron de Grenouille duel un bretonnien-moqueur ; Andreas Bruner ridiculisé en cascade.
-  - **Tentative de framing** (canon RN&HD) : **Erich lui-même** tente de planter une carte à jouer avec image slaanéenne + faux billet sur **Rickard Aschaffenberg** pour le faire investiguer comme cultiste. **Inflexion table** : la version jouée est l'inverse (Rickard tente, Erich passif), divergence canon assumée. Erich **pouvait** essayer en canon.
+  - **Tentative de framing** (canon RN&HD) : **Erich lui-même** tente de planter une carte à jouer avec image slaanéenne + faux billet sur **Rickard Aschaffenberg** pour le faire investiguer comme cultiste. **Inflexion table** : la version jouée est l'inverse (Rickard tente, Erich passif), divergence assumée. Erich **pouvait** essayer en.
   - **Skavens à la malpierre** : malpierre glissée dans les desserts ; nombreux nobles mutés ou à l'agonie ; **attaque skaven en cuisine**. Première confirmation publique de skavens à Ubersreik. **Erich, en tant qu'hôte, porte la responsabilité morale et politique** du désastre.
   - **Hubkind** débarque, Mark le repousse.
 - Bilan : sa **candidature à la régence est ruinée**. Le canon RN&HD précise « *Even a family whose cause is lost will be able to put themselves back in contention — if they can locate and wipe out this threat beneath the city* », mais **table** : Erich n'a pas mené cette opération de récupération, le groupe quitte Ubersreik en S21. **Politiquement mort à Ubersreik**.
@@ -56,7 +56,7 @@
 ## MJ-only
 - **Tentative de framing canon = Erich** (RN&HD ch.7 l.234, 246) : « *Lord Erich is trying to frame one or more of his rivals as members of a secret Chaos cult. The resulting scandal will lead to witch hunters investigating both families, leaving the von Holzenauers as perfect candidates for the lordship of Ubersreik.* »
   - **Divergence table** : la version Résumés S20 attribue cette tentative à **Rickard von Aschaffenberg**. **Résolution MJ** : on garde la table (« les Résumés font foi » CLAUDE.md). **Mais** : Erich **pouvait** avoir essayé aussi, en parallèle, et la table a juste mis l'accent sur Rickard. **Possibilité narrative** : Erich a aussi tenté, et c'est l'**incompétence d'Erich** qui a fait apparaître la carte slaanéenne dans le système, que Rickard a ensuite recyclée. Ré-utilisable.
-  - **Cohérence Prejudice (The Dishonourable)** : Erich détesterait franchement la fourberie — donc la version canon où **lui** tente le framing est psychologiquement étrange. La version table (Rickard tente, Erich victime) est **plus cohérente avec son profil**. Préfère la version table.
+  - **Cohérence Prejudice (The Dishonourable)** : Erich détesterait franchement la fourberie — donc la version où **lui** tente le framing est psychologiquement étrange. La version table (Rickard tente, Erich victime) est **plus cohérente avec son profil**. Préfère la version table.
 - **« Rallying figure of opposition »** : la State Army aldorfer **se méfie** d'Erich. Le bal masqué a probablement servi aussi aux Altdorfers (Dabernick + **Nacht incognito**) d'**occasion de le déstabiliser**. Coïncidence ? **Hypothèse MJ forte** : **Nacht a indirectement saboté la soirée d'Erich** (entre Filianore qui empoisonne Andreas + sabotage magique anonyme à enquêter + skavens probablement non-Nacht — Nacht a au moins **laissé faire**). Le « politiquement mort à Ubersreik » d'Erich **arrange** Nacht qui ne veut aucune candidate forte.
 - **Sabotage magique anonyme — qui ?** : pas identifié table (cf. `Factions/Maisons nobles d'Ubersreik.md` MJ-only). Hypothèses :
   - **(a)** Christoph Engel (S16 disparu avec pièces de l'arme — improbable, échelle inadaptée mais possible si Engel = mage farceur résiduel).

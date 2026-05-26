@@ -57,7 +57,7 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - Rencontre avec **Marius Leitdorf**.
 - **Battle of Wolfshügel** : peut-être avec les PJ.
 - **Drexol the Extinction** : warlord du chaos.
-- **A Dwarf Named Thirteen** : PNJ canon.
+- **A Dwarf Named Thirteen** : PNJ.
 - **Cult of the Broken Fingers** : nouveau culte mineur.
 
 ### 6. Climax au Volkshalle (ch. 13)
@@ -77,7 +77,7 @@ Une fois le vrai Ghal Maraz récupéré au chapitre 11, les PJ ont selon le plan
 - **Heinrich** : guerre civile à Middenheim, Norland agressif, Kartzburdger opportunistes, croisade contre Altdorf, auto-proclamation « Empereur Loup ». Possible influence Main Pourpre + cultes de Khorne.
 - **Dietrich** : Kartzburdger prennent Middenheim par négociation, paix avec Altdorf, délégation diplomatique. Vengeance de Boris « pas dans le sang ».
 - **Altdorf (canon)** : Karl-Franz rétabli calme les ardeurs de Heinrich. Suite canonique d'EiR.
-- **Ne pas prendre** : variante canon.
+- **Ne pas prendre** : variante.
 
 → Détailler dans `08 - Vision de l'ancien MJ.md`. Ces voies sont à étoffer par le nouveau MJ — l'ancien ne les a pas écrites.
 

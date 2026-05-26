@@ -19,7 +19,7 @@ officielle, l'air pressé et confidentiel, jouant la carte du capitaine
 de la Chambre Noire venu intercepter une menace imaginaire
 `EiR ch.13 l.81-83`.
 
-## Phrases canon
+## Phrases
 
 - *« Thank Sigmar, we found you! I am Captain Emil Baecker, Black Chamber. We were alerted you were nearing Altdorf and wanted to intercept you. You're in danger! Revolutionaries, we learned, perhaps even cultists, are planning to waylay you on the roads to the Palace. We've been sent to take you to a boat on the docks, where you'll be moved by river. We must go! »* — abordage en pleine rue, ton confidentiel et urgent `EiR ch.13 l.83`.
 - *« This is a warrant identifying me and my mission, signed by High Chancellor Holswig-Schliestein. »* — tendant le faux mandat aux PJ qui hésitent `EiR ch.13 l.85`.
@@ -69,7 +69,7 @@ démoniaque de Gideon et la nature réelle du complot Sheerargetru.
 - **Interrogatoire si capturé vivant** `EiR ch.13 l.136` : refuse d'abord de nommer son chef ; sous menace, donne par mensonge une description de Karl-Heinz Wasmeier et l'adresse d'une auberge bon marché près de la Rue des Cent Tavernes. Le mensonge est détectable à un test d'Intuition Very Hard (–30), ou si les PJ savent déjà Wasmeier ailleurs ou mort. Baecker ne livre Zuntermein comme commanditaire que sous menace de mort crédible **et** offre simultanée de clémence.
 - **Note compromettante** `EiR ch.13 l.129` : Baecker porte sur lui un dessin au fusain des PJ fait par Zuntermein ; au verso, une note non signée — *« These are your targets. Retrieve the Hammer. »* — écrite à la hâte, dont l'écriture de Zuntermein n'a pas été déguisée. Remise à Liepmund Holzkrug ou Immanuel-Ferrand Holswig-Schliestein, elle déclenche la chute de Zuntermein `EiR ch.13 l.144-145`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **S64+ (retour des PJ à Altdorf avec Ghal Maraz)** : abordage en pleine rue avec son détachement Spionwerber, faux mandat, diversion vers les docks ou combat immédiat selon la réaction des PJ `EiR ch.13 l.81-89`.
 - **S64+ (intervention de Gideon)** : escouade de la Garde envoyée par Gideon sous voix d'enfant invisible pour briser l'embuscade et faire transmettre Ghal Maraz au Volkshalle `EiR ch.13 l.131-132` `EiR ch.13 l.140`.

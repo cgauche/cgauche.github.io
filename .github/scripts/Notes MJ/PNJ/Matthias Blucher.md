@@ -11,17 +11,17 @@
 - **Statut** : [VIVANT, CONTACT — peu connu des PJ]
 - **Tags** : `#MatthiasBlucher` `#Blucher` `#Altdorf` `#Marchand` `#Bizarreries` `#Intermédiaire` `#FIL42` `#FIL48` `#STUB`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.8 *A Stop Along the Way* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/11 - Chapter 8 A Stop Along the Way.md` lignes 232-264
 
-## Description canon (DotR ch.8 l.253-264)
+## Description (DotR ch.8 l.253-264)
 
 > *« Who is to say that The Main Pourpre is the only cult that the Bluchers have dealings with? Perhaps they also supply the **Slaaneshi cult of the Jade Sceptre** with all manner of illicit substances. »*
 
-Les Bluchers sont **présentés canon comme intermédiaires neutres profit-driven**, fournissant plusieurs cultes simultanément (Main Pourpre + Sceptre de Jade, possiblement d'autres). **Pas eux-mêmes affiliés à un seul culte**, mais **complices financiers** de plusieurs.
+Les Bluchers sont **présentés comme intermédiaires neutres profit-driven**, fournissant plusieurs cultes simultanément (Main Pourpre + Sceptre de Jade, possiblement d'autres). **Pas eux-mêmes affiliés à un seul culte**, mais **complices financiers** de plusieurs.
 
 ## Apparitions par session
-- **[S29]** — Confie la **caisse de breloques** à Pathsokar dans son échoppe d'Altdorf. **Lettre cachetée pour Capitaine Scarlash** à Middenheim. 8 objets dans la caisse, lettre évoque 6 → écart canon volontaire (test de fiabilité).
+- **[S29]** — Confie la **caisse de breloques** à Pathsokar dans son échoppe d'Altdorf. **Lettre cachetée pour Capitaine Scarlash** à Middenheim. 8 objets dans la caisse, lettre évoque 6 → écart volontaire (test de fiabilité).
 
 ## Ce que les PJ savent
 - Marchand discret d'Altdorf.

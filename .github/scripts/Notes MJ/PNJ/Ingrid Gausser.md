@@ -7,7 +7,7 @@
 - **Statut** : [VIVANTE] [CONSPIRATRICE NON-CHAOTIQUE — opportuniste] (Arc 7 / post-EiR).
 - **Tags** : `#IngridGausser` `#Dowager` `#Nordland` `#Conspiratrice` `#CerveauPolitique` `#Salzenmund` `#WasmeierContact`
 
-## Source canon
+## Source
 - **Companion ch. 5** *The Nordland Question* : `Source/Empire In Ruins Companion/07 - CHAPTER 5 The Nordland Question.md`
 
 ## Profil politique

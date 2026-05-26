@@ -8,7 +8,7 @@
 - **Statut** : [VIVANT — PRISONNIER DE CRISTAL] [HÉRÉTIQUE SOUS CONTRAINTE] [DOOM PROGRAMMÉE]
 - **Tags** : `#AdelfriedJarmund` `#Verena` `#Hérétique` `#PrisonierDeCristal` `#CavesOfChaos` `#PactDaemonique` `#Saboteur`
 
-## Source canon
+## Source
 - **EiR ch. 11** *Caves of Chaos* l. 157-160 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/14 - Chapter 11 - Caves of Chaos.md`
 
 ## Histoire
@@ -39,7 +39,7 @@
 
 → **Pas exploitable comme allié long-terme** — c'est par construction un agent de Tzeentch jetable.
 
-## Doomed Talent (canon, texte OCR obscur)
+## Doomed Talent (texte OCR obscur)
 > *« Spend hushed eon. Eventually rescued. Agents rapport garnered, explore tunnels, rendered unreal »*
 
 ## Talents

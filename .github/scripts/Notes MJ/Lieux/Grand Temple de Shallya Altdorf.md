@@ -32,7 +32,7 @@
 - **Pas de discrimination** religieuse ou politique. Shallya soigne tout le monde. Y compris (en théorie) les hérétiques — le clergé n'enquête pas.
 - **Confidentialité** : les prêtresses ne posent pas de questions sur l'origine des blessures.
 
-## Wolfgang — bénévole canon
+## Wolfgang — bénévole
 
 Canon S61 : **Wolfgang Holswig-Abenauer** servait régulièrement au temple en bénévole incognito (servant des repas, lavant des plaies). Tous les 2-3 mois. **Plus présent depuis l'attentat de Barthelm** — la Reiksgarde l'a évacué à [[Castle Reikguard]] pour sa sécurité.
 

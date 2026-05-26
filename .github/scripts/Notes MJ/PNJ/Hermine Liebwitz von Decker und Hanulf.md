@@ -9,13 +9,13 @@
 - **Statut** : [VIVANTE] [COMPLICE INVOLONTAIRE → POTENTIELLE ALLIÉE] (Arc 7 ch. 13).
 - **Tags** : `#Hermine` `#Liebwitz` `#Volkshalle` `#WineCellars` `#Altdorf` `#CompliceGideon` `#NobleMarginale` `#FIL-Volkshalle`
 
-## Source canon
+## Source
 - **EiR ch.5 l.207** S60 défilé : *« Ermine Liebwitz von Decker und Hanulf, a distant relation of Emmanuelle and steward of the Imperial Wine Cellars »* — wine bad complaint Emmanuelle+Holzkrug.
 - **EiR ch.7 l.91-93** S62 conclave Volkshalle : si Character emmène Emmanuelle's verre cellar, Hermine *« refuses to help. 'I am Steward of the Cellars, not her slave!' »* — Hard Charm test.
 - **EiR ch.13 l.211** climax : Wolfgang shouts *« Ermine! Fetch wine from your cellars! Quickly, and the best! »* — resentment leaving.
 - **EiR ch.13 l.278-305** : statbloc Noble Gold 1 + investigations cellar + young lad Gideon bribe + cellar canon Ludwig the Fat 1149 IC elevator throne.
 
-## Statbloc canon (EiR ch.13 l.293-302)
+## Statbloc (EiR ch.13 l.293-302)
 
 **ERMINE LIEBWITZ VON DECKER UND HANULF, STEWARD OF THE VOLKSHALLE CELLARS NOBLE (GOLD 1)**
 
@@ -35,8 +35,8 @@
 
 ## Manipulation par Gideon
 - **Gideon (sous forme de « young lad »)** la bribe pour **« discreet access »** aux caves à vin (canon ch.13 l.283).
-- **Passage canon ch.13 l.285-287** : caves construites 1149 IC sous **Emperor Ludwig the Fat** (pas Ludwig III). À l'époque, le trône était là où le **reliquaire actuel** est. Ludwig the Fat avait fait installer une plate-forme Dwarf-built elevator descendant directement aux caves pour aller boire after meetings. Le trône fut déplacé + elevator retiré + trou couvert il y a longtemps. **Gideon a appris cela** et a bribed Hermine pour laisser entrer des artisans qui ont uncovered the hole in ceiling.
-- **Cellar canon ch.13 l.289-291** : derrière door verrouillée par stout lock. Hard (-20) Pick Lock. Inside = rare vintage wines + ceiling hole exact under new Reliquary.
+- **Passage ch.13 l.285-287** : caves construites 1149 IC sous **Emperor Ludwig the Fat** (pas Ludwig III). À l'époque, le trône était là où le **reliquaire actuel** est. Ludwig the Fat avait fait installer une plate-forme Dwarf-built elevator descendant directement aux caves pour aller boire after meetings. Le trône fut déplacé + elevator retiré + trou couvert il y a longtemps. **Gideon a appris cela** et a bribed Hermine pour laisser entrer des artisans qui ont uncovered the hole in ceiling.
+- **Cellar ch.13 l.289-291** : derrière door verrouillée par stout lock. Hard (-20) Pick Lock. Inside = rare vintage wines + ceiling hole exact under new Reliquary.
 
 ## Conscience morale
 - **Développe des doutes silencieux** sur :
@@ -57,8 +57,8 @@
 - **Lui offrir protection** ou révéler que Gideon va la trahir → bascule alliée.
 - **Mort/disparition d'Hermine** = perte d'un témoin clé et révélation possible de Maria-Luise.
 
-## Note canon
-- **NE PAS la faire mourir** (importante au climax — canon ch. 13 *À éviter*).
+## Note
+- **NE PAS la faire mourir** (importante au climax — ch. 13 *À éviter*).
 - Sa survie permet une exposition pertinente du complot Volkshalle.
 
 ## Liens

@@ -10,14 +10,14 @@
 - **Statut** : [VIVANTE — ENNEMIE CACHÉE]
 - **Tags** : `#GislindUrsin` `#NineEyes` `#HollowEye` `#Averheim` `#Culture` `#Philosophy` `#Tzeentch` `#Wolfgang` `#University` `#StrangeFlower` `#Mutants` `#Arc7` `#Ch4` `#Ch6` `#Ch13`
 
-## Source canon
+## Source
 - **EiR Intro l.170-176** liste 9 Yeux.
 - **EiR ch.4 l.298-301** room Reikguard : *« Gislind Ursin left for Altdorf several weeks ago. Her bookshelf holds folios of dramas by the playwrights Tarradasch, Sierck, Malvosin, and Pikewaver. A copy of von Deihl's Strange Flower is left open by the bed. With a Difficult (-10) Intuition Test, a Character may glean that someone interested in von Deihl's work may sympathise with Mutants »*.
 - **EiR ch.5 l.42** : Gislind à Altdorf University Schulergegend (preparing lessons pour Prince Héritier).
 - **EiR ch.6 l.124-125** : section *Neuf Yeux in Altdorf* — locating Extended Average (+20) Perception 15 SL au Schulergegend district (Altdorf p.161). Splittent leur temps entre bookshops rares, University Refectory, Temple-Library de Verena.
 - **EiR ch.13** : présente Volkshalle climax si vivante.
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 Standard Member of the Neuf Yeux (Gold 1) :
 

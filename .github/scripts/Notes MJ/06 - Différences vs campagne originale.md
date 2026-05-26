@@ -65,7 +65,7 @@ Les cultistes de la Main Pourpre survivants pourchassent activement les PJ, qu'i
 
 ### Conforme
 - *Rough Night at the Three Feathers* = scénario d'intro canonique.
-- Tribunal et duel judiciaire = canon.
+- Tribunal et duel judiciaire =.
 
 ### Divergences identifiées (homebrew)
 - **Sigrun + Lirrian comme PJ** : homebrew (ils ne sont pas des prétirés canon).
@@ -77,8 +77,8 @@ Les cultistes de la Main Pourpre survivants pourchassent activement les PJ, qu'i
 ## Arc 2 (S7-13) — Bögenhafen — Enemy in Shadows
 
 ### Conforme
-- Trame Ordo Septenarius / Teugen / Magirius / Steinhäger : canon.
-- Sacrifice de Kastor Lieberung détourné, démon-enfant (= **GIDEON**, métamorphe), rituel, arrestation puis évasion : canon.
+- Trame Ordo Septenarius / Teugen / Magirius / Steinhäger :.
+- Sacrifice de Kastor Lieberung détourné, démon-enfant (= **GIDEON**, métamorphe), rituel, arrestation puis évasion :.
 
 ### Divergences (homebrew)
 - **Filianore comme femme perdue de Pathsokar** + devient espionne de Nacht : homebrew.
@@ -111,7 +111,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 ## Arc 4 (S23-29) — Death on the Reik
 
 ### Conforme
-- Etelka Herzen (Red Crown canon DotR ch.4 l.6 — à ne pas confondre avec la Main Pourpre), pierre céleste, Wittgenstein : canon.
+- Etelka Herzen (Red Crown canon DotR ch.4 l.6 — à ne pas confondre avec la Main Pourpre), pierre céleste, Wittgenstein :.
 
 ### Divergences (homebrew)
 - **Œil régénéré de Mark au phare [S26]** : don MJ.
@@ -127,7 +127,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 - Carnaval 8 jours (Wellentag→Festag), Wasmeier traître = Magister Magistri, Ordo Impedimentae/Novitae/Terribilis, démon métamorphe imitant Hoflich, addiction Sparsam au Délice de Ranald, chantage Ar-Ulric/Emmanuelle, hypnose Dieter par « Charlotte », Rhéa Ehrlich otage : **tout canon**.
 - Schutzmann + offre d'affiliation post-PBT, Wallenstein/Wittgenstein Sceptre de Jade, Janna Eberhauer + Tour de magie, Brunhilde Klaglich (alias Charlotte/Elise/Frau Kenner), Brunhilde tuée S38, Wasmeier fui par Opal Brooch Flight, démission Jarrick Valgeir + remplacement par Emil Valgeir : **canon strict**.
 - Conséquences post-PBT (canon ch.7) : Erich Kalzbad nommé Law Lord, Reiner Ehrlich retiré, mariage Dieter-Kirsten, Emmanuelle part pour Altdorf, Boris se rétablit, Stefan toujours soigné par Pavarotti : **tout canon**.
-- Snikkit + carte du Fort d'Airain volée S34 (Templar's Arms raid canon ch.6) : **canon**.
+- Snikkit + carte du Fort d'Airain volée S34 (Templar's Arms raid ch.6) : **canon**.
 
 ### Divergences (homebrew)
 - **Démon métamorphe = Gideon (Sheru-Tar Gee'taru) = même entité Bögenhafen S12** : inflexion table en faveur du **Changeling Tzeentch** (PBT Companion ch.10) plutôt que d'un Doppelgänger basique. Cohérent avec le plan central Arc 7 (Sheerargetru-Gideon-Wasmeier-Zuntermein).
@@ -139,7 +139,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 - **Pathsokar re-hypnotise Dieter S38** pour Croix de Lilas : homebrew, manipulation cachée. Dieter ne le sait pas.
 - **Bienfaiteur anonyme = Nastassia agente de Heinrich Todbringer** : canon Nastassia existe (PBT ch.6 p.99 + Companion ch.8), mais à table elle est **utilisée comme contact opaque** dès S30 (logement Templar's Arms + bourse + commande d'enquête). Révélation Heinrich réservée Arc 6 (dirigeable S55-56).
 - **Course-poursuite finale d'Elvira contre la diligence + fouet sur le pont [S39]** : résolution MJ flamboyante du climax canon *Wasmeier at Bay*.
-- **Pont Sud effondré** : conséquence canon du sort Wasmeier, mais à table → impact logistique majeur Arc 6 (le commerce passe par Est).
+- **Pont Sud effondré** : conséquence du sort Wasmeier, mais à table → impact logistique majeur Arc 6 (le commerce passe par Est).
 
 ---
 
@@ -160,12 +160,12 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 - **Filianore + Croix de Lilas continuent en arrière-plan Arc 6** : pas d'apparition à table mais surveillance MJ-only de Wallenstein S45 + Pathsokar reste membre. Schisme MP toujours actif.
 - **Suspicion PJ vers Heinricus pour le détournement de poudre** : les PJ croient Heinricus impliqué (crest sur baril S52, canon HR l.3770). **Côté MJ : Heinricus est INNOCENT**. Le canon HR ch.*The Picket* (l.4147) attribue le détournement à Quartermaster **Habicht** + Sergeant **Brantner** uniquement. La suspicion PJ reste intérieure à la table, **zéro effet en-monde** sur Heinricus.
 - **Dietrich Sprintboch von Kärzburdger** : intégration PJ via Maison Kärzburdger. Adoption noble + héritier montant. Faction interne loyale (Emmiline, Hildegund, Tylik, Dengi, Pesold).
-- **[[Place de l'Espoir]] / bagne mine fer** : canon HR ch. The Road East. Mais à table = **dilemme moral** sur esclavage humain → homebrew narratif (le canon le traite plus brièvement).
+- **[[Place de l'Espoir]] / bagne mine fer** : canon HR ch. The Road East. Mais à table = **dilemme moral** sur esclavage humain → homebrew narratif (le le traite plus brièvement).
 - **Consolidation lieux** : à table Holzbek = Gladbeich + Oberholzbek + Unterfraus joués comme baronnie unifiée (canon les sépare).
 - **3e météorite Morrslieb** : Maliss mentionne qu'une 3e existerait au-delà de celle de Wittgenstein et de la cible Karak Skygg. **MJ-only hook Arc 7+**.
 - **Dengi Rulsson** + **Tylik** + **Albert Reichau** : compagnons PNJ étoffés Arc 6 (canon mentionne garnison Piquet mais détails table). **Pesold Imlitz** = **PJ ajouté table Arc 6** (pas de pendant canon HR), héraut Kärzburdger sous service Dietrich.
 - **Embuscade route est S53 + Pesold remplaçant Dietrich** : extension MJ pour transition tactique.
-- **Maliss évacué par sbire avec bombe fumigène S55** : statut **incertain volontairement** par MJ — canon prévoit mort ou fuite selon table.
+- **Maliss évacué par sbire avec bombe fumigène S55** : statut **incertain volontairement** par MJ — prévoit mort ou fuite selon table.
 
 ---
 
@@ -192,7 +192,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 
 ## Arc 7 bis — S63 — Attaque du manoir Todbringer (homebrew, off-canon)
 
-**Cette session est une insertion intégrale de l'ancien MJ entre le chapitre 7 (S62) et le chapitre 8 du canon. Aucun équivalent dans le livre.**
+**Cette session est une insertion intégrale de l'ancien MJ entre le chapitre 7 (S62) et le chapitre 8 du. Aucun équivalent dans le livre.**
 
 ### Déclencheur
 - Furie des Sigmarites après la rupture de Ghal Maraz par Boris au conclave (S62).
@@ -230,10 +230,10 @@ L'ancien MJ a explicitement renforcé l'agency politique des PJ et donné plus d
 
 ---
 
-## Personnages joueurs vs canoniques
+## Personnages joueurs vs PNJ
 
 Les PJ sont créés par les joueurs (rien dans le livre n'impose des prétirés). Cependant :
-- **Elvira prêtresse de Rhya** : Rhya étant une déesse mineure, son culte développé est un beau homebrew compatible avec le canon.
+- **Elvira prêtresse de Rhya** : Rhya étant une déesse mineure, son culte développé est un beau homebrew compatible avec le.
 - **Dietrich Kärzburdger noble** : intégration MJ originale, doit influer sur le ch. 9-10 (le voyage passe par le territoire Kärzburdger / Averland).
 - **Mark Sigmar → Ulric** : trame originale.
 - **Pathsokar champion du Graf** : statut élevé compatible avec l'arc final (le titre lui donne du poids politique).
@@ -242,7 +242,7 @@ Les PJ sont créés par les joueurs (rien dans le livre n'impose des prétirés)
 
 ## Suite (chapitres 8-13) — voir `07 - Suite canonique.md`
 
-Le canon dicte une route Altdorf → Black Fire Pass → Altdorf via Kemperbad / Nuln / Streissen / Averheim / Grenzstadt, avec étapes :
+Le dicte une route Altdorf → Black Fire Pass → Altdorf via Kemperbad / Nuln / Streissen / Averheim / Grenzstadt, avec étapes :
 - **Ch. 8** : Recherche chez Fassbinder (rendez-vous DEJÀ donné fin S62)
 - **Ch. 9** : Trajet Altdorf → Black Fire Pass (river patrol *The Comet* puis *The Carroburg*)
 - **Ch. 10** : Dans les pas de Sigmar (mine de Schmerzeit, Madcraw Clan nain)

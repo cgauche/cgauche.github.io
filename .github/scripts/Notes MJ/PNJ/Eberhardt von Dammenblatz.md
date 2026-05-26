@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT] [ENNEMI ACTIF] depuis S1
 - **Tags** : `#Dammenblatz` `#Wissenland` `#Toppenheimer` `#Vengeance` `#EnnemiActif`
 
-## Source canon
+## Source
 - RN&HD ch.3 (Plot 1, accusateur) : `Source/Rough Nights & Hard Days/03 - A Rough Night at the Three Feathers.md`
 - RN&HD ch.4 (procès, intro Eberhardt + statbloc) : `Source/Rough Nights & Hard Days/04 - A Day at the Trials.md` ligne 122 (apparition), l.166 (titre officiel), l.252-266 (description + statbloc)
 - RN&HD ch.5 (commanditaire bombe opéra) : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` ligne 6 (cite "Otto" — erreur canon, lire Eberhardt) + Plot 1
@@ -19,7 +19,7 @@
 
 > **Note canon** : le statbloc et la description du ch.4 sont nommés "Otto Von Dammenblatz" — c'est une **erreur des auteurs RN&HD** (Otto est mort, c'est Eberhardt qui agit). On lit Eberhardt partout.
 
-## Description canon
+## Description
 
 > "In his late 30s, [Eberhardt] has been angry his entire life. Though years in the State Army have left him relatively fit, he was never much of a fighter, preferring fierce debate to physical solutions. His accent is urbane, but somewhat monotone." (RN&HD ch.4 l.253)
 >
@@ -27,7 +27,7 @@
 >
 > **Geste théâtral** : pointe la fléchette plantée dans le chapeau de Böttcher avec emphase, prend la foule à témoin, accuse fortement.
 
-## Statbloc canon — **Eberhardt Von Dammenblatz – Noble Lord (Gold 7)**
+## Statbloc — **Eberhardt Von Dammenblatz – Noble Lord (Gold 7)**
 
 > *(canon écrit "Otto" mais c'est Eberhardt qui agit ; State Army veteran, expérience de débat, rapière + main gauche)*
 
@@ -55,7 +55,7 @@
 - **[S1]** — Hors-scène mais commanditaire de l'attentat sur Bruno Franke (Plot 1 via agente Dominique Herveaux).
 - **[S2]** — Présent en personne au tribunal de Kemperbad. Saboteurs (enfants payés, sarbacane, serpent dans la tente). Accuse Phineas à grand renfort de théâtre. Sort sans ménagement après l'acquittement.
 - **[S3]** — Hors-scène. Commanditaire de la bombe dans la loge ducale (Plot 1 "Best Served Hot"). **Cible la comtesse Emmanuelle aussi** (qu'il blâme pour la mort de son père).
-- *(Possible [S13-S22])* — Canon ch.7 indique qu'il **est à Ubersreik incognito** durant *Lord of Ubersreik*, prêt à intervenir personnellement → à vérifier dans le canon table joué Arc 3.
+- *(Possible [S13-S22])* — Canon ch.7 indique qu'il **est à Ubersreik incognito** durant *Lord of Ubersreik*, prêt à intervenir personnellement → à vérifier dans le table joué Arc 3.
 
 ## Ce que les PJ savent
 - Accusateur de la Gravin, perdu au procès.

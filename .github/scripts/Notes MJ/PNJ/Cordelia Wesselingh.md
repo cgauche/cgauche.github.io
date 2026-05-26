@@ -9,17 +9,17 @@
 - **Statut** : [VIVANTE, ALLIÉE acquise — gratitude envers Filianore et le groupe]
 - **Tags** : `#Cordelia` `#Apothicaire` `#Ubersreik` `#Whistlebone` `#JadeCollege` `#AlliéePJ` `#CouvertureFilianore`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Bait and Witch* (description + statbloc) : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` lignes 2841-2886
 - *A Guide to Ubersreik* (échoppe + mention secrète) : `Source/Starter Set/A Guide to Ubersreik/04 - Ubersreik- A Visitor's Guide.md` (Cordelia's Apothecary, p.16)
 
-## Description canon
+## Description
 
 > "Cordelia is a **handsome woman with long, silver-grey hair**. She always has a **welcoming smile**, and **loves whiling away her afternoons gossiping with her customers** as she prepares their herbal balms and remedies. Unbeknownst to most, **many decades ago Cordelia was an apprentice of magic at the Jade College in Altdorf**. She never had the talent to become a full wizard, but she still feels a strong sense of loyalty to the Colleges of Magic." (UA1 *Bait and Witch* p.99)
 
 > "Hidden in her cellar is a secret entrance to the tower of Wizard Lord **Christoph Engel** of the Grey Order, to whom she passes over all interesting titbits she learns from her gossip."
 
-## Statbloc canon — **Cordelia Wesselingh – Master Apothecary (Silver 3)**
+## Statbloc — **Cordelia Wesselingh – Master Apothecary (Silver 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -74,12 +74,12 @@
 
 ## Fils ouverts
 
-- **FIL-41** — *Réseau d'agents secrets Ubersreik* — pivot canon du réseau (passage secret cave → tour Engel, Second Sight, couverture officielle Filianore comme assistante).
+- **FIL-41** — *Réseau d'agents secrets Ubersreik* — pivot du réseau (passage secret cave → tour Engel, Second Sight, couverture officielle Filianore comme assistante).
 - **FIL-38** — *Cordelia Wesselingh + Gunther Abend (alliés acquis)* — alliée acquise par gratitude S15 ; canal de couverture pour Filianore et point de rentrée pour les PJ à Ubersreik.
 - **FIL-29** — *Christoph Engel disparu avec pièces de l'arme magique* — connexion directe au mage gris via passage secret de la cave ; boîte aux lettres potentielle si Engel réapparaît.
 
 ## Liens
 - **Arcs** : [[Arc 3 - Ubersreik]] (S14-S15 actif)
-- **PNJ liés** : [[Ida Vernt]] (amie sauvée S15, morte S21), [[Christoph Engel]] (patron secret, disparu S16), [[Matthias Hubkind]] (agresseur S15), Hannah Baumann (équivalent canon de Hubkind à cette scène — non utilisée table), Filianore (assistante / espionne sous couverture)
+- **PNJ liés** : [[Ida Vernt]] (amie sauvée S15, morte S21), [[Christoph Engel]] (patron secret, disparu S16), [[Matthias Hubkind]] (agresseur S15), Hannah Baumann (équivalent de Hubkind à cette scène — non utilisée table), Filianore (assistante / espionne sous couverture)
 - **Lieux** : [[Ubersreik]] (Whistlebone Alley + cave-passage vers Tour d'Engel), [[Tour des Vents]] (indirect via Engel)
 - **Factions** : **alliée** Collège Gris d'Ubersreik (réseau Engel), **alliée indirecte** [[Régence impériale d'Ubersreik]] (via Filianore), **cible passée** chasseurs de prime + répurgateurs anti-sorcellerie

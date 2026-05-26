@@ -7,12 +7,12 @@
 - **Statut** : [MORTE S21 — tuée par Anselm sur sa propre demande]
 - **Tags** : `#IdaVernt` `#SorcièreDeVillage` `#HedgeWitch` `#MentorAnselm` `#ProtecteurAnselm` `#MorteS21` `#Ubersreik`
 
-## Source canon (variante MJ-table)
+## Source (variante MJ-table)
 
-**Important** : Ida Vernt **n'est pas un nom canon**. Le récit S15 utilise « Ida Vernt » ; le canon UA1 *Bait and Witch* a pour personnage équivalent **Alexander Grün** (homme, hedge witch « ami » de Cordelia). La GM table a remplacé le canon UA1 par une **variante** : femme, sorcière de village mentor d'Anselm, qui meurt off-screen plus tard. À ce titre Ida Vernt est **PNJ MJ-table** dérivé d'un canevas canon.
+**Important** : Ida Vernt **n'est pas un nom canon**. Le récit S15 utilise « Ida Vernt » ; le canon UA1 *Bait and Witch* a pour personnage équivalent **Alexander Grün** (homme, hedge witch « ami » de Cordelia). La GM table a remplacé le canon UA1 par une **variante** : femme, sorcière de village mentor d'Anselm, qui meurt off-screen plus tard. À ce titre Ida Vernt est **PNJ MJ-table** dérivé d'un canevas.
 
 - Source canevas : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` (Bait and Witch, Alexander Grün p.103, lignes 2791, 2797, 3021, 3088). « Alexander Grün is a complicated figure, as he deals truly with the *Hedge*, the space between the Empire and the chaos of the forest. »
-- **Pas de statbloc canon** côté table — à improviser sur la base d'un hedge witch type ou du profil PJ Anselm (sorcier renégat).
+- **Pas de statbloc** côté table — à improviser sur la base d'un hedge witch type ou du profil PJ Anselm (sorcier renégat).
 
 ## Apparitions par session
 - **[S15]** — Au sol dans la chambre d'Alex à la **Pension Rugger** (canon : *Rugger's Boarding House*), blessée par **[[Matthias Hubkind]]** (variante MJ — canon = Hannah Baumann) qui menace de l'achever. PJ interviennent à temps. Une fois Hubkind repoussé, Ida — reconnaissante — **propose à Anselm de l'emmener quelques jours en forêt pour lui apprendre des « tours »**. Bref tutorat de hedge witchcraft.
@@ -67,6 +67,6 @@ Hypothèses ouvertes (priorité (a) ou (b) selon le timing du fil Anselm ; (b) l
 
 ## Liens
 - **Arcs** : [[Arc 3 - Ubersreik]] (S15 sauvée, S21 morte off-screen)
-- **PNJ liés** : **Anselm** (élève + meurtrier sur demande), [[Cordelia Wesselingh]] (amie au moment de l'agression S15), [[Matthias Hubkind]] (agresseur S15), Alexander Grün (équivalent canon non utilisé à table)
+- **PNJ liés** : **Anselm** (élève + meurtrier sur demande), [[Cordelia Wesselingh]] (amie au moment de l'agression S15), [[Matthias Hubkind]] (agresseur S15), Alexander Grün (équivalent non utilisé à table)
 - **Lieux** : [[Ubersreik]] (Pension Rugger S15), forêts du Reikland sud-ouest (lieux off-screen du mentorat)
 - **Factions** : milieu **hedge witches** du Reikland (non organisé en faction formelle mais présent). Possible **lien latent au Protecteur d'Anselm** (entité tutélaire non identifiée — voir MJ-only).

@@ -66,7 +66,7 @@
 ## House Tasseninck (Ostland)
 
 - **Hans-Hals von Tasseninck** Elector — *« hothead »* canon Intro l.270.
-- **Prince Héritier Hergard von Tasseninck** = **MORT** assassiné par Snikkit canon (HR l.699) sur tip-off Main Pourpre. Rumeurs canon orchestrées par Wolfenburg agents blame Krieglitz Talabecland.
+- **Prince Héritier Hergard von Tasseninck** = **MORT** assassiné par Snikkit canon (HR l.699) sur tip-off Main Pourpre. Rumeurs orchestrées par Wolfenburg agents blame Krieglitz Talabecland.
 - **Ostwald von Konigswald** : ruler ancien doomed corrompu Sudenland baron mercy kill canon Intro l.270.
 - **Ostland fiercely Sigmarite**.
 - **Post-Turmoil canon** : **Hans-Hals perd Ostland** au profit **Valmir von Raukov** Grand Prince Ostland.
@@ -76,7 +76,7 @@
 
 - **Grand Duke Gustav Krieglitz** Elector Talabecland — *« hotheaded »*.
 - **Faux blâme Hergard meurtre** par Main Pourpre Wolfenburg agents.
-- **Elise Krieglitz-Untern** Grand Duchess Talabheim — perd siège canon.
+- **Elise Krieglitz-Untern** Grand Duchess Talabheim — perd siège.
 - **Post-Turmoil canon** : **Krieglitz perdent Talabecland + Talabheim**. **Order of the Silver Hammer** (Witch Hunters) chasse cultistes. **Helmut Feuerbach** unifie Talabheim+Talabecland post-Turmoil.
 - Tags : `#Krieglitz` `#Talabecland` `#Talabheim` `#GustavKrieglitz` `#ElisaKrieglitzUntern` `#OrderSilverHammer` `#Feuerbach` `#Doomed`
 
@@ -115,11 +115,11 @@
 
 ## Hochland montant + Ostermark
 
-- **Hochland** : Aldebrand Ludenhof — *« Grand Baron of Hochland »* post-Turmoil canon. **Gain Grand Provincial status**.
+- **Hochland** : Aldebrand Ludenhof — *« Grand Baron of Hochland »* post-Turmoil. **Gain Grand Provincial status**.
 - **Ostermark** : Wolfram Hertwig — *« Grand Chancellor of Ostermark »* post-Turmoil. **Gain Grand Provincial status**.
 - Tags : `#Hochland` `#Ludenhof` `#Ostermark` `#Hertwig` `#GoldenAge` `#GrandProvincial`
 
-## Vue d'ensemble post-Turmoil canon
+## Vue d'ensemble post-Turmoil
 
 (Source : EiR Intro l.279 *Electors table* + History of Turmoil l.30-44)
 

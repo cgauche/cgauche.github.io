@@ -8,11 +8,11 @@
 - **Statut** : [ACTIF, allié spirituel Rhya]
 - **Tags** : `#Unterbaum` `#Reikland` `#Rhya` `#Corrobreth` `#BarrenHills` `#Naturalisme` `#Autarcie`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* (passage Unterbaum) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md`
 - *Death on the Reik* ch.5 *Unterbaum to Wittgendorf* (départ d'Unterbaum) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/08 - Chapter 5 Unterbaum to Wittgendorf.md`
 
-## Description canon
+## Description
 
 Village rural en harmonie avec la nature. **Habitants vivent en autarcie**, peu de contact avec le monde extérieur. **Le prêtre du village = [[Corrobreth]]**, prêtre de **Rhya**, voix dominante du village. Économie agricole + cueillette + pas de marchandage.
 

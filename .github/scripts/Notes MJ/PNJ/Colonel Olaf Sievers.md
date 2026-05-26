@@ -2,7 +2,7 @@
 
 [Imperial Ostlanders — Lexicanum](https://whfb.lexicanum.com/wiki/Imperial_Ostlanders) *(mention "Colonel Sievers" — pas de fiche dédiée)*
 
-> **Officer Imperial Ostlanders**, *« Frontiersman and Patriot »*. Plus à l'aise mountains que Altdorf high society. **Backup canon ch.11** : si PJ refusent Ghal Maraz, Gideon recrute Sievers + adventurers pour le récupérer → release Sheerargetru. **Ami de beuverie Mark** (S60 défilé Altdorf canon table).
+> **Officer Imperial Ostlanders**, *« Frontiersman and Patriot »*. Plus à l'aise mountains que Altdorf high society. **Backup ch.11** : si PJ refusent Ghal Maraz, Gideon recrute Sievers + adventurers pour le récupérer → release Sheerargetru. **Ami de beuverie Mark** (S60 défilé Altdorf table).
 
 ## Identité publique
 - **Titre** : **Colonel Olaf Sievers**, Imperial Ostlanders.
@@ -12,7 +12,7 @@
 - **Statut** : [VIVANT — ALLIÉ POTENTIEL] / [BACKUP HAMMER ch.11]
 - **Tags** : `#OlafSievers` `#Colonel` `#ImperialOstlanders` `#Frontiersman` `#BlackFirePass` `#Orcs` `#Badlands` `#Karaz-a-Karak` `#Arc7` `#Mark` `#BackupHammer`
 
-## Source canon
+## Source
 - **EiR Intro l.1076-1108** *Colonel Olaf Sievers Frontiersman and Patriot* — statbloc Officer Gold 1.
 - **EiR ch.2 l.34** S57 Middenheim rumours : *« Sievers is in Altdorf to persuade the Emperor to strengthen the southern border »*.
 - **EiR ch.5 l.110+** S60 défilé Altdorf : Sievers approche PJ, raconte Orc tracking + demande KF audience. Anselm joue Orc dans son anecdote. *« He continues to talk about the best ways to defeat Greenskins... explains why he wants to speak with the Emperor: 'Do you know him? I thought I did, but he's very distant these days' »*.
@@ -24,7 +24,7 @@
   - **Erina Eberhauer** (Power Behind the Throne Companion p.19)
   - **Si certains sont dans PJ party** = remplacés par WFRP Starter Set chars ou 2500-4000 XP design custom.
 
-## Statbloc canon (EiR Intro l.1086)
+## Statbloc (EiR Intro l.1086)
 
 **COLONEL OLAF SIEVERS OFFICER (GOLD 1)**
 
@@ -37,7 +37,7 @@
 - **Talents** : Combat Aware, **Doomed** (*« Seekest thou not what others have forgot »*), Etiquette (Soldiers), **Stout-Hearted**, **War Leader**.
 - **Trappings** : Sword, Bow, Halberd, Uniform, **Grey Surcoat**, Cloak.
 
-## Goals canon (Intro l.1098)
+## Goals (Intro l.1098)
 - *« Concerned about developments south of Black Mountains + Karl-Franz's behaviour. If cannot get support from nobles in Altdorf, may resort to more immediate measures to confront the threat. This is a weakness Gideon may exploit if the Characters fail to retrieve the Hammer »*.
 - **Imperial Ostlanders stay out of civil war unless Emperor + Ostland same side AND Emperor right mind**.
 
@@ -65,14 +65,14 @@
 
 ## MJ-only
 - **Pas cultiste — patriote sincère pas Gideon-aware**.
-- **Manipulé canon ch.11** : si PJ échec, devient backup catastrophe Sheerargetru.
+- **Manipulé ch.11** : si PJ échec, devient backup catastrophe Sheerargetru.
 - **Sa Doomed** : *« Seekest thou not what others have forgot »* = présage perte de quête.
 - **Hooks Arc 6 lien** : Sievers a aidé table-side (Mark beuverie). À fid PJ.
 
 ## Hooks Arc 7
 - **Convaincre KF Orcs Badlands** (PJ peuvent intercéder S60).
 - **Karaz-a-Karak alliance** : Sievers route via Dwarfs.
-- **Empêcher backup canon ch.11** : ne pas refuser Hammer OR neutraliser Sievers Grenzstadt.
+- **Empêcher backup ch.11** : ne pas refuser Hammer OR neutraliser Sievers Grenzstadt.
 
 ## Fils ouverts
 - **FIL Sievers backup Hammer** — actif si PJ refusent ch.11.

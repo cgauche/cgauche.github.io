@@ -9,19 +9,19 @@
 - **Statut** : [MORTE S19, instrumentalisée à son insu] — **décapitée par Pathsokar** sur demande de Drakensberg. Tête livrée sur plateau d'argent.
 - **Tags** : `#AnnalisaKessler` `#FlecheNoire` `#FlammeBleue` `#FlechesNoires` `#Drakensberg` `#OttoKessler` `#Décapitée` `#Manipulée` `#MorteS19`
 
-## Source canon
+## Source
 - *Enemy in Shadows Companion* ch.11 *The Affair of the Hidden Jewel* (apparition + statbloc + plot) : `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md` lignes 78-79, 140-148, 239-247, 369-388
 - Origine plus ancienne : **WFRP 1e — White Dwarf 101** *The Affair of the Hidden Jewel*.
 
-## Description canon
+## Description
 
 > "Annalisa is athletic, of medium height, and quite striking, with long dark hair and intelligent blue eyes. **She is far from stupid**, as might be expected of someone who can keep their position as the leader of an outlaw gang. She can be played a number of ways: she might just be another enemy, an outlaw chief pure and simple. She might be a **Robin Hood type, fond of a laugh, a wrong to be righted, and a bit of intrigue**. She might even fall in love with one of the PCs, with or without any effort on the Character's part." (EiS Companion ch.11 l.369-370)
 >
 > **Scène de capture canon** : *"If the Characters manage to seize Annalisa **she is amused rather than angry**. She cheerfully admits that **she has no idea where to find the Blue Flame**. All her father ever said was that **she could find it if she used her head**. Should the Characters wish to inspect Annalisa's head, she understands their meaning and at a later point asks an underling to inspect her scalp, but she is not stupid enough to expose herself to the PCs and risk a beheading."* (EiS Companion ch.11 l.245)
 >
-> **Inflexion table (Résumé S19)** : *"A l'évocation de la Flamme Bleue, elle se mit à rire, disant qu'elle n'en savait rien. **Son père lui avait juste dit une fois de se servir de sa tête**. Mais Pathsokar rappela que justement, c'était sa tête sur un plateau qui était demandé par le comte, et **l'acheva de manière pragmatique en la décapitant**."* → la boutade « *me servir de ma tête* » est jouée à table mais Annalisa, contrairement au canon où elle est prudente, **ne survit pas à la prise de conscience de Pathsokar**.
+> **Inflexion table (Résumé S19)** : *"A l'évocation de la Flamme Bleue, elle se mit à rire, disant qu'elle n'en savait rien. **Son père lui avait juste dit une fois de se servir de sa tête**. Mais Pathsokar rappela que justement, c'était sa tête sur un plateau qui était demandé par le comte, et **l'acheva de manière pragmatique en la décapitant**."* → la boutade « *me servir de ma tête* » est jouée à table mais Annalisa, contrairement au où elle est prudente, **ne survit pas à la prise de conscience de Pathsokar**.
 
-## Statbloc canon — **Annalisa Kessler – Outlaw Chief (Brass 4)**
+## Statbloc — **Annalisa Kessler – Outlaw Chief (Brass 4)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 ## MJ-only — RÉVÉLATION CRITIQUE
 
 - **La Flamme Bleue est CACHÉE DANS / SUR SON CRÂNE.** Canon EiS Companion ch.11 l.141 : *"Otto used to pass on the Blue Flame's location. **The information was tattooed on his daughter's scalp when she was a baby, and she was never told about it**. Otto would just tell her to use her head when she asked about the Blue Flame."* La boutade *« se servir de ma tête »* est **littérale**.
-- **Inflexion table** : la consigne MJ table simplifie en « la **Flamme Bleue est physiquement DANS son crâne** ». Le canon dit **tatouage sur le cuir chevelu indiquant la planque réelle** (qui est dans la cave des Piques Croisées, canon ch.11 l.144). **À MJ de trancher** lors d'une éventuelle révélation table :
+- **Inflexion table** : la consigne MJ table simplifie en « la **Flamme Bleue est physiquement DANS son crâne** ». La source dit **tatouage sur le cuir chevelu indiquant la planque réelle** (qui est dans la cave des Piques Croisées, ch.11 l.144). **À MJ de trancher** lors d'une éventuelle révélation table :
   - **Version A (table simplifiée)** : le bijou est physiquement caché dans le crâne (cavité chirurgicale enfance, ou serti dans l'os) → Drakensberg extrait le bijou littéralement de la boîte crânienne. Lecture la plus directe.
   - **Version B (canon EiS Companion)** : le crâne porte un **tatouage** (« planque cave des Piques Croisées, troisième tonneau », par ex) — Drakensberg rase la tête, lit la carte, puis va chercher le bijou physique. Plot supplémentaire ouvert : et si Drakensberg n'a pas eu le temps de récupérer le bijou ? Et si les PJ peuvent encore le trouver ?
 - **Drakensberg savait depuis le début** : EiS Companion ch.11 l.140-148. Bruno (faux torturer-défecteur) a extorqué l'information à un ex-camarade d'Otto Kessler. Toute la mise en scène (Kellermann manipulé, prime publique, plateau d'argent fourni théâtralement) sert à **faire faire le travail sale par les PJ**. **Les PJ ont été instrumentalisés** — ils ont exécuté Annalisa pour livrer le « contenant » du bijou à Drakensberg, sans savoir.

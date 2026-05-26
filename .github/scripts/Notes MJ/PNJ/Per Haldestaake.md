@@ -10,12 +10,12 @@
 - **Statut** : [VIVANT — ENNEMI CACHÉ]
 - **Tags** : `#PerHaldestaake` `#NineEyes` `#FracturedEye` `#Ubersreik` `#TradeSecrets` `#Technical` `#Tzeentch` `#Wolfgang` `#CastleReikguard` `#Arc7` `#Ch4`
 
-## Source canon
+## Source
 - **EiR Intro l.116-122** liste 9 Yeux.
 - **EiR ch.4 l.277-279** room Reikguard : *« Inside, Per Haldestaake sleeps heavily, is not roused even if his door is broken down, and only wakes on being shaken. He has just returned from Altdorf and his bags are still unpacked. They contain hand-written notes detailing expert techniques employed by various artisans and professionals »*.
 - **EiR ch.13** : présent Volkshalle climax si vivant.
 
-## Statbloc canon (EiR ch.4 l.191)
+## Statbloc EiR ch.4 l.191
 
 **MEMBER OF THE NINE EYES HUMAN PROFESSOR (GOLD 1)** — Per spécifique :
 

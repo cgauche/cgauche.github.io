@@ -9,19 +9,19 @@
 - **Statut** : [MORT S28, probable] — vraisemblablement au château au moment de l'explosion malpierre.
 - **Tags** : `#JeanRousseau` `#Wittgendorf` `#Wittgenstein` `#Bretonnien` `#Charlatan` `#Médecin` `#MargritteAmant` `#Malpierre` `#MortPresumee` `#Arc4`
 
-## Source canon
+## Source
 - DotR ch.6 *Wittgendorf* (description + statbloc + relation Margritte) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/09 - Chapter 6 Wittgendorf.md` lignes 124-170, 207-223, 495-519
 - DotR ch.7 *Castle Wittgenstein* (Rousseau possiblement présent au château) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/10 - Chapter 7 Castle Wittgenstein.md`
 
-> **Note** : le canon orthographie **Rousseaux** (avec un x final). À table, la forme **Rousseau** a été retenue dans le récit S27. Les deux désignent le même personnage.
+> **Note** : le orthographie **Rousseaux** (avec un x final). À table, la forme **Rousseau** a été retenue dans le récit S27. Les deux désignent le même personnage.
 
-## Description canon
+## Description
 
 > "Rousseaux is overweight and his clothing slightly too small and covered in the powdered snuff of which he is inordinately fond. He has not escaped the effects of the warpstone: **daily contact has caused his skin to flake**, and he has taken to plastering his face with white powder to hide it. If seen at night without his make-up, Rousseaux is a hideous sight, and viewing his true face counts as **Minor Exposure to Corruption**." (DotR ch.6 l.496)
 >
 > "Jean Rousseaux was born in Bretonnia. After starting a career as a physician's student, he decided he could make more money as a charlatan and journeyed across the Empire before settling in Wittgendorf ten years ago. He set himself up as a physician, selling the villagers ineffective but addictive 'medicines'." (DotR ch.6 l.498)
 
-## Statbloc canon — **Jean Rousseaux – Human Charlatan, Former Physician's Apprentice (Brass 5)**
+## Statbloc — **Jean Rousseaux – Human Charlatan, Former Physician's Apprentice (Brass 5)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 
 **Trappings** : 6 GC 8/4, Bottles and Jars of Ineffective but Colourful Liquids and Powders, **Box of Snuff**, Gold Pocket Watch (15 GCs), Medical Bag, **Rapier**
 
-## Sa maisonnée (canon DotR ch.6)
+## Sa maisonnée (DotR ch.6)
 - **Frau Blucher** — gouvernante âgée, **très sourde** et myope, peureuse (crie et s'évanouit si on la menace).
 - **Kurt Kutzmann** — assistant simple d'esprit. Distribue la « médecine » (en réalité **rotgut** maison + **poudre de malpierre** fournie par Margritte) aux mendiants.
 - **Maison entretenue** : une des seules de Wittgendorf en bon état. Cabinet de consultation, bureau-étude, cellier secret (entrée derrière la bibliothèque), distillerie attenante.
@@ -54,7 +54,7 @@
 
 ## MJ-only
 - **Le rotgut empoisonné canon** (DotR ch.6 l.42-44, 156-202) : Rousseau distribue aux mendiants un alcool maison contenant de la **poudre de malpierre** fournie par Margritte. **Rousseau ignore que c'est de la malpierre** — il croit à un produit médicinal rare. C'est lui le **vecteur de la mutation** du village. **Élément non révélé table** (les PJ n'ont pas exploré sa maison ni son cellier).
-- **Cellier-distillerie cachée** (canon ch.6 l.153-202) : derrière la bibliothèque, un escalier mène à la cave où Rousseau prépare le rotgut. **Corps cadavérisé sur un banc** (Rousseau s'est mis à manger des cadavres après la grande tempête — canon l.158, 502). **Tunnels des cannibales** accessibles depuis la cave. **Réservoir narratif** non activé.
+- **Cellier-distillerie cachée** (canon ch.6 l.153-202) : derrière la bibliothèque, un escalier mène à la cave où Rousseau prépare le rotgut. **Corps cadavérisé sur un banc** (Rousseau s'est mis à manger des cadavres après la grande tempête — l.158, 502). **Tunnels des cannibales** accessibles depuis la cave. **Réservoir narratif** non activé.
 - **Amour pour Margritte** (canon l.500) : « *He is in love with Lady Margritte and carries out her every wish.* » Portrait miniature d'elle au-dessus de son lit. **Esclave émotionnel** — exécute ses ordres sans état d'âme. **Confirmé table S27** par la lecture d'Elvira.
 - **Brandy bretonnien faux** (canon l.149) : Rousseau prétend l'avoir apporté de Bretonnia, en réalité **cadeau de Margritte**, eau-de-vie d'un an. Détail utile s'il revenait sous forme d'anecdote.
 - **Mort présumée S28** : pas de confirmation table, mais l'hypothèse la plus cohérente :

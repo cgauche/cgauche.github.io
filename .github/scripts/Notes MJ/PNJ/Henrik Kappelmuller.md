@@ -12,11 +12,11 @@ poisseux, salutations creuses du soignant qui flatte au passage les
 visiteurs et insiste sur les miracles mineurs qu'il aurait obtenus
 malgré la persistance de la « langueur » impériale `EiR ch.8 l.108`.
 Sous le vernis,
-un menteur médiocre (Fel 22, canon le souligne explicitement)
+un menteur médiocre (Fel 22, le souligne explicitement)
 `EiR ch.8 l.112` — mais un assassin entraîné, jamais sans dague ni
 couteaux de jet enduits de Black Lotus `EiR ch.8 l.76`.
 
-## Phrases canon
+## Phrases
 
 - *« I can tell at a glance you are learned folk with great concern for our languishing Emperor. Perhaps you would be so kind as to furnish me with your notions for how his treatment might be improved? I have worked some minor miracles in alleviating his suffering, if I may say so, yet still as you may see he is feeble and listless. »* — accueil onctueux dans la chambre impériale `EiR ch.8 l.108`.
 - *« A concoction of Schlafenkraut and Moonflower mixed with pine shavings, for the good of His Majesty's nerves and to ensure a good night's sleep. »* — explication du pomander sous le lit (dont les fumées sont en réalité un gaz défensif, Fatigué à -30 Willpower) `EiR ch.8 l.122-124`.
@@ -68,7 +68,7 @@ protège des divinations cléricales sigmarites ou véréniennes.
 - **Escalade en cinq paliers** `EiR ch.8 l.112-120` : (1) **nie** platement, sans grand talent de menteur ; (2) **Vitality Draught** sur Karl-Franz Holswig-Schliestein, glissée en Sleight of Hand — l'Empereur revient brièvement à ses sens, Kappelmuller espère filer dans la confusion ; (3) **blâme Elvyra Kleinestun** (« j'ai juste prescrit, c'est elle qui dose mal ») ; (4) **vend Karl-Heinz Wasmeier** (« Zuntermein m'a indiqué où il vit, je peux vous l'amener ») — diversion script Zuntermein ; (5) **combat** — ingère une dose de Ranald's Delight et tente de fuir.
 - **Conséquences en aval** `EiR ch.13 l.187` : si les PJ démasquent Kappelmuller avant le climax, Karl-Franz Holswig-Schliestein n'est plus malade au moment du rituel Sheerargetru — un critère du rituel saute `EiR ch.13 l.195`. Au lendemain de la victoire des PJ, l'Empereur est *« a new man »* (sort de Gideon levé), Kappelmuller *« vanished or dead »* `EiR ch.13 l.623`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S64+ — Asking After Henrik Kappelmuller : enquête à la Guilde des Médecins (district de Zwillingsgrab), interrogatoire d'Elvyra Kleinestun, recoupement avec Immanuel-Ferrand Holswig-Schliestein / Maria-Luise / Hermine Liebwitz sur les visiteurs (Elvyra Kleinestun et Gideon) `EiR ch.8 l.56-88`.
 - S64+ — Calling on the Doctor : audience arrachée à Charm Very Hard (-30), entrée dans la chambre impériale, accueil onctueux, confrontation cinq paliers `EiR ch.8 l.92-126`.

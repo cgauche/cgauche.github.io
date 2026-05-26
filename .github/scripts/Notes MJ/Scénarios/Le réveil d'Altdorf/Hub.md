@@ -134,7 +134,7 @@ Voir [[Pacing]] pour la version compressée 3h en séance.
 - [[Gestion table]] — adaptations (lent/rapide/sans Maria-Luise/forcer le départ) + XP.
 - [[Cap suivant — destinations possibles]] — directions activables au départ d'Altdorf.
 
-## Inflexions par rapport au canon EiR ch.8
+## Inflexions par rapport au EiR ch.8
 
 Synthèse détaillée dans [[11 - Cadre Le réveil d'Altdorf]] §3. En résumé : glissement Reikerbahn pré-Fassbinder, arrestation Fassbinder en cours de consultation, coffre du Grand Temple comme objectif d'arc longue durée 12 mois, Maria-Luise comme contact pro-actif via Lina.
 

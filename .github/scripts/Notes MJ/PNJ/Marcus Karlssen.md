@@ -11,12 +11,12 @@
 - **Statut** : [VIVANT — ENNEMI POSSIBLE]
 - **Tags** : `#MarcusKarlssen` `#SIP` `#StreissenIndependence` `#FauxRevolutionary` `#LeitdorfOfficer` `#Bodyguard` `#Averland` `#Arc7` `#Ch9` `#Ch12`
 
-## Source canon
+## Source
 - **EiR ch.9 l.404-422** *Marcus Karlssen — Rabble Rouser (Brass 3)* + statbloc.
 - **EiR ch.9 l.330-334** : *« the SIP was conceived by Marius Leitdorf. Marcus Karlssen is a captain in Leitdorf's personal bodyguard, and the bulk of the SIP are trusted members of Leitdorf's army. The uprising, ostensibly by desperate revolutionaries and ill-disciplined students, was actually a carefully planned military operation »*.
 - **EiR ch.12 l.95** post-Leitdorf coup : *« Marcus Karlssen stays out of way, working to mitigate the worst of Leitdorf's impulses »*. *« Karlssen also quietly orders a few soldiers to gather nearby »* quand PJ visitent.
 
-## Statbloc canon (EiR ch.9 l.411)
+## Statbloc (EiR ch.9 l.411)
 
 **MARCUS KARLSSEN — RABBLE ROUSER (BRASS 3)**
 
@@ -41,7 +41,7 @@
 
 ## Ce que les PJ savent
 - SIP leader Streissen.
-- **Détection canon ch.9 l.407** : *« difficult to imagine a less likely idealistic revolutionary »* — military bearing.
+- **Détection ch.9 l.407** : *« difficult to imagine a less likely idealistic revolutionary »* — military bearing.
 
 ## MJ-only
 - **Captain Leitdorf bodyguard** masqué = false revolutionary.

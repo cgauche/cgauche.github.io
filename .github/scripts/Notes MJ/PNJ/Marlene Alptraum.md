@@ -4,16 +4,16 @@
 
 ## Identité publique
 - **Titre** : **Baroness** Alptraum, héritière potentielle Averland (Ludmilla âgée).
-- **Apparence canon ch.9 l.390** : *« wiry, domineering presence with piercing, beady eyes. Tolerates trappings of power, protocol, politeness, but would rather tell it straight, and be told it the same way »*.
+- **Apparence ch.9 l.390** : *« wiry, domineering presence with piercing, beady eyes. Tolerates trappings of power, protocol, politeness, but would rather tell it straight, and be told it the same way »*.
 - **Personnalité canon** : *« keen to lead her army, but is a belligerent commander, always ready to charge in before thinking. Has no time for her mother's patience and statecraft. Does not value scheming and subtlety, which may be her downfall »*.
 - **Statut** : [VIVANTE — DOOMED post-Turmoil] (Averland perd contre Leitdorf).
 - **Tags** : `#Marlene` `#MarleneAlptraum` `#Alptraum` `#Averland` `#Streissen` `#Belligerent` `#Arc7` `#Ch9` `#DoomedTurmoil`
 
-## Source canon
+## Source
 - **EiR ch.9 l.389-403** *Baroness Marlene Alptraum* + statbloc.
 - **EiR ch.9 Battle Streissen** : Leitdorf flanks Alptraum forces → Marlene scattered + flee Averheim.
 
-## Statbloc canon (EiR ch.9 — partial reconstruction)
+## Statbloc (EiR ch.9 — partial reconstruction)
 
 **BARONESS MARLENE ALPTRAUM**
 
@@ -24,7 +24,7 @@
 - **Talents** : Ambidextrous, **Beat Blade**, Blather, Carouser 2, **Combat Reflexes 2**, Commanding Presence 2, Craftsman (Engineer), **Disarm 2**, **Distract 3**, **Doomed** (*« First the worst, second the best, third will put you to the test »*), **Dual Wielder 3**, Etiquette (Nobles) 2, **Feint 3**, **Frenzy**, Inspiring 2, **Iron Will 2**, **Luck 2**, **Noble Blood**, Public Speaking 2, Read/Write, **Reversal 3**, Riposte 2, Speedreader, Step Aside, **Stout-hearted**, Tenacious 2, **Warleader**, **Wealthy 10**.
 - **Trappings** : County of Streissen (revendiquée), High-Quality Clothing, Full Plate Armour, Main Gauche, Sword.
 
-## Plan canon
+## Plan
 1. **Envoyée par Ludmilla** put down Streissen uprising (Marcus Karlssen SIP = en réalité Leitdorf op).
 2. **Anticipates short siege against disorganised civilian rabble**.
 3. **Outflanked par Leitdorf** Battle of Streissen : forces Alptraum surprised + scattered + fuite Averheim.
@@ -57,12 +57,12 @@
 - **Climax ch.13** : **Alptraum absent** (canon ch.13 l.336 *« gone home »*).
 
 ## Hooks Arc 7
-- **Ch.9 mediation** : faire arbitrer en faveur Marlene = pacifie Averland (mais Leitdorf vengeance) ; en faveur Leitdorf = canon post-Turmoil + Alptraum harassent PJ Averheim ; balanced = aucun side content.
+- **Ch.9 mediation** : faire arbitrer en faveur Marlene = pacifie Averland (mais Leitdorf vengeance) ; en faveur Leitdorf = post-Turmoil + Alptraum harassent PJ Averheim ; balanced = aucun side content.
 - **Bataille** : intervenir ou non.
 
 ## Fils ouverts
-- **FIL Marlene Streissen succession** — résolu canon par bataille.
-- **FIL Alptraum perd Averland post-Turmoil** — canon.
+- **FIL Marlene Streissen succession** — résolu par bataille.
+- **FIL Alptraum perd Averland post-Turmoil** —.
 
 ## Liens
 - **Arcs** : Arc 7 (ch.9).

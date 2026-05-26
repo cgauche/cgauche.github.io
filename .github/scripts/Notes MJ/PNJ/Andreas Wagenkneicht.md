@@ -7,15 +7,15 @@
 - **Statut** : [DISPARU S21 — faux-nez confirmé]
 - **Tags** : `#Wagenkneicht` `#FauxNez` `#Verena` `#EmmanuelleNacht` `#FourSeasons` `#CannonBallExpress` `#ElishaHochs` `#AgentDouble` `#Ubersreik` `#Altdorf`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — The Guilty Party* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` lignes 3090-3373 (et au-delà).
-- PNJ canon UA1 *The Guilty Party*. Voir MJ-only ci-dessous pour la lecture canon vs choix table.
+- PNJ canon UA1 *The Guilty Party*. Voir MJ-only ci-dessous pour la lecture vs choix table.
 
-## Description canon
+## Description
 
 > "Andreas is a capable agent skilled in investigation, subterfuge, and combat. He is a **tanned middle-aged man with greying-dark hair, dark-brown eyes, and a closely trimmed salt-and-pepper beard**. He is dressed in rather drab informal clothing; a **brown leather jacket, a soft felt cap decorated with blue and red plumes, and dark boots** that have seen better days. Under his shirt he wears a **pendant shaped like the scales of justice**. He does not go to any effort to hide the pendant, which is spotted by anyone who pays him any attention and passes an Easy (+40) Perception Test. He is armed with a **narrow-bladed sword and a pistol**." (UA1 *The Guilty Party* p.110)
 
-## Statbloc canon — **Andreas – Verenan Investigator, Retired**
+## Statbloc — **Andreas – Verenan Investigator, Retired**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 > **Note tactique** : adversaire moyennement compétent. Force = enquête + manipulation (Gossip + Intuition + Research). Au combat, **deft and practised blows** (UA1 *« He delivers deft and practised blows to the threatening thugs »*) — il sait se battre mais n'est pas Hubkind. Évite l'affrontement direct, préfère manipuler.
 
 ## Apparitions par session
-- **[S21 — devant la Maison du Pont]** — Arrive en renfort lors d'une **agression de cocher par des émeutiers anti-aldorfers** (canon : la bande de **Lorbeer Weber** + l'agent **Rolf Gucker**). Crie aux fuyards qu'il *« sait pour qui ils travaillent »*. Se présente, dit qu'**une personne** orchestre les débordements et qu'il faut l'arrêter. Invite les PJ le lendemain à la **Couronne de Carolus** (taverne canon des docks d'Ubersreik).
+- **[S21 — devant la Maison du Pont]** — Arrive en renfort lors d'une **agression de cocher par des émeutiers anti-aldorfers** (canon : la bande de **Lorbeer Weber** + l'agent **Rolf Gucker**). Crie aux fuyards qu'il *« sait pour qui ils travaillent »*. Se présente, dit qu'**une personne** orchestre les débordements et qu'il faut l'arrêter. Invite les PJ le lendemain à la **Couronne de Carolus** (taverne des docks d'Ubersreik).
 - **[S21 — Couronne de Carolus]** — Briefing : accuse **[[Elisha Hochs]]** (représentante d'une compagnie de transport concurrente, **Four Seasons** dans le canon) d'orchestrer attentats et accidents. Mentionne une **diligence portée disparue** sur la ligne Ubersreik→Altdorf. Mission : suivre la prochaine diligence, retrouver l'épave, collecter des preuves contre Hochs. **Paiement à l'arrivée**. Annonce qu'il fera la route de son côté.
 - **[S21 — Étapes Bögenhafen-Altdorf]** — **Offre un fût Bugman XXXXXX** à une étape du soir (clin d'œil canon : « **A Keg of Bugman's XXXXXX** » est listé dans les rencontres prévues du voyage canon). Voyage de son côté, recroise occasionnellement les PJ.
 - **[S21 — Haches Croisées (étape finale, juste avant Altdorf)]** — Très content de revoir les PJ. Offre le repas. Présente le **représentant de la compagnie de transport**. **Récit des PJ → agacement** car aucune preuve concrète contre Hochs n'a été collectée. **Le représentant part fâché**. Wagenkneicht prend la suite, dit « je vais arranger la paie », sort de la salle… **et disparaît**.
@@ -43,7 +43,7 @@
 
 ### Canon UA1 *The Guilty Party* (scénario bridge Ubersreik Adventures → Enemy in Shadows)
 
-La GM table a utilisé ce scénario canon en mode condensé pour S21 (parallèlement à *Mad Men of Gotheim*).
+La GM table a utilisé ce scénario en mode condensé pour S21 (parallèlement à *Mad Men of Gotheim*).
 
 **Vérité canon (UA1 p.107-110)** :
 - Andreas Wagenknecht était **autrefois un véritable enquêteur du culte de Verena**.

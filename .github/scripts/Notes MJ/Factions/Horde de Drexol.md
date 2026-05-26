@@ -10,7 +10,7 @@
 - **Statut** : [ACTIVE] (Arc 7 ch. 12) — sur la route Wolfshügel-Altdorf.
 - **Tags** : `#Drexol` `#Draxol` `#Horde` `#Beastman` `#Chaos` `#Wolfshügel` `#GhalMaraz` `#PureFire` `#PurpleHandIndirect`
 
-## Source canon
+## Source
 - **EiR ch. 12** *Black Fire Pass to Altdorf* l. 447-581 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Black Fire Pass to Altdorf.md`
 
 ## Composition

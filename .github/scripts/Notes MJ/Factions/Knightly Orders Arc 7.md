@@ -11,7 +11,7 @@
 
 ### Personnages canon
 - **[[Veiran Thugenheim]]** First Knight Chevaliers Panthères Middenheim. Wields **The Fang of Horros** sword.
-- **Preceptor Leberecht von Hardenburg** : *« much decorated Knight Panther »* Castle Reikguard. Annonce Bretonnia alliance Blood Keep canon ch.4 l.146.
+- **Preceptor Leberecht von Hardenburg** : *« much decorated Knight Panther »* Castle Reikguard. Annonce Bretonnia alliance Blood Keep ch.4 l.146.
 - **Chevaliers Panthères Altdorf chapter** : 6 knights vanguard Altdorf delegation Shining Rock + 12 knights rearguard Middenheim delegation.
 
 ### Rôle Arc 7
@@ -29,7 +29,7 @@
 - **EiR Intro l.513-514** : *« In order to join the order of the Fiery Heart a Knight must have spent some time as a Priest of Sigmar »*.
 
 ### Personnages canon
-- **Cleric-Captain Konrad Metternich** : commander Sigmarite knights défense Shining Rock attack canon ch.3 l.224. Orders : *« All righteous men of Sigmar to me! We will not be mocked! »*.
+- **Cleric-Captain Konrad Metternich** : commander Sigmarite knights défense Shining Rock attack ch.3 l.224. Orders : *« All righteous men of Sigmar to me! We will not be mocked! »*.
 
 ### Rôle Arc 7
 - **S58 Shining Rock** : équal numbers Knights Griffon + Knights of the Fiery Heart + Altdorf chapter Chevaliers Panthères guard Yorri 20+ total.
@@ -38,7 +38,7 @@
 
 ## Knights Griffon
 
-> **Sigmarite Order** — bodyguard senior priest Sigmar. *« 2 Knights Griffon »* escort Grand Theogonist Yorri canon ch.5 l.83.
+> **Sigmarite Order** — bodyguard senior priest Sigmar. *« 2 Knights Griffon »* escort Grand Theogonist Yorri ch.5 l.83.
 
 ### Source canon
 - **EiR ch.5 l.83** S60 défilé : *« accompagné de deux Knights Griffon, le Grand Theogonist est habillé en full priestly regalia »*.
@@ -48,7 +48,7 @@
 - **S58 Shining Rock** Yorri escort.
 - **S60 défilé Altdorf** Yorri pavilion.
 - **Climax ch.13** Volkshalle Yorri presence.
-- **Grandmaster Bacham** mentionné canon ch.5 défilé final regiments.
+- **Grandmaster Bacham** mentionné ch.5 défilé final regiments.
 - Tags : `#KnightsGriffon` `#Sigmar` `#Yorri` `#Bacham` `#Bodyguard`
 
 ## Knights of the Blazing Sun
@@ -69,7 +69,7 @@
 
 ## Order of the Silver Hammer (Witch Hunters)
 
-> **Preeminent Sigmarite Witch Hunter institution**. **Krieglitz chasse cultistes** post-Turmoil canon. **Quintus Fassbinder a several contacts** with them.
+> **Preeminent Sigmarite Witch Hunter institution**. **Krieglitz chasse cultistes** post-Turmoil. **Quintus Fassbinder a several contacts** with them.
 
 ### Source canon
 - **EiR ch.8 l.145** : *« He has also proved invaluable in the discovery of several cultists and witches and he has several contacts in the Order of the Silver Hammer, the preeminent Sigmarite institution of Witch Hunters »*.

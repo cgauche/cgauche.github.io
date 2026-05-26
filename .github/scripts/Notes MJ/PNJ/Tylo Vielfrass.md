@@ -9,7 +9,7 @@
 - **Statut** : [MORT S16] — tué par un faisceau d'énergie magique non visé, depuis la **[[Tour des Vents]]** (~50+ miles).
 - **Tags** : `#Vielfrass` `#Shornaal` `#Slaanesh` `#Caporal` `#CulteInfiltré` `#CercleDeChairImpeccable` `#CircleOfUnmarredFlesh` `#Altdorfer` `#MORT` `#HeskeGlazerCible`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md`
   - **« The Body of Corporal Tylo Vielfrass »** : lignes 1548-1578
   - **« The Deceased Officer »** (description) : lignes 2150-2152
@@ -17,7 +17,7 @@
   - **« Handout 1: The Ramblings of Corporal Vielfrass »** : ligne 1727
 - *Ubersreik Adventures I — Cellule cultuelle qu'il a fondée* : lignes 2271-2275 (Circle of Unmarred Flesh)
 
-## Description canon
+## Description
 
 > « Corporal Tylo Vielfrass was the **worst cliché of the pompous minor nobility**: attractive but vain, obsessed with nostalgia for a past that never existed, **incapable of telling the truth**, and **devoid of compassion for anyone but himself**. However, he was particularly adept at lying and getting away with being a 'charming rake'. Despite his success, Vielfrass was a thoroughly contemptible and pathetic young man in his late twenties. He was taller than average with a disciplined soldier's physique and **light brown hair and blue eyes**. » (UA1 l.2151)
 
@@ -26,7 +26,7 @@
 
 > « The burn is even throughout the wound, meaning it **shot through him instantaneously**, and he would have died immediately. Additionally, there are no signs of struggle on him, though his **knuckles are bruised from an older fist fight**. » (UA1 l.1572)
 
-## Statbloc canon
+## Statbloc
 **Pas de statbloc dédié canon** dans UA1 (Vielfrass est mort au début du scénario, il n'a pas d'actions). Le profil **Unmarred Flesh Cultist – Pugilist (Brass 4)** sert de base pour ses sbires (cf. UA1 l.2286-2298) et constituerait un gabarit cohérent **augmenté** pour lui (chef de cellule, charme supérieur) :
 
 Base proposée (à improviser si nécessaire — par exemple un flashback) : **Cultist Champion (Silver 1)**. Boost suggéré sur **Fel** (Charm/Gossip/Leadership), **Melee (Brawling)** (champion du ring), **Cool** (sang-froid manipulateur), **Lore (Cults)** (Slaanesh secret). Talents probables : **Etiquette (Soldiers)**, **Read/Write**, **Public Speaking**, **Schemer**, **Suave**, **Marksman of Slaanesh** (homebrew).

@@ -7,7 +7,7 @@
 - **Population** : **moyenne**. Bourgade familiale, 4 grandes maisons marchandes dominent : **Teugen** (rose-en-croix), **Steinhäger** (barrel avec "S"), **Magirius** (lesser merchant), **Ruggbroder** (ear of corn + mailed fist), + maison **Haagen** mentionnée (3e partenaire Black Fire Pass).
 - **Tags** : `#Bögenhafen` `#Reikland` `#Saponatheim` `#Schaffenfest` `#OrdoSeptenarius` `#Vorbergland`
 
-## Source canon
+## Source
 - EiS ch.10 *A Guide to Bögenhafen* (référence détaillée) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/10 - A Guide to Bögenhafen.md`
 - EiS ch.5-9 (toute l'aventure Bögenhafen)
 
@@ -158,7 +158,7 @@
 | **Joute (Lists)** | **Graf Wilhelm von Saponatheim** + **Grand Duke Leopold of Middenland** + **Primus von Bildhofen** (fils de Leopold) | l.279-296 | Quittent après Schaffenfest. | Saponatheim = autorité régionale post-Bögenhafen, peut intervenir. |
 | **Imperial Gunnery School area** (étudiants pétards) | étudiants anonymes Nuln | l.62-65 (Plot 2 ch.5) | Retour à Nuln. | Hook Nuln futur. |
 | **Cannon and Mortar Students** (statbloc générique) | — | l.389-398 | — | Stats pour bagarre future. |
-| **Witch Hunter (option canon non-jouée)** | **Alprecht Kassel** (Silver Spires Tzeentch caché) | l.332 | Itinérant. | ⚙ Hook latent — répurgateur en fait cultiste Tzeentch. À utiliser pour un piège futur. |
+| **Witch Hunter (option non-jouée)** | **Alprecht Kassel** (Silver Spires Tzeentch caché) | l.332 | Itinérant. | ⚙ Hook latent — répurgateur en fait cultiste Tzeentch. À utiliser pour un piège futur. |
 | **Bunko Artists / pickpockets / brawlers** | anonymes | l.133-242 (Random Events) | Itinérants. | Bruit de fond. |
 
 ## Liens

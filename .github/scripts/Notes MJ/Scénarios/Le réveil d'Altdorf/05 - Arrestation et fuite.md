@@ -276,7 +276,7 @@ L'équipe d'arrestation : 1 Templier Répurgateur senior + 4 Initiés/Zélotes +
 
 ## Sort de Fassbinder
 
-Fassbinder est **liquidé en cellule** entre J+1 et J+2 par un agent Spionwerber, pour étouffer le dossier. Cohérent avec sa Doomed canon. Les PJ apprennent en route via rumeur (cf. [[10 - Rumeur Fassbinder mort]]).
+Fassbinder est **liquidé en cellule** entre J+1 et J+2 par un agent Spionwerber, pour étouffer le dossier. Cohérent avec sa Doomed. Les PJ apprennent en route via rumeur (cf. [[10 - Rumeur Fassbinder mort]]).
 
 ## Ce qui peut sortir avec les PJ (selon leurs choix)
 

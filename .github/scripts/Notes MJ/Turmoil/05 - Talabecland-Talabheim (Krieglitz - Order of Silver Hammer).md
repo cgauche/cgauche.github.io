@@ -9,7 +9,7 @@
 - **Provinces concernées** :
   - **Grand Duchy of Talabecland** (capitale **Krieglitz** city, State Parliament à Küsel) — Grande Province autonome, siège électoral propre
   - **Grand Duchy of Talabheim** (cité-État semi-indépendante dans le cratère **Taalbaston**) — siège électoral propre **pré-Turmoil**
-  - **Province interne Talabheim** : **Barony of Hochland** (capitale **Hergig** canon WFRP4 ; Bergsburg = ancienne capitale WFRP2 supersédée — voir notes hors filtre ; Baroness Hildegarde TussenHochen) — sous Talabheim depuis Magnus le Pieux, **redevient indépendante post-Turmoil** (cascade fiche 07)
+  - **Province interne Talabheim** : **Barony of Hochland** (capitale **Hergig** WFRP4 ; Bergsburg = ancienne capitale WFRP2 supersédée — voir notes hors filtre ; Baroness Hildegarde TussenHochen) — sous Talabheim depuis Magnus le Pieux, **redevient indépendante post-Turmoil** (cascade fiche 07)
   - **Région limitrophe Talabecland** : **Ostermark** (Sigmarite, *"recall a time when they ruled themselves"*) — **devient League of Ostermark post-Turmoil** (cascade fiche 06)
 - **Capitales** :
   - **Krieglitz city** (siège Grand Duke Talabecland — Archives Vol I l.311)
@@ -22,13 +22,13 @@
   - **Bannière Talabheim** : symboles taalites + cerf.
 - **Devises et honorifics** :
   - **Grand Duke Talabecland** : ***Grátaal*** = *"Beloved of Taal"* (Deft Steps ch.44 l.10).
-  - **Grand Duchess Talabheim** : ***Luddataal*** = *"Shield of Taal"* (Fandom Talabheim + Lexicanum Talabheim, 2 sources canon dominantes) — variante Fandom Elise Krieglitz dit *"Chosen of Taal"* (divergence interne Fandom, voir notes hors filtre).
+  - **Grand Duchess Talabheim** : ***Luddataal*** = *"Shield of Taal"* (Fandom Talabheim + Lexicanum Talabheim, 2 sources dominantes) — variante Fandom Elise Krieglitz dit *"Chosen of Taal"* (divergence interne Fandom, voir notes hors filtre).
 
 ### Acteurs principaux pré-Turmoil — camp Krieglitz (sortants)
 
 #### Maison Krieglitz-Untermensch (canon Lexicanum DE)
 - **Grand Duke Gustav Krieglitz** — Elector Count of Talabecland, *"Grand Duke Gustav Krieglitz of Talabecland"* (EiR Intro l.272) ; **22 ans** environ pré-Turmoil, **sans héritier nommé** (Fandom House Krieglitz) ; **faussement accusé par les rumeurs Main Pourpre du meurtre de Hergard** (EiR Intro l.272-279). Sera l'objet de l'agitation Order of the Silver Hammer post-Turmoil.
-- **Grand Duchess Elise IX Krieglitz-Untern** — *"Elise Krieglitz, born Elise Krieglitz-Untern and reigning as Elise IX, was the Grand Duchess of the city-state of Talabheim… titles of Grand Duchess of Talabecland, Countess of Talabheim, and Margrave of the East March, with the honorifics 'Luddataal'"* (Fandom Elise Krieglitz). Traduction canon majoritaire = ***"Shield of Taal"*** (Fandom Talabheim + Lexicanum Talabheim) ; variante isolée Fandom Elise Krieglitz = *"Chosen of Taal"* — divergence interne Fandom, **Shield of Taal adopté** (2 sources vs 1). Forme longue Lexicanum DE = **"Elise von Krieglitz-Untermensch"**. Forme Archives Vol I l.340 = *"Elise Talrid von Krieglitz-Unterlic"* (probable artefact OCR — voir notes hors filtre). **Mariage canon post-Turmoil avec Helmut Feuerbach** (EiR Companion ch.6 l.162).
+- **Grand Duchess Elise IX Krieglitz-Untern** — *"Elise Krieglitz, born Elise Krieglitz-Untern and reigning as Elise IX, was the Grand Duchess of the city-state of Talabheim… titles of Grand Duchess of Talabecland, Countess of Talabheim, and Margrave of the East March, with the honorifics 'Luddataal'"* (Fandom Elise Krieglitz). Traduction majoritaire = ***"Shield of Taal"*** (Fandom Talabheim + Lexicanum Talabheim) ; variante isolée Fandom Elise Krieglitz = *"Chosen of Taal"* — divergence interne Fandom, **Shield of Taal adopté** (2 sources vs 1). Forme longue Lexicanum DE = **"Elise von Krieglitz-Untermensch"**. Forme Archives Vol I l.340 = *"Elise Talrid von Krieglitz-Unterlic"* (probable artefact OCR — voir notes hors filtre). **Mariage post-Turmoil avec Helmut Feuerbach** (EiR Companion ch.6 l.162).
 - **Maison Krieglitz-Untermensch** : dynastie **fondée vers ~2456 IC** par le mariage du **second fils de Dieter IV** (ex-Empereur déposé 2429 IC) avec **l'héritière unique du Duc de Talabheim** — *"thereby establishing their rule over this important city-state of the Empire"* (Lexicanum DE Krieglitz-Untermensch). **Lien Ottilian via le côté Untermensch** (descendance Ottilia), pas via Krieglitz directement.
 - **Dieter IV (von Krieglitz)** (historique) — **ex-Empereur déposé en 2429 IC** suite au pot-de-vin Marienburg (autorisation indépendance Westerland en échange de pot-de-vin) → Wilhelm III le dépose ; **rebascule en Grand Duke Talabecland** après son détronement impérial (Fandom Dieter IV + Lexicanum DE Krieglitz-Untermensch). Père du second fils qui fondera la branche Talabheim vers 2456 IC.
 - **Empress Ottilia I** (historique, ~1320-1384 IC selon DSLF ch.48 l.48 ; **couronnement canon 1360 IC** Fandom Ottilia I) — *"crowned as Empress in 1360 IC… an Elector Countess of Talabecland who declared herself Emperor"* ; **schisme Sigmar/Ulric** : *"the Taalites supposedly gave her evidence that Sigmar was a fraud, and her agents took this to the heads of the Ulrican cult in Middenheim. Soon Ar-Ulric denounced the Sigmarites as heretics and decamped to Talabheim"* (Deft Steps ch.41 l.101). **Ottilian Dynasty règne jusqu'en 2304 IC** quand Magnus le Pieux réunifie l'Empire (Fandom Ottilia I). Ses descendants collatéraux dans la maison Untermensch sont à la racine de la lignée Krieglitz-Untermensch.
@@ -44,7 +44,7 @@
 - **Taal's Chosen** — *"elite woodsmen, Taalbaston patrol, Talabheim scout regiment"* (Deft Steps ch.44 l.24).
 
 #### Province interne sous Talabheim
-- **Baroness Hildegarde TussenHochen** — *"rules Hochland sous Talabheim, awarded by Magnus the Pious post-Ottilian reunification"* (Archives Vol I l.355-356). **Capitale Hochland canon WFRP4 = Hergig** (Fandom Hochland + Aldebrand Ludenhof) ; Bergsburg = capitale WFRP2 supersédée par règle d'arbitrage projet — voir notes hors filtre. **Supply** : forester axemen, core of Talabheim State Army. **Hochland reprend son indépendance post-Turmoil** (canon EiR ch.17 l.34) — cascade fiche 07.
+- **Baroness Hildegarde TussenHochen** — *"rules Hochland sous Talabheim, awarded by Magnus the Pious post-Ottilian reunification"* (Archives Vol I l.355-356). **Capitale Hochland WFRP4 = Hergig** (Fandom Hochland + Aldebrand Ludenhof) ; Bergsburg = capitale WFRP2 supersédée par règle d'arbitrage projet — voir notes hors filtre. **Supply** : forester axemen, core of Talabheim State Army. **Hochland reprend son indépendance post-Turmoil** (canon EiR ch.17 l.34) — cascade fiche 07.
 
 ### Acteurs principaux pré-Turmoil — camp Feuerbach (vainqueurs)
 
@@ -64,12 +64,12 @@
 
 - **Coordination canon Main Pourpre** (EiR Intro l.332) — *"a rare example of effective coordination between cells. Altdorf made sure the prince's expedition was tracked and poorly equipped, Middenheim employed the Skaven Snikkit to assassinate the prince, and agents in Wolfenburg spread rumours blaming the von Krieglitz family of Talabecland"*. **Trois cellules coordonnées : Altdorf + Middenheim + Wolfenburg (Ostland)**.
 - **Pas de cellule Main Pourpre Talabecland/Talabheim explicitement identifiée canon EiR** — voir section 10.
-- **Snikkit** — *"one-eyed Stormvermin from Under-Middenheim, an oddity among the Skaven race in that he was Clanless. Snikkit and his Clanrat warband worked for any master who would pay them… including non-skaven, such as the Main Pourpre"* (Fandom Snikkit). **Tueur canon de Hergard von Tasseninck dans les Grey Mountains** sur tip Main Pourpre.
+- **Snikkit** — *"one-eyed Stormvermin from Under-Middenheim, an oddity among the Skaven race in that he was Clanless. Snikkit and his Clanrat warband worked for any master who would pay them… including non-skaven, such as the Main Pourpre"* (Fandom Snikkit). **Tueur de Hergard von Tasseninck dans les Grey Mountains** sur tip Main Pourpre.
 - **Yann Zuntermein** (Altdorf cell, spymaster Chambre Noire) — orchestrateur Empire-wide (Fandom Turmoil of 2512).
 
 ### Autres acteurs canon
 
-- **Prince Héritier Hergard von Tasseninck** — Ostland, fils de **Hans-Hals III von Tasseninck** (Fandom canon WFRP4 ; Lexicanum DE utilise "I" WFRP2 supersédé) ; *"embarked on an expedition into the Grey Mountains, where he was slain by a Skaven agent working on a tip from the Chaos Cult known as the Main Pourpre"* (Fandom Turmoil of 2512) — **mort canon 2512 IC dans les Grey Mountains, tué par Snikkit**.
+- **Prince Héritier Hergard von Tasseninck** — Ostland, fils de **Hans-Hals III von Tasseninck** (Fandom WFRP4 ; Lexicanum DE utilise "I" WFRP2 supersédé) ; *"embarked on an expedition into the Grey Mountains, where he was slain by a Skaven agent working on a tip from the Chaos Cult known as the Main Pourpre"* (Fandom Turmoil of 2512) — **mort canon 2512 IC dans les Grey Mountains, tué par Snikkit**.
 - **Hans-Hals III von Tasseninck** — Grand Prince Ostland pré-Turmoil, 62 ans, *"Elector Count of Ostland, Prince of Wolfenburg, Count of Tasseninck"* (Fandom House von Tasseninck WFRP4). Note : Lexicanum DE (WFRP2) utilise "Hans-Hals I" — **WFRP4 supersède WFRP2** (règle d'arbitrage projet), donc **III** retenu. Cascade fiche 06.
 - **Ostwald von Königswald** (historique) — précédent Grand Prince Ostland, *"possessed by a dark power… his death at the hands of a Sudenland baron was a mercy"* (EiR Intro l.267-269) ; **scandale Königswald** affaiblit la légitimité Ostlander.
 - **Ar-Ulric Emil Valgeir** — frère de Jarrick Valgeir abdiqué ; *"fire-breathing preacher with little respect for Sigmarites, only exacerbated the matter"* (EiR ch.17 l.14) — alimente la renaissance ulricaine fanatique en Talabecland + Talabheim.
@@ -97,7 +97,7 @@
 ### Statut hiérarchique impérial
 - **Talabecland** = 1 siège électoral (Gustav).
 - **Talabheim** = 1 siège électoral séparé (Elise IX).
-- **2 sièges électoraux pour la même dynastie** (Krieglitz-Untermensch) depuis 2429 IC — situation atypique canon.
+- **2 sièges électoraux pour la même dynastie** (Krieglitz-Untermensch) depuis 2429 IC — situation atypique.
 
 ### Historique électoral et dynastique
 
@@ -166,7 +166,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l'ensemble du Turmoil 2512** : *"Hostilities commenced in the Spring of 2512 IC, when border skirmishes broke out between Ostland and Talabecland"* (EiR ch.17 l.10). C'est **le premier conflit ouvert** de la séquence Turmoil.
 
@@ -235,7 +235,7 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 | Pendant EiR ch.2 (S57) | EiR ch.2 l.41 | Rumeur canon : *"More battles on the border between Ostland and Talabecland, in defiance of the Emperor's orders"* + *"Talabecland could very well do the same [as Middenheim], splitting the Empire in three"* | EiR ch.2 l.41 |
 | Pendant EiR ch.4 (S58) | EiR ch.4 l.82-85 | **Prince Héritier Wolfgang** déclare position : *"I would urge the Prime Estates to join me to find a way of disposing of any count who allowed a personal vendetta to proliferate into open war"* | EiR ch.4 l.82-85 |
 | Pendant EiR ch.6 (S61) | EiR ch.6 l.137 | *"Ostland and Talabecland are still at one another's throats"* — guerre ongoing au mariage | EiR ch.6 l.137 |
-| Pendant EiR ch.8-12 | (background) | **Krieglitz, Tasseninck, Hochland, Ostermark, Talabheim** absents du Conclave ch.7 (Empire fragmenté, présences électives ; canon ne les nomme pas présents) | EiR ch.7 |
+| Pendant EiR ch.8-12 | (background) | **Krieglitz, Tasseninck, Hochland, Ostermark, Talabheim** absents du Conclave ch.7 (Empire fragmenté, présences électives ; ne les nomme pas présents) | EiR ch.7 |
 | Pendant EiR ch.8-12 | (background) | Guerre Ostland-Talabecland continue ; Hochland + Ostermark intensifient agitation autonomiste | EiR Intro l.282 |
 | Pendant EiR ch.8-12 | (background) | **Dossier Chambre Noire expose la Main Pourpre** post-cérémonie 9 Brauzeit (cf. fiche 11) — révélation 3-cellules coordonnées contre Hergard | EiR ch.17 l.34 ; Intro l.332 |
 | Post-EiR ch.13 | EiR ch.17 l.34 | **Order of the Silver Hammer "finished with the Krieglitzes"** ; mécanisme exact non précisé canon | EiR ch.17 l.34 |
@@ -246,7 +246,7 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
 - **Entité unifiée canon** : **Grand Duchy of Talabecland** (entité unifiée englobant ex-Talabheim).
@@ -276,8 +276,8 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 - **Compensation par promotions Hochland + Ostermark** ailleurs (mais ces 2 provinces sortent du domaine).
 
 ### Statut des perdants
-- **Gustav Krieglitz** : **déposé** ; **sort personnel canon non précisé** — l'Order of the Silver Hammer *"finished with"* lui — voir section 10. Probable exécution ou exil suite à witch-hunt sigmarite.
-- **Elise IX Krieglitz-Untern** : **conserve sa personne** par le mariage avec Feuerbach ; **statut post-mariage canon non précisé** (Grand Duchess consort ? simple épouse ?) — voir section 10.
+- **Gustav Krieglitz** : **déposé** ; **sort personnel non précisé** — l'Order of the Silver Hammer *"finished with"* lui — voir section 10. Probable exécution ou exil suite à witch-hunt sigmarite.
+- **Elise IX Krieglitz-Untern** : **conserve sa personne** par le mariage avec Feuerbach ; **statut post-mariage non précisé** (Grand Duchess consort ? simple épouse ?) — voir section 10.
 - **House Krieglitz-Untermensch** dans son ensemble : **déposée** (EiR Companion ch.6 l.162) ; lignée subsiste via Elise mais sans pouvoir indépendant.
 - **Baroness Hildegarde TussenHochen** (Hochland) : Hochland indépendante post-Turmoil — TussenHochen reste-t-elle baronesse ? Voir section 10. Cascade fiche 07.
 
@@ -308,14 +308,14 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 | Acteur | Pré-Turmoil | Post-Turmoil | Statut canon |
 |---|---|---|---|
 | **Helmut Feuerbach** | Pré-2512 IC non détaillé canon ; probable noble local | **Grand Duke and Elector Count of Talabecland since 2512 IC** ; siège Talabheim ; sans héritier | Vivant (Fandom Helmut Feuerbach) |
-| **Elise IX Krieglitz-Untern** *(alias "Luddataal", "Shield of Taal")* | Grand Duchess Talabheim + Countess of Talabheim + Margrave of the East March | **Épouse Helmut Feuerbach** ; Talabheim absorbée Talabecland ; statut post-mariage canon non précisé | Vivante post-mariage (EiR Companion ch.6 l.162 ; Fandom Elise Krieglitz) |
-| **Gustav Krieglitz** | Grand Duke and Elector Count of Talabecland ; 22 ans env. ; sans héritier ; faussement accusé du meurtre Hergard | **Déposé** ; *"the Order of the Silver Hammer had finished with the Krieglitzes"* ; sort personnel canon non précisé | Variable post-déposition (EiR ch.17 l.34) |
+| **Elise IX Krieglitz-Untern** *(alias "Luddataal", "Shield of Taal")* | Grand Duchess Talabheim + Countess of Talabheim + Margrave of the East March | **Épouse Helmut Feuerbach** ; Talabheim absorbée Talabecland ; statut post-mariage non précisé | Vivante post-mariage (EiR Companion ch.6 l.162 ; Fandom Elise Krieglitz) |
+| **Gustav Krieglitz** | Grand Duke and Elector Count of Talabecland ; 22 ans env. ; sans héritier ; faussement accusé du meurtre Hergard | **Déposé** ; *"the Order of the Silver Hammer had finished with the Krieglitzes"* ; sort personnel non précisé | Variable post-déposition (EiR ch.17 l.34) |
 | **House Krieglitz-Untermensch** | Dynastie Talabecland + Talabheim depuis 2429 IC | **Déposée** ; lignée Untermensch subsiste via Elise sans pouvoir indépendant | Déposée (EiR Companion ch.6 l.162) |
 | **House Feuerbach** | Pré-2512 IC non détaillé canon | **Maison régnante Talabecland unifiée** ; siège Talabheim | Dynastie victorieuse (Fandom House Feuerbach) |
 | **Dieter IV von Krieglitz** (historique) | **Ex-Empereur déposé 2429 IC** (pot-de-vin Marienburg) ; rebascule Grand Duke Talabecland ; père du fondateur de la branche Talabheim | (historique mort) | Mort historique (Fandom Dieter IV ; Lexicanum DE) |
 | **Empress Ottilia I** (historique) | Empress Talabheim 1360 IC ; schisme Sigmar/Ulric | (historique morte) | Morte historique (Fandom Ottilia I) |
 | **Father Rostov** | High Priest Taal Talabheim ; Brethren of the Oak ; influence Elise anti-Sigmarite | (idem) ; pivot religieux Talabheim continuité | Vivant (Deft Steps ch.44 l.7) |
-| **Baroness Hildegarde TussenHochen** | Rule Hochland (capitale Hergig canon WFRP4 ; Bergsburg WFRP2 supersédée) sous Talabheim | **Hochland indépendant post-Turmoil** ; **Aldebrand Ludenhof prend l'Electorat** (Fandom Aldebrand Ludenhof) ; statut TussenHochen probable supplantée | Cascade fiche 07 (Archives Vol I l.355-356 ; Fandom Aldebrand Ludenhof) |
+| **Baroness Hildegarde TussenHochen** | Rule Hochland (capitale Hergig WFRP4 ; Bergsburg WFRP2 supersédée) sous Talabheim | **Hochland indépendant post-Turmoil** ; **Aldebrand Ludenhof prend l'Electorat** (Fandom Aldebrand Ludenhof) ; statut TussenHochen probable supplantée | Cascade fiche 07 (Archives Vol I l.355-356 ; Fandom Aldebrand Ludenhof) |
 | **Order of the Silver Hammer** | Branche militante itinérante Sigmar (fondée 1682 IC par Siebold II) | **Acteur clé de la purge Krieglitz** ; gain de légitimité politique post-Turmoil | Continue (Fandom Templar Witch Hunter) |
 | **Hans-Hals III von Tasseninck** | Grand Prince Ostland ; 62 ans ; père de Hergard (canon Fandom WFRP4 ; Lexicanum DE WFRP2 dit "I" — WFRP4 supersède) | **Déposé post-Turmoil** ; remplacé par Valmir von Raukov (cascade fiche 06) | Cascade fiche 06 (EiR Intro l.279) |
 | **Prince Héritier Hergard von Tasseninck** | Fils Hans-Hals III ; expédition Grey Mountains | **Mort 2512 IC tué par Snikkit** sur tip Main Pourpre | Mort canon (Fandom Turmoil of 2512) |
@@ -411,7 +411,7 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -511,9 +511,9 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
 
 ### Sort personnel de Gustav Krieglitz post-déposition
 
@@ -530,7 +530,7 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 ### Mécanisme exact "finished with the Krieglitzes" (Order of the Silver Hammer)
 
-- **EiR ch.17 l.34** : formulation ambiguë canon.
+- **EiR ch.17 l.34** : formulation ambiguë.
 - **Web cross-check** : Fandom Templar Witch Hunter décrit l'Ordre comme branche militante Sigmar, mais ne détaille pas l'opération anti-Krieglitz spécifique.
 - **Décision GM** : à inventer — witch-hunt publique exposant les collusions Taalites historiques (héritage Ottilia), assassinats secrets de courtisans Krieglitz, ou exposition de fausses preuves contre Gustav (paradoxe : la Main Pourpre a fabriqué les preuves contre Krieglitz, l'Ordre Sigmarite exploite ces preuves Main Pourpre sans le savoir ?).
 
@@ -538,7 +538,7 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 - **Canon Fandom Helmut Feuerbach** : *"Grand Duke and Elector Count of Talabecland since 2512 IC"* — silence avant 2512.
 - **Web cross-check** : Fandom House Feuerbach silencieux sur les générations antérieures.
-- **Décision GM** : House Feuerbach est probablement une famille noble locale élevée par le mariage avec Elise post-purge Krieglitz, mais le canon ne le confirme pas. Hypothèses cohérentes : (a) noble Talabecland mineure montée par opportunité, (b) lien Main Pourpre cachée, (c) élévation par l'Ordre Silver Hammer.
+- **Décision GM** : House Feuerbach est probablement une famille noble locale élevée par le mariage avec Elise post-purge Krieglitz, mais le ne le confirme pas. Hypothèses cohérentes : (a) noble Talabecland mineure montée par opportunité, (b) lien Main Pourpre cachée, (c) élévation par l'Ordre Silver Hammer.
 
 ### Cellule Main Pourpre Talabecland/Talabheim
 
@@ -582,19 +582,19 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 - **Fandom Elise Krieglitz** : forme courte canon = *"Elise Krieglitz-Untern"* (alias Elise IX).
 - **Lexicanum DE** : forme longue *"Elise von Krieglitz-Untermensch"* (origine).
 - **Archives Vol I l.340** : *"Elise Talrid von Krieglitz-Unterlic"* — **probable artefact OCR** ("Unterlic" pour "Untermensch") — CLAUDE.md règle "Lexicanum/Fandom > PDF OCR" applicable.
-- **Adopté fiche** : **Elise IX Krieglitz-Untern** (forme canon WFRP4 Fandom).
+- **Adopté fiche** : **Elise IX Krieglitz-Untern** (forme WFRP4 Fandom).
 
 ### Luddataal = "Shield of Taal" (canon majoritaire) — RÉSOLUE
 
-- **Fandom Talabheim** : *"the ruler of the city is known as the Luddataal or **Shield of Taal**"* (entrée locus canon principale).
+- **Fandom Talabheim** : *"the ruler of the city is known as the Luddataal or **Shield of Taal**"* (entrée locus principale).
 - **Lexicanum Talabheim** : idem, *"Shield of Taal"*.
 - **Fandom Elise Krieglitz** : *"Luddataal — 'Chosen of Taal'"* (entrée person isolée).
-- **Verdict canon** : 2 sources Fandom/Lexicanum locus vs 1 source Fandom person → **"Shield of Taal"** est canon dominant.
+- **Verdict canon** : 2 sources Fandom/Lexicanum locus vs 1 source Fandom person → **"Shield of Taal"** est dominant.
 - **Adopté fiche** : **Luddataal = "Shield of Taal"** ; "Chosen of Taal" mentionné comme variante Fandom Elise.
 
 ### Hans-Hals III (Fandom WFRP4) supersède Hans-Hals I (Lexicanum DE WFRP2) — RÉSOLU par règle WFRP4
 
-- **Fandom House von Tasseninck + Turmoil of 2512** : canon WFRP4 = **Hans-Hals III**.
+- **Fandom House von Tasseninck + Turmoil of 2512** : WFRP4 = **Hans-Hals III**.
 - **Lexicanum DE Hans-Hals I von Tassenick** : compilation WFRP2 = "Hans-Hals I".
 - **Règle d'arbitrage projet** : WFRP4 supersède WFRP2 → **Hans-Hals III adopté**.
 - **Adopté fiche** : **Hans-Hals III von Tasseninck** (canon Fandom WFRP4).
@@ -602,7 +602,7 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 ### Cratère "Taalbaston" + cité "Eye of the Forest" + tunnel "The Wizard's Way" — RÉSOLUS
 
 - **Fandom Talabheim** : Cratère = **Taalbaston** (30 miles diamètre) ; cité (surnom) = **Eye of the Forest** ; tunnel = **The Wizard's Way** (½ mile, 2 gatehouses à chaque extrémité).
-- **Adopté fiche** : ces noms canon précisément.
+- **Adopté fiche** : ces noms précisément.
 
 ### Fondation House Krieglitz-Untermensch ~2456 IC (pas 2429 IC) — RÉSOLU
 
@@ -613,22 +613,22 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 ### Capitale Hochland = Hergig (WFRP4) supersède Bergsburg (WFRP2) — RÉSOLU par règle WFRP4
 
-- **Fandom Hochland + Fandom Aldebrand Ludenhof** : capitale canon WFRP4 = **Hergig**.
+- **Fandom Hochland + Fandom Aldebrand Ludenhof** : capitale WFRP4 = **Hergig**.
 - **WFRP2 Sigmar's Heirs** : capitale = **Bergsburg** (Archives Vol I cite Bergsburg).
 - **Règle d'arbitrage projet** : WFRP4 supersède WFRP2 → **Hergig adopté**.
 - **Adopté fiche** : Hochland capitale = Hergig.
 
 ### Dates exactes règne Empress Ottilia I (1320-1384 IC selon DSLF) — adoptées canon C7 récent
 
-- **DSLF ch.48 l.48** : 1320-1384 IC (canon C7 WFRP4 récent).
+- **DSLF ch.48 l.48** : 1320-1384 IC (C7 WFRP4 récent).
 - **Fandom Ottilia I** : couronnement 1360 IC confirmé, mais dates naissance/mort non précisées.
 - **Règle d'arbitrage** : DSLF (WFRP4 récent) prend le dessus sur silences Fandom.
-- **Adopté fiche** : DSLF 1320-1384 IC retenu (canon C7 le plus récent).
+- **Adopté fiche** : DSLF 1320-1384 IC retenu (C7 le plus récent).
 
 ### Snikkit = Stormvermin Clanless Under-Middenheim — RÉSOLU
 
 - **Fandom Snikkit** : *"one-eyed Stormvermin from Under-Middenheim, an oddity among the Skaven race in that he was Clanless"*.
-- **Adopté fiche** : description canon.
+- **Adopté fiche** : description.
 
 ### Order of the Silver Hammer fondé 1682 IC par Siebold II — RÉSOLU
 
@@ -637,5 +637,5 @@ Le Turmoil au front Talabecland-Talabheim est canon **l'étincelle initiale de l
 
 ### Application règle WFRP4 supersède WFRP2/3 — explicite
 
-- **Divergences WFRP4 vs WFRP2 résolues par règle d'arbitrage** : (a) **Hans-Hals III** (Fandom WFRP4) vs Hans-Hals I (Lexicanum DE WFRP2) → **III adopté** ; (b) **Hochland capitale Hergig** (Fandom WFRP4) vs Bergsburg (WFRP2) → **Hergig adopté**. Les détails canon stables sur Snikkit, dynastie Krieglitz-Untermensch viennent de sources non contradictoires entre éditions.
+- **Divergences WFRP4 vs WFRP2 résolues par règle d'arbitrage** : (a) **Hans-Hals III** (Fandom WFRP4) vs Hans-Hals I (Lexicanum DE WFRP2) → **III adopté** ; (b) **Hochland capitale Hergig** (Fandom WFRP4) vs Bergsburg (WFRP2) → **Hergig adopté**. Les détails stables sur Snikkit, dynastie Krieglitz-Untermensch viennent de sources non contradictoires entre éditions.
 - **Si futures sources WFRP2 ou pré-WFRP4 contredisent** la fiche : appliquer la règle (WFRP4 fait foi). Cas concret : si une page Fandom liée à WFRP2 dit que Talabheim a son propre Runefang nommé X, on l'ignore au profit de la liste WFRP4 (12 Runefangs sans Talabheim séparé).

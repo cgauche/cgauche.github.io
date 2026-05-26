@@ -8,7 +8,7 @@
 - **Statut** : [ACTIVE] (Arc 7 ch. 9) — confronte les PJ pendant leur traversée.
 - **Tags** : `#NightVigil` `#Grenzstadt` `#EternalWatch` `#Sigmarite` `#PerveriCorruption` `#Tzeentch` `#BlackFirePass` `#RaufWasserburg`
 
-## Source canon
+## Source
 - **EiR ch. 9** *Altdorf to Black Fire Pass* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Black Fire Pass.md`
 
 ## Doctrine

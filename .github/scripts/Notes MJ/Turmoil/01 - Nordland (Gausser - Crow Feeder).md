@@ -1,6 +1,6 @@
 # Front — 01 Nordland (Gausser - Crow Feeder)
 
-> **One-liner** : Theoderic Gausser, Nordmarshal des armées du Nordland, exploite (a) le scandale Anika-Elise Nikse (membre — implicitement animatrice — d'un cercle Slaanesh au Lilac Grove de Flachsfrau Wood ; preuves canon livrées à Ingrid Gausser par un agent de Wasmeier) ; (b) une moisson de compromettants sur les autres Électeurs (notamment Alberich Haupt-Anderssen de Stirland) ; (c) une décennie de réseautage politique via Count Siegfried von Walfen ; (d) le **conseil discret des Haugfylk** (Angmar Moltke poussant l'expansion vers Hochland) — pour faire déposer le Baron Werner Nikse pour *"error of legitimacy"*, prendre physiquement le Croc Runique *Crow Feeder* à Castle Salzenmund (Tour of Autumn), et obtenir le vote de 7 Électeurs (6 Grandes Provinces + 2 Arch-Lecteurs sigmarites) restaurant le Nordland comme Grande Province indépendante de Middenheim — *"Nordland's first Elector Count in over 300 years"* (Forest of Hate ch.3 l.144). Humiliation infligée à Boris Todbringer, compensée canoniquement par l'annexion de Middenland à Middenheim.
+> **One-liner** : Theoderic Gausser, Nordmarshal des armées du Nordland, exploite (a) le scandale Anika-Elise Nikse (membre — implicitement animatrice — d'un cercle Slaanesh au Lilac Grove de Flachsfrau Wood ; preuves livrées à Ingrid Gausser par un agent de Wasmeier) ; (b) une moisson de compromettants sur les autres Électeurs (notamment Alberich Haupt-Anderssen de Stirland) ; (c) une décennie de réseautage politique via Count Siegfried von Walfen ; (d) le **conseil discret des Haugfylk** (Angmar Moltke poussant l'expansion vers Hochland) — pour faire déposer le Baron Werner Nikse pour *"error of legitimacy"*, prendre physiquement le Croc Runique *Crow Feeder* à Castle Salzenmund (Tour of Autumn), et obtenir le vote de 7 Électeurs (6 Grandes Provinces + 2 Arch-Lecteurs sigmarites) restaurant le Nordland comme Grande Province indépendante de Middenheim — *"Nordland's first Elector Count in over 300 years"* (Forest of Hate ch.3 l.144). Humiliation infligée à Boris Todbringer, compensée canoniquement par l'annexion de Middenland à Middenheim.
 
 ---
 
@@ -8,7 +8,7 @@
 
 - **Province** : Nordland (province interne tributaire de Middenheim depuis le Treaty of Schoninghagen 2368 IC → Grande Province autonome post-Turmoil)
 - **Capitale** : Salzenmund (Castle Salzenmund, Principality of Salzenmund) sur la colline du **Zinnentor**
-- **Symbole politique central** : Croc Runique ***Crow Feeder*** (Salzenmund ch.4 l.416 + EiR Companion ch.5 l.54 — orthographe "Crow Feeder" deux mots ; Salzenmund ch.6 l.79 emploie "Crowfeeder" — inconsistance canon flaguée section 10). Conservé pré-Turmoil **en vitrine wards-protégée dans la Tour of Autumn de Castle Salzenmund** *(Castle Salzenmund est bâti sur la colline du **Zinnentor** — la tour est une des sept tours du château, distincte du district éponyme)* (Salzenmund ch.6 l.79).
+- **Symbole politique central** : Croc Runique ***Crow Feeder*** (Salzenmund ch.4 l.416 + EiR Companion ch.5 l.54 — orthographe "Crow Feeder" deux mots ; Salzenmund ch.6 l.79 emploie "Crowfeeder" — inconsistance flaguée section 10). Conservé pré-Turmoil **en vitrine wards-protégée dans la Tour of Autumn de Castle Salzenmund** *(Castle Salzenmund est bâti sur la colline du **Zinnentor** — la tour est une des sept tours du château, distincte du district éponyme)* (Salzenmund ch.6 l.79).
 - **Symbole de défiance historique** : l'emblème en **sablier** (hourglass), du Comte Wolfgar Ostrein de Nordland qui défia Middenheim à la **Bataille d'Elstwater Keep en 2015 IC** — il plaça un sablier sur le mur en demandant aux défenseurs de tenir jusqu'à ce que le sable s'écoule ; une tempête providentielle chassa l'armée Middenlander à la dernière seconde (Salzenmund ch.4 l.102-105). Le **Elstwater Keep Hourglass** est **un artefact physique** conservé à Castle Salzenmund avec le Crow Feeder et le Shield of Angmar (Salzenmund ch.6 l.79, Tour of Autumn).
 - **Devise post-coup** : *"Bold Steadfast Defiant"* (introduite par Gausser remplaçant la devise Nikse *"Fierce to our Foe, Loyal to our Liege"*) (Salzenmund ch.4 l.483)
 - **Coat of arms** : aigle (Silver Hills) + navire blanc sur **champ bleu** (Gausser a changé du rouge au bleu en référence à l'armée nordlandaise traditionnellement en uniformes bleu-jaune) (Salzenmund ch.4 l.473)
@@ -120,7 +120,7 @@
 - **Gausser n'est pas retourné depuis** mais leur présence le hante constamment
 - Origine 2184 IC : Salzenmund assiégée par High King Helvar Ironaxe, Count Gunter Ostrein dans cave à vin a invoqué les dieux pour conseil
 
-**Membres canon des Haugfylk** :
+**Membres des Haugfylk** :
 - **Adda the Stalwart** — leader Was Jutones du temps de Sigmar, *"counsels resolution in the face of adversity"*
 - **Count Angmar Moltke** — Skaeling huscarl, réunit Nordland-Salzenmund par argument et intimidation ; *"advocates action and conquest over contemplation and compromise"* — **C'EST LUI QUI A POUSSÉ GAUSSER VERS HOCHLAND**
 - **Sapphire Mask / Countess Ludmilla Gausser, Magister Count** (apprentie de Talius the Exalted, prit le titre en 2050 IC, Salzenmund ch.4 l.110) — *"advises trickery and deception"*
@@ -147,7 +147,7 @@
 | Date | Événement | Source |
 |---|---|---|
 | Pré-Sigmar | Tribus **Was Jutones** sous le high chief Marius, harcelées par Norsii au nord, Udose à l'est, Teutogens au sud. Marius vaincu par Artur, mène les Jutones vers le delta du Reik (futur Marienburg) sur ordre d'Olovald. Les **Was Jutones** restent en Nordland | Salzenmund ch.4 l.31, l.36 |
-| 630 IC *ou* 738 IC | **Treaty of the Leaf** — pacte Eonir-Nordland permettant la colonisation humaine. **Vraie inconsistance canon C7 (2-2)** : Companion ch.5 l.43 + Forest of Hate ch.3 l.419 = 630 IC ; Archives Vol I ch.9 l.101-102 + Salzenmund ch.4 l.448 = 738 IC. Voir section 10. | sources contradictoires |
+| 630 IC *ou* 738 IC | **Treaty of the Leaf** — pacte Eonir-Nordland permettant la colonisation humaine. **Vraie inconsistance C7 (2-2)** : Companion ch.5 l.43 + Forest of Hate ch.3 l.419 = 630 IC ; Archives Vol I ch.9 l.101-102 + Salzenmund ch.4 l.448 = 738 IC. Voir section 10. | sources contradictoires |
 | 767 IC | **Wilhelm "Bullshanks" de Middenland** unifie les petits royaumes du nord-ouest ; Nordland fondée comme extension du domaine Middenland | Companion ch.5 l.10 |
 | **1414-1420 IC** | **Hjalmar von Hargen "the Tyrannical"** — seul Empereur Nordlandais, 6 ans de règne brutal ; *"Harrowing of Ostland"* campagne de suppression brutale durant son règne ; assassiné par un capitaine d'infanterie mécontent avec un piquet de tente dans l'œil | Fandom Hjalmar / Lexicanum |
 | 1681 IC | Extinction House Moltke ; **House Krentz-Bildhofen** prend Nordland, **House Gausser** prend Salzenmund ; Magister Counts de Salzenmund deviennent Elector Counts de Nordland recrutés majoritairement chez Gausser | Fandom House Gausser |
@@ -214,7 +214,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au Nordland s'enclenche en plusieurs étapes orchestrées par **Karl-Heinz Wasmeier** (Magister Magistri fugitif post-PBT) qui travaille en sous-main pour la Main Pourpre (Altdorf cell, Zuntermein) tout en se vengeant personnellement de Middenheim.
 
@@ -295,16 +295,16 @@ Au moment où Ingrid se résigne à mourir sans succès, *"an agent of Karl-Hein
 | Post-EiR ch.13 | EiR ch.17 l.34 | Karl-Franz reconnaît officiellement le Nordland comme Grande Province (titulature inconsistante canon — voir section 10) | EiR ch.17 l.34 |
 | Post-EiR ch.13 | EiR ch.17 l.34 | **Middenland annexée à Middenheim** en compensation à Boris | EiR ch.17 l.34 |
 | Late 2512 IC | Companion ch.5 l.58 ; Sea of Claws ch.6 l.20 | Gausser + Karl-Franz + Köhler **expansion officielle de la Second Fleet of the Imperial Navy** (rebrandée depuis les private navies Köhlers + Hargenfels + Gaussers pré-Turmoil) ; home port Dietershafen + **base secrète à Norden** | Companion ch.5 l.58 ; Sea of Claws ch.6 l.20, l.48 |
-| Post-Turmoil | Companion ch.5 l.58 ; Salzenmund ch.4 l.396 | Gausser fait des **moves agressifs vers Hochland** (Bergsburg, Krudenwald — pas de claim canon mais Gausser fait chercher un précédent) ; envoie **Baron Ulf Nachtmann** disputer la frontière Ostland (Bramble Hills) ; **revendique Marienburg comme Duke** (via héritage Van der Maacht) | Companion ch.5 l.58 ; Salzenmund ch.4 l.396, l.463 ; ch.13 l.91 |
+| Post-Turmoil | Companion ch.5 l.58 ; Salzenmund ch.4 l.396 | Gausser fait des **moves agressifs vers Hochland** (Bergsburg, Krudenwald — pas de claim mais Gausser fait chercher un précédent) ; envoie **Baron Ulf Nachtmann** disputer la frontière Ostland (Bramble Hills) ; **revendique Marienburg comme Duke** (via héritage Van der Maacht) | Companion ch.5 l.58 ; Salzenmund ch.4 l.396, l.463 ; ch.13 l.91 |
 | Post-Turmoil | Companion ch.5 l.60 | Le mouvement séparatiste violent ne disparaît pas | Companion ch.5 l.60 |
 | Post-Turmoil | Salzenmund ch.4 l.398 | Gausser commande un **Greatship personnel** aux chantiers Dietershafen | Salzenmund ch.4 l.398 |
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
-- **Statut** : **Grande Province autonome** de l'Empire. Titulature canon inconsistante : Sea of Claws ch.19 l.76 + EiR ch.17 l.34 + Forest of Hate ch.3 l.144 disent **"Grand Count"** ; Salzenmund ch.4 + Fandom disent **"Grand Baron / Grand Barony"**. Voir section 10.
+- **Statut** : **Grande Province autonome** de l'Empire. Titulature inconsistante : Sea of Claws ch.19 l.76 + EiR ch.17 l.34 + Forest of Hate ch.3 l.144 disent **"Grand Count"** ; Salzenmund ch.4 + Fandom disent **"Grand Baron / Grand Barony"**. Voir section 10.
 - **Elector Count of Nordland** : [[Theoderic Gausser]]
 - **Titre cumulé canon** : *"Elector Count Theoderic Gausser, Grand Baron / Grand Count of Nordland, Prince of Salzenmund, Lord of Laurelorn, High Duke of the Silver Hills, **Duke and Prince of Marienburg**, **Terror of the Norscans**"* (Fandom + Salzenmund ch.4 l.401, l.416, l.483 ; Sea of Claws ch.19 l.76) + *"Wardenship of the Four Ports"* (Salzenmund ch.4 l.416)
 - **Cour** : Castle Salzenmund (Salzenmund ch.4-6)
@@ -341,7 +341,7 @@ Au moment où Ingrid se résigne à mourir sans succès, *"an agent of Karl-Hein
 
 ### Frontières et ambitions territoriales (Salzenmund ch.4 l.396 ; ch.13)
 - **Marienburg** : revendication comme Duke + Prince — **Gausser le justifie via le mariage historique de Paulus van der Maacht (dernier baron de Westerland) dont la fille a épousé un Gausser** (Salzenmund ch.4 l.463) ; tacit support à Altdorf
-- **Hochland** : aggressive moves vers Bergsburg et Krudenwald — *"Nordland really has no true claim... but Gausser has instructed scholars to find some precedent"* (Salzenmund ch.4 l.396). **Conseil canon des Haugfylk : c'est Angmar Moltke qui a insisté** (Salzenmund ch.12 l.40).
+- **Hochland** : aggressive moves vers Bergsburg et Krudenwald — *"Nordland really has no true claim... but Gausser has instructed scholars to find some precedent"* (Salzenmund ch.4 l.396). **Conseil des Haugfylk : c'est Angmar Moltke qui a insisté** (Salzenmund ch.12 l.40).
 - **Ostland** : **Baron Ulf Nachtmann** envoyé disputer les **Bramble Hills** (terres côtières *"historically part of Nordland"*, Salzenmund ch.4 l.396 ; ch.13 l.91 ; Companion ch.5 l.58)
 - **Lost Settlements canon** : Handelsee (2173 IC), Debnietz (1988 + 2483 IC), Waldvin (2298 IC) (Salzenmund ch.13 l.51)
 - **Wrecker's Point** (westernmost, almost lawless, Reavaz sea goblins) (Sea of Claws ch.6 l.13)
@@ -487,7 +487,7 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 
 - **Cascade vers [[Turmoil/07 - Hochland (Ludenhof)]]** :
   - Gausser fait des "aggressive moves towards Hochland" (Companion ch.5 l.58) — claim sur Bergsburg et Krudenwald (Salzenmund ch.4 l.396).
-  - **Conseil canon des Haugfylk : c'est Angmar Moltke qui a poussé** Gausser à étendre vers Hochland (Salzenmund ch.12 l.40) — origine ésotérique des ambitions territoriales.
+  - **Conseil des Haugfylk : c'est Angmar Moltke qui a poussé** Gausser à étendre vers Hochland (Salzenmund ch.12 l.40) — origine ésotérique des ambitions territoriales.
 
 - **Cascade vers [[Turmoil/06 - Ostland-Ostermark (Tasseninck-Raukov-Hertwig)]]** :
   - Baron Ulf Nachtmann envoyé "to dispute the border with Ostland" — **Bramble Hills** disputed (Salzenmund ch.13 l.91 ; Companion ch.5 l.58).
@@ -543,7 +543,7 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -593,9 +593,9 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté.*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté.*
 
 ### Date précise du coup de Salzenmund
 - Canon : *"After the events of Empire In Ruins"* (Companion ch.5 l.52) puis *"Late in 2512 IC"* (Companion ch.5 l.58). Salzenmund + Fandom + Lexicanum confirment "2512 IC" sans mois.
@@ -624,7 +624,7 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 ### Treaty of the Leaf — 630 IC vs 738 IC
 - **630 IC** : Companion ch.5 l.43 + Forest of Hate ch.3 l.419 = **2 sources C7**
 - **738 IC** : Archives Vol I ch.9 l.101-102 + Salzenmund ch.4 l.448 = **2 sources C7**
-- **Tied 2-2** — vraie inconsistance inter-canon C7.
+- **Tied 2-2** — vraie inconsistance inter-C7.
 - **Cohérence interne** : Archives Vol I ch.9 l.336 dit *"the Treaty of the Leaf was signed almost 1800 years ago"* (à partir de 2512 IC → ~712 IC, plus proche de 738 IC que de 630 IC). Penche très légèrement pour 738 IC.
 - **Décision GM** : choisir 738 IC (très légère majorité de cohérence interne Archives) OU 630 IC. Aucune source ne tranche définitivement.
 
@@ -656,4 +656,4 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 ### Werner Nikse titre — Baron vs Grand Count
 - **Companion ch.5 + Salzenmund ch.4** : *"Baron Werner Nikse"* (titre simple "Baron")
 - **Forest of Hate ch.3 l.144** : *"Werner Nikse is Grand Count of Nordland"* pré-Turmoil
-- **Décision GM** : usage courant "Baron" pour le titre informel ; titre formel canon serait "Grand Count" ou "Grand Baron" (la province est elle-même une Grande Province pré-2368 IC, dégradée par Treaty of Schoninghagen).
+- **Décision GM** : usage courant "Baron" pour le titre informel ; titre formel serait "Grand Count" ou "Grand Baron" (la province est elle-même une Grande Province pré-2368 IC, dégradée par Treaty of Schoninghagen).

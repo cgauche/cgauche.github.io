@@ -8,10 +8,10 @@
 - **Status canon** : *« Within these caves, the adventurers are Tzeentch's playthings. He toys with them for amusement »*. Gideon wants PJ succeed retrieve Hammer.
 - **Tags** : `#CavesOfChaos` `#Sheerargetru` `#GhalMaraz` `#Tzeentch` `#9Winds` `#9Caverns` `#BlackFirePass` `#LostGorge` `#ChaosHound` `#Ghosts` `#TreacherousHerald` `#ChaosMinotaur` `#Harpies` `#PinkBlueHorrors` `#Adelfried` `#Arc7` `#Ch11`
 
-## Source canon
+## Source
 - **EiR ch.11 entire chapter** *Caves of Chaos* (canon l.1-543).
 
-## Entrée canon (ch.11 l.13-19)
+## Entrée (ch.11 l.13-19)
 
 - **Pass through waterfall** → gaping cavern massive, walls+ceiling vanish darkness.
 - **Cathedral-like stalagmite spires** + **colossal stalactites** dripping icy water.
@@ -19,7 +19,7 @@
 - Si turn around : **waterfall vanished, replaced by impenetrable blackness**. Only forward.
 - **Tunnel exits eastwards** : twists+turns + jagged blades rock.
 
-## Les 9 cavernes canon ch.11
+## Les 9 cavernes ch.11
 
 ### Location 1 — Lair Great Beast (Ghur — Lore of Beasts +1 SL)
 - Wet animal fur stench. Vile slush + bones+skulls.
@@ -62,7 +62,7 @@
 - **The Resting Place of Ghal Maraz** — moderate Corruption.
 - **Treachery Unbound canon** : Hammer pickup → **torrent magical energy → daemons unstable destroyed + magical environments stripped + Character corruption→wounds permanent loss**.
 
-## Ghal Maraz canon (ch.11 l.460-491)
+## Ghal Maraz (ch.11 l.460-491)
 
 - **2-Handed Warhammer** SB+7 Damaging Fine 3 Pummel Unbreakable.
 - **Radiant Nimbus** : Unstable Creatures lose 3 Wounds/turn.
@@ -72,14 +72,14 @@
 - ***Rune of Stalwart** (inactive) : +2 SL Cool vs Fear+Terror.
 - ***Rune of Spell-Breaking** (inactive) : -2 SL hostile spells casting.
 
-## Helping Hands canon (ch.11 l.40-61)
+## Helping Hands (ch.11 l.40-61)
 
 3 events possible si PJ struggling :
 - **Boon of Sigmar** : footprints + golden light + remove Corruption.
 - **Sacred Relic Marius Luxus** : skeleton + warhammer broken. Restore Fate or Resilience.
 - **Gift of Shallya** : white shape + crevice bottle. **Healing 1d10 W per dose (4 doses)**.
 
-## Storm exit canon (ch.11 l.493-503)
+## Storm exit (ch.11 l.493-503)
 
 - **Exit caves** = **almighty storm at night** awaits. Waterfalls crash + stream torrent.
 - **Mine flooded** : broad tunnel 2 feet water+mud emerge Black Fire Pass.
@@ -99,7 +99,7 @@
 
 ## MJ-only
 - **Sheerargetru toujours sealed** post-PJ exit. **But Hammer removal** = events motion magic + omens flood Empire.
-- **Storm + flood** post-exit = canon thematic.
+- **Storm + flood** post-exit = thematic.
 - **Sievers backup ch.11 fallback** si PJ refuse Hammer.
 
 ## Hooks Arc 7

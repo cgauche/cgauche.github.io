@@ -3,7 +3,7 @@
 **Sous-titre** : Marteau de Sigmar — artefact central de l'Arc 7  
 **Statut** : [ARTEFACT ACTIF — récupéré ch.11, restitué climax ch.13]
 
-## Source canon `EiR Intro l.227-234` `EiR ch.11 l.460-491`
+## Source `EiR Intro l.227-234` `EiR ch.11 l.460-491`
 
 Marteau de Sigmar, symbole de l'autorité impériale et de la suprématie
 sigmarite. La croyance populaire veut qu'il ait été remis par Sigmar
@@ -29,9 +29,9 @@ marteau demeure planté, la rupture dimensionnelle reste scellée ; le
 retirer libère un torrent de Dhar concentré qui détruit les daémons
 instables et purifie les caves `EiR ch.11 l.465-467`.
 
-## Effets canon `EiR ch.11 l.475-491`
+## Effets `EiR ch.11 l.475-491`
 
-Arme magique deux-mains. Statbloc canon — Enc 3, Reach Average,
+Arme magique deux-mains. Statbloc — Enc 3, Reach Average,
 Damage SB+7, Qualities Damaging, Fine 3, Pummel, Unbreakable
 `EiR ch.11 l.508`.
 

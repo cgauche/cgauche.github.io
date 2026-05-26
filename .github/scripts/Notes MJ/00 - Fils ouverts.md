@@ -175,7 +175,7 @@
 ### FIL-23 — Cellule Main Pourpre de Nuln (mère, Kastor)
 - **Statut** : OUVERT (jamais affrontée à table)
 - **Né en** : pré-campagne (Kastor était son Magister Impedimentae)
-- **Dernier mouvement** : Affidavit canon signé à Nuln (3 témoins) confirme cellule active à Nuln. Kastor mort = vacance Magister Impedimentae.
+- **Dernier mouvement** : Affidavit signé à Nuln (3 témoins) confirme cellule active à Nuln. Kastor mort = vacance Magister Impedimentae.
 - **Précision** : la cellule n'a pas été directement amputée par les événements Arc 4 (Etelka = Red Crown, pas MP — pas un coup contre cette cellule). **Reste à l'écran**.
 - **Réactivation** : Arc 7 EiR (révélation canon : cellule Nuln distincte de cellule Altdorf, recrutait les 9 Yeux à l'origine).
 - **Liens** : [[Nuln]] · `Arc 7`
@@ -189,7 +189,7 @@
 ### FIL-25 — Animosity "Kastor and Friends" sur les PJ
 - **Statut** : OUVERT (continu, traitless)
 - **Né en** : Arc 2 (à partir de S6 quand Adolphus tue les 2 cultistes Main Pourpre devant les PJ)
-- **Mécanisme** : les cultistes Main Pourpre survivants pourchassent les PJ comme "associés de Kastor le traître". **Animosity (Kastor and Friends)** = trait canon par défaut des cultistes Main Pourpre.
+- **Mécanisme** : les cultistes Main Pourpre survivants pourchassent les PJ comme "associés de Kastor le traître". **Animosity (Kastor and Friends)** = trait par défaut des cultistes Main Pourpre.
 - **Actes hostiles concrets sur Pathsokar (Arc 4)** :
   - **[S23]** — Mèche de cheveux **arrachée à Pathsokar** dans la foule de Kemperbad par un cultiste pourpre. Sert de **focus magique** pour traque/marquage à distance.
   - **[S25]** — Homme en pourpre l'accoste à Kemperbad : **« Remettez l'héritage. Personne ne quitte impunément le culte. »**
@@ -218,7 +218,7 @@
 - **Vraie identité MJ** : **agent double MP-Nacht depuis pré-campagne**. S22 = restauration de la mémoire et reprise silencieuse de la mission MP. **Pas une « bascule »**, juste la fin de l'amnésie.
 - **Quatre identités successives** : (1) femme de Pathsokar pré-MP ; (2) **agent double MP-Nacht** (pré-S12, restauré S22) ; (3) couverture « espionne anti-MP » de Nacht (S14-S33, maintenue) ; (4) schismatique Tzeentch / Croix de Lilas (S33+).
 - **Le schisme S33** : la MP n'a pas tenu sa promesse de retrouver sa fille. Filianore quitte la MP et fonde la Croix de Lilas pour atteindre Tzeentch directement (espoir de résurrection). **Moteur personnel + théologique**.
-- **Cellule MP** : **Cellule Altdorf (Yann Zuntermein)**. Filianore est subordonnée canon de Zuntermein (chef cellule Altdorf, antagoniste central Arc 7).
+- **Cellule MP** : **Cellule Altdorf (Yann Zuntermein)**. Filianore est subordonnée de Zuntermein (chef cellule Altdorf, antagoniste central Arc 7).
 - **Hook majeur Arc 5+** : Nacht peut découvrir la trahison de longue date.
 - **Hook narratif FIL-44** : les ossements d'enfant S26 = sa propre fille (cf. FIL-44).
 - **Liens** : `pré-campagne` · `Arc 2` · `Arc 3` · `Arc 4` · `Arc 5` · [[Main Pourpre]] (cellule Altdorf) · [[Emmanuelle Nacht]] (trompée depuis S14) · [[Pathsokar]] (mari recherché, traqué par la MP en parallèle) · FIL-25, FIL-44, FIL-50
@@ -316,7 +316,7 @@
 - **Né en** : S16 (Arc 3, via Carolus)
 - **Dernier mouvement** : S16 — Carolus Entschlafen achevé par les PJ aux Montagnes Grises. **Canon UA1 p.76** : Carolus était **cabaliste Tzeentch affilié à la Cabal d'Egrimm van Horstmann**, manipulant le mage Hagerdorn. À table, simplifié en mégalomane solo → **la Cabal van Horstmann reste encore active canoniquement**.
 - **Profil van Horstmann** (canon WHFRP) : nécromancien-archimage notoire, ancien Patriarche du Collège de Lumière, devenu apostat Tzeentch. Antagoniste majeur du Vieux Monde.
-- **Hooks** : (a) un autre cabaliste reprend la traque que Carolus avait abandonnée ; (b) Engel (FIL-29) lié indirectement à la cabal ; (c) confrontation lors d'un retour à Altdorf (Université, Colleges of Magic) ; (d) liens canon van Horstmann → Sheerargetru / Main Pourpre à élucider.
+- **Hooks** : (a) un autre cabaliste reprend la traque que Carolus avait abandonnée ; (b) Engel (FIL-29) lié indirectement à la cabal ; (c) confrontation lors d'un retour à Altdorf (Université, Colleges of Magic) ; (d) liens van Horstmann → Sheerargetru / Main Pourpre à élucider.
 - **Liens** : [[Carolus Entschlafen]] · [[Christoph Engel]] · [[Tour des Vents]] · FIL-29 · `Arc 7` (Tzeentch climax)
 
 ### FIL-41 — Réseau d'agents secrets Ubersreik (Cordelia / Heske / Schtupp)
@@ -325,8 +325,8 @@
 - **Dernier mouvement** : S21 — départ des PJ d'Ubersreik. Réseau resté en place.
 - **Composition canon** :
   - **Cordelia Wesselingh** : ex-Collège de Jade, **passage secret cave → tour Engel**. Canal d'information mages.
-  - **Heske Glazer** : agent secret canon avec **3 employeurs possibles** (Nacht / Engel / cult sigmarite). **13 livraisons de lentilles sur 6 mois** documentées.
-  - **Gustav Schtupp** (postmaster de la Maison du Pont) : **espion canon explicite** (`Starter Set/A Guide to Ubersreik` p.15) avec patron incertain. **Implication** : tout courrier transitant par la Maison du Pont a été lu.
+  - **Heske Glazer** : agent secret avec **3 employeurs possibles** (Nacht / Engel / cult sigmarite). **13 livraisons de lentilles sur 6 mois** documentées.
+  - **Gustav Schtupp** (postmaster de la Maison du Pont) : **espion explicite** (`Starter Set/A Guide to Ubersreik` p.15) avec patron incertain. **Implication** : tout courrier transitant par la Maison du Pont a été lu.
 - **Hooks** : (a) Filianore reste en contact discret avec Cordelia ; (b) Schtupp continue à recouper le courrier des PJ (correspondance Altdorf-Ubersreik possiblement surveillée) ; (c) Heske détient un dossier sur les PJ qu'elle peut vendre ou monnayer ; (d) si Nacht tombe, le réseau peut être absorbé par une autre faction.
 - **Liens** : [[Cordelia Wesselingh]] · [[Heske Glazer]] · [[Gunther Abend]] (Maison du Pont) · [[Régence impériale d'Ubersreik]] · FIL-29 · FIL-38
 
@@ -546,7 +546,7 @@
 ### FIL-69 — Hollzauber / kidnapping Elvyra (lien Gideon)
 - **Statut** : OUVERT (latent — statut Hollzauber incertain)
 - **Né en** : pré-campagne (avant DotR)
-- **Hooks** : (a) Hollzauber retrouvé vivant = source sur Gideon ; (b) Hollzauber **est** Gideon dans une forme passée (question canon non tranchée) ; (c) lien démasquage Elvyra.
+- **Hooks** : (a) Hollzauber retrouvé vivant = source sur Gideon ; (b) Hollzauber **est** Gideon dans une forme passée (question non tranchée) ; (c) lien démasquage Elvyra.
 - **Liens** : [[Alberich Hollzauber]] · [[Elvyra Kleinestun]] · [[Yann Zuntermein]] · [[Gideon]] · FIL-17
 
 ### FIL-70 — Cellule MP Kemperbad « Cult of the Broken Fingers » (Martin Schmidt)

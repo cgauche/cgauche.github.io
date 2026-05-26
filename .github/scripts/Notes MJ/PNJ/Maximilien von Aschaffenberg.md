@@ -7,7 +7,7 @@
 - **Statut** : [VIVANT, post-S20] — repart vivant après la moquerie au bal. Réapparait canoniquement dans `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md`.
 - **Tags** : `#Maximilien` `#Aschaffenberg` `#Ubersreik` `#NobleMoqueur` `#BalMasqué` `#S20` `#Vivant`
 
-## Source canon
+## Source
 - *Rough Nights & Hard Days* ch.7 *Lord of Ubersreik* : `Source/Rough Nights & Hard Days/07 - Lord of Ubersreik.md` (bal masqué).
 - *Ubersreik Adventures III* ch.4 *A Tragic Tale of Upheaval* : `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md` (réapparition + statbloc probable).
 

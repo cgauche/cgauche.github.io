@@ -19,7 +19,7 @@ politiquement plus puissant que Liepmund Holzkrug ; en revanche
 Holzkrug dirige la Chambre Noire dans son ensemble, ce qui en fait le
 meilleur espion des deux `EiR Intro l.632`.
 
-## Phrases canon
+## Phrases
 
 - *« They were about to declare war. We had no option. And how goes it with Nordland? »* — défilé S60, réponse cassante à Veiran Thugenheim qui questionne la tactique Ubersreik ; le Gardien Gris se hérisse `EiR ch.5 l.232`.
 - *« We all know your opinion, Liepmund. But how are we to handle Norse raids and squabbling in the Eastern provinces if we can't get our own house in order? »* — soupir devant Holzkrug et les PJ au défilé, exprime la doctrine centralisatrice `EiR ch.5 l.285`.
@@ -98,7 +98,7 @@ toute preuve contraire à sa thèse est inconsciemment minimisée.
   active alors les Graukappen, fait arrêter Kappelmuller
   officiellement, soutient Volkmar von Hindenstern publiquement.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S60 — Défilé Altdorf (ch.5) : pavillon impérial, profil Sigmarite
   partisan qui a proposé le défilé pour démontrer la puissance

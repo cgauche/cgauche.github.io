@@ -4,7 +4,7 @@
 >
 > Sources canon : *Empire in Ruins* ch.8 l.49-103.
 
-## Contexte canon
+## Contexte
 
 L'Empereur Karl-Franz est officiellement « en convalescence ». **Henrik Kappelmuller**, son médecin personnel, est arrivé il y a environ un an et est seul à avoir réussi à « stabiliser » l'état impérial. Sa nomination au Privy Council a inquiété la Guilde des Physiciens d'Altdorf, qui n'a aucune trace fiable de ses prétendues études à Nuln.
 
@@ -113,7 +113,7 @@ Toutes les sources convergent sur ce premier niveau :
 
 > *« On murmure que le médecin de l'Empereur est étrange. Il vit dans l'antichambre de la chambre impériale, ne sort presque jamais. Personne ne l'a vu boire avec ses pairs ou fréquenter une église. Le Privy Council est divisé sur lui — certains le défendent, d'autres le regardent de travers. »*
 
-Avec un **test Ragot +0** ou un **canal solide** (Bertholdt + serviteurs Todbringer combinés), un PJ peut obtenir un détail plus pointu, qui correspond à la description canon EiR ch.8 l.86 :
+Avec un **test Ragot +0** ou un **canal solide** (Bertholdt + serviteurs Todbringer combinés), un PJ peut obtenir un détail plus pointu, qui correspond à la description EiR ch.8 l.86 :
 
 > *« Il reçoit deux visiteurs réguliers — c'est ce que disent les pages. Une femme d'âge mûr avec un accent d'Altdorf, qui lui apporte des ingrédients pour ses préparations. Et un jeune garçon, treize ans peut-être, coupe au bol, un sourire trop large. Personne au Palais ne connaît son nom. Il vient, il repart par les communs, on ne sait pas qui le laisse passer. »*
 

@@ -10,13 +10,13 @@
 - **Statut** : [VIVANT — ALLIÉ POTENTIEL]
 - **Tags** : `#KarlBauermann` `#MarineCaptain` `#Carroburg` `#ImperialNavy` `#Marines` `#Sergeant` `#Arc7` `#Ch9`
 
-## Source canon
+## Source
 - **EiR ch.9 l.63-83** *Marine-Captain Karl Bauermann* + statbloc Sergeant Silver 5.
 - **EiR ch.9 l.83** : *« If they make a good impression on him + treat his men reasonably, Bauermann will become a competent and constructive ally »*. Si dislike → *« petty resistance, undermining every opportunity »*.
 - **EiR ch.9 l.110** : *« Bauermann is pensive. He has an inkling that the Characters mean trouble, and feels a battle might be looming. He is drilling his company with that in mind »*.
 - **EiR ch.9** : marines doubling oarpower + firepower.
 
-## Statbloc canon (EiR ch.9 l.67)
+## Statbloc (EiR ch.9 l.67)
 
 **MARINE-CAPTAIN KARL BAUERMANN SERGEANT (SILVER 5)**
 
@@ -29,7 +29,7 @@
 - **Talents** : **Doomed** (*« A beat upon the drum, thy doom doth come »*), **Etiquette (Soldiers)**, Fisherman, Resistance (Disease), **Strong Legs**, **Strong Swimmer**, **Super Numerate**, **Very Resilient**, **War Leader**.
 - **Trappings** : Cloak, Clothing, **Breastplate, Helmet**, Pouch 12 Shillings, Sling Bag (Flask of Spirits), Bow + 12 Arrows, Sword.
 
-## Marines (canon ch.9)
+## Marines (ch.9)
 
 **Bauermann company** : Marines all Ranged (Engineering) Skill 55 (canon ch.9 l.97). Trained shipboard cannons + swivel guns. Doubling oarpower si pas wind.
 
@@ -48,7 +48,7 @@
 ## MJ-only
 - **Pas cultiste — Imperial Navy professionnel**.
 - **Allié constructif** si gagné — *« petty resistance »* si lost.
-- **Marines disponibles bataille Wolfshügel ch.12** si PJ le veulent. Sinon canon : marines absents.
+- **Marines disponibles bataille Wolfshügel ch.12** si PJ le veulent. Sinon attesté : marines absents.
 
 ## Hooks Arc 7
 - **Gagner confiance** : respect ses men + Grissen.

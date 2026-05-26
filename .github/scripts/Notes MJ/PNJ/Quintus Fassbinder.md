@@ -20,7 +20,7 @@ soignée — vêtements fins, écritoire et carnet sur lui en permanence
 `EiR ch.8 l.158`. **Combattant médiocre** (WS 33, aucune arme dans
 ses affaires) : sa valeur réside dans le savoir, pas la lame.
 
-## Phrases canon
+## Phrases
 
 - *« Quintus Fassbinder at your service, distinguished professor of the Altdorf University, and who might you be? »* — formule d'introduction standard quand il aborde des inconnus `EiR ch.2 l.246`.
 - *« So you know of Kastor? What a coincidence! Look, now is not the time, but we must talk more about this at some point. I believe we are to make a journey towards the south in one another's company if all goes well. We can talk then. »* — quand le nom de Kastor Lieberung est mentionné, il s'enflamme aussitôt `EiR ch.2 l.242`.
@@ -84,7 +84,7 @@ Zuntermein malgré leurs échanges directs à Middenheim
 - **Pression de Gideon** `EiR ch.8 l.131-138` : si les PJ avancent trop vite, des livres et lettres essentielles ont été « prêtés » à des médecins, notaires et lettrés à travers Altdorf — perte de jours pour les retrouver. Si les PJ traînent, des livres pertinents apparaissent ouverts sur les tables au moment où il faut.
 - **Recherches élargies** `EiR ch.8 l.192-260` : si les PJ posent les bonnes questions, Quintus peut détailler la doctrine de la Main Pourpre, l'identité de Kastor Lieberung, les Neuf Yeux (il avoue ne rien savoir sur eux, mais souligne que le chiffre neuf et le symbole de l'œil sont rituellement signifiants) ; et il reconnaît le code runique cultiste si on le lui présente — il jure l'avoir déjà vu auparavant dans une correspondance destinée à Kastor Lieberung `EiR ch.8 l.258`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S57 — Délégation Altdorf à Middenheim. Présent dans le carrosse Altdorf parmi Volkmar, Gravin von Ekstein, Baron von Laue, Yann Zuntermein, Liepmund Holzkrug `EiR ch.3 l.21`. À l'événement diplomatique au Middenpalaz : appréciation tonitruante de toutes ses nouvelles expériences ; aborde les PJ avec une excitation maniaque ; si le sosie Kastor Lieberung est avec eux, il réagit avec horreur, l'attrape par le menton, le palpe, s'excuse ; promet une longue conversation sur les cultes du Chaos lors du futur voyage vers le sud `EiR ch.2 l.229` `EiR ch.2 l.236-248`. Au moment du départ tardif de la délégation, dit personnellement au revoir à tous avec un enthousiasme pathétique `EiR ch.2 l.385`.
 - S57+ — Yann Zuntermein l'aborde en aparté pour le faire parler des PJ ; Quintus est candide, ne soupçonne rien `EiR ch.2 l.426-433` `EiR ch.2 l.448`.
@@ -116,7 +116,7 @@ Clothing, Purse containing 2 GCs.
 
 > **Notes MJ** :
 > - Non-combattant. Aucune arme dans Trappings. Si attaqué physiquement, dépend des PJ ou des gardes de la temple-library.
-> - **Research 77 + Lore (Chaos 77, Cults 77, Theology 77)** : la machine à éclaircir les énigmes canon du Arc 7. Tout obscur point de doctrine, tout culte mentionné, toute prophétie textuelle peut lui être soumise.
+> - **Research 77 + Lore (Chaos 77, Cults 77, Theology 77)** : la machine à éclaircir les énigmes du Arc 7. Tout obscur point de doctrine, tout culte mentionné, toute prophétie textuelle peut lui être soumise.
 > - **Language (Khazalid) 67** : très inhabituel pour un humain. Permet la lecture du *Catalogues of Confusion and Shoddiness* de Yodri ainsi que tout document nain pertinent.
 > - **Savant (Theology) 2 + Public Speaker** : son rôle public reste l'académicien — pas un agent de terrain.
 > - **Doomed** : présage de mort dramatique (orgueil démesuré, envie éternelle, témérité, ressentiment). À garder en réserve pour le climax si Quintus est exposé à un danger direct.

@@ -10,12 +10,12 @@
 - **Statut** : [VIVANT — ALLIÉ LOYAL]
 - **Tags** : `#Oldheim` `#MarkusOldheim` `#Sergeant` `#Reikland` `#Halberds` `#Wolfshügel` `#Veteran` `#Mutant` `#Arc7` `#Ch12`
 
-## Source canon
-- **EiR ch.12 l.235-260** *Sergeant Major Oldheim* + canon scene Beastman ambush.
+## Source
+- **EiR ch.12 l.235-260** *Sergeant Major Oldheim* + scene Beastman ambush.
 - **EiR ch.12 l.262** : *« Use the Sergeant profile on page 19 for Oldheim. His troop is eight Soldiers armed with Halberds »*.
 - **EiR ch.12 l.445** Speech Oldheim canon Wolfshügel pré-bataille : *« I know that what you are doing is important and maybe you would rather be somewhere else. But, like me, you signed up for this madness. Those people didn't. But some of them are going to die. Maybe... all of them. Don't get me wrong, we can't hold this hill without them, but I thought it better said in case you hadn't worked it out »*.
 
-## Statbloc canon (EiR Intro l.564 — Sergeant Silver 5 profile)
+## Statbloc (EiR Intro l.564 — Sergeant Silver 5 profile)
 
 **SERGEANTS – SILVER 5**
 
@@ -35,10 +35,10 @@
 - **Si PJ honest about journey or use Hammer in front** : *« Oldheim and his unit are happy to join them, otherwise they make their way to their barracks near Diesdorf »*.
 
 ### Wolfshügel bataille
-- **Speech canon ch.12 l.445** au-dessus + organisation défense civilians+soldats.
+- **Speech ch.12 l.445** au-dessus + organisation défense civilians+soldats.
 
 ### Post-victoire
-- **Oath canon ch.12 l.584** : *« If Sergeant Major Oldheim or any of his soldiers have survived, they passionately pledge themselves to the Hammer-bearer, until they are no longer needed »*.
+- **Oath ch.12 l.584** : *« If Sergeant Major Oldheim or any of his soldiers have survived, they passionately pledge themselves to the Hammer-bearer, until they are no longer needed »*.
 
 ## Ce que les PJ savent
 - Sergeant Major Reikland veteran.

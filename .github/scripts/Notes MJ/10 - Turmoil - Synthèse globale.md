@@ -1,6 +1,6 @@
 # Turmoil — Synthèse globale
 
-> **Périmètre** : strictement canon C7 (EiR + EiR Companion + Archives + supplements + cross-check Fandom/Lexicanum). Aucune extrapolation table — les variations spécifiques à la campagne Gauche (S63 Boris MORT off-canon, etc.) sont traitées séparément, ailleurs.
+> **Périmètre** : strictement C7 (EiR + EiR Companion + Archives + supplements + cross-check Fandom/Lexicanum). Aucune extrapolation table — les variations spécifiques à la campagne Gauche (S63 Boris MORT off-canon, etc.) sont traitées séparément, ailleurs.
 >
 > **Rôle de ce master** : vue d'hélicoptère uniquement — timeline globale, tableaux pré/post, cartes de cascades, index des fronts. **Pas de duplication** avec les fiches-front détaillées du dossier `Turmoil/`. Pour les détails par front, consulter les fichiers individuels (12 fiches produites et auditées au 2026-05-20).
 
@@ -8,7 +8,7 @@
 
 ## A. Timeline chronologique unifiée
 
-*Événements canon clés ALL fronts dans l'ordre chronologique, du background historique à la résolution post-ch.13.*
+*Événements clés ALL fronts dans l'ordre chronologique, du background historique à la résolution post-ch.13.*
 
 ### Background pré-Turmoil
 
@@ -79,7 +79,7 @@
 | Pendant EiR ch.9 | **Siège Streissen** par Marlene Alptraum (piégée par Marius Leitdorf via SIP) | 04 | EiR ch.9 l.330-332, l.438-439 |
 | Pendant EiR ch.9 | **Battle of Streissen** ; Marlene flanquée et défaite par Marius Leitdorf | 04 | EiR ch.9 l.438-439 |
 | Pendant EiR ch.9 | **Reik state troops Nuln marshalled** pour annexer Sudenland (Threshers casus belli) ; **8 enfants Toppenheimer rallient Liebwitz** ; Leopold's Leopard Company (Tilea) fight pour Emmanuelle | 03+12 | EiR ch.17 l.26 + Fandom Leopold's Leopard Company |
-| Pendant EiR ch.9-12 | **Voyage canon quête Ghal Maraz** : Altdorf → Nuln → River Aver → Averheim → Old Dwarf Road → Black Fire Pass → Caves of Chaos (Black Mountains) → retour Grenzstadt → Averheim → Streissen → Altdorf | 11+12 | EiR ch.8-12 |
+| Pendant EiR ch.9-12 | **Voyage quête Ghal Maraz** : Altdorf → Nuln → River Aver → Averheim → Old Dwarf Road → Black Fire Pass → Caves of Chaos (Black Mountains) → retour Grenzstadt → Averheim → Streissen → Altdorf | 11+12 | EiR ch.8-12 |
 | Pendant EiR ch.11 | **Caves of Chaos Black Mountains** : récupération **vrai Ghal Maraz** scellé runic magic depuis Great Catastrophe ; Sadikur Nehekharan undead servant | 11+12 | EiR ch.11 |
 | Pendant EiR ch.12 | **Iron Marshall Kina Hammerwatch rencontre Characters** Black Fire Pass ; confession smiths Hammerwatch clan forgeurs Imitation ; offre Grimshank's coin | 11+12 | EiR ch.12 l.7-26 |
 | Pendant EiR ch.12 | **3 cracks Aethyr observés** : Averheim (Averburg palace) + Nuln (Nuln Palace) + Altdorf (Colleges of Magic + Imperial Palace) — précurseurs portails Sheerargetru | 11+12 | EiR ch.12 l.49-55 |
@@ -167,10 +167,10 @@
 | **Nordland** | **Crow Feeder** | (en vitrine Zinnentor Salzenmund, dynastie en attente) | **Theoderic Gausser** (prise physique Tour of Autumn) | Castle Salzenmund (Gausser) | 01 |
 | **Hochland** | **Goblin Bane** (corrodé Great War Against Chaos 2302-2304 IC ; tua Beast Lord Golsore XVe IC) | (vassal Talabheim) | **Aldebrand Ludenhof** (post-Turmoil) | Hochland (Ludenhof) | 07 |
 | **Ostland** | **Brain Wounder** | (Hans-Hals III Tasseninck) | **Valmir von Raukov** (post-Tasseninck stripped) | Ostland (Raukov) | 06 |
-| **Talabecland** | (nom canon non précisé fiches) | Gustav Krieglitz | **Helmut Feuerbach** (post-Krieglitz purge) | Talabecland (Feuerbach) | 05 |
+| **Talabecland** | (nom non précisé fiches) | Gustav Krieglitz | **Helmut Feuerbach** (post-Krieglitz purge) | Talabecland (Feuerbach) | 05 |
 | **Stirland** | **Orc Hewer** (utilisé par Elector Count Martin pour tuer Mannfred von Carstein à la Bataille de Hel Fenn 2145 IC) | Alberich V Haupt-Anderssen | Alberich continuité (post-Turmoil) | Stirland (Alberich) | 08 |
-| **Averland** | (nom canon non précisé fiche 04 — non *"Mother's Ruin"* ; voir section 10 fiche 04) | Ludmilla III Alptraum | **Marius Leitdorf** (post-coup) | Averland (Leitdorf) | 04 |
-| **Wissenland** | (nom canon non précisé fiches — *"Witchscourge"* probable per Fandom Runefang) | Emmanuelle XV von Liebwitz (cumul Nuln) | Emmanuelle continuité (post-annexion Sudenland) | Nuln/Wissenland (Liebwitz) | 03 |
+| **Averland** | (nom non précisé fiche 04 — non *"Mother's Ruin"* ; voir section 10 fiche 04) | Ludmilla III Alptraum | **Marius Leitdorf** (post-coup) | Averland (Leitdorf) | 04 |
+| **Wissenland** | (nom non précisé fiches — *"Witchscourge"* probable per Fandom Runefang) | Emmanuelle XV von Liebwitz (cumul Nuln) | Emmanuelle continuité (post-annexion Sudenland) | Nuln/Wissenland (Liebwitz) | 03 |
 | **Solland** (province éteinte 1707 IC) | **Grudge Settler** (alias Grollhalter/Grudgebearer, Lightshard, Helbringer, Warpsbane, Klingerach) | Récupéré 2378 IC par Thane Egrim Stonehammer Worlds Edge ; détenu par **Reiksmarshall Kurt Helborg** au nom de l'Empereur | Helborg continuité (post-Turmoil) | Altdorf (Helborg) | 11+12 |
 | **Talabheim** | (Talabheim était cité-État dans Talabecland avant unification — pas de Runefang dédié canon ; voir fiche 05) | — | — | (Talabecland unifié Feuerbach) | 05 |
 | **Mootland** | (les Halflings n'ont pas de Runefang canon — siège électoral civil) | — | — | — | (référence) |
@@ -183,7 +183,7 @@
 
 ## D. Carte des cascades inter-fronts
 
-*Graphe orienté : flux canon des cascades pendant le Turmoil 2512 IC. Conventions : `→` = cause directe ; `↔` = influence mutuelle ; `⇄` = compensation territoriale.*
+*Graphe orienté : flux des cascades pendant le Turmoil 2512 IC. Conventions : `→` = cause directe ; `↔` = influence mutuelle ; `⇄` = compensation territoriale.*
 
 ### Cascade nord (Anika-Elise / Wasmeier → Gausser)
 ```
@@ -410,9 +410,9 @@ Citation canon EiR ch.17 l.34 : *"In light of these revelations the positions of
 - Aucune extrapolation, aucune invention. Si non tranché → section 10 explicitement.
 - Aucun "probablement" non documenté.
 - Lignes précises pour chaque affirmation (`EiR ch.X l.Y`).
-- Recoupement Fandom/Lexicanum obligatoire pour combler les zones d'ombre canon.
+- Recoupement Fandom/Lexicanum obligatoire pour combler les zones d'ombre.
 - **Règle d'arbitrage projet** : WFRP4 EiR/Companion/supplements supersède éditions antérieures (WFRP2/3 Fandom legacy). Divergences résolues en Notes hors filtre.
-- **Hiérarchie sources web** : Cubicle 7 blog + Fandom Warhammer Fantasy + Lexicanum (canon) ; World Anvil + Awesome Lies (dérivés) ; **Total War wiki INTERDIT** comme canon tabletop.
+- **Hiérarchie sources web** : Cubicle 7 blog + Fandom Warhammer Fantasy + Lexicanum (canon) ; World Anvil + Awesome Lies (dérivés) ; **Total War wiki INTERDIT** comme tabletop.
 - **Règle CLAUDE.md orthographes** : Lexicanum/Fandom > PDF Source/ OCR pour noms propres (Holswig-Abenauer, Feilbach, von Hindenstern, etc.).
 
 **Workflow 6 phases par fiche** :

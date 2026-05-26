@@ -9,20 +9,20 @@
 - **Statut** : [MORT S16] — achevé par Anselm + Pathsokar au pied de la Tour des Vents.
 - **Tags** : `#Carolus` `#Entschlafen` `#CaballiteCantor` `#CollègeDeLaLumière` `#Hysh` `#8VentsDeMagie` `#Tzeentch` `#EgrimmVanHorstmann` `#TourDesVents` `#MORT`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md`
   - **« The Caballite Cantor »** (description) : lignes 178, 2237-2245
   - **Statbloc** : lignes 2257-2266
   - **Cabal of Egrimm van Horstmann** (contexte faction) : lignes 2254-2256, 2268
   - Scène finale de fuite + lentille volée : ligne 2048
 
-## Écart canon → table — IMPORTANT
+## Écart sources → table — IMPORTANT
 
 **Canon** : Carolus est un **agent du Cabal of Egrimm van Horstmann** (Tzeentch). L'arme magique est un **Luminark of Hysh** opéré depuis la **Tower of Vane** par **Sibylle Hagerdorn** (sa vieille amie, qu'il a manipulée). Carolus n'est **pas** mégalomane solo — c'est un cabaliste discipliné qui se sacrifie volontairement (« **never intended to survive** », l.2325). Il **vole une lentille** avant de sauter, **flotte vers le glacier** (l.2048) et fuit.
 
 **Table S16** : Hagerdorn et le Cabal supprimés. Carolus = **mage renégat solo** qui se voit en « **chef d'orchestre** » des 8 Vents (hérésie cardinale type Magnus). Il **meurt au pied de la tour** (achevé par Anselm + Pathsokar — pas de fuite, pas de sacrifice planifié). Les pièces de l'arme sont volées par **Engel** au lieu de Carolus.
 
-## Description canon (UA1)
+## Description (UA1)
 
 > « Carolus Entschlafen grew up on the street corners of Altdorf, running with other urchins, including the young Hagerdorn. The two urchins were inseparable until their magical talents were discovered and they were dragged to the Colleges of Magic. Whilst Hagerdorn went on to join the Celestial College, Entschlafen's examiners incorrectly judged his talents as being too dispersed and diluted. Instead of executing the child, they gave him to the College of Light, and condemned him to a life of servitude as a minor Apprentice. However, Entschlafen excelled in this role, becoming **one of the finest cantors the College had ever seen**, eventually rising to become the personal cantor of the new Supreme Patriarch — **Egrimm van Horstmann**. »
 >
@@ -30,7 +30,7 @@
 >
 > « Behind pale grey eyes, Entschlafen hides a **burning hatred for the life he wasted**. »
 
-## Statbloc canon — **Carolus Entschlafen – Warlock (Brass 5)**
+## Statbloc — **Carolus Entschlafen – Warlock (Brass 5)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 ### Vrai contexte canon (réserve narrative)
 - Carolus est **agent du Cabal of Egrimm van Horstmann** = la principale cellule **Tzeentch** de l'Empire. **Réservoir narratif majeur** : si le MJ veut tirer le fil tzeentchien plus tard (cohérent avec la dégradation Filianore S33 + arc 5-6), des **correspondants de Carolus** peuvent émerger.
 - Possible **chaîne de correspondance** : lettres dans la tour mentionnant Horstmann, contacts dans les Collèges, mages sympathisants. À introduire si besoin.
-- Le canon précise que **Horstmann était Patriarche Suprême** — c'est-à-dire le plus haut mage de l'Empire avant sa chute. Carolus était son **chantre personnel** = très proche.
+- Le précise que **Horstmann était Patriarche Suprême** — c'est-à-dire le plus haut mage de l'Empire avant sa chute. Carolus était son **chantre personnel** = très proche.
 
 ### Pourquoi Engel a-t-il survécu ?
 - Canon : Engel n'est pas dans Heart of Glass.
@@ -108,7 +108,7 @@
 
 ## Fils ouverts
 
-- **FIL-40** — *Cabal d'Egrimm van Horstmann* — cabaliste Tzeentch canon affilié au Cabal ; sa mort laisse le Cabal actif, un autre cabaliste peut reprendre la traque.
+- **FIL-40** — *Cabal d'Egrimm van Horstmann* — cabaliste Tzeentch affilié au Cabal ; sa mort laisse le Cabal actif, un autre cabaliste peut reprendre la traque.
 - **FIL-29** — *Christoph Engel disparu avec pièces de l'arme magique* — créateur originel de l'arme, son décès ouvre la fenêtre pour qu'Engel emporte les pièces critiques.
 
 ## Liens

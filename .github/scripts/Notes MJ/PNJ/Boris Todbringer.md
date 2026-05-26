@@ -7,7 +7,7 @@
 
 Mesure 6'1" (1,85 m), figure jadis imposante désormais marquée par l'âge : cheveux bruns clairsemés, moustache impressionnante mal entretenue `PBT ch.2 l.125`. Pendant la dépression du Carnaval, il passe l'essentiel de son temps au lit, drapé de couvertures même dans la salle du trône — traité comme un Malaise particulièrement sévère (**3 Fatigued Conditions**, –30 à tous les Tests) `PBT ch.2 l.125`. Voix profonde mais qui chevrote, change de sujet abruptement, oublie qui sont ses interlocuteurs ; appellera certainement « Dieter » tout nouveau champion au moins une fois `PBT ch.2 l.122`. Malgré le deuil, moments de grande clairvoyance : reconnaît la provenance d'une arme, d'une armure ou d'un accent après quelques instants `PBT ch.2 l.127`. Au début d'*Empire in Ruins*, il a retrouvé sa stature et sa confiance, redevenu indépendant après son épisode de mélancolie `EiR Intro l.914`.
 
-## Phrases canon
+## Phrases
 
 - *« Locate the traitor Wasmeier and bring his body back to me! »* — ordre lancé aux PJ depuis son lit après l'attaque du Doppelgänger `PBT ch.7 l.294`.
 - *« Clearly the Skaven presented a greater threat than any of us had been willing to admit prior to your investigations. I wish I had paid more heed. »* — excuses formelles aux PJ à leur retour à Middenheim `EiR ch.2 l.112`.
@@ -40,7 +40,7 @@ Mesure 6'1" (1,85 m), figure jadis imposante désormais marquée par l'âge : ch
 - **Mariage Katarina Todbringer / Wolfgang Holswig-Abenauer** : accepte à contrecœur la proposition du Grand Théogoniste comme prix de la paix impériale `EiR ch.5 l.95`.
 - **Vote du Conclave** : exige une intervention contre Theoderic Gausser et le commandement temporaire d'un corps d'armée d'Altdorf comme gage de bonne foi `EiR ch.7 l.242`.
 
-## Apparitions canon Arc 5 → Arc 7
+## Apparitions Arc 5 → Arc 7
 
 - **S30-S31** — Inaccessible aux PJ. Réclus, profondément déprimé, incapable de décider, deuil d'Anika-Elise Nikse + maladie de Stefan Todbringer `PBT ch.3 l.40`.
 - **S34** — Graf's Garden Party (Royal Gardens) : présent mais visiblement diminué (Malaise) ; les invités évoquent à demi-mot que personne n'arrive plus à raisonner Boris sur les taxes `PBT ch.2 l.125`.
@@ -56,7 +56,7 @@ Mesure 6'1" (1,85 m), figure jadis imposante désormais marquée par l'âge : ch
 - **S62 — Conclave d'urgence** : dénonce la sédition nordlandaise et les attaques contre sa famille `EiR ch.7 l.242` ; s'emporte contre Hermann von Feilbach (faux Karl-Franz Holswig-Schliestein) qui brandit Ghal Maraz vers lui en lui ordonnant courtoisie ou silence ; Boris saisit son Runefang (*Peak Leveller*) pour parer, frappe en transe, et le marteau d'imitation vole en neuf fragments — geste qui révèle que ce Ghal Maraz est un faux `EiR ch.7 l.247-250`. Ordonne le retour à Middenheim `EiR ch.7 l.265`.
 - **S63 (homebrew table)** — Tué dans son manoir lors de l'attaque off-canon par « Volkmar » (en réalité Gideon Changeling sous forme du Haut Capitulaire). La Doomed se réalise — la vengeance qu'il cherchait à exercer sur les manipulateurs chaotiques le rattrape. Veiran Thugenheim disparaît, corps non retrouvé. Katarina Todbringer et Heinrich Todbringer survivent.
 
-Dans la voie canon EiR, Boris survit au Conclave et soutient Karl-Franz Holswig-Schliestein revitalisé contre le Démon `EiR Intro l.77` ; à la table, le réordonnancement de la cascade Turmoil place son assassinat avant cette ligne canon.
+Dans la voie EiR, Boris survit au Conclave et soutient Karl-Franz Holswig-Schliestein revitalisé contre le Démon `EiR Intro l.77` ; à la table, le réordonnancement de la cascade Turmoil place son assassinat avant cette ligne.
 
 ## Statbloc — Noble Lord (Gold 7) `EiR Intro l.900-912`
 

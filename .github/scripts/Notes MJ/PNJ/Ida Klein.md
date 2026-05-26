@@ -10,7 +10,7 @@
 - **Statut** : [VIVANTE — NEUTRE / ALLIÉE]
 - **Tags** : `#Ida` `#IdaKlein` `#IdaClind` `#Gladbeich` `#Holzbek` `#Préfète` `#Reeve` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. Griffon Down* l.3838.
 
 ## Statbloc (partiel)

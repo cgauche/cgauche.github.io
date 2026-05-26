@@ -8,7 +8,7 @@
 - **Statut** : [ACTIF] depuis levée de l'interdiction par Ar-Ulric Emil Valgeir.
 - **Tags** : `#FilsDUlric` `#PorteursDeSang` `#Ulric` `#Middenheim` `#FanatiquesReligieux` `#BeateMoser` `#NonChaotique`
 
-## Source canon
+## Source
 - **EiR Introduction** : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/03 - Introduction.md` (Ar-Ulric Valgeir, levée de l'interdiction).
 - **EiR ch. 2** *Chilly Reception* : agitation à Middenheim, prank du fumier sur la délégation Altdorfer.
 - **EiR ch. 3** *Journey to Shining Rock* : **attaque coordonnée** à Shining Rock. `Source/Enemy Within Campaign Volume 5 Empire in Ruins/06 - Chapter 3 - Journey to Shining Rock.md`

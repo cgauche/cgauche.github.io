@@ -9,7 +9,7 @@
 - **Statut** : [DÉCAPITÉ S16 / RÉSEAU RÉSIDUEL PROBABLE]
 - **Tags** : `#Shornaal` `#Slaanesh` `#Ubersreik` `#Vielfrass` `#Orban` `#CulteInfiltré` `#Boxing`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` chapitre Heart of Glass (PDF p.47-77)
 
 ## Liturgie / signatures cultuelles

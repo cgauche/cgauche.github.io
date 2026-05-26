@@ -12,7 +12,7 @@
 - **Statut** : [STATUT INCERTAIN — martyrisé Karak Skygg + cellule Lachmann éliminée]
 - **Tags** : `#ClanMange` `#ClanGaleux` `#Skaven` `#UnderMiddenheim` `#WarlordKratz` `#Rikkhin` `#Maliss` `#Trahi` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. Villainous Factions — Clan Mange* l.688-691.
 - *HR ch. Under-Middenheim* l.693-697.
 - *HR ch. The Black Hunger — Starved Clanrats / Clawleader Rikkhin* l.3523-3548.

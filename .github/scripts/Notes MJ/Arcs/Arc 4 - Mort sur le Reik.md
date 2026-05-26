@@ -4,8 +4,8 @@
 
 - **Sessions** : S22 → S29 (8 sessions)
 - **Trajet** : [[Altdorf]] → bateau de transport sur le Reik → [[Kemperbad]] (taxe de mouillage + Luigi Belladonna + Phineas s'installe) → bateau marchand récupéré sur les Wreckers → Reik amont → **[[Grissenwald]]** → mine d'Etelka (versant sud, gobelins) → retour Kemperbad → bateau remontant → **[[Unterbaum]]** (Corrobreth) → ascension Collines Stériles → retour Unterbaum → bateau théâtre (Elvira retrouvée) → **île au phare** (ancien observatoire Wittgenstein) → village mildiou (Filianore convalescente) → Kemperbad (attentat Main Pourpre sur bateau) → navire Phineas vers **[[Wittgendorf]]** → **château Wittgenstein** → fuite via grotte sous-château (explosion) → retour Altdorf via Reik → diligence Quatre Saisons Altdorf → Middenheim → arrivée pont Fauschlag.
-- **Source canon principale** : `Source/Enemy Within Campaign Volume 2 Death on the Reik/`
-  - S22 → hors canon principal (transition Arc 3 → Arc 4, briefing Filianore + édit impérial mutants)
+- **Source principale** : `Source/Enemy Within Campaign Volume 2 Death on the Reik/`
+  - S22 → hors principal (transition Arc 3 → Arc 4, briefing Filianore + édit impérial mutants)
   - S23 → ch.2 *Altdorf to Kemperbad* (PDF) + `Source/Death on the Reik Companion/14 - CHAPTER 7- FELLOW TRAVELLERS.md` (rencontres aléatoires) + `19 - CHAPTER 12- WRECKERS, SMUGGLERS & PIRATES.md` (pirates mutants)
   - S24 → ch.3 *Kemperbad to Black Peaks* (PDF) + ch.4 *Grissenwald to the Barren Hills* (PDF, ouverture Grissenwald)
   - S25 → ch.4 *Grissenwald to the Barren Hills* (Unterbaum + Barren Hills + skystone)
@@ -22,7 +22,7 @@
 
 ### Timeline in-game
 
-DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenhafen → Altdorf), donc fin Pflugzeit / début Sigmarzeit 2512 IC. Notre Arc 4 démarre fin Arc 3 = ~5 Vorgeheim 2512 IC (3 mois plus tard, à cause de l'extension Ubersreik Arc 3). Le voyage à Middenheim atteint l'**hiver** (canon EiR + récit S29 « neige paresseuse, froid mordant »). Estimation :
+DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenhafen → Altdorf), donc fin Pflugzeit / début Sigmarzeit 2512 IC. Notre Arc 4 démarre fin Arc 3 = ~5 Vorgeheim 2512 IC (3 mois plus tard, à cause de l'extension Ubersreik Arc 3). Le voyage à Middenheim atteint l'**hiver** (canon EiR + récit S29 « neige paresseuse, froid mordant »). Estimation :
 
 | Session | Date estimée | Lieu | Note |
 |---|---|---|---|
@@ -82,13 +82,13 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
   - **Backstory** : femme de Pathsokar, enceinte à son départ. 5 ans sans nouvelles. Voyage à Altdorf, **sa fille y meurt**. Recrutée par la **Main Pourpre** qui lui promet **enfant et mari retrouvés**. Devient **agent double MP-Nacht** (infiltrée à Ubersreik comme « espionne anti-MP de Nacht » alors qu'elle espionne Nacht POUR la MP). Mission 2 : Bögenhafen, espionner l'Ordo Septenarius (rival Tzeentch). **Capturée et droguée** par Teugen → amnésie.
   - **Briefing S22 = reprise de couverture, pas une « bascule »** : Filianore connaît son agenda MP réel depuis le pré-campagne. Le briefing aux PJ est **mensonge délibéré** (maintien de la façade) :
     - **Heidlemann présenté comme MP** : faux. Heidlemann = **Red Crown** canon (DotR ch.4 l.6, 34). Filianore le sait, oriente le groupe contre la Red Crown rivale de sa propre MP.
-    - **Mission « contre Etelka »** : Etelka = Red Crown canon. Exécution de la mission Nacht (anti-Tzeentch générique) **coïncide** avec l'agenda MP (élimination Red Crown). Double bénéfice.
+    - **Mission « contre Etelka »** : Etelka = Red Crown. Exécution de la mission Nacht (anti-Tzeentch générique) **coïncide** avec l'agenda MP (élimination Red Crown). Double bénéfice.
     - **Le carnet « espionne anti-MP »** présenté aux PJ : couverture maintenue.
 - **Nacht trompée depuis S14** : Emmanuelle Nacht n'a jamais eu d'agente fiable. Filianore lui transmet des renseignements filtrés (FIL-41). **Hook majeur** : si Nacht le découvre Arc 5+, conséquences politiques Ubersreik-Altdorf.
 - **Traque MP active sur Pathsokar (FIL-25)** : la cellule qui marque Pathsokar S23 puis envoie l'ultimatum S26 **est la cellule de Filianore** (cellule Altdorf — Yann Zuntermein). Filianore ne stoppe pas la traque — soit rang trop bas, soit elle laisse le quiproquo Kastor jouer son rôle, soit elle prépare le terrain pour retourner Pathsokar elle-même (cohérent S33 où il la rejoint dans la Croix de Lilas).
 - **Édit pro-mutants** : canon EiR — orchestré par **Yann Zuntermein** via manipulation d'**Immanuel-Ferrand Holswig-Schliestein** + suggestibilité de Karl-Franz empoisonné. **Premier signe table de l'imposture impériale** que les PJ ne déchiffrent qu'en Arc 7 (S62 conseil impérial).
 - **Luigi Belladonna** = canon DotR ch.2 *Altdorf to Kemperbad* (PNJ tilien établi à Kemperbad, contact mafia tilienne / Margritta Marvolo réseau **Blue Heron**). Le colis = MacGuffin canon = livraison barge sans nom canon (la barge) ou breloque sans valeur (test de fiabilité).
-- **La Main Pourpre traque sur l'héritage de Kastor** : canon ch.1 EiS — Kastor avait un **héritage légal** à Bögenhafen (Lock/Stock/Barl) que la cellule veut récupérer financièrement. Le quiproquo Pathsokar/Kastor leur fait croire que Pathsokar a l'héritage. **Confusion entretenue** dans tout l'Arc 4.
+- **La Main Pourpre traque sur l'héritage de Kastor** : ch.1 EiS — Kastor avait un **héritage légal** à Bögenhafen (Lock/Stock/Barl) que la cellule veut récupérer financièrement. Le quiproquo Pathsokar/Kastor leur fait croire que Pathsokar a l'héritage. **Confusion entretenue** dans tout l'Arc 4.
 
 ---
 
@@ -96,7 +96,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Voyage en bateau de transport, ~6 jours. Capitaine prudent (parle des pirates).
 
-**Plots canon présents** (DotR ch.2 + Companion *Fellow Travellers* + *Wreckers*) :
+**Plots présents** (DotR ch.2 + Companion *Fellow Travellers* + *Wreckers*) :
 - **Phare en construction** [canon ch.2] — Nains interpellent depuis la rive, contremaître les fait taire. **Hook canon : île au phare**, à activer plus tard (S26).
 - **Ernst Heidlemann revu** — Elvira reconnaît le « timide étudiant » de S4 (Coach and Horses) sur un autre navire. Heidlemann **ignore ses signes**. Signal qu'il poursuit sa mission Red Crown.
 - **Bateau marchand échoué + Wreckers** [canon Companion ch.12 *Wreckers, Smugglers & Pirates*] — Navire à l'abandon sur les eaux calmes. PJ débarquent. **Embuscade pirates mutants** depuis les branchages, l'eau, le pont. Combat. Victoire des PJ.
@@ -111,7 +111,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 - **Mèche arrachée à Pathsokar** — Bousculé dans la foule. Sent qu'on lui tire les cheveux. Aperçoit un homme avec du pourpre s'enfuir au loin. **Première frappe Main Pourpre** sur Pathsokar (cf. FIL-25).
 
 ### Ce que les PJ savent à la fin de S23
-- Possèdent une barge de transport (rebaptisable, cf. barge sans nom canon canon).
+- Possèdent une barge de transport (rebaptisable, cf. barge sans nom attesté).
 - Renate Hausier = nouvelle cuisinière fidèle.
 - Phineas reste à Kemperbad sous Boormann.
 - Luigi Belladonna = contact mafia tilienne utile.
@@ -119,11 +119,11 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 ### MJ-only S23
 - **La barge récupérée** = canon DotR la nomme **barge sans nom canon**. À table : non nommée, mais utilisée comme moyen de transport principal Arc 4. Équipement à étoffer via DotR Companion ch.10 *Deck It Out*.
-- **Renate Hausier** = canon ch.2 (jeune femme apparente, profile à compléter). À table : restera fidèle jusqu'à S26 où elle est libérée à Kemperbad (trop dangereux pour elle).
+- **Renate Hausier** = ch.2 (jeune femme apparente, profile à compléter). À table : restera fidèle jusqu'à S26 où elle est libérée à Kemperbad (trop dangereux pour elle).
 - **Luigi Belladonna** = mafia tilienne **Blue Heron** (canon Archives + DotR). Réseau Emmanuelle (Nuln). Le colis livré = test de fiabilité + transfert d'informations crypté pour le réseau. Les PJ sont désormais **affiliés Blue Heron tier 1** sans le savoir. Hook : Belladonna les rappelle plus tard (Arc 5+).
 - **Otto Boormann** = canon EiR ch.13 (présent au climax Volkshalle Arc 7). **Allié de longue date Phineas**. Bonne entrée pour la politique Reikland-Wissenland.
 - **Mèche volée S23** = canon DotR ch.2 ou ch.3 : focus magique pour traque à distance (cf. FIL-25). Effet à venir S26 (main pourpre temporaire).
-- **Heidlemann ignore Elvira** = poursuit sa mission Red Crown pour **Doktor Schmidt** à l'Université d'Altdorf et **Aynjulls Isembeard** au Signal Tower (canon Companion ch.15). Sa **présence à Barren Hills S25** est canon.
+- **Heidlemann ignore Elvira** = poursuit sa mission Red Crown pour **Doktor Schmidt** à l'Université d'Altdorf et **Aynjulls Isembeard** au Signal Tower (canon Companion ch.15). Sa **présence à Barren Hills S25** est.
 
 ---
 
@@ -131,7 +131,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Voyage bateau Kemperbad → Grissenwald, calme. **Premier aperçu du château Wittgenstein** sur la rive du Reik (« fort effrayant »). Filianore exige des arrêts pour collecter des **os de mutant** (composants potions).
 
-**Plots canon présents** (DotR ch.3 + ch.4) :
+**Plots présents** (DotR ch.3 + ch.4) :
 - **Château Wittgenstein vu de loin** [canon ch.3] — premier hook pour S27-S28.
 - **Filianore + os de mutant** — Inflexion table : alchimie / nécromancie discrète. Préfigure sa corruption S33.
 - **Grissenwald arrivée** — petit village au confluent. Une **rixe** dans la taverne entre un nain et des clients (qui le traitent de meurtrier). Pathsokar prend une chaise en pleine tête, **ne riposte pas** (bonne décision). Milice intervient, ne dérange pas les PJ.
@@ -171,7 +171,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Retour Kemperbad pour ravitaillement. Phineas introuvable (rumeurs : fui ou mort). Elvira s'absente pour vendre la marchandise. **Au retour bateau, les PJ partent sans elle**.
 
-**Plots canon présents** (DotR ch.4) :
+**Plots présents** (DotR ch.4) :
 - **Vente du vin par Elvira à Grissenwald** — Échangé contre produits agricoles.
 - **Noble illuminée force les PJ à jouer une pièce de théâtre** [canon ch.3 ou Companion *Fellow Travellers*] — Rencontre canon, divertissement de route.
 - **Phineas introuvable à Kemperbad** — Rumeurs contradictoires. (Canon S26 révèle : il a échappé à un assassinat Main Pourpre, planqué sous haute sécurité au palais de justice.)
@@ -196,7 +196,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 ### MJ-only S25
 - **Etelka = [[Etelka Herzen]]** canon DotR ch.4. **Sorcière Red Crown** (canon DotR ch.4 l.6 + l.34 + Companion ch.7 et ch.15). **Morte à table S25 — mission Nacht accomplie + opération anti-Red Crown de Filianore réussie**. Canon = sorcière puissante (foudre + démonologie Tzeentch).
-- **Heidlemann = canon Red Crown** (DotR Companion ch.15). Mort à table = **élimine l'un des relais Red Crown actifs**. Mais Doktor Schmidt (Altdorf) + Aynjulls Isembeard (Signal Tower) restent canon. Réservoir narratif.
+- **Heidlemann = canon Red Crown** (DotR Companion ch.15). Mort à table = **élimine l'un des relais Red Crown actifs**. Mais Doktor Schmidt (Altdorf) + Aynjulls Isembeard (Signal Tower) restent. Réservoir narratif.
 - **Trahison du notable = Dagmar von Wittgenstein** (canon DotR ch.5). **Ancêtre des Wittgenstein actuels**. Il a ramené la pierre à l'île au phare → la malpierre a corrompu la lignée Wittgenstein sur des générations.
 - **Filianore mission MP exécutée** : **Etelka + Heidlemann = même cellule Red Crown canon** (DotR ch.4 l.6, 34). Filianore (MP infiltrée) élimine **deux ennemis Red Crown** de sa propre faction MP — opération MP standard, parfaitement cohérente avec son rôle réel. **Le carnet d'Etelka** = matériel Red Crown récupéré, exploitable par la MP contre la rivale Tzeentch. Filianore ne le rend pas à Nacht (la couverture « espionne anti-MP » ne nécessite pas un carnet Red Crown). Cf. FIL-50.
 - **Pourquoi Etelka attaque immédiatement à la foudre** : défense réflexe — sorcière Red Crown surprise dans son sanctuaire fouillé par des intrus inconnus. Pas besoin d'explication complexe.
@@ -210,7 +210,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Retour Kemperbad par bateau. Phineas toujours introuvable. **Filianore tombe malade** (grave). Pathsokar reçoit un ultimatum Main Pourpre.
 
-**Plots canon présents** (DotR ch.5) :
+**Plots présents** (DotR ch.5) :
 - **Lettre Main Pourpre à Pathsokar** — Dans une auberge. Mèche de ses propres cheveux à l'intérieur. **Remettre l'héritage à la Main Pourpre** :
   - aux intermédiaires d'Altdorf, OU
   - directement à **Middenheim**.
@@ -258,7 +258,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Arrivée bateau Phineas au quai de Wittgendorf, sous le château fortifié. **Margritte von Wittgenstein** + 6 gardes querellent avec 2 mendiants au sommet du talus.
 
-**Plots canon présents** (DotR ch.6) :
+**Plots présents** (DotR ch.6) :
 - **Enlèvement d'un mendiant** — Les gardes saisissent l'un des deux mendiants (à moitié assommé, attaché à une corde) et l'emmènent au château. L'autre **appelle les PJ à l'aide**, est frappé à terre.
 - **Présentation de [[Margritte von Wittgenstein]]** — Belle robe bleue sur cheval blanc. **Beauté saisissante, regard froid**. S'enquiert de la visite diplomatique de Phineas. Invite les PJ au **dîner chez le docteur Rousseau** le soir, le temps que le château soit prêt. **Repart sans attendre de réponse**.
 - **Le mendiant frappé** — Les PJ s'en occupent. Il raconte :
@@ -299,7 +299,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Entrée par le **quai souterrain** sous le château (grotte). **Mark refuse de quitter le bateau** (armes interdites à l'intérieur).
 
-**Plots canon présents** (DotR ch.7) :
+**Plots présents** (DotR ch.7) :
 - **Majordome décrépi** accueille. Demande de **laisser les armes** au bateau. Mark refuse, reste à bord.
 - **Intérieur lugubre** — Bruits angoissants, cris dans les pièces.
 - **Ogre bourreau** dans le cadre d'une porte, **menaçant**, ne réagit pas. (Sera également passif au retour des PJ.)
@@ -334,12 +334,12 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 ### MJ-only S28
 - **Famille Wittgenstein canon DotR ch.7** : statblocs complets. Tous morts table.
-- **Margritte = chirurgienne Frankenstein** = canon. Inspiration littéraire explicite (Mary Shelley). Création de **monstres patchwork** à partir des villageois enlevés.
+- **Margritte = chirurgienne Frankenstein** =. Inspiration littéraire explicite (Mary Shelley). Création de **monstres patchwork** à partir des villageois enlevés.
 - **Ludwig = cafard géant** canon (mutation forte). Reste « civilisé » → caractère tragique-amical. Sa mort dans l'explosion = perte d'un PNJ sympathique.
-- **Kurt = frère torturé/torturer** canon. Faible d'esprit + énorme + intéressé par les corps.
-- **Ingrid = matrone** canon. Plus rationnelle, plus dangereuse politiquement (manipulatrice).
+- **Kurt = frère torturé/torturer**. Faible d'esprit + énorme + intéressé par les corps.
+- **Ingrid = matrone**. Plus rationnelle, plus dangereuse politiquement (manipulatrice).
 - **Skavens à Wittgenstein** = canon DotR ch.7. **Clan minier** local convoitant la malpierre. Probablement **clan Pestilens** (cohérent avec malpierre = warpstone). Cohérent avec la signature skaven **Maliss** (techno-mage) qui apparaît Arc 6 — **possible filiation latente** ou clan distinct.
-- **L'ogre bourreau passif** = mystère canon. Hypothèse MJ : il est **dévot d'un ancien dieu** et reconnaît les PJ comme « visiteurs autorisés ». Possible survivant qui réapparaît hors-arc.
+- **L'ogre bourreau passif** = mystère. Hypothèse MJ : il est **dévot d'un ancien dieu** et reconnaît les PJ comme « visiteurs autorisés ». Possible survivant qui réapparaît hors-arc.
 - **L'explosion verte = malpierre instable** = canon DotR. Les skavens ont **délibérément détonné** une partie pour récupérer le reste dans le chaos. Méthode classique skaven Pestilens.
 - **[[Gotthard Wallenstein]]** = canon DotR (membre de la lignée Wittgenstein cachée, héritier inattendu). **Non rencontré S28** mais réapparaît **Arc 5 à Middenheim** (cf. `01 - Synthèses par arc.md` arc 5 — Wallenstein torturé S45). **Seul survivant Wittgenstein** = atout politique pour qui le détient.
 
@@ -349,7 +349,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 
 **Cadre** : Retour Altdorf via Reik. Direction Middenheim pour confronter la Main Pourpre selon leur ultimatum. **Diligence Quatre Saisons** d'Altdorf.
 
-**Plots canon présents** (DotR ch.8 + Companion *Fellow Travellers*) :
+**Plots présents** (DotR ch.8 + Companion *Fellow Travellers*) :
 - **Bureau Quatre Saisons Altdorf** — Pendant l'inscription, **un homme fait un signe à Pathsokar** et lui demande d'entrer dans son échoppe.
 - **La mission « Empire of Trash »** [canon ch.8 *A Stop Along the Way*] — L'homme :
   - Sort une **grosse caisse** + une **lettre cachetée pour le capitaine Scarlash**.
@@ -363,7 +363,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
   - **Journal**
   - **Patte de lapin**
   - **Vieux fourreau**
-  - = **8 breloques sans valeur apparente**. Lettre évoque **6 objets**. **Écart canon volontaire** (DotR ch.8 l.232 : *« the crate should contain one more item than the letter states »*) = test de fiabilité / piège du compte pour vérifier que le messager n'a pas fouillé.
+  - = **8 breloques sans valeur apparente**. Lettre évoque **6 objets**. **Écart volontaire** (DotR ch.8 l.232 : *« the crate should contain one more item than the letter states »*) = test de fiabilité / piège du compte pour vérifier que le messager n'a pas fouillé.
 - **Groupe pourpre menaçant — détourné par la caisse** — Avant l'embarquement, **homme en pourpre s'approche**, **se ravise en voyant la caisse**. **La caisse leur sert de bouclier indirect.**
 - **Trajet diligence — rencontres canon Fellow Travellers** :
   - **Délégation menée par le saint patron de Sigmar** (Yorri XV vraisemblablement) en plein galop **revenant de Middenheim** → tension religieuse Altdorf-Middenheim canonique.
@@ -458,7 +458,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 | **[[Jean Rousseau]]** | DotR ch.6 | [MORT S28] | Médecin bretonnien, amant de Margritte. Mort dans l'explosion (probable). |
 | **Ogre bourreau** | DotR ch.7 | [STATUT INCERTAIN] | Passif. Possible survivant. À nommer si revient. |
 | **Cuisinier halfelin Wittgenstein** | DotR ch.7 | [MORT S28] | Folie + plats atypiques. Mort dans l'explosion. |
-| **[[Gotthard Wallenstein]]** | DotR ch.7 l.1050 (fils canon de Ludwig+Ingrid, alias Wallenstein) | [VIVANT, NON RENCONTRÉ S28] | Frère de Margritte+Kurt, caché à Middenheim. Seul survivant Wittgenstein. Réapparaît Arc 5. |
+| **[[Gotthard Wallenstein]]** | DotR ch.7 l.1050 (fils de Ludwig+Ingrid, alias Wallenstein) | [VIVANT, NON RENCONTRÉ S28] | Frère de Margritte+Kurt, caché à Middenheim. Seul survivant Wittgenstein. Réapparaît Arc 5. |
 | **[[Capitaine Scarlash]]** | DotR ch.8 | [VIVANT, NON RENCONTRÉ] | Destinataire de la caisse breloques. Réseau collectionneurs Middenheim. À activer S30. |
 | **Yorri XV (vu de loin)** | EiR | [VIVANT, MALADE] | Grand Theogonist Sigmar. Délégation revenant de Middenheim S29. |
 
@@ -470,7 +470,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 - **`FIL-25`** Animosity « Kastor and Friends » escaladée Arc 4 (mèche S23, ultimatum S25, lettre + main pourpre S26, attentat Kemperbad) → rituel à distance Main Pourpre orchestré par la **cellule Altdorf** (Yann Zuntermein / Filianore). La cellule Middenheim de Wasmeier opère en parallèle Arc 5 mais via le quiproquo Kastor, pas via la mèche.
 - **`FIL-44`** Ossements d'enfant chez Filianore → enfant-démon Bögenhafen = **Gideon** (cf. FIL-13). **Filianore protège un fragment Tzeentch**. **Préfigure S33 et S38**.
 - **`FIL-45`** Mark guéri mystérieusement → grâce d'Ulric, préfigure **pèlerinage S42** (œil bleu + peau guérie consolidés).
-- **`FIL-46`** Pierre céleste perdue aux skavens → fil critique Arc 5-6 (Maliss / Karak Skygg / canon attaquer Morrslieb).
+- **`FIL-46`** Pierre céleste perdue aux skavens → fil critique Arc 5-6 (Maliss / Karak Skygg / attaquer Morrslieb).
 - **`FIL-19`** Karl-Franz a un double (Hermann von Feilbach) → **édit pro-mutants S22** = première manifestation visible de la manipulation impériale (canon Arc 4 *Horned Rat* explicitera).
 
 ### Forts
@@ -541,7 +541,7 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
 - **Préfigurations Arc 5** :
   - **Carnaval Middenheim** = cœur de PBT.
   - **Capitaine Ulrich Schutzmann** + **Graf Boris Todbringer** = autorités locales à activer S30.
-  - **Cellule Main Pourpre Middenheim** = **Wasmeier (Magister Magistri canon PBT p.123) + Kalzbad (Magister Impedimentae) + Jarmund (Magister Novitae) + Bhar (Grand Vizier Ordo Terribilis canon Middenheim - City of the Loup Blanc)** — tous canon.
+  - **Cellule Main Pourpre Middenheim** = **Wasmeier (Magister Magistri canon PBT p.123) + Kalzbad (Magister Impedimentae) + Jarmund (Magister Novitae) + Bhar (Grand Vizier Ordo Terribilis canon Middenheim - City of the Loup Blanc)** — tous.
   - **Démon métamorphe sous Joachim Hoflich** = **Gideon** dormant, prêt à frapper S38.
 - **Préfigurations Arc 6** :
   - **Pierre céleste prise par skavens** S28 → **Maliss / Karak Skygg** Arc 6 (canon attaquer Morrslieb).
@@ -549,5 +549,5 @@ DotR canon démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (B�
   - **Édit pro-mutants S22** = manipulation Karl-Franz, signalisée tôt pour récompenser l'attention des joueurs au climax S62.
   - **Otto Boormann** = allié climax Volkshalle EiR.
   - **Délégation Sigmar revenant de Middenheim S29** = tension structurelle pré-Shining Rock S58.
-- **Pertes** : aucune perte PJ. Cuisinière Renate libérée. Bateau barge sans nom canon détruit (peut être remplacé).
+- **Pertes** : aucune perte PJ. Cuisinière Renate libérée. Bateau barge sans nom détruit (peut être remplacé).
 - **Acquis** : alliés (Boormann, Belladonna, Corrobreth, nains Grissenwald, esprits Barren Hills), territoires d'influence (autel Grissenwald), connaissance Wittgenstein (lignée éteinte sauf Wallenstein).

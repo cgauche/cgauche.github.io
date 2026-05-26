@@ -11,10 +11,10 @@ Pas de page wiki dédiée à la famille — voir [Castle Wittgenstein — Lexica
 - **Statut** : [LIGNÉE PRINCIPALE ÉTEINTE S28]. **Cousin caché survivant** : Gotthard Wallenstein (Middenheim).
 - **Tags** : `#Wittgenstein` `#Reikland` `#Reik` `#Malpierre` `#Morrslieb` `#Dagmar` `#Margritte` `#Ludwig` `#Ingrid` `#Kurt` `#Wallenstein` `#Frankenstein` `#FratrieMutée` `#FIL48`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.5-7 : `Source/Enemy Within Campaign Volume 2 Death on the Reik/08-10`
 
-## Histoire (canon DotR)
+## Histoire (DotR)
 
 ### Origine (~2230 IC)
 - **[[Dagmar von Wittgenstein]]** observe **une pierre tombée de Morrslieb** depuis son **observatoire sur l'île au phare** (sur le Reik).
@@ -40,7 +40,7 @@ Pas de page wiki dédiée à la famille — voir [Castle Wittgenstein — Lexica
 - **Skavens emportent la pierre céleste** (FIL-46).
 
 ### Survivant caché : Gotthard Wallenstein
-- **[[Gotthard Wallenstein]]** : **fils canon de Ludwig et Ingrid** (DotR ch.7 l.683 : *« his son Gotthard von Wittgenstein »*), **frère de Margritte et Kurt**. **Caché à Middenheim** depuis longtemps sous l'alias Wallenstein. **Probablement non-muté** ou très peu (génétiquement isolé du château).
+- **[[Gotthard Wallenstein]]** : **fils de Ludwig et Ingrid** (DotR ch.7 l.683 : *« his son Gotthard von Wittgenstein »*), **frère de Margritte et Kurt**. **Caché à Middenheim** depuis longtemps sous l'alias Wallenstein. **Probablement non-muté** ou très peu (génétiquement isolé du château).
 - **Seul héritier légitime survivant** post-S28.
 - **Apparaît Arc 5** (canon — cf. `01 - Synthèses par arc.md` arc 5 où Wallenstein est torturé S45, sceptre de Jade, agression d'Elvira).
 - **Statut incertain post-Arc 5**.
@@ -54,11 +54,11 @@ Pas de page wiki dédiée à la famille — voir [Castle Wittgenstein — Lexica
 | **[[Ludwig von Wittgenstein]]** | [MORT S28] | Génération actuelle | Cafard géant pianiste. Maître de maison nominal. Civilisé tragique. |
 | **[[Ingrid von Wittgenstein]]** | [MORTE S28] | Génération actuelle | Matrone autoritaire. Probable cerveau politique de la fratrie. |
 | **[[Kurt von Wittgenstein]]** | [MORT S28] | Génération actuelle | Frère brute, faible d'esprit, sadique. Pièce de torture. |
-| **[[Gotthard Wallenstein]]** | [VIVANT, CACHÉ Middenheim] | Génération actuelle (fils canon de Ludwig+Ingrid) | Seul héritier légitime survivant. Frère de Margritte+Kurt. Cultiste du Sceptre de Jade (canon arc 5). |
+| **[[Gotthard Wallenstein]]** | [VIVANT, CACHÉ Middenheim] | Génération actuelle (fils de Ludwig+Ingrid) | Seul héritier légitime survivant. Frère de Margritte+Kurt. Cultiste du Sceptre de Jade (canon arc 5). |
 
 ## Doctrine / méthodes
 - **Pas un culte organisé centralisé** — c'est une **lignée corrompue** par exposition longue à la malpierre + plusieurs cultes infiltrés au château.
-- **Temple de Slaanesh actif dans la cour intérieure** (canon DotR ch.7 l.703-728 — **Daemonette** invocable, autels, paraphernalia rituélique). **Non confronté table** mais existe canon. La fratrie y est probablement initiée à des degrés divers.
+- **Temple de Slaanesh actif dans la cour intérieure** (canon DotR ch.7 l.703-728 — **Daemonette** invocable, autels, paraphernalia rituélique). **Non confronté table** mais existe. La fratrie y est probablement initiée à des degrés divers.
 - **Mutations** = effets de la malpierre + corruption Slaanesh ritualisée (la combinaison explique la décadence sensorielle observée).
 - **Comportement individuel divergent** : Margritte = science folle (Necromancy), Ludwig = retrait artistique (mutation totale), Ingrid = autorité, Kurt = pulsions. Apparence de décadence sans plan unifié, mais le temple Slaanesh fournit un socle théologique commun ignoré des PJ.
 - **Gotthard Wallenstein** (fils canon) = **cultiste du Sceptre de Jade** (Slaanesh) à Middenheim → cohérent avec une orientation Slaanesh familiale plus large.
@@ -84,11 +84,11 @@ Pas de page wiki dédiée à la famille — voir [Castle Wittgenstein — Lexica
 - **Reliques sauvegardées** : Arc 5+ possibilité de **trésors Wittgenstein** dans les ruines (livres Margritte, partitions Ludwig, journaux Ingrid). Tous **chargés de Corruption**.
 
 ## Connexions latentes
-- **[[Main Pourpre]]** : aucune connexion canon directe (la corruption Wittgenstein = chaotique générique, pas Tzeentch organisée). **Mais** les skavens qui ont pris la pierre peuvent **vendre** ou échanger la pierre à un cult pourpre — convergence indirecte.
-- **[[Red Crown]]** : idem, pas de connexion canon directe.
+- **[[Main Pourpre]]** : aucune connexion directe (la corruption Wittgenstein = chaotique générique, pas Tzeentch organisée). **Mais** les skavens qui ont pris la pierre peuvent **vendre** ou échanger la pierre à un cult pourpre — convergence indirecte.
+- **[[Red Crown]]** : idem, pas de connexion directe.
 - **Skavens** : convoitent et obtiennent la malpierre = **clan minier identifiable** (peut-être **Pestilens**) — FIL-46.
 - **Cult de Morrslieb** (générique) : aucune connexion organisée canon, mais la pierre céleste est **emblème de Morrslieb** = artefact convoité par tous les chaotiques.
-- **Gotthard sous l'alias Wallenstein** : fils canon de Ludwig+Ingrid (DotR ch.7 l.1050), frère de Margritte+Kurt. **A quitté le château jeune** sous l'alias Wallenstein → génétiquement isolé du château pendant longtemps, probable mutation discrète seulement. Cf. canon Arc 5 (Sceptre de Jade).
+- **Gotthard sous l'alias Wallenstein** : fils de Ludwig+Ingrid (DotR ch.7 l.1050), frère de Margritte+Kurt. **A quitté le château jeune** sous l'alias Wallenstein → génétiquement isolé du château pendant longtemps, probable mutation discrète seulement. Cf. canon Arc 5 (Sceptre de Jade).
 
 ## Hooks de retour
 - **Gotthard Wallenstein arrive à Middenheim Arc 5** : revendique la propriété, tente de récupérer des reliques, croisé par les PJ.

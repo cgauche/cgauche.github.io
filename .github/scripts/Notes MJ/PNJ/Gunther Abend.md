@@ -8,19 +8,19 @@
 - **Statut** : [VIVANT, ALLIÉ acquis — gratitude particulière envers Elvira]
 - **Tags** : `#GuntherAbend` `#MaisonDuPont` `#BridgeHouseInn` `#Ubersreik` `#ExCocher` `#Altdorfer` `#AllyElvira` `#PosteUbersreik` `#QuatreSaisons` `#CannonBallExpress`
 
-## Source canon
+## Source
 - *A Guide to Ubersreik* (Starter Set) : `Source/Starter Set/A Guide to Ubersreik/04 - Ubersreik- A Visitor's Guide.md` lignes 50-62 (Bridge House Inn + Gunther Abend, p.15).
 - *Ubersreik Adventures I — The Guilty Party* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md` lignes 3095-3269 (rôle central dans le scénario passerelle Ubersreik→Altdorf).
 - *Ubersreik Adventures II — Double Trouble* : `Source/Ubersreik Adventures II/05 - Double Trouble.md` (mention Bridge House Inn).
 
-## Description canon
+## Description
 
 > "**Gunther Abend, a retired coachman, manages the inn.** Being aware of the stresses of the job, he works hard to provide a hostel that fulfils their needs. He is supported by **Hanna, his wife, and their three children**, as well as nine others including cooks, servers, chambermaids, and a postmaster. **An Altdorfer by birth, Abend has been very welcoming towards the visiting Imperial troops, upsetting his few local customers.**" (A Guide to Ubersreik p.15)
 
 > "A man appears at the door of the Bridge House Inn. He is **tall and hale, and dressed in a white apron that covers his hefty gut**. He nods towards the coach with a **beaming grin** as it sets on its way. 'A good journey to you!', he calls out softly." (UA1 *Guilty Party* p.111)
 
-## Statbloc canon
-**Aucun statbloc canon publié** pour Gunther Abend dans les sources 4e (A Guide to Ubersreik et The Guilty Party le décrivent narrativement sans profil). **À improviser table si combat survient** — base raisonnable : **Human Innkeeper Brass 4** (M 4 / WS 30 / BS 25 / S 35 / T 40 / I 30 / Ag 25 / Dex 30 / Int 35 / WP 35 / Fel 50 / W 13), Skills : Charm 60, Cool 45, Drive 50 (ex-cocher), Gossip 65, Haggle 55, Lore (Reikland) 50, Trade (Innkeeper) 60. Non-combattant.
+## Statbloc
+**Aucun statbloc publié** pour Gunther Abend dans les sources 4e (A Guide to Ubersreik et The Guilty Party le décrivent narrativement sans profil). **À improviser table si combat survient** — base raisonnable : **Human Innkeeper Brass 4** (M 4 / WS 30 / BS 25 / S 35 / T 40 / I 30 / Ag 25 / Dex 30 / Int 35 / WP 35 / Fel 50 / W 13), Skills : Charm 60, Cool 45, Drive 50 (ex-cocher), Gossip 65, Haggle 55, Lore (Reikland) 50, Trade (Innkeeper) 60. Non-combattant.
 
 ## Apparitions par session
 - **[S14 — installation Ubersreik]** — **Embauche Elvira** comme serveuse + appui écurie. Acceptation de l'arrivée du groupe à Ubersreik. Elvira intègre l'auberge, se construit sa cover sociale pendant tout l'arc.
@@ -88,10 +88,10 @@
 ## Fils ouverts
 
 - **FIL-38** — *Cordelia Wesselingh + Gunther Abend (alliés acquis)* — allié acquis par gratitude envers Elvira (S14-S21) ; point de rentrée Ubersreik et accès aux trois compagnies de coches + bureau de poste.
-- **FIL-41** — *Réseau d'agents secrets Ubersreik* — son postmaster Gustav Schtupp est espion canon explicite (patron incertain : Nacht / Bruner / Main Pourpre) ; tout courrier transitant par la Maison du Pont a été lu.
+- **FIL-41** — *Réseau d'agents secrets Ubersreik* — son postmaster Gustav Schtupp est espion explicite (patron incertain : Nacht / Bruner / Main Pourpre) ; tout courrier transitant par la Maison du Pont a été lu.
 
 ## Liens
-- **Arcs** : [[Arc 3 - Ubersreik]] (S14-S21, employeur d'Elvira tout l'arc), passerelle [[Arc 4 - Mort sur le Reik]] (Bridge House = point de départ canon vers Altdorf)
-- **PNJ liés** : **Elvira** (employée pendant tout l'arc, gratitude particulière), **Hanna Abend** (femme), **leurs 3 enfants**, **[[Gustav Schtupp]]** (postmaster espion canon), [[Tylo Vielfrass]] (résident mort S16), [[Andreas Wagenkneicht]] (agent contre l'auberge S21), [[Elisha Hochs]] (commanditaire canon des sabotages), [[Delberz Trotte]] (cocher Quatre Saisons affilié), [[Heinrich Bruner]] (lien possible via Schtupp), [[Emmanuelle Nacht]] (lien possible via Schtupp et/ou Filianore)
+- **Arcs** : [[Arc 3 - Ubersreik]] (S14-S21, employeur d'Elvira tout l'arc), passerelle [[Arc 4 - Mort sur le Reik]] (Bridge House = point de départ vers Altdorf)
+- **PNJ liés** : **Elvira** (employée pendant tout l'arc, gratitude particulière), **Hanna Abend** (femme), **leurs 3 enfants**, **[[Gustav Schtupp]]** (postmaster espion canon), [[Tylo Vielfrass]] (résident mort S16), [[Andreas Wagenkneicht]] (agent contre l'auberge S21), [[Elisha Hochs]] (commanditaire des sabotages), [[Delberz Trotte]] (cocher Quatre Saisons affilié), [[Heinrich Bruner]] (lien possible via Schtupp), [[Emmanuelle Nacht]] (lien possible via Schtupp et/ou Filianore)
 - **Lieux** : [[Ubersreik]] (Maison du Pont = QG informel des PJ tout l'arc 3), [[Maison du Pont]] (fiche dédiée si créée), bureau de poste d'Ubersreik (sous gestion Gunther), [[Altdorf]] (origine + relais probables)
 - **Factions** : **alliée** [[Régence impériale d'Ubersreik]] (sympathie aldorfer ouverte), **cible** Loyalistes Jundfreud (émeutiers anti-occupation), **cible** [[Four Seasons|Quatre Saisons]] (Hochs veut absorber son auberge), **réseau** trois compagnies de coches (Cannon Ball Express, Four Seasons, Imperial Expressways)

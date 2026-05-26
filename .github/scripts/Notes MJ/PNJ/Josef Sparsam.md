@@ -7,7 +7,7 @@
 
 Fin de la quarantaine ou début de la cinquantaine, grand, mince, yeux brun clair presque ambrés, cheveux gris qui se retirent des tempes en pointe de veuve prononcée, marche avec une légère claudication. Tenue discrète en robes bleu profond ou brun foncé, modeste tête de loup pour seul badge d'office `PBT Appendix l.27`. Homme réticent et taciturne, introverti et anxieux, poli mais dépourvu d'humour ou de gaieté. Il appréhende les événements sociaux qu'il doit parfois honorer, mais il est honnête, droit et loyal envers ses rares amis. Collectionneur enthousiaste d'art antique, de poterie et de pièces — sa seule passion en dehors du travail `PBT Appendix l.27`. Sous influence de Ranald's Delight (2-5 doses par jour), il devient bruyant, vulgaire et inopportun — un test **Challenging (+0)** Intelligence, Lore (Medicine) ou Trade (Apothecary/Poisoner) révèle l'intoxication `PBT Appendix l.27`.
 
-## Phrases canon
+## Phrases
 
 - *« I think the Temple Tax is a good idea. Those priests have been stacking up gold for years. »* — registre publique pro-taxes, soutenu malgré lui sous chantage `PBT Appendix l.150`.
 - *« About 30, 5 and a half feet tall, with long blonde hair. I gave her a pass to the Inner Palace. »* — description de Frau Kenner quand il finit par se confier aux PJ `PBT Appendix l.74`.
@@ -50,9 +50,9 @@ Fin de la quarantaine ou début de la cinquantaine, grand, mince, yeux brun clai
 - **Confidence brisée** `PBT Appendix l.72` : si on l'interroge avec rudesse sur l'addiction, il fait jeter les Characters dehors. Avec une oreille amicale et compatissante, il finit par s'effondrer en sanglots : il avoue l'addiction, sa culpabilité d'avoir soutenu les taxes par faiblesse, et implore d'être aidé.
 - **Description de Frau Kenner** `PBT Appendix l.74` : ~30 ans, environ 1m67, longs cheveux blonds, visites hebdomadaires, prochaine prévue le dernier jour du Carnaval (Festag). A reçu un pass d'accès au rez-de-chaussée du Palace.
 - **Filature Frau Kenner via Sparsam** `PBT ch.7 l.95` : la voie principale pour remonter à la planque — surveiller l'Inner Palace le soir Festag à partir de 21h, suivre Klaglich depuis le Palace jusqu'à l'Altquartier (arrivée 23h30).
-- **Modificateurs sociaux** : voir les Réactions canon dans le statbloc — Académique, Femmes, Dwarfs.
+- **Modificateurs sociaux** : voir les Réactions dans le statbloc — Académique, Femmes, Dwarfs.
 
-## Apparitions canon Arc 5
+## Apparitions Arc 5
 
 - **Pré-Arc 5 (–10 mois)** : Wasmeier le surprend à inhaler de la poudre blanche, l'introduit au produit comme « simple tonique », l'amène à Frau Kenner pour l'approvisionnement régulier `PBT Appendix l.70`.
 - **Pré-Arc 5 (–2 mois)** : devient inquiet de son addiction, voudrait revenir sur son soutien aux taxes ; Frau Kenner lui rappelle que son approvisionnement dépend de son soutien continu `PBT Appendix l.70`.
@@ -64,9 +64,9 @@ Fin de la quarantaine ou début de la cinquantaine, grand, mince, yeux brun clai
 - **S35-S36** — Phineas et Yuridika cherchent un fournisseur alternatif via Bruno Kohl à la Fosse ; Sparsam sympathique à Phineas à l'exposition d'art héraldique de S36, rassuré sur l'approvisionnement de secours.
 - **S37** — Refuse audience à Pathsokar qui sollicite pour Emmanuelle, contraire à ses habitudes — crise d'abstinence ou abandon temporaire par Brunhilde.
 - **S38** — Climax Middenpalaz : présent, probablement convoqué par Boris Todbringer post-trahison de la cellule Wasmeier.
-- **S39** — Présent à l'audience finale canon.
+- **S39** — Présent à l'audience finale.
 
-## Apparitions canon post-Arc 5
+## Apparitions post-Arc 5
 
 - **S40+** `PBT ch.7 l.584` : retient sa charge de Chancelier après une sévère réprimande, avec ordre de suivre un traitement pour son addiction et de collaborer de manière constructive et respectueuse sur les projets de Janna Eberhauer. La collaboration forcée avec celle qui l'a menacé de le transformer en rat est tendue mais imposée.
 - **S45+** — Plan ouvert : Sparsam reste un allié politique potentiel à Middenheim, accès aux finances de la cité et clientèle pour les statuettes que Phineas continue de vendre.

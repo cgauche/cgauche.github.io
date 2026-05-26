@@ -8,7 +8,7 @@
   - **Phase Baronnie d'Holzbek (S50-S52)** : enquêtes Gladbeich (griffon) → Oberholzbek (rat géant muté) → Unterfraus (village massacré — yeux énucléés).
   - **Phase Route Est + Le Piquet (S53-S54)** : embuscade route → retour Middenheim → repartir avec **[[Pesold Imlitz]]** → Hovelhof → Hohenfahrt → ruines Mittler → Place de l'Espoir (bagne Kärzburdger) → **Le Piquet** (poste de surveillance face au Fort d'Airain).
   - **Phase Karak Skygg (S55)** : ascension Monts du Milieu, **Jarrick Valgeir ermite**, troll des Chauve-Souris de la Mort, **forteresse naine Karak Skygg + Moonbreaker Cannon**. Évacuation par dirigeable **Heinrich + Vieran Thugenheim**.
-- **Source canon principale** : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - Enemy Within Campaign Volume 4 The Horned Rat.md` (fichier monolithique unique — artefact de conversion ; 5674 lignes ; non chapitré). Mapping interne canon par sections :
+- **Source principale** : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - Enemy Within Campaign Volume 4 The Horned Rat.md` (fichier monolithique unique — artefact de conversion ; 5674 lignes ; non chapitré). Mapping interne par sections :
   - **Introduction + Empire on the Brink of Turmoil + Running the Adventure** (l.169-595)
   - **Villainous Factions** (l.645-723) : Main Pourpre reste de Middenheim + Maliss Manrack + Clan Mange (= Clan Galeux table) + Snikkit's Warband + Yellow Fang
   - **Undercity Encounters** (l.726-1043) : Sewers + Raina Müs + hazards + skaven reinforcements
@@ -57,14 +57,14 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 | S51 | **~Sonnstill 2512 IC** | Oberholzbek (mine + auberge Poteau de Mim) | Rat géant muté tué. |
 | S52 | **~Sonnstill 2512 IC** | Forêts + Unterfraus | Village massacré, malpierre + barils Kärzburdger. |
 | S53 | **~Sonnstill 2512 IC** | Retour Middenheim → repart porte Est + Hovelhof + Hohenfahrt + ruines Mittler + Place de l'Espoir | Embuscade skavens Maliss, mission ratée. Reprise Pesold. |
-| S54 | **~Sommerzeit-Vorgeheim 2512 IC** | Le Piquet | Brantner tué, canon nain Karak Skygg confirmé. |
+| S54 | **~Sommerzeit-Vorgeheim 2512 IC** | Le Piquet | Brantner tué, nain Karak Skygg confirmé. |
 | S55 | **~Vorgeheim 2512 IC** | Monts du Milieu + Jarrick Valgeir ermite + Chauve-Souris + Karak Skygg | Forteresse détruite, Janna sauvée, retour dirigeable. |
 
 > Sur ~3-4 mois in-game pour 16 sessions. Le rythme s'accélère post-S48 (audience Graf) où la mission devient officielle.
 
 ---
 
-## Tableau session ↔ chapitre canon
+## Tableau session ↔ chapitre
 
 | Session | Chapitre canon HR | Lieu principal | Cast PJ |
 |---|---|---|---|
@@ -77,9 +77,9 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 | S46 — Des vols mystérieux (Heaume + Bors) | HR *Mysterious Thefts* (canon l.2611-2843) | Middenpalaz + Collegium + temple Ulric + Kopernik + bourgeois + Royal College Music + place Miséricorde + taverne Ranald + Freiburg sous-sol + égouts | tous |
 | S47 — Assassinats (assassin skaven brumeux) | HR *Assassinations* (canon l.2844-2965) | Caserne + oratoire de Morr + Kommission Santé + Hospice Manœuvriers + Suttor (maison Yiva) + Freiburg (appartement Hasche) | tous |
 | S48 — Partisans de la controverse (audience Graf) | HR *Proponents of Controversy* (canon l.2966-3206) | Middenpalaz salle du trône | tous |
-| S49 — La Faim noire (Lachmann + fête Rhya) | HR *The Black Hunger* (canon l.3412-3608) + *Encounters* (Chevalier Éternel intervention canon l.3207-3411) + ouvertures Statue Rhya + Maîtres Mages | Bateau-restaurant + Altmarkt + Tour de magie + parc Rhya | tous (Dietrich part en fin de session). **Cycle de 2 mois compressé**. |
+| S49 — La Faim noire (Lachmann + fête Rhya) | HR *The Black Hunger* (canon l.3412-3608) + *Encounters* (Chevalier Éternel intervention l.3207-3411) + ouvertures Statue Rhya + Maîtres Mages | Bateau-restaurant + Altmarkt + Tour de magie + parc Rhya | tous (Dietrich part en fin de session). **Cycle de 2 mois compressé**. |
 | S50 — Le griffon blessé (Gladbeich) | HR *Griffon Down* (canon l.3807-3966) | Ostwald (Maison des Régents) + route Sud + Gladbeich + tanière | tous + **Albert Reichau** sergent escorte |
-| S51 — L'horreur dans les ténèbres (Oberholzbek) | HR — pas de chapitre canon direct ; **homebrew** annexé à *Black Hunger* (rat géant muté = parallèle skavens cannibales) | Oberholzbek (mine + auberge Poteau de Mim) | tous + Albert |
+| S51 — L'horreur dans les ténèbres (Oberholzbek) | HR — pas de chapitre direct ; **homebrew** annexé à *Black Hunger* (rat géant muté = parallèle skavens cannibales) | Oberholzbek (mine + auberge Poteau de Mim) | tous + Albert |
 | S52 — Le village perdu (Unterfraus) | HR *The Stolen Village* (canon l.3609-3806) | Forêts + Unterfraus + temple Ulric souillé + grange yeux énucléés + mine | tous + Albert + **Ernika von Holzbek** (cousine baron) |
 | S53 — La route vers l'Est | HR *The Road East* (canon l.3967-4198) | Retour Middenheim → porte Est → Hovelhof → Hohenfahrt → ruines Mittler → Place de l'Espoir (bagne Kärzburdger) | tous + Albert + **Pesold Imlitz** (héraut Kärzburdger envoyé par Dietrich) |
 | S54 — Le Piquet | HR *The Picket* (canon l.4199-4700) | Le Piquet + reconnaissance Pass + Fort d'Airain au loin | tous + Pesold + Albert |
@@ -91,7 +91,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Le lendemain ou les jours qui suivent S39 (chute de Wasmeier). Schutzmann convoque les PJ dans son bureau encombré de paperasse pour faire leur rapport. Promesse de relance d'une grande campagne anti-Main Pourpre — mois de repos d'ici là.
 
-**Plots canon présents** (HR *Schutzmann's New Komission* l.1224-1290) :
+**Plots présents** (HR *Schutzmann's New Komission* l.1224-1290) :
 - **Recrutement formel des PJ par Schutzmann** — Watch Commander confirme l'offre de **The Offer** de PBT ch.7 p.107. **1 GC/semaine + logement + équipement non-magique** + ressources de la Watch. **Discrétion exigée**.
 - **Mois de repos canon** : « *takes time to process documents found in Wasmeier's house, raids in search of any remaining cultists intensify* » (canon PBT ch.7 *Conclusion* p.105). Les PJ vaquent à leurs activités personnelles.
 
@@ -102,7 +102,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Pathsokar** : nouveau travail de **champion du Graf** — services judiciaires + promotion pour Boris devant les enfants. **Attaqué par truands lors d'un événement enfants → certains enfants disparaissent** (préfiguration L'Homme + Bleydane Arc 6).
 - **Anselm + Yuridika** : passent **mages assermentés** (intermediate degree de la Grand Guild). Yuridika contracte une **dette auprès d'un fournisseur (Bruno Caul)** → travaille en parallèle. **MJ-only** : Yuridika achète aussi des composants pour fabriquer du Délice de Ranald (expérimentation cachée).
 - **Elvira** : **culte de Rhya à Middenheim**. Voyage à Altdorf voir la **Gardienne Verte** (sa marraine). Reçoit des **graines bénies** + commande d'organiser **fête du solstice d'été dans 2 mois**. Retour Middenheim → prêche bas-quartiers → groupe de fidèles → **attaque la maison close enfants esclaves de Bleydane** (succès) → **ennemie déclarée des petits rois**.
-- **Conséquences post-PBT canon ch.7 *Consequences of Carnival Week* p.105** (déjà rappelées en Arc 5 mais activées Arc 6) :
+- **Conséquences post-PBT ch.7 *Consequences of Carnival Week* p.105** (déjà rappelées en Arc 5 mais activées Arc 6) :
   - **[[Jarrick Valgeir]] démissionne** Ar-Ulric → part au Nord (deviendra ermite des Monts du Milieu, à retrouver S55).
   - **[[Emil Valgeir]]** prend la mantle Ar-Ulric. **Plus radical Ulrican**. Vérole sévit en ville (épidémie locale).
   - **[[Reiner Ehrlich]]** Law Lord retire.
@@ -118,7 +118,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 ### MJ-only S40
 - **Yellow Fang / Croc Jaune actif depuis longtemps** : canon HR l.703 — *« the Yellow Fang has been operating in Middenheim for years, with cells in the Rat Catchers' Guild, the Sewer Jacks, and the Collegium Theologica »*. **Schutzmann ne le sait pas encore** (révélé S44).
-- **Maliss Manrack** (Master Warlock-Engineer clan Skryre) **prépare déjà Karak Skygg** : canon HR l.668. **Cible : Morrslieb** (la lune chaotique) via canon nain modifié. Plan : « *fire warpstone meteorite at Morrslieb, breaking it open, raining warpstone on the Empire* » = canon strict.
+- **Maliss Manrack** (Master Warlock-Engineer clan Skryre) **prépare déjà Karak Skygg** : canon HR l.668. **Cible : Morrslieb** (la lune chaotique) via nain modifié. Plan : « *fire warpstone meteorite at Morrslieb, breaking it open, raining warpstone on the Empire* » = strict.
 - **Filianore-Croix de Lilas** : continue à œuvrer en sous-main depuis les bas-quartiers Middenheim. Soigne Nassia pour fidéliser Dietrich + maintient lien Pathsokar.
 - **Détaillage canon Schutzmann post-PBT** : *« He has a good feeling about the Characters... is willing to put certain material resources of the city watch at their disposal »* (canon PBT ch.7 *The Offer*). **Hook : Schutzmann veut surtout démanteler la MP**. Les Skavens, il **n'y croit pas** Arc 6 jusqu'à S47-S48.
 - **L'Homme** (petit roi Ostwald, canon HR *The Man*) + **Bleydane** (petit roi Altquartier, canon HR *Bleyden*) — **ennemis prioritaires homebrew table** : ennemi prioritaire du groupe en raison de leur dette (S37 raid planque Wallenstein = perte d'argent pour L'Homme) et ennemi d'Elvira (Bleydane = enfants esclaves).
@@ -131,13 +131,13 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Quelques semaines post-S40. Réunion aux Templar's Arms (Phineas, Dietrich, Elvira, Anselm, Pathsokar, Yuridika). Mark toujours en pèlerinage.
 
-**Plots canon présents** (HR *Ordo Impedimentae* l.1287-1612) :
+**Plots présents** (HR *Ordo Impedimentae* l.1287-1612) :
 - **Schutzmann présente l'enquête sur Erich Kalzbad** [canon l.1287] — clerc du Chancellor + Magister Impedimentae MP. **Détournements de la solde de la garde** récents.
 - **Lina Gerdt secrétaire du Chancelier** [canon l.1355] — Phineas allié de Sparsam → introduction. Lina a analysé les comptes : irrégularités dans la solde de la garde. **Kalzbad a vidé son bureau précipitamment 2 jours plus tôt**.
 - **Demeure de Kalzbad — Jonas Kalzbad fils** [canon l.1367-1404] — fils bourgeois hautain, ennuyé par son père. Donne adresse compagnie de diligence + permet la fouille.
 - **Fouille du bureau de Kalzbad** [canon l.1370+] — trouvent : **lettre codée** (Wasmeier's Cipher) + **commande chez Stealfield Emperium** (canon l.1480 *Stiefel's Emporium*, matériel magique) + **bon de commande masques de peste chez Piotr Pavel Englebrecht** (canon l.1405).
 - **Compagnie de diligence** [canon *Castle Rock Coaches* l.1489] — gérant nie. Elvira fouille véhicule — Kalzbad pas là. **Soit déjà parti, soit caché en ville**.
-- **Englebrecht Offices en flammes** [canon l.1405-1432] — bâtiment incendié. Homme délirant : bâtiment rempli d'or, hommes armés écussons **bouclier rouge** ont tout embarqué dans chaise à porteur + mis le feu. **Flammes dansantes** (= sort *Animated Flames* canon l.1550, signature Kalzbad).
+- **Englebrecht Offices en flammes** [canon l.1405-1432] — bâtiment incendié. Homme délirant : bâtiment rempli d'or, hommes armés écussons **bouclier rouge** ont tout embarqué dans chaise à porteur + mis le feu. **Flammes dansantes** (= sort *Animated Flames* l.1550, signature Kalzbad).
 - **Recherche bouclier rouge dans les tavernes** [canon homebrew table — équivalent canon = *Red Shield Company* l.1564] — taverne **L'Épée et le Fléau** (canon *The Sword and Flail* l.1441). **Sergent Urif Stool** y créchait (canon l.1467 *Sergeant Stoll*, trésorier garde). **Urif Stool** sous chantage Kalzbad — détournait l'argent vers Englebrecht. **Elvira convainc Stool de se rendre**.
 - **Boutique Stealfield Emperium / Stiefel's Emporium** [canon l.1480] — Anselm connait. Marchand choqué : Kalzbad n'a pas de licence magie. Donne adresse de livraison du colis pendant.
 - **Embuscade Red Shield Company** [canon l.1564] — sortie boutique, bandits Red Shield. **Phineas assomme tous**. Pathsokar les arrête à la garde, ne suit pas le reste.
@@ -146,7 +146,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Plots homebrew S41** :
 - **Dietrich attaqué par sœur** : convocation mystérieuse dans bas-quartier. **Hommes de Bleydane**. L'un l'appelle « **le Brisé** » (homebrew nickname pour Dietrich Sprintboch). Tireur sur le toit = **sa propre sœur** (homebrew backstory Dietrich). Phineas l'abat à la fronde — elle meurt. **Dietrich furieux, frappe les murs, abandonné par le groupe**.
-- **Guerre aux chats — Kommission de la Santé** [homebrew lié au canon HR *Purrsecution* l.1045-1172 mais déplacé S41-S45] — Linwourm/Lindwurm canon promeut traque des chats (cause de la vérole, fake science). Elvira sauve un chat (« *c'est mon chat maintenant !* »). **Chat capitaine Schutzmann (Mirtle) disparu** — interprété par Elvira comme victime de l'inquisition. **MJ-only** : Mirtle a été enlevé par un **akoustikk ratty** (canon HR *Akoustikk Ratty* l.1124 — rat-espion mécanique skaven).
+- **Guerre aux chats — Kommission de la Santé** [homebrew lié au canon HR *Purrsecution* l.1045-1172 mais déplacé S41-S45] — Linwourm/Lindwurm promeut traque des chats (cause de la vérole, fake science). Elvira sauve un chat (« *c'est mon chat maintenant !* »). **Chat capitaine Schutzmann (Mirtle) disparu** — interprété par Elvira comme victime de l'inquisition. **MJ-only** : Mirtle a été enlevé par un **akoustikk ratty** (canon HR *Akoustikk Ratty* l.1124 — rat-espion mécanique skaven).
 
 ### Ce que les PJ savent à la fin de S41
 - **Kalzbad mort** (preuves limitées).
@@ -157,7 +157,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - Mirtle disparu (chat Schutzmann).
 
 ### MJ-only S41
-- **Animated Flames** : sort canon Lore of Fire/Tzeentch (HR l.1555). **Signature Kalzbad** = Tzeentch direct (pas Dhar abstrait). Cohérent avec Magister Impedimentae MP canon.
+- **Animated Flames** : sort canon Lore of Fire/Tzeentch (HR l.1555). **Signature Kalzbad** = Tzeentch direct (pas Dhar abstrait). Cohérent avec Magister Impedimentae MP.
 - **Sœur de Dietrich** : homebrew backstory. Connection familiale Dietrich-Bleydane (à étoffer table : sœur recrutée par Bleydane).
 - **« Le Brisé »** : surnom des bas-quartiers pour Dietrich (passé violent, traumatique).
 - **Kalzbad sait-il pour le Croc Jaune ?** Canon p.123 PBT : « *Jarmund and Kalzbad know only that all cult members must support the taxes enthusiastically. They know nothing of Wasmeier's plan* ». **Kalzbad ne savait pas** le plan Wasmeier ni l'alliance MP-Skavens. À sa mort, **aucune révélation MP-Yellow Fang** disponible.
@@ -169,7 +169,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Mark **revient en ville**, en héros — **yeux bleus brillants** (épreuve de la Flamme + pèlerinage). Cérémonie d'accueil par Emil Valgeir au Temple d'Ulric.
 
-**Plots canon présents** (HR *The Great Defector* l.1613-1878) :
+**Plots présents** (HR *The Great Defector* l.1613-1878) :
 - **Mark revient transformé** [homebrew lié à PBT Companion *Cult of Ulric* l.342 *Claus Liebnitz*] — Mark devient figure ulrican notable. Emil Valgeir l'accueille publiquement.
 - **Statue Rhya** : Phineas travaille pour Elvira. Recherche au temple de Verena (apparence Rhya inconnue, sauf via Elvira).
 - **Barbier Heimer + pommade chat** [homebrew lié au canon HR *Moggy Medical Misery* l.1087] — Foule devant échoppe de barbier. **Procédé Collegium : broyer des chats pour pommade vérole**. Manifeste de Linwourm/Lindwurm. Anselm démonte arguments. Disperse foule.
@@ -181,7 +181,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Maison « hantée »** [canon homebrew lié] — voisin met en garde Elvira. Elle prend peur, fuit. **Mark + Phineas entrent** : **pentacle d'invocation démoniaque dessiné avec du sang**, aucun corps. **Jarmund s'est libéré lui-même via démon** (chef cellule = capable d'invocation).
 - **5 chapelles Shallya** [canon *The Five Shrines of Shallya* l.1645] — livre de comptes Jarmund : dons réguliers chapelles Shallya. **Chapelle Ostwald** = refuge idéal (territoire de L'Homme = peu de Watch).
 - **Chapelle Shallya Ostwald** [canon *The Chapel* l.1715 + *Convincing Sister Anais and Armund* l.1724] — **Sœur Anais** seule. Cave : Jarmund effrayé, habits noble déchirés, main ensanglantée. **Badge de Schutzmann** débloque sa confiance.
-- **Fuite en chariot bière** [canon *Desperate Chase* l.1811] — passage cave + tunnel + chariot bière de **The Underpass** tavern. Elvira monte, lance au galop. **Anselm prescience guide**. Sème les poursuivants (hommes de L'Homme + cultistes Dierk Vormann canon *Dierk Vormann* l.1823 + Max the Racketeer canon l.1820).
+- **Fuite en chariot bière** [canon *Desperate Chase* l.1811] — passage cave + tunnel + chariot bière de **The Underpass** tavern. Elvira monte, lance au galop. **Anselm prescience guide**. Sème les poursuivants (hommes de L'Homme + cultistes Dierk Vormann canon *Dierk Vormann* l.1823 + Max the Racketeer l.1820).
 - **Interview de Jarmund chez Schutzmann** [canon *Interview with Jarmund* l.1765-1803] — révélations canon :
   - **Hiérarchie MP** : Novitae = Jarmund / Impedimentae = Kalzbad (mort) / Terribilis = Wasmeier (mort apparent). **Vogel = intermédiaire**.
   - **Bhar (canon Bahr)** = repreneur de facto post-Kalzbad.
@@ -206,8 +206,8 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 ### MJ-only S42
 - **Couronne Rouge canon** : cult Tzeentch séparé de la MP (cf. fiche [[Main Pourpre]] + Arc 4 Etelka Herzen Red Crown). Lien Heidlemann (Arc 4) — Schmidt Altdorf — Aynjulls Isembeard Signal Tower. **Pas développé table Arc 6**.
-- **Dierk Vormann** : canon l.1823 — under-Magister de Jarmund. **Reste actif post-S42** (Jarmund défecte, Vormann veut le tuer). **Hook potentiel non utilisé**.
-- **Vogel adresse 68 Sigismundweg Osttor** : canon l.1773 — révélée par lettre interceptée S43 (pas S42).
+- **Dierk Vormann** : l.1823 — under-Magister de Jarmund. **Reste actif post-S42** (Jarmund défecte, Vormann veut le tuer). **Hook potentiel non utilisé**.
+- **Vogel adresse 68 Sigismundweg Osttor** : l.1773 — révélée par lettre interceptée S43 (pas S42).
 - **Jarmund prison** : à table, **emprisonné par Schutzmann**. Canon ch.7 *Wrapping Up* l.1826 : « *Marshal has agreed to help Jarmund defect* ». Jarmund **vivant** post-S42.
 
 ---
@@ -216,7 +216,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Lendemain S42. Schutzmann debrief. Dietrich harcelé par Bleydane (« si tu défends Elvira, tu es contre l'Homme, ne reviens plus »). Yuridika rembourse Bruno Caul (Délice).
 
-**Plots canon présents** (HR *Ordo Terribilis Resurgens* l.1879-2175) :
+**Plots présents** (HR *Ordo Terribilis Resurgens* l.1879-2175) :
 - **Schutzmann + nain colérique** [canon *Dealing with the Dwarf* l.4306 → préfigure ; ici tentative vol arme de siège] — nain Engineers' Guild + tentative vol arme siège puissante. Schutzmann la tué le voleur. Nain s'énerve aux questions d'Elvira.
 - **Phineas + Elvira interceptent l'akoustikk ratty** [canon l.1124] — armoire bureau Schutzmann. Elvira l'achève. Mirtle expliqué.
 - **Adresse Vogel canon** : 68 Sigismundweg Osttor (canon l.1773 message Bhar). Anselm reconnait astronomie (Vogel étudiant Collegium).
@@ -227,9 +227,9 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Petit roi Grosse Meule** [canon *The Big Cheese* l.1675+1675 + l.1985] — barre la route. Trop dangereux frontal.
 - **Demi-nez sur quartier Venelle** : **Windhund Haulage** activités étranges (canon *Windhund Haulage* l.2011).
 - **Dietrich Kärzburdger officialisé** : nomme Phineas conseiller personnel.
-- **Surveillance Windhund** [canon *The Yard* l.2014 + *The Basement Lair* l.2027] — Anselm projection : **corps dans tonneaux** (trafic humain skaven). Loup démoniaque (canon *Daemonic Wolf* l.1965) → Elvira l'achève. **Zombies** dans cour (Bhar's Enhanced Zombies, canon l.2000) → Anselm foudre.
+- **Surveillance Windhund** [canon *The Yard* l.2014 + *The Basement Lair* l.2027] — Anselm projection : **corps dans tonneaux** (trafic humain skaven). Loup démoniaque (canon *Daemonic Wolf* l.1965) → Elvira l'achève. **Zombies** dans cour (Bhar's Enhanced Zombies, l.2000) → Anselm foudre.
 - **Hommes de Grosse Meule arrivent**. Anselm vache de viande aux chiens (canon *Theodor's Dogs* l.2169). Yuridika **transforme Grosse Meule en statues d'or** [homebrew sort].
-- **Entrepôt sous-sol + démon fraîchement invoqué** [canon *Where the Magic Happens* + *The Laboratory* l.2035+l.2038] — Anselm renvoie le démon (Bhar's Blue Horror canon l.2145).
+- **Entrepôt sous-sol + démon fraîchement invoqué** [canon *Where the Magic Happens* + *The Laboratory* l.2035+l.2038] — Anselm renvoie le démon (Bhar's Blue Horror l.2145).
 - **Bhar fuit par un tunnel** [canon *The Staging Post* l.2088].
 
 **Plots homebrew table S43 — exploration souterrains** :
@@ -244,7 +244,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Mark frénésie**. Anselm foudre touche alliés. Bhar **fuit** par un tunnel.
 - Retour surface avec 1 égoutier survivant.
 
-**Plots canon climax S43** :
+**Plots climax S43** :
 - **Entrepôt Windhund saisi par Schutzmann**. Prisonniers libérés. **Message codé** interceptés mentionnant **« enlèvements + mort du Prince »** [canon l.2099 *Wrapping Up*] — préfiguration **assassinat du Prince Hergard von Tasseninck** (Arc 7 canon EiR).
 
 ### Ce que les PJ savent à la fin de S43
@@ -258,7 +258,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Grosse Meule** vaincu (statues d'or Yuridika).
 
 ### MJ-only S43
-- **« Mort du Prince »** : canon EiR — référence au **Prince Héritier Hergard von Tasseninck** assassiné par **Snikkit le skaven** sur ordre Main Pourpre (Hans-Hals von Tasseninck = Grand Prince Ostland, son fils Hergard meurt). **À table** : Snikkit (skaven canon ch.6 PBT + ch.4 HR *Snikkit's Warband* l.698) est encore actif Arc 6+ après avoir fui Templar's Arms S34 — sa mission s'élargit à Hergard. Hook majeur Arc 7.
+- **« Mort du Prince »** : canon EiR — référence au **Prince Héritier Hergard von Tasseninck** assassiné par **Snikkit le skaven** sur ordre Main Pourpre (Hans-Hals von Tasseninck = Grand Prince Ostland, son fils Hergard meurt). **À table** : Snikkit (skaven ch.6 PBT + ch.4 HR *Snikkit's Warband* l.698) est encore actif Arc 6+ après avoir fui Templar's Arms S34 — sa mission s'élargit à Hergard. Hook majeur Arc 7.
 - **Raina Müs** : canon HR *Raina Müs — Sewer Jack Sergeant* l.774. Yellow Fang infiltration des Sewer Jacks. **Cohérent avec son tentative de tuer Yuridika** (élimination de témoins).
 - **Skaven brumeux** : canon **Fleer Twitchkill** (Clan Eshin Master Assassin) l.2946. À table : apparition précoce S43 — **anticipation table de S47**.
 - **Yuridika statue d'or** : sort homebrew. **Aurea Hand of Hysh** ou **Lore of Metal Transmutation of Chamon** ? À table : sort dévastateur, à interpréter.
@@ -271,7 +271,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Quelques jours post-S43. Invitation Eunice Hasche à la **dissection skaven publique** au Collegium amphithéâtre. **Phineas absent** (malade, vérole probable).
 
-**Plots canon présents** (HR *The Cover Up* l.2398-2611) :
+**Plots présents** (HR *The Cover Up* l.2398-2611) :
 - **Public** : Schutzmann + Wallenstein (libéré) + Linwourm.
 - **Linwourm s'insurge contre skavens charlatans** [canon l.2470 *The Demonstration*]. Mis dehors par foule.
 - **Dietrich repère que les corps NE SONT PAS skavens** [canon l.2477 *The Ungor Torsos* + l.2484 *The Giant Rat Heads*]. Eunice simule malaise. Annonce reportage. Foule déçue.
@@ -316,7 +316,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Schutzmann enquête sur Wallenstein. Activités perso : Phineas vérole (Elvira soigne via la Gardienne Verte). Yuridika confectionne **bâton magique enchanté** (chef d'œuvre Maître Mage). Anselm étudie Linwourm. La **Gardienne Verte arrive** au temple de Rhya.
 
-**Plots canon présents** (HR *The Missing Convenor* l.2176-2398) :
+**Plots présents** (HR *The Missing Convenor* l.2176-2398) :
 - **Gotthard Wallenstein enlevé** [canon *Who's Got Gotthard?* l.2255+] — il est **torturé** par les Skavens (cf. peau de rat + carnet Dagmar).
 - **Hans Pendelwert** [canon l.2195] — *« Lovers Not Fighters »* — Sceptre de Jade attaqué.
 - **Felix von Rosam + Blanca Emrich** [canon l.2208 + l.2227] — Senior Sceptre de Jade Cultists ; tentent agression contre Elvira (homebrew). À table : enlèvent Elvira pour interroger Wallenstein.
@@ -344,7 +344,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - Gardienne Verte présente Middenheim.
 
 ### MJ-only S45
-- **Wallenstein torturé canon HR** : confirme la cellule MP a tenté de pressuriser Wallenstein (rivalité MP/Sceptre de Jade toujours active). Wallenstein **survit canon ch.7 *Requirements* p.106**.
+- **Wallenstein torturé canon HR** : confirme la cellule MP a tenté de pressuriser Wallenstein (rivalité MP/Sceptre de Jade toujours active). Wallenstein **survit ch.7 *Requirements* p.106**.
 - **Felix + Blanca Sceptre de Jade** : senior cultists, **survivent** Arc 6. À table : **probable que Wallenstein les liquide post-S45** pour leur trahison (Sceptre de Jade interne).
 - **Plan Dagmar + 3 météorites** : canon HR — Dagmar Wittgenstein avait découvert **3 météorites Morrslieb** (Arc 4 ne couvrait que 1 — Barren Hills). Lien Maliss : il **cherche les autres pour son Moonbreaker Cannon**.
 - **Carnet Dagmar** : **Filianore l'a** (elle l'a pris S24 à Grissenwald). Si la MP/Bhar comprend qu'**Anselm + Yuridika ont vu Filianore via Pathsokar**, **hook tension Arc 6+** (Bhar pourrait cibler Filianore).
@@ -355,7 +355,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Schutzmann demande aux PJ d'enquêter sur une série de vols. Le plus important : **Heaume de Mandred** (crâne du roi-rat skaven Vrrnik de Clan Mors, monté par Mandred Ratslayer canon EiR + PBT ch.2 + Middenheim CWW) — relique sacrée Middenheim.
 
-**Plots canon présents** (HR *Mysterious Thefts* l.2611-2843) :
+**Plots présents** (HR *Mysterious Thefts* l.2611-2843) :
 - **Heaume volé au Middenpalaz** [canon *The Middenpalaz* l.2632] : socle vide. Garde entendit cliquetis + bruit de dé. Phineas trouve **pièce avec croix**.
 - **Bibliothèque Collegium** [canon *The Collegium Theologica Library* l.2657] : **Agnise Fuensterburg**. Voleur cheveux/barbiche blonds, accent Marienburg, sauf-conduit. **3 livres volés** : géographie monts Milieu + balistique + récit otage hommes-rats.
 - **Temple Ulric bibliothèque privée** [canon l.2672 sub-Royal College then l.2653 *Art Theft*] : **Frère Schlager**. Livre **campagne Mandred vs skavens** volé.
@@ -373,7 +373,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **4 humains Yellow Fang (collier incisive)** morts.
 - **Couloir secret + égouts**.
 - **Coffre skaven** [canon *The Stash* l.2764] : bibelots + objets volés + heaume + **carte parchemin jauni** (canon *A Misleading Map* l.2802).
-- **Yuridika défigurée** par tir malpierre skaven [homebrew table — équivalent canon mécanique malpierre PBT].
+- **Yuridika défigurée** par tir malpierre skaven [homebrew table — équivalent mécanique malpierre PBT].
 
 ### Ce que les PJ savent à la fin de S46
 - **Heaume récupéré**.
@@ -385,7 +385,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Petit skaven Scathe** : canon *Scathe the Tainted* l.2824 — fuit. **Hook potentiel non utilisé** Arc 6.
 - **Stabb-Stabb Rat Ogre** : tué.
 - **Carte « misleading map »** : canon — **piège** pour les enquêteurs. À table : Anselm peut suspecter ; à interpréter MJ.
-- **Bors survit** : canon. **Hook Arc 7+** — Bors peut revenir comme allié voleur.
+- **Bors survit** :. **Hook Arc 7+** — Bors peut revenir comme allié voleur.
 
 ---
 
@@ -393,7 +393,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Schutzmann debrief le coffre. Documents perdus (skaven récupération). Schutzmann reconnait skavens (preuves coffre). **Anselm a un familier oiseau translucide** créé pendant études (chef d'œuvre Maître Mage).
 
-**Plots canon présents** (HR *Assassinations* l.2844-2965) :
+**Plots présents** (HR *Assassinations* l.2844-2965) :
 - **Père Weill prêtre Morr** [canon *Corpse Inquiry* l.2852] — 3 meurtres similaires (lame triangulaire skaven, canon Eshin) :
   - **Ansten Krohn** [Nortor, Kommission Santé, mari de **Britt**]. Documents volés sur rénovation égouts.
   - **Yiva** [canon *Yiva — the Burglar* l.2867 ; Suttor, espionne/contrebandière, dossier sur **Raina Müs**].
@@ -413,8 +413,8 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Carte des cibles Yellow Fang**.
 
 ### MJ-only S47
-- **Fleer Twitchkill** : canon Clan Eshin Master Assassin. **Mort canon table**. Lui mort, **autres assassins Clan Eshin restent disponibles** pour Maliss.
-- **Shadow Cloak canon l.2957** : récupérée. **Loot magique pour les PJ Arc 6+**. **Dérobée S53** = peut-être Maliss/Clan Eshin la récupère.
+- **Fleer Twitchkill** : canon Clan Eshin Master Assassin. **Mort table**. Lui mort, **autres assassins Clan Eshin restent disponibles** pour Maliss.
+- **Shadow Cloak l.2957** : récupérée. **Loot magique pour les PJ Arc 6+**. **Dérobée S53** = peut-être Maliss/Clan Eshin la récupère.
 - **Documents Schutzmann perdus** = signature Yellow Fang. **Hook table** : le Watch est infiltré.
 
 ---
@@ -423,8 +423,8 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Schutzmann obtient l'audience du Graf après tant de preuves accumulées.
 
-**Plots canon présents** (HR *Proponents of Controversy* l.2966-3206) :
-- **Témoins** : Jacko Warble + Bors + tavernier Templar's Arms (canon homebrew + canon l.3140).
+**Plots présents** (HR *Proponents of Controversy* l.2966-3206) :
+- **Témoins** : Jacko Warble + Bors + tavernier Templar's Arms (canon homebrew + l.3140).
 - **Parc Garden Party fané** [homebrew] — préfiguration Filianore corruption.
 - **Salle d'attente** : **Comte von Hellfeist** + **Heinricus von Kärzburdger** (homebrew rival Dietrich).
 - **Audience Graf + Chevalier Éternel Siegfried Prunkvoll + Katarina** [canon *An Audience with the Graf* l.2997] — Boris partiellement rétabli.
@@ -449,7 +449,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Schutzmann + Katarina officialisent l'enquête skaven. Exposition macabre cadavres skavens place du palais.
 
-**Plots canon présents** (HR *The Black Hunger* l.3412-3608 + *Encounters* l.3207-3411) :
+**Plots présents** (HR *The Black Hunger* l.3412-3608 + *Encounters* l.3207-3411) :
 - **Exposition publique** [canon homebrew table — canon HR cite « publicly displays skaven corpses » l.3173].
 - **Mineur Unterfraus à Maison des Régents Ostwald** [canon *Gelbert Vogel* l.3616+l.3621 *Pitor Wagner*] — sera traité S50.
 - **Baron Holzbek demande aide Gladbeich** [canon *Griffon Down* l.3807+] — sera traité S50.
@@ -490,7 +490,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Le groupe + **[[Albert Reichau]]** sergent armée Middenland (escorte). Sortie porte Sud.
 
-**Plots canon présents** (HR *Griffon Down* l.3807-3966) :
+**Plots présents** (HR *Griffon Down* l.3807-3966) :
 - **Lettre menace L'Homme** : prochaine incursion = la dernière.
 - **Sortie porte Sud** : viaduc Wasmeier en reconstruction.
 - **Rumeurs route** : Ostland-Talabecland, Sigmar-Ulric extrémistes, fanatisme.
@@ -499,17 +499,17 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Préfet [[Ida Klein|Ida Clind]]** [canon *Ida Klein – Reeve of Gladbeich* l.3838].
 - **Auberge Arvor Gilbransson** [homebrew nom].
 - **Rugissement bête à l'est. Explosion 1 mois. Disparition chasseur + fermier**.
-- **Johann Mulderbrek maire Oberholzbek** [homebrew nom — pas canon HR direct].
+- **Johann Mulderbrek maire Oberholzbek** [homebrew nom — pas attesté HR direct].
 - **Anselm augure** : menaces sur la région.
 - **Guide adolescente [[Veronika Troger]]** [canon l.3916 *The Guide — Veronika Troger*].
 - **Tanière + griffon muté** [canon *The Beast – Mutated Griffon* l.3931]. **Veronika morte**. Mark blessé. Albert + Mark abattent.
-- **Blessure griffon = coup de canon malpierre** (signature Moonbreaker).
+- **Blessure griffon = coup de malpierre** (signature Moonbreaker).
 - **Skavens arrivent — clan Maliss + mutant bionique** [canon *Krat Snagglefang* l.3938 — *The Engineer*]. **Anselm familier oiseau** confirme.
 
 ### Ce que les PJ savent à la fin de S50
 - **Griffon muté tué**, Veronika morte.
 - **Skavens Maliss balisticiens** (canon nain Karak Skygg confirmé).
-- Coup de canon malpierre = signature Moonbreaker.
+- Coup de malpierre = signature Moonbreaker.
 
 ### MJ-only S50
 - **Krat Snagglefang canon HR l.3938** : Engineer skaven clan Skryre. **Survie post-S50** : explore terrain pour Maliss. **Hook** : si Krat capture des PJ, **information de torture sur Karak Skygg**.
@@ -537,7 +537,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 ### MJ-only S51
 - **Frau Draeguerin** : démon homebrew. À étoffer si retour table.
-- **Hovelhof Harlequin Hurdy-Gurdyist canon HR l.549** : référence canon pour l'ambiance contes folkloriques Middenland. Non développé S51.
+- **Hovelhof Harlequin Hurdy-Gurdyist canon HR l.549** : référence pour l'ambiance contes folkloriques Middenland. Non développé S51.
 
 ---
 
@@ -545,11 +545,11 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Forêts. **Cri aigle géant** = elfes.
 
-**Plots canon présents** (HR *The Stolen Village* l.3609-3806) :
-- **Unterfraus** [canon l.3632] : tentes + carrosse + **Ernika von Holzbek** cousine baron (homebrew nom — canon ne nomme pas explicitement).
+**Plots présents** (HR *The Stolen Village* l.3609-3806) :
+- **Unterfraus** [canon l.3632] : tentes + carrosse + **Ernika von Holzbek** cousine baron (homebrew nom — ne nomme pas explicitement).
 - **Grand bâtiment** [canon *Exploring the Village* l.3643] : sang, charnier, barricade brisée.
 - **Temple Ulric** [canon *The Temple to Ulric* l.3650] : souillé. **Prêtre attaché à l'autel** (canon).
-- **Grange** [canon *The Barn* l.3692] : **charriot immondices + ~100 yeux humains** (canon : « *jars of eyeballs* » canon variante).
+- **Grange** [canon *The Barn* l.3692] : **charriot immondices + ~100 yeux humains** (canon : « *jars of eyeballs* » variante).
 - **Maisons vides** : portes défoncées, vivres gâtés.
 - **Lame skaven** (canon *A Skaven Weapon* l.3709).
 - **Livre conte Vielleur de Hovelhof** [canon *A Fairy-Tale* l.3700 + canon HR *Harlequin Hurdy-Gurdyist of Hovelhof* l.549].
@@ -581,7 +581,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Retour Middenheim après Holzbek. Repart pour Le Piquet avec Albert. Embuscade.
 
-**Plots canon présents** (HR *The Road East* l.3967-4198) :
+**Plots présents** (HR *The Road East* l.3967-4198) :
 - **Hovelhof** [canon l.4120] + **Fox and Crown** [canon *Fox and Crown* l.4125 = Le Renard et la Couronne].
 - **Place de l'Espoir / Hope Square** [canon l.4176 — bagne Kärzburdger, Sainte Hildegarde Shallya].
 - **Gaius surgit du bosquet** [homebrew table — canon HR ne le prévoit pas exactement, mais Gaius canon S44 est en liberté].
@@ -610,7 +610,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - Dietrich allié à Place de l'Espoir.
 
 ### MJ-only S53
-- **Valeria Roth canon l.4159** : smuggler. **Vivante** post-S53.
+- **Valeria Roth l.4159** : smuggler. **Vivante** post-S53.
 - **Ingrid Sassleworth** : homebrew. Référence **Sokof** = hook MJ non utilisé.
 - **Pesold (PJ)** : escort officiel Kärzburdger. Bavard mais loyal.
 
@@ -620,12 +620,12 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Arrivée au Piquet face au **Fort d'Airain (Brass Keep)** dans une **ambiance horrifique Dhar**.
 
-**Plots canon présents** (HR *The Picket* l.4199-4700) :
+**Plots présents** (HR *The Picket* l.4199-4700) :
 - **Capitaine Tylik** [canon *Horse Captain Tylik* l.4481] — cavaliers Kislev Ungol.
 - **Le Piquet** [canon *The Picket* l.4199+] : Dhar nappant.
 - **Sergent Otfried Brantner** [canon *Sergeant Otfried Brantner* l.4502 + l.4507 — **Sergeant/cultist Croc Jaune Silver 5**].
 - **Hildegund Froiz** [canon *Priestess Hildegund Froiz* l.4395 + l.4427 — Priestess Sergeant Silver 3] — prêtresse Myrmidia.
-- **Emmiline von Kärzburdger** [canon *Commander Emmiline Von Kärzburdger* l.4388] — commandante en chef. **Relation intime Hildegund** (homebrew table — canon ambigu).
+- **Emmiline von Kärzburdger** [canon *Commander Emmiline Von Kärzburdger* l.4388] — commandante en chef. **Relation intime Hildegund** (homebrew table — ambigu).
 - **Intendant Willus Habicht** [canon *Quartermaster Willus Habicht* l.4462]. **Dengi Rulsson artilleur nain** [canon *Artillerist Degni Rulsson* l.4422].
 - **6 baraquements 200 hommes. Palissade misérable**. **Pas d'attaque depuis 60 ans** [canon *The Picket Wall* l.4379].
 - **Dengi poudre mauvaise qualité** [canon l.4306 *Dealing with the Dwarf*].
@@ -636,7 +636,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Activités jour + 10 coups de fouet aux 4 coupables**.
 - **Nuit : Brantner pose mèche → tête explose (Yellow Fang interne)** [canon *Brantner Captured* l.4325].
 - **Willus avoue** : trafic intendant. Brantner Croc Jaune.
-- **4h matin** : grondement canon nain Karak Skygg. Cloches Fort. Couinements.
+- **4h matin** : grondement nain Karak Skygg. Cloches Fort. Couinements.
 - **Reconnaissance vers poste observation** [canon *Into the Pass* l.4592].
 - **Skavens Galeux blessés** [canon *Rats Fleeing a Shattered Siege* l.4599] + **armes naines bonne facture** [canon *Dwarf Craftsmanship* l.4680].
 - **Tunnel détruit avec Cinderblast Bombs Dengi** [canon *Degni's Cinderblast Bombs* l.4718].
@@ -661,7 +661,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 
 **Cadre** : Ascension Monts du Milieu. 1 semaine. Cartes Emiline.
 
-**Plots canon présents** (HR *Into the Middle Mountains* l.4701-4961) :
+**Plots présents** (HR *Into the Middle Mountains* l.4701-4961) :
 - **Requisitions Dengi** : Cinderblast Bombs + équipement.
 - **Travel Advice Emiline / Tylik / Dengi / Hildegund** [canon l.4725+l.4732+l.4735+l.4738].
 - **Chèvre Yuridika** (proie pour bêtes).
@@ -672,7 +672,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **3 passages** : grande porte / fosse cadavres / monte-charge.
 - **Anselm projection** [canon *Bluff/Fight/Run/Captured* l.5136+] — explore.
 - **Morrslieb se lève + cloches comptage** [canon *Maliss' Plan and How to Stop It* l.5028 + *The Final Countdown* l.5037].
-- **Elvira : canon pointe sur Morrslieb** !
+- **Elvira : pointe sur Morrslieb** !
 - **Anselm rapport** : ville organisée, **Clan Galeux/Mange martyrisés**, statues naines profanées, **tubes de malpierre liquide**, Maliss + garde (rat-ogre Three-Eyes cloches + soldats fusils), **Janna Eberhauer prisonnière** !
 - **Embuscade patrouille Croc Jaune** + déguisement.
 - **Égouts → champ des morts (maïs noir)**.
@@ -681,7 +681,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Tubes [canon Forges *The Refinery* l.5393] + 13 coups cloche**.
 - **Embuscade Maliss** [canon *Maliss Manrack, Master Warlock-Engineer* l.5507]. **Pesold + Phineas tirent (chef effondre)**.
 - **Mark frappe**. **Anselm foudre tue tous**. **Janna libérée**.
-- **Dernier skaven active le canon. Mages + tireurs sorts/projectiles**. **Canon dysfonctionne — explosion** [canon *Moonstrike!* + *Escape to Victory* l.5566].
+- **Dernier skaven active le. Mages + tireurs sorts/projectiles**. **Canon dysfonctionne — explosion** [canon *Moonstrike!* + *Escape to Victory* l.5566].
 - **Forteresse pulvérisée**. Lumière faible meurt.
 - **Dirigeable Heinrich + Vieran Thugenheim** [canon *Need a Lift?* l.5582 + *Ending the Adventure* l.5591].
 
@@ -693,7 +693,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Retour Middenheim** sur dirigeable.
 
 ### MJ-only S55
-- **Maliss canon mort ?** Canon ne tranche pas définitivement (« *If Maliss Gets Close to Success* » l.5536). À table : **fumigène l'évacue**, **statut incertain**. Hook Arc 7+.
+- **Maliss mort ?** Canon ne tranche pas définitivement (« *If Maliss Gets Close to Success* » l.5536). À table : **fumigène l'évacue**, **statut incertain**. Hook Arc 7+.
 - **Clan Mange Warlord Kratz** [canon l.5309] : peut s'allier aux PJ canon (frères ennemis de Maliss). Hook **non utilisé table** : si libéré, devient allié.
 - **Tubes malpierre liquide** : **chef d'œuvre canon** Skryre. Maliss accessoire à la **Moonbreaker**.
 - **Three-Eyes Rat Ogre** [canon l.5427] : tué dans la bataille.
@@ -731,7 +731,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 | **FIL Bleydane** | OUVERT (ennemi Elvira) | Vengeance Arc 7 ? |
 | **FIL Heinricus von Kärzburdger** | OUVERT (rival Dietrich uniquement — innocent du trafic) | Arc 7 |
 | **FIL Valeria Roth smuggler** | OUVERT | Arc 7 |
-| **FIL [[Snikkit]] (Stormvermin clanless mercenary)** | OUVERT (vivant, en mission MP) | **Tue Prince Héritier Hergard von Tasseninck Arc 7** + a enlevé la nièce du Law Lord Ehrlich (canon HR l.699 + statbloc canon PBT ch.6 l.368) |
+| **FIL [[Snikkit]] (Stormvermin clanless mercenary)** | OUVERT (vivant, en mission MP) | **Tue Prince Héritier Hergard von Tasseninck Arc 7** + a enlevé la nièce du Law Lord Ehrlich (canon HR l.699 + statbloc PBT ch.6 l.368) |
 | **FIL Dietrich noble Kärzburdger** | RÉSOLU | Allié + canal Kärzburdger Arc 7 |
 | **FIL Carte 3 météorites Morrslieb** | OUVERT (1 détruite Skygg + 1 Arc 4 Barren Hills + 1 inconnue) | Hook Arc 7+ |
 | **FIL Bors voleur Ranald** | OUVERT (allié) | Hook Arc 7 |

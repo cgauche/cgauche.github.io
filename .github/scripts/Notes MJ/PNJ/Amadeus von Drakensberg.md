@@ -9,17 +9,17 @@
 - **Statut** : [VIVANT, plot dormant, ENNEMI LATENT] — a obtenu ce qu'il voulait, est parti avec un sourire satisfait, n'a pas eu de raison de s'en prendre aux PJ. **N'est pas activement hostile**, mais **il faut le considérer adversaire potentiel** s'il recroise les PJ avec quelque chose à perdre.
 - **Tags** : `#Drakensberg` `#Comte` `#FlammeBleue` `#Tzeentch` `#ScelletTwirler` `#Schemer` `#EnnemiLatent` `#PlotDormant` `#PiquesCroisées` `#S19`
 
-## Source canon
+## Source
 - *Enemy in Shadows Companion* ch.11 *The Affair of the Hidden Jewel* : `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md` (description + statbloc + intrigue complète).
 - **Origine éditoriale** : scénario originellement publié dans **White Dwarf 101** (WHFRP 1e), repris en EiS Companion 4e.
 
-## Description canon
+## Description
 
 > "The count is a character that should be recognisable to everyone: **elegant, suave, sophisticated, cruel when he needs to be, capable of smooth flattery and smoother threats**. He has a **deadly elegance, as pointed and sharp as the rapier that hangs at his hip**. He is not above twirling his moustache as he explains, in great detail and with no little relish, exactly how he is going to have someone killed, stuffed and mounted on his wall as a trophy. He is a man of **36 years, used to action, with an athletic build**.
 >
 > His **wavy brown hair and intense blue eyes make him attractive, but there is a sinister hardness underlying his polished demeanour**. He is, in short, **a villain through and through. He rather enjoys the role fate has given him**." (EiS Companion ch.11 p.94-95)
 
-## Statbloc canon — **Amadeus von Drakensberg – Human Magnate (Gold 5)**
+## Statbloc — **Amadeus von Drakensberg – Human Magnate (Gold 5)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -41,7 +41,7 @@
   - Propose **prime généreuse** (canon : 25 GC ; table : généreuse non chiffrée) pour la **tête de la Flèche Noire** (Annalisa Kessler).
   - **Plateau d'argent** théâtral : claque des doigts, un garde le fournit, le tend aux PJ. *« I'll even provide the platter! »* (le plateau est en argent massif, vaut 2 GC, Encombrement 1).
   - Menace voilée si déception : « *dommage de se faire de puissants ennemis* ».
-- **[Off-scène entre S19 chambre des PJ et S19 château]** — Demande à **Bruno son ancien tortionnaire** (canon, infiltré chez Kellermann) de **tuer Kellermann** dès que les PJ sont partis chercher Annalisa. **Confirmé canon explicite** : *« Back at the inn, things have moved on. Count von Drakensberg decided that Kellermann was no longer of use and had Bruno kill him. »* À la table, **Kellermann est juste « introuvable »** — la mort est implicite mais non vue.
+- **[Off-scène entre S19 chambre des PJ et S19 château]** — Demande à **Bruno son ancien tortionnaire** (canon, infiltré chez Kellermann) de **tuer Kellermann** dès que les PJ sont partis chercher Annalisa. **Confirmé explicite** : *« Back at the inn, things have moved on. Count von Drakensberg decided that Kellermann was no longer of use and had Bruno kill him. »* À la table, **Kellermann est juste « introuvable »** — la mort est implicite mais non vue.
 - **[S19 — retour des PJ avec la tête d'Annalisa]** — Examine la tête (canon : *« he asks them to wait outside while he inspects it. After a brief shave »*) — **rase le crâne pour lire le tatouage** indiquant l'emplacement de la Flamme Bleue. **Paie la prime**, congédie. **Part avec un sourire satisfait**.
 
 ## Ce que les PJ savent
@@ -58,7 +58,7 @@
 - Otto Kessler, voleur initial de la **Flamme Bleue**, a **tatoué l'emplacement du bijou sur le cuir chevelu de sa fille Annalisa quand elle était bébé**. Sans le lui dire. Il lui disait *« sers-toi de ta tête »* quand elle demandait. 
 - L'information a été extraite **sous torture** d'un vieux compagnon d'Otto par Bruno, alors tortionnaire du comte. Bruno a **gardé le tuyau pour son maître**, pas pour Kellermann.
 - Le comte **savait dès le départ** que la tête d'Annalisa donnerait l'indice. Sa demande de la tête « sur un plateau » était **littérale**.
-- **Et le canon précise même** : la Flamme Bleue, en fait, est **dissimulée dans la cave même de l'auberge des Piques Croisées** (« *Old Kessler actually hid the jewel in the cellar of the Crossed Lances. Nobody knows, at least not yet.* » — EiS Companion p.96). Le tatouage **donne les directions** pour la trouver sur place.
+- **Et le précise même** : la Flamme Bleue, en fait, est **dissimulée dans la cave même de l'auberge des Piques Croisées** (« *Old Kessler actually hid the jewel in the cellar of the Crossed Lances. Nobody knows, at least not yet.* » — EiS Companion p.96). Le tatouage **donne les directions** pour la trouver sur place.
 - Donc en S19, **après le départ des PJ, le comte a tranquillement fait fouiller la cave de l'auberge et est reparti avec le bijou** dissimulé.
 
 **Les PJ ont fait son boulot sans le savoir.** Confirmé par la synthèse arc 3 : *« jamais clarifié quel était son vrai but — la Flamme Bleue »*.

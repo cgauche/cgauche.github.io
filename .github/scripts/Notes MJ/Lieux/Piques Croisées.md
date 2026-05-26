@@ -5,7 +5,7 @@
 - **Localisation** : Reikland, route secondaire à proximité du château abandonné de l'affaire Hidden Jewel (canon EiS Companion ch.11). Détail géographique précis à étoffer si retour PJ.
 - **Tags** : `#PiquesCroisées` `#AubergeFortifiée` `#Drakensberg` `#Kellermann` `#FlammeBleue` `#Arc3` `#S19`
 
-## Source canon
+## Source
 - *Enemy in Shadows Companion* ch.11 *The Affair of the Hidden Jewel* : `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md` (lieu central du scénario, S19 à table).
 - ⚠️ Ne pas confondre avec **Crossed Pikes Tavern** à Bögenhafen (safe house Ranaldans de l'arc 2, cf. fiche Bögenhafen) — homonymie partielle dans la traduction française.
 

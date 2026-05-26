@@ -35,7 +35,7 @@
 
 ## Juridiction du Burgomaître
 
-Selon canon WFRP4 (Altdorf, Crown of the Empire) :
+Selon WFRP4 (Altdorf, Crown of the Empire) :
 - **Administration civique** : marchés, voirie, taxes locales, justice mineure, Watch (Garde civile).
 - **Pas la sécurité impériale** (Reiksgarde).
 - **Pas la politique** (Conseil d'État impérial).

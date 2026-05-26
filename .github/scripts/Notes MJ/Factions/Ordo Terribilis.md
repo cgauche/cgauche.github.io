@@ -12,7 +12,7 @@
 
 - **Chef** : Yann Zuntermein, Magister Magistri d'Altdorf `EiR Intro l.684`.
 - **Couverture** : façade publique de modérés sigmarites `EiR ch.5 l.90`.
-- **Membres** : incrustés à la Chambre Noire (Spionwerber + Inner Circle) ; identités individuelles non détaillées canon.
+- **Membres** : incrustés à la Chambre Noire (Spionwerber + Inner Circle) ; identités individuelles non détaillées.
 
 ## Doctrine
 

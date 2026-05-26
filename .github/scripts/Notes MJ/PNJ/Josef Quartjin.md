@@ -6,14 +6,14 @@
 - **Statut** : [VIVANT] [ALLIÉ FIABLE] depuis S6
 - **Tags** : `#Quartjin` `#Berebeli` `#Riverfolk` `#AlliéPJ` `#Bargemaster` `#Altdorf` `#Middenheim`
 
-## Source canon
+## Source
 - EiS ch.3 *Heart of the Empire* (apparition + statbloc) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/03 - Heart of the Empire.md` lignes 87, 102-117, 229-251, 256-265
 - EiS ch.4 *On to Bögenhafen* (le voyage canal) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/04 - On To Bögenhafen.md`
 
-## Description canon
+## Description
 > "Josef is a **tall man with long, greying hair** and an **ever-present smile**. He is **broad-shouldered and well-muscled**, though both are hidden by a generous layer of fat. He has a **large, bristly beard** that grows right down over his huge belly. Josef has a **jolly temperament** and enjoys good company." (EiS ch.3 l.262)
 
-## Statbloc canon — **Josef Quartjin – Human Bargemaster (Silver 5)**
+## Statbloc — **Josef Quartjin – Human Bargemaster (Silver 5)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

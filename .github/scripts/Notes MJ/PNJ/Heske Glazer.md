@@ -9,20 +9,20 @@
 - **Statut** : [VIVANTE, en danger latent] — cible désignée par Vielfrass (cellule Shornaal) avant la mort de ce dernier S16. Ne sait probablement pas qu'elle était sur la liste.
 - **Tags** : `#Heske` `#Glazer` `#Verrière` `#MaîtreArtisan` `#Ubersreik` `#Marktplatz` `#Alliée` `#DangerLatent` `#ŒilDeVerre`
 
-## Source canon
+## Source
 - *Ubersreik Adventures I — Heart of Glass* : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md`
   - **« The Master Artisan »** (description + biographie) : lignes 2203-2206
   - **Statbloc** : lignes 2218-2224
   - **« Straight from the Glazer's Mouth »** (interaction PJ) : lignes 1749-1766
-- **Lien Starter Set** : « *For more on Heske Glazer, see **Making the Rounds** (in the Starter Set).* » (UA1 l.2206) — canon référencé non extrait ici.
+- **Lien Starter Set** : « *For more on Heske Glazer, see **Making the Rounds** (in the Starter Set).* » (UA1 l.2206) — référencé non extrait ici.
 
-## Description canon
+## Description
 
 > « A lively woman in her forties, Heske Glazer was once a simple farm girl working the fields of the Vorbergland, but her destiny was altered by **a misfired pistol that took out her right eye**. The noble who had fired the shot uncharacteristically cared about his mistake, paying for her care and a replacement for her eye. **Long hours sitting with the elderly glassblower** who carefully crafted her new eye introduced her to the wonders of glassblowing and the old crafter in turn was taken by the enthusiastic young girl and accepted her as an apprentice. Her crafting skill is such that **even the master artisans of Dawihafen consult her on works involving glass — an accolade that Humans are rarely afforded**. Glazer is well regarded by the folk of Ubersreik and **sees much with her one working eye, far more than most reckon**. In fact, **Glazer acts as an agent for more powerful folk concerned for Ubersreik** and may be the one that calls the PCs to their attention. » (UA1 l.2204)
 
 > « I had nothing to do with the good corporal's death, and I can prove it. […] **I was coming back from a delivery up into the Grey Mountains. I've been doing them every two weeks, when another of the giant lenses is ready.** Besides, **I'm half-blind and in my middle years**, certainly no match for a young strapping lad like that, eh? » (canon UA1 l.1754)
 
-## Statbloc canon — **Heske Glazer – Master Artisan (Silver 3)**
+## Statbloc — **Heske Glazer – Master Artisan (Silver 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 
 **Skills** (extrait canon, partiel) : **Haggle 67**, **Trade (Glassblowing) 82**
 
-> **Note** : statbloc canon incomplet (UA1 ne donne que les compétences principales — elle n'est pas un combattant). À improviser pour Charm, Gossip, Lore (Reikland), Perception (Sight) si nécessaire — elle est intuitive et observatrice, « *sees much with her one working eye* ».
+> **Note** : statbloc incomplet (UA1 ne donne que les compétences principales — elle n'est pas un combattant). À improviser pour Charm, Gossip, Lore (Reikland), Perception (Sight) si nécessaire — elle est intuitive et observatrice, « *sees much with her one working eye* ».
 
 ## Apparitions par session
 
@@ -84,7 +84,7 @@
 - **Hubkind survivant** (canon) → s'il a vu Heske à la veillée, ou si ses notes mentionnent qu'elle traquait Vielfrass, il peut la considérer comme **complice cultiste**. Faible probabilité (Hubkind mis en retrait S20) mais hook latent.
 
 ### Les lentilles et l'arme
-- Heske a livré **13 grandes lentilles** en 6 mois (canon UA1 l.1756). Le **Luminark of Hysh** canon en consomme plusieurs (focalisation, démultiplication, projection).
+- Heske a livré **13 grandes lentilles** en 6 mois (canon UA1 l.1756). Le **Luminark of Hysh** en consomme plusieurs (focalisation, démultiplication, projection).
 - **Une lentille reste en place dans la tour** ou elle est emportée par Engel (selon choix MJ). Si Engel a pris une lentille, **il aura potentiellement besoin de Heske** pour en faire fabriquer une nouvelle plus tard. **Réservoir d'enlèvement / extorsion** par Engel ou un autre acquéreur.
 - Si Heske comprend l'usage des lentilles qu'elle a fabriquées → **culpabilité morale lourde**, peut devenir alliée active des PJ contre Engel.
 
@@ -113,7 +113,7 @@
 ## Fils ouverts
 
 - **FIL-35** — *Cellule Shornaal d'Ubersreik survivante* — cible désignée par Vielfrass (Handout 1), reste sur la liste si la cellule mère aldorfer ressuscite les notes de la branche.
-- **FIL-41** — *Réseau d'agents secrets Ubersreik* — agent canon explicite (« agent for more powerful folk concerned for Ubersreik ») ; 13 livraisons lentilles documentées, 3 employeurs possibles (Nacht / Engel / sigmarites).
+- **FIL-41** — *Réseau d'agents secrets Ubersreik* — agent explicite (« agent for more powerful folk concerned for Ubersreik ») ; 13 livraisons lentilles documentées, 3 employeurs possibles (Nacht / Engel / sigmarites).
 
 ## Liens
 - **Arcs** : [[Arc 3 - Ubersreik]] (S16)

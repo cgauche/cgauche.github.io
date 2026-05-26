@@ -22,14 +22,14 @@ braillard et incohérent comme la plupart des serviteurs de Tzeentch :
 qui terrifierait ses pactisants s'ils la comprenaient
 `EiS ch.9 l.484`.
 
-## Phrases canon
+## Phrases
 
 - *« Them's the ones! Get them! »* — cri du jeune garçon invisible quand les soldats de la Garde fondent sur les agents Spionwerber de Emil Baecker au climax de l'embuscade `EiR ch.13 l.132`.
 - *« Sorry we were late to the party, but it's a good thing your lad found us. The boy who was travelling with you. He found us and warned us you'd been jumped by cutthroats. Gave us a good description of them on the way. Smart boy, even if a bit odd-looking, what with his big wide grinning mush and all. »* — rapport du sergent de la Garde immédiatement après l'embuscade, décrivant l'enfant qui les a conduits ; aucun témoin ne se souvient de l'avoir vu partir `EiR ch.13 l.140`.
 
 > **Note** : Gideon n'a quasiment **aucun dialogue scripté en Arc 7**
 > — il manipule presque exclusivement à distance et par procuration.
-> Les rares paroles canon sont rapportées par tiers (sergent, Hermine)
+> Les rares paroles sont rapportées par tiers (sergent, Hermine)
 > ou émises hors-champ dans la voix d'un enfant invisible. Les
 > citations ci-dessus sont les deux seules répliques directement
 > attribuables à Gideon dans EiR. Pour des paroles plus directes,
@@ -92,7 +92,7 @@ alternatives possibles ch.13 si Sheerargetru échoue à se manifester.
 - **Mode opératoire en combat** `EiR ch.13 l.74` : Gideon préfère utiliser les sorts du Lore of Shadows pour induire en erreur les PJ et dissimuler ses alliés plutôt que d'attaquer ouvertement. Il reste caché autant que possible et ne se révèle qu'en dernier recours.
 - **Bannissement final** : neutralisé soit en empêchant la manifestation de Sheerargetru (alors les fins alternatives Zuntermein/Wasmeier/Kastor restent ouvertes), soit en abattant Gideon en combat direct (sa survie après ch.13 n'est pas explicitement traitée par le canon). La fin canonique **Characters Win** précise qu'au lendemain de la victoire, la malédiction de Gideon sur Karl-Franz Holswig-Schliestein est levée et Henrik Kappelmuller a disparu ou est mort — Gideon est explicitement vaincu `EiR ch.13 l.623`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **Avant Arc 7** : maintien du sort de Purple Brain Pox sur Karl-Franz Holswig-Schliestein depuis environ un an, en coordination avec Henrik Kappelmuller pour faire passer le médecin pour efficace `EiR ch.8 l.50-54`.
 - **Pré-S57** : visite régulière chez le médecin impérial sous la forme du jeune garçon, signalée par Immanuel-Ferrand Holswig-Schliestein, Maria-Luise von Walfen ou Hermine Liebwitz si les PJ enquêtent `EiR ch.8 l.86`.

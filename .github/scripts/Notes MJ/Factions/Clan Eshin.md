@@ -3,12 +3,12 @@
 > **Grand clan skaven** spécialisé dans **l'assassinat et l'espionnage**. Skavens **Night Runners + Gutter Runners + Master Assassins**. **[[Fleer Twitchkill]]** = Master Assassin Eshin loué par [[Maliss]] dans la campagne (mort S47).
 
 ## Identité
-- **Type** : **Grand clan skaven** (l'un des Four Greater Clans canon WHFB, le clan de l'ombre).
+- **Type** : **Grand clan skaven** (l'un des Four Greater Clans WHFB, le clan de l'ombre).
 - **Spécialité** : **Assassinat, espionnage, infiltration**. Entraînement Far East-inspired (le clan a une base secondaire en Cathay/Nippon canon).
 - **Hiérarchie** : Master Assassins → Gutter Runners → Night Runners → recrues.
 - **Idéologie** : Contrat. Discrétion absolue. **Pas de loyauté de clan publique** : opèrent comme mercenaires pour les autres clans skaven (et parfois humains).
 
-## Source canon
+## Source
 - *HR ch. Assassinations* (l.2844+, statbloc Fleer Twitchkill l.2946) : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - Enemy Within Campaign Volume 4 The Horned Rat.md`. Section *Clan Eshin in Middenheim* l.2849 : « *Clan Eshin maintain a small coterie in Under-Middenheim, ostensibly to assist Clan Scrutens on a contractual basis. Clan Mange has paid dearly to secure Master Assassin Fleer Twitchkill's services.* »
 - Canon WHFB classique (multiples sources).
 

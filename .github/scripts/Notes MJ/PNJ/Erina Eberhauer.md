@@ -11,10 +11,10 @@
 - **Statut** : [VIVANT — ALLIÉE BRIGHT WIZARD]
 - **Tags** : `#ErinaEberhauer` `#BrightWizard` `#Aqshy` `#Middenheim` `#Arc5` `#Janna` `#TemplarArms` `#Snikkit` `#Allié`
 
-## Source canon
+## Source
 - **PBT ch.6 *A Helping Hand* + *Chaos Strikes by Night*** (canon p.91) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 
-## Statbloc canon (PBT p.91)
+## Statbloc (PBT p.91)
 
 **Erina Eberhauer, Bright Wizard (Silver 3)**
 
@@ -43,7 +43,7 @@
 ## Apparitions par session (Arc 5)
 
 - **[S34 jour]** — **Arrive à Middenheim** pour surprendre Janna. **Reste aux Templar's Arms** (l'auberge des PJ).
-- **[S34 nuit]** — **Attaque skaven canon ch.6 *Chaos Strikes by Night*** : Erina sort de sa chambre en chemise de nuit + bag de spell ingredients. **Aide les PJ avec ses sorts** (Great Fires of U'Zuhl + Flight + Drop). **Loue les compétences combat des PJ**.
+- **[S34 nuit]** — **Attaque skaven ch.6 *Chaos Strikes by Night*** : Erina sort de sa chambre en chemise de nuit + bag de spell ingredients. **Aide les PJ avec ses sorts** (Great Fires of U'Zuhl + Flight + Drop). **Loue les compétences combat des PJ**.
 - **[S34 lendemain]** — **Rapporte à Janna** ce qui s'est passé. **Présente les PJ à Janna** (canon : « *She reports the Skaven to Janna, and mentions the Characters if they performed well* »). **Bridge entre les PJ et Janna**.
 
 ## Apparitions par session (post-Arc 5)
@@ -61,7 +61,7 @@
 ## MJ-only
 
 - **Doomed → Altdorf** : « *The capital is a city in flux until your solemn sacrifice.* » Hook Arc 7 : Erina pourrait être à Altdorf pendant la crise + se sacrifier dans un rituel (Sheerargetru ? Volkmar ? Fils d'Ulric ?). **À table : à activer Arc 7** si la table veut une scène émotionnelle Eberhauer.
-- **PAS sœur de Kirsten Jung** : canon est clair, Erina est **uniquement** sœur de Janna (canon ch.6 p.91 : « *Erina Eberhauer, the Deputy High Wizard's younger sister* »). Kirsten = famille Jung d'Altdorf, **pas Eberhauer**.
+- **PAS sœur de Kirsten Jung** : est clair, Erina est **uniquement** sœur de Janna (canon ch.6 p.91 : « *Erina Eberhauer, the Deputy High Wizard's younger sister* »). Kirsten = famille Jung d'Altdorf, **pas Eberhauer**.
 - **Sources alternatives Sparsam Délice ?** Non, Erina ne sait pas pour ça. C'est **Yuridika** qui a les contacts via les bas-quartiers.
 - **Hook Arc 6 : Erina à Middenheim** : si Erina reste à Middenheim post-S34, peut être **apprentie supplémentaire** ou **mage de soutien** pour les PJ.
 

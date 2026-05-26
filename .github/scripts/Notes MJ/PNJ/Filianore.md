@@ -9,9 +9,9 @@
 - **Statut** : [DISPARUE post-S33] (sacrifice rituel pour sauver Pathsokar d'un minotaure, corruption corporelle permanente Tzeentch, retrait dans l'ombre des bas-quartiers de Middenheim — cf. blog `Filianore, agent triple`).
 - **Tags** : `#Filianore` `#PJ` `#EmmanuelleNacht` `#MainPourpre` `#Tzeentch` `#CroixDeLilas` `#Pathsokar` `#AgentDouble` `#FilleMorte` `#RecrutementMP` `#AmnesieDroguee`
 
-## Source canon
+## Source
 - Aucun canon Cubicle 7 — personnage joueur, narration table + blog `Mon Ennemi Intérieur Blog/PJ/Filianore*.md`.
-- Sa capture rituelle à Bögenhafen prend la place de la victime canon générique d'EiS ch.9 *Wake Not the Sleeping Wolf* (`Source/Enemy Within Campaign Volume 1 Enemy in Shadows/09 - Wake Not the Sleeping Wolf.md`).
+- Sa capture rituelle à Bögenhafen prend la place de la victime générique d'EiS ch.9 *Wake Not the Sleeping Wolf* (`Source/Enemy Within Campaign Volume 1 Enemy in Shadows/09 - Wake Not the Sleeping Wolf.md`).
 
 ## Apparitions par session (résumé)
 - **Pré-campagne** — Femme de Pathsokar. Enceinte au départ de son mari. 5 ans sans nouvelles. Voyage jusqu'à Altdorf à sa recherche. **Sa fille meurt à Altdorf**. Recrutée par la **[[Main Pourpre]]** (promesse de retrouver enfant et mari). **Mission 1** : infiltrée à Ubersreik chez **[[Emmanuelle Nacht]]** comme espionne anti-MP (couverture). **Devient agent double MP-Nacht** : elle transmet à Nacht des renseignements compatibles avec sa façade anti-MP, et à la MP les **mouvements et identités des agents de Nacht**. **Mission 2** : envoyée à Bögenhafen enquêter sur l'**Ordo Septenarius** (autre cult Tzeentch rival de la MP, lié à Sheerargetru). Repérée par Teugen → **capturée et droguée** pour servir de sacrifice rituel + éliminer une concurrente Tzeentch.

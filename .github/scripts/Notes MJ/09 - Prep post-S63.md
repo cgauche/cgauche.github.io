@@ -1,6 +1,6 @@
 # 09 - Prep post-S63 — idées MJ en chantier
 
-> **Document de travail du MJ actuel** (à distinguer de `07 - Suite canonique` = plan canon EiR strict, et de `08 - Vision de l'ancien MJ` = transmission). Consigne les inflexions table à intégrer pour les sessions **S64+**.
+> **Document de travail du MJ actuel** (à distinguer de `07 - Suite canonique` = plan EiR strict, et de `08 - Vision de l'ancien MJ` = transmission). Consigne les inflexions table à intégrer pour les sessions **S64+**.
 > Date des notes : **2026-05-18**, à compléter session par session.
 
 ---
@@ -144,7 +144,7 @@ C'était **[[Gideon]] le changelin** (Sheru-Tar Gee'taru, signature Tzeentch). V
 
 ### D. (Plan B Reikland) Imperial Plenipotentiary
 - Si la crise s'éternise, **Karl-Franz / Immanuel-Ferrand** peut nommer un **viceroy** d'Altdorf.
-- **Scénario canon redouté** par les Fils d'Ulric.
+- **Scénario redouté** par les Fils d'Ulric.
 - À table : Karl-Franz empoisonné → nomination de facto par **Immanuel-Ferrand (manipulé par Zuntermein)** → **piège Main Pourpre** sur Middenheim.
 - Le miracle Volkmar **augmente** la pression vers cette option (Reikland sigmarite imposé sur Middenland ulrican).
 

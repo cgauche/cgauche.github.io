@@ -11,10 +11,10 @@
 - **Statut** : [VIVANT, NON RENCONTRÉ, à activer S30]
 - **Tags** : `#CapitaineScarlash` `#Scharlach` `#Middenheim` `#CaisseBreloques` `#Collectionneur` `#OldenhallerContact` `#MainPourpre` `#Arc5` `#STUB`
 
-## Source canon
+## Source
 - DotR ch.8 *A Stop Along the Way* (introduction du contact + lettre Oldenhaller + caisse) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/11 - Chapter 8 A Stop Along the Way.md` lignes 221-232, 266-270, 293-295
 
-## Description canon
+## Description
 
 > "On top of the crate rests a letter, also sealed, addressed to a **Captain Scharlach**, at the **Sign of the Crossed Keys in Hoffen Strasse**." (DotR ch.8 l.223)
 
@@ -22,10 +22,10 @@
 
 > "The crate contains a number of items, packed in straw. It is important that the number of items is the same as the number of adventurers in the party, plus one. […] Possibilities include an old rusty scabbard, lacking a sword, a stuffed magpie, a large seashell, a pilgrim's cloak covered with badges from shrines all over the Empire, a dog's skull, a plain pewter goblet, and a handwritten book titled 'The Journal of Hieronymous Prosch, 2487–2488'." (DotR ch.8 l.232, 266)
 
-## Statbloc canon
-- **Aucun statbloc canon dans DotR**. À déterminer à table selon la nature exacte de Scarlash quand il sera rencontré. **Pas d'invention table**.
+## Statbloc
+- **Aucun statbloc dans DotR**. À déterminer à table selon la nature exacte de Scarlash quand il sera rencontré. **Pas d'invention table**.
 
-## La caisse de breloques [S29] — canon DotR ch.8
+## La caisse de breloques [S29] — DotR ch.8
 
 ### Contenu observé S29 (récit table)
 - Un crâne de chien
@@ -40,7 +40,7 @@
 ### Mécanisme canon
 - **La caisse contient un objet de plus que le nombre de PJ + 1** mentionné dans la lettre (DotR ch.8 l.232, 268). **Piège du compte** : la divergence numérique est intentionnelle — destinée à faire suspecter aux PJ une manipulation, sans qu'ils en comprennent le sens. **Effectivement remarqué table S29** : « *la lettre évoquait la récupération de six objets […] mais il n'y en avait pas six dans la caisse !* ».
 - **Valeur réelle des objets** : **aucune** (canon l.232 : « *Max picked them up at random in a junk shop on Matthias's orders* »). Les breloques sont un **MacGuffin** pour justifier le déplacement des PJ à Middenheim, où l'embuscade Main Pourpre les attend.
-- **Le piège** : la lettre cachetée et la caisse sont des **leurres bien construits** pour donner aux PJ une raison de se rendre à Middenheim, où la cellule Main Pourpre (et possiblement Sceptre de Jade) les attend en embuscade. Scarlash est **un agent canon de la cellule Middenheim de la Main Pourpre**.
+- **Le piège** : la lettre cachetée et la caisse sont des **leurres bien construits** pour donner aux PJ une raison de se rendre à Middenheim, où la cellule Main Pourpre (et possiblement Sceptre de Jade) les attend en embuscade. Scarlash est **un agent de la cellule Middenheim de la Main Pourpre**.
 
 ### Confirmation table S29
 > Récit S29 : « *nous vîmes un groupe en pourpre venir vers nous l'air menaçant, avant de se raviser en voyant la caisse sur le toit. Quoi qu'il en soit, cela allait probablement nous mener à eux, d'une manière ou d'une autre.* »

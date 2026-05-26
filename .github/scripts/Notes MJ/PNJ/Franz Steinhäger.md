@@ -10,18 +10,18 @@
 - **Statut** : [VIVANT] [DISPARU] [ENNEMI ACTIF] depuis S12
 - **Tags** : `#Steinhäger` `#OrdoSeptenarius` `#Bögenhafen` `#Corrompu` `#Apprenti-Magicien` `#Survivant-S12`
 
-## Source canon
+## Source
 - EiS ch.8 *Chasing Shadows* (description + statbloc + plan personnel) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/08 - Chasing Shadows.md` lignes 304-314, 601-624
 - EiS ch.7 (mouchoir "F.S." dans Hidden Temple — faux indice) : ch.7 l.213, l.222-225
 
-## Description canon
+## Description
 > "Franz Steinhäger is **short, grey-haired, and corpulent, and waddles as he walks**. He sees Teugen's plan as a means to **get rich quick**.
 >
 > Once the ritual is completed, **he hopes to depose Teugen and take over the running of the Ordo Septenarius**. To aid in this he is **currently learning the basics of magic from Teugen and Gideon**, which he was surprised he could learn at all (in truth, it's the **Chaotic influence of Gideon changing Steinhäger's soul**, making it now possible for him to learn magic).
 >
 > Both Teugen and Gideon **suspect Steinhäger's plan**, but see no reason not to play him along until his demise at the ritual." (EiS ch.8 l.601-607)
 
-## Statbloc canon — **Franz Steinhäger – Merchant Prince (Gold 3)**
+## Statbloc — **Franz Steinhäger – Merchant Prince (Gold 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

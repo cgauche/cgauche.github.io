@@ -13,7 +13,7 @@
 - **Statut** : [ACTIF — DOMINANT à Middenheim]
 - **Tags** : `#KnightsOfTheWhiteWolf` `#WhiteWolf` `#Ulric` `#TemplarUlric` `#Middenheim` `#Religion` `#Martial` `#Arc5` `#PostPBT`
 
-## Source canon
+## Source
 - **PBT ch.2 *Growing Tensions*** (canon p.33) : mention des Chevaliers du Loup Blanc comme **bras martial** d'Ulric.
 - **PBT ch.4 *GM Option: Dropping Names*** (canon p.55) : **Emil Valgeir = Grand Master de Middenheim Chapter** + Claus Liebnitz Senior Priest Sergeant.
 - **PBT ch.7 *Consequences*** (canon p.105) : Rein Volkhard successeur.

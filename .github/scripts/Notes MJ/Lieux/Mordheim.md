@@ -26,7 +26,7 @@ chercher au péril de leur âme.
 
 Située dans le **Ostermark**, sur la rivière Stir. Ruines toujours
 existantes en 2512 IC, théâtre du jeu de figurines *Mordheim - City of
-the Damned* (GW, 1999). Aucun chemin canon ne mène les PJ à Mordheim
+the Damned* (GW, 1999). Aucun chemin ne mène les PJ à Mordheim
 durant *L'Ennemi Intérieur* — la cité reste hors de l'arc géographique
 de la campagne.
 
@@ -53,7 +53,7 @@ canon souhaite imprimer aux PJ s'ils échouent à arrêter Sheerargetru.
 
 ## Reliquaire / objets remarquables
 
-- **Wyrdstone (« malepierre »)** : fragments de la comète à double queue de Sigmar, condensation cristalline du Dhar, recherchée par les sorciers pour démultiplier leurs pouvoirs. Aucune apparition canon dans EiR — référence purement contextuelle.
+- **Wyrdstone (« malepierre »)** : fragments de la comète à double queue de Sigmar, condensation cristalline du Dhar, recherchée par les sorciers pour démultiplier leurs pouvoirs. Aucune apparition dans EiR — référence purement contextuelle.
 
 ## Composition / qui s'y trouve (lore WHFB)
 

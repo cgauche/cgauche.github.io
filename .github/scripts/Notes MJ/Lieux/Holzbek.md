@@ -11,7 +11,7 @@
 - **Statut** : [ACTIF — perturbations post-Arc 6 (Unterfraus massacré)]
 - **Tags** : `#Holzbek` `#Baronnie` `#Middenland` `#Vassal` `#Gladbeich` `#Oberholzbek` `#Unterfraus` `#PoudreKärzburdger` `#Skavens` `#Maliss` `#Arc6` `#S50-S52`
 
-## Source canon
+## Source
 - *Enemy Within Campaign Volume 4 The Horned Rat* : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - …md` :
   - **The Stolen Village (Unterfraus)** — l.3609-3806.
   - **Griffon Down (Gladbeich)** — l.3807-3966.
@@ -30,7 +30,7 @@
 - **Population** : ~200 habitants paysans.
 - **Bâtiments** : Auberge fortifiée (**Arvor Gilbransson** propriétaire), temple Ulric mal entretenu devant énorme rocher, fermes + maisons en bois usé.
 - **Préfet** : **[[Ida Klein]]** (canon *Ida Klein — Reeve of Gladbeich* l.3838, orthographe canon « Klein » ; table = « Clind » ?).
-- **Problème Arc 6 (S50)** : **Griffon muté** (par malpierre canon nain) dans la forêt — disparitions + rugissements depuis ~1 mois. **Veronika Troger** guide adolescente.
+- **Problème Arc 6 (S50)** : **Griffon muté** (par malpierre nain) dans la forêt — disparitions + rugissements depuis ~1 mois. **Veronika Troger** guide adolescente.
 
 ### Oberholzbek
 - **Type** : Hameau de montagne, ~3 chaumières + 1 auberge.
@@ -46,7 +46,7 @@
 - **Bâtiments notables** : Grand bâtiment communal (charnier S52), temple Ulric, grange, fermes, mine.
 - **Problème Arc 6 (S52)** : **Massacre total par skavens** Maliss. Habitants tués, **yeux énucléés** (~100 yeux dans grange). Mine éboulée (canon Warp-Grinder l.3745). **Fragment baril poudre estampillé Kärzburdger** (canon l.3770) = preuve du détournement de poudre Kärzburdger vers les skavens. **Coupables canon** = Habicht + Brantner au Piquet (HR l.4147), **pas Heinricus**.
 
-## Activité skavens Arc 6 (canon)
+## Activité skavens Arc 6
 
 - **Clan Skryre Maliss** s'intéresse à la baronnie pour :
   1. **Tester le Moonbreaker** sur faune (griffon Gladbeich).

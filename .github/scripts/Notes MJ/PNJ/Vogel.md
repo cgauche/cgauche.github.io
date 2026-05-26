@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT — INACTIF Arc 5] → [ACTIF Arc 6 sous Bhar post-S39]
 - **Tags** : `#Vogel` `#MainPourpre` `#PurpleHand` `#Intermédiaire` `#Coursier` `#Middenheim` `#Osttor` `#Arc6` `#CelluleMPMiddenheim` `#HornedRat`
 
-## Source canon
+## Source
 - **The Horned Rat ch.4** : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - Enemy Within Campaign Volume 4 The Horned Rat.md`
   - **Ligne 1773** : Lettre interceptée de Bhar : « *Vogel resides now at sixty eight Sigismundweg in Osstor. No one here knows of them. We deal in cold bodies only! Y'ggrilv tkak Tzeentch! Vizier Bhar, MOT* ».
   - **Ligne 1801-1802** : Section « **Who Is Vogel?** » + définition « *A young man who helps us with internal communications* ».
@@ -41,8 +41,8 @@
 
 - **Vogel canon HR ch.4** : ce n'est **pas** homebrew. Confusion antérieure dans 01-Synthèses corrigée ici.
 - **Lien « cold bodies / corpse research »** : canon HR — Bhar utilise Vogel pour coordonner le **trafic de cadavres** pour les dissections skaven (Maliss, Eunice Hasche, Linwourm canon). Lien direct avec l'arc skaven Arc 6.
-- **« Y'ggrilv tkak Tzeentch ! »** : phrase rituelle Tzeentch canon dans les lettres Bhar→Vogel. Signature interne MP.
-- **« MOT »** : acronyme canon non explicité directement. Probable « **M**aster **O**f **T**rappings » (Magister Impedimentae) ou « **M**agister **O**rdo **T**erribilis ». **À table** : à interpréter.
+- **« Y'ggrilv tkak Tzeentch ! »** : phrase rituelle Tzeentch dans les lettres Bhar→Vogel. Signature interne MP.
+- **« MOT »** : acronyme non explicité directement. Probable « **M**aster **O**f **T**rappings » (Magister Impedimentae) ou « **M**agister **O**rdo **T**erribilis ». **À table** : à interpréter.
 - **Méthode de communication MP** : Vogel **reçoit des messages codés** (canon : Wasmeier's Cipher) qu'il **transporte** sans toujours déchiffrer. C'est sa **valeur** : aucun risque de fuite par lui-même.
 - **Si capturé Arc 6** : peut donner l'adresse de Bhar + autres safe houses MP.
 

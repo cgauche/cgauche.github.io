@@ -10,7 +10,7 @@
 - **Statut** : [VIVANT — DOMINANT Middenland Arc 5-7]
 - **Tags** : `#Todbringer` `#Middenheim` `#Middenland` `#Elector` `#GrandDucalLineage` `#Arc5` `#Arc6` `#Arc7`
 
-## Source canon
+## Source
 - **PBT ch.2 *The Todbringer Family + The Graf + Brothers + Princess*** (canon p.31-33) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md`
 - **PBT ch.7 *Audience with the Graf + Consequences*** : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/10 - Chapter 7 The Traitor Unmasked.md`
 - **PBT Companion ch.8 *Some very important people*** : `Source/Power Behind the Throne Companion/08 - Some very important people.md`

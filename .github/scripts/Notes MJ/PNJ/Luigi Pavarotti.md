@@ -11,13 +11,13 @@
 - **Statut** : [VIVANT — NEUTRE / ALLIÉ POTENTIEL]
 - **Tags** : `#LuigiPavarotti` `#Médecin` `#Tilien` `#Stefan` `#Heinrich` `#Hypnose` `#Hédoniste` `#Middenheim` `#Arc5` `#Allié`
 
-## Source canon
+## Source
 - **PBT ch.2 *The Todbringer Family - The Prodigal Son*** (canon p.32) : Pavarotti recruté par Heinrich à Miragliano.
 - **PBT ch.6 *The Baronial Physician*** (canon p.86) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT Appendix I p.140** (NPC sheet).
 - **PBT Appendix III *Hypnotism*** (canon p.149) : utilisé pour Stefan + peut débloquer Dieter.
 
-## Statbloc canon (PBT p.140)
+## Statbloc (PBT p.140)
 
 **Luigi Pavarotti — Physician (Silver 3)**
 
@@ -42,10 +42,10 @@ Stats partielles d'après le canon :
 
 - **[S31]** — Mentionné par les enquêtes : médecin tilien du fils du Graf, **rumeurs de débauche**.
 - **[S33]** — Possible présence à des événements (canon attending list).
-- **[S34]** — **Garden Party** : Pavarotti arrive **complètement ivre** avec une femme à chaque bras — **éconduit par le Chambellan** (canon p.72). **Revient sobre plus tard** + chambellan le laisse passer avec un **signe discret** (entente entre eux). **Verse une fiole dans le punch** = doctorer le punch (canon canon : « *the punch, doctored by Luigi Pavarotti, is rather potent — −20 penalty to all Consume Alcohol Tests* »). À table : pas malveillant, juste son archétype.
+- **[S34]** — **Garden Party** : Pavarotti arrive **complètement ivre** avec une femme à chaque bras — **éconduit par le Chambellan** (canon p.72). **Revient sobre plus tard** + chambellan le laisse passer avec un **signe discret** (entente entre eux). **Verse une fiole dans le punch** = doctorer le punch (canon attesté : « *the punch, doctored by Luigi Pavarotti, is rather potent — −20 penalty to all Consume Alcohol Tests* »). À table : pas malveillant, juste son archétype.
 - **[S35]** — Mentionné à la parade des éléphants : **Dietrich consulte Luigi pour Mark**, **trouve Luigi ivre** beugler sur l'équipe pariée — **inutile**.
 - **[S37]** — **Suit Pathsokar à l'audience champion** au Middenpalaz (homebrew).
-- **[S38]** — **Climax canon ch.7** : **sauve Boris** avec les PJ après le combat avec Hoflich-Changeling (canon p.101 : « *the real Graf Boris, and an identical imposter... attention should then return to the Graf's chambers, where there is much activity* » + canon « *units dispatched to locate and fetch all high-level advisors — especially Baronial Physician Pavarotti* »). **Médecin de l'urgence**.
+- **[S38]** — **Climax ch.7** : **sauve Boris** avec les PJ après le combat avec Hoflich-Changeling (canon p.101 : « *the real Graf Boris, and an identical imposter... attention should then return to the Graf's chambers, where there is much activity* » + canon « *units dispatched to locate and fetch all high-level advisors — especially Baronial Physician Pavarotti* »). **Médecin de l'urgence**.
 
 ## Apparitions par session (post-Arc 5)
 
@@ -61,12 +61,12 @@ Stats partielles d'après le canon :
 
 ## MJ-only
 
-- **Lien Heinrich Todbringer** : canon p.32. Heinrich a rencontré Luigi à Miragliano (Tilea) + l'a recommandé. **Loyal à Heinrich** indirectement.
-- **De-hypnotiser Dieter** : canon ch.6 *De-Hypnotising Dieter* p.88 — Pavarotti **peut** débloquer Dieter (canon : « *Luigi is quite happy to act on his own initiative* »). **Hook clé Arc 5/Arc 6** : si les PJ lui demandent.
-- **Doctoring the punch** : canon p.72 + Garden Party S34 — Luigi **for his own amusement**. **Pas Tzeentch**, juste son tempérament. **À ne pas confondre** avec une vraie menace.
-- **Spouse**, voire **plusieurs**? Canon ne précise pas, mais il fuit régulièrement « outraged spouses » canon ch.6 *Baronial Physician* (« *running by them, laughing and clutching his trousers and boots in one hand as an outraged spouse pursues him* »). **Hook humoristique**.
+- **Lien Heinrich Todbringer** : p.32. Heinrich a rencontré Luigi à Miragliano (Tilea) + l'a recommandé. **Loyal à Heinrich** indirectement.
+- **De-hypnotiser Dieter** : ch.6 *De-Hypnotising Dieter* p.88 — Pavarotti **peut** débloquer Dieter (canon : « *Luigi is quite happy to act on his own initiative* »). **Hook clé Arc 5/Arc 6** : si les PJ lui demandent.
+- **Doctoring the punch** : p.72 + Garden Party S34 — Luigi **for his own amusement**. **Pas Tzeentch**, juste son tempérament. **À ne pas confondre** avec une vraie menace.
+- **Spouse**, voire **plusieurs**? Canon ne précise pas, mais il fuit régulièrement « outraged spouses » ch.6 *Baronial Physician* (« *running by them, laughing and clutching his trousers and boots in one hand as an outraged spouse pursues him* »). **Hook humoristique**.
 - **Peut diagnostiquer Brain Pox** : canon Heal + Lore Medicine. **Hook MJ-only Arc 6** : si les PJ lui demandent de diagnostiquer Stefan ou Anika-Elise (autopsie post-mortem), Pavarotti pourrait **trouver la signature Gideon**.
-- **Sparsam paranoid de Pavarotti** : Sparsam pense que Pavarotti pourrait être derrière l'hypnose de Dieter. **Red herring** canon. **Pavarotti n'est pas l'antagoniste**.
+- **Sparsam paranoid de Pavarotti** : Sparsam pense que Pavarotti pourrait être derrière l'hypnose de Dieter. **Red herring**. **Pavarotti n'est pas l'antagoniste**.
 - **Allié des PJ Arc 6+** : possible bon ami si bien traité (offrir à boire = +30 Fellowship).
 
 ## Hooks de retour

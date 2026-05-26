@@ -19,7 +19,7 @@ Obsessions affichées : la menace bretonnienne et marienburgeoise — il
 exige du Cercle Intérieur qu'il redouble ses efforts sur ces deux fronts
 `EiR Intro l.613`.
 
-## Phrases canon
+## Phrases
 
 - *« By the Hammer! They were loyal! There are those at the palace who refuse to believe it yet, but the JUNGFREUDS WERE LOYAL AND THE TAKEOVER HAS BEEN AN INCALCULABLE BLUNDER! »* — explosion calculée devant Veiran Thugenheim au Middenpalaz, S57 ; la colère semble feinte à un test Intuition (–30) `EiR ch.2 l.309+311`.
 - *« Well, if you did you could tell her the Black Chamber always has an opening. »* — à Heinrich Todbringer, après avoir lâché le nom de l'espionne Nastassia pour le déstabiliser `EiR ch.2 l.422+424`.
@@ -77,7 +77,7 @@ publiquement.
 - **Briefing sécurité Volkshalle** `EiR ch.13 l.314+316` : avant la cérémonie, Holzkrug inspecte la Volkshalle lui-même (autorité de senior spy) — il « tripote » près du trône, ce qui peut paraître sinistre aux PJ qui l'observent. Réalité : alarmé par la vitesse de l'effondrement, il a mis ses propres jeux entre parenthèses pour faire son métier sécurité.
 - **Bascule potentielle allié** : si les PJ peuvent **prouver** à Holzkrug que Zuntermein sert le Chaos avant qu'il aille se faire tuer, il peut basculer comme allié temporaire — sa haine de Karl-Franz Holswig-Schliestein est forte, mais sa loyauté à l'idée même d'Empire (et sa répugnance pour le Chaos) plus forte encore `EiR Intro l.611`.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - S57 — Middenpalaz : entre en scène arrogant, charme calculé `EiR ch.2 l.227`. Premier éclat orchestré (Gravin von Eckstein / Bettie Greenhill ; le Graf provoque la chute du plateau et laisse échapper un éclair de satisfaction) `EiR ch.2 l.277+279`. Second éclat joué pour le Middenpalaz entier : explose sur les Jungfreuds devant Veiran Thugenheim `EiR ch.2 l.297-311`. Sonde Heinrich Todbringer en évoquant Nastassia `EiR ch.2 l.413-424`. Sonde Emmiline von Kärzburdger sur ses loyautés `EiR ch.2 l.435-452`.
 - S60 — Défilé Altdorf : pavillon impérial, charme offensif sur Emmanuelle von Liebwitz, Boris Todbringer et l'ambassadeur Yabo Chao ; scrute les invités importants pour identifier des faiblesses exploitables `EiR ch.5 l.88`. Aperçu en aparté avec le sosie Hermann von Feilbach : *« What are we supposed to do? Karl-Franz gets worse every day. Doctor Kappelmuller may need to up the dosage. »* — Lipreading uniquement `EiR ch.5 l.309`. Ordonne à Hermann von Feilbach de mettre fin à la bataille démonstrative si les PJ n'agissent pas `EiR ch.5 l.353`.

@@ -4,7 +4,7 @@
 
 - **Sessions** : S4 → S12 (9 sessions)
 - **Trajet** : Auberge `Coach and Horses` (route Delberz→Altdorf) → coach Ratchett Lines → Inn of the Seven Spokes → [[Altdorf]] (port Reiksport) → barge **Berebeli** (Josef Quartjin) → Canal de Weissbruck → [[Weissbruck]] → [[Bögenhafen]]
-- **Source canon principale** : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/`
+- **Source principale** : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/`
   - S4 → ch.1 *Wanted: Bold Adventurers* (PDF p.11-23)
   - S5 → ch.2 *Mistaken Identity* (PDF p.24-31)
   - S6 → ch.3 *Heart of the Empire* (PDF p.32-42)
@@ -20,7 +20,7 @@
 
 ### Timeline in-game
 
-Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héritage est datée du **10 Nachhexen 2512**, et l'EiS canon dit "ideally in late Jahrdrung"). Estimation :
+Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héritage est datée du **10 Nachhexen 2512**, et l'EiS dit "ideally in late Jahrdrung"). Estimation :
 
 | Session | Date estimée | Lieu | Note |
 |---|---|---|---|
@@ -56,7 +56,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Auberge typique de route à 2 jours d'Altdorf. PJ cherchent un coche pour Altdorf. Phineas (sculptures + investisseurs), Elvira (consécration prêtresse Rhya), Skippy (anciens amis Altdorf).
 
-**Plots canon présents** (EiS ch.1) :
+**Plots présents** (EiS ch.1) :
 - **Plot Coach** — Coche **Ratchett Lines** disponible pour Altdorf, cochers **Gunnar et Hultz** ivres. À table : **"Four Seasons"** nommée (mais canon : Ratchett Lines, Four Seasons est la rivale). Inversion mineure.
 - **Plot Phillipe Descartes** (gambler bretonnien tricheur) — joue aux cartes contre Skippy, Pathsokar, Anselm. Gagne, **pas démasqué à table** (canon : 8 _SL_ Sleight of Hand pour tricher, Plot 7 du jeu).
 - **Plot Lady Isolde + Janna + Marie** (noble fugitive vers Altdorf pour mariage forcé) — présente, peu interactive à table.
@@ -82,7 +82,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Drakwald, lendemain matin. Coche prise par Elvira aux rênes. Pluie. À mi-chemin, ils tombent sur **une diligence Four Seasons (canon) attaquée en partie détruite** avec **des mutants en train de la dépouiller**.
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Embuscade mutants** — Mutants menés par **Knud Cratinx** (Mutant Outlaw, écailles vertes, Thorny Scales mutation). Compagnons mutants (Terenz pin-head, Mikael bestial face dog, Johann pointed head, Erik goat legs). **Phineas pris un carreau d'arbalète** (presque mort).
 - **Plot Rolf Hurtsis** (Mutant à face en putréfaction, ex-ami d'un PJ Rogue dans le canon) — à table, **possiblement non-déclenché** (les recaps ne mentionnent pas).
 - **Plot Kastor Lieberung** — **Corps de Kastor découvert** dans les buissons. Pathsokar le voit, **ressemblance frappante** (canon ch.2 l.73-77 : il reste 2 carreaux d'arbalète plantés dans le dos). Sur lui : **lettre d'héritage Lock, Stock & Barl** (signée Dietrich Barl K.C. LL.B., **10 Nachhexen 2512**, à Bögenhafen) + **affidavit signé par 3 Nulniens** (Ingrid Zicherman Sigmar Nuln + Oskar Helmut Marchands Nuln + Julius Schwungrad Avocats Nuln).
@@ -108,7 +108,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Altdorf, capitale impériale. Königplatz (King's Square) à l'arrivée. Ville énorme, étouffante, **influence subtile de Tzeentch** (canon : "Behind every plot, every scheme... lies Tzeentch").
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Plot Welcome Herr Lieberung** — 2 cultistes Main Pourpre approchent Pathsokar avec le **signe secret** (grattent l'oreille gauche avec petit doigt droit). Pathsokar ne comprend pas le contre-signe (canon : lever sourcils + brosser cheveux). Les cultistes se retirent confus.
 - **Plot Adolphus Kuftsos invisible** — **Adolphus était là**, leur fait croire qu'il a la bonne réponse, les emmène. **Les 2 cultistes Main Pourpre sont retrouvés morts par les PJ** la nuit suivante (canon : Adolphus les tue à l'arbalète depuis l'ombre).
 - **Plot défilé impérial** — Coursier voit l'**Empereur Karl-Franz** en personne au Königplatz. **Canon MJ-only : c'est un double** (4e passage cette semaine — pour cacher la fragilité du vrai Karl-Franz). Lien essentiel pour The Horned Rat (Hermann von Feilbach = sosie/Reiksguard Cercle Intérieur).
@@ -138,7 +138,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Voyage barge **Berebeli** sur le **Canal de Weissbruck** (60 mi, achevé 2462 IC, géré par Houses Gruber + Holzkrug + Holswig-Schleistein). Equipage Berebeli : **Josef** + **Wolmar** + **Gilda** + bébé **Elsa**.
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Patrouille Sergeant Glucker** (Hartsklein) — chats avec PJ, parle des bandits + meurtre Altdorf (Jacob mort). Patrouille passe.
 - **Halte à Weissbruck** — PJ attaqués par **carreaux d'arbalète** la nuit. **Adolphus Kuftsos en planque au Black Gold Inn** (canon ch.4) avec 3 thugs (Bengt, Gurt, Willie). PJ se barricadent dans le bateau. Le shérif les retient le lendemain. **Pas d'attaque frontale, mais conséquences** : PJ traités comme suspects, Adolphus disparait.
 
@@ -155,7 +155,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Arrivée Bögenhafen au quai Haagen's Wharf. **Berebeli** amarre. Josef sort voir **Ruggbroder** (cargo vin). Schaffenfest déjà commencée.
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Cabinet Lock, Stock & Barl, Garten Weg** — Quartier sombre. Clerk étudiant (engagé par Adolphus), **portes/fenêtres se barrent**.
 - **Adolphus dehors crie l'arrestation** ("Kastor Lieberung! magister impedimentae of the cult of the Main Pourpre!") puis **est tué par Gideon** : corps **cœur arraché, intestines, ventre ouvert**. Skippy défonce la porte, trouve Adolphus mort.
 - **Lettre de Quintus Fassbinder ("Q.F.") trouvée** sur Adolphus — confirme : Adolphus chassait Kastor sous la direction de Q.F. (Fassbinder, basé à Altdorf — Nine Stars Coaching Inn). Rencontre Adolphus / Q.F. avait lieu à Nuln (Hook and Hatchet). **Kastor = Magister Impedimentae d'une cellule Main Pourpre**.
@@ -179,7 +179,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Foire annuelle de Bögenhafen, 3 jours. Livestock market + foire + sideshows.
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Doctor Malthusius's Zoocopeia** — Vrai nom **Hans Pfliefer** (5GC bounty Middenheim). Son nain Grunni. **Gobelin à 3 jambes** (Mutant illégal). Le gobelin **s'échappe par une bouche d'égout** dans le mur de la ville. Magistrat Heinz Richter offre 5 GC pour le récupérer + chambre auberge Journey's End.
 - **Mystic Megret** — Prédiction à Elvira : "endroit sombre, mort, sept hommes, deux autres qui les détruiront" (canon Plot 5 ch.6 — référence directe à l'**Inner Council Ordo Septenarius (7) + Teugen + Gideon (2)**).
 - **Elvyra Kleinestun** (herboriste-pharmacien) — s'attache à Anselm (canon : "ravie de rencontrer quelqu'un qui connait ses herbes"). Hook : invite chez elle à Weissbruck pour tuition ; importante pour Arc 4 DotR + Arc 7 EiR.
@@ -202,9 +202,9 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 ## S10 — Dans les ténèbres — Égouts (EiS ch.7)
 
-**Cadre** : Égouts de Bögenhafen, sous la ville. Manhole + sewers. Description canonique : sewers majeurs (5ft channel + 3ft walkways) et mineurs (5ft pipes).
+**Cadre** : Égouts de Bögenhafen, sous la ville. Manhole + sewers. Descriptionique : sewers majeurs (5ft channel + 3ft walkways) et mineurs (5ft pipes).
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Cadavre de Gottri Gurnisson** trouvé dans l'effluent (corps mutilé, cœur arraché, bras arraché — signature du Guardian Daemon).
 - **Cercle d'invocation + hexagramme** = **Hidden Temple Ordo Septenarius** sous les bureaux Steinhäger (canon). Octogramme, copper circle, candélabres argent. **Symbole 7-pointed star + beast head + "Ordo Septenarius"** sur le sol.
 - **Démon = Guardian Daemon (Herald of Tzeentch)** — un don de Tzeentch via Gideon. Pathsokar + Skippy le tuent. Il **disparaît au moment d'être achevé** (canon : "Unstable Outside the Hidden Temple" — meurt en s'évaporant). **Le démon est gardien du temple, ne peut pas sortir.**
@@ -232,7 +232,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Bögenhafen, jour suivant. Enquête complète sur l'**Ordo Septenarius**.
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Juge Richter dit que le gobelin a été retrouvé écrasé dans un entrepôt** (canon : couverture orchestrée par Teugen pour étouffer l'affaire).
 - **Garde à l'entrepôt incohérent** (canon : **Anton Breugel** warehouseman alcoolique, raconte avoir tué le gobelin lui-même — Anton mourra mystérieusement le lendemain dans la rivière).
 - **Skippy / temple de Sigmar** — Prêtre zélé monte la haine contre les Ulriçains. **Massacre au temple d'Ulric** (graffiti contre eux). **Skippy participe**. → trigger conversion progressive Skippy→Mark vers Ulric.
@@ -266,16 +266,16 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 **Cadre** : Jour du rituel. Magirius craque.
 
-**Plots canon résolus à table** :
+**Plots résolus à table** :
 - **Magirius vient voir les PJ** — panique, avoue rituels magiques + sacrifice humain prévu ce soir. Veut aider. PJ l'invitent sur le Berebeli pour le protéger.
 - **Magirius assassiné sur le Berebeli** — **gros rat sort de la cale** (canon : **Gideon en forme animale** ou **Gideon-déguisé-en-serviteur** ? Canon ch.9 l.32 : "the young servant is, in fact, Gideon in disguise"). **Corps caché dans le Bögen** par les PJ pendant inspection des gardes. **PJ évitent l'arrestation.**
 - **Forgeron** : confirme commande de cercle copper-circle livrée sur les quais. Hook indices nouveau temple.
 - **Embuscade des gros bras** : PJ les contournent, capturent.
-- **Pyromane brûle des bateaux** = **Gideon en doppelganger** d'un PJ, met le feu pour mettre la foule contre eux (canon ch.9 l.115-120). **Le canon prévoyait des poursuites mob/Watch**. À table : PJ semblent l'évitent en accostant directement devant l'entrepôt.
+- **Pyromane brûle des bateaux** = **Gideon en doppelganger** d'un PJ, met le feu pour mettre la foule contre eux (canon ch.9 l.115-120). **Le prévoyait des poursuites mob/Watch**. À table : PJ semblent l'évitent en accostant directement devant l'entrepôt.
 - **Warehouse 13** (Ostendamm, **Teugen family** rose-cross symbol) — Le rituel commence.
 - **7 hommes + Teugen + enfant sinistre (Gideon)** arrivent. **Sac avec Filianore endormie** (le sacrifice à consacrer le temple = la femme dans le sac). **Pathsokar reconnaît Filianore** — **CHOC NARRATIF MAJEUR**. Crie, déclenche la bataille.
 - **Teugen rate son sort** (panique, fluff la roll). Combat : **Teugen tué** par Pathsokar/Skippy. **L'enfant prend forme démoniaque** (Gideon reprend sa vraie forme), **ne les attaque pas, disparaît**.
-- **Conséquences canon ch.9** : si Teugen tué AVANT que le rituel finisse, le **Greater Daemon Sheerargetru "tire sur Teugen" depuis l'au-delà**, le brûle, **réclame son âme** ("It was always mine; but you were more useful when you believed you could save it"). **Gideon est aussi brûlé** ("There is no portal. You have failed. Return to me"). Puis le **Greater Daemon regarde Pathsokar (le double Kastor)** une seconde — pause — puis disparaît. **Le Greater Daemon a vu Pathsokar.** → Hook Arc 7.
+- **Conséquences ch.9** : si Teugen tué AVANT que le rituel finisse, le **Greater Daemon Sheerargetru "tire sur Teugen" depuis l'au-delà**, le brûle, **réclame son âme** ("It was always mine; but you were more useful when you believed you could save it"). **Gideon est aussi brûlé** ("There is no portal. You have failed. Return to me"). Puis le **Greater Daemon regarde Pathsokar (le double Kastor)** une seconde — pause — puis disparaît. **Le Greater Daemon a vu Pathsokar.** → Hook Arc 7.
 - **Inner Council** : les 6 autres membres (sans Teugen) **fuient** sous l'effet Terror. **Survivants possibles** : Steinhäger + 5 autres.
 - **Arrestation par les autorités** au matin (canon : pas explicite, mais "ils sont obviously suspects"). PJ en prison, évasion via **langage des voleurs** (Elvira espionnait pour la Gravin Maria-Ulrike jadis — back-story homebrew). Fuite à la nage, retour Berebeli, départ précipité.
 
@@ -292,7 +292,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **Filianore** est le **sacrifice consacratoire** acquise par Teugen via les **thugs Stevedores' Guild** (canon ch.9 l.158-160). **Vraie identité MJ** (révélée en filigrane Arc 4) : Filianore = **agent double Main Pourpre infiltrée chez Emmanuelle Nacht à Ubersreik**, envoyée à Bögenhafen pour enquêter sur l'Ordo Septenarius rival. Teugen l'a identifiée comme concurrente Tzeentch → capturée + droguée pour servir de sacrifice + éliminer une rivale. **Amnésie post-traumatique S12-S21**. Cf. FIL-28 et fiche [[Filianore]].
 - **Steinhäger survivant** : Heinrich (frère) en profite probablement pour prendre la main sur la famille (canon ch.8 l.337+).
 - **Haagen toujours actif** dans le Black Fire Pass — non-affronté.
-- **Magirius mort** : canon ch.9 l.32 dit que Gideon a tué Magirius **avant que les PJ arrivent** chez lui, déguisé en serviteur. À table : version homebrew = mort sur le Berebeli (rat = Gideon ?). Cohérent fonctionnellement.
+- **Magirius mort** : ch.9 l.32 dit que Gideon a tué Magirius **avant que les PJ arrivent** chez lui, déguisé en serviteur. À table : version homebrew = mort sur le Berebeli (rat = Gideon ?). Cohérent fonctionnellement.
 
 ---
 
@@ -339,11 +339,11 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 | **Phillipe Descartes** | EiS ch.1 l.476-488 (statbloc) | [VIVANT] | Gambler bretonnien, hustler. Pas démasqué à table. |
 | **Lady Isolde von Strudeldorf** + Janna Elleiner + Marie Schutz | EiS ch.1 l.402-439 (statblocs) | [VIVANT] | Noble fugitive, sa maid, sa garde du corps. Peu interactive à table. |
 | **Gunnar et Hultz** | EiS ch.1 l.360+ | [VIVANT] | Cochers Ratchett Lines (à table : "Four Seasons"). |
-| **Gustav Fondleburger** | EiS ch.1 l.318-322 (statbloc) | [VIVANT] | Aubergiste Coach and Horses. **Possible guetteur bandits** (option canon non-déclenchée). |
+| **Gustav Fondleburger** | EiS ch.1 l.318-322 (statbloc) | [VIVANT] | Aubergiste Coach and Horses. **Possible guetteur bandits** (option non-déclenchée). |
 | **Blackie le corbeau** | EiS ch.1 l.350-358 | [INCONNU] [POSSIBLE AGENT] | Mascotte de Gustav, **mais en fait remplacé** par un agent qui peut invoquer démon Fhluger'dagh. Non-déclenché. |
 | **Sergeant Magnus Pflaster + Anida Pflaster** | EiS ch.2 l.214 + l.261 | [VIVANT] | Road Warden + sa sœur Doktor. |
 | **Max Ernst** | EiS ch.3 l.270-282 (statbloc) | [STATUT INCONNU] | Protagonist engagé par les nobles slumming. Peut survivre ou pas. |
-| **Jacob von Katzenreik + Georg von Ostbrun** | EiS ch.3 l.286-296 (statbloc) | [Jacob MORT le soir S6 — canon ch.4] [Georg VIVANT] | Nobles slumming. **Jacob mort = mandat d'arrêt PJ Altdorf.** Georg = ennemi potentiel. |
+| **Jacob von Katzenreik + Georg von Ostbrun** | EiS ch.3 l.286-296 (statbloc) | [Jacob MORT le soir S6 — ch.4] [Georg VIVANT] | Nobles slumming. **Jacob mort = mandat d'arrêt PJ Altdorf.** Georg = ennemi potentiel. |
 | **Empereur Karl-Franz (le double)** | EiS ch.3 l.56 | [VIVANT, le double] | Vu en défilé. **Pas le vrai Karl-Franz** = canon Hermann von Feilbach (Arc 4+). |
 | **Prince Héritier Hergard von Tasseninck** | EiS ch.1 l.191 (handout) | [VIVANT, hors-arc] | Affiche d'expédition Grey Mountains. **Tué par Skaven Snikkit plus tard** (canon Arc 5 PBT). |
 | **Ulthar the Unstable** | EiS ch.8 l.79-89 + l.587-599 (statbloc) | [MORT] (Gideon le tue) | Prophet of doom, ex-ami Karl Teugen. Médaillon Teugen sur lui. Peut être le prêcheur S6+S11. |
@@ -410,7 +410,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 - **Connexions retroactives EiR (Arc 7)** :
   - **Sheerargetru** (Greater Daemon Tzeentch enchaîné Black Fire Pass) = "Master" de Gideon mentionné canon EiS ch.9 l.456.
-  - **Mine de Schmerzeit / 3 partenaires Teugen+Steinhäger+Haagen** = permis canon retconné par EiR pour relier Bögenhafen → Black Fire Pass → Ghal Maraz cave.
+  - **Mine de Schmerzeit / 3 partenaires Teugen+Steinhäger+Haagen** = permis retconné par EiR pour relier Bögenhafen → Black Fire Pass → Ghal Maraz cave.
   - **Purple Brain Pox méthode Karl Teugen ↔ Karl-Franz** = même empoisonnement magique 8 ans d'écart.
   - **Hermann von Feilbach (sosie Karl-Franz)** = vu défiler ici à S6.
   - **Quintus Fassbinder** = même PNJ qu'au début d'EiR ch.8 (rendez-vous Altdorf).

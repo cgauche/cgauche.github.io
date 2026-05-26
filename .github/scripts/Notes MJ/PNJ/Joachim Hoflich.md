@@ -5,15 +5,15 @@
 ## Identité publique
 - **Fonction** : Un des 3 Law Lords de Middenheim. Aux côtés de [[Karl-Heinz Wasmeier]] et [[Reiner Ehrlich]]. Vit dans le Inner Palace (canon : « *the third Law Lord, Joachim Hoflich, lives in the Palace* »).
 - **Apparence du vrai Hoflich** : Début cinquantaine, taille et corpulence moyennes, **cheveux noirs courts, yeux gris-vert**. Tranquille et formel, **digne**, mais avec un **humour pince-sans-rire**. Observateur, décisif, **implacable**.
-- **Apparence du Doppelgänger** : Mime parfait — passe le test canon de la perception **Hard (-10)** pour les non-intimes. Quelqu'un de très proche peut détecter qu'**il y a quelque chose qui cloche** (canon p.121).
+- **Apparence du Doppelgänger** : Mime parfait — passe le test de la perception **Hard (-10)** pour les non-intimes. Quelqu'un de très proche peut détecter qu'**il y a quelque chose qui cloche** (canon p.121).
 - **Statut** : [MORT — corps retrouvé S38 dans son apparment, en putréfaction] / [Doppelgänger fui S38, identité véritable = Gideon, [DISPARU — ENNEMI ACTIF]]
 - **Tags** : `#JoachimHoflich` `#LawLord` `#Middenheim` `#Doppelganger` `#Changeling` `#Gideon` `#Arc5` `#Mort` `#TzeentchPlot`
 
-## Source canon
+## Source
 - **PBT Appendix I p.121** (NPC sheet) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.3 *Evil Plot - Law Lords*** : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/06 - Chapter 3 The Evil Plot.md`
 - **PBT ch.7 *A Grisly Discovery*** (canon p.101) : corps retrouvé.
-- **PBT Appendix II *Doppelgängers*** : créature canon.
+- **PBT Appendix II *Doppelgängers*** : créature.
 - **PBT Companion ch.10 *The Changeling*** : alternative Tzeentch = **inflexion table = Gideon**.
 
 ## Statbloc du Doppelgänger (PBT p.121)
@@ -46,8 +46,8 @@ Canon ch.3 *Evil Plot* + p.121 :
 - **[S33]** — **Présent à l'opéra Vessille** (canon attending list Aubentag). **Mark le fixe d'un regard sévère** — réaction hostile/paranoïaque, le fait expulser par ses gardes (« sale brigand, assassin »).
 - **[S34]** — Présent au Garden Party (canon attending list).
 - **[S36]** — Présent à l'expo héraldique (canon attending list). **Phineas + Wasmeier + Hoflich** ensemble — Phineas confie l'objectif d'abroger la taxe.
-- **[S38]** — **Climax canon ch.7** : Hoflich-Changeling, dans la **chambre du Graf**, est en train **d'étrangler Boris au garrote**. Les PJ + Ehrlich arrivent, **deux Grafs en combat**. **Le faux Graf-Doppelgänger fuit par la fenêtre** (canon : « *opens the window, and leaves — still as Hoflich — instructing the guards that the Graf does not wish to be disturbed for the next hour* », puis transformation). **À table : transformation directe en oiseau** (signature Changeling). **Fuite réussie**.
-- **[S38]** — **Corps réel de Hoflich retrouvé** dans le bureau Hoflich, **vieilli de plusieurs mois** (canon : « *a waxed, sealed sack, now slit down the middle to reveal Joachim Hoflich's decomposed body* », canon p.101). Documents compromettants + diagramme d'influence Wasmeier + message à l'écriture Wasmeier = preuves accablantes.
+- **[S38]** — **Climax ch.7** : Hoflich-Changeling, dans la **chambre du Graf**, est en train **d'étrangler Boris au garrote**. Les PJ + Ehrlich arrivent, **deux Grafs en combat**. **Le faux Graf-Doppelgänger fuit par la fenêtre** (canon : « *opens the window, and leaves — still as Hoflich — instructing the guards that the Graf does not wish to be disturbed for the next hour* », puis transformation). **À table : transformation directe en oiseau** (signature Changeling). **Fuite réussie**.
+- **[S38]** — **Corps réel de Hoflich retrouvé** dans le bureau Hoflich, **vieilli de plusieurs mois** (canon : « *a waxed, sealed sack, now slit down the middle to reveal Joachim Hoflich's decomposed body* », p.101). Documents compromettants + diagramme d'influence Wasmeier + message à l'écriture Wasmeier = preuves accablantes.
 
 ## Ce que les PJ savent (post-S38)
 
@@ -59,12 +59,12 @@ Canon ch.3 *Evil Plot* + p.121 :
 
 ## MJ-only
 
-- **Doppelgänger / Changeling = Gideon** : canon offre 2 options (Doppelgänger basique ou Changeling Tzeentch — Companion ch.10). À table, **le métamorphe = [[Gideon]] (Sheru-Tar Gee'taru)** — le même que Bögenhafen, Sheerargetru-ordonné, agent central de l'Empire in Ruins.
+- **Doppelgänger / Changeling = Gideon** : offre 2 options (Doppelgänger basique ou Changeling Tzeentch — Companion ch.10). À table, **le métamorphe = [[Gideon]] (Sheru-Tar Gee'taru)** — le même que Bögenhafen, Sheerargetru-ordonné, agent central de l'Empire in Ruins.
 - **Apparition Gideon à Bögenhafen S12** : forme d'enfant, mâche ail, tue Magirius. Pendant le rituel Teugen.
 - **Apparition Gideon à Middenheim Arc 5** : forme de Hoflich pendant 2-3 mois, manipule, essaie de tuer Boris S38.
 - **Disparition Gideon S38** : retourne dans l'ombre Tzeentch. **Réapparait Arc 7** à Altdorf (Wolfgang + Kappelmuller + Volkmar fake S63).
 - **Pourquoi Wasmeier a recruté Gideon** plutôt qu'un Doppelgänger basique : à table, **Wasmeier sert Sheerargetru via Gideon** — c'est Gideon qui orchestre Wasmeier, **pas l'inverse**. Wasmeier croit qu'il dirige, mais il est en réalité **pion de Tzeentch**. Cohérent avec le plan Arc 7 EiR (Sheerargetru-Gideon-Zuntermein-Wasmeier-Kappelmuller).
-- **Si les PJ creusent** : il y a des indices possibles (le métamorphe a transformé en oiseau, alors qu'un Doppelgänger canon ne le ferait pas — il fuirait sous forme humanoïde). À table c'est un **signal** (Gideon peut prendre n'importe quelle forme).
+- **Si les PJ creusent** : il y a des indices possibles (le métamorphe a transformé en oiseau, alors qu'un Doppelgänger ne le ferait pas — il fuirait sous forme humanoïde). À table c'est un **signal** (Gideon peut prendre n'importe quelle forme).
 - **Stefan** : potentiellement empoisonné aussi par Gideon (similar pattern Anika-Elise). Hook Arc 6 : Pavarotti peut **diagnostiquer Purple Brain Pox** chez Stefan post-PBT, c'est la **signature Gideon**.
 
 ## Hooks de retour

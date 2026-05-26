@@ -1,6 +1,6 @@
 # Krat Snagglefang
 
-> **Mutant bionique skaven Clan Skryre** — Engineer subordonné de [[Maliss]]. Repéré à Gladbeich S50 (cohorte balistique griffon muté). Échappe canon.
+> **Mutant bionique skaven Clan Skryre** — Engineer subordonné de [[Maliss]]. Repéré à Gladbeich S50 (cohorte balistique griffon muté). Échappe.
 
 ## Identité publique
 - **Espèce** : Skaven Clan Skryre (mutant bionique).
@@ -10,10 +10,10 @@
 - **Statut** : [VIVANT — FUYARD post-S50]
 - **Tags** : `#KratSnagglefang` `#ClanSkryre` `#Skaven` `#Engineer` `#Mutant` `#Bionique` `#Maliss` `#Holzbek` `#Arc6` `#Fuyard`
 
-## Source canon
+## Source
 - *HR ch. Griffon Down* l.3938 *The Engineer – Krat Snagglefang*.
 
-## Statbloc canon (HR l.3938, partiel)
+## Statbloc (HR l.3938, partiel)
 
 - **Carrière** : Skaven Warlock-Engineer Apprentice (canon Silver).
 - **Compétences fortes** : Channelling (Dhar), Cool, Endurance, Language (Queekish), Lore (Engineering, Warpstone), Melee (Basic), Ranged (Skaven weaponry), Trade (Engineer).

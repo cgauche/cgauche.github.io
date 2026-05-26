@@ -8,10 +8,10 @@
 - **Statut** : [LIBÉRÉ S28 (Wittgenstein éteint), mais le village reste muté et malade. Probable décrépitude continue.]
 - **Tags** : `#Wittgendorf` `#Reikland` `#Reik` `#Wittgenstein` `#Malpierre` `#Mutation` `#JeanRousseau` `#MargritteWittgenstein` `#TempeteIlYa2Ans`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.6 *Wittgendorf* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/09 - Chapter 6 Wittgendorf.md`
 
-## Description canon (DotR ch.6)
+## Description (DotR ch.6)
 
 Village vassal des Wittgenstein. **Misère extrême**. **Grande tempête il y a 2 ans** = aggravation. **Les villageois sont sous-alimentés, mutés, terrifiés** par les gardes du château qui font des **enlèvements réguliers** (chair vive pour les expériences de Margritte).
 

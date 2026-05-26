@@ -10,7 +10,7 @@
 - **Statut** : [DÉMANTELÉE à Middenheim post-Arc 6 ; ACTIVE ailleurs Empire]
 - **Tags** : `#YellowFang` `#CrocJaune` `#Skaven` `#HornedRat` `#Cult` `#Incisive` `#Middenheim` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. Villainous Factions — The Yellow Fang in Middenheim* l.703-723.
 - *HR ch. The Sewers — The Yellow Fang in the Sewers* l.758-762.
 - *HR ch. Statbloc Yellow Fang Cultist* l.408.
@@ -25,12 +25,12 @@
 
 ## Structure
 
-- **Pas de hiérarchie complexe** identifiée canon. Pas de Magisters explicites.
+- **Pas de hiérarchie complexe** identifiée. Pas de Magisters explicites.
 - **Cellules par institution** :
   - **Sewer Jacks** : Raina Müs (S43).
   - **Rat Catchers' Guild** : Ayinger (mentionné S40, non identifié directement).
   - **Collegium Theologica** : Linwourm/Lindwurm (canon l.1064 *Dr Lanzaro Lindwurm*) + Eunice's assistants Karl Zeigenalter + Gaius Stummzunge (canon l.2570 Karl Yellow Fang Spy).
-  - **Le Piquet** : Otfried Brantner (sergent, canon l.4502+l.4507).
+  - **Le Piquet** : Otfried Brantner (sergent, l.4502+l.4507).
   - **Marchands** : Piet Schadling (canon S44, mort).
   - **Smugglers** : Valeria Roth (canon l.4159).
 - **Communication** : codes simples, déguisement (dentier cache l'incisive arrachée).

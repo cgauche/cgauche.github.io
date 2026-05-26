@@ -8,7 +8,7 @@
 - **HQ** : **Castle Reikguard** (canon ch.4 l.67) — promontoire 200ft Reiker Marshes, refuge Imperial post-Gorbad Ironclaw 1707 IC.
 - **Tags** : `#Reiksguard` `#Reikland` `#Helborg` `#FeilbachInnerCircle` `#Teufelsmilch` `#PalaceGarrison` `#FalseHonourGuard` `#GideonInfiltration` `#Climax` `#Arc7`
 
-## Source canon
+## Source
 - **EiR Intro l.515** *Reiksguard* knightly profile : *« bodyguard of the Imperial family. Have Commanding Presence, Iron Will, and Supportive Talents »*.
 - **EiR Intro l.827-871** *Hermann Von Feilbach The Emperor's Double Reiksguard Inner Circle*.
 - **EiR ch.4** Castle Reikguard description.
@@ -32,16 +32,16 @@
 - **High Helms cadre** : *« two High Helms »* (canon ch.5 l.82). Repoussent tout individu près empereur défile.
 - **Reiksguard infantry** : foot knights canon Intro l.515.
 
-## Honour Guard False Reliquary climax canon ch.13
+## Honour Guard False Reliquary climax ch.13
 
 - **9 cultist-Reiksguard** : *« cultists who have replaced honour guard for Reliquary »*. Detected by **Hard -20 Perception** finding duty roster signed Baron Teufelsmilch + stamped seal — **Baron has no memory of approving**.
 - **Iztak Graksk chant 9 times** post-Wolfgang Hammer drop → 9 Eyes burn pink/blue flames.
 - **2nd cultist guard kills Yorri** poleaxe. **3rd stabs Wolfgang back**.
-- **Statbloc canon ch.13 l.390** :
+- **Statbloc ch.13 l.390** :
   - M4 WS50 BS35 S40 T40 I49 Ag35 Dex30 Int30 WP55 Fel30 W17.
   - Traits Armour 4, Weapon (Halberd) +9. Skills Athletics 45, Cool 70, Dodge 45, Melee (Basic+Polearm) 70, Perception 55. **Drilled, Riposte, Strike Mighty Blow**. **Main Pourpre Tattoo detectable corpses search**.
 
-## Statbloc canon Reiksguard generic (Intro l.515)
+## Statbloc Reiksguard generic (Intro l.515)
 
 Use Knight Preceptor profile EiR Intro l.526 + Talents : **Commanding Presence, Iron Will, Supportive**.
 

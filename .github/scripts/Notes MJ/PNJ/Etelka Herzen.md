@@ -9,7 +9,7 @@
 - **Statut** : **[MORTE S25, Barren Hills]** — tuée par les PJ aux Collines Stériles dans le climax du chapitre 4 DotR. Quatre adversaires morts sur place (Etelka + Heidlemann + 2 sbires costauds).
 - **Tags** : `#Herzen` `#RedCrown` `#Tzeentch` `#Sorciere` `#PierreCeleste` `#Skystone` `#MORT` `#Arc4` `#BarrenHills` `#MineGrissenwald` `#CarnetEtelka`
 
-## Source canon
+## Source
 - *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* (Etelka explicitement Red Crown) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md` ligne 6 (« *the clues found in Etelka Herzen's tower at Black Peaks indicate that she is travelling there for the Red Crown cult* ») + ligne 34 (« *It is important to keep track of Etelka Herzen and her crony, Ernst Heidlemann (...) Their Red Crown expedition* »)
 - *Death on the Reik Companion* ch.7 *Fellow Travellers* : `Source/Death on the Reik Companion/14 - CHAPTER 7- FELLOW TRAVELLERS.md` (mention « *encountered Etelka Herzen and her band searching for something lost in the Barren Hills* »)
 - *Death on the Reik Companion* ch.15 *The Red Crown - A GM's Guide* : `Source/Death on the Reik Companion/22 - CHAPTER 15 THE RED CROWN - A GAMEMASTER'S GUIDE.md` (background cult)

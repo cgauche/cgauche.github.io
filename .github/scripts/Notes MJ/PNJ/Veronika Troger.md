@@ -9,7 +9,7 @@
 - **Statut** : [MORTE S50]
 - **Tags** : `#Veronika` `#VeronikaTroger` `#Gladbeich` `#Trappeuse` `#Holzbek` `#Griffon` `#MortS50` `#Arc6`
 
-## Source canon
+## Source
 - *HR ch. Griffon Down* l.3916 *The Guide — Veronika Troger*.
 
 ## Statbloc (partiel)
@@ -24,7 +24,7 @@
 
 ## MJ-only
 
-- **Hook narratif** : sa mort marque les PJ — une victime innocente. **Choix MJ** : ne pas la tuer (mais canon prévoit le danger).
+- **Hook narratif** : sa mort marque les PJ — une victime innocente. **Choix MJ** : ne pas la tuer (mais prévoit le danger).
 
 ## Liens
 

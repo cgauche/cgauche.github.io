@@ -8,7 +8,7 @@
 - **Statut** : [VIVANT] [EN FUITE — ENNEMI ACTIF] (Companion ch. 11, Diesdorf).
 - **Tags** : `#Rotlander` `#RedCrown` `#Tzeentch` `#Diesdorf` `#Coup` `#Forgeron` `#EnFuite`
 
-## Source canon
+## Source
 - **Companion ch. 11** *The Siege of Diesdorf* : `Source/Empire In Ruins Companion/13 - CHAPTER 11 The Siege of Diesdorf.md` l. 28+
 
 ## Plan

@@ -16,7 +16,7 @@ Mariage infructueux : pas d'enfants, succession Middenheim toujours en suspens �
 - **Famille indirecte** : la lignée Nikse domine la province de Nordland depuis le Baron Adolphus Nikse à l'Âge des Trois Empereurs `EiR Companion ch.5 l.12`. Le mariage d'Anika-Elise est l'apogée de leur stratégie d'alliance avec Middenheim.
 - **Culte secret — dirigeante spirituelle** : Sceptre de Jade Slaaneshi — Anika-Elise est cultiste de Chaos et **dirigeante spirituelle effective du culte**, pas simple membre `PBT Appendix l.912` `EiR Companion ch.5 l.38`. Seul le cercle intime du culte connaît son identité réelle. Sa mort laisse plusieurs membres senior conspirer pour la remplacer, dont Gotthard Wallenstein `PBT Appendix l.912`.
 - **Possesseur des preuves post-mortem** : Duchesse Ingrid Gausser — récupère via un contact travaillant pour Karl-Heinz Wasmeier des missives interceptées entre Anika-Elise et ses pairs du Sceptre de Jade. Conserve la preuve comme arme politique `EiR Companion ch.5 l.38`.
-- **Rival opportuniste** : Main Pourpre de Middenheim (cellule de Karl-Heinz Wasmeier) — *« the powerful Middenheim cell of the Purple Hand has seen an opportunity to weaken its rival »* `PBT Appendix l.912`. La source les présente comme tirant parti de la mort, pas comme l'ayant causée.
+- **Rival opportuniste** : Main Pourpre de Middenheim (cellule de Karl-Heinz Wasmeier) — tire parti de la mort d'Anika-Elise pour affaiblir le culte rival `PBT Appendix l.912`.
 
 ## Objectifs et angle mort
 
@@ -28,7 +28,7 @@ Mariage infructueux : pas d'enfants, succession Middenheim toujours en suspens �
 
 - **Révélation post-EiR** `EiR Companion ch.5 l.52` : les agents de Theoderic Gausser annoncent discrètement à Liepmund Holzkrug et aux autres puissants politiques que la fille du Baron Werner Nikse était cultiste de Chaos, en s'appuyant sur les preuves de Karl-Heinz Wasmeier conservées par Duchesse Ingrid Gausser. Scandale étouffé : le Graf Boris Todbringer compromis, Altdorf et Ostland exercent une pression pour faire déposer Werner Nikse comme Grand Baron de Nordland et Prince de Salzenmund. La raison officielle communiquée est une « erreur de légitimité » — la vérité reste enterrée.
 - **Effet en chaîne** : la déposition de Werner Nikse permet à Theoderic Gausser de prendre la province à sa place, et le Nordland bascule politiquement post-Turmoil. Toute la chaîne d'instabilité Nordland Arc 7 (radicalisation de Lord Malthe Barthelm, intervention de la lignée Nikse) trouve son origine dans ce secret non-éventé du vivant d'Anika-Elise.
-- **Cause de mort — non précisée** `PBT Appendix l.912` `PBT ch.2 l.101` : la source qualifie sa mort de « maladie étrange » et d'« untimely death » sans nommer ni cause ni responsable. La Main Pourpre de Middenheim *« has seen an opportunity to weaken its rival »* — exploite l'opportunité, pas désignée comme cause. Aucune attribution dans les sources, aucune attribution table : la mort reste un mystère ouvert. Les PJ qui veulent investiguer peuvent passer par Gotthard Wallenstein interrogé Arc 6 ou les preuves d'Ingrid Gausser Arc 7+, mais la source ne livre pas de réponse.
+- **Cause de mort** `PBT Appendix l.912` `PBT ch.2 l.101` : maladie étrange, mort prématurée. Mystère ouvert. Pour investiguer, les PJ peuvent passer par Gotthard Wallenstein interrogé Arc 6 ou les preuves d'Ingrid Gausser Arc 7+.
 
 ## Apparitions Arc 5 → post-Turmoil
 

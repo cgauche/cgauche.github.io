@@ -6,11 +6,11 @@
 - **Statut** : [VIVANT] [ENNEMI ACTIF] depuis S3 — non-affronté à table
 - **Tags** : `#Kavenner` `#OrdoUltima` `#Slaanesh` `#Nuln` `#CulteCaché` `#NonAffronté`
 
-## Source canon
+## Source
 - RN&HD ch.5 (apparition à l'opéra, Plot 4 College Ties, identité Slaanesh, statbloc, description) : `Source/Rough Nights & Hard Days/05 - A Night at the Opera.md` lignes 112-126 (action) + 264-272 (statbloc) + 281-282 (description)
 - RN&HD ch.6 (continuation — leads the Slaanesh ritual at Nastassia's wedding if alive) : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` lignes 100, 200, 250
 
-## Description canon
+## Description
 
 > "**Nasal-voiced Kavenner** is the **Countess's personal lawyer**. Known as a **stern, dedicated man who is utterly devoted to his wife, children, and the Cult of Verena**, he uses this good reputation to disguise his second life as **one of the most successful and depraved cultists of the *Ordo Ultima***.
 >
@@ -20,7 +20,7 @@
 >
 > **Apparence publique** : juriste sobre, austère, **voix nasillarde**, vêtements correctement coupés mais sans ostentation. Père de famille modèle.
 
-## Statbloc canon — **Brecht Kavenner – Slaanesh Cultist and Barrister (Gold 3)**
+## Statbloc — **Brecht Kavenner – Slaanesh Cultist and Barrister (Gold 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

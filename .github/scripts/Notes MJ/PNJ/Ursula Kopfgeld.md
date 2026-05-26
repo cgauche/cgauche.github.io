@@ -9,11 +9,11 @@
 - **Statut** : [DISPARU] [FUGITIVE] depuis S2 — recherchée par le magistrat Gerhard Urteil de Kemperbad
 - **Tags** : `#UrsulaKopfgeld` `#ChasseDePrime` `#Kemperbad` `#Fugitive` `#HookRetour`
 
-## Source canon
+## Source
 - RN&HD ch.3 (apparition + Plot 6 + statbloc + description) : `Source/Rough Nights & Hard Days/03 - A Rough Night at the Three Feathers.md` lignes 93, 137, 185, 207 (actions) + 377-391 (statbloc) + 408-409 (description)
 - RN&HD ch.4 (continuation + Plot 5 Few Gold Crowns More) : `Source/Rough Nights & Hard Days/04 - A Day at the Trials.md` lignes 71 (background), 204 (apparition au duel avec enfant), 333+ (renvoi statbloc ch.3)
 
-## Description canon
+## Description
 
 > "Ursula was raised **far to the east on the Kislev Verge, overlooking the frozen Western Oblast**, and has **no time for fools**. She has worked as Bounty Hunter for **over a decade**, and takes **grim pride in her work**.
 >
@@ -21,7 +21,7 @@
 >
 > **Apparence** : intimidante mais **sociable et bavarde** au comptoir. Vient à cheval. **À l'auberge S1** : se prétend "messagère pour le conseil de Kemperbad, message confidentiel pour Nuln" (couverture).
 
-## Statbloc canon — **Ursula Kopfgeld – Master Bounty Hunter (Silver 5)**
+## Statbloc — **Ursula Kopfgeld – Master Bounty Hunter (Silver 5)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

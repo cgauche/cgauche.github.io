@@ -9,8 +9,8 @@
 - **Statut** : [VIVANT — ALLIÉ POTENTIEL FUGITIF]
 - **Tags** : `#AlbertusNyman` `#Nyman` `#Streissen` `#Loremaster` `#UniversityChancellor` `#Wolfshügel` `#MothersMound` `#Sigmar` `#Hérésie` `#OldFaith` `#Arc7` `#Ch12`
 
-## Source canon
-- **EiR ch.12 l.127-165** *The Loremaster* + canon descriptif complet.
+## Source
+- **EiR ch.12 l.127-165** *The Loremaster* + descriptif complet.
 - **EiR ch.12 l.149** : *« Sigmar stopped at a temple to ask for Ulric's blessing. The text says that this temple was a great hill called the Mother's Mound »*.
 - **EiR ch.12 l.157** : *« Nyman believes that he found the location of the Mother's Mound. He travelled there over 20 years ago as a young scholar. It is now called the Wolfshügel »*.
 
@@ -22,7 +22,7 @@
 ## Localisation des notes Wolfshügel
 - **Small study chez lui** (canon ch.12 l.131) : *« contains much of the information the Characters are looking for. This is spread across maps, notebooks, textbooks and scraps of paper. To find all the information an extended Hard (-20) Research Test must be made to a total of 8 SL, with each test taking an hour »*.
 
-## Mother's Mound / Wolfshügel canon (ch.12 l.146-160)
+## Mother's Mound / Wolfshügel (ch.12 l.146-160)
 - **Hill** appelé Mother's Mound. Bâti par worshippers Old Faith.
 - **From which gods surveyed whole world** (canon).
 - **Others say** sacred long before Sigmar — **fire premier d'Ulric** allumé là.

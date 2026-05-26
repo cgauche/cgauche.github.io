@@ -30,7 +30,7 @@
 
 ## Stats indicatifs (Templier Répurgateur senior)
 
-Profil canon WFRP4 *Templar Witch Hunter* (Silver 4) :
+Profil WFRP4 *Templar Witch Hunter* (Silver 4) :
 - CC 60+, BB 50+, F 40+, E 45+
 - Armes : Hand Weapon + Pistol + Hochland Long Rifle
 - Armure : full plate

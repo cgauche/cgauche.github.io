@@ -7,7 +7,7 @@
 
 Prêtre sigmarite le plus haut placé à Middenheim, équivalent local de l'Ar-Ulric Emil Valgeir mais pour le culte de Sigmar dans une cité dominée par Ulric `EiR ch.2 l.104`. Lors de son apparition au Middenpalaz S57, sa robe porte la trace d'une botte salie qui a piétiné l'ourlet — séquelle d'un incident dans les taudis adossés au Fauschlag, où l'agitation des Fils d'Ulric malmène ouvertement les Sigmarites depuis que la levée du ban par Emil Valgeir leur a redonné voix `EiR ch.2 l.104`. Manières solennelles d'un prêtre senior, posture officielle quand il porte la parole de la délégation Altdorf devant le Graf.
 
-## Phrases canon
+## Phrases
 
 - *« The Grand Theogonist expresses his concern at recent events. He suggests urgent talks to mend relations between the faiths of Sigmar and Ulric. To that end, he has appointed High Capitular Volkmar Hindenstern as an ambassador extraordinary. The High Capitular wishes to speak to you forthwith regarding proposals the Cult of Sigmar believe will ameliorate tensions in the Empire. »* — annonce officielle au Middenpalaz S57, salle du trône, devant Boris Todbringer et les PJ `EiR ch.2 l.104`.
 
@@ -31,7 +31,7 @@ Prêtre sigmarite le plus haut placé à Middenheim, équivalent local de l'Ar-U
 - **Accompagner la délégation Volkmar à Middenheim** : porte la parole officielle au Graf au Middenpalaz S57, présent comme caution sigmarite locale aux propositions altdorfer.
 - **Sécuriser la présence sigmarite dans les taudis du Fauschlag** : tournée pastorale risquée que les Fils d'Ulric prennent pour cible.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **[S57] Salle du trône du Middenpalaz** `EiR ch.2 l.102-107` — Annonce devant Boris Todbringer et les PJ que la délégation altdorfer vient présenter les propositions du Grand Théogoniste. La trace de boue sur sa robe indique qu'il a été pris à partie peu avant son arrivée — détail à un test *Perception* **Easy (+40)**. Boris l'interrompt après l'annonce et le congédie pour s'entretenir directement avec Volkmar von Hindenstern.
 

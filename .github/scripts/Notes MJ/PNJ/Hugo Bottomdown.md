@@ -11,11 +11,11 @@
 - **Statut** : [VIVANT — SPY DÉTECTABLE]
 - **Tags** : `#HugoBottomdown` `#Halfelin` `#Spy` `#Toppenheimer` `#Sudenland` `#Pfeildorf` `#FioneBrecht` `#Heideinheim` `#Arc7` `#Ch5` `#Ch9`
 
-## Source canon
+## Source
 - **EiR ch.5 l.6-33** *A Spy on the Road* + *A New Dawn for Solland* handout.
 - **EiR ch.5 l.28-32** *Note Etelka* handout content.
 
-## Note canon (handout ch.5 l.20-32)
+## Note (handout ch.5 l.20-32)
 
 > **A New Dawn for Solland**
 > *Actions required as vital priorities in the service of her majesty:*
@@ -45,7 +45,7 @@
 - **Pas cultiste — agent espionnage classique Etelka**.
 - **Confirme par PJ détection des Threshers** : la note canon = preuve documentaire mission false flag.
 - **Hooks ch.9 Heideinheim** : si PJ partagent info Brunhilde/Grissen ou Sievers, peuvent anticiper raid.
-- **Hooks ch.12 Emmanuelle** : Hugo's note + Threshers info = excellente carte leverage canon ch.12.
+- **Hooks ch.12 Emmanuelle** : Hugo's note + Threshers info = excellente carte leverage ch.12.
 
 ## Hooks Arc 7
 - **Ch.5 capture + drop note** : preuve Threshers lien Sudenland.

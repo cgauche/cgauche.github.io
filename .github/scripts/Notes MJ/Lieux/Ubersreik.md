@@ -9,7 +9,7 @@
 - **Population** : moyenne. Mixe forte d'**aldorfers** (occupants) + **loyalistes Jundfreud** (locaux) → tensions structurelles.
 - **Tags** : `#Ubersreik` `#Reikland` `#Jundfreud` `#EmmanuelleNacht` `#Altdorf` `#Bruner` `#Aschaffenberg` `#Holzenauer` `#OccupationImperiale`
 
-## Source canon
+## Source
 - *Starter Set / A Guide to Ubersreik* : `Source/Starter Set/A Guide to Ubersreik/` (référence détaillée canonique, 4e éd.)
 - *Rough Nights & Hard Days* ch.6-7 (mariage + bal masqué) : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` + `07 - Lord of Ubersreik.md`
 - *Ubersreik Adventures I* (compilation) : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md`
@@ -17,7 +17,7 @@
 - *Ubersreik Adventures III* (Tragic Tale of Upheaval = chronologie politique 2509-2513 IC) : `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md`
 - *Enemy in Shadows Companion* ch.11 (Affaire du joyau caché) : `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md`
 
-## Contexte historique (canon UA III)
+## Contexte historique (UA III)
 - **2509 IC** : Edit impérial controversé. **House Jundfreud déchue**. Sigmund Jundfreud (héritier) en fuite ou résistance.
 - **2512-2513 IC** : **L'Occupation**. Armée impériale stationnée. Tensions communautaires constantes. **Le Tumulte** : émeutes, attentats anti-aldorfers.
 - **Post-2513** : Vacuum politique. Familles nobles candidates : Bruner, Aschaffenberg, Holzenauer, Saponatheim — toutes affaiblies après Arc 3 (cf. ci-dessous).

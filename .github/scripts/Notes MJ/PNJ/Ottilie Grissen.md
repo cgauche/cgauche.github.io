@@ -10,14 +10,14 @@
 - **Statut** : [VIVANTE — ALLIÉE]
 - **Tags** : `#Ottilie` `#OttilieGrissen` `#Lieutenant` `#Carroburg` `#ImperialNavy` `#Boatswain` `#RiverGuide` `#Arc7` `#Ch9` `#EffectiveCaptain`
 
-## Source canon
+## Source
 - **EiR ch.9 l.44-61** *Lieutenant Ottilie Grissen* + statbloc Boatswain Silver 5.
 - **EiR ch.9 l.79-83** : *« Grissen is the effective captain of The Carroburg. She goes about her job efficiently, judiciously avoiding the potential for conflict with her captain »*.
 - **EiR ch.9 l.108** : Brunhilde discusses weather avec Grissen — Grissen technique vs Brunhilde fluff.
 - **EiR ch.9 l.283-285** Nuln→Streissen rowing : *« Grissen is reluctant for this and tries to reason with the Characters behind von Flamme's back »*.
 - **EiR ch.9 l.100** : *« Grissen has grudgingly moved into the ship's prison cell, leaving the Characters to use her quarters »* — chambre PJ.
 
-## Statbloc canon (EiR ch.9 l.51)
+## Statbloc (EiR ch.9 l.51)
 
 **LIEUTENANT OTTILIE GRISSEN HUMAN BOATSWAIN (SILVER 5)**
 

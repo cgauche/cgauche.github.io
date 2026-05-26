@@ -2,15 +2,15 @@
 
 ## Identité publique
 - **Fonction** : Frère cadet de la fratrie Wittgenstein. **Brute sadique faible d'esprit**. Tient la **pièce de torture (étage 1)** du **[[Château Wittgenstein]]** où il pratique son « hobby » canon : la **taxidermie** sur cadavres humains et bêtes (à table = pièce de torture pure et simple, avec chaînes et instruments).
-- **Apparence** : **énorme gaillard**, **peu vif d'esprit**, **grogne**. Canon : mutation = **quatre bras** (mais à table cette mutation n'a pas été vue ni évoquée — il a juste « attrapé et blessé Filianore »). À MJ : la mutation 4 bras canon explique la rapidité de la saisie.
+- **Apparence** : **énorme gaillard**, **peu vif d'esprit**, **grogne**. Canon : mutation = **quatre bras** (mais à table cette mutation n'a pas été vue ni évoquée — il a juste « attrapé et blessé Filianore »). À MJ : la mutation 4 bras explique la rapidité de la saisie.
 - **Origine** : fils de **[[Ingrid von Wittgenstein]]** et **[[Ludwig von Wittgenstein]]** (canon). Frère cadet de **[[Margritte von Wittgenstein]]**. Frère de **[[Gotthard Wallenstein]]** caché Middenheim.
 - **Statut** : [MORT S28] dans l'explosion du château.
 - **Tags** : `#Kurt` `#Wittgenstein` `#KurtTorture` `#Reikland` `#Mutant4Bras` `#Sadique` `#Taxidermiste` `#MorteS28`
 
-## Source canon
+## Source
 - DotR ch.7 *Castle Wittgenstein* : `Source/Enemy Within Campaign Volume 2 Death on the Reik/10 - Chapter 7 Castle Wittgenstein.md` lignes 846-888 (taxidermie, statbloc, dialogue « friends »)
 
-## Description canon
+## Description
 
 > *« A middle-aged, male, human corpse holding a pipe sits in a chair against the far wall. Mounted on the back of the door is a young servant girl to whom Kurt took a liking. Nailed to a perch near the ceiling is a brightly coloured member of the birdfolk. Two beastmen, one with a boar's head and the other with that of a goat, are mounted on stands against the outside wall. There are also two mutants; one with green fur and the other with four arms. The four-armed mutant stands behind the door and bears a strong resemblance to the von Wittgenstein family — which is not surprising as this is Kurt, who is very much alive. »* (DotR ch.7 l.850)
 
@@ -18,7 +18,7 @@
 
 > *« When the adventurers enter, Kurt stands still and watches them. The only way to tell he is alive is to watch him closely or to touch him. If his 'friends' are interfered with, Kurt attacks maniacally until the adventurers leave the room, but he does not pursue them. If touched, Kurt greets the adventurers and asks if they will be his 'friends'. If anyone agrees, Kurt reaches for his tools and invites the Character to lie down on his work bench… »* (DotR ch.7 l.858)
 
-## Statbloc canon — **Kurt Von Wittgenstein – Human, Male, Mutant**
+## Statbloc — **Kurt Von Wittgenstein – Human, Male, Mutant**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -41,13 +41,13 @@
 - **Mort S28**.
 
 ## MJ-only
-- **Variante canon « taxidermie » vs table « torture »** : le canon en fait un **taxidermiste fou** qui empaille les cadavres et veut « se faire des amis ». À table, la pièce a été décrite **comme une pièce de torture** (chaînes, instruments). **Inflexion homebrew** : le MJ a fusionné taxidermie + torture en une seule pièce sinistre. Cohérent — Kurt vit dans le **salon à empailler** (canon Area 49 = ancienne salle à manger transformée). Les chaînes et instruments cohabitent avec ses « amis » empaillés.
-- **Variante canon « ses amis bougent »** (DotR ch.7 l.900-904) : le canon permet que les cadavres empaillés s'animent sur commande (Construct + mutations choisies). **À table : non utilisé**. Inflexion narrative : si les ruines sont profanées, **un ou deux empaillés peuvent encore se relever** parmi les décombres (Construct résiduel + radiations malpierre).
+- **Variante canon « taxidermie » vs table « torture »** : le en fait un **taxidermiste fou** qui empaille les cadavres et veut « se faire des amis ». À table, la pièce a été décrite **comme une pièce de torture** (chaînes, instruments). **Inflexion homebrew** : le MJ a fusionné taxidermie + torture en une seule pièce sinistre. Cohérent — Kurt vit dans le **salon à empailler** (canon Area 49 = ancienne salle à manger transformée). Les chaînes et instruments cohabitent avec ses « amis » empaillés.
+- **Variante canon « ses amis bougent »** (DotR ch.7 l.900-904) : le permet que les cadavres empaillés s'animent sur commande (Construct + mutations choisies). **À table : non utilisé**. Inflexion narrative : si les ruines sont profanées, **un ou deux empaillés peuvent encore se relever** parmi les décombres (Construct résiduel + radiations malpierre).
 - **Pourquoi il a laissé Filianore vivre** : **négociation des PJ canon-compatible** — Kurt accepte d'« être ami » avec qui ne touche pas ses créations. Filianore l'a sans doute charmé ou Phineas a parlé. **Sa Stupid + WP 30** rend la manipulation facile par persuasion noble.
-- **Membre cadet de la fratrie** : canon le décrit comme **plus jeune que Margritte** (« her younger brother »). **Probable retard mental + mutation Four Arms** depuis la naissance ou la petite enfance (effet long de la malpierre familiale). Margritte ne le prend pas au sérieux comme acteur politique — il est le **garde-pièce-torture**, **rouage utile**.
+- **Membre cadet de la fratrie** : le décrit comme **plus jeune que Margritte** (« her younger brother »). **Probable retard mental + mutation Four Arms** depuis la naissance ou la petite enfance (effet long de la malpierre familiale). Margritte ne le prend pas au sérieux comme acteur politique — il est le **garde-pièce-torture**, **rouage utile**.
 - **Servante empaillée** canon : la dernière servante venue lui apporter le repas est **clouée à la porte** de sa pièce (DotR ch.7 l.850). **Crime documenté** — comme les trophées d'Ingrid, **preuves matérielles de la dégénérescence Wittgenstein** récupérables dans les ruines.
 - **Les autres « amis » canon** : un membre des **bird-folk** (oiseau-folk d'Ingrid) cloué au perchoir, deux **beastmen** (sanglier + chèvre), un **mutant à fourrure verte**, un autre **mutant à 4 bras** (lui-même se camouflant parmi ses créations). **Cabinet de curiosités atroce**.
-- **Sa Doom** : canon DotR ne donne pas de Doom explicite pour Kurt (manque dans le statbloc canon). **À MJ** : possible *« Thy Final Friend Shall Be Stone »* — accomplie S28 quand un bloc de pierre du château pulvérisé l'écrase. Lecture poétique noire.
+- **Sa Doom** : canon DotR ne donne pas de Doom explicite pour Kurt (manque dans le statbloc). **À MJ** : possible *« Thy Final Friend Shall Be Stone »* — accomplie S28 quand un bloc de pierre du château pulvérisé l'écrase. Lecture poétique noire.
 
 ## Hooks de retour (post-S28)
 - **Empaillés survivants** : un Construct résiduel s'extirpe des ruines, erre la forêt Wittgendorf. Petit raid de défense villageois post-Arc 4.

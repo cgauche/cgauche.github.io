@@ -8,7 +8,7 @@
 - **Statut** : [ACTIF] — non rencontrés table, sauf [[Wolfie Jessner]] (Middenheim Arc 5 ?). À confirmer.
 - **Tags** : `#NineEyes` `#9Eyes` `#NeufYeux` `#Tzeentch` `#Wolfgang` `#TutorsCachés` `#Sheerargetru`
 
-## Source canon
+## Source
 - **EiR Introduction** (table complète) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/03 - Introduction.md` l. 89-194
 - **EiR ch. 4** *An Audience with Prince Héritier Wolfgang* : profils individuels, statbloc générique « Member of the Neuf Yeux — Human Professor (Gold 1) » à `Source/Enemy Within Campaign Volume 5 Empire in Ruins/07 - Chapter 4 - An Audience with Prince Héritier Wolfgang.md` l. 189
 - **EiR ch. 13** : sacrifice cérémoniel — chaque Œil brûle en flammes pink/blue, alimentant la manifestation de Sheerargetru.

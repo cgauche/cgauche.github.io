@@ -10,7 +10,7 @@
 - **Capitale** : **Hergig** — *"Hergig is the capital of Hochland and is home to the Ludenhof family"* (Fandom Hergig) ; *"home of Aldebrand Ludenhof"* (Lexicanum Hergig). Palais hors les murs + grand keep central. **Note canon** : Archives Vol I l.342, l.355 mentionne Bergsburg comme siège pré-Turmoil de Hildegarde Tussen-Hochen — **anomalie isolée** vs le consensus canon EiR + Fandom + Lexicanum qui imposent Hergig (voir notes hors filtre). Narrative cohérente : Bergsburg = ancien siège Tussen-Hochen jusqu'à 2514 IC ; Hergig = nouvelle capitale Ludenhof depuis son ascension.
 - **Symboles politiques centraux** :
   - **Runefang Hochland** : ***Goblin Bane*** (alias *"Bane of Goblins"*) — *"as its name suggests, has cleared the insidious Greenskins from Hochland's vast tracts of wilderness. This is the sword that killed Beast Lord Golsore, who threatened Hochland in the 15th century of the Imperial Era"* (Fandom Runefang) ; **corrodé** suite à un combat lors de la Great War Against Chaos (2302-2304 IC) — *"badly corroded after slaying a terrible Chaos beast"* (Fandom Runefang).
-  - **Hochland Long Rifle** : arme canon symbolique Hochland, inventée par **Leon Todmeister** — *"a rifled handgun with a long range… barrels rifled or grooved, makes the lead shot spin in flight, highly accurate, range half-again longer than the standard handgun"* (Fandom Hochland Long Rifle). Surnom canon : *"Leon Todmeister's Fantabulously Far-reaching Harquebus of Unforeseeable and Unperceived Bereavement"*.
+  - **Hochland Long Rifle** : arme symbolique Hochland, inventée par **Leon Todmeister** — *"a rifled handgun with a long range… barrels rifled or grooved, makes the lead shot spin in flight, highly accurate, range half-again longer than the standard handgun"* (Fandom Hochland Long Rifle). Surnom canon : *"Leon Todmeister's Fantabulously Far-reaching Harquebus of Unforeseeable and Unperceived Bereavement"*.
 - **Devises et signes héraldiques** :
   - **Forester Axemen** : *"with Hochlander forester axemen forming the core of Talabheim's forces"* (Archives Vol I l.355) — pré-Turmoil. Passent sous commandement Ludenhof post-Turmoil.
   - **Order of the Silver Mountain** : *"Knights of the Order of the Silver Mountain (also called the Knights of the Silver Order) are located a short distance from Hergig and have often ridden to the aid of the Counts and people of Hochland"* (Fandom Order of the Silver Mountain) ; chevaliers avec **vision d'un silver peak in the Middle Mountains**, jamais localisé.
@@ -18,7 +18,7 @@
 ### Acteurs principaux pré-Turmoil — Hochland (camp Tussen-Hochen sortant)
 
 #### Maison Tussen-Hochen
-- **Baroness Hildegarde Tussen-Hochen** — *"The Barony of Hochland is governed by Baroness Hildegarde Tussen-Hochen from the town of Bergsburg"* (Archives Vol I l.355). *"Regent of Hochland until 2514"* (Fandom). Vassale de la Grand Duchess de Talabheim. **Identifiée comme *"previous Elector Countess"* post-déposition** (Fandom) — sort personnel post-2514 non précisé canon.
+- **Baroness Hildegarde Tussen-Hochen** — *"The Barony of Hochland is governed by Baroness Hildegarde Tussen-Hochen from the town of Bergsburg"* (Archives Vol I l.355). *"Regent of Hochland until 2514"* (Fandom). Vassale de la Grand Duchess de Talabheim. **Identifiée comme *"previous Elector Countess"* post-déposition** (Fandom) — sort personnel post-2514 non précisé.
 - **Bergsburg** : *"Bergsburg Castle is the seat of the Tussen-Hochens, construction commenced by Roland von Hochen around 1500 IC"* (Fandom Bergsburg).
 - **Famille Tussen-Hochen** : arms = *"antler-and-axe arms of the Tussen-Hochens"* (Altdorf ch.5 l.1742) ; fondateur Roland von Hochen vers 1500 IC ; fondation charitable à Altdorf 2454 IC (Tussen-Hochen Foundling House, Shallyan orphanage) — *"The Cult of Shallya founded the orphanage in 2454 IC with a stipend from the Hochland Baron von Tussen-Hochen"* (Altdorf ch.5 l.1744).
 - **Baron Meinhard Tussen-Hochen** (historique GM Screen Booklet l.134) — *"authorizing arbitrary executions of peasants"* — illustre le style féodal seigneurial harsh de la maison.
@@ -35,7 +35,7 @@
 - **Famille Ludenhof** :
   - **Épouse** : **Ludmilla Ludenhof née Helmholtz** *(deceased)* — décédée avant 2512 IC, canon Fandom.
   - **Héritier** : **Konrad Ludenhof** — *"born in 2508 IC"* (Fandom) — donc **4 ans pendant le Turmoil** ; canon Lexicanum Konrad précise *"at the age of twelve was taking lessons from his preceptor, **Erasmus von Nuln**"* (Lexicanum Konrad Ludenhof) — détail biographique futur.
-  - **Prédécesseur dynastique** : **Count Mikael Ludenhof** — *"slain by Gorthor the Beastlord"* (Fandom — orthographe "Ludendorf" possible artefact OCR Fandom, "Ludenhof" forme canon dominante).
+  - **Prédécesseur dynastique** : **Count Mikael Ludenhof** — *"slain by Gorthor the Beastlord"* (Fandom — orthographe "Ludendorf" possible artefact OCR Fandom, "Ludenhof" forme dominante).
 - **Maison Ludenhof** : *"ruling family of Hochland, based in the provincial capital city of Hergig"* (Fandom Hochland). Lignée pré-existante avant 2512, base Hergig.
 
 #### Cour Ludenhof Hergig
@@ -47,7 +47,7 @@
 
 #### Cult of Taal (lien Ludenhof)
 - **Niav (Hierarch of Taal)** — *"current head of the Cult of Taal in the Old World, with authority over all other priests of Taal, from 2487 IC to present"* (Fandom Niav and Katrinelya) ; **homme** ; **basé wilds de western Talabecland** (PAS Hochland) ; époux **Katrinelya (Hierarch of Rhya)**.
-- **Lien Ludenhof** canon : *"there are rumours that Niav meets with Aldebrand Ludenhof of Hochland when the latter nobleman is out hunting"* (DSLF ch.48 l.23) — **rumeurs de rencontres lors de chasses**, **pas alliance formelle Cult of Taal Hochland**. Possible canon ouvert : Niav et Katrinelya pourraient être des elfes déguisés (rumeurs canon).
+- **Lien Ludenhof** canon : *"there are rumours that Niav meets with Aldebrand Ludenhof of Hochland when the latter nobleman is out hunting"* (DSLF ch.48 l.23) — **rumeurs de rencontres lors de chasses**, **pas alliance formelle Cult of Taal Hochland**. Possible ouvert : Niav et Katrinelya pourraient être des elfes déguisés (rumeurs canon).
 - **Cult of Taal Hochland** : présence forte par culture forestière (Drakwald oriental) mais **hiérarchie centrale du culte = Talabecland**.
 
 #### Cult of Sigmar (dominant Hochland)
@@ -67,7 +67,7 @@
 - **Barony of Holzbek** (Middenheim) — *"The Baron of Holzbek used to be affiliated with the Grand Baron of Hochland, but during the 19th century the barony came to be more closely associated with Middenheim"* (Middenheim ch.5 l.153). Versions canon :
   - Pro-Middenheim : *"Hochland was poorly equipped to defend the region from Goblins and Beastmen"*.
   - Pro-Hochland : *"Kärzburdger Grafs had menaced Baron Holzbek into accepting their patronage and protection"*.
-- **Réclamation possible Ludenhof post-Turmoil** — non explicite canon mais cohérent narrativement.
+- **Réclamation possible Ludenhof post-Turmoil** — non explicite mais cohérent narrativement.
 
 #### Cascade fiche 05 (Talabecland-Talabheim — Krieglitz)
 - **Hochland sort de la juridiction Talabheim** post-Turmoil (cascade fiche 05).
@@ -154,7 +154,7 @@
 
 ---
 
-## 3. Déclencheur(s) canon
+## 3. Déclencheur(s)
 
 Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabecland (fiche 05) et Ostland (fiche 06) : c'est une **promotion compensatoire sigmarite** organisée par Karl-Franz post-Turmoil pour équilibrer les pertes/gains religieux Empire-wide.
 
@@ -233,7 +233,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 ---
 
-## 5. État post-Turmoil canon
+## 5. État post-Turmoil
 
 ### Gouvernance
 - **Statut** : **Grand Barony of Hochland** — Grand Province plein, siège électoral propre.
@@ -249,7 +249,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 - **Hochland** = entité territoriale inchangée (mêmes frontières que pré-Turmoil).
 - **Sortie de la juridiction Talabheim** : conquête politique pas territoriale.
 - **Frontière Nordland** : nouvelle tension via revendications Gausser sur Bergsburg + Krudenwald.
-- **Holzbek** : reste à Middenheim (perdu XIXe IC) — possible réclamation Ludenhof non explicite canon.
+- **Holzbek** : reste à Middenheim (perdu XIXe IC) — possible réclamation Ludenhof non explicite.
 
 ### Statut hiérarchique impérial
 - **Hochland** = **+1 siège électoral** (gain).
@@ -261,8 +261,8 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 - **Order of the Silver Mountain** : chevaliers basés près de Hergig, allié officiel post-Turmoil.
 
 ### Statut des perdants
-- **Hildegarde Tussen-Hochen** : **déposée formellement en 2514 IC** (Fandom — passation progressive 2512-2514). **Sort personnel post-2514 canon non précisé** (morte ? exilée ? rétrogradée vassale Bergsburg ?) — voir section 10.
-- **Maison Tussen-Hochen** : perte de la régence ; conserve probablement Bergsburg Castle comme siège familial (héritage Roland von Hochen 1500 IC) — non explicite canon.
+- **Hildegarde Tussen-Hochen** : **déposée formellement en 2514 IC** (Fandom — passation progressive 2512-2514). **Sort personnel post-2514 non précisé** (morte ? exilée ? rétrogradée vassale Bergsburg ?) — voir section 10.
+- **Maison Tussen-Hochen** : perte de la régence ; conserve probablement Bergsburg Castle comme siège familial (héritage Roland von Hochen 1500 IC) — non explicite.
 - **Talabheim** : perte de Hochland et de ses Forester Axemen — affaiblissement militaire majeur (cascade fiche 05).
 
 ### Structure de pouvoir Ludenhof post-Turmoil
@@ -320,8 +320,8 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 - **Cascade vers [[Turmoil/02 - Middenheim-Middenland (Todbringer-Bildhofen)]]** :
   - **Barony of Holzbek** (perdue XIXe IC vers Middenheim) — *"The Baron of Holzbek used to be affiliated with the Grand Baron of Hochland, but during the 19th century the barony came to be more closely associated with Middenheim"* (Middenheim ch.5 l.153).
-  - Versions canon divergentes : Middenheim blâme défense Hochland insuffisante ; Hochland blâme Kärzburdger Grafs.
-  - **Réclamation possible Ludenhof post-Turmoil** — non explicite canon.
+  - Versions divergentes : Middenheim blâme défense Hochland insuffisante ; Hochland blâme Kärzburdger Grafs.
+  - **Réclamation possible Ludenhof post-Turmoil** — non explicite.
 
 - **Cascade décisive depuis [[Turmoil/05 - Talabecland-Talabheim (Krieglitz - Order of Silver Hammer)]]** :
   - **Krieglitz-Untermensch dépouillés** post-Turmoil — fin de la suzeraineté Talabheim sur Hochland.
@@ -349,7 +349,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
   - **Hochland Long Rifle** : technologie exportable vers d'autres provinces ou la Navy (Sea of Claws fiche 06).
 
 - **Cascade vers [[Turmoil/03 - Nuln-Wissenland-Sudenland (Liebwitz-Toppenheimer)]]** et [[Turmoil/04 - Averland (Alptraum-Leitdorf)]]** et [[Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur)]]** :
-  - **Pas de connexion militaire directe** canon entre Hochland et le sud-Empire.
+  - **Pas de connexion militaire directe** entre Hochland et le sud-Empire.
   - **Karl-Franz reconnaît Ludenhof** post-Turmoil comme partie de l'équilibrage électoral.
 
 ---
@@ -375,8 +375,8 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 ### Hooks canon + déduction
 
 - **(canon + déduction)** **Identité agents cellule Main Pourpre Hochland** — non confirmée canon ; hook investigation post-Turmoil.
-- **(canon + déduction)** **Sort personnel Hildegarde Tussen-Hochen post-2514** — canon silencieux ; Characters peuvent (a) la rencontrer en exil à Bergsburg, (b) découvrir son destin.
-- **(canon + déduction)** **Réclamation Ludenhof sur Holzbek** — non explicite canon mais cohérent post-Turmoil ; hook diplomatique Hochland-Middenheim.
+- **(canon + déduction)** **Sort personnel Hildegarde Tussen-Hochen post-2514** — silencieux ; Characters peuvent (a) la rencontrer en exil à Bergsburg, (b) découvrir son destin.
+- **(canon + déduction)** **Réclamation Ludenhof sur Holzbek** — non explicite mais cohérent post-Turmoil ; hook diplomatique Hochland-Middenheim.
 - **(canon + déduction)** **Niav et Katrinelya = elfes déguisés** (rumeurs canon Fandom) — hook révélation : Characters découvrent le secret.
 - **(canon + déduction)** **Régence Konrad** : si Aldebrand meurt, régence prolongée (Konrad 4 ans 2512, majorité ~2520). Hook campagne longue.
 - **(canon + déduction)** **Erich Kalzbad établissant cellule Hochland post-Horned Rat** — hypothétique mais cohérent avec timeline post-Turmoil.
@@ -384,7 +384,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 ---
 
-## 9. Sources canon (lignes précises)
+## 9. Sources (lignes précises)
 
 ### Sources primaires C7 directement lues
 
@@ -447,33 +447,33 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 ---
 
-## 10. Ambiguïtés canon
+## 10. Ambiguïtés
 
-*Filtre strict : questions où (1) le canon C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
+*Filtre strict : questions où (1) le C7 ne tranche pas ET (2) le web ne tranche pas non plus ET (3) pas couvert par CLAUDE.md ET (4) pas variable PJ ET (5) pas rumeur in-monde ET (6) pas fait technique documenté ET (7) pas une divergence WFRP4 vs WFRP2/3 (règle d'arbitrage projet).*
 
 ### Sort personnel d'Hildegarde Tussen-Hochen post-2514
 
 - **Fandom Tussen-Hochen** : *"regent of Hochland until 2514"* — passation progressive 2512-2514, mais ne précise pas si Hildegarde est morte, exilée, ou rétrogradée vassale.
 - **EiR WFRP4** : silencieux sur Hildegarde.
-- **Web cross-check** : aucune source canon ne précise.
+- **Web cross-check** : aucune source ne précise.
 - **Décision GM** : à inventer ; possibilités cohérentes : (a) morte de cause naturelle (avancée en âge), (b) exilée à Altdorf via Tussen-Hochen Foundling House, (c) rétrogradée Baroness de Bergsburg vassale Ludenhof.
 
 ### Identité de la cellule Main Pourpre Hochland
 
 - **Canon EiR** : pas de cellule Hochland identifiée explicitement.
 - **Erich Kalzbad** (The Horned Rat WFRP4) : fuyard post-Wasmeier — possible établissement Hochland mais **non confirmé canon EiR**.
-- **Web cross-check** : aucune source canon ne précise.
+- **Web cross-check** : aucune source ne précise.
 - **Décision GM** : à inventer si pertinent. Hypothèse cohérente : cellule établie post-Horned Rat par Kalzbad ou autre agent.
 
 ### Identités cult leaders Hochland
 
 - **Sigmar Hochland** : présence dominante canon (EiR Intro l.274) mais **aucun cult leader nommé** Hochland-spécifique.
-- **Cult of Taal Hochland** : présence forte par culture forestière, mais **hiérarchie centrale = Talabecland (Niav)** ; pas de leader Taal Hochland nommé canon.
+- **Cult of Taal Hochland** : présence forte par culture forestière, mais **hiérarchie centrale = Talabecland (Niav)** ; pas de leader Taal Hochland nommé.
 - **Décision GM** : à inventer.
 
 ### Identités courtisans Ludenhof Hergig
 
-- **Canon** : Aldebrand + Konrad + Ludmilla † + Mikael † nommés ; **aucun courtisan/chambellan/marshal individuel** précisé canon.
+- **Canon** : Aldebrand + Konrad + Ludmilla † + Mikael † nommés ; **aucun courtisan/chambellan/marshal individuel** précisé.
 - **Décision GM** : à inventer.
 
 ### Niav et Katrinelya = elfes déguisés ?
@@ -483,20 +483,20 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 ### Localisation contradictoire Niav-Katrinelya (Talabecland ouest vs Reikwald sud)
 
-- **Fandom canon dominant** : *"wilds of western Talabecland"*.
+- **Fandom dominant** : *"wilds of western Talabecland"*.
 - **Sources Fandom alternatives** : *"far southern portions of the Reikwald Forest"* (contradiction interne Fandom).
 - **Décision GM** : adopter Talabecland ouest (dominant canon) ; mentionner alternative comme variabilité narrative.
 
 ### Sort de Mikael Ludenhof — orthographe "Ludendorf"
 
 - **Fandom Aldebrand Ludenhof** : *"a previous Count was Mikael Ludendorf who was slain by Gorthor the Beastlord"* — orthographe **"Ludendorf"** au lieu de **"Ludenhof"** — probable artefact OCR Fandom.
-- **Lexicanum Hochland + Lexicanum Aldebrand Ludenhof** : utilisent **"Ludenhof"** sans variante — confirmation orthographe canon.
+- **Lexicanum Hochland + Lexicanum Aldebrand Ludenhof** : utilisent **"Ludenhof"** sans variante — confirmation orthographe.
 - **Adopté fiche** : **Mikael Ludenhof** (cohérence dynastique House Ludenhof + Lexicanum corroboration).
 - **Pas une vraie ambiguïté résiduelle** — corrigé par cohérence + Lexicanum primary check.
 
 ### Réclamation Ludenhof sur Holzbek post-Turmoil
 
-- **Canon** : Holzbek perdu XIXe IC (Middenheim ch.5 l.153) ; pas de réclamation Ludenhof explicite canon.
+- **Canon** : Holzbek perdu XIXe IC (Middenheim ch.5 l.153) ; pas de réclamation Ludenhof explicite.
 - **Web cross-check** : aucune source confirme une réclamation.
 - **Décision GM** : à inventer si tempo de la table le justifie ; cohérent narrativement avec l'indépendance retrouvée.
 
@@ -510,7 +510,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 - **Fandom Hergig** : *"Hergig is the capital of Hochland and is home to the Ludenhof family"*.
 - **Lexicanum Hergig** : *"Hergig is the capital of Hochland, as well its largest city. It is the home of Aldebrand Ludenhof"*.
-- **Archives Vol I ch.4 l.342, l.355 (WFRP4)** : implique Bergsburg comme siège régence Tussen-Hochen — **anomalie isolée** vs le reste du canon.
+- **Archives Vol I ch.4 l.342, l.355 (WFRP4)** : implique Bergsburg comme siège régence Tussen-Hochen — **anomalie isolée** vs le reste du.
 - **Sources collatérales** : *"Bergsburg was the historical home of the Tussen-Hochen house, regent of Hochland until 2514"* ; *"Hergig has grown much in the last ten years, just when Aldebrand Ludenhof got the government, and nowadays is the capital of Hochland"*.
 - **Verdict canon** : **Hergig** est la capitale canon (consensus EiR + Fandom + Lexicanum + cohérence narrative). **Bergsburg = ancien siège Tussen-Hochen jusqu'à 2514**, reste deuxième ville importante post-Turmoil.
 - **Adopté fiche** : Hergig capitale, Bergsburg ancien siège.
@@ -524,7 +524,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 ### Titres complets Aldebrand Ludenhof — RÉSOLU
 
 - **Fandom Aldebrand Ludenhof** : *"titled the Grand Baron of Hochland, Marshal of the Talabec Reach, Defender of the Shrines and Baron of Hergig, is the Elector Count of the Electoral Province of Hochland"*.
-- **Adopté fiche** : titres complets canon intégrés section 1 + section 5 + tableau acteurs.
+- **Adopté fiche** : titres complets intégrés section 1 + section 5 + tableau acteurs.
 
 ### Famille Aldebrand — RÉSOLUE
 
@@ -534,7 +534,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 ### Frontières Hochland — RÉSOLUES
 
 - **Fandom Hochland + Archives Vol I l.353** : Middle Mountains **nord** ; Drakwasser ouest ; Talabec sud ; Wolf's Run (apostrophe + singulier) est ; Middenland au-delà Drakwasser ; Talabecland au-delà Talabec ; Ostland borde l'est-nord-est (au-delà du Wolf's Run).
-- **Adopté fiche** : frontières canon précises section 1 + section 2.
+- **Adopté fiche** : frontières précises section 1 + section 2.
 
 ### Subordination Hochland — Talabecland 1400 IC + Talabheim 2304 IC (chaîne, pas conflit) — RÉSOLUE
 
@@ -554,7 +554,7 @@ Le Turmoil au front Hochland est **causalement secondaire** vs les fronts Talabe
 
 ### Application règle WFRP4 supersède WFRP2/3 — divergences résolues
 
-- **Aldebrand Ludenhof Elector Count** : confirmé canon WFRP4 EiR + Fandom — pas de divergence avec WFRP2.
-- **Hergig capitale** : anomalie Archives Vol I (WFRP4) résolue par poids du canon convergent (EiR + Fandom + Lexicanum).
+- **Aldebrand Ludenhof Elector Count** : confirmé WFRP4 EiR + Fandom — pas de divergence avec WFRP2.
+- **Hergig capitale** : anomalie Archives Vol I (WFRP4) résolue par poids du convergent (EiR + Fandom + Lexicanum).
 - **Hochland Grand Barony post-Turmoil** : WFRP4 EiR canon, pas de divergence.
-- **Niav Hierarch Talabecland ouest** : canon WFRP4 (DSLF) stable, pas de divergence WFRP2.
+- **Niav Hierarch Talabecland ouest** : WFRP4 (DSLF) stable, pas de divergence WFRP2.

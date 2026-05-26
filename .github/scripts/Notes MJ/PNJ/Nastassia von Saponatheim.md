@@ -9,10 +9,10 @@
 - **Statut** : [DISPARUE, fuie avec son amant] depuis [S13] — partie avec **Joachim Bitterfeld**, apprenti joailler d'Altdorf. Elvira l'a aidée à passer les portes principales.
 - **Tags** : `#Nastassia` `#Saponatheim` `#Grauenberg` `#MariageAnnulé` `#FuyardeAmoureuse` `#JoachimBitterfeld` `#Reikland`
 
-## Source canon
+## Source
 - *Rough Nights & Hard Days* ch.6 *Nastassia's Wedding* (apparition + plot 2 *Star-Crossed Lovers* + statbloc) : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` lignes 68-71, 85, 129, 165-167, 185, 192, 222-229, 312-322
 
-## Description canon
+## Description
 
 > "Like many noble marriages, this match has more to do with family position, land, and influence than with love. Nastassia and Karl-Heinz have met only a handful of times since they were betrothed as children. Unfortunately, **Nastassia has met someone else much more frequently. She is now madly in love with Joachim Bitterfeld, a jeweller's apprentice from Altdorf.** The two have carried on an **ardent, but unconsummated, affair** for some time. Unable to persuade her father against the marriage, Nastassia has decided to **elope with her paramour on the night before the wedding**." (RN&HD ch.6 l.85, Plot 2)
 >
@@ -20,7 +20,7 @@
 
 **Au banquet (S13, RN&HD)** : *"the bride-to-be, while outwardly radiant, **looks around from time to time as if scanning the hall for someone or something**. She does not even glance at the bridegroom."* (ch.6 l.129) → cherchait des yeux Joachim (présent au château déguisé).
 
-## Statbloc canon — **Nastassia von Saponatheim – Scion (Gold 1)**
+## Statbloc — **Nastassia von Saponatheim – Scion (Gold 1)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|

@@ -16,7 +16,7 @@
 - **Vrai nom** : **Gotthard von Wittgenstein**.
 - **Famille canon (DotR ch.7 l.683)** : Fils de **Ludwig + Ingrid von Wittgenstein**, **frère de Margritte et Kurt**. Tous morts S28 (explosion Castle Wittgenstein, Arc 4). **A fui à Middenheim** plusieurs années avant l'explosion.
 - **Statut culte** : **Chef-de-fait du Sceptre de Jade Slaaneshi** à Middenheim (canon PBT Companion ch.6 *The Sceptre de Jade - A Gamemaster's Guide*).
-- **Patrone morte** : **Anika-Elise Nikse** (2nde épouse de Boris), **Magus du Sceptre de Jade** canon. Morte « il y a quelques mois » Arc 5 = **assassinat par Gideon** (MJ-only, Purple Brain Pox).
+- **Patrone morte** : **Anika-Elise Nikse** (2nde épouse de Boris), **Magus du Sceptre de Jade**. Morte « il y a quelques mois » Arc 5 = **assassinat par Gideon** (MJ-only, Purple Brain Pox).
 - **Maître du déguisement**.
 - **Connexion Bluchers canon (DotR ch.8 l.253-264)** : les Bluchers fournissent le Sceptre de Jade en substances illicites. Gotthard utilise ce réseau.
 
@@ -28,7 +28,7 @@
 
 `#GotthardWallenstein` `#GotthardWittgenstein` `#Wittgenstein` `#JadeSceptre` `#Slaanesh` `#KomissionConvener` `#MerchantsGuild` `#Middenheim` `#Arc4` `#Arc5` `#Arc6` `#PlanqueDémantelée` `#TortureS45` `#PortraitChâteauWittgenstein` `#Ennemi` `#FIL48`
 
-## Source canon
+## Source
 - **PBT Appendix I p.144** (NPC sheet) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
 - **PBT ch.6 *The Komission Convenor*** (canon p.85-86) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/09 - Chapter 6 The Powers that be.md`
 - **PBT ch.4 *Gotthard Von Wittgenstein*** (canon p.46-47) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/07 - Chapter 4 Initial Inquiries.md`
@@ -36,7 +36,7 @@
 - **DotR ch.7 *Castle Wittgenstein*** (ligne 683 : « *his son Gotthard von Wittgenstein* ») : `Source/Enemy Within Campaign Volume 2 Death on the Reik/`
 - **DotR ch.8 *A Stop Along the Way*** (ligne 253-264 : Bluchers-Sceptre de Jade + Wallenstein alias) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/11 - Chapter 8 A Stop Along the Way.md`
 
-## Statbloc canon (PBT p.144)
+## Statbloc (PBT p.144)
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -90,13 +90,13 @@
 
 - **Wittgenstein survivant** : a fui Castle Wittgenstein avant les événements Arc 4 (a embrassé la corruption Slaaneshi via Anika-Elise Nikse, sa patrone, **avant** la mort de Margritte et les autres). À table : il a pris l'identité Wallenstein **plusieurs années avant Arc 4**.
 - **Anika-Elise Nikse** : sa **patronne**, **Cult Magus du Sceptre de Jade** Slaaneshi canon (PBT Companion ch.6). **Morte par Gideon (Purple Brain Pox)** MJ-only — élimination chaotique de rivale rapide.
-- **Lettre de Castle Wittgenstein** (canon DotR Arc 4) : Gotthard a écrit à Margritte sa sœur, **vante son temps à Middenheim avec ses « fellow Slaanesh worshippers »**. Cette lettre **a été trouvée par les PJ à Wittgenstein S28** (canon). C'est ce qui les pousse vers Middenheim canon.
+- **Lettre de Castle Wittgenstein** (canon DotR Arc 4) : Gotthard a écrit à Margritte sa sœur, **vante son temps à Middenheim avec ses « fellow Slaanesh worshippers »**. Cette lettre **a été trouvée par les PJ à Wittgenstein S28** (canon). C'est ce qui les pousse vers Middenheim.
 - **Lien avec [[Karl-Heinz Wasmeier]] et la Main Pourpre** : **Aucune alliance**. **Sceptre de Jade et Main Pourpre sont rivaux** (canon ch.4 p.45 « *The two cults are rivals but not enemies, and have taken no overt action against each other* »). Wasmeier voyait Wallenstein comme **potential scapegoat** si nécessaire (canon Wasmeier NPC sheet p.123 « *Wasmeier sees him as a possible scapegoat* »).
 - **Pourquoi Wallenstein piège Elvira** : (a) **Slaanesh recruitment** — il sent qu'elle a un potentiel (prêtresse + naïve = vulnérable), (b) **Sexual obsession** — elle est attirante, (c) **Information** — elle est proche de Schutzmann post-S35.
 - **Le Sceptre de Jade canon** : recrute parmi **les jeunes oisifs + nobles + riches**. Plaisir + débauche. Pas politiquement ambitieux (vs MP). **Anika-Elise** était la grande Magus ; après sa mort, **Wallenstein est chef-de-fait** mais **plus petit groupe** (canon : « *with some very high-ranking members* » → moins maintenant).
 - **L'orgie obscure** : **canon Companion ch.6** + S37 résumé table. Recrutement + drogues + enfants kidnappés = blackmail material + soumission. **Crime majeur**, Wallenstein peut être pendu si capturé.
 - **Hook capture/évasion** : si les PJ retrouvent Wallenstein Arc 6, ils peuvent **interroger le Sceptre de Jade**, **lier Anika-Elise au culte**, et possiblement **exposer Gideon** (lien Anika-Elise → Gideon).
-- **Survie canon ch.7 *Requirements* p.106** : « *Recommended: Gotthard Wallenstein is either still at large, or imprisoned awaiting trial* ». Donc canon préfère qu'il survive Arc 5. À table : torturé S45 — peut mourir ou survivre.
+- **Survie ch.7 *Requirements* p.106** : « *Recommended: Gotthard Wallenstein is either still at large, or imprisoned awaiting trial* ». Donc préfère qu'il survive Arc 5. À table : torturé S45 — peut mourir ou survivre.
 
 ## Hooks de retour
 

@@ -9,14 +9,14 @@
 - **Statut** : [VIVANT, S13] — apparu au mariage de sa fille Nastassia. Connu des PJ comme un seigneur affaibli, dépassé par sa propre maisonnée. **Allié de circonstance** (les PJ ont accepté de garder secret l'existence de Manfred).
 - **Tags** : `#Saponatheim` `#WilhelmSaponatheim` `#Graf` `#Bögenhafen` `#Grauenberg` `#Nastassia` `#Manfred` `#Allié`
 
-## Source canon
+## Source
 - *Rough Nights & Hard Days* ch.6 *Nastassia's Wedding* : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` (PDF p.55-68).
 - Mentions Bögenhafen (suzeraineté) : EiS ch.10 *A Guide to Bögenhafen* : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/10 - A Guide to Bögenhafen.md`.
 - *Ubersreik Adventures III* ch.4 *A Tragic Tale of Upheaval* : `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md` (rivalité Aschaffenberg / Saponatheim).
 
 ## Apparitions par session
 - **[S13]** — Hôte du mariage Liebwitz-Saponatheim à Schloss Grauenberg. Demande aux PJ de **garder le secret sur [[Manfred von Saponatheim]]** (son fils caché, vrai héritier légitime mais « feeble-minded », enfermé dans les caves depuis ~30 ans).
-- **Présent à la joute du Schaffenfest** (Bögenhafen, EiS ch.6) — non joué à table mais canon.
+- **Présent à la joute du Schaffenfest** (Bögenhafen, EiS ch.6) — non joué à table mais.
 
 ## Ce que les PJ savent
 - Graf de Saponatheim, père de Nastassia (fuguée) et de Manfred (caché).

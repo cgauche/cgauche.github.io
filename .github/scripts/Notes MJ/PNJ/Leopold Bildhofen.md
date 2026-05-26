@@ -9,7 +9,7 @@
 - **Statut** : [VIVANT — NEUTRE TIRAILLÉ] [DOOMED post-Turmoil]
 - **Tags** : `#Leopold` `#Bildhofen` `#vonBildhofen` `#Middenland` `#Carroburg` `#Electeur` `#MagnusThePious` `#Arc7` `#Conclave` `#DoomedTurmoil` `#Sigmar` `#FamilleTodbringerMariage`
 
-## Source canon
+## Source
 - **EiR Intro l.245-249** *Middenheim and Middenland — von Bildhofen* : tiraillés.
 - **EiR ch.6 l.181** S61 mariage cathédrale Sigmar : *« iconography of the von Bildhofens of Carroburg »* présent dans Middenheim side gallery.
 - **EiR ch.7** S62 conclave — **Grand Duke Leopold von Bildhofen of Middenland** présent. **16:30 first speaker** : speeche about House past + Magnus the Pious + besoin respecter provincial borders. **Directed at Graf Boris** (canon ch.7 l.152). Sondé par Holzkrug aide (canon ch.7 l.157).
@@ -40,7 +40,7 @@
 - **Loyaliste Empire**, pas cultiste.
 - **Tiraillement Sigmarite vs Ulrican** : Magnus the Pious Sigmarite ancêtre, mais Middenland populace mixte.
 - **Manipulable par Holzkrug** s'il veut « stable Empire ». **Manipulable par Boris/Heinrich** s'il accepte Middenheim alliance.
-- **Climax ch.13 canon ch.13 l.336** : *« none of the other electors are there. All have gone home to defend their holdings, plot against their neighbours, or even scheme to make themselves Emperor »* — **Leopold absent**.
+- **Climax ch.13 ch.13 l.336** : *« none of the other electors are there. All have gone home to defend their holdings, plot against their neighbours, or even scheme to make themselves Emperor »* — **Leopold absent**.
 - **Trade-off post-S63** : **Heinrich Todbringer** pourrait négocier Bildhofen sur sujet succession Middenland post-Boris. **Heinricus Kärzburdger** rival = autre option.
 
 ## Hooks Arc 7

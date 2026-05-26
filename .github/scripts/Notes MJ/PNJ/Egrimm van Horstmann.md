@@ -4,7 +4,7 @@
 
 [Egrimm van Horstmann — Lexicanum](https://whfb.lexicanum.com/wiki/Egrimm_van_Horstmann) · [Egrimm van Horstmann — Fandom](https://warhammerfantasy.fandom.com/wiki/Egrimm_van_Horstmann)
 
-**Orthographe canon** : **Egrimm van Horstmann** (avec 2 M) — confirmé Lexicanum + Fandom. Le PDF EiR a des variantes OCR (« Engrim » intro + ch.13, « Egrim » ch.8) qui ne sont pas canon.
+**Orthographe canon** : **Egrimm van Horstmann** (avec 2 M) — confirmé Lexicanum + Fandom. Le PDF EiR a des variantes OCR (« Engrim » intro + ch.13, « Egrim » ch.8) qui ne sont pas.
 
 ## Identité
 - **Fonction** : **Sorcier-champion suprême de Tzeentch**, **ancien Patriarche du Collège de Lumière** d'Altdorf, devenu apostat.
@@ -12,7 +12,7 @@
 - **Statut** : [VIVANT] [ENNEMI ULTIME — DISTANT] (rarement actif en personne dans le Vieux Monde).
 - **Tags** : `#EgrimmVanHorstmann` `#Egrimm` `#SilverTower` `#Tzeentch` `#ChampionInShadows` `#ApostatPatriarch`
 
-## Source canon
+## Source
 - **EiR Introduction** l. 693 + ch. 13 (fin alternative). `Source/Enemy Within Campaign Volume 5 Empire in Ruins/`
 - **EiR ch. 8** : référence dismissive (Quintus Fassbinder). `Source/Enemy Within Campaign Volume 5 Empire in Ruins/11 - Chapter 8 - Wanted Bold Adventurers!.md` l. 256
 - **Carolus Entschlafen Arc 3 S16 (Tour des Vents)** : cabaliste affilié à la **Cabal d'Egrimm van Horstmann** canon UA1 p.76. Cf. FIL-40.

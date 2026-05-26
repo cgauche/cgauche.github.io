@@ -7,7 +7,7 @@
 - **Statut** : [MORT] avant **[S5]** — tué par des **mutants commandés par Knud** dans une rixe sur la route entre Altdorf et Bögenhafen. Corps non récupéré par la Main Pourpre.
 - **Tags** : `#Kastor` `#MainPourpre` `#PurpleHand` `#Tzeentch` `#MagisterImpedimentae` `#Nuln` `#MORT` `#QuiproquoPathsokar`
 
-## Source canon
+## Source
 - EiS ch.1 *Wanted: Bold Adventurers!* : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/01 - Wanted- Bold Adventurers.md` (background + lettre d'héritage + mort sur la route)
 - EiS ch.4 *On to Bögenhafen* (référencé pour le quiproquo Pathsokar/Adolphus)
 - EiS Companion ch.3-4 (background cellule Nuln)

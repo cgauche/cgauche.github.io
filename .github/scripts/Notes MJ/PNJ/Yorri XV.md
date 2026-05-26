@@ -11,7 +11,7 @@ Modéré et prudent dans son approche, il incarne les valeurs qu'il prône — c
 
 Souffre de **cauchemars violents et migraines aveuglantes chroniques** ; Elvyra Kleinestun, sa pharmacienne personnelle, lui prépare des décoctions calmantes à base de plantes — sans soupçonner qu'elle est devenue une marionnette involontaire de Gideon `EiR ch.3 l.96` `EiR Intro l.220`.
 
-## Phrases canon
+## Phrases
 
 - *« I know, I know. But there are … other considerations. »* — réponse feutrée à Volkmar qui le presse de durcir le ton au Conclave, 18h10 dans une chapelle latérale `EiR ch.7 l.201`.
 - *« No true Ar-Ulric bares his throat to the Grand Theogonist. »* — invective lancée par Weregardt Schlupmann sur la voie de Shining Rock, repère du registre offensant que Yorri se voit infliger publiquement `EiR ch.3 l.144`.
@@ -49,11 +49,11 @@ Souffre de **cauchemars violents et migraines aveuglantes chroniques** ; Elvyra 
 ## Démasquage et confrontation (ch.13)
 
 - **Cérémonie de remise au Volkshalle, 9 Brauzeit midi** `EiR ch.13 l.342-385` : Yorri entonne les prières à Sigmar tandis que le chœur chante les hymnes ; il se tient à la gauche de l'Empereur alité, derrière lui Luitpold prince d'Altdorf, en face de Wolfgang à droite ; suit le Prince Héritier d'un pas jusqu'au reliquaire en entonnant les prières ; à l'instant où le coussin bascule et où le Marteau disparaît, un second garde lui défonce le crâne d'un coup de hallebarde, le tuant instantanément.
-- **Yorri abattu vaut +1 Power à Sheerargetru** `EiR ch.13 l.473` : son assassinat est un des leviers de puissance canon du démon ; le sauver — ou l'extraire de la cérémonie avant le dépôt — diminue d'autant l'incarnation. Empêcher sa mort est donc un objectif explicite.
+- **Yorri abattu vaut +1 Power à Sheerargetru** `EiR ch.13 l.473` : son assassinat est un des leviers de puissance du démon ; le sauver — ou l'extraire de la cérémonie avant le dépôt — diminue d'autant l'incarnation. Empêcher sa mort est donc un objectif explicite.
 - **Variante : commanditaire de la quête ch.8** `EiR ch.8 l.27+39` : si les PJ sont perçus comme neutres ou Sigmarites, Yorri ou Volkmar von Hindenstern peuvent les engager pour la quête du Marteau ; Yorri peut aussi simplement avoir « un bon pressentiment » sur leur rôle dans l'affaire.
 - **Variante : critique S58 Shining Rock** `EiR ch.3 l.306+323+338` : pendant l'attaque des Fils d'Ulric, Yorri compte +1 au pool de SL des Knights tant qu'il reste au combat ; sur un résultat 88-95 à la table des complications il subit un coup critique aléatoire, ouvrant la possibilité d'une mort accidentelle pré-canon.
 
-## Apparitions canon Arc 7
+## Apparitions Arc 7
 
 - **[S57]** — Mentionné. Envoie Volkmar von Hindenstern à Middenheim en envoyé extraordinaire pour ouvrir les pourparlers avec Ar-Ulric Emil Valgeir `EiR ch.2 l.6+106`.
 - **[S58]** — Shining Rock. Présent en personne avec délégation Altdorf : 20 chevaliers d'escorte (Chevaliers du Griffon, Chevaliers du Cœur Ardent, Chevaliers Panthères en parts égales) `EiR ch.3 l.87`. Reste dans sa tente, ne sort que pour la prière silencieuse côte à côte avec Ar-Ulric Emil Valgeir près du rocher sacré vers 15h00 `EiR ch.3 l.174`. La nuit dans le sanctuaire, gardé par 3 chevaliers de chaque ordre, encaisse l'attaque des Fils d'Ulric — peut subir un coup critique aléatoire sur la table des complications, et regagne sa tente dans une fureur boudeuse `EiR ch.3 l.194+306+338+342`.
@@ -70,9 +70,9 @@ Souffre de **cauchemars violents et migraines aveuglantes chroniques** ; Elvyra 
 - **[Ch.8 canon]** — Peut sponsoriser la quête des PJ pour Ghal Maraz si ces derniers sont perçus comme Sigmarites ou neutres ; un « bon pressentiment » suffit à Yorri pour les engager `EiR ch.8 l.27+39`.
 - **[Ch.13 climax canon — 9 Brauzeit midi]** — Au Volkshalle, entonne les prières à Sigmar pendant que le chœur chante les hymnes ; à la gauche de l'Empereur, derrière lui Luitpold ; suit Wolfgang Holswig-Abenauer d'un pas jusqu'au reliquaire ; à l'instant où le Marteau disparaît dans la trappe, un second garde-cultiste lui défonce le crâne d'un coup de hallebarde, le tuant instantanément `EiR ch.13 l.343+345+379+385`.
 
-## Suite post-climax canon
+## Suite post-climax
 
-- **Remplacé par Volkmar von Hindenstern** comme Grand Théogoniste post-Turmoil — la History of the Turmoil note qu'au sortir de la cérémonie, le Grand Théogoniste et le Prince Héritier sont tous deux morts, parmi les nombreux prêtres de Sigmar tombés `EiR ch.17 l.28`. La table de remplacement canon des PNJ majeurs donne explicitement *Yorri the Grand Theogonist → Volkmar the Grand Theogonist* `EiR Intro l.292`.
+- **Remplacé par Volkmar von Hindenstern** comme Grand Théogoniste post-Turmoil — la History of the Turmoil note qu'au sortir de la cérémonie, le Grand Théogoniste et le Prince Héritier sont tous deux morts, parmi les nombreux prêtres de Sigmar tombés `EiR ch.17 l.28`. La table de remplacement des PNJ majeurs donne explicitement *Yorri the Grand Theogonist → Volkmar the Grand Theogonist* `EiR Intro l.292`.
 
 ## Statbloc — Lector (Gold 2) `EiR Intro l.786-816`
 

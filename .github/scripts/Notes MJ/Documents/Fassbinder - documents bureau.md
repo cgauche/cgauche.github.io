@@ -294,7 +294,7 @@ Le nom du démon : Seigneur Exalté de Tzeentch, ennemi ancestral de Smednir.
 - **Référence au régent / sosie** : *« Règent dépouille et plume et torsion défaits »* — possible allusion à la destitution du sosie de Karl-Franz (Hermann von Feilbach).
 - **Trois noms à investiguer** : Düwe, Schaftem (lien possible Honorio Schaftem LLB, notaire d'Averheim qui signe le permis T-S-H), Hau.
 
-Canon EiR ch.8 l.271-273. XP canon ch.8 l.314 : *« 25 points for working out that the poem is an acrostic spelling 'Sheerargetru' »*.
+Canon EiR ch.8 l.271-273. XP ch.8 l.314 : *« 25 points for working out that the poem is an acrostic spelling 'Sheerargetru' »*.
 
 ### Texte original (anglais canon EiR ch.8 l.271-273)
 

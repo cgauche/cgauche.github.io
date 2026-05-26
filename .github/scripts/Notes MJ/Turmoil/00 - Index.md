@@ -39,7 +39,7 @@ Index des fiches-front du dossier Turmoil. Chaque fiche suit le **même schéma 
 1. **Identité du front** — provinces concernées, symboles politiques (Croc, titre, capitale, culte), acteurs principaux avec liens `[[PNJ]]`
 2. **État pré-Turmoil** (Spring 2512 IC) — gouvernance, alliances, tensions, religion, statut impérial
 3. **Déclencheur(s) canon** — événements précis qui basculent le front + acteurs Main Pourpre le cas échéant
-4. **Chronologie détaillée** — **tableau à 4 colonnes** : `Date IC` \| `Repère narratif EiR` \| `Événement` \| `Source ligne`. *Date IC = "—" si canon ne la donne pas. Repère narratif = chapitre EiR + session table équivalente si pertinent.*
+4. **Chronologie détaillée** — **tableau à 4 colonnes** : `Date IC` \| `Repère narratif EiR` \| `Événement` \| `Source ligne`. *Date IC = "—" si ne la donne pas. Repère narratif = chapitre EiR + session table équivalente si pertinent.*
 5. **État post-Turmoil canon** — symétrique de section 2
 6. **Acteurs — pré → post** — tableau `Acteur` \| `Pré-Turmoil` \| `Post-Turmoil` \| `Statut canon`
 7. **Cascades vers d'autres fronts** — liens `[[Turmoil/0X - Nom complet]]`
@@ -66,17 +66,17 @@ Index des fiches-front du dossier Turmoil. Chaque fiche suit le **même schéma 
 
 ## Standard de rigueur
 
-- **Pur canon C7.** Aucune extrapolation, aucune invention. Si non tranché → section 10 explicitement.
+- **Pur C7.** Aucune extrapolation, aucune invention. Si non tranché → section 10 explicitement.
 - **Aucun "probablement" non documenté.** Soit sourcé, soit en section 10.
 - **Références de lignes précises** systématiquement (pas de "vers le début du chapitre").
 - **Recoupement Fandom/Lexicanum obligatoire** pour chaque front, sur chaque PNJ majeur + province + Croc Runique.
 - **Aucune référence aux divergences table** (canon pur uniquement — les variations Gauche sont traitées ailleurs).
 - **Volume** : pas de plafond, exhaustivité maximale.
 
-## Filtre section 10 — Ambiguïtés canon (règle stricte)
+## Filtre section 10 — Ambiguïtés (règle stricte)
 
 Section 10 contient **uniquement** les questions où :
-1. Le canon C7 (EiR + Companion + Archives + supplements) **ne tranche pas**, ET
+1. Le C7 (EiR + Companion + Archives + supplements) **ne tranche pas**, ET
 2. **Le web (Fandom + Lexicanum + supplements indirects) ne tranche pas non plus** après recherche ciblée systématique sur chaque ambiguïté suspectée, ET
 3. La question n'est **pas couverte par CLAUDE.md** (orthographes, conventions de nommage), ET
 4. La question n'est **pas une variable PJ** (canon dit "selon les actions des Characters"), ET
@@ -90,16 +90,16 @@ Section 10 contient **uniquement** les questions où :
 
 **Anti-pattern à ne pas reproduire** (vu sur fiche 01 v1 → corrigée v2) : flagger 11 ambiguïtés dont 9 étaient résolubles par CLAUDE.md, web direct, ou analyse interne. La règle est stricte.
 
-## Hiérarchie des sources web (canon vs adaptations)
+## Hiérarchie des sources web (vs adaptations)
 
-| Source | Validité canon tabletop WFRP4 |
+| Source | Validité tabletop WFRP4 |
 |---|---|
 | **Cubicle 7 blog** (cubicle7games.com) | ✅ Canon officiel (auteur direct WFRP4) |
 | **Fandom Warhammer Fantasy** (warhammerfantasy.fandom.com) | ✅ Canon GW tabletop (Black Library + sourcebooks) |
 | **Lexicanum** (whfb.lexicanum.com) | ✅ Canon GW tabletop (référence académique) |
 | **World Anvil compilations** | 🟡 Canon-dérivé, à vérifier source primaire |
 | **Awesome Lies blog** | 🟡 Analyse fan |
-| **Total War: WARHAMMER Wiki** (totalwarwarhammer.fandom.com) | ❌ **NON canon tabletop** — adaptation jeu vidéo Creative Assembly, diverge souvent du canon GW. À ne PAS citer comme preuve canon. |
+| **Total War: WARHAMMER Wiki** (totalwarwarhammer.fandom.com) | ❌ **NON tabletop** — adaptation jeu vidéo Creative Assembly, diverge souvent du canon GW. À ne PAS citer comme preuve. |
 | **Total War forums** | ❌ Non canon |
 
 ## Web cross-check obligatoire — pour rédacteur ET pour audit
@@ -115,7 +115,7 @@ Avant de finaliser une fiche, **WebSearch ciblé obligatoire** sur :
 ### Pour l'audit externe (Phase 5)
 **Brief obligatoire à inclure dans chaque dispatch d'agent auditeur** :
 
-> **Web cross-check OBLIGATOIRE (preuve documentée).** Pour chaque assertion canon centrale critiquée dans ton rapport, tu DOIS effectuer un WebSearch ciblé sur Fandom + Lexicanum + Cubicle 7 blog, et CITER les URLs dans la critique. Si tu n'as pas web-vérifié une assertion, écris explicitement "non-vérifié web" — ne propage pas un verdict canon sans web cross-check quand l'inconsistance est inter-source. **Minimum requis : 5 WebSearch documentés (URLs incluses)**. Une critique sans bloc "Web cross-check effectués" listant les URLs sera considérée comme incomplète.
+> **Web cross-check OBLIGATOIRE (preuve documentée).** Pour chaque assertion centrale critiquée dans ton rapport, tu DOIS effectuer un WebSearch ciblé sur Fandom + Lexicanum + Cubicle 7 blog, et CITER les URLs dans la critique. Si tu n'as pas web-vérifié une assertion, écris explicitement "non-vérifié web" — ne propage pas un verdict sans web cross-check quand l'inconsistance est inter-source. **Minimum requis : 5 WebSearch documentés (URLs incluses)**. Une critique sans bloc "Web cross-check effectués" listant les URLs sera considérée comme incomplète.
 
 **Anti-pattern observé** (audits fiche 02 v1 + v2) : verdict du critique appuyé uniquement sur Source/ vérifications, sans recoupement web. Conséquence : ambiguïtés flaguées qui auraient pu être tranchées par Fandom (ex : orthographe Holswig-Abenhauer, généalogie Bildhofen-Magnus), erreurs orthographe non flaguées par CLAUDE.md memo, etc.
 

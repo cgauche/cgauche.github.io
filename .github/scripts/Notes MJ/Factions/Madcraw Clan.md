@@ -8,7 +8,7 @@
 - **Statut** : [ACTIF] [OBSTACLE]
 - **Tags** : `#Madcraw` `#NightGoblins` `#BlackFirePass` `#LostGorge` `#Cacklespit` `#GhalMaraz` `#ObstacleArc7`
 
-## Source canon
+## Source
 - **EiR ch. 11** *Caves of Chaos* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/14 - Chapter 11 - Caves of Chaos.md`
 - **Companion ch. 3** *The Madcraw Clan* : profil détaillé. `Source/Empire In Ruins Companion/05 - CHAPTER 3 The Madcraw Clan.md`
 
