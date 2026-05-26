@@ -624,10 +624,20 @@ class EntityPopover:
 
 def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
     """Global map of canonical-name → popover payload for PJ/PNJ/Lieu pages.
-    Used to wrap any occurrence of the name in résumé bodies. Variants are
-    collapsed onto their main. Per-session aliases are layered on top via
-    `session_alias_popovers`."""
+    Used to wrap any occurrence of the name in résumé bodies and in MJ
+    enrichment sections. Variants are collapsed onto their main.
+
+    Two layers:
+      1. Full titles ("Karl-Franz Holswig-Schliestein", "Emmanuelle von
+         Liebwitz") — always indexed.
+      2. Short aliases derived from `_entity_aliases` (forenames, dropped
+         titles) — added ONLY when globally unambiguous (a single main page
+         claims them). Per-session ambiguous aliases (e.g. 'Boris' shared
+         across Boris Todbringer / Boris Dunhoring) stay session-scoped via
+         `session_alias_popovers`, which adds them on top of this map for
+         résumé bodies where the right disambiguation is known."""
     out: dict[str, EntityPopover] = {}
+    main_pages: list[Page] = []
     for pg in pages:
         if pg.variant_group and not pg.is_main:
             continue
@@ -637,6 +647,27 @@ def build_entity_popover_map(pages: list[Page]) -> dict[str, EntityPopover]:
         payload = _entity_to_popover(pg)
         if payload is not None:
             out[payload.title] = payload
+            main_pages.append(pg)
+
+    # Non-ambiguous short aliases.
+    alias_mains: dict[str, set[Path]] = {}
+    alias_source: dict[str, Page] = {}
+    for pg in main_pages:
+        forms = set(_entity_aliases(pg.post.title))
+        if pg.subtitle:
+            forms.update(_aliases_from_subtitle(pg.subtitle))
+        for alias in forms:
+            if alias in out:
+                # The full title is already indexed; don't shadow it.
+                continue
+            alias_mains.setdefault(alias, set()).add(pg.site_rel)
+            alias_source.setdefault(alias, pg)
+    for alias, source in alias_source.items():
+        if len(alias_mains[alias]) != 1:
+            continue  # ambiguous globally — let session_alias_popovers handle it
+        payload = _entity_to_popover(source)
+        if payload is not None:
+            out[alias] = payload
     return out
 
 
