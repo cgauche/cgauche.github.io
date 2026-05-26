@@ -42,8 +42,8 @@ de fuite ou conspiratrice, elle perdrait tout — et ses enfants avec.
 
 ## Réseau
 
-- **Concubine et mère des enfants de l'Empereur** : Karl-Franz Holswig-Schliestein — amie d'enfance et cousine éloignée, mère du Prince Luitpold (héritier d'Altdorf, légitimé) et d'Alia (bambine) ; Karl-Franz est officiellement célibataire pour laisser ouvert l'espoir d'une alliance dynastique chez les Électeurs `Altdorf ch.2 l.18+22-25`.
-- **Confidente et amie sincère** : Emmanuelle von Liebwitz — la Grande Comtesse de Nuln la prend par la main et lui jure le secret au Conclave S62, après avoir percé à jour le sosie Hermann von Feilbach au défilé S60 `EiR ch.7 l.212+216-225`.
+- **Concubine et mère des enfants de l'Empereur** : Karl-Franz Holswig-Schliestein — amie d'enfance et cousine éloignée, mère du Prince Luitpold (héritier d'Altdorf, légitimé) et d'Alia (bambine) ; Karl-Franz est officiellement célibataire pour laisser ouvert l'espoir d'une alliance dynastique chez les Électeurs `Altdorf ch.2 l.18` `Altdorf ch.2 l.22-25`.
+- **Confidente et amie sincère** : Emmanuelle von Liebwitz — la Grande Comtesse de Nuln la prend par la main et lui jure le secret au Conclave S62, après avoir percé à jour le sosie Hermann von Feilbach au défilé S60 `EiR ch.7 l.212` `EiR ch.7 l.216-225`.
 - **Membre du Conseil privé impérial** : sa voix est entendue et écoutée au Conseil privé, où les autres conseillers la surnomment « Impératrice » en privé — il serait imprudent de le faire devant les agents des Électeurs `Altdorf ch.2 l.23`.
 - **Sosie qu'elle escorte sans y croire** : Hermann von Feilbach — au Conclave d'urgence S62, c'est elle qui mène le « faux Empereur » à son trône ; l'absence de chaleur et son sourire forcé trahissent sa connaissance de la supercherie `EiR ch.7 l.107`.
 - **Rival domestique** : Wolfgang Holswig-Abenauer — Prince Héritier du Reikland, neveu de Karl-Franz, qui héritera du Reikland (Luitpold n'en sera pas Grand-Prince) ; froideur affichée des deux côtés, et Wolfgang figure dans les cauchemars de Maria-Luise `Altdorf ch.2 l.25` `EiR ch.13 l.229`.

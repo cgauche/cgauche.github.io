@@ -72,7 +72,7 @@ démoniaque de Gideon et la nature réelle du complot Sheerargetru.
 ## Apparitions canon Arc 7
 
 - **S64+ (retour des PJ à Altdorf avec Ghal Maraz)** : abordage en pleine rue avec son détachement Spionwerber, faux mandat, diversion vers les docks ou combat immédiat selon la réaction des PJ `EiR ch.13 l.81-89`.
-- **S64+ (intervention de Gideon)** : escouade de la Garde envoyée par Gideon sous voix d'enfant invisible pour briser l'embuscade et faire transmettre Ghal Maraz au Volkshalle `EiR ch.13 l.131-132+140`.
+- **S64+ (intervention de Gideon)** : escouade de la Garde envoyée par Gideon sous voix d'enfant invisible pour briser l'embuscade et faire transmettre Ghal Maraz au Volkshalle `EiR ch.13 l.131-132` `EiR ch.13 l.140`.
 - **S64+ (post-combat)** : capturé vivant possible, interrogatoire menant soit à la diversion Wasmeier soit (sous pression maximale) à la dénonciation de Zuntermein `EiR ch.13 l.134-136`.
 
 ## Statbloc — Captain Emil Baecker, Human Agent (Gold 1) `EiR ch.13 l.94-108`

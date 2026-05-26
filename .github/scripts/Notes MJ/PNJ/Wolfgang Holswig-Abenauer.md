@@ -54,12 +54,12 @@ militaire, il hausse les épaules et invoque la patience qu'on lui a enseignée
 - **Tuteurs cosmopolites — au-dessus de tout reproche selon lui** : les Neuf Yeux — neuf érudits recrutés depuis tout l'Empire il y a près de neuf ans pour parfaire son éducation. Wolfgang en parle pour la première fois sans qu'on le sollicite à la Cathédrale-Hospice de Shallya ch.6, citant la patience comme vertu qu'ils lui ont enseignée ; il les croit irréprochables `EiR Intro l.707+90` `EiR ch.6 l.46` `EiR Intro l.732`. Présents au Castle Reikguard (Kathe Ruttmann, Per Haldestaake, Ingrid Rademakers) ou ailleurs (Wilhelmina Novak, Wulfrum Ahlquist, Gislind Ursin à l'Université d'Altdorf ; Wolfie Jessner à Middenheim ; Gustav Klaus et Vatheck Fulci en voyage) `EiR ch.4 l.214-303`.
 - **Garde rapprochée** : Reiksguard de Castle Reikguard — ordre séculier élite voué à défendre le Reikland et le sang impérial, caserne principale de l'ordre `EiR ch.4 l.67`. Tolérance zéro pour quiconque rôde dans le château ; effets runiques nains qui pénalisent les sorts (Language Magick et Channelling −3 SL, lores Witchcraft / Necromancy / Daemonology / Chaos −6 SL) `EiR ch.4 l.83+239`.
 - **Conseillers militaires** : Précepteur Leberecht von Hardenburg, Chevalier Panthère décoré, allié sur la coalition bretonnienne contre Blood Keep `EiR ch.4 l.146-154` ; High King Thorgrim Grudgebearer (correspondance échangée pour des promesses mutuelles : régiments d'État de l'Empire envoyés en appui souterrain dans les Worlds Edge Mountains, en échange d'ingénierie naine pour les murailles impériales) `EiR ch.4 l.116-118`.
-- **Réceptacles de secours s'il meurt** : Yann Zuntermein et Karl-Heinz Wasmeier — hôtes inférieurs mais utilisables pour l'incarnation de Sheerargetru si Wolfgang manque à l'appel ; sans le Prince Héritier, le démon ne reçoit pas le +3 Power que sa qualité d'hôte royal accorde au rituel `EiR ch.13 l.430-432+470-471`.
+- **Réceptacles de secours s'il meurt** : Yann Zuntermein et Karl-Heinz Wasmeier — hôtes inférieurs mais utilisables pour l'incarnation de Sheerargetru si Wolfgang manque à l'appel ; sans le Prince Héritier, le démon ne reçoit pas le +3 Power que sa qualité d'hôte royal accorde au rituel `EiR ch.13 l.430-432` `EiR ch.13 l.470-471`.
 - **Mentor occulte alternatif (voie Kastor)** : Egrimm van Horstmann — si tous les autres antagonistes échouent et que Wolfgang survit avec ses Neuf Yeux, le posthume Kastor Lieberung « gagne » : Wolfgang sera attiré à la Tour d'Argent auprès d'Egrimm pour y devenir le plus grand sorcier-champion de Tzeentch jamais né `EiR Intro l.715` `EiR ch.13 l.609`.
 
 ## Le piège — éducation par les Neuf Yeux
 
-**Recrutement** `EiR Intro l.41-43+90` : il y a près de neuf ans, Gideon a
+**Recrutement** `EiR Intro l.41-43` `EiR Intro l.90` : il y a près de neuf ans, Gideon a
 mobilisé les ressources de plusieurs cultes pour qu'on trouve à Wolfgang neuf
 tuteurs experts, chacun membre d'un culte dédié à un domaine de savoir précis,
 recrutés à travers l'Ancien Monde. Officiellement, ces tuteurs sont les Neuf
@@ -121,7 +121,7 @@ hébergeant une entité embryonnaire, libérée pendant un rite, qui entre par
 incantations répétées. Wolfgang doit mourir physiquement déchiré pendant le
 chant *Iztak Graksk* répété neuf fois pour que Sheerargetru manifeste.
 
-## Plans en cours (autour de Wolfgang) `EiR Intro l.687+206-213`
+## Plans en cours (autour de Wolfgang) `EiR Intro l.687` `EiR Intro l.206-213`
 
 - **Mariage avec Katarina Todbringer** : alliance Sigmar/Ulric proposée par
   Volkmar à Shining Rock ; Katarina accepte après l'attaque des Porteurs

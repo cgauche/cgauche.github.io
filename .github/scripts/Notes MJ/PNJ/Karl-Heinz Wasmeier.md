@@ -33,7 +33,7 @@ Environ quarante ans, grand, de stature mince, cheveux bruns ondulés mi-longs, 
 ## Plans en cours `EiR Intro l.323+1087`
 
 - **Soulèvement nordlandais** : fournit aux séparatistes les renseignements pour assassiner des membres de la cour de Middenheim, anime les derniers réseaux nordlandais survivants.
-- **Assassinat de Katarina Todbringer** : sa voie de réhabilitation auprès de la cellule, orchestré via Lord Malthe Barthelm qu'il a radicalisé et conseille magiquement — tentative au mariage impérial à Altdorf, depuis une porte latérale du Grande Cathédrale `EiR ch.6 l.111-113+196`.
+- **Assassinat de Katarina Todbringer** : sa voie de réhabilitation auprès de la cellule, orchestré via Lord Malthe Barthelm qu'il a radicalisé et conseille magiquement — tentative au mariage impérial à Altdorf, depuis une porte latérale du Grande Cathédrale `EiR ch.6 l.111-113` `EiR ch.6 l.196`.
 - **Élimination de Zuntermein** : se faire passer pour utile auprès de Zuntermein tout en cherchant l'occasion d'éliminer son rival — peut tenter d'alerter les PJ sur l'existence d'un Magister Magistri à Altdorf si acculé `EiR Intro l.217 ; EiR ch.6 l.251`.
 - **Preuves Anika-Elise Nikse** : transmission via intermédiaire à Ingrid Gausser des interceptions du Sceptre de Jade, levier post-campagne pour briser la lignée Nikse `EiR Companion ch.5 l.38`.
 
