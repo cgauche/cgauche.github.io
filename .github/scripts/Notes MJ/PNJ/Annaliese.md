@@ -1,10 +1,10 @@
 # Annaliese
 
-> Chambermaid personnelle de [[Maria-Luise von Walfen]]. Confidente loyale. Apparait dans la chaîne d'approche du Palais et lors de la visite de Karl-Franz.
+> Femme de chambre personnelle de [[Maria-Luise von Walfen]]. Confidente loyale. Apparait dans la chaîne d'approche du Palais et lors de la visite de Karl-Franz.
 
 ## Identité
 
-- **Fonction** : **Chambermaid attitrée de Maria-Luise von Walfen**. Service direct, 24/7.
+- **Fonction** : **Femme de chambre attitrée de Maria-Luise von Walfen**. Service direct, permanent.
 - **Profil** : femme entre deux âges, blouse simple, accent commun d'Altdorf. Visage non-mémorable — précisément ce qui en fait une bonne messagère.
 - **Statut** : [VIVANTE] [ALLIÉE — fidèle Maria-Luise].
 - **Tags** : `#Annaliese` `#PalaisAltdorf` `#MariaLuise` `#Confidente`
@@ -27,20 +27,20 @@ Dépose le **billet plié sans signature** au manoir Helstein le matin du 4 Ernt
 Reste dans le salon privé pendant que Maria-Luise briefe les PJ et que la confrontation se déroule dans la chambre. Sert un verre de vin coupé d'eau. **Peut être sondée** par les sorciers exclus de la chambre (voir [[14 - Visite Karl-Franz]]) — graines d'infiltration Reiksgarde, sur Kappelmuller, sur les visiteurs.
 
 ### En tant qu'exécutante discrète
-Quand Maria-Luise dit *« Hauser et deux gardes de confiance dans le couloir »*, c'est Annaliese qui transmet et organise l'évacuation discrète de Kappelmuller (vivant ou mort).
+Quand Maria-Luise dit « Hauser et deux gardes de confiance dans le couloir », c'est Annaliese qui transmet et organise l'évacuation discrète de Kappelmuller (vivant ou mort).
 
 ## Connaissances clés (MJ-only)
 
 - **Visiteurs de Kappelmuller** : la femme âgée = [[Elvyra Kleinestun]] (8-9 mois), le garçon coupe-au-bol = inconnu (= [[Gideon]] MJ-only).
 - **Reiksgarde Cercle Intérieur** : connaît tous les visages depuis 30 ans. **2-3 nouveaux** ces derniers mois, recommandés personnellement par [[Baron von Teufelsmilch]]. Helborg ne les a pas vus (à Ubersreik).
-- **État réel de Karl-Franz** : pas une maladie ordinaire, *« quelque chose entre lui et nous »*. Ne sait pas que c'est un sort, mais sent que c'est anormal.
+- **État réel de Karl-Franz** : pas une maladie ordinaire, « quelque chose entre lui et nous ». Ne sait pas que c'est un sort, mais sent que c'est anormal.
 - **Sait que Luitpold et Alia sont les vrais enfants de Karl-Franz** mais non reconnus officiellement.
 
 ## Voix / dialogue type
 
 > *« Pardon, messieurs, dames. Une femme vient de déposer ceci pour vous à la porte de service. Elle n'a pas voulu dire son nom. »* (en porteur du billet)
 
-> *« Suivez-moi. Vite. »* (en accueil au Palais)
+> « Suivez-moi. Vite. » (en accueil au Palais)
 
 > *« Avant cette maladie, il riait. Il chantait parfois. Maintenant il regarde la lumière et il ne voit rien. C'est pas comme une fièvre. C'est comme s'il y avait quelque chose entre lui et nous. »* (en confidence)
 
@@ -52,5 +52,5 @@ Quand Maria-Luise dit *« Hauser et deux gardes de confiance dans le couloir »*
 ## Liens
 
 - **Patronne** : [[Maria-Luise von Walfen]]
-- **Apparitions scénario** : [[01 - Briefing Helstein]], [[13 - Approche via Lina]], [[14 - Visite Karl-Franz]], [[14 - Visite Karl-Franz]], [[14 - Visite Karl-Franz]]
+- **Apparitions scénario** : [[01 - Briefing Helstein]], [[13 - Approche via Lina]], [[14 - Visite Karl-Franz]]
 - **Lieux** : Palais Impérial Altdorf
