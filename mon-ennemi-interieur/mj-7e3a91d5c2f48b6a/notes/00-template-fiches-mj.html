@@ -57,77 +57,73 @@
 <nav class="mj-breadcrumb"><a href="../index.html">Notes MJ</a> · <a href="index.html">Notes thématiques</a></nav>
 <article class="post mj-content">
 <div class="post-body">
-<pre># Template fiches MJ — instructions de rédaction
-
-&gt; **Référence pour Claude et le MJ humain.** Ce fichier documente la structure
-&gt; standard des fiches Notes MJ et la procédure d'adaptation des fiches
-&gt; existantes au template canonique. Fiche pilote PNJ :
-&gt; `Notes MJ/PNJ/Yann Zuntermein.md`.
-
-## Principes fondateurs
-
-Ces fiches servent **deux usages simultanés** :
-
-1. **MJ humain en préparation / session** : trouver en moins d'une minute l'info dont il a besoin pour décrire, faire parler, manipuler ou affronter une entité.
-2. **Claude (sessions futures)** : pouvoir préparer un scénario, citer le canon, ou répondre à une question sur l'entité, sans risque d'inventer.
-
-D'où les règles directrices :
-
-- **Tout fait factuel est sourcé canon** via une ref en backticks `` `EiR Intro l.682` `` placée juste après l'affirmation.
-- **Aucune invention narrative non sourcée**. Si le canon ne dit pas, on ne dit pas. Le statbloc + les plots canon donnent au MJ tout ce qu'il faut pour improviser à table — pas besoin de réinventer.
-- **Pas de doublon entre sections**. Si une info est dans le bandeau, elle ne se répète pas dans le corps.
-- **Noms complets** pour déclencher les popovers : "Liepmund Holzkrug", pas "Holzkrug". Si la fiche blog porte une orthographe différente du canon, l'aliasing se fait via `_MJ_MANUAL_ALIASES` dans `_site_build.py`.
-
-## Critères de qualité (checklist)
-
-Une fiche est considérée comme **conforme au template** si elle valide les
-critères suivants. Toute fiche qui échoue à un critère est **incomplète** et
-doit être retravaillée avant d'être considérée prête.
-
-### Citations canon
-
-- [ ] **Chaque affirmation factuelle** porte une ref canon en backticks placée à la fin de la phrase ou du bullet. Exemples d'affirmations factuelles :
-  - "Yann mesure plus d'1m85" → factuel sourçable canon
-  - "Il dirige le Spionwerber" → factuel sourçable canon
-  - "Il sait que l'Empereur est malade" → factuel sourçable canon
-  - "Si les PJ ramènent une note signée, l'écriture est reconnue" → factuel sourçable canon
-- [ ] **Aucune ref `de mémoire`** : chaque numéro de ligne a été vérifié dans le fichier source avant rédaction. Méthode : `awk 'NR&gt;=X &amp;&amp; NR&lt;=Y {print NR": "$0}' "Source/.../&lt;file&gt;.md"`.
-- [ ] **Aucune ref pointant sur du contenu cassé** : pas d'extrait vide, pas de bouillie OCR `&lt;br&gt;`, pas de heading isolé. Si la ligne cible tombe sur une zone cassée, chercher la ligne alternative qui pointe les paragraphes lisibles équivalents.
-- [ ] **Aucune affirmation inventée** présentée sans drapeau "Inférence MJ" explicite. Si on doit inférer (extrapolation depuis le statbloc ou les plots), soit on sourcerait l'extrapolation avec la ref du matériel de base, soit on retire la phrase.
-- [ ] **Citations directes en VO** : phrases canon prononcées par le PNJ restent en anglais (entre `*« »*`), non traduites.
-
-Ce que **ne sont pas** des affirmations factuelles sourçables (donc pas besoin de ref) :
-
-- Connecteurs narratifs ("D'où", "Ainsi", "En conséquence").
-- Synthèses internes de la fiche (un sous-titre, un titre de section).
-- Indices d'ordre (S57, S60 — métadonnée table).
-- Renvois vers d'autres sections de la même fiche.
-
-### Popovers entités
-
-- [ ] **Toute mention d'un PNJ, Lieu, Faction utilisé dans une autre fiche** déclenche un popover. Vérification : sur la page rendue, le nom est wrappé en `&lt;a class="entity-pop"&gt;`.
-- [ ] **Noms complets uniquement** : "Liepmund Holzkrug", "Karl-Franz Holswig-Schliestein", "Wolfgang Holswig-Abenauer". Pas "Holzkrug", "Karl-Franz" seuls — ils ne déclenchent rien (la map popover indexe les titres complets).
-- [ ] **Sous-titre obligatoire** : chaque fiche commence par `**Sous-titre** : &lt;5-12 mots&gt;` extrait par le builder pour le popover MJ-only. Pas de sous-titre = popover MJ sans information.
-- [ ] **Pas de wikilinks `Nom`** autour des noms d'entités dans le corps — le système popover s'en occupe seul. Les `[[]]` restent uniquement pour la navigation entre fiches scénario (Hub → scènes).
-- [ ] **Si nom ambigu (deux personnages partagent un prénom)** : ne pas raccourcir. Toujours forme complète. Le matching strict (`_norm_match_keys_strict` dans `_site_build.py`) refuse les sous-tokens pour éviter les faux positifs (cas "Wolfgang Kellermann" matchait à tort "Wolfgang Holswig-Abenhauer" sur "wolfgang" seul).
-
-### Densité indicative (ordre de grandeur)
-
-Pour calibration, la fiche pilote `Yann Zuntermein.md` contient :
-- ~110 lignes utiles
-- ~28 refs canon (≈1 ref par 4 lignes utiles)
-- ~70 popovers entités déclenchés sur la page rendue
-- 0 invention narrative non sourcée
-- 0 doublon de section
-
-Une fiche "vide de refs" sur les sujets factuels = anormale. Une fiche "noyée de refs sur tout" = sur-référencement (les connecteurs n'ont pas besoin de ref).
-
-### Procédure de validation
-
-Avant de considérer une fiche comme terminée :
-
-```bash
-# 1. Lister les refs canon
+<h1>Template fiches MJ — instructions de rédaction</h1>
+<blockquote>
+<p><strong>Référence pour Claude et le MJ humain.</strong> Ce fichier documente la structure
+standard des fiches Notes MJ et la procédure d'adaptation des fiches
+existantes au template canonique. Fiche pilote PNJ :
+<code>Notes MJ/PNJ/Yann Zuntermein.md</code>.</p>
+</blockquote>
+<h2>Principes fondateurs</h2>
+<p>Ces fiches servent <strong>deux usages simultanés</strong> :</p>
+<ol>
+<li><strong>MJ humain en préparation / session</strong> : trouver en moins d'une minute l'info dont il a besoin pour décrire, faire parler, manipuler ou affronter une entité.</li>
+<li><strong>Claude (sessions futures)</strong> : pouvoir préparer un scénario, citer le canon, ou répondre à une question sur l'entité, sans risque d'inventer.</li>
+</ol>
+<p>D'où les règles directrices :</p>
+<ul>
+<li><strong>Tout fait factuel est sourcé canon</strong> via une ref en backticks <code>`EiR Intro l.682`</code> placée juste après l'affirmation.</li>
+<li><strong>Aucune invention narrative non sourcée</strong>. Si le canon ne dit pas, on ne dit pas. Le statbloc + les plots canon donnent au MJ tout ce qu'il faut pour improviser à table — pas besoin de réinventer.</li>
+<li><strong>Pas de doublon entre sections</strong>. Si une info est dans le bandeau, elle ne se répète pas dans le corps.</li>
+<li><strong>Noms complets</strong> pour déclencher les popovers : "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwOOZ_x-cAHtKFObZVK9DFW7hbvrl3xywQ5ZmGbpNBb1AwRziyO46Hadto7sjMsDhuqmpNvqcChWi3B94DXU6vhC6dmaQdRP1CmzIZMDgz7IfmUWGVfzqt441C7LaxKRFnxhnesa6e2af7bThPj-Lk_gSLkdMxwEktcRoE0hkEGAHQnLMKZbs05e7jO6w/s200/liepmund-holzkrug.webp" data-subtitle="Graf et ambassadeur" data-title="Liepmund Holzkrug" href="../../pnj/liepmund-holzkrug.html">Liepmund Holzkrug</a>", pas "Holzkrug". Si la fiche blog porte une orthographe différente du canon, l'aliasing se fait via <code>_MJ_MANUAL_ALIASES</code> dans <code>_site_build.py</code>.</li>
+</ul>
+<h2>Critères de qualité (checklist)</h2>
+<p>Une fiche est considérée comme <strong>conforme au template</strong> si elle valide les
+critères suivants. Toute fiche qui échoue à un critère est <strong>incomplète</strong> et
+doit être retravaillée avant d'être considérée prête.</p>
+<h3>Citations canon</h3>
+<ul>
+<li>[ ] <strong>Chaque affirmation factuelle</strong> porte une ref canon en backticks placée à la fin de la phrase ou du bullet. Exemples d'affirmations factuelles :
+<ul>
+<li>"Yann mesure plus d'1m85" → factuel sourçable canon</li>
+<li>"Il dirige le <a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../lieux/spionwerber.html">Spionwerber</a>" → factuel sourçable canon</li>
+<li>"Il sait que l'Empereur est malade" → factuel sourçable canon</li>
+<li>"Si les PJ ramènent une note signée, l'écriture est reconnue" → factuel sourçable canon</li>
+</ul>
+</li>
+<li>[ ] <strong>Aucune ref <code>de mémoire</code></strong> : chaque numéro de ligne a été vérifié dans le fichier source avant rédaction. Méthode : <code>awk 'NR&gt;=X &amp;&amp; NR&lt;=Y {print NR": "$0}' "Source/.../&lt;file&gt;.md"</code>.</li>
+<li>[ ] <strong>Aucune ref pointant sur du contenu cassé</strong> : pas d'extrait vide, pas de bouillie OCR <code>&lt;br&gt;</code>, pas de heading isolé. Si la ligne cible tombe sur une zone cassée, chercher la ligne alternative qui pointe les paragraphes lisibles équivalents.</li>
+<li>[ ] <strong>Aucune affirmation inventée</strong> présentée sans drapeau "Inférence MJ" explicite. Si on doit inférer (extrapolation depuis le statbloc ou les plots), soit on sourcerait l'extrapolation avec la ref du matériel de base, soit on retire la phrase.</li>
+<li>[ ] <strong>Citations directes en VO</strong> : phrases canon prononcées par le PNJ restent en anglais (entre <code>*« »*</code>), non traduites.</li>
+</ul>
+<p>Ce que <strong>ne sont pas</strong> des affirmations factuelles sourçables (donc pas besoin de ref) :</p>
+<ul>
+<li>Connecteurs narratifs ("D'où", "Ainsi", "En conséquence").</li>
+<li>Synthèses internes de la fiche (un sous-titre, un titre de section).</li>
+<li>Indices d'ordre (S57, S60 — métadonnée table).</li>
+<li>Renvois vers d'autres sections de la même fiche.</li>
+</ul>
+<h3>Popovers entités</h3>
+<ul>
+<li>[ ] <strong>Toute mention d'un PNJ, Lieu, Faction utilisé dans une autre fiche</strong> déclenche un popover. Vérification : sur la page rendue, le nom est wrappé en <code>&lt;a class="entity-pop"&gt;</code>.</li>
+<li>[ ] <strong>Noms complets uniquement</strong> : "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwOOZ_x-cAHtKFObZVK9DFW7hbvrl3xywQ5ZmGbpNBb1AwRziyO46Hadto7sjMsDhuqmpNvqcChWi3B94DXU6vhC6dmaQdRP1CmzIZMDgz7IfmUWGVfzqt441C7LaxKRFnxhnesa6e2af7bThPj-Lk_gSLkdMxwEktcRoE0hkEGAHQnLMKZbs05e7jO6w/s200/liepmund-holzkrug.webp" data-subtitle="Graf et ambassadeur" data-title="Liepmund Holzkrug" href="../../pnj/liepmund-holzkrug.html">Liepmund Holzkrug</a>", "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOznx3IJTuzqEjKc5tFuqWIq3Zzx_MEIFeHhKltFqimiW0aigkjSha6BbDiAxbdjUA2RM5ArZsJRkMhXgMiV8gHi1m4kX99VsN__5DOER_NmfhR8u-vTWW3FhPlGM0TAgTTZ-4biSMMQjaRpHlhVzg8WVNdzmNVYLvq0vQTw2gOy_-PuXkLEtnmB42s50/s200/hermann-von-feilbach.webp" data-subtitle="Empereur" data-title="Karl-Franz Holswig-Schliestein" href="../../pnj/karl-franz-holswig-schliestein.html">Karl-Franz Holswig-Schliestein</a>", "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RZVNEKfUSI51nlHlxjw0csvLKROfXCRNKKxN_I3yjbJS3uxznt4xX7wfM4LMOBCqeBRZsMazjm6FDPcPPKdB5JUuTqjkpfSFrm9_8b6cN5Gb94pIpY3Gr7i8A2zy11ftZbWhhLCn0fL3wlTDRd0XpXA9c58_gR0UiH7cRg7TM3-KPG78iE-hj17038w/s200/crown-prince.webp" data-subtitle="Prince héritier du Reikland" data-title="Wolfgang Holswig-Abenhauer" href="../../pnj/wolfgang-holswig-abenhauer.html">Wolfgang Holswig-Abenauer</a>". Pas "Holzkrug", "Karl-Franz" seuls — ils ne déclenchent rien (la map popover indexe les titres complets).</li>
+<li>[ ] <strong>Sous-titre obligatoire</strong> : chaque fiche commence par <code>**Sous-titre** : &lt;5-12 mots&gt;</code> extrait par le builder pour le popover MJ-only. Pas de sous-titre = popover MJ sans information.</li>
+<li>[ ] <strong>Pas de wikilinks <code>Nom</code></strong> autour des noms d'entités dans le corps — le système popover s'en occupe seul. Les <code>[[]]</code> restent uniquement pour la navigation entre fiches scénario (Hub → scènes).</li>
+<li>[ ] <strong>Si nom ambigu (deux personnages partagent un prénom)</strong> : ne pas raccourcir. Toujours forme complète. Le matching strict (<code>_norm_match_keys_strict</code> dans <code>_site_build.py</code>) refuse les sous-tokens pour éviter les faux positifs (cas "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdxtuRJbe3NMpABzh4Ix4o8xLySFQASNORmOe62tO8jLdKKd4voYKYp97J7Je6OV4P5JLj1-UAKwwz-nthp86u4y2qYtEipN0rdVN_zhfrN2CXID7044T_mat7UCm8tD-ygfK-SjTdVmau0nvlEQL5yT-cKzlglNY6hPokG3u5LCn5pr0ceJ2pdJNutpBG/s200/wolfgang-kellermann.webp" data-subtitle="Propriétaire des Piques Croisées" data-title="Wolfgang Kellermann" href="../../pnj/wolfgang-kellermann.html">Wolfgang Kellermann</a>" matchait à tort "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RZVNEKfUSI51nlHlxjw0csvLKROfXCRNKKxN_I3yjbJS3uxznt4xX7wfM4LMOBCqeBRZsMazjm6FDPcPPKdB5JUuTqjkpfSFrm9_8b6cN5Gb94pIpY3Gr7i8A2zy11ftZbWhhLCn0fL3wlTDRd0XpXA9c58_gR0UiH7cRg7TM3-KPG78iE-hj17038w/s200/crown-prince.webp" data-subtitle="Prince héritier du Reikland" data-title="Wolfgang Holswig-Abenhauer" href="../../pnj/wolfgang-holswig-abenhauer.html">Wolfgang Holswig-Abenhauer</a>" sur "wolfgang" seul).</li>
+</ul>
+<h3>Densité indicative (ordre de grandeur)</h3>
+<p>Pour calibration, la fiche pilote <code>Yann Zuntermein.md</code> contient :</p>
+<ul>
+<li>~110 lignes utiles</li>
+<li>~28 refs canon (≈1 ref par 4 lignes utiles)</li>
+<li>~70 popovers entités déclenchés sur la page rendue</li>
+<li>0 invention narrative non sourcée</li>
+<li>0 doublon de section</li>
+</ul>
+<p>Une fiche "vide de refs" sur les sujets factuels = anormale. Une fiche "noyée de refs sur tout" = sur-référencement (les connecteurs n'ont pas besoin de ref).</p>
+<h3>Procédure de validation</h3>
+<p>Avant de considérer une fiche comme terminée :</p>
+<pre><code class="language-bash"># 1. Lister les refs canon
 grep -oE '`(EiR|EiS|DoR|PBT|HR|EiR Companion|EiS Companion|DoR Companion|PBT Companion|HR Companion|Altdorf|Middenheim|Salzenmund|Up in Arms|RN&amp;HD|Archives Vol [IVX]+) (Intro|ch\.[0-9]+)[^`]*`' "Notes MJ/&lt;dossier&gt;/&lt;Fiche&gt;.md"
 
 # 2. Re-builder le site
@@ -148,131 +144,155 @@ print(f'Popovers entit : {len(re.findall(chr(34) + chr(99) + chr(108) + chr(97) 
 # Ouvrir _site/&lt;categorie&gt;/&lt;fiche-slug&gt;.html?mj=&lt;TOKEN&gt; dans le navigateur
 # Hover sur chaque superscript numéroté
 # L'extrait doit être pertinent à l'affirmation citée — pas un heading orphelin, pas une table cassée
-```
-
-### Critère de validation final
-
-&gt; Une fiche est conforme si **chaque hover** sur un superscript canon
-&gt; affiche un extrait pertinent, **chaque popover entité** se déclenche
-&gt; correctement, et **chaque affirmation factuelle** est tracée à une
-&gt; source canon.
-
-## Conventions techniques
-
-### Citations canon (refs backticks)
-
-Format strict : `` `&lt;BOOK&gt; &lt;CHAPTER&gt; l.&lt;LINES&gt;` `` ou `` `&lt;BOOK&gt; &lt;CHAPTER&gt; p.&lt;PAGE&gt;` `` (mais `p.NNN` n'est plus résolvable, la pagination PDF est perdue à la conversion).
-
-**Livres reconnus** par le builder (cf. `_CANON_BOOK_DIRS` dans `_site_build.py`) :
-
-| Abréviation | Livre |
-|---|---|
-| `EiS` | Enemy in Shadows (vol 1) |
-| `DoR` | Death on the Reik (vol 2) |
-| `PBT` | Power Behind the Throne (vol 3) |
-| `HR` | The Horned Rat (vol 4) |
-| `EiR` | Empire in Ruins (vol 5) |
-| `EiS Companion`, `DoR Companion`, `PBT Companion`, `HR Companion`, `EiR Companion` | Les 5 Companions |
-| `Altdorf` | Altdorf — Crown of the Empire |
-| `Middenheim` | Middenheim — City of the White Wolf |
-| `Salzenmund` | Salzenmund |
-| `Up in Arms` | Up in Arms |
-| `RN&amp;HD` | Rough Nights &amp; Hard Days |
-| `Archives Vol I/II/III` | Archives of the Empire |
-
-**Chapitres** :
-- `Intro` pour l'introduction d'un volume
-- `ch.N` pour le chapitre N (pas `chN`, pas `Chapter N`)
-- `Appendix` pour un appendix
-
-**Lignes** :
-- `l.205` — une seule ligne
-- `l.205-218` — plage continue
-- `l.215+217` — deux lignes non contiguës
-- `l.215+217+220` — trois lignes ou plus non contiguës (utiliser `+` comme séparateur, jamais virgule)
-
-Le rendu HTML transforme `` `EiR Intro l.682` `` en superscript numéroté `&lt;sup&gt;N&lt;/sup&gt;`, navigable par survol (extrait) et clic (page source canon avec ancre `#L682`).
-
-### Conventions de précision
-
-- **Toujours vérifier le contenu de la ligne** avant de la citer. Ne pas citer "de mémoire". Utilise `awk 'NR&gt;=X &amp;&amp; NR&lt;=Y {print NR}'` sur le fichier source pour confirmer.
-- **Si une ligne tombe sur un heading ou une table cassée par l'OCR**, chercher une ref alternative qui pointe sur les paragraphes lisibles équivalents. Le système popover sert de garde-fou : un extrait vide ou bizarre = ref mal placée.
-- **Citations en VO** : les phrases canon directes (entre `*« »*` ou `*"..."*`) restent en VO anglais. Les autres mentions des entités utilisent le français canon (cf. `Notes MJ/Orthographe canon - corrections à appliquer.md`).
-
-### Popovers entités
-
-- Toute mention du **nom complet** d'une fiche existante (PNJ, Lieu, Faction) déclenche un popover automatique.
-- Si la fiche blog utilise une orthographe différente du canon Lexicanum/Fandom (ex. blog "Aldorf" / canon "Altdorf"), l'aliasing doit être ajouté à `_MJ_MANUAL_ALIASES` dans `_site_build.py`.
-- Pas de `wikilinks` autour des noms d'entités dans le corps de la fiche — le système popover s'occupe seul du linking.
-
-### Sous-titre extractible
-
-La ligne `**Sous-titre** : &lt;courte description&gt;` est extraite par `_extract_mj_entity_metadata` et utilisée comme `data-subtitle` dans le popover MJ. Format :
-
-```markdown
-**Sous-titre** : Magister Magistri de la cellule Main Pourpre d'Altdorf
-```
-
-5-12 mots maximum. Décrit la fonction principale de l'entité.
-
-### Statut
-
-Ligne en gras juste après le sous-titre :
-
-```markdown
-**Statut** : [ENNEMI ACTIF]
-```
-
-Valeurs canon : `[VIVANT]`, `[MORT]`, `[DISPARU]`, `[ENNEMI ACTIF]`, `[ALLIÉ]`, `[INACTIF]`. Pour entités secondaires : adapter (`[CULTE ACTIF]`, `[LIEU OPÉRATIONNEL]`, etc.).
-
-#### Statut évolutif
-
-Pour un PNJ dont l'état a changé au fil des sessions (par ex. présumé
+</code></pre>
+<h3>Critère de validation final</h3>
+<blockquote>
+<p>Une fiche est conforme si <strong>chaque hover</strong> sur un superscript canon
+affiche un extrait pertinent, <strong>chaque popover entité</strong> se déclenche
+correctement, et <strong>chaque affirmation factuelle</strong> est tracée à une
+source canon.</p>
+</blockquote>
+<h2>Conventions techniques</h2>
+<h3>Citations canon (refs backticks)</h3>
+<p>Format strict : <code>`&lt;BOOK&gt; &lt;CHAPTER&gt; l.&lt;LINES&gt;`</code> ou <code>`&lt;BOOK&gt; &lt;CHAPTER&gt; p.&lt;PAGE&gt;`</code> (mais <code>p.NNN</code> n'est plus résolvable, la pagination PDF est perdue à la conversion).</p>
+<p><strong>Livres reconnus</strong> par le builder (cf. <code>_CANON_BOOK_DIRS</code> dans <code>_site_build.py</code>) :</p>
+<table>
+<thead>
+<tr>
+<th>Abréviation</th>
+<th>Livre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="EiS — EiS" href="../source/eis/01-wanted-bold-adventurers.html" title="EiS"><sup>1</sup></a></td>
+<td>Enemy in Shadows (vol 1)</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="DoR — DoR" href="../source/dor/01-contents.html" title="DoR"><sup>2</sup></a></td>
+<td>Death on the Reik (vol 2)</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="PBT — PBT" href="../source/pbt/01-foreword.html" title="PBT"><sup>3</sup></a></td>
+<td>Power Behind the Throne (vol 3)</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="HR — HR" href="../source/hr/01-enemy-within-campaign-volume-4-the-horned-rat.html" title="HR"><sup>4</sup></a></td>
+<td>The Horned Rat (vol 4)</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="EiR — EiR" href="../source/eir/01-credits.html" title="EiR"><sup>5</sup></a></td>
+<td>Empire in Ruins (vol 5)</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="EiS Companion — EiS Companion" href="../source/eis-companion/01-contents.html" title="EiS Companion"><sup>6</sup></a>, <a class="canon-ref" data-extract="(extrait indisponible)" data-source="DoR Companion — DoR Companion" href="../source/dor-companion/01-cover.html" title="DoR Companion"><sup>7</sup></a>, <a class="canon-ref" data-extract="(extrait indisponible)" data-source="PBT Companion — PBT Companion" href="../source/pbt-companion/01-contents.html" title="PBT Companion"><sup>8</sup></a>, <a class="canon-ref" data-extract="(extrait indisponible)" data-source="HR Companion — HR Companion" href="../source/hr-companion/01-the-horned-rat-companion.html" title="HR Companion"><sup>9</sup></a>, <a class="canon-ref" data-extract="(extrait indisponible)" data-source="EiR Companion — EiR Companion" href="../source/eir-companion/01-contents.html" title="EiR Companion"><sup>10</sup></a></td>
+<td>Les 5 Companions</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="Altdorf — Altdorf" href="../source/altdorf/01-altdorf-crown-of-the-empire.html" title="Altdorf"><sup>11</sup></a></td>
+<td><a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../lieux/aldorf-5.html">Altdorf</a> — Crown of the Empire</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="Middenheim — Middenheim" href="../source/middenheim/01-contents.html" title="Middenheim"><sup>12</sup></a></td>
+<td><a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqN-BT2U_Zb_-Pr3l4JTX9rSdQAH2X10d9DXZSGr9waNwmNS5xmSQyb-VfzcaeDq68w9sLlsRkOu3vRNdzEJTPjHCOwCe_AAs9bnbrW6hfyT91QP3zBCBe1N8XzeUhVgZmuTD_cP_bELaiLo2byBb9mj2atdRegc4hw96eTziiCN2XsmdsMJIoahQj9Ys/s400/_middleheim.png" data-subtitle="Capitale du Middenland" data-title="Middenheim" href="../../lieux/middenheim-4.html">Middenheim</a> — City of the White Wolf</td>
+</tr>
+<tr>
+<td><code>Salzenmund</code></td>
+<td>Salzenmund</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="Up in Arms — Up in Arms" href="../source/up-in-arms/01-credits-and-contents.html" title="Up in Arms"><sup>13</sup></a></td>
+<td>Up in Arms</td>
+</tr>
+<tr>
+<td><a class="canon-ref" data-extract="(extrait indisponible)" data-source="RN&amp;HD — RN&amp;HD" href="../source/rnhd/01-foreword.html" title="RN&amp;HD"><sup>14</sup></a></td>
+<td>Rough Nights &amp; Hard Days</td>
+</tr>
+<tr>
+<td><code>Archives Vol I/II/III</code></td>
+<td>Archives of the Empire</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Chapitres</strong> :</p>
+<ul>
+<li><code>Intro</code> pour l'introduction d'un volume</li>
+<li><code>ch.N</code> pour le chapitre N (pas <code>chN</code>, pas <code>Chapter N</code>)</li>
+<li><code>Appendix</code> pour un appendix</li>
+</ul>
+<p><strong>Lignes</strong> :</p>
+<ul>
+<li><code>l.205</code> — une seule ligne</li>
+<li><code>l.205-218</code> — plage continue</li>
+<li><code>l.215+217</code> — deux lignes non contiguës</li>
+<li><code>l.215+217+220</code> — trois lignes ou plus non contiguës (utiliser <code>+</code> comme séparateur, jamais virgule)</li>
+</ul>
+<p>Le rendu HTML transforme <code>`EiR Intro l.682`</code> en superscript numéroté <code>&lt;sup&gt;N&lt;/sup&gt;</code>, navigable par survol (extrait) et clic (page source canon avec ancre <code>#L682</code>).</p>
+<h3>Conventions de précision</h3>
+<ul>
+<li><strong>Toujours vérifier le contenu de la ligne</strong> avant de la citer. Ne pas citer "de mémoire". Utilise <code>awk 'NR&gt;=X &amp;&amp; NR&lt;=Y {print NR}'</code> sur le fichier source pour confirmer.</li>
+<li><strong>Si une ligne tombe sur un heading ou une table cassée par l'OCR</strong>, chercher une ref alternative qui pointe sur les paragraphes lisibles équivalents. Le système popover sert de garde-fou : un extrait vide ou bizarre = ref mal placée.</li>
+<li><strong>Citations en VO</strong> : les phrases canon directes (entre <code>*« »*</code> ou <code>*"..."*</code>) restent en VO anglais. Les autres mentions des entités utilisent le français canon (cf. <code>Notes MJ/Orthographe canon - corrections à appliquer.md</code>).</li>
+</ul>
+<h3>Popovers entités</h3>
+<ul>
+<li>Toute mention du <strong>nom complet</strong> d'une fiche existante (PNJ, Lieu, Faction) déclenche un popover automatique.</li>
+<li>Si la fiche blog utilise une orthographe différente du canon Lexicanum/Fandom (ex. blog "Aldorf" / canon "<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../lieux/aldorf-5.html">Altdorf</a>"), l'aliasing doit être ajouté à <code>_MJ_MANUAL_ALIASES</code> dans <code>_site_build.py</code>.</li>
+<li>Pas de <code>wikilinks</code> autour des noms d'entités dans le corps de la fiche — le système popover s'occupe seul du linking.</li>
+</ul>
+<h3>Sous-titre extractible</h3>
+<p>La ligne <code>**Sous-titre** : &lt;courte description&gt;</code> est extraite par <code>_extract_mj_entity_metadata</code> et utilisée comme <code>data-subtitle</code> dans le popover MJ. Format :</p>
+<pre><code class="language-markdown">**Sous-titre** : Magister Magistri de la cellule Main Pourpre d'Altdorf
+</code></pre>
+<p>5-12 mots maximum. Décrit la fonction principale de l'entité.</p>
+<h3>Statut</h3>
+<p>Ligne en gras juste après le sous-titre :</p>
+<pre><code class="language-markdown">**Statut** : [ENNEMI ACTIF]
+</code></pre>
+<p>Valeurs canon : <code>[VIVANT]</code>, <code>[MORT]</code>, <code>[DISPARU]</code>, <code>[ENNEMI ACTIF]</code>, <code>[ALLIÉ]</code>, <code>[INACTIF]</code>. Pour entités secondaires : adapter (<code>[CULTE ACTIF]</code>, <code>[LIEU OPÉRATIONNEL]</code>, etc.).</p>
+<h4>Statut évolutif</h4>
+<p>Pour un PNJ dont l'état a changé au fil des sessions (par ex. présumé
 mort puis revenu vivant), conserver la trace de l'évolution avec des
-flèches et des références de session entre crochets :
-
-```markdown
-**Statut** : [PRÉSUMÉ MORT S39 → REVENU VIVANT S61 → ENNEMI ACTIF en disgrâce]
-```
-
-Format :
-- Chaque étape entre majuscules.
-- Référence de session `[Sxx]` juste après l'état pivot.
-- Flèche `→` pour la transition.
-- Éventuelle nuance qualitative en minuscules à la fin (`en disgrâce`, `affaibli`, `réfugié`).
-
-Voir `Notes MJ/PNJ/Karl-Heinz Wasmeier.md` pour un exemple complet.
-
-### Conventions de naming des fichiers
-
-- Chemin : `Notes MJ/&lt;type&gt;/&lt;Nom Canon&gt;.md`
-- `&lt;type&gt;` ∈ `PNJ`, `Lieux`, `Factions`, `Documents`, `Arcs`, `Turmoil`, `Scénarios`.
-- `&lt;Nom Canon&gt;` :
-  - Forme canonique Lexicanum/Fandom du nom (cf. `Notes MJ/Orthographe canon - corrections à appliquer.md`).
-  - Espaces autorisés ("Karl-Heinz Wasmeier.md").
-  - Accents autorisés ("Île Noire.md", "Collège Gris.md").
-  - Apostrophes droites typographiques selon le canon ("Cellule Shornaal d'Ubersreik.md").
-- **Pas de** : caractères ASCII de remplacement (`oe` au lieu de `œ`), doublons d'orthographe, casse fantaisiste.
-- **Variants d'un personnage** : si un même PNJ a plusieurs apparitions distinctes documentées séparément, utiliser le suffixe `(2)`, `(3)` (par ex. `Boris Todbringer (2).md`) — pas une duplication, mais un état/apparition distincte. Convention déjà acceptée dans CLAUDE.md.
-
-### PNJ décédés mais cités
-
-Les PNJ morts pendant la campagne (par ex. Kastor Lieberung mort à
-Bögenhafen S8, Brunhilde Klaglich morte S38) restent **dans la map
-popover** : ils sont mentionnés par les autres fiches qui leur survivent,
-et le MJ a souvent besoin de retrouver leur contexte historique.
-
-- Garder leur fiche `Notes MJ/PNJ/&lt;Nom&gt;.md`.
-- Mettre le statut `[MORT Sxx]` ou `[MORT canon ch.X]` avec la session/le chapitre de la mort.
-- Conserver leurs Apparitions canon — y compris la mort si elle est dans le canon.
-- Le popover continue de se déclencher sur leur nom complet, ce qui permet aux fiches futures de référencer leur passé.
-
-## Template PNJ
-
-Structure canonique (voir `Notes MJ/PNJ/Yann Zuntermein.md`) :
-
-```markdown
-# Nom Complet
+flèches et des références de session entre crochets :</p>
+<pre><code class="language-markdown">**Statut** : [PRÉSUMÉ MORT S39 → REVENU VIVANT S61 → ENNEMI ACTIF en disgrâce]
+</code></pre>
+<p>Format :</p>
+<ul>
+<li>Chaque étape entre majuscules.</li>
+<li>Référence de session <code>[Sxx]</code> juste après l'état pivot.</li>
+<li>Flèche <code>→</code> pour la transition.</li>
+<li>Éventuelle nuance qualitative en minuscules à la fin (<code>en disgrâce</code>, <code>affaibli</code>, <code>réfugié</code>).</li>
+</ul>
+<p>Voir <code>Notes MJ/PNJ/Karl-Heinz Wasmeier.md</code> pour un exemple complet.</p>
+<h3>Conventions de naming des fichiers</h3>
+<ul>
+<li>Chemin : <code>Notes MJ/&lt;type&gt;/&lt;Nom Canon&gt;.md</code></li>
+<li><code>&lt;type&gt;</code> ∈ <code>PNJ</code>, <code>Lieux</code>, <code>Factions</code>, <code>Documents</code>, <code>Arcs</code>, <code>Turmoil</code>, <code>Scénarios</code>.</li>
+<li><code>&lt;Nom Canon&gt;</code> :
+<ul>
+<li>Forme canonique Lexicanum/Fandom du nom (cf. <code>Notes MJ/Orthographe canon - corrections à appliquer.md</code>).</li>
+<li>Espaces autorisés ("<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GsvvBSANs-TdLswyRMlh1vBZ2OXm0ABI97OzV5br6xsvdcpQq9wfUMseEHi0zPiLfMxDVQbtqnOaJa_VOM7JXbYlpvrmCSHwbXRG7fWfmh4VKFmPt9yNYZXRDDx4MxLy_dnnbPoJpUjb_DHXCrgsKKMK5Z__di_jWnWQx2p-7JLGDrDfS4jBSTqs-pc/s200/karl-heinz-wasmeier.webp" data-subtitle="Cultiste de la Main Pourpre" data-title="Karl-Heinz Wasmeier" href="../../pnj/karl-heinz-wasmaier.html">Karl-Heinz Wasmeier</a>.md").</li>
+<li>Accents autorisés ("<a class="entity-pop" data-cat="Lieu" data-subtitle="QG de la Chambre Noire à Altdorf" data-title="Île Noire" href="../lieux/ile-noire.html">Île Noire</a>.md", "<a class="entity-pop" data-cat="Lieu" data-subtitle="Collège de l'Ombre (Ulgu)" data-title="Collège Gris" href="../lieux/college-gris.html">Collège Gris</a>.md").</li>
+<li>Apostrophes droites typographiques selon le canon ("<a class="entity-pop" data-cat="Lieu" data-title="Cellule Shornaal d'Ubersreik" href="../lieux/cellule-shornaal-dubersreik.html">Cellule Shornaal d'Ubersreik</a>.md").</li>
+</ul>
+</li>
+<li><strong>Pas de</strong> : caractères ASCII de remplacement (<code>oe</code> au lieu de <code>œ</code>), doublons d'orthographe, casse fantaisiste.</li>
+<li><strong>Variants d'un personnage</strong> : si un même PNJ a plusieurs apparitions distinctes documentées séparément, utiliser le suffixe <code>(2)</code>, <code>(3)</code> (par ex. <code>Boris Todbringer (2).md</code>) — pas une duplication, mais un état/apparition distincte. Convention déjà acceptée dans CLAUDE.md.</li>
+</ul>
+<h3>PNJ décédés mais cités</h3>
+<p>Les PNJ morts pendant la campagne (par ex. <a class="entity-pop" data-cat="PNJ" data-title="Kastor Lieberung" href="../pnj/kastor-lieberung.html">Kastor Lieberung</a> mort à
+<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHLAdBEq_MkhCp64gGaUdnT69KULFtgfG5218XXVNaw5ctwO4ZzMDRxsqzf5KbZWM0fmeqT_fZVzgiSvvbuS9oPUhob638ainMCuSXwIsQiHwatOJM3TfR04vaCR9Pr1SAYrkHHJv_9HKK4SldwNDcJ_E8Bu7nlDviShzBG7lYuRcMjAbmt0aRfmfm_8/s400/_bogenhafen.png" data-subtitle="Ville du Reikland" data-title="Bögenhafen" href="../../lieux/bogenhafen.html">Bögenhafen</a> S8, <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjSYYzz07J7igZ0kqg0PNrCs_aZkozX3hrSy8w11_X05fYWF0t_k-va8wbPclBkm1c3yKIJHgVMhloPL-cdb-uOt-tO3MBjxRxLNPjIcWTrT-zjqXviQmzj3NjlLwuikKPVYvRAezr77MxA1aWQlgMTvyBYAqFbX_uJxW3TSBMVTPWgkk6KbLSJVZxBMk/s200/brunhilde-klaglich.webp" data-subtitle="Mercenaire" data-title="Brunhilde Klaglich" href="../../pnj/brunhilde-klaglich.html">Brunhilde Klaglich</a> morte S38) restent <strong>dans la map
+popover</strong> : ils sont mentionnés par les autres fiches qui leur survivent,
+et le MJ a souvent besoin de retrouver leur contexte historique.</p>
+<ul>
+<li>Garder leur fiche <code>Notes MJ/PNJ/&lt;Nom&gt;.md</code>.</li>
+<li>Mettre le statut <code>[MORT Sxx]</code> ou <code>[MORT canon ch.X]</code> avec la session/le chapitre de la mort.</li>
+<li>Conserver leurs Apparitions canon — y compris la mort si elle est dans le canon.</li>
+<li>Le popover continue de se déclencher sur leur nom complet, ce qui permet aux fiches futures de référencer leur passé.</li>
+</ul>
+<h2>Template PNJ</h2>
+<p>Structure canonique (voir <code>Notes MJ/PNJ/Yann Zuntermein.md</code>) :</p>
+<pre><code class="language-markdown"># Nom Complet
 
 **Sous-titre** : Fonction principale
 **Statut** : [STATUT]
@@ -334,78 +354,124 @@ arbitraire dans les listes (seulement les labels de section en gras).
 - [Nom — Lexicanum](URL)
 - [Nom — Fandom](URL)
 - [Nom — Bibliothèque Impériale](URL)
-```
-
-**Ordre canonique des liens externes** :
-1. **Lexicanum** (`https://whfb.lexicanum.com/`) — plus fiable, à mettre en premier.
-2. **Fandom Warhammer** (`https://warhammerfantasy.fandom.com/`) — complément, à mettre en deuxième.
-3. **Bibliothèque Impériale** (`https://bibliotheque-imperiale.com/`) — source FR pour traduction canon, en troisième seulement si l'entité y est documentée.
-
-N'ajouter que les liens **réellement existants** — ne pas inventer une URL Lexicanum si la page n'existe pas. Vérifier avant.
-
-### Sections optionnelles
-
-- **Identité publique / Identité secrète** : seulement pour PNJ à double identité significative. Sinon, le sous-titre + Réseau suffisent.
-- **Faction principale** : ligne après Statut si l'appartenance est essentielle et pas implicite par le sous-titre.
-
-## Template Lieu
-
-Pilote : `Notes MJ/Lieux/Volkshalle.md`.
-
-Substitutions par rapport au PNJ :
-
-| Section PNJ | Section Lieu |
-|---|---|
-| Apparence et manières | **Description** (architecture, atmosphère) |
-| Phrases canon | *(supprimer — un lieu ne parle pas)* |
-| Réseau | **Composition / qui s'y trouve** (PNJ associés) |
-| Objectifs et angle mort | *(supprimer)* |
-| Plans en cours | **Rôle dans l'intrigue** (à quoi sert ce lieu) |
-| Démasquage et confrontation | **Mécanique de scène** (DCs, pièges, salles remarquables, accès) |
-| Apparitions canon Arc N | *(garder, parfois implicite par les scènes qui s'y déroulent)* |
-| Statbloc | *(supprimer — sauf si lieu fortifié avec garnison)* |
-
-Sections nouvelles utiles pour un lieu :
-- **Géographie / accès** : où c'est, comment on y va.
-- **Reliquaire / objets remarquables** : si le lieu contient des artefacts importants.
-
-## Template Faction
-
-Pilote : `Notes MJ/Factions/Spionwerber.md`.
-
-Substitutions par rapport au PNJ :
-
-| Section PNJ | Section Faction |
-|---|---|
-| Apparence et manières | *(supprimer)* |
-| Phrases canon | *(supprimer ou conserver si slogans canon)* |
-| Réseau | **Composition / Hiérarchie** (PNJ membres + structure) |
-| Objectifs et angle mort | **Doctrine** (croyances, méthodes) |
-| Plans en cours | **Rôle officiel vs Rôle réel** (si infiltrée ou double agenda) |
-| Démasquage et confrontation | **Hooks** (comment les PJ interagissent) |
-| Statbloc | *(supprimer)* |
-
-Sections utiles :
-- **Personnages clés** : liens vers PNJ membres avec une ligne chacun.
-- **Influence** : où la faction agit, ressources, secrets.
-- **Vent / Spécialité** : pour les ordres magiques (cf. `Notes MJ/Factions/Collège Gris.md`).
-
-## Template Document
-
-Distinguer deux cas :
-
-### Handout in-game
-
-Texte à donner aux PJ. Pas de template — pure prose, citation in-extenso du document. Notes MJ-only à part dans une section finale clairement marquée.
-
-Exemple : `Notes MJ/Documents/Fassbinder - documents bureau.md`.
-
-### Fiche-document de référence (rare)
-
-Si on documente un objet/lettre/livre comme entité canon (référencé par d'autres fiches) :
-
-```markdown
-# Nom du Document
+</code></pre>
+<p><strong>Ordre canonique des liens externes</strong> :</p>
+<ol>
+<li><strong>Lexicanum</strong> (<code>https://whfb.lexicanum.com/</code>) — plus fiable, à mettre en premier.</li>
+<li><strong>Fandom Warhammer</strong> (<code>https://warhammerfantasy.fandom.com/</code>) — complément, à mettre en deuxième.</li>
+<li><strong>Bibliothèque Impériale</strong> (<code>https://bibliotheque-imperiale.com/</code>) — source FR pour traduction canon, en troisième seulement si l'entité y est documentée.</li>
+</ol>
+<p>N'ajouter que les liens <strong>réellement existants</strong> — ne pas inventer une URL Lexicanum si la page n'existe pas. Vérifier avant.</p>
+<h3>Sections optionnelles</h3>
+<ul>
+<li><strong>Identité publique / Identité secrète</strong> : seulement pour PNJ à double identité significative. Sinon, le sous-titre + Réseau suffisent.</li>
+<li><strong>Faction principale</strong> : ligne après Statut si l'appartenance est essentielle et pas implicite par le sous-titre.</li>
+</ul>
+<h2>Template Lieu</h2>
+<p>Pilote : <code>Notes MJ/Lieux/Volkshalle.md</code>.</p>
+<p>Substitutions par rapport au PNJ :</p>
+<table>
+<thead>
+<tr>
+<th>Section PNJ</th>
+<th>Section Lieu</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Apparence et manières</td>
+<td><strong>Description</strong> (architecture, atmosphère)</td>
+</tr>
+<tr>
+<td>Phrases canon</td>
+<td><em>(supprimer — un lieu ne parle pas)</em></td>
+</tr>
+<tr>
+<td>Réseau</td>
+<td><strong>Composition / qui s'y trouve</strong> (PNJ associés)</td>
+</tr>
+<tr>
+<td>Objectifs et angle mort</td>
+<td><em>(supprimer)</em></td>
+</tr>
+<tr>
+<td>Plans en cours</td>
+<td><strong>Rôle dans l'intrigue</strong> (à quoi sert ce lieu)</td>
+</tr>
+<tr>
+<td>Démasquage et confrontation</td>
+<td><strong>Mécanique de scène</strong> (DCs, pièges, salles remarquables, accès)</td>
+</tr>
+<tr>
+<td>Apparitions canon Arc N</td>
+<td><em>(garder, parfois implicite par les scènes qui s'y déroulent)</em></td>
+</tr>
+<tr>
+<td>Statbloc</td>
+<td><em>(supprimer — sauf si lieu fortifié avec garnison)</em></td>
+</tr>
+</tbody>
+</table>
+<p>Sections nouvelles utiles pour un lieu :</p>
+<ul>
+<li><strong>Géographie / accès</strong> : où c'est, comment on y va.</li>
+<li><strong>Reliquaire / objets remarquables</strong> : si le lieu contient des artefacts importants.</li>
+</ul>
+<h2>Template Faction</h2>
+<p>Pilote : <code>Notes MJ/Factions/Spionwerber.md</code>.</p>
+<p>Substitutions par rapport au PNJ :</p>
+<table>
+<thead>
+<tr>
+<th>Section PNJ</th>
+<th>Section Faction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Apparence et manières</td>
+<td><em>(supprimer)</em></td>
+</tr>
+<tr>
+<td>Phrases canon</td>
+<td><em>(supprimer ou conserver si slogans canon)</em></td>
+</tr>
+<tr>
+<td>Réseau</td>
+<td><strong>Composition / Hiérarchie</strong> (PNJ membres + structure)</td>
+</tr>
+<tr>
+<td>Objectifs et angle mort</td>
+<td><strong>Doctrine</strong> (croyances, méthodes)</td>
+</tr>
+<tr>
+<td>Plans en cours</td>
+<td><strong>Rôle officiel vs Rôle réel</strong> (si infiltrée ou double agenda)</td>
+</tr>
+<tr>
+<td>Démasquage et confrontation</td>
+<td><strong>Hooks</strong> (comment les PJ interagissent)</td>
+</tr>
+<tr>
+<td>Statbloc</td>
+<td><em>(supprimer)</em></td>
+</tr>
+</tbody>
+</table>
+<p>Sections utiles :</p>
+<ul>
+<li><strong>Personnages clés</strong> : liens vers PNJ membres avec une ligne chacun.</li>
+<li><strong>Influence</strong> : où la faction agit, ressources, secrets.</li>
+<li><strong>Vent / Spécialité</strong> : pour les ordres magiques (cf. <code>Notes MJ/Factions/Collège Gris.md</code>).</li>
+</ul>
+<h2>Template Document</h2>
+<p>Distinguer deux cas :</p>
+<h3>Handout in-game</h3>
+<p>Texte à donner aux PJ. Pas de template — pure prose, citation in-extenso du document. Notes MJ-only à part dans une section finale clairement marquée.</p>
+<p>Exemple : <code>Notes MJ/Documents/Fassbinder - documents bureau.md</code>.</p>
+<h3>Fiche-document de référence (rare)</h3>
+<p>Si on documente un objet/lettre/livre comme entité canon (référencé par d'autres fiches) :</p>
+<pre><code class="language-markdown"># Nom du Document
 
 **Sous-titre** : Type + provenance
 **Statut** : [...]
@@ -424,101 +490,100 @@ Si on documente un objet/lettre/livre comme entité canon (référencé par d'au
 
 ## Liens
 ...
-```
-
-## Anti-patterns à éviter
-
-### 1. Inventer ce qui n'est pas dans le canon
-
-Pas de "tactique de combat round par round", pas de "modus operandi détaillé", pas de "voix imaginée" si ce n'est pas dans le livre. Le canon donne le statbloc et les Plots — le MJ improvise le reste à table avec ces matériaux. La fiche ne doit pas duplicer son cerveau.
-
-### 2. Section "MJ-only" sans contenu canon
-
-Si on est tenté d'écrire une section MJ-only, vérifier qu'elle contient bien des faits canon (avec refs). Sinon c'est de l'invention déguisée.
-
-### 3. Blockquote-pitch d'introduction
-
-Évité. Le sous-titre + statut + sections suivantes donnent l'info sans phrase-pitch redondante.
-
-### 4. Tags `#xxx`
-
-Inutiles : le builder ne les indexe pas pour la recherche. Le système de popovers + l'index `00 - Index.md` font le travail.
-
-### 5. Section "Hooks" générique en pied
-
-Évitée : doublonne souvent "Démasquage" et "Plans en cours" qui couvrent les leviers narratifs. Si un hook est vraiment isolé, il s'intègre à "Démasquage / Plans" plutôt qu'à une section dédiée.
-
-### 6. Section "Liens" en pied (Arc / Factions / Lieux)
-
-Évitée : doublonne les popovers déjà présents dans le corps. Le système popover + backlinks `_mj_site_build.py` couvrent la navigation.
-
-### 7. Wikilinks `Nom` autour des entités
-
-À éviter pour les noms d'entités — le système popover s'en occupe. Les `wikilinks` restent uniquement pour la navigation entre fichiers scénario (Hub → scènes).
-
-### 8. Citer "de mémoire"
-
-Ne jamais inscrire `BOOK ref l.NNN` sans avoir vérifié le contenu réel de la ligne dans le fichier source. Le système popover révèle les erreurs immédiatement (extrait incorrect), mais autant ne pas en créer.
-
-### 9. Fragmentation en sous-mots
-
-Les popovers déclenchent uniquement sur les **noms complets** des fiches. "Holzkrug" seul ne match pas. Toujours écrire "Liepmund Holzkrug" si on veut le popover.
-
-### 10. Citations canon traduites en français
-
-Les citations directes du livre (entre `*« »*` ou `*"..."*`) restent en VO anglais. Les paraphraser en français = perdre la référence textuelle.
-
-## Création de fiches pour entités mentionnées mais absentes
-
-Quand on rédige ou retravaille une fiche, on mentionne des PNJ, Lieux,
+</code></pre>
+<h2>Anti-patterns à éviter</h2>
+<h3>1. Inventer ce qui n'est pas dans le canon</h3>
+<p>Pas de "tactique de combat round par round", pas de "modus operandi détaillé", pas de "voix imaginée" si ce n'est pas dans le livre. Le canon donne le statbloc et les Plots — le MJ improvise le reste à table avec ces matériaux. La fiche ne doit pas duplicer son cerveau.</p>
+<h3>2. Section "MJ-only" sans contenu canon</h3>
+<p>Si on est tenté d'écrire une section MJ-only, vérifier qu'elle contient bien des faits canon (avec refs). Sinon c'est de l'invention déguisée.</p>
+<h3>3. Blockquote-pitch d'introduction</h3>
+<p>Évité. Le sous-titre + statut + sections suivantes donnent l'info sans phrase-pitch redondante.</p>
+<h3>4. Tags <code>#xxx</code></h3>
+<p>Inutiles : le builder ne les indexe pas pour la recherche. Le système de popovers + l'index <code>00 - Index.md</code> font le travail.</p>
+<h3>5. Section "Hooks" générique en pied</h3>
+<p>Évitée : doublonne souvent "Démasquage" et "Plans en cours" qui couvrent les leviers narratifs. Si un hook est vraiment isolé, il s'intègre à "Démasquage / Plans" plutôt qu'à une section dédiée.</p>
+<h3>6. Section "Liens" en pied (Arc / Factions / Lieux)</h3>
+<p>Évitée : doublonne les popovers déjà présents dans le corps. Le système popover + backlinks <code>_mj_site_build.py</code> couvrent la navigation.</p>
+<h3>7. Wikilinks <code>Nom</code> autour des entités</h3>
+<p>À éviter pour les noms d'entités — le système popover s'en occupe. Les <code>wikilinks</code> restent uniquement pour la navigation entre fichiers scénario (Hub → scènes).</p>
+<h3>8. Citer "de mémoire"</h3>
+<p>Ne jamais inscrire <code>BOOK ref l.NNN</code> sans avoir vérifié le contenu réel de la ligne dans le fichier source. Le système popover révèle les erreurs immédiatement (extrait incorrect), mais autant ne pas en créer.</p>
+<h3>9. Fragmentation en sous-mots</h3>
+<p>Les popovers déclenchent uniquement sur les <strong>noms complets</strong> des fiches. "Holzkrug" seul ne match pas. Toujours écrire "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwOOZ_x-cAHtKFObZVK9DFW7hbvrl3xywQ5ZmGbpNBb1AwRziyO46Hadto7sjMsDhuqmpNvqcChWi3B94DXU6vhC6dmaQdRP1CmzIZMDgz7IfmUWGVfzqt441C7LaxKRFnxhnesa6e2af7bThPj-Lk_gSLkdMxwEktcRoE0hkEGAHQnLMKZbs05e7jO6w/s200/liepmund-holzkrug.webp" data-subtitle="Graf et ambassadeur" data-title="Liepmund Holzkrug" href="../../pnj/liepmund-holzkrug.html">Liepmund Holzkrug</a>" si on veut le popover.</p>
+<h3>10. Citations canon traduites en français</h3>
+<p>Les citations directes du livre (entre <code>*« »*</code> ou <code>*"..."*</code>) restent en VO anglais. Les paraphraser en français = perdre la référence textuelle.</p>
+<h2>Création de fiches pour entités mentionnées mais absentes</h2>
+<p>Quand on rédige ou retravaille une fiche, on mentionne des PNJ, Lieux,
 Factions, Documents. Certains n'ont pas encore de fiche dédiée mais
-**mériteraient d'en avoir une** — ce qui permettrait au système de
-popovers de les rendre interactifs.
-
-### Quand créer une nouvelle fiche
-
-Créer une fiche pour une entité mentionnée **si** :
-
-- L'entité est **canon WFRP** (présente dans un livre Source/, sur Lexicanum/Fandom, ou sur la Bibliothèque Impériale).
-- L'entité est mentionnée dans **au moins 2-3 autres fiches MJ**, ou dans la fiche en cours de rédaction comme élément récurrent.
-- L'entité a une **densité d'information suffisante** : au moins quelques lignes canon ou un sous-rôle dans l'intrigue. Pas pour un PNJ figurant cité une seule fois sans description.
-
-**Ne pas créer** :
-
-- Pour une entité purement décorative citée en passant ("un garde", "un marchand").
-- Pour un concept générique (Empire, Tzeentch, etc.) — ce sont des termes implicites, pas des entités.
-- Pour un PNJ joueur ou un personnage homebrew table — ils n'ont pas leur place côté Notes MJ canon.
-
-### Hiérarchie des sources (ordre d'importance)
-
-Lorsqu'on collecte les informations pour créer la nouvelle fiche, **respecter
-strictement** cette hiérarchie :
-
-| Priorité | Source | Quand utiliser |
-|---|---|---|
-| **1** | **Source/&lt;livre&gt;.md** (canon C7 converti) | Toujours en premier. Citations directes en backticks. C'est le canon de la campagne. |
-| **2** | **Lexicanum** (`https://whfb.lexicanum.com/`) | Orthographe canon des noms propres + contexte WHFB officiel. Plus fiable que Fandom. |
-| **3** | **Fandom Warhammer Wiki** (`https://warhammerfantasy.fandom.com/`) | Complément si Lexicanum incomplet ou absent. Vérifier que la source est canon C7/WHFB et pas Total War. |
-| **4** | **Bibliothèque Impériale** (`https://bibliotheque-imperiale.com/`) | Pour la traduction FR des termes canon. À consulter avant toute francisation. |
-| **5** | **Mon Ennemi Intérieur Blog/Résumés/** | Pour le contexte table local (ce que les PJ ont vu / fait avec cette entité). |
-| **6** | **Inférence MJ explicite** | En **dernier recours**, drapeautée par un blockquote `&gt; Inférence MJ extrapolée de [ref canon]`. Jamais pour combler un vide canon — uniquement pour relier des éléments canon entre eux. |
-
-**Règle critique** : ne jamais utiliser une source de priorité inférieure
-pour **contredire** une source de priorité supérieure. Si Source/ dit X et
+<strong>mériteraient d'en avoir une</strong> — ce qui permettrait au système de
+popovers de les rendre interactifs.</p>
+<h3>Quand créer une nouvelle fiche</h3>
+<p>Créer une fiche pour une entité mentionnée <strong>si</strong> :</p>
+<ul>
+<li>L'entité est <strong>canon WFRP</strong> (présente dans un livre Source/, sur Lexicanum/Fandom, ou sur la Bibliothèque Impériale).</li>
+<li>L'entité est mentionnée dans <strong>au moins 2-3 autres fiches MJ</strong>, ou dans la fiche en cours de rédaction comme élément récurrent.</li>
+<li>L'entité a une <strong>densité d'information suffisante</strong> : au moins quelques lignes canon ou un sous-rôle dans l'intrigue. Pas pour un PNJ figurant cité une seule fois sans description.</li>
+</ul>
+<p><strong>Ne pas créer</strong> :</p>
+<ul>
+<li>Pour une entité purement décorative citée en passant ("un garde", "un marchand").</li>
+<li>Pour un concept générique (Empire, Tzeentch, etc.) — ce sont des termes implicites, pas des entités.</li>
+<li>Pour un PNJ joueur ou un personnage homebrew table — ils n'ont pas leur place côté Notes MJ canon.</li>
+</ul>
+<h3>Hiérarchie des sources (ordre d'importance)</h3>
+<p>Lorsqu'on collecte les informations pour créer la nouvelle fiche, <strong>respecter
+strictement</strong> cette hiérarchie :</p>
+<table>
+<thead>
+<tr>
+<th>Priorité</th>
+<th>Source</th>
+<th>Quand utiliser</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>1</strong></td>
+<td><strong>Source/<livre>.md</livre></strong> (canon C7 converti)</td>
+<td>Toujours en premier. Citations directes en backticks. C'est le canon de la campagne.</td>
+</tr>
+<tr>
+<td><strong>2</strong></td>
+<td><strong>Lexicanum</strong> (<code>https://whfb.lexicanum.com/</code>)</td>
+<td>Orthographe canon des noms propres + contexte WHFB officiel. Plus fiable que Fandom.</td>
+</tr>
+<tr>
+<td><strong>3</strong></td>
+<td><strong>Fandom Warhammer Wiki</strong> (<code>https://warhammerfantasy.fandom.com/</code>)</td>
+<td>Complément si Lexicanum incomplet ou absent. Vérifier que la source est canon C7/WHFB et pas Total War.</td>
+</tr>
+<tr>
+<td><strong>4</strong></td>
+<td><strong>Bibliothèque Impériale</strong> (<code>https://bibliotheque-imperiale.com/</code>)</td>
+<td>Pour la traduction FR des termes canon. À consulter avant toute francisation.</td>
+</tr>
+<tr>
+<td><strong>5</strong></td>
+<td><strong>Mon Ennemi Intérieur Blog/Résumés/</strong></td>
+<td>Pour le contexte table local (ce que les PJ ont vu / fait avec cette entité).</td>
+</tr>
+<tr>
+<td><strong>6</strong></td>
+<td><strong>Inférence MJ explicite</strong></td>
+<td>En <strong>dernier recours</strong>, drapeautée par un blockquote <code>&gt; Inférence MJ extrapolée de [ref canon]</code>. Jamais pour combler un vide canon — uniquement pour relier des éléments canon entre eux.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Règle critique</strong> : ne jamais utiliser une source de priorité inférieure
+pour <strong>contredire</strong> une source de priorité supérieure. Si Source/ dit X et
 Fandom dit Y, on retient X. Si Source/ ne dit rien et Lexicanum dit X,
-on retient X avec ref Lexicanum.
-
-### Hiérarchie pour les conflits d'éditions WFRP
-
-Cf. mémoire `feedback_wfrp4-supersedes-other-editions` : pour tout
-conflit canon **WFRP4 vs WFRP2/3** → WFRP4 fait foi.
-
-### Stub minimum acceptable
-
-Une fiche stub créée à la volée doit respecter **au minimum** :
-
-```markdown
-# Nom Complet
+on retient X avec ref Lexicanum.</p>
+<h3>Hiérarchie pour les conflits d'éditions WFRP</h3>
+<p>Cf. mémoire <code>feedback_wfrp4-supersedes-other-editions</code> : pour tout
+conflit canon <strong>WFRP4 vs WFRP2/3</strong> → WFRP4 fait foi.</p>
+<h3>Stub minimum acceptable</h3>
+<p>Une fiche stub créée à la volée doit respecter <strong>au minimum</strong> :</p>
+<pre><code class="language-markdown"># Nom Complet
 
 **Sous-titre** : Fonction principale (5-12 mots)
 **Statut** : [VIVANT] / [ACTIF] / etc.
@@ -535,50 +600,46 @@ Une fiche stub créée à la volée doit respecter **au minimum** :
 
 - [Nom — Lexicanum](URL) [si disponible]
 - [Nom — Fandom](URL) [si disponible]
-```
-
-**Critère stub minimum** : la fiche doit déclencher un popover utile (sous-titre clair + statut), et le clic vers la fiche doit donner au lecteur un contenu canon substantiel — pas juste un titre vide.
-
-### Workflow de création d'une fiche stub
-
-1. **Vérifier l'absence** : la fiche existe-t-elle déjà sous un autre nom ? (`grep -ri "Nom complet" "Notes MJ/"`).
-2. **Identifier le type** : PNJ, Lieu, Faction, Document.
-3. **Collecter les sources** dans l'ordre :
-   a. Grep dans `Source/` pour toutes les mentions canon (`grep -rn "Nom" "Source/"`).
-   b. Si quasi-rien dans Source/, vérifier Lexicanum et Fandom via WebSearch.
-   c. Si traduction FR ambigüe, consulter Bibliothèque Impériale.
-4. **Choisir l'orthographe canonique** : Lexicanum &gt; Fandom &gt; PDF OCR. Cf. `Notes MJ/Orthographe canon - corrections à appliquer.md`.
-5. **Créer le fichier** sous `Notes MJ/&lt;dossier&gt;/&lt;Nom Canon&gt;.md` avec le template adapté.
-6. **Rédiger en respectant les critères de qualité** : chaque affirmation factuelle sourcée canon, sous-titre extractible, noms complets pour popovers internes.
-7. **Si le titre canon FR diffère du titre blog** : ajouter une entrée à `_MJ_MANUAL_ALIASES` dans `_site_build.py` (par ex. blog "Aldorf" / canon "Altdorf").
-8. **Rebuild + vérifier** : la fiche est-elle générée ? Le popover se déclenche-t-il sur les autres fiches qui la mentionnent ?
-
-### Exemples récents
-
-Pour la migration de Yann, 5 fiches stubs ont été créées : Spionwerber, Ordo Terribilis, Volkshalle, Collège Gris, Île Noire. Voir ces fichiers comme exemples concrets de stubs.
-
-## Workflow de migration d'une fiche existante
-
-Procédure recommandée pour adapter une fiche actuelle au template :
-
-1. **Identifier le type** : PNJ / Lieu / Faction / Document.
-2. **Sauvegarder l'original** (`cp Fiche.md Fiche.md.before-template`).
-3. **Extraire le contenu canon** déjà présent dans la fiche : chaque affirmation factuelle doit être tracée à une ref canon. Si une affirmation n'a pas de source canon identifiable, soit la sourcer (chercher dans `Source/`), soit la supprimer.
-4. **Réorganiser selon les sections du template** correspondant.
-5. **Supprimer** : blockquote-pitch d'intro, tags, section Hooks générique, section Liens en pied, wikilinks autour des entités.
-6. **Vérifier les noms complets** pour les popovers : remplacer "Holzkrug" → "Liepmund Holzkrug", etc.
-7. **Ajouter `**Sous-titre** :`** et `**Statut** :` après le titre.
-8. **Vérifier chaque ref canon** : ouvrir le fichier source à la ligne citée, confirmer que le contenu est pertinent. Si la ligne tombe sur un heading orphelin ou une table cassée, chercher une ligne alternative.
-9. **Re-builder** (`python _site_build.py`) et **vérifier** sur la page rendue :
-   - Tous les popovers d'entité se déclenchent au survol (pas de nom non lié).
-   - Toutes les refs canon affichent un extrait pertinent.
-   - Pas de doublon visible.
-10. **Audit critique honnête** : section par section, "à quel cas d'usage MJ ou Claude sert-elle ?". Si une section ne sert à rien, la supprimer.
-
-## Commandes de vérification utiles
-
-```bash
-# Tester un fichier source pour confirmer le contenu d'une ligne
+</code></pre>
+<p><strong>Critère stub minimum</strong> : la fiche doit déclencher un popover utile (sous-titre clair + statut), et le clic vers la fiche doit donner au lecteur un contenu canon substantiel — pas juste un titre vide.</p>
+<h3>Workflow de création d'une fiche stub</h3>
+<ol>
+<li><strong>Vérifier l'absence</strong> : la fiche existe-t-elle déjà sous un autre nom ? (<code>grep -ri "Nom complet" "Notes MJ/"</code>).</li>
+<li><strong>Identifier le type</strong> : PNJ, Lieu, Faction, Document.</li>
+<li><strong>Collecter les sources</strong> dans l'ordre :
+a. Grep dans <code>Source/</code> pour toutes les mentions canon (<code>grep -rn "Nom" "Source/"</code>).
+b. Si quasi-rien dans Source/, vérifier Lexicanum et Fandom via WebSearch.
+c. Si traduction FR ambigüe, consulter Bibliothèque Impériale.</li>
+<li><strong>Choisir l'orthographe canonique</strong> : Lexicanum &gt; Fandom &gt; PDF OCR. Cf. <code>Notes MJ/Orthographe canon - corrections à appliquer.md</code>.</li>
+<li><strong>Créer le fichier</strong> sous <code>Notes MJ/&lt;dossier&gt;/&lt;Nom Canon&gt;.md</code> avec le template adapté.</li>
+<li><strong>Rédiger en respectant les critères de qualité</strong> : chaque affirmation factuelle sourcée canon, sous-titre extractible, noms complets pour popovers internes.</li>
+<li><strong>Si le titre canon FR diffère du titre blog</strong> : ajouter une entrée à <code>_MJ_MANUAL_ALIASES</code> dans <code>_site_build.py</code> (par ex. blog "Aldorf" / canon "<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../lieux/aldorf-5.html">Altdorf</a>").</li>
+<li><strong>Rebuild + vérifier</strong> : la fiche est-elle générée ? Le popover se déclenche-t-il sur les autres fiches qui la mentionnent ?</li>
+</ol>
+<h3>Exemples récents</h3>
+<p>Pour la migration de Yann, 5 fiches stubs ont été créées : <a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../lieux/spionwerber.html">Spionwerber</a>, <a class="entity-pop" data-cat="Lieu" data-subtitle="Branche stratégique de la Main Pourpre" data-title="Ordo Terribilis" href="../lieux/ordo-terribilis.html">Ordo Terribilis</a>, <a class="entity-pop" data-cat="Lieu" data-subtitle="Grande salle d'État du Palais Impérial" data-title="Volkshalle" href="../lieux/volkshalle.html">Volkshalle</a>, <a class="entity-pop" data-cat="Lieu" data-subtitle="Collège de l'Ombre (Ulgu)" data-title="Collège Gris" href="../lieux/college-gris.html">Collège Gris</a>, <a class="entity-pop" data-cat="Lieu" data-subtitle="QG de la Chambre Noire à Altdorf" data-title="Île Noire" href="../lieux/ile-noire.html">Île Noire</a>. Voir ces fichiers comme exemples concrets de stubs.</p>
+<h2>Workflow de migration d'une fiche existante</h2>
+<p>Procédure recommandée pour adapter une fiche actuelle au template :</p>
+<ol>
+<li><strong>Identifier le type</strong> : PNJ / Lieu / Faction / Document.</li>
+<li><strong>Sauvegarder l'original</strong> (<code>cp Fiche.md Fiche.md.before-template</code>).</li>
+<li><strong>Extraire le contenu canon</strong> déjà présent dans la fiche : chaque affirmation factuelle doit être tracée à une ref canon. Si une affirmation n'a pas de source canon identifiable, soit la sourcer (chercher dans <code>Source/</code>), soit la supprimer.</li>
+<li><strong>Réorganiser selon les sections du template</strong> correspondant.</li>
+<li><strong>Supprimer</strong> : blockquote-pitch d'intro, tags, section Hooks générique, section Liens en pied, wikilinks autour des entités.</li>
+<li><strong>Vérifier les noms complets</strong> pour les popovers : remplacer "Holzkrug" → "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwOOZ_x-cAHtKFObZVK9DFW7hbvrl3xywQ5ZmGbpNBb1AwRziyO46Hadto7sjMsDhuqmpNvqcChWi3B94DXU6vhC6dmaQdRP1CmzIZMDgz7IfmUWGVfzqt441C7LaxKRFnxhnesa6e2af7bThPj-Lk_gSLkdMxwEktcRoE0hkEGAHQnLMKZbs05e7jO6w/s200/liepmund-holzkrug.webp" data-subtitle="Graf et ambassadeur" data-title="Liepmund Holzkrug" href="../../pnj/liepmund-holzkrug.html">Liepmund Holzkrug</a>", etc.</li>
+<li><strong>Ajouter <code>**Sous-titre** :</code></strong> et <code>**Statut** :</code> après le titre.</li>
+<li><strong>Vérifier chaque ref canon</strong> : ouvrir le fichier source à la ligne citée, confirmer que le contenu est pertinent. Si la ligne tombe sur un heading orphelin ou une table cassée, chercher une ligne alternative.</li>
+<li><strong>Re-builder</strong> (<code>python _site_build.py</code>) et <strong>vérifier</strong> sur la page rendue :
+<ul>
+<li>Tous les popovers d'entité se déclenchent au survol (pas de nom non lié).</li>
+<li>Toutes les refs canon affichent un extrait pertinent.</li>
+<li>Pas de doublon visible.</li>
+</ul>
+</li>
+<li><strong>Audit critique honnête</strong> : section par section, "à quel cas d'usage MJ ou Claude sert-elle ?". Si une section ne sert à rien, la supprimer.</li>
+</ol>
+<h2>Commandes de vérification utiles</h2>
+<pre><code class="language-bash"># Tester un fichier source pour confirmer le contenu d'une ligne
 awk 'NR&gt;=X &amp;&amp; NR&lt;=Y {print NR": "$0}' "Source/&lt;book&gt;/&lt;chapter&gt;.md"
 
 # Lister tous les refs canon dans une fiche
@@ -590,29 +651,22 @@ grep -oE 'class="entity-pop"[^&gt;]*data-title="[^"]+"' "_site/pnj/&lt;fiche&gt;
 # Détecter les refs orphelines (qui ne matchent rien)
 # (lancer python _site_build.py ; les refs cassées apparaissent comme &lt;span&gt; au lieu de &lt;a&gt;)
 grep -E 'class="canon-ref"[^&gt;]*&gt;(?!&lt;sup&gt;)' "_site/pnj/&lt;fiche&gt;.html"
-```
-
-## Quand le contenu canon est cassé
-
-Le `.md` issu de la conversion PDF peut être désordonné (paragraphes orphelins) ou contenir des tables écrabouillées en `&lt;br&gt;`. Le script `_convert_pdfs.py` fait une passe `_splice_clean_tables` pour reconstituer les tables, mais ne réorganise pas les paragraphes.
-
-Pour les refs qui tombent sur du contenu cassé :
-1. Chercher si les paragraphes lisibles équivalents existent **avant** ou **après** la zone cassée.
-2. Re-pointer la ref vers ces paragraphes (par ex. `l.302` (table cassée) → `l.282-299` (paragraphes explicatifs lisibles)).
-3. Si nécessaire, lancer `python _convert_pdfs.py --force --only "&lt;book&gt;.pdf"` pour re-générer le `.md` avec le script amélioré (les backups sont créés en `.md.before-fix`).
-
-## Workflow d'audit critique
-
-Une fois la fiche rédigée ou migrée, **avant de la considérer comme
-terminée**, mener l'audit critique suivant. C'est plus strict que la
-checklist qualité initiale : on cherche activement les défauts.
-
-### Étape 1 — Inventaire de la fiche rendue
-
-Lancer `python _site_build.py`, ouvrir la page MJ rendue de la fiche, et faire :
-
-```python
-import re
+</code></pre>
+<h2>Quand le contenu canon est cassé</h2>
+<p>Le <code>.md</code> issu de la conversion PDF peut être désordonné (paragraphes orphelins) ou contenir des tables écrabouillées en <code>&lt;br&gt;</code>. Le script <code>_convert_pdfs.py</code> fait une passe <code>_splice_clean_tables</code> pour reconstituer les tables, mais ne réorganise pas les paragraphes.</p>
+<p>Pour les refs qui tombent sur du contenu cassé :</p>
+<ol>
+<li>Chercher si les paragraphes lisibles équivalents existent <strong>avant</strong> ou <strong>après</strong> la zone cassée.</li>
+<li>Re-pointer la ref vers ces paragraphes (par ex. <code>l.302</code> (table cassée) → <code>l.282-299</code> (paragraphes explicatifs lisibles)).</li>
+<li>Si nécessaire, lancer <code>python _convert_pdfs.py --force --only "&lt;book&gt;.pdf"</code> pour re-générer le <code>.md</code> avec le script amélioré (les backups sont créés en <code>.md.before-fix</code>).</li>
+</ol>
+<h2>Workflow d'audit critique</h2>
+<p>Une fois la fiche rédigée ou migrée, <strong>avant de la considérer comme
+terminée</strong>, mener l'audit critique suivant. C'est plus strict que la
+checklist qualité initiale : on cherche activement les défauts.</p>
+<h3>Étape 1 — Inventaire de la fiche rendue</h3>
+<p>Lancer <code>python _site_build.py</code>, ouvrir la page MJ rendue de la fiche, et faire :</p>
+<pre><code class="language-python">import re
 with open('_site/&lt;categorie&gt;/&lt;fiche-slug&gt;.html', encoding='utf-8') as f:
     html = f.read()
 m = re.search(r'&lt;section class="mj-only mj-entity-enrichment"&gt;(.+?)&lt;/section&gt;', html, re.DOTALL)
@@ -622,79 +676,71 @@ print(f"Popovers entité : {len(re.findall(r'class=.entity-pop.', body))}")
 print("Sections :")
 for h in re.findall(r'&lt;h2[^&gt;]*&gt;([^&lt;]+)&lt;/h2&gt;', body):
     print(f"  - {h.strip()}")
-```
+</code></pre>
+<h3>Étape 2 — Audit popovers entité</h3>
+<p>Lister toutes les entités déclenchées (<code>grep -oE 'data-title="[^"]+"' fiche.html | sort -u</code>).</p>
+<p>Pour chaque popover, vérifier :</p>
+<ul>
+<li>[ ] <strong>L'entité existe-t-elle vraiment ?</strong> (pas un faux positif sur sous-mot).</li>
+<li>[ ] <strong>Le matching est-il correct ?</strong> (par ex. "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RZVNEKfUSI51nlHlxjw0csvLKROfXCRNKKxN_I3yjbJS3uxznt4xX7wfM4LMOBCqeBRZsMazjm6FDPcPPKdB5JUuTqjkpfSFrm9_8b6cN5Gb94pIpY3Gr7i8A2zy11ftZbWhhLCn0fL3wlTDRd0XpXA9c58_gR0UiH7cRg7TM3-KPG78iE-hj17038w/s200/crown-prince.webp" data-subtitle="Prince héritier du Reikland" data-title="Wolfgang Holswig-Abenhauer" href="../../pnj/wolfgang-holswig-abenhauer.html">Wolfgang Holswig-Abenauer</a>" ne doit PAS pointer vers la fiche "<a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdxtuRJbe3NMpABzh4Ix4o8xLySFQASNORmOe62tO8jLdKKd4voYKYp97J7Je6OV4P5JLj1-UAKwwz-nthp86u4y2qYtEipN0rdVN_zhfrN2CXID7044T_mat7UCm8tD-ygfK-SjTdVmau0nvlEQL5yT-cKzlglNY6hPokG3u5LCn5pr0ceJ2pdJNutpBG/s200/wolfgang-kellermann.webp" data-subtitle="Propriétaire des Piques Croisées" data-title="Wolfgang Kellermann" href="../../pnj/wolfgang-kellermann.html">Wolfgang Kellermann</a>").</li>
+<li>[ ] <strong>Le sous-titre / portrait s'affiche-t-il ?</strong> (data-subtitle / data-portrait non vides).</li>
+<li>[ ] <strong>Le clic mène-t-il à la bonne fiche ?</strong> (href correct).</li>
+</ul>
+<p>Si une entité est mentionnée dans le texte mais n'a pas de popover : soit forme courte (à corriger en nom complet), soit fiche manquante (à créer selon "Création de fiches pour entités absentes").</p>
+<h3>Étape 3 — Audit refs canon</h3>
+<p>Pour chaque ref canon de la fiche, <strong>survoler le superscript</strong> sur la page rendue et vérifier l'extrait.</p>
+<p>Critères de validité d'un extrait :</p>
+<ul>
+<li>[ ] <strong>Pertinent</strong> : l'extrait parle bien du sujet cité (pas un heading orphelin, pas une bouillie OCR).</li>
+<li>[ ] <strong>Complet</strong> : l'extrait montre suffisamment de contexte (pas un seul mot tronqué).</li>
+<li>[ ] <strong>Cohérent</strong> : l'affirmation dans la fiche correspond bien à ce qui est dit dans l'extrait (pas une affirmation déformée).</li>
+</ul>
+<p>Si l'extrait est cassé :</p>
+<ol>
+<li>Vérifier la ligne sur le fichier source (<code>awk 'NR&gt;=X &amp;&amp; NR&lt;=Y' Source/.../&lt;file&gt;.md</code>).</li>
+<li>Si le contenu canon existe mais à une autre ligne : corriger la ref.</li>
+<li>Si la zone est OCR-cassée : chercher la ref alternative qui pointe aux paragraphes lisibles équivalents.</li>
+<li>Si le canon ne dit pas ce qu'on prétend : retirer ou reformuler l'affirmation.</li>
+</ol>
+<h3>Étape 4 — Audit fonctionnel par section</h3>
+<p>Section par section, se poser pour chacune :</p>
+<ul>
+<li>[ ] <strong>À quel cas d'usage</strong> (MJ live / MJ prep / Claude futur) sert-elle ?</li>
+<li>[ ] <strong>Si elle est supprimée, qu'est-ce qui devient impossible ?</strong> Si la réponse est "rien", la section est inutile.</li>
+<li>[ ] <strong>Y a-t-il une duplication</strong> avec une autre section de la fiche ?</li>
+<li>[ ] <strong>Le contenu est-il du canon sourcé</strong> ou de l'invention non drapeautée ?</li>
+</ul>
+<p>Toute section qui ne passe pas l'audit fonctionnel doit être <strong>soit reformulée pour devenir utile, soit supprimée</strong>. Pas de bavardage MJ déguisé en canon.</p>
+<h3>Étape 5 — Test "lecture froide"</h3>
+<p>Si possible, faire lire la fiche par quelqu'un (ou Claude) qui n'a pas
+travaillé dessus :</p>
+<ul>
+<li>A-t-il compris <strong>qui est cette entité</strong> en 30 secondes ?</li>
+<li>Sait-il <strong>ce qu'il faut savoir avant la prochaine session</strong> ?</li>
+<li>Peut-il <strong>citer</strong> une source canon pour une affirmation clé ?</li>
+<li>Identifie-t-il des <strong>doublons / incohérences</strong> ?</li>
+</ul>
+<h3>Anti-pattern d'audit</h3>
+<blockquote>
+<p>"Telle autre fiche a la section X, donc cette fiche devrait l'avoir."</p>
+</blockquote>
+<p><strong>Faux raisonnement</strong>. Chaque section doit être justifiée par sa <strong>fonction</strong>, pas par sa présence ailleurs. Comparer avec d'autres fiches sert à découvrir des angles fonctionnels potentiels — pas à imposer un format uniforme par mimétisme.</p>
+<h3>Critère final d'audit</h3>
+<blockquote>
+<p>Une fiche passe l'audit si <strong>chaque section est justifiée</strong>, <strong>chaque
+ref pointe sur un contenu pertinent</strong>, <strong>chaque popover entité se
+déclenche</strong>, et <strong>aucune affirmation n'est inventée sans drapeau</strong>.</p>
+</blockquote>
+<h2>Référence</h2>
+<ul>
+<li>Fiche pilote PNJ : <code>Notes MJ/PNJ/Yann Zuntermein.md</code></li>
+<li>Fiche pilote Lieu : <code>Notes MJ/Lieux/Volkshalle.md</code></li>
+<li>Fiche pilote Faction : <code>Notes MJ/Factions/Spionwerber.md</code></li>
+<li>Source FR canon : <a href="https://bibliotheque-imperiale.com/">Bibliothèque Impériale</a> — à consulter pour toute traduction de terme canon</li>
+<li>Orthographe canon et corrections : <code>Notes MJ/Orthographe canon - corrections à appliquer.md</code></li>
+<li>Builder : <code>_site_build.py</code> (<code>inject_canon_refs</code>, <code>inject_entity_popovers</code>, <code>_extract_mj_entity_metadata</code>, <code>_MJ_MANUAL_ALIASES</code>)</li>
+</ul>
 
-### Étape 2 — Audit popovers entité
-
-Lister toutes les entités déclenchées (`grep -oE 'data-title="[^"]+"' fiche.html | sort -u`).
-
-Pour chaque popover, vérifier :
-
-- [ ] **L'entité existe-t-elle vraiment ?** (pas un faux positif sur sous-mot).
-- [ ] **Le matching est-il correct ?** (par ex. "Wolfgang Holswig-Abenauer" ne doit PAS pointer vers la fiche "Wolfgang Kellermann").
-- [ ] **Le sous-titre / portrait s'affiche-t-il ?** (data-subtitle / data-portrait non vides).
-- [ ] **Le clic mène-t-il à la bonne fiche ?** (href correct).
-
-Si une entité est mentionnée dans le texte mais n'a pas de popover : soit forme courte (à corriger en nom complet), soit fiche manquante (à créer selon "Création de fiches pour entités absentes").
-
-### Étape 3 — Audit refs canon
-
-Pour chaque ref canon de la fiche, **survoler le superscript** sur la page rendue et vérifier l'extrait.
-
-Critères de validité d'un extrait :
-
-- [ ] **Pertinent** : l'extrait parle bien du sujet cité (pas un heading orphelin, pas une bouillie OCR).
-- [ ] **Complet** : l'extrait montre suffisamment de contexte (pas un seul mot tronqué).
-- [ ] **Cohérent** : l'affirmation dans la fiche correspond bien à ce qui est dit dans l'extrait (pas une affirmation déformée).
-
-Si l'extrait est cassé :
-1. Vérifier la ligne sur le fichier source (`awk 'NR&gt;=X &amp;&amp; NR&lt;=Y' Source/.../&lt;file&gt;.md`).
-2. Si le contenu canon existe mais à une autre ligne : corriger la ref.
-3. Si la zone est OCR-cassée : chercher la ref alternative qui pointe aux paragraphes lisibles équivalents.
-4. Si le canon ne dit pas ce qu'on prétend : retirer ou reformuler l'affirmation.
-
-### Étape 4 — Audit fonctionnel par section
-
-Section par section, se poser pour chacune :
-
-- [ ] **À quel cas d'usage** (MJ live / MJ prep / Claude futur) sert-elle ?
-- [ ] **Si elle est supprimée, qu'est-ce qui devient impossible ?** Si la réponse est "rien", la section est inutile.
-- [ ] **Y a-t-il une duplication** avec une autre section de la fiche ?
-- [ ] **Le contenu est-il du canon sourcé** ou de l'invention non drapeautée ?
-
-Toute section qui ne passe pas l'audit fonctionnel doit être **soit reformulée pour devenir utile, soit supprimée**. Pas de bavardage MJ déguisé en canon.
-
-### Étape 5 — Test "lecture froide"
-
-Si possible, faire lire la fiche par quelqu'un (ou Claude) qui n'a pas
-travaillé dessus :
-
-- A-t-il compris **qui est cette entité** en 30 secondes ?
-- Sait-il **ce qu'il faut savoir avant la prochaine session** ?
-- Peut-il **citer** une source canon pour une affirmation clé ?
-- Identifie-t-il des **doublons / incohérences** ?
-
-### Anti-pattern d'audit
-
-&gt; "Telle autre fiche a la section X, donc cette fiche devrait l'avoir."
-
-**Faux raisonnement**. Chaque section doit être justifiée par sa **fonction**, pas par sa présence ailleurs. Comparer avec d'autres fiches sert à découvrir des angles fonctionnels potentiels — pas à imposer un format uniforme par mimétisme.
-
-### Critère final d'audit
-
-&gt; Une fiche passe l'audit si **chaque section est justifiée**, **chaque
-&gt; ref pointe sur un contenu pertinent**, **chaque popover entité se
-&gt; déclenche**, et **aucune affirmation n'est inventée sans drapeau**.
-
-## Référence
-
-- Fiche pilote PNJ : `Notes MJ/PNJ/Yann Zuntermein.md`
-- Fiche pilote Lieu : `Notes MJ/Lieux/Volkshalle.md`
-- Fiche pilote Faction : `Notes MJ/Factions/Spionwerber.md`
-- Source FR canon : [Bibliothèque Impériale](https://bibliotheque-imperiale.com/) — à consulter pour toute traduction de terme canon
-- Orthographe canon et corrections : `Notes MJ/Orthographe canon - corrections à appliquer.md`
-- Builder : `_site_build.py` (`inject_canon_refs`, `inject_entity_popovers`, `_extract_mj_entity_metadata`, `_MJ_MANUAL_ALIASES`)
-</pre>
 </div>
 </article>
 
