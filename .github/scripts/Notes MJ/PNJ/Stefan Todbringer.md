@@ -1,74 +1,63 @@
 # Stefan Todbringer
 
-> **Baron, fils légitime et seul héritier légal** de [[Boris Todbringer]]. **Handicapé congénital**, inapte à régner. Soigné par **[[Luigi Pavarotti]]** (hypnose canon). Reste enfant Arc 5-7.
+**Sous-titre** : Baron, fils légitime et seul héritier légal du Graf de Middenheim, inapte à régner  
+**Statut** : [VIVANT — INACTIF — INAPTE À RÉGNER]
 
-## Identité publique
-- **Titre** : Baron Stefan Todbringer. **Seul héritier légal** du Grand Duché.
-- **Âge** : ~10 ans Arc 5 (né juste après le mariage Boris-Maria von Richthofen ; sa mère est morte en l'accouchant).
-- **Apparence** : Stature moyenne, cheveux bruns, yeux bruns (canon p.32). **Pas la stature imposante de son père**. **Main gauche bandée et splintée** (auto-blessure récente, canon).
-- **Personnalité** : Souffre d'un **handicap mental + comportemental peu compris** depuis la naissance. **Demeure assis et fixe droit devant**, **ne cligne presque pas des yeux**, **ne parle pas de manière cohérente**. **Bouts de comportement maniaque** (frantic hyperactivity). **Amélioration récente** depuis l'arrivée de Pavarotti.
-- **Statut** : [VIVANT — INACTIF — INAPTE À RÉGNER]
-- **Tags** : `#StefanTodbringer` `#Baron` `#Todbringer` `#HéritierLégal` `#Handicapé` `#Pavarotti` `#Hypnose` `#Middenheim` `#Arc5` `#Arc6` `#Arc7`
+## Apparence et manières
 
-## Source canon
-- **PBT ch.2 *The Todbringer Family - Baron Stefan*** (canon p.32) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/05 - Chapter 2 Middenheim.md`
-- **PBT Appendix I p.114** (Stefan stat block) : `Source/Enemy Within Campaign Volume 3 Power Behind the Throne/11 - APPENDIX I NPC Summary Sheets.md`
+Stature moyenne, cheveux bruns et yeux bruns — il n'a pas hérité de la silhouette imposante de son père Boris Todbringer `PBT ch.2 l.130`. Souffre depuis la naissance d'un handicap mal compris et peu traité ; une suite de médecins a échoué à le diagnostiquer au fil des années `PBT ch.2 l.130`. Le plus clair du temps, il reste assis à fixer droit devant lui sans croiser les regards, clignant à peine des yeux `PBT ch.2 l.130`. Son apathie silencieuse est ponctuée d'accès maniaques d'hyperactivité frénétique ; sa main gauche est actuellement bandée et splintée à la suite d'une auto-blessure `PBT ch.2 l.130`. Son état s'est amélioré récemment depuis la nomination de Luigi Pavarotti comme médecin personnel `PBT ch.2 l.130`. À l'âge d'*Empire in Ruins*, il reste invalide et sous la garde constante du médecin de cour `EiR Intro l.898`.
 
-## Statbloc canon (PBT p.114)
+## Réseau
 
-**Baron Stefan Todbringer – Struggling Heir**
+- **Père** : Boris Todbringer — il est son seul héritier légal `PBT ch.2 l.91`. Le Graf est proche de ses enfants illégitimes Heinrich Todbringer et Katarina Todbringer, à qui il confie beaucoup de responsabilités ; Stefan, invalide, reçoit en revanche les soins permanents du médecin de cour `EiR Intro l.898`.
+- **Mère** : Maria von Richthofen, première épouse de Boris Todbringer, morte en couches en lui donnant naissance un an après le mariage `PBT ch.2 l.91`.
+- **Demi-frère illégitime reconnu** : Heinrich Todbringer — conçu quelques mois avant la naissance de Stefan, selon la rumeur la nuit précédant le mariage Boris-Maria `PBT ch.2 l.93`. Reconnu, doté d'un titre et de terres, mais écarté de la succession `PBT ch.2 l.97`. C'est Heinrich qui a entendu parler des pouvoirs de Luigi Pavarotti pendant une mission diplomatique à Miragliano et l'a fait nommer médecin de Stefan `PBT ch.2 l.162`.
+- **Demi-sœur illégitime officialisée** : Katarina Todbringer dite « la Princesse » — également écartée de la succession, ce qui laisse Stefan seul héritier légal de l'un des plus hauts titres de l'Empire `PBT ch.2 l.99`. Elle évoque les affaires de la Taxe du Temple de Shallya avec lui par préférence avant d'en parler au Graf `PBT Appendix l.271`.
+- **Belle-mère** : Anika-Elise Nikse, seconde épouse de Boris Todbringer mariée pour engendrer un héritier capable, morte d'une étrange maladie quelques mois avant le Carnaval, mariage resté infructueux `PBT ch.2 l.101`.
+- **Médecin personnel** : Luigi Pavarotti — Tilien de Miragliano recruté par Heinrich Todbringer ; loge au Palais Intérieur près des appartements de Stefan et le soigne par hypnose `PBT Appendix l.919` `PBT Appendix l.934`. Sa réussite relative lui vaut une influence modeste sur Boris Todbringer (1 vote) `PBT Appendix l.931`. Son entourage juge ses appétits scandaleux mais reconnaît qu'il a apporté à Stefan un mieux-être que d'autres médecins n'avaient pas obtenu `PBT Appendix l.470` `PBT Appendix l.623`.
+- **Ancienne nourrice en chef** : Hildegarde Zimperlich — nourrice en chef de Stefan et Heinrich Todbringer dans leur jeunesse, après avoir été la nourrice de Boris Todbringer lui-même `PBT Appendix l.331`.
+- **Hostile à Pavarotti** : Hildegarde Zimperlich — elle a protesté maintes fois auprès du Graf que ce personnage ne devrait pas vivre dans le même bâtiment que la « Princesse » `PBT Appendix l.380`.
+
+## Objectifs et angle mort
+
+**Ce qu'il veut** `PBT ch.2 l.130` : rien d'articulable — il est incapable de discours cohérent et passe l'essentiel de son temps absent à lui-même. Ses besoins se résument à la stabilité immédiate que lui procure Luigi Pavarotti.
+
+**Ce qu'il sait** `PBT ch.2 l.130` : rien d'exploitable. Son état le coupe de la cour et des affaires.
+
+**Ce qu'il ignore** `PBT ch.2 l.95+99` : qu'il est, par défaut juridique, seul héritier légal du Grand Duché de Middenland — Heinrich et Katarina Todbringer écartés par leur naissance illégitime. Son inaptitude rend cette position purement nominale, et la régence devient inévitable si Boris Todbringer disparaît.
+
+**Angle mort exploitable** `PBT ch.2 l.130` : *Afraid (Strangers)* — son trait canon. Toute irruption d'inconnus dans sa chambre déclenche peur paralysante ou crise maniaque, ce qui contraint la défense à un cercle restreint et identifié (Pavarotti, Hildegarde Zimperlich, gardes du Palais Intérieur).
+
+## Plans en cours
+
+- **Soins continus par Luigi Pavarotti** `PBT Appendix l.934` : hypnose appliquée régulièrement dans les appartements du Palais Intérieur ; les PJ témoins peuvent voir la technique en action s'ils accompagnent une visite. L'amélioration est réelle mais reste partielle `PBT ch.2 l.130`.
+- **Retrait public total** `PBT Appendix l.940-948` : Stefan n'apparaît à aucun événement de cour, aucune cérémonie, aucune audience publique. Le canon PBT note que les PJ qui assistent à une séance avec Pavarotti verront l'hypnose appliquée — c'est la seule modalité d'approche envisagée.
+
+## Démasquage et confrontation (post-Carnaval, succession)
+
+- **Position politique post-PBT** `EiR Intro l.898` : à l'ouverture d'*Empire in Ruins*, Stefan demeure invalide et sous la garde constante du médecin de cour ; Boris Todbringer s'appuie sur Heinrich et Katarina Todbringer pour la diplomatie et la représentation, mais aucun d'eux ne peut accéder à la succession.
+- **Verrou successoral** `PBT ch.2 l.97+99` : Heinrich Todbringer et Katarina Todbringer sont écartés par les circonstances de leur naissance. Si Boris Todbringer meurt ou est incapacité, Stefan devient Graf de jure ; en pratique, son inaptitude force une régence — sans héritier capable canon-désigné.
+- **Régence post-S63 (voie homebrew table)** : Boris Todbringer tué dans son manoir lors de l'attaque off-canon par « Volkmar » (Gideon le changelin). Stefan reste l'héritier légal nominal ; Heinrich Todbringer, écarté juridiquement, devient l'homme du moment pour assurer la régence avec le soutien implicite de Katarina Todbringer, Luigi Pavarotti et Ulrich Schutzmann (cf. `Notes MJ/09 - Prep post-S63.md`).
+- **Cible passive Arc 7** : Stefan reste dans son aile du Palais Intérieur, gardé par Luigi Pavarotti et le détachement habituel du Middenpalaz. Le canon PBT/EiR ne fixe aucune tentative directe sur sa personne — son rôle reste celui d'un pion symbolique de la lignée légitime.
+
+## Apparitions canon Arc 5 → Arc 7
+
+- **S30-S38 (Carnaval, Arc 5)** — Non rencontré en audience publique. Mentionné par les autres fiches comme l'héritier maladif sous les soins de Luigi Pavarotti `PBT ch.2 l.95+130`. Les PJ qui assistent à une séance de Pavarotti dans les appartements de Stefan voient l'hypnose appliquée `PBT Appendix l.934`.
+- **Arc 6 (S40-S55)** — Reste au Palais Intérieur, état stabilisé sans guérison. Sujet récurrent des conversations de cour sur la succession Todbringer (`Notes MJ/Factions/Maison Todbringer.md`).
+- **Arc 7 (S57+)** — Toujours invalide et sous la garde constante du médecin de cour `EiR Intro l.898`. Hors-scène pendant toute la tournée diplomatique de Katarina Todbringer (Shining Rock S58, défilé d'Altdorf S60, mariage S61, Conclave S62) ; reste à Middenheim avec Luigi Pavarotti.
+
+## Statbloc — Struggling Heir `PBT ch.2 l.132-141`
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 4 | 25 | 15 | 36 | 31 | 14 | 22 | 21 | 15 | 15 | 15 | 10 |
 
-**Traits** : Afraid (Strangers)
+**Traits** : Afraid (Strangers).
 
-**Skills** : Athletics 44, Dodge 33
+**Skills** : Athletics 44, Dodge 33.
 
-**Trappings** : Clothing
-
-## Apparitions par session
-
-### Arc 5
-- **[S30-S39]** — **Non rencontré directement** Arc 5 (canon : Pavarotti recommande d'éviter excitation). **Mentionné** dans toutes les enquêtes politiques (héritier inapte, soigné par Pavarotti, sujet de discussion de cour). 
-- **[S37]** — **Présent à la cérémonie d'intronisation du champion Pathsokar** (canon : « *the audience might include the 'Princess,' one of more Marshals, the Chancellor, and perhaps a Law Lord* » + lors du résumé S37 mentionne « son fils Stefan » au palais).
-
-### Arc 6-7
-- **[S40+]** — Reste à Middenheim, soigné. **Inapte**.
-- **Post-S63** (mort de Boris) — **Stefan = héritier légal**, mais inapte. **Crise de succession** : Heinrich devient régent / héritier de fait. **Stefan peut être maintenu en sécurité** comme symbole de la lignée légitime.
-
-## Ce que les PJ savent
-
-- Fils légitime de Boris, héritier légal mais handicapé.
-- Soigné par Pavarotti, état amélioré.
-- Non rencontré directement Arc 5.
-
-## MJ-only
-
-- **Recrutement Pavarotti par Heinrich** : canon p.32 — Heinrich a rencontré Pavarotti à Miragliano (Tilea) lors d'une mission diplomatique. **L'a recommandé** comme médecin de Stefan. **Pavarotti utilise l'hypnose** (canon Appendix III) pour calmer Stefan. **Réelle amélioration** mais pas guérison.
-- **Possiblement empoisonné par Gideon** (Purple Brain Pox léger) depuis longtemps : à table c'est une hypothèse. Le handicap est **congénital** canon ; mais Gideon pourrait **avoir entretenu** le mal pour maintenir Boris dépendant et la maison Todbringer fragilisée. **Hook Arc 6/7** : si Pavarotti **diagnostique Brain Pox** chez Stefan, signature Gideon confirmée.
-- **Pas héritier capable** : Heinrich + Katarina **ne peuvent pas hériter** (illegitimacy). Stefan = **héritier légal de jure**, mais **inapte de facto**. **Régence inévitable** post-mort Boris.
-- **Cible potentielle Arc 7** : Stefan reste un **pion politique** — pourrait être enlevé ou assassiné par des factions hostiles.
-- **Auto-blessure récente** : canon p.32 — sa main gauche est bandée d'une auto-blessure. Comportement instable malgré Pavarotti.
-
-## Hooks de retour
-
-- **Stefan succession post-S63** : régence Heinrich + Stefan maintenu symboliquement.
-- **Diagnostic Brain Pox** par Pavarotti = signature Gideon possible.
-- **Cible Arc 7** : protection par les PJ ?
-
-## Fils ouverts
-
-- **FIL Stefan Brain Pox ?** — hypothèse à confirmer Arc 6.
-- **FIL Stefan post-S63** — régence Heinrich active.
-
-## Liens
-
-- **Arcs** : Arc 5 (mention), Arc 6-7 (succession + protection).
-- **PNJ-clé** : [[Boris Todbringer]] (père), Maria von Richthofen (mère morte), [[Katarina Todbringer]] (demi-sœur), [[Heinrich Todbringer]] (demi-frère + tuteur de fait), [[Luigi Pavarotti]] (médecin).
-- **Lieux** : [[Middenheim]] (Middenpalaz Inner).
-- **Factions** : [[Maison Todbringer]].
+**Trappings** : Clothing.
 
 ## Liens externes
+
 - [Stefan Todbringer — Fandom](https://warhammerfantasy.fandom.com/wiki/Stefan_Todbringer)
