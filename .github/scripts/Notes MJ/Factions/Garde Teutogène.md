@@ -34,7 +34,7 @@
 - **À Middenheim** : interroger l'Ar-Ulric en public est très difficile — son escorte d'une demi-douzaine de gardes traite les inconnus avec une efficacité brutale et n'hésite pas à expulser un intrus à mains nues `PBT ch.6 l.131-133`. La voie passe par une introduction de confiance, jamais par une approche frontale.
 - **À Shining Rock S58** : la Garde fournit en partie l'escorte rapprochée d'Emil Valgeir et de Yorri XV dans le sanctuaire pendant l'attaque coordonnée des Fils d'Ulric (3 chevaliers de chaque ordre encadrent les deux hauts prêtres) — humiliation rituelle possible si la 3e vague enfonce les portes `EiR ch.3 l.194+306`.
 - **À Altdorf S60** : le salut ulricain de la Garde au passage devant le pavillon impérial sert de levier confessionnel — Yorri XV répond par une prière à Sigmar, Emil Valgeir reste muet, Yann Zuntermein sonde les PJ sur leurs sympathies religieuses pendant ce moment `EiR ch.5 l.154-155` `EiR ch.5 l.209+251`.
-- **Filiation Confrérie de la Hache** : un vétéran retraité de la Garde est candidat naturel pour la Confrérie — handle pour creuser une vulnérabilité Khorne, certains membres ayant été tentés dans des rites profanes par les Cultistes du Crâne Cramoisi `Middenheim ch.1 l.490`.
+- **Filiation Confrérie de la Hache** : un vétéran retraité de la Garde est candidat naturel pour la Confrérie — levier pour creuser une vulnérabilité Khorne, certains membres ayant été tentés dans des rites profanes par les Cultistes du Crâne Cramoisi `Middenheim ch.1 l.490`.
 
 ## Liens externes
 

@@ -34,7 +34,7 @@ les rangs des plus grands guerriers de la Garde Teutogène
 
 ## Apparitions Arc 5 → Arc 7
 
-- **Avant le Carnaval (cadre PBT)** — Denfather sous Jarrick Valgeir, animé par sa double ambition prêtrise-chevalerie ; déjà initié de la Confrérie de la Hache mais pas encore admis pleinement `Middenheim ch.1 l.456` `PBT ch.4 l.347`.
+- **Avant le Carnaval (cadre PBT)** — Sert comme Denfather sous Jarrick Valgeir, animé par sa double ambition prêtrise-chevalerie. Déjà initié à la Confrérie de la Hache, il n'y est pas encore admis pleinement `Middenheim ch.1 l.456` `PBT ch.4 l.347`.
 - **Post-Carnaval (cascade PBT ch.7)** — Reste Denfather quand Jarrick Valgeir démissionne et qu'Emil Valgeir devient Ar-Ulric. Voit son frère d'armes obtenir la charge suprême sans pouvoir le suivre lui-même ; reporte son ambition sur la Confrérie `PBT ch.7 l.580` `Middenheim Appendix III l.45`.
 - **Levier dramatique Arc 7** — Cible explicite du Crâne Cramoisi via la Confrérie de la Hache, à un moment où le Culte d'Ulric officiel mène une rhétorique anti-sigmarite ouverte et où la Confrérie sert sans le savoir d'amplificateur au culte de Babrakkos (Mangeurs du Monde) `Middenheim ch.7 l.180`. Tout incident anti-sigmarite à teinte ulricaine peut remonter via le Denfather aux cercles khornites infiltrés.
 

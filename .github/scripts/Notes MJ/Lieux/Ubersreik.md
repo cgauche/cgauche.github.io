@@ -47,7 +47,7 @@ Les murs hauts et larges, conçus par les ingénieurs nains de Karak Azgaraz sou
 
 ### Cultes principaux
 
-- **Culte de Sigmar** — dix temples et chapelles intra-muros, le plus implanté ; Father Gunther Emming, prêtre du grand temple, soutient ouvertement la garnison d'Altdorf et appelle à l'unité `Starter Set ch.3 l.202+237`.
+- **Culte de Sigmar** — dix temples et chapelles intra-muros, le plus implanté ; Père Gunther Emming, prêtre du grand temple, soutient ouvertement la garnison d'Altdorf et appelle à l'unité `Starter Set ch.3 l.202+237`.
 - **Culte de Vérèna et Culte de Shallya** — temples sur la grande place ; principales représentations cultuelles après Sigmar `Starter Set ch.3 l.237`.
 - **Culte d'Ulric** — chapelle-forteresse étonnamment grande dans le district fermé du Precinct ; Denfather Holst Kretschmer en sera retiré et emprisonné au Château de la Roche Noire pendant la Tourmente, soupçon de loyauté middenheimoise `Starter Set ch.3 l.225` `UA III ch.4 l.204`.
 

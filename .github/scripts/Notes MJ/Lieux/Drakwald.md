@@ -5,7 +5,7 @@
 
 ## Description
 
-Forêt jadis renommée pour héberger des Dragons, qui couvre la majeure partie du Middenland depuis le Reik au sud et le Wasteland à l'ouest jusqu'au Hochland à l'est et Middenheim au nord `Archives Vol I ch.4 l.89`. Hôte dangereux : Beastmen et pires rôdent en profondeur `Archives Vol I ch.4 l.89`. Aux abords du Reikland, la lisière ouest abrite des Mutants ; plus profondément encore se terrent des bandes de Beastmen, des Greenskins et des choses maléfiques aussi anciennes que le monde `Archives Vol I ch.4 l.320`.
+Le Drakwald est une forêt jadis renommée pour héberger des Dragons. Elle couvre la majeure partie du Middenland depuis le Reik au sud et le Wasteland à l'ouest jusqu'au Hochland à l'est et à Middenheim au nord `Archives Vol I ch.4 l.89`. C'est un hôte dangereux : Beastmen et pires rôdent en profondeur `Archives Vol I ch.4 l.89`. Aux abords du Reikland, la lisière ouest abrite des Mutants ; plus profondément encore se terrent des bandes de Beastmen, des Greenskins et des choses maléfiques aussi anciennes que le monde `Archives Vol I ch.4 l.320`.
 
 Autour du Fauschlag, le vaste Drakwald couvre la majeure partie du Grand Duché de Middenheim de bois épais ; là où la forêt n'a pas été défrichée près des bourgs, des forêts denses et anciennes dominent — l'archétype impérial du voyage par routes forestières dans l'espoir d'atteindre la prochaine auberge avant la nuit s'y vérifie pleinement `Middenheim ch.5 l.296`.
 
@@ -14,7 +14,7 @@ Autour du Fauschlag, le vaste Drakwald couvre la majeure partie du Grand Duché 
 - **Étendue** : couvre le Middenland du nord (frontière de Middenheim) jusqu'au sud (frontière Reikland) `Archives Vol I ch.4 l.89` et déborde à l'est sur la Barony of Hochland, qui en constitue le bout oriental `Archives Vol I ch.4 l.353`.
 - **Route Altdorf → Middenheim** : la traversée du Drakwald est longue et périlleuse — c'est l'itinéraire forcé pour qui veut rejoindre Middenheim depuis Altdorf `PBT ch.1 l.70`.
 - **Route Altdorf → Middenheim** (axe principal) : l'une des routes les plus fréquentées de l'Empire, aux côtés de l'Old Forest Road et des cols des Montagnes Grises vers la Bretonnie `EiS Companion ch.3 l.14`.
-- **Old Forest Road** : longe la lisière est et nord vers Salzenmund et Talabheim ; partie de la route entre Middenheim et Gladbeich constitue l'un des rares portions du Drakwald qu'on puisse qualifier de « apprivoisée » — patrouilles de Road Wardens, auberges de poste confortables `Warhammer Fantasy Roleplay ch.13 l.3819`.
+- **Old Forest Road** : longe la lisière est et nord vers Salzenmund et Talabheim ; la portion entre Middenheim et Gladbeich constitue l'une des rares parties du Drakwald que l'on puisse qualifier d'« apprivoisée » — patrouilles de Road Wardens, auberges de poste confortables `Warhammer Fantasy Roleplay ch.13 l.3819`.
 - **Lieux notables dans la forêt** :
   - **Howling Stones** — cercle de pierres au nord de Middenheim, dans une clairière du Drakwald non loin d'un cours d'eau stagnant. Pierres couchées en rayon depuis le centre comme les numéros d'une horloge ; cris et hurlements certaines nuits de lune `Middenheim ch.5 l.110`.
   - **Tomb of Kazron Gorespite** — tombeau profond du champion de Khorne tombé face à Magnus le Pieux durant la Grande Guerre Contre le Chaos ; les Beastmen locaux en ont fait un sanctuaire, surmonté d'un herdstone brut de 30 pieds, et empilent les têtes tranchées de leurs victimes à sa base `Middenheim ch.5 l.164`.
@@ -26,9 +26,9 @@ Autour du Fauschlag, le vaste Drakwald couvre la majeure partie du Grand Duché 
 - **Province perdue** : le Drakwald fut jadis une Grande Province de l'Empire à part entière. Au début du 13e siècle IC, elle fut submergée par les Beastmen qui décimèrent ses dirigeants `Middenheim ch.1 l.200`. Le Comte Faulk de Middenland tenta de la reconquérir mais son armée fut détruite par une coalition de warherds menée par Kartok Great-Horn `Middenheim ch.1 l.230`.
 - **Partition en protectorats (1414 IC)** : Middenland et Nordland se partagèrent le Drakwald contesté en deux protectorats, qui devinrent par la suite des régions permanentes de chacune des deux provinces `Middenheim ch.1 l.239`.
 - **Protectorat actuel** : le **Protectorate of Drakwald** est aujourd'hui rattaché au Middenland `EiS Companion ch.2 l.84` ; le Grand-Duc de Middenland en porte officiellement le titre de *Protector of the Drakwald* `Archives Vol I ch.4 l.78`.
-- **Drakwald Runefang** : la Runefang de la province perdue, *Beast Slayer*, fut volée des coffres du Middenpalaz en 1550 IC et atterrit aux mains de l'Électeur nouvellement reconnu du Middenland — modus operandi inconnu, bien que les fidèles de Ranald racontent à mi-voix qu'il s'agissait de « The Greatest Caper » `Middenheim ch.1 l.248`.
+- **Drakwald Runefang** : la Runefang de la province perdue, *Beast Slayer*, fut volée des coffres du Middenpalaz en 1550 IC et finit aux mains de l'Électeur nouvellement reconnu du Middenland — modus operandi inconnu, bien que les fidèles de Ranald racontent à mi-voix qu'il s'agissait de « The Greatest Caper » `Middenheim ch.1 l.248`.
 - **Carroburg** : capitale du Middenland aujourd'hui, jadis capitale impériale du « Drakwald Empire » sous l'Empereur Boris Goldgather ; le Drakschloss qui domine la cité, désormais scellé de chaînes, est l'ancienne résidence des Empereurs Drakwald, abandonnée depuis que Boris Goldgather et sa cour y périrent durant la Grande Peste de 1115 IC `Archives Vol I ch.4 l.106-108`.
-- **Khazrak the One-Eye** : après avoir vaincu le Beastlord Graktar, Khazrak conduisit son warherd depuis le Reikland jusque dans le Drakwald, menant campagne contre les bourgs humains et saccageant entre autres Immelscheid `Middenheim ch.17 l.69`. En 2518 IC, Boris Todbringer lança une purge massive du Drakwald, traquant Khazrak ; le Beastlord fut acculé à la Bataille d'Esterweld, une charge de cavalerie menée par Boris Todbringer lui-même perça les herds et le blessa, lui faisant perdre son œil gauche `Middenheim ch.17 l.72`.
+- **Khazrak the One-Eye** : après avoir vaincu le Beastlord Graktar, Khazrak conduisit son warherd depuis le Reikland jusque dans le Drakwald, menant une campagne contre les bourgs humains et saccageant entre autres Immelscheid `Middenheim ch.17 l.69`. En 2518 IC, Boris Todbringer lança une purge massive du Drakwald, traquant Khazrak ; le Beastlord fut acculé à la Bataille d'Esterweld, une charge de cavalerie menée par Boris Todbringer lui-même perça les herds et le blessa, lui faisant perdre son œil gauche `Middenheim ch.17 l.72`.
 
 ## Composition
 
@@ -50,7 +50,7 @@ Autour du Fauschlag, le vaste Drakwald couvre la majeure partie du Grand Duché 
 ## Rôle Arc Empire in Ruins
 
 - **Survol du Drakwald hanté par les monstres** `EiR ch.1 l.196` : la course du dirigeable du Baron Heinrich passe au-dessus des Montagnes du Milieu puis traverse le Drakwald — à la transition montagnes/forêt, jet Perception Hard (–20) pour repérer un nid d'aigles géants au sommet d'un pic.
-- **Embuscade Helstorm rockets sur le dirigeable** `EiR ch.1 l.232` : environ une heure après l'entrée au-dessus du Drakwald Forest, cinq panaches de fumée s'élèvent du sol forestier vers le nord — fusées Helstorm qui visent le dirigeable.
+- **Embuscade Helstorm rockets sur le dirigeable** `EiR ch.1 l.232` : environ une heure après l'entrée au-dessus du Drakwald, cinq panaches de fumée s'élèvent du sol forestier vers le nord — fusées Helstorm qui visent le dirigeable.
 
 ## Apparitions Arc 5
 

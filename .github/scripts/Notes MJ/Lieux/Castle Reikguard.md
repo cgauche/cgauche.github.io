@@ -7,7 +7,7 @@
 
 Castle Reikguard se dresse sur un promontoire dominant les Reiker Marshes, au-dessus du confluent du Teufel et de la Reik `EiR ch.4 l.67`. C'est le quartier général du Grand Ordre des Reiksguard, ordre laïc d'élite de chevaliers liés par serment à la défense du Reikland et de la lignée impériale `EiR ch.4 l.67`. Le donjon principal et les tours flanquantes culminent à plus de 200 pieds au-dessus du sommet du promontoire et dominent toute la région environnante `EiR ch.4 l.69`. Un solide mur d'enceinte ceint l'ensemble, ponctué de tours secondaires ; la barbacane principale s'ouvre au sud sur une vaste plaine, dégarnie d'arbres et de tout autre obstacle, ce qui rend impossible toute approche discrète `EiR ch.4 l.69`.
 
-Construction imposante bâtie au-dessus de la Reik sur une paroi de falaise abrupte. Des pennons portant les armes des Reiksguard ainsi que les armes de la famille impériale flottent depuis les tours et les tourelles ; des runes naines complexes sont gravées dans la maçonnerie `EiR ch.4 l.71`. Le château est connu dans tout l'Empire comme le siège militaire des Reiksguard et abrite terrains d'entraînement, casernes, armureries et installations annexes pour la détente et l'observance religieuse `EiR ch.4 l.73`.
+L'ensemble est une construction imposante bâtie au-dessus de la Reik sur une paroi de falaise abrupte. Des pennons portant les armes des Reiksguard ainsi que les armes de la famille impériale flottent depuis les tours et les tourelles, et des runes naines complexes sont gravées dans la maçonnerie `EiR ch.4 l.71`. Le château est connu dans tout l'Empire comme le siège militaire des Reiksguard ; il abrite terrains d'entraînement, casernes, armureries et installations annexes pour la détente et l'observance religieuse `EiR ch.4 l.73`.
 
 ## Géographie et accès
 
@@ -20,7 +20,7 @@ Construction imposante bâtie au-dessus de la Reik sur une paroi de falaise abru
 
 ## Histoire
 
-- **1707 IC — invasion de Gorbad Ironclaw** : depuis cette date, le château sert aussi de bolthole pour l'Empereur et sa famille en temps de crise. Reconstruit et lourdement refortifié après le retrait des forces de Gorbad, il intègre des dispositifs runiques nains conçus pour repousser la magie `EiR ch.4 l.77`.
+- **1707 IC — invasion de Gorbad Ironclaw** : depuis cette date, le château sert aussi de refuge pour l'Empereur et sa famille en temps de crise. Reconstruit et lourdement refortifié après le retrait des forces de Gorbad, il intègre des dispositifs runiques nains conçus pour repousser la magie `EiR ch.4 l.77`.
 
 ## Anti-magie naine
 
@@ -29,7 +29,7 @@ Dans l'enceinte de Castle Reikguard, tous les tests de Language (Magick) et de C
 ## Composition
 
 - **Prince Héritier Wolfgang Holswig-Abenauer** : résident principal et hôte du château au moment de l'audience. Politique de porte ouverte avec ses collaborateurs et conseillers — les interruptions sont nombreuses pendant les entretiens `EiR ch.4 l.136-138`.
-- **Reiksguard Knights** : garnison permanente, élite laïque jurée. Patrouillent jour et nuit ; majoritairement Sigmarites `EiR ch.4 l.88` `EiR ch.4 l.210`.
+- **Chevaliers du Reiksguard** : garnison permanente, élite laïque jurée ; ils patrouillent jour et nuit et sont majoritairement Sigmarites `EiR ch.4 l.88` `EiR ch.4 l.210`.
 - **Précepteur Leberecht von Hardenburg** : Chevalier Panthère décoré présent à l'audience, rapporte l'accord du Duc de Parravon pour assiéger Blood Keep `EiR ch.4 l.146-148`.
 - **Claudia Karll** : prêtresse Shallya de passage, remercie Wolfgang pour son soutien à l'hospice d'Altdorf `EiR ch.4 l.140-144`.
 - **Hans Bauer** : fermier d'un domaine voisin, accède au Prince Héritier sans difficulté ; illustre l'accessibilité de Wolfgang aux humbles `EiR ch.4 l.162-170`.
@@ -39,7 +39,7 @@ Dans l'enceinte de Castle Reikguard, tous les tests de Language (Magick) et de C
 
 ### Audience avec le Prince Héritier (ch.4)
 
-Lieu où la délégation impériale conduit Wolfgang après l'engagement de Katarina Todbringer à Shining Rock. Les PJ doivent interroger le Prince Héritier sur son rôle dans le Mutant Edict, son projet politique, ses intentions sur Ubersreik, Nordland, Marienburg, la menace skaven, les Neuf Yeux — et sur sa motivation à épouser Katarina `EiR ch.4 l.90-130`. L'attitude des Reiksguard est colorée par l'allégeance perçue des PJ : reçus chaleureusement si Sigmarites, avec un respect glacé si Ulricains `EiR ch.4 l.88`.
+Castle Reikguard est le lieu où la délégation impériale conduit Wolfgang après l'engagement de Katarina Todbringer à Shining Rock. Les PJ doivent y interroger le Prince Héritier sur son rôle dans le Mutant Edict, son projet politique, ses intentions sur Ubersreik, Nordland, Marienburg, la menace skaven, les Neuf Yeux — et sur sa motivation à épouser Katarina `EiR ch.4 l.90-130`. L'attitude des Reiksguard est colorée par l'allégeance perçue des PJ : reçus chaleureusement s'ils sont Sigmarites, avec un respect glacé s'ils sont Ulricains `EiR ch.4 l.88`.
 
 ### Le « cadeau de Middenheim »
 
@@ -85,7 +85,7 @@ Chaque chambre contient un lit étroit, une armoire en bois et des étagères. L
 
 ### Élimination silencieuse des Yeux
 
-Les Neuf Yeux ne portent aucun symbole cultiste identifiable et ne révèlent rien sous interrogatoire `EiR ch.4 l.253`. La défense violente d'Ingrid peut justifier un homicide « pardonné » ; les autres meurtres sont considérés comme tels. Toutefois, une disposition discrète et silencieuse passe inaperçue : ils font fréquemment des voyages inopinés pour rechercher des lores obscurs, et la confusion du départ vers Altdorf couvre une disparition `EiR ch.4 l.264`. XP awards `EiR ch.4 l.258-266` : 40 pour les trois Yeux du château éliminés sans soupçon, 15 par Œil éliminé, 30 pour la remise discrète du war prize, 20 pour un entretien approfondi du Prince Héritier, 9 pour le premier joueur qui formule que Wolfgang Holswig-Abenauer est *trop beau pour être vrai*.
+Les Neuf Yeux ne portent aucun symbole cultiste identifiable et ne révèlent rien sous interrogatoire `EiR ch.4 l.253`. La défense violente d'Ingrid peut justifier un homicide « pardonné » ; les autres meurtres sont considérés comme tels. Toutefois, une disposition discrète et silencieuse passe inaperçue : les Yeux font fréquemment des voyages inopinés pour rechercher des lores obscurs, et la confusion du départ vers Altdorf couvre une disparition `EiR ch.4 l.264`. Récompenses XP `EiR ch.4 l.258-266` : 40 pour les trois Yeux du château éliminés sans soupçon, 15 par Œil éliminé, 30 pour la remise discrète du war prize, 20 pour un entretien approfondi du Prince Héritier, 9 pour le premier joueur qui formule que Wolfgang Holswig-Abenauer est *trop beau pour être vrai*.
 
 ## Apparitions Arc 7
 

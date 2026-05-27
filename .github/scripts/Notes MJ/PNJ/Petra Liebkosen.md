@@ -5,10 +5,10 @@
 
 ## Apparence et manières
 
-Mondaine active souvent vue dans les bons lieux de Middenheim ;
-mi-vingtaine, taille et corpulence moyennes, cheveux brun foncé bouclés
-mi-longs et yeux brun foncé, menton joliment marqué d'une fossette et
-grain de beauté sur la joue gauche `PBT Appendix l.1031`. Préfère les
+Petra Liebkosen est une mondaine active souvent vue dans les bons lieux
+de Middenheim ; mi-vingtaine, taille et corpulence moyennes, cheveux
+brun foncé bouclés mi-longs et yeux brun foncé, menton joliment marqué
+d'une fossette et grain de beauté sur la joue gauche `PBT Appendix l.1031`. Préfère les
 toilettes élaborées à celles de Kirsten Jung et s'habille toujours de
 manière flamboyante mais avec style. Mondaine assumée pour qui l'amour
 et la beauté sont moins durables que l'or et les diamants —
@@ -47,7 +47,7 @@ la garnison ou autres célibataires éligibles `Middenheim ch.2 l.797`.
 
 ## Apparitions Arc 5 → Arc 7
 
-- **[S34-S38] Carnaval de Middenheim** — Plaque sociale présente à de nombreux événements selon le calendrier : Wellentag aux festivités de bière (5-6 h) `PBT ch.5 l.285` ; Königstag au tournoi de joute (2-4 h) `PBT ch.5 l.312` ; Bezahltag au pugilat féminin `PBT ch.5 l.386` ; Festag au Grand Finale `PBT ch.5 l.327` ; Garden Party du Graf en après-midi (arrivée 4 h avec Thijs van Zalijvwijre du Marienburg Goods Exchange, navigation du labyrinthe végétal 4 h 30-5 h, puis 7 h-7 h 20 avec Janna Eberhauer, départ pour le *Laughing Jackass* à 8 h) `PBT Companion ch.4 l.89` `PBT Companion ch.4 l.350` `PBT Companion ch.4 l.408`.
+- **[S34-S38] Carnaval de Middenheim** — Habituée présente à de nombreux événements selon le calendrier : Wellentag aux festivités de bière (5-6 h) `PBT ch.5 l.285` ; Königstag au tournoi de joute (2-4 h) `PBT ch.5 l.312` ; Bezahltag au pugilat féminin `PBT ch.5 l.386` ; Festag au Grand Finale `PBT ch.5 l.327` ; Garden Party du Graf en après-midi (arrivée 4 h avec Thijs van Zalijvwijre du Marienburg Goods Exchange, navigation du labyrinthe végétal 4 h 30-5 h, puis 7 h-7 h 20 avec Janna Eberhauer, départ pour le *Laughing Jackass* à 8 h) `PBT Companion ch.4 l.89` `PBT Companion ch.4 l.350` `PBT Companion ch.4 l.408`.
 - **[S57] Visite-surprise au bureau de Karl-Heinz Wasmeier** `EiR ch.2 l.472` — Accompagne Katarina Todbringer aux côtés de Hildegarde Zimperlich et Natasha Sinnlich quand la « Princesse » fait irruption pour annoncer que les choses ont empiré et demander aux PJ de partir avec la délégation pour Shining Rock.
 
 ## Statbloc — Envoy (Silver 4) `PBT Appendix l.1033-1040`

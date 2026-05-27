@@ -5,7 +5,7 @@
 
 ## Description
 
-Middenheim est la plus grande ville des provinces septentrionales de l'Empire, célèbre dans tout le Vieux Monde pour son imprenabilité, son importance pour le culte d'Ulric, l'excellence de son enseignement magique et les fastes de son carnaval `Middenheim ch.1 l.11`. Par temps clair, la cité se voit à des milles à la ronde — le rocher saillant sur lequel elle est bâtie se confond avec l'enchevêtrement des tenements, des flèches de temples et des remparts qui s'élèvent au-dessus `Middenheim ch.1 l.11`. L'architecture impose une certaine uniformité : la pierre gris sombre du Fauschlag, taillée infatigablement par les Nains depuis les origines, et les bois durs de la Drakwald donnent à la ville un visage massif et durable `PBT ch.2 l.21`. On dit qu'aucun bâtiment de Middenheim ne porte pas de plaque indiquant qui l'a construit et quand `PBT ch.2 l.21`.
+Middenheim est la plus grande ville des provinces septentrionales de l'Empire, célèbre dans tout le Vieux Monde pour son imprenabilité, son importance pour le culte d'Ulric, l'excellence de son enseignement magique et les fastes de son carnaval `Middenheim ch.1 l.11`. Par temps clair, la cité se voit à des milles à la ronde — le rocher saillant sur lequel elle est bâtie se confond avec l'enchevêtrement des immeubles d'habitation, des flèches de temples et des remparts qui s'élèvent au-dessus `Middenheim ch.1 l.11`. L'architecture impose une certaine uniformité : la pierre gris sombre du Fauschlag, taillée infatigablement par les Nains depuis les origines, et les bois durs de la Drakwald donnent à la ville un visage massif et durable `PBT ch.2 l.21`. On dit qu'aucun bâtiment de Middenheim ne porte pas de plaque indiquant qui l'a construit et quand `PBT ch.2 l.21`.
 
 La ville est souvent appelée la **Cité du Loup Blanc** en raison de son importance pour les Ulricains `Middenheim ch.1 l.19`. Le Haut Temple d'Ulric en est le centre spirituel et abrite la Flamme Éternelle, pilier de feu argenté ininterrompu jailli de la pierre au temps d'Artur `Middenheim ch.1 l.14`. Il est ouvertement considéré dans l'Empire comme second en taille seulement après le grand Temple de Sigmar d'Altdorf `PBT ch.2 l.30`.
 
@@ -15,7 +15,7 @@ Le **Fauschlag** est un piton rocheux monolithique, vaste, aux flancs abrupts, u
 
 Pour ce qui est de l'effondrement du **viaduc Sud** S39 : sous l'effet d'un mot de commandement magique prononcé par Karl-Heinz Wasmeier au pied du pont, une section de 48 yards se fend et s'écroule en un round vers la base du Fauschlag — une chute fatale de 500 pieds (167 yards) `PBT ch.7 l.537`.
 
-À l'approche, en temps de crise, les routes vers Middenheim sont saturées : réfugiés fuyant les raids ou cherchant à s'enrôler dans les forces de la cité, longues files devant chaque entrée, baraques d'enregistrement, cargos commerciaux ou bourgeois middenheimers laissés passer, réfugiés détournés vers des campements de tentes `EiR ch.2 l.11`. La traversée intérieure rappelle le Carnaval — rues aussi denses, mais ambiance frénétique au lieu d'élation `EiR ch.2 l.16`. Les Sigmarites ont fui ou se terrent, le temple de Sigmar du Freiburg est encerclé d'une douzaine de watchmen blasés qui tolèrent jeers et tags anti-sigmarites tout en empêchant les dégradations sérieuses `EiR ch.2 l.20`.
+À l'approche, en temps de crise, les routes vers Middenheim sont saturées : réfugiés fuyant les raids ou cherchant à s'enrôler dans les forces de la cité, longues files devant chaque entrée, baraques d'enregistrement, cargos commerciaux ou bourgeois middenheimers laissés passer, réfugiés détournés vers des campements de tentes `EiR ch.2 l.11`. La traversée intérieure rappelle le Carnaval — rues aussi denses, mais ambiance frénétique au lieu d'élation `EiR ch.2 l.16`. Les Sigmarites ont fui ou se terrent, le temple de Sigmar du Freiburg est encerclé d'une douzaine de gardes urbains blasés qui tolèrent injures et graffitis anti-sigmarites tout en empêchant les dégradations sérieuses `EiR ch.2 l.20`.
 
 ## Histoire
 
@@ -32,18 +32,18 @@ Pour ce qui est de l'effondrement du **viaduc Sud** S39 : sous l'effet d'un mot 
 
 ### Le Graf et la maison Todbringer
 
-- ****Graf Boris Todbringer****, Grand Duc de Middenheim, Électeur Impérial, est le souverain séculier de la cité `Middenheim ch.1 l.21`. Il administre directement un rayon de 30 milles autour de la cité et gouverne également la Barony of Nordland `PBT ch.2 l.72`. Trappings : *Peak Leveller* (la Runefang du Middenland), Full Plate Best Quality, Grand Duchy of Middenheim, Wardenship of the Barony of Nordland, Middenheim City Coffers and Crown Jewels `EiR Intro l.912`.
-- ****Baron Stefan Todbringer****, fils légitime, né de Maria von Richthofen morte en couches un an après le mariage. Souffre d'une infirmité congénitale et reste seul héritier légal `PBT ch.2 l.91+95`. Soigné depuis l'arrivée du **médecin de cour Luigi Pavarotti** depuis la cité Tiléenne de Miragliano `PBT ch.2 l.130+162`.
-- ****Baron Heinrich Todbringer****, fils bâtard officiellement reconnu, géant de 6'11'', diplomate de talent ; sa naissance illégitime l'écarte de la succession `PBT ch.2 l.97` `EiR Intro l.919`. Au début de l'Arc 7, c'est lui qui ramène les PJ de Karak Skygg à Middenheim à bord de son dirigeable `EiR ch.1 l.36`.
-- ****'Princesse' Katarina Todbringer****, fille bâtarde reconnue, baronne, écartée de la succession. Patronne d'œuvres caritatives `PBT ch.2 l.99`.
-- ****Anika-Elise Nikse****, seconde épouse — fille du Baron Rudolph von Niske de Nordland — morte d'une étrange maladie il y a quelques mois. La descendance attendue ne s'est jamais matérialisée ; depuis sa mort, le Graf a sombré dans une dépression profonde et a délégué la majorité du gouvernement à ses conseillers `PBT ch.2 l.101-103`.
+- **Graf Boris Todbringer**, Grand Duc de Middenheim, Électeur Impérial, est le souverain séculier de la cité `Middenheim ch.1 l.21`. Il administre directement un rayon de 30 milles autour de la cité et gouverne également la Barony of Nordland `PBT ch.2 l.72`. Trappings : *Peak Leveller* (la Runefang du Middenland), Full Plate Best Quality, Grand Duchy of Middenheim, Wardenship of the Barony of Nordland, Middenheim City Coffers and Crown Jewels `EiR Intro l.912`.
+- **Baron Stefan Todbringer**, fils légitime, né de Maria von Richthofen morte en couches un an après le mariage. Souffre d'une infirmité congénitale et reste seul héritier légal `PBT ch.2 l.91+95`. Soigné depuis l'arrivée du **médecin de cour Luigi Pavarotti** depuis la cité Tiléenne de Miragliano `PBT ch.2 l.130+162`.
+- **Baron Heinrich Todbringer**, fils bâtard officiellement reconnu, géant de 2 m 11, diplomate de talent ; sa naissance illégitime l'écarte de la succession `PBT ch.2 l.97` `EiR Intro l.919`. Au début de l'Arc 7, c'est lui qui ramène les PJ de Karak Skygg à Middenheim à bord de son dirigeable `EiR ch.1 l.36`.
+- **'Princesse' Katarina Todbringer**, fille bâtarde reconnue, baronne, écartée de la succession. Patronne d'œuvres caritatives `PBT ch.2 l.99`.
+- **Anika-Elise Nikse**, seconde épouse — fille du Baron Rudolph von Niske de Nordland — morte d'une étrange maladie il y a quelques mois. La descendance attendue ne s'est jamais matérialisée ; depuis sa mort, le Graf a sombré dans une dépression profonde et a délégué la majorité du gouvernement à ses conseillers `PBT ch.2 l.101-103`.
 
 ### Le gouvernement (Powers That Be) `PBT ch.2 l.76-88`
 
 - **Trois Midden Marshals** : sécurité, défense et application des lois.
-- **Trois Law Lords** : supervision du système judiciaire. Sous Arc 3 — ****Reiner Ehrlich****, ****Karl-Heinz Wasmeier**** (résidant tous deux dans le quartier Grafsmund-Nordgarten) et **Joachim Hoflich** (qui vit au Palais) `PBT ch.2 l.207`.
-- **Chancellor** : finances et impôts.
-- **High Wizard** : à la tête de la Grand Guild of Wizards, parle pour la communauté magique. La Deputy est **Janna Eberhauer**, résidente du quartier Ulricsmund `PBT ch.2 l.212`.
+- **Trois Law Lords** : supervision du système judiciaire. Sous Arc 3 — **Reiner Ehrlich**, **Karl-Heinz Wasmeier** (résidant tous deux dans le quartier Grafsmund-Nordgarten) et **Joachim Hoflich** (qui vit au Palais) `PBT ch.2 l.207`.
+- **Chancelier** : finances et impôts.
+- **High Wizard** : à la tête de la Grand Guild of Wizards, parle pour la communauté magique. L'Adjointe est **Janna Eberhauer**, résidente du quartier Ulricsmund `PBT ch.2 l.212`.
 - **Komissions** : divers organes administratifs.
 - **Guildes** : commerce et artisanat, dont la Merchants' Guild présidée par **Gotthard Wallenstein** `PBT ch.2 l.241`.
 
@@ -63,15 +63,15 @@ Le **Temple de Sigmar**, dirigé par **Werner Stolz**, est significativement plu
 
 ## Quartiers majeurs `PBT ch.2 l.201-241`
 
-- **Palast** — autour du Middenpalaz, quartier le mieux entretenu de la cité, résidences du Graf, de ses conseillers et courtiers. Les trois Midden Marshals vivent près des baraques de part et d'autre du **Square of Martials**. Patrouilles de la Watch très fréquentes ; les inconnus sans tenue noble attirent l'attention `PBT ch.2 l.201-204`.
+- **Palast** — autour du Middenpalaz, quartier le mieux entretenu de la cité, résidences du Graf, de ses conseillers et courtiers. Les trois Midden Marshals vivent près des baraques de part et d'autre du **Square of Martials**. Patrouilles de la Garde Urbaine très fréquentes ; les inconnus sans tenue noble attirent l'attention `PBT ch.2 l.201-204`.
 - **Grafsmund** et **Nordgarten** — quartier huppé, demeures élégantes des nobles, marchands et maîtres artisans. Résidents notables : les Law Lords Reiner Ehrlich et Karl-Heinz Wasmeier `PBT ch.2 l.207`.
 - **Ulricsmund** — haute classe moyenne, maisons confortables mais plus modestes que celles de Grafsmund-Nordgarten. Y vit **Janna Eberhauer**, Deputy High Wizard `PBT ch.2 l.212`.
 - **Altmarkt** — marché des denrées alimentaires, présence halfeline marquée, abrite le sous-district **Kleinmoot** (le « Halfling District ») `PBT ch.2 l.215+217`.
-- **Altquartier** — sombre et sordide, repaire des éléments les moins recommandables de la cité ; la Watch n'y vient que de force, par patrouilles doublées. La taverne **The Pit** y est localisée `PBT ch.2 l.215+219`.
+- **Altquartier** — sombre et sordide, repaire des éléments les moins recommandables de la cité ; la Garde n'y vient que de force, par patrouilles doublées. La taverne **The Pit** y est localisée `PBT ch.2 l.215+219`.
 - **Southgate** — pauvre mais respectable, résidents endurcis par la pauvreté `PBT ch.2 l.221`.
-- **Ostwald** — réputé aussi dangereux que l'Altquartier, bien que les voleurs y évitent généralement de tuer. Abrite la planque de Brunhilde Klaglich et de ses pawns `PBT ch.2 l.222+224`.
+- **Ostwald** — réputé aussi dangereux que l'Altquartier, bien que les voleurs y évitent généralement de tuer. Abrite la planque de Brunhilde Klaglich et de ses sbires `PBT ch.2 l.222+224`.
 - **Neumarkt** — second marché majeur, traitant de tout sauf la nourriture. « Si on ne le trouve pas ici, c'est probablement illégal » `PBT ch.2 l.227`.
-- **Osttor** — lower-middle-class, vie nocturne animée, **Allavandrel Fanmaris** y a sa résidence `PBT ch.2 l.229`.
+- **Osttor** — petite bourgeoisie, vie nocturne animée, **Allavandrel Fanmaris** y a sa résidence `PBT ch.2 l.229`.
 - **Nordtor** — au nord d'Osttor, encore respectable mais en déclin. **Royal College of Music** fondé là il y a des siècles `PBT ch.2 l.229`.
 - **Freiburg** — autour du **Collegium Theologica**, l'université de Middenheim. Académiciens, mages, prêtres et étudiants `PBT ch.2 l.232`.
 - **Wynd** — quartier des artisans, communauté très soudée `PBT ch.2 l.234`.
@@ -98,7 +98,7 @@ Conséquences : le Magister Magistri a fui, sa cellule Main Pourpre est durement
 
 **Tensions Middenheim-Altdorf** (Intro) : Graf Boris s'impatiente de la cour impériale, jugeant l'**Édit sur les Mutants** faible et hypocrite, la prise d'Ubersreik intolérable, et soupçonnant Altdorf de soutenir la rébellion de Nordland `EiR Intro l.916`. Le **nouvel Ar-Ulric Emil Valgeir** est bien plus agressif dans sa défense des valeurs ulricaines que son prédécesseur, et a levé l'interdiction des **Fils d'Ulric** qui prêchent désormais ouvertement dans la cité, malgré le fait que ceux-ci souhaitent le déposer en faveur de l'un des leurs `EiR Intro l.247`. La maison **von Bildhofen**, apparentée aux Todbringers, est tiraillée entre loyauté à Middenheim et mémoire de leur ancêtre Magnus le Pieux `EiR Intro l.249`.
 
-**Audience avec Graf Boris** (ch.2) : reporting au Middenpalaz, Graf Boris flanqué de gardes de l'Ordre des Chevaliers Panthères ; rencontre interrompue par High Capitular **Werner Stolz** qui transmet le message de Yorri XV proposant des pourparlers urgents `EiR ch.2 l.102-108`. Le Graf décide d'organiser une fonction modeste au palais le lendemain pour recevoir la délégation `EiR ch.2 l.121`.
+**Audience avec Graf Boris** (ch.2) : présentation au Middenpalaz, Graf Boris flanqué de gardes de l'Ordre des Chevaliers Panthères ; rencontre interrompue par le Grand Capitulaire **Werner Stolz** qui transmet le message de Yorri XV proposant des pourparlers urgents `EiR ch.2 l.102-108`. Le Graf décide d'organiser une fonction modeste au palais le lendemain pour recevoir la délégation `EiR ch.2 l.121`.
 
 **Départ pour Shining Rock** (ch.3) : la rencontre sigmaro-ulricaine, suite à la prophétie d'Yorri XV, est négociée par Veiran Thugenheim et Boris Todbringer. La délégation de Middenheim quitte la cité avec le Graf, Heinrich, Katarina, Hildegarde Zimperlich, Veiran Thugenheim, six chevaliers du Loup Blanc en avant-garde, douze Chevaliers Panthères en arrière-garde et une vingtaine d'hommes d'armes `EiR ch.3 l.59-65`.
 

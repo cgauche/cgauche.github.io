@@ -40,7 +40,7 @@
 ## Personnages clés
 
 - Liepmund Holzkrug — Grand Ambassadeur, chef du Cercle Intérieur, loyaliste de l'Empereur mais ennemi héréditaire de la dynastie Holswig-Schliestein ; ignore que Zuntermein est cultiste `EiR Intro l.611` `EiR Intro l.605`.
-- Immanuel-Ferrand Holswig-Schliestein — oncle de l'Empereur, Grand Chancelier du Royaume, Grey Guardian du Collège Gris, chef des Graukappen, manipulé par Zuntermein sur le dossier Ubersreik `EiR Intro l.628` `EiR Intro l.634`.
+- Immanuel-Ferrand Holswig-Schliestein — oncle de l'Empereur, Grand Chancelier du Royaume, Gardien Gris du Collège Gris, chef des Graukappen, manipulé par Zuntermein sur le dossier Ubersreik `EiR Intro l.628` `EiR Intro l.634`.
 - Yann Zuntermein — adjoint d'Holzkrug, chef du Spionwerber, membre du Cercle Intérieur, magister magistri de la cellule Main Pourpre d'Altdorf ; sait que l'Empereur est malade et qu'un double tient sa place en public, sait que Henrik Kappelmuller alimente cette maladie comme son agent `EiR Intro l.680` `EiR Intro l.664-665`.
 - Emmanuelle Nacht — meilleure agente d'Immanuel-Ferrand, *« Top Spy/Diplomat »*, faisait des percées dans la Main Pourpre avant d'être détournée vers Ubersreik par la manœuvre Zuntermein `EiR Intro l.312`.
 - Else Barnhelm — chef du Schattenkabinett, notoirement ambitieuse `Altdorf ch.10 l.50`.
@@ -52,7 +52,7 @@
 - **Démasquage en deux voies divergentes** : Holzkrug, mis au courant, tente de gérer l'affaire seul en confrontant Zuntermein — il en mourra probablement. Immanuel-Ferrand, lui, mobilise des alliés du Collège Gris et propose aux PJ de l'accompagner pour la confrontation directe ; acculé, Zuntermein se bat jusqu'à la mort `EiR ch.13 l.145`.
 - **Activation des Graukappen** : si Immanuel-Ferrand est convaincu de la trahison interne, le bras extérieur de la Chambre Noire peut agir contre la cellule Spionwerber infiltrée — appui des Graukappen pour la phase post-Turmoil.
 - **Faux warrant** : Baecker arrive avec un parchemin se prétendant signé du Grand Chancelier Holswig-Schliestein ; détection en *Evaluate (Very Hard, –30)* contre SL 5 du faussaire de Zuntermein `EiR ch.13 l.85`.
-- **Approche d'Holzkrug** : au Conclave d'urgence à Middenheim, Holzkrug aborde les PJ à 15:30 P.m. en Salle de Conférence, tourne la conversation vers l'affaire d'Ubersreik et fait mine de regretter l'occupation, puis sonde les PJ sur le candidat éventuel du Graf pour la succession `EiR ch.7 l.129-134`. Levier de manipulation classique de la Chambre Noire — Holzkrug pèse les PJ comme atouts ou nuisances.
+- **Approche d'Holzkrug** : au Conclave d'urgence à Middenheim, Holzkrug aborde les PJ à 15h30 en Salle de Conférence, tourne la conversation vers l'affaire d'Ubersreik et fait mine de regretter l'occupation, puis sonde les PJ sur le candidat éventuel du Graf pour la succession `EiR ch.7 l.129-134`. Levier de manipulation classique de la Chambre Noire — Holzkrug pèse les PJ comme atouts ou nuisances.
 - **Cascade post-démasquage** : si Zuntermein est exposé au ch.13, l'épuration interne du Spionwerber devient une priorité opérationnelle pour Holzkrug (s'il survit) ou pour Immanuel-Ferrand prenant les rênes ; fil narratif possible post-Turmoil pour les sessions homebrew « Le réveil d'Altdorf ».
 
 ## Liens externes

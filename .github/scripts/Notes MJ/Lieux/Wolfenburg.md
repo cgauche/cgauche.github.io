@@ -5,14 +5,14 @@
 
 ## Description
 
-Capitale de la Grande Principauté d'Ostland, siège du Grand Prince et de son Parlement d'État `Archives Vol I l.167-171`. La ville accueille le palais du Grand Prince *« the palace of Grand Prince Hals von Tasseninck of Ostland »* `PBT ch.1 l.399`. La prophétie Doomed de Heinrich Todbringer — *« A misadventure in plain sight of Wolfenburg's walls »* `PBT Appendix l.718` — atteste d'une enceinte visible depuis la route d'approche.
+Wolfenburg est la capitale de la Grande Principauté d'Ostland et le siège du Grand Prince et de son Parlement d'État `Archives Vol I l.167-171`. Elle accueille le palais du Grand Prince *« the palace of Grand Prince Hals von Tasseninck of Ostland »* `PBT ch.1 l.399`. La prophétie Doomed de Heinrich Todbringer — *« A misadventure in plain sight of Wolfenburg's walls »* `PBT Appendix l.718` — atteste d'une enceinte visible depuis la route d'approche.
 
 ## Géographie et accès
 
 - **Province** : Grande Principauté d'Ostland, dont Wolfenburg est la capitale `Archives Vol I l.171`.
 - **Titre attaché** : *Prince of Wolfenburg* — un des titres formels du Grand Prince d'Ostland `Archives Vol I l.167` `EiS Companion ch.2 l.177`.
 - **Route Altdorf–Middenheim–Kislev** : Wolfenburg est un relais sur la ligne diligence reliant Middenheim à Kislev — *« east via Wolfenburg and Hergig to Kislev »* `EiS Companion ch.3 l.70`. Le passage par Hergig (capitale de Hochland) précède immédiatement Wolfenburg sur le tronçon est.
-- **Position topographique** : ville plaine sud — la *Battle of the Plain* de 2506 IC s'est livrée *« south of Wolfenburg »* `EiR Companion ch.4 l.43`, ce qui suggère une plaine ouverte au sud accessible aux corps de bataille combinés.
+- **Position topographique** : la ville s'ouvre sur une plaine au sud — la *Battle of the Plain* de 2506 IC s'est livrée *« south of Wolfenburg »* `EiR Companion ch.4 l.43`, ce qui suggère une plaine ouverte au sud accessible aux corps de bataille combinés.
 - **Caserne** : le quartier général des Imperial Ostlanders est à Wolfenburg — *« The main barracks are in Wolfenburg, where recruits are inducted in a secretive ritual »* `EiR Companion ch.4 l.32`. La caserne d'origine est *« the Wolfenburg 2nd Regiment of Foot »*, régiment-parent administratif des Imperial Ostlanders depuis 2429 IC `EiR Companion ch.4 l.23`.
 
 ## Composition

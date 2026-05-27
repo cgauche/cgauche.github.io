@@ -5,7 +5,7 @@
 
 ## Description
 
-Plus grande cité marchande du Vieux Monde, au grand dam des marchands de L'Anguille `Sea of Claws ch.5 l.96`. Le Rijksweg — chenal de la Reik qui coupe la ville en deux — est sillonné en permanence par les navires marchands. L'énorme **Hoogbrug Bridge** enjambe le Rijksweg à une hauteur telle que même les plus grands voiliers passent dessous `Sea of Claws ch.5 l.96`. De part et d'autre, des dizaines d'îles entassées dans un dédale de canaux et de ponts, couvertes d'immeubles hauts qui se penchent au-dessus de l'eau ; même les ponts portent auberges, boutiques et logements. Là où chaque pouce est pris, on construit en hauteur `Sea of Claws ch.5 l.96`.
+Marienburg est la plus grande cité marchande du Vieux Monde, au grand dam des marchands de L'Anguille `Sea of Claws ch.5 l.96`. Le Rijksweg — chenal de la Reik qui coupe la ville en deux — est sillonné en permanence par les navires marchands. L'énorme **Hoogbrug Bridge** enjambe le Rijksweg à une hauteur telle que même les plus grands voiliers passent dessous `Sea of Claws ch.5 l.96`. De part et d'autre s'entassent des dizaines d'îles dans un dédale de canaux et de ponts, couvertes d'immeubles hauts qui se penchent au-dessus de l'eau ; même les ponts portent auberges, boutiques et logements. Là où chaque pouce de sol est pris, on construit en hauteur `Sea of Claws ch.5 l.96`.
 
 Le Marienburger stéréotypique est un marchand cupide et beau parleur, prêt à vous extorquer vos économies en échange de tous vos biens — en pratique, ils ne sont pas plus avides que d'autres mais le commerce est leur quotidien, marchander un prix est une seconde nature `Sea of Claws ch.5 l.98`. Monnaie locale : le **Marienburg Guilder**, mais toutes les devises du Vieux Monde circulent et sont acceptées à leur valeur faciale `Sea of Claws ch.5 l.108`.
 
@@ -48,7 +48,7 @@ Le Marienburger stéréotypique est un marchand cupide et beau parleur, prêt à
 
 ## Apparitions Arc 7
 
-- **[S60+]** — La perspective Marienburg apparaît dans le questionnement diplomatique des PJ auprès de Wolfgang Holswig-Abenauer à Castle Reikguard `EiR ch.4 l.125-126`.
+- **[S60+]** — Le dossier Marienburg apparaît dans le questionnement diplomatique des PJ auprès de Wolfgang Holswig-Abenauer à Castle Reikguard `EiR ch.4 l.125-126`.
 - **[S64+ Climax Volkshalle 9 Brauzeit]** — si la cérémonie échoue, Marienburg verrouille la Reik, accélérant l'isolement de l'Empire en ruines `EiR ch.13 l.570`.
 
 ## Liens externes

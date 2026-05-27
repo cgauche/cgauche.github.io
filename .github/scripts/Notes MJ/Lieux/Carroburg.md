@@ -37,15 +37,15 @@ Sur l'engagement, chaque recrue prête serment à Sigmar et à l'Empire de ne ja
 
 **Le Grand-Duc Leopold von Bildhofen siège au Conclave d'Urgence** `EiR ch.7 l.30` : Électeur de Carroburg présent à la table de la Volkshalle. Ses objectifs `EiR ch.7 l.31` : œuvrer pour la paix impériale et tenter d'aplanir les différends entre l'Empereur et Boris Todbringer ; mais en aucun cas trahir les intérêts de la maison von Bildhofen ; déterminer qui peut garantir un Middenland indépendant et s'aligner sur ce camp ; éventuellement utiliser les PJ comme intermédiaires pour sonder Boris Todbringer, voire recruter l'un d'eux comme espion.
 
-**La Bannière de Carroburg, parade de la Marche de l'Unité** `EiR ch.5 l.151-153` : les Joueurs d'Épée de Carroburg ouvrent le défilé d'infanterie à 2:40 p.m., portant leurs zweihänders sur l'épaule et arborant leur bannière propre — ainsi que le « cadeau de mariage » remis par Middenheim au Prince Héritier Wolfgang Holswig-Abenauer, si les PJ ont accepté de le transmettre.
+**La Bannière de Carroburg, parade de la Marche de l'Unité** `EiR ch.5 l.151-153` : les Joueurs d'Épée de Carroburg ouvrent le défilé d'infanterie à 14h40, portant leurs zweihänders sur l'épaule et arborant leur bannière propre — ainsi que le « cadeau de mariage » remis par Middenheim au Prince Héritier Wolfgang Holswig-Abenauer, si les PJ ont accepté de le transmettre.
 
-**Le « cadeau de Middenheim »** `EiR ch.5 l.217` : à 2:40 p.m., quand les Joueurs d'Épée de Carroburg défilent avec la bannière, Lord Malthe Barthelm commente : *« Isn't that the banner Middenheim won at Carroburg? How did they get it back? »*. Le contexte de cette bannière est sourcé séparément `EiR ch.2 l.398-409` (Veiran Thugenheim et Boris Todbringer décident de ressortir « les vieilles couleurs de Carroburg » des coffres du Middenpalaz pour les envoyer au Prince Héritier Wolfgang Holswig-Abenauer) et `EiR ch.4 l.26` (Veiran Thugenheim qualifie l'objet de *« an enchanted war banner taken at Carroburg during the Age of Wars »*).
+**Le « cadeau de Middenheim »** `EiR ch.5 l.217` : à 14h40, quand les Joueurs d'Épée de Carroburg défilent avec la bannière, Lord Malthe Barthelm commente : *« Isn't that the banner Middenheim won at Carroburg? How did they get it back? »*. Le contexte de cette bannière est sourcé séparément `EiR ch.2 l.398-409` (Veiran Thugenheim et Boris Todbringer décident de ressortir « les vieilles couleurs de Carroburg » des coffres du Middenpalaz pour les envoyer au Prince Héritier Wolfgang Holswig-Abenauer) et `EiR ch.4 l.26` (Veiran Thugenheim qualifie l'objet de *« an enchanted war banner taken at Carroburg during the Age of Wars »*).
 
 **Présence des von Bildhofen au mariage** `EiR ch.6 l.181` : à la Grande Cathédrale de Sigmar, un test Lore (Heraldry) facile permet de repérer parmi les invités l'iconographie des von Bildhofen de Carroburg, aux côtés des Barthelms et des Nikses de Nordland.
 
 ## Apparitions Arc 7
 
-- **S60 (parade)** : la bannière des Joueurs d'Épée de Carroburg défile à 2:40 p.m. lors de la Marche de l'Unité `EiR ch.5 l.151-153`. Réaction de Lord Malthe Barthelm `EiR ch.5 l.217`.
+- **S60 (parade)** : la bannière des Joueurs d'Épée de Carroburg défile à 14h40 lors de la Marche de l'Unité `EiR ch.5 l.151-153`. Réaction de Lord Malthe Barthelm `EiR ch.5 l.217`.
 - **Conclave d'Urgence** : Leopold von Bildhofen présent comme Électeur de Carroburg `EiR ch.7 l.30-31`.
 
 ## Liens externes
