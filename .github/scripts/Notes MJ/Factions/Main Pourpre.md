@@ -1,125 +1,58 @@
-# Main Pourpre (la Main Pourpre)
+# Main Pourpre
 
-> **Faction Tzeentch majeure**, antagoniste central de la campagne L'Ennemi Intérieur. Présente dans tous les arcs sous différentes formes.
+**Sous-titre** : Culte de Tzeentch infiltré au cœur de l'Empire  
+**Statut** : [CULTE ACTIF — ANTAGONISTE CENTRAL ARC 7]
 
-## Identité
-- **Allégeance** : **Tzeentch** (création indirecte de **Sheerargetru** sur 1500 ans)
-- **Type** : **Culte secret organisé** infiltré dans toutes les couches du pouvoir impérial. Hiérarchie cellulaire (cellules par ville).
-- **Sigil** : **tatouage de main pourpre** sur le sein droit (canon ch.3 l.194)
-- **Signe de reconnaissance secret** : gratter l'oreille gauche avec le petit doigt droit. **Contre-signe** : lever légèrement les sourcils + brosser cheveux avec main gauche.
-- **Statut** : [ACTIF] partout en Empire
-- **Tags** : `#PurpleHand` `#Tzeentch` `#CulteEmpire` `#Sheerargetru` `#Antagoniste-Central` `#KastorLieberung` `#Conspiration`
+## Composition / Hiérarchie
 
-## Source
-- EiS ch.1 (Kastor = magister impedimentae) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/01 - Wanted- Bold Adventurers.md` ligne 10
-- EiS ch.3-4 (cellules + Adolphus + Fassbinder)
-- *Empire in Ruins* (révélation hiérarchie complète + Yann Zuntermein + plan central) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/`
-- *Enemy in Shadows Companion* ch.9 "The Main Pourpre — a GM's Guide" : `Source/Enemy in Shadows Companion/12 - CHAPTER 9- THE PURPLE HAND-A GM'S GUIDE.md`
+- **Structure générale** : organisation cellulaire fragmentée à travers l'Empire ; chaque cellule compte habituellement neuf membres, et les grandes villes (Altdorf, Nuln, Middenheim) abritent plusieurs cellules opérant indépendamment, ignorantes les unes des autres `EiS Companion ch.9 l.20-22`. Dans les grandes villes, les cellules sont coordonnées par trois Ordos `EiS Companion ch.9 l.24`.
+- **Les trois Ordos** : Ordo Impedimentae (trésorerie, ressources, racket), Ordo Novitiae (recrutement et endoctrinement), Ordo Terribilis (recherche, sorcellerie, démonologie) ; chaque Ordo est dirigé par trois Magistri, ce qui constitue un Cercle Intérieur de neuf membres au sommet d'une cellule `EiS Companion ch.9 l.42`.
+- **Triumvirat et Magister Magistri** : les trois chefs d'Ordo forment un Triumvirat gouvernant ; le Triumvirat élit en son sein le chef régional du culte, le Magister Magistri `EiS Companion ch.9 l.44`.
+- **Conclaves** : le Cercle Intérieur d'une cellule ne se réunit que deux fois l'an, à Hexenstag et Geheimnisnacht, sous robes et masques élaborés ; sacrifice humain conclusif `EiS Companion ch.9 l.46`. À Altdorf, les chefs d'Ordo se retrouvent dans les marais, sous la lumière maladive de Morrslieb `Altdorf ch.11 l.22`.
+- **Signes de reconnaissance** : tatouage de main pourpre sur le corps de chaque membre ; un vêtement pourpre porté en permanence pour identification mutuelle ; robes cérémonielles pourpres ornées de symboles de Tzeentch et de mains `EiS Companion ch.9 l.57`. Codes gestuels mis à jour à chaque conclave `EiS Companion ch.9 l.52`.
 
 ## Doctrine
-- Vénère **Tzeentch** (Lord of Change, Magic, Mutation).
-- **Pas de Mutation visible** comme signe d'élection (les cultistes restent infiltrables).
-- **Manipulation politique long-terme** : place des pions à la couronne impériale, dans les guildes, dans les armées.
-- **Connaissance ésotérique** : Daemonology, Channelling (Dhar), Magick.
-- **Méthode signature** : empoisonnement magique discret (Purple Brain Pox), assassinats orchestrés via démons.
 
-## Hiérarchie
+- **Vénération de Tzeentch** : Duc du Changement, dieu de la magie, de la mutation et de la conspiration ; doctrine du changement par subversion plutôt que par révolution ouverte `EiS Companion ch.9 l.15-17`.
+- **Méthode** : manipulation, corruption, chantage, extorsion, meurtre ; sorcellerie comme outil maître ; placement d'agents en positions de pouvoir, ou corruption des puissants déjà en place `EiS Companion ch.9 l.60`. Enquête méticuleuse sur chaque recrue et chaque cible avant approche `EiS Companion ch.9 l.62`.
+- **Sécurité par fragmentation** : la cloison entre cellules est délibérée — un chasseur de sorcières qui capture une douzaine de cultistes n'apprendra pas grand-chose sur l'organisation au-delà ; même les Magisters Magistri ne saisissent pas le plan d'ensemble `EiS Companion ch.9 l.10`.
+- **Rapport aux autres cultes du Chaos** : alliances ponctuelles tolérées avec les Slaaneshites ou Khornates pour un objectif précis, mais la Main Pourpre dénonce volontiers les cultes plus voyants aux chasseurs de sorcières pour détourner l'attention de ses propres opérations `EiS Companion ch.9 l.69`. Hostilité ouverte envers les serviteurs de Nurgle `EiS Companion ch.9 l.31`. Rivalité aigre avec le Red Crown, autre culte de Tzeentch dont le projet beastman-révolutionnaire heurte la patiente subversion politique du Pourpre `EiS Companion ch.9 l.71` `EiS Companion ch.9 l.92` `EiS ch.1 l.443`.
 
-### Titres
-- **Magister Magistri** : **chef suprême** d'une cellule (canon PBT p.123 — Wasmeier). Au sommet de la hiérarchie d'une cellule.
-- **Magister Impedimentae** ("master of trappings") : gestionnaire matériel/logistique d'une cellule. Chef de l'**Ordo Impedimentae**.
-- **Magister Terribilis** : exécuteur / guerrier. Chef de l'**Ordo Terribilis** (e.g. Bhar = Grand Vizier de l'Ordo Terribilis canon Middenheim - City of the Loup Blanc).
-- **Magister Novitae** : recruteur / formateur de nouveaux membres. Chef de l'**Ordo Novitiae**.
-- **Cultistes ordinaires** : rang inférieur, beaucoup ne connaissent pas la hiérarchie complète.
+## Rôle officiel vs Rôle réel
 
-> **Note table** : l'ancienne convention table appelait Wasmeier « Magister Terribilis » par confusion (l'Ordo Terribilis = exécuteurs/violence, et Wasmeier orchestre la violence). Canon PBT p.123 est sans ambiguïté : **Wasmeier = Magister Magistri** (chef suprême de toute la cellule Middenheim, au-dessus des 3 Ordos). Bhar lui dirige l'Ordo Terribilis (canon *Middenheim - City of the Loup Blanc*).
+- **Visage public** : aucun — la Main Pourpre nie son existence et opère exclusivement par identités secrètes. Les fronts utilisés sont des sociétés réformistes naïves, où le culte recrute et se camoufle simultanément ; les chasseurs de sorcières brûlent volontiers les révolutionnaires bien intentionnés tandis que les vrais cultistes s'esquivent `EiS Companion ch.9 l.48`.
+- **But réel** : déstabiliser puis renverser l'Empire de l'intérieur ; placer le Prince Héritier Wolfgang Holswig-Abenauer sur le trône comme marionnette du culte ; la cellule croit gagner pouvoir et récompenses, ignorant que Gideon prépare en réalité l'incarnation du Duc Exalté Sheerargetru dans Wolfgang Holswig-Abenauer le 9 Brauzeit `EiR Intro l.29` `EiR Intro l.31` `EiR Intro l.329`.
+- **Plan central Arc 7** : libérer Sheerargetru lors d'une cérémonie célébrant le retour de Ghal Maraz au Volkshalle d'Altdorf, à neuf heures du matin le 9 Brauzeit (le neuvième jour du neuvième mois) `EiR Intro l.329` ; les Neuf Yeux servent de catalyseurs, brûlent au début du rite et le Prince Héritier se fend pour libérer le Duc Exalté `EiR ch.13 l.405`.
 
-## Cellules connues
+## Influence
 
-### Cellule de Nuln (mère)
-- **Magister Impedimentae** : **[[Kastor Lieberung]]** [MORT avant S5] (Affidavit signé à Nuln 2512, 3 témoins : Ingrid Zicherman Sigmar, Oskar Helmut Marchands, Julius Schwungrad Avocats — tous probablement infiltrés).
-- **Magister Magickus** : non-identifié dans le canon EiS, à inventer.
-- **Possible chef de toute la Main Pourpre canon Empire in Ruins** : si Nuln = cellule mère.
-- **Recruteur originel des 9 Yeux** (selon Notes MJ pré-existantes).
+- **Cellule d'Altdorf** — la plus puissante des trois grandes cellules ; coordonnée depuis le Spionwerber (aile recrutement de la Chambre Noire), elle détourne toutes les enquêtes impériales sur les cultes du Chaos `EiR Intro l.680` `EiR Intro l.684`. L'Ordo Terribilis d'Altdorf concentre son travail sur la militarisation de l'information plutôt que sur la sorcellerie pure `Altdorf ch.11 l.24`. Cellule responsable de la maladie de l'Empereur, du décret sur les Mutants, et de la prise d'Ubersreik `EiR Intro l.320-322`.
+- **Cellule de Middenheim** — décapitée fin Arc 5 par la chute de Karl-Heinz Wasmeier `PBT ch.7 l.301`. Ses opérations étaient géographiquement réparties : Ordo Novitiae à Ulricsmund, Ordo Impedimentae à Kaufseit, Ordo Terribilis dans The Wynd `Middenheim ch.7 l.21`. L'Ordo Terribilis y était officiellement dirigé par Karl-Heinz Wasmeier mais opérationnellement par Vizier Bahr `Middenheim ch.7 l.30`. Cellule reconstituée discrètement post-S39 sous la direction de Gottfried Jarmund et Erich Kalzbad, restés non démasqués au moment du grand effondrement `PBT ch.7 l.618`.
+- **Cellule de Nuln** — historiquement la cellule mère ; Kastor Lieberung en a été le Magister Impedimentae avant d'être manipulé par Gideon `EiR Intro l.199`. Le Magister Magistri de Nuln n'est pas nommé par les sources ; le culte y reste actif mais en retrait après les revers infligés par les PJ pendant la campagne `EiR Intro l.451`.
+- **Influence par proxy** : poussent l'Empire vers la guerre civile via la rumeur, la corruption électorale, la radicalisation des séparatistes nordlanders, et l'attisement des querelles aristocratiques (Alptraum/Leitdorf à Averheim, Toppenheimer/Liebwitz à Sudenland) `EiR Intro l.323-326`. À Altdorf, Yann Zuntermein a manipulé Liepmund Holzkrug puis Immanuel-Ferrand Holswig-Schliestein pour obtenir la prise d'Ubersreik, en s'appuyant sur l'attachement d'Immanuel-Ferrand à la centralisation impériale `EiR Intro l.304` `EiR Intro l.306`.
 
-### Cellule d'Altdorf (la plus puissante)
-- **Magister Magickus** : **[[Yann Zuntermein]]** (révélation Arc 7 EiR — espion accompli, manipule Immanuel-Ferrand + Holzkrug + Hergard). [VIVANT, ACTIF]
-- 2 cultistes anonymes [MORT S6] (tués par Adolphus). Avaient le tatouage Main Pourpre sur le sein droit.
+## Personnages clés
 
-### Cellule de Bögenhafen
-- Présence indirecte via **Ordo Septenarius** (Gideon manipule en parallèle). **Pas de cellule formelle Main Pourpre identifiée à Bögenhafen** (l'Ordo est une création locale tampon).
+- **Yann Zuntermein** — Magister Magistri de la cellule d'Altdorf, chef du Spionwerber, espion accompli de la Chambre Noire `EiR Intro l.678` `EiR Intro l.680`. Plan personnel : élever Wolfgang Holswig-Abenauer au trône comme prince régent puis empereur, sans savoir que Gideon prépare en réalité l'incarnation de Sheerargetru `EiR Intro l.687`.
+- **Henrik Kappelmuller** — agent de Zuntermein, médecin infiltré au Conseil privé impérial, administre à l'Empereur des concoctions soporifiques pour entretenir la maladie ; Elvyra Kleinestun est positionnée comme bouc émissaire `EiR Intro l.320`.
+- **Liepmund Holzkrug** — Grand Ambassadeur, manipulé par Zuntermein qui sert publiquement comme son adjoint ; Holzkrug ignore tout de l'identité réelle de son adjoint, croit que Zuntermein partage ses objectifs politiques `EiR Intro l.605` `EiR Intro l.314`.
+- **Kastor Lieberung** — Magister Impedimentae de la cellule de Nuln, mort avant le début de la campagne après avoir été attiré à Bögenhafen par un faux héritage ; manipulé par Gideon pour exposer le culte et lancer la chaîne d'événements qui conduira à la libération de Sheerargetru `EiS ch.1 l.10` `EiR Intro l.199` `EiR Intro l.208`. La rumeur de sa trahison vaut aux PJ identifiés comme ses associés d'être pourchassés à travers l'Empire `EiR Intro l.451`.
+- **Karl-Heinz Wasmeier** — ancien Magister Magistri de la cellule de Middenheim, Law Lord respecté en façade, démasqué et en fuite après l'effondrement de son plan de remplacement du Graf Boris Todbringer par un Doppelgänger `PBT ch.7 l.301` `EiR Intro l.211`. Cherche à se réintroduire dans la cellule d'Altdorf au cours d'Empire in Ruins, mais Zuntermein le considère comme un poids mort et se contente de l'utiliser pour exciter les séparatistes du Nordland `EiR Intro l.215`. La rivalité personnelle entre Zuntermein et Wasmeier peut les pousser à se trahir mutuellement auprès des PJ `EiR Intro l.217`.
+- **Gottfried Jarmund** et **Erich Kalzbad** — Magistri seniors de Middenheim, restés non démasqués au moment où le sommet de leur cellule a chuté ; matière à reconstitution discrète sous la coordination d'Altdorf `PBT ch.7 l.618`. Kalzbad a même été promu Law Lord en remplacement de Wasmeier `PBT ch.7 l.582`.
+- **Vizier Bahr** — chef opérationnel de l'Ordo Terribilis de Middenheim sous Wasmeier `Middenheim ch.7 l.30`.
+- **Emil Baecker** — Capitaine du Spionwerber d'Altdorf, désigné par Zuntermein pour mener un commando final visant à reprendre Ghal Maraz aux PJ au retour de leur expédition `EiR ch.13 l.111` `EiR ch.13 l.134`.
 
-### Cellule de Middenheim
-**Active en Arc 5 (Power Behind the Throne)**. Inner Council canon (PBT p.123) :
-- **[[Karl-Heinz Wasmeier]]** = **Magister Magistri** (chef suprême canon — note : pas « Terribilis » comme indiqué précédemment ; **Magistri** = chef). Devotion Tzeentch directe. **Présumé mort S39, vivant en réalité Drakwald lair**.
-- **[[Gottfried Jarmund]]** = **Magister Novitae** (recruteur), **respected wizard** publiquement. **Capturé S42 + interrogé**.
-- **[[Erich Kalzbad]]** = **Magister Impedimentae** (logistique), **clerc senior** Chancellor's office. **Promu Law Lord post-PBT canon** (un MP comme Law Lord !). **Mort S41** (incendie magique auto-immolation pour ne pas être pris vif).
-- **[[Bhar]]** (Grand Vizier Bahr de l'Ordo Terribilis canon *Middenheim - City of the Loup Blanc*) = **chef de l'Ordo Terribilis** (exécuteurs Tzeentch). **Repreneur de facto** de la cellule post-S41 (Kalzbad mort, poste Impedimentae vacant), mais reste sous le titre Terribilis. **Fuyard S43** par les égouts (trafic humain Osttor).
-- **[[Vogel]]** = **Intermédiaire / coursier** entre les Ordos. À étoffer table.
+## Hooks
 
-**Lieutenants / opérationnels** :
-- **Brunhilde Klaglich** (lieutenante de confiance Wasmeier, mistress of disguise + hypnose). Alias = Charlotte, Elise Kaltblutig, Frau Kenner. **Morte S38**.
-- **Anton Hundisch** (mage Ulgu apprenti déchu). **Fuyard S38**.
-- **Hultz Fleischer** (thug). **Fuyard S38**.
-- **Dagmar Mitschuldige** (mercenary). **Fuyard S38**.
-
-**Loue Wasmeier maison Grafsmund (Strong Room loot S39)** :
-- Codebook Wasmeier (Wasmeier's Cipher) — récupéré par PJ.
-- Documents internes cellule : membres, codes, plans.
-- Letter from Altdorf (lien Altdorf cellule).
-- **Lurk** (bodyguard) + **Hawk** (gardener-poacher = cultiste) + **Gaston** (butler-torturer) + **Swelt Tunger** (cook-burglar) + **Growler** (dog). **Tous arrêtés ou tués S39** par la Watch.
-
-**Plan Arc 5 « Power Behind the Throne »** : (cf. fiche [[Arc 5 - Power Behind the Throne]]).
-
-**Etat post-PBT S39** :
-- Wasmeier en cavale Drakwald.
-- Cellule **partiellement démantelée S40-S43** par les PJ + Schutzmann (Kalzbad S41, Jarmund S42, Bhar fuyard S43).
-- **Cellule officieusement reconstruite** sous Bhar Arc 6+ (à confirmer).
-
-### Plan central canon EiR (Arc 7)
-- **Sheerargetru** (Greater Daemon Tzeentch, scellé Black Fire Pass) influence psychiquement les cultistes depuis 1500 ans.
-- Plan : libérer Sheerargetru via **rituel au Volkshalle d'Altdorf** le **9 Brauzeit à 9h** 2512 IC.
-- Étapes : (a) préparer Wolfgang hôte parfait via 9 Yeux, (b) faire ramener vrai Ghal Maraz par PJ, (c) empoisonner Karl-Franz (Kappelmuller + Purple Brain Pox).
-- **Gideon** orchestre depuis l'intérieur, sait que **Zuntermein ne sait pas** que le rituel = possession démoniaque (Zuntermein croit servir Tzeentch pour son élévation).
-
-## Trait : Animosity (Kastor and Friends)
-- Les cultistes survivants pourchassent les PJ comme **associés du "traître" Kastor**. Trait par défaut des cultistes Main Pourpre rencontrés.
-- Ils ne savent pas (la plupart) que Kastor est mort — pensent qu'il est en fuite avec les PJ.
-- Hook récurrent (FIL-25).
-
-## Le Red Crown — rival Tzeentch
-- **Red Crown** = autre culte Tzeentch, **hostile à la Main Pourpre** (canon ch.1 l.443 — "a Chaos cult dedicated to Tzeentch and hostile to the Main Pourpre").
-- **Ernst Heidlemann** = membre bas rang Red Crown (Arc 2/Arc 4).
-- Rivalité interne Tzeentch = exploitable. Hook : Main Pourpre et Red Crown peuvent s'entretuer si manipulés.
-
-## Identités secrètes confirmées par Arc 7 (révélations)
-
-| PNJ | Rôle Main Pourpre | Statut |
-|---|---|---|
-| **Yann Zuntermein** | Chef cellule Altdorf, espion accompli | [VIVANT, ACTIF] |
-| **Kastor Lieberung** | Magister Impedimentae cellule Nuln | [MORT avant S5] |
-| **Hermann von Feilbach** | Sosie Karl-Franz, Reiksguard, loyal manipulé | [VIVANT] |
-| **Henrik Kappelmuller** | Médecin Karl-Franz, empoisonneur Purple Brain Pox | [VIVANT] |
-| **Immanuel-Ferrand Holswig-Schliestein** | Oncle Karl-Franz, Imperial Chancellor manipulé | [VIVANT, manipulé] |
-| **Liepmund Holzkrug** | Manipulé par Zuntermein, pousse à prise Ubersreik | [VIVANT, manipulé] |
-| **Wasmeier (Karl-Heinz)** | **Magister Magistri** cellule Middenheim (canon PBT p.123), en disgrâce post-S39 | [VIVANT, rival Zuntermein] |
-
-## Hooks de retour
-- **Animosity Kastor and Friends** : rencontres aléatoires de cultistes hostiles dans toute ville visitée.
-- **Cellule Nuln** : à exposer si retour à Nuln (Arc 5+).
-- **Cellule Altdorf (Yann Zuntermein)** : antagoniste central Arc 7. Avant ça, infiltrations silencieuses.
-- **Recrutement par séduction politique** : un PNJ allié des PJ peut être progressivement recruté/manipulé.
-- **Purge interne** : Sheerargetru/Gideon élimine des cultistes inutiles. PJ peuvent profiter des disputes internes.
-- **Confrontation Red Crown** : opposer Heidlemann/Doktor Schmidt à un Pourpre pour neutralisation mutuelle.
-
-## Liens
-- **Arcs** : tous (centre Arc 7), cellules visibles Arc 2, Arc 5, Arc 7
-- **Fils ouverts** : FIL-23 (cellule Nuln), FIL-24 (cellule Altdorf), FIL-25 (Animosity continu)
-- **PNJ-clé** : [[Kastor Lieberung]] (mort), [[Gideon]] (manipulateur central), Yann Zuntermein (chef Altdorf), Wasmeier (Middenheim), Kappelmuller (Altdorf)
-- **Lieux** : [[Nuln]] (mère), [[Altdorf]] (Yann Zuntermein), [[Middenheim]] (à venir Arc 5), Black Fire Pass (Sheerargetru)
-- **Factions liées** : **rivalité [[Red Crown]]** (Tzeentch sœur ennemie), possible interface [[Ordo Septenarius]] (Bögenhafen tampon)
-- **Maître ultime** : **Sheerargetru** (Greater Daemon of Tzeentch enchaîné Black Fire Pass)
+- **Pourchasse continue des « associés de Kastor »** : les cultistes survivants à travers l'Empire pourchassent les PJ qu'ils considèrent comme complices du « traître » Lieberung ; chaque ville traversée peut produire une embuscade ou une infiltration `EiR Intro l.451`.
+- **Démasquage d'agents Pourpres au Conseil privé** : si les PJ exposent Henrik Kappelmuller, la maladie de l'Empereur cesse et la suite des plans de Sheerargetru en est compromise `EiR ch.13 l.195`. Levier diplomatique fort si la révélation se fait au Conclave d'urgence.
+- **Bras de fer Zuntermein vs Wasmeier** : Wasmeier peut tenter d'attirer l'attention des PJ sur Zuntermein pour le faire démasquer ; réciproquement, Zuntermein peut sacrifier Wasmeier comme leurre `EiR Intro l.217`.
+- **Manipulation continue d'Immanuel-Ferrand Holswig-Schliestein** : si Holzkrug ou Zuntermein restent en place, ils continuent d'alimenter Immanuel-Ferrand en informations biaisées poussant à la centralisation impériale, sortie d'Ubersreik au prix d'une perte de confiance des autres Électeurs `EiR Intro l.304`.
+- **Réceptacle de secours pour Sheerargetru** : si Wolfgang Holswig-Abenauer est tué ou compromis avant le rituel, Zuntermein ou Wasmeier peuvent servir de vaisseau substitut au Duc Exalté — manifestation amoindrie, mais possible `EiR ch.13 l.469-470`.
+- **Confrontation finale au Volkshalle** : si la cérémonie de retour de Ghal Maraz va à son terme, Wolfgang se fend et Sheerargetru émerge ; les Neuf Yeux brûlent en bougies sacrificielles `EiR ch.13 l.405`. Si Zuntermein survit au rituel mais Sheerargetru est défait, il s'arrange pour devenir tuteur de Prince Luitpold et continue son plan via la guerre civile prolongée `EiR ch.13 l.598`.
+- **Rivalité avec le Red Crown** : un PJ habile peut opposer les agents des deux cultes Tzeentch ; les Pourpres peuvent dénoncer les Red Crown aux chasseurs de sorcières pour détourner l'attention `EiS Companion ch.9 l.69`.
 
 ## Liens externes
-- [Main Pourpre — Lexicanum](https://whfb.lexicanum.com/wiki/Purple_Hand)
-- [Main Pourpre — Fandom](https://warhammerfantasy.fandom.com/wiki/Purple_Hand)
+
+- [Purple Hand — Lexicanum](https://whfb.lexicanum.com/wiki/Purple_Hand)
+- [Purple Hand — Fandom](https://warhammerfantasy.fandom.com/wiki/Purple_Hand)

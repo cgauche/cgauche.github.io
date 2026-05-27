@@ -1,172 +1,106 @@
 # Bögenhafen
 
-## Identité
-- **Type** : Ville marchande de taille moyenne, **bourgade portuaire** sur la rivière **Bögen** (affluent du Reik). Capitale informelle commerciale des **Vorbergland canals**.
-- **Région** : **Reikland**, sous l'autorité du **Graf Wilhelm von Saponatheim** (Castle Grauenberg).
-- **Économie** : laine, vin (Reikland wines), commerce fluvial, livestock market (Schaffenfest annuelle).
-- **Population** : **moyenne**. Bourgade familiale, 4 grandes maisons marchandes dominent : **Teugen** (rose-en-croix), **Steinhäger** (barrel avec "S"), **Magirius** (lesser merchant), **Ruggbroder** (ear of corn + mailed fist), + maison **Haagen** mentionnée (3e partenaire Black Fire Pass).
-- **Tags** : `#Bögenhafen` `#Reikland` `#Saponatheim` `#Schaffenfest` `#OrdoSeptenarius` `#Vorbergland`
+**Sous-titre** : Bourg marchand du Vorbergland, théâtre d'Arc 1  
+**Statut** : [LIEU OPÉRATIONNEL — Arc 1 clos S12]
 
-## Source
-- EiS ch.10 *A Guide to Bögenhafen* (référence détaillée) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/10 - A Guide to Bögenhafen.md`
-- EiS ch.5-9 (toute l'aventure Bögenhafen)
+## Description
 
-## Géographie & lieux notables
+Bögenhafen est le plus grand bourg du Vorbergland, la bande fertile entre la Reikwald et les Montagnes Grises `EiS ch.10 l.8`. Cosmopolite et marchand, on y croise autant de négociants bretonniens, du Wasteland, du Wissenland, du Middenland que de natifs du Reikland — une ruche commerciale où chacun s'affaire à arrondir sa bourse `EiS ch.10 l.8`. Population d'environ 10 000 habitants `EiS ch.10 l.25`, le bourg se dresse au dernier point navigable du Bögen par les barges marchandes, ce qui en fait le terminal logique du commerce fluvial entre Altdorf, Nuln, Marienburg et les Montagnes Grises `EiS ch.10 l.25`.
 
-### Quartiers
-- **Adel Ring** : quartier riche, manoirs de la noblesse marchande (Teugen, Steinhäger, Magirius, Ruggbroder). Mansions avec murs 15ft + gardes + chiens.
-- **Ostendamm** : docks et entrepôts (Warehouses 1-17). Warehouse 13 (Teugen, lieu du rituel raté S12). Warehouse 17 (Ruggbroder, cargo Josef).
-- **Haagen's Wharf** : quai où le Berebeli amarre (S8).
-- **Garten Weg** : ruelle étroite NE de Eisen Bahn. Cabinet bidon "Lock, Stock, and Barl" (S8).
-- **East Gate / Postern Gate** : zone foire **Schaffenfest** entre les deux.
-- **Hafenstrasse** : artère principale vers East Gate.
-- **The Pit** : quartier pauvre, de l'autre côté du Bögen via **Kringler's Ferry**. Ulthar y habite.
+De jour, les rues regorgent d'humains, de nains, de halflings, et même de l'elfe ou de l'ogre occasionnel `EiS ch.10 l.10`. De nuit, lorsque les épaisses brumes montent du Bögen, le bourg adopte un visage inquiétant — des volutes de brouillard s'enroulent dans les ruelles et seuls les très braves ou les très inconscients s'y aventurent `EiS ch.10 l.17`.
 
-### Lieux marqués
-- **Cabinet Lock, Stock & Barl (faux)** [S8] — Adolphus piège Pathsokar.
-- **Bureau Festival Court (Magistrate Heinz Richter)** [S9, S11] — Schaffenfest.
-- **Zoocopeia de Dr Malthusius** [S9] — gobelin échappe.
-- **Hidden Temple sous bureaux Steinhäger** [S10] — octogramme + Guardian Daemon. Porte secrète vers le bureau Franz Steinhäger.
-- **Crossed Pikes tavern** [S10 indirect] — safe house Ranaldan Crooked Fingers (**Franz Baumann** + **Reinholdt et Reinhardt twins**). **Porte secrète vers les égouts** (Plot Crooked Fingers).
-- **Truite d'Or / Golden Trout** [S11] — club exclusif. Magirius invite PJ.
-- **Maison Teugen Adel Ring** [S11] — gardée, non-explorée à table.
-- **Bureau Steinhäger** [S11] — Pathsokar fouille, trouve lettre Teugen.
-- **Warehouse 13 Ostendamm (Teugen, rose-cross)** [S12] — lieu du rituel raté. Détruit ?
-- **Egouts** [S10] : channel majeur 5ft + walkways 3ft. Hidden Temple. Discharge pipes vers Hafenbach et Bögen.
+## Géographie et accès
 
-### Templum / temples
-- **Temple de Bögenauer** (dieu local de la rivière) : peu actif sans prêtre permanent. Offrandes pour Schaffenfest.
-- **Temple de Shallya** : **Marlene Rubenstein** (sole rep). Soup kitchen au Mercy House dans The Pit.
-- **Temple de Verena** : **Mother Greta Harbokka** + 12 femmes ("Congress of Doves"). **Bibliothèque extensive** (où les PJ ont trouvé l'info sur Karl Teugen S11).
-- **Temple de Sigmar** : présent (Skippy y va S11, prêtre zélé qui monte la haine anti-Ulric).
-- **Temple d'Ulric** [S11] : **massacré** par Sigmarites lors de l'arc.
+- **Position** : sur le Bögen, dernier point navigable par les barges du Reik `EiS ch.10 l.25`.
+- **Aval / amont** : Weissbruck en aval (jonction Bögen / Canal de Weissbruck), Altdorf via le canal en remontant `EiS ch.4 l.30-36`.
+- **Helmgart et Axebite Pass** : route vers la Bretonnie, via le commerce Teugen `EiS ch.10 l.77`.
+- **Hetztford** : gué naturel à 12 milles au sud-ouest ; un bylaw du Conseil interdit la construction de pont à moins de 10 milles du bourg, ce qui force tout trafic terrestre par le bac de Kringler ou par le détour de Hetztford `EiS ch.10 l.536-537`.
+- **Castle Grauenberg** : siège du Graf Wilhelm von Saponatheim, 60 milles au nord `EiS ch.10 l.15`.
 
-## État politique post-S12
-- **Graf Wilhelm von Saponatheim** (Castle Grauenberg) : seigneur féodal. **Pas en ville durant Arc 2.**
-- **Town Council** : décimé. Teugen mort, Magirius mort, Steinhäger fugitif. **Pouvoir politique vacant.**
-- **Captain of the Watch** : **Reiner Goertrin** (Gold 1, statbloc EiS ch.8 l.646). Loyal aux autorités, manipulable par Teugen quand vivant. Post-S12 = à voir comment il réagit au scandale.
-- **Magistrate** : **Heinz Richter** (sauvé par Anselm S11). Allié potentiel mais physiquement diminué.
-- **Hieronymus Ruggbroder** : peut prendre la main politique, **opposé à l'Ordo Septenarius** (allié potentiel).
-- **Heinrich Steinhäger** : peut prendre la maison Steinhäger si Franz disparu.
+## Quartiers
 
-## Factions actives
-- **[[Ordo Septenarius]]** — culte Tzeentch décapité S12, **6 Inner Council survivants** (FIL-27). État indéterminé.
-- **[[Main Pourpre]]** — surveillait Kastor (mort) ; cherche Pathsokar comme "associé du traître Kastor" (Animosity Kastor and Friends FIL-25). Cellule Altdorf active.
-- **[[Red Crown]]** (Tzeentch rival) — non rencontrée à Bögenhafen mais Ernst Heidlemann passait à Altdorf (S4).
-- **Crooked Fingers (Ranaldans)** — Franz Baumann + Crossed Pikes. **Allié potentiel** (les PJ ont serré la main, ne pas dénoncer la porte secrète).
-- **Stevedores' Guild** — **Gurney Dumkopf** (Teugen-loyal). Source de thugs hostiles.
-- **Merchants' Guild** — décimée par mort de Magirius + Teugen.
+- **Adel Ring** — quartier des manoirs des familles marchandes (Haagen, Ruggbroder, Steinhäger, Teugen) autour des Saponatheim Gardens `EiS ch.10 l.91-92`. Patrouilles de la Garde constantes.
+- **Altstadt** — la part la plus ancienne, à la classe basse, rues non pavées churnées en boue, tavernes bas-de-plafond `EiS ch.10 l.171-172`.
+- **The Pit** — district nord, considéré par les riches comme un repaire de sédition et de criminalité, fief des Blackpikes `EiS ch.10 l.408-409`. Atteint par le bac de Kringler depuis l'autre rive du Bögen `EiS ch.10 l.250-253`.
+- **Bögenseite (les Docks)** — Westendamm (rive nord-ouest) et Ostendamm (rive sud-est), entrepôts numérotés 1 à 58 depuis l'extrémité ouest de l'Ostendamm `EiS ch.10 l.245-246`.
+- **Artisan Quarter** — bordé par le Handwerker Bahn, l'Eisen Bahn et le Göttenplatz, ateliers et logements des maîtres-artisans `EiS ch.10 l.213-216`.
+- **Dreieckeplatz** — place administrative, dominée par le Town Hall, statues de Bögenauer `EiS ch.10 l.268-271`.
+- **Teuerberg** — quartier commerçant cœur économique, bureaux marchands et belles boutiques `EiS ch.10 l.440-441`.
 
-## Lieux marqués (PJ y ont été)
-- **Haagen's Wharf** [S8] — Berebeli arrives.
-- **Cabinet Lock/Stock/Barl** [S8] — Adolphus piège, tué par Gideon.
-- **Schaffenfest** [S9] — foire.
-- **Égouts + Hidden Temple sous Steinhäger** [S10] — Guardian Daemon.
-- **Temple de Sigmar** [S11] — massacre du temple d'Ulric.
-- **Temple de Shallya** [S11] — Elvira aide.
-- **Temple de Verena (bibliothèque)** [S11] — recherche Karl Teugen.
-- **Truite d'Or** [S11] — Magirius parle.
-- **Adel Ring** [S11] — surveillance villa Teugen.
-- **Warehouse 13 Ostendamm** [S12] — rituel raté, Teugen mort, Filianore sauvée.
+## Histoire
 
-## PNJ présents / liés
-- **[[Johannes Teugen]]** [MORT S12]
-- **[[Gideon]]** [DISPARU]
-- **[[Friedrich Magirius]]** [MORT S12]
-- **[[Franz Steinhäger]]** [DISPARU]
-- **Heinrich Steinhäger** [VIVANT]
-- **Hieronymus Ruggbroder** [VIVANT, allié potentiel]
-- **Jochen Haagen** (3e partenaire BFP, **non vu à Bögenhafen**)
-- **Heinz Richter** (Magistrate, allié rétabli)
-- **Doctor Malthusius (Hans Pfliefer)** + Grunni (cirque, parti)
-- **Mystic Megret See** (prophétesse)
-- **Elvyra Kleinestun** (Weissbruck, rencontrée à la foire)
-- **Mother Greta Harbokka** (Verena)
-- **Marlene Rubenstein** (Shallya)
-- **Reiner Goertrin** (Watch Captain)
-- **Franz Baumann + Rein/Rein** (Crooked Fingers, Crossed Pikes)
-- **Gurney Dumkopf** (Stevedores' Guild — thugs Teugen)
-- **Ulthar the Unstable** [MORT, prophet]
-- **Anton Breugel** [MORT, warehouseman]
+- **2203 IC — Drachenfels** : lors de la fracture des Royaumes du Chaos par Drachenfels au château des Montagnes Grises, des milliers de petits déchirements s'ouvrirent à travers le Vorbergland ; à Bögenhafen, des Démons par centaines firent irruption pendant une semaine, ne laissant qu'un survivant — Volker Drauchen, fondateur du culte de la Vigilant Eye `EiS ch.10 l.640-642`.
+- **2390 IC — Charte du Schaffenfest** : par writ des Saponatheim, un jour par an (Geltgrubetag) pour vendre du bétail sans la taxe normale ; ratifié par le grand-père du Graf actuel `EiS ch.10 l.550-551`.
 
-## Fils ouverts locaux
-- **FIL-20** Franz Steinhäger fugitif
-- **FIL-21** Heinrich Steinhäger ambitieux (peut purger ou continuer)
-- **FIL-22** Hieronymus Ruggbroder allié anti-Ordo
-- **FIL-27** Inner Council Ordo survivants (6 membres anonymes)
-- **FIL-15** Mines Schmerzeit (Haagen + lien Black Fire Pass) → continue hors-arc
-- **Reconstruction Warehouse 13** : qui hérite des biens Teugen ?
-- **Cellule Main Pourpre à Bögenhafen** (canon ch.2 DotR : "The Main Pourpre in Kemperbad" — équivalent à Bögenhafen probable)
+## Composition
 
-## Hooks de retour
-- **Investigation post-S12** : Ruggbroder + Graf Saponatheim ouvrent une enquête. Les PJ peuvent revenir comme témoins / consultants.
-- **Mystic Megret prophétise un nouvel événement** ailleurs en Empire.
-- **Heinrich Steinhäger demande aide** : a découvert un journal compromettant de Franz. Veut aider à le retrouver.
-- **Schaffenfest 2513** : retour annuel. Anciens et nouveaux acteurs croisés.
-- **Réseau Crooked Fingers** : Franz Baumann offre un service en échange (les Ranaldans ont la mémoire longue).
-- **Haagen contact** : si les PJ enquêtent sur les mines BFP, ils remontent à Haagen.
+- **Graf Wilhelm von Saponatheim** — autorité féodale, tient sa cour à Castle Grauenberg et ne visite presque jamais le bourg `EiS ch.10 l.15`. Du Schaffenfest S9 il vient avec le Grand-Duc Leopold von Bildhofen pour la joute `EiS ch.6 l.279-296`.
+- **Town Council** — 15 sièges. La Merchants' Guild en occupe 8, dont 1 pour le Guildmaster (Friedrich Magirius pré-S12), 1 pour chacune des quatre grandes maisons marchandes, 3 en rotation `EiS ch.10 l.21-23`. Les cinq autres reviennent aux Physicians', Tailors' and Weavers', Teamsters', Stevedores' et Mourners' Guilds ; un siège tournant aux Craft Guilds ; un siège au prêtre Sigmarite le plus haut placé (Ludo Edel) `EiS ch.10 l.29-33`. Le Chief Magistrate (Heinz Richter) siège sans vote `EiS ch.10 l.35`.
+- **Chief Magistrate Heinz Richter** — préside la Festival Court pendant le Schaffenfest et le Town Court le reste de l'année `EiS ch.6 l.37` `EiS ch.10 l.287`.
+- **Captain of the Watch Reiner Goertrin** — homme grand et squelettique, manières superbes et mine dédaigneuse, attaché à sa position lucrative via les bakhshish de la Merchants' Guild `EiS ch.10 l.461`.
+- **Lieutenant Gisela Brotte** — commande les North Barracks (« Fort Blackfire ») dans la Pit ; jeune ambitieuse frustrée par l'inertie de Goertrin `EiS ch.10 l.414`.
+- **Watch** — formellement le Reikland 99th Regiment of Foot, partie de la Reikland State Army, peu préparé au combat malgré ses cellules et son fort `EiS ch.10 l.459`.
 
----
+## Maisons marchandes `EiS ch.10 l.54-55`
 
-## Si les PJ retournent à Bögenhafen — arbre temporel
+Quatre familles dominent le commerce de longue distance ; toutes ont leurs manoirs à l'Adel Ring et leurs bureaux séparés ailleurs en ville.
 
-> ⚙ Reconstitution homebrew selon le délai écoulé depuis S12. À utiliser pour décider de l'état de la ville lors d'un retour PJ.
+- **Haagen** — Wastelanders, dealers principaux en luxe et import depuis Marienburg. Jochen Haagen dirige la maison `EiS ch.10 l.57-58`. Symbole : tête de Griffon sur trois pièces `EiS ch.10 l.95`. Quai et cinq entrepôts contigus, bureaux Bergstrasse.
+- **Ruggbroder** — grain et produits agricoles. Hieronymus Ruggbroder, plus de 70 ans, tient les rênes depuis chez lui `EiS ch.10 l.60-61` `EiS ch.10 l.127`. Symbole : épi de blé tenu par un poing ganté de mailles `EiS ch.10 l.125`. Plusieurs entrepôts sur l'Ostendamm `EiS ch.10 l.67`.
+- **Steinhäger** — distribution de marchandises Altdorf/Nuln/Marienburg vers les communautés des Montagnes Grises. Franz Steinhäger dirige, assisté par son frère Heinrich (deux ans plus jeune, amer) et son fils Albrecht (17 ans) `EiS ch.10 l.70` `EiS ch.10 l.152-154`. Bureaux derrière la Merchants' Guild — leur cellier dissimule une entrée secrète vers les égouts (porte secrète menant au Hidden Temple) `EiS ch.10 l.158` `EiS ch.7 l.225`.
+- **Teugen** — une des plus anciennes familles, presque la noblesse informelle du bourg. Johannes Teugen prit la tête après le décès de son frère aîné Karl à Nuln, redressant fortunes familiales `EiS ch.10 l.72-75`. Vit avec son « cousin » Gideon `EiS ch.10 l.162-163`. Quais sur les deux rives, entrepôts sur l'Ostendamm et le Westendamm, bureaux derrière la Merchants' Guild `EiS ch.10 l.73`. Symbole : rose en croix `EiS ch.9 l.140`. Manoir Adel Ring entouré de murs de 15 pieds surmontés de pointes de fer, gardes et chiens vicieux la nuit `EiS ch.10 l.161`.
 
-### Quelques jours (jusqu'à 1 semaine)
-- **Chaos politique** : la ville est en sidération. Teugen et Magirius disparus, Steinhäger fugitif. Watch suspecte les PJ (témoins clés). **Tension extrême**.
-- Investigation Watch Captain Reiner Goertrin en cours. **Mandat d'arrêt PJ probable**.
-- Hieronymus Ruggbroder agit discrètement pour exploiter la situation politique.
-- Heinz Richter (Magistrate) à peine rétabli, hésite à intervenir.
+## Temples
 
-### 1 semaine – 1 mois
-- **Council vide partiellement comblé** : Ruggbroder a pris la position dominante. Heinrich Steinhäger réclame la maison Steinhäger.
-- **Enquête officielle** sur l'Ordo Septenarius : Graf von Saponatheim envoie un répurgateur.
-- Inner Council survivants (cf. fiche [[Inner Council Ordo Septenarius (5 anonymes)]]) dispersés : Walter Krautmann (drafté) probablement arrêté ou pendu. Greta Schwartzkopf intacte (image publique).
-- **Maison Teugen** : biens saisis, dispersés, mise aux enchères ou redistribuée parmi les autres familles.
+- **Temple de Shallya** — la high priestess est Mother Marlene Rubenstein, seule Shallyenne investie de Bögenhafen ; assistée du Congress of Doves (épouses et veuves bénévoles) `EiS ch.10 l.382`. Mercyhouse dans la Pit, ouvert du lever au coucher du soleil pour les nécessiteux, dirigé par Sister Bromein (ancienne soldate, non-formellement investie mais visiblement bénie) `EiS ch.10 l.420-425`.
+- **Temple de Verena** — bâti il y a quelques décennies pour loger le clergé chassé du Town Court ; abrite la plus grande bibliothèque du Duché de Saponatheim — sermons donnés au milieu des rayonnages `EiS ch.10 l.397-398`. Sister Greta Harbokka, 45 ans, prêtresse à temps plein, réputée tout savoir de ce qui se trame en ville `EiS ch.10 l.400-402`.
+- **Temple d'Ulric** — bâtiment ressemblant à un petit donjon, presque vide, défendu par sept hommes : le père Waldo Brandt, son fils initié Erich, et cinq vieux Chevaliers du Loup Blanc dans une caserne en ruine `EiS ch.10 l.388-391`. Cult ulricien marginal dans le Vorbergland.
+- **Chapel of Blessed Sigmar (la Pit)** — Father Sigiwalt, vieux prêtre local, glu du quartier ; les Blackpikes eux-mêmes respectent le culte et évitent leurs affaires dans le voisinage `EiS ch.10 l.432-434`.
+- **Mourners' Guild / Cult de Morr** — Mother Silustena Carlitz, High Priestess de Morr pour le Duché de Saponatheim, supervise aussi les Doomsayers itinérants `EiS ch.10 l.326`. Le Garden of Morr et la Chapel of Morr se trouvent hors les murs, au nord-est `EiS ch.10 l.523-524`.
 
-### 1-6 mois
-- **Schaffenfest annuelle** : si dans la fenêtre, fair toujours active mais ambiance morose.
-- Heinrich Steinhäger a consolidé sa prise. **Purge ou continuation** selon ses choix moraux.
-- **Cellule sœur Ordo** peut émerger : Margit Holzwerth ou Greta Schwartzkopf refont surface ailleurs en Empire.
-- Watch reconstituée, Sigmarites + Verenan disputent l'autorité morale post-scandale.
+## Cellule Ordo Septenarius `EiS ch.10 l.640`
 
-### 1-3 ans
-- **Bögenhafen normalisée**. Council reconstitué (Ruggbroder + 6 nouveaux marchands). Schaffenfest reprend en force.
-- **Légende des PJ** : "ces aventuriers qui ont sauvé la ville sans qu'elle le sache" — bruit confidentiel via Détlef Sierck ? (potentiel pièce de théâtre).
-- **Investigations résiduelles** : un répurgateur senior à Altdorf rouvre le dossier "Bögenhafen 2512".
-- **Connexion Schmerzeit Mine / Haagen** émerge si des disparitions de mineurs sont signalées au BFP (FIL-15 prend de l'ampleur).
+Centre du complot d'Arc 1. Johannes Teugen dirige depuis son retour de Nuln, secondé par Gideon (Daemon de Tzeentch déguisé en cousin de Teugen). Cellule d'Inner Council de sept membres + 42 membres de rang inférieur servant d'écran de fumée `EiS ch.9 l.16`.
 
-### 5+ ans (vers Arc 7 EiR climax)
-- **Bögenhafen reste un point de connexion** au climax Tzeentch via Sheerargetru (lien historique).
-- Les PJ peuvent y revenir comme **personnages politiques importants** (notoriété acquise).
-- ⚙ Possible **nouveau pacte** : un héritier d'une des maisons (Heinrich Steinhäger ? Albrecht Steinhäger ? un descendant Schwartzkopf ?) refait un pacte avec un Herald.
+**Hidden Temple** sous les bureaux Steinhäger : cellule de pierre où un octogramme dark-blue est peint au sol, candélabres en argent à chaque pointe, cercle de cuivre gravé de 15 pieds de diamètre `EiS ch.7 l.204`. Au centre, étoile à sept branches avec tête de bête et l'inscription *« Ordo Septenarius »* `EiS ch.7 l.206`. Porte secrète bouclée de l'autre côté, menant via escalier de pierre aux bureaux Steinhäger `EiS ch.7 l.225`. Une porte est gardée par un Herald of Tzeentch invoqué par les cultistes (Guardian Daemon) `EiS ch.7 l.215`.
 
----
+**Warehouse 13 (Ostendamm)** : entrepôt Teugen marqué de la rose en croix, choisi par Teugen comme lieu de translation du temple après que les PJ aient découvert le Hidden Temple `EiS ch.9 l.140`. Lieu du rituel raté de S12 — sacrifice consécratoire d'une jeune femme « acquise » par les Stevedores' Guild thugs `EiS ch.9 l.159-163`, puis lecture du parchemin de Herzen invoquant *« Tchar »* pour déchirer la réalité depuis le Crystal Labyrinth `EiS ch.9 l.169-174`.
 
-## Index Schaffenfest (foire de Bögenhafen)
+## Rôle Arc 1
 
-> Référence rapide pour réutiliser les stands et PNJ de la foire à un futur passage ou pour clarifier ce que les PJ ont vu à S9.
+### Schaffenfest (ch.6)
 
-| Stand / Attraction | PNJ | Canon EiS ch.6 | État post-S9 | Hook |
-|---|---|---|---|---|
-| **Doctor Malthusius's Zoocopeia** (cirque de monstres) | **Hans Pfliefer** (Doctor Malthusius) + Grunni le nain | l.325-353 + l.452-469 | Cirque part après Schaffenfest. **Bounty 5GC Middenheim** sur Pfliefer. | Bonus comique réutilisable ; conman dans une autre ville ; cible répurgateur Sigmarite |
-| **Mystic Megret's tent** (rouge & jaune) | **Mystic Megret (vrai nom : Megret See)** | l.114-131 + l.515-525 | Itinérante (tour Vorbergland 20 ans). | Prophétesse récurrente — peut apparaître n'importe où. Prophéties véridiques. |
-| **Elvyra's stall** (herboriste) | **[[Elvyra Kleinestun]]** | l.47-58 + l.494-508 | Rentre à **Weissbruck**. Attachée à Anselm. | **Hook critique Arc 4 + Arc 7** — pion futur de Gideon. |
-| **Wrestling Ring** | Klaus Schattiger (charlatan) + 'Crusher' Braugen + Rosa Blatt (Bögen Beer Tent) | l.249-263 + l.378-415 | Itinérants partent. | Rosa Blatt employée d'**Albrecht Bierbrauer** (Inner Council Ordo — cf. fiche `Inner Council`). Hook. |
-| **Festival Court** | **Heinz Richter** (Chief Magistrate) | l.420-431 | Soigné par Anselm S11, rétabli lentement. | Allié magistrat post-rétablissement. Contact juridique. |
-| **Stocks (pillory)** | **Gottri Gurnisson** (nain ivre) | l.436-446 | **MORT** entre S9 et S10 (sacrifié par Teugen, corps trouvé S10). | Mort. |
-| **Joute (Lists)** | **Graf Wilhelm von Saponatheim** + **Grand Duke Leopold of Middenland** + **Primus von Bildhofen** (fils de Leopold) | l.279-296 | Quittent après Schaffenfest. | Saponatheim = autorité régionale post-Bögenhafen, peut intervenir. |
-| **Imperial Gunnery School area** (étudiants pétards) | étudiants anonymes Nuln | l.62-65 (Plot 2 ch.5) | Retour à Nuln. | Hook Nuln futur. |
-| **Cannon and Mortar Students** (statbloc générique) | — | l.389-398 | — | Stats pour bagarre future. |
-| **Witch Hunter (option non-jouée)** | **Alprecht Kassel** (Silver Spires Tzeentch caché) | l.332 | Itinérant. | ⚙ Hook latent — répurgateur en fait cultiste Tzeentch. À utiliser pour un piège futur. |
-| **Bunko Artists / pickpockets / brawlers** | anonymes | l.133-242 (Random Events) | Itinérants. | Bruit de fond. |
+Foire annuelle de trois jours autour de Geltgrubetag, droit de vendre du bétail sans taxe ce jour-là `EiS ch.10 l.550-551`. La zone entre East Gate et Postern Gate est couverte de pens à bétail, étals et sideshows `EiS ch.6 l.9`. Crowds, beggars, pickpockets, fortune tellers, medicine shows, jugglers et acrobates `EiS ch.6 l.42` `EiS ch.10 l.557`.
 
-## Liens
-- **Arcs** : [[Arc 2 - Bögenhafen]] (principal), possibles passages futurs
-- **PNJ-clé liés** : [[Johannes Teugen]], [[Gideon]], [[Franz Steinhäger]]
-- **Lieux connexes** : **Castle Grauenberg** (siège Graf Saponatheim), **Weissbruck** (en aval canal), [[Altdorf]] (en amont), **Schmerzeit Mine** (Black Fire Pass — connexion via Teugen+Haagen)
-- **Factions** : [[Ordo Septenarius]] (centre), [[Main Pourpre]] (cherche Pathsokar)
+Deux Key Scenes obligatoires : le nain ivre au pillory devant la Festival Court (Gottri Gurnisson) `EiS ch.6 l.18`, puis l'évasion du gobelin mutant à trois pattes du Zoocopeia de Doctor Malthusius `EiS ch.6 l.20`. Le gobelin attire les PJ vers les égouts puis vers le Hidden Temple via sa trace de sang.
+
+Présents marquants à la foire S9 : Doctor Malthusius (Hans Pfliefer, conman) et son nain Grunni `EiS ch.6 l.18-22` ; Mystic Megret See (prophétesse itinérante du Vorbergland) ; Elvyra Kleinestun avec son étal d'herboriste (résidente de Weissbruck, hook critique pour *Death on the Reik* puis pour Arc 7) `EiS ch.6 l.47-58` ; Klaus Schattiger et 'Crusher' Braugen au Wrestling Ring ; Rosa Blatt à la Bögen Beer Tent ; la joute du Graf Wilhelm von Saponatheim, du Grand-Duc Leopold von Bildhofen et de Primus von Bildhofen `EiS ch.6 l.279-296` ; étudiants Imperial Gunnery School de Nuln avec pétards.
+
+### Enquête sur le Hidden Temple (ch.7-8)
+
+Le sang du gobelin abattu par le Guardian Daemon mène les PJ aux égouts (canal central de 5 pieds, trottoirs de 3 pieds, conduits de décharge vers le Hafenbach et le Bögen). Le cadavre éviscéré de Gottri Gurnisson flotte dans une obstruction des égouts `EiS ch.7 l.190-195`. La trace du gobelin se termine à une porte d'eau-bardée donnant sur le Hidden Temple `EiS ch.7 l.199-200`.
+
+Le Crossed Pikes, taverne près de Fort Bögenhafen, fréquentée par la Watch et les gardes des Merchant Houses, abrite Franz Baumann (membre haut placé des Crooked Fingers Ranaldans, allié potentiel des PJ) et les jumeaux Reinholdt et Reinhardt comme bouncers `EiS ch.10 l.448-452`. Un tunnel secret part du cellier vers les égouts ; un autre va des égouts aux cellules des Main Guard Barracks `EiS ch.10 l.456`. Mère, la table a serré la main avec Baumann ; ne pas dénoncer la porte secrète des Ranaldans `EiS ch.10 l.456`.
+
+### Climax — rituel du Warehouse 13 (ch.9)
+
+**Préparation** : au crépuscule, Franz Steinhäger arrive avec deux ouvriers et les sacs portant l'équipement transféré du Hidden Temple (cercle de cuivre, sel pour l'octogramme, candélabres d'argent) `EiS ch.9 l.152`. Une demi-heure plus tard, cinq voitures déposent Teugen, Gideon et les autres membres de l'Inner Council `EiS ch.9 l.154`. Une douzaine de thugs Stevedores ceinturent discrètement le warehouse `EiS ch.9 l.154`.
+
+**Consécration** : une charrette amène une jeune femme enlevée enroulée dans un sac, sacrifiée par Teugen au centre de l'octogramme — gorge tranchée, cœur arraché, placé au centre du cercle `EiS ch.9 l.159-163`.
+
+**Rituel** : deux heures avant minuit. Sept membres de l'Inner Council à chaque pointe de l'octogramme, Teugen au centre, Gideon derrière. Une heure et demie de chants discordants et d'invocations, puis lecture du parchemin de Herzen `EiS ch.9 l.170-174`. À mi-lecture, Gideon entre dans le cercle, retire le Ring of Opsianon de son doigt et le passe à Teugen, qui le consacre aux candélabres puis le pose sur le cœur `EiS ch.9 l.176`.
+
+**Disruption** : sept éléments vitaux peuvent être détruits ou volés — Teugen, les sept membres, le parchemin de sort, le Ring of Opsianon, le cercle de cuivre, les huit candélabres d'argent, l'octogramme tracé au sel `EiS ch.9 l.194-205`. Tout délai de plus de 10 tours est fatal au rituel `EiS ch.9 l.209-210`. Lorsque le rituel est disrupté, Teugen s'effondre et fuit hurlant dans la nuit ; à minuit sonnant, une nuée de fumée rose et bleue l'enveloppe — une voix multitons réclame son âme avant qu'il ne soit consumé `EiS ch.9 l.215-228`.
+
+## Apparitions Arc 1
+
+- **S8 — Arrivée** : la *Berebeli* (barge de Josef Quartjin) amarre à Haagen's Wharf après la remontée du canal de Weissbruck et du Bögen `EiS ch.4 l.20-24`. Adolphus Kuftsos, chasseur de primes vu à Altdorf et à Weissbruck, suit la barge — la table le piège dans un cabinet bidon « Lock, Stock, and Barl » dans Garten Weg (ruelle NE de l'Eisen Bahn). Adolphus est tué par Gideon, et son corps mutilé retrouvé `EiS ch.7 l.196-197`.
+- **S9 — Schaffenfest** : visite de la foire entre East Gate et Postern Gate. Key Scenes du nain ivre (Gottri Gurnisson) au pillory de la Festival Court et du gobelin mutant échappé du Zoocopeia `EiS ch.6 l.18-20`. Rencontres : Heinz Richter à la Festival Court, Doctor Malthusius et Grunni, Mystic Megret, Elvyra Kleinestun, Klaus Schattiger et 'Crusher' Braugen.
+- **S10 — Égouts et Hidden Temple** : descente dans les égouts via une bouche, cadavre de Gottri Gurnisson flottant en obstruction `EiS ch.7 l.190-195`, confrontation avec le Guardian Daemon de Tzeentch dans le Hidden Temple sous les bureaux Steinhäger `EiS ch.7 l.199-217`. Crossed Pikes : alliance des PJ avec les Crooked Fingers de Franz Baumann.
+- **S11 — Convergence** : Temple de Verena (Sister Greta Harbokka, bibliothèque) pour la recherche sur Karl Teugen ; Temple de Shallya (Mother Marlene Rubenstein, hospice) ; Golden Trout Club où Friedrich Magirius reçoit les PJ ; surveillance Adel Ring et fouille des bureaux Steinhäger ; massacre du Temple d'Ulric par les Sigmarites locaux.
+- **S12 — Climax Warehouse 13** : Magirius est tué par Gideon le matin même `EiS ch.9 l.28-32`, son message griffonné en sang dirige les PJ vers « WHSE 13 » `EiS ch.9 l.63-65`. Au crépuscule à l'Ostendamm, observation puis intervention sur le rituel. Inner Council décapité, Teugen consumé, Gideon disparu, Filianore (la sacrifiée) sauvée.
 
 ## Liens externes
+
 - [Bögenhafen — Lexicanum](https://whfb.lexicanum.com/wiki/B%C3%B6genhafen)
-- [Bögenhafen — Fandom](https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen)
+- [Bögenhafen — Warhammer Fantasy Wiki](https://warhammerfantasy.fandom.com/wiki/B%C3%B6genhafen)
