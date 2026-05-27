@@ -5,7 +5,7 @@
 ## Identité (MJ-only — inconnu des PJ jusqu'à révélation Arc 7)
 - **Nature** : **Greater Daemon of Tzeentch — Lord of Change Exalté** (Daemon Prince-niveau).
 - **Statut** : [PRISONNIER — ACTIF PSYCHIQUEMENT] [ENNEMI PRINCIPAL] depuis ~–500 IC.
-- **Localisation physique** : caverne profonde au cœur des **Caves of Chaos**, **Black Fire Pass**, Montagnes Noires. Vu/entrevu par les PJ à Bögenhafen S12 (œil immense lors du rituel raté — cf. FIL-14).
+- **Localisation physique** : caverne profonde au cœur des **Caves of Chaos**, **Col du Feu Noir**, Montagnes Noires. Vu/entrevu par les PJ à Bögenhafen S12 (œil immense lors du rituel raté — cf. FIL-14).
 - **Tags** : `#Sheerargetru` `#LordOfChange` `#Tzeentch` `#GreaterDaemon` `#Antagoniste-Final` `#BlackFirePass` `#GhalMaraz`
 
 ## Sources
@@ -60,7 +60,7 @@ Le **Power Score** dépend du nombre de Neuf Yeux encore vivants + autres facteu
 - Le rituel a lieu à la **cérémonie de retour de Ghal Maraz**.
 - Le marteau est posé sur un **reliquaire piégé** conçu par [[Albertus Goldformer]] (cultiste). Mécanisme à trappe → 30 pieds de chute → caves à vin sous le Volkshalle.
 - Les **Neuf Yeux brûlent en flammes pink/blue sorcery** ; le corps de Wolfgang **se déchire** (son énorme cri inhumain) et **Sheerargetru sort littéralement de sa chair**.
-- Portails se déchirent simultanément à **Altdorf, Bögenhafen, Black Fire Pass**.
+- Portails se déchirent simultanément à **Altdorf, Bögenhafen, Col du Feu Noir**.
 
 ## Faiblesses & contre-mesures
 - **Ghal Maraz** : Fear automatique, force le banissement si frappe directe.
@@ -76,7 +76,7 @@ Le **Power Score** dépend du nombre de Neuf Yeux encore vivants + autres facteu
 - **Arcs** : [[Arc 2 - Bögenhafen]] (S12 — apparition partielle, FIL-14) · `Arc 7` (climax canon)
 - **Fils ouverts** : **FIL-14** (Sheerargetru a vu Pathsokar) · **FIL-13** (Gideon survivant — mission libération)
 - **PNJ liés** : [[Gideon]] (son agent principal), [[Wolfgang]] (réceptacle préparé), [[Egrimm van Horstmann]] (sorcier-champion alternatif si Wolfgang ne sert pas), [[Yann Zuntermein]] (réceptacle de secours), [[Karl-Heinz Wasmeier]] (réceptacle de secours)
-- **Lieux** : Caves of Chaos, Black Fire Pass (prison physique), Volkshalle d'Altdorf (manifestation)
+- **Lieux** : Caves of Chaos, Col du Feu Noir (prison physique), Volkshalle d'Altdorf (manifestation)
 - **Factions** : [[Main Pourpre]] (sa création indirecte), [[Neuf Yeux]] (sa nourriture sacrificielle)
 - **Artefact** : **Ghal Maraz** (le vrai, son entrave et son bane)
 

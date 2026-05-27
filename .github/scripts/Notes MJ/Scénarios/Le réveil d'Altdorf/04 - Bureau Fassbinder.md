@@ -279,6 +279,6 @@ Les Templiers saisissent tout. Lettre Wasmeier, Yodri vol.2, permis minier, note
 ## Liens
 
 - PNJ : [[Quintus Fassbinder]], **Johannes Woblhoffer**, [[Immanuel-Ferrand Holswig-Schliestein]] (MJ-only contexte).
-- Lieux : [[Bibliothèque-temple de Verena]], [[Black Fire Pass]].
+- Lieux : [[Bibliothèque-temple de Verena]], [[Col du Feu Noir]].
 - Handouts : [[Fassbinder - documents bureau]].
 - Référence : [[11 - Cadre Le réveil d'Altdorf]] §3, §6, §8, §10.

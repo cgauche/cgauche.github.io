@@ -1,11 +1,11 @@
 # Eternal Watch
 
-> **Organisation within Cult of Sigmar à Grenzstadt** — dédiée vigil **Sigmar's return through Black Fire Pass**. **Tour eternelle** centre Grenzstadt (part temple + lookout + campanile). **Cult publique respecté + intégré société Grenzstadt**. **Hidden inside : Night Vigil splinter** = secret killers tomb robbers.
+> **Organisation within Cult of Sigmar à Grenzstadt** — dédiée vigil **Sigmar's return through Col du Feu Noir**. **Tour eternelle** centre Grenzstadt (part temple + lookout + campanile). **Cult publique respecté + intégré société Grenzstadt**. **Hidden inside : Night Vigil splinter** = secret killers tomb robbers.
 
 ## Identité
 - **Type** : **Religious vigil cult** within Sigmar Cult Grenzstadt.
-- **Mission canon** : Watch for Sigmar's return through Black Fire Pass + maintain ancient prophecy.
-- **HQ** : **Tower Eternal Watch** Grenzstadt centre. *« Tallest building in the city by far: part temple, part look-out tower, part campanile, with commanding views of the Worlds Edge Mountains and the entrance to Black Fire Pass »* (canon ch.9 l.466).
+- **Mission canon** : Watch for Sigmar's return through Col du Feu Noir + maintain ancient prophecy.
+- **HQ** : **Tower Eternal Watch** Grenzstadt centre. *« Tallest building in the city by far: part temple, part look-out tower, part campanile, with commanding views of the Worlds Edge Mountains and the entrance to Col du Feu Noir »* (canon ch.9 l.466).
 - **Constantly staffed** cultists keeping eternal watch prophesied return.
 - **Tags** : `#EternalWatch` `#Sigmar` `#Grenzstadt` `#BlackFirePass` `#WorldsEdgeMountains` `#NightVigil` `#TombRobbers` `#Arc7` `#Ch9`
 
@@ -14,7 +14,7 @@
 
 ## Doctrine
 
-- **Eternal Watch belief** : Sigmar will return one day through Black Fire Pass to save the Empire.
+- **Eternal Watch belief** : Sigmar will return one day through Col du Feu Noir to save the Empire.
 - **Public role** : open intégré Grenzstadt society. Pilgrimage support + Sigmar return preparation.
 - **Constant vigil tower**.
 
@@ -58,5 +58,5 @@
 ## Liens
 - **Arcs** : Arc 7 (ch.9).
 - **PNJ** : **Capitular Almeric Zischler** (high priest Eternal Watch publique), [[Rauf Wasserburg]] (Night Vigil best agent), Dwarf members anonymes Grenzstadt+mountains.
-- **Lieux** : **Tower Eternal Watch** Grenzstadt, [[Black Fire Pass]], **Worlds Edge Mountains**.
+- **Lieux** : **Tower Eternal Watch** Grenzstadt, [[Col du Feu Noir]], **Worlds Edge Mountains**.
 - **Factions liées** : [[Night Vigil]] (sub-cult secret), **Cult de Sigmar** parent.

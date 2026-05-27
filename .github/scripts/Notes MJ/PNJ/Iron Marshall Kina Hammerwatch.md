@@ -46,7 +46,7 @@
 ## Apparitions par session
 
 ### Arc 7 ch.12 (post-Caves of Chaos)
-- **[S?]** — **Si PJ ont Ghal Maraz** : Hammerwatch meets them on the journey back along Black Fire Pass. *« Two heavily-armoured veteran Dwarfs nearby, hands close, but not on, their weapons »*.
+- **[S?]** — **Si PJ ont Ghal Maraz** : Hammerwatch meets them on the journey back along Col du Feu Noir. *« Two heavily-armoured veteran Dwarfs nearby, hands close, but not on, their weapons »*.
 - **Politely flatters PJ** + spiced goat.
 - **Hands Grimshank's coin** + directs **Three-Axe Brewery Grenzstadt**.
 - **Si PJ accept** : initial Chain transport activated (Gararoth Three-Axe Brewery).
@@ -74,5 +74,5 @@
 ## Liens
 - **Arcs** : Arc 7 (ch.12).
 - **PNJ liés** : **Gararoth** (Three-Axe Brewery Grenzstadt — premier maillon Chain), **Khardrif Inglepeak** (Dwarf Boatman Western Clock Tower Averheim), **Durkan Orkisson** (Lengenfeld Dwarf blacksmith), **Captain Fimbur Dimzadson** (Iron Wind sailing ship Nuln→Kemperbad), **Able Kazriksson + Gurrin Ablesniz** (Kemperbad workshop tragique), [[Albertus Nyman]] (Wolfshügel knows).
-- **Lieux** : **Three-Axe Brewery Grenzstadt** (Chain entry), Black Fire Pass.
+- **Lieux** : **Three-Axe Brewery Grenzstadt** (Chain entry), Col du Feu Noir.
 - **Factions** : **Grimshank's Chain** (Dwarf transport network).

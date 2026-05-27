@@ -31,7 +31,7 @@
 ## Chain members ch.12 PJ trajet
 
 ### Iron Marshall Kina Hammerwatch (canon ch.12 l.7)
-- **First Link** — Black Fire Pass post-Hammer recovery.
+- **First Link** — Col du Feu Noir post-Hammer recovery.
 - Donne premier coin + directs **Three-Axe Brewery Grenzstadt**.
 
 ### Gararoth (canon ch.12 l.68)

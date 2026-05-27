@@ -160,7 +160,7 @@ C'était **[[Gideon]] le changelin** (Sheru-Tar Gee'taru, signature Tzeentch). V
 - **Vide militaire à Altdorf** : la croisade sigmarite mobilise des troupes pour Middenheim → Altdorf **moins défendue** pour le 9 Brauzeit (Sheerargetru). **Plan Gideon parfait.**
 - **Guerre civile religieuse** : tension Sigmar/Ulric à son maximum. Les PJ peuvent être **instrumentalisés** par n'importe quelle faction.
 - **Plot MP** : Zuntermein (Altdorf) et Wasmeier (en fuite) ont des angles d'attaque sur tout ça. Yann Zuntermein a influence sur Immanuel-Ferrand.
-- **Quête Ghal Maraz** : les PJ partent dans le Black Fire Pass (ch.8-12) pendant que tout brûle politiquement. **Tension dramatique** : ils ne sauront pas comment Middenheim/Altdorf évolue pendant leur absence.
+- **Quête Ghal Maraz** : les PJ partent dans le Col du Feu Noir (ch.8-12) pendant que tout brûle politiquement. **Tension dramatique** : ils ne sauront pas comment Middenheim/Altdorf évolue pendant leur absence.
 
 ---
 
@@ -184,7 +184,7 @@ C'était **[[Gideon]] le changelin** (Sheru-Tar Gee'taru, signature Tzeentch). V
 - [ ] **Heinrich revendique-t-il la régence frontalement** ou laisse-t-il le conseil voter ?
 - [ ] **Stefan est-il déplacé** vers un lieu sûr ? (Pavarotti recommanderait probablement la discrétion.)
 - [ ] **Heinricus apparaît-il à Altdorf** ou reste-t-il sur ses terres ? (Probablement reste — la succession se joue à Middenheim, pas à Altdorf.)
-- [ ] **Dietrich Sprintboch** part-il à Black Fire Pass avec les PJ ou retourne-t-il à Ferlangst pour la guerre interne Kärzburdger ?
+- [ ] **Dietrich Sprintboch** part-il à Col du Feu Noir avec les PJ ou retourne-t-il à Ferlangst pour la guerre interne Kärzburdger ?
 - [ ] **Vieran Thugenheim** : mort, prisonnier, témoin caché, agent retourné ? À fixer quand pertinent.
 - [ ] **Catalogue exact du coffre** : quels documents y sont (au-delà du « dernier voyage de Sigmar ») ? Hooks bonus pour les PJ.
 

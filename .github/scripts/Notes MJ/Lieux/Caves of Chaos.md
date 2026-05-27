@@ -4,7 +4,7 @@
 
 ## Identité
 - **Type** : **Cave system Black Mountains** — Sheerargetru's prison + Hammer storage.
-- **Localisation** : behind waterfall at end Lost Gorge, Black Fire Pass.
+- **Localisation** : behind waterfall at end Lost Gorge, Col du Feu Noir.
 - **Status canon** : *« Within these caves, the adventurers are Tzeentch's playthings. He toys with them for amusement »*. Gideon wants PJ succeed retrieve Hammer.
 - **Tags** : `#CavesOfChaos` `#Sheerargetru` `#GhalMaraz` `#Tzeentch` `#9Winds` `#9Caverns` `#BlackFirePass` `#LostGorge` `#ChaosHound` `#Ghosts` `#TreacherousHerald` `#ChaosMinotaur` `#Harpies` `#PinkBlueHorrors` `#Adelfried` `#Arc7` `#Ch11`
 
@@ -82,7 +82,7 @@
 ## Storm exit (ch.11 l.493-503)
 
 - **Exit caves** = **almighty storm at night** awaits. Waterfalls crash + stream torrent.
-- **Mine flooded** : broad tunnel 2 feet water+mud emerge Black Fire Pass.
+- **Mine flooded** : broad tunnel 2 feet water+mud emerge Col du Feu Noir.
 - **Madcraw Clan** : Goblins drowned storm. Survivors avoid PJ avec Hammer (canon ch.11 l.482-485) → Goblins feel power Hammer Greenskin hatred. Cacklespit foresaw.
 
 ## Apparitions par session
@@ -109,6 +109,6 @@
 ## Liens
 - **Arcs** : Arc 7 (ch.11 entire).
 - **PNJ** : [[Sheerargetru]] (prisoner ultime), [[Adelfried Jarmund]] (heretic crystal Location 7), **Treacherous Herald** (Tzeentch Daemon Location 3), **Chaos Minotaur Lord** (Location 7), **Three-Headed Chaos Hound** (Location 1).
-- **Lieux liés** : **Lost Gorge** (entrée via waterfall), [[Black Fire Pass]] (Lost Gorge sub-zone), [[Wolfshügel]] (recharge runes).
+- **Lieux liés** : **Lost Gorge** (entrée via waterfall), [[Col du Feu Noir]] (Lost Gorge sub-zone), [[Wolfshügel]] (recharge runes).
 - **Factions** : **Daemons Tzeentch** (Pink+Blue Horrors, Herald), **Ghosts** (entrapped souls).
 - **Artefact** : **Ghal Maraz** (le vrai — drained 3 runes inactives).

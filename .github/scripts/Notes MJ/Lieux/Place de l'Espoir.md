@@ -60,7 +60,7 @@
 
 ## Hooks de retour
 
-- Arc 7 : Si les PJ retournent vers Black Fire Pass (canon EiR ch.9+), Place de l'Espoir = étape probable.
+- Arc 7 : Si les PJ retournent vers Col du Feu Noir (canon EiR ch.9+), Place de l'Espoir = étape probable.
 
 ## Liens
 

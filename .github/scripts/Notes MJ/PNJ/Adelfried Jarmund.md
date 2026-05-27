@@ -55,5 +55,5 @@
 ## Liens
 - **Arcs** : `Arc 7` (Arc 7 ch. 11)
 - **PNJ liés** : [[Sheerargetru]] (entité ultime des Caves), Empereur Sigismund (commanditaire historique, mort), Tzeentch (maître spirituel)
-- **Lieux** : **Caves of Chaos** (Black Fire Pass)
+- **Lieux** : **Caves of Chaos** (Col du Feu Noir)
 - **Factions** : Culte de Verena (origine, trahi)

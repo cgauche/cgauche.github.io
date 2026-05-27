@@ -64,7 +64,7 @@
 ## Liens avec la trame principale
 - **Indépendant** du complot Sheerargetru — **sous-intrigue B**.
 - Gideon peut **encourager Gräber subtilement** comme moyen de retarder les PJ.
-- Streissen sur la route Altdorf ↔ Black Fire Pass : peut **interrompre le voyage des PJ vers Ghal Maraz**.
+- Streissen sur la route Altdorf ↔ Col du Feu Noir : peut **interrompre le voyage des PJ vers Ghal Maraz**.
 
 ## Hooks pour les PJ
 - **Toujours actif** s'il a échappé aux apparitions précédentes.

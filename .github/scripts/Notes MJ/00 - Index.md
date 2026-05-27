@@ -56,7 +56,7 @@ Pour les questions de détails (stats PNJ, locations précises, handouts complet
 ## État au 2026-05-14
 
 - **Session jouée la plus récente** : **S63 — L'attaque du manoir Todbringer** (homebrew off-canon, planifié par l'ancien MJ). Boris [MORT] tué par « Volkmar » (en réalité le changelin Gideon, démasquage non fait). [[Vieran Thugenheim]] [DISPARU], corps non retrouvé. Katarina + Heinrich [VIVANTS]. Heinrich, héritier de fait, demande aux PJ de retrouver Ghal Maraz pour lui.
-- **Suite à préparer (S64)** : la rencontre avec Fassbinder reportée d'un jour, puis le voyage vers Black Fire Pass avec un mandat Todbringer (et non plus impérial). Cf. `04 - Fils narratifs ouverts.md` (état post-S63) et `08 - Vision de l'ancien MJ.md` (les 4 issues du marteau).
+- **Suite à préparer (S64)** : la rencontre avec Fassbinder reportée d'un jour, puis le voyage vers Col du Feu Noir avec un mandat Todbringer (et non plus impérial). Cf. `04 - Fils narratifs ouverts.md` (état post-S63) et `08 - Vision de l'ancien MJ.md` (les 4 issues du marteau).
 
 ## Mises à jour récentes (2026-05-16 → 2026-05-17)
 
@@ -70,7 +70,7 @@ Pour les questions de détails (stats PNJ, locations précises, handouts complet
 
 **Arc 7 (Empire in Ruins — S56-S62 + S63 homebrew + plan S64+) entièrement documenté (2026-05-18)** :
 - `Arcs/Arc 7 - Empire in Ruins.md` créé (densité Arc 6 : sessions S56-S62 + S63 homebrew + plan S64+ ch.8-13).
-- **Lieux créés** : `Castle Reikguard.md`, `Shining Rock.md`, `Wolfshügel.md`, `Black Fire Pass.md`, `Caves of Chaos.md`, `Lieux Arc 7 mineurs.md`, `Sudenland.md` (province sud, mosaïque religieuse Rhya/Söll, post-PJ S62 sur amalgame Solland). **[[Altdorf]] enrichi** (Volkshalle + Manoir Helstein + Grand Cathedral + Wine cellar + climax canon).
+- **Lieux créés** : `Castle Reikguard.md`, `Shining Rock.md`, `Wolfshügel.md`, `Col du Feu Noir.md`, `Caves of Chaos.md`, `Lieux Arc 7 mineurs.md`, `Sudenland.md` (province sud, mosaïque religieuse Rhya/Söll, post-PJ S62 sur amalgame Solland). **[[Altdorf]] enrichi** (Volkshalle + Manoir Helstein + Grand Cathedral + Wine cellar + climax canon).
 - **PNJ centraux créés (15)** : [[Karl-Franz Holswig-Schliestein]], [[Volkmar von Hindenstern]], [[Yorri XV]], [[Thyrus Gormann]], [[Etelka Toppenheimer]] (Sudenland), [[Marius Leitdorf]] (Averland Mad Count), [[Leopold Bildhofen]] (Middenland), [[Marlene Alptraum]], [[Brunhilde von Flamme]] (Carroburg), [[Ottilie Grissen]], [[Karl Bauermann]], [[Baron von Teufelsmilch]] (Reiksguard infiltré), [[Reiksmarshall Kurt Helborg]], [[Colonel Olaf Sievers]] (Imperial Ostlanders backup ch.11), [[Cerdic Linden]] (Schertal Rhya), [[Baron Klaus von Bachmann]] (Wissenland), [[Hans Knees]] (spy Emmanuelle), [[Fione Brecht]] (Threshers).
 - **9 Yeux créés (9)** : [[Kathe Ruttmann]] (Vigilant Eye), [[Per Haldestaake]] (Fractured), [[Wilhelmina Novak]] (Withering), [[Wolfie Jessner]] (Wandering), [[Ingrid Rademakers]] (Eagle), [[Wulfrum Ahlquist]] (Public), [[Gustav Klaus]] (Kaleidoscope), [[Gislind Ursin]] (Hollow), [[Vatheck Fulci]] (Far).
 - **PNJ secondaires créés (5)** : [[Werner Stolz]], [[Petra Schneller]], [[Captain Jurgen von Ostbrun zu Kaeserock]], [[Marcus Karlssen]] (SIP), [[Sergeant Major Markus Oldheim]], [[Brother Adric]] (Wolfshügel Taal), [[Albertus Nyman]] (Streissen Loremaster), [[Iron Marshall Kina Hammerwatch]] (Grimshank's Chain), [[Thirteen the Slayer]] (Gideon envoyé), [[Rauf Wasserburg]] (Night Vigil), [[Hugo Bottomdown]] (halfelin spy).

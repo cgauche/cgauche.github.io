@@ -327,7 +327,7 @@ Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le r
 **Trace tactile** pour les PJ qui analysent : torpeur cognitive, brouillard physique, oubli de la dernière minute de conversation.
 
 ### Apparitions de la silhouette — règle
-**3 fois maximum** sur l'arc Altdorf + voyage Altdorf-Black Fire Pass :
+**3 fois maximum** sur l'arc Altdorf + voyage Altdorf-Col du Feu Noir :
 1. **Rencontre Sigmarite** (Scène 1).
 2. **Départ d'Altdorf** (Scène 3).
 3. **Voyage** — pour les manipulations canon *Gideon Makes Time*.
@@ -439,4 +439,4 @@ Permis minier vient directement d'Averheim (Piste B).
 - **Arc** : [[Arcs/Arc 7 - Empire in Ruins]]
 - **Turmoil canon** : [[10 - Turmoil - Synthèse globale]]
 - **PNJ centraux** : [[Quintus Fassbinder]], [[Yann Zuntermein]], [[Immanuel-Ferrand Holswig-Schliestein]], [[Gideon]], [[Volkmar von Hindenstern]], [[Yorri XV]], [[Maria-Luise von Walfen]], [[Heinrich Todbringer]], [[Henrik Kappelmuller]].
-- **Lieux** : [[Altdorf]], [[Castle Reikguard]], [[Black Fire Pass]], [[Caves of Chaos]], [[Wolfshügel]].
+- **Lieux** : [[Altdorf]], [[Castle Reikguard]], [[Col du Feu Noir]], [[Caves of Chaos]], [[Wolfshügel]].

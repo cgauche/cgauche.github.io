@@ -44,7 +44,7 @@
 
 ## MJ-only
 
-- **Lien Kislev** : Hook Arc 7 — si conflit ouvert avec Chaos du Nord (canon EiR vise Sheerargetru au Black Fire Pass), **Kislev peut être impliqué**. Tylik = pont diplomatique.
+- **Lien Kislev** : Hook Arc 7 — si conflit ouvert avec Chaos du Nord (canon EiR vise Sheerargetru au Col du Feu Noir), **Kislev peut être impliqué**. Tylik = pont diplomatique.
 - **Yuridika alcool kislev** : possible **recette de potion / alchimie** Yuridika a apprise. **Hook narratif**.
 
 ## Hooks de retour

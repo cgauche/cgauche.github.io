@@ -49,7 +49,7 @@ Après l'attaque, **Heinrich demande aux PJ de chercher Ghal Maraz et de le lui 
 | **Ne pas prendre le marteau** | Expliqué dans la campagne (cf. *Empire in Ruins*, climax alternatif) | Canon |
 
 ### 4. Combat de boss pendant le voyage retour
-- Pendant le voyage **Black Fire Pass → Altdorf** (chapitre 12 canonique), il y a un scénario de siège tiré du **Companion** d'EiR — il s'agit probablement du *Siege of Hergig* ou similaire dans le Companion.
+- Pendant le voyage **Col du Feu Noir → Altdorf** (chapitre 12 canonique), il y a un scénario de siège tiré du **Companion** d'EiR — il s'agit probablement du *Siege of Hergig* ou similaire dans le Companion.
 - L'ancien MJ comptait y faire **revenir Filianore + son compagnon (le champion du Graf)** pour clore cet arc personnel avec les PJ.
 
 ### 5. Intention méta sur Ward (joueur d'Elvira)
@@ -86,7 +86,7 @@ Après l'attaque, **Heinrich demande aux PJ de chercher Ghal Maraz et de le lui 
 - Le démasquage du changelin Volkmar : peut arriver tôt (au Volkshalle si on croise le vrai) ou tard (au climax).
 
 **Lien avec le canon EiR** :
-- Les chapitres 8 à 11 du canon **restent jouables tels quels** (Fassbinder, voyage, Black Fire Pass, récupération du vrai Ghal Maraz). Seul change le **sponsor** (Heinrich plutôt que Immanuel-Ferrand ou la cour).
+- Les chapitres 8 à 11 du canon **restent jouables tels quels** (Fassbinder, voyage, Col du Feu Noir, récupération du vrai Ghal Maraz). Seul change le **sponsor** (Heinrich plutôt que Immanuel-Ferrand ou la cour).
 - Le chapitre 12 (retour) est compatible avec le canon + insertion du scénario du Companion + Filianore.
 - Le chapitre 13 (climax au Volkshalle) **diverge radicalement** : avec Boris mort et Heinrich mobilisé, la table des électeurs au sortir d'EiR est différente. À retravailler en fonction du choix « à qui donner le marteau ».
 

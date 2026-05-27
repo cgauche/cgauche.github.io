@@ -88,7 +88,7 @@ La promesse d'Etelka — *"declare Ulric the official cult of Sudenland"* (ch.7 
 
 ## Hooks Arc 7 (et au-delà) pour les PJ
 - **Annexion de Sudenland par Nuln** (canon post-Turmoil) : si les PJ s'intéressent au sud, ils peuvent infléchir, accélérer ou retarder cette annexion. La source dit qu'elle se produit — pas qu'elle est facile.
-- **Course au Runefang** : si Etelka apprend que les PJ ont accès aux Holds nains (cf. leur historique Black Fire Pass / Karak Skygg / etc.), elle peut leur commander une expédition de "récupération" de *Grudge Settler* (ou d'une lame naine plausible) en échange de faveurs politiques majeures.
+- **Course au Runefang** : si Etelka apprend que les PJ ont accès aux Holds nains (cf. leur historique Col du Feu Noir / Karak Skygg / etc.), elle peut leur commander une expédition de "récupération" de *Grudge Settler* (ou d'une lame naine plausible) en échange de faveurs politiques majeures.
 - **Réseau Threshers** : si les PJ démantèlent les Threshers (Fione Brecht et son réseau Pfeildorf), c'est un coup direct au plan false-flag d'Etelka et un cadeau à Emmanuelle.
 - **Söllites comme alliés** : faction non-affrontée dans la campagne actuelle. Ils sont restaurationnistes, militants, anti-statu quo — exploitables par n'importe quel camp (Emmanuelle pour déstabiliser Etelka ; Etelka pour mobiliser populairement ; PJ pour leur propre agenda).
 - **Routes commerciales Kreutzhofen** : si les PJ y passent (route vers Bretonnia ou Tilée), ils peuvent croiser des saboteurs envoyés par les Marchands de Nuln/Marienburg.

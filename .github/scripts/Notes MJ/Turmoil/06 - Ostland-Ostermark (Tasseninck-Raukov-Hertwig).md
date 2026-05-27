@@ -270,7 +270,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 | **2512+ IC** | (post-Turmoil) | Tasseninck *"stripped of electoral office"* — pas extinction biologique mais fin du pouvoir politique | Fandom House von Tasseninck |
 | **2514 IC** | (post-Turmoil, hors fiche) | **Castle Raukov** — Vassily von Raukov fait preuve de lâcheté ; déshérité par Valmir au profit du cadet Oleg | Fandom Vassily von Raukov |
 | **2515 IC** | (post-Turmoil, hors fiche) | **Slaughter at Volganof** — **Oleg von Raukov tué par Mortkin (Black-Iron Reaver)** ; brèche des murs Volganof | Fandom Oleg von Raukov ; Fandom Slaughter at Volganof |
-| **2520 IC** | (post-Turmoil, hors fiche) | **Vorgaz Ironjaw** mène une invasion ; tue Marius Leitdorf à la Third Battle of Black Fire Pass ; Karl-Franz tue Vorgaz (cf. fiche 04) — préparé par les rapports Imperial Ostlanders post-2512 | Fandom Vorgaz Ironjaw |
+| **2520 IC** | (post-Turmoil, hors fiche) | **Vorgaz Ironjaw** mène une invasion ; tue Marius Leitdorf à la Third Battle of Col du Feu Noir ; Karl-Franz tue Vorgaz (cf. fiche 04) — préparé par les rapports Imperial Ostlanders post-2512 | Fandom Vorgaz Ironjaw |
 
 ---
 
@@ -343,7 +343,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 
 ### Imperial Ostlanders post-Turmoil
 - **Continuité institutionnelle** : régiment direct sous commandement impérial, pas affecté par le changement Tasseninck → Raukov.
-- **Rapport Vorgaz Ironjaw** : *"discovered the nascent horde of Warboss Vorgaz Ironjaw"* (EiR Companion ch.4 l.55-57) — préfigure la Third Battle of Black Fire Pass 2520 IC.
+- **Rapport Vorgaz Ironjaw** : *"discovered the nascent horde of Warboss Vorgaz Ironjaw"* (EiR Companion ch.4 l.55-57) — préfigure la Third Battle of Col du Feu Noir 2520 IC.
 
 ---
 
@@ -425,7 +425,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
   - **Norse raids côte Ostland** : pression croissante (Sea of Claws ch.7).
   - **Sons of Manann** à Salkalten + Odrall's Watch.
   - **Imperial Ostlanders Black Mountains + Worlds Edge** : patrouilles frontière Border Princes / Greenskins.
-  - **Vorgaz Ironjaw 2520 IC** (Third Battle of Black Fire Pass) : prélude lointain — découvert canoniquement par les Imperial Ostlanders.
+  - **Vorgaz Ironjaw 2520 IC** (Third Battle of Col du Feu Noir) : prélude lointain — découvert canoniquement par les Imperial Ostlanders.
 
 - **Cascade vers [[Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs)]]** :
   - **Promotions Sigmarites** (Ostermark + Nordland + Hochland) = compensation officielle de la renaissance ulricaine Middenheim.
@@ -466,7 +466,7 @@ Le Turmoil au front Ostland-Ostermark est causalement **lié au front Talabeclan
 - **(canon + déduction)** **Vassily von Raukov** : second fils Valmir, **statut non précisé canon** — hook future succession ou intrigue dynastique.
 - **(canon + déduction)** **Identité du baron Sudenland tueur d'Oswald** : dit *"rumours suggest"* — hook révélation historique éclatant.
 - **(canon + déduction)** **Tasseninck survivants** : *"replaced upon their extinction"* (EiR Companion ch.6 l.162) — formulation ambiguë ; Characters peuvent rencontrer des Tassenincks survivants en exil.
-- **(canon + déduction)** **Imperial Ostlanders post-2512** : rôle dans la Third Battle of Black Fire Pass 2520 IC (Vorgaz Ironjaw vs Karl-Franz) — hook campagne longue.
+- **(canon + déduction)** **Imperial Ostlanders post-2512** : rôle dans la Third Battle of Col du Feu Noir 2520 IC (Vorgaz Ironjaw vs Karl-Franz) — hook campagne longue.
 - **(canon + déduction)** **Lien Königswald-Tzeentch** : la dynastie est *"cursed to be afflicted with the spirits of the Undead"* (Fandom House von Königswald) — hook PJ recherche historique sur la malédiction.
 
 ---

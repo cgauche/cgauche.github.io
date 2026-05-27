@@ -480,7 +480,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
   - l.180 — humiliation suite
   - **l.212-226 — Emmanuelle confesse à Maria-Luise le secret imposteur Karl-Franz**
 
-- **EiR ch.9 *Altdorf to Black Fire Pass*** :
+- **EiR ch.9 *Altdorf to Col du Feu Noir*** :
   - **l.282-323 — Threshers + Fione Brecht** (block complet)
   - l.295 — Toppenheimers hire Brecht, "make life difficult for the countess"
   - l.296 — subterfuge The Goats
@@ -491,7 +491,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
   - **l.307 — Main Pourpre tattoo couvert par bird tattoo**
   - l.309-323 — statbloc Brecht complet
 
-- **EiR ch.12 *Black Fire Pass to Altdorf*** :
+- **EiR ch.12 *Col du Feu Noir to Altdorf*** :
   - l.193 — Emmanuelle articulate, measured
   - **l.195-203 — scène Emmanuelle leverage** (Characters livrent preuve Threshers → springs from chair, dazzling smile, cheeks kiss, passage Diesdorf)
   - l.199 — citation directe "Emmanuelle literally springs up from her chair"

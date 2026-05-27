@@ -60,11 +60,11 @@ Voir [[Fassbinder - documents bureau]] pour le détail.
 
 **Compromis possible** : un sous-groupe va à Middenheim, l'autre à Nuln. Maintient le canal Heinrich + poursuit la quête. Mais complique la table.
 
-### Cap C — Sud-est vers Black Fire Pass directement
+### Cap C — Sud-est vers Col du Feu Noir directement
 
 **But** : foncer vers la Passe de Feu Noir pour trouver les Trois Mères et chercher le marteau eux-mêmes.
 
-**Trajet** : Altdorf → Nuln → Averheim → Grenzstadt → Black Fire Pass. **~3 semaines** au minimum.
+**Trajet** : Altdorf → Nuln → Averheim → Grenzstadt → Col du Feu Noir. **~3 semaines** au minimum.
 
 **Pourquoi tentant** :
 - Action directe, pas de politique impériale.
@@ -104,7 +104,7 @@ Voir [[Fassbinder - documents bureau]] pour le détail.
 4. Depuis Averheim, **détour Karak Hirn** pour traduction Yodri (~15 jours).
 5. Retour Averheim avec traductions, attente du mandat Kaslain.
 6. Mandat reçu, documents notariés du coffre arrivent à Nuln/Averheim.
-7. Voyage final vers Black Fire Pass avec **toutes les pièces en main**.
+7. Voyage final vers Col du Feu Noir avec **toutes les pièces en main**.
 
 Soit ~3-4 mois IC, mais quête solide.
 

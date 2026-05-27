@@ -9,7 +9,7 @@ Le livre 5 est dans `C:\Users\gauch\PhpstormProjects\Foundry\Empire in Ruins\`. 
 ## RÉVÉLATIONS MAJEURES DU LIVRE (à conserver secrètes des joueurs)
 
 ### Le plot complet — qui orchestre tout
-- **Sheerargetru** = Seigneur du Changement (Tzeentch, daemon Exalted), enfermé par Sigmar dans une caverne du **Black Fire Pass** (Montagnes Noires).
+- **Sheerargetru** = Seigneur du Changement (Tzeentch, daemon Exalted), enfermé par Sigmar dans une caverne du **Col du Feu Noir** (Montagnes Noires).
 - Sigmar a abandonné le **vrai Ghal Maraz** pour le sceller dedans. Le marteau impérial actuel est une **réplique** forgée par les prêtres sigmarites + nains. Sa rupture lors du conclave (S62) est donc *normale*.
 - Pendant 1500 ans, Sheerargetru a influencé psychiquement les cultistes (Main Pourpre = sa création indirecte) avec des prophéties.
 - **Gideon** (démon métamorphe, le même qu'à Bögenhafen S12 !) cherche à libérer Sheerargetru. Plan :
@@ -85,7 +85,7 @@ Les cultistes de la Main Pourpre survivants pourchassent activement les PJ, qu'i
 - **Mariage à Grauenberg [S13]** : aventure annexe.
 
 ### Connexion masquée révélée par le livre 5
-**LE LIEN BÖGENHAFEN ↔ BLACK FIRE PASS** : **Teugen, Steinhäger et Haagen** avaient un permis (daté du 9 Brauzeit 2508) pour ré-exploiter la **mine de Schmerzeit** en Black Fire Pass, près des **Trois Sœurs** (statues d'ancêtres nains). Le 3e partenaire, **Jochen Haagen**, n'apparait pas à Bögenhafen — il continue probablement l'opération. **Ces mines doivent atteindre la grotte de Ghal Maraz**. Gideon les manipulait déjà.
+**LE LIEN BÖGENHAFEN ↔ BLACK FIRE PASS** : **Teugen, Steinhäger et Haagen** avaient un permis (daté du 9 Brauzeit 2508) pour ré-exploiter la **mine de Schmerzeit** en Col du Feu Noir, près des **Trois Sœurs** (statues d'ancêtres nains). Le 3e partenaire, **Jochen Haagen**, n'apparait pas à Bögenhafen — il continue probablement l'opération. **Ces mines doivent atteindre la grotte de Ghal Maraz**. Gideon les manipulait déjà.
 
 ---
 
@@ -242,9 +242,9 @@ Les PJ sont créés par les joueurs (rien dans le livre n'impose des prétirés)
 
 ## Suite (chapitres 8-13) — voir `07 - Suite canonique.md`
 
-Le dicte une route Altdorf → Black Fire Pass → Altdorf via Kemperbad / Nuln / Streissen / Averheim / Grenzstadt, avec étapes :
+Le dicte une route Altdorf → Col du Feu Noir → Altdorf via Kemperbad / Nuln / Streissen / Averheim / Grenzstadt, avec étapes :
 - **Ch. 8** : Recherche chez Fassbinder (rendez-vous DEJÀ donné fin S62)
-- **Ch. 9** : Trajet Altdorf → Black Fire Pass (river patrol *The Comet* puis *The Carroburg*)
+- **Ch. 9** : Trajet Altdorf → Col du Feu Noir (river patrol *The Comet* puis *The Carroburg*)
 - **Ch. 10** : Dans les pas de Sigmar (mine de Schmerzeit, Madcraw Clan nain)
 - **Ch. 11** : Caves of Chaos (récupération de Ghal Maraz, Night Goblins)
 - **Ch. 12** : Retour vers Altdorf (manœuvres de Marius Leitdorf + Emmanuelle, **Battle of Wolfshügel**, Drexol l'Extinction)

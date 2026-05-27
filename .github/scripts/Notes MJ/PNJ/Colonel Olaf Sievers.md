@@ -16,8 +16,8 @@
 - **EiR Intro l.1076-1108** *Colonel Olaf Sievers Frontiersman and Patriot* — statbloc Officer Gold 1.
 - **EiR ch.2 l.34** S57 Middenheim rumours : *« Sievers is in Altdorf to persuade the Emperor to strengthen the southern border »*.
 - **EiR ch.5 l.110+** S60 défilé Altdorf : Sievers approche PJ, raconte Orc tracking + demande KF audience. Anselm joue Orc dans son anecdote. *« He continues to talk about the best ways to defeat Greenskins... explains why he wants to speak with the Emperor: 'Do you know him? I thought I did, but he's very distant these days' »*.
-- **EiR ch.10 l.71-101** : **Sievers + Imperial Ostlanders à Black Fire Pass** post-Altdorf. Returned to gather evidence + Karaz-a-Karak Dwarfs. Partage news avec PJ s'ils bons rapports.
-- **EiR ch.11 l.514-523** *Backup Hammer plan* : si PJ refusent prendre Ghal Maraz, *« Gideon revealed the secret of the Hammer. Sievers swiftly recruited a band of adventurers and set off down Black Fire Pass »* :
+- **EiR ch.10 l.71-101** : **Sievers + Imperial Ostlanders à Col du Feu Noir** post-Altdorf. Returned to gather evidence + Karaz-a-Karak Dwarfs. Partage news avec PJ s'ils bons rapports.
+- **EiR ch.11 l.514-523** *Backup Hammer plan* : si PJ refusent prendre Ghal Maraz, *« Gideon revealed the secret of the Hammer. Sievers swiftly recruited a band of adventurers and set off down Col du Feu Noir »* :
   - **Renate Hausier the Vagabond** (Death on the Reik p.21)
   - **Sigrid the Outlaw Chief** (Death on the Reik p.83)
   - **Golthog the Ogre** (Power Behind the Throne Companion p.31)
@@ -46,14 +46,14 @@
 ### Arc 7 ch.5 S60
 - **Défilé pavillon** Altdorf : présent. Échec convaincre KF Orcs Badlands. Anecdotes military à PJ (*« Get 'em fighting each other »*). Demande Anselm play Orc (Entertain Acting ou Melee test). **« He's very distant these days »** (KF). **Ami beuverie Mark** post-démasquage table.
 
-### Arc 7 ch.10 Black Fire Pass (S68+)
-- **Returned Black Fire Pass** post-Altdorf : *« gather more evidence + talk with Dwarfs at Karaz-a-Karak »*.
+### Arc 7 ch.10 Col du Feu Noir (S68+)
+- **Returned Col du Feu Noir** post-Altdorf : *« gather more evidence + talk with Dwarfs at Karaz-a-Karak »*.
 - **Imperial Ostlanders** = hardened group disciplined soldiers crossbows + halberds, uniformes noir/blanc/bleu.
 - **Hail PJ** sur la route. Partage news Orcs invasion soon, Greenskins agités, suggestion united army provinces.
 - **Si party Sigmarite/Ulrican** : Dwarfs informent agents **Grimshank's Chain** post-departure.
 
 ### Arc 7 ch.11 backup
-- **Si PJ refusent Hammer** : Gideon révèle Hammer secret à Sievers Grenzstadt. Sievers recrute adventurers + descend Black Fire Pass.
+- **Si PJ refusent Hammer** : Gideon révèle Hammer secret à Sievers Grenzstadt. Sievers recrute adventurers + descend Col du Feu Noir.
 - **Si croisé sur retour PJ sans Hammer** : Sievers cagey + *« I have been informed of a chance to undertake a quest that will have me renowned. Mad really, but huge if true! »*.
 - **PJ doivent stop Sievers** : fight + kill ou Sievers récupère Ghal Maraz et libère Sheerargetru.
 
@@ -61,7 +61,7 @@
 - Colonel Imperial Ostlanders, frontiersman.
 - Veut KF audience Orc Badlands.
 - Ami beuverie Mark (S60).
-- Rencontre possible Black Fire Pass ch.10.
+- Rencontre possible Col du Feu Noir ch.10.
 
 ## MJ-only
 - **Pas cultiste — patriote sincère pas Gideon-aware**.
@@ -82,5 +82,5 @@
 ## Liens
 - **Arcs** : Arc 7 (S60 + ch.10 + ch.11 backup).
 - **PNJ liés** : **Mark** (PJ — ami beuverie S60), [[Karl-Franz Holswig-Schliestein]] (audience refusée), **High King Thorgrim Karaz-a-Karak** (correspondance), **Renate Hausier + Sigrid + Golthog + [[Erina Eberhauer]]** (backup recruts ch.11), [[Gideon]] (manipulateur backup).
-- **Lieux** : **Imperial Ostlanders** régiment, **Altdorf pavillon** (S60), **Black Fire Pass** (ch.10), **Karaz-a-Karak**, **Grenzstadt**.
+- **Lieux** : **Imperial Ostlanders** régiment, **Altdorf pavillon** (S60), **Col du Feu Noir** (ch.10), **Karaz-a-Karak**, **Grenzstadt**.
 - **Factions** : **Imperial Ostlanders** (regiment).

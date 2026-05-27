@@ -1,6 +1,6 @@
 # Cult of the Broken Fingers (Main Pourpre — Kemperbad off-shoot)
 
-> **Petite branche scindée de la Main Pourpre basée à Kemperbad. Menée par Martin Schmidt qui reçoit des visions prophétiques. Attaque les PJ à leur passage à Kemperbad sur la route du retour de Black Fire Pass.**
+> **Petite branche scindée de la Main Pourpre basée à Kemperbad. Menée par Martin Schmidt qui reçoit des visions prophétiques. Attaque les PJ à leur passage à Kemperbad sur la route du retour de Col du Feu Noir.**
 
 ## Identité
 - **Allégeance** : **Tzeentch — Main Pourpre (cellule séparatiste)**.
@@ -9,7 +9,7 @@
 - **Tags** : `#BrokenFingers` `#MainPourpre` `#PurpleHand` `#Tzeentch` `#Kemperbad` `#MartinSchmidt` `#OffShoot`
 
 ## Source
-- **EiR ch. 12** *Black Fire Pass to Altdorf* l. 217-229 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Black Fire Pass to Altdorf.md`
+- **EiR ch. 12** *Col du Feu Noir to Altdorf* l. 217-229 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Col du Feu Noir to Altdorf.md`
 
 ## Leader
 

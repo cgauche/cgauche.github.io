@@ -1,8 +1,8 @@
 # Lieux Arc 7 — mineurs
 
-> Fiche groupée **lieux Arc 7 mineurs** ch.9 + ch.12 + autres. **Tableaux compacts**. Pour lieux centraux Arc 7 voir fiches dédiées : [[Altdorf]] (enrichie Volkshalle + Manoir Helstein), [[Castle Reikguard]], [[Shining Rock]], [[Wolfshügel]], [[Black Fire Pass]], [[Caves of Chaos]].
+> Fiche groupée **lieux Arc 7 mineurs** ch.9 + ch.12 + autres. **Tableaux compacts**. Pour lieux centraux Arc 7 voir fiches dédiées : [[Altdorf]] (enrichie Volkshalle + Manoir Helstein), [[Castle Reikguard]], [[Shining Rock]], [[Wolfshügel]], [[Col du Feu Noir]], [[Caves of Chaos]].
 
-## Arc 7 ch.9 — Voyage Altdorf → Black Fire Pass
+## Arc 7 ch.9 — Voyage Altdorf → Col du Feu Noir
 
 ### Schertal + Graubach + Florianfeld (canon ch.9 l.117-167)
 - **Villages razed** par Wissenland soldats Baron Klaus von Bachmann.
@@ -43,11 +43,11 @@
 - **Last major settlement** before Old Dwarf Road rise mountains.
 - **Last place Sigmar stayed** before leaving Empire = major Sigmar pilgrimage.
 - **Temple Sigmar** vast + wealthy. **Capitular Almeric Zischler** high priest.
-- **Eternal Watch tower** : tallest building. Part temple + lookout + campanile. **Vigil Sigmar return** Black Fire Pass.
+- **Eternal Watch tower** : tallest building. Part temple + lookout + campanile. **Vigil Sigmar return** Col du Feu Noir.
 - **Night Vigil hidden cult** : kills tomb robbers. **Rauf Wasserburg** best agent.
 - **Three-Axe Brewery** : Grimshank's Chain Dwarf entry point.
 
-## Arc 7 ch.12 — Retour Black Fire Pass → Altdorf
+## Arc 7 ch.12 — Retour Col du Feu Noir → Altdorf
 
 ### Lengenfeld (canon ch.12 l.178)
 - Small town west Streissen. **Market Gate dusk** : Grimshank's Chain meeting.
@@ -116,5 +116,5 @@
 
 ## Liens
 - **Arcs** : Arc 7 (ch.9 + ch.12 + ch.13 mineurs).
-- **Lieux centraux fiches dédiées** : [[Altdorf]] / [[Castle Reikguard]] / [[Shining Rock]] / [[Wolfshügel]] / [[Black Fire Pass]] / [[Caves of Chaos]].
+- **Lieux centraux fiches dédiées** : [[Altdorf]] / [[Castle Reikguard]] / [[Shining Rock]] / [[Wolfshügel]] / [[Col du Feu Noir]] / [[Caves of Chaos]].
 - **PNJ associés** : voir fiches individuelles 50+ PNJ Arc 7.

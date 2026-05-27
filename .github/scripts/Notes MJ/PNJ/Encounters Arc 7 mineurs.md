@@ -97,10 +97,10 @@
 - Sudenland soldiers disguised Nuln (Threshers Fione Brecht).
 - Heidheinheim Stirland bank Aver. Villageois massacrés.
 
-## Arc 7 ch.10 — Black Fire Pass
+## Arc 7 ch.10 — Col du Feu Noir
 
 ### Alberecht Haessler — Sergeant Bergjaeger Mountainguard
-- Patrol northern Black Fire Pass ch.10 l.42. Highly professional regiment.
+- Patrol northern Col du Feu Noir ch.10 l.42. Highly professional regiment.
 - News : *« We'll be called back to Averland soon. Hear they'll need us protect province from insurrection or Ulricans »*.
 
 ### Father Otto Rotmund — Priest Temple Holy Founding

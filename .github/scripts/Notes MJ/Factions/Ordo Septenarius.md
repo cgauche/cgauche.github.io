@@ -1,7 +1,7 @@
 # Ordo Septenarius — Culte de Tzeentch (Bögenhafen)
 
 ## Identité
-- **Allégeance** : **Tzeentch** (en arrière-plan : Sheerargetru, le Greater Daemon enchaîné Black Fire Pass)
+- **Allégeance** : **Tzeentch** (en arrière-plan : Sheerargetru, le Greater Daemon enchaîné Col du Feu Noir)
 - **Façade publique** : "**Société caritative philanthropique**" interne à la Merchants' Guild de Bögenhafen. Donne à Shallya, Bögenauer. Soup kitchen au Pit.
 - **Vraie nature** : culte Tzeentch fondé pour servir le pacte personnel de [[Johannes Teugen]] avec [[Gideon]]
 - **Statut** : [DÉCAPITÉ] depuis S12 — chef Teugen mort, Magirius mort, Steinhäger fugitif, 6 Inner Council membres survivants en fuite
@@ -59,14 +59,14 @@
 - **Sheerargetru** (le Greater Daemon Tzeentch enchaîné BFP) = vrai commanditaire derrière Gideon.
 - **6 Inner Council survivants** : peuvent reformer le culte ailleurs ou disparaître.
 - **Réseau périphérique** : Stevedores' Guild via **Gurney Dumkopf** (thugs hostiles Teugen). Doit être démantelé.
-- **Mines Schmerzeit Black Fire Pass** (FIL-15) : permis daté **9 Brauzeit 2508** pour Teugen + Steinhäger + **Jochen Haagen**. **Haagen continue l'opération** sous Gideon. **Connexion BFP ↔ Ghal Maraz cave** (Arc 7 climax).
+- **Mines Schmerzeit Col du Feu Noir** (FIL-15) : permis daté **9 Brauzeit 2508** pour Teugen + Steinhäger + **Jochen Haagen**. **Haagen continue l'opération** sous Gideon. **Connexion BFP ↔ Ghal Maraz cave** (Arc 7 climax).
 - **Cellule sœur potentielle** à Nuln (l'Université de Nuln a une réputation de daemonologie — où Teugen a étudié et invoqué Gideon). Hook.
 
 ## Hooks de retour
 - **Inner Council survivants reformés** : 1 ou plusieurs des 6 fuyards reformulent l'Ordo dans une autre ville.
 - **Steinhäger refait surface** : avec un nouveau plan Tzeentch, vendetta contre PJ.
 - **Investigation Ruggbroder / Graf Saponatheim** : les PJ témoins, démantèlement officiel post-arc.
-- **Lien direct à Sheerargetru** : si les PJ enquêtent sur ce qu'a vu/dit le Greater Daemon à S12, ils remontent au Black Fire Pass.
+- **Lien direct à Sheerargetru** : si les PJ enquêtent sur ce qu'a vu/dit le Greater Daemon à S12, ils remontent au Col du Feu Noir.
 - **Cellule sœur Nuln** : invoquée si la campagne passe par Nuln (cf. fiche [[Brecht Kavenner]] et [[Nuln]] pour la cellule **Ordo Ultima Slaanesh** — possible concurrence cultes Tzeentch/Slaanesh).
 - **Schmerzeit Mine** : Haagen + lien BFP — hook Arc 7.
 

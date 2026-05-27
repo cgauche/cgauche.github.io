@@ -1,6 +1,6 @@
 # The Night Vigil
 
-> **Secte fanatique au sein de l'Eternal Watch sigmarite de Grenzstadt. Corrompue indirectement par Tzeentch. Tue tous les pilleurs de tombes pour « préserver » les trésors anciens du Black Fire Pass jusqu'au retour de Sigmar.**
+> **Secte fanatique au sein de l'Eternal Watch sigmarite de Grenzstadt. Corrompue indirectement par Tzeentch. Tue tous les pilleurs de tombes pour « préserver » les trésors anciens du Col du Feu Noir jusqu'au retour de Sigmar.**
 
 ## Identité
 - **Allégeance** : **Sigmarisme apparent**, **Tzeentch en profondeur** (corruption indirecte via prophétie pervertie).
@@ -9,10 +9,10 @@
 - **Tags** : `#NightVigil` `#Grenzstadt` `#EternalWatch` `#Sigmarite` `#PerveriCorruption` `#Tzeentch` `#BlackFirePass` `#RaufWasserburg`
 
 ## Source
-- **EiR ch. 9** *Altdorf to Black Fire Pass* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Black Fire Pass.md`
+- **EiR ch. 9** *Altdorf to Col du Feu Noir* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Col du Feu Noir.md`
 
 ## Doctrine
-- **Croyance fondatrice** : Sigmar reviendra par le Black Fire Pass à la tête d'une armée.
+- **Croyance fondatrice** : Sigmar reviendra par le Col du Feu Noir à la tête d'une armée.
 - **Donc** : **tous les trésors anciens enterrés dans la région doivent rester en place** pour son retour.
 - **Interception et meurtre** systématiques des pilleurs de tombes — surtout des **tombes Naines** (alliance historique Sigmar/Nains).
 
@@ -46,13 +46,13 @@
 - **Petit groupe local** : éliminés à Grenzstadt, pas de renforts immédiats.
 
 ## Hooks pour les PJ
-- **Combat sur la route** : ch. 9 EiR, lors du voyage Altdorf → Black Fire Pass.
+- **Combat sur la route** : ch. 9 EiR, lors du voyage Altdorf → Col du Feu Noir.
 - **Démasquer Wasserburg** = libérer Grenzstadt d'une menace silencieuse + obtenir documents prouvant la perversion doctrinale.
 - **Information sur les tombes** : ironiquement, la Night Vigil sait où sont les **vraies tombes nains anciennes** — utile pour les PJ qui cherchent les **Trois Sœurs** (statues d'ancêtres naines marquant l'entrée de la gorge).
 
 ## Liens
 - **Arcs** : `Arc 7` (Arc 7 ch. 9)
 - **PNJ-clé** : **Rauf Wasserburg** (chef de la Vigil), 4 cultistes anonymes
-- **Lieux** : **Grenzstadt** (base, temple sigmarite), Black Fire Pass (terrain d'opération)
+- **Lieux** : **Grenzstadt** (base, temple sigmarite), Col du Feu Noir (terrain d'opération)
 - **Factions** : Eternal Watch Sigmarite (couverture), **PAS Main Pourpre** (corruption parallèle)
 - **Liens externes** : [[Sheerargetru]] (source ultime des prophéties pervertis), Nains de Karak Hirn et autres (alliés zélés probables — cf. King Alrik Ranulfsson Karak Hirn lien permis minier Schmerzeit FIL-15)

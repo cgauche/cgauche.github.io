@@ -67,7 +67,7 @@
 
 ## Hooks de retour
 
-- **Arc 7** : Si les PJ retournent dans les Monts du Milieu (Black Fire Pass canon EiR ch.9+), Le Piquet est un point d'étape probable.
+- **Arc 7** : Si les PJ retournent dans les Monts du Milieu (Col du Feu Noir canon EiR ch.9+), Le Piquet est un point d'étape probable.
 - **Maliss survivant ?** Hook possible — réapparition à proximité du Piquet.
 
 ## Liens

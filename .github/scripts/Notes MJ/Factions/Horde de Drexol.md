@@ -11,7 +11,7 @@
 - **Tags** : `#Drexol` `#Draxol` `#Horde` `#Beastman` `#Chaos` `#Wolfshügel` `#GhalMaraz` `#PureFire` `#PurpleHandIndirect`
 
 ## Source
-- **EiR ch. 12** *Black Fire Pass to Altdorf* l. 447-581 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Black Fire Pass to Altdorf.md`
+- **EiR ch. 12** *Col du Feu Noir to Altdorf* l. 447-581 : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Col du Feu Noir to Altdorf.md`
 
 ## Composition
 - **Drexol the Extinction** (Bestigor Warlord).
@@ -21,7 +21,7 @@
 - **30 Mutants** (épuisés par les marches forcées).
 
 ## Plan
-- **Marcher sur Wolfshügel** pour intercepter les PJ revenant de Black Fire Pass.
+- **Marcher sur Wolfshügel** pour intercepter les PJ revenant de Col du Feu Noir.
 - **Saisir Ghal Maraz** par la force.
 - **Le marteau revient à Drexol** — qui le détruirait ou le porterait comme trophée (les détails de l'after-plan ne sont pas spécifiés canoniquement — probablement il ne réalise pas le potentiel daemon-bane).
 

@@ -45,4 +45,4 @@
 - **Arcs** : `Arc 7` (Companion ch. 11, **scénario optionnel/parallèle**)
 - **PNJ liés** : **Captain Theocritus von Hayek** (allié, commandant de Diesdorf), **Bert Blum** (chef scout), **Sister Cordula Kurtz** + **Johann Pielstock** (autres conseillers survivants), [[Etelka Herzen]] (chef horde Red Crown approchante — déjà morte si tuée Arc 4)
 - **Factions** : [[Red Crown]] (cellule Diesdorf)
-- **Lieux** : **Diesdorf** (Reikland sud, sur la route Altdorf-Black Fire Pass)
+- **Lieux** : **Diesdorf** (Reikland sud, sur la route Altdorf-Col du Feu Noir)

@@ -12,11 +12,11 @@
 - **Tags** : `#OrlaFeder` `#MainPourpre` `#PurpleHand` `#Tzeentch` `#Nuln` `#MutéeIridescente` `#CelluleAutonome`
 
 ## Source
-- **EiR ch. 9** *Altdorf to Black Fire Pass* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Black Fire Pass.md`
+- **EiR ch. 9** *Altdorf to Col du Feu Noir* : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Col du Feu Noir.md`
 
 ## Plan
 - **Sème l'anarchie dans l'Empire** en vengeance des revers récents de la Main Pourpre.
-- **Voit l'arrivée des PJ** dans son territoire (Nuln, en route vers Black Fire Pass) **comme une bénédiction envoyée directement par Tzeentch** — opportunité de venger Kastor.
+- **Voit l'arrivée des PJ** dans son territoire (Nuln, en route vers Col du Feu Noir) **comme une bénédiction envoyée directement par Tzeentch** — opportunité de venger Kastor.
 - **Organise plusieurs embuscades** : cultistes armés de carreaux, attaques nocturnes.
 
 ## Signe de reconnaissance (Main Pourpre variant Nuln)
@@ -50,4 +50,4 @@
 - **Fils ouverts** : **FIL-23** (Cellule Main Pourpre Nuln) — Orla est probablement la successeure de facto de Kastor
 - **PNJ liés** : [[Kastor Lieberung]] (prédécesseur martyr), [[Yann Zuntermein]] (chef Altdorf, autorité reconnue mais distante)
 - **Factions** : [[Main Pourpre]] (cellule Nuln scindée)
-- **Lieux** : **Nuln** (base), route Altdorf → Black Fire Pass
+- **Lieux** : **Nuln** (base), route Altdorf → Col du Feu Noir

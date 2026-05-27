@@ -41,9 +41,9 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - Indices : visites régulières de **Elvyra** (mature lady, accent Altdorf) et **Gideon** (boy ~13 ans, coupe au bol, large sourire).
 - En cas d'affrontement : Black Lotus daggers + Ranald's Delight + throwing knives. Gold 1 assassin.
 
-### 3. Le voyage Altdorf → Black Fire Pass (ch. 9)
+### 3. Le voyage Altdorf → Col du Feu Noir (ch. 9)
 - *The Comet* (river patrol) puis *The Carroburg* (bateau) sont mis à disposition.
-- Route : Altdorf → Kemperbad → Nuln → Streissen → Averheim → Grenzstadt → Black Fire Pass.
+- Route : Altdorf → Kemperbad → Nuln → Streissen → Averheim → Grenzstadt → Col du Feu Noir.
 - **Gideon peut ralentir ou accélérer** subtilement pour caler sur le 9 Brauzeit.
 - **Averland en guerre civile** (Alptraum vs Leitdorf, siège de Streissen).
 - **Boss prévu par l'ancien MJ au retour (ch. 12)** : scénario de siège du Companion d'EiR avec **Filianore + champion du Graf** en antagonistes — option à reprendre ou non.
@@ -53,7 +53,7 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - **Jochen Haagen** (3e partenaire de Bögenhafen, possiblement encore vivant) y mène toujours l'opération.
 - Madcraw Clan nain. Trois Sœurs. Gorge cachée. Caverne où Sheerargetru est trapped. **Night Goblins** dans la gorge.
 
-### 5. Retour Black Fire Pass → Altdorf (ch. 12)
+### 5. Retour Col du Feu Noir → Altdorf (ch. 12)
 - Rencontre avec **Marius Leitdorf**.
 - **Battle of Wolfshügel** : peut-être avec les PJ.
 - **Drexol the Extinction** : warlord du chaos.
@@ -211,8 +211,8 @@ Le corps n'a pas été retrouvé. Plusieurs hooks possibles :
 ### Calendrier suggéré (canon)
 - **Démarrage EiR** : 18 Nachgeheim
 - Chapitre 8 : 1-2 jours à Altdorf
-- Chapitre 9 (Altdorf → Black Fire Pass) : ~3 semaines
-- Chapitres 10-11 (Black Fire Pass) : ~1 semaine
+- Chapitre 9 (Altdorf → Col du Feu Noir) : ~3 semaines
+- Chapitres 10-11 (Col du Feu Noir) : ~1 semaine
 - Chapitre 12 (retour) : ~2-3 semaines
 - **Climax** : 9 Brauzeit 2512 IC à 9h00 → arrivée des PJ 1-2 jours avant
 

@@ -59,8 +59,8 @@
 - **Vorn Nyman** — bookmaker, frère d'Albertus (EiR ch.15 l.132).
 - **Gerdt & Gertie** — Nyman servants (EiR ch.15 l.132).
 - **Hiero Greendale** — halfling assistant Nyman University (EiR ch.15 l.128).
-- **Sergeant Alberecht Haessler** — Grenzstadt Bergjaeger Patrol, Black Fire Pass (EiR ch.10 l.40-41) ; *"professional regiment, strict discipline, richly attired, offers news if Characters reassured"*.
-- **Mountainguard Bergjaeger** — patrouille Black Fire Pass (EiR ch.10 l.40-45) — pivot militaire frontière sud Averland.
+- **Sergeant Alberecht Haessler** — Grenzstadt Bergjaeger Patrol, Col du Feu Noir (EiR ch.10 l.40-41) ; *"professional regiment, strict discipline, richly attired, offers news if Characters reassured"*.
+- **Mountainguard Bergjaeger** — patrouille Col du Feu Noir (EiR ch.10 l.40-45) — pivot militaire frontière sud Averland.
 - **Averland 8th Halberds** — garnison Dok a Dum watchtower (EiR ch.10 l.112).
 
 ---
@@ -118,7 +118,7 @@
 **Neutralité ostensible** :
 - High Priest Sigmar Streissen (possible médiateur)
 - Streissen University (faction radicale = SIP front ; Master Albertus Nyman pivot ch.15)
-- Bergjaeger Mountainguard Black Fire Pass (loyaux à la Province, indifférents à la feud dynastique)
+- Bergjaeger Mountainguard Col du Feu Noir (loyaux à la Province, indifférents à la feud dynastique)
 
 **Tensions latentes** :
 - Vieille feud Alptraum-Leitdorf (générationnelle, plusieurs alternances)
@@ -207,7 +207,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 | Pendant EiR ch.9 | (Avant Battle) | **Characters arrivent au camp Leitdorf** (Streissen-half-day-march) ; rencontrent Marius + Daisy ; meal in enormous tent ; *"And I'm the one they call mad"* si Ghal Maraz révélé | EiR ch.9 l.360-376 |
 | Pendant EiR ch.9 | (Avant Battle) | **Characters peuvent mediator** (Marius/Marcus/Marlene + High Priest Sigmar Streissen) | EiR ch.9 l.424-435 |
 | Pendant EiR ch.9 | Battle of Streissen | **Leitdorf charge** depuis aval ; force Alptraum outflanked **deux fois** (Leitdorf rear + SIP gates) ; **Marlene's forces scattered, fuient Averheim** | EiR ch.9 l.438-439 ; ch.17 l.26 |
-| Pendant EiR ch.12 | Streissen post-coup | **Characters reviennent à Streissen** post-Black Fire Pass | EiR ch.12 l.85+ |
+| Pendant EiR ch.12 | Streissen post-coup | **Characters reviennent à Streissen** post-Col du Feu Noir | EiR ch.12 l.85+ |
 | Pendant EiR ch.12 | Alptraum's Winter Residence | **Marius mope** ; alcool + ordres erratiques ; purges Alptraum supporters → Deep Haus secret executions | EiR ch.15 l.91-95 (= ch.12 in pagination EiR) |
 | Pendant EiR ch.12 | Alptraum's Winter Residence | **Marcus Karlssen mitigates** worst Marius impulses ; **older servant imperial agent** warns Characters | EiR ch.15 l.95 ; EiR ch.15 l.155 |
 | Pendant EiR ch.12 | (si Characters découverts) | **12 soldats arrest order** + Marius **veut saisir Ghal Maraz** s'il découvre que les PJ l'ont | EiR ch.12 l.117-123 |
@@ -263,7 +263,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 - **Deep Haus gaol** : symbole de la répression nouvelle.
 
 ### Mention destin futur Marius (hors période fiche)
-- **Marius est tué en 2520 IC** à la Troisième bataille de Black Fire Pass par **Vorgaz Ironjaw** (Orc warlord) ; Karl-Franz tue Vorgaz en duel (Fandom Third Battle of Black Fire). **Hors période Turmoil** mais utile pour situer Marius dans la chronologie longue.
+- **Marius est tué en 2520 IC** à la Troisième bataille de Col du Feu Noir par **Vorgaz Ironjaw** (Orc warlord) ; Karl-Franz tue Vorgaz en duel (Fandom Third Battle of Black Fire). **Hors période Turmoil** mais utile pour situer Marius dans la chronologie longue.
 
 ---
 
@@ -283,7 +283,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 | **High Priest Sigmar Streissen** | Neutral, médiateur possible | (idem) | Continuité (EiR ch.9 l.427) |
 | **Master Albertus Nyman** | University Chancellor / Loremaster Streissen College | (idem) ; pivot opposition civile silencieuse possible | Vivant (EiR ch.15 l.127-162) |
 | **Captain Neuer** | Streissen College Watch | (idem) | Vivant (EiR ch.15 l.128-141) |
-| **Sergeant Alberecht Haessler** | Grenzstadt Bergjaeger Patrol, Black Fire Pass | (idem) | Vivant (EiR ch.10 l.40-41) |
+| **Sergeant Alberecht Haessler** | Grenzstadt Bergjaeger Patrol, Col du Feu Noir | (idem) | Vivant (EiR ch.10 l.40-41) |
 | **Cellule Averheim Main Pourpre** | Active, amplifie feud Alptraum-Leitdorf | **Non démasquée canon** ; continue à opérer | Variable (EiR Intro l.282-284) |
 | **Gislind Ursin (Blank Eye, Neuf Yeux)** | Tutor culture/philosophie Averheim, cultiste Tzeentch via Gideon | (idem) ; agenda Wolfgang continue jusqu'à mort de Wolfgang ch.13 | Variable (EiR Intro l.173-176 ; Fandom Neuf Yeux) |
 | **Yann Zuntermein** (Altdorf Main Pourpre) | Spymaster Chambre Noire + orchestrateur Empire-wide | Démasqué par dossier Chambre Noire post-Turmoil (cf. fiche 11) | Variable (EiR Intro l.215 ; cf. fiche 11) |
@@ -311,7 +311,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
   - **Conclave brisé ch.7** : Ludmilla et Marius **pas explicitement présents** au Conclave canon (le Conclave est tenu à Altdorf et Averland est trop loin / Ludmilla trop infirme) — voir section 10.
 
 - **Cascade vers [[Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains)]]** :
-  - **Mountainguard Bergjaeger Black Fire Pass** : patrouille de la frontière sud Averland (Border Princes, Greenskins, Trolls) (EiR ch.10 l.40-45).
+  - **Mountainguard Bergjaeger Col du Feu Noir** : patrouille de la frontière sud Averland (Border Princes, Greenskins, Trolls) (EiR ch.10 l.40-45).
   - **Averland 8th Halberds Dok a Dum** : garnison watchtower (EiR ch.10 l.112).
   - **Dwarfs Black + Worlds Edge Mountains** : voisins économiques (gems, minéraux, fourrures) ; *"jealously guard mining claims"* (Archives Vol I).
   - **Vorgaz Ironjaw 2520 IC** (Third Battle of Black Fire) : prélude lointain à la mort de Marius — hors période Turmoil mais cohérence chronologique.
@@ -342,7 +342,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 - **(canon)** **Streissen post-coup ch.15** : Alptraum's Winter Residence + *"older servant imperial agent warns Characters: 'You must go! Quickly! Leitdorf will have you all imprisoned or killed and will take the hammer'"* (EiR ch.15 l.155 paraphrase).
 - **(canon)** **Évasion 12 soldats arrest order** (EiR ch.12 l.117-123) — si Characters restent à Streissen alors que Marius découvre Ghal Maraz : 12 soldats les arrêtent, Marius saisit le Hammer.
 - **(canon)** **Master Albertus Nyman + Captain Neuer** — pivots ch.15 ; rescue mission cellar fugitives ; Wolfshügel temple clues research (EiR ch.15 l.127-162).
-- **(canon)** **Sergeant Alberecht Haessler + Bergjaeger Mountainguard** (EiR ch.10 l.40-41) — patrouille Black Fire Pass, professional regiment, offre nouvelles si Characters reassured.
+- **(canon)** **Sergeant Alberecht Haessler + Bergjaeger Mountainguard** (EiR ch.10 l.40-41) — patrouille Col du Feu Noir, professional regiment, offre nouvelles si Characters reassured.
 - **(canon)** **Averheim Main Pourpre cell** (EiR Intro l.282-284) — cellule non démasquée post-Turmoil ; hook investigation PJ post-Turmoil.
 - **(canon)** **Gislind Ursin Blank Eye tutor Averheim** (Fandom Neuf Yeux) — tutor Wolfgang Tzeentch via Gideon ; hook PJ ch.10-13 si recoupement avec Chambre Noire.
 - **(canon)** **Halfling Rebellion 2502 IC + investigation Schwarzhelm** (Fandom Marius Leitdorf) — précédent suppression brutale par Marius ; hook PJ enquête historique ou conséquences résiduelles dans la Mootland frontière.
@@ -357,13 +357,13 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 - **(canon + déduction)** **Streissen freistadt charter** : Characters peuvent plaider pour sa restauration post-coup (Marius dépressif pourrait y consentir sous pression PJ ou Karlssen).
 - **(canon + déduction)** **Réseau Alptraum résiduel** : si certains membres de la maison survivent (canon ne précise pas), hook PJ ralliement ou neutralisation.
 - **(canon + déduction)** **Heideck town** comme base Leitdorf : si confirmé par mais GM, hook PJ visite et exploration de l'héritage seigneurial.
-- **(canon + déduction)** **Mountainguard Bergjaeger** : recrutement PJ ou mission frontalière Black Fire Pass (vers Border Princes / Greenskins).
+- **(canon + déduction)** **Mountainguard Bergjaeger** : recrutement PJ ou mission frontalière Col du Feu Noir (vers Border Princes / Greenskins).
 
 ---
 
 ## 9. Sources (lignes précises)
 
-> **Note méta — pagination EiR ch.12/ch.15** : selon les versions du PDF EiR Volume 5, le chapitre couvrant Streissen post-coup est numéroté ch.12 (*"Black Fire Pass to Altdorf"*) ou ch.15 selon la pagination interne. Les deux conventions sont utilisées dans la conversion .md de Source/. Pour cette fiche, **ch.12 = chapitre principal du retour Altdorf** (incluant section Streissen post-coup) ; les lignes `EiR ch.15 l.X` réfèrent à la même section que `EiR ch.12 l.X` selon la pagination employée — les deux pointent vers le même passage canonique.
+> **Note méta — pagination EiR ch.12/ch.15** : selon les versions du PDF EiR Volume 5, le chapitre couvrant Streissen post-coup est numéroté ch.12 (*"Col du Feu Noir to Altdorf"*) ou ch.15 selon la pagination interne. Les deux conventions sont utilisées dans la conversion .md de Source/. Pour cette fiche, **ch.12 = chapitre principal du retour Altdorf** (incluant section Streissen post-coup) ; les lignes `EiR ch.15 l.X` réfèrent à la même section que `EiR ch.12 l.X` selon la pagination employée — les deux pointent vers le même passage canonique.
 
 ### Sources primaires C7 directement lues
 
@@ -375,7 +375,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
   - l.279 — tableau Electors post-Turmoil (Marius confirmé)
   - l.332-333 — **Ludmilla envoie Marlene dans le piège**
 
-- **EiR ch.9 *Altdorf to Black Fire Pass*** :
+- **EiR ch.9 *Altdorf to Col du Feu Noir*** :
   - l.325 — *"the struggle for power in Averland has smouldered for generations"*
   - **l.330-332 — SIP coup Rathaus Streissen** + cover story + réalité Marius
   - l.334 — Marius armée demi-journée downstream
@@ -402,7 +402,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
   - **l.40-45 — Sergeant Alberecht Haessler + Bergjaeger Mountainguard**
   - l.112 — Averland 8th Halberds Dok a Dum
 
-- **EiR ch.12 *Black Fire Pass to Altdorf*** :
+- **EiR ch.12 *Col du Feu Noir to Altdorf*** :
   - **l.85-95 — Streissen post-coup** (état général)
   - l.91 — Deep Haus gaol secret executions
   - l.93-94 — Marius paranoïa, SIP roundup
@@ -463,7 +463,7 @@ Le Turmoil au front Averland s'enclenche en plusieurs étapes orchestrées par M
 - [Third Battle of Black Fire — Fandom](https://warhammerfantasy.fandom.com/wiki/Third_Battle_of_Black_Fire) — Marius mort 2520 IC
 - [Vorgaz Ironjaw — Lexicanum](https://whfb.lexicanum.com/wiki/Vorgaz_Ironjaw) — Orc warlord tueur Marius
 - [Halfling Rebellion — Fandom](https://warhammerfantasy.fandom.com/wiki/Halfling_Rebellion) — 2502 IC, Marius répression brutale, Schwarzhelm dispatched
-- [Black Fire Pass — Fandom](https://warhammerfantasy.fandom.com/wiki/Black_Fire_Pass)
+- [Col du Feu Noir — Fandom](https://warhammerfantasy.fandom.com/wiki/Black_Fire_Pass)
 - [River Aver — Fandom](https://warhammerfantasy.fandom.com/wiki/River_Aver)
 - [Main Pourpre — Fandom](https://warhammerfantasy.fandom.com/wiki/Purple_Hand)
 

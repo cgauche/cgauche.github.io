@@ -18,10 +18,10 @@
   - **Ch.6 *The Wedding*** (280l) — S61 Malthe Barthelm tire sur Katarina + Wasmeier Pink Fire Tzeentch.
   - **Ch.7 *Emergency Conclave*** (291l) — S62 conclave + Thyrus Gormann + Boris brise Ghal Maraz + Fassbinder « le vrai est ailleurs ».
   - **Ch.8 *Aventuriers Audacieux Recherchés !*** (321l) — démarrage S64+ : Fassbinder handouts (Vithang Dum / Zan Mingol / Three Sisters / acrostiche SHEERARGETRU / Bertoldt the Malleun / permis minier Teugen-Steinhäger-Haagen 9 Brauzeit 2508 / Smednir-Sheerargetru) + Kappelmuller bedchamber.
-  - **Ch.9 *Altdorf to Black Fire Pass*** (524l) — voyage Carroburg fast patrol boat + Brunhilde von Flamme + Bauermann + Cerdic Linden Old Faith + Schertal raid + Schloss Bachmann + Hans Knees spy Emmanuelle + Orla Feder Main Pourpre Nuln branch + Threshers Fione Brecht + Streissen Leitdorf-Alptraum + Grenzstadt Eternal Watch + Night Vigil Rauf Wasserburg.
-  - **Ch.10 *In Sigmar's Footsteps*** (665l) — Black Fire Pass + Bloodmoss Plain + Black Fire Keep + Stations of Exodus + Vithang Dum + Three Mothers + Zan Mingol + Schmerzeit Mine + Lost Gorge + Madcraw Clan (Cacklespit + Mansplatta + Moongobba + Gruntlob) + Sievers Imperial Ostlanders.
+  - **Ch.9 *Altdorf to Col du Feu Noir*** (524l) — voyage Carroburg fast patrol boat + Brunhilde von Flamme + Bauermann + Cerdic Linden Old Faith + Schertal raid + Schloss Bachmann + Hans Knees spy Emmanuelle + Orla Feder Main Pourpre Nuln branch + Threshers Fione Brecht + Streissen Leitdorf-Alptraum + Grenzstadt Eternal Watch + Night Vigil Rauf Wasserburg.
+  - **Ch.10 *In Sigmar's Footsteps*** (665l) — Col du Feu Noir + Bloodmoss Plain + Black Fire Keep + Stations of Exodus + Vithang Dum + Three Mothers + Zan Mingol + Schmerzeit Mine + Lost Gorge + Madcraw Clan (Cacklespit + Mansplatta + Moongobba + Gruntlob) + Sievers Imperial Ostlanders.
   - **Ch.11 *Caves of Chaos*** (543l) — 9 cavernes thématiques (Vents de la magie) + Three-Headed Chaos Hound + Ghosts + Treacherous Herald + Adelfried Jarmund heretic Verena + Chaos Minotaur Lord + Harpies + **Ghal Maraz canon** (SB+7 Damaging Fine3 Pummel Unbreakable + Radiant Nimbus + Smednir's Master Rune Head-Wrecking + Rune of Goblin Bane + *Fire/Stalwart/Spell-Breaking inactives*).
-  - **Ch.12 *Black Fire Pass to Altdorf*** (601l) — Iron Marshall Kina Hammerwatch + Grimshank's Chain Dwarf network + Cult of Broken Fingers Martin Schmidt + Loremaster Albertus Nyman + Wolfshügel Mother's Mound + Drexol the Extinction Bestigor + Krukan arachnoid + Thirteen Slayer + Brother Adric Taal.
+  - **Ch.12 *Col du Feu Noir to Altdorf*** (601l) — Iron Marshall Kina Hammerwatch + Grimshank's Chain Dwarf network + Cult of Broken Fingers Martin Schmidt + Loremaster Albertus Nyman + Wolfshügel Mother's Mound + Drexol the Extinction Bestigor + Krukan arachnoid + Thirteen Slayer + Brother Adric Taal.
   - **Ch.13 *The Empire Saved*** (709l) — Captain Emil Baecker Zuntermein ambush + Maria-Luise von Walfen Empress token + Volkshalle reliquaire piégé Albertus Goldformer + Hermine Liebwitz wine cellar + Baron von Teufelsmilch Reiksguard infiltré + cérémonie 9 Brauzeit + Iztak Graksk chant + Sheerargetru manifesté + 5 endings possibles.
   - **History of Turmoil** (44l, Fassbinder POV) : résolution post-Arc 7 — Chambre Noire expose Zuntermein cultiste, Krieglitz+Bildhofen perdent siège, Gausser obtient Nordland Grand Baron + Runefang, Leitdorf prend Averland, Emmanuelle annexe Sudenland → Grand Countess Wissenland, Boris devient Grand Duke Middenland, Karl-Franz récupéré, Yorri+Wolfgang morts au climax, Volkmar Grand Theogonist.
 - **Sources annexes** : `Source/Empire In Ruins Companion/` (deleted scenes + Filianore retour option). `Source/Altdorf - Crown of the Empire/` (Volkshalle + Grand Cathedral + univers Altdorf). `Notes MJ/04 Fils ouverts` + `07 Suite canonique` + `08 Vision ancien MJ` + `09 Prep post-S63`.
@@ -38,7 +38,7 @@
 | S61 | ~1 Erntezeit | Cathédrale Sigmar Altdorf | Malthe Barthelm tire Katarina, Wasmeier Pink Fire (boule rosâtre), Phineas poignarde Barthelm |
 | S62 | ~2 Erntezeit | Volkshalle, conclave | Thyrus Gormann + Maria-Luise confirme alité, Boris brise Ghal Maraz, Fassbinder « vrai est ailleurs » |
 | S63 | ~3 Erntezeit (homebrew) | Manoir Helstein, Altdorf | **Boris MORT** (« Volkmar » = Gideon changelin), **Vieran DISPARU**, Katarina+Heinrich vivants |
-| S64+ | ~4 Erntezeit → 9 Brauzeit | Altdorf → Black Fire Pass → Altdorf | Fassbinder handouts + Carroburg + Schertal/Schloss Bachmann + Nuln/Orla Feder + Streissen/Leitdorf + Grenzstadt/Night Vigil + Black Fire Pass + Caves of Chaos + Ghal Maraz récupéré + Wolfshügel recharge + Drexol horde + Volkshalle climax |
+| S64+ | ~4 Erntezeit → 9 Brauzeit | Altdorf → Col du Feu Noir → Altdorf | Fassbinder handouts + Carroburg + Schertal/Schloss Bachmann + Nuln/Orla Feder + Streissen/Leitdorf + Grenzstadt/Night Vigil + Col du Feu Noir + Caves of Chaos + Ghal Maraz récupéré + Wolfshügel recharge + Drexol horde + Volkshalle climax |
 
 ### Tags
 
@@ -317,11 +317,11 @@
 - **Yorri fragilisé** modérément (faction radicale Volkmar pousse, cf. `09 §5`).
 - **Wasmeier still on the loose** + Zuntermein still alive (les deux peuvent s'alerter mutuellement vis-à-vis PJ).
 
-**Ce que les PJ savent (S64 attendu)** : Vrai Ghal Maraz Black Fire Pass près Three Mothers. 9e jour 9e mois cérémonie démon. Karl-Franz empoisonné Kappelmuller. Sheerargetru nom du démon.
+**Ce que les PJ savent (S64 attendu)** : Vrai Ghal Maraz Col du Feu Noir près Three Mothers. 9e jour 9e mois cérémonie démon. Karl-Franz empoisonné Kappelmuller. Sheerargetru nom du démon.
 
-### S65-67 — Chapitre 9 : Altdorf to Black Fire Pass
+### S65-67 — Chapitre 9 : Altdorf to Col du Feu Noir
 
-**Trajet** : Altdorf → Kemperbad → Nuln → Streissen → Averheim → Grenzstadt → Black Fire Pass. ~3 semaines.
+**Trajet** : Altdorf → Kemperbad → Nuln → Streissen → Averheim → Grenzstadt → Col du Feu Noir. ~3 semaines.
 
 **Acteurs ch.9** :
 - **The Carroburg** Imperial Navy Fast Patrol Boat City-Class (180 enc, 120 carry, M10, T60, W140). **Captain Brunhilde von Flamme** (Boatswain Silver 5, distantly Bildhofen relative, Ulrican leaning, incompetent socialite). **Lieutenant Ottilie Grissen** (Boatswain Silver 5, effective ship captain). **Marine-Captain Karl Bauermann** (Sergeant Silver 5).
@@ -381,7 +381,7 @@
 
 **Backup canon** : Si PJ refusent prendre marteau, Gideon recrute **Sievers + Renate Hausier + Sigrid Outlaw Chief + Golthog Ogre + Erina Eberhauer** (canon ch.11 l.514+). Sievers récupère + relâche Sheerargetru.
 
-### S72-74 — Chapitre 12 : Black Fire Pass to Altdorf
+### S72-74 — Chapitre 12 : Col du Feu Noir to Altdorf
 
 **Trajet retour** : Wolfshügel recharge marteau + Bataille horde Drexol. ~2-3 semaines.
 
@@ -548,6 +548,6 @@
 ## Liens
 
 - **Arcs adjacents** : [[Arc 6 - Le Rat Cornu]] (S40-55) → **Arc 7 (S56-63 joué + S64+ à préparer)** → post-EiR.
-- **Lieux** : [[Middenheim]] (centre S56-S57), **Altdorf / Manoir Helstein** (S58-S63), **Castle Reikguard** (S59), **Volkshalle** (S62 + climax ch.13), **Black Fire Pass + Wolfshügel** (ch.10-12), **Caves of Chaos** (ch.11), **Streissen + Averheim + Grenzstadt** (ch.9-12).
+- **Lieux** : [[Middenheim]] (centre S56-S57), **Altdorf / Manoir Helstein** (S58-S63), **Castle Reikguard** (S59), **Volkshalle** (S62 + climax ch.13), **Col du Feu Noir + Wolfshügel** (ch.10-12), **Caves of Chaos** (ch.11), **Streissen + Averheim + Grenzstadt** (ch.9-12).
 - **PNJ centraux** : [[Boris Todbringer]] (mort S63), [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Vieran Thugenheim]] (disparu S63), [[Karl-Heinz Wasmeier]], [[Gideon]], [[Maria-Luise von Walfen]] (à créer), Wolfgang Holswig-Abenauer (à créer), Karl-Franz Holswig-Schliestein (à créer), Hermann von Feilbach (à créer), Yann Zuntermein (à créer), Henrik Kappelmuller (à créer), Volkmar von Hindenstern (à créer), Yorri XV (à créer), [[Quintus Fassbinder]] (canon allié), Elvyra Kleinestun (à créer), Liepmund Holzkrug (à créer), Immanuel-Ferrand (à créer), Emmanuelle von Liebwitz (à créer), Hermine Liebwitz (à créer), Albertus Goldformer (à créer), Baron Teufelsmilch (à créer), Captain Emil Baecker (à créer), Marius Leitdorf (à créer), Theoderic Gausser (à créer), Etelka Toppenheimer (à créer), Leopold Bildhofen (à créer), 9 Yeux × 9 (à créer).
 - **Factions** : [[Main Pourpre]] (cellule Altdorf Zuntermein), Chevaliers Panthères + Reiksguard + Knights Fiery Heart, Chambre Noire, Spionwerber, Porteurs de Sang (Fils d'Ulric), 9 Yeux (organisation), Grimshank's Chain, Eternal Watch + Night Vigil, Threshers Toppenheimer, Nuln Branch Main Pourpre, Cult of the Broken Fingers, Horde Drexol Extinction (à créer ou linker).

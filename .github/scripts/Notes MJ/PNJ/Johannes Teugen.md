@@ -80,7 +80,7 @@
 
 ## Liens
 - **Arcs** : [[Arc 2 - Bögenhafen]]
-- **Fils ouverts** : FIL-15 (Haagen + Black Fire Pass — partenaire mining), FIL-27 (Inner Council survivants)
+- **Fils ouverts** : FIL-15 (Haagen + Col du Feu Noir — partenaire mining), FIL-27 (Inner Council survivants)
 - **PNJ liés** : [[Gideon]] (créateur du pacte, MJ), **Karl Teugen** (frère mort, victime Gideon), **Franz Steinhäger** (Inner Council ami), **Friedrich Magirius** (Inner Council ami, tué par Gideon S12), **Jochen Haagen** (3e partenaire BFP, n'apparait jamais à Bögenhafen)
 - **Lieux** : [[Bögenhafen]] (manoir Adel Ring), [[Nuln]] (université, lieu d'invocation initial)
 - **Factions** : [[Ordo Septenarius]] (fondateur, chef)

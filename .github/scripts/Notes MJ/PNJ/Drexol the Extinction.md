@@ -79,7 +79,7 @@
 - **Arcs** : `Arc 7` (Arc 7 ch. 12)
 - **PNJ liés** : [[Krukan]] (lieutenante stratège), **Thirteen the Dwarf Slayer** (envoyé de Gideon **pour les PJ** — **PAS** son intermédiaire), [[Gideon]] (pas son patron — Drexol est indépendant).
 - **Factions** : [[Horde de Drexol]] (commandant)
-- **Lieux** : Wolfshügel, route Black Fire Pass-Altdorf
+- **Lieux** : Wolfshügel, route Col du Feu Noir-Altdorf
 - **Artefact** : ***Pure Fire*** (épée corrompue implantée dans son torse)
 
 ## Liens externes

@@ -1,6 +1,6 @@
 # Lore — Le dernier voyage de Sigmar et la chasse de Sheerargetru
 
-> **MJ-only.** Synthèse de référence pour tout l'arc 7 *Empire in Ruins* (S64 → ch.13). Reconstitue la vraie histoire derrière les fragments que les PJ découvrent à Altdorf, sur le voyage, à Karak Hirn, à Averheim, à Black Fire Pass, et au climax Volkshalle.
+> **MJ-only.** Synthèse de référence pour tout l'arc 7 *Empire in Ruins* (S64 → ch.13). Reconstitue la vraie histoire derrière les fragments que les PJ découvrent à Altdorf, sur le voyage, à Karak Hirn, à Averheim, à Col du Feu Noir, et au climax Volkshalle.
 >
 > Source canon : EiR ch.8 (Yodri vol.1 et vol.2, Tante Augusta, Bertoldt le Malleun, lettre Wasmeier-Lieberung), EiR ch.10-11 (Caves of Chaos), EiR ch.13 (Volkshalle). Compléments homebrew explicites.
 
@@ -20,7 +20,7 @@ Smednir achève **Ghal Maraz** sans son influence, avec l'aide des autres Ancest
 
 ## II. Sigmar et Ghal Maraz
 
-Deux mille ans plus tard, le jeune chef humain **Sigmar Heldenhammer** unit les tribus du Vieux Monde et aide les Nains à repousser les hordes orques de la **Bataille de Black Fire Pass**.
+Deux mille ans plus tard, le jeune chef humain **Sigmar Heldenhammer** unit les tribus du Vieux Monde et aide les Nains à repousser les hordes orques de la **Bataille de Col du Feu Noir**.
 
 En remerciement, le **Haut Roi Kurgan Ironbeard** offre Ghal Maraz à Sigmar. Le marteau passe du panthéon nain au panthéon humain — porteur unique du pouvoir anti-Sheerargetru. Personne ne le sait à l'époque (les Nains gardent la mémoire de la forge Zharren cloisonnée, et Sigmar ignore l'histoire complète du marteau qu'il porte).
 
@@ -140,5 +140,5 @@ Synthèse de la reconstitution attendue sur 12 mois :
 - **Handout Fassbinder** : [[Handouts/Fassbinder - documents bureau]] (lettre Wasmeier-Lieberung §IV avec acrostiche)
 - **Enquête Kappelmuller** : [[Scénarios/Le réveil d'Altdorf/Enquête Kappelmuller]]
 - **PNJ centraux** : [[Sheerargetru]] (à créer), [[Gideon]], [[Yann Zuntermein]], [[Karl-Heinz Wasmeier]], [[Henrik Kappelmuller]], [[Volkmar von Hindenstern]], [[Baron von Teufelsmilch]], [[Honorio Schaftem]] (à créer), [[Jochen Haagen]] (à créer), [[King Alrik Ranulfsson]] (à créer).
-- **Lieux** : [[Black Fire Pass]], [[Vithang Dum]] (à créer), [[Zan Mingol]] (à créer), [[Trois Mères]] (à créer), [[Lost Gorge]] (à créer), [[Mine Schmerzeit]] (à créer), [[Karak Hirn]], [[Volkshalle Altdorf]] (à créer).
+- **Lieux** : [[Col du Feu Noir]], [[Vithang Dum]] (à créer), [[Zan Mingol]] (à créer), [[Trois Mères]] (à créer), [[Lost Gorge]] (à créer), [[Mine Schmerzeit]] (à créer), [[Karak Hirn]], [[Volkshalle Altdorf]] (à créer).
 - **Canon source** : EiR ch.8 (consultation Fassbinder), ch.10 (route Averheim-BFP), ch.11 (Caves of Chaos, récupération Ghal Maraz), ch.13 (Volkshalle climax).

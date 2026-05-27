@@ -204,7 +204,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 
 ### 6. Quête du marteau (ch.8-12)
 - Les Characters partent récupérer les **9 fragments de Ghal Maraz** dispersés par Boris.
-- Voyage Altdorf → Black Fire Pass → Karak Skygg → Heideinheim (cascade fiche 03/08) → Streissen (cascade fiche 04) → Castle Drachenfels (cascade fiche 06) → autres lieux.
+- Voyage Altdorf → Col du Feu Noir → Karak Skygg → Heideinheim (cascade fiche 03/08) → Streissen (cascade fiche 04) → Castle Drachenfels (cascade fiche 06) → autres lieux.
 
 ### 7. Démasquage potentiel Kappelmuller (ch.8)
 - Si les PJ visitent la chambre impériale + administrent Vitality Draught (EiR ch.8 l.114) → Karl-Franz lucide quelques minutes → preuve empoisonnement.

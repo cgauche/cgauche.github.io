@@ -1,6 +1,6 @@
 # Madcraw Clan (Night Goblins)
 
-> **Clan de Night Goblins niché dans une gorge perdue du Black Fire Pass. Obstacle direct entre les PJ et la caverne de Ghal Maraz. Influence chaotique passive due à la proximité de Sheerargetru.**
+> **Clan de Night Goblins niché dans une gorge perdue du Col du Feu Noir. Obstacle direct entre les PJ et la caverne de Ghal Maraz. Influence chaotique passive due à la proximité de Sheerargetru.**
 
 ## Identité
 - **Type** : Tribu de **Night Goblins**, descendants des bosses de la **Crookblades tribe** (Worlds Edge Mountains).
@@ -21,7 +21,7 @@
 - **Cacklespit** prend le pouvoir après avoir découvert les **Purple Cap mushrooms** dans le Northern Gorge — fungus qui lui donne des visions.
 
 ## Territoire — La Lost Gorge
-- Gorge cachée à l'est du **Black Fire Pass**.
+- Gorge cachée à l'est du **Col du Feu Noir**.
 - Le **Northern Gorge** contient :
   - Les **Purple Cap mushrooms** (uniques, hallucinogènes magiques).
   - **La caverne de Sheerargetru / Ghal Maraz** que les Night Goblins **sentent comme « warped and wrong »** et **évitent**.
@@ -92,5 +92,5 @@ Créature géante du clan — peut être relâchée comme mesure de dernier reco
 ## Liens
 - **Arcs** : `Arc 7` (Arc 7 ch. 11)
 - **PNJ-clés** : [[Cruzzik Cacklespit]] (Shaman-Warboss), Slik Moongobba (rival), Globnak Mansplatta (rival), Urk Bleezug (Green Racket), Gitface, Olgog Gristlefang
-- **Lieux** : **Lost Gorge** (Black Fire Pass), **Caves of Chaos** (à proximité)
+- **Lieux** : **Lost Gorge** (Col du Feu Noir), **Caves of Chaos** (à proximité)
 - **Liens externes** : [[Sheerargetru]] (proximité psychique), [[Gideon]] (peut imiter les leaders)

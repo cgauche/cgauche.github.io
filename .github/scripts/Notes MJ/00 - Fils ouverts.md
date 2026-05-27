@@ -119,7 +119,7 @@
 - **Effet** : Sheerargetru se souvient. Hook **majeur** pour Arc 7 EiR (climax Volkshalle).
 - **Liens** : `Arc 7`
 
-### FIL-15 — Jochen Haagen / mines Schmerzeit / Black Fire Pass
+### FIL-15 — Jochen Haagen / mines Schmerzeit / Col du Feu Noir
 - **Statut** : OUVERT (continu, hors-arc)
 - **Né en** : pré-S5 (permis daté **9 Brauzeit 2508 IC**)
 - **Dernier mouvement** : S12 — Teugen mort, Steinhäger affaibli, **Haagen continue l'opération minière** sous influence Gideon. Mines vers les **Trois Sœurs** (statues nains BFP), proches de la grotte de Ghal Maraz.
@@ -532,13 +532,13 @@
 ### FIL-67 — Night Vigil / Rauf Wasserburg (Grenzstadt)
 - **Statut** : OUVERT
 - **Né en** : Arc 7 ch. 9
-- **Réactivation canon** : EiR ch. 9 — embuscade route Altdorf-Black Fire Pass.
+- **Réactivation canon** : EiR ch. 9 — embuscade route Altdorf-Col du Feu Noir.
 - **Hooks** : (a) faux accident d'éboulement ; (b) démasquer Wasserburg ; (c) prouver perversion doctrinale sigmarite.
 - **Liens** : [[Night Vigil]] · Rauf Wasserburg · [[Sheerargetru]] (source ultime des prophéties pervertis)
 
 ### FIL-68 — Diesdorf siege / Red Crown coup (Detlef Rotlander) — sous-intrigue parallèle
 - **Statut** : OUVERT (scénario indépendant Companion ch. 11)
-- **Né en** : Arc 7 ch. 9-10 (route Altdorf vers Black Fire Pass)
+- **Né en** : Arc 7 ch. 9-10 (route Altdorf vers Col du Feu Noir)
 - **Réactivation canon** : EiR Companion ch. 11 *The Siege of Diesdorf*. Peut être déclenché par Gideon pour ralentir les PJ.
 - **Hooks** : (a) PJ deviennent membres du conseil de Diesdorf ; (b) traque de Rotlander ; (c) décision sur le Gor « Red » ; (d) intrigue politique multi-jours (5-6 jours de décisions).
 - **Liens** : [[Detlef Rotlander]] · [[Red (Gor captif)]] · [[Red Crown]] · [[Etelka Herzen]] (si vivante, chef horde — déjà morte si tuée Arc 4) · Wernor Noll (allié potentiel) · [[Gideon]] (manipulateur indirect)

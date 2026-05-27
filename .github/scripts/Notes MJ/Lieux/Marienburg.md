@@ -42,7 +42,7 @@ Le Marienburger stéréotypique est un marchand cupide et beau parleur, prêt à
 ## Rôle Arc 7
 
 - **Position de Wolfgang Holswig-Abenauer sur Marienburg** : interrogé par les PJ sur ce qu'il compte faire de la cité, le Prince Héritier répond *« I think it would cause lasting resentment to pressure them into rejoining the Empire. I hope in time that we can persuade them that it is to our mutual benefit for them to return. Trade would benefit, and they could retain much of their independence and customs. »* `EiR ch.4 l.126`. Cap diplomatique patient, pas militaire.
-- **Rumeurs Caves of Chaos** : sur la route du Black Fire Pass, les rumeurs colportées par les caravaniers attribuent parfois aux marchands marienburgers la manipulation de leurs rivaux commerciaux pour les pousser à se faire la guerre — paranoïa banale ou indice ? `EiR ch.10 l.139`.
+- **Rumeurs Caves of Chaos** : sur la route du Col du Feu Noir, les rumeurs colportées par les caravaniers attribuent parfois aux marchands marienburgers la manipulation de leurs rivaux commerciaux pour les pousser à se faire la guerre — paranoïa banale ou indice ? `EiR ch.10 l.139`.
 - **Théoderic Gausser** : une fois reconnu comme Électeur Comte du Nordland post-Turmoil, il restaure la revendication ancienne du **Duché de Marienburg** au titre du Nordland, ce qui contribue à son sur-engagement diplomatique `EiR Companion ch.5 l.58`.
 - **Issue ch.13 (mauvaise fin)** : si le climax du 9 Brauzeit échoue et que Sheerargetru transforme la Volkshalle puis le Palais Impérial en porte du Chaos, Marienburg ferme l'accès du Reik à tout trafic en provenance de l'Empire `EiR ch.13 l.570`.
 

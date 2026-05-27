@@ -1,79 +1,56 @@
 # Reiksguard
 
-> **Grand Order of the Reiksguard** : elite secular order knights sworn défense **Reikland + Imperial bloodline**. **HQ Castle Reikguard**. **Reiksmarshall Kurt Helborg** commander Empire's field armies. **Hermann von Feilbach Cercle Intérieur** = double Karl-Franz. **Imperial Palace Garrison** sous Baron von Teufelsmilch — **infiltrée par Gideon** pour climax ch.13 (9 cultist-Reiksguard False Honour Guard).
+**Sous-titre** : Grand Ordre de chevalerie d'élite, garde personnelle de l'Empereur  
+**Statut** : [ORDRE ACTIF — GARNISON PALAIS INFILTRÉE ARC 7]
 
-## Identité
-- **Type** : **Elite knightly order**, secular, Reiksguard cadre Empire.
-- **Sworn** : Reikland + Imperial bloodline défense.
-- **HQ** : **Castle Reikguard** (canon ch.4 l.67) — promontoire 200ft Reiker Marshes, refuge Imperial post-Gorbad Ironclaw 1707 IC.
-- **Tags** : `#Reiksguard` `#Reikland` `#Helborg` `#FeilbachInnerCircle` `#Teufelsmilch` `#PalaceGarrison` `#FalseHonourGuard` `#GideonInfiltration` `#Climax` `#Arc7`
+## Composition / Hiérarchie
 
-## Source
-- **EiR Intro l.515** *Reiksguard* knightly profile : *« bodyguard of the Imperial family. Have Commanding Presence, Iron Will, and Supportive Talents »*.
-- **EiR Intro l.827-871** *Hermann Von Feilbach The Emperor's Double Reiksguard Inner Circle*.
-- **EiR ch.4** Castle Reikguard description.
-- **EiR ch.13 l.309-325** *Baron Augustus Bardeleben von Teufelsmilch* commands palace garrison.
-- **EiR ch.13 l.338** : *« Marshal Helborg, commander of the Empire's field armies, is away dealing with the crisis at Ubersreik. Much of the Reiksguard has gone with him »*.
+- **Reiksmarshall et Grand Maître** : Kurt Helborg commande l'ordre et les armées de campagne de l'Empire ; ses appartements occupent les étages supérieurs de la tour-citadelle du chapitre d'Altdorf, au-dessus de la bibliothèque et des archives `Altdorf ch.5 l.595-597` `Altdorf ch.5 l.606`.
+- **Cercle Intérieur** : structure de commandement de l'ordre ; un Chevalier du Cercle Intérieur notable est Hermann von Feilbach, Premier Chevalier élevé au rang de sosie officiel de l'Empereur après son recrutement à la Chambre Noire par Immanuel-Ferrand Holswig-Schliestein `EiR Intro l.849-854` `EiR Intro l.866`.
+- **Chevaliers Précepteurs (Gold 2)** : vétérans portant divers titres (sergents d'escadron, premiers chevaliers, cleric-captains, précepteurs) ; profil avec Roughrider, Strike Mighty Blow, Unshakable `EiR Intro l.544-556`.
+- **Chevaliers du Reiksguard (Silver 5)** : chevaliers de base de l'ordre — profil chevalier générique enrichi des Talents *Commanding Presence*, *Iron Will* et *Supportive* qui caractérisent le serment de garde de la famille impériale `EiR Intro l.537` `EiR Intro l.539-542`.
+- **High Helms** : cadre cérémoniel et garde rapprochée de l'Empereur lors des défilés et apparitions publiques ; une bande de High Helms accompagne les chevaliers à pied de la Garde du Palais Impérial dans le cortège du Jour du mariage, et deux High Helms repoussent poliment le colonel Sievers qui tente d'approcher « Karl-Franz » au pavillon impérial `EiR ch.5 l.158` `EiR ch.5 l.199`.
+- **Garnison du Palais Impérial** : chevaliers à pied et chevaliers du Reiksguard affectés à la sécurité du palais et de ses dépendances ; commandement assuré par le Baron Augustus Bardeleben von Teufelsmilch (cf. ci-dessous) `EiR ch.5 l.158` `EiR ch.13 l.309`.
+- **Untersuchung** : petite organisation interne au Reiksguard qui débusque la corruption au sein de la cour et de l'armée ; basée dans un bâtiment discret du siège d'Altdorf ; opère en zone moralement grise et entretient une bibliothèque d'ouvrages interdits `Altdorf ch.5 l.619-620` `Altdorf ch.10 l.56`.
 
-## Hiérarchie
+## Doctrine
 
-### Reiksmarshall
-- **[[Reiksmarshall Kurt Helborg]]** : Reiksmarshall current. Commander Empire's field armies. **Veteran ami personnel Karl-Franz**. **Avait avisé contre Teufelsmilch retraite**. **Absent climax Altdorf** (à Ubersreik avec much Reiksguard).
+- **Serment au Reikland et à la lignée impériale** : ordre laïc d'élite, *« sworn to defend the Reikland and the Imperial bloodline »* `EiR ch.4 l.67`. Depuis sa fondation en 2429 IC par Wilhelm III, chaque chevalier jure de sacrifier sa vie pour défendre son Empereur, traité comme l'incarnation vivante de Sigmar `Altdorf ch.5 l.595-597`.
+- **Recrutement aristocratique impérial** : Wilhelm III institue la tradition que le Reiksguard recrute les héritiers des familles nobles à travers tout l'Empire ; les seigneurs aristocrates pressent leurs fils de rejoindre l'ordre pour le prestige et l'accès à la Cour Impériale ; en échange, les Empereurs du Reikland sécurisent la loyauté des maisons nobles éloignées `Altdorf ch.5 l.599`.
+- **Affiliation religieuse** : ordre séculier mais les Sigmarites y prédominent ; les chevaliers du Reiksguard accueillent chaleureusement une délégation perçue comme sigmarite et offrent leur assistance, mais réservent un froid respect distant aux personnes perçues comme ulricaines `Altdorf ch.5 l.535` `EiR ch.4 l.88`.
+- **Réseau d'espionnage propre** : il est de notoriété publique que le Reiksguard entretient son propre réseau d'espionnage — l'Untersuchung — et conserve une certaine indépendance à l'égard de la Chambre Noire `Altdorf ch.5 l.535` `Altdorf ch.5 l.619`.
 
-### Cercle Intérieur
-- **[[Hermann von Feilbach]]** : First Knight Gold 2 + sosie Karl-Franz. **Knows Reiksguard rules but plays Emperor reluctantly**.
-- **Captain Jurgen von Ostbrun zu Kaeserock** (canon ch.7 l.75) : Reiksguard Captain — investigate cousin Georg + Jacob mort Altdorf S6 Enemy in Shadows.
+## Rôle officiel vs Rôle réel
 
-### Palace Garrison (Altdorf)
-- **Baron Augustus Bardeleben von Teufelsmilch** : commander Palace Garrison aged. **Companion d'enfance Luitpold père Karl-Franz**. **Fond old war stories + supervision lax** = exploitable Gideon transfers.
+- **Rôle officiel** : protéger la personne de l'Empereur et garder ses possessions à Altdorf et dans tout l'Empire ; couleurs rouge et blanc ; emblèmes du crâne couronné, des feuilles de laurier et de la Couronne Impériale `Altdorf ch.5 l.525-533`. À la Volkshalle d'Altdorf, le Reiksguard prend la responsabilité de la sécurité de tous ceux qui assistent aux cérémonies, chaque délégation conservant sa propre garde d'honneur chevaleresque `Altdorf ch.5 l.458`.
+- **Compromission Arc 7** : la garnison du palais sous Baron Augustus Bardeleben von Teufelsmilch est infiltrée par Gideon, qui exploite la lassitude et l'inattention du baron pour faire transférer plusieurs cultistes-Reiksguard dans la garde d'honneur du Reliquaire pour la cérémonie du 9 Brauzeit `EiR ch.13 l.309` `EiR ch.13 l.324`. Le Baron signe et tamponne lui-même les ordres de rotation sans en garder mémoire, et marmonne sur les *« demands of war … can't keep track of every blasted thing »* quand on lui présente les pièces `EiR ch.13 l.324`.
+- **Absence stratégique de Helborg** : à la veille du climax, le Reiksmarshall Helborg gère personnellement la crise d'Ubersreik et a emmené une grande partie du Reiksguard avec lui ; ce départ vide le palais de ses cadres les plus aguerris et laisse le terrain libre à Gideon `EiR ch.13 l.338` `EiR ch.13 l.237`.
 
-### Knights (Altdorf chapter + others)
-- **Altdorf Chapter Chevaliers Panthères** : 6 knights vanguard Altdorf delegation ch.3 + 20+ guards Yorri Shining Rock S58.
-- **High Helms cadre** : *« two High Helms »* (canon ch.5 l.82). Repoussent tout individu près empereur défile.
-- **Reiksguard infantry** : foot knights canon Intro l.515.
+## Influence
 
-## Honour Guard False Reliquary climax ch.13
+- **Castle Reikguard** : promontoire de plus de 200 pieds dominant les Marais du Reiker, au confluent du Teufel et du Reik. Quartier général militaire de l'ordre depuis sa fondation, le château sert également de refuge à l'Empereur et à sa famille en temps de crise depuis l'invasion de Gorbad Ironclaw en 1707 IC ; il a été lourdement refortifié après le retrait des forces de Gorbad et incorpore des dispositifs runiques nains qui repoussent la magie — toute Tentative de sort y subit un malus de 3 SL sur les Tests de Channelling et Language (Magick), et jusqu'à 6 SL pour les sorts de Witchcraft, Necromancy, Daemonology et Chaos `EiR ch.4 l.67-77` `EiR ch.4 l.83`.
+- **Chapter House d'Altdorf** : citadelle fortifiée à l'intérieur d'Altdorf, défendable même si un ennemi perce les murs de la cité ; tour de brique dominant l'horizon, baraquements, écuries, chenils et cellules. Le Wilhelm Gate, marqué d'une frise du couronnement de Wilhelm III, est l'entrée cérémonielle principale ; le White Gate, plus petit, marqué des symboles de Shallya, est réservé aux novices et aux blessés revenant du combat `Altdorf ch.5 l.601-604`. La Grande Salle (Grand Hall) accueille les évènements significatifs et les festins ; des centaines de petits boucliers décorent les murs, chacun portant les armes d'un frère chevalier tombé `Altdorf ch.5 l.608`.
+- **Garnison du Palais Impérial** : sous le Baron Augustus Bardeleben von Teufelsmilch, la garnison comprend chevaliers à pied et chevaliers du Reiksguard, archers, et le cadre des High Helms pour le service cérémoniel `EiR ch.5 l.158` `EiR ch.13 l.309`.
+- **Présence à la Volkshalle** : lors du Conclave d'Urgence, des paires de Reiksguard sont postées à chaque ouverture donnant de la galerie au plancher de conférence pour empêcher quiconque d'interrompre la réunion ; les invités ne sont autorisés ni armure ni arme, sauf un poignard et une arme de main pour l'honneur `EiR ch.7 l.99`. Pendant les préparatifs du climax, les Reiksguard escortent fermement les Nordlandais venus pétitionner pour leur indépendance — *« now is not the time »* `EiR ch.13 l.318`.
+- **Recrutement à travers l'Empire** : la famille von Eckstein, l'une des grandes maisons d'Altdorf, a son fils et son neveu dans les rangs du Reiksguard — illustration de la portée du recrutement aristocratique de l'ordre `Altdorf ch.5 l.299`.
 
-- **9 cultist-Reiksguard** : *« cultists who have replaced honour guard for Reliquary »*. Detected by **Hard -20 Perception** finding duty roster signed Baron Teufelsmilch + stamped seal — **Baron has no memory of approving**.
-- **Iztak Graksk chant 9 times** post-Wolfgang Hammer drop → 9 Eyes burn pink/blue flames.
-- **2nd cultist guard kills Yorri** poleaxe. **3rd stabs Wolfgang back**.
-- **Statbloc ch.13 l.390** :
-  - M4 WS50 BS35 S40 T40 I49 Ag35 Dex30 Int30 WP55 Fel30 W17.
-  - Traits Armour 4, Weapon (Halberd) +9. Skills Athletics 45, Cool 70, Dodge 45, Melee (Basic+Polearm) 70, Perception 55. **Drilled, Riposte, Strike Mighty Blow**. **Main Pourpre Tattoo detectable corpses search**.
+## Personnages clés
 
-## Statbloc Reiksguard generic (Intro l.515)
-
-Use Knight Preceptor profile EiR Intro l.526 + Talents : **Commanding Presence, Iron Will, Supportive**.
-
-**REIKSGUARD KNIGHT — KNIGHT (SILVER 5)** :
-
-| M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 4 | 50 | 30 | 50 | 35 | 50 | 45 | 35 | 30 | 40 | 40 | 15 |
-
-- Traits Armour 4, Weapon Sword+10, Weapon Lance+12. **Commanding Presence + Iron Will + Supportive**. Strike Mighty Blow, Roughrider.
-
-## Apparitions par session
-
-### Arc 7
-- **S58 Shining Rock attack** : Reiksguard mix Knights Griffon + Fiery Heart + Panthères d'Altdorf defense Yorri.
-- **S59 Castle Reikguard** : escort PJ guest rooms + Wolfgang interview.
-- **S60 défilé** : Reiksguard parade. 2 High Helms guard pavilion KF.
-- **S61 mariage** : Reiksguard ceremony.
-- **S62 conclave Volkshalle** : Reiksguard mezzanine pairs.
-- **Ch.13 climax** : **9 cultist-Reiksguard False Honour Guard** — loyaliste Reiksguard fight back si PJ démasquent.
+- **Reiksmarshall Kurt Helborg** — Grand Maître du Reiksguard et commandant des armées de campagne de l'Empire ; ami personnel et vétéran proche de Karl-Franz Holswig-Schliestein ; avait conseillé contre le maintien du Baron Augustus Bardeleben von Teufelsmilch à la tête de la garnison passé l'âge de la retraite, mais s'est plié à l'affection de l'Empereur pour son ancien compagnon `EiR ch.13 l.309`. Absent du climax car il gère personnellement la crise d'Ubersreik avec une grande partie du Reiksguard `EiR ch.13 l.338`. Il revient *« somewhat bedraggled »* après le rituel et embrasse Karl-Franz en s'écriant *« Hah, I knew well you were only malingering! »* `EiR ch.13 l.640`.
+- **Hermann von Feilbach** — First Knight (Gold 2), petit noble des fiefs d'Altdorf devenu sosie de Karl-Franz Holswig-Schliestein après son recrutement par Immanuel-Ferrand Holswig-Schliestein ; instruit par la Chambre Noire à l'art de l'espionnage, équipé de la Silver Seal et de l'Imitation Ghal Maraz ; se considère comme chevalier d'abord, et supporte mal sa double vie d'imposteur `EiR Intro l.849-854` `EiR Intro l.856-857` `EiR Intro l.866`.
+- **Baron Augustus Bardeleben von Teufelsmilch** — commandant âgé de la garnison du palais ; compagnon d'enfance du père de Karl-Franz Holswig-Schliestein, Luitpold ; maintenu en service passé l'âge de la retraite par affection impériale et contre l'avis de Helborg ; plus enclin aux vieilles histoires de guerre qu'à la supervision de son commandement, ce qui a permis à Gideon d'arranger quelques changements `EiR ch.13 l.309`. Accueille les PJ comme *« Heroes of the Hammer »* autour de cigares et de boissons, signe les ordres de rotation sans s'en souvenir et marmonne *« No need to worry. The Imperial Palace is locked up tight as a drum! »* `EiR ch.13 l.322`.
+- **Capitaine Jurgen von Ostbrun zu Kaeserock** — Capitaine du Reiksguard présent au Conclave d'Urgence ; son cousin Georg von Ostbrun et son ami Jacob von Katzenreik ont été assassinés dans les tavernes d'Altdorf quelques mois auparavant (épisode rapporté dans *Enemy in Shadows*) et il cherche désespérément leurs meurtriers `EiR ch.7 l.75-76`.
 
 ## Hooks Arc 7
-- **Démasquer infiltration** : duty roster Baron Teufelsmilch + Reiksguard transfers récents.
-- **Ally Reiksguard loyaliste** : Captain Jurgen von Ostbrun zu Kaeserock + Marshal Helborg (absent climax — post arrival ch.13).
-- **Maria-Luise token retinue** = access Volkshalle Reiksguard checkpoints.
 
-## Liens
-- **Arcs** : Arc 7 (all sessions presence).
-- **PNJ** : [[Reiksmarshall Kurt Helborg]] (Reiksmarshall absent climax), [[Hermann von Feilbach]] (Cercle Intérieur + double KF), [[Baron von Teufelsmilch]] (Palace Garrison commander manipulé), [[Captain Jurgen von Ostbrun zu Kaeserock]] (Captain investigating Altdorf S6).
-- **Lieux** : [[Castle Reikguard]] (HQ), [[Altdorf]] (Imperial Palace garrison + Volkshalle climax).
-- **Factions liées** : [[Maison Holswig-Schliestein]] (Imperial sworn défense), [[Main Pourpre]] (infiltrators Gideon).
+- **Audience au Castle Reikguard (ch.4)** : les PJ délivrent au Prince Héritier Wolfgang Holswig-Abenauer la nouvelle de l'acceptation de Katarina Todbringer ; observation directe du QG du Reiksguard et possibilité d'évaluer Wolfgang sur l'édit des Mutants, l'occupation d'Ubersreik et les Neuf Yeux `EiR ch.4 l.21-22` `EiR ch.4 l.66-77`. L'attitude du Reiksguard envers les PJ varie selon l'allégeance du groupe perçue comme sigmarite ou ulricaine `EiR ch.4 l.88`.
+- **Sécurité du Conclave d'Urgence (ch.7)** : pendant le sommet électoral à la Volkshalle, les paires de Reiksguard gardent les ouvertures de la galerie et confisquent armures et armes lourdes des invités. Une éventuelle approche par le Capitaine Jurgen von Ostbrun zu Kaeserock ouvre un canal pour ramener des informations sur les meurtres d'Altdorf passés `EiR ch.7 l.75-76` `EiR ch.7 l.99`.
+- **Détection de la False Honour Guard (ch.13)** : Maria-Luise von Walfen confie aux PJ son malaise concernant les *« new faces »* au sein du palais et les oriente vers le Baron Augustus Bardeleben von Teufelsmilch `EiR ch.13 l.237`. Un Test de Perception (Hard, –20) sur les rosters de service trouve un document listant tous les nouveaux hommes affectés à la garde d'honneur du Reliquaire — chaque page signée par le Baron et tamponnée de son sceau, sans que celui-ci s'en souvienne `EiR ch.13 l.324`. Les neuf cultistes-Reiksguard portent un tatouage de Main Pourpre détectable sur leurs cadavres si les PJ fouillent `EiR ch.13 l.401`.
+- **Le climax dans la Volkshalle (ch.13)** : à midi le 9 Brauzeit, neuf cultistes en uniforme Reiksguard occupent les marches du Reliquaire ; après le dépôt du Marteau, l'un d'eux active la trappe cachée, un deuxième tue Yorri XV à coups de hallebarde, un troisième poignarde Wolfgang dans le dos, tandis que les sept autres chantent *« Iztak Graksk! »* neuf fois. Les chevaliers loyalistes du Reiksguard se précipitent au combat dès la révélation `EiR ch.13 l.385-386` `EiR ch.13 l.412-413`.
+- **Token de Maria-Luise von Walfen** : la « Reine » remet à chaque PJ un token les identifiant comme membres de son entourage agissant en son nom — laissez-passer auprès de ceux qui la respectent, donc utile aux checkpoints Reiksguard du palais et de la Volkshalle `EiR ch.13 l.242`.
+- **Arrivée tardive de Helborg** : si les PJ tiennent jusque-là, le Reiksmarshall arrive en personne après la bataille et conseille Karl-Franz sur Ubersreik ; il évalue deux options — apaiser les Jungfreud au prix de la réputation du trône, ou les écraser avec 5 000 hommes et un bain de sang `EiR ch.13 l.640`.
 
 ## Liens externes
+
 - [Reiksguard — Lexicanum](https://whfb.lexicanum.com/wiki/Reiksguard)
 - [Grand Order of the Reiksguard — Fandom](https://warhammerfantasy.fandom.com/wiki/Grand_Order_of_the_Reiksguard)

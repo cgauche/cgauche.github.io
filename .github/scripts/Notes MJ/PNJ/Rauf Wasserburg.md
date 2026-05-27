@@ -1,6 +1,6 @@
 # Rauf Wasserburg
 
-> **Priest of Sigmar à Grenzstadt**, membre **Eternal Watch**, **fanatical Night Vigil agent élite tueur de tomb robbers**. Affecte façon gentle academic mais hides muscular frame voluminous robes. **Si découvre PJ visent Ghal Maraz** : utterly stunned + décide tous doivent mourir. Tente attacher au groupe Black Fire Pass + accident rockfall.
+> **Priest of Sigmar à Grenzstadt**, membre **Eternal Watch**, **fanatical Night Vigil agent élite tueur de tomb robbers**. Affecte façon gentle academic mais hides muscular frame voluminous robes. **Si découvre PJ visent Ghal Maraz** : utterly stunned + décide tous doivent mourir. Tente attacher au groupe Col du Feu Noir + accident rockfall.
 
 ## Identité publique
 - **Titre** : **Priest of Sigmar** attached Grenzstadt temple. Member **Eternal Watch**. **Night Vigil best agent** (canon ch.9 l.480).
@@ -31,7 +31,7 @@
 - **Miracles (Sigmar)** : Heed Not the Witch, **Sigmar's Fiery Hammer**, **Soulfire**, **Twin-Tailed Comet**.
 
 ## Plan (ch.9 l.480-488)
-1. **Eternal Watch publique** : Sigmar return through Black Fire Pass.
+1. **Eternal Watch publique** : Sigmar return through Col du Feu Noir.
 2. **Night Vigil secret cult** : kills tomb robbers + ensures Sigmar's army artifacts not stolen.
 3. **High priest recommends Wasserburg** PJ as expert renowned (canon ch.9 l.484).
 4. **Wasserburg attaches party** : assess what they're about.
@@ -40,7 +40,7 @@
 
 ## Apparitions par session
 
-### Arc 7 ch.9 Grenzstadt + ch.10 Black Fire Pass
+### Arc 7 ch.9 Grenzstadt + ch.10 Col du Feu Noir
 - **[S?]** — **PJ interact high priest Sigmar Grenzstadt** (Capitular Almeric Zischler — réception cérémonielle). Night Vigil cultists manoeuvré pour Wasserburg recommended.
 - **Wasserburg foisted** sur PJ. *« Difficult to refuse without insulting entire city »*.
 - **Travel through mountains** : attaches party + assess.
@@ -68,5 +68,5 @@
 ## Liens
 - **Arcs** : Arc 7 (ch.9 + ch.10).
 - **PNJ liés** : **Capitular Almeric Zischler** (high priest Sigmar Grenzstadt — innocent recommandeur), Night Vigil cells (4 cultists), Dwarfs Grenzstadt (membres Night Vigil).
-- **Lieux** : **Grenzstadt** (Eternal Watch tower), **Black Fire Pass** (rockfall accidents).
+- **Lieux** : **Grenzstadt** (Eternal Watch tower), **Col du Feu Noir** (rockfall accidents).
 - **Factions** : **Eternal Watch** (Sigmar cult Grenzstadt publique), **Night Vigil** (cult within Eternal Watch — secret).

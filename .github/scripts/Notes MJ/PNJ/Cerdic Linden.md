@@ -66,7 +66,7 @@
 - **Pas cultiste — Old Faith ancestral**, distinct du Chaos.
 - **Monolith predator-prey magique** : swirling winds. **Pas Chaos** — Old Faith Rhya/Taal ancestrale.
 - **Hook narratif Schertal** : PJ peuvent enquêter Bachmann (canon ch.9 l.169-200).
-- **Pendant bonus** : utilisable Black Fire Pass + Lost Gorge skills nécessaires.
+- **Pendant bonus** : utilisable Col du Feu Noir + Lost Gorge skills nécessaires.
 
 ## Hooks Arc 7
 - **Aider refugees** : nourriture + eau + protection.

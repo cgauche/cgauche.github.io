@@ -24,7 +24,7 @@ Une **patrouille fluviale, *The Comet*** est réquisitionnée pour les emmener �
 
 ### Visite chez Fassbinder
 Quintus est dans le temple-bibliothèque. Il leur révèle :
-1. **Catalogues de Confusion** (Loremaster Yodri en khazalid) : Sigmar est passé entre **Vithang Dum** et **Zan Mingol** — un tronçon de 3 miles dans Black Fire Pass, près des **Trois Sœurs** (statues d'ancêtres naines).
+1. **Catalogues de Confusion** (Loremaster Yodri en khazalid) : Sigmar est passé entre **Vithang Dum** et **Zan Mingol** — un tronçon de 3 miles dans Col du Feu Noir, près des **Trois Sœurs** (statues d'ancêtres naines).
 2. Pendant la recherche, possibilités de trouver :
    - **« Augures Admirables de Tante Augusta »** (Sœurs de Sigmar) : poème acrostiche orthographiant **SHEERARGETRU**
    - **« Songes de Bertoldt le Malleun »** : prophétie du **9e jour du 9e mois**, manifestation démoniaque, **9 cultes, neuf hôtes**
@@ -61,7 +61,7 @@ Si les PJ soupçonnent l'empoisonnement de Karl-Franz, ils peuvent se rendre dan
 
 ---
 
-## Chapitre 9 — Altdorf to Black Fire Pass
+## Chapitre 9 — Altdorf to Col du Feu Noir
 
 **Lieu** : voyage. **Durée** : ~3 semaines.
 
@@ -71,7 +71,7 @@ Si les PJ soupçonnent l'empoisonnement de Karl-Franz, ils peuvent se rendre dan
 3. **Stress in Streissen** (siège d'Averland)
 4. **Averheim** (capitale d'Averland)
 5. **Averheim → Grenzstadt** (vers les Montagnes Noires)
-6. **Off to Black Fire Pass**
+6. **Off to Col du Feu Noir**
 
 ### Manœuvres de Gideon
 Pour caler les PJ sur le 9 Brauzeit, Gideon ralentit (sabotage de bateau, cheval blessé, route détruite) ou accélère (rencontres opportunes). Si un PJ pose des questions sur ce qu'il a vu, il y a chance de voir un **garçon à coupe au bol et large sourire**.
@@ -98,10 +98,10 @@ Le territoire Kärzburdger n'est PAS sur ce trajet (il est au nord-est de Midden
 
 ## Chapitre 10 — In Sigmar's Footsteps
 
-**Lieu** : Black Fire Pass. **Durée** : ~1 semaine.
+**Lieu** : Col du Feu Noir. **Durée** : ~1 semaine.
 
 ### Synopsis
-Les PJ entrent dans le **Black Fire Pass**. Ils doivent trouver les **Trois Sœurs** (statues naines) et la gorge cachée derrière un éboulis.
+Les PJ entrent dans le **Col du Feu Noir**. Ils doivent trouver les **Trois Sœurs** (statues naines) et la gorge cachée derrière un éboulis.
 
 ### Plot points
 - **Gideon's plan** : il a fait creuser une mine à travers l'éboulis par **Teugen/Steinhäger/Haagen** (les villains de Bögenhafen revisités). Les deux derniers mineurs ont été tués par lui. La mine permet l'accès — Gideon ne pouvait pas franchir lui-même.
@@ -115,7 +115,7 @@ Le **Karak Hirn** (King Alrik Ranulfsson) a reçu 25% des profits du permis mini
 
 ## Chapitre 11 — Caves of Chaos
 
-**Lieu** : Caverne dans Black Fire Pass. **Durée** : 1-2 jours.
+**Lieu** : Caverne dans Col du Feu Noir. **Durée** : 1-2 jours.
 
 ### Synopsis
 Les PJ entrent dans la grotte où Sigmar a piégé Sheerargetru. Ils doivent récupérer Ghal Maraz **sans réveiller le démon**.
@@ -131,7 +131,7 @@ Les PJ entrent dans la grotte où Sigmar a piégé Sheerargetru. Ils doivent ré
 
 ---
 
-## Chapitre 12 — Black Fire Pass to Altdorf
+## Chapitre 12 — Col du Feu Noir to Altdorf
 
 **Lieu** : retour. **Durée** : ~2-3 semaines.
 
@@ -226,7 +226,7 @@ Cérémonie de retour de Ghal Maraz. Sheerargetru tente sa manifestation.
 
 ### Liens avec ce qui a été joué
 - **Gideon** = le bébé-démon de S12 Bögenhafen. Réapparu au S38 sous l'apparence du Graf. Maintenant en arrière-plan dans tout l'arc impérial.
-- **Teugen, Steinhäger** = morts à S12, mais **Jochen Haagen** est probablement encore en vie et continue l'opération minière à Black Fire Pass.
+- **Teugen, Steinhäger** = morts à S12, mais **Jochen Haagen** est probablement encore en vie et continue l'opération minière à Col du Feu Noir.
 - **Wasmeier** = revu vivant à S61. Peut être confronté dans le ch. 13.
 - **Yann Zuntermein** = présent depuis S57 (a déjà des interactions avec les PJ). Le démasquage doit arriver naturellement.
 - **Elvyra Kleinestun** = présente à Shining Rock (S58), connue d'Anselm. Pion involontaire.

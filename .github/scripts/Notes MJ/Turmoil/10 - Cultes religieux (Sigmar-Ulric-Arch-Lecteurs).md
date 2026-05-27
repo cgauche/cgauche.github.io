@@ -19,7 +19,7 @@
   - **Siegfriedhof** (Stirland) : siège Order of the Raven Knights (Morr).
   - **Salzenmund** (Nordland) : siège Wave Lord Otto Sider (Manann).
 - **Symboles politiques centraux** :
-  - **Ghal Maraz** (vrai marteau de Sigmar) : *"this rune-encrusted weapon is not only the symbol of the Emperor's mantle… The true Ghal Maraz was found by adventurers during the civil strife of the Turmoil of 2512 IC in the Black Fire Pass"* (Fandom Ghal Maraz) — récupéré par les PJ EiR ch.8-12, retourné Volkshalle 9 Brauzeit ch.13 (cascade fiche 09 + 11).
+  - **Ghal Maraz** (vrai marteau de Sigmar) : *"this rune-encrusted weapon is not only the symbol of the Emperor's mantle… The true Ghal Maraz was found by adventurers during the civil strife of the Turmoil of 2512 IC in the Col du Feu Noir"* (Fandom Ghal Maraz) — récupéré par les PJ EiR ch.8-12, retourné Volkshalle 9 Brauzeit ch.13 (cascade fiche 09 + 11).
   - **Imitation Ghal Maraz** : porté par Hermann von Feilbach pour les apparitions publiques de Karl-Franz, **brisée par Boris Todbringer S62 Conclave ch.7** (cascade fiche 02 + 09).
   - **Mace of Helsturm** : artefact d'office Arch Lector East (porté par Aglim) (Fandom Aglim) ; "weapon-brother" du Reikhammer.
   - **Reikhammer** : artefact d'office Arch Lector South (porté par Kaslain) (Fandom Kaslain).

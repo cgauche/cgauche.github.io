@@ -14,7 +14,7 @@
 
 | Date IC | Événement | Front(s) | Source |
 |---|---|---|---|
-| Pré-IC (Great Catastrophe) | **Sheerargetru** (Exalted Lord of Change Tzeentch) entre dans le Known World ; combat Sigmar ; **scellé Black Fire Pass par runic magic Ghal Maraz** | 11+12 | Fandom Sheerargetru |
+| Pré-IC (Great Catastrophe) | **Sheerargetru** (Exalted Lord of Change Tzeentch) entre dans le Known World ; combat Sigmar ; **scellé Col du Feu Noir par runic magic Ghal Maraz** | 11+12 | Fandom Sheerargetru |
 | **-15 IC** | **Sigmar reçoit Ghal Maraz** de Kurgan Ironbeard (jeune Unberogen prince, rescue Greenskins) | 11 | Fandom Ghal Maraz |
 | 1 IC | Couronnement Sigmar à Altdorf — fondation Empire | 11 | Fandom Sigmar |
 | Ier siècle IC (Sigmar's heirs era) | **Smiths Hammerwatch clan** (Dwarf Runesmiths) forgent l'**Imitation Ghal Maraz** *"2500 years ago"* (EiR Intro l.859) | 11+12 | EiR Intro l.859 + EiR ch.12 l.24 |
@@ -79,9 +79,9 @@
 | Pendant EiR ch.9 | **Siège Streissen** par Marlene Alptraum (piégée par Marius Leitdorf via SIP) | 04 | EiR ch.9 l.330-332, l.438-439 |
 | Pendant EiR ch.9 | **Battle of Streissen** ; Marlene flanquée et défaite par Marius Leitdorf | 04 | EiR ch.9 l.438-439 |
 | Pendant EiR ch.9 | **Reik state troops Nuln marshalled** pour annexer Sudenland (Threshers casus belli) ; **8 enfants Toppenheimer rallient Liebwitz** ; Leopold's Leopard Company (Tilea) fight pour Emmanuelle | 03+12 | EiR ch.17 l.26 + Fandom Leopold's Leopard Company |
-| Pendant EiR ch.9-12 | **Voyage quête Ghal Maraz** : Altdorf → Nuln → River Aver → Averheim → Old Dwarf Road → Black Fire Pass → Caves of Chaos (Black Mountains) → retour Grenzstadt → Averheim → Streissen → Altdorf | 11+12 | EiR ch.8-12 |
+| Pendant EiR ch.9-12 | **Voyage quête Ghal Maraz** : Altdorf → Nuln → River Aver → Averheim → Old Dwarf Road → Col du Feu Noir → Caves of Chaos (Black Mountains) → retour Grenzstadt → Averheim → Streissen → Altdorf | 11+12 | EiR ch.8-12 |
 | Pendant EiR ch.11 | **Caves of Chaos Black Mountains** : récupération **vrai Ghal Maraz** scellé runic magic depuis Great Catastrophe ; Sadikur Nehekharan undead servant | 11+12 | EiR ch.11 |
-| Pendant EiR ch.12 | **Iron Marshall Kina Hammerwatch rencontre Characters** Black Fire Pass ; confession smiths Hammerwatch clan forgeurs Imitation ; offre Grimshank's coin | 11+12 | EiR ch.12 l.7-26 |
+| Pendant EiR ch.12 | **Iron Marshall Kina Hammerwatch rencontre Characters** Col du Feu Noir ; confession smiths Hammerwatch clan forgeurs Imitation ; offre Grimshank's coin | 11+12 | EiR ch.12 l.7-26 |
 | Pendant EiR ch.12 | **3 cracks Aethyr observés** : Averheim (Averburg palace) + Nuln (Nuln Palace) + Altdorf (Colleges of Magic + Imperial Palace) — précurseurs portails Sheerargetru | 11+12 | EiR ch.12 l.49-55 |
 | Pendant EiR ch.12 | **Grimshank's Chain Dwarf network** activée ; Gararoth wagon Grenzstadt-Averheim ; Khardrif Inglepeak barge **The Pegasus** Averheim-Streissen | 12 | EiR ch.12 l.42, l.69, l.73 |
 | Pendant EiR ch.12 | **Wolfshügel** : ancient Temple Ulric ; Master Albertus Nyman scholar Streissen identifie location ; route restauration Ghal Maraz drained | 10+11+12 | EiR ch.12 l.20-31 |
@@ -118,7 +118,7 @@
 
 | Date IC | Événement | Front(s) | Source |
 |---|---|---|---|
-| **~2520 IC** | **Third Battle of Black Fire Pass** : Vorgaz Ironjaw invasion Empire ; tue Marius Leitdorf ; Karl-Franz arrive et tue Ironjaw ; Greenskins routés | 04+11+12 | Fandom Third Battle of Black Fire |
+| **~2520 IC** | **Third Battle of Col du Feu Noir** : Vorgaz Ironjaw invasion Empire ; tue Marius Leitdorf ; Karl-Franz arrive et tue Ironjaw ; Greenskins routés | 04+11+12 | Fandom Third Battle of Black Fire |
 | ~2522 IC | Office Chancellor Immanuel-Ferrand passé à Siegfried von Walfen | 09+11 | Fandom Immanuel-Ferrand |
 
 ---
@@ -176,7 +176,7 @@
 | **Mootland** | (les Halflings n'ont pas de Runefang canon — siège électoral civil) | — | — | — | (référence) |
 
 **Statut symbolique post-Turmoil** :
-- **Vrai Ghal Maraz** (relique impériale, distincte des 12 Runefangs) : récupéré canon Black Fire Pass / Caves of Chaos ch.11 ; Karl-Franz en possession post-Turmoil (EiR ch.13 l.623).
+- **Vrai Ghal Maraz** (relique impériale, distincte des 12 Runefangs) : récupéré canon Col du Feu Noir / Caves of Chaos ch.11 ; Karl-Franz en possession post-Turmoil (EiR ch.13 l.623).
 - **Imitation Ghal Maraz** (forgée par smiths Hammerwatch ~Ier siècle IC) : **brisée en 9 fragments par Boris Peak Leveller S62 Conclave ch.7** ; statut post-Turmoil non précisé canon EiR.
 
 ---
@@ -237,7 +237,7 @@
                → 04 Averland : Battle of Streissen — Marlene flanquée et défaite
                    → 04 Averland : Marius Leitdorf devient Grand Count post-Turmoil
                        → 04 Averland : dépression aiguë + purges Deep Haus (régence Marius)
-                       → 12 + 11 (post-Turmoil 2520 IC) : Marius tué par Vorgaz Ironjaw Third Battle Black Fire Pass
+                       → 12 + 11 (post-Turmoil 2520 IC) : Marius tué par Vorgaz Ironjaw Third Battle Col du Feu Noir
 ```
 
 ### Cascade religieuse (Sigmar / Ulric / Fils d'Ulric)
@@ -255,7 +255,7 @@
 
 ### Cascade impériale centrale (Ghal Maraz / Wolfgang / Chambre Noire)
 ```
-11 Imperial (Sheerargetru Black Fire Pass prison Great Catastrophe — runic magic Ghal Maraz)
+11 Imperial (Sheerargetru Col du Feu Noir prison Great Catastrophe — runic magic Ghal Maraz)
    → 11 : Gideon Lesser Daemon Tzeentch agent Sheerargetru → recrute Kastor Lieberung
        → 11 : Kastor recrute Neuf Yeux (9 tuteurs Tzeentch dans 9 villes)
            → 11 : Wolfgang Holswig-Abenauer éduqué Neuf Yeux (2503-2512)
@@ -386,7 +386,7 @@ Citation canon EiR ch.17 l.34 : *"In light of these revelations the positions of
 | 09 | Reikland-Altdorf (Karl-Franz - le faux Empereur) | [Turmoil/09](<Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur).md>) | **Karl-Franz alité Purple Brain Fever magique Gideon** ; double Hermann von Feilbach Reiksguard porte Imitation Ghal Maraz ; **mariage Maria-Luise 2512** post-Turmoil → Luitpold (Altdorf) + Alia (Reikland) légitimés ; Trio Emmanuelle + Alberich. |
 | 10 | Cultes religieux (Sigmar-Ulric-Arch-Lecteurs) | [Turmoil/10](<Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs).md>) | **Crise religieuse Empire-wide** : (a) renaissance ulricaine fanatique Emil Valgeir + Fils d'Ulric ; (b) effondrement sommet sigmarite climax (Yorri+Aglim tués) ; **Volkmar von Hindenstern Grand Theogonist** ~Jahrdrung 2513 ; promotions sigmarites compensatoires. |
 | 11 | Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire) | [Turmoil/11](<Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire).md>) | **Mécanique impériale transversale** : Ghal Maraz vrai/Imitation/9 fragments + Wolfgang vessel Sheerargetru + Neuf Yeux 9 cellules + Chambre Noire 4-wing avec Palisades ; climax Volkshalle 9 Brauzeit ; **dossier Chambre Noire expose Main Pourpre Empire-wide**. |
-| 12 | Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains) | [Turmoil/12](<Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains).md>) | **Écosystème externe** : Marienburg sécession 2429 IC (Directorate) ; Norsca raids 2512 → Second Fleet ; Bretonnia diplomatie ; Tilea condottieri (**Leopold's Leopard pour Liebwitz annexion Sudenland**) + Vatheck Fulci ; Nains (Karak Skygg = Vol 4 ; Black Fire Pass = vrai Ghal Maraz Vol 5). |
+| 12 | Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains) | [Turmoil/12](<Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains).md>) | **Écosystème externe** : Marienburg sécession 2429 IC (Directorate) ; Norsca raids 2512 → Second Fleet ; Bretonnia diplomatie ; Tilea condottieri (**Leopold's Leopard pour Liebwitz annexion Sudenland**) + Vatheck Fulci ; Nains (Karak Skygg = Vol 4 ; Col du Feu Noir = vrai Ghal Maraz Vol 5). |
 
 ---
 

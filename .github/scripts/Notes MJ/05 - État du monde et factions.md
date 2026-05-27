@@ -12,7 +12,7 @@
 - **Immanuel-Ferrand Holswig-Schliestein** : oncle de Karl-Franz, Chancellor + Imperial Spymaster (Chambre Noire). Manipulé par **Zuntermein** (Main Pourpre Altdorf) sans le savoir. A poussé pour la prise d'Ubersreik.
 - **Liepmund Holzkrug** : Grand Ambassadeur, autre Chambre Noire spymaster. Ambition impériale (famille ex-Empereur). Manipulé par Zuntermein utilement. Antagoniste politique mais pas cultiste.
 - **Prince héritier Wolfgang Holswig-Aberhauer** : cloitré à Reikgarde, fiancé forcé à Katarina. "Trop parfait". Tuteurs = **les 9 Yeux** (Gideon les a recrutés via Kastor il y a 9 ans). **EST l'hôte préparé pour Sheerargetru**.
-- **Karl-Franz** au défilé et au conseil = l'imposteur Hermann. Marteau Ghal Maraz brisé sous le coup de Boris → c'était un **faux forgé par les Sigmarites + nains il y a 2500 ans**. Le vrai est dans une caverne du Black Fire Pass.
+- **Karl-Franz** au défilé et au conseil = l'imposteur Hermann. Marteau Ghal Maraz brisé sous le coup de Boris → c'était un **faux forgé par les Sigmarites + nains il y a 2500 ans**. Le vrai est dans une caverne du Col du Feu Noir.
 - **Famille Jundfreud** : ancienne famille régente d'Ubersreik, destituée. Veulent reprendre par les armes. Manipulation Main Pourpre.
 - **Reiksguard** : **infiltrée par des cultistes**. Reiksmarshall Helborg absent. Baron von Teufelsmilch commande la garde du palais.
 - **Chambre Noire** (service secret d'Altdorf) : Emmanuelle Nacht en est issue. **Zuntermein y a infiltré sa cellule**.
@@ -118,7 +118,7 @@
 ### Tzeench
 - Apparu en S61-62 : Wasmeier complice de Barthelm, boule de feu rosâtre, manipulations.
 - Lié au Nordland ET à la Main Pourpre (qui est sa création indirecte via Sheerargetru).
-- **Sheerargetru** : Lord of Change exalté, trapped sous le Black Fire Pass depuis Sigmar. Influence psychique sur 1500 ans.
+- **Sheerargetru** : Lord of Change exalté, trapped sous le Col du Feu Noir depuis Sigmar. Influence psychique sur 1500 ans.
 - **Gideon** : démon métamorphe (= le bébé-démon de Bögenhafen S12, le démon-Graf de S38). Agent direct de Tzeench / Sheerargetru.
 - Lore : « Le Grand Architecte » des cultistes Main Pourpre. Le vrai but est la libération de Sheerargetru via Wolfgang.
 

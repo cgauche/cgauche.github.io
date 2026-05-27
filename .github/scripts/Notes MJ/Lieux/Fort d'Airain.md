@@ -9,7 +9,7 @@
 
 ## Source
 - *Enemy Within Campaign Volume 4 The Horned Rat* : `Source/Enemy Within Campaign Volume 4 The Horned Rat/01 - …md` ch. *Approaching the Keep* l.4617 + *The Brass Keep* l.4626 + *Unexpected Visitor* l.4685 (mouche géante).
-- Mentions diverses dans EiR (Arc 7) possibles si trajet via Black Fire Pass + Monts du Milieu.
+- Mentions diverses dans EiR (Arc 7) possibles si trajet via Col du Feu Noir + Monts du Milieu.
 
 ## Géographie
 
@@ -39,7 +39,7 @@
 ## MJ-only
 
 - **Le Fort d'Airain ne sera probablement pas affronté** Arc 6 (trop puissant pour les PJ, et tant que la zone de sécurité est respectée, c'est bénéfique).
-- **Hook Arc 7+** : si les PJ doivent traverser les Monts du Milieu vers Black Fire Pass (canon EiR ch.9+ — chemin vers Sheerargetru + vrai Ghal Maraz), **Le Fort d'Airain peut être en chemin** ou en flanc. **Décision MJ** : éviter ou traverser ?
+- **Hook Arc 7+** : si les PJ doivent traverser les Monts du Milieu vers Col du Feu Noir (canon EiR ch.9+ — chemin vers Sheerargetru + vrai Ghal Maraz), **Le Fort d'Airain peut être en chemin** ou en flanc. **Décision MJ** : éviter ou traverser ?
 - **Possible scenario long-terme** : nettoyage du Fort d'Airain post-Arc 7, hook campagne autonome.
 - **Mouche géante = signature Nurgle** : démon mineur ou Beast of Nurgle. **Pas hostile** (juste émissaire).
 - **Sac putride** : maladie Nurgle (Nurgle's Rot). **Brûlé** = pas de propagation.
@@ -54,7 +54,7 @@
 
 ## Fils ouverts
 
-- **FIL Fort d'Airain Nurgle inchangé** — hook Arc 7+ (Black Fire Pass route).
+- **FIL Fort d'Airain Nurgle inchangé** — hook Arc 7+ (Col du Feu Noir route).
 - **FIL Beast of Nurgle messager** — qu'a-t-il livré exactement ?
 
 ## Hooks de retour

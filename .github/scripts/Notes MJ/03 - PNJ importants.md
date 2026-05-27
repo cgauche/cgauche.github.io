@@ -10,7 +10,7 @@ Notation : `[Sxx]` = session de dernière apparition / mort / mention.
 
 ### Sheerargetru — `[ENNEMI ULTIME / CANON-EI]`
 - **Seigneur du Changement (Lord of Change, Exalted Daemon de Tzeentch)**.
-- Enfermé par Sigmar dans une caverne du **Black Fire Pass** (Montagnes Noires) il y a ~2500 ans, à l'aide du **vrai Ghal Maraz**.
+- Enfermé par Sigmar dans une caverne du **Col du Feu Noir** (Montagnes Noires) il y a ~2500 ans, à l'aide du **vrai Ghal Maraz**.
 - Influence psychiquement les cultistes depuis 1500 ans → la Main Pourpre est sa création indirecte.
 - A inspiré la prophétie du **« Champion of Shadows »**.
 - Doit se manifester le **9 Brauzeit 2512 IC à 9h00** via une cérémonie au Volkshalle, avec Wolfgang comme hôte principal et les 9 Yeux comme hôtes de secours.
@@ -20,7 +20,7 @@ Notation : `[Sxx]` = session de dernière apparition / mort / mention.
 - Apparence préférée : **jeune garçon ~13 ans, coupe au bol, très large sourire**.
 - Apparu au S12 comme l'enfant-démon du rituel de Bögenhafen.
 - Réapparu au S38 sous l'apparence du **Graf Boris** (le démon métamorphe = lui).
-- Pilote tout le plan : recruteur des 9 Yeux (via Kastor il y a 9 ans), empoisonneur de Karl-Franz, manipulateur de Kappelmuller/Elvyra, organisateur du voyage des PJ vers Black Fire Pass.
+- Pilote tout le plan : recruteur des 9 Yeux (via Kastor il y a 9 ans), empoisonneur de Karl-Franz, manipulateur de Kappelmuller/Elvyra, organisateur du voyage des PJ vers Col du Feu Noir.
 - **Ne peut pas toucher Ghal Maraz lui-même** (le marteau lui est hostile) → c'est pourquoi il a besoin des PJ.
 - Peut **manipuler le temps de voyage** : ralentir (sabotages), accélérer (laisser des livres ouverts).
 
@@ -325,7 +325,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 - **Bruno Franke** : MORT S1. Champion de la Gravin.
 - **Heinrich Bottcher** : MORT S2. Champion du baron.
 - **Friedrich Magirius** : statut incertain post-S11.
-- **Franz Steinhäger** : statut incertain. **Jochen Haagen** (3e partenaire minier) probablement encore actif à Black Fire Pass.
+- **Franz Steinhäger** : statut incertain. **Jochen Haagen** (3e partenaire minier) probablement encore actif à Col du Feu Noir.
 
 ### Ubersreik (S14-22)
 - **Carolus Entschlafen** : MORT S16. Mage renégat (Tour des Vents).

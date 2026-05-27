@@ -258,7 +258,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **Karl Teugen empoisonné par Gideon** avec **Purple Brain Pox** (canon Blight trait de Sheru-Tar) = **MÊME MALADIE** que celle qui afflige **Karl-Franz** en Arc 7 EiR (canon EiR : Henrik Kappelmuller empoisonne Karl-Franz avec préparations magiquement induites de Gideon). **Méthode identique 8 ans avant.**
 - **Ordo Septenarius** : 49 membres total (42 rank-and-file + 7 Inner Council + Teugen + Gideon). Inner Council croit que le rituel manipule l'économie pour les enrichir. Tous innocents de l'enjeu réel.
 - **Inner Council** : Teugen + Steinhäger + Magirius + 4 autres canoniquement non-nommés (à inventer si besoin). Tous riches mercants Bögenhafen.
-- **Connexion Bögenhafen ↔ Black Fire Pass (révélée Arc 7 EiR)** : Teugen, Steinhäger et **Jochen Haagen** (3e marchand, **n'apparaît pas dans Bögenhafen** durant l'arc) ont un permis daté du **9 Brauzeit 2508** pour exploiter la **mine de Schmerzeit** dans le Black Fire Pass, près des **Trois Sœurs** (statues d'ancêtres nains). **Ces mines doivent atteindre la grotte de Ghal Maraz** sous influence Sheerargetru. Gideon les manipulait déjà avant la mort de Teugen. **Haagen continue probablement l'opération après S12.** Hook **majeur** pour Arc 7.
+- **Connexion Bögenhafen ↔ Col du Feu Noir (révélée Arc 7 EiR)** : Teugen, Steinhäger et **Jochen Haagen** (3e marchand, **n'apparaît pas dans Bögenhafen** durant l'arc) ont un permis daté du **9 Brauzeit 2508** pour exploiter la **mine de Schmerzeit** dans le Col du Feu Noir, près des **Trois Sœurs** (statues d'ancêtres nains). **Ces mines doivent atteindre la grotte de Ghal Maraz** sous influence Sheerargetru. Gideon les manipulait déjà avant la mort de Teugen. **Haagen continue probablement l'opération après S12.** Hook **majeur** pour Arc 7.
 
 ---
 
@@ -291,7 +291,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **Le Greater Daemon Sheerargetru a "vu" Pathsokar** brièvement (canon : "The Character is frozen in place. Then the eye burns away"). Hook Arc 7 : **Pathsokar reconnu par Sheerargetru, traqué**.
 - **Filianore** est le **sacrifice consacratoire** acquise par Teugen via les **thugs Stevedores' Guild** (canon ch.9 l.158-160). **Vraie identité MJ** (révélée en filigrane Arc 4) : Filianore = **agent double Main Pourpre infiltrée chez Emmanuelle Nacht à Ubersreik**, envoyée à Bögenhafen pour enquêter sur l'Ordo Septenarius rival. Teugen l'a identifiée comme concurrente Tzeentch → capturée + droguée pour servir de sacrifice + éliminer une rivale. **Amnésie post-traumatique S12-S21**. Cf. FIL-28 et fiche [[Filianore]].
 - **Steinhäger survivant** : Heinrich (frère) en profite probablement pour prendre la main sur la famille (canon ch.8 l.337+).
-- **Haagen toujours actif** dans le Black Fire Pass — non-affronté.
+- **Haagen toujours actif** dans le Col du Feu Noir — non-affronté.
 - **Magirius mort** : ch.9 l.32 dit que Gideon a tué Magirius **avant que les PJ arrivent** chez lui, déguisé en serviteur. À table : version homebrew = mort sur le Berebeli (rat = Gideon ?). Cohérent fonctionnellement.
 
 ---
@@ -301,7 +301,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 **Composition du groupe** (à la sortie de Bögenhafen S12 → mariage Grauenberg S13) :
 - **Phineas**, **Elvira**, **Skippy**, **Pathsokar** (rejoint S4), **Anselm** (rejoint S4), **+ Filianore** (PJ rejoint S12, rescapée du sac sacrificiel — amnésique).
 
-**État général** : **Ordo Septenarius décapité** (Teugen mort, Magirius mort, Steinhäger fugitif) mais **6 Inner Council survivants dispersés**. Bögenhafen « sauvée mais ne le saura jamais ». **Main Pourpre identifiée** comme antagoniste central via Kastor Lieberung (Pathsokar = sosie, Animosity « Kastor and Friends » déclenchée — la cellule pourpre traquera le groupe). **Gideon disparu vivant** (Greater Daemon de Tzeentch sous forme d'enfant — réapparaîtra Arc 5). **Sheerargetru a « vu » Pathsokar** (hook Arc 7). **Édit pro-mutants aperçu à Altdorf S6** = premier signal de l'imposture impériale (canon Arc 7). **Mines Schmerzeit / Haagen** continuent à Black Fire Pass — hook Ghal Maraz Arc 7.
+**État général** : **Ordo Septenarius décapité** (Teugen mort, Magirius mort, Steinhäger fugitif) mais **6 Inner Council survivants dispersés**. Bögenhafen « sauvée mais ne le saura jamais ». **Main Pourpre identifiée** comme antagoniste central via Kastor Lieberung (Pathsokar = sosie, Animosity « Kastor and Friends » déclenchée — la cellule pourpre traquera le groupe). **Gideon disparu vivant** (Greater Daemon de Tzeentch sous forme d'enfant — réapparaîtra Arc 5). **Sheerargetru a « vu » Pathsokar** (hook Arc 7). **Édit pro-mutants aperçu à Altdorf S6** = premier signal de l'imposture impériale (canon Arc 7). **Mines Schmerzeit / Haagen** continuent à Col du Feu Noir — hook Ghal Maraz Arc 7.
 
 **Alliés acquis** : [[Josef Quartjin]] (bargemaster Berebeli, ami fidèle), [[Quintus Fassbinder]] (anti-Main Pourpre Altdorf, latent), magistrate [[Heinz Richter]] (Bögenhafen, soigné par Anselm), Hieronymus Ruggbroder (allié potentiel anti-Ordo Septenarius), Mystic Megret (prophétesse itinérante).
 
@@ -325,7 +325,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 | **Franz Steinhäger** | EiS ch.8 l.609-624 (statbloc) | [VIVANT] [DISPARU] | Merchant Prince, Inner Council. **Apprenait magie sous Gideon** (corruption). Survivor S12 ? **Hook fort.** |
 | **Heinrich Steinhäger** | EiS ch.8 l.349-353 | [VIVANT] [SANS POSITION] | Frère cadet Franz, voulait le déposer. Peut prendre la main. |
 | **Hieronymus Ruggbroder** | EiS ch.8 l.376-386 | [VIVANT] [ALLIÉ POTENTIEL] | Chef House Ruggbroder, **opposé à l'Ordo Septenarius**. Peut être informé pour purger. |
-| **Jochen Haagen** | EiR retcon (cf. Arc 7) | [VIVANT, HORS-ARC] | **3e partenaire Black Fire Pass / Schmerzeit mine**. Pas vu à Bögenhafen. **CONTINUE l'opération minière** sous influence Gideon. **Hook critique Arc 7.** |
+| **Jochen Haagen** | EiR retcon (cf. Arc 7) | [VIVANT, HORS-ARC] | **3e partenaire Col du Feu Noir / Schmerzeit mine**. Pas vu à Bögenhafen. **CONTINUE l'opération minière** sous influence Gideon. **Hook critique Arc 7.** |
 | **Josef Quartjin** | EiS ch.3 l.229-251 (statbloc) | [VIVANT] [ALLIÉ] | Bargemaster Berebeli, ami de Skippy. Revient en S21 Arc 3 + tous les voyages fluviaux. Crew : Wolmar + Gilda + bébé Elsa. |
 | **Doctor Malthusius** (Hans Pfliefer) | EiS ch.6 l.452-460 (statbloc) | [VIVANT] [INACTIF] | Conman Middenheim, bounty 5GC. Cirque part après Schaffenfest. Réutilisable. |
 | **Grunni** | EiS ch.6 l.462-467 | [VIVANT] | Nain assistant Malthusius. |
@@ -356,7 +356,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 ### Très forts (continuité majeure)
 - **`FIL-13` Gideon vivant** → réapparait Arc 5 (Joachim Hoflich Middenheim, S38) puis Arc 7 (manipulateur central).
 - **`FIL-14` Sheerargetru a vu Pathsokar** → reconnaissance directe par le Greater Daemon. Hook Arc 7.
-- **`FIL-15` Jochen Haagen / mines Schmerzeit / Black Fire Pass** → 3e partenaire Bögenhafen, opération minière continue, lien direct vers Ghal Maraz Arc 7.
+- **`FIL-15` Jochen Haagen / mines Schmerzeit / Col du Feu Noir** → 3e partenaire Bögenhafen, opération minière continue, lien direct vers Ghal Maraz Arc 7.
 - **`FIL-16` Quintus Fassbinder anti-Main Pourpre** → reviendra Arc 7 ch.8 EiR comme contact à Altdorf.
 - **`FIL-17` Elvyra Kleinestun pharmacienne** → Arc 4 (à sauver) + Arc 7 (pion de Gideon, empoisonne Karl-Franz).
 - **`FIL-18` Ernst Heidlemann Red Crown** → Arc 4 Death on the Reik (Signal Tower).
@@ -389,7 +389,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 - **FIL-13** — Gideon (Sheru-Tar Gee'taru) survivant — OUVERT
 - **FIL-14** — Sheerargetru a vu Pathsokar — OUVERT
-- **FIL-15** — Haagen / mines Schmerzeit / Black Fire Pass — OUVERT
+- **FIL-15** — Haagen / mines Schmerzeit / Col du Feu Noir — OUVERT
 - **FIL-16** — Quintus Fassbinder (anti-Main Pourpre, contact Altdorf futur) — OUVERT
 - **FIL-17** — Elvyra Kleinestun (future pharmacienne empoisonneuse) — OUVERT
 - **FIL-18** — Ernst Heidlemann (Red Crown, sera Arc 4) — OUVERT
@@ -409,8 +409,8 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 ## Notes meta
 
 - **Connexions retroactives EiR (Arc 7)** :
-  - **Sheerargetru** (Greater Daemon Tzeentch enchaîné Black Fire Pass) = "Master" de Gideon mentionné canon EiS ch.9 l.456.
-  - **Mine de Schmerzeit / 3 partenaires Teugen+Steinhäger+Haagen** = permis retconné par EiR pour relier Bögenhafen → Black Fire Pass → Ghal Maraz cave.
+  - **Sheerargetru** (Greater Daemon Tzeentch enchaîné Col du Feu Noir) = "Master" de Gideon mentionné canon EiS ch.9 l.456.
+  - **Mine de Schmerzeit / 3 partenaires Teugen+Steinhäger+Haagen** = permis retconné par EiR pour relier Bögenhafen → Col du Feu Noir → Ghal Maraz cave.
   - **Purple Brain Pox méthode Karl Teugen ↔ Karl-Franz** = même empoisonnement magique 8 ans d'écart.
   - **Hermann von Feilbach (sosie Karl-Franz)** = vu défiler ici à S6.
   - **Quintus Fassbinder** = même PNJ qu'au début d'EiR ch.8 (rendez-vous Altdorf).
