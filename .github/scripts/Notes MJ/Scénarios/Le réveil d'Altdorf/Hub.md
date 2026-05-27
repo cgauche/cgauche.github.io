@@ -19,6 +19,10 @@ order: 1
 - **Pesold** — joueur, décide s'il part avec Heinrich pour Middenheim (voir [[01 - Briefing Helstein]]).
 - **Heinrich Todbringer** — présent au manoir le matin puis quitte Altdorf à 11h avec le convoi funéraire.
 
+## Rattrapage joueur absent
+
+- [[00 - Rattrapage Yuridika - jour du mariage]] — Yuridika absente lors du Conseil (S62) et de l'attaque du manoir (S63). Monologue intérieur de sa journée (mariage → errance dans Altdorf → ruelle où elle frôle la mort), à servir en aside au joueur à son retour. ~15 min de jeu.
+
 ## Horloge in-game — événements NPC-driven
 
 Les événements suivants se produisent à horaire fixe, **indépendamment des PJ**. Le MJ tient l'horloge ; les PJ choisissent leur tempo dans ce cadre.
