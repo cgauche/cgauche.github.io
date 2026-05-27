@@ -406,7 +406,7 @@ Le Turmoil au front Stirland est **passif et indirect** : la province est manipu
   - l.332 — Coordination Main Pourpre 3-cellules (cascade fiches 05/06)
   - **section Stirland** : limitée explicite ; cohérence Empire-wide
 
-- **EiR ch.5 *The March of Unity*** :
+- **EiR ch.5 *The Marche de l'Unité*** :
   - **l.25 — handout Hugo Bottomdown** : *"At Pfiefdorf ask for Fione the Thresher. Give her the uniforms and pay her. The word is Heideinheim"*
 
 - **EiR ch.17 *History of the Turmoil*** :

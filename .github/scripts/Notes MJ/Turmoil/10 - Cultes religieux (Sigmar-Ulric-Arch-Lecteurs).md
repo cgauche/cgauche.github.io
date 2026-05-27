@@ -318,7 +318,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 | Spring 2512 IC | EiR ch.17 l.14 | **Renaissance ulricaine fanatique** Middenland/Middenheim/Talabheim/Talabecland | EiR ch.17 l.14 |
 | Spring 2512 IC | EiR Intro l.211-213 | **Fils d'Ulric attaques** : caravanes Reikland + persécutions Sigmarites Middenland/Nordland | EiR Intro l.211-213 |
 | Pendant EiR ch.3 (S58) | EiR ch.3 l.196-228 | **Attaque Shining Rock par Porteurs de Sang** ; 9 prêtres/chevaliers tués ; Yorri + Volkmar survivent | EiR ch.3 l.196-228 |
-| Pendant EiR ch.5 (S60) | EiR ch.5 | Défilé Altdorf March of Unity ; Yorri pâle (Elvyra empoisonne) ; Volkmar partisan | EiR ch.5 |
+| Pendant EiR ch.5 (S60) | EiR ch.5 | Défilé Altdorf Marche de l'Unité ; Yorri pâle (Elvyra empoisonne) ; Volkmar partisan | EiR ch.5 |
 | Pendant EiR ch.6 (S61) | EiR ch.6 | Mariage Wolfgang-Katarina Grand Cathedral Sigmar ; Yorri officie ; attentat Barthelm | EiR ch.6 |
 | Pendant EiR ch.7 (S62) | EiR ch.7 | Conclave Volkshalle ; Emil push hardline ; Volkmar idem ; Yorri résiste | EiR ch.7 |
 | Pendant EiR ch.7 (S62) | EiR ch.7 l.247-253 | **Boris brise Imitation Ghal Maraz** ; mariage Sigmar/Ulric apaisement échoue | EiR ch.7 l.247-253 |

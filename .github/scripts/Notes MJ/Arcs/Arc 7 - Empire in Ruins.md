@@ -14,7 +14,7 @@
   - **Ch.2 *Chilly Reception*** (488l) — S57 délégation Altdorf + propositions Shining Rock + mariage Katarina-Wolfgang.
   - **Ch.3 *Journey to Shining Rock*** (387l) — S58 attaque Porteurs de Sang + Beate Moser.
   - **Ch.4 *Audience with Wolfgang*** (303l) — S59 Castle Reikguard + bannière Carroburg piège Zuntermein + 9 Eyes Kathe Ruttmann.
-  - **Ch.5 *March of Unity*** (353l) — S60 défilé Altdorf + faux empereur + Emmanuelle + pigs Petra Schneller + Indomitable tank.
+  - **Ch.5 *Marche de l'Unité*** (353l) — S60 défilé Altdorf + faux empereur + Emmanuelle + pigs Petra Schneller + Indomitable tank.
   - **Ch.6 *The Wedding*** (280l) — S61 Malthe Barthelm tire sur Katarina + Wasmeier Pink Fire Tzeentch.
   - **Ch.7 *Emergency Conclave*** (291l) — S62 conclave + Thyrus Gormann + Boris brise Ghal Maraz + Fassbinder « le vrai est ailleurs ».
   - **Ch.8 *Aventuriers Audacieux Recherchés !*** (321l) — démarrage S64+ : Fassbinder handouts (Vithang Dum / Zan Mingol / Three Sisters / acrostiche SHEERARGETRU / Bertoldt the Malleun / permis minier Teugen-Steinhäger-Haagen 9 Brauzeit 2508 / Smednir-Sheerargetru) + Kappelmuller bedchamber.

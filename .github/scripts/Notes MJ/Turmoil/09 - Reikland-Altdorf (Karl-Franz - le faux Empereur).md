@@ -256,7 +256,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 | Spring 2512 IC | EiR ch.17 l.10-14 | Climat impérial déstabilisé (Hergard mort, guerre Ostland-Talabecland) | EiR ch.17 l.10-14 |
 | Spring 2512 IC | EiR Intro l.332 | **Coordination Main Pourpre 3-cellules contre Hergard** (Altdorf tracking + Middenheim Snikkit + Wolfenburg rumours) | EiR Intro l.332 |
 | Spring 2512 IC | (background) | Cellule Nuln + Averheim + Wolfenburg manipulent fronts régionaux (cascades fiches 03/04/06) | EiR Intro l.282-284 |
-| Pendant EiR ch.5 (S60) | EiR ch.5 | **Défilé Altdorf March of Unity** : Hermann (sosie KF) au pavillon ; Yorri pâle ; Volkmar partisan ; **Emmanuelle observe** | EiR ch.5 |
+| Pendant EiR ch.5 (S60) | EiR ch.5 | **Défilé Altdorf Marche de l'Unité** : Hermann (sosie KF) au pavillon ; Yorri pâle ; Volkmar partisan ; **Emmanuelle observe** | EiR ch.5 |
 | Pendant EiR ch.6 (S61) | EiR ch.6 | **Mariage Wolfgang-Katarina Grand Cathedral** : Yorri officie ; **attentat Barthelm** (cascade fiche 01) ; mariage interrompu | EiR ch.6 |
 | Pendant EiR ch.7 (S62) | EiR ch.7 | **Conclave d'urgence Volkshalle** : Boris demande sanction Imperial vs Gausser (cascade fiche 01) ; **Hermann tient Imitation Ghal Maraz** ; Boris frappe avec Peak Leveller → marteau brisé en 9 fragments | EiR ch.7 l.42 ; l.247-253 |
 | Pendant EiR ch.7 (S62) | EiR ch.7 l.212-226 | **Emmanuelle confesse à Maria-Luise** le secret de l'imposteur Karl-Franz | EiR ch.7 l.212-226 |
@@ -501,7 +501,7 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 - **EiR ch.4 *An Audience with Prince Héritier Wolfgang*** :
   - Wolfgang à Castle Reikguard, PJ peuvent suspecter
 
-- **EiR ch.5 *The March of Unity*** :
+- **EiR ch.5 *The Marche de l'Unité*** :
   - Hermann (sosie KF) au pavillon défilé
   - Yorri pâle prière publique
   - Emmanuelle observe

@@ -333,7 +333,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **2512 IC Spring** | EiR Intro l.247 | Fils d'Ulric ban lifted par Emil ; "preach openly in Middenheim" | EiR Intro l.247 |
 | Pendant EiR ch.1 (S56) | Sky Wolf attack | Heinrich avec Sky Wolf (dirigeable Dwarf gift) attaqué par Klammer / Helstorm rockets sur le retour Karak Skygg | EiR ch.1 ; fiche 01 |
 | Pendant EiR ch.2 (S57) | Audience Boris Middenpalaz | Boris reçoit délégation Reikland glacialement ; discute reaving Nordland | EiR ch.2 l.141 |
-| Pendant EiR ch.5 (S60) | Défilé Altdorf — March of Unity | **Boris dans la procession à Altdorf** ; banner Middenheim ; suivi de Vieran Thugenheim en uniforme Chevaliers Panthères ; Harman + Malthe Barthelm dans entourage | EiR ch.5 (March of Unity) |
+| Pendant EiR ch.5 (S60) | Défilé Altdorf — Marche de l'Unité | **Boris dans la procession à Altdorf** ; banner Middenheim ; suivi de Vieran Thugenheim en uniforme Chevaliers Panthères ; Harman + Malthe Barthelm dans entourage | EiR ch.5 (Marche de l'Unité) |
 | Pendant EiR ch.5 (S60) | Helstein Manor Altdorf | Délégation Middenheim s'installe à **Helstein Manor** à Mauerblumchen (Manoir de loyaux subjects Helsteins of Middenheim — *"For political reasons the Todbringers do not keep their own estate in Altdorf"*) | EiR ch.5 l.38 ; ch.6 l.167 |
 | Pendant EiR ch.6 (S61) | Grand Cathedral mariage | **Wolfgang Holswig-Abenauer épouse Katarina Todbringer** — Yorri XV célèbre ; iconographie Bildhofens of Carroburg + Barthelms + Nikses présente | EiR ch.6 |
 | Pendant EiR ch.6 (S61) | Mariage interrompu | **Malthe Barthelm tire sur Katarina** ; Wasmeier intervient (porte latérale) | EiR ch.6 l.193-208 |
@@ -540,7 +540,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
   - l.215 — Wasmeier-Zuntermein
   - **l.244-249 — section Middenheim and Middenland** (mutant edict, Fils d'Ulric, Bildhofen torn loyalties Magnus)
   - l.890-895 — Boris Trappings complets (Peak Leveller + Wardenship Nordland)
-- **EiR ch.5 *March of Unity*** : Boris dans procession Altdorf ; Helstein Manor (l.38)
+- **EiR ch.5 *Marche de l'Unité*** : Boris dans procession Altdorf ; Helstein Manor (l.38)
 - **EiR ch.6 *The Wedding*** : l.167 (Helstein Manor délégation Middenheim), l.181 (iconography Bildhofens of Carroburg + Barthelms + Nikses)
 - **EiR ch.7 *Emergency Conclave*** : l.42 (Boris goals), l.95 (Boris allegiance Moderate Ulrican), **l.247-253 (Boris brise Ghal Maraz avec Peak Leveller)**
 - **EiR ch.17 *History of the Turmoil*** :

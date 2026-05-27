@@ -281,7 +281,7 @@ Au moment où Ingrid se résigne à mourir sans succès, *"an agent of Karl-Hein
 | Avant EiR ch.5 | (background) | Wasmeier (via agent) fournit à Ingrid preuves Anika-Elise cultiste + moisson compromettants Électeurs | Salzenmund ch.4 l.436 ; Companion ch.5 l.38 |
 | Pendant EiR ch.1 (S56) | *Sky Wolf* over Drakwald | **Attaque dirigeable Heinrich** par Klammer / Helstorm rockets | EiR Intro l.36 ; ch.1 l.216-260 |
 | Pendant EiR ch.2 (S57) | Audience Boris Middenheim | Boris discute des reaving Nordland | EiR ch.2 l.141 |
-| Pendant EiR ch.5 (S60) | March of Unity, défilé Altdorf | Harman Barthelm + son fils Malthe présents dans l'entourage Todbringer | EiR ch.5 l.105 |
+| Pendant EiR ch.5 (S60) | Marche de l'Unité, défilé Altdorf | Harman Barthelm + son fils Malthe présents dans l'entourage Todbringer | EiR ch.5 l.105 |
 | Pendant EiR ch.6 (S61) | Wedding Grand Cathedral | **Malthe Barthelm tire sur Katarina** ; Wasmeier intervient (porte latérale) | EiR ch.6 l.110-208 |
 | Pendant EiR ch.7 (S62) | Conclave Volkshalle | Boris demande sanction Imperial vs Gausser + extradition Barthelm ; conclave brisé (Ghal Maraz) | EiR ch.7 l.42 ; l.247-253 |
 | Pendant EiR ch.8-12 | (background, parallèle à la quête du marteau) | Wasmeier toujours actif depuis Drakwald | EiR Intro l.215 |
@@ -550,7 +550,7 @@ Nordland = Grande Province à part entière. Élargissement post-Turmoil avec Ho
 - **EiR Volume 5 — Introduction** : l.36, l.63, l.215, l.245-256, l.890, l.894
 - **EiR ch.1 *Dirigible in Danger*** : l.176-184, l.216-260
 - **EiR ch.2 *Chilly Reception*** : l.141
-- **EiR ch.5 *The March of Unity*** : l.105 (Malthe + père Harman)
+- **EiR ch.5 *The Marche de l'Unité*** : l.105 (Malthe + père Harman)
 - **EiR ch.6 *The Wedding*** : l.110-208
 - **EiR ch.7 *Emergency Conclave*** : l.42
 - **EiR ch.17 *History of the Turmoil*** : l.16, l.24, l.34

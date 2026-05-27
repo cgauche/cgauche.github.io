@@ -179,7 +179,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 | S57 — Accueil glacial | Ch. 2 — Chilly Reception | Conforme |
 | S58 — Shining Rock | Ch. 3 — Journey to Shining Rock | Conforme (un œil de Mark = bonus MJ) |
 | S59 — Reikgarde | Ch. 4 — Audience with Wolfgang | Conforme |
-| S60 — Défilé | Ch. 5 — March of Unity | Conforme (porcs = enrichissement MJ) |
+| S60 — Défilé | Ch. 5 — Marche de l'Unité | Conforme (porcs = enrichissement MJ) |
 | S61 — Mariage | Ch. 6 — The Wedding | Conforme |
 | S62 — Conclave | Ch. 7 — Emergency Conclave | Conforme |
 

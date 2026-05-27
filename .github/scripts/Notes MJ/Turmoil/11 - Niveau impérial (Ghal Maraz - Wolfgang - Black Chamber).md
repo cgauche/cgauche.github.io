@@ -345,7 +345,7 @@ Le Turmoil 2512 IC impérial est canon **orchestré depuis le palier daemonique*
 | Spring 2512 IC | EiR Intro l.282-284 | Cellules Main Pourpre régionales manipulent fronts régionaux (cascades fiches 03/04/06/01) | EiR Intro l.282-284 |
 | Spring 2512 IC | EiR Intro l.332 | **Coordination Main Pourpre 3-cellules contre Hergard Tasseninck** (Altdorf tracking + Middenheim Snikkit + Wolfenburg rumours) → guerre Ostland-Talabecland | EiR Intro l.332 |
 | Pendant EiR ch.4 (~S59) | EiR ch.4 | **Audience Prince Héritier Wolfgang Castle Reikguard** — Characters peuvent suspecter Neuf Yeux, observer Amulet of Jade, indices Tzeentch | EiR ch.4 l.57+ ; l.274-303 |
-| Pendant EiR ch.5 (S60) | EiR ch.5 | **Défilé Altdorf March of Unity** : Hermann (sosie KF) au pavillon | EiR ch.5 |
+| Pendant EiR ch.5 (S60) | EiR ch.5 | **Défilé Altdorf Marche de l'Unité** : Hermann (sosie KF) au pavillon | EiR ch.5 |
 | Pendant EiR ch.6 (S61) | EiR ch.6 | **Mariage Wolfgang-Katarina Grand Cathedral** : Yorri officie ; attentat Barthelm (cascade fiches 01+02) | EiR ch.6 |
 | Pendant EiR ch.7 (S62) | EiR ch.7 | **Conclave d'urgence Volkshalle** : Boris demande sanction vs Gausser ; **Hermann tient Imitation Ghal Maraz placée sur table** | EiR ch.7 l.42 ; l.109 |
 | Pendant EiR ch.7 (S62) | **EiR ch.7 l.247-253** | **BORIS BRISE L'IMITATION GHAL MARAZ avec Peak Leveller** *"Splitting the Skull Splitter"* → 9 fragments | EiR ch.7 l.247-253 |
@@ -655,7 +655,7 @@ La fiche 11 est le **point de convergence narratif** du Turmoil : **toutes les f
   - **l.66-77 — Castle Reikguard** : *"located south-east of the grand city of Altdorf"* ; *"runic devices repel magic"*
   - **l.274-303 — Neuf Yeux individual descriptions** (Kathe textes prophétiques Tzeentch ; Per artisans/techniques ; Wilhelmina mural 8 winds magic ; Wolfie diary dark powers ; Ingrid combattante rapier ; Wulfrum Tante Augusta's Auguries ; Gustav miroir brisé 9 fragments ; Gislind von Deihl's Strange Flower mutants ; Vatheck cartes frontières princesses)
 
-- **EiR ch.5 *The March of Unity*** :
+- **EiR ch.5 *The Marche de l'Unité*** :
   - Hermann (sosie KF) au pavillon défilé Altdorf
 
 - **EiR ch.6 *The Wedding*** :

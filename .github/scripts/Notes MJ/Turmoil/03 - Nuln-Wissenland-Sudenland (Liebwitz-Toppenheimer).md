@@ -272,8 +272,8 @@ Le Turmoil au front Nuln-Sudenland s'enclenche en plusieurs étapes orchestrées
 | Spring 2512 IC | EiR ch.17 l.10 | Disparition Prince Héritier Hergard ; début Turmoil | EiR ch.17 l.10 |
 | Spring 2512 IC | (background) | **Etelka commande les Threshers à Fione Brecht** pour le false-flag | EiR ch.9 l.295 |
 | Spring 2512 IC | (background) | **Etelka envoie Hugo Bottomdown** à Castle Reikguard avec handout *"A New Dawn for Solland"* | EiR ch.5 l.6-33 |
-| Pendant EiR ch.5 (S60) | March of Unity Altdorf | **Hugo Bottomdown spotted following Characters** depuis Castle Reikguard sur poney ; **handout interceptable** révélant Fione + Heideinheim | EiR ch.5 l.6-33 |
-| Pendant EiR ch.5 (S60) | March of Unity Altdorf | Boris dans procession ; **Emmanuelle observe le défilé** et fait des observations astutes sur la situation | EiR ch.5 l.70-72 |
+| Pendant EiR ch.5 (S60) | Marche de l'Unité Altdorf | **Hugo Bottomdown spotted following Characters** depuis Castle Reikguard sur poney ; **handout interceptable** révélant Fione + Heideinheim | EiR ch.5 l.6-33 |
+| Pendant EiR ch.5 (S60) | Marche de l'Unité Altdorf | Boris dans procession ; **Emmanuelle observe le défilé** et fait des observations astutes sur la situation | EiR ch.5 l.70-72 |
 | Pendant EiR ch.6 (S61) | Wedding Grand Cathedral | Mariage Wolfgang-Katarina interrompu par Barthelm (cascade fiche 01) | EiR ch.6 |
 | Pendant EiR ch.7 (S62) | Conclave Volkshalle | **Etelka présente comme Électrice de Sudenland** ; speech succession demande garantie Grand Provincial laws | EiR ch.7 l.105 ; l.27 |
 | Pendant EiR ch.7 (S62) | Conclave Volkshalle | **Emmanuelle humilie Etelka publiquement** : *"Etelka, darling, perhaps your suzerain ought actually to be grand"* | EiR ch.7 l.165-166 |
@@ -463,7 +463,7 @@ La proposition Ulric d'Etelka au Conclave (ch.7 l.169) n'a jamais été exécut�
   - **l.258-263 — section Nuln, Wissenland, and Sudenland** (Toppenheimers ruled Nuln in previous centuries, 12 enfants Etelka, 8 enfants pro-Emmanuelle, Basil héritier adopté, casus belli)
   - **l.283 — Averheim cell + Nuln cell Main Pourpre** (manipulation cascadée Liebwitz-Toppenheimer + Alptraum-Leitdorf)
 
-- **EiR ch.5 *The March of Unity*** :
+- **EiR ch.5 *The Marche de l'Unité*** :
   - **l.6-33 — Hugo Bottomdown spy + handout *"A New Dawn for Solland"***
   - l.18-32 — texte intégral du handout (acquérir uniformes, Pfeildorf-Fione, mot Heideinheim, confirmer mariage)
   - l.27 — small vial of poison

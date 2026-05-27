@@ -61,7 +61,7 @@
 | Spring 2512 IC | **Compromettants Wasmeier-Ingrid transmis Anika-Elise → Ingrid Gausser → Alberich Stirland** → vote restauration Nordland | 01+08 | Salzenmund ch.4 l.440-449 |
 | Spring 2512 IC | **Imperial Ostlanders patrouille Black Mountains** ; découverte horde Vorgaz Ironjaw en formation | 04+06+12 | EiR Companion ch.4 l.506 |
 | Pendant EiR ch.4 (~S59) | **Audience Prince Héritier Wolfgang Castle Reikguard** ; Characters peuvent suspecter Neuf Yeux | 11 | EiR ch.4 l.274-303 |
-| Pendant EiR ch.5 (S60) | **Défilé Altdorf March of Unity** ; Hermann (sosie KF) au pavillon | 09+11 | EiR ch.5 |
+| Pendant EiR ch.5 (S60) | **Défilé Altdorf Marche de l'Unité** ; Hermann (sosie KF) au pavillon | 09+11 | EiR ch.5 |
 | Pendant EiR ch.6 (S61) | **Mariage Wolfgang-Katarina Grand Cathedral Sigmar** ; **attentat Malthe Barthelm** (cascade fiche 01) ; mariage interrompu | 02+09 | EiR ch.6 |
 | Pendant EiR ch.7 (S62) | **Conclave d'urgence Volkshalle** ; Boris demande sanction vs Gausser (refusée) ; Hermann tient Imitation Ghal Maraz placée sur table | 02+09+11 | EiR ch.7 l.42 ; l.109 |
 | **Pendant EiR ch.7 (S62)** | **BORIS BRISE L'IMITATION GHAL MARAZ avec Peak Leveller** (*"Splitting the Skull Splitter"*) → 9 fragments dispersés | 02+09+11 | EiR ch.7 l.247-253 |
