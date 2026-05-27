@@ -1,141 +1,107 @@
 # Ubersreik
 
-> **Ville-forteresse stratégique du Reikland sud-ouest**, à la confluence du Teufel et du Reik, point de passage obligé vers les Montagnes Grises. Centre névralgique de l'Arc 3.
+**Sous-titre** : Ville-forteresse du Reikland sud-ouest, gardienne du Col de la Grise Dame  
+**Statut** : [OCCUPÉE PAR ALTDORF depuis 2512 IC — nœud Arc 1-7]
 
-## Identité
-- **Type** : Ville fortifiée moyenne, **occupée par l'armée impériale** depuis ~2511 IC (putsch de Karl-Franz contre la **maison Jundfreud**).
-- **Région** : **Reikland sud-ouest**, à la jonction **Teufel / Reik / route des Montagnes Grises**.
-- **Statut** : Pouvoir politique officiel = **général impérial [[Jendrick von Dabernick]]** (façade). Pouvoir réel = **[[Emmanuelle Nacht]]**, régente impériale. Aucune famille n'a réussi à s'imposer comme successeur Jundfreud.
-- **Population** : moyenne. Mixe forte d'**aldorfers** (occupants) + **loyalistes Jundfreud** (locaux) → tensions structurelles.
-- **Tags** : `#Ubersreik` `#Reikland` `#Jundfreud` `#EmmanuelleNacht` `#Altdorf` `#Bruner` `#Aschaffenberg` `#Holzenauer` `#OccupationImperiale`
+## Description
 
-## Source
-- *Starter Set / A Guide to Ubersreik* : `Source/Starter Set/A Guide to Ubersreik/` (référence détaillée canonique, 4e éd.)
-- *Rough Nights & Hard Days* ch.6-7 (mariage + bal masqué) : `Source/Rough Nights & Hard Days/06 - Nastassia's Wedding.md` + `07 - Lord of Ubersreik.md`
-- *Ubersreik Adventures I* (compilation) : `Source/Ubersreik Adventures/01 - Ubersreik Adventures.md`
-- *Ubersreik Adventures II* : `Source/Ubersreik Adventures II/`
-- *Ubersreik Adventures III* (Tragic Tale of Upheaval = chronologie politique 2509-2513 IC) : `Source/Ubersreik Adventures III/04 - A Tragic Tale of Upheaval.md`
-- *Enemy in Shadows Companion* ch.11 (Affaire du joyau caché) : `Source/Enemy in Shadows Companion/14 - CHAPTER 11- THE AFFAIR OF THE HIDDEN JEWEL.md`
+Ubersreik est une ville-forteresse nichée dans l'ombre des Montagnes Grises, gardienne du Col de la Grise Dame — seule route fiable de commerce reliant le Reikland au duché bretonnien de Parravon `Starter Set ch.3 l.10`. La cité enjambe le Teufel dans la fertile Vallée de la Dame et concentre un commerce dense entre la Bretonnie, les forteresses naines des Montagnes Grises et l'Empire `Starter Set ch.3 l.10`. La population intra-muros tourne autour de 5 000 humains, quelques centaines de halflings et un millier de nains regroupés à Dawihafen — le quartier nain — depuis le départ des loyalistes Jungfreud `Starter Set ch.3 l.200`.
 
-## Contexte historique (UA III)
-- **2509 IC** : Edit impérial controversé. **House Jundfreud déchue**. Sigmund Jundfreud (héritier) en fuite ou résistance.
-- **2512-2513 IC** : **L'Occupation**. Armée impériale stationnée. Tensions communautaires constantes. **Le Tumulte** : émeutes, attentats anti-aldorfers.
-- **Post-2513** : Vacuum politique. Familles nobles candidates : Bruner, Aschaffenberg, Holzenauer, Saponatheim — toutes affaiblies après Arc 3 (cf. ci-dessous).
+Les murs hauts et larges, conçus par les ingénieurs nains de Karak Azgaraz sous Magnus le Pieux, relient le Château de la Roche Noire à la Tour de Magnus `Starter Set ch.3 l.43`. Quatre grandes tours dominent les murailles : Helmsweg (jamais brisée), Hugeldal (inclinée), von Voglemann (artillerie lourde, accès par ascenseur) et Magnus (la plus haute, district du Precinct) `Starter Set ch.4 l.37`. Trois portes terrestres — Nord, Sud, Est — plus la passe fluviale verrouillée par des herses et une chaîne naine bardée de pointes capable d'éventrer un navire de guerre `Starter Set ch.4 l.39+41`.
 
-## Géographie & quartiers
+## Géographie et accès
 
-### Quartiers
-- **Morgenseite** (la Hill) : quartier riche au SE, manoirs nobles. **Niederstadt Haus** y est loué pour le bal masqué S20 (Holzenauer). Vue sur la ville.
-- **Spittlefeld** : quartier pauvre (cf. UA1 *Slaughter in Spittlefeld*). Immeubles vétustes, conditions sanitaires médiocres → terrain à épidémies. Vampire-cuisinière y a sévi (S18).
-- **Bas-quartiers (basse-ville)** : niveau direct du Teufel. Bandes criminelles tiléennes (Valentinas locale, possible filiation Nuln). Égouts utilisés par cultistes + skavens. Cf. S17.
-- **Quartier marchand / place du marché** : troupe théâtrale d'Elvira. **Allée de la Flûte en Os (Whistlebone Alley)** : échoppe **Cordelia Wesselingh** (S15).
-- **Quartier garnison** : **Magnus's Tower** = grande tour de guet aldorfer (capitaine Blucher) où Vielfrass meurt S16. Distincte de la **Tour des Vents** (Tower of Vane, Montagnes Grises — site du tir) et de la **tour personnelle de Christoph Engel sur Wizard's Way** (à Ubersreik, vide depuis qu'Engel est parti enquêter sur Carolus).
+- **Position** : confluence du Teufel et de la Vallée de la Dame, pied nord-est des Montagnes Grises `Starter Set ch.3 l.10`.
+- **Col de la Grise Dame** : seul passage praticable vers Parravon ; convois saisonniers de 40+ chariots descendent du col au printemps et en été `Starter Set ch.4 l.18`.
+- **Routes principales** : Route de Bögenhafen, Route d'Auerswald, Route de Nuln, Route de Parravon `Starter Set ch.4 l.18`.
+- **Voie fluviale** : le Teufel rejoint le Reik en aval ; la barge est la principale voie de commerce vers Altdorf et au-delà jusqu'à Marienburg via le canal Hägercryb `Starter Set ch.4 l.30+32`.
+- **Château de la Roche Noire** : bastion intérieur quasi-imprenable, garnison de l'armée d'Altdorf depuis 2512 IC `Starter Set ch.3 l.20`.
+- **Duché de la Roche Noire** : fief ancestral des Jungfreud, à l'amont du Teufel jusqu'à la gorge de Shluesselschlossscheucht ; siège à Castle Neufaljung `Starter Set ch.4 l.30` `UA III ch.4 l.120`.
 
-### Lieux marqués (PJ y ont été)
-- **[[Maison du Pont]]** [S14-S21] — auberge pour clients aisés, relais de la **compagnie Quatre Saisons** + écuries. Elvira y travaille + intègre la troupe théâtrale locale. **[[Gunther Abend]]** gérant, reconnaissant envers Elvira. Lieu central de retrouvailles du groupe.
-- **Palais d'Ubersreik** [S14, S16] — siège du pouvoir, audience [[Emmanuelle Nacht]].
-- **Allée de la Flûte en Os (Whistlebone Alley)** [S15] — embuscade aux chasseurs de prime traquant Hubkind.
-- **Pension Rugger (Rugger's Boarding House)** [S15] — auberge miteuse au bord du Teufel. Hubkind blesse Ida Vernt, tente de la tuer + Cordelia.
-- **Bas-quartiers + égouts** [S17] — Contrat Oldenhaller. Échoppe du "Baron" massacrée, repaire Valentinas (chef décapité), cavité avec miséreux barricadés, rituel cultiste.
-- **Spittlefeld immeuble en quarantaine** [S18] — Ogre Gino concierge, docteur Giliani malade, cuisine sanglante sous-sol, **vampire ex-cuisinière des Bruner**.
-- **Temple de Morr** [S16] — autopsie de Vielfrass.
-- **Gymnase d'Orban** [S16] — cellule cultiste Shornaal/Slaanesh déguisée en club de boxe. Prière : « *Ygrak tu amat Shornaal* ». Cf. [[Cellule Shornaal d'Ubersreik]].
-- **Grande tour de guet (capitaine Blucher)** [S16] — où Vielfrass est mort par énergie magique.
-- **Tour personnelle d'Engel sur Wizard's Way** [S16, vide] — la tour officielle du mage d'Ubersreik ; vide depuis qu'Engel est parti vers la [[Tour des Vents]] (Montagnes Grises) enquêter sur Carolus.
-- **Couronne de Carolus** [S21] — taverne huppée, rdv Wagenkneicht.
-- **Niederstadt Haus, Morgenseite** [S20] — manoir loué par **[[Erich von Holzenauer]]** pour le bal masqué. **Skavens y empoisonnent les nobles à la malpierre.**
-- **Palais Bruner** [S17, S19, S20 indirect] — résidence familiale Bruner où Phineas est sous emploi.
+## Histoire
 
-### Hors-Ubersreik mais routes affiliées
-- **Coach and Horses Inn** [S4] — déjà couvert Arc 2 (route Altdorf-Bögenhafen).
-- **Village d'Elssen** (Montagnes Grises) [S16] — économie quasi-non monétaire. Tremplin vers la Tour des Vents.
-- **Marché aux bestiaux nord d'Ubersreik** [S21] — première étape vers Altdorf, sabotage cocheessieu.
-- **Cinq Chênes** (auberge fortifiée) [S21] — hommes-bêtes, chasseurs de tête déguisés.
-- **Piques Croisées** [S19] — auberge à quelques heures, rdv Kellermann + Drakensberg.
-- **Château abandonné (Flèche Noire planque)** [S19] — vieux pont (peur de Mark), happeur, geôles, cuisines.
-- **Haches Croisées** [S21] — étape finale avant Altdorf, dépôt Wagenkneicht.
+- **2304 IC — Reconstruction** : après la dévastation par les peaux-vertes pendant la Grande Guerre contre le Chaos, Magnus le Pieux commande aux nains de Karak Azgaraz de reconstruire Ubersreik ; nouveaux murs reliant le Château de la Roche Noire à la Tour de Magnus, pont monumental sur le Teufel `Starter Set ch.3 l.43`.
+- **2495 IC — Sigismund von Jungfreud** : à la mort de son père, Sigismund von Jungfreud hérite du duché et déplace sa cour de la Roche Noire au Château de la Roche Noire d'Ubersreik ; rapidement reconnu pour son intelligence politique et militaire, sa froideur sans concession `Starter Set ch.3 l.194`.
+- **2512 IC — L'édit de minuit** : Karl-Franz Holswig-Schliestein fait passer un édit surprise à la Diète du Reikland en pleine nuit, dépose la maison Jungfreud d'Ubersreik au prétexte d'une mobilisation militaire jugée hors limites ducales `Starter Set ch.3 l.65+81`. L'armée d'Altdorf, déjà postée près de la frontière, fond sur la ville le matin suivant ; Graf Sigismund se replie au Château Neufaljung dans le duché de la Roche Noire, laissant Ubersreik aux occupants `Starter Set ch.3 l.67` `UA III ch.4 l.108`.
+- **2512-2513 IC — L'Occupation** : la Garde d'Ubersreik est remplacée par les soldats d'Altdorf garnisonnés au Château de la Roche Noire ; reprisailles brutales contre les résistants, corps exposés en avertissement `Starter Set ch.3 l.20+69` `UA III ch.4 l.112`.
 
-## État politique post-S20-S21
+## Composition
 
-**Effondrement multi-familles** : Le bal masqué de S20 (empoisonnement malpierre, sanglier animé, vêtements échangés, querelles publiques) a **affaibli simultanément la plupart des maisons** :
-- **Bruner** : ridiculisés par les frasques d'Andreas (lui-même empoisonné publiquement par Filianore en mission Nacht).
-- **Aschaffenberg** : Maximilien moquerie expulsée + Rickard pris à essayer de planter un message compromettant.
-- **Holzenauer** : Erich = hôte du désastre, politiquement mort.
-- **Saponatheim** : (annulation mariage S13 déjà compromise, peu présents à Ubersreik).
-- **Liebwitz** (Karl-Heinz) : annulation mariage = humiliation indirecte.
+### Pouvoir effectif
 
-→ **Le vacuum perdure**, ce qui prépare canon **Arc 7 / Empire in Ruins** où les **Jundfreud cherchent à reprendre Ubersreik par les armes** (S57).
+- **Lady Emmanuelle Nacht** — Héraut Impérial dépêchée par Karl-Franz, pouvoir réel à Ubersreik ; les maisons nobles Aschaffenberg et Bruner courtisent sa faveur plus volontiers que celle du général `Starter Set ch.3 l.211+213`.
+- **General Jendrick von Dabernick** — commandement militaire direct des cinq cents soldats d'occupation, façade visible du pouvoir impérial ; uniforme rouge et bleu, plastron doré, moustache énorme et coiffure cométaire `Starter Set ch.3 l.209`.
+- **Town Council** — conseil consultatif sous les Jungfreud, devenu organe de pouvoir réel sur la vie quotidienne pendant l'occupation, mené par le Burgomeister Ernst Maler ; mouvement Freiburg porté par la classe marchande émergente `Starter Set ch.3 l.79+205` `UA III ch.4 l.116`.
 
-## Factions actives
-- **[[Régence impériale d'Ubersreik]]** — pouvoir effectif via Emmanuelle Nacht (cf. Faction).
-- **[[Maisons nobles d'Ubersreik]]** — rivalité Bruner / Aschaffenberg / Holzenauer / Saponatheim, toutes affaiblies post-S20.
-- **Loyalistes Jundfreud** — résistance populaire. Émeutes anti-aldorfers (S21 : « vive Jundfreud / dégagez aldorfers »). **Force latente cohérente avec la résurgence S57**. À développer.
-- **[[Cellule Shornaal d'Ubersreik]]** — cult Slaanesh dans l'armée (Vielfrass, Orban). Désorganisée post-S16 mais probable réseau survivant.
-- **Skavens** — présents sous Ubersreik (S17 décapitation Valentinas + S20 malpierre au bal). **Clan non identifié à table**. Première trace skaven hors-Bögenhafen pour les PJ.
-- **Compagnie de coches Quatre Saisons** — domine le réseau de transport, basée à la Maison du Pont. Concurrencée par d'autres lignes (cf. S21 prétendue rivalité avec "Elisha Hochs").
-- **Cellule Main Pourpre via Christoph Engel ?** — non confirmé, mais Engel disparu avec pièces d'arme magique → potentiel relais Tzeentch.
+### Maisons nobles candidates au pouvoir vacant
 
-## PNJ présents / liés
-- **[[Emmanuelle Nacht]]** [VIVANTE, ACTIVE — régente]
-- **[[Jendrick von Dabernick]]** [VIVANT — façade impériale]
-- **[[Heinrich Bruner]]** [VIVANT — affaibli]
-- **[[Andreas Bruner]]** [VIVANT — discrédit total]
-- **[[Rickard von Aschaffenberg]]** [VIVANT — affaibli]
-- **Maximilien von Aschaffenberg** [VIVANT — moqueur, neveu Rickard]
-- **[[Erich von Holzenauer]]** [VIVANT — politiquement mort]
-- **[[Christoph Engel]]** [DISPARU — pièces d'arme]
-- **[[Carolus Entschlafen]]** [MORT S16]
-- **[[Tylo Vielfrass]]** [MORT S16, ex-cultiste]
-- **Orban Geldrecht** [MORT S16 — cultiste tué en embuscade]
-- **[[Heske Glazer]]** [VIVANTE — artisane verrière]
-- **[[Cordelia Wesselingh]]** [VIVANTE — apothicaire, alliée Filianore]
-- **[[Ida Vernt]]** [MORTE S21 — Anselm sur sa demande]
-- **[[Gunther Abend]]** [VIVANT — Maison du Pont]
-- **Père Gunther Emming** (grand prêtre Sigmar)
-- **Sœur Célestine Hoch** (prêtresse Shallya)
-- **Capitaine Blucher** (tour de guet aldorfer)
-- **Caranthir + Mardrin** (mercenaires Bruner, abandonnés)
-- **Docteur Giliani**, **Gino**, **Annika Passerine**, **Trinité**, **Sreluc + Srulem**, **Elutareth Cretevague** (figurants Spittlefeld)
-- **Watch Captain Andrea Pfeffer** (canon RN&HD ch.7) — sous-staffée, recrute des bénévoles.
+- **Maison Bruner** — anciens seigneurs d'Ubersreik avant les Jungfreud, fortune minière dans les Hägercrybs, présumés les successeurs naturels mais entachés de rumeurs de corruption ; Lord Heinrich Bruner sous instruction maternelle de prouver la dévotion de la maison à Sigmar `Starter Set ch.3 l.213` `UA III ch.4 l.138-139`.
+- **Maison Aschaffenberg** — rivaux des Bruner, anciens alliés des Jungfreud, retournent l'alliance dès la chute ; Lord Brynich réfugié dans les collines de Blitzfelsen, son épouse Eleanor maintient le manoir familial intra-muros `UA III ch.4 l.150-151`.
+- **Maison Holzenauer** — famille altdorfer aux liens ubersreikiens, Lord Erich von Holzenauer pistolier décoré contre les peaux-vertes ; tente d'impressionner Dabernick par un grand bal masqué `UA III ch.4 l.144-145`.
+- **Maison Saponatheim** — Graf Wilhelm tient Bögenhafen et ses hinterlands, prétention ténue sur Ubersreik portée par l'ambitieux Lord Siegfried von Saponatheim `UA III ch.4 l.147-148`.
+- **Maison Karstadt** — la plus riche famille marchande, anciennement noble jusqu'au rachat de leur patente par les Bruner ; Hellin Karstadt-Stampf, première fortune féminine du duché, dispose à soutenir la voie Freiburg `UA III ch.4 l.141-142`.
 
-## Fils ouverts locaux
-- **Christoph Engel disparu avec pièces de l'arme magique de Carolus Entschlafen** (S16). Plot dormant.
-- **Skavens sous Ubersreik** — clan non identifié, capacité confirmée S20.
-- **Cellule Shornaal d'Ubersreik** — survivants potentiels.
-- **Gemme Oldenhaller chez Andreas Bruner** (S17) — artefact chaotique non identifié, encore en sa possession.
-- **Loyalistes Jundfreud en montée** — prépare canon Arc 7 S57.
-- **Cellule Main Pourpre à Ubersreik ?** — Kastor enquêtait ici via Filianore. Cellule sous-jacente possible.
-- **Caranthir + Mardrin** abandonnés à Ubersreik — peuvent revenir comme témoins ou complices Bruner.
-- **Cordelia Wesselingh** et **Gunther Abend** : alliés acquis (gratitude Filianore + Elvira). Points de rentrée si retour PJ.
+### Maison déchue
 
-## Hooks de retour
+- **Maison Jungfreud** — Graf Sigismund von Jungfreud retiré au Château Neufaljung dans le duché de la Roche Noire, recrute mercenaires et négocie avec Duke Zenechar Trott de Tahme ; sa sœur Lady Hild Jungfreud commande de fait les forces remontant le Teufel vers la reprise `UA III ch.4 l.120` `UA III ch.4 l.224`.
 
-### Quelques jours après S21
-- Filianore a probablement laissé des affaires + cover identity chez Cordelia.
-- Gunther Abend gère encore la Maison du Pont. Continue d'écouter rumeurs voyageurs.
-- Le palais Bruner : Heinrich peut chercher à reprendre contact avec Phineas (recommandation politique).
+### Cultes principaux
 
-### 1-3 mois après S21
-- **Émeutes en escalade** : situation pré-Tumulte canon UA III. Altdorfers attaqués régulièrement.
-- **Compagnie Quatre Saisons** affaiblie par les incidents : possible faillite ou rachat.
-- **Nouveau bal** organisé par un noble survivant cherchant à profiter du vacuum.
+- **Culte de Sigmar** — dix temples et chapelles intra-muros, le plus implanté ; Father Gunther Emming, prêtre du grand temple, soutient ouvertement la garnison d'Altdorf et appelle à l'unité `Starter Set ch.3 l.202+237`.
+- **Culte de Vérèna et Culte de Shallya** — temples sur la grande place ; principales représentations cultuelles après Sigmar `Starter Set ch.3 l.237`.
+- **Culte d'Ulric** — chapelle-forteresse étonnamment grande dans le district fermé du Precinct ; Denfather Holst Kretschmer en sera retiré et emprisonné au Château de la Roche Noire pendant la Tourmente, soupçon de loyauté middenheimoise `Starter Set ch.3 l.225` `UA III ch.4 l.204`.
 
-### 6 mois - 1 an
-- **Sigmund Jundfreud (héritier)** refait surface en sous-main, organise la résistance.
-- **Maliss / clan skaven** consolide sa présence sous Ubersreik (cohérent avec activité Arc 6).
-- **Christoph Engel** réutilise les pièces de l'arme dans un nouvel acte.
+## Rôle Arc 7 — La prise d'Ubersreik comme catalyseur
 
-### Vers Arc 7 (canon EiR S57)
-- **Jundfreud monte une armée privée** pour reprendre Ubersreik (révélé canoniquement S57 chez Boris Todbringer).
-- **Emmanuelle Nacht** : son sort à ce moment-là = ouvert. Peut être tuée, ralliée à Jundfreud (improbable), ou évacuée à Altdorf.
-- **Si les PJ retournent à Ubersreik en arc 7**, retrouver Engel ou la gemme Oldenhaller fait un side-quest cohérent.
+L'annexion d'Ubersreik en 2512 IC est l'une des deux décisions ruineuses de Karl-Franz dans *Empire in Ruins* — l'autre étant l'édit sur les mutants — toutes deux soufflées par Yann Zuntermein via l'entourage impérial `EiR Intro l.240+242`.
 
-## Liens
-- **Arcs** : [[Arc 3 - Ubersreik]] (principal), arrière-plan Arc 7
-- **PNJ-clé** : [[Emmanuelle Nacht]], [[Heinrich Bruner]], [[Christoph Engel]], [[Cordelia Wesselingh]], [[Gunther Abend]]
-- **Lieux connexes** : [[Schloss Grauenberg]] (40 mi en aval du Bögen), [[Tour des Vents]] (Montagnes Grises), [[Altdorf]] (capitale impériale, rivale dans l'imaginaire), [[Bögenhafen]] (route vers Altdorf)
-- **Factions** : [[Régence impériale d'Ubersreik]], [[Maisons nobles d'Ubersreik]], [[Cellule Shornaal d'Ubersreik]], [[Main Pourpre]] (relais via Engel ?)
+### Le complot Main Pourpre `EiR Intro l.302`
+
+- Yann Zuntermein, Magister Magistri de la cellule Main Pourpre d'Altdorf et infiltré au Spionwerber, gagne la confiance de Liepmund Holzkrug, Grand Ambassadeur ; il apprend que Holzkrug ressent l'humiliation de la lignée Holswig-Schliestein `EiR Intro l.306`.
+- Zuntermein et Holzkrug fabriquent un dossier suggérant que les Jungfreud préparent une guerre contre les Wallenstein d'Auerswald, en tordant la rivalité dynastique existante `EiR Intro l.300` `UA III ch.4 l.41`.
+- Le dossier est transmis à Immanuel-Ferrand Holswig-Schliestein, oncle de Karl-Franz et membre du Conseil d'État, dont la conviction centralisatrice fait un relais parfait `EiR Intro l.304`.
+- Le médecin impérial Henrik Kappelmuller, autre agent de la Main Pourpre, administre à Karl-Franz une dose de remède aux effets connus de suggestibilité accrue le jour où il doit examiner la proposition d'Immanuel-Ferrand ; l'Empereur approuve `EiR Intro l.308`.
+- Suite à l'édit, le prestige impérial s'effondre dans toute la noblesse — Karl-Franz apparaît comme un suzerain qui peut déposer une grande maison sur un caprice, et chaque famille noble s'arme `EiR Intro l.312`. Boris Todbringer parle de la prise d'Ubersreik comme du geste d'un faux Empereur : *« no true Emperor would so rudely depose a major noble house »* `EiR Intro l.916`.
+
+### La Tourmente locale `UA III ch.4 l.194`
+
+- Émeutes du pain et pillages éclatent dans la ville à mesure que les récoltes manquent ; la Watch d'Altdorf devient plus brutale `UA III ch.4 l.210`.
+- Les hommes-bêtes et la tribu gobeline Creeping Death gagnent en hardiesse aux abords du duché ; Dabernick demande des renforts à Altdorf, qui n'en envoie pas `UA III ch.4 l.212`.
+- Reiksmarshall Kurt Helborg vient évaluer la situation, interroge Dabernick et Nacht, repart à Altdorf prématurément après avoir compris que la révolte ne peut être étouffée sans cinq mille troupes fraîches `UA III ch.4 l.216+237`.
+- **Trois armées convergent** vers Ubersreik à la fin de l'Arc 7 : la force Jungfreud menée par Lady Hild Jungfreud avec Graf Sigismund à sa tête depuis la Roche Noire ; une armée plus petite par Rudolf Trocheim depuis Graustadt ; les mercenaires d'Absolem Trott remontant la vallée du Teufel `UA III ch.4 l.224`.
+- L'arrivée de Karl-Franz régénéré sur Deathclaw avec Ghal Maraz suspend l'assaut au dernier moment ; le Graf Sigismund accepte de parler `UA III ch.4 l.228`.
+
+## Mécanique de scène — accès et défenses
+
+- **Trois portes terrestres** : Portes Nord et Sud assez larges pour un régiment en marche, portes en chêne bardées de fer, portcullis et meurtrières naines ; Porte Est plus étroite, deux chariots de front `Starter Set ch.4 l.39`. Toutes ouvertes du lever au coucher du soleil, fermées au son du grand cor de la Tour de Magnus.
+- **Passe fluviale du Teufel** : tours lourdes est et ouest, herses rarement fermées (lever d'environ trente minutes), chaîne naine à pointes et lames `Starter Set ch.4 l.41`.
+- **Château de la Roche Noire** : bastion intérieur quasi-imprenable, héberge la garnison impériale et le poste de commandement de Dabernick `Starter Set ch.3 l.20+114`.
+- **Égouts nains** : système conçu pour une ville bien plus grande, hérité de la reconstruction de 1221 IC ; tunnels souterrains de l'ancien Ubersreik servent aux bandes criminelles, contrebandiers et pauvres `Starter Set ch.3 l.45` `Starter Set ch.3 l.125`.
+- **Bridge House Inn** : auberge centrale près du Pont d'Ubersreik, gérée par Gunther Abend (ancien cocher altdorfer), accueillante envers les troupes impériales — au mécontentement des locaux ; bureau de poste et trois compagnies de coches (Cannon Ball Express, Quatre Saisons, Imperial Expressways) `Starter Set ch.4 l.51+57`.
+
+## Apparitions Arc 3
+
+Arc 3 d'Ubersreik joué autour de l'occupation (S14-S21) — l'événement table préfigure la résurgence Jungfreud Arc 7.
+
+- **S14 — Arrivée** : la table débarque à la Maison du Pont, prend contact avec Gunther Abend ; Elvira intègre la troupe théâtrale locale ; audience au Palais d'Ubersreik avec Lady Emmanuelle Nacht.
+- **S15 — Whistlebone Alley** : embuscade aux chasseurs de prime traquant Hubkind ; Hubkind blesse Ida Vernt à la Pension Rugger, tente de la tuer ainsi que Cordelia Wesselingh.
+- **S16 — Cellule Shornaal** : autopsie de Tylo Vielfrass au Temple de Morr ; enquête au Gymnase d'Orban (couverture cultiste Shornaal/Slaanesh dans l'armée) ; Vielfrass mort par énergie magique dans la tour de guet du Capitaine Blucher ; Carolus Entschlafen mort ; Christoph Engel disparu avec les pièces de l'arme magique, sa tour personnelle sur Wizard's Way vidée.
+- **S17 — Bas-quartiers et égouts** : contrat Oldenhaller, échoppe du « Baron » massacrée, repaire Valentinas (chef décapité par skavens), rituel cultiste interrompu.
+- **S18 — Spittlefeld** : immeuble en quarantaine, docteur Giliani malade, ogre Gino concierge, vampire ex-cuisinière des Bruner traquée en sous-sol.
+- **S19 — Piques Croisées** : rendez-vous Kellermann + Drakensberg ; planque dans un château abandonné de la Flèche Noire.
+- **S20 — Bal masqué Niederstadt Haus** : Erich von Holzenauer hôte du désastre, empoisonnement à la malpierre par les skavens, sanglier animé, querelles publiques ; effondrement réputationnel coordonné des maisons Bruner, Aschaffenberg, Holzenauer et Saponatheim — vacuum politique consolidé qui prépare la reprise Jungfreud d'Arc 7.
+- **S21 — Départ vers Altdorf** : marché aux bestiaux (sabotage d'essieu), auberge des Cinq Chênes (hommes-bêtes), Haches Croisées, taverne Couronne de Carolus pour le rendez-vous Wagenkneicht ; émeutes Jungfreud croissantes intra-muros (« vive Jungfreud, dégagez altdorfers »).
+
+## Fils ouverts
+
+- **Christoph Engel** disparu avec les pièces de l'arme magique de Carolus Entschlafen depuis S16 ; sa tour personnelle sur Wizard's Way reste vide. Plot dormant.
+- **Présence skaven** sous Ubersreik confirmée à table S17 (décapitation Valentinas) et S20 (malpierre au bal) ; UA III identifie Grey Seer Rasknitt de Clan Skab comme scout pré-invasion à venir post-Tourmente `UA III ch.4 l.247+339`.
+- **Cellule Shornaal d'Ubersreik** — survivants potentiels post-S16 dans l'armée occupante.
+- **Gemme Oldenhaller** en possession d'Andreas Bruner depuis S17 — artefact chaotique non identifié.
+- **Cordelia Wesselingh et Gunther Abend** — alliés acquis (gratitude de Filianore et d'Elvira), points de rentrée si la table revient à Ubersreik.
+- **Loyalistes Jungfreud** — résistance latente intra-muros (Capitaine Guido Falck dans les bas-quartiers selon UA III), prépare la convergence des trois armées de la Tourmente `UA III ch.4 l.162` `UA III ch.4 l.224`.
 
 ## Liens externes
+
 - [Ubersreik — Lexicanum](https://whfb.lexicanum.com/wiki/Ubersreik)
-- [Ubersreik — Fandom](https://warhammerfantasy.fandom.com/wiki/Ubersreik)
+- [Ubersreik — Warhammer Fantasy Wiki](https://warhammerfantasy.fandom.com/wiki/Ubersreik)

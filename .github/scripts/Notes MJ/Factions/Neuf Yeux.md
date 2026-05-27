@@ -1,79 +1,55 @@
-# The Neuf Yeux (Les Neuf Yeux)
+# Neuf Yeux
 
-> **Neuf tuteurs érudits, chacun cultiste de Tzeentch d'un culte spécialisé. Recrutés par Kastor Lieberung sur instruction de Gideon pour préparer Wolfgang comme réceptacle parfait de Sheerargetru. Ils ignorent leur propre rôle sacrificiel : ils sont des réceptacles de secours.**
+**Sous-titre** : Neuf tuteurs cultistes de Tzeentch préparant Wolfgang en vaisseau de Sheerargetru  
+**Statut** : [CULTE ACTIF — ANTAGONISTE ARC 7]
 
-## Identité
-- **Allégeance** : **Tzeentch** — neuf petits cultes savants distincts, fédérés en sous-main par **[[Gideon]]**.
-- **Type** : Tutorat secret du Prince Héritier Wolfgang. Cultes spécialisés sur des domaines de savoir précis.
-- **Statut** : [ACTIF] — non rencontrés table, sauf [[Wolfie Jessner]] (Middenheim Arc 5 ?). À confirmer.
-- **Tags** : `#NineEyes` `#9Eyes` `#NeufYeux` `#Tzeentch` `#Wolfgang` `#TutorsCachés` `#Sheerargetru`
+## Composition / Hiérarchie
 
-## Source
-- **EiR Introduction** (table complète) : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/03 - Introduction.md` l. 89-194
-- **EiR ch. 4** *An Audience with Prince Héritier Wolfgang* : profils individuels, statbloc générique « Member of the Neuf Yeux — Human Professor (Gold 1) » à `Source/Enemy Within Campaign Volume 5 Empire in Ruins/07 - Chapter 4 - An Audience with Prince Héritier Wolfgang.md` l. 189
-- **EiR ch. 13** : sacrifice cérémoniel — chaque Œil brûle en flammes pink/blue, alimentant la manifestation de Sheerargetru.
+- **Structure** : neuf petits cultes secrets répartis dans tout l'Empire, chacun consacré à l'accumulation de savoirs et de secrets sur un domaine particulier ; leurs Cercles Intérieurs comptent parmi les esprits les plus érudits et informés de l'Empire `EiR Intro l.90`. Gideon les a encouragés et patronnés au fil des siècles `EiR Intro l.90`.
+- **Recrutement collectif** : il y a près de neuf ans, Gideon a approché chacun des neuf cultes et demandé à leur membre le plus érudit d'assurer le tutorat du Prince Héritier Wolfgang Holswig-Abenauer — collectivement ces tuteurs sont connus sous le nom de Neuf Yeux `EiR Intro l.90`. Le travail de recrutement opérationnel a été conduit par Kastor Lieberung, alors Magister Impedimentae de la cellule Main Pourpre de Nuln, sur instructions de Gideon `EiR Intro l.208`.
+- **Statut interne** : chaque Œil partage l'intuition de servir les plans de Tzeentch, sans réaliser qu'il est lui-même destiné à devenir un vaisseau de possession démoniaque ; Wolfgang Holswig-Abenauer reste le premier et le meilleur vaisseau préparé, les Yeux ne sont que des vaisseaux alternatifs inférieurs en cas de défaillance du Prince `EiR Intro l.94+96`.
 
-## Origine du complot
-- Il y a ~9 ans, **Kastor Lieberung** (alors Magister Impedimentae de la cellule MP de Nuln) a été instruit par **Gideon** de recruter ces 9 tuteurs.
-- Chacun appartient à un **culte tzeentchien spécialisé** dans un domaine de savoir, présent dans 9 villes de l'Empire.
-- **Mission officielle** : éduquer le Prince Héritier. **Mission réelle** : conditionner subliminalement Wolfgang en réceptacle daemonique parfait.
+## Doctrine
 
-## Les Neuf Yeux — table complète
+- **Tzeentch — savoirs et subversion** : chacun des neuf cultes se consacre à un domaine spécifique de connaissance ou de secret `EiR Intro l.90`. Leur enseignement combiné offre au Prince Héritier une éducation supérieure et cosmopolite, mais a aussi un effet insidieux : Wolfgang Holswig-Abenauer a été inconsciemment transformé en vaisseau parfait pour la possession démoniaque `EiR Intro l.92`.
+- **Façade érudite** : aucun des Yeux ne porte de marque qui permettrait de l'identifier comme cultiste, et aucun ne détient d'artefact cultiste manifeste ; ils ne reconnaissent rien d'autre que leur statut de tuteurs loyaux du Prince Héritier `EiR ch.4 l.253`. Seul le miroir brisé en neuf morceaux trouvé sous le lit de Gustav Klaus peut trahir l'allégeance, et uniquement pour des PJ ayant exploré Karak Skygg dans *The Horned Rat* `EiR ch.4 l.253` `EiR ch.4 l.297`.
+- **Profil de combat** : tous sont des érudits âgés (Human Professor Gold 1) — Skills d'enquête et de rhétorique très élevés (Research 85, Lore (Tzeentch) 90, Gossip 73, Charm 66), Melee (Basic) 52 seulement `EiR ch.4 l.189-197`. Talent Doomed collectif *« So here every ending reached, arcane rite gathers experts to render unreality »* `EiR ch.4 l.197`. Seule Ingrid Rademakers est combative (Melee Fencing 88, Talents Beat Blade, Distract, Feint, Riposte) et défend sa chambre à la rapière si dérangée `EiR ch.4 l.287-291`.
 
-| Tuteur | Culte / « Œil » | Ville d'origine | Spécialité | Notes EiR ch. 4 |
-|---|---|---|---|---|
-| **Kathe Ruttmann** | Vigilant Eye | Bögenhafen | Histoire et politique | Au Castle Reikguard lors visite PJ |
-| **Per Haldestaake** | Fractured Eye | Ubersreik | Commerce, secrets techniques | Présent ; carnets de manipulation des artisans |
-| **Wilhelmina Novak** | Withering Eye | Altdorf | Magie | À l'Université d'Altdorf — **murale des huit vents de la magie** dans son bureau |
-| **Wolfie Jessner** | Wandering Eye | Middenheim | Affaires rurales, Nord de l'Empire | À Middenheim ; **journal privé exprime des doutes sur certains tuteurs comme adorateurs sombres** — **possible faille exploitable** |
-| **Ingrid Rademakers** | Eagle Eye | Talabheim | Histoire naturelle, escrime | Présente ; **combative** (Melee Fencing 88, rapière) — peut combattre si interrompue |
-| **Wulfrum Ahlquist** | Public Eye | Nuln | Société, nature humaine | À l'Université d'Altdorf — scrap de **texte religieux pour enfants** dans ses affaires |
-| **Gustav Klaus** | Kaleidoscope Eye | Bechafen | Espèces non-humaines | **Absent depuis longtemps** ; bureau : **miroir cassé en 9 fragments** (rappelle les miroirs Karak Skygg, *The Horned Rat* ch. 1), dents d'Orc, snotling mariné |
-| **Gislind Ursin** | Hollow Eye | Averheim | Culture, philosophie | À l'Université d'Altdorf ; folios dramatiques (Tarradasch, Sierck, Malvosin, Pikewaver) ; intérêt pour les Mutants (*Strange Flower* de von Deihl) |
-| **Vatheck Fulci** | Far Eye | Remas (Tilée) | Géographie, affaires étrangères | En voyage des Border Princes vers Altdorf |
+## Rôle officiel vs Rôle réel
 
-## Statbloc générique (ch. 4)
-**Member of the Neuf Yeux — Human Professor (Gold 1)** — utilisé pour les 9 sauf adaptations individuelles.
+- **Visage officiel** : tuteurs personnels du Prince Héritier depuis neuf ans, érudits respectés, certains affiliés à l'Université d'Altdorf. Le Prince Héritier les présente comme *« some of the finest minds in the Empire »* `EiR ch.4 l.130`. Wolfgang Holswig-Abenauer est surpris si on les évoque par leur nom collectif et craint un espion dans sa maison, mais reste rassurant si ce point est apaisé `EiR ch.4 l.121-123`.
+- **Rôle réel** : préparation subliminale de Wolfgang Holswig-Abenauer comme vaisseau de Sheerargetru via leur enseignement combiné `EiR Intro l.92`. Chacun ignore son rôle ultime de sacrifice combustible lors du rite de manifestation `EiR Intro l.94`. Sur le sujet de Tzeentch, le Prince Héritier admet lui-même sortir de son caractère habituel : *« he knows little and does not seem to care »* `EiR ch.4 l.93`.
+- **Sacrifice et Power Score (ch.13)** : à l'instant de la manifestation au Volkshalle, les Neuf Yeux brûlent en flammes pink et blue tandis que leur véritable maître pénètre dans le monde — chaleur étouffante, puanteur de bacon brûlé, panique dans la galerie ; ceux qui survivent à un Power Score élevé sont récompensés de formes immortelles `EiR ch.13 l.456`. Tableau des incarnations `EiR ch.13 l.469+475+476+477` : au moins un Œil (ou Wasmeier ou Zuntermein) en vie au début du rite est une condition de base ; 3 Yeux vivants = +1 Power ; 6 Yeux = +3 Power ; 9 Yeux = +5 Power. Une victoire stratégique majeure des PJ consiste à éliminer le maximum d'Yeux avant la cérémonie pour affaiblir la manifestation.
 
-## Mécanique du sacrifice (ch. 13)
-- À la cérémonie du retour de Ghal Maraz au Volkshalle, **chaque Œil présent à Altdorf et vivant** brûle en **flammes pink/blue sorcery**.
-- Plus il y a d'Yeux vivants, plus **Sheerargetru manifeste avec puissance** (cf. Power Score sur la fiche [[Sheerargetru]]).
-- Les Yeux **croient** qu'ils vont être récompensés par Tzeentch — ils ignorent qu'ils sont **eux-mêmes des réceptacles de secours** si Wolfgang échoue.
+## Influence
 
-## Tableau Power Score (rappel)
-- Chaque Œil vivant à Altdorf au moment du rituel : **+1**
-- 3 Yeux : **+1** cumulatif
-- 6 Yeux : **+3**
-- 9 Yeux : **+5**
+- **Castle Reikguard (Reikland)** — chaque Œil dispose d'une chambre privée dans l'aile est, corridor à neuf portes marquées chacune d'une plaque de cuivre `EiR ch.4 l.222+228`. Au moment de l'audience PJ, trois sont présents (Kathe Ruttmann, Per Haldestaake, Ingrid Rademakers), trois préparent leurs leçons à l'Université d'Altdorf (Wilhelmina Novak, Wulfrum Ahlquist, Gislind Ursin), trois sont en voyage lointain (Wolfie Jessner à Middenheim, Gustav Klaus absent depuis longtemps, Vatheck Fulci entre Border Princes et Altdorf) `EiR ch.4 l.214+216+218+220`.
+- **Université d'Altdorf** — relais principal de l'érudition des Yeux ; les rouleaux apportés par Kathe Ruttmann à ses leçons sont des copies de travaux produits par les érudits de l'Université `EiR ch.4 l.183`. Wilhelmina Novak, Wulfrum Ahlquist et Gislind Ursin y résident lors de l'audience PJ `EiR ch.4 l.218`.
+- **Réseau cultiste pan-impérial** — les neuf cellules cultistes d'origine sont implantées à Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim et Remas (Tilée) — exactement les neuf villes au-dessus desquelles s'ouvrent les portails du Royaume de Tzeentch si Sheerargetru manifeste `EiR ch.13 l.435`.
+- **Convergence finale à Altdorf** — à l'approche du 9 Brauzeit, les Yeux survivants convergent sur Altdorf, dissimulés dans des tavernes, pensions et dortoirs disséminés à travers la cité ; chacun est gardé en permanence par six cultistes à l'arbalète postés en vantage points autour de son logement avec ordre de tirer à vue, et Gideon les soutient depuis le Lore of Shadows `EiR ch.13 l.66` `EiR ch.13 l.72-76`.
 
-→ **Conséquence stratégique des PJ** : **tuer les Yeux avant la cérémonie** affaiblit massivement Sheerargetru. Ch. 13 dit explicitement *« the Players' diligence in eliminating Eyes results in a less powerful summoning »*.
+## Personnages clés
 
-## Localisations possibles
-- **Castle Reikguard** (ch. 4) : tuteurs proches de Wolfgang.
-- **Université d'Altdorf** (ch. 4) : Novak, Ahlquist, Ursin (cultes du savoir).
-- **Leurs villes d'origine** : pour les autres, retour ponctuel.
-- **À Altdorf pour le mariage et la cérémonie** (ch. 6, 13) : convergence finale.
+- **Kathe Ruttmann** — Vigilant Eye, Bögenhafen, spécialité Histoire et politique `EiR Intro l.193`. Présente à Castle Reikguard lors de l'audience PJ ; arrive en fin d'entretien avec quatre grands rouleaux pour entamer sa leçon `EiR ch.4 l.175`. Chambre : bibliothèques de textes historiques et politiques, fragment du handout *The Dream Sights of Bertoldt the Malleun* dissimulé `EiR ch.4 l.274-276`.
+- **Per Haldestaake** — Fractured Eye, Ubersreik, spécialité secrets de commerce et expertise technique `EiR Intro l.193`. Présent à Castle Reikguard, dort lourdement et ne se réveille que secoué ; bagages encore défaits avec notes manuscrites sur les techniques expertes d'artisans et de professionnels `EiR ch.4 l.277-279`.
+- **Wilhelmina Novak** — Withering Eye, Altdorf, spécialité Magie `EiR Intro l.193`. Récemment partie pour Altdorf ; chambre immaculée et étagères vides, fresque murale colorée des huit vents de magie disposés en roue sur un mur `EiR ch.4 l.280-281`.
+- **Wolfie Jessner** — Wandering Eye, Middenheim, spécialité affaires rurales et Nord de l'Empire `EiR Intro l.193`. Parti à Middenheim un mois avant l'audience ; chambre quasi-nue, dizaines de sceaux de cire arrachés empilés dans un coin. **Hard (−20) Perception** révèle un journal privé caché derrière une bibliothèque où Wolfie exprime ses doutes : certains de ses collègues tuteurs adorent des puissances obscures `EiR ch.4 l.282-286`. Doute interne exploitable comme levier de retournement ou source d'information.
+- **Ingrid Rademakers** — Eagle Eye, Talabheim, spécialité histoire naturelle et escrime `EiR Intro l.193`. Présente à Castle Reikguard, dort légèrement. Contrairement aux autres Yeux, si elle est dérangée elle saisit une rapière et combat avec vigueur — Melee (Fencing) 88, Talents Beat Blade, Distract, Feint, Riposte. Chambre garnie d'échantillons géologiques, ossements, bestiaires enluminés et râtelier d'armes d'escrime fines `EiR ch.4 l.287-291`. Le seul Œil dont le meurtre peut être interprété comme légitime défense `EiR ch.4 l.264`.
+- **Wulfrum Ahlquist** — Public Eye, Nuln, spécialité société et nature humaine `EiR Intro l.193`. Absent au moment de l'audience, étudie à Altdorf ; chambre nue et poussiéreuse, fragment d'un texte religieux pour enfants — handout *Virtuous Visions Volume V: Auntie Augusta's Awesome Auguries* `EiR ch.4 l.292-294`.
+- **Gustav Klaus** — Kaleidoscope Eye, Bechafen, spécialité espèces non-humaines `EiR Intro l.193`. Absent depuis longtemps ; chambre très poussiéreuse, collier de dents d'Orc, schémas d'autopsie d'Ogre, Snotling en saumure, livre de Khazalid. Sous le lit, miroir à dos d'or brisé en neuf morceaux — lien Karak Skygg suspectable uniquement par des PJ ayant exploré *The Horned Rat* `EiR ch.4 l.295-297`.
+- **Gislind Ursin** — Hollow Eye, Averheim, spécialité culture et philosophie `EiR Intro l.193`. Absente, partie pour Altdorf plusieurs semaines avant l'audience ; bibliothèque chargée de folios des dramaturges Tarradasch, Sierck, Malvosin et Pikewaver. Un exemplaire de *Strange Flower* de von Deihl ouvert près du lit — un lecteur de von Deihl peut sympathiser avec les Mutants `EiR ch.4 l.298-301`.
+- **Vatheck Fulci** — Far Eye, Remas (Tilée), spécialité géographie et affaires étrangères `EiR Intro l.193`. Absent, voyageant des Border Princes vers Altdorf ; chambre ancienne et poussiéreuse, bureau couvert de cartes et de portulans de terres lointaines `EiR ch.4 l.302-303`.
 
-## Faiblesses
-- **Pas tous combattants** — Rademakers excepté (Fencing 88). Les autres ont profil Gold 1 Professor générique.
-- **Pas tous au même endroit** → tuer un Œil isolé est faisable.
-- **Doutes internes** : **Jessner** (journal privé) exprime des doutes — possible **retournement** ou source d'information si exploité.
+## Hooks
 
-## Liens avec Kastor Lieberung
-- Kastor les a recrutés. Sa **subversion du plan original** (faire de Wolfgang le *Champion in Shadows* via Egrimm van Horstmann, plutôt qu'un empereur-pantin de la Main Pourpre) est la **clé alternative** de la fin ch. 13 « Lieberung triomphe » : si les Yeux survivent + Zuntermein/Wasmeier meurent + Gideon vaincu → Wolfgang devient le sorcier-champion suprême de Tzeentch (fin lente, sur des décennies).
-
-## Hooks de retour
-- **Visite des PJ ch. 4 à Castle Reikguard** : opportunité d'identifier les tuteurs et leurs cultes via fouille discrète des bureaux.
-- **Tuer un Œil pré-cérémonie** = victoire stratégique majeure.
-- **Retourner Jessner** = espion infiltré possible.
-- **Ressources possibles** : grimoires, sorts de Tzeentch, équipement magique des cultes spécialisés.
-
-## Liens
-- **Arcs** : `Arc 7` (révélation et confrontation)
-- **Fils ouverts** : créer un FIL « Neuf Yeux » dédié si pertinent
-- **PNJ liés** : [[Wolfgang]] (élève), [[Gideon]] (orchestrateur), [[Kastor Lieberung]] (recruteur originel), [[Sheerargetru]] (entité ultime), [[Egrimm van Horstmann]] (mentor occulte alternatif si plan Kastor aboutit)
-- **Factions** : 9 cultes érudits distincts mais convergents (à creuser un par un si pertinent) ; **[[Main Pourpre]]** (lien historique via Kastor)
-- **Lieux** : Castle Reikguard, Université d'Altdorf, Bögenhafen/Ubersreik/Altdorf/Middenheim/Talabheim/Nuln/Bechafen/Averheim/Remas
+- **Investigation à Castle Reikguard (ch.4)** : fouille des chambres de l'aile est possible si les PJ identifient les Neuf Yeux comme menace ; les indices Tzeentch propres à chaque chambre permettent un démasquage individuel `EiR ch.4 l.203-303`. XP awards : 40 points si les trois Yeux résidents sont éliminés sans soupçon, 15 par Œil éliminé, 9 pour le premier joueur qui formule que Wolfgang Holswig-Abenauer est *« too good to be true »* `EiR ch.4 l.258+266+268`.
+- **Élimination discrète vs meurtre constaté** : les Yeux font fréquemment des voyages inopinés pour rechercher des lores obscurs, et la confusion du départ vers Altdorf couvre une disparition silencieuse ; un meurtre brutal en revanche est traité comme tel — sauf Ingrid Rademakers qui se défend immédiatement à la rapière `EiR ch.4 l.264`.
+- **Retournement de Wolfie Jessner** : son journal privé caché derrière la bibliothèque exprime des doutes sur l'allégeance sombre de certains collègues — possible levier de recrutement ou de fuite d'information si les PJ trouvent et exploitent le document `EiR ch.4 l.282-286`.
+- **Chasse pré-cérémonie à Altdorf (ch.13)** : les Yeux survivants se dissimulent dans des tavernes, pensions et dortoirs ; localiser un Œil demande de connaître sa spécialité ou son apparence, puis test étendu **Very Hard (−30) Gossip** à 45 SL dans un lieu approprié (taverne d'érudits, réfectoire de l'Université) `EiR ch.13 l.70`. Plus de trois heures de gossip donnent 63 % de chances d'alerter la cible qui change de planque, forçant à reprendre la procédure `EiR ch.13 l.70`. Le bolthole est gardé par six cultistes à l'arbalète en vantage points autour du bâtiment ; Gideon soutient depuis le Lore of Shadows pour égarer les PJ et masquer ses alliés `EiR ch.13 l.72-76`. Une fois la cache localisée (**Hard (−20) Perception**), l'Œil combat à mort avec la férocité des damnés et 27 % de chances par round qu'un Pink Horror se manifeste pour le défendre `EiR ch.13 l.76`.
+- **Conséquence stratégique sur Sheerargetru** : tuer des Yeux avant le rite affaiblit massivement la manifestation — 0 Œil vivant et aucun substitut Wasmeier/Zuntermein = pas d'invocation possible ; tableau Power Score `EiR ch.13 l.469+475+476+477`. La diligence des PJ à éliminer les Yeux est explicitement récompensée par une invocation moins puissante.
+- **Substituts en cas d'élimination totale** : si tous les Neuf Yeux sont éliminés, Yann Zuntermein ou Karl-Heinz Wasmeier peuvent encore servir de sacrifices alternatifs au démarrage du rite — condition minimale alternative pour permettre l'invocation `EiR ch.13 l.432+469`.
 
 ## Liens externes
-- [Neuf Yeux — Fandom](https://warhammerfantasy.fandom.com/wiki/Nine_Eyes)
+
+- [Nine Eyes — Lexicanum](https://whfb.lexicanum.com/wiki/Nine_Eyes)
+- [Nine Eyes — Warhammer Fantasy Wiki](https://warhammerfantasy.fandom.com/wiki/Nine_Eyes)
