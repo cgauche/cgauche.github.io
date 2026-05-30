@@ -1,0 +1,137 @@
+/* Cartes interactives — schéma-graphe SVG. Réutilise les variables du thème. */
+/* Carte page = pleine largeur, sans la barre latérale des arcs (inutile ici). */
+.page-carte .sidebar { display: none; }
+.page-carte .layout { grid-template-columns: 1fr; max-width: 1500px; }
+.page-carte main { max-width: none; padding: 1.4rem 2.2rem 4rem; }
+
+.carte-app { margin: 1.2rem 0 2rem; }
+.carte-toolbar {
+  display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.9rem 1.2rem;
+  padding: 0.7rem 0.9rem; margin-bottom: 0.9rem;
+  background: var(--parchment); border: 1px solid var(--rule);
+  border-radius: 8px;
+}
+.carte-field { display: flex; flex-direction: column; gap: 0.2rem;
+  font-family: var(--serif-display); font-size: 0.78rem;
+  letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+.carte-field select, .carte-field input {
+  font-family: var(--serif-body); font-size: 0.98rem; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--rule);
+  border-radius: 5px; padding: 0.3rem 0.5rem; min-width: 13rem;
+}
+.carte-field select:focus, .carte-field input:focus {
+  outline: none; border-color: var(--gold); }
+.carte-search-field input { min-width: 11rem; }
+.carte-toggle { display: flex; align-items: center; gap: 0.35rem;
+  font-family: var(--serif-body); font-size: 0.9rem; color: var(--ink-soft);
+  cursor: pointer; padding-bottom: 0.3rem; }
+.carte-btn { font-family: var(--serif-display); font-size: 0.85rem;
+  background: var(--paper); color: var(--ink); border: 1px solid var(--rule);
+  border-radius: 5px; padding: 0.3rem 0.7rem; cursor: pointer; }
+.carte-btn:hover { border-color: var(--gold); color: var(--oxblood); }
+.carte-btn.active { background: var(--oxblood); color: var(--paper-hi); border-color: var(--oxblood); }
+.carte-route { fill: none; stroke: var(--oxblood); stroke-width: 3.5; opacity: 0.85;
+  stroke-dasharray: 9 6; stroke-linecap: round; stroke-linejoin: round; }
+.carte-route-pt { fill: var(--oxblood); stroke: var(--paper-hi); stroke-width: 2; }
+#carte-svg.route-mode { cursor: crosshair; }
+.carte-hub-link { margin-left: auto; align-self: center;
+  font-family: var(--serif-display); color: var(--oxblood);
+  text-decoration: none; border-bottom: 1px solid var(--gold);
+  padding-bottom: 1px; }
+.carte-hub-link:hover { color: var(--oxblood-hi); }
+
+.carte-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.4rem;
+  margin: 0 0 0.8rem; }
+.carte-filter-lbl { font-family: var(--serif-display); font-size: 0.74rem;
+  text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  margin: 0 0.2rem 0 0.6rem; }
+.carte-chip { font-family: var(--serif-body); font-size: 0.82rem; cursor: pointer;
+  background: var(--paper); color: var(--muted); border: 1px solid var(--rule);
+  border-radius: 999px; padding: 0.12rem 0.6rem; opacity: 0.55; }
+.carte-chip.active { opacity: 1; color: var(--ink); border-color: var(--gold);
+  background: var(--parchment); }
+.carte-chip:hover { border-color: var(--oxblood); }
+.carte-poi.filtered-out { display: none; }
+.carte-stage { display: grid; grid-template-columns: 1fr 290px; gap: 1rem;
+  align-items: start; }
+.carte-svg-wrap { border: 1px solid var(--rule); border-radius: 8px;
+  background: var(--paper-hi); overflow: hidden;
+  box-shadow: var(--shadow); }
+#carte-svg { display: block; width: 100%; height: auto; }
+
+.carte-panel { border: 1px solid var(--rule); border-radius: 8px;
+  background: var(--parchment); padding: 0.9rem 1rem; min-height: 8rem;
+  font-family: var(--serif-body); position: sticky; top: calc(var(--header-h) + 12px); }
+.carte-panel-empty { color: var(--muted); font-style: italic; margin: 0; }
+.carte-panel h3 { font-family: var(--serif-display); margin: 0 0 0.15rem;
+  color: var(--ink); font-size: 1.25rem; }
+.carte-panel .carte-zone-tag { display: inline-block; font-size: 0.72rem;
+  text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  margin-bottom: 0.5rem; }
+.carte-panel .carte-quarter-tag { font-family: var(--serif-display); font-size: 0.82rem;
+  color: var(--gold); margin: 0.15rem 0 0.2rem; }
+.carte-panel .carte-desc { color: var(--ink-soft); margin: 0.3rem 0 0.7rem;
+  font-size: 0.96rem; line-height: 1.45; }
+.carte-panel .carte-fiche-link { font-family: var(--serif-display);
+  color: var(--oxblood); text-decoration: none;
+  border-bottom: 1px solid var(--gold); }
+.carte-panel .carte-fiche-link:hover { color: var(--oxblood-hi); }
+.carte-panel h4 { font-family: var(--serif-display); font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  margin: 1rem 0 0.3rem; border-top: 1px solid var(--rule-soft);
+  padding-top: 0.6rem; }
+.carte-panel ul.carte-scenes { list-style: none; margin: 0; padding: 0; }
+.carte-panel ul.carte-scenes li { margin: 0.25rem 0; }
+.carte-panel ul.carte-scenes a { color: var(--ink); text-decoration: none;
+  border-bottom: 1px dotted var(--rule); font-size: 0.93rem; }
+.carte-panel ul.carte-scenes a:hover { color: var(--oxblood);
+  border-bottom-color: var(--gold); }
+.carte-panel .carte-scen-name { color: var(--gold); font-style: italic;
+  font-size: 0.8rem; }
+.carte-panel .carte-poi-list { list-style: none; margin: 0; padding: 0; }
+.carte-panel .carte-poi-list li a { color: var(--ink); cursor: pointer;
+  text-decoration: none; border-bottom: 1px dotted var(--rule); }
+
+/* SVG map styling (poster underlay + canon-positioned markers) */
+#carte-svg { cursor: grab; touch-action: none; background: var(--paper-hi);
+  -webkit-user-select: none; user-select: none; }
+#carte-svg.grabbing { cursor: grabbing; }
+.carte-dist-label { font-family: var(--serif-display); fill: var(--ink-soft);
+  letter-spacing: 0.04em; pointer-events: auto; cursor: pointer; opacity: 0.8;
+  font-style: italic; paint-order: stroke; stroke: var(--paper-hi);
+  stroke-width: 3px; stroke-linejoin: round; }
+.carte-dist-label:hover { fill: var(--oxblood); opacity: 1; }
+.carte-zone { opacity: 0.30; cursor: pointer; stroke: rgba(40,28,18,0.28);
+  stroke-width: 0.6; transition: opacity 0.12s; }
+.carte-zone:hover { opacity: 0.48; }
+/* "Couleur" off = tint hidden but cells stay clickable (invisible, hit-testable) */
+#carte-svg.hide-zones .carte-zone { opacity: 0; stroke: none; }
+#carte-svg.hide-zones .carte-zone:hover { opacity: 0.18; }
+.carte-legend-zone { opacity: 0.30; cursor: pointer; transition: opacity 0.12s; }
+.carte-legend-zone:hover { opacity: 0.5; }
+#carte-svg.hide-zones .carte-legend-zone { opacity: 0; }
+#carte-svg.hide-zones .carte-legend-zone:hover { opacity: 0.18; }
+.carte-legend-hit { fill: transparent; cursor: pointer; }
+.carte-legend-hit:hover { fill: rgba(163,122,46,0.34); }
+.carte-poi { cursor: pointer; }
+.carte-poi-dot { fill: var(--paper); stroke: var(--oxblood);
+  transition: fill 0.12s, stroke 0.12s; }
+.carte-poi-label { font-family: var(--serif-body); fill: var(--ink);
+  paint-order: stroke; stroke: var(--paper-hi); stroke-linejoin: round;
+  pointer-events: none; opacity: 0; transition: opacity 0.1s; }
+.carte-poi:hover .carte-poi-dot { fill: var(--gold-hi); }
+.carte-poi:hover .carte-poi-label,
+.carte-poi.selected .carte-poi-label,
+.carte-poi.has-scenario .carte-poi-label,
+.carte-poi.search-hit .carte-poi-label,
+#carte-svg.show-names .carte-poi-label { opacity: 1; }
+.carte-poi.selected .carte-poi-dot { fill: var(--oxblood); stroke: var(--ink); }
+.carte-poi.has-scenario .carte-poi-dot { fill: var(--gold); stroke: var(--oxblood); }
+.carte-poi.search-hit .carte-poi-dot { fill: var(--oxblood-hi); stroke: var(--ink); }
+.carte-poi.dim { opacity: 0.16; }
+.carte-poi.dim .carte-poi-label { opacity: 0 !important; }
+
+@media (max-width: 720px) {
+  .carte-stage { grid-template-columns: 1fr; }
+  .carte-panel { position: static; }
+}
