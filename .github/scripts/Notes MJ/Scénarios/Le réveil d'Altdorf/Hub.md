@@ -63,8 +63,9 @@ Ces événements se produisent à horaire fixe, **indépendamment des PJ**. Le M
 | Sonder la **cour** sur Kappelmuller (audiences, ragots) | Maria-Luise, Immanuel-Ferrand, Hermine, pages du Palais | [[Enquête Kappelmuller]] Pistes 3-4 |
 | Se faire **soigner** (Mark, post-S63) | Grand Temple de **Shallya** (rive sud) | [[41 - Temple de Shallya]] |
 | Se **reposer**, déposer du butin, préparer le départ | Manoir Helstein (rive nord, base sûre) | [[42 - Retour Helstein]] |
-| **Écouter les rumeurs** / prendre le pouls de la ville | Taverne, marché, doklands, temple | [[43 - Écoute des rumeurs]] + [[Rumeurs]] |
-| **Partir** d'Altdorf / embarquer | Quais, **La Comète** | [[61 - Départ matinal]] + [[Cap suivant — destinations possibles]] |
+| **Écouter les rumeurs** / prendre le pouls de la ville | Taverne, marché, doklands, temple | [[43 - Écoute des rumeurs]] + [[Ambiance]] §Rumeurs |
+| **Partir** d'Altdorf / embarquer | Quais (**La Comète**) ou voie de terre vers le nord | [[61 - Départ matinal]] (fluvial) · [[62 - Fuite vers Middenheim & planques]] (terre/clandestin) · [[Cap suivant — destinations possibles]] |
+| **Se cacher** en ville / fuir sous la chasse *(si tachés B/C)* | Bas-quartiers (Reikerbahn, Old Docks), sous-ville, porte Wolftor | [[62 - Fuite vers Middenheim & planques]] |
 | Rejoindre **Heinrich** / le convoi Middenheim | Manoir, **avant 11h** | [[01 - Briefing Helstein]] |
 | Rencontre nocturne **Maria-Luise** (si billet reçu et accepté) | Lina à Hangmann's Gasse, 22h → chambre impériale | [[31 - Approche via Lina]] → [[32 - Visite Karl-Franz]] |
 
@@ -165,12 +166,12 @@ Synthèse détaillée : [[11 - Cadre Le réveil d'Altdorf]] §3. En résumé : g
 
 ## Pages de référence transversales
 
-- [[Ambiance]] — déplacements dans Altdorf, escalation horaire, factions de rue.
+- ⭐ [[Ambiance]] — **écran live à garder ouvert en séance** : table maîtresse par heure (ville ‖ rumeurs ‖ traque), déplacements, factions de rue, pools de rumeurs, heat clock.
 - [[Carte des juridictions]] — qui traite quel type de requête officielle.
-- [[Rumeurs]] — 3 tables (matin / après-midi / soir).
+- [[62 - Fuite vers Middenheim & planques]] — sortie clandestine par voie de terre + planques en ville (sourcé Altdorf-CotE).
 - [[Pacing]] — table de pacing 3h modulaire.
-- [[Gestion table]] — variantes globales, cas particuliers, XP.
-- [[Cap suivant — destinations possibles]] — directions activables au départ d'Altdorf.
+- [[Gestion table]] — variantes globales (déclencheurs B/C/D), cas particuliers, XP.
+- [[Cap suivant — destinations possibles]] — directions au départ (Middenheim, Nuln, Karak Hirn…).
 
 ## Liens
 

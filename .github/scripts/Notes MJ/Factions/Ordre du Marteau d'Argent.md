@@ -26,7 +26,7 @@
 
 - **Arrestation de Fassbinder** ([[13 - Arrestation et fuite]]) : 1 Templier Répurgateur senior + 4 Initiés/Zélotes + 2 Veilleurs.
 - **Assassinat de Fassbinder en cellule** (étouffé via Spionwerber, voir [[14 - Rumeur Fassbinder mort]]) : pas l'œuvre directe de l'Ordre, mais cohérent que le dossier disparaisse vite — l'Ordre lui-même est manipulé.
-- **Chasse aux « associés de l'hérétique »** dans l'après-midi (rumeur #19, voir [[Rumeurs]]).
+- **Chasse aux « associés de l'hérétique »** dans l'après-midi (rumeur #19, voir [[Ambiance]] §Rumeurs).
 
 ## Stats indicatifs (Templier Répurgateur senior)
 

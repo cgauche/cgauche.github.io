@@ -26,14 +26,7 @@ L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[51 
 ### Variante C — PJ « tachés Fassbinder »
 **Conditions** : vus pendant l'arrestation publique OU identifiés par les témoins universitaires / agent Spionwerber.
 
-#### Cascade horaire
-
-| Heure | Événement |
-|---|---|
-| 11:30-13:00 | Templiers interrogent les témoins de la salle de lecture. Spionwerber collecte les descriptions (visages, vêtements, identification de Johannes par ses pairs étudiants gris). |
-| 13:00-15:00 | Compilation, transmission à [[Yann Zuntermein|Zuntermein]]. 2-3 agents Spionwerber dispatchés sur les fréquentations probables (Helstein, Collège Gris, Palast District, temple Shallya). |
-| 15:00+ | Suivis actifs (30-50 m derrière le groupe, par paires en relais). **Perception (-20)** pour repérer un suiveur ; **(-10)** si un PJ se retourne au bon moment. |
-| Soir | Mandat de convocation Ordre du Marteau d'Argent livré à Helstein si les PJ y rentrent. [[Immanuel-Ferrand Holswig-Schliestein|Immanuel-Ferrand]] exfiltre Johannes du Collège Gris discrètement (sa couverture personnelle ne fléchit pas). |
+**Cascade horaire** : la chronologie heure par heure (11h30 témoins → 13h-15h dispatch → 15h+ filatures → soir convocation + Johannes exfiltré) vit dans l'écran live → [[Ambiance]] §Traque. La garder ouverte en séance.
 
 #### Comportement Spionwerber
 - **Pas d'interpellation publique** dans la journée — observation et report, pas parade. La Chambre Noire travaille en discret.
@@ -92,5 +85,5 @@ Pas à Altdorf — il est à Castle Reikguard. **Détour 1-2 jours** vers Reikgu
 
 - [[Hub]]
 - [[Pacing]]
-- [[Ambiance]]
-- [[Rumeurs]]
+- [[Ambiance]] (écran live — ville, rumeurs, traque)
+- [[62 - Fuite vers Middenheim & planques]]

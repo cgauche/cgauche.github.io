@@ -18,7 +18,7 @@
 
 Un PJ qui veut écouter fait un test **Commérages (+0)** ou **Connaissance (Reikland) (+0)** dans un lieu adapté.
 
-- **Réussite** : 1-2 rumeurs depuis la table [[Rumeurs]].
+- **Réussite** : 1-2 rumeurs depuis les pools [[Ambiance]] §Rumeurs.
 - **Très grande réussite (SL+3)** : 3 rumeurs + identification de la fiabilité (qui le dit, jusqu'où ça remonte).
 - **Échec critique** : rumeur fausse, ou la conversation s'arrête net.
 
@@ -48,13 +48,13 @@ Lieu spécifique. Si un PJ veut sonder Elvyra, elle est là tout l'après-midi. 
 
 ## Distribution des rumeurs
 
-Voir [[Rumeurs]] pour les trois tables (matin / après-midi / soir).
+Voir [[Ambiance]] §Rumeurs pour les trois tables (matin / après-midi / soir).
 
 **Note MJ** : ne pas tout dropper d'un coup. Distribuer selon l'effort RP, le lieu, l'heure, le test. La rumeur #24 (visite Gideon chez Kleinestun) = **pépite** à donner en récompense d'une enquête prolongée.
 
 ## Liens
 
-- Référence : [[Rumeurs]], [[Ambiance]].
+- Référence : [[Ambiance]] (écran live — rumeurs, ambiance, traque).
 - Lieux : [[Altdorf]].
 - PNJ : [[Elvyra Kleinestun]].
 - Factions : [[Comité de Vigilance Citoyen]].
