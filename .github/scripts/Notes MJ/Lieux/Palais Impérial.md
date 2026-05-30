@@ -21,6 +21,12 @@ l.137`.
 - **Ailes nord — privées** : Karl-Franz Holswig-Schliestein, sa famille (Maria-Luise von Walfen, Prince Luitpold, Alia), ses favoris du Conseil privé impérial y résident. La chambre impériale, le bureau privé, les antichambres des médecins et tuteurs — tout ce qui touche à la personne de l'Empereur et à la conversation informelle d'État.
 - **Ailes sud — publiques** : la **Volkshalle**, ensemble des salles de réunion publiques où siègent les trois grands conseils (Conseil d'État, Conseil du Reikland, Conseil d'Altdorf). C'est là que se tient le climax ch.13.
 
+**Salles canon du district** `Altdorf ch.5 l.373-418` : le district fortifié, de la taille d'un village, est accessible au public en journée par cinq portes (restitution des armes sauf une dague). Bannières aux remparts et patrouilles renforcées quand l'Empereur réside.
+- **Residence (aile est)** : chambres de l'Empereur, des enfants impériaux et de l'Impératrice recluse, gardées par les **High Helms** (régiment nouvellement institué au sein du Reiksguard) `Altdorf ch.5 l.381`.
+- **Emperor's Grand Ballroom** : la plus vaste salle du palais ; la haute société impériale s'y rassemble plusieurs fois l'an `Altdorf ch.5 l.383`.
+- **Chamber of State** : siège des réunions de la Cour Privée, entourée de salles attenantes pour conciliabules `Altdorf ch.5 l.385`.
+- **Armurerie naine du nord** : citadelle naine intra-palatiale gardant l'armurerie et les trophées impériaux — Heaume de Morkar et **Ghal Maraz** quand l'Empereur n'en a pas besoin — protégée par les *Wardens of the Armaments* `Altdorf ch.5 l.387`.
+
 ## Géographie et accès
 
 Domine la Königplatz au sud, accessible par la **Reiksplatz** côté

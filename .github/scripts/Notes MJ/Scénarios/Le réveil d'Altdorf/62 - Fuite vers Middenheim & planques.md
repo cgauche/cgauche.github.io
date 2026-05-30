@@ -25,7 +25,7 @@ Les PJ tachés **Sigmarite** (B) sont chassés *comme « associés de l'héréti
 
 **Wolftor** est la grande porte nord d'Altdorf, *« named for its place on the road to Middenheim »* ; quartier peuplé de Middenlanders, grande tête de loup sculptée au-dessus de la porte, temple d'Ulric du peuple au cœur du district (`Altdorf-CotE ch.7 l.435-436, l.468-469`). C'est la sortie naturelle vers le nord.
 
-- **Atteindre Wolftor** depuis Helstein (rive nord) ne demande pas de traverser la rive sud — avantage si la rive sud est surveillée. Mais le trajet passe par des quartiers où le **CVC** patrouille *(si B)* et où des **filateurs** peuvent suivre *(si C, Perception -20 pour les repérer)*.
+- **Atteindre Wolftor** : Helstein est rive sud, Wolftor est en **Ville Nord** (rive nord) → il faut **franchir le Reik** (un pont, avec sa garde) puis remonter au nord. La voie souterraine (Voie 2) permet d'éviter le pont. En chemin, on traverse des quartiers où le **CVC** patrouille *(si B)* et où des **filateurs** peuvent suivre *(si C, Perception -20 pour les repérer)*.
 - **Au passage de la porte** : pas de contrôle d'identité systématique aux portes terrestres (le canon décrit surtout la fouille à Grombar Gate côté est et la surveillance des portes d'eau — `Altdorf-CotE ch.6 l.492`, `ch.5 l.29`). Le risque réel = être **reconnu** (Mark, ou un signalement CVC/Spionwerber transmis aux gardes). **Couvertures possibles** : habits ulricains/middenlanders (ils se fondent dans le flux du quartier), gens du convoi funéraire, pèlerins, conducteurs de troupeaux. Discrétion (+0) ou Charme (+0) selon l'angle ; Sang-Froid (+0) si Mark est exposé.
 
 ## Voie 2 — Sortir sans passer une porte

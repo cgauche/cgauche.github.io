@@ -40,28 +40,33 @@ Ces événements tombent à horaire fixe, **indépendamment des PJ**. Le MJ tien
 
 ## 🌆 Déplacements dans Altdorf
 
-Base des PJ : **Manoir Helstein**, rive nord (Mauerblümchen). La plupart des destinations utiles sont **rive sud** ; on traverse par le **Pont des Trois Péages** (ou équivalent).
+Base des PJ : **Manoir Helstein**, district de **Mauerblümchen — rive sud** (quartier noble, soldats professionnels).
 
-**Un trajet rive nord → rive sud, beats génériques** (~10-15 min, à doser) :
-1. **Sortie Helstein** : grille gardée (2 [[Épées d'Ulric]] + 2 veilleurs de la Garde, sécurisation post-assaut). Un prêcheur sigmarite solo sur des marches (*« Sigmar a parlé cette nuit ! »*), 5-6 curieux.
-2. **Pont des Trois Péages** : garde en double, contrôle par échantillon. Si **Mark** est visible (œil borgne, signes Middenheim/Ulric) : Sang-Froid (+0) pour jauger ; si interpellé, Charme (+0) ou pot-de-vin (1 shilling). 1-2 rumeurs du matin disponibles.
-3. **Stollenplatz** (rive sud) : prêcheur plus posé, public 15-20 (*« Sigmar nous voit. Sigmar agit. Les hérétiques tombent. »*). Arrêt facultatif.
+- **Sur la même rive sud, sans franchir de fleuve** : Palais/Palast · Grande Cathédrale + **Guilde des Médecins** (Domplatz) · temple de Shallya (Krankenfeld) · officine d'Elvyra (Zwillingsgrab) · temple de Rhya (Südküste) · quais (Flottenliegeplatz). → déplacements internes rapides.
+- **Franchir le Reik** (par le **Pont des Trois Péages** / Reik Bridge) pour la **Ville Nord** (rive nord) : Université / **Biblio-temple de Verena**, Collège Gris, Königplatz, porte Wolftor. → c'est le trajet du **matin** (RDV Fassbinder).
+- **Franchir vers le Quartier est** (confluent) pour la **Reikerbahn** (Old Docks, planques).
 
-> **⚠ Glissement Reikerbahn — une seule fois.** Au **premier** franchissement vers la rive sud, la rue peut basculer en **zone de bleed** → [[51 - Glissement Reikerbahn]] (Sigmarites zélotes confus + silhouette 1/3). Une fois joué, trajets normaux ensuite.
+**Beats du trajet vers la Ville Nord (matin)** (~10-15 min, à doser) :
+1. **Sortie Helstein** : grille gardée (2 [[Épées d'Ulric]] + 2 veilleurs), prêcheur sigmarite solo (*« Sigmar a parlé cette nuit ! »*).
+2. **Pont du Reik (« Trois Péages »)** : garde en double, contrôle par échantillon. Si **Mark** est visible : Sang-Froid (+0) ; si interpellé, Charme (+0) ou pot-de-vin (1 shilling). 1-2 rumeurs du matin.
+3. **Arrivée Ville Nord** (Stollenplatz) : prêcheur plus posé, foule étudiante.
+
+> **⚠ Glissement Reikerbahn — une seule fois.** Au **premier** franchissement de fleuve (vers la Ville Nord ou le Quartier est), la rue peut basculer en **zone de bleed** → [[51 - Glissement Reikerbahn]]. *(Anomalie : la zone les déplace ; la cohérence géographique est volontairement floue.)* Une fois joué, trajets normaux ensuite.
 
 ### Destinations (adresses & arrivée)
 
 | Lieu | Rive / district | Y aller | Arrivée — ambiance |
 |---|---|---|---|
-| **Manoir Helstein** | Nord, Mauerblümchen | Base de départ | Quartier sécurisé post-assaut, Épées d'Ulric à la grille. Point de RDV central. |
-| **Biblio-temple de Verena** (Université) | Sud, quartier universitaire | Pont des Trois Péages → rive sud | Calme studieux le matin ; sortie de cours de midi (foule étudiante). |
-| **Palais Impérial / Palast District** | Sud, Palast | 5 portes publiques en journée, **désarmement** (dague tolérée) | Solennel, Garde renforcée. La lettre Todbringer = laissez-passer. |
-| **Guilde des Physiciens** | Sud, **Zwillingsgrab** (scientifique/médical) | Rive sud | Façade pierre claire, plaque au caducée, salle d'attente aux bancs alignés. |
-| **Pharmacie Elvyra Kleinestun** | Sud | Rive sud | Officine modeste, boiseries vertes, bocaux d'herbes. Odeur de camphre et fenouil. |
-| **Grand Temple de Shallya** | Sud, Templwart | Rive sud | Hospice, prêtresses en blanc, calme, blessés et pauvres accueillis. |
-| **Hangmann's Gasse** | Sud (ruelles) | De nuit, discret | Ruelle resserrée — RDV Lina à 22h. |
-| **Quais / La Comète** | Berges du Reik | Sortie par les quais | Marine impériale, navire mobilisé par Heinrich. |
-| **Porte Wolftor** | Nord (sortie ville) | Route de Middenheim | Quartier middenlander/ulricain — voir [[62 - Fuite vers Middenheim & planques]]. |
+| **Manoir Helstein** | **rive sud**, Mauerblümchen | Base de départ | Quartier sécurisé post-assaut, Épées d'Ulric à la grille. Point de RDV central. |
+| **Biblio-temple de Verena** (Université) | **Ville Nord** (rive nord), Schulergegend | **Franchir le Reik** (Pont des Trois Péages) | Calme studieux le matin ; sortie de cours de midi (foule étudiante). |
+| **Palais Impérial / Palast** | rive sud, Palast | Même rive (pas de pont) · 5 portes publiques, **désarmement** | Solennel, Garde renforcée. La lettre Todbringer = laissez-passer. |
+| **Grande Cathédrale + Guilde des Médecins** | rive sud, **Domplatz** | Même rive | Place de la Cathédrale ; Guilde : plaque au caducée, salle d'attente. |
+| **Pharmacie Elvyra Kleinestun** | rive sud, **Zwillingsgrab** | Même rive | Officine modeste, boiseries vertes, bocaux d'herbes. |
+| **Grand Temple de Shallya** | rive sud, **Krankenfeld** | Même rive | Hospice, prêtresses en blanc, blessés et pauvres accueillis. |
+| **Hangmann's Gasse** | rive sud (ruelles) | Même rive, de nuit | Ruelle resserrée — RDV Lina à 22h. |
+| **Quais / La Comète** | rive sud, **Flottenliegeplatz** | Même rive | Marine impériale, navire mobilisé par Heinrich. |
+| **Reikerbahn / Old Docks** | **Quartier est** (confluent) | Franchir vers l'est | Taudis, contrôle Fish, Watch absent — planque + Glissement. |
+| **Porte Wolftor** | **Ville Nord**, porte nord | Franchir le Reik, puis nord | Quartier middenlander/ulricain — voir [[62 - Fuite vers Middenheim & planques]]. |
 
 **Rentrer le soir** : des rues sont **fermées** (fin d'après-midi/soir) → détours. Le manoir reste un point relativement sûr.
 

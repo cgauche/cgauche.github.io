@@ -1,6 +1,6 @@
 # 41 - Temple de Shallya
 
-> **Lieu** : [[Grand Temple de Shallya Altdorf]], district Templwart, rive sud (distinct du Domplatz sigmarite).
+> **Lieu** : [[Grand Temple de Shallya Altdorf]], district **Krankenfeld**, rive sud (le quartier des malades, distinct du Domplatz sigmarite).
 > **Moment** : après-midi, libre.
 > **Durée table** : 10-20 minutes.
 

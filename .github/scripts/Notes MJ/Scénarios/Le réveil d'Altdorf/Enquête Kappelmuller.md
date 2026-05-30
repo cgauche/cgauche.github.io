@@ -6,7 +6,7 @@
 
 ## Contexte
 
-L'Empereur Karl-Franz est officiellement « en convalescence ». **Henrik Kappelmuller**, son médecin personnel, est arrivé il y a environ un an et est seul à avoir réussi à « stabiliser » l'état impérial. Sa nomination au Privy Council a inquiété la Guilde des Physiciens d'Altdorf, qui n'a aucune trace fiable de ses prétendues études à Nuln.
+L'Empereur Karl-Franz est officiellement « en convalescence ». **Henrik Kappelmuller**, son médecin personnel, est arrivé il y a environ un an et est seul à avoir réussi à « stabiliser » l'état impérial. Sa nomination au Privy Council a inquiété la Guilde des Médecins d'Altdorf, qui n'a aucune trace fiable de ses prétendues études à Nuln.
 
 En réalité : Kappelmuller est un membre de la **Main Pourpre**, assassin entraîné (canon EiR ch.8 l.64-76 : statbloc CC 63, Couteaux de Lancer +6/8 enduits de Lotus Noir). Ses préparations contiennent du **Ranald's Delight** (sédatif) fournies par l'apothicaire **Elvyra Kleinestun**. Le sort de **Fièvre cérébrale pourpre** sur Karl-Franz est en réalité maintenu à distance par [[Gideon]] — Kappelmuller n'est que le gardien-dispensateur visible.
 
@@ -16,11 +16,11 @@ Trois NPC du Privy Council ([[Maria-Luise von Walfen]], [[Immanuel-Ferrand Holsw
 
 ---
 
-## Piste 1 — La Guilde des Physiciens (district Zwillingsgrab)
+## Piste 1 — La Guilde des Médecins (Domplatz)
 
 ### Lieu
 
-Bâtiment officiel de la Guilde au district Zwillingsgrab (rive sud Altdorf, quartier scientifique et médical). Façade en pierre claire, plaque de cuivre gravée du caducée, salle d'attente solennelle aux bancs alignés. Un clerc en robe brune au comptoir d'accueil. Au-delà, des bureaux à portes fermées où les grandees travaillent.
+Bâtiment officiel de la Guilde au **Domplatz** (rive sud d'Altdorf, près de la Grande Cathédrale de Sigmar — voir [[Guilde des Médecins d'Altdorf]]). Façade en pierre claire, plaque de cuivre gravée du caducée, salle d'attente solennelle aux bancs alignés. Un clerc en robe brune au comptoir d'accueil. Au-delà, des bureaux à portes fermées où les grandees travaillent.
 
 ### Approche
 
@@ -43,7 +43,7 @@ Citation canon EiR ch.8 l.61-62, traduite :
 
 ### Effet trigger Maria-Luise
 
-La Guilde des Physiciens est connectée à la Cour : les médecins de la noblesse échangent avec leurs confrères. Une bribe et une question discrète sur Kappelmuller remontent à un médecin de la cour en quelques heures, puis à Maria-Luise. **Trigger activé.**
+La Guilde des Médecins est connectée à la Cour : les médecins de la noblesse échangent avec leurs confrères. Une bribe et une question discrète sur Kappelmuller remontent à un médecin de la cour en quelques heures, puis à Maria-Luise. **Trigger activé.**
 
 ---
 

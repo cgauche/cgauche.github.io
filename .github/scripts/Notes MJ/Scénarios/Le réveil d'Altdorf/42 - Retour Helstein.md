@@ -1,6 +1,6 @@
 # 42 - Retour Helstein
 
-> **Lieu** : [[Manoir Helstein]], Mauerblumchen, rive nord.
+> **Lieu** : [[Manoir Helstein]], Mauerblümchen, **rive sud**.
 > **Moment** : début d'après-midi (~12h-13h), retour de la fuite Université.
 > **Durée table** : 5-10 minutes.
 

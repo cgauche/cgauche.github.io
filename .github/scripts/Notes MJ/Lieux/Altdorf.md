@@ -44,66 +44,42 @@ Le passage à Altdorf marque les Personnages comme si les Dieux Sombres veillaie
 - **House of the Third Wilhelm** : depuis l'élection de Wilhelm Holswig-Schliestein en 2429 IC à la suite de la vente de Marienburg par Dieter IV, la dynastie demeure sur le trône `Altdorf ch.1 l.187` `Altdorf ch.1 l.342`. Son fils Mattheus IV disparaît en 2438 IC dans une brume d'Altdorf `Altdorf ch.1 l.196`. Karl-Franz Holswig-Schliestein lui succède en 2502 IC à la mort de Luitpold `Altdorf ch.1 l.219`.
 - **Récents** : *Window Tax Riots* en 2502 IC, *Great Fog Riots* en 2506 IC sous l'agitation du Tzeentchien Yevgeny Yefimovich, démasquage d'Egrimm van Horstmann (patriarche du Lumière) comme adorateur de Tzeentch en 2507 IC `Altdorf ch.1 l.373` `Altdorf ch.1 l.379` `Altdorf ch.1 l.382`.
 
-## Composition
+## Composition — index des lieux
+*(Détail dans chaque fiche.)*
 
-### Palais Impérial et Palast District
+### Rive sud
+- [[Palais Impérial]] — siège du gouvernement et bunker du vrai Karl-Franz
+- [[Volkshalle]] — grande salle d'État ; pivot du climax Arc 7
+- [[Grande Cathédrale de Sigmar]] — plus grand temple de l'Empire ; mariage Arc 7
+- [[Temple Sud d'Ulric]] — temple-forteresse ulricain intégré aux murs
+- [[Zoogarten]] — ménagerie impériale et quartier noble en déclin
+- [[Mauerblümchen]] — quartier noble huppé ; résidences des délégations
+- [[Flottenliegeplatz]] — quais navals, Marine Impériale, patrouille fluviale
+- [[Parc Karl Franz]] — parc paysager impérial entre palais et Reik
+- [[Salle Capitulaire de la Reiksguard]] — citadelle de l'ordre ; QG Untersuchung
+- [[Guilde des Médecins d'Altdorf]] — collège des médecins agréés
+- [[Domplatz]] — place sacrée du culte de Sigmar
+- [[Zwillingsgrab]] — district funéraire et catacombes
+- [[Krankenfeld]] — quartier hospitalier et lazarets
+- [[Grand Temple de Shallya Altdorf]] — grand temple de la déesse guérisseuse
+- [[Temple de Rhya]] — sanctuaire de Rhya
 
-Le Palais Impérial s'étend sur un district fortifié de la taille d'un village, mélange de styles architecturaux et de fortifications, ceint de murs de pierre blanche ; ses dynasties de serviteurs s'y perdent encore `Altdorf ch.5 l.373-375`. Quand Karl-Franz Holswig-Schliestein y réside, ses bannières flottent depuis les remparts et la Garde Impériale renforce ses patrouilles ; un petit régiment de Reiksguard et de fantassins du Reikland y est en permanence `Altdorf ch.5 l.377`. Le district est accessible au public en journée par cinq portes, sur restitution des armes à l'exception d'une dague `Altdorf ch.5 l.379`.
+### Ville Nord
+- [[Université d'Altdorf]] — première académie de l'Empire ; Neuf Yeux Arc 7
+- [[Île Noire]] — forteresse-QG de la Chambre Noire au milieu du Reik
+- [[Rue des Cent Tavernes]] — artère de tavernes ; repaires Arc 7
+- [[Hangmann's Gasse]] — ruelle des potences
+- [[Manoir Helstein]] — résidence des Todbringer ; QG délégation Middenheim
+- [[Bibliothèque-temple de Verena]] — première bibliothèque de l'Empire
+- [[Collège Gris]] — collège de magie de l'Ametyste
+- [[Tour des Vents]] — tour des Collèges de Magie
+- [[Königplatz]] — grande place du défilé impérial
+- [[Wolftor]] — porte nord de la cité
 
-- **Residence (aile est)** : chambres de l'Empereur, des enfants impériaux et de l'Impératrice recluse, gardées par les **High Helms**, régiment nouvellement institué au sein du Reiksguard `Altdorf ch.5 l.381`.
-- **Emperor's Grand Ballroom** : la plus vaste salle du palais ; haute société impériale s'y rassemble plusieurs fois l'an `Altdorf ch.5 l.383`.
-- **Chamber of State** : siège des réunions de la Cour Privée ; entourée de salles attenantes pour conciliabules `Altdorf ch.5 l.385`.
-- **Armurerie naine du nord** : citadelle naine intra-palatiale contenant l'armurerie et les trophées impériaux, dont le Heaume de Morkar et **Ghal Maraz** lui-même quand l'Empereur n'en a pas besoin pour la guerre ou la cérémonie, protégée par les *Wardens of the Armaments* `Altdorf ch.5 l.387`.
-- **Volkshalle et Palais sud** : la moitié sud du district, publique, abrite la Volkshalle, les principales casernes, et les bureaux administratifs et militaires du Reikland et de l'Empire `Altdorf ch.5 l.415-418`.
-
-### Volkshalle
-
-Grande salle d'État du Palais Impérial, octagonale, où les Électeurs mettent publiquement en scène le gouvernement de l'Empire — scène d'apparat où les Empereurs sont élus et couronnés `Altdorf ch.5 l.454`. Le trône impérial, taillé dans la pierre par des mains naines, surmonte une grande table circulaire portant une carte stylisée de l'Empire en bronze `Altdorf ch.5 l.456`. Seize piliers massifs soutiennent le dôme, et une galerie haute fait le tour des huit murs ; chaque délégation y vient avec sa garde d'honneur, mais le Reiksguard répond de la sécurité globale `Altdorf ch.5 l.458`. Pivot Arc 7 — voir fiche dédiée pour les détails (Wilhelm Chamber, Holzkrug Chamber, caves à vin sous Ludwig le Gros, reliquaire d'Albertus Goldformer, climax 9 Brauzeit).
-
-### Grand Cathedral of Sigmar
-
-La Grande Cathédrale de Sigmar, achevée en 1000 IC mille ans jour pour jour après la Bataille du Col du Feu Noir, est le plus grand temple de l'Empire `Altdorf ch.1 l.273`. Son enceinte est gardée par les **Chevaliers du Cœur Ardent**, garde personnelle du Grand Théogoniste recrutée uniquement parmi les initiés du culte de Sigmar `Altdorf ch.5 l.585-588`. Lors du mariage d'Arc 7, un détachement de Chevaliers du Cœur Ardent et de la Reikland 1st Regiment of Foot tient les portes contre les agitateurs `EiR ch.6 l.175`. C'est ici qu'a lieu la cérémonie matinale du mariage de Wolfgang Holswig-Abenauer et Katarina Todbringer `EiR ch.6 l.170` `EiR ch.6 l.173`, et c'est par une **porte latérale** au verrou mal fixé que Karl-Heinz Wasmeier s'introduit pour couvrir la fuite de Lord Malthe Barthelm `EiR ch.6 l.63` `EiR ch.6 l.196`.
-
-### South Temple of Ulric (Hammerpfad)
-
-Temple ulricain orthodoxe intégré aux murailles de la cité en style temple-forteresse classique ; ses zones publiques restent à ciel ouvert pour exposer les fidèles aux éléments même en plein hiver `Altdorf ch.5 l.261`. Un petit château adjacent héberge les prêtres et les gardes symboliques du Loup Blanc tirés de la Compagnie Rouge locale `Altdorf ch.5 l.261`. Seuls les pétitionnaires mâles de sang Teutogen ont accès au sanctuaire du loup, ce qui prive la plupart des Altdorfers d'entrée — source de disputes fréquentes avec les Sigmarites `Altdorf ch.5 l.263`. C'est ici qu'**Emil Valgeir (Ar-Ulric)** doit conduire les bénédictions de second ordre du mariage à 12h00, en relais de la cérémonie sigmarite `EiR ch.6 l.170` `EiR ch.6 l.173`.
-
-### Imperial Zoo (Zoogarten)
-
-Ménagerie impériale du South Bank `Altdorf ch.5 l.14` ; abrite **Deathclaw**, le griffon de combat de l'Empereur. Fermée depuis plusieurs semaines au début d'EiR, rumeur de saccage qui agite la cité (rumeur Arc 7 reprise des bruits de cour).
-
-### Mauerblumchen et résidences nobles
-
-Mauerblumchen est l'un des districts les plus aisés ; les domaines fortifiés des nobles urbains s'y séparent par de larges rues propres, et la plupart des officiers commandant les régiments d'Altdorf et de l'État y logent chez des familles nobles ; le crime de rue y est rare car ce sont des soldats professionnels qui patrouillent, pas la Garde Urbaine `Altdorf ch.5 l.246`.
-
-- **Holzkrug Estate** : trois bâtiments (un manoir fortifié et deux demeures) reliés par des grilles de fer hérissées autour d'une cour à fontaine ; douze hallebardiers en uniformes pourpres servent de garde rapprochée `Altdorf ch.5 l.277`. Liepmund Holzkrug y réside avec son frère cadet pistolier Habenicht et sa sœur Nievergesse `Altdorf ch.5 l.277`. Les Holzkrugs sont les vieux rivaux des Holswig-Schliestein depuis la défaite de leur coalition en 2426 IC par Wilhelm II `Altdorf ch.5 l.279`. Liepmund Holzkrug détient le titre de **Grand Ambassadeur** au Conseil du Reikland `Altdorf ch.5 l.279`.
-- **Helstein Manor** : résidence en ville des Helstein, famille noble loyale au Graf de Middenheim ; les Todbringer y logent à Altdorf lorsqu'ils s'y déplacent, n'entretenant pas de domaine impérial propre pour raisons politiques `EiR ch.5 l.38`. Quartier général de la délégation de Middenheim avant et après le mariage d'Arc 7 — Boris Todbringer, Heinrich Todbringer, Katarina Todbringer, Emil Valgeir et Veiran Thugenheim y résident `EiR ch.5 l.38`.
-- **Von Eckstein Estate** : domaine fortifié comprenant un manoir et quatre demeures derrière 10 pieds de murs de pierre, garnison de vingt épéistes en uniformes rouge-et-blanc reikois ; Hildemund von Eckstein, chef de famille, possède aussi le club Gorgon `Altdorf ch.5 l.298-299`.
-- **Townhouse Emmanuelle von Liebwitz** : la Grande Comtesse de Nuln tient un townhouse fastueux à Mauerblumchen ; halberdiers nulnois en uniformes noirs, file d'attente de prétendants `EiR ch.6 l.68`.
-
-### Universität d'Altdorf
-
-L'Université d'Altdorf est l'académie principale de la cité, fréquentée par les jeunes nobles qui y étudient officiellement mais préfèrent surtout *« boire et étaler leur fortune »* — au grand soulagement des professeurs `EiS ch.3 l.11`. Quintus Fassbinder y enseigne à temps partiel et bénéficie de la **Temple-Library de Verena** adjacente pour ses recherches `EiR ch.6 l.128`. Trois des **Neuf Yeux** — Wilhelmina Novak (Withering Eye), Wulfrum Ahlquist (Public Eye) et Gislind Ursin (Hollow Eye) — sont présents à l'Université au moment du mariage, préparant leurs leçons pour le Prince Héritier ; ils logent dans le district **Schulergegend** et partagent leur temps entre librairies de tomes rares, le réfectoire universitaire et la Temple-Library de Verena `EiR ch.5 l.42` `EiR ch.6 l.125`.
-
-### Black Isle (Île Noire)
-
-Île célèbre d'Altdorf, siège de la **Chambre Noire** (Black Chamber), réseau de renseignement impérial. Liepmund Holzkrug y passe ses matinées au moment du mariage — les recherches pour le localiser y sont vouées à l'échec `EiR ch.6 l.58`. Yann Zuntermein, magister de la cellule Main Pourpre d'Altdorf, dirige depuis l'Île Noire le **Spionwerber** (sous-section officielle du Ordo Terribilis) en tant que membre du Cercle Intérieur de la Chambre Noire `EiR ch.5 l.90`.
-
-### Reiksport et Flottenliegeplatz
-
-Quartier des docks sud servant la Marine Impériale et la Reik River Patrol ; peu de résidences hors baraquements temporaires pour marins et bateliers `Altdorf ch.5 l.741`. Le Reiksfeuer, immense phare-tour à signaux opéré par la Marine, guide les navires hauturiers `Altdorf ch.5 l.738`. Admiralty House, en pierre à cinq étages décoré de statuaire monstre-marin, est le quartier général de l'Imperial First Fleet, dirigée par le **Sea Lord Adalmann von Hopfberg** qui répond directement à Karl-Franz Holswig-Schliestein `Altdorf ch.5 l.784-786`.
-
-### Street of a Hundred Taverns
-
-L'artère la plus notoire d'Altdorf court depuis le Königplatz jusqu'au front de fleuve, jalonnée d'auberges, d'hôtels et de gargotes `EiS ch.3 l.122-126`. Le *Boatman Inn* y débouche, tenu autrefois par Josef Quartjin et ses anciens amis riverains `EiS ch.3 l.136`. Au moment du mariage Arc 7, le *Black Bat* y est le repère discret de Lord Malthe Barthelm, où le rejoint Karl-Heinz Wasmeier à 20h00 `EiR ch.6 l.118`. *The Crown and Two Chairmen*, club snob de scholars, accueille Liepmund Holzkrug et la League of Karl-Franz à 15h00 `EiR ch.6 l.58`.
-
-### Karl-Franz Park
-
-Dix acres de jardins paysagers entre le palais et le Reik, ceints de murailles miniatures blanches en imitation de celles de la cité, ouverts entre 9h00 et 23h00 `Altdorf ch.5 l.680-684`. Le **Solland Memorial** y est secrètement utilisé par le Cult of the Vengeful Blaze de Mornan Tybalt pour ses rites solkanites à l'aube `Altdorf ch.5 l.687-689`. La **Pillar of Sigmar**, colonne triomphale au centre du parc, raconte en 148 scènes la vie de Sigmar autour de la spirale qui grimpe jusqu'à la statue dorée du dieu brandissant Ghal Maraz `Altdorf ch.5 l.698`.
-
-### Reiksguard Chapter House
-
-Le chapter house est une citadelle au sein de la cité, enceinte fortifiée capable de tenir seule si les murs d'Altdorf tombent : bastions de granit, cours et tours, casernes, écuries, chenils et cellules austères pour les chevaliers `Altdorf ch.5 l.602`. La **Wilhelm Gate**, entrée cérémonielle aux gonds noirs surmontés d'une frise du couronnement de Wilhelm III, et la **White Gate** marquée des symboles de Shallya réservée aux novices et blessés en sont les accès principaux `Altdorf ch.5 l.604`. Kurt Helborg, Reiksmarshall, y a ses appartements dans les étages hauts au-dessus de la bibliothèque et des archives `Altdorf ch.5 l.606`. C'est aussi le quartier-général de l'**Untersuchung**, groupe d'enquête sur les cultes et les réseaux subversifs, basé dans un bâtiment quelconque de la commanderie sous la direction du Lieutenant Gottfried Braubach `Altdorf ch.5 l.619-623`.
+### Quartier est
+- [[Reikerbahn]] — quartier populaire et révolutionnaire
+- [[Isle of Eels]] — île de la pègre des docks est
+- [[Metallschlacke]] — district industriel et de fonderies
 
 ## État politique Arc 7
 

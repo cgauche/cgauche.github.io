@@ -38,6 +38,11 @@ Palace nord, séparée volontairement.
 - **Ressource** : si Immanuel-Ferrand est rallié au ch.13, il peut
   ouvrir l'accès à des archives de la Chambre Noire.
 
+## Apparitions en scénario
+
+- **[S61 — jour du mariage]** `EiR ch.6 l.58` : Liepmund Holzkrug passe ses matinées à l'Île Noire — les recherches des PJ pour le localiser y sont vouées à l'échec.
+- **Zuntermein hors de portee** `EiR ch.6 l.160` : pendant le mariage, Yann Zuntermein est *« deep within the dungeons of the Black Isle »*, inaccessible.
+
 ## Liens
 
 - **Lieu parent** : Altdorf.

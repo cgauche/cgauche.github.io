@@ -51,7 +51,7 @@ Cri de *« République »* audible en fin d'après-midi. **Risque CVC** (3-5 gro
 - *(aprem)* « Wasmeier… » — quelqu'un a chuchoté ce nom dans une taverne du Doklands. — **V** ([[Karl-Heinz Wasmeier|Wasmeier]] vit dans la Reikerbahn)
 - *(soir)* « La République ! Le Palais demain matin ! » — **V** (slogan agitateur)
 
-## Temple de Shallya — religieux (rive sud, Templwart)
+## Temple de Shallya — religieux (rive sud, Krankenfeld)
 
 Lieu calme ; un PJ poli (Elvira surtout) glane les états d'âme religieux.
 - *(matin)* « Yorri va convoquer une assemblée d'urgence du culte. » — **V** (en préparation)

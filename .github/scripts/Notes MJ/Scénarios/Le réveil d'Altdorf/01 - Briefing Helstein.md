@@ -1,6 +1,6 @@
 # 01 - Briefing Helstein
 
-> **Lieu** : Manoir Helstein, Mauerblumchen, rive nord d'Altdorf.
+> **Lieu** : Manoir Helstein, Mauerblümchen, **rive sud** d'Altdorf.
 > **Moment** : matin du 4 Erntezeit 2512 IC, peu après l'aube. Heinrich part dans deux heures.
 > **Durée table** : 10-15 minutes.
 
