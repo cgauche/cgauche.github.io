@@ -20,7 +20,7 @@
 
 ## Conditions de déclenchement
 
-PJ présents à la salle de lecture **avant 11h** (heure d'arrivée des Templiers en arrestation — voir [[Hub]] §Horloge). Si les PJ arrivent après 11h, la scène à jouer est [[12 - Consultation Fassbinder — arrivée tardive]].
+PJ présents à la salle de lecture **avant 11h** (heure d'arrivée des Templiers en arrestation — voir [[Ambiance]] §Horloge). Si les PJ arrivent après 11h, la scène à jouer est [[12 - Consultation Fassbinder — arrivée tardive]].
 
 ## Cadre
 

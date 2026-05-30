@@ -351,4 +351,4 @@ Fassbinder est **liquidé en cellule** entre J+1 et J+2 par un agent Spionwerber
 - Factions : [[Ordre du Marteau d'Argent]], [[Chambre Noire]].
 - Lieux : [[Bibliothèque-temple de Verena]], [[Altdorf]].
 - Handouts : [[Fassbinder - documents bureau]].
-- Variables d'état : [[Hub]] §Variables d'état.
+- Variables d'état : [[Gestion table]].

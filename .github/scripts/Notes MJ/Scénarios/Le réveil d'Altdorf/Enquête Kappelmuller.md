@@ -1,6 +1,6 @@
 # Enquête Kappelmuller — déclencheurs Maria-Luise
 
-> Pistes d'enquête sur Henrik Kappelmuller, médecin personnel de l'Empereur. Toute approche substantielle dans l'un de ces canaux active le **trigger Maria-Luise** (voir [[Hub]] §Triggers) — billet livré au Manoir Helstein entre 16h et 18h.
+> Pistes d'enquête sur Henrik Kappelmuller, médecin personnel de l'Empereur. Toute approche substantielle dans l'un de ces canaux active le **trigger Maria-Luise** (voir [[Ambiance]] §Horloge) — billet livré au Manoir Helstein entre 16h et 18h.
 >
 > Sources canon : *Empire in Ruins* ch.8 l.49-103.
 
@@ -259,7 +259,7 @@ En mission à Ubersreik depuis trois semaines. **Pas d'audience possible** dans 
 Une mention publique trop directe :
 - Attire l'attention du **Comité de Vigilance Citoyen** dans la demi-heure (3-5 gros bras, harcèlement ou bagarre).
 - Risque d'accusation de **lèse-majesté** si le ton est jugé séditieux.
-- Possible bascule **Variante B globale** (PJ wanted Sigmarite ou civique, voir [[Hub]] §Variables d'état).
+- Possible bascule **Variante B globale** (PJ wanted Sigmarite ou civique, voir [[Gestion table]]).
 
 ### Effet trigger Maria-Luise
 
@@ -296,7 +296,7 @@ Maria-Luise écrira aux PJ à Nuln plus tard avec les aveux d'un Kappelmuller in
 
 ## Liens
 
-- [[Hub]] §Triggers (trigger Maria-Luise)
+- [[Ambiance]] §Horloge (timing du billet)
 - [[Henrik Kappelmuller]]
 - [[Elvyra Kleinestun]]
 - [[Maria-Luise von Walfen]]

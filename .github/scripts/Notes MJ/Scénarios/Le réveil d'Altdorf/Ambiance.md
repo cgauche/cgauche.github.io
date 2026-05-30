@@ -17,6 +17,27 @@
 
 *(B = PJ tachés Sigmarite · C = PJ tachés Fassbinder. Définitions et bascules : [[Gestion table]]. Détail de la traque : §Traque ci-dessous.)*
 
+## ⏱ Horloge in-game — événements à heure fixe
+
+Ces événements tombent à horaire fixe, **indépendamment des PJ**. Le MJ tient l'horloge ; les PJ choisissent leur tempo dedans.
+
+| Heure | Événement |
+|---|---|
+| Aube | [[01 - Briefing Helstein]] au manoir |
+| 8h-11h | Heinrich reçoit les PJ puis finalise le convoi |
+| ~9h-10h30 | Fassbinder attend à sa table de la salle de lecture (RDV fixé S62). Agent Spionwerber déjà en place. |
+| ~10h | Spionwerber confirme à Zuntermein que Fassbinder est installé avec des inconnus (les PJ) |
+| ~10h30 | Zuntermein dispatche le commando Templiers depuis la Chambre Noire |
+| 11h | Heinrich part en convoi vers Middenheim |
+| ~11h | Commando Templiers arrive à la bibliothèque, **arrestation publique** ([[13 - Arrestation et fuite]]) |
+| 11h15-11h30 | Fassbinder mené hors du bâtiment en menottes |
+| 11h30-13h | Fouille de la table + casier par Templiers + Spionwerber |
+| 13h+ | Table et casier scellés, biblio rouverte avec Spionwerber en planque |
+| 16h-18h | Si **trigger Maria-Luise** activé : billet livré au manoir par Bertholdt |
+| 17h-19h | Rumeur « Fassbinder mort en cellule » commence à circuler ([[14 - Rumeur Fassbinder mort]]) |
+| 22h | RDV Lina à Hangmann's Gasse (si billet accepté) → [[31 - Approche via Lina]] |
+| J+1 aube | La Comète gréée au quai → [[61 - Départ matinal]] |
+
 ## 🌆 Déplacements dans Altdorf
 
 Base des PJ : **Manoir Helstein**, rive nord (Mauerblümchen). La plupart des destinations utiles sont **rive sud** ; on traverse par le **Pont des Trois Péages** (ou équivalent).
@@ -28,7 +49,19 @@ Base des PJ : **Manoir Helstein**, rive nord (Mauerblümchen). La plupart des de
 
 > **⚠ Glissement Reikerbahn — une seule fois.** Au **premier** franchissement vers la rive sud, la rue peut basculer en **zone de bleed** → [[51 - Glissement Reikerbahn]] (Sigmarites zélotes confus + silhouette 1/3). Une fois joué, trajets normaux ensuite.
 
-Destinations rive sud (adresses & arrivée) : [[Hub]] §Destinations. Districts : Université / Biblio-temple de Verena, **Palast District** (Palais), **Zwillingsgrab** (scientifique/médical — Guilde des Physiciens), temple de Shallya, officine d'Elvyra.
+### Destinations (adresses & arrivée)
+
+| Lieu | Rive / district | Y aller | Arrivée — ambiance |
+|---|---|---|---|
+| **Manoir Helstein** | Nord, Mauerblümchen | Base de départ | Quartier sécurisé post-assaut, Épées d'Ulric à la grille. Point de RDV central. |
+| **Biblio-temple de Verena** (Université) | Sud, quartier universitaire | Pont des Trois Péages → rive sud | Calme studieux le matin ; sortie de cours de midi (foule étudiante). |
+| **Palais Impérial / Palast District** | Sud, Palast | 5 portes publiques en journée, **désarmement** (dague tolérée) | Solennel, Garde renforcée. La lettre Todbringer = laissez-passer. |
+| **Guilde des Physiciens** | Sud, **Zwillingsgrab** (scientifique/médical) | Rive sud | Façade pierre claire, plaque au caducée, salle d'attente aux bancs alignés. |
+| **Pharmacie Elvyra Kleinestun** | Sud | Rive sud | Officine modeste, boiseries vertes, bocaux d'herbes. Odeur de camphre et fenouil. |
+| **Grand Temple de Shallya** | Sud, Templwart | Rive sud | Hospice, prêtresses en blanc, calme, blessés et pauvres accueillis. |
+| **Hangmann's Gasse** | Sud (ruelles) | De nuit, discret | Ruelle resserrée — RDV Lina à 22h. |
+| **Quais / La Comète** | Berges du Reik | Sortie par les quais | Marine impériale, navire mobilisé par Heinrich. |
+| **Porte Wolftor** | Nord (sortie ville) | Route de Middenheim | Quartier middenlander/ulricain — voir [[62 - Fuite vers Middenheim & planques]]. |
 
 **Rentrer le soir** : des rues sont **fermées** (fin d'après-midi/soir) → détours. Le manoir reste un point relativement sûr.
 

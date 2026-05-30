@@ -43,4 +43,4 @@ Un PJ qui pose la question **Intuition (-10)** ou **Connaissance (Politique) (+0
 
 - PNJ : [[Quintus Fassbinder]] (mort), [[Yann Zuntermein]] (MJ-only), **Johannes Woblhoffer**.
 - Factions : [[Chambre Noire]], [[Ordre du Marteau d'Argent]].
-- Variables : [[Hub]] §Variables d'état.
+- Variables : [[Gestion table]].

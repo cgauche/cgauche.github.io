@@ -102,7 +102,7 @@ Bibliothèque rouverte mais avec consignes restrictives. La table de Fassbinder 
 
 ### Risque
 
-Tout PJ qui interroge ouvertement le personnel sur Fassbinder est **identifié par l'agent Spionwerber**. Filature possible dans la soirée, bascule vers variante C globale (voir [[Hub]] §Variables d'état) — suivis, possibles arrestations à venir.
+Tout PJ qui interroge ouvertement le personnel sur Fassbinder est **identifié par l'agent Spionwerber**. Filature possible dans la soirée, bascule vers variante C globale (voir [[Gestion table]]) — suivis, possibles arrestations à venir.
 
 ### Options
 

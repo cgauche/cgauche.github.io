@@ -3,7 +3,24 @@
 > Référence transversale du scénario [[Hub|Le réveil d'Altdorf]].
 > Aide à dimensionner la séance selon le temps disponible.
 >
-> La structure scénario est modulaire (voir [[Hub]] §Index d'intentions et §Triggers). Les tableaux ci-dessous donnent le **pacing du flux par défaut** — utile si la table suit l'orientation suggérée. Si elle dévie, le MJ adapte en piochant dans l'Index d'intentions du Hub.
+> La structure scénario est modulaire (voir [[Hub]] §Index d'intentions). Les tableaux ci-dessous donnent le **pacing du flux par défaut** — utile si la table suit l'orientation suggérée. Si elle dévie, le MJ adapte en piochant dans l'Index d'intentions du Hub.
+
+## Flux par défaut de la journée
+
+Orientation suggérée (*pas* un railroad) :
+1. **Matin** : briefing Helstein → trajet rive sud (glissement Reikerbahn) → consultation Fassbinder avant 11h → arrestation publique → fuite.
+2. **Après-midi** : retour manoir + repos + rumeurs + un ou deux modules au choix (Shallya, saisine au Palais, enquête Kappelmuller).
+3. **Soir** : si trigger Maria-Luise activé → Lina → visite Karl-Franz.
+4. **Matin J+1** : départ (Comète ou voie de terre).
+
+Les PJ peuvent aussi : ne pas voir Fassbinder (tout perdre côté marteau) ; porter la saisine au Palais d'abord ([[12 - Consultation Fassbinder — arrivée tardive]] ensuite) ; ne jamais enquêter sur Kappelmuller (pas de billet, pas de Karl-Franz) ; quitter Altdorf le matin même.
+
+### Ce que les PJ savent en début d'après-midi
+- **RDV Fassbinder fait avant 11h** : couloir Vithang Dum / Zan Mingol (Yodri vol.1) + documents trouvés selon les tests + Johannes dans le groupe.
+- **Arrivée tardive** ([[12 - Consultation Fassbinder — arrivée tardive]]) : info dégradée par témoignages + ce que Johannes apporte.
+- **Pas passés à la biblio** : aucune info marteau.
+
+(L'escalation de la ville heure par heure : [[Ambiance]].)
 
 ## Version 3h compressée (séance unique, flux par défaut)
 

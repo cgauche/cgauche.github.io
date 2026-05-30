@@ -1920,8 +1920,12 @@ def layout(current_dir: Path, title: str, body: str,
            extra_class: str = "",
            buckets: dict[int, ArcBucket] | None = None,
            active_arc: int | None = None,
-           og: OgMeta | None = None) -> str:
-    """Wrap a body fragment in the site shell with sidebar nav."""
+           og: OgMeta | None = None,
+           sidebar_override: str | None = None) -> str:
+    """Wrap a body fragment in the site shell with sidebar nav.
+
+    `sidebar_override`: pre-rendered <nav class="sidebar"> HTML to use instead
+    of the default 7-arcs rail (used for the per-scenario navigation)."""
     css = relative_url(current_dir, Path("style.css"))
     home = relative_url(current_dir, Path("index.html"))
     search_js = relative_url(current_dir, Path("search.js"))
@@ -1952,7 +1956,8 @@ def layout(current_dir: Path, title: str, body: str,
                 f'{html.escape(label)}</a></span>')
         mj_extras = "".join(mj_extras_parts)
 
-    sidebar = _render_sidebar(current_dir, buckets, active_arc)
+    sidebar = (sidebar_override if sidebar_override is not None
+               else _render_sidebar(current_dir, buckets, active_arc))
     og_block = _render_og_block(title, og)
 
     return f"""<!doctype html>
@@ -3092,6 +3097,39 @@ main {
   font-size: 0.85em;
 }
 
+/* ---------- Scenario sidebar (per-scenario page rail) ----------------- */
+.sidebar-scenario .scn-nav { display: flex; flex-direction: column; }
+.sidebar-scenario .scn-group { margin: 0.55rem 0 0.2rem; }
+.sidebar-scenario .scn-group-h {
+  display: block;
+  font-family: var(--serif-display);
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--muted);
+  margin: 0.2rem 0 0.15rem;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.12rem;
+}
+.sidebar-scenario .scn-link {
+  display: block;
+  font-family: var(--serif-display);
+  font-size: 0.92rem; line-height: 1.25;
+  color: var(--ink);
+  text-decoration: none;
+  padding: 0.18rem 0.4rem 0.18rem 0.6rem;
+  border-left: 2px solid transparent;
+  border-radius: 2px;
+}
+.sidebar-scenario .scn-link:hover {
+  background: rgba(163,122,46,0.06);
+  border-left-color: var(--gold);
+  text-decoration: none;
+}
+.sidebar-scenario .scn-link.is-active {
+  background: linear-gradient(90deg, rgba(122,31,31,0.10), transparent);
+  border-left-color: var(--oxblood);
+  color: var(--oxblood); font-style: italic;
+}
+
 /* ---------- Footer ----------------------------------------------------- */
 
 .site-footer {
@@ -4029,11 +4067,72 @@ def _resolve_mj_wikilinks(text: str, current_out_rel: Path,
     return _MJ_WIKILINK_RE.sub(repl, text)
 
 
+_SCENARIO_THREAD_LABELS = {
+    0: "Ouverture", 1: "Le marteau", 2: "Officiel", 3: "Empereur",
+    4: "Ville & perso", 5: "Déplacement", 6: "Départ",
+}
+_SCENARIO_SIDEBAR_RELABEL = {
+    "Ambiance": "⚡ Écran live (ville)",
+}
+
+
+def _render_scenario_sidebar(scenario_name: str,
+                             siblings: list[MJOverlayPage],
+                             current_out_rel: Path) -> str:
+    """Left rail listing every page of one scenario, grouped by thread, with
+    the Hub pinned on top and the current page highlighted."""
+    hub = None
+    scenes_by_thread: dict[int, list[tuple[int, MJOverlayPage]]] = {}
+    refs: list[MJOverlayPage] = []
+    for p in siblings:
+        if p.category == "scenario_hub":
+            hub = p
+            continue
+        m = re.match(r"\s*(\d+)", p.title)
+        if m:
+            num = int(m.group(1))
+            scenes_by_thread.setdefault(num // 10, []).append((num, p))
+        else:
+            refs.append(p)
+
+    def link(p: MJOverlayPage, pinned: bool = False) -> str:
+        href = _relpath_within_mj(current_out_rel.parent, p.out_rel_path)
+        label = _SCENARIO_SIDEBAR_RELABEL.get(p.title, p.title)
+        is_active = (p.out_rel_path == current_out_rel)
+        cls = "scn-link is-active" if is_active else "scn-link"
+        cur = ' aria-current="page"' if is_active else ''
+        star = '★ ' if pinned else ''
+        return (f'<a class="{cls}" href="{html.escape(href)}"{cur}>'
+                f'{star}{html.escape(label)}</a>')
+
+    parts = ['<nav class="sidebar sidebar-scenario" aria-label="Navigation du scénario">',
+             f'<h2 class="sidebar-title">{html.escape(scenario_name)}</h2>',
+             '<div class="scn-nav">']
+    if hub is not None:
+        parts.append(link(hub, pinned=True))
+    for tens in sorted(scenes_by_thread):
+        label = _SCENARIO_THREAD_LABELS.get(tens, f"{tens}x")
+        parts.append(f'<div class="scn-group"><span class="scn-group-h">{html.escape(label)}</span>')
+        for _num, p in sorted(scenes_by_thread[tens], key=lambda t: t[0]):
+            parts.append(link(p))
+        parts.append('</div>')
+    if refs:
+        refs_sorted = sorted(refs, key=lambda p: (p.title != "Ambiance", p.title.lower()))
+        parts.append('<div class="scn-group"><span class="scn-group-h">Référence</span>')
+        for p in refs_sorted:
+            parts.append(link(p))
+        parts.append('</div>')
+    parts.append('</div>')
+    parts.append('</nav>')
+    return "\n".join(parts)
+
+
 def _render_mj_overlay_page(mj_page: MJOverlayPage,
                             mj_idx: dict[str, Path],
                             url_map: dict[str, Path],
                             buckets: dict[int, ArcBucket],
-                            entity_popover_map: dict[str, EntityPopover] | None = None) -> str:
+                            entity_popover_map: dict[str, EntityPopover] | None = None,
+                            scenario_siblings: list[MJOverlayPage] | None = None) -> str:
     """Render an MJ overlay page using the standard site layout."""
     current_out_rel = mj_page.out_rel_path
     md_text = _resolve_mj_wikilinks(
@@ -4078,8 +4177,15 @@ def _render_mj_overlay_page(mj_page: MJOverlayPage,
 </div>
 </article>
 """
+    sidebar_override = None
+    if (mj_page.category in ("scenario_hub", "scenario_scene", "scenario_ref")
+            and scenario_siblings):
+        sidebar_override = _render_scenario_sidebar(
+            mj_page.scenario or "", scenario_siblings, current_out_rel)
+
     return layout(current_dir_from_out, mj_page.title, body,
-                  extra_class="page-mj-overlay", buckets=buckets)
+                  extra_class="page-mj-overlay", buckets=buckets,
+                  sidebar_override=sidebar_override)
 
 
 def _render_mj_index_pages(mj_pages: list[MJOverlayPage],
@@ -4752,10 +4858,18 @@ def render_mj_overlay(pages: list[Page], buckets: dict[int, ArcBucket],
         return 0
     mj_idx = _build_mj_wikilink_index(mj_pages)
 
+    # Group scenario pages by scenario name, for the per-scenario left rail.
+    scenario_pages_by_name: dict[str, list[MJOverlayPage]] = {}
+    for p in mj_pages:
+        if (p.category in ("scenario_hub", "scenario_scene", "scenario_ref")
+                and p.scenario):
+            scenario_pages_by_name.setdefault(p.scenario, []).append(p)
+
     count = 0
     for mj_page in mj_pages:
+        siblings = scenario_pages_by_name.get(mj_page.scenario or "")
         html_out = _render_mj_overlay_page(mj_page, mj_idx, url_map, buckets,
-                                            entity_popover_map)
+                                            entity_popover_map, siblings)
         out_path = MJ_OUT_DIR / mj_page.out_rel_path
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(html_out, encoding="utf-8")

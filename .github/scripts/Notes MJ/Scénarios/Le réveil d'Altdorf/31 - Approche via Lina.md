@@ -16,7 +16,7 @@
 
 ## Conditions de déclenchement
 
-Le **trigger Maria-Luise** a été activé dans la journée (voir [[Hub]] §Triggers et [[Enquête Kappelmuller]]) : un activateur d'enquête Kappelmuller a remonté jusqu'à Maria-Luise via ses réseaux. Bertholdt l'intendant a remis le billet aux PJ entre 16h et 18h. La table accepte le rendez-vous.
+Le **trigger Maria-Luise** a été activé dans la journée (voir [[Enquête Kappelmuller]]) : un activateur d'enquête Kappelmuller a remonté jusqu'à Maria-Luise via ses réseaux. Bertholdt l'intendant a remis le billet aux PJ entre 16h et 18h. La table accepte le rendez-vous.
 
 Texte du billet (papier vergé, sceau de cire neutre, sans signature) :
 

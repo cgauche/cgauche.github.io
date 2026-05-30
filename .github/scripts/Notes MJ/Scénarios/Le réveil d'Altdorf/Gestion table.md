@@ -3,6 +3,14 @@
 > Référence transversale du scénario [[Hub|Le réveil d'Altdorf]].
 > Outils pour gérer les imprévus et les variantes selon ce que la table choisit de faire.
 
+## À tracer mentalement (état des PJ)
+
+- **PJ wanted Sigmarite ?** → variante **B** (CVC en chasse, combats imprévus).
+- **PJ tachés Fassbinder ?** → variante **C** (suivis Spionwerber, identifiés par témoins).
+- **PJ ont vu Maria-Luise ?** → Module 5 joué = gros acquis (Kappelmuller démasqué, sort Tzeentch confirmé, Zuntermein nommé) ; sinon = info perdue.
+- **PJ ont fouillé le casier de Fassbinder ?** → documents en plus (Yodri vol. 2, lettre Wasmeier) mais risque hérésie matérielle.
+- **PA Sigmarite** au départ : -8. Monte ou descend selon les actions du jour.
+
 ## Quatre variantes globales — selon les choix en matinée
 
 L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[51 - Glissement Reikerbahn|Sigmarites]] + [[13 - Arrestation et fuite|arrestation]] + [[13 - Arrestation et fuite|fuite]].

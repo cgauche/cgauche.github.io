@@ -94,7 +94,7 @@ Aucune conséquence personnelle.
 - **1 leader laïc** (ex-Templier ou fidèle senior) : CC 45, E 40, PV 14, épée + dague.
 - **1 jeune zélote** : CC 30, PV 10, fuit dès le premier mort.
 
-**Si le jeune fuit** et s'échappe : **témoignage** au Comité de Vigilance Citoyen dans l'après-midi → PJ wanted (variante B globale, voir [[Hub]] §Variables d'état).
+**Si le jeune fuit** et s'échappe : **témoignage** au Comité de Vigilance Citoyen dans l'après-midi → PJ wanted (variante B globale, voir [[Gestion table]]).
 
 ## La silhouette (1/3) — obligatoire toutes variantes
 
@@ -120,4 +120,4 @@ Si les PJ vérifient après coup : (a) personne en ville ne se souvient les avoi
 
 - PNJ : [[Gideon]] (silhouette, MJ-only).
 - Lieux : [[Altdorf]], [[Bibliothèque-temple de Verena]].
-- Référence : [[Hub]] §Variables d'état.
+- Référence : [[Gestion table]].
