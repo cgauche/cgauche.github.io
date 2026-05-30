@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: religieux
+  importance: Notable
+  section: sud
+  quartier: Mauerblümchen
+  x: 435
+  y: 451
+  desc: "Temple-forteresse ulricain intégré au mur de la ville ; sanctuaire du Loup blanc réservé aux impétrants de sang teutogen, source fréquente de frictions avec les Sigmarites."
+---
+
 # Temple Sud d'Ulric
 > **Où** : district S3 [[Mauerblümchen]], **rive sud** d'Altdorf. `Altdorf-CotE-VF ch.5 l.254`
 > **Type** : temple-forteresse (culte d'Ulric).

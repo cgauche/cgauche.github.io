@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: commerce
+  importance: Notable
+  section: sud
+  quartier: Domplatz
+  x: 611
+  y: 467
+  desc: "Guilde des Médecins de la Couronne : organise les médecins et chirurgiens-barbiers agréés d'Altdorf, sous contrôle de l'administration impériale en cas de crise sanitaire."
+---
+
 # Guilde des Médecins d'Altdorf
 
 > **Où** : Domplatz, **rive sud**, près de la Grande Cathédrale de Sigmar. `Altdorf-CotE-VF ch.5 (La rive sud) l.1027`

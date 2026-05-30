@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: crime
+  importance: Notable
+  section: est
+  quartier: Reikerbahn
+  x: 814
+  y: 460
+  desc: "Vieux district décrépit du Quartier est abritant les Vieux Quais, désormais aux mains des contrebandiers et du gang des Poissons ; l'un des plus pauvres d'Altdorf."
+  seed: true
+---
+
 # Reikerbahn
 
 > **Où** : Reikerbahn, **Quartier est**. `Altdorf-CotE-VF ch.6 (Le Quartier est) l.118`

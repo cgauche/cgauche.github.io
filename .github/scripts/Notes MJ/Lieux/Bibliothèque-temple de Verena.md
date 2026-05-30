@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: religieux
+  importance: Notable
+  section: nord
+  quartier: Schulergegend
+  x: 725
+  y: 281
+  desc: "Première bibliothèque jamais bâtie dans l'Empire, tenue par le Culte de Verena ; on n'y accède qu'en passant par le temple. Ses chambres fortes souterraines abritent des textes interdits."
+---
+
 # Bibliothèque-temple de Verena
 
 > Bibliothèque sacrée + temple de Verena à l'**Université d'Altdorf**. Lieu de travail de [[Quintus Fassbinder|Fassbinder]], scène de la consultation et de l'arrestation publique S64.

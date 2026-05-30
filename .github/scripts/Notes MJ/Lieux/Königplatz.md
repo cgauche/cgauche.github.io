@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  section: nord
+  quartier: Königplatz
+  x: 768
+  y: 289
+  desc: "Grande place au cœur d'Altdorf, surmontée du feu de brouillard ; théâtre des parades militaires, proclamations officielles, foires et exécutions publiques."
+---
+
 # Königplatz
 
 > **Où** : **Ville Nord**. `Altdorf-CotE-VF ch.7 l.557-558`

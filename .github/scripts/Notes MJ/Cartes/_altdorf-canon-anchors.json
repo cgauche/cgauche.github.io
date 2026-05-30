@@ -1,0 +1,334 @@
+{
+ "source": "Altdorf Maps.pdf p0(landmarks)+p1(districts)",
+ "viewBox": [
+  0,
+  0,
+  1247,
+  794
+ ],
+ "poster": "altdorf-poster.jpg",
+ "landmarks": [
+  {
+   "n": 1,
+   "name_en": "Palace of Retribution",
+   "x": 494,
+   "y": 215
+  },
+  {
+   "n": 2,
+   "name_en": "Chapterhouse of the Reiksguard",
+   "x": 419,
+   "y": 368
+  },
+  {
+   "n": 3,
+   "name_en": "Imperial Palace",
+   "x": 540,
+   "y": 384
+  },
+  {
+   "n": 4,
+   "name_en": "Karl Franz Park",
+   "x": 568,
+   "y": 335
+  },
+  {
+   "n": 5,
+   "name_en": "Vaults",
+   "x": 530,
+   "y": 450
+  },
+  {
+   "n": 6,
+   "name_en": "Grand Cathedral of Sigmar",
+   "x": 635,
+   "y": 456
+  },
+  {
+   "n": 7,
+   "name_en": "Temple of Rhya",
+   "x": 771,
+   "y": 518
+  },
+  {
+   "n": 8,
+   "name_en": "Temple of Shallya",
+   "x": 730,
+   "y": 544
+  },
+  {
+   "n": 9,
+   "name_en": "Isle of Eels",
+   "x": 786,
+   "y": 429
+  },
+  {
+   "n": 10,
+   "name_en": "Pauper's Keep",
+   "x": 964,
+   "y": 437
+  },
+  {
+   "n": 11,
+   "name_en": "Imperial School of Engineers",
+   "x": 1063,
+   "y": 442
+  },
+  {
+   "n": 12,
+   "name_en": "Sewer Atrium",
+   "x": 993,
+   "y": 520
+  },
+  {
+   "n": 13,
+   "name_en": "Amethyst College",
+   "x": 607,
+   "y": 202
+  },
+  {
+   "n": 14,
+   "name_en": "Grey College",
+   "x": 613,
+   "y": 172
+  },
+  {
+   "n": 15,
+   "name_en": "Light College",
+   "x": 636,
+   "y": 150
+  },
+  {
+   "n": 16,
+   "name_en": "Gold College",
+   "x": 605,
+   "y": 245
+  },
+  {
+   "n": 17,
+   "name_en": "Bright College",
+   "x": 632,
+   "y": 216
+  },
+  {
+   "n": 18,
+   "name_en": "Celestial College",
+   "x": 660,
+   "y": 240
+  },
+  {
+   "n": 19,
+   "name_en": "Jade College",
+   "x": 703,
+   "y": 175
+  },
+  {
+   "n": 20,
+   "name_en": "Arcane Towers",
+   "x": 690,
+   "y": 228
+  },
+  {
+   "n": 21,
+   "name_en": "University of Altdorf",
+   "x": 738,
+   "y": 267
+  },
+  {
+   "n": 22,
+   "name_en": "Tower of Volans",
+   "x": 773,
+   "y": 231
+  },
+  {
+   "n": 23,
+   "name_en": "Street of a Hundred Taverns",
+   "x": 768,
+   "y": 369
+  },
+  {
+   "n": 24,
+   "name_en": "Konigplatz",
+   "x": 802,
+   "y": 259
+  },
+  {
+   "n": 25,
+   "name_en": "Temple of Morr",
+   "x": 951,
+   "y": 348
+  }
+ ],
+ "districts": [
+  {
+   "name": "Friedhofkreuzung",
+   "x": 447,
+   "y": 231
+  },
+  {
+   "name": "Karnevalsplatz",
+   "x": 526,
+   "y": 283
+  },
+  {
+   "name": "The Imperial Palace",
+   "x": 490,
+   "y": 347
+  },
+  {
+   "name": "and Palast District",
+   "x": 489,
+   "y": 354
+  },
+  {
+   "name": "Mauerblumchen",
+   "x": 395,
+   "y": 344
+  },
+  {
+   "name": "Karl Franz Park",
+   "x": 563,
+   "y": 320
+  },
+  {
+   "name": "Flottenliegeplatz",
+   "x": 616,
+   "y": 364
+  },
+  {
+   "name": "Domplatz",
+   "x": 612,
+   "y": 429
+  },
+  {
+   "name": "Zoogarten",
+   "x": 537,
+   "y": 490
+  },
+  {
+   "name": "Fundgrube",
+   "x": 519,
+   "y": 431
+  },
+  {
+   "name": "Hammerpfad",
+   "x": 421,
+   "y": 446
+  },
+  {
+   "name": "Zwillingsgrab",
+   "x": 611,
+   "y": 533
+  },
+  {
+   "name": "Großgrundbesitz",
+   "x": 672,
+   "y": 484
+  },
+  {
+   "name": "Südküste",
+   "x": 699,
+   "y": 443
+  },
+  {
+   "name": "Krankenfeld",
+   "x": 681,
+   "y": 552
+  },
+  {
+   "name": "Ogasse",
+   "x": 771,
+   "y": 567
+  },
+  {
+   "name": "Sudwand",
+   "x": 955,
+   "y": 540
+  },
+  {
+   "name": "Reikerbahn",
+   "x": 847,
+   "y": 436
+  },
+  {
+   "name": "Isle of Eels",
+   "x": 777,
+   "y": 420
+  },
+  {
+   "name": "Fleishmark",
+   "x": 964,
+   "y": 481
+  },
+  {
+   "name": "Metallschlacke",
+   "x": 1032,
+   "y": 470
+  },
+  {
+   "name": "Dampfplatz",
+   "x": 1020,
+   "y": 411
+  },
+  {
+   "name": "Schlecht Laden",
+   "x": 954,
+   "y": 428
+  },
+  {
+   "name": "Toteinsel",
+   "x": 922,
+   "y": 346
+  },
+  {
+   "name": "Grandmarkt",
+   "x": 937,
+   "y": 283
+  },
+  {
+   "name": "Neuesgeldt",
+   "x": 890,
+   "y": 233
+  },
+  {
+   "name": "Wolftor",
+   "x": 814,
+   "y": 211
+  },
+  {
+   "name": "Konigplatz",
+   "x": 799,
+   "y": 257
+  },
+  {
+   "name": "Fishmarkt",
+   "x": 811,
+   "y": 294
+  },
+  {
+   "name": "Dockland",
+   "x": 782,
+   "y": 363
+  },
+  {
+   "name": "Großvaters",
+   "x": 676,
+   "y": 343
+  },
+  {
+   "name": "Zuhause",
+   "x": 675,
+   "y": 350
+  },
+  {
+   "name": "Schulergegend",
+   "x": 717,
+   "y": 279
+  },
+  {
+   "name": "Hexxerbezrik",
+   "x": 650,
+   "y": 206
+  }
+ ]
+}

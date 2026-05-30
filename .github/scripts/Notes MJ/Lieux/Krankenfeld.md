@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: autre
+  importance: Notable
+  section: sud
+  quartier: Krankenfeld
+  x: 650
+  y: 574
+  desc: "Quartier hospitalier dominé par le temple shallyen de la Grâce d'Alessa ; rues encombrées de malades et de mendiants, vaste village de tentes autour du temple."
+  seed: true
+---
+
 # Krankenfeld
 > **Où** : district S15, **rive sud** d'Altdorf. `Altdorf-CotE-VF ch.5 l.1694`
 > **Type** : quartier (pôle de soins / malades).

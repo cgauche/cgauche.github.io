@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: religieux
+  importance: Notable
+  section: sud
+  quartier: Domplatz
+  x: 604
+  y: 480
+  desc: "Plus grand temple de Sigmar du Vieux Monde et plus grand édifice religieux de l'Empire ; bâtie par les nains, sa salle octogonale peut accueillir plusieurs milliers de fidèles."
+---
+
 # Grande Cathédrale de Sigmar
 
 > **Où** : Domplatz, **rive sud**. `Altdorf-CotE-VF ch.5 (La rive sud) l.1079`

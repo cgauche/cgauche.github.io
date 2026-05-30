@@ -1,0 +1,395 @@
+{
+  "id": "altdorf",
+  "title": "Altdorf",
+  "fiche": "Altdorf",
+  "viewBox": "0 0 1191 842",
+  "poster": "altdorf-poster.jpg",
+  "posterOpacity": 0.55,
+  "intro": "Carte canon d'Altdorf (Aldorf — la Couronne de l'Empire). Molette pour zoomer, glisser pour déplacer. Clique un lieu pour sa fiche et les scènes qui s'y déroulent ; sélectionne un scénario pour mettre en évidence ses lieux.",
+  "scenarios": [
+    {
+      "name": "Le réveil d'Altdorf"
+    }
+  ],
+  "types": [
+    {
+      "key": "religieux",
+      "label": "Religieux"
+    },
+    {
+      "key": "magie",
+      "label": "Magie"
+    },
+    {
+      "key": "gouvernement",
+      "label": "Gouvernement / Civique"
+    },
+    {
+      "key": "militaire",
+      "label": "Militaire / Ordres"
+    },
+    {
+      "key": "noble",
+      "label": "Noble / Résidence"
+    },
+    {
+      "key": "commerce",
+      "label": "Commerce / Guilde"
+    },
+    {
+      "key": "taverne",
+      "label": "Taverne / Auberge"
+    },
+    {
+      "key": "crime",
+      "label": "Crime / Quais"
+    },
+    {
+      "key": "mort",
+      "label": "Mort / Cimetière"
+    },
+    {
+      "key": "autre",
+      "label": "Autre"
+    }
+  ],
+  "edges": [],
+  "legend": [
+    {
+      "n": 1,
+      "x": 98.1,
+      "y": 349.6,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "citadelle-du-chatiment"
+    },
+    {
+      "n": 2,
+      "x": 98.1,
+      "y": 361.3,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "salle-capitulaire-de-la-reiksguard"
+    },
+    {
+      "n": 3,
+      "x": 98.1,
+      "y": 373.1,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "palais-imperial"
+    },
+    {
+      "n": 4,
+      "x": 98.1,
+      "y": 384.9,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "parc-karl-franz"
+    },
+    {
+      "n": 5,
+      "x": 98.1,
+      "y": 396.6,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "salles-fortes"
+    },
+    {
+      "n": 6,
+      "x": 98.1,
+      "y": 408.4,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "grande-cathedrale-de-sigmar"
+    },
+    {
+      "n": 7,
+      "x": 98.1,
+      "y": 420.2,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "temple-de-rhya"
+    },
+    {
+      "n": 8,
+      "x": 98.1,
+      "y": 431.9,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "grand-temple-de-shallya-altdorf"
+    },
+    {
+      "n": 9,
+      "x": 98.1,
+      "y": 466.7,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "isle-of-eels"
+    },
+    {
+      "n": 10,
+      "x": 98.1,
+      "y": 478.5,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "donjon-des-indigents"
+    },
+    {
+      "n": 11,
+      "x": 98.1,
+      "y": 490.2,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "ecole-imperiale-des-ingenieurs"
+    },
+    {
+      "n": 12,
+      "x": 98.1,
+      "y": 502.0,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "cloaque"
+    },
+    {
+      "n": 13,
+      "x": 98.1,
+      "y": 536.8,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-damethyste"
+    },
+    {
+      "n": 14,
+      "x": 98.1,
+      "y": 548.6,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-gris"
+    },
+    {
+      "n": 15,
+      "x": 98.1,
+      "y": 560.3,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-lumineux"
+    },
+    {
+      "n": 16,
+      "x": 98.1,
+      "y": 572.1,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-dore"
+    },
+    {
+      "n": 17,
+      "x": 98.1,
+      "y": 583.8,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-flamboyant"
+    },
+    {
+      "n": 18,
+      "x": 98.1,
+      "y": 595.6,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-celeste"
+    },
+    {
+      "n": 19,
+      "x": 98.1,
+      "y": 607.4,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "college-de-jade"
+    },
+    {
+      "n": 20,
+      "x": 98.1,
+      "y": 619.1,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "tour-des-vents"
+    },
+    {
+      "n": 21,
+      "x": 98.1,
+      "y": 630.9,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "universite-daltdorf"
+    },
+    {
+      "n": 22,
+      "x": 98.1,
+      "y": 642.6,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "tour-de-volans"
+    },
+    {
+      "n": 23,
+      "x": 98.1,
+      "y": 654.4,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "rue-des-cent-tavernes"
+    },
+    {
+      "n": 24,
+      "x": 98.1,
+      "y": 666.2,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "konigplatz"
+    },
+    {
+      "n": 25,
+      "x": 98.1,
+      "y": 677.9,
+      "h": 15.8,
+      "w": 127.3,
+      "poi": "temple-de-morr"
+    }
+  ],
+  "legendSections": [
+    {
+      "key": "sud",
+      "label": "La Rive Sud",
+      "x": 92,
+      "y": 335.1,
+      "w": 132,
+      "h": 112.6
+    },
+    {
+      "key": "est",
+      "label": "Le Quartier Est",
+      "x": 92,
+      "y": 452.2,
+      "w": 132,
+      "h": 65.6
+    },
+    {
+      "key": "nord",
+      "label": "La Ville Nord",
+      "x": 92,
+      "y": 522.3,
+      "w": 132,
+      "h": 171.4
+    }
+  ],
+  "scenarioOverlay": {
+    "palais-imperial": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Saisine au cabinet du Grand Chancelier",
+          "scene": "21 - Saisine au cabinet du Grand Chancelier"
+        },
+        {
+          "label": "Visite Karl-Franz (nuit)",
+          "scene": "32 - Visite Karl-Franz"
+        }
+      ]
+    },
+    "guilde-des-medecins-daltdorf": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Enquête Kappelmuller — Piste 1",
+          "scene": "Enquête Kappelmuller"
+        }
+      ]
+    },
+    "grand-temple-de-shallya-altdorf": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Temple de Shallya (soin Mark)",
+          "scene": "41 - Temple de Shallya"
+        }
+      ]
+    },
+    "bibliotheque-temple-de-verena": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Consultation Fassbinder (avant 11h)",
+          "scene": "11 - Consultation Fassbinder"
+        },
+        {
+          "label": "Consultation Fassbinder (arrivée tardive)",
+          "scene": "12 - Consultation Fassbinder — arrivée tardive"
+        },
+        {
+          "label": "Arrestation et fuite",
+          "scene": "13 - Arrestation et fuite"
+        }
+      ]
+    },
+    "rue-des-cent-tavernes": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Écoute des rumeurs",
+          "scene": "43 - Écoute des rumeurs"
+        }
+      ]
+    },
+    "place-de-la-potence": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Approche via Lina (22h) — ruelle du bouquiniste",
+          "scene": "31 - Approche via Lina"
+        }
+      ]
+    },
+    "manoir-helstein": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Briefing Helstein (matin)",
+          "scene": "01 - Briefing Helstein"
+        },
+        {
+          "label": "Retour Helstein",
+          "scene": "42 - Retour Helstein"
+        }
+      ]
+    },
+    "zwillingsgrab": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Enquête Kappelmuller — Piste 2 (Elvyra)",
+          "scene": "Enquête Kappelmuller"
+        }
+      ]
+    },
+    "flottenliegeplatz": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Départ matinal (La Comète)",
+          "scene": "61 - Départ matinal"
+        },
+        {
+          "label": "Fuite vers Middenheim & planques",
+          "scene": "62 - Fuite vers Middenheim & planques"
+        }
+      ]
+    },
+    "reikerbahn": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Glissement Reikerbahn",
+          "scene": "51 - Glissement Reikerbahn"
+        }
+      ]
+    },
+    "wolftor": {
+      "Le réveil d'Altdorf": [
+        {
+          "label": "Fuite hors les murs (taché B/C)",
+          "scene": "62 - Fuite vers Middenheim & planques"
+        }
+      ]
+    }
+  }
+}

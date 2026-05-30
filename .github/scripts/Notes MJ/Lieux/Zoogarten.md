@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: noble
+  importance: Notable
+  section: sud
+  quartier: Zoogarten
+  x: 507
+  y: 514
+  desc: "Quartier noble en déclin nommé d'après le Jardin zoologique impérial qu'il abrite, ménagerie de créatures exotiques venues de tout le Vieux Monde et d'au-delà."
+  seed: true
+---
+
 # Zoogarten
 > **Où** : district S10, **rive sud** d'Altdorf. `Altdorf-CotE-VF ch.5 l.1292`
 > **Type** : quartier résidentiel noble (et zoo impérial en son cœur).

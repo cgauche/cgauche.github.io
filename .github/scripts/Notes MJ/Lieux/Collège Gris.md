@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: magie
+  importance: Notable
+  section: nord
+  quartier: Hexxerbezrik
+  x: 583
+  y: 203
+  desc: "Collège de magie de l'Ordre Gris (vent d'Ulgu, l'Ombre) ; bâtiment modeste et décrépit perdu dans un dédale de ruelles de l'Hexxerbezrik."
+---
+
 # Collège Gris
 
 > **Où** : Hexxerbezrik, **Ville Nord**. `Altdorf-CotE-VF ch.7 l.83-84`

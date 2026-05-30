@@ -30,6 +30,7 @@ Dependencies: requests, beautifulsoup4 (already required by _blog_sync.py)
 from __future__ import annotations
 
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -982,6 +983,7 @@ _CANON_BOOK_DIRS: dict[str, str] = {
     "HR Companion":  "The Horned Rat Companion",
     "EiR Companion": "Empire In Ruins Companion",
     "Altdorf":       "Altdorf - Crown of the Empire",
+    "Altdorf-CotE-VF": "Warhammer v4 - Aldorf la Couronne de l'Empire",
     "Middenheim":    "Middenheim - City of the White Wolf",
     "Salzenmund":    "Salzenmund - City of Salt and Silver",
     "Up in Arms":    "Up in Arms",
@@ -1946,6 +1948,7 @@ def layout(current_dir: Path, title: str, body: str,
         mj_root = Path(f"mj-{MJ_TOKEN}")
         mj_links = [
             ("Scénarios", mj_root / "scenarios" / "index.html"),
+            ("Cartes", mj_root / "cartes" / "index.html"),
             ("Notes MJ", mj_root / "notes" / "index.html"),
         ]
         mj_extras_parts = []
@@ -3902,6 +3905,39 @@ def _md_to_html(text: str) -> str:
     return md.render(text)
 
 
+def _parse_carte_block(text: str) -> dict[str, str]:
+    """Extract the nested `carte:` block from a fiche's YAML frontmatter.
+    Returns a flat dict of its inner keys (map/kind/type/importance/section/
+    quarter/x/y/desc/legend). Empty dict if no frontmatter or no carte block.
+    The whole frontmatter is stripped from the body by `_parse_frontmatter`,
+    so adding this block to a Lieux fiche does not affect its rendered content."""
+    if not text.startswith("---"):
+        return {}
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return {}
+    end = None
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            end = i
+            break
+    if end is None:
+        return {}
+    out: dict[str, str] = {}
+    in_block = False
+    for ln in lines[1:end]:
+        if re.match(r"^\s*carte\s*:\s*$", ln):
+            in_block = True
+            continue
+        if in_block:
+            m = re.match(r"^(\s+)([A-Za-z_][\w-]*)\s*:\s*(.*)$", ln)
+            if m:
+                out[m.group(2)] = m.group(3).strip().strip('"').strip("'")
+            elif ln.strip():
+                break  # dedented non-empty line → end of carte block
+    return out
+
+
 def _parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
     """Extract minimal YAML-style frontmatter at the top of a .md file.
     Returns (frontmatter dict, remaining body). Supports only `key: value`
@@ -4841,6 +4877,810 @@ def _build_mj_search_index(mj_pages: list[MJOverlayPage]) -> list[dict]:
     return out
 
 
+# ---------------------------------------------------------------------------
+# Cartes interactives (MJ overlay) — schéma-graphe SVG cliquable.
+# Data lives in Notes MJ/Cartes/<name>.json (GM-editable, version-controlled).
+# Stage 1: zones + POI cliquables + sélecteur scénario + highlight + recherche.
+# ---------------------------------------------------------------------------
+
+CARTES_DIR = NOTES_MJ_DIR / "Cartes"
+
+
+CARTE_CSS = """\
+/* Cartes interactives — schéma-graphe SVG. Réutilise les variables du thème. */
+/* Carte page = pleine largeur, sans la barre latérale des arcs (inutile ici). */
+.page-carte .sidebar { display: none; }
+.page-carte .layout { grid-template-columns: 1fr; max-width: 1500px; }
+.page-carte main { max-width: none; padding: 1.4rem 2.2rem 4rem; }
+
+.carte-app { margin: 1.2rem 0 2rem; }
+.carte-toolbar {
+  display: flex; flex-wrap: wrap; align-items: flex-end; gap: 0.9rem 1.2rem;
+  padding: 0.7rem 0.9rem; margin-bottom: 0.9rem;
+  background: var(--parchment); border: 1px solid var(--rule);
+  border-radius: 8px;
+}
+.carte-field { display: flex; flex-direction: column; gap: 0.2rem;
+  font-family: var(--serif-display); font-size: 0.78rem;
+  letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
+.carte-field select, .carte-field input {
+  font-family: var(--serif-body); font-size: 0.98rem; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--rule);
+  border-radius: 5px; padding: 0.3rem 0.5rem; min-width: 13rem;
+}
+.carte-field select:focus, .carte-field input:focus {
+  outline: none; border-color: var(--gold); }
+.carte-search-field input { min-width: 11rem; }
+.carte-toggle { display: flex; align-items: center; gap: 0.35rem;
+  font-family: var(--serif-body); font-size: 0.9rem; color: var(--ink-soft);
+  cursor: pointer; padding-bottom: 0.3rem; }
+.carte-btn { font-family: var(--serif-display); font-size: 0.85rem;
+  background: var(--paper); color: var(--ink); border: 1px solid var(--rule);
+  border-radius: 5px; padding: 0.3rem 0.7rem; cursor: pointer; }
+.carte-btn:hover { border-color: var(--gold); color: var(--oxblood); }
+.carte-btn.active { background: var(--oxblood); color: var(--paper-hi); border-color: var(--oxblood); }
+.carte-route { fill: none; stroke: var(--oxblood); stroke-width: 3.5; opacity: 0.85;
+  stroke-dasharray: 9 6; stroke-linecap: round; stroke-linejoin: round; }
+.carte-route-pt { fill: var(--oxblood); stroke: var(--paper-hi); stroke-width: 2; }
+#carte-svg.route-mode { cursor: crosshair; }
+.carte-hub-link { margin-left: auto; align-self: center;
+  font-family: var(--serif-display); color: var(--oxblood);
+  text-decoration: none; border-bottom: 1px solid var(--gold);
+  padding-bottom: 1px; }
+.carte-hub-link:hover { color: var(--oxblood-hi); }
+
+.carte-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.4rem;
+  margin: 0 0 0.8rem; }
+.carte-filter-lbl { font-family: var(--serif-display); font-size: 0.74rem;
+  text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  margin: 0 0.2rem 0 0.6rem; }
+.carte-chip { font-family: var(--serif-body); font-size: 0.82rem; cursor: pointer;
+  background: var(--paper); color: var(--muted); border: 1px solid var(--rule);
+  border-radius: 999px; padding: 0.12rem 0.6rem; opacity: 0.55; }
+.carte-chip.active { opacity: 1; color: var(--ink); border-color: var(--gold);
+  background: var(--parchment); }
+.carte-chip:hover { border-color: var(--oxblood); }
+.carte-poi.filtered-out { display: none; }
+.carte-stage { display: grid; grid-template-columns: 1fr 290px; gap: 1rem;
+  align-items: start; }
+.carte-svg-wrap { border: 1px solid var(--rule); border-radius: 8px;
+  background: var(--paper-hi); overflow: hidden;
+  box-shadow: var(--shadow); }
+#carte-svg { display: block; width: 100%; height: auto; }
+
+.carte-panel { border: 1px solid var(--rule); border-radius: 8px;
+  background: var(--parchment); padding: 0.9rem 1rem; min-height: 8rem;
+  font-family: var(--serif-body); position: sticky; top: calc(var(--header-h) + 12px); }
+.carte-panel-empty { color: var(--muted); font-style: italic; margin: 0; }
+.carte-panel h3 { font-family: var(--serif-display); margin: 0 0 0.15rem;
+  color: var(--ink); font-size: 1.25rem; }
+.carte-panel .carte-zone-tag { display: inline-block; font-size: 0.72rem;
+  text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  margin-bottom: 0.5rem; }
+.carte-panel .carte-quarter-tag { font-family: var(--serif-display); font-size: 0.82rem;
+  color: var(--gold); margin: 0.15rem 0 0.2rem; }
+.carte-panel .carte-desc { color: var(--ink-soft); margin: 0.3rem 0 0.7rem;
+  font-size: 0.96rem; line-height: 1.45; }
+.carte-panel .carte-fiche-link { font-family: var(--serif-display);
+  color: var(--oxblood); text-decoration: none;
+  border-bottom: 1px solid var(--gold); }
+.carte-panel .carte-fiche-link:hover { color: var(--oxblood-hi); }
+.carte-panel h4 { font-family: var(--serif-display); font-size: 0.82rem;
+  text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
+  margin: 1rem 0 0.3rem; border-top: 1px solid var(--rule-soft);
+  padding-top: 0.6rem; }
+.carte-panel ul.carte-scenes { list-style: none; margin: 0; padding: 0; }
+.carte-panel ul.carte-scenes li { margin: 0.25rem 0; }
+.carte-panel ul.carte-scenes a { color: var(--ink); text-decoration: none;
+  border-bottom: 1px dotted var(--rule); font-size: 0.93rem; }
+.carte-panel ul.carte-scenes a:hover { color: var(--oxblood);
+  border-bottom-color: var(--gold); }
+.carte-panel .carte-scen-name { color: var(--gold); font-style: italic;
+  font-size: 0.8rem; }
+.carte-panel .carte-poi-list { list-style: none; margin: 0; padding: 0; }
+.carte-panel .carte-poi-list li a { color: var(--ink); cursor: pointer;
+  text-decoration: none; border-bottom: 1px dotted var(--rule); }
+
+/* SVG map styling (poster underlay + canon-positioned markers) */
+#carte-svg { cursor: grab; touch-action: none; background: var(--paper-hi);
+  -webkit-user-select: none; user-select: none; }
+#carte-svg.grabbing { cursor: grabbing; }
+.carte-dist-label { font-family: var(--serif-display); fill: var(--ink-soft);
+  letter-spacing: 0.04em; pointer-events: auto; cursor: pointer; opacity: 0.8;
+  font-style: italic; paint-order: stroke; stroke: var(--paper-hi);
+  stroke-width: 3px; stroke-linejoin: round; }
+.carte-dist-label:hover { fill: var(--oxblood); opacity: 1; }
+.carte-zone { opacity: 0.30; cursor: pointer; stroke: rgba(40,28,18,0.28);
+  stroke-width: 0.6; transition: opacity 0.12s; }
+.carte-zone:hover { opacity: 0.48; }
+/* "Couleur" off = tint hidden but cells stay clickable (invisible, hit-testable) */
+#carte-svg.hide-zones .carte-zone { opacity: 0; stroke: none; }
+#carte-svg.hide-zones .carte-zone:hover { opacity: 0.18; }
+.carte-legend-zone { opacity: 0.30; cursor: pointer; transition: opacity 0.12s; }
+.carte-legend-zone:hover { opacity: 0.5; }
+#carte-svg.hide-zones .carte-legend-zone { opacity: 0; }
+#carte-svg.hide-zones .carte-legend-zone:hover { opacity: 0.18; }
+.carte-legend-hit { fill: transparent; cursor: pointer; }
+.carte-legend-hit:hover { fill: rgba(163,122,46,0.34); }
+.carte-poi { cursor: pointer; }
+.carte-poi-dot { fill: var(--paper); stroke: var(--oxblood);
+  transition: fill 0.12s, stroke 0.12s; }
+.carte-poi-label { font-family: var(--serif-body); fill: var(--ink);
+  paint-order: stroke; stroke: var(--paper-hi); stroke-linejoin: round;
+  pointer-events: none; opacity: 0; transition: opacity 0.1s; }
+.carte-poi:hover .carte-poi-dot { fill: var(--gold-hi); }
+.carte-poi:hover .carte-poi-label,
+.carte-poi.selected .carte-poi-label,
+.carte-poi.has-scenario .carte-poi-label,
+.carte-poi.search-hit .carte-poi-label,
+#carte-svg.show-names .carte-poi-label { opacity: 1; }
+.carte-poi.selected .carte-poi-dot { fill: var(--oxblood); stroke: var(--ink); }
+.carte-poi.has-scenario .carte-poi-dot { fill: var(--gold); stroke: var(--oxblood); }
+.carte-poi.search-hit .carte-poi-dot { fill: var(--oxblood-hi); stroke: var(--ink); }
+.carte-poi.dim { opacity: 0.16; }
+.carte-poi.dim .carte-poi-label { opacity: 0 !important; }
+
+@media (max-width: 720px) {
+  .carte-stage { grid-template-columns: 1fr; }
+  .carte-panel { position: static; }
+}
+"""
+
+
+CARTE_JS = """\
+// Carte interactive (Étape A): poster canon en fond + zoom/pan,
+// marqueurs aux coordonnées canon, clic POI -> panneau, scénario -> highlight, recherche.
+(function () {
+  var dataEl = document.getElementById('carte-data');
+  var svg = document.getElementById('carte-svg');
+  if (!dataEl || !svg) return;
+  var M = JSON.parse(dataEl.textContent);
+  var SVGNS = 'http://www.w3.org/2000/svg';
+  var poiById = {}, poiNodes = {};
+  M.pois.forEach(function (p) { poiById[p.id] = p; });
+  var routeMode = false, route = [];   // pathfinding (#6): trajet + quartiers traversés
+
+  function el(name, attrs) {
+    var n = document.createElementNS(SVGNS, name);
+    for (var k in attrs) { if (attrs[k] != null) n.setAttribute(k, attrs[k]); }
+    return n;
+  }
+  function esc(s) { var d = document.createElement('div'); d.textContent = s == null ? '' : s; return d.innerHTML; }
+  function norm(s) { return (s || '').toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g, ''); }
+
+  // --- coordinate space = canon PDF points ---
+  var VB = (M.viewBox || '0 0 1247 794').split(/\\s+/).map(Number);
+  var W0 = VB[2], H0 = VB[3];
+  var view = { x: 0, y: 0, w: W0, h: H0 };   // current viewBox (pan/zoom)
+  function applyView() {
+    svg.setAttribute('viewBox', view.x + ' ' + view.y + ' ' + view.w + ' ' + view.h);
+    var r = view.w / W0;                       // <1 when zoomed in
+    svg.style.setProperty('--mk', r);          // marker scale ratio
+    updateSizes(r);
+  }
+
+  // layers (drawn in canon coordinates; the viewBox does the zoom/pan)
+  // order = paint/hit order: poster < zones < district labels < pois < legend hotspots
+  var gPoster = el('g'), gZones = el('g'), gRoute = el('g'), gDist = el('g'), gPois = el('g'),
+      gLegendZones = el('g'), gLegend = el('g');
+  svg.appendChild(gPoster); svg.appendChild(gZones); svg.appendChild(gRoute);
+  svg.appendChild(gDist); svg.appendChild(gPois); svg.appendChild(gLegendZones); svg.appendChild(gLegend);
+  svg.setAttribute('viewBox', '0 0 ' + W0 + ' ' + H0);
+
+  // poster underlay
+  if (M.posterUrl) {
+    var img = el('image', { x: 0, y: 0, width: W0, height: H0, href: M.posterUrl,
+      preserveAspectRatio: 'none', opacity: (M.posterOpacity != null ? M.posterOpacity : 0.55) });
+    img.setAttributeNS('http://www.w3.org/1999/xlink', 'href', M.posterUrl);
+    gPoster.appendChild(img);
+  }
+
+  // --- quarters (Voronoï seeds) = district anchors + quarter-POIs ---
+  var seeds = [];
+  (M.districts || []).forEach(function (dz) {
+    seeds.push({ x: dz.x, y: dz.y, kind: 'district', ref: dz, name: dz.name }); });
+  M.pois.forEach(function (p) {
+    if (p.seed) seeds.push({ x: p.x, y: p.y, kind: 'poi', ref: p, name: p.name }); });
+  var seedByName = {}; seeds.forEach(function (s) { seedByName[s.name] = s; });
+  // Membership is CANON (p.section / quarter tags), never distance-based.
+  // The Voronoï below is used ONLY to draw the section regions.
+
+  // district orientation labels (clickable → show quarter)
+  var distLabels = [];
+  (M.districts || []).forEach(function (dz) {
+    var t = el('text', { x: dz.x, y: dz.y, 'class': 'carte-dist-label',
+      'text-anchor': 'middle', tabindex: 0 });
+    t.textContent = dz.name;
+    t.addEventListener('click', function () { showQuarter(seedByName[dz.name]); });
+    t.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); showQuarter(seedByName[dz.name]); } });
+    gDist.appendChild(t); distLabels.push(t);
+  });
+
+  // --- zones: Voronoï cells (geometry only) coloured by CANON section ---
+  // Clip box excludes the printed legend panel on the left.
+  var ZX = 236;
+  var SECTION_COLOR = { sud: '#9a7a2e', est: '#a8483f', nord: '#4f7a55' };
+  function clipHP(poly, A, B) {  // keep the half-plane of points closer to A than B
+    var dx = B.x - A.x, dy = B.y - A.y, mx = (A.x + B.x) / 2, my = (A.y + B.y) / 2;
+    function f(p) { return (p[0] - mx) * dx + (p[1] - my) * dy; }
+    function inter(p, q) { var a = f(p), b = f(q), t = a / (a - b);
+      return [p[0] + t * (q[0] - p[0]), p[1] + t * (q[1] - p[1])]; }
+    var out = [];
+    for (var i = 0; i < poly.length; i++) {
+      var cur = poly[i], prv = poly[(i + poly.length - 1) % poly.length];
+      var ci = f(cur) <= 0, pi = f(prv) <= 0;
+      if (ci) { if (!pi) out.push(inter(prv, cur)); out.push(cur); }
+      else if (pi) { out.push(inter(prv, cur)); }
+    }
+    return out;
+  }
+  seeds.forEach(function (s, i) {
+    var poly = [[ZX, 0], [W0, 0], [W0, H0], [ZX, H0]];
+    for (var j = 0; j < seeds.length && poly.length >= 3; j++) {
+      if (j !== i) poly = clipHP(poly, { x: s.x, y: s.y }, { x: seeds[j].x, y: seeds[j].y });
+    }
+    if (poly.length < 3) return;
+    var pts = poly.map(function (p) { return p[0].toFixed(1) + ',' + p[1].toFixed(1); }).join(' ');
+    var sec = s.ref.section;
+    var pg = el('polygon', { points: pts, 'class': 'carte-zone', 'data-section': sec,
+      fill: SECTION_COLOR[sec] || '#8a7a5a' });
+    var ti = el('title'); ti.textContent = s.name; pg.appendChild(ti);
+    // a map cell = a QUARTER (click → quarter). Sections are clicked via the legend.
+    pg.addEventListener('click', function () { showQuarter(s); });
+    gZones.appendChild(pg);
+  });
+
+  // --- colour the printed legend by section + make each section block clickable ---
+  (M.legendSections || []).forEach(function (ls) {
+    var r = el('rect', { x: ls.x, y: ls.y, width: ls.w, height: ls.h,
+      'class': 'carte-legend-zone', 'data-section': ls.key,
+      fill: SECTION_COLOR[ls.key] || '#8a7a5a' });
+    var ti = el('title'); ti.textContent = ls.label; r.appendChild(ti);
+    r.addEventListener('click', function () { showSection(ls.key); });
+    gLegendZones.appendChild(r);
+  });
+
+  // --- clickable hotspots over the poster's printed legend (1-25) ---
+  (M.legend || []).forEach(function (e) {
+    if (!e.poi) return;
+    var r = el('rect', { x: e.x, y: e.y, width: e.w, height: Math.min(e.h || 12, 12),
+      'class': 'carte-legend-hit' });
+    var ti = el('title'); ti.textContent = (poiById[e.poi] || {}).name || ''; r.appendChild(ti);
+    r.addEventListener('click', function (ev) {
+      ev.stopPropagation();
+      var p = poiById[e.poi]; if (!p) return;
+      selectPoi(e.poi); focusOn(p.x, p.y, W0 * 0.32);
+    });
+    gLegend.appendChild(r);
+  });
+
+  // POI markers
+  var dots = [], labels = [], hits = [];
+  M.pois.forEach(function (p) {
+    var g = el('g', { 'class': 'carte-poi', 'data-id': p.id, 'data-type': p.type || 'autre', tabindex: 0 });
+    var hit = el('circle', { cx: p.x, cy: p.y, r: 14, fill: 'transparent', 'class': 'carte-poi-hit' });
+    var dot = el('circle', { cx: p.x, cy: p.y, r: 6, 'class': 'carte-poi-dot' });
+    var lab = el('text', { x: p.x + 9, y: p.y - 8, 'class': 'carte-poi-label' });
+    lab.textContent = p.name;
+    g.appendChild(hit); g.appendChild(dot); g.appendChild(lab);
+    g.addEventListener('click', function () {
+      if (routeMode) { route.push(p.id); drawRoute(); } else selectPoi(p.id); });
+    g.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault();
+        if (routeMode) { route.push(p.id); drawRoute(); } else selectPoi(p.id); } });
+    gPois.appendChild(g);
+    poiNodes[p.id] = g; dots.push(dot); labels.push(lab); hits.push(hit);
+  });
+
+  // keep markers at constant screen size as we zoom (r,font scale with viewBox)
+  function updateSizes(r) {
+    for (var i = 0; i < dots.length; i++) {
+      dots[i].setAttribute('r', (6 * r).toFixed(2));
+      dots[i].setAttribute('stroke-width', (2.2 * r).toFixed(2));
+      hits[i].setAttribute('r', (15 * r).toFixed(2));
+      labels[i].setAttribute('font-size', (13 * r).toFixed(2));
+      labels[i].setAttribute('x', (poiById[M.pois[i].id].x + 9 * r).toFixed(2));
+      labels[i].setAttribute('y', (poiById[M.pois[i].id].y - 8 * r).toFixed(2));
+      labels[i].setAttribute('stroke-width', (3 * r).toFixed(2));
+    }
+    for (var j = 0; j < distLabels.length; j++)
+      distLabels[j].setAttribute('font-size', (15 * r).toFixed(2));
+  }
+
+  // ---- pan / zoom (manipulate the viewBox) ----
+  function clampView() {
+    var margin = 0.25;
+    view.w = Math.min(view.w, W0 * (1 + margin));
+    view.h = view.w * (H0 / W0);
+    view.x = Math.max(-W0 * margin, Math.min(view.x, W0 - view.w + W0 * margin));
+    view.y = Math.max(-H0 * margin, Math.min(view.y, H0 - view.h + H0 * margin));
+  }
+  function zoomAt(cx, cy, factor) {
+    var rect = svg.getBoundingClientRect();
+    var fx = (cx - rect.left) / rect.width, fy = (cy - rect.top) / rect.height;
+    var wx = view.x + fx * view.w, wy = view.y + fy * view.h;
+    var minW = W0 / 8, maxW = W0;
+    var nw = Math.max(minW, Math.min(maxW, view.w / factor));
+    var nh = nw * (H0 / W0);
+    view.x = wx - fx * nw; view.y = wy - fy * nh; view.w = nw; view.h = nh;
+    clampView(); applyView();
+  }
+  function focusOn(x, y, w) {
+    w = w || W0 * 0.4; var h = w * (H0 / W0);
+    view.x = x - w / 2; view.y = y - h / 2; view.w = w; view.h = h;
+    clampView(); applyView();
+  }
+  svg.addEventListener('wheel', function (e) {
+    e.preventDefault();
+    zoomAt(e.clientX, e.clientY, e.deltaY < 0 ? 1.18 : 1 / 1.18);
+  }, { passive: false });
+
+  // Pan: only capture the pointer AFTER real movement, so a plain click still
+  // reaches the POI (capturing on pointerdown would retarget the click to <svg>).
+  var pdown = false, dragging = false, moved = false, captured = false;
+  var pid = null, downX = 0, downY = 0, lastX = 0, lastY = 0;
+  svg.addEventListener('pointerdown', function (e) {
+    pdown = true; dragging = false; moved = false; captured = false; pid = e.pointerId;
+    downX = lastX = e.clientX; downY = lastY = e.clientY;
+  });
+  svg.addEventListener('pointermove', function (e) {
+    if (!pdown) return;
+    if (!dragging) {
+      if (Math.abs(e.clientX - downX) + Math.abs(e.clientY - downY) < 4) return;
+      dragging = true; moved = true; svg.classList.add('grabbing');
+      try { svg.setPointerCapture(pid); captured = true; } catch (_) {}
+    }
+    var rect = svg.getBoundingClientRect();
+    var dx = (e.clientX - lastX) / rect.width * view.w;
+    var dy = (e.clientY - lastY) / rect.height * view.h;
+    view.x -= dx; view.y -= dy; lastX = e.clientX; lastY = e.clientY;
+    clampView(); applyView();
+  });
+  function endDrag(e) {
+    pdown = false;
+    if (captured) { try { svg.releasePointerCapture(pid); } catch (_) {} captured = false; }
+    if (dragging) { dragging = false; svg.classList.remove('grabbing'); }
+  }
+  svg.addEventListener('pointerup', endDrag);
+  svg.addEventListener('pointercancel', endDrag);
+  // swallow click after a drag so we don't accidentally select on pan-release
+  gPois.addEventListener('click', function (e) { if (moved) { e.stopPropagation(); } }, true);
+
+  // ---- panel ----
+  var panel = document.getElementById('carte-panel');
+  var selectedId = null;
+  function selectPoi(id) {
+    var p = poiById[id]; if (!p) return;
+    selectedId = id;
+    for (var k in poiNodes) poiNodes[k].classList.remove('selected');
+    poiNodes[id].classList.add('selected');
+    var h = '<h3>' + esc(p.name) + '</h3>';
+    var meta = [];
+    var tl = (M.types || []).find(function (t) { return t.key === p.type; });
+    if (tl) meta.push(esc(tl.label));
+    if (p.importance) meta.push(esc(p.importance));
+    if (p.approx) meta.push('position approchée');
+    if (meta.length) h += '<span class="carte-zone-tag">' + meta.join(' · ') + '</span>';
+    if (p.section) h += '<div class="carte-quarter-tag">Section : ' + esc(sectionLabel(p.section))
+      + (p.quartier ? ' · Quartier : ' + esc(p.quartier) : '') + '</div>';
+    if (p.desc) h += '<p class="carte-desc">' + esc(p.desc) + '</p>';
+    if (p.ficheUrl) h += '<a class="carte-fiche-link" href="' + esc(p.ficheUrl) + '">Fiche du lieu →</a>';
+    // Scenes are shown ONLY for the currently selected scenario (nothing if "aucun").
+    var cur = document.getElementById('carte-scenario').value;
+    var refs = cur && p.scenarios ? p.scenarios[cur] : null;
+    if (refs && refs.length) {
+      h += '<h4>' + esc(cur) + '</h4><ul class="carte-scenes">';
+      refs.forEach(function (ref) {
+        h += ref.url ? '<li><a href="' + esc(ref.url) + '">' + esc(ref.label) + '</a></li>'
+                     : '<li>' + esc(ref.label) + '</li>';
+      });
+      h += '</ul>';
+    }
+    panel.innerHTML = h;
+  }
+
+  function sectionLabel(key) {
+    var s = (M.sections || []).find(function (x) { return x.key === key; });
+    return s ? s.label : key;
+  }
+  function bindPanelLinks() {
+    panel.querySelectorAll('[data-poi]').forEach(function (a) {
+      a.addEventListener('click', function () { selectPoi(a.getAttribute('data-poi')); }); });
+    panel.querySelectorAll('[data-quarter]').forEach(function (a) {
+      a.addEventListener('click', function () { showQuarter(seedByName[a.getAttribute('data-quarter')]); }); });
+  }
+  function showSection(key) {
+    for (var k in poiNodes) poiNodes[k].classList.remove('selected');
+    selectedId = null;
+    var meta = (M.sections || []).find(function (x) { return x.key === key; });
+    var h = '<h3>' + esc(meta ? meta.label : key) + '</h3><span class="carte-zone-tag">Section</span>';
+    if (meta && meta.desc) h += '<p class="carte-desc">' + esc(meta.desc) + '</p>';
+    var quartiers = seeds.filter(function (s) { return s.ref.section === key; })
+                         .map(function (s) { return s.name; }).sort();
+    if (quartiers.length) {
+      h += '<h4>Quartiers</h4><ul class="carte-poi-list">';
+      quartiers.forEach(function (n) { h += '<li><a data-quarter="' + esc(n) + '">' + esc(n) + '</a></li>'; });
+      h += '</ul>';
+    }
+    panel.innerHTML = h; bindPanelLinks();
+  }
+  function showQuarter(seed) {
+    if (!seed) return;
+    if (seed.kind === 'poi') { selectPoi(seed.ref.id); return; }  // a quarter-POI is a place
+    for (var k in poiNodes) poiNodes[k].classList.remove('selected');
+    selectedId = null;
+    var dz = seed.ref;
+    var h = '<h3>' + esc(dz.name) + '</h3>'
+          + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(dz.section)) + '</span>';
+    if (dz.desc) h += '<p class="carte-desc">' + esc(dz.desc) + '</p>';
+    panel.innerHTML = h;
+  }
+
+  // ---- scenario selector ----
+  var sel = document.getElementById('carte-scenario');
+  var toggle = document.getElementById('carte-toggle-scenario');
+  var hubLink = document.getElementById('carte-hub-link');
+  var scenNames = {};
+  (M.scenarios || []).forEach(function (s) { scenNames[s.name] = s; });
+  M.pois.forEach(function (p) { Object.keys(p.scenarios || {}).forEach(function (nm) {
+    if (!scenNames[nm]) scenNames[nm] = { name: nm }; }); });
+  Object.keys(scenNames).forEach(function (nm) {
+    var o = document.createElement('option'); o.value = nm; o.textContent = nm; sel.appendChild(o); });
+  function poiHasScenario(p, nm) { return p.scenarios && p.scenarios[nm] && p.scenarios[nm].length > 0; }
+  function applyScenario() {
+    var nm = sel.value, hideOthers = toggle.checked;
+    M.pois.forEach(function (p) {
+      var node = poiNodes[p.id]; node.classList.remove('has-scenario', 'dim');
+      if (!nm) return;
+      if (poiHasScenario(p, nm)) node.classList.add('has-scenario');
+      else if (hideOthers) node.classList.add('dim');
+    });
+    var meta = scenNames[nm];
+    if (nm && meta && meta.hubUrl) { hubLink.href = meta.hubUrl; hubLink.hidden = false;
+      hubLink.textContent = 'Hub : ' + nm + ' →'; } else { hubLink.hidden = true; }
+    applySearch();
+    if (selectedId) selectPoi(selectedId);   // re-render panel for the new scenario
+  }
+  sel.addEventListener('change', applyScenario);
+  toggle.addEventListener('change', applyScenario);
+
+  // ---- search ----
+  var searchInput = document.getElementById('carte-search');
+  function applySearch() {
+    var q = norm(searchInput.value.trim());
+    M.pois.forEach(function (p) {
+      var node = poiNodes[p.id]; node.classList.remove('search-hit');
+      if (q && norm(p.name).indexOf(q) !== -1) node.classList.add('search-hit');
+    });
+  }
+  searchInput.addEventListener('input', applySearch);
+
+  // ---- filters: type (chips) + importance ----
+  var activeTypes = {}; (M.types || []).forEach(function (t) { activeTypes[t.key] = true; });
+  var showImp = { Notable: true, Mineur: true };
+  var filtersEl = document.getElementById('carte-filters');
+  function poiVisible(p) {
+    if (!activeTypes[p.type || 'autre']) return false;
+    if (!showImp[p.importance || 'Notable']) return false;
+    return true;
+  }
+  function applyFilters() {
+    M.pois.forEach(function (p) {
+      poiNodes[p.id].classList.toggle('filtered-out', !poiVisible(p));
+    });
+  }
+  if (filtersEl) {
+    var h = '<span class="carte-filter-lbl">Types</span>';
+    (M.types || []).forEach(function (t) {
+      h += '<button class="carte-chip active" data-type="' + esc(t.key) + '">' + esc(t.label) + '</button>'; });
+    h += '<span class="carte-filter-lbl">Importance</span>'
+       + '<button class="carte-chip active" data-imp="Notable">Notable</button>'
+       + '<button class="carte-chip active" data-imp="Mineur">Mineur</button>';
+    filtersEl.innerHTML = h;
+    filtersEl.querySelectorAll('[data-type]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var k = b.getAttribute('data-type'); activeTypes[k] = !activeTypes[k];
+        b.classList.toggle('active', activeTypes[k]); applyFilters(); }); });
+    filtersEl.querySelectorAll('[data-imp]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var k = b.getAttribute('data-imp'); showImp[k] = !showImp[k];
+        b.classList.toggle('active', showImp[k]); applyFilters(); }); });
+  }
+  applyFilters();
+
+  // ---- pathfinding (#6): route through POIs + quartiers traversés ----
+  function nearestSeedName(x, y) {
+    var best = null, bd = Infinity;
+    seeds.forEach(function (s) { var d = (s.x - x) * (s.x - x) + (s.y - y) * (s.y - y);
+      if (d < bd) { bd = d; best = s; } });
+    return best ? best.name : null;
+  }
+  function drawRoute() {
+    while (gRoute.firstChild) gRoute.removeChild(gRoute.firstChild);
+    var pts = route.map(function (id) { return poiById[id]; }).filter(Boolean);
+    if (pts.length >= 2)
+      gRoute.appendChild(el('polyline', { points: pts.map(function (p) { return p.x + ',' + p.y; }).join(' '),
+        'class': 'carte-route' }));
+    pts.forEach(function (p) { gRoute.appendChild(el('circle', { cx: p.x, cy: p.y, r: 5, 'class': 'carte-route-pt' })); });
+    // quartiers traversés (échantillonnage le long du trajet, plus-proche-graine)
+    var qs = [];
+    for (var i = 0; i < pts.length - 1; i++) {
+      var a = pts[i], b = pts[i + 1];
+      var steps = Math.max(2, Math.round(Math.hypot(b.x - a.x, b.y - a.y) / 12));
+      for (var t = 0; t <= steps; t++) {
+        var q = nearestSeedName(a.x + (b.x - a.x) * t / steps, a.y + (b.y - a.y) * t / steps);
+        if (q && qs[qs.length - 1] !== q) qs.push(q);
+      }
+    }
+    var seen = {}, qdedup = qs.filter(function (q) { if (seen[q]) return false; seen[q] = 1; return true; });
+    var h = '<h3>Trajet</h3><span class="carte-zone-tag">' + pts.length + ' point(s)</span>';
+    if (!pts.length) h += '<p class="carte-panel-empty">Clique des lieux pour tracer un trajet.</p>';
+    if (pts.length) h += '<h4>Étapes</h4><ul class="carte-poi-list">'
+      + pts.map(function (p) { return '<li>' + esc(p.name) + '</li>'; }).join('') + '</ul>';
+    if (qdedup.length) h += '<h4>Quartiers traversés</h4><ul class="carte-poi-list">'
+      + qdedup.map(function (q) { return '<li>' + esc(q) + '</li>'; }).join('') + '</ul>';
+    panel.innerHTML = h;
+  }
+  var routeBtn = document.getElementById('carte-route-toggle');
+  if (routeBtn) routeBtn.addEventListener('click', function () {
+    routeMode = !routeMode; route = [];
+    routeBtn.classList.toggle('active', routeMode);
+    while (gRoute.firstChild) gRoute.removeChild(gRoute.firstChild);
+    svg.classList.toggle('route-mode', routeMode);
+    if (routeMode) { panel.innerHTML = '<h3>Trajet</h3><p class="carte-panel-empty">'
+      + 'Mode trajet activé. Clique des lieux dans l\\'ordre ; les quartiers traversés s\\'affichent. '
+      + 'Re-clique « Trajet » pour effacer.</p>'; }
+    else { panel.innerHTML = '<p class="carte-panel-empty">Clique un lieu sur la carte.</p>'; }
+  });
+
+  // ---- "Noms" toggle + reset view ----
+  var namesToggle = document.getElementById('carte-toggle-names');
+  if (namesToggle) namesToggle.addEventListener('change', function () {
+    svg.classList.toggle('show-names', namesToggle.checked);
+  });
+  var zonesToggle = document.getElementById('carte-toggle-zones');
+  if (zonesToggle) zonesToggle.addEventListener('change', function () {
+    svg.classList.toggle('hide-zones', !zonesToggle.checked);
+  });
+  var resetBtn = document.getElementById('carte-reset');
+  if (resetBtn) resetBtn.addEventListener('click', function () {
+    view = { x: 0, y: 0, w: W0, h: H0 }; applyView();
+  });
+
+  applyView();
+})();
+"""
+
+
+def _load_map_data() -> list[dict]:
+    """Walk Notes MJ/Cartes/*.json and return parsed map objects."""
+    if not CARTES_DIR.exists():
+        return []
+    maps: list[dict] = []
+    for f in sorted(CARTES_DIR.glob("*.json")):
+        if f.name.startswith("_"):
+            continue   # working data (anchors, etc.), not a map
+        try:
+            maps.append(json.loads(f.read_text(encoding="utf-8")))
+        except (json.JSONDecodeError, OSError) as exc:
+            print(f"  ! carte: failed to parse {f.name}: {exc}")
+    return maps
+
+
+def _carte_entities_from_fiches(map_id: str) -> tuple[list[dict], list[dict], list[dict]]:
+    """Read POIs / quartiers / sections for a map from the `carte:` frontmatter
+    of Notes MJ/Lieux fiches. This is the authoritative source (the map JSON no
+    longer carries pois/districts/sections). Returns (pois, districts, sections)."""
+    pois: list[dict] = []
+    districts: list[dict] = []
+    sections: list[dict] = []
+    lieux = NOTES_MJ_DIR / "Lieux"
+    if not lieux.exists():
+        return pois, districts, sections
+    for f in sorted(lieux.glob("*.md")):
+        c = _parse_carte_block(f.read_text(encoding="utf-8"))
+        if not c or c.get("map") != map_id:
+            continue
+        kind = c.get("kind", "lieu")
+        name = f.stem
+        if kind == "section":
+            sections.append({"key": c.get("section", ""), "label": name,
+                             "desc": c.get("desc", "")})
+            continue
+        try:
+            x = float(c["x"]); y = float(c["y"])
+        except (KeyError, ValueError, TypeError):
+            print(f"  ! carte: fiche sans coords x/y ignorée : {name}")
+            continue
+        if kind == "quartier":
+            districts.append({"name": name, "x": x, "y": y,
+                              "section": c.get("section", ""), "desc": c.get("desc", "")})
+        else:  # lieu
+            poi = {"id": _mj_slug(name), "name": name, "x": x, "y": y,
+                   "type": c.get("type", "autre"),
+                   "importance": c.get("importance", "Notable"),
+                   "section": c.get("section", ""), "desc": c.get("desc", ""),
+                   "fiche": name, "scenarios": {}}
+            if str(c.get("seed", "")).lower() in ("true", "oui", "1"):
+                poi["seed"] = True
+            if c.get("quartier"):
+                poi["quartier"] = c["quartier"]
+            pois.append(poi)
+    return pois, districts, sections
+
+
+def _build_lieux_url_index(pages: list[Page]) -> dict[str, Path]:
+    """norm-key → site_rel for public Lieux pages + MJ-only Lieux entities.
+    Public pages win when both exist (canonical reader-facing page)."""
+    idx: dict[str, Path] = {}
+    # MJ-only standalone Lieux fiches first (lower priority — overwritten below).
+    if _MJ_ONLY_ENTITIES:
+        for e in _MJ_ONLY_ENTITIES.get("Lieux", []):
+            idx[e.norm_key] = Path(f"mj-{MJ_TOKEN}") / e.out_url
+    # Public Lieux pages (higher priority).
+    for pg in pages:
+        if pg.post.folder == "Lieux":
+            idx[_norm_entity_key(pg.post.title or pg.slug)] = pg.site_rel
+    return idx
+
+
+def _resolve_carte_links(map_obj: dict, current_dir: Path,
+                         lieux_idx: dict[str, Path],
+                         mj_idx: dict[str, Path],
+                         scenario_hub_url: dict[str, str]) -> dict:
+    """Return a copy of the map with fiche/scene/hub references resolved to
+    URLs relative to the carte page. Unresolved targets are logged + dropped."""
+    out = json.loads(json.dumps(map_obj))  # deep copy
+    mj_root = Path(f"mj-{MJ_TOKEN}")
+
+    def lieux_url(stem: str) -> str | None:
+        target = lieux_idx.get(_norm_entity_key(stem))
+        if target is None:
+            # try manual alias (blog orthographic variants)
+            alias = _MJ_MANUAL_ALIASES.get(stem)
+            if alias:
+                target = lieux_idx.get(_norm_entity_key(alias))
+        return relative_url(current_dir, target) if target else None
+
+    def scene_url(stem: str) -> str | None:
+        for k in (stem.lower(), *(_norm_keys_for_match(stem))):
+            if k in mj_idx:
+                return relative_url(current_dir, mj_root / mj_idx[k])
+        return None
+
+    # map-level fiche
+    if out.get("fiche"):
+        u = lieux_url(out["fiche"])
+        out["ficheUrl"] = u
+        if u is None:
+            print(f"  ! carte: fiche introuvable « {out['fiche']} »")
+    # scenarios hub urls
+    for sc in out.get("scenarios", []):
+        sc["hubUrl"] = scenario_hub_url.get(sc["name"])
+    # pois
+    for poi in out.get("pois", []):
+        if poi.get("fiche"):
+            u = lieux_url(poi["fiche"])
+            poi["ficheUrl"] = u
+            if u is None:
+                print(f"  ! carte: fiche introuvable « {poi['fiche']} » (POI {poi['id']})")
+        for sc_name, refs in (poi.get("scenarios") or {}).items():
+            for ref in refs:
+                ref["url"] = scene_url(ref["scene"])
+                if ref["url"] is None:
+                    print(f"  ! carte: scène introuvable « {ref['scene']} » "
+                          f"(POI {poi['id']}, scénario {sc_name})")
+    return out
+
+
+def render_carte_pages(pages: list[Page], buckets: dict[int, ArcBucket],
+                       mj_idx: dict[str, Path]) -> dict[Path, str]:
+    """Build the MJ carte index + one page per map. Returns {out_rel: html}."""
+    if not MJ_TOKEN:
+        return {}
+    maps = _load_map_data()
+    if not maps:
+        return {}
+    lieux_idx = _build_lieux_url_index(pages)
+
+    cartes_dir = Path(f"mj-{MJ_TOKEN}") / "cartes"
+    mj_root = Path(f"mj-{MJ_TOKEN}")
+
+    out_pages: dict[Path, str] = {}
+    map_links = []
+    for map_obj in maps:
+        map_id = map_obj.get("id") or _mj_slug(map_obj.get("title", "carte"))
+        page_dir = cartes_dir
+        # POIs / quartiers / sections are read from the Lieux fiches (authoritative),
+        # not from the map JSON. The scenario overlay (which can't live in durable
+        # fiches) is merged from the JSON, keyed by POI id.
+        fpois, fdist, fsec = _carte_entities_from_fiches(map_id)
+        if fpois or fdist or fsec:
+            map_obj = dict(map_obj)
+            overlay = map_obj.get("scenarioOverlay", {})
+            for p in fpois:
+                if p["id"] in overlay:
+                    p["scenarios"] = overlay[p["id"]]
+            map_obj["pois"] = fpois
+            map_obj["districts"] = fdist
+            map_obj["sections"] = fsec or map_obj.get("sections", [])
+            print(f"  - carte {map_id}: {len(fpois)} POI, {len(fdist)} quartiers, "
+                  f"{len(fsec)} sections (depuis fiches)")
+        # hub urls per scenario, resolved against this page dir
+        sc_hub: dict[str, str] = {}
+        for sc in map_obj.get("scenarios", []):
+            tgt = mj_idx.get(sc["name"].lower())
+            if tgt:
+                sc_hub[sc["name"]] = relative_url(page_dir, mj_root / tgt)
+        resolved = _resolve_carte_links(map_obj, page_dir, lieux_idx, mj_idx, sc_hub)
+        if map_obj.get("poster"):
+            resolved["posterUrl"] = relative_url(page_dir, mj_root / map_obj["poster"])
+
+        data_json = json.dumps(resolved, ensure_ascii=False)
+        title = map_obj.get("title", "Carte")
+        # content-hash version → busts stale browser/CDN cache when assets change
+        ver = hashlib.md5((CARTE_JS + CARTE_CSS).encode("utf-8")).hexdigest()[:8]
+        body = f"""
+<nav class="mj-breadcrumb">
+  <a href="index.html">Cartes</a> · <span>{html.escape(title)}</span>
+  <span class="mj-badge">MJ</span>
+</nav>
+<link rel="stylesheet" href="../carte.css?v={ver}">
+<div id="carte-app" class="carte-app" data-map="{html.escape(map_id)}">
+  <div class="carte-toolbar">
+    <label class="carte-field">Scénario
+      <select id="carte-scenario"><option value="">— aucun —</option></select>
+    </label>
+    <label class="carte-field carte-search-field">Lieu
+      <input id="carte-search" type="search" placeholder="Rechercher un lieu…"
+             autocomplete="off" spellcheck="false">
+    </label>
+    <label class="carte-toggle"><input type="checkbox" id="carte-toggle-scenario" checked>
+      Lieux du scénario</label>
+    <label class="carte-toggle"><input type="checkbox" id="carte-toggle-names">
+      Noms</label>
+    <label class="carte-toggle"><input type="checkbox" id="carte-toggle-zones" checked>
+      Couleur</label>
+    <button type="button" id="carte-route-toggle" class="carte-btn">Trajet</button>
+    <button type="button" id="carte-reset" class="carte-btn">Vue entière</button>
+    <a id="carte-hub-link" class="carte-hub-link" hidden href="#">Hub du scénario →</a>
+  </div>
+  <div class="carte-filters" id="carte-filters"></div>
+  <div class="carte-stage">
+    <div class="carte-svg-wrap"><svg id="carte-svg" role="img"
+         aria-label="Carte schématique d'Altdorf"></svg></div>
+    <aside id="carte-panel" class="carte-panel" aria-live="polite">
+      <p class="carte-panel-empty">Clique un lieu sur la carte.</p>
+    </aside>
+  </div>
+</div>
+<script type="application/json" id="carte-data">{data_json}</script>
+<script src="../carte.js?v={ver}" defer></script>
+"""
+        out_pages[Path("cartes") / f"{map_id}.html"] = layout(
+            page_dir, title, body, extra_class="page-carte", buckets=buckets)
+        map_links.append(
+            f'<li><a class="entry-card" href="{html.escape(map_id)}.html">'
+            f'<span class="entry-title">{html.escape(title)}</span>'
+            f'<span class="mj-badge">MJ</span></a></li>')
+
+    # index
+    idx_body = f"""
+<nav class="mj-breadcrumb"><span>Cartes</span> <span class="mj-badge">MJ</span></nav>
+<article class="post mj-content">
+  <header class="post-header"><h1 class="post-title">Cartes interactives
+    <span class="mj-badge">MJ</span></h1></header>
+  <div class="post-body">
+    <ul class="card-grid card-grid-entries">{''.join(map_links)}</ul>
+  </div>
+</article>
+"""
+    out_pages[Path("cartes") / "index.html"] = layout(
+        cartes_dir, "Cartes", idx_body, extra_class="page-mj-overlay", buckets=buckets)
+    return out_pages
+
+
 def render_mj_overlay(pages: list[Page], buckets: dict[int, ArcBucket],
                      url_map: dict[str, Path],
                      label_map: dict[str, Path],
@@ -4915,6 +5755,23 @@ def render_mj_overlay(pages: list[Page], buckets: dict[int, ArcBucket],
         out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(html_out, encoding="utf-8")
         count += 1
+
+    # Cartes interactives (schéma-graphe SVG cliquable)
+    carte_pages = render_carte_pages(pages, buckets, mj_idx)
+    for rel, html_out in carte_pages.items():
+        out_path = MJ_OUT_DIR / rel
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        out_path.write_text(html_out, encoding="utf-8")
+        count += 1
+    if carte_pages:
+        (MJ_OUT_DIR / "carte.css").write_text(CARTE_CSS, encoding="utf-8")
+        (MJ_OUT_DIR / "carte.js").write_text(CARTE_JS, encoding="utf-8")
+        # Copy poster/raster assets (PDF isn't on the deploy pipeline, so the
+        # rendered image must travel as a committed asset under Notes MJ/Cartes/).
+        if CARTES_DIR.exists():
+            for asset in list(CARTES_DIR.glob("*.jpg")) + list(CARTES_DIR.glob("*.png")):
+                shutil.copyfile(asset, MJ_OUT_DIR / asset.name)
+        print(f"  - carte pages: {len(carte_pages)}")
 
     # Canon Source pages (target of canon-ref click navigation)
     source_pages = _render_canon_source_pages(buckets)

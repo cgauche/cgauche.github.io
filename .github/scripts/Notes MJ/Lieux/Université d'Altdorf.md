@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  section: nord
+  quartier: Schulergegend
+  x: 705
+  y: 296
+  desc: "Premier centre d'apprentissage de l'Empire : vaste complexe fortifié à cinq portes, réputé pour ses collèges de droit, médecine, histoire militaire, alchimie et bestiarologie."
+---
+
 # Université d'Altdorf
 
 > **Où** : Schulergegend, **Ville Nord**. `Altdorf-CotE-VF ch.7 l.182-183`

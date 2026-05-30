@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: taverne
+  importance: Notable
+  section: nord
+  quartier: Quartier des Quais
+  x: 734
+  y: 397
+  desc: "Plus forte concentration de débits de boissons de l'Empire, bien placée entre le quartier des Quais à l'est et l'université à l'ouest."
+---
+
 # Rue des Cent Tavernes
 
 > **Où** : **Ville Nord**, entre le quartier des Quais (est) et l'université d'Altdorf (ouest). `Altdorf-CotE-VF ch.7 l.758-759`

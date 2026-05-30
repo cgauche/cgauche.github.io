@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: noble
+  importance: Notable
+  section: sud
+  quartier: Mauerblümchen
+  x: 383
+  y: 353
+  desc: "Résidence des Todbringer à Altdorf, dans le quartier huppé de Mauerblümchen."
+---
+
 # Manoir Helstein
 
 > Résidence officielle de la **Maison Todbringer** à Altdorf. Lieu de l'assaut S63 + base d'opération des PJs pendant le scénario [[Hub|Le réveil d'Altdorf]].

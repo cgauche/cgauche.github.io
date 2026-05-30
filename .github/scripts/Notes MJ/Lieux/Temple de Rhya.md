@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: religieux
+  importance: Notable
+  section: sud
+  quartier: Südküste
+  x: 738
+  y: 542
+  desc: "Rare temple urbain de Rhya, déesse de la vie : édifice bas entouré d'un jardin sauvage, à l'extrémité sud-est de Südküste."
+---
+
 # Temple de Rhya
 
 > **Où** : Südküste, **rive sud**. `Altdorf-CotE-VF ch.5 (La rive sud) l.1490`

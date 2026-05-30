@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: noble
+  importance: Notable
+  section: sud
+  quartier: Mauerblümchen
+  x: 367
+  y: 369
+  desc: "L'un des quartiers les plus aisés d'Altdorf : domaines nobles murés, rues larges et propres, officiers militaires logés chez les familles nobles, criminalité de rue quasi nulle."
+  seed: true
+---
+
 # Mauerblümchen
 > **Où** : district S3, **rive sud** d'Altdorf. `Altdorf-CotE-VF ch.5 l.235`
 > **Type** : quartier résidentiel noble.

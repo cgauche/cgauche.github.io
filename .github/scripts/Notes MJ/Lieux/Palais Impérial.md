@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  section: sud
+  quartier: Quartier du Palast
+  x: 511
+  y: 410
+  desc: "Quartier fortifié grand comme un village, résidence de l'Empereur et de sa famille ; dédale de cours, tours et caves. Ghal-Maraz y est gardé dans l'armurerie de la forteresse naine."
+---
+
 # Palais Impérial
 
 **Sous-titre** : Résidence et siège de gouvernement de Karl-Franz à Altdorf  

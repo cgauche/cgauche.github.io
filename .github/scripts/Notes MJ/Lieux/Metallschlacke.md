@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: commerce
+  importance: Notable
+  section: est
+  quartier: Metallschlacke
+  x: 996
+  y: 493
+  desc: "Quartier nain d'Altdorf, près de l'École impériale d'ingénierie ; plus calme et plus sûr que le reste du Quartier est, les gangs ayant la sagesse de ne pas s'en prendre aux nains."
+  seed: true
+---
+
 # Metallschlacke
 > **Où** : district E6, **Quartier est** d'Altdorf. `Altdorf-CotE-VF ch.6 l.448`
 > **Type** : quartier nain (ancienne ville-khazid, partiellement souterraine).

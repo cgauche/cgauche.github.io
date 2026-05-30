@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: magie
+  importance: Notable
+  section: nord
+  quartier: Hexxerbezrik
+  x: 658
+  y: 258
+  desc: "Six tours effilées d'origine elfique qui captent et séparent les vents de magie pour les rediriger vers les collèges."
+---
+
 # Tour des Vents (Tower of Vane)
 
 > **Tour de mage isolée** dans les **Montagnes Grises**, au bord d'un lac gelé. Site du test de l'**arme magique** de [[Carolus Entschlafen]]. Plot dormant majeur : **[[Christoph Engel]] disparu avec des pièces de l'arme**.

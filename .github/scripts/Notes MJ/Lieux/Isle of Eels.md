@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: crime
+  importance: Notable
+  section: est
+  quartier: Île aux Anguilles
+  x: 752
+  y: 455
+  desc: "Île basse et boueuse reliée aux Vieux Quais par un unique pont, fief du gang des Poissons et foyer de sédition ; quasi abandonnée par la Garde et le fisc."
+---
+
 # Isle of Eels
 
 > **Où** : Île aux anguilles, **Quartier est**. `Altdorf-CotE-VF ch.6 (Le Quartier est) l.15`

@@ -1,3 +1,15 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: militaire
+  importance: Notable
+  section: nord
+  x: 670
+  y: 433
+  desc: "Île fortifiée au milieu du Reik, siège du renseignement impérial (la Chambre Noire)."
+---
+
 # Île Noire
 
 > Île fortifiée au cœur du Reik, à Altdorf, reliée par ponts aux murs

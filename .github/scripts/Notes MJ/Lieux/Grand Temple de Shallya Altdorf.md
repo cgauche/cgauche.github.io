@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: religieux
+  importance: Notable
+  section: sud
+  quartier: Krankenfeld
+  x: 698
+  y: 567
+  desc: "Grand temple shallyen d'Altdorf (la Grâce d'Alessa), antérieur à la naissance de Sigmar, cœur de Krankenfeld ; ses portes sont ouvertes à quiconque réclame guérison."
+---
+
 # Grand Temple de Shallya Altdorf
 
 > Principal lieu de culte et hôpital de Shallya à Altdorf. Pivot du système de soins gratuits de la ville. PJ y vont pour soigner Mark dans le scénario [[Hub|Le réveil d'Altdorf]].

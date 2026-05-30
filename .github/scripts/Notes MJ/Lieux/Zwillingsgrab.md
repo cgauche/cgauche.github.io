@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: mort
+  importance: Notable
+  section: sud
+  quartier: Zwillingsgrab
+  x: 580
+  y: 556
+  desc: "Quartier de classe moyenne au sud de la cathédrale, marqué par deux grands cimetières ; artisans de patience (joaillerie, broderie, reliure), atmosphère calme et nostalgique."
+  seed: true
+---
+
 # Zwillingsgrab
 > **Où** : district S14, **rive sud** d'Altdorf, au sud de la cathédrale de Sigmar. `Altdorf-CotE-VF ch.5 l.1624`
 > **Type** : quartier de classe moyenne.

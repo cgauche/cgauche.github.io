@@ -1,3 +1,16 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: autre
+  importance: Notable
+  section: sud
+  quartier: Quartier du Palast
+  x: 538
+  y: 361
+  desc: "Parc paysager impérial entre le palais et le Reik, jardin commémoratif des héros de l'Empire ; ouvert de 9h à 23h, gardé par la Reiksguard. Abrite le Pilier de Sigmar et le Mémorial du Solland."
+---
+
 # Parc Karl Franz
 > **Où** : district S5, **rive sud** d'Altdorf, entre le Palais Impérial et le Reik. `Altdorf-CotE-VF ch.5 l.660-661`
 > **Type** : parc paysager (terrain impérial).

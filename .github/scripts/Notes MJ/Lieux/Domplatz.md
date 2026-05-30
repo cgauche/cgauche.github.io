@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: religieux
+  importance: Notable
+  section: sud
+  quartier: Domplatz
+  x: 581
+  y: 453
+  desc: "Place sacrée au centre de la vie spirituelle de l'Empire, dominée par la Grande Cathédrale ; centre urbain animé de pèlerins, colporteurs, saltimbanques et tire-laine."
+  seed: true
+---
+
 # Domplatz
 > **Où** : district S9, **rive sud** d'Altdorf — place de la Cathédrale. `Altdorf-CotE-VF ch.5 l.1084`
 > **Type** : place / centre urbain et religieux.

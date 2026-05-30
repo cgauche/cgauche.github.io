@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: militaire
+  importance: Notable
+  section: sud
+  quartier: Flottenliegeplatz
+  x: 586
+  y: 389
+  desc: "Quais sud d'Altdorf dédiés à la Marine Impériale et à la Patrouille fluviale du Reik ; casernes de marins, peu de résidences, gang des Crochets sur les chantiers navals."
+  seed: true
+---
+
 # Flottenliegeplatz
 
 > **Où** : Flottenliegeplatz, **rive sud**. `Altdorf-CotE-VF ch.5 (La rive sud) l.732`

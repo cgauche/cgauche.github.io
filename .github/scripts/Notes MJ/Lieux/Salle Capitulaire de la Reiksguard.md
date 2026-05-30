@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: militaire
+  importance: Notable
+  section: sud
+  quartier: Mauerblümchen
+  quartier: Mauerblümchen
+  x: 392
+  y: 394
+  desc: "Citadelle fortifiée de la Reiksguard, garde impériale fondée par Wilhelm III ; haut commandement, quartiers du grand maître et l'Untersuchung, son service secret anti-cultes."
+---
+
 # Salle Capitulaire de la Reiksguard
 > **Où** : district S3 [[Mauerblümchen]], **rive sud** d'Altdorf. `Altdorf-CotE-VF ch.5 l.576`
 > **Type** : salle capitulaire / citadelle d'ordre chevaleresque.

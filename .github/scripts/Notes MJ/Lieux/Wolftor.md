@@ -1,3 +1,17 @@
+---
+carte:
+  map: altdorf
+  kind: lieu
+  type: autre
+  importance: Notable
+  section: nord
+  quartier: Wolftor
+  x: 782
+  y: 238
+  desc: "Quartier entourant la Porte Nord d'Altdorf, sur la route de Middenheim ; peuplé surtout de Middenlanders, il se vit en avant-poste de la Cité du Loup Blanc."
+  seed: true
+---
+
 # Wolftor
 
 > **Où** : **Ville Nord** (quartier de la Porte Nord). `Altdorf-CotE-VF ch.7 l.453-454`
