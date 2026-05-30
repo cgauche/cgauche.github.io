@@ -440,7 +440,7 @@ Le Turmoil pour Middenheim-Middenland s'enclenche en plusieurs vagues qui se cum
 | **Petra Schneller** | Ranaldan PBT (drunken pigs) | Variable | Variable |
 | **Baron Holzbek** | Barony of Holzbek, Dunfurter Castle ; petitions Graf | (idem) ; Oberholzbek mine | Vivant |
 | **Margrave Ganmark of Linz** | 16 generations | (idem) ; tension Babrakkos | Vivant (Middenheim ch.5 l.237) |
-| **Margrave of Norderingen** | Cordon Brain Pox | (idem) | Vivant |
+| **Margrave of Norderingen** | Cordon Fièvre cérébrale pourpre | (idem) | Vivant |
 | **Eisenhal family (Sohk)** | Wardens Duchy of Sohk ; rivalry Kärzburdgers | (idem) | Vivants |
 | **Kärzburdger family** | Ex-Grafs Middenheim ; estate Middle Mountains ; impoverished | (idem) ; resentment | Vivants |
 | **Thugenheim family** | Jager Keep ; contested Middenland border | (idem) ; consolidé sous Boris post-annexion | Vivants |

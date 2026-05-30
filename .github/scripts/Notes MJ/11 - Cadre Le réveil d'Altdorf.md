@@ -353,7 +353,7 @@ Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le r
 ### Décalage calendaire 9 Brauzeit 2513
 
 **Conséquences Gideon** :
-- Maintient le dispositif sur 12 mois supplémentaires : Karl-Franz alité (Kappelmuller + sort Purple Brain), Hermann von Feilbach sosie continue, Wolfgang vessel viable, concession Schmerzeit Mine active.
+- Maintient le dispositif sur 12 mois supplémentaires : Karl-Franz alité (Kappelmuller + sort de Fièvre cérébrale pourpre), Hermann von Feilbach sosie continue, Wolfgang vessel viable, concession Schmerzeit Mine active.
 - Moins pressé = moins de manipulations *Gideon Makes Time* sur le trajet.
 - Le miracle Volkmar lui sert quand même politiquement.
 

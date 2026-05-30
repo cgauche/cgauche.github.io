@@ -257,7 +257,7 @@ Le Turmoil 2512 IC religieux est **multi-déclenché** : trois déclencheurs sim
 - *"In Middenland, Middenheim, Talabheim and Talabecland a hard-line Ulrican attitude that had been in check for centuries underwent a renaissance. It became fashionable for Ulricans in these locales to scorn their Sigmarite neighbours and proclaim the illegitimacy of their god and the Emperor who ruled in his name"* (EiR ch.17 l.14).
 
 ### 2. Mutant Edict de Karl-Franz (manipulé Main Pourpre)
-- Édit signé sous suggestibility Purple Brain Pox (cascade fiche 09).
+- Édit signé sous suggestibility Fièvre cérébrale pourpre (cascade fiche 09).
 - **Impopulaire Ulricans** (perçu *"weak, hypocritical, and liable to encourage the spread of Chaos worship"* cascade fiche 02).
 - **Sigmarites modérés divisés** : Shallyan reformers manipulés par Zuntermein (cascade fiche 09).
 - **Yorri XV dismayed** par Mutant Edict mais *"évite débattre"* (note PNJ Yorri).

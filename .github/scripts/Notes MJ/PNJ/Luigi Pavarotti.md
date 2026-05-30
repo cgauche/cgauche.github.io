@@ -65,20 +65,20 @@ Stats partielles d'après le canon :
 - **De-hypnotiser Dieter** : ch.6 *De-Hypnotising Dieter* p.88 — Pavarotti **peut** débloquer Dieter (canon : « *Luigi is quite happy to act on his own initiative* »). **Hook clé Arc 5/Arc 6** : si les PJ lui demandent.
 - **Doctoring the punch** : p.72 + Garden Party S34 — Luigi **for his own amusement**. **Pas Tzeentch**, juste son tempérament. **À ne pas confondre** avec une vraie menace.
 - **Spouse**, voire **plusieurs**? Canon ne précise pas, mais il fuit régulièrement « outraged spouses » ch.6 *Baronial Physician* (« *running by them, laughing and clutching his trousers and boots in one hand as an outraged spouse pursues him* »). **Hook humoristique**.
-- **Peut diagnostiquer Brain Pox** : canon Heal + Lore Medicine. **Hook MJ-only Arc 6** : si les PJ lui demandent de diagnostiquer Stefan ou Anika-Elise (autopsie post-mortem), Pavarotti pourrait **trouver la signature Gideon**.
+- **Peut diagnostiquer Fièvre cérébrale pourpre** : canon Heal + Lore Medicine. **Hook MJ-only Arc 6** : si les PJ lui demandent de diagnostiquer Stefan ou Anika-Elise (autopsie post-mortem), Pavarotti pourrait **trouver la signature Gideon**.
 - **Sparsam paranoid de Pavarotti** : Sparsam pense que Pavarotti pourrait être derrière l'hypnose de Dieter. **Red herring**. **Pavarotti n'est pas l'antagoniste**.
 - **Allié des PJ Arc 6+** : possible bon ami si bien traité (offrir à boire = +30 Fellowship).
 
 ## Hooks de retour
 
 - **De-hypnotise Dieter** : à demander Arc 5/6.
-- **Diagnostic Brain Pox** : peut révéler Gideon.
+- **Diagnostic Fièvre cérébrale pourpre** : peut révéler Gideon.
 - **Drinking partner** : ami sociable pour les PJ.
 - **Stefan amélioration** : continuité Arc 6.
 
 ## Fils ouverts
 
-- **FIL Pavarotti diagnostic Brain Pox** — hook Arc 6.
+- **FIL Pavarotti diagnostic Fièvre cérébrale pourpre** — hook Arc 6.
 - **FIL Pavarotti ami des PJ** — à activer.
 
 ## Liens

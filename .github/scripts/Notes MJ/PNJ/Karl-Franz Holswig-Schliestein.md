@@ -1,7 +1,7 @@
 # Karl-Franz Holswig-Schliestein
 
 **Sous-titre** : Empereur du Reich, alité depuis un an — empoisonné par son médecin  
-**Statut** : [VIVANT MAIS ALITÉ — Purple Brain Pox magique depuis ~1 an]
+**Statut** : [VIVANT MAIS ALITÉ — Fièvre cérébrale pourpre magique depuis ~1 an]
 
 ## Apparence et manières
 
@@ -46,7 +46,7 @@ publiquement par crainte qu'il ne saisisse d'autres provinces
 - **Oncle et bras politique** : Immanuel-Ferrand Holswig-Schliestein — Grand Chancelier du Reich, qui a recruté Hermann von Feilbach comme sosie en parfaite bonne foi protectrice `EiR Intro l.854`.
 - **Sosie public** : Hermann von Feilbach — Reiksguard du Cercle Intérieur, ressemblance physique remarquable depuis sa jeunesse ; chevalier loyal qui hait son rôle de simulateur mais accepte par devoir `EiR Intro l.852-857`.
 - **Médecin personnel (traître)** : Henrik Kappelmuller — admis au Conseil privé impérial, dort dans une antichambre adjacente à la chambre, agent dormant de la Main Pourpre `EiR Intro l.240`. Ses préparations contiennent du Ranald's Delight et le pomander sous le lit dégage des fumées soporifiques `EiR ch.8 l.122-124`.
-- **Inducteur magique de la maladie** : Gideon — applique le sort de Purple Brain Pox à distance et le retire chaque fois que Kappelmuller administre une préparation, simulant une médecine compétente `EiR ch.8 l.52-54`.
+- **Inducteur magique de la maladie** : Gideon — applique le sort de Fièvre cérébrale pourpre à distance et le retire chaque fois que Kappelmuller administre une préparation, simulant une médecine compétente `EiR ch.8 l.52-54`.
 - **Manipulateur en chef** : Yann Zuntermein — Magister Magistri de la Main Pourpre d'Altdorf, profite de la suggestibilité induite pour obtenir la signature de décrets désastreux `EiR Intro l.240`.
 - **Champion** : Ludwig Schwartzhelm — protection physique et morale, dépêché à travers l'Empire pour faire respecter la loi impériale et la réputation du trône `Altdorf ch.2 l.37`.
 - **Ami militaire** : Reiksmarshall Kurt Helborg — commande la Reiksguard, en mission à Ubersreik durant tout l'arc 7, revient bredouille au lendemain du climax `EiR ch.13 l.640`.
@@ -55,7 +55,7 @@ publiquement par crainte qu'il ne saisisse d'autres provinces
 
 ## État de santé `EiR ch.8 l.49-54`
 
-- **Maladie** : forme mince mais chronique de Purple Brain Pox, magiquement induite par Gideon — au-delà des compétences des Médecins et des prières des Shallyiennes `EiR ch.8 l.50-52`.
+- **Maladie** : forme mince mais chronique de Fièvre cérébrale pourpre, magiquement induite par Gideon — au-delà des compétences des Médecins et des prières des Shallyiennes `EiR ch.8 l.50-52`.
 - **Effets secondaires** : léthargie et suggestibilité — Karl-Franz accepte sous influence ce qui serait totalement contraire à son tempérament en pleine santé : prise d'Ubersreik, Édit sur les mutants, recours au sosie public `EiR ch.8 l.54`.
 - **Mécanique cachée** : Gideon applique le sort à distance et le retire à chaque administration de Kappelmuller, qui passe ainsi pour compétent — sa « médecine » ne soigne rien `EiR ch.8 l.54`.
 - **Pomander sous le lit** : concoction de Schlafenkraut + Moonflower + copeaux de pin sous le lit ; ses fumées détendent — quiconque reste plus de quatre tours dans la chambre doit passer un test Very Hard (-30) Willpower ou gagner *Fatigued* ; Kappelmuller s'y est immunisé `EiR ch.8 l.122-124`.
@@ -77,7 +77,7 @@ des Grandes Provinces et l'équilibre entre Sigmarites et Ulricains. Au
 lendemain du climax restauré, le retour à l'art d'État équilibré
 qu'il incarnait avant la maladie `EiR ch.13 l.628`.
 
-**Ce qu'il veut (sous Purple Brain Pox)** `EiR ch.8 l.54` : rien de
+**Ce qu'il veut (sous Fièvre cérébrale pourpre)** `EiR ch.8 l.54` : rien de
 soutenu — la suggestibilité induite lui fait accepter passivement ce
 que ses conseillers lui proposent, alors qu'il rejetterait pareilles
 mesures en pleine santé. C'est précisément cette neutralisation de sa
@@ -91,7 +91,7 @@ de Liepmund Holzkrug et d'Immanuel-Ferrand Holswig-Schliestein comme prête-noms
 
 ## Plans en cours (autour de Karl-Franz) `EiR Intro l.320`
 
-- **Cycle médication quotidienne** : Kappelmuller administre les préparations contenant le Ranald's Delight d'Elvyra Kleinestun ; Gideon synchronise les retraits du sort de Purple Brain Pox `EiR ch.8 l.54`.
+- **Cycle médication quotidienne** : Kappelmuller administre les préparations contenant le Ranald's Delight d'Elvyra Kleinestun ; Gideon synchronise les retraits du sort de Fièvre cérébrale pourpre `EiR ch.8 l.54`.
 - **Couverture publique par le sosie** : Hermann von Feilbach occupe toutes les apparitions publiques, encadré au défilé et au Conclave par deux chevaliers High Helm de la Reiksguard `EiR ch.5 l.82`.
 - **Contrôle de l'accès au lit impérial** : Kappelmuller passe presque tout son temps dans la chambre et dort dans l'antichambre attenante ; seul un membre du Conseil privé impérial ou Elvyra peut faire entrer un visiteur, et il faut un test Charm Very Hard (-30) pour obtenir l'audience `EiR ch.8 l.93+108`.
 - **Diversions préparées en cas de démasquage** : Kappelmuller a un script d'escalade en cinq paliers (nier → administrer Vitality Draught → blâmer Elvyra Kleinestun → vendre Karl-Heinz Wasmeier → combat) `EiR ch.8 l.112-120`.

@@ -38,7 +38,7 @@ Le livre 5 est dans `C:\Users\gauch\PhpstormProjects\Foundry\Empire in Ruins\`. 
 - **Wasmeier** = vivant, en disgrâce, cherche à supplanter Zuntermein. Stir up les Nordlanders. Rivalité ouverte avec Zuntermein.
 - **Kastor Lieberung** = ex-Magister Impedimentae de la **cellule de Nuln** (pas Altdorf !). MORT à Bögenhafen [S8]. Manipulé par Gideon. Recruteur originel des 9 Yeux.
 - **Hermann von Feilbach** = sosie de l'empereur, Reiksguard Cercle Intérieur, **loyal mais naïf**. Manipulé par Zuntermein.
-- **Henrik Kappelmuller** = médecin de Karl-Franz, agent Main Pourpre, **empoisonne lentement l'empereur** avec une Purple Brain Pox magiquement induite par Gideon. Visiteurs : Elvyra (ingrédients) + Gideon (garçon).
+- **Henrik Kappelmuller** = médecin de Karl-Franz, agent Main Pourpre, **empoisonne lentement l'empereur** avec une Fièvre cérébrale pourpre magiquement induite par Gideon. Visiteurs : Elvyra (ingrédients) + Gideon (garçon).
 - **Elvyra Kleinestun** = pion involontaire de Gideon, pharmacienne personnelle de Yorri. Gideon lui souffle l'idée de révéler le faux Ghal Maraz à Boris.
 - **Immanuel-Ferrand Holswig-Schliestein** = oncle de Karl-Franz, Imperial Chancellor, manipulé par Zuntermein.
 - **Liepmund Holzkrug** = manipulé par Zuntermein. Utilisé pour pousser à la prise d'Ubersreik.
@@ -131,7 +131,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 
 ### Divergences (homebrew)
 - **Démon métamorphe = Gideon (Sheru-Tar Gee'taru) = même entité Bögenhafen S12** : inflexion table en faveur du **Changeling Tzeentch** (PBT Companion ch.10) plutôt que d'un Doppelgänger basique. Cohérent avec le plan central Arc 7 (Sheerargetru-Gideon-Wasmeier-Zuntermein).
-- **Anika-Elise Nikse (2nde épouse de Boris) empoisonnée par Gideon (Purple Brain Pox)** : MJ-only. Canon = « *strange illness, a few months ago* ». À table : assassinat ciblé (a) éliminer Magus Slaaneshi rivale, (b) provoquer dépression Boris, (c) ouvrir fenêtre Wasmeier.
+- **Anika-Elise Nikse (2nde épouse de Boris) empoisonnée par Gideon (Fièvre cérébrale pourpre)** : MJ-only. Canon = « *strange illness, a few months ago* ». À table : assassinat ciblé (a) éliminer Magus Slaaneshi rivale, (b) provoquer dépression Boris, (c) ouvrir fenêtre Wasmeier.
 - **Filianore sacrifice Tzeentch S33 + fondation de la Croix de Lilas** : 100% homebrew. Schisme Main Pourpre, but personnel = ramener sa fille morte. Pathsokar bascule avec elle S33.
 - **Mark confronté par Ar-Ulric Jarrick S35 + passe la Flamme Éternelle d'Ulric S36** + survit défiguré + perd une main + devient figure ulrican : homebrew confrontation pour les meurtres de Bögenhafen.
 - **Coalition politique contre la taxe orchestrée par Elvira (S37)** : grand coup de joueuse.

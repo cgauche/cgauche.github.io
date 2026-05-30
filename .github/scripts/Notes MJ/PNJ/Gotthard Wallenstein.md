@@ -16,7 +16,7 @@
 - **Vrai nom** : **Gotthard von Wittgenstein**.
 - **Famille canon (DotR ch.7 l.683)** : Fils de **Ludwig + Ingrid von Wittgenstein**, **frère de Margritte et Kurt**. Tous morts S28 (explosion Castle Wittgenstein, Arc 4). **A fui à Middenheim** plusieurs années avant l'explosion.
 - **Statut culte** : **Chef-de-fait du Sceptre de Jade Slaaneshi** à Middenheim (canon PBT Companion ch.6 *The Sceptre de Jade - A Gamemaster's Guide*).
-- **Patrone morte** : **Anika-Elise Nikse** (2nde épouse de Boris), **Magus du Sceptre de Jade**. Morte « il y a quelques mois » Arc 5 = **assassinat par Gideon** (MJ-only, Purple Brain Pox).
+- **Patrone morte** : **Anika-Elise Nikse** (2nde épouse de Boris), **Magus du Sceptre de Jade**. Morte « il y a quelques mois » Arc 5 = **assassinat par Gideon** (MJ-only, Fièvre cérébrale pourpre).
 - **Maître du déguisement**.
 - **Connexion Bluchers canon (DotR ch.8 l.253-264)** : les Bluchers fournissent le Sceptre de Jade en substances illicites. Gotthard utilise ce réseau.
 
@@ -89,7 +89,7 @@
 ## MJ-only
 
 - **Wittgenstein survivant** : a fui Castle Wittgenstein avant les événements Arc 4 (a embrassé la corruption Slaaneshi via Anika-Elise Nikse, sa patrone, **avant** la mort de Margritte et les autres). À table : il a pris l'identité Wallenstein **plusieurs années avant Arc 4**.
-- **Anika-Elise Nikse** : sa **patronne**, **Cult Magus du Sceptre de Jade** Slaaneshi canon (PBT Companion ch.6). **Morte par Gideon (Purple Brain Pox)** MJ-only — élimination chaotique de rivale rapide.
+- **Anika-Elise Nikse** : sa **patronne**, **Cult Magus du Sceptre de Jade** Slaaneshi canon (PBT Companion ch.6). **Morte par Gideon (Fièvre cérébrale pourpre)** MJ-only — élimination chaotique de rivale rapide.
 - **Lettre de Castle Wittgenstein** (canon DotR Arc 4) : Gotthard a écrit à Margritte sa sœur, **vante son temps à Middenheim avec ses « fellow Slaanesh worshippers »**. Cette lettre **a été trouvée par les PJ à Wittgenstein S28** (canon). C'est ce qui les pousse vers Middenheim.
 - **Lien avec [[Karl-Heinz Wasmeier]] et la Main Pourpre** : **Aucune alliance**. **Sceptre de Jade et Main Pourpre sont rivaux** (canon ch.4 p.45 « *The two cults are rivals but not enemies, and have taken no overt action against each other* »). Wasmeier voyait Wallenstein comme **potential scapegoat** si nécessaire (canon Wasmeier NPC sheet p.123 « *Wasmeier sees him as a possible scapegoat* »).
 - **Pourquoi Wallenstein piège Elvira** : (a) **Slaanesh recruitment** — il sent qu'elle a un potentiel (prêtresse + naïve = vulnérable), (b) **Sexual obsession** — elle est attirante, (c) **Information** — elle est proche de Schutzmann post-S35.
@@ -101,7 +101,7 @@
 ## Hooks de retour
 
 - **En cavale Arc 6 puis torturé S45** : choix moral majeur pour les PJ.
-- **Lien Anika-Elise** : si Wallenstein parle (sous interrogatoire), il pourrait révéler **qui était sa patrone** + **comment elle est morte** (Purple Brain Pox = Gideon).
+- **Lien Anika-Elise** : si Wallenstein parle (sous interrogatoire), il pourrait révéler **qui était sa patrone** + **comment elle est morte** (Fièvre cérébrale pourpre = Gideon).
 - **Sceptre de Jade** : cellule **non démantelée** (juste la planque, pas le réseau).
 - **Vengeance Wittgenstein** : si les PJ découvrent qu'il est le dernier Wittgenstein, ils peuvent **liquider la lignée** (objectif Arc 4 implicite).
 

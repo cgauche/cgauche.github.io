@@ -11,7 +11,7 @@
 ## Famille
 - **Père** : Friedrich Teugen (mort, ~2495 IC)
 - **Mère** : Gunnhilde Teugen (probablement morte)
-- **Frère aîné** : **Karl Teugen** — mort jadis (~2510 IC) **empoisonné par Gideon avec Purple Brain Pox**. Sa mort a "ouvert la voie" à Johannes pour prendre la tête de la famille (canon EiS ch.5 l.46).
+- **Frère aîné** : **Karl Teugen** — mort jadis (~2510 IC) **empoisonné par Gideon avec Fièvre cérébrale pourpre**. Sa mort a "ouvert la voie" à Johannes pour prendre la tête de la famille (canon EiS ch.5 l.46).
 
 ## Source
 - EiS ch.9 *The Darkest Hour* (description + statbloc + background) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/09 - The Darkest Hour.md` lignes 410-454
@@ -62,7 +62,7 @@
 
 ### Méthodes
 
-- **Karl Teugen** assassiné par Gideon avec **Purple Brain Pox** pour ouvrir la voie à Johannes. **Même maladie + même méthode que Karl-Franz Arc 7 (via Kappelmuller)**.
+- **Karl Teugen** assassiné par Gideon avec **Fièvre cérébrale pourpre** pour ouvrir la voie à Johannes. **Même maladie + même méthode que Karl-Franz Arc 7 (via Kappelmuller)**.
 - **Ordo Septenarius** créé pour recruter 7 marchands trompés. Inner Council de 7 + Teugen + Gideon = 9 personnes au rituel.
 - **Operations sales** : déléguées à Gideon ou aux **thugs Stevedores' Guild** (Gurney Dumkopf).
 

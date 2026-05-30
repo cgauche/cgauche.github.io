@@ -8,7 +8,7 @@
 
 L'Empereur Karl-Franz est officiellement « en convalescence ». **Henrik Kappelmuller**, son médecin personnel, est arrivé il y a environ un an et est seul à avoir réussi à « stabiliser » l'état impérial. Sa nomination au Privy Council a inquiété la Guilde des Physiciens d'Altdorf, qui n'a aucune trace fiable de ses prétendues études à Nuln.
 
-En réalité : Kappelmuller est un membre de la **Main Pourpre**, assassin entraîné (canon EiR ch.8 l.64-76 : statbloc CC 63, Couteaux de Lancer +6/8 enduits de Lotus Noir). Ses préparations contiennent du **Ranald's Delight** (sédatif) fournies par l'apothicaire **Elvyra Kleinestun**. Le sort de **Mal Pourpre du Cerveau** sur Karl-Franz est en réalité maintenu à distance par [[Gideon]] — Kappelmuller n'est que le gardien-dispensateur visible.
+En réalité : Kappelmuller est un membre de la **Main Pourpre**, assassin entraîné (canon EiR ch.8 l.64-76 : statbloc CC 63, Couteaux de Lancer +6/8 enduits de Lotus Noir). Ses préparations contiennent du **Ranald's Delight** (sédatif) fournies par l'apothicaire **Elvyra Kleinestun**. Le sort de **Fièvre cérébrale pourpre** sur Karl-Franz est en réalité maintenu à distance par [[Gideon]] — Kappelmuller n'est que le gardien-dispensateur visible.
 
 Trois NPC du Privy Council ([[Maria-Luise von Walfen]], [[Immanuel-Ferrand Holswig-Schliestein]], [[Hermine Liebwitz von Decker und Hanulf]]) le suspectent sans pouvoir agir publiquement.
 
@@ -73,7 +73,7 @@ Elle ne mentionnera **pas** spontanément qu'elle lui fournit du **Ranald's Deli
 
 Si un PJ exprime des doutes sur la compétence ou la moralité de Kappelmuller, elle finit par lâcher (canon EiR ch.8 l.81, paraphrasé) :
 
-> *« Oui… je pense qu'il utilise peut-être des concoctions pour calmer ou stimuler l'Empereur plutôt que pour traiter sa maladie. Mais le Mal Pourpre du Cerveau est notoirement difficile à apaiser, et l'Empereur a une amélioration marquée. »*
+> *« Oui… je pense qu'il utilise peut-être des concoctions pour calmer ou stimuler l'Empereur plutôt que pour traiter sa maladie. Mais le Fièvre cérébrale pourpre est notoirement difficile à apaiser, et l'Empereur a une amélioration marquée. »*
 
 C'est un **demi-aveu**. Elle ne dénoncera pas Kappelmuller mais admet en creux qu'il drogue Karl-Franz.
 

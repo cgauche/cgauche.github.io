@@ -47,7 +47,7 @@ Notation : `[Sxx]` = session de dernière apparition / mort / mention.
 
 ### Henrik Kappelmuller — `[ENNEMI ACTIF / CANON-EI]`
 - **Médecin personnel de Karl-Franz**. Agent Main Pourpre (Altdorf cell).
-- Empoisonne lentement l'empereur avec une **Purple Brain Pox** magiquement induite par Gideon.
+- Empoisonne lentement l'empereur avec une **Fièvre cérébrale pourpre** magiquement induite par Gideon.
 - Effets secondaires : listless, suggestibility → fait avaler les édits néfastes.
 - Stats : Gold 1 Assassin. Black Lotus sur lames, Ranald's Delight, throwing knives.
 - Visiteurs : **Elvyra** (mature lady, Altdorf accent) + **Gideon** (boy).
@@ -109,7 +109,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 ## 🟡 LE FAUX EMPEREUR ET SON ENTOURAGE (CANON-EI)
 
 ### Karl-Franz Holswig-Schliestein — `[VIVANT MAIS ALITÉ / CANON-EI]`
-- Le **vrai empereur**. Alité depuis ~1 an, empoisonné par Kappelmuller (Purple Brain Pox de Gideon).
+- Le **vrai empereur**. Alité depuis ~1 an, empoisonné par Kappelmuller (Fièvre cérébrale pourpre de Gideon).
 - Présent au Volkshalle ch.13 (très affaibli, peut prier dans les Cathédrale après le bris du marteau).
 - Si Kappelmuller démasqué + soigné, **récupère sa vigueur** pour le climax canonique.
 
@@ -401,7 +401,7 @@ Recrutés il y a 9 ans par Kastor Lieberung sous la direction de Gideon. Chacun 
 ## Arc 7 — PNJ ajoutés / enrichis 2026-05-18 (résumé)
 
 **Fiches créées (Arc 7 centraux)** :
-- [[Karl-Franz Holswig-Schliestein]] (Empereur alité Purple Brain Pox)
+- [[Karl-Franz Holswig-Schliestein]] (Empereur alité Fièvre cérébrale pourpre)
 - [[Volkmar von Hindenstern]] (High Capitular Sigmar / faux S63 = Gideon)
 - [[Yorri XV]] (Grand Theogonist — Doomed climax)
 - [[Thyrus Gormann]] (Supreme Patriarch Colleges of Magic)

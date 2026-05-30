@@ -7,7 +7,7 @@
 ## Géopolitique impériale
 
 ### Le Reikland (Altdorf)
-- Capitale. Empereur **Karl-Franz** officiellement régnant, mais **un imposteur (Hermann von Feilbach, Reiksguard Cercle Intérieur) tient son rôle depuis ~un an** ; le vrai est alité, empoisonné par **Henrik Kappelmuller** (médecin = agent Main Pourpre) avec une **Purple Brain Pox** magiquement induite par Gideon.
+- Capitale. Empereur **Karl-Franz** officiellement régnant, mais **un imposteur (Hermann von Feilbach, Reiksguard Cercle Intérieur) tient son rôle depuis ~un an** ; le vrai est alité, empoisonné par **Henrik Kappelmuller** (médecin = agent Main Pourpre) avec une **Fièvre cérébrale pourpre** magiquement induite par Gideon.
 - **Maria-Luise von Walfen** : concubine du vrai empereur, mère de ses enfants. Sait. Confirmé.
 - **Immanuel-Ferrand Holswig-Schliestein** : oncle de Karl-Franz, Chancellor + Imperial Spymaster (Chambre Noire). Manipulé par **Zuntermein** (Main Pourpre Altdorf) sans le savoir. A poussé pour la prise d'Ubersreik.
 - **Liepmund Holzkrug** : Grand Ambassadeur, autre Chambre Noire spymaster. Ambition impériale (famille ex-Empereur). Manipulé par Zuntermein utilement. Antagoniste politique mais pas cultiste.

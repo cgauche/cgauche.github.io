@@ -65,7 +65,7 @@ Son plan, élaboré pendant des siècles :
 
 Les agents :
 
-- **[[Gideon]]** : démon mineur de Tzeentch incarné en enfant à coupe au bol. Apparence d'environ 13 ans, sourire trop large. Maintient le sort de Mal Pourpre du Cerveau sur Karl-Franz depuis ~12 mois. Manipule la mine Schmerzeit pour percer l'éboulis du Lost Gorge. Exécutant local.
+- **[[Gideon]]** : démon mineur de Tzeentch incarné en enfant à coupe au bol. Apparence d'environ 13 ans, sourire trop large. Maintient le sort de Fièvre cérébrale pourpre sur Karl-Franz depuis ~12 mois. Manipule la mine Schmerzeit pour percer l'éboulis du Lost Gorge. Exécutant local.
 - **[[Yann Zuntermein]]** : Magister de la Main Pourpre, chef de la cellule d'Altdorf, membre de la Chambre Noire. Organisateur impérial du complot. Téléguidage : arrestation Fassbinder, substitution Volkmar, manipulation Wolfgang. Liaison Tzeentch via Gideon.
 - **[[Karl-Heinz Wasmeier]]** : ancien Magister Magistri (cellule Middenheim), évincé par Zuntermein, vit caché dans les taudis de la Reikerbahn. Concepteur du chiffrement runique éponyme. Conserve des correspondances compromettantes que les PJ peuvent acquérir.
 - **[[Henrik Kappelmuller]]** : assassin Main Pourpre, infiltré comme médecin du Palais. Drogue Karl-Franz avec du Ranald's Delight fourni par Elvyra. Couverture visible du sort démonique.

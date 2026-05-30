@@ -13,7 +13,7 @@
 - **[[Stefan Todbringer]]** : **[VIVANT — INAPTE]**, resté à Middenheim sous la garde de [[Pavarotti]].
 - **Ghal Maraz** : détruit S62 (Boris l'a brisé au conseil impérial). Les PJ ont mission de retrouver le vrai marteau (canon EiR ch.8-13).
 - **Conclave d'urgence** : **rompu**. Sigmarites et Ulricains rentrés en froid total.
-- **Empereur Karl-Franz** : toujours empoisonné (Purple Brain Pox via [[Henrik Kappelmuller|Kappelmuller]]), faux empereur ([[Hermann von Feilbach]]) en public.
+- **Empereur Karl-Franz** : toujours empoisonné (Fièvre cérébrale pourpre via [[Henrik Kappelmuller|Kappelmuller]]), faux empereur ([[Hermann von Feilbach]]) en public.
 
 ---
 

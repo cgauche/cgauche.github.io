@@ -492,7 +492,7 @@
 | **[[Katarina Todbringer]]** | [VIVANTE — ALLIÉE] | Survie attentat S61 + S63. Fiancée Wolfgang (sera annulée si Wolfgang meurt climax). |
 | **[[Heinrich Todbringer]]** | [VIVANT — HÉRITIER FAIT] | Mandat aux PJ pour Ghal Maraz. Rentre Middenheim. |
 | **[[Stefan Todbringer]]** | [VIVANT — INAPTE] | Middenheim avec Pavarotti. Héritier de jure. |
-| **Karl-Franz Holswig-Schliestein** | [VIVANT MAIS ALITÉ — Purple Brain Pox] | Récupérable si Kappelmuller démasqué + pomander retiré. |
+| **Karl-Franz Holswig-Schliestein** | [VIVANT MAIS ALITÉ — Fièvre cérébrale pourpre] | Récupérable si Kappelmuller démasqué + pomander retiré. |
 | **Hermann von Feilbach** | [VIVANT — sosie] | Reiksguard Cercle Intérieur loyal naïf. À conserver climax. |
 | **Maria-Luise von Walfen** | [VIVANTE — ALLIÉE potentielle] | Canal via Pesold (PJ). Token retinue ch.13. **À conserver climax**. |
 | **Wolfgang Holswig-Abenauer** | [VIVANT — vessel Sheerargetru] | Climax 9 Brauzeit. **Mortmaster** sauvé ou hôte démon. |

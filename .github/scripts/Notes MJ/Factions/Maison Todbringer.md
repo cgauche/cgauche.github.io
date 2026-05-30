@@ -48,7 +48,7 @@
 ## Hooks
 
 - **Mort de Boris S63 (homebrew « Le réveil d'Altdorf »)** : la passation d'autorité de fait à Heinrich ouvre une crise constitutionnelle — il n'est pas héritier légal et la loi salique impose Stefan inapte, ou une nomination par Karl-Franz d'un Plénipotentiaire impérial depuis Altdorf, scénario que les nationalistes du Middenland redoutent au plus haut point.
-- **Anika-Elise Nikse empoisonnée (révélation à venir)** : la « strange illness » `PBT ch.2 l.101` est en réalité une opération Gideon (Purple Brain Pox) — révélation possible si les PJ remontent la piste médecin Luigi Pavarotti ou retrouvent les notes de cour.
+- **Anika-Elise Nikse empoisonnée (révélation à venir)** : la « strange illness » `PBT ch.2 l.101` est en réalité une opération Gideon (Fièvre cérébrale pourpre) — révélation possible si les PJ remontent la piste médecin Luigi Pavarotti ou retrouvent les notes de cour.
 - **Survie de Katarina à l'attentat S61** : le mariage est annulé, mais la blessure ouvre un fil narratif sur la pertinence d'une union de remplacement ou d'une régence Heinrich-Katarina à deux têtes.
 - **Stefan curable ?** : si Pavarotti se rapproche d'un diagnostic, Stefan peut redevenir héritier viable — pivot Arc 7 à arbitrer table.
 - **Disparition de Veiran Thugenheim** : son corps n'a pas été retrouvé après l'attaque S63 ; enquête possible, retour incertain, ou exploitation Main Pourpre s'il a été capturé.

@@ -108,7 +108,7 @@
 - **Statut** : OUVERT (DISPARU temporairement)
 - **Né en** : S12 (Arc 2)
 - **Dernier mouvement** : S12 — Gideon disparaît après l'échec du rituel Bögenhafen (le rituel arrêté avant midnight = pas brûlé par Sheerargetru). Garde ses sorts + Ring of Opsianon.
-- **Réactivation canon** : Arc 5 PBT en S38 (Joachim Hoflich, Middenheim, tentative tuer Boris Todbringer) + Arc 7 EiR (antagoniste central, Wolfgang, Karl-Franz Purple Brain Pox via Kappelmuller).
+- **Réactivation canon** : Arc 5 PBT en S38 (Joachim Hoflich, Middenheim, tentative tuer Boris Todbringer) + Arc 7 EiR (antagoniste central, Wolfgang, Karl-Franz Fièvre cérébrale pourpre via Kappelmuller).
 - **Apparence** : enfant ~13 ans, coupe au bol, **très large sourire** (forme préférée). Forme native = Pink Horror multi-tentacules.
 - **Liens** : `Arc 5` · `Arc 7` · [[Gideon]]
 
@@ -137,7 +137,7 @@
 - **Statut** : OUVERT
 - **Né en** : S9 (Arc 2)
 - **Dernier mouvement** : S9 — rencontre à la Schaffenfest, s'attache à Anselm. Habite à Weissbruck.
-- **Réactivation canon** : Arc 4 DotR (PJ doivent l'aider, canon EiS ch.6) + Arc 7 EiR (pharmacienne personnelle de Yorri, manipulée par Gideon, fournit préparations Purple Brain Pox à Kappelmuller pour Karl-Franz).
+- **Réactivation canon** : Arc 4 DotR (PJ doivent l'aider, canon EiS ch.6) + Arc 7 EiR (pharmacienne personnelle de Yorri, manipulée par Gideon, fournit préparations Fièvre cérébrale pourpre à Kappelmuller pour Karl-Franz).
 - **Liens** : `Arc 4` · `Arc 7`
 
 ### FIL-18 — Ernst Heidlemann (Couronne Rouge Tzeentch)
@@ -459,10 +459,10 @@
 ### FIL-57 — Anika-Elise Nikse / Magus du Sceptre de Jade / preuves Wasmeier
 - **Statut** : OUVERT (latent, post-Arc 5)
 - **Né en** : pré-S30 (Wasmeier connaît Anika-Elise comme cultiste Slaaneshi Magus du Sceptre de Jade à Middenheim, canon PBT Companion ch. 6)
-- **Dernier mouvement** : Anika-Elise empoisonnée par Gideon (Purple Brain Pox) pré-Arc 5 (cf. fiche [[Gideon]] note S30). Wasmeier détient des **preuves écrites** de son culte secret.
+- **Dernier mouvement** : Anika-Elise empoisonnée par Gideon (Fièvre cérébrale pourpre) pré-Arc 5 (cf. fiche [[Gideon]] note S30). Wasmeier détient des **preuves écrites** de son culte secret.
 - **Réactivation canon** : EiR Companion ch. 5 *The Nordland Question* — Wasmeier transmet les preuves à [[Ingrid Gausser]] (Dowager) → agents Gausser → [[Liepmund Holzkrug]] → déposition de **Werner Nikse** comme Grand Baron de Nordland.
 - **Hooks** : (a) les PJ découvrent ce dossier en interrogeant Wasmeier ; (b) ils peuvent **bloquer** la transmission pour protéger Nikse, OU **accélérer** pour faciliter l'ascension Gausser ; (c) scandale Slaaneshi historique exploitable contre la famille Todbringer (mariage Boris × Anika-Elise = boudoir compromis).
-- **Liens** : [[Karl-Heinz Wasmeier]] · [[Ingrid Gausser]] · [[Theoderic Gausser]] · [[Liepmund Holzkrug]] · Werner Nikse · [[Gideon]] (Purple Brain Pox sur Anika-Elise) · `Arc 5` (mort Anika-Elise) · `Arc 7` (révélation post-EiR)
+- **Liens** : [[Karl-Heinz Wasmeier]] · [[Ingrid Gausser]] · [[Theoderic Gausser]] · [[Liepmund Holzkrug]] · Werner Nikse · [[Gideon]] (Fièvre cérébrale pourpre sur Anika-Elise) · `Arc 5` (mort Anika-Elise) · `Arc 7` (révélation post-EiR)
 
 ### FIL-58 — Porteurs de Sang / Beate Moser / Ar-Ulric Emil Valgeir
 - **Statut** : OUVERT

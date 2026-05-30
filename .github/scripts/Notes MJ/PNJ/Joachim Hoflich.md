@@ -65,7 +65,7 @@ Canon ch.3 *Evil Plot* + p.121 :
 - **Disparition Gideon S38** : retourne dans l'ombre Tzeentch. **Réapparait Arc 7** à Altdorf (Wolfgang + Kappelmuller + Volkmar fake S63).
 - **Pourquoi Wasmeier a recruté Gideon** plutôt qu'un Doppelgänger basique : à table, **Wasmeier sert Sheerargetru via Gideon** — c'est Gideon qui orchestre Wasmeier, **pas l'inverse**. Wasmeier croit qu'il dirige, mais il est en réalité **pion de Tzeentch**. Cohérent avec le plan Arc 7 EiR (Sheerargetru-Gideon-Zuntermein-Wasmeier-Kappelmuller).
 - **Si les PJ creusent** : il y a des indices possibles (le métamorphe a transformé en oiseau, alors qu'un Doppelgänger ne le ferait pas — il fuirait sous forme humanoïde). À table c'est un **signal** (Gideon peut prendre n'importe quelle forme).
-- **Stefan** : potentiellement empoisonné aussi par Gideon (similar pattern Anika-Elise). Hook Arc 6 : Pavarotti peut **diagnostiquer Purple Brain Pox** chez Stefan post-PBT, c'est la **signature Gideon**.
+- **Stefan** : potentiellement empoisonné aussi par Gideon (similar pattern Anika-Elise). Hook Arc 6 : Pavarotti peut **diagnostiquer Fièvre cérébrale pourpre** chez Stefan post-PBT, c'est la **signature Gideon**.
 
 ## Hooks de retour
 

@@ -44,7 +44,7 @@
 | **~2505-2510 IC** | **Kastor Lieberung leuré à Bögenhafen** par fausse héritage ; tué par mutants ; = S8 PBT table Gauche off-canon | 11+12 | EiR Intro l.208 |
 | ~2510 IC | **Gideon (Changeling)** remplace Joachim Hoflich Law Lord Middenheim (PBT) | 02+11 | Fandom Joachim Hoflich + EiR Companion ch.7 |
 | Pré-2512 IC | **Jarrick Valgeir chantage Main Pourpre** → abdication + pèlerinage Norsca *"never returned"* ; Emil Valgeir devient Ar-Ulric | 02+10+12 | Fandom Jarrick Valgeir |
-| Spring 2511 IC env. | **Karl-Franz tombe malade** — Purple Brain Fever magique Gideon + sédation Kappelmuller | 09+11 | EiR Intro l.239-243 |
+| Spring 2511 IC env. | **Karl-Franz tombe malade** — Fièvre cérébrale pourpre magique Gideon + sédation Kappelmuller | 09+11 | EiR Intro l.239-243 |
 | ~2511 IC | **Immanuel-Ferrand recrute Hermann von Feilbach** ; **Hermann trained par Holzkrug** ; double public installé | 09+11 | Fandom Hermann von Feilbach |
 | 2511-2512 IC | Karl-Franz signe sous influence : Mutant Edict + Ubersreik Takeover (déposition Jungfreuds) | 09+11 | EiR ch.8 l.49-54 |
 
@@ -259,7 +259,7 @@
    → 11 : Gideon Lesser Daemon Tzeentch agent Sheerargetru → recrute Kastor Lieberung
        → 11 : Kastor recrute Neuf Yeux (9 tuteurs Tzeentch dans 9 villes)
            → 11 : Wolfgang Holswig-Abenauer éduqué Neuf Yeux (2503-2512)
-               → 11 : Gideon applique Purple Brain Fever Karl-Franz
+               → 11 : Gideon applique Fièvre cérébrale pourpre Karl-Franz
                    → 11 : Henrik Kappelmuller infiltré médecin KF → sédation prolongée
                        → 11 : Immanuel-Ferrand recrute Hermann von Feilbach (sosie) ; entraîné par Holzkrug
                            → 11 : KF signe sous influence (Mutant Edict + Ubersreik Takeover)
@@ -330,7 +330,7 @@
 - **Imperial Ostlanders** : alertes Black Mountains (Vorgaz Ironjaw préfiguration 2520 IC).
 
 ### Édits impériaux signés sous influence (révisés/maintenus ?)
-- **Mutant Edict** (signé sous Purple Brain Fever) : statut post-Turmoil non précisé canon EiR (probablement maintenu ; effets cascade fiche 10 persistance Fils d'Ulric).
+- **Mutant Edict** (signé sous Fièvre cérébrale pourpre) : statut post-Turmoil non précisé canon EiR (probablement maintenu ; effets cascade fiche 10 persistance Fils d'Ulric).
 - **Ubersreik Takeover** (saisi Jungfreuds) : statut post-Turmoil non précisé canon EiR ; Helborg dépêché à Ubersreik crisis (EiR ch.13 l.338).
 
 ### Statut Ubersreik
@@ -383,7 +383,7 @@ Citation canon EiR ch.17 l.34 : *"In light of these revelations the positions of
 | 06 | Ostland-Ostermark (Tasseninck-Raukov-Hertwig) | [Turmoil/06](<Turmoil/06 - Ostland-Ostermark (Tasseninck-Raukov-Hertwig).md>) | **Tasseninck stripped Ostland** (mort Hergard + guerre Ostland-Talabecland) → **Valmir von Raukov Grand Prince + Brain Wounder** ; **League of Ostermark Grand Provincial** sous Wolfram Hertwig + Troll Cleaver ; promotions Sigmarites compensatoires. |
 | 07 | Hochland (Ludenhof) | [Turmoil/07](<Turmoil/07 - Hochland (Ludenhof).md>) | **Promotion sigmarite compensatoire** — **Aldebrand Ludenhof Grand Baron + Elector + Goblin Bane** ; **Grand Barony of Hochland Grand Provincial status** ; confédération marcher lords est sous Hertwig porte-parole ; régence Tussen-Hochen éteinte 2514. |
 | 08 | Stirland (Haupt-Anderssen) | [Turmoil/08](<Turmoil/08 - Stirland (Haupt-Anderssen).md>) | **Non-engagement militaire récompensé** — **Alberich V Haupt-Anderssen Grand Duke → Grand Count** ; manipulé par compromettants Main Pourpre pour vote Nordland ; cherche trustworthy band Altdorf (Purple Fingerprints hook PJ) ; **Orc Hewer Runefang** symbol. |
-| 09 | Reikland-Altdorf (Karl-Franz - le faux Empereur) | [Turmoil/09](<Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur).md>) | **Karl-Franz alité Purple Brain Fever magique Gideon** ; double Hermann von Feilbach Reiksguard porte Imitation Ghal Maraz ; **mariage Maria-Luise 2512** post-Turmoil → Luitpold (Altdorf) + Alia (Reikland) légitimés ; Trio Emmanuelle + Alberich. |
+| 09 | Reikland-Altdorf (Karl-Franz - le faux Empereur) | [Turmoil/09](<Turmoil/09 - Reikland-Altdorf (Karl-Franz - le faux Empereur).md>) | **Karl-Franz alité Fièvre cérébrale pourpre magique Gideon** ; double Hermann von Feilbach Reiksguard porte Imitation Ghal Maraz ; **mariage Maria-Luise 2512** post-Turmoil → Luitpold (Altdorf) + Alia (Reikland) légitimés ; Trio Emmanuelle + Alberich. |
 | 10 | Cultes religieux (Sigmar-Ulric-Arch-Lecteurs) | [Turmoil/10](<Turmoil/10 - Cultes religieux (Sigmar-Ulric-Arch-Lecteurs).md>) | **Crise religieuse Empire-wide** : (a) renaissance ulricaine fanatique Emil Valgeir + Fils d'Ulric ; (b) effondrement sommet sigmarite climax (Yorri+Aglim tués) ; **Volkmar von Hindenstern Grand Theogonist** ~Jahrdrung 2513 ; promotions sigmarites compensatoires. |
 | 11 | Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire) | [Turmoil/11](<Turmoil/11 - Niveau impérial (Ghal Maraz - Wolfgang - Chambre Noire).md>) | **Mécanique impériale transversale** : Ghal Maraz vrai/Imitation/9 fragments + Wolfgang vessel Sheerargetru + Neuf Yeux 9 cellules + Chambre Noire 4-wing avec Palisades ; climax Volkshalle 9 Brauzeit ; **dossier Chambre Noire expose Main Pourpre Empire-wide**. |
 | 12 | Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains) | [Turmoil/12](<Turmoil/12 - Périphérie (Marienburg - Norsca - Bretonnia - Tilea - Nains).md>) | **Écosystème externe** : Marienburg sécession 2429 IC (Directorate) ; Norsca raids 2512 → Second Fleet ; Bretonnia diplomatie ; Tilea condottieri (**Leopold's Leopard pour Liebwitz annexion Sudenland**) + Vatheck Fulci ; Nains (Karak Skygg = Vol 4 ; Col du Feu Noir = vrai Ghal Maraz Vol 5). |

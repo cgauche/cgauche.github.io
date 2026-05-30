@@ -40,13 +40,13 @@ qui terrifierait ses pactisants s'ils la comprenaient
 ## Réseau
 
 - **Maître** : Sheerargetru — Duc du Changement Exalté piégé par Sigmar dans le Col du Feu Noir depuis ~2500 ans, dont Gideon a pour mission de préparer la libération `EiR Intro l.23+87`.
-- **Subordonnés directs** : Henrik Kappelmuller — Gideon applique le sort de Purple Brain Pox à distance sur l'Empereur et le lève à chaque fois que Kappelmuller administre une médication, donnant au médecin l'apparence d'un thérapeute compétent. Kappelmuller le voit comme un simple page de Zuntermein `EiR ch.8 l.54`. Albertus Goldformer — maître métallurgiste cultiste recruté par Gideon pour façonner le reliquaire piégé du Volkshalle `EiR ch.13 l.272`.
+- **Subordonnés directs** : Henrik Kappelmuller — Gideon applique le sort de Fièvre cérébrale pourpre à distance sur l'Empereur et le lève à chaque fois que Kappelmuller administre une médication, donnant au médecin l'apparence d'un thérapeute compétent. Kappelmuller le voit comme un simple page de Zuntermein `EiR ch.8 l.54`. Albertus Goldformer — maître métallurgiste cultiste recruté par Gideon pour façonner le reliquaire piégé du Volkshalle `EiR ch.13 l.272`.
 - **Cultistes utilisés sans recrutement direct** : les neuf cellules de la Main Pourpre que Gideon a encouragées et patronnées depuis des siècles ; ses membres s'imaginent gagner du pouvoir temporel alors qu'ils servent un agenda démoniaque qu'aucun cultiste sain de Tzeentch n'accepterait `EiR Intro l.25-27` `EiR Intro l.39`.
 - **Allié instrumental ignorant** : Yann Zuntermein — collabore avec Gideon pour déstabiliser l'Empire et préparer Wolfgang Holswig-Abenauer comme héritier sympathique à la Main Pourpre, ne soupçonne pas que Gideon est démon ni que Wolfgang est destiné à servir de réceptacle à Sheerargetru `EiR Intro l.206`. Kastor Lieberung — convaincu par Gideon qu'une prophétie ancienne fait du Prince Héritier le Champion dans les Ombres ; Gideon a modifié subtilement son apparence et a semé des indices pour qu'il soit exposé aux ennemis du Chaos `EiR Intro l.31+201`. Les **Neuf Yeux** — neuf tuteurs érudits que Gideon a personnellement approchés il y a près de neuf ans, recrutés depuis tout l'Empire pour éduquer Wolfgang Holswig-Abenauer ; ils ignorent qu'ils sont eux-mêmes destinés à servir d'hôtes secondaires si Wolfgang échoue `EiR Intro l.90-94`.
 - **Manipulées à leur insu** : Elvyra Kleinestun — Gideon avait pris la forme du daemonologiste d'Altdorf qui avait tenté de la kidnapper pendant *Death on the Reik* ; depuis, il l'a tournée à ses fins par persuasion subtile et l'a fait élever via Zuntermein au rang de pharmacienne personnelle du Grand Théogoniste Yorri XV `EiR Intro l.220`. Hermine Liebwitz von Decker und Hanulf — soudoyée par « un jeune garçon » pour donner accès discret aux caves du Volkshalle aux artisans qui rouvriront le passage sous le reliquaire `EiR ch.13 l.283`.
 - **Réceptacle parfait préparé** : Wolfgang Holswig-Abenauer — instillé depuis l'enfance via les Neuf Yeux pour devenir l'hôte idéal de Sheerargetru ; son éducation cosmopolite cache une corruption tzeentchéenne subliminale `EiR Intro l.41-43` `EiR Intro l.96`.
 - **Sosie sur le trône** : Hermann von Feilbach — la maladie magique entretenue par Gideon a justifié la mise en place du double public de Karl-Franz Holswig-Schliestein `EiR ch.8 l.54`.
-- **Cible de neutralisation** : Karl-Franz Holswig-Schliestein — sort de Purple Brain Pox magiquement induit pour le maintenir alité et suggestible pendant la phase préparatoire `EiR ch.8 l.52`.
+- **Cible de neutralisation** : Karl-Franz Holswig-Schliestein — sort de Fièvre cérébrale pourpre magiquement induit pour le maintenir alité et suggestible pendant la phase préparatoire `EiR ch.8 l.52`.
 
 ## Objectifs et angle mort
 
@@ -78,7 +78,7 @@ alternatives possibles ch.13 si Sheerargetru échoue à se manifester.
 ## Plans en cours `EiR Intro l.84-98`
 
 - **Manifestation de Sheerargetru** : cérémonie au Volkshalle, 9 h le 9 Brauzeit ; reliquaire piégé par Albertus Goldformer, trappe sous Ghal Maraz, faux gardes d'honneur cultistes qui scandent neuf fois *« Iztak Graksk »* et frappent Wolfgang Holswig-Abenauer dans le dos.
-- **Maladie de l'Empereur** : sort de Purple Brain Pox appliqué et levé en synchronisation avec Henrik Kappelmuller ; léthargie et suggestibilité ; Karl-Franz Holswig-Schliestein accepte ainsi l'occupation d'Ubersreik, l'Édit sur les mutants, et l'usage public d'un sosie `EiR ch.8 l.54`.
+- **Maladie de l'Empereur** : sort de Fièvre cérébrale pourpre appliqué et levé en synchronisation avec Henrik Kappelmuller ; léthargie et suggestibilité ; Karl-Franz Holswig-Schliestein accepte ainsi l'occupation d'Ubersreik, l'Édit sur les mutants, et l'usage public d'un sosie `EiR ch.8 l.54`.
 - **Pression sur la recherche** à la Bibliothèque-temple de Verena : Gideon laisse certains livres ouverts sur les tables si les PJ traînent, ou les prête à des médecins et notaires d'Altdorf si les PJ avancent trop vite — afin de caler leur arrivée à Altdorf un ou deux jours avant le 9 Brauzeit `EiR ch.8 l.131-138`.
 - **Sabotage du voyage** : pendant le trajet sud-Empire, Gideon perce les coques, blesse les chevaux, dégrade les routes pour ajuster le tempo des PJ. Un test de Gossip Challenging peut faire émerger la description d'un jeune garçon souriant rôdant près des sabotages `EiR Intro l.388-400`.
 - **Réceptacles de secours** : si Wolfgang Holswig-Abenauer meurt ou est neutralisé, Yann Zuntermein ou Karl-Heinz Wasmeier peuvent servir d'hôtes inférieurs `EiR ch.13 l.470`.
@@ -94,7 +94,7 @@ alternatives possibles ch.13 si Sheerargetru échoue à se manifester.
 
 ## Apparitions Arc 7
 
-- **Avant Arc 7** : maintien du sort de Purple Brain Pox sur Karl-Franz Holswig-Schliestein depuis environ un an, en coordination avec Henrik Kappelmuller pour faire passer le médecin pour efficace `EiR ch.8 l.50-54`.
+- **Avant Arc 7** : maintien du sort de Fièvre cérébrale pourpre sur Karl-Franz Holswig-Schliestein depuis environ un an, en coordination avec Henrik Kappelmuller pour faire passer le médecin pour efficace `EiR ch.8 l.50-54`.
 - **Pré-S57** : visite régulière chez le médecin impérial sous la forme du jeune garçon, signalée par Immanuel-Ferrand Holswig-Schliestein, Maria-Luise von Walfen ou Hermine Liebwitz si les PJ enquêtent `EiR ch.8 l.86`.
 - **S64+ (trajet sud-Empire)** : sabotages discrets (bateaux, chevaux, routes) pour caler l'arrivée des PJ à Altdorf un ou deux jours avant le 9 Brauzeit ; description occasionnellement obtenue d'un jeune garçon souriant à coupe au bol rôdant près des incidents `EiR Intro l.388-400`.
 - **S64+ (Streissen → Altdorf)** : Gideon dépêche le Nain Tueur Thirteen au secours des PJ face à une horde du Chaos qu'il n'avait pas anticipée — il a foi en leur ténacité mais s'inquiète qu'ils détournent à Wolfshügel `EiR ch.12 l.417-419`.
@@ -107,7 +107,7 @@ alternatives possibles ch.13 si Sheerargetru échoue à se manifester.
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 4 | 45 | 47 | 42 | 40 | 58 | 47 | 39 | 59 | 60 | 51 | 22 |
 
-**Traits** : Blight (Purple Brain Fever), Corruption (Moderate),
+**Traits** : Blight (Fièvre cérébrale pourpre), Corruption (Moderate),
 Daemonic 8+, Fear 2, Fleshthief, Hardy, Night Vision, Spellcaster,
 Unstable, Weapon +9.
 
@@ -130,7 +130,7 @@ Shadowsteed, Shroud of Invisibility.
 
 > **Notes MJ** :
 > - **Préférence tactique** : Lore of Shadows pour cacher ses alliés et tromper les PJ, jamais d'attaque frontale tant qu'il peut se dissimuler `EiR ch.13 l.74`.
-> - **Blight (Purple Brain Fever)** : sort signature ; permet le scénario Karl-Franz Holswig-Schliestein et compromet plus largement tout PNJ sur la durée si Gideon le cible.
+> - **Blight (Fièvre cérébrale pourpre)** : sort signature ; permet le scénario Karl-Franz Holswig-Schliestein et compromet plus largement tout PNJ sur la durée si Gideon le cible.
 > - **Fleshthief + Master illusionist** : prend une apparence humaine au choix ; la **forme préférée à l'Arc 7** reste l'enfant à coupe au bol, mais la forme adulte « cousin de Teugen » d'EiS ch.9 et la forme féminine « Nina Dietrich » restent dans son répertoire `EiS ch.9 l.484-486`.
 > - **Ring of Opsianon** : ses sorts résistent à toute tentative de dissipation tant qu'il porte l'anneau — détail tactique critique si les PJ tentent de neutraliser ses illusions au combat.
 

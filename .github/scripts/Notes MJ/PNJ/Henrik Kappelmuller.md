@@ -27,7 +27,7 @@ couteaux de jet enduits de Black Lotus `EiR ch.8 l.76`.
 - **Supérieur direct** : Yann Zuntermein — Magister Magistri de la cellule Altdorf de la Main Pourpre, le maintient sous contrôle et lui souffle les diversions à activer en cas de démasquage `EiR Intro l.665`.
 - **Couverture officielle** : intégré à la Guilde des Médecins d'Altdorf trois ans avant le début d'EiR, via fausses lettres prétendant des cursus à l'Université de Nuln (faussement signées de Professeure Süde Nimme) et appuyé par des dons et témoignages flatteurs — pratique restée dormante jusqu'à son recrutement au Palais `EiR ch.8 l.62`.
 - **Fournisseuse et bouc émissaire prête à servir** : Elvyra Kleinestun — pharmacienne lui livrant les préparations de Ranald's Delight ; sa carrière à Altdorf lui doit son emploi, ce qui la rend dépendante et reconnaissante. Zuntermein l'a positionnée explicitement comme la coupable à charger si Kappelmuller est démasqué `EiR Intro l.320`.
-- **Inducteur de la maladie** : Gideon — applique le sort de Purple Brain Pox à distance et le retire chaque fois que Kappelmuller administre une préparation, donnant à Kappelmuller l'apparence d'un thérapeute compétent. Kappelmuller voit Gideon comme un page de Zuntermein qui passe parfois `EiR ch.8 l.54`.
+- **Inducteur de la maladie** : Gideon — applique le sort de Fièvre cérébrale pourpre à distance et le retire chaque fois que Kappelmuller administre une préparation, donnant à Kappelmuller l'apparence d'un thérapeute compétent. Kappelmuller voit Gideon comme un page de Zuntermein qui passe parfois `EiR ch.8 l.54`.
 - **Visiteurs identifiables** signalés par Immanuel-Ferrand Holswig-Schliestein, Maria-Luise et Hermine Liebwitz aux PJ qui poussent l'enquête : une dame d'âge mûr à l'accent altdorfer qui lui livre les ingrédients de ses préparations (Elvyra Kleinestun), et un jeune homme d'environ treize ans, coupe au bol, sourire remarquablement large (Gideon) `EiR ch.8 l.86`.
 - **Victime** : Karl-Franz Holswig-Schliestein — empoisonné lentement par Ranald's Delight introduit dans les médications, état de léthargie et de suggestibilité accrue `EiR ch.8 l.54`.
 - **Sosie qu'il rencontre** : Hermann von Feilbach — la maladie de Karl-Franz a justifié la mise en place du double public, dont Kappelmuller connaît évidemment l'existence (il soigne le vrai au Palais) `EiR Intro l.240`.
@@ -44,7 +44,7 @@ sortie par évasion programmée si la couverture cède.
 
 **Ce qu'il sait** `EiR ch.8 l.54` : que sa « médecine » ne soigne
 rien. Que l'apparente amélioration ne tient que parce que Gideon
-retire son sort de Purple Brain Pox à chaque administration. Que sa
+retire son sort de Fièvre cérébrale pourpre à chaque administration. Que sa
 hiérarchie passe par Zuntermein, et que les diversions qu'il doit
 servir en cas d'urgence sont chorégraphiées d'avance (blâmer Elvyra,
 vendre Wasmeier).
@@ -58,7 +58,7 @@ protège des divinations cléricales sigmarites ou véréniennes.
 ## Plans en cours `EiR ch.8 l.49-54`
 
 - **Médication soporifique quotidienne** : Ranald's Delight fourni par Elvyra Kleinestun, glissé dans les préparations administrées à Karl-Franz Holswig-Schliestein → léthargie, lucidité intermittente, suggestibilité.
-- **Cycle Gideon** : laisse Gideon piloter le sort de Purple Brain Pox à distance ; passe pour compétent quand Gideon retire le sort en synchro avec ses prescriptions.
+- **Cycle Gideon** : laisse Gideon piloter le sort de Fièvre cérébrale pourpre à distance ; passe pour compétent quand Gideon retire le sort en synchro avec ses prescriptions.
 - **Diversions préparées par Zuntermein** : Elvyra à charger, Wasmeier à dénoncer comme commanditaire, fuite par la fenêtre si combat — script donné d'avance par Zuntermein, pas improvisation.
 - **Défense passive de la chambre** : pomander de Schlafenkraut + Moonflower + pin sous le lit, dont les fumées imposent Willpower Très Difficile (-30) ou Fatigué après quatre rounds dans la pièce ; Kappelmuller s'y est immunisé `EiR ch.8 l.124`.
 

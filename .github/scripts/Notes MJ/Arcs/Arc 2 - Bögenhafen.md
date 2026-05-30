@@ -194,7 +194,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 ### MJ-only S9
 - **Mystic Megret** : ses prédictions sont **véritablement précises** (canon : ses dons sont réels). Prophétie "7 + 2 qui détruiront" = Inner Council Ordo Septenarius (7) + Teugen/Gideon (2). À utiliser comme guide en sessions.
-- **Elvyra Kleinestun** : **important hook long-terme**. En Arc 4 DotR, les PJ doivent la sauver (canon : "la party aura l'opportunité de l'aider à Death on the Reik"). En Arc 7 EiR, **canon retcon** : elle devient **pharmacienne personnelle de Yorri (Grand Theogonist)** — manipulée par Gideon pour fournir des **préparations magiques empoisonnées** à Henrik Kappelmuller pour empoisonner Karl-Franz avec **Purple Brain Pox**. Elvyra = pion involontaire du Grand Plan. **Connexion Arc 2 ↔ Arc 7 critique.**
+- **Elvyra Kleinestun** : **important hook long-terme**. En Arc 4 DotR, les PJ doivent la sauver (canon : "la party aura l'opportunité de l'aider à Death on the Reik"). En Arc 7 EiR, **canon retcon** : elle devient **pharmacienne personnelle de Yorri (Grand Theogonist)** — manipulée par Gideon pour fournir des **préparations magiques empoisonnées** à Henrik Kappelmuller pour empoisonner Karl-Franz avec **Fièvre cérébrale pourpre**. Elvyra = pion involontaire du Grand Plan. **Connexion Arc 2 ↔ Arc 7 critique.**
 - **Gottri Gurnisson** sera enlevé par un serviteur Teugen ce soir, sacrifié par Gideon pour invoquer le Guardian Daemon. Son corps finit dans les égouts. **Identifié canon Plot S10**.
 - **Witch Hunter Alprecht Kassel** (option canon) — secrètement cultiste **Silver Spires Tzeentch**, en ville pour piéger Malthusius. **Non joué à table** mais hook latent.
 
@@ -237,7 +237,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **Garde à l'entrepôt incohérent** (canon : **Anton Breugel** warehouseman alcoolique, raconte avoir tué le gobelin lui-même — Anton mourra mystérieusement le lendemain dans la rivière).
 - **Skippy / temple de Sigmar** — Prêtre zélé monte la haine contre les Ulriçains. **Massacre au temple d'Ulric** (graffiti contre eux). **Skippy participe**. → trigger conversion progressive Skippy→Mark vers Ulric.
 - **Elvira / temple de Shallya** — Aide les blessés. **Vision apocalyptique de Rhya** : *"La lune grimaçante rit, alors que tout meurt et devient stérile. Agissez, de peur que cette terre ne soit perdue à jamais."* (canon : message Rhya l.436 ch.8). **Morrslieb visible et croissante**.
-- **Anselm soigne Richter** (Purple Brain Fever, langue bleue) — canon : induit par Gideon, même maladie que Karl Teugen (frère de Johannes Teugen) jadis. Bibliothèque Verena : référence à la mort de Karl Teugen → Johannes a pris la suite.
+- **Anselm soigne Richter** (Fièvre cérébrale pourpre, langue bleue) — canon : induit par Gideon, même maladie que Karl Teugen (frère de Johannes Teugen) jadis. Bibliothèque Verena : référence à la mort de Karl Teugen → Johannes a pris la suite.
 - **Ordo Septenarius** identifié — **Teugen + Steinhäger membres**. Vente de vin Steinhäger (couverture Josef Quartjin). Pathsokar fouille bureau Steinhäger → lettre Teugen → Ordre se réunit ce soir.
 - **Prédicateur Ulthar** (à priori, non précisé table — possiblement le même prêcheur de S6 ?) — fou, mort plus tard.
 - **Menaces de gros bras** = thugs envoyés par Gurney (Stevedores' Guild) pour Teugen.
@@ -246,16 +246,16 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 
 ### Ce que les PJ savent à la fin de S11
 - **Ordo Septenarius** = secte secrète. Membres : Teugen (chef), Steinhäger, Magirius, autres.
-- Karl Teugen empoisonné jadis = même mal que Richter aujourd'hui (Purple Brain Fever).
+- Karl Teugen empoisonné jadis = même mal que Richter aujourd'hui (Fièvre cérébrale pourpre).
 - Magirius hésite, fragilité morale.
 - Visions Elvira → catastrophe imminente.
 
 ### MJ-only S11
-- **Johannes Teugen** : 50 ans, daemonologist, ex-Université de Nuln. **Contrat de 7 ans avec Gideon (Tzeentch)** depuis 8 ans (canon ch.9 l.456). Pâle, dents canines pointues, nocturne, déteste l'ail. **Sa famille** : père Friedrich + mère Gunnhilde Teugen ; **frère aîné Karl Teugen tué par Gideon** (Purple Brain Pox) il y a 2 ans, Johannes a hérité de la maison.
+- **Johannes Teugen** : 50 ans, daemonologist, ex-Université de Nuln. **Contrat de 7 ans avec Gideon (Tzeentch)** depuis 8 ans (canon ch.9 l.456). Pâle, dents canines pointues, nocturne, déteste l'ail. **Sa famille** : père Friedrich + mère Gunnhilde Teugen ; **frère aîné Karl Teugen tué par Gideon** (Fièvre cérébrale pourpre) il y a 2 ans, Johannes a hérité de la maison.
 - **Gideon** = **Sheru-Tar Gee'taru, Herald of Tzeentch**. Maître illusionniste. Pink Horror. **Master = Greater Daemon of Tzeentch with long-reaching plans** (= **Sheerargetru** révélé en Arc 7 EiR). **Le ritual est un mensonge** : ne sauvera pas l'âme de Teugen, mais ouvrira un Chaos Gate sur Bögenhafen sacrifiant toute la population pour faire entrer une horde de Tzeentch. Plan vaste.
 - **Gideon apparaît en enfant** à Teugen pour l'agacer (mâche de l'ail aussi). À table en S12 : **l'enfant sinistre = Gideon** sous forme humanoïde.
 - **Ring of Opsianon** : artefact magique porté par Gideon (canon ch.9 l.469). Empêche dispel de ses sorts.
-- **Karl Teugen empoisonné par Gideon** avec **Purple Brain Pox** (canon Blight trait de Sheru-Tar) = **MÊME MALADIE** que celle qui afflige **Karl-Franz** en Arc 7 EiR (canon EiR : Henrik Kappelmuller empoisonne Karl-Franz avec préparations magiquement induites de Gideon). **Méthode identique 8 ans avant.**
+- **Karl Teugen empoisonné par Gideon** avec **Fièvre cérébrale pourpre** (canon Blight trait de Sheru-Tar) = **MÊME MALADIE** que celle qui afflige **Karl-Franz** en Arc 7 EiR (canon EiR : Henrik Kappelmuller empoisonne Karl-Franz avec préparations magiquement induites de Gideon). **Méthode identique 8 ans avant.**
 - **Ordo Septenarius** : 49 membres total (42 rank-and-file + 7 Inner Council + Teugen + Gideon). Inner Council croit que le rituel manipule l'économie pour les enrichir. Tous innocents de l'enjeu réel.
 - **Inner Council** : Teugen + Steinhäger + Magirius + 4 autres canoniquement non-nommés (à inventer si besoin). Tous riches mercants Bögenhafen.
 - **Connexion Bögenhafen ↔ Col du Feu Noir (révélée Arc 7 EiR)** : Teugen, Steinhäger et **Jochen Haagen** (3e marchand, **n'apparaît pas dans Bögenhafen** durant l'arc) ont un permis daté du **9 Brauzeit 2508** pour exploiter la **mine de Schmerzeit** dans le Col du Feu Noir, près des **Trois Sœurs** (statues d'ancêtres nains). **Ces mines doivent atteindre la grotte de Ghal Maraz** sous influence Sheerargetru. Gideon les manipulait déjà avant la mort de Teugen. **Haagen continue probablement l'opération après S12.** Hook **majeur** pour Arc 7.
@@ -320,7 +320,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 | **Quintus Fassbinder** ("Q.F.") | EiS ch.4 l.140 (mentionné) | [VIVANT] non-rencontré | **Professeur d'Altdorf, anti-Main Pourpre.** Réapparait Arc 7 EiR ch.8 (rendez-vous Altdorf). **CONTINUITÉ MAJEURE.** |
 | **Johannes Teugen** | EiS ch.9 l.410-447 (statbloc + description) | [MORT] S12 (âme prise par Sheerargetru) | Daemonologist, chef Ordo Septenarius. Pacte 7 ans avec Gideon. Tué dans son rituel raté. |
 | **Gideon** (Sheru-Tar Gee'taru, Herald of Tzeentch) | EiS ch.9 l.456-488 (statbloc + description) | [VIVANT] [DISPARU] [ENNEMI ACTIF] | **Démon de Tzeentch**, illusionniste. Reviendra Arc 5+ (Joachim Hoflich Middenheim) et Arc 7 (manipulateur central EiR). **Ring of Opsianon.** Apparait en enfant sinistre. |
-| **Karl Teugen** | EiS ch.5 l.41 (mentionné, mort hors-jeu) | [MORT] jadis (~2510 IC) | Frère aîné Johannes, **tué par Gideon Purple Brain Pox**. **Même méthode que Kappelmuller↔Karl-Franz Arc 7.** |
+| **Karl Teugen** | EiS ch.5 l.41 (mentionné, mort hors-jeu) | [MORT] jadis (~2510 IC) | Frère aîné Johannes, **tué par Gideon Fièvre cérébrale pourpre**. **Même méthode que Kappelmuller↔Karl-Franz Arc 7.** |
 | **Friedrich Magirius** | EiS ch.8 l.675-686 (statbloc) | [MORT] S12 | Burgomeister Bögenhafen, Inner Council Ordo Septenarius. A craqué, tué par Gideon. |
 | **Franz Steinhäger** | EiS ch.8 l.609-624 (statbloc) | [VIVANT] [DISPARU] | Merchant Prince, Inner Council. **Apprenait magie sous Gideon** (corruption). Survivor S12 ? **Hook fort.** |
 | **Heinrich Steinhäger** | EiS ch.8 l.349-353 | [VIVANT] [SANS POSITION] | Frère cadet Franz, voulait le déposer. Peut prendre la main. |
@@ -411,7 +411,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **Connexions retroactives EiR (Arc 7)** :
   - **Sheerargetru** (Greater Daemon Tzeentch enchaîné Col du Feu Noir) = "Master" de Gideon mentionné canon EiS ch.9 l.456.
   - **Mine de Schmerzeit / 3 partenaires Teugen+Steinhäger+Haagen** = permis retconné par EiR pour relier Bögenhafen → Col du Feu Noir → Ghal Maraz cave.
-  - **Purple Brain Pox méthode Karl Teugen ↔ Karl-Franz** = même empoisonnement magique 8 ans d'écart.
+  - **Fièvre cérébrale pourpre méthode Karl Teugen ↔ Karl-Franz** = même empoisonnement magique 8 ans d'écart.
   - **Hermann von Feilbach (sosie Karl-Franz)** = vu défiler ici à S6.
   - **Quintus Fassbinder** = même PNJ qu'au début d'EiR ch.8 (rendez-vous Altdorf).
 - **Premières introductions Tzeentch** : Plot Tzeentch en arrière-plan à Altdorf (canon ch.3 l.52). Manifestations subtiles (rats agités, gens étranges, l'air "vibre"). Premier contact direct avec un démon de Tzeentch S10 (Guardian) + S12 (Gideon en transformation).

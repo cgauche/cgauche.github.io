@@ -57,7 +57,7 @@ de la stabilité — quand l'occasion se présente
 **Ce qu'elle sait** `EiR ch.8 l.81` : que les préparations qu'elle
 fournit à Henrik Kappelmuller sont *peut-être* mal dosées et que
 l'Empereur souffre — elle considère cela comme une malchance et la
-difficulté reconnue de soigner la Purple Brain Pox, jamais comme un
+difficulté reconnue de soigner la Fièvre cérébrale pourpre, jamais comme un
 empoisonnement délibéré. Que la cour d'Altdorf traite l'Empereur et
 Ghal Maraz avec un mépris qu'elle juge scandaleux `EiR ch.3 l.163-167`.
 Qu'elle a une identité passée à cacher — Gisel Schader, vendeuse de
@@ -94,7 +94,7 @@ usage criminel `EiR ch.3 l.125`.
 ## Apparitions Arc 7
 
 - **[S58 Shining Rock]** — Présente parmi le personnel du Grand Théogoniste ; herborise dans les bois alentour ; sur prise de contact, livre sa première ou sa seconde histoire selon le passé des PJ avec elle `EiR ch.3 l.93-98` `EiR ch.3 l.115-135`. Conversation candide avec Veiran Thugenheim au camp Middenheim, surprise possible par les PJ — confidences sur l'attitude méprisante de la cour altdorfer envers l'Empereur et Ghal Maraz `EiR ch.3 l.156-169`. Après l'attaque des Fils d'Ulric, si elle n'a pas encore eu sa fenêtre, devient plus pressante encore pour prévenir la délégation middenheimer que tout n'est pas comme il devrait à la cour `EiR ch.3 l.365`.
-- **[S64+ Asking After Henrik Kappelmuller]** — Interrogée par les PJ qui remontent la piste du médecin impérial, défend spontanément Kappelmuller (« he secured her own job ») et lâche prudemment quelques concessions sur la difficulté reconnue à soigner la Purple Brain Pox `EiR ch.8 l.78-81`.
+- **[S64+ Asking After Henrik Kappelmuller]** — Interrogée par les PJ qui remontent la piste du médecin impérial, défend spontanément Kappelmuller (« he secured her own job ») et lâche prudemment quelques concessions sur la difficulté reconnue à soigner la Fièvre cérébrale pourpre `EiR ch.8 l.78-81`.
 - **[Variante : audience arrachée]** — Si les PJ la convainquent (Charm Very Hard (-30) qu'il est dans l'intérêt de l'Empire qu'ils voient Kappelmuller à l'œuvre), elle peut leur ouvrir la porte de la chambre impériale `EiR ch.8 l.93`.
 - **[Variante : retournement]** — Si les PJ exposent à Elvyra qu'elle est manipulée (Hollzauber = Gideon, ses ingrédients tuent l'Empereur), une bascule est possible : elle n'est pas Tzeentchéenne et son ascension à Altdorf est obtenue sous chantage `EiR Intro l.220` `EiR ch.3 l.125+133`.
 

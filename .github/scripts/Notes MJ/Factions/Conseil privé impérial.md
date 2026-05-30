@@ -52,7 +52,7 @@ ajouté celle d'un Elfe d'Ulthuan `Altdorf ch.2 l.40+45`.
 ## Hooks Arc 7
 
 - **Audience Kappelmuller (ch.8)** : pour atteindre le médecin dans la chambre impériale, les PJ doivent convaincre un membre du Conseil privé (ou Elvyra Kleinestun) qu'il est dans l'intérêt de l'Empire de voir Kappelmuller à l'œuvre — test de Charm Très Difficile (-30) `EiR ch.8 l.93`. Maria-Luise, le Grand Chambellan ou Schwartzhelm sont les cibles naturelles selon l'angle d'approche choisi par les PJ.
-- **Démasquage de Kappelmuller** : si les PJ exposent Kappelmuller, c'est tout le Conseil privé qui est secoué — Karl-Franz s'éveille (Gideon retirant son sort de *Purple Brain Pox*), et le Conseil doit purger l'aile médicale `EiR ch.13 l.187`.
+- **Démasquage de Kappelmuller** : si les PJ exposent Kappelmuller, c'est tout le Conseil privé qui est secoué — Karl-Franz s'éveille (Gideon retirant son sort de *Fièvre cérébrale pourpre*), et le Conseil doit purger l'aile médicale `EiR ch.13 l.187`.
 - **Maria-Luise comme alliée potentielle** : observatrice canny et loyale, peut basculer si les PJ lui démontrent la conspiration ; sa proximité avec Karl-Franz et sa position de mère des héritiers en font un canal politique unique.
 - **Pyromancien et Collège Flamboyant** : si Thyrus Gormann est sollicité officiellement, l'avis du Collège peut peser au Conseil privé — option homebrew si les PJ ont des appuis aux Colleges of Magic.
 - **Successions** : Prince Luitpold (héritier Altdorf, fragile) et Wolfgang Holswig-Abenauer (héritier Reikland, neveu de Karl-Franz par la lignée Holswig — *cible* du rituel Sheerargetru) sont les deux fils de la couronne dont l'avenir se joue au climax.

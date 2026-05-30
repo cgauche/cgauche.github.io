@@ -1,6 +1,6 @@
 # Front — 09 Reikland-Altdorf (Karl-Franz - le faux Empereur)
 
-> **One-liner** : Le cœur narratif EiR — **Karl-Franz Holswig-Schliestein** est alité depuis ~1 an dans le **Palais Impérial d'Altdorf**, frappé par une **Purple Brain Pox magique** appliquée à distance par **Gideon** (daemon Tzeentch Changeling, alias Joachim Hoflich cf. fiche 02) et entretenue par son médecin personnel **Henrik Kappelmuller** (agent Main Pourpre) ; en public l'Empereur est doublé par **Hermann von Feilbach** (Reiksguard First Knight, sosie loyal mais pion involontaire recruté par **Immanuel-Ferrand Holswig-Schliestein** oncle KF + Chambre Noire), porteur de l'**Imitation Ghal Maraz** (brisée par Boris S62 cascade fiche 02). En parallèle, **Prince Héritier Wolfgang Holswig-Abenauer** (neveu KF, fils d'Isabella sœur KF) est *"shell harbouring embryonic entity"* — vessel parfait préparé depuis 9 ans par les **Neuf Yeux** (tuteurs Tzeentch dans 9 villes, recrutés par Kastor Lieberung sur instruction Gideon) pour la **manifestation de Sheerargetru** à la cérémonie 9 Brauzeit Volkshalle (climax ch.13). Le plan Main Pourpre : **Yann Zuntermein** (Magister Magistri Altdorf cell + head Spionwerber Chambre Noire Cercle Intérieur) croit installer Wolfgang comme marionnette mais ignore qu'il sera daemon vessel. **Outcome canon (History of Turmoil)** : Karl-Franz restauré *"renewed vigour and purpose"* (EiR ch.17 l.30), Yorri XV tué par cultistes Main Pourpre déguisés en Reiksguard → **Volkmar von Hindenstern Grand Theogonist** ; Wolfgang mort (Sheerargetru sort de son corps) ; Zuntermein démasqué ; **dossier Chambre Noire expose la Main Pourpre** Empire-wide (cascade vers fiches 01-08) ; mariage Karl-Franz × Maria-Luise von Walfen → **Luitpold (vrai fils KF) légitimé**.
+> **One-liner** : Le cœur narratif EiR — **Karl-Franz Holswig-Schliestein** est alité depuis ~1 an dans le **Palais Impérial d'Altdorf**, frappé par une **Fièvre cérébrale pourpre magique** appliquée à distance par **Gideon** (daemon Tzeentch Changeling, alias Joachim Hoflich cf. fiche 02) et entretenue par son médecin personnel **Henrik Kappelmuller** (agent Main Pourpre) ; en public l'Empereur est doublé par **Hermann von Feilbach** (Reiksguard First Knight, sosie loyal mais pion involontaire recruté par **Immanuel-Ferrand Holswig-Schliestein** oncle KF + Chambre Noire), porteur de l'**Imitation Ghal Maraz** (brisée par Boris S62 cascade fiche 02). En parallèle, **Prince Héritier Wolfgang Holswig-Abenauer** (neveu KF, fils d'Isabella sœur KF) est *"shell harbouring embryonic entity"* — vessel parfait préparé depuis 9 ans par les **Neuf Yeux** (tuteurs Tzeentch dans 9 villes, recrutés par Kastor Lieberung sur instruction Gideon) pour la **manifestation de Sheerargetru** à la cérémonie 9 Brauzeit Volkshalle (climax ch.13). Le plan Main Pourpre : **Yann Zuntermein** (Magister Magistri Altdorf cell + head Spionwerber Chambre Noire Cercle Intérieur) croit installer Wolfgang comme marionnette mais ignore qu'il sera daemon vessel. **Outcome canon (History of Turmoil)** : Karl-Franz restauré *"renewed vigour and purpose"* (EiR ch.17 l.30), Yorri XV tué par cultistes Main Pourpre déguisés en Reiksguard → **Volkmar von Hindenstern Grand Theogonist** ; Wolfgang mort (Sheerargetru sort de son corps) ; Zuntermein démasqué ; **dossier Chambre Noire expose la Main Pourpre** Empire-wide (cascade vers fiches 01-08) ; mariage Karl-Franz × Maria-Luise von Walfen → **Luitpold (vrai fils KF) légitimé**.
 
 ---
 
@@ -29,7 +29,7 @@
 ### Acteurs principaux pré-Turmoil — Famille Impériale & Cour
 
 #### Maison Holswig-Schliestein
-- [[Karl-Franz Holswig-Schliestein]] — **Emperor Karl-Franz I**, titres canon Fandom = *"Elector Count and Grand Prince of Reikland, Prince of Altdorf, Count of the West March"* + canon EiR = *"Protector of the Empire, Defier of the Dark, Emperor Himself and Son of Emperors"* (note GM Karl-Franz). Couronné **2502 IC** à la mort de son père Empereur **Luitpold** ; **âge précis non sourcé canon EiR/Fandom** (déduction GM ~47 ans en 2512 selon note PNJ Karl-Franz) ; hérite alors le Runefang **Dragon Tooth**. **Alité depuis ~1 an** (Spring 2511 → 2512) suite à **Purple Brain Pox magique** appliquée à distance par **Gideon** + entretenue par **Henrik Kappelmuller** (médecin personnel agent Main Pourpre) ; *"deathly pallor, looks older than his years, wrapped in blankets, palsied shake in hands"* (EiR ch.13 l.200). **Side effects** : listlessness + suggestibility → signe sous influence Ubersreik Edict + Mutant Edict + délègue à son sosie public. **Récupérable** si Kappelmuller démasqué + pomander Schlafenkraut+Moonflower+pine retiré (EiR ch.8 l.122) ou Vitality Draught administrée (EiR ch.8 l.114).
+- [[Karl-Franz Holswig-Schliestein]] — **Emperor Karl-Franz I**, titres canon Fandom = *"Elector Count and Grand Prince of Reikland, Prince of Altdorf, Count of the West March"* + canon EiR = *"Protector of the Empire, Defier of the Dark, Emperor Himself and Son of Emperors"* (note GM Karl-Franz). Couronné **2502 IC** à la mort de son père Empereur **Luitpold** ; **âge précis non sourcé canon EiR/Fandom** (déduction GM ~47 ans en 2512 selon note PNJ Karl-Franz) ; hérite alors le Runefang **Dragon Tooth**. **Alité depuis ~1 an** (Spring 2511 → 2512) suite à **Fièvre cérébrale pourpre magique** appliquée à distance par **Gideon** + entretenue par **Henrik Kappelmuller** (médecin personnel agent Main Pourpre) ; *"deathly pallor, looks older than his years, wrapped in blankets, palsied shake in hands"* (EiR ch.13 l.200). **Side effects** : listlessness + suggestibility → signe sous influence Ubersreik Edict + Mutant Edict + délègue à son sosie public. **Récupérable** si Kappelmuller démasqué + pomander Schlafenkraut+Moonflower+pine retiré (EiR ch.8 l.122) ou Vitality Draught administrée (EiR ch.8 l.114).
 - [[Isabella von Holswig-Schliestein]] (canon Fandom) — **sœur** de Karl-Franz, **mère de Wolfgang Holswig-Abenauer** (le Prince Héritier). Lignée maternelle qui justifie la position d'héritier de Wolfgang.
 - **Emperor Luitpold (père Karl-Franz)** — mort 2502 IC, prédécesseur de Karl-Franz, porte précédent de Dragon Tooth (Lexicanum Karl Franz).
 - [[Wolfgang Holswig-Abenauer]] — **Prince Héritier of Reikland 2505-2512 IC** (Fandom Wolfgang Holswig-Abenauer) ; **neveu de Karl-Franz** (fils d'Isabella, **PAS fils direct KF**) ; *"exceptionally handsome… intelligent, cultured, insightful, sensitive, and courageous"* (EiR Intro l.681) ; carrière canon **Heir Apparent (Gold 10)** ; Doomed *"Shell harbouring embryonic entity, released amid rite, gaining entry through repeated utterances"* (EiR Intro l.687) — **vessel destiné de Sheerargetru** ; éduqué depuis ~9 ans (2503 IC) par les **Neuf Yeux** (9 tuteurs Tzeentch dans 9 villes Empire — recrutés par **Kastor Lieberung** sur instruction Gideon) ; *"Wolfgang ignore tout du Chaos"* — victime involontaire. Trappings : Best Quality Clothing, **Amulet of Jade** (Regenerate), Rapier. Fiancé à **Katarina Todbringer** (mariage interrompu ch.6 par Malthe Barthelm, cascade fiche 02).
@@ -58,11 +58,11 @@
 
 #### Cellule Main Pourpre
 - [[Yann Zuntermein]] — *"Magister Magistri de la cellule Main Pourpre d'Altdorf"* (EiR Intro l.658) + *"Head of the Spionwerber"* (recrutement Chambre Noire) + *"Cercle Intérieur Chambre Noire"* (Fandom Yann Zuntermein) ; **Agent Gold 1** ; ~58 ans ; *"slightly bumbling, taste for cheap costume rather than expensive tailoring. Disconnected, pretentious manner — philosophical digressions, proverbs, children's fables, smatterings of Bretonnian poetry. Beneath dishevelled exterior = sharp mind"* (EiR Intro l.660) ; **Channelling Dhar 84** + **Chaos Magic (Tzeentch)** + spells Lore of Tzeentch (Bolt of Change, Boon of Tzeentch, Treason of Tzeentch, Sense the Skein, Word of Tzeentch). **Goal canon** : Empire destabilised + Emperor sicken and die + Prince Héritier Wolfgang devient Prince Regent puis Emperor *"sympathetic to Main Pourpre"*. **MISCONCEPTION canon** : Zuntermein **ignore** que Wolfgang sera vessel Sheerargetru (croit Wolfgang sera puppet manipulable, cf. EiR Intro l.645).
-- **Henrik Kappelmuller** — **médecin personnel Karl-Franz** + agent Main Pourpre Altdorf cell (cf. note GM Karl-Franz) ; entretient la Purple Brain Pox magique appliquée par Gideon ; pomander Schlafenkraut sous le lit KF ; **subordonné direct Zuntermein**.
+- **Henrik Kappelmuller** — **médecin personnel Karl-Franz** + agent Main Pourpre Altdorf cell (cf. note GM Karl-Franz) ; entretient la Fièvre cérébrale pourpre magique appliquée par Gideon ; pomander Schlafenkraut sous le lit KF ; **subordonné direct Zuntermein**.
 - **Captain Emil Baecker + Spionwerber agents** — peuvent ambusher PJ ch.13 pour voler le marteau (note GM Zuntermein).
 
 #### Gideon Changeling (cascade fiche 02)
-- **Gideon (alias Joachim Hoflich, Law Lord Middenheim démasqué PBT)** — **Changeling Tzeentch** ; *"sorcerer Purple Brain Pox"* appliqué à distance sur KF ; orchestre les **Neuf Yeux** ; **vrai but** = libération du **Lord of Change Sheerargetru** via vessel Wolfgang (PAS marionnette comme croit Zuntermein) (EiR Companion ch.7 *The Changeling*).
+- **Gideon (alias Joachim Hoflich, Law Lord Middenheim démasqué PBT)** — **Changeling Tzeentch** ; *"sorcerer Fièvre cérébrale pourpre"* appliqué à distance sur KF ; orchestre les **Neuf Yeux** ; **vrai but** = libération du **Lord of Change Sheerargetru** via vessel Wolfgang (PAS marionnette comme croit Zuntermein) (EiR Companion ch.7 *The Changeling*).
 - **Sheerargetru** — **Lord of Change Tzeentch** ; daemon entity destinée à émerger du corps de Wolfgang lors de la cérémonie 9 Brauzeit Volkshalle. Réceptacles de secours canon : Zuntermein ou Wasmeier (inférieurs).
 
 #### Neuf Yeux (tuteurs Tzeentch)
@@ -129,7 +129,7 @@
 | **2503 IC env.** | **Gideon recrute les Neuf Yeux** *"almost nine years ago"* avant 2512 ; **Kastor Lieberung** orchestre le recrutement | Fandom Neuf Yeux |
 | **2503-2512 IC** | **Wolfgang Holswig-Abenauer éduqué par les Neuf Yeux** — préparation vessel Sheerargetru | EiR Intro l.43+ ; Fandom Neuf Yeux |
 | **2505 IC** | **Wolfgang devient Prince Héritier of Reikland** (héritier KF après mort/disinheritance Luitpold-bâtard ?) | Fandom Wolfgang Holswig-Abenauer |
-| Spring 2511 IC env. | **Karl-Franz tombe malade** — Purple Brain Pox magique appliquée par Gideon, entretenue par Kappelmuller | EiR Intro l.239-243 |
+| Spring 2511 IC env. | **Karl-Franz tombe malade** — Fièvre cérébrale pourpre magique appliquée par Gideon, entretenue par Kappelmuller | EiR Intro l.239-243 |
 | ~2511 IC | **Immanuel-Ferrand recrute Hermann von Feilbach** comme sosie ; Chambre Noire Cercle Intérieur ; double public installé | EiR Intro l.827-871 |
 | 2511-2512 IC | **Karl-Franz signe sous influence** : Mutant Edict (Shallyan reformers manipulés Zuntermein), Ubersreik takeover (déposition Jungfreuds), double public Hermann | EiR ch.8 l.49-54 |
 | Spring 2512 IC | Climat impérial déstabilisé (Hergard tué cascade fiche 05, guerre Ostland-Talabecland, mariage Wolfgang-Katarina proposé Volkmar ch.2) | EiR ch.17 l.10-14 |
@@ -149,7 +149,7 @@
 
 **Cercle Main Pourpre (orchestrateurs)** :
 - Yann Zuntermein (head Altdorf cell + Spionwerber)
-- Henrik Kappelmuller (médecin KF, entretient Purple Brain Pox)
+- Henrik Kappelmuller (médecin KF, entretient Fièvre cérébrale pourpre)
 - Gideon (Changeling Tzeentch, **vrai orchestrateur**)
 - Neuf Yeux tuteurs (9 villes)
 
@@ -175,7 +175,7 @@
 Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main Pourpre de Zuntermein + Gideon. Tous les autres fronts (fiches 01-08) sont des **effets en cascade** de l'opération centrale.
 
 ### 1. Empoisonnement de Karl-Franz (Spring 2511 IC env.)
-- **Gideon applique le sort Purple Brain Pox magique** à distance (signature canon EiR ch.8 l.52).
+- **Gideon applique le sort Fièvre cérébrale pourpre magique** à distance (signature canon EiR ch.8 l.52).
 - **Henrik Kappelmuller** (médecin personnel agent Main Pourpre) entretient les symptômes.
 - **Side effects** : listlessness + suggestibility → KF manipulable.
 
@@ -250,7 +250,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 | **2503 IC env.** | (background) | **Gideon recrute les Neuf Yeux** ; Kastor Lieberung orchestre | Fandom Neuf Yeux |
 | 2503-2512 IC | (background) | **Wolfgang éduqué par Neuf Yeux** — préparation vessel Sheerargetru | EiR Intro l.43+ |
 | **2505 IC** | (background) | Wolfgang devient Prince Héritier of Reikland | Fandom Wolfgang Holswig-Abenauer |
-| Spring 2511 IC env. | (background) | **Karl-Franz tombe malade** — Purple Brain Pox magique (Gideon + Kappelmuller) | EiR Intro l.239-243 |
+| Spring 2511 IC env. | (background) | **Karl-Franz tombe malade** — Fièvre cérébrale pourpre magique (Gideon + Kappelmuller) | EiR Intro l.239-243 |
 | ~2511 IC | (background) | Immanuel-Ferrand recrute Hermann von Feilbach ; double public installé | EiR Intro l.827-871 |
 | 2511-2512 IC | (background) | KF signe sous influence : Mutant Edict + Ubersreik takeover + double public Hermann | EiR ch.8 l.49-54 |
 | Spring 2512 IC | EiR ch.17 l.10-14 | Climat impérial déstabilisé (Hergard mort, guerre Ostland-Talabecland) | EiR ch.17 l.10-14 |
@@ -357,7 +357,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 
 | Acteur | Pré-Turmoil | Post-Turmoil | Statut canon |
 |---|---|---|---|
-| **Karl-Franz I Holswig-Schliestein** | Empereur alité Purple Brain Pox magique ; signe sous influence ; double Hermann ; ~47 ans | **Empereur restauré** *"renewed vigour and purpose"* ; reforms ; trio Emmanuelle+Alberich | Vivant (EiR ch.17 l.30 ; Fandom Karl Franz) |
+| **Karl-Franz I Holswig-Schliestein** | Empereur alité Fièvre cérébrale pourpre magique ; signe sous influence ; double Hermann ; ~47 ans | **Empereur restauré** *"renewed vigour and purpose"* ; reforms ; trio Emmanuelle+Alberich | Vivant (EiR ch.17 l.30 ; Fandom Karl Franz) |
 | **Hermann von Feilbach** | Sosie public KF, Reiksguard First Knight Gold 2 ; Chambre Noire Cercle Intérieur ; pion involontaire | **Survit canon** (note GM *"ne pas faire mourir"*) ; relevé du rôle de double | Vivant (note GM Hermann ; Fandom Hermann von Feilbach) |
 | **Wolfgang Holswig-Abenauer** | Prince Héritier Reikland 2505-2512 ; vessel Sheerargetru préparé Neuf Yeux 9 ans | **Mort climax ch.13** (Sheerargetru déchire son corps) | Mort canon (EiR ch.13 ; Fandom Wolfgang) |
 | **Maria-Luise von Walfen** | Lady at Imperial Court + maîtresse KF + mère enfants ; confidente Emmanuelle | **Épouse légitime de Karl-Franz** post-Turmoil 2512 ; *"informally Empress"* devient formelle | Vivante (Fandom Maria-Luise) |
@@ -373,7 +373,7 @@ Le Turmoil 2512 IC est canon **orchestré depuis Altdorf** par la cellule Main P
 | **Johann Esmer** | (non précisé pré-Turmoil) | **Arch Lector East** post-Turmoil | Vivant (Fandom Volkmar the Grim) |
 | **Yann Zuntermein** | Magister Magistri Altdorf cell Main Pourpre + head Spionwerber Chambre Noire Cercle Intérieur | **Mort climax ch.13** (fight to bloody end après reconnaissance écriture Holzkrug+Immanuel-Ferrand) | Mort canon (EiR ch.13 l.144 ; Fandom Yann Zuntermein) |
 | **Henrik Kappelmuller** | Médecin personnel KF + agent Main Pourpre Altdorf | **Démasqué + déposé/tué** (variable PJ) | Variable (note GM Karl-Franz) |
-| **Gideon (Changeling Tzeentch)** | Joachim Hoflich (Law Lord Middenheim démasqué PBT) + sorcerer Purple Brain Pox | **Démasqué + exorcisé/tué** climax ch.13 | Variable (EiR Companion ch.7 ; cascade fiche 02) |
+| **Gideon (Changeling Tzeentch)** | Joachim Hoflich (Law Lord Middenheim démasqué PBT) + sorcerer Fièvre cérébrale pourpre | **Démasqué + exorcisé/tué** climax ch.13 | Variable (EiR Companion ch.7 ; cascade fiche 02) |
 | **Sheerargetru (Lord of Change)** | Daemon Tzeentch préparé vessel Wolfgang | **Exorcisé** si Karl-Franz tient Ghal Maraz + 9 Yeux démasqués ; manifestation réduite | Variable selon résolution PJ |
 | **Neuf Yeux (tuteurs Tzeentch)** | 9 cellules 9 villes Empire (Bögenhafen, Ubersreik, Altdorf, Middenheim, Talabheim, Nuln, Bechafen, Averheim, Remas) | **Démasqués partiellement** post-Turmoil ; restant à éliminer | Variable (Fandom Neuf Yeux) |
 | **Kastor Lieberung** | Recruteur 9 Yeux (cellule Nuln) | **Mort historique Bögenhafen S8** (PBT canon) | Mort historique (note GM Wolfgang) |
@@ -521,8 +521,8 @@ Le front Reikland-Altdorf est le **cœur narratif** : **toutes les fiches 01-08 
 
 - **EiR ch.8 *Aventuriers Audacieux Recherchés !*** :
   - **l.27 — Yorri sponsoriser quête si Party Sigmarite**
-  - **l.49-54 — Purple Brain Pox magique signature Gideon**
-  - **l.52 — Purple Brain Pox détails**
+  - **l.49-54 — Fièvre cérébrale pourpre magique signature Gideon**
+  - **l.52 — Fièvre cérébrale pourpre détails**
   - **l.114 — Vitality Draught Karl-Franz lucide quelques minutes**
   - **l.122 — Pomander Schlafenkraut+Moonflower+pine sous lit**
 

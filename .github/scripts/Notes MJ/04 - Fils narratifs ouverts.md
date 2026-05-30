@@ -40,7 +40,7 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - Quintus est un **allié sincère** (pas un piège).
 
 ### 2. Démasquer Henrik Kappelmuller (ch. 8 du livre)
-- Médecin de Karl-Franz, l'empoisonne avec Purple Brain Pox (induite par Gideon).
+- Médecin de Karl-Franz, l'empoisonne avec Fièvre cérébrale pourpre (induite par Gideon).
 - Si démasqué, **Karl-Franz se rétablit** → climax beaucoup plus facile.
 - Pour le voir, il faut convaincre Immanuel-Ferrand / Maria-Luise / Hermine, **Test Charm Très Difficile**.
 - Indices : visites régulières de **Elvyra** (mature lady, accent Altdorf) et **Gideon** (boy ~13 ans, coupe au bol, large sourire).

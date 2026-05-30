@@ -18,7 +18,7 @@
 ## Apparitions par session (PJ)
 - **[S7]** — Halte du Berebeli (Josef Quartjin) sur le trajet Altdorf → Bögenhafen. Planque Adolphus + 3 thugs au Black Gold Inn. PJ devancent l'attaque, Adolphus fuit.
 - **[Arc 4 — DotR]** — Possible retour si les PJ remontent vers Elvyra (canon DotR la fait intervenir).
-- **[Arc 7 — EiR]** — Elvyra est manipulée par Gideon depuis Altdorf : Weissbruck peut redevenir point critique de la chaîne du **Purple Brain Pox** (canon EiR — Elvyra fournit Kappelmuller).
+- **[Arc 7 — EiR]** — Elvyra est manipulée par Gideon depuis Altdorf : Weissbruck peut redevenir point critique de la chaîne du **Fièvre cérébrale pourpre** (canon EiR — Elvyra fournit Kappelmuller).
 
 ## État politique
 - **Petit village rural** — pas d'autorité aristocratique forte sur place. Sous juridiction nominale du Graf von Saponatheim (suzerain régional) mais effectivement gouverné par les notables locaux + maréchal-magistrat itinérant.
