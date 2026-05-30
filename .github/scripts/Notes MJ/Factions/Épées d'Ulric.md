@@ -24,7 +24,7 @@ Profil WFRP4 *Veteran* ou *Soldier (Silver 2-3)* :
 
 ## Apparitions scénario
 
-- **Grille du [[Manoir Helstein]]** ([[01 - Briefing Helstein]], [[08 - Retour Helstein]]) — 2 hommes en faction de jour, 4 la nuit.
+- **Grille du [[Manoir Helstein]]** ([[01 - Briefing Helstein]], [[42 - Retour Helstein]]) — 2 hommes en faction de jour, 4 la nuit.
 - **Escorte du convoi funéraire** de Boris Todbringer (départ d'Altdorf le 4 Erntezeit fin de matinée, vers Middenheim).
 
 ## Voix / dialogue type
@@ -40,4 +40,4 @@ Pas de dialogue notable. Saluent les PJ familiers (Heinrich's people), arrêtent
 
 - **Faction parente** : [[Maison Todbringer]]
 - **Faction alliée** : [[Chevaliers du Loup Blanc]]
-- **Apparitions scénario** : [[01 - Briefing Helstein]], [[08 - Retour Helstein]], [[Manoir Helstein]]
+- **Apparitions scénario** : [[01 - Briefing Helstein]], [[42 - Retour Helstein]], [[Manoir Helstein]]

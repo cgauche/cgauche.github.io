@@ -44,7 +44,7 @@
 
 ## Apparitions par session
 - **Aucune apparition directe** — Dagmar est mort 107 ans avant la campagne. **Présence textuelle uniquement** :
-- **[S24]** — Ételka Herzen évoquée comme cherchant la **même pierre** que Dagmar : convergence Red Crown / Dagmar via le savoir-faire qui s'est propagé. Carnet d'Etelka mentionne **Collines Stériles** = destination de Dagmar 107 ans plus tôt.
+- **[S24]** — Ételka Herzen évoquée comme cherchant la **même pierre** que Dagmar : convergence Couronne Rouge / Dagmar via le savoir-faire qui s'est propagé. Carnet d'Etelka mentionne **Collines Stériles** = destination de Dagmar 107 ans plus tôt.
 - **[S25-S26]** — Voyage vers Barren Hills puis Île au phare. **Fantôme de Brunhilde** apaisé aux Collines Stériles (FIL-52 résolu) : la scout assassinée par Dagmar raconte la trahison aux PJ. **Squelettes de l'expédition** trouvés et libérés. **Document découvert dans la bibliothèque incendiée de l'observatoire** atteste que l'endroit appartenait à Dagmar et qu'il avait vu une pierre tomber depuis Morrslieb. **Trace Dagmar → Wittgendorf** établie.
 - **[S27]** — Mention indirecte par les villageois mendiants (canon *« from old Dagmar's time… one of the von Wittgensteins did something »*).
 - **[S28]** — **Ludwig confirme à Elvira l'histoire complète** : *« cela ressemblait à un cafard géant. (...) il lui expliqua l'histoire de sa famille et la malédiction que portait ses terres, à cause de la malpierre ramenée par son lointain ancêtre Dagmar. »* **Tous les morceaux du puzzle Dagmar réunis** dans la mémoire collective du groupe.

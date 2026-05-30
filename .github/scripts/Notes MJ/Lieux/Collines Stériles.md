@@ -58,7 +58,7 @@ Zone élevée et désolée. **Terre malade**, vent qui hurle. **Lac formé dans 
 
 ## Hooks de retour
 - **Camp skaven** : les skavens minent la zone à long terme. Les PJ y reviennent pour une mission Arc 5-6.
-- **Cellule Red Crown cherche le carnet d'Etelka** : ils savent qu'Etelka est morte aux Collines, viennent fouiller la zone (sans savoir que Filianore détient le carnet).
+- **Cellule de la Couronne Rouge cherche le carnet d'Etelka** : ils savent qu'Etelka est morte aux Collines, viennent fouiller la zone (sans savoir que Filianore détient le carnet).
 - **Wraith Vengeance** : un esprit refait surface pour traquer Gotthard Wallenstein (dernier Wittgenstein).
 - **Pierre céleste retrouvée fragmentée** : un fragment minoritaire serait resté ici (le gros est aux skavens).
 - **Pèlerinage funéraire** : Corrobreth d'Unterbaum demande aux PJ de l'escorter pour bénir formellement la sépulture.

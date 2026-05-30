@@ -29,9 +29,14 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 ## 🔥 URGENT — À traiter dès S64 (chapitre 8 du livre, adapté)
 
 ### 1. Rendez-vous chez Fassbinder (rendez-vous donné en S62, à honorer)
-- À la **bibliothèque de l'université d'Altdorf**.
-- Quintus donne les handouts qui localisent Ghal Maraz : entre **Vithang Dum** et **Zan Mingol**, près des **Trois Sœurs** (statues naines), dans une gorge cachée par un éboulis.
-- Handouts possibles si recherche : Tante Augusta (SHEERARGETRU en acrostiche), Bertoldt the Malleun (9-9-9), lettre codée Kastor, permis minier Teugen/Steinhäger/Haagen 2508, Yodri sur Smednir et Sheerargetru.
+- À la **bibliothèque-temple de Verena, université d'Altdorf**.
+- Quintus livre directement (canon `EiR ch.8 l.171-173`) : couloir entre **Vithang Dum** et **Zan Mingol**, environ 3 milles dans le Col du Feu Noir, où Sigmar a abandonné Ghal Maraz. C'est la seule information qu'il offre gratuitement.
+- Pistes complémentaires à chercher par les PJ dans la bibliothèque (tests Perception Difficile -20 / Recherche +0, canon `EiR ch.8 l.213, 266-267, 296`) :
+  - **Tante Augusta** (Sœurs de Sigmar) — comptine en quatre vers : au-delà des **Trois Mères**, prendre la **faille à gauche**.
+  - **Bertoldt le Malleun** — prophétie du 9e jour du 9e mois, neuf cultes, Couronne de l'Empire prise.
+  - **Permis minier Teugen-Steinhäger-Haagen** — daté 9 Brauzeit 2508, mine de Schmerzeit, 25 % Karak Hirn.
+  - **Yodri vol. 2 *De l'Adéquat au Pitoyable*** — Smednir nomme et bannit Sheerargetru avec le marteau inachevé (traduction reikspiel autorisée par les Nains).
+- Au cabinet verrouillé du bureau privé (raid optionnel) : **lettre codée à Kastor Lieberung** (chiffrement Wasmeier sur Sombre Langue). Décodable avec la clé Wasmeier des PJ (Middenheim Arc 3) — acrostiche **SHEERARGETRU** + recette du rituel.
 - Quintus est un **allié sincère** (pas un piège).
 
 ### 2. Démasquer Henrik Kappelmuller (ch. 8 du livre)

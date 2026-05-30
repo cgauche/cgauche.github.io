@@ -59,7 +59,7 @@
 - **Boormann anti-Marienburgers (canon Trait Prejudice)** : peut être utile si les PJ doivent négocier avec un commerçant marienburger — Boormann **refusera de le rencontrer en personne** ou exigera une distance protocolaire. Le préjugé est canon, à exploiter pour la couleur.
 - **Doomed *Make Thee No Friends of Water Rates!*** : sa mort sera liée à un litige fiscal sur les taxes de transit fluvial. À garder en réserve si une intrigue financière Reikland-Marienburg s'enclenche.
 - **Réseau Boormann post-Kemperbad** : Altdorf (cour impériale + service des impôts), Middenheim (canon — y est envoyé après DotR), et **canon EiR** présent à Altdorf au climax. Donc Boormann fait **tournée Altdorf-Kemperbad-Middenheim** sur tout l'Arc 4-Arc 7. Phineas peut le contacter dans n'importe laquelle des trois villes.
-- **Pas un cultiste** : explicitement non-Chaos. Boormann est un **administrateur impérial classique**, ambitieux, légèrement vénal (Bribe 66 dans les deux sens), mais **loyal à l'institution impériale**. Pas un agent Main Pourpre, pas un agent Red Crown, pas un agent skaven. **Allié blanc** sur le Vieux Monde.
+- **Pas un cultiste** : explicitement non-Chaos. Boormann est un **administrateur impérial classique**, ambitieux, légèrement vénal (Bribe 66 dans les deux sens), mais **loyal à l'institution impériale**. Pas un agent Main Pourpre, pas un agent de la Couronne Rouge, pas un agent skaven. **Allié blanc** sur le Vieux Monde.
 - **Rang social Phineas via Boormann** : Phineas, halfelin sans titre noble propre, gagne via Boormann un **statut de fait** dans la noblesse impériale mineure. Sans titre, mais avec accès. À jouer comme protection sociale pour le reste de la campagne.
 - **Hook FIL-47** : voir *Fils ouverts*.
 

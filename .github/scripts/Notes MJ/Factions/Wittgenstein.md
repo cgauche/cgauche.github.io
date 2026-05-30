@@ -85,7 +85,7 @@ Pas de page wiki dédiée à la famille — voir [Castle Wittgenstein — Lexica
 
 ## Connexions latentes
 - **[[Main Pourpre]]** : aucune connexion directe (la corruption Wittgenstein = chaotique générique, pas Tzeentch organisée). **Mais** les skavens qui ont pris la pierre peuvent **vendre** ou échanger la pierre à un cult pourpre — convergence indirecte.
-- **[[Red Crown]]** : idem, pas de connexion directe.
+- **[[Couronne Rouge]]** : idem, pas de connexion directe.
 - **Skavens** : convoitent et obtiennent la malpierre = **clan minier identifiable** (peut-être **Pestilens**) — FIL-46.
 - **Cult de Morrslieb** (générique) : aucune connexion organisée canon, mais la pierre céleste est **emblème de Morrslieb** = artefact convoité par tous les chaotiques.
 - **Gotthard sous l'alias Wallenstein** : fils de Ludwig+Ingrid (DotR ch.7 l.1050), frère de Margritte+Kurt. **A quitté le château jeune** sous l'alias Wallenstein → génétiquement isolé du château pendant longtemps, probable mutation discrète seulement. Cf. canon Arc 5 (Sceptre de Jade).

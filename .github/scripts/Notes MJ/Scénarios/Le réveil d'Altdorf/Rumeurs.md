@@ -1,7 +1,7 @@
 # Rumeurs — 4 Erntezeit 2512 IC
 
 > Référence transversale du scénario [[Hub|Le réveil d'Altdorf]].
-> Table de rumeurs à dropper en fonction de l'effort RP des PJ et des lieux fréquentés. Voir [[09 - Écoute des rumeurs]] pour la mécanique.
+> Table de rumeurs à dropper en fonction de l'effort RP des PJ et des lieux fréquentés. Voir [[43 - Écoute des rumeurs]] pour la mécanique.
 
 ## Mécanique
 
@@ -59,4 +59,4 @@ Ne pas tout dropper d'un coup. Distribuer selon l'effort RP, le lieu, l'heure, l
 
 - [[Hub]]
 - [[Ambiance]]
-- [[09 - Écoute des rumeurs]]
+- [[43 - Écoute des rumeurs]]

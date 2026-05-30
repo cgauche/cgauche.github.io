@@ -12,6 +12,18 @@
 > - **Blocage Mental** — esprit lent, –10 Int strict. Pas d'amnésie. `WFRP ch.8 l.1395`
 > - **Animosité (Tout sauf humain)** — pulsions haineuses immédiates. `WFRP ch.8 l.1391`
 
+## En bref
+
+- **Objectif** : rattrapage solo de Yuridika sur la journée du mariage à l'aube post-assaut Helstein ; servi en aside au joueur, par fragments.
+- **PNJ présents** : — (scène intérieure ; figurent en mention Boris, Katarina, Heinrich, Veiran, Phineas, Barthelm, Wasmeier, sans interaction de scène dédiée).
+- **Ce que les PJ peuvent faire ici** :
+  - Décider d'agir ou non sur chaque Désir Atroce (objets variables ; tests Willpower à discrétion du MJ).
+  - Désir mercure : Test Willpower implicite — réussir = reposer/reboucher la fiole ; échouer = avaler une goutte (ventre brûle 3h).
+  - Pulsion chien dans la cour : observer plus longtemps que nécessaire ou s'arracher à la fenêtre.
+  - Pulsion cape humide à la gargote : suivre l'homme ou non.
+  - Ruelle (pivot danger de mort) : se laisser faire ou réagir — Point de Destin brûlé.
+- **Sorties / et après** : → retour [[Hub]]
+
 ---
 
 ## La nef

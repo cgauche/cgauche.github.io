@@ -52,12 +52,12 @@ Petit village peu animé sur confluent fluvial. Population humaine majoritaire a
 - **Les nains de Grissenwald** : mobilisable comme **escouade de combat** (~6-12 guerriers nains) en cas de péril majeur du groupe à Grissenwald ou région. Fiabilité moyenne (motivation = honneur racheté).
 - **L'autel Rhya** : effet narratif passif. Si Elvira est gravement menacée à Grissenwald, **les villageois la défendent**. Si elle revient officier, **rite réussi** par défaut.
 - **Vente du vin de Kemperbad par Elvira S25** = transaction notable, **réserve de produits agricoles** stockée sur la barge (à monétiser plus loin).
-- **Possible cellule Red Crown dormante** ? Etelka (Red Crown canon) résidait dans la région — possible relais ou boîte aux lettres morte à Grissenwald ou dans sa mine. Pas activé table, réservoir narratif.
+- **Possible cellule de la Couronne Rouge dormante** ? Etelka (Couronne Rouge canon) résidait dans la région — possible relais ou boîte aux lettres morte à Grissenwald ou dans sa mine. Pas activé table, réservoir narratif.
 
 ## Hooks de retour
 - **Faveur naine** : escouade de 6-12 guerriers nains mobilisable en cas de retour.
 - **Festival Rhya** annuel à l'autel de la place : Elvira invitée à officier (Arc 5+).
-- **Mine d'Etelka abandonnée** : pillards, gobelins de retour, ou cellule Red Crown qui s'y réinstalle pour récupérer le matériel laissé.
+- **Mine d'Etelka abandonnée** : pillards, gobelins de retour, ou cellule de la Couronne Rouge qui s'y réinstalle pour récupérer le matériel laissé.
 - **Refugiés du château Wittgenstein** : si certains s'enfuient avant l'explosion S28, ils peuvent arriver à Grissenwald (la route Reik le permet).
 
 ## Fils ouverts

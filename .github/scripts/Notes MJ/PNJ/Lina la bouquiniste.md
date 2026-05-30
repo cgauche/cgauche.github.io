@@ -30,7 +30,7 @@ Source de Fassbinder pour son exemplaire d'***Augures Admirables de Tante August
 
 ## Apparition scénario
 
-[[13 - Approche via Lina]] — rendez-vous au bouquiniste, voiture vers le Palais.
+[[31 - Approche via Lina]] — rendez-vous au bouquiniste, voiture vers le Palais.
 
 ## Voix / dialogue type
 
@@ -42,7 +42,7 @@ Source de Fassbinder pour son exemplaire d'***Augures Admirables de Tante August
 
 ## Hook table — Intuition (-10) possible
 
-Pendant l'approche [[13 - Approche via Lina]], un PJ peut tester **Intuition (-10)** pour réaliser que Lina **« voit » sans voir** — elle suit les PJ avec acuité, devine leurs visages, leur posture. Possible affinité Verena (vérité par-delà la vue), ou autre chose.
+Pendant l'approche [[31 - Approche via Lina]], un PJ peut tester **Intuition (-10)** pour réaliser que Lina **« voit » sans voir** — elle suit les PJ avec acuité, devine leurs visages, leur posture. Possible affinité Verena (vérité par-delà la vue), ou autre chose.
 
 **Si la table revient la voir plus tard** (par exemple en cherchant Tante Augusta via le canal hérétique), elle devient un PNJ récurrent. **Source précieuse** pour la Piste B (sources primaires) de l'arc longue durée — voir [[11 - Cadre Le réveil d'Altdorf]] §pistes.
 
@@ -57,7 +57,7 @@ C'est une **graine élégante** — il faut juste qu'un PJ fasse le lien à un m
 
 ## Liens
 
-- **Apparitions scénario** : [[13 - Approche via Lina]]
+- **Apparitions scénario** : [[31 - Approche via Lina]]
 - **Lieux** : [[Hangmann's Gasse]]
 - **PNJ liés** : [[Maria-Luise von Walfen]], [[Quintus Fassbinder]]
 - **Handouts** : [[Fassbinder - documents bureau]]

@@ -56,7 +56,7 @@ Les PJ se rendent au bureau de [[Quintus Fassbinder|Fassbinder]] (Altdorf Univer
 
 **Aucun sous-culte nommé**. Aucun « Vasilius » identifié publiquement. Aucun « Sons of the Vengeful Hammer ». Juste un groupe de zélotes qui ont participé à l'assaut quelques heures plus tôt, fatigués, exaltés mais commencent à douter.
 
-Pour les dialogues, voir [[Scénarios/Le réveil d'Altdorf/03 - Glissement Reikerbahn|Glissement Reikerbahn]].
+Pour les dialogues, voir [[Scénarios/Le réveil d'Altdorf/51 - Glissement Reikerbahn|Glissement Reikerbahn]].
 
 ### Le réveil
 Trigger : les Sigmarites sont **eux aussi perdus**. La rue n'est pas où elle devrait être.
@@ -77,17 +77,26 @@ Coin de rue post-bascule. **Perception (-20)** pour un seul PJ. Enfant à coupe 
 Salle de lecture principale de la [[Bibliothèque-temple de Verena]], Altdorf University. Rez-de-chaussée, voûte haute, longues tables, mezzanine, étagères. **12-15 témoins universitaires présents** à l'heure du rendez-vous.
 
 ### Johannes
-Apprenti gris (Grey Order), recommandé par Immanuel-Ferrand. **Élève sincère + taupe bénigne** (surveillance pédagogique du mécène). Voir [[#8. Johannes Woblhoffer — concept]] et [[Scénarios/Le réveil d'Altdorf/04 - Bureau Fassbinder|04 Consultation Fassbinder]].
+Apprenti gris (Grey Order), recommandé par Immanuel-Ferrand. **Élève sincère + taupe bénigne** (surveillance pédagogique du mécène). Voir [[#8. Johannes Woblhoffer — concept]] et [[Scénarios/Le réveil d'Altdorf/11 - Consultation Fassbinder|04 Consultation Fassbinder]].
 
-### Trois orientations transmises
+### Ce que Quintus livre (canon-faithful)
 
-Avant l'arrivée des Templiers, Fassbinder donne **trois orientations volontairement floues**, à voix qui porte dans la salle (sa morgue universitaire) :
+Conformément à `EiR ch.8 l.171-173`, Quintus livre **directement et gratuitement** une seule chose à voix qui porte dans la salle (sa morgue universitaire) :
 
-1. **Lieu** : Passe de Feu Noir, sud-est, près des **Trois Mères** (statues naines de Valaya et deux aïeules). Orientation finale via feuillet Tante Augusta (faille à gauche).
-2. **Démon** : un Seigneur Exalté de Tzeentch, fragment du nom (**Sh-...-u**) tiré de Yodri vol.2. Acrostiche complet caché dans une lettre Wasmeier-Lieberung enfermée au casier.
-3. **Date** : neuvième jour de Brauzeit. Année **incertaine** — cette année (2512), la suivante (2513) ou cycle plus long (2517). Permis minier 2508 comme indice de cycle.
+- **Yodri vol. 1** *Catalogues of Confusion and Shoddiness* : couloir entre **Vithang Dum** (refuge) et **Zan Mingol** (poste de guet), environ **3 milles** dans le Col du Feu Noir, où Sigmar a abandonné Ghal Maraz.
 
-Toute la salle peut entendre ces orientations — c'est l'un des effets dramatiques de l'arrestation publique qui suit. Les témoins en parleront. Pour les dialogues précis, voir [[Scénarios/Le réveil d'Altdorf/04 - Bureau Fassbinder|04 Consultation Fassbinder]].
+Le reste, il **pointe vaguement** sans pré-mâcher — il n'a pas lu lui-même les pamphlets hétérodoxes (canon `EiR ch.8 l.209` : *« I've enough problems being thought a heretic without digging through volumes of actual heresy »*). Il indique quatre directions où chercher dans la bibliothèque :
+
+| Direction pointée par Quintus | Test canon (MJ-side) | Document trouvable (MJ-side) | Contenu (MJ-side) |
+|---|---|---|---|
+| Sœurs de Sigmar (rayon sigmarites tolérés) | Perception Difficile -20 / 8 DR ou Recherche +0 / 5 DR | *Tante Augusta* | Trois Mères + faille à gauche |
+| Secte Malleun (rayon déposés-sans-imprimatur) | idem (même réserve) | *Bertoldt le Malleun* | Vision 9-9, neuf cultes, Couronne de l'Empire |
+| Archives commerciales du secteur Col du Feu Noir | Perception Difficile -20 / 10 DR ou Recherche +0 / 6 DR | Permis Teugen-Steinhäger-Haagen | 9 Brauzeit 2508, mine Schmerzeit, 25 % Karak Hirn |
+| Théologie naine (mezzanine ouest) | Perception Difficile -20 / 8 DR ou Recherche +0 / 5 DR | Yodri vol. 2 *De l'Adéquat au Pitoyable* | Smednir bannit Sheerargetru |
+
+Au cabinet verrouillé du bureau privé : **lettre Lieberung en chiffrement Wasmeier** (interceptée il y a deux ans, jamais déchiffrée faute de clé). Les PJ ont la clé depuis Middenheim Arc 3 — substitution mécanique → acrostiche SHEERARGETRU + rituel.
+
+Toute la salle peut entendre les pointages — c'est l'un des effets dramatiques de l'arrestation publique qui suit. Les témoins en parleront. Pour les dialogues précis, voir [[Scénarios/Le réveil d'Altdorf/11 - Consultation Fassbinder|04 Consultation Fassbinder]].
 
 ### L'arrestation publique
 
@@ -106,23 +115,27 @@ Il transmet aux PJ :
 
 Il **ne dénonce pas** la présence des PJ. Mais les **témoins** universitaires peuvent les décrire ultérieurement si interrogés.
 
-Pour les dialogues, voir [[Scénarios/Le réveil d'Altdorf/05 - Arrestation et fuite|05 Arrestation et fuite]].
+Pour les dialogues, voir [[Scénarios/Le réveil d'Altdorf/13 - Arrestation et fuite|05 Arrestation et fuite]].
 
-### Le casier — saisie de documents (30 sec)
+### Le casier du bureau privé — saisie de documents
 
-Casier personnel de Fassbinder, alcôve ouest de la salle de lecture. Clé déposée par Fassbinder à la fin du beat 6, ou Crochetage (-20) avec bruit.
+Casier verrouillé dans le bureau privé de Fassbinder (3e niveau, aile nord). Clé au cou de Fassbinder, ou Crochetage -10 / Force -20 avec bruit.
 
 **Contenu** :
-- **Lettre Wasmeier à Kastor Lieberung** — chiffrement Wasmeier sur runes Sombre Langue. Décodable avec clé Wasmeier (les PJ l'ont depuis Middenheim Arc 3).
-- **Yodri vol. 2 — *De l'Adéquat au Pitoyable*** — Smednir-opposant ancien, en khazalid. Accessible à Johannes par lecture (grille DR en [[Scénarios/Le réveil d'Altdorf/18 - Départ matinal|18]] §Documents) ; nom de l'opposant en runes anciennes, identifié par cross-réf avec lettre Wasmeier déchiffrée.
-- **Permis minier Teugen-Steinhäger-Haagen** notarié à Averheim 9 Brauzeit 2508, 25 % Karak Hirn.
-- **Notes personnelles de Fassbinder** sur ses décryptages partiels.
+- **Lettre Wasmeier à Kastor Lieberung** — chiffrement Wasmeier sur runes Sombre Langue. Décodable avec clé Wasmeier (les PJ l'ont depuis Middenheim Arc 3) — acrostiche SHEERARGETRU + rituel. Canon `EiR ch.8 l.262-273`.
+- **Notes personnelles de Fassbinder** sur ses lectures en cours — sigles personnels, listes de sources, brouillons.
 
-**Sur la table de Fassbinder** (saisissable sans test pendant la fenêtre) :
-- **Yodri vol. 1 — *Catalogues de Confusion*** — gros in-folio khazalid (10 kg, 50 cm). Couloir VD-ZM en runes anciennes — Johannes peut transcrire phonétiquement les noms, mais leur localisation cartographique requiert Karak Hirn ou copies coffre Kaslain Nuln.
-- **Cahier de synthèse Fassbinder** + **chemise de notes personnelles** (feuillet Tante Augusta + cartes naines + brouillons) — cf. [[Handouts/Fassbinder - documents bureau]].
+**Sur la table de Fassbinder** (saisissable sans test pendant la fenêtre tactique) :
+- **Yodri vol. 1 — *Catalogues of Confusion and Shoddiness*** — gros in-folio khazalid (10 kg, 50 cm). Couloir VD-ZM en runes anciennes — Johannes peut transcrire phonétiquement les noms, mais leur localisation cartographique requiert Karak Hirn ou copies coffre Kaslain Nuln.
+- **Cahier de synthèse Fassbinder** + **chemise de notes et brouillons** — cf. [[Handouts/Fassbinder - documents bureau]].
 
-**Mécanique de saisie** : voir [[Scénarios/Le réveil d'Altdorf/05 - Arrestation et fuite|05 Arrestation et fuite]] §Beat 4.
+**Documents trouvés en bibliothèque pendant la consultation** (selon tests Beat 4 scène 04) — à transporter ou abandonner pendant la fuite :
+- Feuillet *Tante Augusta* — Trois Mères + faille à gauche.
+- Pamphlet *Bertoldt le Malleun* — vision 9-9.
+- Permis Teugen-Steinhäger-Haagen — 9 Brauzeit 2508, 25 % Karak Hirn.
+- Yodri vol. 2 *De l'Adéquat au Pitoyable* — Smednir nomme et bannit Sheerargetru.
+
+**Mécanique de saisie** : voir [[Scénarios/Le réveil d'Altdorf/13 - Arrestation et fuite|05 Arrestation et fuite]] §Beat 4.
 
 **Risque résiduel** : tout document trouvé sur un PJ lors d'un contrôle ultérieur (porte de ville, navire, perquisition) = **bûcher matériel**.
 
@@ -131,7 +144,7 @@ Casier personnel de Fassbinder, alcôve ouest de la salle de lecture. Clé dépo
 Quatre voies disponibles depuis la salle de lecture, plus une cinquième dérivée :
 
 - **Voie A — Porte de service arrière** (cloître nord), silencieuse, Discrétion +0.
-- **Voie B — Escalier mezzanine + fenêtre haute** : sortie sur les toits du cloître. Trois voies de toit ensuite (scriptorium / chapelle Verena / cloître nord-est). Détails [[Scénarios/Le réveil d'Altdorf/05 - Arrestation et fuite|05 Arrestation et fuite]] §Phase B.2.
+- **Voie B — Escalier mezzanine + fenêtre haute** : sortie sur les toits du cloître. Trois voies de toit ensuite (scriptorium / chapelle Verena / cloître nord-est). Détails [[Scénarios/Le réveil d'Altdorf/13 - Arrestation et fuite|05 Arrestation et fuite]] §Phase B.2.
 - **Voie C — Porte annexe salle des manuscrits** → ruelle des copistes, restreinte (clé Fassbinder ou guidance Johannes).
 - **Voie D — Fenêtre rez-de-chaussée sur cloître intérieur**, modérément bruyante.
 - **Voie E — Porte principale** (nef) : bloquée par les Veilleurs, pas une option directe.
@@ -218,17 +231,17 @@ Monter la PA Sigmarite de **-8 à +5 minimum** par actions concrètes :
 
 Avec les seules orientations transmises par Fassbinder, les PJ ne peuvent **pas** localiser opérationnellement le marteau.
 
-| Élément | Ce qu'ils ont | Ce qui manque |
+| Élément | Ce qu'ils ont (selon tests réussis) | Ce qui manque |
 |---|---|---|
-| **Région** | Passe de Feu Noir | Quelle portion (des dizaines de miles) |
-| **Repère** | Trois Mères + orientation faille à gauche (via Aug.) | Cartographie naine précise |
-| **Corridor** | Noms phonétiques VD-ZM accessibles via Johannes + Yodri vol.1 si saisi | Localisation cartographique (carte naine Karak Hirn ou copies Kaslain Nuln) |
+| **Région** | Col du Feu Noir (Yodri vol. 1) | Quelle portion (des dizaines de milles) |
+| **Repère** | Trois Mères + faille à gauche (si Augusta trouvé) | Cartographie naine précise |
+| **Corridor** | Noms phonétiques VD-ZM (Yodri vol. 1, lecture Khazalid) | Localisation cartographique (carte naine Karak Hirn ou copies Kaslain Nuln) |
 | **Entrée** | (vague) | Lost Gorge derrière éboulis + accès via mine Schmerzeit |
-| **Date** | 9 Brauzeit, année non tranchée | Année exacte (2512 / 2513 / 2517) |
-| **Démon** | SHEERARGETRU (lettre Lieberung décodée sur bateau via clé Wasmeier des PJ) | — |
-| **Rituel** | Outline complet (9 cultes, sang prêtre, Ghal Maraz, incantation finale) — lettre Lieberung | — |
-| **Arme** | Le vrai Ghal Maraz à récupérer | Identification directe du démon par Yodri vol. 2 seul (nom en runes anciennes — cross-réf avec lettre Wasmeier requise) |
-| **Conspiration** | Permis T-S-H notarié (cabinet) | Liens Schaftem MP / 25 % Karak Hirn / opération Schmerzeit |
+| **Date** | 9 Brauzeit (si Bertoldt trouvé) | Année cible (2512 / 2513) — la vision est non datée, le permis donne 2508 |
+| **Démon** | SHEERARGETRU (Yodri vol. 2 en clair si trouvé, OU lettre Wasmeier décodée si raid casier réussi) | — |
+| **Rituel** | Recette complète (9 cultes, sang prêtre, Ghal Maraz, *Iztak Graksk*) — lettre Wasmeier | — |
+| **Arme** | Le vrai Ghal Maraz à récupérer | — |
+| **Conspiration** | Permis T-S-H notarié (si trouvé) | Liens Schaftem MP / 25 % Karak Hirn / opération Schmerzeit |
 
 Les PJ peuvent atteindre les Trois Mères en quelques jours **avec un guide nain**, mais **pas l'entrée du Lost Gorge**. Sans le permis minier (Averheim ou coffre) ou sans aide naine (Karak Hirn), ils tournent autour pendant des semaines.
 
@@ -320,7 +333,7 @@ Le doute travaille Johannes longtemps. Moteur de son arc personnel.
 ### Pourquoi la ville est déformée — bleed des Collèges de Magie
 Canon *Altdorf - Crown of the Empire* Ch.1 l.68 : *« Cartographers often claim that the city defies their surveys, and lay the blame for this on the **warping effects of the city's many magical institutions**. »* Les huit Collèges concentrés à Altdorf produisent un bleed aethyrique ambiant qui rend certaines zones géographiquement instables. Combiné au brouillard matinal, ça donne des poches où la perception dérape.
 
-Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le réveil d'Altdorf/03 - Glissement Reikerbahn|Glissement Reikerbahn]]) sont victimes ordinaires de la ville, pas ciblés.
+Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le réveil d'Altdorf/51 - Glissement Reikerbahn|Glissement Reikerbahn]]) sont victimes ordinaires de la ville, pas ciblés.
 
 **Rôle de Gideon** : opportuniste. Il exploite les zones de bleed pour se déplacer discrètement et apparaître à des moments choisis. Sa manipulation active se limite au canon *Gideon Makes Time* (EiR ch.8 l.131-141) — déplacement de livres en bibliothèque, retards stratégiques.
 
@@ -335,7 +348,7 @@ Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le r
 **Ne jamais confirmer** aux PJ qu'il s'agit du même enfant. Description constante.
 
 ### Sort de Fassbinder — recommandation
-**Liquidé en cellule** entre J+1 et J+2 par agent Spionwerber pour étouffer le dossier. Cohérent avec sa **Doomed**. Poids dramatique max — l'élève hérite vraiment de la mission. PJ apprennent en route via rumeur (cf. [[Scénarios/Le réveil d'Altdorf/10 - Rumeur Fassbinder mort|Rumeur Fassbinder mort]]).
+**Liquidé en cellule** entre J+1 et J+2 par agent Spionwerber pour étouffer le dossier. Cohérent avec sa **Doomed**. Poids dramatique max — l'élève hérite vraiment de la mission. PJ apprennent en route via rumeur (cf. [[Scénarios/Le réveil d'Altdorf/14 - Rumeur Fassbinder mort|Rumeur Fassbinder mort]]).
 
 ### Décalage calendaire 9 Brauzeit 2513
 
@@ -352,10 +365,10 @@ Les Sigmarites zélotes qui se perdent dans la même zone (cf. [[Scénarios/Le r
 
 ## 10. Synthèse — ce que les PJ emportent en partant
 
-### Trois orientations transmises (oral Fassbinder, à voix haute avant l'arrestation)
-- Lieu : Passe de Feu Noir, près des Trois Mères.
-- Démon : Seigneur Exalté de Tzeentch, nom non prononcé.
-- Date : 9 Brauzeit, année incertaine (2512 ou 2513).
+### Ce que Fassbinder a transmis oralement avant l'arrestation
+- **Couloir Yodri vol. 1** : Vithang Dum / Zan Mingol, 3 milles dans le Col du Feu Noir.
+- **Pointage des 4 pistes complémentaires** dans la bibliothèque (Augusta / Bertoldt / permis / Yodri vol. 2) — entendu publiquement.
+- **Mention de la lettre Wasmeier** au cabinet (si un PJ a montré la clé Middenheim).
 
 ### Mission
 Donnée à Johannes, transmise au groupe : **terminer** — trouver le vrai Ghal Maraz pour la Maison Todbringer.
@@ -366,9 +379,9 @@ Donnée à Johannes, transmise au groupe : **terminer** — trouver le vrai Ghal
 ### Documents potentiellement saisis
 - **Cahier de synthèse Fassbinder** (Johannes, d'office) — initiales cryptées, voir [[Handouts/Fassbinder - documents bureau]].
 - **Brouillons / griffonnages** (sur la table — geste rapide) — feuilles volantes.
-- **Yodri vol. 1 *Catalogues de Confusion*** (sur la table — encombrant) — khazalid, lisible par Johannes (corps en khazalid courant ; runes anciennes pour noms — transcription phonétique). Localisation cartographique requiert source naine.
-- **Yodri vol. 2 *Adequate to Benighted*** (cabinet, à risque) — khazalid, lisible par Johannes ; nom du démon en runes anciennes — identifié par cross-réf avec lettre Wasmeier.
-- **Lettre Dark Tongue** (cabinet, à risque) — indéchiffrable sans clés.
+- **Yodri vol. 1 *Catalogues of Confusion and Shoddiness*** (sur la table — encombrant) — khazalid, lisible par Johannes (corps en khazalid courant ; runes anciennes pour noms — transcription phonétique). Localisation cartographique requiert source naine.
+- **Documents trouvés en recherche bibliothèque** (selon tests scène 04) : feuillet *Tante Augusta*, pamphlet *Bertoldt*, permis minier T-S-H, Yodri vol. 2 *De l'Adéquat au Pitoyable*.
+- **Lettre Sombre Langue** (cabinet, à risque) — déchiffrable avec clé Wasmeier des PJ → acrostiche SHEERARGETRU + rituel.
 
 ### Compagnon
 **Johannes Woblhoffer**, apprenti gris, ex-mendiant Reikerbahn, héritier des fragments Fassbinder, taupe non démasquée d'Immanuel-Ferrand.

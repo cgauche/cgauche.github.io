@@ -156,7 +156,7 @@
 - **Sceptre de Jade (Slaanesh)** : **Anika-Elise Nikse canon-explicite leader** Middenheim (Middenheim ch.7 l.144 — cascade fiche 02) ; *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139).
 - **Cult of the Hallowed Larva (Nurgle)** : présent à Nuln, intéressé par la gemme sacrée de Nurgle (cascade fiche 03 note Nuln).
 - **Tinean Fellowship (Nurgle)** : Herr Doktor Sesselweiss (cascade fiche 02).
-- **Red Crown (Tzeentch)** : sponsor Beastmen Drakwald (cascade fiche 02).
+- **Couronne Rouge (Tzeentch)** : sponsor Beastmen Drakwald (cascade fiche 02).
 - **Sheerargetru (Lord of Change)** : daemon Tzeentch émergeant Wolfgang ch.13 (cascade fiche 09).
 
 ---
@@ -242,7 +242,7 @@
 - **Morr fort** Stirland (Order of the Raven Knights).
 - **Manann fort** côte Nordland + Marienburg.
 - **Söll restaurationniste** Sudenland est (Auld Solland).
-- **Cultes du Chaos** : Main Pourpre infiltrée 8+ cellules ; Sceptre de Jade Middenheim ; Crimson Skull Brotherhood of the Axe ; Tinean Fellowship ; Red Crown Drakwald.
+- **Cultes du Chaos** : Main Pourpre infiltrée 8+ cellules ; Sceptre de Jade Middenheim ; Crimson Skull Brotherhood of the Axe ; Tinean Fellowship ; Couronne Rouge Drakwald.
 
 ---
 

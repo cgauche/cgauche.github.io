@@ -121,7 +121,7 @@ Le chapter house est une citadelle au sein de la cité, enceinte fortifiée capa
 - **Reiksguard** — garde impériale ; Kurt Helborg en absence pendant le climax car parti gérer la crise d'Ubersreik `EiR ch.13 l.338`. Baron Augustus Bardeleben von Teufelsmilch dirige la garnison du palais en son absence, sans réelle vigilance, et c'est par son inattention que Gideon a pu opérer les rotations de personnel qui placent neuf cultistes en *False Honour Guard* à la cérémonie `EiR ch.13 l.309` `EiR ch.13 l.322-324`.
 - **Cult of Sigmar** — Grand Théogoniste Yorri XV (assassiné au climax `EiR ch.13 l.385`), Grand Capitulaire Volkmar von Hindenstern (héritier du titre post-climax), Chevaliers du Cœur Ardent gardiens de la cathédrale.
 - **Cult of the Vengeful Blaze** — culte clandestin de Solkan fondé par Mornan Tybalt, opère depuis le Solland Memorial à Karl-Franz Park `Altdorf ch.5 l.687-689`.
-- **Red Crown** — secte tzeentchien rivale active à l'Université via Doktor Schmidt (daemonologue caché).
+- **Couronne Rouge** — secte tzeentchienne rivale active à l'Université via Doktor Schmidt (daemonologue caché).
 - **Hooks et Fish** — bandes des docks ; à l'arrivée des PJ avec Ghal Maraz, contrôlent totalement les docks, peu de watchmen sortent de leur baraquement `EiR ch.13 l.26`.
 
 ## Rôle Arc 7

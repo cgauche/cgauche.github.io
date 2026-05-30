@@ -51,7 +51,7 @@ Vue depuis une fenêtre haute de la mezzanine :
 - **À gauche** : descente vers la **chapelle de Verena** (toit en demi-arc, ardoise glissante).
 - **Sous** : cour intérieure (jardin), 12 m de chute.
 
-Détails de la fuite par les toits : [[05 - Arrestation et fuite]] Phase B.2.
+Détails de la fuite par les toits : [[13 - Arrestation et fuite]] Phase B.2.
 
 ## Sécurité
 
@@ -61,13 +61,13 @@ Détails de la fuite par les toits : [[05 - Arrestation et fuite]] Phase B.2.
 
 ## Apparition scénario
 
-- [[04 - Bureau Fassbinder]] : consultation Fassbinder à sa table publique, trois orientations.
-- [[04b - Bureau Fassbinder — arrivée tardive]] : arrivée des PJ après l'arrestation.
-- [[05 - Arrestation et fuite]] : arrestation publique dans la salle de lecture + fuite par sorties multiples.
+- [[11 - Consultation Fassbinder]] : consultation Fassbinder à sa table publique, trois orientations.
+- [[12 - Consultation Fassbinder — arrivée tardive]] : arrivée des PJ après l'arrestation.
+- [[13 - Arrestation et fuite]] : arrestation publique dans la salle de lecture + fuite par sorties multiples.
 
 ## Hooks futurs
 
-- **Retour pour fouilles** : si les PJ veulent revenir post-arrestation, la table de Fassbinder est sous scellés de l'Ordre du Marteau d'Argent et son casier est scellé. La salle de lecture reste ouverte au public mais surveillée par un agent Spionwerber en planque ([[04b - Bureau Fassbinder — arrivée tardive]] §sous-scène D).
+- **Retour pour fouilles** : si les PJ veulent revenir post-arrestation, la table de Fassbinder est sous scellés de l'Ordre du Marteau d'Argent et son casier est scellé. La salle de lecture reste ouverte au public mais surveillée par un agent Spionwerber en planque ([[12 - Consultation Fassbinder — arrivée tardive]] §sous-scène D).
 - **Autres scholars** : possibles contacts pour les PJ. Mais après l'arrestation Fassbinder, l'Université est sous surveillance — la rumeur d'« associés de l'hérétique » circule, les scholars deviennent prudents.
 - **Le coffre du temple de Verena** : analogie avec le coffre du Grand Temple de Sigmar, mais beaucoup plus accessible. Possible source secondaire pour la Piste B (Verena = vérité, sources mineures sur les hérésies sigmarites).
 - **La salle des manuscrits annexe** : pièces rares non saisies par les Templiers (puisqu'ils se sont concentrés sur la table + le casier de Fassbinder). Possibles consultations clandestines si les PJ reviennent plus tard avec une bonne couverture.
@@ -76,5 +76,5 @@ Détails de la fuite par les toits : [[05 - Arrestation et fuite]] Phase B.2.
 
 - **PNJ** : [[Quintus Fassbinder]], Johannes (PJ).
 - **Faction** : [[Ordre du Marteau d'Argent]] (arrestation).
-- **Scénario** : [[04 - Bureau Fassbinder]], [[04b - Bureau Fassbinder — arrivée tardive]], [[05 - Arrestation et fuite]].
+- **Scénario** : [[11 - Consultation Fassbinder]], [[12 - Consultation Fassbinder — arrivée tardive]], [[13 - Arrestation et fuite]].
 - **Lieu parent** : [[Altdorf]].

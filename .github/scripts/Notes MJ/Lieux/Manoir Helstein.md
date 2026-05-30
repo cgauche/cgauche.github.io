@@ -32,9 +32,9 @@
 ## Rôle dans le scénario
 
 - **Point de départ** : briefing matinal Heinrich ([[01 - Briefing Helstein]]).
-- **Point de retour** : après la fuite des toits ([[08 - Retour Helstein]]), manoir à demi-déserté.
+- **Point de retour** : après la fuite des toits ([[42 - Retour Helstein]]), manoir à demi-déserté.
 - **Réception du billet Maria-Luise** : Annaliese le dépose à la porte de service.
-- **Réception de la rumeur Fassbinder mort** : un coursier remonte à 18-19h ([[10 - Rumeur Fassbinder mort]]).
+- **Réception de la rumeur Fassbinder mort** : un coursier remonte à 18-19h ([[14 - Rumeur Fassbinder mort]]).
 - **Base logistique** : départ discret possible par la ruelle de service (côté est) pour le rendez-vous Lina à 22h.
 
 ## Issues
@@ -52,5 +52,5 @@
 
 - **PNJ** : [[Heinrich Todbringer]], [[Katarina Todbringer]], [[Boris Todbringer]] (mort), [[Veiran Thugenheim]] (disparu), Bertholdt (intendant).
 - **Faction** : [[Maison Todbringer]], [[Épées d'Ulric]].
-- **Scénario** : [[01 - Briefing Helstein]], [[08 - Retour Helstein]].
+- **Scénario** : [[01 - Briefing Helstein]], [[42 - Retour Helstein]].
 - **Lieu parent** : [[Altdorf]].

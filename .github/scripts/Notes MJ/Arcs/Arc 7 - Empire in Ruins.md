@@ -424,7 +424,7 @@
 
 **Tableau Incarnations Sheerargetru** :
 - Basic Requirements: Hammer recovered + at least 1 Nine Eye/Wasmeier/Zuntermein alive + suitable host (Wolfgang/Zuntermein/Wasmeier).
-- Prince Héritier main host = **+3 Power**. Honour Guard chanted 9x = +1. Yorri slain = +1. Ceremony 9th of 9th = +2. 3 Eyes alive = +1, 6 alive = +3, 9 alive = +5. Bögenhafen daemonic portal Arc 2 = +5. Etelka/Ernst Red Crown survived Arc 4 = +3. Wasmeier undiscovered Arc 5 = +3. Morrslieb shattered Arc 6 = +5. PJ use true name dramatically before manifest = **-3**. Sheerargetru in same room as Ghal Maraz = **-4**. Karl-Franz returned health = **-2**.
+- Prince Héritier main host = **+3 Power**. Honour Guard chanted 9x = +1. Yorri slain = +1. Ceremony 9th of 9th = +2. 3 Eyes alive = +1, 6 alive = +3, 9 alive = +5. Bögenhafen daemonic portal Arc 2 = +5. Etelka/Ernst Couronne Rouge survived Arc 4 = +3. Wasmeier undiscovered Arc 5 = +3. Morrslieb shattered Arc 6 = +5. PJ use true name dramatically before manifest = **-3**. Sheerargetru in same room as Ghal Maraz = **-4**. Karl-Franz returned health = **-2**.
 - Power Score : <1 Barely Exalted Trivial, 1-3 Barely Exalted Minor, 4-8 Exalted Pink Horror Minor, 9-16 High Exalted Pink Horror Significant, 17-24 High Exalted Herald Significant, 25+ High Exalted Herald Major.
 - Statbloc Sheerargetru High Exalted : M6 WS115 BS130 S115 T115 I100 Ag70 Dex40 Int95 WP95 Fel85 W336.
 

@@ -75,7 +75,7 @@ Test précédent de l'arme. **Carolus n'avait pas de problème éthique** à tes
 - **Inquisition Magique impériale** (College of Magic) enquête tardivement, retrouve corps de Carolus + débris d'arme — déclenche enquête sur les complicités possibles.
 
 ### Vers Arc 7
-- **Engel réapparaît** comme antagoniste mineur ou pion d'une faction (Main Pourpre ? Red Crown ?). Sa **maîtrise partielle des 8 Vents** en fait un atout pour quiconque le récupère.
+- **Engel réapparaît** comme antagoniste mineur ou pion d'une faction (Main Pourpre ? Couronne Rouge ?). Sa **maîtrise partielle des 8 Vents** en fait un atout pour quiconque le récupère.
 - **La tour reconstituée** par un cult ou un mage rival devient un site cible.
 
 ## PNJ présents / liés
@@ -87,4 +87,4 @@ Test précédent de l'arme. **Carolus n'avait pas de problème éthique** à tes
 - **Arcs** : [[Arc 3 - Ubersreik]] (S16)
 - **PNJ-clé** : [[Christoph Engel]] (disparu, plot dormant), [[Carolus Entschlafen]] (mort)
 - **Lieux connexes** : [[Ubersreik]] (où l'arme a tué Vielfrass), Elssen (village tremplin, hors-fiche)
-- **Factions** : aucune cellule formelle ici, mais Engel **pourrait** être agent latent d'une faction (Main Pourpre via mages d'Ubersreik ? Red Crown ?). Non tranché.
+- **Factions** : aucune cellule formelle ici, mais Engel **pourrait** être agent latent d'une faction (Main Pourpre via mages d'Ubersreik ? Couronne Rouge ?). Non tranché.

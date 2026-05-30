@@ -48,7 +48,7 @@
 - **Sort post-S22** : pas activé table. Si l'Arc 7 ramène la **résurgence Jundfreud** [S57], Nacht est **dans la ligne de mire** des reconquistadors loyalistes. Hooks possibles : (a) tuée par les Jundfreud, (b) évacuée à Altdorf, (c) tient en mode résistance.
 
 ## Hooks de retour
-- **Nouvelle mission Filianore à Altdorf [S22+]** : déclencheur d'Arc 4 (Mort sur le Reik). Cible **[[Etelka Herzen]]** (Red Crown canon DotR ch.4). **Note MJ critique** : Nacht ignore que **Filianore est en réalité Main Pourpre infiltrée** (cf. [[Filianore]] et FIL-28) — Filianore exécute la mission Nacht mais sert son propre agenda MP.
+- **Nouvelle mission Filianore à Altdorf [S22+]** : déclencheur d'Arc 4 (Mort sur le Reik). Cible **[[Etelka Herzen]]** (Couronne Rouge canon DotR ch.4). **Note MJ critique** : Nacht ignore que **Filianore est en réalité Main Pourpre infiltrée** (cf. [[Filianore]] et FIL-28) — Filianore exécute la mission Nacht mais sert son propre agenda MP.
 - **Demande de frappe ciblée** : si une cellule pourpre se révèle (Christoph Engel agent Tzeentch hypothèse, ou autre), Nacht peut commander une intervention discrète. Les PJ deviennent ses **actifs jetables**.
 - **Karl-Franz à Ubersreik** : visite impériale hypothétique → Nacht orchestre la sécurité, les PJ comme garde rapprochée discrète.
 - **Disparition de Nacht (Arc 7)** : si les Jundfreud frappent S57, les PJ peuvent être activés pour la retrouver / venger / récupérer ses dossiers Main Pourpre.

@@ -24,8 +24,8 @@
 
 ## Rôle dans le scénario
 
-- **Arrestation de Fassbinder** ([[05 - Arrestation et fuite]]) : 1 Templier Répurgateur senior + 4 Initiés/Zélotes + 2 Veilleurs.
-- **Assassinat de Fassbinder en cellule** (étouffé via Spionwerber, voir [[10 - Rumeur Fassbinder mort]]) : pas l'œuvre directe de l'Ordre, mais cohérent que le dossier disparaisse vite — l'Ordre lui-même est manipulé.
+- **Arrestation de Fassbinder** ([[13 - Arrestation et fuite]]) : 1 Templier Répurgateur senior + 4 Initiés/Zélotes + 2 Veilleurs.
+- **Assassinat de Fassbinder en cellule** (étouffé via Spionwerber, voir [[14 - Rumeur Fassbinder mort]]) : pas l'œuvre directe de l'Ordre, mais cohérent que le dossier disparaisse vite — l'Ordre lui-même est manipulé.
 - **Chasse aux « associés de l'hérétique »** dans l'après-midi (rumeur #19, voir [[Rumeurs]]).
 
 ## Stats indicatifs (Templier Répurgateur senior)
@@ -57,5 +57,5 @@ Profil WFRP4 *Templar Witch Hunter* (Silver 4) :
 ## Liens
 
 - **Fiche groupée** : [[Knightly Orders Arc 7]] (couvre aussi Chevaliers Panthères + Fiery Heart + Griffon + Blazing Sun).
-- **Apparitions scénario** : [[05 - Arrestation et fuite]], [[05 - Arrestation et fuite]], [[10 - Rumeur Fassbinder mort]].
+- **Apparitions scénario** : [[13 - Arrestation et fuite]], [[13 - Arrestation et fuite]], [[14 - Rumeur Fassbinder mort]].
 - **PNJ liés** : [[Yorri XV]] (officiel, hors boucle), [[Volkmar von Hindenstern]] (faction radicale), [[Yann Zuntermein]] (MJ-only manipulateur).

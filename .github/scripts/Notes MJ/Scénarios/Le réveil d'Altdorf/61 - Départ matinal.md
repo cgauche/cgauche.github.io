@@ -1,8 +1,25 @@
-# 18 - Départ matinal
+# 61 - Départ matinal
 
 > **Lieu** : Quais d'Altdorf, fleuve Reik.
 > **Moment** : aube du 5 Erntezeit 2512 IC.
 > **Durée table** : 10-15 minutes.
+
+## En bref
+
+- **Objectif** : embarquement matinal sur la Comète (J+1), troisième apparition de la silhouette (2/3) et fenêtre de lecture des documents saisis pendant le voyage fluvial.
+- **PNJ présents** : [[Lieutenant Erica Hauser]] (Reikland Navy) ; [[Gideon]] (silhouette, MJ-only).
+- **Ce que les PJ peuvent faire ici** :
+  - Embarquer : rencontre avec le capitaine, vérification du mandat Heinrich, itinéraire Altdorf → Kemperbad → Nuln (10-12 jours).
+  - Silhouette (2/3), un seul PJ : **Test Perception (-20)** ; croisement de regards, sourire, charrette vide ensuite.
+  - Examiner les documents emportés pendant le voyage :
+    - Lettre à Kastor Lieberung — décodage clé Wasmeier, substitution mécanique, n'importe quel PJ.
+    - Feuillet acrostiche Tante Augusta.
+    - Cahier de synthèse Fassbinder — **Recherche (-10)** ou **Connaissance (Linguistique) (+0)** par tranche d'heure.
+    - Yodri vol. 1 — **Langue (Khazalid)** ou **Recherche (-10)** par tranche de 2-3 h (table DR).
+    - Yodri vol. 2 — **Lecture (+0)** par tranche de 1-2 h (table DR).
+    - Notes personnelles de Fassbinder — **Recherche (-20)** ou **Connaissance (Linguistique) (-10)** par tranche d'heure.
+    - Notes personnelles de Johannes (logement Collège Gris).
+- **Sorties / et après** : → retour [[Hub]]
 
 ## Saut narratif
 
@@ -18,7 +35,7 @@ Voir [[Lieutenant Erica Hauser]] pour la fiche personnage.
 
 ## Silhouette (2/3) — obligatoire
 
-Pendant le chargement, **un seul PJ** (au choix MJ — idéalement celui qui a vu la première fois en [[03 - Glissement Reikerbahn|Scène 3]]) :
+Pendant le chargement, **un seul PJ** (au choix MJ — idéalement celui qui a vu la silhouette la première fois au [[51 - Glissement Reikerbahn|Glissement]]) :
 
 **Test Perception (-20)** :
 - À 40 m, sur une charrette de pommes vide, **un enfant**. Coupe au bol. Assis sur le ridelle. Les regarde.
@@ -33,7 +50,7 @@ Les 10-12 jours de voyage laissent du temps pour examiner ce qui a été saisi.
 
 ### Lettre à Kastor Lieberung en chiffrement de Wasmeier
 
-Si récupérée au cabinet (scène 05). Décodage = clé Wasmeier (les PJ l'ont depuis Middenheim Arc 3) — substitution mécanique, n'importe quel PJ peut faire le travail. Contenu MJ : voir [[Fassbinder - documents bureau]] §IV.
+Si récupérée au casier/bureau (scène 13). Décodage = clé Wasmeier (les PJ l'ont depuis Middenheim Arc 3) — substitution mécanique, n'importe quel PJ peut faire le travail. Contenu MJ : voir [[Fassbinder - documents bureau]] §IV.
 
 ### Feuillet acrostiche Tante Augusta
 
@@ -43,12 +60,11 @@ Poème pour enfants des Sœurs de Sigmar. Première lettre de chaque vers compos
 
 Sigles personnels de Fassbinder. Déchiffrage par tâtonnement : **Recherche (-10)** ou **Connaissance (Linguistique) (+0)** par tranche d'heure.
 
-Contenu accessible après déchiffrage progressif :
-- **T.M.** = Trois Mères.
-- **9-9-12 ou 13** = neuf du neuvième mois (Brauzeit), 2512 ou 2513.
-- Sigles initiales pour Sœurs de Sigmar, Bertoldt le Malleun, Smednir. Renvois à des pages précises de Yodri vol.1 et vol.2.
+Contenu accessible après déchiffrage progressif (voir [[Fassbinder - documents bureau]] §IV pour la clé complète) :
+- **VD-ZM** = couloir Vithang Dum / Zan Mingol (Yodri vol. 1) — désigné par le sigle, expansion à reconstituer.
+- **9-9** = neuf du neuvième mois (Brauzeit). Année à trancher par d'autres sources.
+- Sigles initiales pour Sœurs de Sigmar (Aug.), Bertoldt le Malleun (Bert.), Lina (L.), Karak Hirn / Alrik (K.H. / A.R.), Wasmeier-Lieberung (DT / K.L.), permis minier (T-S-H / Sch.).
 - Renvoi explicite au **coffre du Grand Temple** comme étape suivante de la recherche.
-- Le couloir entre les deux ruines naines est désigné par le sigle « VD-ZM » sans expansion en clair dans le cahier.
 
 ### Yodri vol. 1 (si saisi sur la table)
 
@@ -65,22 +81,21 @@ Test : **Langue (Khazalid)** ou **Recherche (-10)** par tranche de 2-3 h de lect
 | **+3 DR** | Détails sur le porteur (Sigmar lui-même) et l'objet rituel (le vrai marteau). Yodri cite le rapport mensuel du conseil des Gardiens de la ruine occidentale. |
 | **+4 DR** | Yodri se moque des historiens humains qui chercheraient au sud (recoupement avec ce que Fassbinder avait déjà donné — Knox, Shmidt). Pas de nouvelle piste opérationnelle. |
 
-**Gating maintenu** : même à +4 DR, sans **cartographie naine**, les noms VD-ZM restent inertes pour la navigation terrain. Karak Hirn ou Kaslain Nuln requis.
+**Verrou maintenu** : même à +4 DR, sans **cartographie naine**, les noms VD-ZM restent inertes pour la navigation terrain. Karak Hirn ou Kaslain Nuln requis.
 
-### Yodri vol. 2 (si saisi au cabinet)
+### Yodri vol. 2 (si trouvé en bibliothèque scène 11)
 
-*De l'Adéquat au Pitoyable*. Idem khazalid + runes anciennes. Sujet plus sensible (théologie naine, opposant ancien).
+*De l'Adéquat au Pitoyable* — traduction reikspiel autorisée par les Nains (canon `EiR ch.8 l.296`). N'importe quel PJ lettré peut le lire sans Langue (Khazalid). Sujet sensible (théologie naine, opposant ancien).
 
-Test : **Langue (Khazalid)** ou **Recherche (-20)** par tranche de 2-3 h (vocabulaire spécialisé).
+Test : **Lecture (+0)** par tranche de 1-2 h pour suivre le passage rituel précis ; lecture courante sinon.
 
 | DR | Info acquise |
 |----|--------------|
-| **Échec** | Identifie le sujet (théologie naine sur Smednir et un opposant ancien) mais ne suit pas le détail. |
-| **0 DR** | Smednir, dieu nain forgeron, a banni un opposant en lui crachant son nom et en le frappant avec un marteau encore inachevé. |
-| **+1 DR** | L'opposant est **revenu plus tard**, brisé et hargneux. Ennemi mortel de Ghal Maraz — l'arme qui peut le mutiler. |
-| **+2 DR** | **Transcription phonétique des runes anciennes** du nom de l'opposant. Johannes peut épeler mais ne reconnaît pas — cross-référence avec lettre Wasmeier déchiffrée requise pour identifier comme **SHEERARGETRU**. |
-| **+3 DR** | Détails du rituel de bannissement originel : composantes nommées (matériau du marteau, écriture du nom dans le métal en cours de forge, prononciation rituelle). |
-| **+4 DR** | Allusion à un **retour cyclique** de l'opposant à des dates cosmiquement significatives. Pas de date précise — Yodri cryptique sur le calendrier (utile : confirme le pattern, ne donne pas l'année exacte 2512/2513). |
+| **Échec** | Identifie le sujet (théologie naine sur Smednir et un opposant ancien) mais ne suit pas la séquence détaillée. |
+| **0 DR** | Smednir, dieu nain forgeron, a maudit le nom d'un démon et l'a frappé d'un marteau encore inachevé pendant la forge de Ghal Maraz. Le démon est banni. |
+| **+1 DR** | Le démon est nommé en clair dans le texte : **Sheerargetru**, Seigneur Exalté de Tzeentch. Brûle depuis lors d'une haine ancienne pour Ghal Maraz, qui peut le mutiler. |
+| **+2 DR** | Détails du contexte : trois offres de service du démon avant le bannissement, échanges précis Smednir-Sheerargetru, achèvement de Ghal Maraz avec l'aide des autres Dieux Ancestraux. |
+| **+3 DR** | Annotations sigmarites en marge (traduction Reikspiel a été supervisée par le clergé) commentant la portée théologique du passage et son lien possible avec les prophéties Malleun. |
 
 ### Notes personnelles de Fassbinder (si saisies au cabinet)
 
@@ -103,7 +118,7 @@ Décrire le Comète qui quitte les eaux. Altdorf brumeuse à l'arrière.
 ### Variante A — PJ « propres »
 Embarquement au quai principal. Aucune tension particulière. Marine professionnelle.
 
-### Variante B — PJ « tachés Sigmarite » (combat scène 3)
+### Variante B — PJ « tachés Sigmarite » (combat au Glissement)
 Embarquement clandestin à un quai mineur sous Spitzweg. Marines payés bonus pour la discrétion. Cape sur la tête pour Mark.
 
 ### Variante C — PJ « tachés Fassbinder » (Templier les a vus aux toits)

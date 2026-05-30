@@ -1,8 +1,19 @@
-# 05 - Arrestation et fuite
+# 13 - Arrestation et fuite
 
 > **Lieu** : Salle de lecture principale de la [[Bibliothèque-temple de Verena]] puis sorties multiples du bâtiment.
-> **Moment** : fin de matinée, ~11h, juste après les trois orientations données en [[04 - Bureau Fassbinder]].
+> **Moment** : fin de matinée, ~11h, juste après la consultation Yodri vol.1 + pointage des pistes en [[11 - Consultation Fassbinder]].
 > **Durée table** : 20-30 minutes (10-15 arrestation publique + 10-15 fuite par la bibliothèque).
+
+## En bref
+
+- **Objectif** : arrestation publique de Fassbinder par les Templiers (Phase A), puis fuite des PJ par la bibliothèque (Phase B).
+- **PNJ présents** : 1 Templier Répurgateur senior + 4 Initiés/Zélotes + 2 Veilleurs du Watch ; [[Quintus Fassbinder]] ; agent Spionwerber ; 12-15 lecteurs témoins.
+- **Ce que les PJ peuvent faire ici** :
+  - Phase A — fenêtre tactique (~60-90 s table) : s'éloigner discrètement de la table, saisir des documents, atteindre le casier (Discrétion -10), créer une diversion.
+  - Phase B — choisir **une** voie de sortie (voir la carte de la fuite ci-dessous).
+  - Option séparée : raid du bureau privé pour le casier (§Option — raid du bureau).
+- **État reçu de la scène 11** : A (Fassbinder à sa table) ou B (en route vers son bureau) — voir §État reçu de la scène 11.
+- **Sorties / et après** : → retour [[Hub]] (l'après-midi est ouverte).
 
 ## Intention dramatique
 
@@ -13,6 +24,15 @@ Fassbinder n'est pas un homme d'action : WS 33, Ag 28, Talents purement intellec
 - Les PJ sont **immédiatement visibles** des Templiers (assis à la table de Fassbinder). Variante A « propre » difficile par défaut — au mieux ils s'éloignent à temps pour se mêler aux autres lecteurs.
 
 Ce que Quintus n'a pas dit avant l'arrivée des Templiers, il ne le dira pas après — les noms exacts (Vithang Dum / Zan Mingol, SHEERARGETRU, année, lien Smednir, permis Averheim) restent dans les livres et l'acrostiche, à décoder par les PJ en route.
+
+## État reçu de la scène 11
+
+La scène [[11 - Consultation Fassbinder]] te passe un **état d'entrée** (elle ne joue plus l'irruption — c'est ici) :
+
+- **État A — Fassbinder à sa table** *(défaut)* : tous ses documents de consultation sont sur la table, saisissables pendant la fenêtre tactique (Beat 3). C'est l'hypothèse de toute la Phase A ci-dessous.
+- **État B — Fassbinder en route vers son bureau** *(seulement si un PJ a révélé le chiffrement Wasmeier)* : il est debout dans l'allée, parchemins et serviette sous le bras. Les Templiers saisissent **aussi ce qu'il porte**, pas seulement la table. Joue la Phase A à l'identique, en ajustant ce qui reste saisissable sur la table.
+
+Dans les deux cas, les clés (bureau + casier) partent au cou de Fassbinder.
 
 ---
 
@@ -60,8 +80,8 @@ Pendant que Fassbinder occupe les Templiers en pérorant, la salle est figée ma
 
 ### Environnement immédiat
 
-- **La table de Fassbinder** : Yodri vol. 1 ouvert, chemise de notes (feuillet acrostiche + cartes naines + brouillons), cahier de synthèse.
-- **Le bureau privé de Fassbinder** : 3e niveau aile nord, verrouillé, contient le casier avec les pièces sensibles. Voir [[04 - Bureau Fassbinder]] §Option — raid du bureau pour le détail. Les Templiers n'y monteront qu'après avoir évacué Fassbinder (~11:30).
+- **La table de Fassbinder** : Yodri vol. 1 ouvert, feuillet *Augusta*, brouillons Feuilles 1-2 (note couloir + croquis). Documents non sensibles.
+- **Le bureau privé de Fassbinder** : 3e niveau aile nord, verrouillé, contient le casier avec les pièces sensibles. Voir [[11 - Consultation Fassbinder]] §Option — raid du bureau pour le détail. Les Templiers n'y monteront qu'après avoir évacué Fassbinder (~11:30).
 - **Sorties disponibles** :
   - **Porte principale** (par la nef) : **bloquée** par les deux Veilleurs du Watch.
   - **Porte de service arrière** : au fond de la salle, donne sur le cloître intérieur. Pas surveillée à cette seconde.
@@ -96,10 +116,10 @@ Si un PJ veut atteindre le casier de Fassbinder, c'est 10 m de distance dans la 
 
 ### Contenu du casier
 
-- **Lettre à Kastor Lieberung en chiffrement de Wasmeier** — substitution sur runes Sombre Langue. Décodable avec la clé Wasmeier (les PJ l'ont depuis Middenheim Arc 3) — substitution mécanique sans test. Contenu : acrostiche SHEERARGETRU + rituel. Voir [[Fassbinder - documents bureau]] §IV.
-- **Yodri vol. 2 — *De l'Adéquat au Pitoyable*** — Smednir banni un opposant ancien, en khazalid. Accessible à Johannes par lecture (grille DR dans [[18 - Départ matinal]] §Documents). Le nom de l'opposant est en runes anciennes — transcrit phonétiquement, identifié par cross-référence avec la lettre Wasmeier déchiffrée. (Tome rare, en prêt comme le vol.1.)
-- **Permis minier Teugen-Steinhäger-Haagen** (copie notariée, reikspiel courant) — signé Honorio Schaftem à Averheim 9 Brauzeit 2508, 25 % à Karak Hirn (King Alrik Ranulfsson). Document politiquement explosif si Schaftem est lié à la Main Pourpre.
-- **Notes personnelles de Fassbinder** sur ses décryptages partiels — sigles personnels, déchiffrage par tâtonnement (Recherche -10 ou Connaissance (Linguistique) +0 par tranche d'heure).
+- **Cahier de synthèse de Fassbinder** (§I de [[Fassbinder - documents bureau]]) — journal personnel, sigles cryptés. Johannes connaît la clé.
+- **Feuilles 3-4 de brouillons sensibles** (§II) — notes sur les cultes interrogés + tentatives de décryptage de la lettre S.L.
+- **Lettre à Kastor Lieberung en chiffrement de Wasmeier** dans dossier vert — décodable avec la clé Wasmeier (PJ depuis Middenheim Arc 3). Voir [[Fassbinder - documents bureau]] §III. Canon `EiR ch.8 l.262-273`.
+- **Notes personnelles** : correspondance, brouillons d'articles (Recherche -10 ou Connaissance (Linguistique) +0 par tranche d'heure pour déchiffrer le détail).
 
 **Risque résiduel** : tout document trouvé sur un PJ lors d'un contrôle ultérieur (porte de ville, navire, perquisition) = **bûcher matériel**.
 
@@ -123,7 +143,7 @@ Il comprend confusément qu'il a été suivi, peut-être depuis des mois, et que
 
 Fassbinder se laisse mener par le Templier senior, mais avant de quitter la table il tourne la tête vers ses visiteurs. Il les regarde. Trois ou quatre secondes.
 
-Il **ne donne pas** de récap des trois orientations. Il **ne nomme** ni couloir, ni démon, ni année. Tout ce qu'il avait à dire, il l'a dit avant l'arrivée des Templiers — ou il ne l'a pas dit, et c'est trop tard. Il **ne donne pas non plus la clé** de son bureau — il porte les deux clés à son cou, le Templier ne lui laisse pas le temps ni l'opportunité d'un geste discret.
+Il **ne donne pas** de récap. Il **ne nomme** plus le couloir, ne pointe plus aucune piste, ne fait plus aucun signe vers les pistes complémentaires. Tout ce qu'il avait à transmettre, il l'a transmis avant l'arrivée des Templiers — ou il ne l'a pas transmis, et c'est trop tard. Il **ne donne pas non plus la clé** de son bureau — il porte les deux clés à son cou, le Templier ne lui laisse pas le temps ni l'opportunité d'un geste discret.
 
 Il prononce, à voix très basse, presque pour lui-même :
 
@@ -133,7 +153,7 @@ Il prononce, à voix très basse, presque pour lui-même :
 
 Il esquisse un mouvement de la tête vers son apprenti — un hochement bref de mentor qui sait que c'est la dernière fois — puis se laisse emmener vers la nef.
 
-(MJ-only : les clés (bureau + casier) restent au cou de Fassbinder, partent avec lui à la Chambre Noire. Les Templiers les utiliseront pour fouiller le bureau ~11:30. Les PJ qui veulent les pièces du casier doivent **Crochetage la porte du bureau ET le casier** — soit avant l'arrestation (Option pendant la consultation, voir scène 04), soit pendant la fenêtre de fuite (Phase B.6 ci-dessous), soit jamais.)
+(MJ-only : les clés (bureau + casier) restent au cou de Fassbinder, partent avec lui à la Chambre Noire. Les Templiers les utiliseront pour fouiller le bureau ~11:30. Les PJ qui veulent les pièces du casier doivent **Crochetage la porte du bureau ET le casier** — soit avant l'arrestation (Option pendant la consultation, voir scène 11), soit pendant la fenêtre de fuite (§Option — raid du bureau, ci-dessous), soit jamais.)
 
 ## Beat 7 — Reprise du bluff comme couverture sonore
 
@@ -150,6 +170,18 @@ En traversant la salle pour sortir, Fassbinder **reprend** sa harangue à la can
 ---
 
 # Phase B — Fuite par la bibliothèque (10-15 min table)
+
+> **À LIRE EN PREMIER — carte de la fuite.** Les PJ choisissent **une seule voie de sortie** ci-dessous. Chaque voie est autonome : inutile de lire les autres. Le **raid du bureau** (récupérer le casier de Fassbinder) est une **option séparée**, *pas* une étape de la fuite — elle est traitée tout en bas (§Option — raid du bureau).
+
+| Voie de sortie | Jet d'entrée | Débouché | Bruit |
+|---|---|---|---|
+| **A — Porte de service arrière** *(recommandée)* | Discrétion (+0) | Cloître intérieur → ruelle des copistes | Aucun |
+| **B — Mezzanine + toits** | Discrétion (-10) puis Athlétisme | Toits du cloître → ruelles d'étudiants *(détail en B.2)* | Faible |
+| **C — Porte annexe (manuscrits)** | Discrétion (+0) | Passe près du casier → ruelle des copistes | Aucun |
+| **D — Fenêtre du cloître** | Athlétisme (+0) | Jardins du cloître → porte de service | Modéré |
+| ~~Porte principale (nef)~~ | — | **Bloquée** : 2 Veilleurs du Watch | — |
+
+**Toutes les voies rejoignent ensuite [§Phase B.3 — la foule universitaire](#phase-b3--dans-la-foule-universitaire), puis le [[Hub]].** Détail de chaque voie ci-dessous si besoin.
 
 ## Topologie
 
@@ -211,11 +243,15 @@ Une fois dehors : ajuster sa tenue, prendre l'allure de simples étudiants ou de
 - **Par Königstrasse** : direct mais risqué (Watch dense, alerté si Voie C des toits a alarmé).
 - **En se mêlant aux étudiants** de la sortie de cours de midi : couverture sociale, lent.
 
-## Phase B.6 — Option : raid post-arrestation du bureau privé
+## Option — raid du bureau privé (récupérer le casier)
+
+> **Ce n'est pas une étape de la fuite.** Si les PJ veulent juste sortir, ignore cette section. À jouer **seulement** si un PJ veut récupérer le casier de Fassbinder.
+>
+> **Trajet salle de lecture → bureau** : 3e niveau, aile nord. ~2-3 min via l'**escalier en colimaçon côté est** puis le **couloir nord**. Un PJ peut monter pendant que les autres fuient par une voie de sortie.
 
 Si les PJ veulent récupérer le contenu du casier après que Fassbinder a été emmené, c'est une course contre les Templiers.
 
-### Timing
+### Tempo
 
 - **11:00-11:15** : arrestation Phase A. Fassbinder emmené par la nef.
 - **11:15-11:30** : Fassbinder mené hors du bâtiment, escorté à pied. Templiers focalisés sur l'extraction.
@@ -233,12 +269,12 @@ Une fois au bureau :
 - **Casier intérieur** : Crochetage (-10) ou Force (-20). Bruit modéré.
 - **Fouille** : recherche du contenu, ~3-5 min selon l'organisation.
 
-### Contenu du casier (rappel — détaillé en scène 04 §Option)
+### Contenu du casier (rappel — détaillé en scène 11 §Option)
 
-- **Lettre à Kastor Lieberung en chiffrement de Wasmeier** — décodable avec clé Wasmeier (PJ depuis Middenheim Arc 3).
-- **Yodri vol. 2** — khazalid, lisible par Johannes (grille DR en [[18 - Départ matinal]] §Documents) ; nom de l'opposant en runes anciennes, identifié seulement par cross-réf avec lettre Wasmeier déchiffrée.
-- **Permis minier Teugen-Steinhäger-Haagen** notarié à Averheim.
-- **Notes personnelles de Fassbinder**.
+- **Cahier de synthèse** (§I) — journal personnel, sigles cryptés.
+- **Feuilles 3-4 de brouillons** (§II) — cultes interrogés + tentatives de décryptage.
+- **Lettre à Kastor Lieberung en chiffrement de Wasmeier** (§III) — décodable avec clé Wasmeier (PJ depuis Middenheim Arc 3) — acrostiche SHEERARGETRU + rituel.
+- **Notes personnelles** — correspondance, listes de sources.
 
 ### Risques
 
@@ -251,7 +287,7 @@ Une fois au bureau :
 
 Après le raid :
 - **Par la lucarne du bureau** : sortie sur le toit du cloître, retour aux Phases B.2-3 (voies de toit + ruelles d'étudiants).
-- **Par l'escalier descendant** : retour à la salle de lecture (risque de croiser le détachement Templar à mi-chemin si timing serré).
+- **Par l'escalier descendant** : retour à la salle de lecture (risque de croiser le détachement Templar à mi-chemin si tempo serré).
 - **Par les couloirs du 3e niveau** : possibilité de rejoindre une autre aile, descendre par un escalier de service.
 
 ## Phase B.4 — Bascule : témoins et signalements (MJ-only)
@@ -276,32 +312,38 @@ L'équipe d'arrestation : 1 Templier Répurgateur senior + 4 Initiés/Zélotes +
 
 ## Sort de Fassbinder
 
-Fassbinder est **liquidé en cellule** entre J+1 et J+2 par un agent Spionwerber, pour étouffer le dossier. Cohérent avec sa Doomed. Les PJ apprennent en route via rumeur (cf. [[10 - Rumeur Fassbinder mort]]).
+Fassbinder est **liquidé en cellule** entre J+1 et J+2 par un agent Spionwerber, pour étouffer le dossier. Cohérent avec sa Doomed. Les PJ apprennent en route via rumeur (cf. [[14 - Rumeur Fassbinder mort]]).
 
 ## Ce qui peut sortir avec les PJ (selon leurs choix)
 
 **Sur la table de Fassbinder dans la salle de lecture** (saisissable pendant la fenêtre tactique de Phase A) :
 
-- Yodri vol. 1 *Catalogues de Confusion* — gros in-folio khazalid, encombrant. Officiellement en prêt sur la garde de Fassbinder, donc considéré comme bien personnel (les Templiers le saisiront en pièce à conviction si pas pris).
-- Cahier de synthèse Fassbinder — initiales cryptées.
-- Chemise de notes personnelles — feuillet acrostiche Tante Augusta + cartes naines + brouillons.
+- Yodri vol. 1 *Catalogues of Confusion and Shoddiness* — gros in-folio khazalid, encombrant. Officiellement en prêt sur la garde de Fassbinder, donc considéré comme bien personnel (les Templiers le saisiront en pièce à conviction si pas pris).
+- Feuillet *Augusta* — trouvé ce matin par Fassbinder, comptine quatre vers Trois Mères + faille à gauche.
+- Brouillons Feuilles 1-2 (note couloir VD/ZM + croquis grossier au fusain) — documents non sensibles, faciles à camoufler.
 
-**Au bureau privé (3e niveau)** — si raid (Option scène 04 pré-arrestation OU Phase B.6 post-arrestation) :
+**Documents trouvés dans la bibliothèque pendant la consultation** (si tests Beat 4 réussis en scène 11) — encombrants à transporter, à camoufler ou abandonner pendant la fuite selon urgence :
 
-- Lettre Wasmeier à Lieberung (déchiffrable avec clé Middenheim).
-- Yodri vol. 2 (khazalid).
-- Permis minier T-S-H notarié.
-- Notes Fassbinder.
+- Feuillet *Tante Augusta* — comptine quatre vers Trois Mères + faille à gauche.
+- Pamphlet *Bertoldt le Malleun* — vision 9-9, neuf cultes.
+- Permis minier Teugen-Steinhäger-Haagen — copie notariée, 9 Brauzeit 2508.
+- Yodri vol. 2 *De l'Adéquat au Pitoyable* — traduction reikspiel, nom Sheerargetru en clair.
+
+**Au bureau privé (3e niveau)** — si raid (Option scène 11 pré-arrestation OU §Option raid du bureau post-arrestation) :
+
+- Cahier de synthèse — journal personnel, ~3 mois d'entrées en sigles cryptés (Johannes connaît la clé).
+- Feuilles 3-4 de brouillons sensibles — cultes interrogés + tentatives décryptage.
+- Lettre Wasmeier à Lieberung dans dossier vert (déchiffrable avec clé Middenheim) — acrostiche SHEERARGETRU + rituel.
+- Notes personnelles — correspondance, brouillons d'articles.
 
 **Ce qui ne sort pas** :
 
-- ✗ **Localisation cartographique** de Vithang Dum / Zan Mingol (les noms phonétiques sont accessibles si Yodri vol.1 saisi + Johannes lit, mais leur position sur carte requiert cartographie naine — Karak Hirn ou copies Kaslain à Nuln).
-- ✗ Année 2512 vs 2513 tranchée.
-- ✗ **Identification directe du démon Sheerargetru via Yodri vol.2 seul** : si vol.2 saisi + Johannes lit, l'histoire Smednir-opposant est accessible mais le nom du démon est en runes anciennes — identifié seulement par cross-référence avec la lettre Wasmeier déchiffrée (acrostiche SHEERARGETRU).
-- ✗ **Incantation rituelle « Iztak Graksk »** — reste en Dark Tongue après déchiffrement de la lettre, opaque pour le groupe.
+- ✗ **Localisation cartographique** de Vithang Dum / Zan Mingol — les noms sont accessibles via Yodri vol. 1, mais leur position précise sur carte demande de l'aide naine (Karak Hirn ou copies coffre Kaslain à Nuln).
+- ✗ Année 2512 vs 2513 du rituel tranchée — la vision Bertoldt ne donne que le jour-mois, le permis donne 2508, ni l'un ni l'autre ne tranche l'année cible.
+- ✗ **Incantation rituelle « Iztak Graksk »** — reste en Sombre Langue après déchiffrement de la lettre, opaque pour le groupe.
 - ✗ Connexion Schaftem-MP confirmée (à reconstituer en croisant le permis avec la lettre Wasmeier décryptée).
 
-→ Suite : [[07 - Après-midi — hub]] (ou directement après-midi via [[Hub#Menu — lieux et activités disponibles|Hub §Menu]]).
+→ Suite : retour au [[Hub]] — l'après-midi est ouvert (modules au choix via §Index d'intentions).
 
 ## Liens
 
@@ -309,4 +351,4 @@ Fassbinder est **liquidé en cellule** entre J+1 et J+2 par un agent Spionwerber
 - Factions : [[Ordre du Marteau d'Argent]], [[Chambre Noire]].
 - Lieux : [[Bibliothèque-temple de Verena]], [[Altdorf]].
 - Handouts : [[Fassbinder - documents bureau]].
-- Variables d'état : [[Hub#Variantes selon les variables d'état|Hub §Variantes]].
+- Variables d'état : [[Hub]] §Variables d'état.

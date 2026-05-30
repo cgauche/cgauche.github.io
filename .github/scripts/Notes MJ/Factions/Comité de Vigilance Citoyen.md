@@ -5,7 +5,7 @@
 ## Identité
 
 - **Nom canon** : *Citizens' Vigilance Committee* (canon EiR ch.8 *« the barely veiled thuggery of the Citizens' Vigilance Committee »*).
-- **Nature** : milice civile **sigmarite**, non-officielle mais tolérée par le Burgomaître et la Garde.
+- **Nature** : milice civile **sigmarite**, non-officielle mais tolérée par les autorités civiques et la Garde.
 - **Composition** : gros bras, artisans dévoyés, ouvriers radicalisés. Médaillons comète à deux queues comme signe de ralliement. Pas d'uniforme strict.
 - **Effectifs** : difficile à chiffrer — quelques centaines à Altdorf, en patrouilles libres de 3 à 8.
 
@@ -28,7 +28,7 @@
 
 ## Relations
 
-- **Autorité civique (Burgomaître Heinz)** : ferme les yeux. Heinz n'aime pas le CVC mais n'a pas la marge politique pour les disperser.
+- **Autorité civique (Chancelier d'Altdorf [[Mornan Tybalt]])** : ferme les yeux. Tybalt est aligné idéologiquement (Solkan, vengeance/rétribution `Altdorf-CotE ch.2 l.194-204`) avec le tempérament CVC, et favorise les arrestations massives.
 - **Garde (Watch)** : coopération informelle. Le Watch fournit du renseignement, le CVC fait le sale travail.
 - **Ordre du Marteau d'Argent** : sympathie idéologique mais pas de lien hiérarchique direct.
 - **Chevaliers Panthères** : ignorent le CVC (eux protègent les quartiers riches, le CVC patrouille les pauvres).
@@ -41,6 +41,6 @@ Le CVC est en **pleine montée** depuis l'assaut du manoir Helstein. Les ralliem
 
 ## Liens
 
-- **Apparitions scénario** : [[09 - Écoute des rumeurs]] (risque Doklands), [[12 - Elvira au Rathaus]] (potentielle confrontation post-harangue).
+- **Apparitions scénario** : [[43 - Écoute des rumeurs]] (risque Doklands), [[21 - Saisine au cabinet du Grand Chancelier]] (potentielle confrontation post-harangue sur le parvis du Palais).
 - **Référence** : [[Ambiance]] §factions de rue.
 - **Lieux** : [[Altdorf]] (toute la ville, plus présent rive nord populaire).

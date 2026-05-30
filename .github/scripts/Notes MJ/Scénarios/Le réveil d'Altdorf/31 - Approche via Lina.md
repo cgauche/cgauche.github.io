@@ -1,12 +1,22 @@
-# 13 - Approche via Lina
+# 31 - Approche via Lina
 
 > **Lieu** : [[Hangmann's Gasse]], ruelle pavée modeste, rive sud d'Altdorf.
 > **Moment** : **22h précises**, soir du 4 Erntezeit.
 > **Durée table** : 5-10 minutes.
 
+## En bref
+
+- **Objectif** : faire passer les PJ du manoir à la chambre impériale, en sécurité et incognito, via le contact Lina.
+- **PNJ présents** : [[Lina la bouquiniste]], [[Annaliese]] ; [[Maria-Luise von Walfen]] (commanditaire, off-screen).
+- **Ce que les PJ peuvent faire ici** :
+  - Identifier la source du billet : Intuition (+0).
+  - Sortir du manoir discrètement (6 PJ max, habits sobres, sans couleurs Middenheim/Ulric).
+  - Si un PJ a vu la silhouette au Glissement : percevoir que Lina « voit autrement » — Intuition (-10).
+- **Sorties / et après** : → [[32 - Visite Karl-Franz]] · → retour [[Hub]]
+
 ## Conditions de déclenchement
 
-Le **trigger Maria-Luise** a été activé dans la journée (voir [[Hub#Détail du trigger Maria-Luise|Hub §Détail du trigger Maria-Luise]]) : un activateur d'enquête Kappelmuller a remonté jusqu'à Maria-Luise via ses réseaux. Bertholdt l'intendant a remis le billet aux PJ entre 16h et 18h. La table accepte le rendez-vous.
+Le **trigger Maria-Luise** a été activé dans la journée (voir [[Hub]] §Triggers et [[Enquête Kappelmuller]]) : un activateur d'enquête Kappelmuller a remonté jusqu'à Maria-Luise via ses réseaux. Bertholdt l'intendant a remis le billet aux PJ entre 16h et 18h. La table accepte le rendez-vous.
 
 Texte du billet (papier vergé, sceau de cire neutre, sans signature) :
 
@@ -44,7 +54,7 @@ Pas d'arrêt, pas de contrôle, le cocher connaît les patrouilles. La voiture s
 
 ## Connexion possible PJ
 
-**Si un PJ a vu la silhouette le matin** (Module 3), il peut se rendre compte ici que **Lina lit l'ancien**. Elle est aveugle physiquement mais semble savoir exactement où sont les PJ, leurs visages, leurs gestes. **Intuition (-10)** : *« cette femme n'est pas seulement aveugle — elle voit autrement. »* Possible affinité Verena (déesse de la connaissance et de la vérité), ou simplement un sens aigu post-cécité.
+**Si un PJ a vu la silhouette le matin** (au [[51 - Glissement Reikerbahn|Glissement]]), il peut se rendre compte ici que **Lina lit l'ancien**. Elle est aveugle physiquement mais semble savoir exactement où sont les PJ, leurs visages, leurs gestes. **Intuition (-10)** : *« cette femme n'est pas seulement aveugle — elle voit autrement. »* Possible affinité Verena (déesse de la connaissance et de la vérité), ou simplement un sens aigu post-cécité.
 
 Lina ne donne aucune information sur elle-même ce soir. *« Pas mon rôle. Le rôle, c'est de vous mettre dans la voiture. »*
 
@@ -52,7 +62,7 @@ Lina ne donne aucune information sur elle-même ce soir. *« Pas mon rôle. Le r
 
 → Les PJ entrent dans les communs du Palais à la suite d'Annaliese. Couloirs de service, escalier dérobé, trois étages. Salon privé.
 
-Suite : [[14 - Visite Karl-Franz]].
+Suite : [[32 - Visite Karl-Franz]].
 
 ## Liens
 

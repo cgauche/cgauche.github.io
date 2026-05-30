@@ -39,7 +39,7 @@ Alors :
 - Devient **le plus puissant sorcier-champion de Tzeentch jamais connu**.
 - Mutations finales acquises : Beaked Face, Bulging Eyes, Deafening Cry, Patchy Feathers, Rearranged Face, Tail.
 - **Lame de Corruption** (artefact).
-- Encourage les cultes de Tzeentch à fleurir partout, **sauf le Red Crown** (qu'il détruit).
+- Encourage les cultes de Tzeentch à fleurir partout, **sauf la Couronne Rouge** (qu'il détruit).
 
 ### Référence par Quintus Fassbinder (ch. 8)
 Lors de l'interrogation d'un cultiste, Quintus aurait évoqué Egrimm van Horstmann comme candidat au *Champion in Shadows* :

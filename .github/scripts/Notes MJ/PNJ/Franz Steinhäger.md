@@ -54,7 +54,7 @@
   1. **Fuit Bögenhafen** : refait surface dans une autre ville (Altdorf, Nuln, Middenheim) avec un nouveau réseau Tzeentch.
   2. **Cache sur place** : continue ses affaires sous identité réduite.
   3. **Cherche à se "purifier"** : remords, va voir un répurgateur ? Improbable mais possible.
-  4. **Rejoint un autre culte Tzeentch** : Red Crown ? Cellule Main Pourpre ?
+  4. **Rejoint un autre culte Tzeentch** : Couronne Rouge ? Cellule Main Pourpre ?
 - **Sa Doomed "From below It comes"** : sa fin viendra **d'en-dessous** — possible référence aux égouts, ou à un démon qui jaillit du sol.
 
 ### Hidden Temple sous ses bureaux
@@ -62,7 +62,7 @@
 
 ## Hooks de retour
 - **Vengeance sur les PJ** : il sait que les PJ ont saboté le rituel. Si vivant, vendetta personnelle.
-- **Nouveau culte Tzeentch** : Franz refait un nouveau Ordo / Red Crown / autre dans une autre ville. **Source potentielle de pouvoir Tzeentch alternatif à Gideon**.
+- **Nouveau culte Tzeentch** : Franz refait un nouveau Ordo / Couronne Rouge / autre dans une autre ville. **Source potentielle de pouvoir Tzeentch alternatif à Gideon**.
 - **Heinrich Steinhäger en chef** : si les PJ retournent à Bögenhafen, ils trouvent Heinrich aux commandes. **Heinrich peut être allié** (s'il a purgé) ou ennemi (s'il continue) — au choix MJ.
 - **Mort signalée** : si jamais on apprend que Franz est mort "from below" (égouts, attaque démoniaque), confirmation de sa Doomed.
 

@@ -14,11 +14,11 @@
   - S28 → ch.7 *Castle Wittgenstein* (Margritte / Ludwig / Ingrid / Kurt + skavens + explosion)
   - S29 → ch.8 *A Stop Along the Way* (caisse Scarlash) + segments homebrew (route Middenheim)
 - **Sources secondaires** :
-  - `Source/Death on the Reik Companion/22 - CHAPTER 15 THE RED CROWN - A GAMEMASTER'S GUIDE.md` (Ernst Heidlemann + cult Red Crown)
+  - `Source/Death on the Reik Companion/22 - CHAPTER 15 THE RED CROWN - A GAMEMASTER'S GUIDE.md` (Ernst Heidlemann + culte de la Couronne Rouge)
   - `Source/Death on the Reik Companion/17 - CHAPTER 10- DECK IT OUT.md` (équipement barge sans nom canon — leur barge récupérée)
   - `Source/Death on the Reik Companion/06 - Yes, I Sank Your Barge.md` (gestion d'une barge)
   - (Companion ch.17 *Vengeance of the Gravelord* = Hans Gräber, scénario nécromancien **non joué à table** et **canoniquement disjoint** de Dagmar et des Wittgenstein. **Pas une extension Wittgenstein.**)
-- **Tags** : `#MortSurLeReik` `#DotR` `#Reik` `#Kemperbad` `#Grissenwald` `#Unterbaum` `#CollinesSteriles` `#BarrenHills` `#Wittgendorf` `#Wittgenstein` `#Middenheim` `#Altdorf` `#Boormann` `#LuigiBelladonna` `#RenateHausier` `#Wreckers` `#EtelkaHerzen` `#ErnstHeidlemann` `#MainPourpre` `#PurpleHand` `#RedCrown` `#KastorLieberung` `#Heritage` `#Corrobreth` `#Rhya` `#PierreCeleste` `#Skystone` `#Morrslieb` `#DagmarWittgenstein` `#MargritteWittgenstein` `#LudwigWittgenstein` `#IngridWittgenstein` `#KurtWittgenstein` `#JeanRousseau` `#OgreBourreau` `#Skavens` `#Malpierre` `#OssementsEnfant` `#GideonDemon` `#FilianoreTzeentch` `#AnselmProtecteur` `#MarkRegeneration` `#CapitaineScarlash` `#QuatreSaisons` `#EditImpérialMutants` `#FauschlagViaduc` `#Carnaval`
+- **Tags** : `#MortSurLeReik` `#DotR` `#Reik` `#Kemperbad` `#Grissenwald` `#Unterbaum` `#CollinesSteriles` `#BarrenHills` `#Wittgendorf` `#Wittgenstein` `#Middenheim` `#Altdorf` `#Boormann` `#LuigiBelladonna` `#RenateHausier` `#Wreckers` `#EtelkaHerzen` `#ErnstHeidlemann` `#MainPourpre` `#PurpleHand` `#CouronneRouge` `#KastorLieberung` `#Heritage` `#Corrobreth` `#Rhya` `#PierreCeleste` `#Skystone` `#Morrslieb` `#DagmarWittgenstein` `#MargritteWittgenstein` `#LudwigWittgenstein` `#IngridWittgenstein` `#KurtWittgenstein` `#JeanRousseau` `#OgreBourreau` `#Skavens` `#Malpierre` `#OssementsEnfant` `#GideonDemon` `#FilianoreTzeentch` `#AnselmProtecteur` `#MarkRegeneration` `#CapitaineScarlash` `#QuatreSaisons` `#EditImpérialMutants` `#FauschlagViaduc` `#Carnaval`
 
 ### Timeline in-game
 
@@ -81,8 +81,8 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - **RÉVÉLATION MAJEURE — Filianore récupère sa mémoire d'agent double MP** : en revoyant Altdorf (lieu chargé : sa fille y est morte avant la campagne, recrutement MP suit) + son carnet de Bögenhafen, Filianore **retrouve sa mémoire pré-amnésie** :
   - **Backstory** : femme de Pathsokar, enceinte à son départ. 5 ans sans nouvelles. Voyage à Altdorf, **sa fille y meurt**. Recrutée par la **Main Pourpre** qui lui promet **enfant et mari retrouvés**. Devient **agent double MP-Nacht** (infiltrée à Ubersreik comme « espionne anti-MP de Nacht » alors qu'elle espionne Nacht POUR la MP). Mission 2 : Bögenhafen, espionner l'Ordo Septenarius (rival Tzeentch). **Capturée et droguée** par Teugen → amnésie.
   - **Briefing S22 = reprise de couverture, pas une « bascule »** : Filianore connaît son agenda MP réel depuis le pré-campagne. Le briefing aux PJ est **mensonge délibéré** (maintien de la façade) :
-    - **Heidlemann présenté comme MP** : faux. Heidlemann = **Red Crown** canon (DotR ch.4 l.6, 34). Filianore le sait, oriente le groupe contre la Red Crown rivale de sa propre MP.
-    - **Mission « contre Etelka »** : Etelka = Red Crown. Exécution de la mission Nacht (anti-Tzeentch générique) **coïncide** avec l'agenda MP (élimination Red Crown). Double bénéfice.
+    - **Heidlemann présenté comme MP** : faux. Heidlemann = **Couronne Rouge** canon (DotR ch.4 l.6, 34). Filianore le sait, oriente le groupe contre la Couronne Rouge rivale de sa propre MP.
+    - **Mission « contre Etelka »** : Etelka = Couronne Rouge. Exécution de la mission Nacht (anti-Tzeentch générique) **coïncide** avec l'agenda MP (élimination de la Couronne Rouge). Double bénéfice.
     - **Le carnet « espionne anti-MP »** présenté aux PJ : couverture maintenue.
 - **Nacht trompée depuis S14** : Emmanuelle Nacht n'a jamais eu d'agente fiable. Filianore lui transmet des renseignements filtrés (FIL-41). **Hook majeur** : si Nacht le découvre Arc 5+, conséquences politiques Ubersreik-Altdorf.
 - **Traque MP active sur Pathsokar (FIL-25)** : la cellule qui marque Pathsokar S23 puis envoie l'ultimatum S26 **est la cellule de Filianore** (cellule Altdorf — Yann Zuntermein). Filianore ne stoppe pas la traque — soit rang trop bas, soit elle laisse le quiproquo Kastor jouer son rôle, soit elle prépare le terrain pour retourner Pathsokar elle-même (cohérent S33 où il la rejoint dans la Croix de Lilas).
@@ -98,7 +98,7 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 
 **Plots présents** (DotR ch.2 + Companion *Fellow Travellers* + *Wreckers*) :
 - **Phare en construction** [canon ch.2] — Nains interpellent depuis la rive, contremaître les fait taire. **Hook canon : île au phare**, à activer plus tard (S26).
-- **Ernst Heidlemann revu** — Elvira reconnaît le « timide étudiant » de S4 (Coach and Horses) sur un autre navire. Heidlemann **ignore ses signes**. Signal qu'il poursuit sa mission Red Crown.
+- **Ernst Heidlemann revu** — Elvira reconnaît le « timide étudiant » de S4 (Coach and Horses) sur un autre navire. Heidlemann **ignore ses signes**. Signal qu'il poursuit sa mission de la Couronne Rouge.
 - **Bateau marchand échoué + Wreckers** [canon Companion ch.12 *Wreckers, Smugglers & Pirates*] — Navire à l'abandon sur les eaux calmes. PJ débarquent. **Embuscade pirates mutants** depuis les branchages, l'eau, le pont. Combat. Victoire des PJ.
 - **Renate Hausier survivante** — Jeune femme cachée dans la cale. Choquée. Équipage massacré. **Règle des marins Reikland** : qui récupère le bateau le conserve s'il n'est pas réclamé. **Les PJ deviennent propriétaires du navire**. Renate accepte de les suivre comme cuisinière.
 - **Arrivée Kemperbad + taxe de mouillage** — Acquittement de la taxe.
@@ -123,7 +123,7 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - **Luigi Belladonna** = mafia tilienne **Blue Heron** (canon Archives + DotR). Réseau Emmanuelle (Nuln). Le colis livré = test de fiabilité + transfert d'informations crypté pour le réseau. Les PJ sont désormais **affiliés Blue Heron tier 1** sans le savoir. Hook : Belladonna les rappelle plus tard (Arc 5+).
 - **Otto Boormann** = canon EiR ch.13 (présent au climax Volkshalle Arc 7). **Allié de longue date Phineas**. Bonne entrée pour la politique Reikland-Wissenland.
 - **Mèche volée S23** = canon DotR ch.2 ou ch.3 : focus magique pour traque à distance (cf. FIL-25). Effet à venir S26 (main pourpre temporaire).
-- **Heidlemann ignore Elvira** = poursuit sa mission Red Crown pour **Doktor Schmidt** à l'Université d'Altdorf et **Aynjulls Isembeard** au Signal Tower (canon Companion ch.15). Sa **présence à Barren Hills S25** est.
+- **Heidlemann ignore Elvira** = poursuit sa mission de la Couronne Rouge pour **Doktor Schmidt** à l'Université d'Altdorf et **Aynjulls Isembeard** au Signal Tower (canon Companion ch.15). Sa **présence à Barren Hills S25** est.
 
 ---
 
@@ -146,23 +146,23 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - **Fouille de la demeure d'Etelka** — Elle est **absente**. Filianore trouve **un carnet**. À voix basse, le lit avec un regard fou (« quelque chose de fou dans son regard »).
 - **Le carnet d'Etelka** révèle :
   - Etelka est partie aux **Collines Stériles (Barren Hills)** pour récupérer une **pierre très puissante**.
-  - Elle est accompagnée du **mage qui lui a appris l'existence de cette pierre = [[Ernst Heidlemann]]** (canon : Red Crown).
-  - Heidlemann a été **envoyé par la [[Main Pourpre]]** (note table — canon = Red Crown). **Inflexion table** : MJ a fusionné/simplifié Main Pourpre + Red Crown.
+  - Elle est accompagnée du **mage qui lui a appris l'existence de cette pierre = [[Ernst Heidlemann]]** (canon : Couronne Rouge).
+  - Heidlemann a été **envoyé par la [[Main Pourpre]]** (note table — canon = Couronne Rouge). **Inflexion table** : MJ a fusionné/simplifié Main Pourpre + Couronne Rouge.
 - **Disculpation des nains de Grissenwald** — Les PJ reviennent au village, prouvent que les attaques venaient des gobelins de la mine. Fête le soir même.
 - **Faveur d'Elvira** : faire ériger un **autel à Rhya** sur la grande place de Grissenwald.
 
 ### Ce que les PJ savent à la fin de S24
 - Etelka est à Barren Hills avec Heidlemann pour une **pierre puissante**.
-- Heidlemann = mage cultiste (les PJ pensent Main Pourpre, en fait c'est Red Crown).
+- Heidlemann = mage cultiste (les PJ pensent Main Pourpre, en fait c'est la Couronne Rouge).
 - Les nains de Grissenwald sont innocents → allié potentiel (faveur réciproque).
 - Anselm a un pouvoir magique inconnu/dangereux (sort surpuissant).
 - **Autel Rhya à Grissenwald** = ancrage local d'Elvira.
 
 ### MJ-only S24
 - **Anselm sort surpuissant** = **manifestation du « Protecteur »** (cf. FIL-33 Anselm). Non révélé table. Le patron occulte d'Anselm intervient en sa faveur dans un moment de péril. Plot dormant majeur.
-- **Etelka et Heidlemann** = **même cellule Red Crown canon** (DotR ch.4 l.6 et l.34). Pas une alliance inter-cult ; **opération coordonnée intra-Red Crown** standard. Heidlemann = courrier / éclaireur depuis Altdorf (relais Doktor Schmidt), Etelka = magicienne opérationnelle régionale.
+- **Etelka et Heidlemann** = **même cellule de la Couronne Rouge canon** (DotR ch.4 l.6 et l.34). Pas une alliance inter-cult ; **opération coordonnée intra-Couronne Rouge** standard. Heidlemann = courrier / éclaireur depuis Altdorf (relais Doktor Schmidt), Etelka = magicienne opérationnelle régionale.
 - **La pierre céleste (skystone) = canon DotR ch.4 *Barren Hills*** — fragment de **Morrslieb** (lune chaotique). **Concentré de malpierre / warpstone**. Convoitée par toute faction Chaos + skavens.
-- **Le carnet d'Etelka** = canon DotR ch.4 (handout). Contient ses notes magiques + son itinéraire. Filianore l'a **gardé**. **Référence magique précieuse** + indices sur le réseau Red Crown régional (contacts Doktor Schmidt Altdorf via Heidlemann) + correspondance avec Teugen.
+- **Le carnet d'Etelka** = canon DotR ch.4 (handout). Contient ses notes magiques + son itinéraire. Filianore l'a **gardé**. **Référence magique précieuse** + indices sur le réseau de la Couronne Rouge régional (contacts Doktor Schmidt Altdorf via Heidlemann) + correspondance avec Teugen.
 - **L'autel Rhya à Grissenwald** = ancrage permanent. Si les PJ y reviennent, **Elvira a une cellule de fidèles** à activer (~50 villageois). Hook arc 5+.
 
 ---
@@ -195,12 +195,12 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - Elvira oubliée à Kemperbad — il faut aller la chercher.
 
 ### MJ-only S25
-- **Etelka = [[Etelka Herzen]]** canon DotR ch.4. **Sorcière Red Crown** (canon DotR ch.4 l.6 + l.34 + Companion ch.7 et ch.15). **Morte à table S25 — mission Nacht accomplie + opération anti-Red Crown de Filianore réussie**. Canon = sorcière puissante (foudre + démonologie Tzeentch).
-- **Heidlemann = canon Red Crown** (DotR Companion ch.15). Mort à table = **élimine l'un des relais Red Crown actifs**. Mais Doktor Schmidt (Altdorf) + Aynjulls Isembeard (Signal Tower) restent. Réservoir narratif.
+- **Etelka = [[Etelka Herzen]]** canon DotR ch.4. **Sorcière de la Couronne Rouge** (canon DotR ch.4 l.6 + l.34 + Companion ch.7 et ch.15). **Morte à table S25 — mission Nacht accomplie + opération anti-Couronne Rouge de Filianore réussie**. Canon = sorcière puissante (foudre + démonologie Tzeentch).
+- **Heidlemann = canon Couronne Rouge** (DotR Companion ch.15). Mort à table = **élimine l'un des relais de la Couronne Rouge actifs**. Mais Doktor Schmidt (Altdorf) + Aynjulls Isembeard (Signal Tower) restent. Réservoir narratif.
 - **Trahison du notable = Dagmar von Wittgenstein** (canon DotR ch.5). **Ancêtre des Wittgenstein actuels**. Il a ramené la pierre à l'île au phare → la malpierre a corrompu la lignée Wittgenstein sur des générations.
-- **Filianore mission MP exécutée** : **Etelka + Heidlemann = même cellule Red Crown canon** (DotR ch.4 l.6, 34). Filianore (MP infiltrée) élimine **deux ennemis Red Crown** de sa propre faction MP — opération MP standard, parfaitement cohérente avec son rôle réel. **Le carnet d'Etelka** = matériel Red Crown récupéré, exploitable par la MP contre la rivale Tzeentch. Filianore ne le rend pas à Nacht (la couverture « espionne anti-MP » ne nécessite pas un carnet Red Crown). Cf. FIL-50.
-- **Pourquoi Etelka attaque immédiatement à la foudre** : défense réflexe — sorcière Red Crown surprise dans son sanctuaire fouillé par des intrus inconnus. Pas besoin d'explication complexe.
-- **Conséquence cellule Red Crown** : la **base régionale Red Crown du Reikland est** est amputée (Etelka + Heidlemann morts, mine Grissenwald démantelée). Seul **Doktor Schmidt à Altdorf** (FIL-18 latent) subsiste comme relais Red Crown identifié.
+- **Filianore mission MP exécutée** : **Etelka + Heidlemann = même cellule de la Couronne Rouge canon** (DotR ch.4 l.6, 34). Filianore (MP infiltrée) élimine **deux ennemis de la Couronne Rouge** de sa propre faction MP — opération MP standard, parfaitement cohérente avec son rôle réel. **Le carnet d'Etelka** = matériel de la Couronne Rouge récupéré, exploitable par la MP contre la rivale Tzeentch. Filianore ne le rend pas à Nacht (la couverture « espionne anti-MP » ne nécessite pas un carnet de la Couronne Rouge). Cf. FIL-50.
+- **Pourquoi Etelka attaque immédiatement à la foudre** : défense réflexe — sorcière de la Couronne Rouge surprise dans son sanctuaire fouillé par des intrus inconnus. Pas besoin d'explication complexe.
+- **Conséquence cellule de la Couronne Rouge** : la **base régionale de la Couronne Rouge du Reikland est** est amputée (Etelka + Heidlemann morts, mine Grissenwald démantelée). Seul **Doktor Schmidt à Altdorf** (FIL-18 latent) subsiste comme relais de la Couronne Rouge identifié.
 - **Les esprits guides** = canon DotR ch.4. **Ancien réseau de chasseurs au service de Dagmar**. Leur sépulture libère un **karma positif** (effet narratif optionnel : bénédiction passive PJ).
 - **Skavens à Barren Hills** = canon DotR ch.4. **Première rencontre PJ face-à-face avec des skavens** (présence soupçonnée Arc 3 S20 au bal, désormais confirmée).
 
@@ -409,8 +409,8 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - **Skavens** — détiennent la pierre céleste (malpierre + skystone Morrslieb). Clan minier non identifié.
 
 **Ennemis morts** :
-- **Etelka Herzen** — sorcière Red Crown (S25)
-- **Ernst Heidlemann** — cultiste Red Crown (S25)
+- **Etelka Herzen** — sorcière de la Couronne Rouge (S25)
+- **Ernst Heidlemann** — cultiste de la Couronne Rouge (S25)
 - **Famille Wittgenstein** — Margritte, Ludwig, Ingrid, Kurt + serviteurs (S28)
 
 **Alliés acquis** :
@@ -444,8 +444,8 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 
 | PNJ | Canon (fichier, lignes) | Statut | À retenir |
 |---|---|---|---|
-| **[[Etelka Herzen]]** | DotR ch.4 (Wizard Gold 4) | [MORTE S25] | Sorcière Red Crown canon (DotR ch.4 l.6). Tuée à Barren Hills, mission Nacht accomplie + opération anti-Red Crown de Filianore. |
-| **[[Ernst Heidlemann]]** | EiS ch.1 + DotR Companion ch.15 | [MORT S25] | Cultiste Red Crown. Alliance temporaire avec Etelka pour la pierre, tué avec elle. |
+| **[[Etelka Herzen]]** | DotR ch.4 (Wizard Gold 4) | [MORTE S25] | Sorcière de la Couronne Rouge canon (DotR ch.4 l.6). Tuée à Barren Hills, mission Nacht accomplie + opération anti-Couronne Rouge de Filianore. |
+| **[[Ernst Heidlemann]]** | EiS ch.1 + DotR Companion ch.15 | [MORT S25] | Cultiste de la Couronne Rouge. Alliance temporaire avec Etelka pour la pierre, tué avec elle. |
 | **[[Otto Boormann]]** | DotR ch.2 + EiR ch.13 | [VIVANT, ALLIÉ FORT] | Plénipotentiaire Kemperbad, mentor de Phineas. Présent climax Arc 7. |
 | **[[Luigi Belladonna]]** | DotR ch.2 | [VIVANT, CONTACT] | Mafia tilienne Blue Heron. Service rendu (Elvira + Pathsokar). |
 | **[[Renate Hausier]]** | DotR ch.2 | [VIVANTE, LIBÉRÉE S26] | Ex-cuisinière, à Kemperbad. Réutilisable. |
@@ -480,7 +480,7 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - **`FIL-49`** Luigi Belladonna / Blue Heron tilien → réseau mafia à Nuln-Kemperbad, allié potentiel Arc 5-7.
 
 ### Moyens
-- **`FIL-50`** Carnet d'Etelka chez Filianore → références magiques Red Crown + contacts régionaux Red Crown (Schmidt Altdorf via Heidlemann) + correspondance avec Teugen (mort S12). Non rendu à Nacht.
+- **`FIL-50`** Carnet d'Etelka chez Filianore → références magiques de la Couronne Rouge + contacts régionaux de la Couronne Rouge (Schmidt Altdorf via Heidlemann) + correspondance avec Teugen (mort S12). Non rendu à Nacht.
 - **`FIL-51`** Autel Rhya à Grissenwald → ancrage Elvira, cellule de fidèles ~50 villageois.
 - **`FIL-52`** Esprits de Barren Hills apaisés → effet karmique passif (bénédiction).
 - **`FIL-53`** Renate Hausier libérée → cuisinière fiable, peut revenir comme témoin / contact.
@@ -518,7 +518,7 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 - **FIL-17** Elvyra Kleinestun → pas réactivée à table malgré canon DotR ch.5 qui le prévoyait (Weissbruck PJ ne passent pas)
 - **FIL-18** Ernst Heidlemann → **RÉSOLU** (mort S25)
 - **FIL-19** Karl-Franz a un double → édit pro-mutants S22 = première manifestation publique de l'imposture
-- **FIL-23** Cellule Main Pourpre Nuln → **pas affectée directement** (Etelka = Red Crown, pas MP). Reste à l'écran.
+- **FIL-23** Cellule Main Pourpre Nuln → **pas affectée directement** (Etelka = Couronne Rouge, pas MP). Reste à l'écran.
 - **FIL-24** Cellule Main Pourpre Altdorf → active dans l'attentat Kemperbad S26 (présence d'agents pourpres).
 - **FIL-25** Animosity « Kastor and Friends » → **escaladée Arc 4** (cf. callback hooks ci-dessus).
 - **FIL-28** Filianore traumatisée + double identité → **première brèche visible** (carnet gardé, ossements protégés, sort chaotique au bateau brûlé).
@@ -529,7 +529,7 @@ DotR démarre quelques jours après l'arrivée à Altdorf de fin Arc 2 (Bögenha
 
 - **Sources hybrides** : Arc 4 colle au canon **DotR Vol 2 ch.2-8** assez fidèlement, avec **inflexions table** sur les détours (séjours répétés Kemperbad, mission Phineas politicien). Le **DotR Companion** est très peu activé (Yes I Sank Your Barge, Deck It Out, Imperial Semaphore Service, Trading Rules) — réserve narrative.
 - **Inflexions table majeures** :
-  - (a) **Heidlemann présenté comme Main Pourpre** par Filianore S22 → en fait **Red Crown** canon (DotR Companion ch.15). Lecture MJ : Filianore (ou Nacht) **confond délibérément ou par méconnaissance** les deux cultes Tzeentch.
+  - (a) **Heidlemann présenté comme Main Pourpre** par Filianore S22 → en fait **Couronne Rouge** canon (DotR Companion ch.15). Lecture MJ : Filianore (ou Nacht) **confond délibérément ou par méconnaissance** les deux cultes Tzeentch.
   - (b) **Mark guéri spontanément S26** au lieu du pèlerinage S42 canon — déclenchement précoce du fil ulrique.
   - (c) **Phineas devient politicien à Kemperbad sous Boormann** = renforcement du canon EiR (Boormann = allié climax Arc 7).
   - (d) **Filianore garde le carnet d'Etelka + ossements d'enfant** = inflexion homebrew majeure → préfigure sa corruption S33 (cf. FIL-28, FIL-44, FIL-50).

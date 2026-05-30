@@ -1,8 +1,16 @@
-# 10 - Rumeur Fassbinder mort
+# 14 - Rumeur Fassbinder mort
 
 > **Lieu** : [[Manoir Helstein]].
 > **Moment** : fin d'après-midi à début de soirée. Événement obligatoire.
 > **Durée table** : 5 minutes.
+
+## En bref
+
+- **Objectif** : événement obligatoire — un coursier rapporte la mort de Fassbinder en cellule (étranglé), nouvelle qui réoriente les priorités de la table.
+- **PNJ présents** : un coursier de la maison Helstein ; [[Quintus Fassbinder]] (mort) ; [[Yann Zuntermein]] (MJ-only) ; Johannes Woblhoffer (PJ, maître mort depuis six mois).
+- **Ce que les PJ peuvent faire ici** :
+  - Test **Intuition (-10)** ou **Connaissance (Politique) (+0)** : conclure qu'une mort hâtive et discrète ne ressemble pas à l'Ordre du Marteau d'Argent — quelqu'un voulait Fassbinder silencieux tout de suite.
+- **Sorties / et après** : → retour [[Hub]]
 
 ## Cadre
 
@@ -35,4 +43,4 @@ Un PJ qui pose la question **Intuition (-10)** ou **Connaissance (Politique) (+0
 
 - PNJ : [[Quintus Fassbinder]] (mort), [[Yann Zuntermein]] (MJ-only), **Johannes Woblhoffer**.
 - Factions : [[Chambre Noire]], [[Ordre du Marteau d'Argent]].
-- Variables : [[Hub#Variables d'état]].
+- Variables : [[Hub]] §Variables d'état.

@@ -1,8 +1,19 @@
-# 11 - Mark au temple de Shallya
+# 41 - Temple de Shallya
 
 > **Lieu** : [[Grand Temple de Shallya Altdorf]], district Templwart, rive sud (distinct du Domplatz sigmarite).
 > **Moment** : après-midi, libre.
 > **Durée table** : 10-20 minutes.
+
+## En bref
+
+- **Objectif** : soigner les blessures (Mark KO S63) plus vite qu'au manoir ; lever le malentendu Wolfgang ; recoupement optionnel sur le miracle Volkmar.
+- **PNJ présents** : [[Sœur Maxima]] (prêtresse infirmière) ; [[Wolfgang Holswig-Abenauer]] (absent, à [[Castle Reikguard]]) ; Sigmarite blessé (Garde Panthère, rencontre alternative).
+- **Ce que les PJ peuvent faire ici** :
+  - Se faire soigner : Bless (Shallya) par Sœur Maxima (4-6 PV) ; repos calme 1h (+1-2 PV).
+  - Acheter fournitures : bandages (quelques shillings), potion de soin légère (1 GC), Healing Draught (2 GC).
+  - Interroger Sœur Maxima sur Wolfgang (le Prince servant) — elle confirme son évacuation à Castle Reikguard.
+  - Interroger le Sigmarite blessé sur l'assaut / le doute sur l'identité de « Volkmar ».
+- **Sorties / et après** : → hook futur [[Castle Reikguard]] (à activer plus tard) · → retour [[Hub]]
 
 ## Cadre
 

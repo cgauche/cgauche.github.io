@@ -1,8 +1,18 @@
-# 09 - Écoute des rumeurs
+# 43 - Écoute des rumeurs
 
 > **Lieu** : Lieux publics d'Altdorf — tavernes, marchés, docks, temples.
 > **Moment** : après-midi, libre.
 > **Durée table** : 10-20 minutes par lieu.
+
+## En bref
+
+- **Objectif** : phase libre de glane de rumeurs en ville selon le lieu, l'heure et l'effort RP.
+- **PNJ présents** : [[Elvyra Kleinestun]] (apothicaire, tout l'après-midi).
+- **Ce que les PJ peuvent faire ici** :
+  - Test **Commérages (+0)** ou **Connaissance (Reikland) (+0)** dans un lieu adapté pour récolter 1-2 rumeurs (SL+3 = 3 rumeurs + fiabilité ; échec critique = rumeur fausse ou conversation coupée).
+  - Choisir un lieu d'écoute selon le type de rumeur visé : Taverne du Drapeau Noir (étudiantes/politiques), Marché de Stollenplatz (commerçantes/populaires), Quai des Marchands (révolutionnaires), Temple de Shallya (religieuses), Bibliothèque Verena (universitaires), Apothicaire Kleinestun (sonder Elvyra).
+  - Au Quai des Marchands : risque interception CVC (3-5 gros bras) — s'en sortir par Charme (+0) ou Intimidation (+0) ou Discrétion (-10) ; échec = bagarre courte ou fuite.
+- **Sorties / et après** : → retour [[Hub]]
 
 ## Mécanique
 

@@ -16,7 +16,7 @@
 - **Vénération de Tzeentch** : Duc du Changement, dieu de la magie, de la mutation et de la conspiration ; doctrine du changement par subversion plutôt que par révolution ouverte `EiS Companion ch.9 l.15-17`.
 - **Méthode** : manipulation, corruption, chantage, extorsion, meurtre ; sorcellerie comme outil maître ; placement d'agents en positions de pouvoir, ou corruption des puissants déjà en place `EiS Companion ch.9 l.60`. Enquête méticuleuse sur chaque recrue et chaque cible avant approche `EiS Companion ch.9 l.62`.
 - **Sécurité par fragmentation** : la cloison entre cellules est délibérée — un chasseur de sorcières qui capture une douzaine de cultistes n'apprendra pas grand-chose sur l'organisation au-delà ; même les Magisters Magistri ne saisissent pas le plan d'ensemble `EiS Companion ch.9 l.10`.
-- **Rapport aux autres cultes du Chaos** : alliances ponctuelles tolérées avec les Slaaneshites ou Khornates pour un objectif précis, mais la Main Pourpre dénonce volontiers les cultes plus voyants aux chasseurs de sorcières pour détourner l'attention de ses propres opérations `EiS Companion ch.9 l.69`. Hostilité ouverte envers les serviteurs de Nurgle `EiS Companion ch.9 l.31`. Rivalité aigre avec le Red Crown, autre culte de Tzeentch dont le projet de révolution par les hommes-bêtes heurte la patiente subversion politique du Pourpre `EiS Companion ch.9 l.71` `EiS Companion ch.9 l.92` `EiS ch.1 l.443`.
+- **Rapport aux autres cultes du Chaos** : alliances ponctuelles tolérées avec les Slaaneshites ou Khornates pour un objectif précis, mais la Main Pourpre dénonce volontiers les cultes plus voyants aux chasseurs de sorcières pour détourner l'attention de ses propres opérations `EiS Companion ch.9 l.69`. Hostilité ouverte envers les serviteurs de Nurgle `EiS Companion ch.9 l.31`. Rivalité aigre avec la Couronne Rouge, autre culte de Tzeentch dont le projet de révolution par les hommes-bêtes heurte la patiente subversion politique du Pourpre `EiS Companion ch.9 l.71` `EiS Companion ch.9 l.92` `EiS ch.1 l.443`.
 
 ## Rôle officiel vs Rôle réel
 
@@ -50,7 +50,7 @@
 - **Manipulation continue d'Immanuel-Ferrand Holswig-Schliestein** : si Holzkrug ou Zuntermein restent en place, ils continuent d'alimenter Immanuel-Ferrand en informations biaisées poussant à la centralisation impériale, sortie d'Ubersreik au prix d'une perte de confiance des autres Électeurs `EiR Intro l.304`.
 - **Réceptacle de secours pour Sheerargetru** : si Wolfgang Holswig-Abenauer est tué ou compromis avant le rituel, Zuntermein ou Wasmeier peuvent servir de vaisseau substitut au Duc Exalté — manifestation amoindrie, mais possible `EiR ch.13 l.469-470`.
 - **Confrontation finale à la Volkshalle** : si la cérémonie de retour de Ghal Maraz va à son terme, Wolfgang se fend et Sheerargetru émerge ; les Neuf Yeux brûlent en bougies sacrificielles `EiR ch.13 l.405`. Si Zuntermein survit au rituel mais que Sheerargetru est défait, il s'arrange pour devenir tuteur du Prince Luitpold et poursuit son plan via la guerre civile prolongée `EiR ch.13 l.598`.
-- **Rivalité avec le Red Crown** : un PJ habile peut opposer les agents des deux cultes Tzeentch ; les Pourpres peuvent dénoncer les Red Crown aux chasseurs de sorcières pour détourner l'attention `EiS Companion ch.9 l.69`.
+- **Rivalité avec la Couronne Rouge** : un PJ habile peut opposer les agents des deux cultes Tzeentch ; les Pourpres peuvent dénoncer les cultistes de la Couronne Rouge aux chasseurs de sorcières pour détourner l'attention `EiS Companion ch.9 l.69`.
 
 ## Liens externes
 

@@ -1,8 +1,21 @@
-# 14 - Visite Karl-Franz
+# 32 - Visite Karl-Franz
 
 > **Lieu** : Salon privé de [[Maria-Luise von Walfen]] puis chambre impériale, Palais d'Altdorf.
-> **Moment** : nuit du 4 au 5 Erntezeit 2512 IC, après [[13 - Approche via Lina]].
+> **Moment** : nuit du 4 au 5 Erntezeit 2512 IC, après [[31 - Approche via Lina]].
 > **Durée table** : 40-60 minutes (briefing 10-15 + chambre 20-30 + sorciers 5-10 + sortie 5).
+
+## En bref
+
+- **Objectif** : visite nocturne à la chambre impériale — observer Kappelmuller, possible démasquage et brève lucidité de Karl-Franz ; confirmer la nature magique Tzeentch de son état et sceller l'alliance Maria-Luise.
+- **PNJ présents** : [[Maria-Luise von Walfen]], [[Annaliese]], [[Henrik Kappelmuller]], [[Karl-Franz Holswig-Schliestein]] ; cités : [[Yann Zuntermein]] (MJ-only), [[Karl-Heinz Wasmeier]], [[Gideon]] (MJ-only), [[Elvyra Kleinestun]], [[Hermine Liebwitz von Decker und Hanulf]], [[Baron von Teufelsmilch]] (MJ-only).
+- **Ce que les PJ peuvent faire ici** :
+  - Salon — questionner Maria-Luise (doutes zélotes sur Volkmar, visiteurs réguliers de Kappelmuller, lien silhouette vue au Glissement).
+  - Protocole impérial : casteurs arcanes exclus de la chambre ; armes visibles déposées dans le couloir.
+  - Chambre — **Perception (-20)** repérer le pomander ; **Connaissance (Herbes) (+0)** identifier les anesthésiants ; **Intuition (+0)** lire Kappelmuller ; **Bénédiction de Rhya (Prière -20)** faire frémir Karl-Franz ; **Sang-Froid Très Difficile (-30)** contre la fumée >4 rounds.
+  - Acculer Kappelmuller → Potion de Vitalité (**Sleight of Hand +0**), KF lucide 5-10 min ; escapes : accuse Elvyra, vend Wasmeier+Zuntermein, ou combat (Lotus Noir, CC 63, Damné).
+  - Salon (sorciers exclus) — **Canalisation (+0)** sentir l'aethyr à travers la cloison ; sort **Eavesdrop** ; sonder [[Annaliese]] (**Charme +0**, graines Reiksgarde infiltrés / enfants).
+  - Phase 3 — sorciers entrent après neutralisation : **Canalisation / Connaissance (Magie) (+0)** gratuit → signature Changeur Tzeentch à distance.
+- **Sorties / et après** : alliance scellée (canal [[Hermine Liebwitz von Decker und Hanulf]], aveux Kappelmuller écrits à Nuln) ; pas de mandat ni anneau impérial · → [[61 - Départ matinal]] · → retour [[Hub]]
 
 ## Cadre général
 
@@ -44,7 +57,7 @@ Aux PJ qui acceptent d'entrer dans la chambre :
 
 ## Questions possibles
 
-### Si un PJ mentionne les doutes des zélotes sur Volkmar (entendu en [[03 - Glissement Reikerbahn|Scène 3]])
+### Si un PJ mentionne les doutes des zélotes sur Volkmar (entendu au [[51 - Glissement Reikerbahn|Glissement]])
 
 > *« Ils ont dit ça ? Eux-mêmes ? Racontez-moi, mot à mot. »*
 
@@ -56,7 +69,7 @@ Elle note fortement. Levier politique potentiel pour elle plus tard.
 
 (Voir [[Elvyra Kleinestun]] pour la femme, [[Gideon]] MJ-only pour l'enfant.)
 
-### Si un PJ a vu la silhouette en Scène 3 et fait le lien
+### Si un PJ a vu la silhouette au Glissement et fait le lien
 
 Maria-Luise note la dissonance :
 
@@ -320,7 +333,7 @@ Annaliese raccompagne les PJ par les communs. Voiture sans armoiries, trajet inv
 
 **Retour à Helstein** par les ruelles, vers minuit. Le manoir endormi. Quelques heures de sommeil avant l'aube.
 
-→ Suite : [[18 - Départ matinal]].
+→ Suite : [[61 - Départ matinal]].
 
 ---
 
@@ -346,4 +359,4 @@ Annaliese raccompagne les PJ par les communs. Voiture sans armoiries, trajet inv
 
 - PNJ : [[Maria-Luise von Walfen]], [[Annaliese]], [[Henrik Kappelmuller]], [[Karl-Franz Holswig-Schliestein]], [[Yann Zuntermein]] (MJ-only), [[Karl-Heinz Wasmeier]], [[Gideon]] (MJ-only), [[Hermine Liebwitz von Decker und Hanulf]], [[Baron von Teufelsmilch]] (MJ-only Phase 2B).
 - Lieux : Palais Impérial, [[Manoir Helstein]].
-- Suite : [[18 - Départ matinal]].
+- Suite : [[61 - Départ matinal]].

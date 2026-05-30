@@ -1,8 +1,22 @@
-# 08 - Retour Helstein
+# 42 - Retour Helstein
 
 > **Lieu** : [[Manoir Helstein]], Mauerblumchen, rive nord.
 > **Moment** : début d'après-midi (~12h-13h), retour de la fuite Université.
 > **Durée table** : 5-10 minutes.
+
+## En bref
+
+- **Objectif** : sas de repos et de décision au manoir à demi-déserté ; dépouillement des documents Fassbinder et arbitrage du rendez-vous Maria-Luise du soir.
+- **PNJ présents** : **Bertholdt** (intendant) ; [[Heinrich Todbringer]] (parti avec le convoi) ; deux servants ; deux [[Épées d'Ulric]] à la grille.
+- **Ce que les PJ peuvent faire ici** :
+  - Se reposer (siestes ; Endurance récupère normalement).
+  - Soigner les blessures mineures (bandages, baumes ; soins majeurs = [[41 - Temple de Shallya|temple Shallya]]).
+  - Manger (repas froid servi par Bertholdt).
+  - Préparer le départ (affaires, équipements, vérification du mandat Todbringer).
+  - Lire les documents Fassbinder : Recherche ou Connaissance (Linguistique) ; Johannes connaît les sigles d'office.
+  - Tenir conseil : accepte-t-on le rendez-vous Maria-Luise du soir ?
+  - Sonder Bertholdt (Charme +0) : courrier urgent du Reikland Navy, "agents en civil" rôdant avant l'assaut.
+- **Sorties / et après** : → si RDV accepté, [[31 - Approche via Lina]] à 22h · → sinon départ à l'aube, [[61 - Départ matinal]] · → retour [[Hub]]
 
 ## Cadre
 
@@ -15,7 +29,7 @@ L'ambiance est lourde. Sans Heinrich, le manoir semble plus vide que mort.
 Les PJ peuvent :
 
 - **Se reposer** — siestes possibles, restauration des fatigues éventuelles. **Endurance** récupère normalement.
-- **Soigner les blessures mineures** — bandages, baumes. Pour Mark (KO S63 toujours convalescent) ou tout PJ blessé pendant Sigmarites/Fuite. Soins majeurs = [[11 - Mark au temple de Shallya|temple Shallya]].
+- **Soigner les blessures mineures** — bandages, baumes. Pour Mark (KO S63 toujours convalescent) ou tout PJ blessé pendant Sigmarites/Fuite. Soins majeurs = [[41 - Temple de Shallya|temple Shallya]].
 - **Manger** — Bertholdt fait servir un repas froid (pain, fromage, vin coupé d'eau).
 - **Préparer le départ** — affaires personnelles, équipements, vérification du mandat Todbringer.
 - **Lire les documents** saisis chez Fassbinder — déchiffrement possible par tout PJ avec **Recherche** ou **Connaissance (Linguistique)** ; Johannes connaît les sigles de Fassbinder d'office (cf. [[11 - Cadre Le réveil d'Altdorf]] §8). Voir [[Fassbinder - documents bureau]].
@@ -37,8 +51,8 @@ Si la table décide d'aller au rendez-vous Maria-Luise, **planifier discrètemen
 - Comment s'habiller ? (Pas d'habits visiblement Middenheim/Ulric — éviter le repérage.)
 - Quel itinéraire jusqu'à Hangmann's Gasse ?
 
-→ Si rendez-vous accepté : suite plus tard, [[13 - Approche via Lina]] à 22h.
-→ Sinon : préparer le départ à l'aube du 5 Erntezeit, voir [[18 - Départ matinal]].
+→ Si rendez-vous accepté : suite plus tard, [[31 - Approche via Lina]] à 22h.
+→ Sinon : préparer le départ à l'aube du 5 Erntezeit, voir [[61 - Départ matinal]].
 
 ## Liens
 

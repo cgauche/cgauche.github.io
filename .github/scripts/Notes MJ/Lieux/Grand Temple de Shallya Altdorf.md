@@ -24,7 +24,7 @@
 
 ### PNJ identifiés
 
-- **[[Sœur Maxima]]** : prêtresse-infirmière de l'aile des blessés communs. Soigne Mark dans [[11 - Mark au temple de Shallya|le scénario]].
+- **[[Sœur Maxima]]** : prêtresse-infirmière de l'aile des blessés communs. Soigne Mark dans [[41 - Temple de Shallya|le scénario]].
 
 ## Politique d'accueil
 
@@ -36,26 +36,26 @@
 
 Canon S61 : **Wolfgang Holswig-Abenauer** servait régulièrement au temple en bénévole incognito (servant des repas, lavant des plaies). Tous les 2-3 mois. **Plus présent depuis l'attentat de Barthelm** — la Reiksgarde l'a évacué à [[Castle Reikguard]] pour sa sécurité.
 
-Sœur Maxima peut évoquer ce passé si interrogée (voir [[11 - Mark au temple de Shallya]]).
+Sœur Maxima peut évoquer ce passé si interrogée (voir [[41 - Temple de Shallya]]).
 
 ## Capacités cléricales standard
 
 - **Bless (Shallya)** : 4-6 PV restaurés.
 - **Wonder of Shallya** : guérison forte, réservée aux cas critiques.
-- **Cure Disease** : possible pour les maladies non magiques. **Échec assuré** sur le sort Gideon qui afflige Karl-Franz (cf. [[14 - Visite Karl-Franz]] §sort Tzeentch).
+- **Cure Disease** : possible pour les maladies non magiques. **Échec assuré** sur le sort Gideon qui afflige Karl-Franz (cf. [[32 - Visite Karl-Franz]] §sort Tzeentch).
 - **Vente de fournitures** : bandages, potions de soin basiques (1 GC), Healing Draught (2 GC), herbes médicinales.
 
 ## Apparition scénario
 
-[[11 - Mark au temple de Shallya]] : Mark vient se faire soigner ses blessures de S63 (fléau, incendie, écroulement). Encounter possible avec un Sigmarite blessé du commando d'assaut.
+[[41 - Temple de Shallya]] : Mark vient se faire soigner ses blessures de S63 (fléau, incendie, écroulement). Encounter possible avec un Sigmarite blessé du commando d'assaut.
 
 ## Hooks futurs
 
-- **Maria-Luise demande un Shallyan de confiance** post-S64 pour prendre la suite de Kappelmuller au chevet de Karl-Franz (cf. [[14 - Visite Karl-Franz]]). Sœur Maxima est une candidate plausible — le MJ peut établir le lien.
+- **Maria-Luise demande un Shallyan de confiance** post-S64 pour prendre la suite de Kappelmuller au chevet de Karl-Franz (cf. [[32 - Visite Karl-Franz]]). Sœur Maxima est une candidate plausible — le MJ peut établir le lien.
 - **Refuge urgent** : si les PJ sont en variante B/C/D et veulent se cacher, le temple est un asile sacré (Shallya = inviolable canon WFRP). Mais visible — pas un cachette discrète.
 
 ## Liens
 
 - **PNJ** : [[Sœur Maxima]], [[Maria-Luise von Walfen]] (hook futur), [[Wolfgang Holswig-Abenauer]] (absent).
-- **Scénario** : [[11 - Mark au temple de Shallya]].
+- **Scénario** : [[41 - Temple de Shallya]].
 - **Lieu parent** : [[Altdorf]].

@@ -1,11 +1,13 @@
-# Handouts — Documents du bureau de Fassbinder
+# Handouts — Documents et notes de Fassbinder
 
-> Documents in-game accessibles aux PJ pendant et après la scène d'arrestation S64 (cf. [[12 - Session S64 - plan 3h]] §Module 2).
+> Documents in-jeu accessibles aux PJ pendant et après la scène S64.
 >
-> **Cahier de synthèse** : donné d'office à Johannes par Fassbinder.
-> **Brouillons / griffonnages** : ramassables sur la table pendant la fuite (Escamotage +0 ou geste rapide).
+> **Sur la table de lecture** (saisissables pendant la fenêtre tactique de Phase A, scène 05) — uniquement les documents liés à la consultation en cours : Yodri (*Catalogues of Confusion and Shoddiness*), feuillet *Augusta* (trouvé ce matin), Feuilles 1-2 de brouillons (note couloir + croquis grossier).
+> **Au casier du bureau privé** (incursion optionnelle, scène 04 §Option ou scène 05 §Phase B.6) — documents privés et sensibles que Fassbinder verrouille chaque soir : cahier de synthèse (§I), Feuilles 3-4 de brouillons (cultes interrogés + tentatives décryptage), lettre Lieberung chiffrée (§III) dans un dossier vert, notes personnelles sensibles.
 >
-> Pour la **clé de décryptage MJ-only**, voir tout en bas du fichier.
+> **Cadre canon** : le contenu reflète **strictement** ce que Fassbinder a effectivement lu et entendu (canon `EiR ch.8`). Le **feuillet *Augures Admirables de Tante Augusta*** a été retrouvé par Quintus ce matin même (33 Sigmarzeit 2513), il l'a lu mais pas encore consigné dans le cahier — il est sur la table avec Yodri. Pas de pré-connaissance de Bertoldt, du permis minier ni d'autres écrits de Yodri — il ne les a jamais lus.
+>
+> Pour la **clé de décryptage MJ-only**, voir §V en bas.
 
 ---
 
@@ -15,255 +17,240 @@
 
 ---
 
+### Entrée du 23 Pflugzeit
+
+*Premier jour de carrosse vers M. L.H. ne m'a pas adressé trois mots. Il avait fait savoir d'avance qu'il n'avait que faire d'un conseiller imposé par V.H. — il a tenu sa rancune dès le matin. Soit. L.E. n'a pas quitté son air pincé. E.L. évite la conversation avec les Middenheimers que nous croisons aux relais — un Reiklander en terre ulricane, ce n'est jamais agréable.*
+
+*Encore une semaine de route. Patience.*
+
+---
+
+### Entrée du 30 Pflugzeit — Middenpalaz, soir
+
+*Arrivée au Middenpalaz cet après-midi. Accueil glacial, comme il sied.*
+
+*J'ai abordé les av. en premier — six personnes dont une grande prêtresse de Rhya et une jeune sorcière. Bon esprit, regards francs, des aventuriers qui ont fait du chemin. Bonne pioche pour B.T.*
+
+*Et puis A.R., l'un d'eux, joueur d'épée, a évoqué K.L. en passant. J'ai répondu par des condoléances avant d'avoir eu le temps de me ressaisir. Réaction d'idiot. Ils ont vu, j'ai vu qu'ils ont vu, et je me suis éclipsé vers B.T. en faisant semblant d'avoir une affaire urgente. Pathétique.*
+
+*Plus tard dans la soirée, Y.Z. — l'assistant de L.H. — m'a abordé à part. Voulait savoir qui étaient ces six. Je lui ai dit que c'étaient des aventuriers ayant gagné la confiance du Graf, ce qui était la moitié de ce que je savais. Il avait remarqué ma réaction quand A.R. avait parlé, et il y est revenu. J'ai détourné la conversation sur le Baron Trister, ce qui était minable mais m'a permis de m'esquiver. Y.Z. n'est pas un sot. Il a observé toute la soirée sans en avoir l'air.*
+
+*L.E. a fait un esclandre à une halfeline qui l'avait mal servie — la grande prêtresse Rhya s'est interposée publiquement. La soirée a tourné court. V.H. est resté impénétrable comme toujours.*
+
+---
+
+### Entrée du 9 Sigmarzeit
+
+*Retour précipité à Altdorf il y a deux jours. V.H., furieux, a ordonné notre départ du Middenpalaz dès le lendemain matin — la mission diplomatique avait sombré en une seule soirée. Une semaine d'aller-retour pour trois heures utiles. Quel exercice.*
+
+*Conclusion sur la mission : les av. semblent prometteurs. Si l'occasion vient, je leur parlerai plus longuement et plus prudemment de K.L. Une autre fois. Et je leur demanderai s'ils ont entendu, dans leurs voyages, des choses qui éclairent ce que je traque depuis Bögenhafen.*
+
+---
+
 ### Entrée du 12 Sigmarzeit
 
-*Nouvelle piste en provenance des holds nains d'Altdorf. Y. — vol. 1 enfin obtenu en prêt, contre serment de confidentialité. Trois semaines pour le rendre, peut-être moins. Demander à T. de venir le lire au moins une fois.*
+*Y. enfin obtenu en prêt, contre serment de confidentialité. Deux semaines pour le rendre, peut-être moins. Si Y. tient ce qu'on m'en a rapporté, j'aurai matière à clouer le bec de Knox une fois pour toutes.*
 
-*Le pattern du neuf revient dans trois sources différentes. Je commence à croire qu'il y a quelque chose.*
+*Le marteau de Sigmar n'a jamais quitté les montagnes du sud-est. J'en suis convaincu depuis l'année dernière, mais sans Y. je n'avais qu'une intuition. Avec Y., j'aurai un fondement à présenter.*
+
+---
+
+### Entrée du 14 Sigmarzeit
+
+*On dit que les av. ont été reçus en audience par W.H. cette semaine. Quelques visages au cabinet sigmarite se sont fermés depuis hier. W.H. n'inspire plus le respect qu'il faudrait. Si l'Empereur ne se relève pas, la régence va peser lourd sur les épaules d'un homme qui n'a pas la tête pour ça.*
 
 ---
 
 ### Entrée du 16 Sigmarzeit
 
-*Première lecture rapide de Y. vol. 1. La zone est cohérente avec ce que Bert. décrit. Le couloir entre VD et ZM — trois miles selon Y., un peu moins selon B. Marge de traduction probable.*
+*Première lecture sérieuse de Y. Le passage clé est plus court que je l'imaginais. Sigmar aurait été aperçu entre deux ruines naines, dans un couloir de trois milles. Les noms en khazalid sont là — je peux les épeler, mais leur localisation précise sur carte est hors de portée sans aide naine.*
 
-*Les trois statues sont identifiées : V. et deux autres ancestrales. Y. les nomme T.M.*
-
----
-
-### Entrée du 22 Sigmarzeit
-
-*L. doit m'apporter un exemplaire d'Aug. demain. La version pour enfants — celle qui précise l'orientation finale au-delà des Trois Mères. J'ai cherché trois mois pour en trouver un. Si elle l'a, c'est qu'elle est encore mieux connectée que je le pensais.*
-
-*À tenir hors du dossier officiel. Pas de copie déposée à la bibliothèque, jamais.*
+*Y. se moque longuement de Knox et Shmidt. Le passage utile sur Sigmar fait à peine dix lignes — le reste est une diatribe contre l'historiographie humaine. Du pur Y.*
 
 ---
 
-### Entrée du 24 Sigmarzeit
+### Entrée du 18 Sigmarzeit
 
-*Aug. en main. L. ne veut rien dire de plus sur sa provenance. Quatre vers seulement : « Trois statues de déesses, Sigmar aperçut la faille. Saint Marteau il leva, puis s'aventura à gauche. » Au-delà des Trois Mères, prendre la faille à gauche. Localisation précise par-delà ce que Y. vol. 1 donne seul. Cohérent.*
+*Y. ne couvre que le couloir, pas l'orientation finale. Pour préciser, il faudra creuser du côté des hétérodoxes.*
 
-*Y. vol. 2 — lecture nain encore lente. Smednir bannit un démon de sa forge en le frappant d'un marteau inachevé. Le nom du démon est inscrit en runes naines, phonèmes Sh-... -u, douze syllabes environ. Sans la traduction complète, je n'ai que le fragment.*
+*L'*Augusta* des Sœurs de Sigmar — six mois que je la traque dans les rayons tolérés sans la trouver. Secte féminine, hétérodoxie de salon ; nul ne me condamnera pour ce livre s'il finit sur ma table. Patience, il viendra.*
 
-*Le Seigneur Exalté du Changeur. Banni par Smednir à la forge. Y. vol. 2 p. 347-352 — le détail de la procédure. Le marteau est l'arme spécifique anti-lui. Pas un hasard. Pas symbolique. Matérielle.*
+*Le Malleun et ses pamphlets clandestins, c'est autre chose : hérésie pure, déposés-sans-imprimatur. Je m'étais juré de ne pas y toucher tant que la cour théogonique est dans cet état. Trop d'yeux en ce moment.*
 
-*Ne pas écrire le nom complet. Les noms sont des liens.*
-
----
-
-### Entrée du 28 Sigmarzeit
-
-*Bert. — neuvième jour du neuvième mois. C'est Brauzeit. Précis et clair. Mais l'année reste ouverte. Bert. parle de cycles. Quel cycle ?*
-
-*Hypothèse à vérifier : conjonction Mannslieb-Morrslieb exceptionnelle de Brauzeit 2512. À recouper avec les almanachs astronomiques du temple Verena. Si la conjonction est l'élément déclenchant, alors 2512. Si autre chose, 2513 possible.*
+*Et pourtant je sens que je finirai par y mettre le nez. Ma curiosité a toujours eu le dernier mot.*
 
 ---
 
-### Entrée du 1 Erntezeit
+### Entrée du 20 Sigmarzeit
 
-*Le permis. Enfin. Quatre ans à chercher. T-S-H. La concession est datée du neuf Brauzeit 2508. Quatre ans avant. Le pattern revient par cycles de quatre. Ou plus exactement par cycles soumis aux conjonctions.*
-
-*La mine s'appelle Sch. 25 % à A.R. de K.H. — donc les nains sont dans le coup, ou au moins informés.*
-
-*Y. vol. 1 décrit l'entrée du Lost G. cachée derrière éboulis. Si la mine est l'accès recreusé, alors le permis et le marteau pointent vers la même destination physique. Cohérent.*
+*La marche d'unité cet après-midi. Je suis passé sur Königstrasse pour regarder — beaucoup de bannières, peu d'unité. Sigmar-Ulric, c'est toujours pareil : chacun crie son dieu et personne ne s'entend plus. V.H. avait fait organiser cela avec soin, le résultat est en deçà des ambitions. Comme prévu.*
 
 ---
 
-### Entrée du 30 Sigmarzeit (à 30 Sigmarzeit — j'ai mélangé l'ordre)
+### Entrée du 21 Sigmarzeit
 
-*Lettre DT reçue via courrier discret il y a deux ans, conservée au cabinet. Forme cohérente avec ce que j'ai vu chez Adolphus à Bögenhafen il y a sept ans. Si c'est bien la même main, alors la cellule MP d'Altdorf est plus ancienne et plus structurée que je ne le pensais.*
+*Le petit J. a fait des progrès remarquables en khazalid courant. Il transcrit phonétiquement les runes anciennes que je peinais à épeler. Avec un peu de chance, il situera mieux que moi les noms de Y.*
 
-*Décryptage bloqué — pas la langue, le chiffrement. Substitution Wasmeier sur runes Sombre Langue. J'identifie le système, je n'ai pas la clé. Le tome des correspondances saisies à Middenheim devrait l'avoir — solliciter accès via Y. (le Grand Théo., pas le Loremaster — confusion à éviter dans mes notes). Une audience prendrait des mois.*
-
-*Je soupçonne que cette lettre nomme le démon en entier — peut-être par acrostiche, c'est la marque stylistique de la MP. Sans la clé je n'en suis pas sûr.*
-
-*Demander une audience. Réclamer le tome des correspondances de K.L., toujours.*
+*Cette semaine : interrogatoire d'un cultiste capturé par les frères du M.A. en marge de Reikerbahn. J'y vais avec Lehr. jeudi. À noter dans le dossier M.P.*
 
 ---
 
-### Entrée du 2 Erntezeit
+### Entrée du 23 Sigmarzeit
 
-*Le conclave. J'y étais. Le marteau brisé. La Madame T. a pâli, le Capitulaire est resté impassible. Le moment où le marteau a éclaté, j'ai compris en un instant que mes trois mois de travail venaient de se valider sur un coup de poing.*
+*Interrogatoire d'hier. Le cultiste avait défié l'inquisiteur avec la même phrase que celui de Bögenhafen il y a quatre ans : « quand le C.O. se lèvera, les rôles seront inversés. » Deuxième fois que j'entends cette formule, à chaque fois prononcée par un prisonnier au seuil de la mort.*
 
-*L'imitation est cohérente avec ce que dit Y. vol. 1 p. 19. Le vrai marteau est ailleurs. J'ai dit aux compagnons du Graf que je leur expliquerais demain. Préparer la séance.*
-
----
-
-### Entrée du 3 Erntezeit — fin de journée
-
-*L'assaut. Le Graf T. mort. Le manoir Helstein. Tout s'accélère. Je ne peux plus attendre de confirmer la conjonction astrale avant de leur parler.*
-
-*Demain matin à neuf heures, les compagnons arrivent. Préparer :*
-- *Y. vol. 1 sur la table, ouvert page du couloir.*
-- *Aug. sur la table, prêt à pousser vers eux — l'orientation finale au-delà des Trois Mères.*
-- *Bert. au cabinet, prêt à sortir si nécessaire.*
-- *Y. vol. 2 au cabinet — fragment Sh- du nom démonique.*
-- *Lettre DT au cabinet — pattern MP identifié, contenu encore opaque.*
-- *Permis copie au cabinet.*
-- *Mon résumé oral des trois points : zone (Trois Mères + faille gauche), démon (Sh-...-u, Y. vol. 2), date (9/9, année à trancher).*
+*Aucun écrit que je connaisse ne mentionne ce C.O. Mais il revient, et il revient à des moments graves. À creuser quand j'aurai du temps.*
 
 ---
 
-### Entrée du 3 Erntezeit — nuit, ajout précipité
+### Entrée du 26 Sigmarzeit
 
-*Quelque chose me dit que je ne dormirai pas cette nuit. Pas après ce qui s'est passé au manoir. Si l'arrestation devait venir, elle viendrait demain matin pendant le rendez-vous. Sigmar protège, qu'au moins le petit échappe. Il continuera ce qu'il peut continuer.*
+*Cours d'hier. J'ai dit à voix haute devant quarante étudiants que le marteau brandi par les Empereurs est un faux et que le vrai est ailleurs. Trois ont baissé les yeux. Deux ont quitté la salle. Le reste a noté.*
 
-*— Q.F.*
+*Je sais ce qui va se dire en ville d'ici trois jours : Fassbinder enseigne l'hérésie. Le Chancelier va se frotter les mains. Mais ma protection auprès des frères du M.A. est solide — Lehr. couvrira. Il fallait que la chose soit dite à voix haute avant que le dossier ne devienne public.*
+
+*J'aurais peut-être dû attendre que Y. valide le repère géographique avant de me prononcer. Trop tard pour la prudence. Au moins l'idée est dans l'air ; quand l'évidence tombera, certains comprendront plus vite que d'autres.*
+
+---
+
+### Entrée du 30 Sigmarzeit
+
+*Les av. ont cherché à me voir hier soir. Je leur ai fait dire que je n'avais pas le temps avant le mariage — trop à faire ici, et je veux d'abord boucler ma lecture de Y. avant de leur parler. Surlendemain au plus tôt.*
+
+*Lettre S.L. du cabinet — celle reçue il y a un an via le courrier discret de Bögenhafen. J'y suis revenu ce matin. Forme cohérente avec ce que j'ai vu chez A.K. à l'époque. Si c'est bien la même main, alors la cellule M.P. d'Altdorf est plus ancienne et plus structurée que je ne le pensais.*
+
+*Décryptage toujours bloqué — pas la langue, le chiffrement. Une substitution superposée aux runes S.L., dont j'ai déjà croisé le motif chez A.K. à Bögenhafen — il l'avait surnommé « le grand chiffre du Maître », sans en savoir plus. Un an que je tourne autour sans rien casser.*
+
+*Si jamais quelqu'un sait quelle clé s'applique à ce motif, je tiens enfin cette lettre.*
+
+---
+
+### Entrée du 31 Sigmarzeit
+
+*Le conclave. J'y étais. Le marteau brisé. E.T. a pâli, V.H. est resté impassible. Au moment où le marteau a éclaté, j'ai compris que mon hypothèse — un an d'élaboration sourde — venait de se valider d'un coup.*
+
+*L'imitation est cohérente avec ce que dit Y. p. 19. Le vrai marteau est ailleurs. J'ai dit aux av. que je leur expliquerais demain. Préparer la séance.*
+
+---
+
+### Entrée du 32 Sigmarzeit — fin de journée
+
+*L'assaut sur Helstein cette nuit. B.T. mort. Le même homme qui a brisé le faux marteau hier meurt aujourd'hui — drôle d'accélération. La cité va se déchirer dans les semaines à venir.*
+
+*H.T. a fait dire que les av. seraient là demain matin. Bien — ils ont survécu. Sans eux la piste meurt avec moi.*
+
+*Demain dès l'ouverture, rayon est, sigmarites tolérés : c'est l'occasion pour l'*Augusta*. Demander à J. de transcrire p. 47-48 de Y. ce soir, qu'on ait un texte net.*
+
+*Tant que j'y suis : Y. en retard depuis six jours, négocier un délai à la communauté naine. S.L. à classer si rien ne sort d'ici Sommerzeit. C.O. à reprendre dans mes notes d'interrogatoires. Le rendez-vous me tombe bien — j'avais besoin d'une urgence.*
 
 ---
 
 ## II. Brouillons et griffonnages
 
-> Six feuilles volantes éparses sur la table de Fassbinder, glissées entre les livres ou à côté du grand in-folio nain. Format quart de feuille pour la plupart. Encre, parfois plume, parfois fusain.
+> Quatre feuilles volantes éparses sur la table de Fassbinder, glissées entre les livres ou à côté du grand in-folio nain. Format quart de feuille pour la plupart. Encre, parfois plume, parfois fusain.
 
 ---
 
-### Feuille 1 — Calcul astronomique
-
-> *Au verso d'une page de comptes du temple Verena, écriture pressée :*
-
-```
-Conjonction Mannslieb-Morrslieb :
-  9 Brauzeit 2508 → conj. partielle, M-M à 14°
-  9 Brauzeit 2512 → conj. exceptionnelle (?), M-M à 2° ou moins
-  9 Brauzeit 2513 → conj. standard, M-M à 11°
-
-Question : si la conj. exc. est l'élément déclenchant, 
-alors 2512 est LA date. Sinon, le pattern de quatre tient et 2516.
-Mais Bert. dit "neuf hôtes" et "fin proche". 
-2516 trop tard ? Hypothèse 2513 plausible si la conj. n'est pas critique.
-
-À vérifier : almanachs Verena, salle nord-est, étagère K.
-```
-
----
-
-### Feuille 2 — Note sur le couloir
+### Feuille 1 — Note sur le couloir
 
 > *Sur un fragment de parchemin frangé :*
 
 ```
-Y. vol. 1 : couloir VD-ZM = 3 miles
-Bert. (indirect, via Sœurs S.) : "ample passage" sans chiffre
-B. (autre source) : ~3 miles
-Aug. : "trois bonnes longues marches" — soit ~3 miles
+Y. : couloir entre deux ruines naines, 3 milles.
+Noms en khazalid p. 47 (je peux épeler, je ne peux pas situer).
 
-Convergence sur 3 miles. Accepter cette mesure.
+Le tracé suit le creux de la vallée selon Y. carte p. 24.
+Pas de carte canon à l'échelle utilisable pour des humains.
 
-À se rappeler : le tracé du couloir suit le creux de la vallée 
-selon Y. vol. 1 carte p. 24. Pas de carte canon à l'échelle utilisable.
+Cartographie précise = il faudra de l'aide naine, je n'ai rien d'autre.
 ```
 
 ---
 
-### Feuille 3 — Smednir-renvoi
+### Feuille 2 — Croquis grossier
 
-> *Annotation au crayon sur une page arrachée :*
-
-```
-Smednir → Y. vol. 2 p. 347-352
-Forge Ghal Maraz = arme spéc. anti-(le nom)
-Pas hasard. La quête n'est pas symbolique. 
-Le marteau EST la solution opérationnelle, pas une métaphore.
-
-Demander à K.H. confirmation par les leurs.
-A.R. saura. Il a accès aux annales de la forge.
-```
-
----
-
-### Feuille 4 — Croquis grossier
-
-> *Esquisse au fusain, traits gros et imprécis. Représente vaguement une chaîne de montagnes avec deux pics, un creux entre les deux, et plusieurs croix mal placées. Annotations :*
+> *Esquisse au fusain, traits gros et imprécis. Représente vaguement une chaîne de montagnes avec deux pics, un creux entre les deux. Annotations :*
 
 ```
-[pic gauche] : "VD ? haut, ruines"
-[pic droit] : "ZM ? plus bas, poste"
-[creux] : "couloir, 3 miles"
-[trois croix groupées] : "T.M."
-[?]  : "entrée Lost G., quelque part près"
+[pic gauche] : "ruine haute, refuge selon Y."
+[pic droit] : "ruine basse, poste de guet selon Y."
+[creux] : "couloir, 3 milles"
 
-Échelle : aucune. Ce n'est qu'une intuition. 
-Carte propre à dresser après lecture complète Y. vol. 1.
+Échelle : aucune. Ce n'est qu'une intuition reportée de la lecture.
+Carte propre à dresser après lecture cartographique naine.
 ```
 
 ---
 
-### Feuille 5 — Brouillon de correspondance
+### Feuille 3 — Note sur les cultes interrogés
 
-> *Lettre inachevée, biffée plusieurs fois :*
+> *Demi-feuille, écriture précipitée :*
 
 ```
-Mon cher K.,
+Phrase « Champion dans les Ombres » entendue deux fois :
+  - Bögenhafen, 2509, cultiste M.P. arrêté par A.K.
+  - Altdorf, Reikerbahn, 2513, cultiste M.P. arrêté par Lehr.
 
-Vos confirmations sur le second volume sont précieuses 
-et je vous suis reconnaissant de la diligence avec laquelle 
-vous avez répondu à mes questions sur Smednir et l'événement.
+Même formulation. Même posture défiante au seuil de la mort.
+Un nom de chef ? Une figure prophétique ? Pas de texte que je connaisse.
 
-Je vais — [biffé : "demander à votre Roi A. son aide"]
-— [biffé : "vous prier d'intercéder auprès du Roi"]
-— solliciter le Roi A. directement, par les voies normales, 
-une fois mes hypothèses confirmées. Notre intérêt commun 
-sur la question du marteau est suffisant. La concession Sch. 
-nous concerne tous deux.
-
-Bien à vous,
-Q.F.
+À recouper avec ce que les av. pourraient avoir 
+entendu en voyage. Bögenhafen → Middenheim → ailleurs. 
+Ils sont sortis assez longtemps pour avoir croisé d'autres voix.
 ```
 
 ---
 
-### Feuille 6 — Note sur les éditions d'Aug.
+### Feuille 4 — Brouillons de décryptage de la lettre S.L.
 
-> *Petite feuille pliée, écriture serrée :*
+> *Feuille pliée plusieurs fois, marges noircies de tentatives :*
 
 ```
-Demander à L. les versions 2487 et 2495 d'Aug. pour comparaison.
-Les éditions diffèrent-elles sur l'acrostiche ? 
-Hypothèse : la version pour enfants est l'édition standardisée, 
-mais une version antérieure pourrait contenir d'autres détails 
-sur le rituel. Bert. cite Aug. dans son pamphlet — 
-donc il avait accès à une édition disponible avant 1995.
+Substitution sur S.L. — motif visuel identifié, 
+déjà croisé chez A.K. à Bögenhafen en 2509. 
+Variante : la clé qu'avait A.K. ne s'applique pas.
 
-L. saura. Elle a tout.
+J'ai essayé :
+  - alphabet S.L. standard rune-pour-rune (rien)
+  - rotation de 3, 7, 9, 11 (rien)
+  - la clé partielle que m'a montrée A.K. (rien)
+  - substitution inversée (rien)
+
+Sans la clé exacte, ce papier est un objet d'art.
+Avec la clé, il livrera ce que la M.P. préparait il y a un an 
+— et probablement ce qu'elle prépare encore.
+
+Note pour mémoire : trois noms en tête en clair, non chiffrés. 
+Sans doute une convention d'adresse — codes nominaux M.P. ?
 ```
 
 ---
 
-## III. Le feuillet Tante Augusta — poème pour enfants (location)
+## III. La lettre à Kastor Lieberung — chiffrement de Wasmeier
 
-> **Document** : transcription manuscrite par Fassbinder. Source : *Visions Vertueuses Volume V — Augures Admirables de Tante Augusta*, ouvrage des Sœurs de Sigmar à destination des fillettes, publication semi-clandestine.
+> **Origine** : lettre interceptée par Fassbinder il y a un an via un correspondant à Bögenhafen. Reste au cabinet verrouillé du bureau privé jusqu'à l'arrestation.
 >
-> Quintus a obtenu son exemplaire via Lina (la bouquiniste aveugle de Hangmann's Gasse) le 22 Sigmarzeit 2512. Le feuillet est sur sa table le matin du rendez-vous.
-
-### Texte du poème (Reikspiel)
-
-*Une statue de déesse, Sigmar s'incline profond et adroit.*
-*Deux statues de déesses, Sigmar souffrit éploré.*
-*Trois statues de déesses, Sigmar aperçut la faille.*
-*Saint Marteau il leva, puis s'aventura à gauche.*
-
-### Décodage
-
-Les trois statues = les Trois Mères (Valaya + deux aïeules naines), à l'entrée du couloir VD-ZM. Au-delà, le poème indique d'aller à la faille (cleft) puis à gauche. Localisation précise du marteau caché.
-
-Canon EiR ch.8 l.220-223.
-
----
-
-## IV. La lettre à Kastor Lieberung — chiffrement de Wasmeier
-
-> **Document** : lettre interceptée par Fassbinder il y a deux ans via un correspondant à Bögenhafen. Rédigée en **runes Sombre Langue** mais **chiffrée** — substitution de Wasmeier sur l'alphabet runique. Reste au cabinet verrouillé du bureau jusqu'à l'arrestation.
+> **État physique** : un feuillet de parchemin couvert de **runes Sombre Langue chiffrées par substitution Wasmeier**. **Illisible** pour Fassbinder comme pour les PJ tant qu'ils n'ont pas la clé de substitution — Fassbinder a passé un an à tourner autour sans pouvoir l'ouvrir.
 >
-> **Condition de lecture** : la **clé du chiffrement de Wasmeier** — les PJ l'ont depuis Middenheim (Arc 3 *Power Behind the Throne*). Avec la clé, lecture directe par substitution mécanique, sans test.
+> **Condition de décodage** : la **clé du chiffrement de Wasmeier** que les PJ ont depuis Middenheim (Arc 3 *Power Behind the Throne*). Substitution mécanique rune-par-lettre, sans test, dès que la clé est appliquée.
 >
-> **À noter** : l'incantation finale *« Iztak Graksk »* à répéter neuf fois reste transcrite en Dark Tongue dans la lettre — flavor cultiste, sans enjeu mécanique (les PJ disrupteront le rituel physiquement, ils n'ont pas besoin de comprendre les mots).
+> **Moment narratif probable** : décodage sur la Comète, sur le trajet vers Nuln (les PJ ont temps et tranquillité, et Johannes peut piloter le travail avec ses sigles familiers).
 
-### Adressée à
+### III.A — Tel que trouvé au casier
+
+Un feuillet plié en quatre, glissé dans un dossier vert au fond du casier. À l'extérieur, étiquette manuscrite de Fassbinder : *« S.L. — Bögenh., -1 an. Clé absente. »*
+
+À l'intérieur, un texte d'une douzaine de lignes en runes Sombre Langue, calligraphié soigneusement. Sans clé de décryptage, **aucune information lisible** — c'est de la cryptographie sur cryptographie (Sombre Langue déjà runique, plus une substitution Wasmeier par-dessus).
+
+En tête du parchemin, **trois noms transcrits en clair en lettres latines** (ils n'étaient pas chiffrés — sans doute une convention d'adresse) :
 
 *Düwe, Schaftem et Hau*
 
-### Texte traduit (Reikspiel) — acrostiche préservé
+### III.B — Texte décodé (post-application de la clé Wasmeier)
+
+> **À révéler seulement quand les PJ appliquent la clé Wasmeier.** Avant ce moment, les PJ ne voient que des runes. Le MJ donne ce handout au moment du décodage.
+
+Texte traduit en Reikspiel, acrostiche préservé :
 
 *Salutations à mon ami dans le changement.*
 *Humble recette pour résultats audacieux.*
@@ -276,27 +263,27 @@ Canon EiR ch.8 l.220-223.
 *En chaque œil présent une horreur devient.*
 *Tiré de la poigne du destin la tâche délivrée.*
 *Règent dépouille et plume et torsion défaits.*
-*Utterer neuf fois rapidement : Iztak Graksk.*
+*Une voix neuf fois clamée : Iztak Graksk.*
 
-### Acrostiche
+### III.C — Acrostiche (à découvrir par les PJ)
 
 Première lettre de chaque vers : **S-H-E-E-R-A-R-G-E-T-R-U** = **SHEERARGETRU**.
 
-Le nom du démon : Seigneur Exalté de Tzeentch, ennemi ancestral de Smednir.
+Le nom du démon : Seigneur Exalté de Tzeentch (justification théologique à recouper via les sources naines canoniques — Karak Hirn, ou textes théologiques de la bibliothèque ; MJ-only).
 
-### Décodage informationnel
+XP canon `EiR ch.8 l.313` : *« 25 points for working out that the poem is an acrostic spelling 'Sheerargetru' »*.
+
+### III.D — Décodage informationnel (MJ-side)
 
 - **Démon nommé** : SHEERARGETRU.
 - **Date du rituel** : neuf du neuvième mois (Brauzeit). Pas d'année dans la lettre.
-- **Composantes du rituel** : neuf cultes assemblés, sang d'un prêtre, *« grand marteau runique »* (= Ghal Maraz utilisé dans la cérémonie).
-- **Incantation Sombre Langue** : *« Iztak Graksk »*, à répéter neuf fois.
-- **Référence aux Nine Eyes** : *« En chaque œil présent une horreur devient »*.
+- **Composantes du rituel** : neuf cultes assemblés, sang d'un prêtre, *« grand marteau-rune »* (= Ghal Maraz utilisé dans la cérémonie).
+- **Incantation Sombre Langue** : *« Iztak Graksk »*, à clamer neuf fois.
+- **Référence aux Neuf Yeux** : *« En chaque œil présent une horreur devient »*.
 - **Référence au régent / sosie** : *« Règent dépouille et plume et torsion défaits »* — possible allusion à la destitution du sosie de Karl-Franz (Hermann von Feilbach).
-- **Trois noms à investiguer** : Düwe, Schaftem (lien possible Honorio Schaftem LLB, notaire d'Averheim qui signe le permis T-S-H), Hau.
+- **Trois noms à investiguer** : Düwe, Schaftem, Hau.
 
-Canon EiR ch.8 l.271-273. XP ch.8 l.314 : *« 25 points for working out that the poem is an acrostic spelling 'Sheerargetru' »*.
-
-### Texte original (anglais canon EiR ch.8 l.271-273)
+### III.E — Texte original (canon EiR ch.8 l.271-273)
 
 *Düwe, Schaftem and Hau*
 
@@ -304,66 +291,109 @@ Canon EiR ch.8 l.271-273. XP ch.8 l.314 : *« 25 points for working out that the
 
 ---
 
+## IV. Augusta — feuillet trouvé ce matin
+
+> **Document** : un feuillet manuscrit, copie soignée d'un pamphlet édité par les Sœurs de Sigmar. Format demi-feuille, écriture d'enfant. Retrouvé par Fassbinder dans le rayon est de la bibliothèque-temple de Verena, section pamphlets sigmarites tolérés, ce matin du 33 Sigmarzeit 2513 à la première heure. Lu, posé sur la table à côté de Yodri, pas encore commenté dans le cahier.
+>
+> **Source** : *Visions Vertueuses, Volume V : Les Augures Admirables de Tante Augusta*. Comptine pédagogique destinée aux fillettes pour les initier aux prophéties de la secte. Canon `EiR ch.8 l.218-223`.
+
+### Texte du feuillet
+
+*Une statue de déesse, Sigmar s'incline profond et adroit.*
+*Deux statues de déesses, Sigmar souffrit éploré.*
+*Trois statues de déesses, Sigmar aperçut la faille.*
+*Saint Marteau il leva, puis s'aventura à gauche.*
+
+### Décodage informationnel (MJ-side)
+
+- Au-delà du couloir Vithang Dum / Zan Mingol décrit par Yodri, trois statues d'ancêtres naines marquent l'entrée d'une **faille**.
+- Les Trois Mères = Valaya et deux autres aïeules naines (canon `EiR ch.8 l.223`).
+- Direction finale : **à gauche** au-delà des Trois Mères.
+
+---
+
 ## V. Clé de décryptage — MJ ONLY
 
 > **Ne pas montrer aux joueurs.** Tableau des initiales utilisées par Fassbinder dans le cahier et les brouillons. Les joueurs doivent les deviner progressivement, par recoupement, sur plusieurs sessions.
 
+**Personnes — P.N. (deux initiales)**
+
 | Sigle | Sens | Indice pour les joueurs |
 |---|---|---|
-| **Y.** | Yodri (Loremaster nain de Kadar-Khalizad) — auteur de deux volumes | Mentionné comme un savant nain ; ambiguïté volontaire avec « Yorri » (le Grand Théogoniste) que Fassbinder corrige lui-même dans l'entrée du 30 Sigmarzeit |
-| **Y. vol. 1** | *Catalogues de Confusion et de Médiocrité* — sur la localisation du marteau | Sur la table de Fassbinder (gros in-folio khazalid) |
-| **Y. vol. 2** | *De l'Adéquat au Pitoyable* — sur Smednir-Sheerargetru | Au cabinet verrouillé |
-| **VD** | Vithang Dum — abri nain ruiné | Un des deux postes anciens du couloir |
-| **ZM** | Zan Mingol — poste de garde nain ruiné | L'autre poste |
-| **T.M.** | Trois Mères — statues d'ancêtres naines (Valaya + 2) | Connu, mentionné à voix haute par Fassbinder dans le briefing |
-| **V.** | Valaya (déesse naine) | Sous-jacent T.M. |
-| **Bert.** | Bertoldt le Malleun — pamphlétaire sigmarite hétérodoxe | Auteur d'une prophétie sur 9/9 |
-| **Aug.** | Les Augures Admirables de Tante Augusta — comptine enfantine hérétique des Sœurs de Sigmar | Précise l'orientation au-delà des Trois Mères (faille à gauche). Texte intégral §III. |
-| **L.** | Lina (la bouquiniste aveugle de Hangmann's Gasse) | Source de Fassbinder pour Aug. — **lien réseau Maria-Luise** (à révéler le soir de la visite) |
-| **T.** | Thurgrim (un confrère nain à Altdorf — fictif, à étoffer si besoin table) | A aidé à la lecture initiale de Y. vol. 1 |
-| **K.** | Le correspondant nain de Fassbinder à Karak Hirn (un Loremaster nommé Khazrak, à étoffer si besoin table) | Destinataire du brouillon de lettre — lien Karak Hirn |
-| **K.H.** | Karak Hirn (hold nain partenaire 25 % du permis minier) | Évident une fois recoupé avec « A.R. » |
-| **A.R.** | Alrik Ranulfsson (Roi de Karak Hirn) | Évident pour les PJ qui connaissent les holds nains |
-| **T-S-H** | Teugen-Steinhäger-Haagen (les trois associés du permis minier) | Lien Arc 2 Bögenhafen — Teugen et Steinhäger morts S12, Haagen probablement vivant |
-| **Sch.** | Mine de Schmerzeit | Concession dans la Passe de Feu Noir |
-| **DT** | Dark Tongue (langue noire) — pour la lettre codée à Kastor Lieberung | Au cabinet verrouillé. Décodable mécaniquement avec la clé Wasmeier (PJ depuis Middenheim Arc 3). Acrostiche SHEERARGETRU + rituel. Texte intégral §IV. |
-| **K.L.** | Kastor Lieberung — Magister Impedimentae de la Main Pourpre | Connu des PJ depuis Arc 2 |
-| **Madame T.** | Madame Toppenheimer (Etelka) — au conclave | Décor S62 |
-| **Capitulaire** | Volkmar von Hindenstern | Au conclave S62 |
-| **Lost G.** | Lost Gorge — gorge cachée derrière éboulis, dans la Passe | Entrée vraie du site du marteau, accessible par la mine Sch. |
-| **B.** | Source non identifiée (variante de Bert. — possible ambiguïté ou autre savant) | À laisser ambigu côté table |
-| **conj. M-M** | Conjonction Mannslieb-Morrslieb (les deux lunes du Vieux Monde) | Astronomie standard |
-| **M.** | Mannslieb (la lune blanche) | Astronomie |
-| **Adolphus** | Adolphus Kuftsos (l'agent de Fassbinder qu'il avait recruté contre la MP en 2511) | Référence Arc 2 |
-| **B. (de Bögenhafen)** | Bögenhafen | Référence Arc 2 |
-| **Sœurs S.** | Sœurs de Sigmar (secte hérétique de Mordheim) | Auteurs originels d'Aug. |
-| **Le Grand Théo.** | Yorri XV (Grand Théogoniste) | Distinct de Y. (le Loremaster nain) — clarification de Fassbinder lui-même |
-| **J.** | Johannes (son élève) | Évident pour les PJ |
-| **le petit** | Johannes | Affectueux |
-| **Q.F.** | Quintus Fassbinder | Évident |
+| **K.L.** | Kastor Lieberung — Magister Impedimentae de la Main Pourpre | Connu des PJ depuis Arc 2 Bögenhafen |
+| **L.H.** | Liepmund Holzkrug (Graf, Grand Ambassadeur d'Altdorf) | Chef de la délégation Altdorf à Middenheim S57 ; au conclave S62 |
+| **V.H.** | Volkmar von Hindenstern (le Capitulaire) | Au conclave S62 ; figure publique impériale ; particule « von » élidée |
+| **L.E.** | Luciana von Eckstein (Gravin) | Membre délégation Altdorf S57 ; canon `EiR ch.8 l.202` |
+| **E.L.** | Ewald von Laue (Baron) | Membre délégation Altdorf S57 ; canon `EiR ch.8 l.286` |
+| **Y.Z.** | Yann Zuntermein (assistant officiel de L.H.) | Délégation S57 — Quintus le note comme observateur attentif sans en deviner la fonction réelle |
+| **A.K.** | Adolphus Kuftsos (son ancien agent à Bögenhafen, 2509) | Référence Arc 2 — `EiR ch.8 l.248` |
+| **E.T.** | Etelka Toppenheimer (Madame T.) | Décor S62 — au conclave |
+| **B.T.** | Boris Todbringer (le Graf de Middenheim) | Employeur des PJ. Mort S63 |
+| **A.R.** | Albert Reichau (le PJ joueur d'épée) | À situer par les autres PJ |
+| **H.T.** | Heinrich Todbringer (fils du Graf, héritier de fait depuis S63) | Employeur de facto des PJ après la mort de B.T. |
+| **W.H.** | Wolfgang Holswig-Abenauer (Prince Héritier, fils de Karl-Franz) | Audience canon `EiR ch.4` ; particule de surnom compound réduite à « H. » |
+| **Q.F.** | Quintus Fassbinder | Lui-même (signature) |
+
+**Personnes — initiale seule (évident pour Fassbinder)**
+
+| Sigle | Sens | Indice pour les joueurs |
+|---|---|---|
+| **Y.** | Le tome *Catalogues of Confusion and Shoddiness* du Maître du Savoir nain Yodri de Kadar-Khalizad, en prêt à Fassbinder | Gros in-folio khazalid posé sur la table |
+| **J.** | Johannes Woblhoffer (son élève) | Évident pour les PJ — « le petit » comme variante affectueuse |
+
+**Personnes — cas particuliers (canon sans prénom disponible ou nom trop court)**
+
+| Sigle | Sens | Indice pour les joueurs |
+|---|---|---|
+| **Lehr.** | Frère Lehrhardt — son contact senior à l'Ordre du Marteau d'Argent | Inquisiteur sigmarite avec qui Fassbinder a assisté à des interrogatoires de cultistes ; canon `EiR ch.8 l.46` |
+| **Knox** | Professeur Albertus Knox de Nuln | Pas d'abréviation (A.K. déjà pris par Kuftsos ; nom court) |
+| **Shmidt** | Professeure Janni Shmidt de Salzenmund | Pas d'abréviation (J.S. confus avec Johannes ; nom court) |
+| **Y.XV** | Yorri XV — Grand Théogoniste | Nom de règne (XV) en lieu et place du patronyme dans le système Quintus |
+| **Sigmar** | Sigmar — divinité de l'Empire | Jamais abrégé (référence sacrée) |
+| **Baron Trister** | Personnage historique célèbre (prisonnier nain libéré de Karak Kadrin) canon `EiR ch.2 l.450` — utilisé par Quintus comme prétexte de diversion devant Y.Z. | Cité textuellement |
+
+**Lieux**
+
+| Sigle | Sens |
+|---|---|
+| **M.** | Middenheim |
+| **B.** | Bögenhafen |
+
+**Concepts / cultes / langues**
+
+| Sigle | Sens |
+|---|---|
+| **S.L.** | Sombre Langue (Dark Tongue) — la lettre codée au cabinet, décodable avec la clé Wasmeier des PJ (Middenheim Arc 3) — acrostiche SHEERARGETRU + rituel |
+| **M.P.** | Main Pourpre — culte tzeentchéen connu des PJ depuis Arc 2 |
+| **C.O.** | Champion (dans les) Ombres — figure prophétique mentionnée par les cultistes M.P. interrogés ; identité inconnue de Fassbinder |
+| **M.A.** | Ordre du Marteau d'Argent — institution sigmarite de chasseurs de sorcières, dont Lehr. est le contact senior de Fassbinder |
+| **av.** | Les aventuriers (= les PJ) — canon Fassbinder `EiR ch.2 l.431` *« adventurers who have earned the Graf's trust »* |
+
+**Auto-référence**
+
+| Sigle | Sens |
+|---|---|
+| **le petit** | Johannes (affectueux) |
 
 ### Notes sur la lecture progressive
 
-**Session S64 (premier déchiffrage par Johannes sur la Comète)** : Johannes verbalise spontanément les sigles les plus évidents : VD, ZM, T.M., 9-9-12/13. Le reste reste cryptique.
+**Session S64 (premier déchiffrage par Johannes sur la Comète)** : Johannes verbalise spontanément les sigles les plus évidents : S.L., K.L., Q.F.
 
-**Sessions S65+ (voyage)** : à chaque session, **un PJ peut tenter** **Intuition (+0)** ou **Connaissance (Cultes / Magie / Heraldique) (+0)** pour identifier un nouveau sigle. Récompense XP 5-10 points par déchiffrage.
+**Sessions S65+ (voyage)** : à chaque session, **un PJ peut tenter** **Intuition (+0)** ou **Connaissance (Cultes / Magie / Héraldique) (+0)** pour identifier un nouveau sigle. Récompense XP 5-10 points par déchiffrage.
 
-**Conjonctions à donner en priorité table** :
-1. **VD / ZM / T.M.** dès la première lecture (J+1 voyage) — orientation géographique.
-2. **Aug.** = Tante Augusta, le poème déjà en main (récupéré scène 04 ou 05). Le poème lui-même indique la faille à gauche au-delà des Trois Mères.
-3. **DT** = lettre Dark Tongue à Lieberung. Décodage mécanique avec la clé Wasmeier (PJ depuis Middenheim Arc 3). Acrostiche SHEERARGETRU + rituel décodés.
-4. **L.** = Lina (lien après la visite Maria-Luise).
-5. **Y. vol. 1 vs Y. vol. 2** : Johannes lit le khazalid (grille DR en [[../Scénarios/Le réveil d'Altdorf/18 - Départ matinal|18]] §Documents). Les noms en runes anciennes restent transcrits phonétiquement sans identification — Karak Hirn requis pour cartographie (vol.1) ; cross-réf Wasmeier requis pour nom du démon (vol.2).
-6. **K.H. / A.R.** quand ils décident de visiter Karak Hirn (Piste B).
-7. **T-S-H** quand ils récupèrent le permis minier (Averheim ou coffre).
+**Ce que les sigles NE livrent PAS** :
+- ✗ Augusta, Bertoldt, permis Schmerzeit, autres écrits de Yodri — Fassbinder n'a pas lu ces sources, donc pas de sigle dans le cahier pour leurs contenus.
+- ✗ Cartographie naine — Fassbinder savait qu'il avait besoin d'aide naine sans avoir de correspondant.
+- ✗ Année du rituel — pas tranchée, le cahier reflète l'ignorance.
+- ✗ Nom du démon — Fassbinder n'a jamais décodé la lettre, donc jamais vu l'acrostiche SHEERARGETRU.
 
 ### Indices à dropper pour aiguillonner
 
 Si la table piétine sur le décryptage, le MJ peut transmettre des indices au joueur de Johannes via aside privé. Son personnage, par sa formation aux côtés de Fassbinder, a accès à certains référents :
 
-- Y. = un Loremaster nain (Yodri) fréquemment évoqué par Fassbinder.
-- L. = Lina, à qui le maître se rendait personnellement à Hangmann's Gasse une fois par mois.
-- K.H. = un correspondant nain à Karak Hirn.
+- Y. = un Maître du Savoir nain (Yodri) fréquemment évoqué par Fassbinder.
+- S.L. = la lettre du cabinet, Fassbinder lui en a parlé une fois en confidence.
+- Lehr. = son contact Marteau d'Argent (Johannes l'a croisé deux ou trois fois).
 
 À doser selon le besoin de la table.
 
@@ -372,6 +402,6 @@ Si la table piétine sur le décryptage, le MJ peut transmettre des indices au j
 ## Liens
 
 - **Scène d'arrestation** : [[12 - Session S64 - plan 3h|S64 - plan 3h]] §Module 2
-- **Cadre détaillé** : [[11 - Scénario S64 - chapitre 8]]
-- **Quête longue durée du coffre** : [[11 - Scénario S64 - chapitre 8]] §3-bis et 3-ter
+- **Cadre détaillé** : [[11 - Cadre Le réveil d'Altdorf]]
+- **Quête longue durée du coffre** : [[11 - Cadre Le réveil d'Altdorf]] §4-5
 - **PNJ Fassbinder** : [[PNJ/Quintus Fassbinder]]

@@ -71,7 +71,7 @@ Lecture proposée :
 ### Possibles affiliations dormantes
 - **Ordo Septenarius / Cabal of Egrimm van Horstmann (Tzeentch)** : canon UA1 l.3062-3064 propose explicitement Cordelia OU Engel comme membres possibles du Cabal. **Si Engel = Cabal** → la fuite avec les pièces est sa contribution à la cause Tzeentch. Cohérent avec le profil du **vrai Carolus canon** (qui était un agent du Cabal sous Egrimm van Horstmann).
 - **Ordre Gris seul** : Engel agit pour les intérêts secrets de l'**Ordre Gris d'Altdorf**, qui veut récupérer la technologie d'arme magique avant qu'elle ne tombe en de mauvaises mains. Loyal à son ordre, opportuniste.
-- **Indépendant / vénal** : voleur d'occasion, veut vendre les pièces à un acquéreur (Main Pourpre ? Red Crown ? Université ?).
+- **Indépendant / vénal** : voleur d'occasion, veut vendre les pièces à un acquéreur (Main Pourpre ? Couronne Rouge ? Université ?).
 
 Option retenue (activable au retour du fil) : **Cabal** — raccordement narratif optimal, Tzeentch est l'antagoniste de l'arc 5, Engel pourrait y resurgir comme agent de pression. Les deux autres options (Ordre Gris seul, indépendant vénal) restent utilisables en repli.
 
@@ -96,7 +96,7 @@ Avec les pièces emportées :
 
 ### Moyen terme (Arc 5-6)
 - **Frappe magique inexpliquée** à longue distance contre un PJ ou un allié — réactivation de l'arme (à moindre échelle).
-- **Engel comme agent Tzeentch / Cabal** : il refait surface comme mage senior dans une opération Main Pourpre / Red Crown / Cabal. Affrontement direct ou diplomatique.
+- **Engel comme agent Tzeentch / Cabal** : il refait surface comme mage senior dans une opération Main Pourpre / Couronne Rouge / Cabal. Affrontement direct ou diplomatique.
 - **Engel mort** ailleurs (purge interne du Cabal, vengeance d'un mage rival) → les pièces de l'arme **changent de mains**, et l'aventure suit le nouveau détenteur.
 
 ### Long terme (Arc 7)

@@ -16,7 +16,7 @@
   - S12 → ch.9 *The Darkest Hour* (PDF p.100-117)
   - Référence : ch.10 *A Guide to Bögenhafen* (PDF p.118-145)
 - **Source secondaire** : `Source/Enemy in Shadows Companion/` (GM extensions)
-- **Tags** : `#Bögenhafen` `#Altdorf` `#Weissbruck` `#OrdoSeptenarius` `#PurpleHand` `#RedCrown` `#Teugen` `#Gideon` `#Sheerargetru` `#KastorLieberung` `#Magirius` `#Steinhäger` `#Haagen` `#Ruggbroder` `#Quartjin` `#Berebeli` `#AdolphusKuftsos` `#EmmanuelleNacht` `#QuintusFassbinder` `#KarlFranz` `#TzeentchChaosGate` `#PrinceHergard` `#ErnstHeidlemann` `#Tzeentch`
+- **Tags** : `#Bögenhafen` `#Altdorf` `#Weissbruck` `#OrdoSeptenarius` `#PurpleHand` `#CouronneRouge` `#Teugen` `#Gideon` `#Sheerargetru` `#KastorLieberung` `#Magirius` `#Steinhäger` `#Haagen` `#Ruggbroder` `#Quartjin` `#Berebeli` `#AdolphusKuftsos` `#EmmanuelleNacht` `#QuintusFassbinder` `#KarlFranz` `#TzeentchChaosGate` `#PrinceHergard` `#ErnstHeidlemann` `#Tzeentch`
 
 ### Timeline in-game
 
@@ -60,7 +60,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **Plot Coach** — Coche **Ratchett Lines** disponible pour Altdorf, cochers **Gunnar et Hultz** ivres. À table : **"Four Seasons"** nommée (mais canon : Ratchett Lines, Four Seasons est la rivale). Inversion mineure.
 - **Plot Phillipe Descartes** (gambler bretonnien tricheur) — joue aux cartes contre Skippy, Pathsokar, Anselm. Gagne, **pas démasqué à table** (canon : 8 _SL_ Sleight of Hand pour tricher, Plot 7 du jeu).
 - **Plot Lady Isolde + Janna + Marie** (noble fugitive vers Altdorf pour mariage forcé) — présente, peu interactive à table.
-- **Plot Ernst Heidlemann** ("étudiant en magie" — réellement **cultiste du Red Crown (Tzeentch)**, transporte des préparations à Doktor Schmidt à l'Université d'Altdorf) — Elvira tente de sympathiser, il se dérobe.
+- **Plot Ernst Heidlemann** ("étudiant en magie" — réellement **cultiste de la Couronne Rouge (Tzeentch)**, transporte des préparations à Doktor Schmidt à l'Université d'Altdorf) — Elvira tente de sympathiser, il se dérobe.
 - **Plot affiche Prince Héritier Hergard** — Phineas la voit, juge "mauvaise idée".
 
 **Hors-canon** : arrivée d'**Anselm** (herboriste/sorcier renégat) et **Pathsokar** (chasseur de prime) — tous deux du même village, cherchent **Filianore** (femme perdue de Pathsokar) depuis des années. **Homebrew critique** : Pathsokar ressemble à Kastor (futur plot S5).
@@ -72,7 +72,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - Ernst Heidlemann est un étudiant timide en magie.
 
 ### MJ-only S4
-- **Ernst Heidlemann** : cultiste **Red Crown (Tzeentch)**. Apporte des préparations magiques (6 fioles de liquides verts) à un certain **Doktor Schmidt** à l'Université d'Altdorf. Le livre qu'il lit a une fausse couverture (*De Vitae Occultae Daemoniis*). **Réapparaît en S22+ (Death on the Reik)** dans le complot du Signal Tower / Aynjulls Isembeard / Red Crown.
+- **Ernst Heidlemann** : cultiste **de la Couronne Rouge (Tzeentch)**. Apporte des préparations magiques (6 fioles de liquides verts) à un certain **Doktor Schmidt** à l'Université d'Altdorf. Le livre qu'il lit a une fausse couverture (*De Vitae Occultae Daemoniis*). **Réapparaît en S22+ (Death on the Reik)** dans le complot du Signal Tower / Aynjulls Isembeard / Couronne Rouge.
 - **Blackie le corbeau** (mascotte de Gustav le tavernier) est en fait un **agent magique inconnu** qui peut réciter à voix haute le livre d'Ernst → invocation possible d'un démon Fhluger'dagh. **Non déclenché à table** (les PJ n'ont pas exposé Ernst).
 - **Gustav Fondleburger** : possible guetteur pour bandits (option canon — pas activé à table).
 
@@ -335,7 +335,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 | **Gottri Gurnisson** | EiS ch.6 l.441-446 | [MORT] (avant S10) | Nain ivre, sacrifié par Gideon pour invoquer Guardian Daemon. |
 | **Knud Cratinx** | EiS ch.2 l.223-231 (statbloc) | [MORT] S5 | Mutant Outlaw, **Thorny Scales**. Tué par les PJ. |
 | **Rolf Hurtsis** | EiS ch.2 l.159-169 (statbloc) | [MORT] S5 | Mutant friend ex-ami d'un PJ Rogue (canon). Probablement non-déclenché homebrew. |
-| **Ernst Heidlemann** | EiS ch.1 l.447-461 (statbloc) | [VIVANT] [ENNEMI ACTIF — RED CROWN] | **Cultiste Red Crown Tzeentch**, transporte préparations magiques. **Réapparait Arc 4 Death on the Reik (Signal Tower).** |
+| **Ernst Heidlemann** | EiS ch.1 l.447-461 (statbloc) | [VIVANT] [ENNEMI ACTIF — COURONNE ROUGE] | **Cultiste de la Couronne Rouge Tzeentch**, transporte préparations magiques. **Réapparait Arc 4 Death on the Reik (Signal Tower).** |
 | **Phillipe Descartes** | EiS ch.1 l.476-488 (statbloc) | [VIVANT] | Gambler bretonnien, hustler. Pas démasqué à table. |
 | **Lady Isolde von Strudeldorf** + Janna Elleiner + Marie Schutz | EiS ch.1 l.402-439 (statblocs) | [VIVANT] | Noble fugitive, sa maid, sa garde du corps. Peu interactive à table. |
 | **Gunnar et Hultz** | EiS ch.1 l.360+ | [VIVANT] | Cochers Ratchett Lines (à table : "Four Seasons"). |
@@ -359,7 +359,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **`FIL-15` Jochen Haagen / mines Schmerzeit / Col du Feu Noir** → 3e partenaire Bögenhafen, opération minière continue, lien direct vers Ghal Maraz Arc 7.
 - **`FIL-16` Quintus Fassbinder anti-Main Pourpre** → reviendra Arc 7 ch.8 EiR comme contact à Altdorf.
 - **`FIL-17` Elvyra Kleinestun pharmacienne** → Arc 4 (à sauver) + Arc 7 (pion de Gideon, empoisonne Karl-Franz).
-- **`FIL-18` Ernst Heidlemann Red Crown** → Arc 4 Death on the Reik (Signal Tower).
+- **`FIL-18` Ernst Heidlemann Couronne Rouge** → Arc 4 Death on the Reik (Signal Tower).
 - **`FIL-19` Karl-Franz a un double** → Arc 4 Horned Rat (Hermann von Feilbach).
 
 ### Forts
@@ -392,7 +392,7 @@ Selon le canon EiS, l'aventure démarre fin Jahrdrung 2512 IC (la lettre d'héri
 - **FIL-15** — Haagen / mines Schmerzeit / Col du Feu Noir — OUVERT
 - **FIL-16** — Quintus Fassbinder (anti-Main Pourpre, contact Altdorf futur) — OUVERT
 - **FIL-17** — Elvyra Kleinestun (future pharmacienne empoisonneuse) — OUVERT
-- **FIL-18** — Ernst Heidlemann (Red Crown, sera Arc 4) — OUVERT
+- **FIL-18** — Ernst Heidlemann (Couronne Rouge, sera Arc 4) — OUVERT
 - **FIL-19** — Karl-Franz a un double (révélation Arc 4) — OUVERT
 - **FIL-20** — Franz Steinhäger corrompu survivant — OUVERT
 - **FIL-21** — Heinrich Steinhäger ambitieux — OUVERT

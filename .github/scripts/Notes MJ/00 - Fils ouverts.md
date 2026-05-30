@@ -140,12 +140,12 @@
 - **Réactivation canon** : Arc 4 DotR (PJ doivent l'aider, canon EiS ch.6) + Arc 7 EiR (pharmacienne personnelle de Yorri, manipulée par Gideon, fournit préparations Purple Brain Pox à Kappelmuller pour Karl-Franz).
 - **Liens** : `Arc 4` · `Arc 7`
 
-### FIL-18 — Ernst Heidlemann (Red Crown Tzeentch)
+### FIL-18 — Ernst Heidlemann (Couronne Rouge Tzeentch)
 - **Statut** : OUVERT
 - **Né en** : S4 (Arc 2)
-- **Dernier mouvement** : S4 — vu au Coach and Horses Inn, transporte préparations magiques à "Doktor Schmidt" à l'Université d'Altdorf. Wizard's apprentice Tzeentch (Red Crown — rival Main Pourpre).
+- **Dernier mouvement** : S4 — vu au Coach and Horses Inn, transporte préparations magiques à "Doktor Schmidt" à l'Université d'Altdorf. Wizard's apprentice Tzeentch (Couronne Rouge — rival Main Pourpre).
 - **Réactivation canon** : Arc 4 DotR (réapparait dans le complot Signal Tower / Aynjulls Isembeard).
-- **Liens** : `Arc 4` · Red Crown faction
+- **Liens** : `Arc 4` · faction de la Couronne Rouge
 
 ### FIL-19 — Karl-Franz a un double (Hermann von Feilbach)
 - **Statut** : OUVERT (révélation graduelle)
@@ -176,7 +176,7 @@
 - **Statut** : OUVERT (jamais affrontée à table)
 - **Né en** : pré-campagne (Kastor était son Magister Impedimentae)
 - **Dernier mouvement** : Affidavit signé à Nuln (3 témoins) confirme cellule active à Nuln. Kastor mort = vacance Magister Impedimentae.
-- **Précision** : la cellule n'a pas été directement amputée par les événements Arc 4 (Etelka = Red Crown, pas MP — pas un coup contre cette cellule). **Reste à l'écran**.
+- **Précision** : la cellule n'a pas été directement amputée par les événements Arc 4 (Etelka = Couronne Rouge, pas MP — pas un coup contre cette cellule). **Reste à l'écran**.
 - **Réactivation** : Arc 7 EiR (révélation canon : cellule Nuln distincte de cellule Altdorf, recrutait les 9 Yeux à l'origine).
 - **Liens** : [[Nuln]] · `Arc 7`
 
@@ -397,14 +397,14 @@
 - **Hooks** : (a) Belladonna rappelle les PJ pour service ultérieur (Arc 5+) ; (b) une faction rivale les coince à cause de l'affiliation ; (c) Emmanuelle (Nuln) reconnaît leur statut Blue Heron tier 1.
 - **Liens** : [[Luigi Belladonna]] · [[Blue Heron]] · [[Emmanuelle von Liebwitz]] · [[Kemperbad]] · [[Nuln]]
 
-### FIL-50 — Carnet d'Etelka gardé par Filianore (matériel Red Crown récupéré par MP)
-- **Statut** : OUVERT (récupération de renseignement contre la Red Crown)
+### FIL-50 — Carnet d'Etelka gardé par Filianore (matériel de la Couronne Rouge récupéré par MP)
+- **Statut** : OUVERT (récupération de renseignement contre la Couronne Rouge)
 - **Né en** : S24 (Arc 4)
-- **Dernier mouvement** : S24 — Filianore trouve le carnet d'Etelka dans la mine, le garde précieusement. **Ne le rend pas à Nacht** (la couverture « espionne anti-MP » ne nécessite pas un carnet Red Crown — elle peut prétexter sans difficulté).
-- **Contenu probable** : **notes magiques** (sorts, démonologie Tzeentch) + **références cellule Red Crown régionale** (contacts Altdorf via Doktor Schmidt, signes de reconnaissance Red Crown, plan régional Reikland est) + itinéraire et plan Barren Hills + **correspondance avec Johannes Teugen** (récit S22 mentionne ce lien). **Valeur inestimable** pour une cultiste MP rivale (Filianore peut traquer/saboter la Red Crown).
-- **Lecture MJ** : Filianore = cultiste MP (FIL-28). Elle récupère **du renseignement Red Crown** exploitable contre la rivale Tzeentch de sa MP. **Convergence avec FIL-44** (ossements d'enfant) = Filianore consolide une collection d'artefacts Tzeentch + de renseignements en vue de la Croix de Lilas S33.
-- **Hooks** : (a) Nacht réclame le carnet, Filianore prétexte ; (b) Filianore utilise les sorts du carnet ; (c) un autre agent Red Crown cherche à récupérer le carnet de la défunte Etelka ; (d) le carnet contient un indice menant à Doktor Schmidt (Altdorf) exploitable par les PJ s'ils le lisaient ; (e) la correspondance Etelka-Teugen révèle un pont Tzeentch Bögenhafen-Grissenwald.
-- **Liens** : Filianore (PJ) · [[Etelka Herzen]] · [[Emmanuelle Nacht]] (trahie sans savoir) · [[Red Crown]] (renseignement récupéré) · [[Main Pourpre]] (Filianore appartient) · FIL-18 (Heidlemann mort, Schmidt latent) · FIL-28
+- **Dernier mouvement** : S24 — Filianore trouve le carnet d'Etelka dans la mine, le garde précieusement. **Ne le rend pas à Nacht** (la couverture « espionne anti-MP » ne nécessite pas un carnet de la Couronne Rouge — elle peut prétexter sans difficulté).
+- **Contenu probable** : **notes magiques** (sorts, démonologie Tzeentch) + **références cellule de la Couronne Rouge régionale** (contacts Altdorf via Doktor Schmidt, signes de reconnaissance de la Couronne Rouge, plan régional Reikland est) + itinéraire et plan Barren Hills + **correspondance avec Johannes Teugen** (récit S22 mentionne ce lien). **Valeur inestimable** pour une cultiste MP rivale (Filianore peut traquer/saboter la Couronne Rouge).
+- **Lecture MJ** : Filianore = cultiste MP (FIL-28). Elle récupère **du renseignement de la Couronne Rouge** exploitable contre la rivale Tzeentch de sa MP. **Convergence avec FIL-44** (ossements d'enfant) = Filianore consolide une collection d'artefacts Tzeentch + de renseignements en vue de la Croix de Lilas S33.
+- **Hooks** : (a) Nacht réclame le carnet, Filianore prétexte ; (b) Filianore utilise les sorts du carnet ; (c) un autre agent de la Couronne Rouge cherche à récupérer le carnet de la défunte Etelka ; (d) le carnet contient un indice menant à Doktor Schmidt (Altdorf) exploitable par les PJ s'ils le lisaient ; (e) la correspondance Etelka-Teugen révèle un pont Tzeentch Bögenhafen-Grissenwald.
+- **Liens** : Filianore (PJ) · [[Etelka Herzen]] · [[Emmanuelle Nacht]] (trahie sans savoir) · [[Couronne Rouge]] (renseignement récupéré) · [[Main Pourpre]] (Filianore appartient) · FIL-18 (Heidlemann mort, Schmidt latent) · FIL-28
 
 ### FIL-51 — Autel Rhya à Grissenwald
 - **Statut** : OUVERT (ancrage positif)
@@ -536,12 +536,12 @@
 - **Hooks** : (a) faux accident d'éboulement ; (b) démasquer Wasserburg ; (c) prouver perversion doctrinale sigmarite.
 - **Liens** : [[Night Vigil]] · Rauf Wasserburg · [[Sheerargetru]] (source ultime des prophéties pervertis)
 
-### FIL-68 — Diesdorf siege / Red Crown coup (Detlef Rotlander) — sous-intrigue parallèle
+### FIL-68 — Diesdorf siege / coup de la Couronne Rouge (Detlef Rotlander) — sous-intrigue parallèle
 - **Statut** : OUVERT (scénario indépendant Companion ch. 11)
 - **Né en** : Arc 7 ch. 9-10 (route Altdorf vers Col du Feu Noir)
 - **Réactivation canon** : EiR Companion ch. 11 *The Siege of Diesdorf*. Peut être déclenché par Gideon pour ralentir les PJ.
 - **Hooks** : (a) PJ deviennent membres du conseil de Diesdorf ; (b) traque de Rotlander ; (c) décision sur le Gor « Red » ; (d) intrigue politique multi-jours (5-6 jours de décisions).
-- **Liens** : [[Detlef Rotlander]] · [[Red (Gor captif)]] · [[Red Crown]] · [[Etelka Herzen]] (si vivante, chef horde — déjà morte si tuée Arc 4) · Wernor Noll (allié potentiel) · [[Gideon]] (manipulateur indirect)
+- **Liens** : [[Detlef Rotlander]] · [[Red (Gor captif)]] · [[Couronne Rouge]] · [[Etelka Herzen]] (si vivante, chef horde — déjà morte si tuée Arc 4) · Wernor Noll (allié potentiel) · [[Gideon]] (manipulateur indirect)
 
 ### FIL-69 — Hollzauber / kidnapping Elvyra (lien Gideon)
 - **Statut** : OUVERT (latent — statut Hollzauber incertain)

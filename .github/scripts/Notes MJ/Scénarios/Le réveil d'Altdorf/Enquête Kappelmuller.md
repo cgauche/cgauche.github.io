@@ -1,6 +1,6 @@
 # Enquête Kappelmuller — déclencheurs Maria-Luise
 
-> Pistes d'enquête sur Henrik Kappelmuller, médecin personnel de l'Empereur. Toute approche substantielle dans l'un de ces canaux active le **trigger Maria-Luise** (voir [[Hub#Détail du trigger Maria-Luise|Hub §Trigger]]) — billet livré au Manoir Helstein entre 16h et 18h.
+> Pistes d'enquête sur Henrik Kappelmuller, médecin personnel de l'Empereur. Toute approche substantielle dans l'un de ces canaux active le **trigger Maria-Luise** (voir [[Hub]] §Triggers) — billet livré au Manoir Helstein entre 16h et 18h.
 >
 > Sources canon : *Empire in Ruins* ch.8 l.49-103.
 
@@ -120,7 +120,7 @@ Avec un **test Ragot +0** ou un **canal solide** (Bertholdt + serviteurs Todbrin
 ### Ce que ça apporte aux PJ
 
 - Confirmation que Kappelmuller est **isolé socialement** au Palais — pas d'amis, pas de relais, juste deux visiteurs.
-- **Description de l'enfant** = lien avec la silhouette aperçue en scène 3 (Glissement Reikerbahn). Premier rapprochement possible.
+- **Description de l'enfant** = lien avec la silhouette aperçue au [[51 - Glissement Reikerbahn|Glissement Reikerbahn]]. Premier rapprochement possible.
 - **Description de la femme** = Elvyra Kleinestun. Croisement avec la Piste 2.
 
 ### Effet trigger Maria-Luise
@@ -236,9 +236,9 @@ En mission à Ubersreik depuis trois semaines. **Pas d'audience possible** dans 
 
 **MJ-only** : von Teufelsmilch est **infiltré Main Pourpre** (canon EiR ch.13). Tout ce qu'on lui dit remonte à [[Yann Zuntermein|Zuntermein]] dans l'heure. Conséquences selon ce qui est révélé :
 
-- **Mention de Kappelmuller** : Zuntermein sait qu'il est éventé. Décision possible d'évacuer Kappelmuller dans la nuit — phases 2A et 3 de [[14 - Visite Karl-Franz]] annulées si pas déjà jouées d'ici là.
+- **Mention de Kappelmuller** : Zuntermein sait qu'il est éventé. Décision possible d'évacuer Kappelmuller dans la nuit — phases 2A et 3 de [[32 - Visite Karl-Franz]] annulées si pas déjà jouées d'ici là.
 - **Mention de Fassbinder ou des soupçons MP** : Zuntermein renforce la surveillance. **Bascule Variante C globale forcée** (suivis Spionwerber, possibles arrestations).
-- **Mention de l'enfant à coupe au bol** : Gideon alerté. Silhouette 2/3 en [[18 - Départ matinal]] devient menaçante au lieu d'observation neutre.
+- **Mention de l'enfant à coupe au bol** : Gideon alerté. Silhouette 2/3 en [[61 - Départ matinal]] devient menaçante au lieu d'observation neutre.
 
 **Pas d'effet trigger Maria-Luise** — von Teufelsmilch garde l'info pour Zuntermein.
 
@@ -250,7 +250,7 @@ En mission à Ubersreik depuis trois semaines. **Pas d'audience possible** dans 
 
 ### Exemples d'activateurs
 
-- **Elvira au Rathaus** ([[12 - Elvira au Rathaus]]) : si Elvira mentionne explicitement Kappelmuller ou des doutes sur la santé de l'Empereur dans son audience avec le Burgomaître Heinz, l'information remonte à la cour dans la journée (Heinz a des canaux administratifs).
+- **Saisine au cabinet du Grand Chancelier** ([[21 - Saisine au cabinet du Grand Chancelier]]) : si Elvira ou un PJ mentionne explicitement Kappelmuller ou des doutes sur la santé de l'Empereur lors de l'audience Immanuel-Ferrand, l'information remonte directement à la Chambre Noire — donc à Zuntermein — dans la journée.
 - **Harangue publique** sur une place (Reikerbahn, Domplatz) ou dans une taverne : un PJ qui exprime ouvertement des soupçons sur la santé de l'Empereur. Charme/Commandement +0 pour rassembler 15-30 sympathisants.
 - **Question en chapelle** auprès d'un prêtre sigmarite ou shallyan : transmission via réseau religieux courtisan.
 
@@ -259,7 +259,7 @@ En mission à Ubersreik depuis trois semaines. **Pas d'audience possible** dans 
 Une mention publique trop directe :
 - Attire l'attention du **Comité de Vigilance Citoyen** dans la demi-heure (3-5 gros bras, harcèlement ou bagarre).
 - Risque d'accusation de **lèse-majesté** si le ton est jugé séditieux.
-- Possible bascule **Variante B globale** (PJ wanted Sigmarite ou civique, voir [[Hub#Variantes selon les variables d'état|Hub §Variantes]]).
+- Possible bascule **Variante B globale** (PJ wanted Sigmarite ou civique, voir [[Hub]] §Variables d'état).
 
 ### Effet trigger Maria-Luise
 
@@ -277,7 +277,7 @@ Un seul activateur dans n'importe laquelle des cinq pistes suffit pour déclench
 
 ## Conséquences si aucun activateur
 
-Aucune enquête Kappelmuller dans la journée = pas de billet = pas de rencontre Maria-Luise = scènes 13-17 sautées entièrement.
+Aucune enquête Kappelmuller dans la journée = pas de billet = pas de rencontre Maria-Luise = séquence du soir ([[31 - Approche via Lina]] + [[32 - Visite Karl-Franz]]) sautée entièrement.
 
 Les PJ ratent :
 - Identification Kappelmuller comme poseur de sort et assassin Main Pourpre.
@@ -296,7 +296,7 @@ Maria-Luise écrira aux PJ à Nuln plus tard avec les aveux d'un Kappelmuller in
 
 ## Liens
 
-- [[Hub#Détail du trigger Maria-Luise|Hub §Trigger Maria-Luise]]
+- [[Hub]] §Triggers (trigger Maria-Luise)
 - [[Henrik Kappelmuller]]
 - [[Elvyra Kleinestun]]
 - [[Maria-Luise von Walfen]]
@@ -304,5 +304,5 @@ Maria-Luise écrira aux PJ à Nuln plus tard avec les aveux d'un Kappelmuller in
 - [[Hermine Liebwitz von Decker und Hanulf]]
 - [[Yann Zuntermein]]
 - [[Karl-Heinz Wasmeier]]
-- [[12 - Elvira au Rathaus]] (Piste 5 connectée)
-- [[13 - Approche via Lina]] (suite si billet accepté)
+- [[21 - Saisine au cabinet du Grand Chancelier]] (Piste 5 connectée)
+- [[31 - Approche via Lina]] (suite si billet accepté)

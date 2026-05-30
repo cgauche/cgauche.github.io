@@ -61,7 +61,7 @@
 - **Réseau Anti-Main-Pourpre** : axe central de la Régence. Si les PJ s'allient à Nacht à long terme, ils peuvent recevoir des missions ponctuelles contre des cellules pourpres dans le Reikland.
 
 ## Hooks de retour
-- **Nouvelle mission Filianore Altdorf** [S22+] — déclencheur d'arc 4 (Mort sur le Reik). Liée à Etelka Herzen (Red Crown canon DotR ch.4).
+- **Nouvelle mission Filianore Altdorf** [S22+] — déclencheur d'arc 4 (Mort sur le Reik). Liée à Etelka Herzen (Couronne Rouge canon DotR ch.4).
 - **Témoin Sigmund Jundfreud refait surface** : Nacht le sait avant tout le monde, peut envoyer les PJ.
 - **Cellule pourpre à Ubersreik** : si Engel est révélé agent Tzeentch, Nacht peut commander une frappe.
 - **Visite de Karl-Franz à Ubersreik** (hypothétique) — Nacht orchestrerait la sécurité, les PJ comme garde rapprochée discrète.

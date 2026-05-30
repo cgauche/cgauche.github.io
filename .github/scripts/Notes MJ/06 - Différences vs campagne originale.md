@@ -111,7 +111,7 @@ La **prise d'Ubersreik** par l'empereur a été manipulée par **Zuntermein + Ho
 ## Arc 4 (S23-29) — Death on the Reik
 
 ### Conforme
-- Etelka Herzen (Red Crown canon DotR ch.4 l.6 — à ne pas confondre avec la Main Pourpre), pierre céleste, Wittgenstein :.
+- Etelka Herzen (Couronne Rouge canon DotR ch.4 l.6 — à ne pas confondre avec la Main Pourpre), pierre céleste, Wittgenstein :.
 
 ### Divergences (homebrew)
 - **Œil régénéré de Mark au phare [S26]** : don MJ.

@@ -3,7 +3,7 @@
 > Référence transversale du scénario [[Hub|Le réveil d'Altdorf]].
 > Récapitule **les directions que les PJ peuvent choisir** au départ d'Altdorf, et les implications de chaque choix.
 >
-> Cette décision se prend en fin d'après-midi ou pendant la nuit (avant l'aube du 5 Erntezeit). Voir [[18 - Départ matinal]].
+> Cette décision se prend en fin d'après-midi ou pendant la nuit (avant l'aube du 5 Erntezeit). Voir [[61 - Départ matinal]].
 
 ## Ce que les PJ savent en fin de scénario
 
@@ -113,7 +113,7 @@ Voir [[11 - Cadre Le réveil d'Altdorf]] §calendrier 12 mois pour la chronologi
 ## Liens
 
 - [[Hub]]
-- [[18 - Départ matinal]]
+- [[61 - Départ matinal]]
 - [[11 - Cadre Le réveil d'Altdorf]] — framework des 3 pistes coffre
 - [[Fassbinder - documents bureau]] — handouts à interpréter
 - PNJ destinations : [[Heinrich Todbringer]] (Middenheim), [[King Alrik Ranulfsson]] (Karak Hirn), Kaslain (Nuln), Aglim (Talabheim — à créer si activé)

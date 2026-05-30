@@ -3,7 +3,7 @@
 > Référence transversale du scénario [[Hub|Le réveil d'Altdorf]].
 > Aide à dimensionner la séance selon le temps disponible.
 >
-> La structure scénario est modulaire (voir [[Hub]] §Menu et §Triggers). Les tableaux ci-dessous donnent le **pacing du flux par défaut** — utile si la table suit l'orientation suggérée. Si elle dévie, le MJ adapte en piochant dans le Menu du Hub.
+> La structure scénario est modulaire (voir [[Hub]] §Index d'intentions et §Triggers). Les tableaux ci-dessous donnent le **pacing du flux par défaut** — utile si la table suit l'orientation suggérée. Si elle dévie, le MJ adapte en piochant dans l'Index d'intentions du Hub.
 
 ## Version 3h compressée (séance unique, flux par défaut)
 
@@ -12,13 +12,13 @@ Si la table suit le flux par défaut et que tu veux faire tenir le scénario en 
 | Bloc | Durée | Module |
 |---|---|---|
 | Setup + briefing | 10-15 min | [[01 - Briefing Helstein]] |
-| Trajet + glissement | 35-45 min | [[02 - Trajet vers l'université]] + [[03 - Glissement Reikerbahn]] |
-| Consultation Fassbinder | 25-30 min | [[04 - Bureau Fassbinder]] |
-| Arrestation publique | 10-15 min | [[05 - Arrestation et fuite]] Phase A |
-| Fuite par la bibliothèque | 10-15 min | [[05 - Arrestation et fuite]] Phase B |
-| Après-midi (compressé) | 15-25 min | [[07 - Après-midi — hub]] + 1-2 options |
-| Visite Empereur | 50-60 min | [[13 - Approche via Lina]] → [[14 - Visite Karl-Franz]] |
-| Départ | 10 min | [[18 - Départ matinal]] |
+| Trajet + glissement | 35-45 min | [[Ambiance#Déplacements dans Altdorf\|Trajet rive sud]] + [[51 - Glissement Reikerbahn]] |
+| Consultation Fassbinder | 25-30 min | [[11 - Consultation Fassbinder]] |
+| Arrestation publique | 10-15 min | [[13 - Arrestation et fuite]] Phase A |
+| Fuite par la bibliothèque | 10-15 min | [[13 - Arrestation et fuite]] Phase B |
+| Après-midi (compressé) | 15-25 min | 1-2 modules au choix (voir [[Hub]] §Index d'intentions) |
+| Visite Empereur | 50-60 min | [[31 - Approche via Lina]] → [[32 - Visite Karl-Franz]] |
+| Départ | 10 min | [[61 - Départ matinal]] |
 
 **Total** : ~175 min plein + Module 5 (visite Empereur). ~130 min si Maria-Luise non activée.
 Buffer 30 min RP imprévu.
@@ -37,7 +37,7 @@ Si la table veut creuser, le scénario peut s'étaler sur 2-3 séances :
 
 ### Séance 2 — Après-midi et soirée (3h)
 - Mark au temple Shallya
-- Elvira au Rathaus
+- Saisine au cabinet du Grand Chancelier
 - Enquête Kappelmuller (pistes activées)
 - Rumeurs supplémentaires
 - Rumeur Fassbinder mort
@@ -57,8 +57,8 @@ Si la table veut creuser, le scénario peut s'étaler sur 2-3 séances :
 
 ### Si la table est lente (>3h pour la séance 1 compressée)
 Couper :
-- [[07 - Après-midi — hub]] entièrement (saut direct au soir)
-- Le prêcheur Stollenplatz dans [[02 - Trajet vers l'université]]
+- Les modules d'après-midi non essentiels (saut direct au soir)
+- Le prêcheur Stollenplatz du trajet (voir [[Ambiance#Déplacements dans Altdorf|Déplacements]])
 - Réduire les rumeurs
 
 ### Si la table est rapide (<3h)
@@ -68,16 +68,16 @@ Ajouter :
 - Plus de rumeurs
 
 ### Si la table veut creuser
-Activer toutes les sous-options de [[07 - Après-midi — hub]]. Étaler sur 2-3 séances.
+Activer plusieurs modules d'après-midi (Shallya, saisine, enquête Kappelmuller — voir [[Hub]] §Index d'intentions). Étaler sur 2-3 séances.
 
 ## Bornes incompressibles
 
 Certaines scènes ne peuvent pas être coupées sans perte :
 - [[01 - Briefing Helstein]] — pose le mandat
-- [[03 - Glissement Reikerbahn]] — première silhouette + cohérence narrative
-- [[04 - Bureau Fassbinder]] + [[05 - Arrestation et fuite]] — moteur principal
-- [[05 - Arrestation et fuite]] — bascule tactique (arrestation publique, témoins universitaires)
-- [[18 - Départ matinal]] — silhouette 2/3 + cliffhanger
+- [[51 - Glissement Reikerbahn]] — première silhouette + cohérence narrative
+- [[11 - Consultation Fassbinder]] + [[13 - Arrestation et fuite]] — moteur principal
+- [[13 - Arrestation et fuite]] — bascule tactique (arrestation publique, témoins universitaires)
+- [[61 - Départ matinal]] — silhouette 2/3 + cliffhanger
 
 Tout le reste est modulable.
 

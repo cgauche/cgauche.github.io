@@ -1,0 +1,984 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Dossier — Activités cultistes (Q. Fassbinder)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Kalam:wght@300;400&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+  body {
+    margin: 0; padding: 2em 0;
+    background: #2a1a0a;
+    background-image:
+      radial-gradient(ellipse at center, rgba(80,50,20,0.4) 0%, transparent 70%);
+    font-family: 'Cormorant Garamond', serif;
+    color: #2a1a08;
+  }
+  .file {
+    max-width: 17cm; margin: 0 auto;
+  }
+  .page {
+    background: #e0cea0;
+    background-image:
+      radial-gradient(ellipse at 10% 15%, rgba(120,80,40,0.1) 0%, transparent 35%),
+      radial-gradient(ellipse at 90% 85%, rgba(100,60,20,0.08) 0%, transparent 40%),
+      linear-gradient(135deg, #e8d8b0 0%, #d5c094 50%, #ddc89f 100%);
+    padding: 2cm 2.2cm 2cm 2.2cm;
+    margin-bottom: 8px;
+    position: relative;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    min-height: 25cm;
+    box-sizing: border-box;
+    page-break-after: always;
+    break-after: page;
+  }
+  .page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+  @media print {
+    body { padding: 0 !important; background: white !important; }
+    .file { max-width: none !important; margin: 0 !important; }
+    .page {
+      margin: 0 !important;
+      box-shadow: none !important;
+      width: 210mm;
+      height: 297mm;
+      min-height: 297mm;
+      padding: 2cm 2.2cm;
+    }
+  }
+  /* Page de titre */
+  .title-page {
+    text-align: center; padding: 6cm 2cm 2cm 2cm;
+  }
+  .title-page .stamp {
+    font-family: 'Caveat', cursive;
+    color: #6a2010;
+    font-size: 1em;
+    letter-spacing: 0.15em;
+    border: 2px solid #6a2010;
+    display: inline-block;
+    padding: 0.3em 1em;
+    margin-bottom: 3em;
+    transform: rotate(-3deg);
+    opacity: 0.85;
+  }
+  .title-page h1 {
+    font-size: 2.2em; font-weight: 600; margin: 0;
+    letter-spacing: 0.04em; color: #2a1a08;
+    line-height: 1.2;
+  }
+  .title-page .subtitle {
+    font-style: italic; font-size: 1.15em; margin-top: 1.2em;
+    color: #5a3818; line-height: 1.5;
+  }
+  .title-page .meta {
+    margin-top: 4em;
+    font-family: 'Caveat', cursive;
+    font-size: 1.4em;
+    color: #3a2010;
+    line-height: 1.6;
+  }
+  /* Pages courantes */
+  h2 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.6em; font-weight: 600;
+    color: #2a1a08;
+    margin: 0 0 0.3em 0;
+    border-bottom: 2px solid #6a2010;
+    padding-bottom: 0.2em;
+    letter-spacing: 0.02em;
+  }
+  h3 {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 1.2em; font-weight: 600;
+    color: #3a2010;
+    margin: 1em 0 0.4em 0;
+    font-variant: small-caps;
+  }
+  .section-meta {
+    font-style: italic; font-size: 0.85em;
+    color: #6b4f2f;
+    margin-bottom: 1em;
+  }
+  p { font-size: 1em; line-height: 1.5; margin: 0.5em 0; }
+  ul { font-size: 1em; line-height: 1.5; }
+  ul li { margin: 0.2em 0; }
+  em { font-style: italic; color: #4a2a10; }
+  strong { color: #2a1a08; }
+  .warning {
+    border-left: 3px solid #6a2010;
+    padding-left: 0.8em;
+    margin: 1em 0;
+    font-style: italic;
+    color: #4a2a10;
+    font-size: 0.95em;
+  }
+  /* Tableau d'interrogatoires */
+  table {
+    width: 100%; border-collapse: collapse;
+    margin: 1em 0; font-size: 0.92em;
+  }
+  th {
+    background: rgba(106,32,16,0.15);
+    color: #2a1a08;
+    font-weight: 600;
+    text-align: left; padding: 0.4em 0.6em;
+    border-bottom: 1.5px solid #6a2010;
+    font-variant: small-caps;
+  }
+  td {
+    padding: 0.4em 0.6em;
+    border-bottom: 1px solid rgba(106,32,16,0.2);
+    vertical-align: top;
+    line-height: 1.4;
+  }
+  /* Symboles SVG */
+  .symbol-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.2em;
+    margin: 1em 0;
+  }
+  .symbol-card {
+    border: 1px solid rgba(106,32,16,0.3);
+    padding: 0.8em;
+    background: rgba(255,255,240,0.2);
+    text-align: center;
+  }
+  .symbol-card svg {
+    width: 70px; height: 70px;
+    margin-bottom: 0.4em;
+  }
+  .symbol-card .label {
+    font-variant: small-caps;
+    font-weight: 600;
+    color: #2a1a08;
+    font-size: 0.95em;
+  }
+  .symbol-card .desc {
+    font-size: 0.78em;
+    font-style: italic;
+    color: #4a2a10;
+    margin-top: 0.3em;
+    line-height: 1.3;
+  }
+  /* Symbole inline d'une section (legacy — plus utilisé) */
+  .cult-symbol {
+    margin: 1.5em auto 0.5em auto;
+    padding: 0.8em;
+    border: 1px solid rgba(106,32,16,0.3);
+    background: rgba(255,255,240,0.2);
+    max-width: 9cm;
+    text-align: center;
+  }
+  /* Grand symbole pour la page Roue du Chaos */
+  .chaos-wheel {
+    margin: 1em auto;
+    text-align: center;
+  }
+  .chaos-wheel svg {
+    width: 170px; height: 170px;
+  }
+  /* Numérotation pages */
+  .page-num {
+    position: absolute;
+    bottom: 1cm; right: 2cm;
+    font-family: 'Caveat', cursive;
+    color: #6a2010;
+    font-size: 1em;
+  }
+</style>
+</head>
+<body>
+<div class="file">
+
+  <!-- Page de titre -->
+  <div class="page title-page">
+    <div class="stamp">CONFIDENTIEL</div>
+    <h1>Dossier<br>Activités cultistes</h1>
+    <div class="subtitle">
+      Panorama des courants hétérodoxes du Vieux Monde,<br>
+      classés selon la divinité de tutelle
+    </div>
+    <div class="meta">
+      Compilé par Quintus Fassbinder<br>
+      Université d'Altdorf
+    </div>
+  </div>
+
+  <!-- Avant-propos -->
+  <div class="page">
+    <h2>Avant-propos</h2>
+    <div class="section-meta">Pour mes notes — et pour Johannes, si je n'achève pas ce travail.</div>
+
+    <p>Ce dossier est la compilation, au jour le jour, de huit années d'observations — interrogatoires assistés auprès du Marteau d'Argent, lectures à la Bibliothèque du Temple de Verena, correspondances avec mes pairs des cités voisines. Je l'amende dès qu'une information vient à corroborer ou contredire ce que j'y ai consigné. Il ne prétend pas à l'exhaustivité ; il prétend à l'honnêteté méthodique.</p>
+
+    <p>Mon expertise n'est pas égale sur les sept Puissances que j'y traite. Le <strong>Grand Architecte</strong> et ses cultes sont mon terrain familier — j'y consacre près de la moitié du document. <strong>Slaanesh</strong> et <strong>Nurgle</strong> sont mon voisinage d'expertise — recoupements solides, lacunes assumées. <strong>Khorne</strong>, je le traite par devoir et m'en remets aux notes Marteau d'Argent de Middenheim. Le <strong>Roi Cornu</strong> et ses serviteurs sont un sujet où je dois à peu près tout aux ingénieurs nains pour le contemporain et aux annales ulricaines pour l'histoire — qu'ils en soient remerciés. <strong>Solkan</strong> n'est pas une Puissance Ruineuse, mais son extrémisme légal mérite la même vigilance.</p>
+
+    <p>Un mot en aparté : j'ai par ailleurs des doutes sérieux sur l'authenticité du Marteau brandi par nos Empereurs — je le tiens pour une imitation du véritable Ghal Maraz. J'y consacre un autre dossier qui sort du cadre du présent ; Johannes en jugera lorsqu'il sera prêt, il sait où je le range.</p>
+
+    <p>Johannes, si tu lis ces pages sans moi à tes côtés, prends ce qui te sera utile et brûle ce qui te pèse. Le Marteau d'Argent saura te trouver si tu le souhaites ; demande Frère Lehrhardt de ma part.</p>
+    <div class="page-num">Préf.</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §I — TZEENTCH                                                  -->
+  <!-- ============================================================== -->
+
+  <!-- §I.1 Main Pourpre -->
+  <div class="page">
+    <h2>I.1 — La Main Pourpre</h2>
+    <div class="section-meta">Tzeentch — culte le plus étendu de l'Empire et celui dont j'ai le plus de pièces documentaires.</div>
+
+    <h3>Présence et autonomie des cellules</h3>
+    <p>Culte largement implanté à travers le Vieux Monde, organisé en <strong>cellules régionales autonomes</strong> — autant que de cités importantes. Une direction centrale existe en théorie ; en pratique, chaque cellule opère selon son propre conseil et la communication horizontale est rare. Les ordres descendants ne circulent qu'à l'occasion. Cellules confirmées : <strong>Altdorf</strong> (active, interrogatoires réguliers), <strong>Middenheim</strong> (affaire Wasmeier, voir §I.6), <strong>Nuln</strong> (feu Kastor Lieberung, voir §I.6). D'autres cellules supposées dans les cités secondaires.</p>
+
+    <h3>Doctrine</h3>
+    <p>Adoration de Tzeentch sous la forme du <strong>Grand Architecte</strong> — dieu du changement, des manipulations, des transformations occultes. Les membres cherchent en majorité un pouvoir personnel temporel par la voie magique et politique. Plusieurs écoles de pensée co-existent à l'intérieur du culte, sans typologie stable.</p>
+
+    <h3>Hiérarchie d'une cellule type</h3>
+    <p>Structure reconstituée des notes de Wasmeier décodées et des interrogatoires d'Adeptes. <strong>Elle se reproduit à l'identique dans chaque cellule régionale</strong> — Altdorf, Middenheim, Nuln ont chacune leur propre Triumvirat sans coordination supérieure stable.</p>
+    <ul>
+      <li><strong>Triumvirat</strong> — conseil des trois têtes d'Ordo, gouverne la cellule.</li>
+      <li><strong>Magister Magistri</strong> — élu parmi les trois Triumvirs pour diriger la cellule. Identification middenheimoise : Wasmeier (voir §I.6).</li>
+      <li><strong>Magister Impedimentae</strong> — tête de l'<em>Ordo Impedimentae</em> (logistique, blocage). Identification nulnoise : feu Kastor Lieberung.</li>
+      <li><strong>Magister Novitiae</strong> — tête de l'<em>Ordo Novitiae</em> (recrutement).</li>
+      <li><strong>Magister Terribilis</strong> — tête de l'<em>Ordo Terribilis</em> (recherche, stratégie).</li>
+      <li><strong>Adeptes</strong> — opérateurs locaux sous les têtes d'Ordo. Cellule = neuf membres.</li>
+    </ul>
+
+    <h3>Pratiques rituelles</h3>
+    <p>Le Cercle Intérieur de chaque cellule se réunit à <strong>Hexenstag</strong> et à <strong>Geheimnisnacht</strong>, sous la pleine Morrslieb. Robes pourpres et masques. Sacrifice humain attesté en clôture.</p>
+
+    <h3>Signes et communication</h3>
+    <p>Les membres se reconnaissent par une <strong>nomenclature de signes gestuels secrets</strong>, renouvelée régulièrement. Trois sigles reconstitués : pouce pressé sur l'index droit (reconnaissance), main sur l'épaule gauche (urgence), poing fermé contre la hanche (péril). Tout adepte porte un tatouage de la Main Pourpre quelque part sur le corps (voir §I.5) et un <strong>objet pourpre</strong> permanent — vêtement, bague, doublure.</p>
+    <div class="page-num">I.1</div>
+  </div>
+
+  <!-- §I.2 Couronne Rouge -->
+  <div class="page">
+    <h2>I.2 — La Couronne Rouge</h2>
+    <div class="section-meta">Tzeentch — courant prophétique rural et urbain. Hostile aux autres cultes tzeentchéens.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Culte tzeentchéen autonome, distinct des autres courants malgré l'adoration commune du Grand Architecte. Selon recoupements concordants d'interrogatoires et de sources Marteau d'Argent, la Couronne Rouge et la Main Pourpre sont <strong>ennemis acharnés</strong> et se traquent mutuellement.</p>
+
+    <h3>Doctrine</h3>
+    <p>Doctrine prophétique : la Couronne Rouge recueille les <strong>Mutants et les Hommes-Bêtes</strong>, les présente comme bénis du Changeur, et les prépare à un soulèvement violent qui doit éclater à l'apparition d'un « signe ». Texte de référence évoqué dans plusieurs interrogatoires : le <em>Liber Mutandis</em> — proscrit, que je n'ai jamais eu en main.</p>
+
+    <h3>Structure</h3>
+    <p>Cellules très petites — typiquement un sorcier, un ou deux apprentis, plus un cercle local de Mutants ou d'Hommes-Bêtes sympathisants. Titre suprême évoqué : <em>Maître du Changement</em> — jamais identifié individuellement. Quartier général supposé à <strong>Altdorf</strong>, jamais localisé.</p>
+
+    <h3>Méthodes</h3>
+    <p>Les agents urbains se présentent aux Mutants comme amis et protecteurs, sous couvert d'organisations de soutien et de sanctuaires clandestins. Recrutement progressif par l'acceptation de la mutation comme « marque du Changeur ».</p>
+
+    <h3>Implantation</h3>
+    <p>Présence diffuse dans les cités et les marches de l'Empire. Active partout où des Mutants se cachent. À Altdorf elle peine à s'imposer face à la concurrence d'autres mouvements révolutionnaires — paradoxe d'une ville saturée de fronts contestataires.</p>
+    <div class="page-num">I.2</div>
+  </div>
+
+  <!-- §I.3 Courants tzeentchéens annexes — cultes altdorfois -->
+  <div class="page">
+    <h2>I.3 — Courants tzeentchéens annexes</h2>
+    <div class="section-meta">Tzeentch — cultes altdorfois moins documentés que les deux précédents.</div>
+
+    <h3>L'Œil Flétri</h3>
+    <p>Coterie de sorciers altdorfois qui s'affranchissent des restrictions de Teclis et pratiquent la sorcellerie au-delà de leur Vent attitré. Pas formellement voué à Tzeentch, mais fraternise ouvertement avec démonologues et magiciens noirs. Lieu de passage pour les recrues du Grand Architecte.</p>
+
+    <h3>La Cabale</h3>
+    <p>Faction occulte tapie à l'intérieur même de l'Œil Flétri. Manipulerait — selon rumeurs convergentes — des centaines de cultes à travers le monde, y compris la Main Pourpre et la Couronne Rouge à leur insu. Direction attribuée à <strong>Egrimm van Horstmann</strong>, ancien Patriarche du Collège de Lumière passé à Tzeentch — fait connu de tous. Activité documentée à Altdorf : courtiers d'information cultiste, liens avec des cellules dans d'autres cités.</p>
+
+    <h3>La Société des Dés</h3>
+    <p>Petite cellule altdorfoise dont la composition nous échappe en grande partie. Tous leurs actes seraient décidés par jet de dé. Les membres ignorent qu'ils servent Tzeentch — pour eux c'est un jeu de salon. Le Marteau d'Argent soupçonne que les dés tombent moins au hasard qu'il n'y paraît. Recrutement lent et discret ; effectifs estimés faibles.</p>
+    <div class="page-num">I.3</div>
+  </div>
+
+  <!-- §I.4 Réseaux tzeentchéens hors Altdorf -->
+  <div class="page">
+    <h2>I.4 — Réseaux tzeentchéens hors Altdorf</h2>
+    <div class="section-meta">Tzeentch — courants dispersés sur les routes et les rivières du Reikland.</div>
+
+    <h3>L'Œil Vagabond</h3>
+    <p>Réseau tzeentchéen rural plutôt qu'urbain. Recrute des cochers, aubergistes, gardes-routiers et colporteurs des routes du Middenland et du Nordland. Sous prétexte de services aux voyageurs, ils interceptent et copient les correspondances qui passent entre leurs mains. La masse d'information ainsi accumulée alimenterait un registre central — sa localisation reste à identifier, mouvante d'auberge en auberge le long des routes du nord selon les recoupements.</p>
+
+    <h3>L'Étreinte Mouvante</h3>
+    <p>Culte tzeentchéen né, selon ses propres traditions, vers 2006 IC chez les contrebandiers de malpierre venus des ruines de Mordheim le long du Stir. Plusieurs décennies d'exposition à la substance ont muté ces hommes, qui ont alors basculé au service du Changeur. Aujourd'hui présents le long du Stir, du Reik et des rivières riches du Reikland, particulièrement dans les quartiers pauvres d'<strong>Übersreik</strong> et de Kemperbad. Recrutent débardeurs et bateliers en promettant qu'un jour ils auront leur part du flot marchand. Cellule d'Übersreik dirigée selon les notes du Marteau d'Argent par une femme connue publiquement comme experte en anguilles et contrebandière de talent — son nom m'échappe encore.</p>
+
+    <h3>L'Œil Fracturé</h3>
+    <p>Réseau de cultistes-bibliothécaires plutôt que de cellules opérationnelles. Origine : un groupe de correspondants érudits initialement consacrés à compiler savoirs et légendes du Vieux Monde face aux temps troublés. L'un d'eux est tombé sur un texte taché de runes tzeentchéennes, et la corruption a remonté la chaîne par les correspondances. Aujourd'hui, ils collectent tout savoir, communiquent par code complexe, opèrent souvent isolément. Représentant identifié à Übersreik : un maître de la guilde des constructeurs de bateaux. Un mage gris du Collège des Ombres en serait membre — j'ignore s'il est infiltrateur ou converti.</p>
+
+    <h3>Note</h3>
+    <p>Ces courants illustrent un trait propre à Tzeentch : il opère par <em>strate</em> de complotisme et d'aveuglement. Le Marteau d'Argent tend à les sous-estimer parce qu'ils sont peu visibles ; mes années d'étude me poussent à l'inverse à les voir comme des viviers efficaces pour les cultes plus structurés.</p>
+    <div class="page-num">I.4</div>
+  </div>
+
+  <!-- §I.4 Symboles tzeentchéens -->
+  <div class="page">
+    <h2>I.5 — Symboles tzeentchéens</h2>
+    <div class="section-meta">Récapitulatif des marques attestées chez les cultes de Tzeentch.</div>
+
+    <div class="symbol-grid">
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g fill="#6a2010" stroke="#4a1a08" stroke-width="0.5">
+            <path d="M 40 18 C 38 18 36 19 36 22 L 36 36 L 32 36 L 32 24 C 32 22 30 21 28 21 C 26 21 24 22 24 24 L 24 40 L 22 40 L 22 30 C 22 28 20 27 18 27 C 16 27 14 28 14 30 L 14 50 C 14 60 22 66 32 66 L 50 66 C 60 66 64 60 64 50 L 64 35 C 64 33 62 32 60 32 C 58 32 56 33 56 35 L 56 40 L 52 40 L 52 26 C 52 24 50 23 48 23 C 46 23 44 24 44 26 L 44 36 L 40 36 Z"/>
+          </g>
+        </svg>
+        <div class="label">Main Pourpre</div>
+        <div class="desc">J'en ai relevé seize emplacements différents au fil des interrogatoires — paume, nuque, scapulaire, plante des pieds. Toujours pourpre, jamais d'or. Le vêtement pourpre extérieur s'y ajoute, mais le tatouage est le sceau.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 14 32 L 20 56 L 60 56 L 66 32 L 56 40 L 48 26 L 40 38 L 32 26 L 24 40 Z" fill="#8a2a18" stroke="#4a1a08" stroke-width="1.5"/>
+            <circle cx="20" cy="32" r="2" fill="#c54040"/>
+            <circle cx="32" cy="26" r="2" fill="#c54040"/>
+            <circle cx="48" cy="26" r="2" fill="#c54040"/>
+            <circle cx="60" cy="32" r="2" fill="#c54040"/>
+            <circle cx="40" cy="38" r="1.5" fill="#c54040"/>
+            <circle cx="40" cy="50" r="6" fill="#a31a1a" stroke="#4a0808" stroke-width="1"/>
+          </g>
+        </svg>
+        <div class="label">Couronne Rouge</div>
+        <div class="desc">Je l'ai vue brodée à l'intérieur d'une cape — grenat central plus gros qu'un poing d'enfant. Le bijou-couronne se retrouve aussi en sertis d'oreille chez certains Mutants éduqués.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 40 14 C 36 14 32 17 32 24 C 32 30 35 33 35 40 C 35 46 30 50 30 56 C 30 60 33 62 36 62 L 44 62 C 47 62 50 60 50 56 C 50 50 45 46 45 40 C 45 33 48 30 48 24 C 48 17 44 14 40 14 Z" fill="#3a6090" stroke="#1a3050" stroke-width="0.6"/>
+            <path d="M 36 24 C 36 27 38 30 40 32 C 42 30 44 27 44 24" fill="none" stroke="#a0c0e0" stroke-width="1.5"/>
+          </g>
+        </svg>
+        <div class="label">Flamme bleue</div>
+        <div class="desc">Le signe générique de tous les courants tzeentchéens — tracé sous les seuils des autels, gravé au revers des médaillons. Une flamme bleue dans une scène quelconque suffit à m'arrêter, à vérifier.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 40 8 L 45 27 L 60 15 L 52 33 L 71 34 L 54 42 L 68 56 L 49 51 L 51 70 L 40 54 L 29 70 L 31 51 L 12 56 L 26 42 L 9 34 L 28 33 L 20 15 L 35 27 Z" fill="#3a6090" stroke="#1a3050" stroke-width="0.8" opacity="0.55"/>
+            <text x="40" y="56" font-family="'Cormorant Garamond', serif" font-size="40" font-weight="700" fill="#1a3050" text-anchor="middle">9</text>
+          </g>
+        </svg>
+        <div class="label">Le Nombre Neuf</div>
+        <div class="desc">Sacré pour Tzeentch. Cellules de neuf, Triumvirat de trois Ordos. J'ai compté neuf branches à l'étoile gravée sur l'autel saisi par Frère Lehrhardt à Reikerbahn — coïncidences exclues.</div>
+      </div>
+
+    </div>
+    <div class="page-num">I.5</div>
+  </div>
+
+  <!-- §I.6 Cas notables et figure prophétique -->
+  <div class="page">
+    <h2>I.6 — Cas notables et figure prophétique</h2>
+    <div class="section-meta">Tzeentch / Main Pourpre — affaires où j'ai été directement impliqué, et l'énigme du Champion dans les Ombres.</div>
+
+    <h3>Cas : Kastor Lieberung — Bögenhafen, 2509</h3>
+    <p>Main Pourpre, <strong>Magister Impedimentae</strong> de la cellule de <strong>Nuln</strong>. Avait rompu le contact avec le culte ; un ordre interne Main Pourpre circulait pour qu'il soit <em>retrouvé et récupéré à tout prix</em>.</p>
+    <p>Adolphus Kuftsos, chasseur de primes croisé à Nuln un Brauzeit, mandaté par <strong>Lady Emmanuelle Nacht</strong> (Reikland, à Übersreik) pour le capturer <em>vivant</em>, m'a écrit pour confirmer l'identité de la cible. J'ai recoupé et confirmé par lettre : Kastor Lieberung, route de Middenheim, fin Jahrdrung. Le plan opérationnel était d'Adolphus Kuftsos</p>
+    <p><strong>Issue.</strong> Adolphus Kuftsos mort à Bögenhafen. Kastor Lieberung perdu lui aussi, jamais ramené à Nacht. La cellule de Nuln a perdu un Magister — à recouper avec ce que Frère Lehrhardt peut activer comme contacts à Nuln.</p>
+
+    <h3>Cas : Karl-Heinz Wasmeier — démasqué Middenheim, en cavale</h3>
+    <p>Ancien Seigneur des Lois de Middenheim, démasqué comme <strong>Magister Magistri</strong> de la Main Pourpre — première identification nominale d'un titulaire de ce rang (voir §I.1). Exposé il y a quelques mois en marge du Carnaval, a échappé à la capture, toujours actif. A développé son <strong>propre code secret</strong> pour ses correspondances ; le Marteau d'Argent de Middenheim en détient des fragments, la clé pratique m'échappe.</p>
+    <p><strong>Signalements récents.</strong> Repéré à Altdorf — quartier de <strong>Reikerbahn</strong>, bidonvilles de la rive sud-est. Frère Lehrhardt travaille la zone. Cellule middenheimoise démantelée, opère seul ou avec relais minces — sorcier dangereux.</p>
+
+    <h3>Le Champion dans les Ombres</h3>
+    <p>Phrase prophétique entendue à deux interrogatoires d'Adeptes Main Pourpre altdorfois, espacés de quatre ans (j'étais présent aux deux) : <em>« quand le Champion dans les Ombres se lèvera, les rôles seront inversés. »</em> Formule identique mot pour mot, crachée en défi à l'inquisiteur — pas une supplication. Le terme apparaît comme un titre déférent, pas un nom propre.</p>
+    <p><strong>Conjectures.</strong> Pas Egrimm van Horstmann (trop visible). Pas Wasmeier non plus (à peine bon à passer pour le second d'une telle figure). Possible figure cosmologique tzeentchéenne en attente d'incarnation, ou cultiste vivant que la Main Pourpre couvre soigneusement. Aucun écrit que je connaisse ne le mentionne.</p>
+
+    <div class="page-num">I.6</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §II — SLAANESH                                                 -->
+  <!-- ============================================================== -->
+
+  <!-- §II.1 Cadavre Exquis -->
+  <div class="page">
+    <h2>II.1 — Le Cadavre Exquis</h2>
+    <div class="section-meta">Slaanesh — culte aristocratique à Altdorf. Issu d'un repli depuis Bögenhafen.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Premier culte de Slaanesh formellement identifié à Altdorf. Originaire de Bögenhafen — la Magus a replié son cercle dans la capitale quand elle a senti les Chasseurs de Sorcières trop proches. Vers 2510 selon les recoupements.</p>
+
+    <h3>Doctrine</h3>
+    <p>Promesse de perfection physique par l'indulgence Slaaneshi. Le nom du culte a un humour noir qui lui ressemble : la perfection courue mène inéluctablement au cadavre orné. Recrute aspirants à la scène — acteurs, danseurs — par promesse d'exercice, d'entraînement mental, et d'« altération cosmétique ».</p>
+
+    <h3>Hiérarchie</h3>
+    <ul>
+      <li><strong>Magus</strong> — selon les notes Marteau d'Argent, une femme fortunée du milieu marchand. Identité civile non encore corroborée à ma plume.</li>
+      <li><strong>Lieutenants</strong> — au moins une exécutrice redoutée, vraisemblablement Champion du Chaos selon les blessures relevées sur ses victimes.</li>
+      <li><strong>Cellule</strong> — taille variable, recrutement continu parmi les aspirants artistiques.</li>
+    </ul>
+
+    <h3>Méthodes</h3>
+    <p>Recrutement par séduction et promesse d'amélioration personnelle. Les nouveaux convertis se retrouvent pris d'addiction ou de chantage, dépendants de la Magus pour leur dose ou leur secret. Selon des fragments d'interrogatoire, la Magus saurait <em>anticiper</em> certaines opérations dirigées contre elle — un don magique ou une simple discipline de renseignement, je n'ai pas tranché.</p>
+
+    <h3>Implantation</h3>
+    <p>Altdorf, locaux non localisés formellement. Le Marteau d'Argent soupçonne au moins trois adresses dans les quartiers nobles, sans preuve d'introduction.</p>
+    <div class="page-num">II.1</div>
+  </div>
+
+  <!-- §II.2 Sceptre de Jade -->
+  <div class="page">
+    <h2>II.2 — Le Sceptre de Jade</h2>
+    <div class="section-meta">Slaanesh — culte pan-impérial diffus. Une cellule établie à Middenheim, contemporaine de Wasmeier.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Culte de Slaanesh largement diffus dans tout l'Empire, sans structure centrale visible. Le nom est devenu un terme parapluie sous lequel se rangent à la fois de véritables cultistes et de simples dilettantes hédonistes — l'ambiguïté est un atout opérationnel.</p>
+
+    <h3>Doctrine</h3>
+    <p>Indulgence sans frein, recherche du plaisir par la douleur et l'excès. Le culte ne vise pas la chute de l'Empire — au contraire, il prospère dans son statu quo. C'est ce qui le rend moins inquiétant pour le Marteau d'Argent que les courants tzeentchéens, mais aussi plus profondément implanté qu'on ne le craint.</p>
+
+    <h3>Structure</h3>
+    <p>Cellules locales, faiblement coordonnées. Une vraie cellule peut compter jusqu'à <strong>quarante membres</strong> — taille bien plus grande que la plupart des cultes voisins. Pas de chef central reconnu ; les cellules sont menées tantôt par un sorcier, tantôt par le plus riche, tantôt par celui qui prête sa maison aux réunions.</p>
+
+    <h3>Méthodes</h3>
+    <p>Recrutement par <em>cour préliminaire</em> : approche amicale du futur initié, évaluation de ses goûts, promesse d'aller plus loin dans les mêmes plaisirs. Initiation rituelle variable — lecture de tomes proscrits, bizutage suivi d'un festin, ou simple bacchanale d'introduction.</p>
+    <p>Un <em>sceptre de jade</em> cérémoniel donne son nom au culte : sculpté de figures tordues, il inflige une douleur exquise à qui le saisit. Selon la rumeur, il guérirait les mutations — à un prix terrible payé directement à Slaanesh.</p>
+
+    <h3>Implantation</h3>
+    <p>Présence supposée dans plusieurs grandes cités impériales — Altdorf, Middenheim, Nuln — sans cellule formellement localisée à ma connaissance. Le culte mêle vrais cultistes et dilettantes inconscients de l'allégeance du noyau, ce qui rend toute identification fiable difficile.</p>
+    <p>À <strong>Middenheim</strong>, le culte recruterait parmi la jeunesse oisive et fortunée, où il opère — selon les notes Marteau d'Argent middenheimoises — sous l'appellation des <em>« Déviants et Décadents »</em>. Les jeunes nobles s'y présentent sans soupçonner la profondeur de leur engagement avant qu'il ne soit trop tard.</p>
+
+    <h3>Relations</h3>
+    <p>Implacable hostilité avec les cultes de Khorne. Rivalité ambiguë avec la Main Pourpre : les Tzeentchéens utilisent parfois le Sceptre de Jade comme leurre ou comme instrument de chantage.</p>
+    <div class="page-num">II.2</div>
+  </div>
+
+  <!-- §II.3 Cult of Illumination -->
+  <div class="page">
+    <h2>II.3 — La Confrérie de l'Illumination</h2>
+    <div class="section-meta">Slaanesh / Tzeentch (mixte) — club d'élites artistiques et industrielles d'Altdorf.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>L'un des cultes les plus subtils que je connaisse. Façade : <em>la Grande Union pour la Promotion des Arts, de la Rhétorique, des Sciences et de l'Entreprise</em> — club exclusif d'Altdorf, frais d'adhésion considérables, attire les meilleurs artistes, ingénieurs et grands marchands.</p>
+
+    <h3>Doctrine</h3>
+    <p>Le culte mêle Slaanesh (jouissance du génie créateur, plaisir de la gloire) et Tzeentch (manipulation, anticipation). Ses chefs glanent leur savoir auprès de servants démoniaques des deux Puissances et prévoient ainsi tendances, découvertes et opportunités à venir.</p>
+
+    <h3>Hiérarchie</h3>
+    <p>Les éléments suivants viennent essentiellement de fragments Marteau d'Argent — à prendre avec mesure :</p>
+    <ul>
+      <li><strong>Grand Illuminateur</strong> — siégerait à Altdorf par tradition du culte. Identité non établie.</li>
+      <li><strong>Préfets du Cercle Tout-Voyant</strong> — un cercle dirigeant restreint, réparti entre plusieurs cités impériales (Altdorf, Nuln, Talabheim au minimum). Nombre exact incertain — onze selon une notule, je ne peux le confirmer.</li>
+      <li><strong>Membres ordinaires</strong> — souvent ignorants des allégeances réelles du noyau dirigeant. Croient à un club d'entregent et d'influence.</li>
+    </ul>
+
+    <h3>Méthodes</h3>
+    <p>Le culte tient un registre détaillé des projets et désirs de chaque affilié. Sert deux fonctions : (1) aider le membre à accomplir ses ambitions — soutien à la carrière, mariages, capitaux — et (2) le faire chanter sous menace d'exposition quand le culte a besoin de lui.</p>
+
+    <h3>Implantation</h3>
+    <p>Façade publique active dans plusieurs cités impériales — Altdorf, Nuln, Talabheim. Le noyau cultiste lui-même demeure invisible derrière la respectabilité du club : impossible de remonter aux Préfets sans s'attaquer aux affiliés ordinaires, dont la plupart sont irréprochables. À considérer comme l'<em>antichambre dorée</em> par où le mécène d'aujourd'hui devient le cultiste actif de demain.</p>
+    <div class="page-num">II.3</div>
+  </div>
+
+  <!-- §II.4 Cercle de la Chair Immaculée -->
+  <div class="page">
+    <h2>II.4 — Le Cercle de la Chair Immaculée</h2>
+    <div class="section-meta">Slaanesh — culte militaire infiltré à Übersreik. Démasquage en cours par le Marteau d'Argent local.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Cellule slaaneshi atypique : <em>culte de soldats</em>. Originaire de l'Armée d'État d'Altdorf, importé à Übersreik via des détachements compromis, et entretenu désormais au sein de la <strong>Garde d'Übersreik</strong>.</p>
+
+    <h3>Doctrine</h3>
+    <p>Plaisir slaaneshi par la <strong>douleur partagée</strong> — non pas la cruauté du tortionnaire, mais l'extase du combattant qui inflige et endure la souffrance dans le même mouvement. Les adeptes se réunissent pour des combats illicites où il est <em>interdit</em> de faire couler le sang : seuls les coups, les torsions, les étranglements jusqu'à soumission. Les vétérans semblent puiser une force croissante de la douleur subie.</p>
+
+    <h3>Hiérarchie</h3>
+    <p>Pas de structure formelle au-delà du « Caporal » qui mène les combats — un sous-officier altdorfois en détachement à la Garde d'Übersreik, connu pour son insubordination et ses sanctions multiples. La cellule compte plusieurs officiers de rang supérieur au sien, mais tous se soumettent à son autorité dans les affaires du Cercle.</p>
+
+    <h3>Méthodes</h3>
+    <p>Recrutement par cooptation parmi les soldats doués pour la lutte rapprochée. On invite le candidat à un combat d'essai ; s'il prend plaisir à l'épreuve <em>et</em> s'abstient de faire couler le sang, le Caporal le forme à l'initiation graduée. Compromission par excès partagés — beuveries, abandon discipline — avant révélation de l'allégeance.</p>
+
+    <h3>Démasquage</h3>
+    <p>L'enquête a été menée par un agent du Marteau d'Argent en poste à Übersreik, <strong>Matthias Hubkind</strong>, à la suite du meurtre d'un caporal altdorfois en détachement (un certain Vielfrass) — meurtre rituel maquillé en bagarre selon les premières constatations. Ses dernières dépêches au Marteau d'Argent central décrivaient une traque méthodique du Cercle, recoupements de témoignages, surveillance des combats illicites, identification progressive des adeptes. Puis plus rien — interruption brutale, sans préavis ni rapport final. Le dossier sur le Cercle reste ouvert mais notre relais de terrain est tu ; à reprendre depuis Altdorf si la cellule se manifeste à nouveau.</p>
+
+    <div class="page-num">II.4</div>
+  </div>
+
+  <!-- §II.5 Symboles slaaneshi -->
+  <div class="page">
+    <h2>II.5 — Symboles slaaneshi</h2>
+    <div class="section-meta">Récapitulatif des marques attestées chez les cultes de Slaanesh.</div>
+
+    <div class="symbol-grid">
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g fill="#a050a0" stroke="#602060" stroke-width="0.6">
+            <path d="M 40 14 C 32 14 28 22 28 28 C 28 34 32 38 34 42 C 30 44 26 48 26 54 C 26 60 32 64 40 64 C 48 64 54 60 54 54 C 54 48 50 44 46 42 C 48 38 52 34 52 28 C 52 22 48 14 40 14 Z M 40 22 C 36 22 34 25 34 28 C 34 31 36 34 40 34 C 44 34 46 31 46 28 C 46 25 44 22 40 22 Z"/>
+          </g>
+        </svg>
+        <div class="label">Sigil de Slaanesh</div>
+        <div class="desc">La double boucle inversée — toujours en violet profond ou en encre sang. Tatouée près du cœur ou des reins selon mes témoins. Je n'ai jamais vu une seule variante locale qui aille tout à fait fidèle au modèle.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 28 14 L 52 14 L 50 22 L 48 22 L 48 60 C 48 64 44 66 40 66 C 36 66 32 64 32 60 L 32 22 L 30 22 Z" fill="#4a7050" stroke="#1a3018" stroke-width="0.8"/>
+            <ellipse cx="40" cy="22" rx="10" ry="3" fill="#6a9070" stroke="#1a3018" stroke-width="0.5"/>
+            <path d="M 34 28 C 36 30 38 32 40 30 C 42 28 44 30 46 32" fill="none" stroke="#1a3018" stroke-width="0.6"/>
+            <path d="M 34 38 C 36 40 38 42 40 40 C 42 38 44 40 46 42" fill="none" stroke="#1a3018" stroke-width="0.6"/>
+            <path d="M 34 48 C 36 50 38 52 40 50 C 42 48 44 50 46 52" fill="none" stroke="#1a3018" stroke-width="0.6"/>
+          </g>
+        </svg>
+        <div class="label">Le Sceptre cérémoniel</div>
+        <div class="desc">Je ne l'ai jamais eu en main — et je ne le souhaite pas. Description tirée de croquis pris par Frère Lehrhardt lors d'un raid à Nuln il y a six ans. Le porteur en garde la marque des semaines.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 40 12 L 47 28 L 64 28 L 50 38 L 56 56 L 40 46 L 24 56 L 30 38 L 16 28 L 33 28 Z" fill="#a050a0" stroke="#602060" stroke-width="0.8" opacity="0.55"/>
+            <text x="40" y="56" font-family="'Cormorant Garamond', serif" font-size="40" font-weight="700" fill="#602060" text-anchor="middle">6</text>
+          </g>
+        </svg>
+        <div class="label">Le Nombre Six</div>
+        <div class="desc">Six temps des bacchanales, six convives aux festins d'initiation, hexagrammes peints sur les sols. Quand on voit six de quoi que ce soit dans un lieu suspect, on sait à qui on a affaire.</div>
+      </div>
+
+    </div>
+    <div class="page-num">II.5</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §III — NURGLE                                                  -->
+  <!-- ============================================================== -->
+
+  <!-- §III.1 Communauté Tinéenne -->
+  <div class="page">
+    <h2>III.1 — La Communauté Tinéenne</h2>
+    <div class="section-meta">Nurgle — réseau médical à Altdorf. Cercle intérieur voué au Père de la Pestilence.</div>
+
+    <h3>Origine et doctrine</h3>
+    <p>La Communauté aurait été fondée par un médecin nordlandais autrefois respecté — un certain <strong>Doktor Festus</strong> de Salzenmund — terrassé lors d'une épidémie de <em>Fièvre Grinçante</em> il y a une dizaine d'années, tombé en démence et basculé au service de Nurgle. Le surnom de <em>Maître des Sangsues</em> circule chez ses adeptes. Doctrine : maladie comme bénédiction, intimité avec le <strong>Père de la Pestilence</strong>. Patience absolue — Nurgle attend que l'humanité s'effondre par sa propre fragilité.</p>
+
+    <h3>Hiérarchie</h3>
+    <ul>
+      <li><strong>Direction</strong> — Doktor Festus, sous ce nom de plume ; identité civile passée à Salzenmund, résidence actuelle changeante.</li>
+      <li><strong>Cercle intérieur</strong> — médecins initiés, conscients du voeu à Nurgle. Une poignée.</li>
+      <li><strong>Membres ordinaires</strong> — médecins partageant savoir médical, ignorants de l'allégeance du noyau. Beaucoup plus nombreux. Recrutement par cooptation.</li>
+    </ul>
+
+    <h3>Méthodes</h3>
+    <p>Expérimentation médicale non éthique : le cercle intérieur va jusqu'à <em>déclencher</em> des maladies pour ensuite les « guérir » — exhibition de magie, recrutement de patients reconnaissants. Soutien ostensible aux œuvres qui rapprochent les gens en promiscuité (asiles, marchés couverts, processions).</p>
+
+    <h3>Réseau impérial et signalements</h3>
+    <p>Branches attestées : <strong>Altdorf</strong> (le quartier du Fleishmark revient régulièrement dans les recoupements — créatures aberrantes dans les égouts adjacents, guérisons « miraculeuses » de maladies suspectes), <strong>Salzenmund</strong> (la souche d'origine — Mère Agata du Temple de Shallya y traque activement Festus, sans succès), <strong>Middenheim</strong>, <strong>Übersreik</strong> (deux affiliés transmis par Matthias Hubkind avant l'interruption de ses dépêches, voir §II.4 — dossier en suspens). Aucune adresse précise n'a pu être localisée ; Festus pratique la mobilité et change de nom au gré des villes.</p>
+    <div class="page-num">III.1</div>
+  </div>
+
+  <!-- §III.2 Plaie Suppurante (défunte) -->
+  <div class="page">
+    <h2>III.2 — La Plaie Suppurante — défunte</h2>
+    <div class="section-meta">Nurgle — culte middenheimois démantelé. Référence historique.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Culte de Nurgle qui prospéra brièvement dans les bas-fonds de Middenheim, composé en grande partie de mutants nurglésites cherchant un foyer. Démantelé il y a quelques années. Référence utile pour comprendre la concurrence inter-cultiste en milieu urbain.</p>
+
+    <h3>Doctrine</h3>
+    <p>Adoration commune du Père de la Pestilence. Doctrine moins structurée que la Communauté Tinéenne — la Plaie Suppurante était un refuge davantage qu'un instrument actif. Les mutants y trouvaient sanctuaire, soins de fortune, et accueil rituel.</p>
+
+    <h3>Démantèlement</h3>
+    <p>Le cas est instructif. Selon des sources convergentes (Marteau d'Argent middenheimoise, fragments d'interrogatoire post-affaire Wasmeier), c'est la <strong>Main Pourpre de Middenheim</strong> qui aurait dénoncé la Plaie Suppurante aux autorités — non par zèle anti-cultiste, mais pour <em>éliminer un concurrent</em> qui attirait l'attention des Chasseurs de Sorcières sur l'ensemble des cultes de la cité. La cellule fut prise dans une rafle. Quelques mutants ont pu s'enfuir vers le Drakwald.</p>
+
+    <h3>Leçon</h3>
+    <p>La Main Pourpre tolère, voire encourage activement, l'élimination de cultes rivaux moins structurés — il est probable que des dénonciations similaires se produisent à Altdorf et ailleurs sans qu'on identifie la source. À garder en mémoire quand un culte mineur tombe trop facilement : peut-être qu'un culte majeur l'a sacrifié.</p>
+    <div class="page-num">III.2</div>
+  </div>
+
+  <!-- §III.3 Villageois de Saal -->
+  <div class="page">
+    <h2>III.3 — Les Villageois de Saal</h2>
+    <div class="section-meta">Nurgle — culte rural reiklandais involontaire. Cas instructif de corruption par désespoir.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Cas atypique parmi les cultes nurgléens connus : les villageois de Saal (Reikland sud, près des ruines de Saalenschloss) <em>ignorent</em> qu'ils servent Nurgle. Ils croient vouer leur culte à leur ancien seigneur, le défunt Abelin von Saal, devenu pour eux « Père Saal » par sanctification populaire.</p>
+
+    <h3>Doctrine apparente vs réelle</h3>
+    <p>Apparence : vénération mémorielle d'un héros défunt qui s'est sacrifié pour défendre ses terres lors du sac de Saalenschloss par les Peaux-Vertes. Visions, pèlerinages aux ruines, jeûnes et flagellations rituelles.</p>
+    <p>Réalité : c'est Nurgle qui envoie les visions. Le « Père Saal » est devenu un masque commode pour le Père de la Pestilence, qui se nourrit du désespoir et de la résignation du village.</p>
+
+    <h3>Méthodes</h3>
+    <p>Aucune méthode active de recrutement extérieur. La population vieillissante et appauvrie s'auto-consume — les jeunes partent, les anciens dépérissent dans la dévotion. Nurgle attend, patient.</p>
+
+    <h3>Signalement</h3>
+    <p>L'Abbé Berrener, du Monastère de Saal Béni, s'est inquiété récemment de la dérive du culte villageois et cherche des Sigmarites pour enquêter discrètement. C'est par ses correspondances que le Marteau d'Argent central a été averti. Configuration politiquement délicate : les Saaliens ne <em>savent</em> pas qu'ils sont cultistes, et frapper le village serait perçu comme une persécution injustifiée.</p>
+
+    <h3>Leçon</h3>
+    <p>Nurgle n'a pas besoin d'agents : la misère humaine suffit à l'invoquer si elle s'éternise. À garder à l'esprit pour toute communauté abandonnée de l'Empire.</p>
+    <div class="page-num">III.3</div>
+  </div>
+
+  <!-- §III.4 Symboles nurgléens -->
+  <div class="page">
+    <h2>III.4 — Symboles nurgléens</h2>
+    <div class="section-meta">Marques attestées du Père de la Pestilence.</div>
+
+    <div class="symbol-grid">
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g fill="#4a6a2a" stroke="#2a3a0a" stroke-width="0.6">
+            <circle cx="40" cy="40" r="22" fill="#6a8a3a"/>
+            <circle cx="40" cy="40" r="6" fill="#3a4a1a"/>
+            <circle cx="32" cy="32" r="3" fill="#2a3a0a"/>
+            <circle cx="48" cy="34" r="3" fill="#2a3a0a"/>
+            <circle cx="30" cy="48" r="3" fill="#2a3a0a"/>
+            <circle cx="50" cy="50" r="3" fill="#2a3a0a"/>
+            <circle cx="40" cy="22" r="2" fill="#2a3a0a"/>
+            <circle cx="58" cy="42" r="2" fill="#2a3a0a"/>
+            <circle cx="40" cy="58" r="2" fill="#2a3a0a"/>
+            <circle cx="22" cy="40" r="2" fill="#2a3a0a"/>
+          </g>
+        </svg>
+        <div class="label">Sigil de Nurgle (les Trois Cloches)</div>
+        <div class="desc">Les pustules ne sont pas décoratives — chacune correspondrait à une « bénédiction » reçue. Sur le flacon que Frère Lehrhardt m'a rapporté du Fleishmark, j'en ai compté trente-trois. Le compte semble compter.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 40 10 L 46 28 L 64 28 L 50 40 L 56 60 L 40 48 L 24 60 L 30 40 L 16 28 L 34 28 Z" fill="#4a6a2a" stroke="#2a3a0a" stroke-width="0.8" opacity="0.55"/>
+            <text x="40" y="56" font-family="'Cormorant Garamond', serif" font-size="40" font-weight="700" fill="#2a3a0a" text-anchor="middle">7</text>
+          </g>
+        </svg>
+        <div class="label">Le Nombre Sept</div>
+        <div class="desc">Sept jours de fièvre, sept gouttes de sang, sept maladies du Grand Père. Les prières funèbres entendues à Saal cadençaient à sept temps — coïncidence improbable, je tiens cette observation pour preuve indirecte de l'allégeance villageoise.</div>
+      </div>
+
+    </div>
+    <div class="page-num">III.4</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §IV — KHORNE                                                   -->
+  <!-- ============================================================== -->
+
+  <!-- §IV.1 Nez Sanglant -->
+  <div class="page">
+    <h2>IV.1 — Le Nez Sanglant</h2>
+    <div class="section-meta">Khorne — culte sanguin infiltré chez les débardeurs de Bögenhafen. Modèle de discrétion paradoxale en milieu urbain.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>Les cultes de Khorne sont rares en milieu urbain dense — la violence pure attire les Chasseurs de Sorcières trop vite. Le Nez Sanglant est un modèle de discrétion paradoxale : se cacher dans la rixe quotidienne d'une guilde portuaire.</p>
+
+    <h3>Doctrine</h3>
+    <p>Adoration du <strong>Dieu du Sang</strong> — dieu du combat, de la guerre, du sang versé pour lui-même. Aucun raffinement théologique : la violence comme rituel, le sang comme offrande, la rage comme prière.</p>
+
+    <h3>Hiérarchie</h3>
+    <p>Pas de structure élaborée — l'image est canonique pour Khorne. Quelques chefs informels, généralement les combattants les plus capables. Aucune transmission de doctrine écrite : le sang versé suffit.</p>
+
+    <h3>Pratiques rituelles</h3>
+    <p>Réunions à <strong>Morrslieb pleine</strong>. Les membres se rouent de coups jusqu'à ce que le sang coule abondamment de leurs faces. Prohibition stricte : silence absolu sur le culte hors des réunions — divulguer son existence à un non-membre est puni de mort.</p>
+
+    <h3>Méthodes</h3>
+    <p>Diffusion de violence diffuse en milieu urbain. Provoquent des bagarres, des émeutes, des saccages — toujours en faisant porter le chapeau à une autre faction. Spécialité documentée : désacralisation d'un temple en y peignant l'iconographie d'un dieu rival avec le sang, pour déclencher un conflit inter-religieux.</p>
+
+    <h3>Implantation</h3>
+    <p>Cellule signalée à <strong>Bögenhafen</strong> au sein de la guilde des débardeurs de la rivière — sans identification individuelle des membres. La guilde est trop dense, le silence intra-cellule trop strict, et les rares informateurs disparaissent vite. D'autres cellules suspectées sur la base de schémas de violence sectaire similaires à Marienburg, Talabheim, et dans les quartiers portuaires d'Altdorf — sans preuve formelle.</p>
+    <div class="page-num">IV.1</div>
+  </div>
+
+  <!-- §IV.2 Crâne Cramoisi -->
+  <div class="page">
+    <h2>IV.2 — Le Crâne Cramoisi</h2>
+    <div class="section-meta">Khorne — culte sophistiqué d'élite guerrière. Centre middenheimois, ambition impériale.</div>
+
+    <h3>Position et doctrine</h3>
+    <p>Culte khornate le plus inquiétant que je connaisse — antérieur à la Grande Guerre contre le Chaos selon ses propres traditions. Modèle radicalement différent du Nez Sanglant : recrute déjà des <em>hommes en place</em> (capitaines, chevaliers, hauts gradés). Khorne y est habillé d'une rhétorique de prouesse et d'honneur ; le culte évite l'effusion gratuite et cherche des formes socialement acceptables de violence — duels, ordalies, régimes d'entraînement. Ambition documentée : semer la discorde entre les cultes d'Ulric et de Sigmar.</p>
+
+    <h3>Hiérarchie</h3>
+    <ul>
+      <li><strong>Cellules de huit</strong> — sept adeptes plus un magus, soit le Nombre Huit du Dieu du Sang.</li>
+      <li><strong>Grand Magus</strong> — un certain <em>Boris Eichermann</em>, ancien prêtre d'Ulric apostat, prétend descendre d'Artur. Information à corroborer ; je ne l'ai pas rencontré.</li>
+      <li><strong>Conclave périodique</strong> — sans date ni lieu fixes, convoqué par messager à courte échéance.</li>
+    </ul>
+
+    <h3>Méthodes et implantation</h3>
+    <p>Infiltration des fraternités d'armes par duels successifs. La <strong>Confrérie de la Hache</strong> de Middenheim (corps d'élite ulrican) compterait plusieurs adeptes sans identification individuelle. Centre attesté : Middenheim. Cellules suspectées dans d'autres cités où existent des fraternités d'armes prestigieuses. Aucune altdorfoise identifiée ; à surveiller chez les ordres chevaleresques.</p>
+
+    <h3>Antenne d'Aschaffenberg : le Monastère de la Griffe Rouge</h3>
+    <p>Cellule documentée dans le <strong>Duché d'Aschaffenberg</strong>, sous couvert d'un pseudo-monastère ulrican — non reconnu par le Culte d'Ulric, et pour cause : il aurait été fondé par un cultiste du Crâne Cramoisi pour attirer et convertir les jeunes Ulricans. L'Abbé y dirige un cercle de sept moines voués à Khorne. Signalement transmis aux Templiers de Sigmar locaux, hors portée immédiate du Marteau d'Argent altdorfois ; aucun retour à ce jour. Illustration nette du <em>modus operandi</em> : pervertir l'élite intérieure d'une institution martiale respectée, laisser la masse extérieure servir de couverture.</p>
+    <div class="page-num">IV.2</div>
+  </div>
+
+  <!-- §IV.3 Symboles khornates -->
+  <div class="page">
+    <h2>IV.3 — Symboles khornates</h2>
+    <div class="section-meta">Marques attestées du Dieu du Sang.</div>
+
+    <div class="symbol-grid">
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g fill="#8a1010" stroke="#400404" stroke-width="0.8">
+            <path d="M 40 12 L 50 26 L 64 22 L 58 36 L 70 44 L 56 46 L 60 60 L 46 54 L 40 68 L 34 54 L 20 60 L 24 46 L 10 44 L 22 36 L 16 22 L 30 26 Z"/>
+            <circle cx="40" cy="40" r="6" fill="#400404"/>
+          </g>
+        </svg>
+        <div class="label">Rune du Sang (Khorne)</div>
+        <div class="desc">Tracée au sang frais quand on a le temps, au fer rouge quand on n'en a pas. Le Nez Sanglant la peint sur les murs de temple lors des désacralisations — j'en ai vu deux dans ma carrière, et je m'en passerais.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 28 20 C 22 22 18 30 18 38 C 18 46 22 54 28 56 L 30 60 L 36 62 L 36 66 L 44 66 L 44 62 L 50 60 L 52 56 C 58 54 62 46 62 38 C 62 30 58 22 52 20 C 48 16 32 16 28 20 Z" fill="#8a0808" stroke="#400404" stroke-width="1"/>
+            <ellipse cx="32" cy="38" rx="3" ry="4" fill="#1a0202"/>
+            <ellipse cx="48" cy="38" rx="3" ry="4" fill="#1a0202"/>
+            <path d="M 30 48 L 32 52 L 34 48 L 36 52 L 38 48 L 40 52 L 42 48 L 44 52 L 46 48 L 48 52 L 50 48" fill="none" stroke="#1a0202" stroke-width="1.2"/>
+            <path d="M 22 22 L 18 14 L 26 18 Z" fill="#400404" stroke="#1a0202" stroke-width="0.6"/>
+            <path d="M 58 22 L 62 14 L 54 18 Z" fill="#400404" stroke="#1a0202" stroke-width="0.6"/>
+          </g>
+        </svg>
+        <div class="label">Crâne Cramoisi</div>
+        <div class="desc">Aperçu sur le pommeau d'une épée saisie à Middenheim — l'adepte avait nié toute appartenance, mais le crâne brodé sur la doublure de son manteau l'a trahi. Discret par convention, fier au conclave.</div>
+      </div>
+    </div>
+
+    <h3>Le Nombre Huit</h3>
+    <p>Le <strong>Nombre Huit</strong> est sacré pour Khorne — huit crânes pour son trône, huit coups de hache rituels, huit champions au cercle proche, cellules de huit du Crâne Cramoisi (voir §IV.2). Le Huit lui est <em>partagé</em> avec le Chaos indivisé (voir §VII), ce qui rend son identification ambiguë : la même étoile à huit pointes peut désigner Khorne seul ou le Chaos universel.</p>
+
+    <div class="page-num">IV.3</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §V — LE ROI CORNU                                              -->
+  <!-- ============================================================== -->
+
+  <!-- §V.1 Roi Cornu -->
+  <div class="page">
+    <h2>V.1 — Le Roi Cornu</h2>
+    <div class="section-meta">Divinité ancienne, panthéon distinct du Chaos quadripartite. Adoration Skaven.</div>
+
+    <h3>Position cosmologique</h3>
+    <p>Le <strong>Roi Cornu</strong> — appellation reconstituée à partir de fragments de Sombre Langue — est une intelligence ancienne, distincte des quatre Puissances Ruineuses canoniques. Son réseau d'adorateurs primaire n'est pas humain : ce sont les <em>Skaven</em>, les hommes-rats, créatures dont l'existence même est niée par la majorité du peuple impérial mais désormais hors de doute pour le Marteau d'Argent depuis les troubles souterrains de 2511-2512.</p>
+
+    <h3>Hiérarchie Skaven</h3>
+    <p>Selon les notes partagées par les ingénieurs nains — qui les traquent depuis des générations — et corroborées par fragments d'interrogatoires :</p>
+    <ul>
+      <li><strong>Conseil des Treize</strong> — gouvernement suprême de la société Skaven. Douze sièges occupés par des Seigneurs-Skaven anciens, centenaires, manipulateurs.</li>
+      <li><strong>Treizième siège</strong> — symboliquement tenu par le Roi Cornu lui-même. Aucun Skaven ne le revendique, selon les nains.</li>
+      <li><strong>Clans-Skaven</strong> — la société est divisée en clans spécialisés (sorcellerie, technologie, infiltration, etc.) ; chaque clan a son propre Seigneur au Conseil.</li>
+    </ul>
+
+    <h3>Doctrine</h3>
+    <p>La société Skaven incarne la doctrine elle-même : trahison permanente, expansion par les souterrains, mépris des espèces de surface. Le Roi Cornu est <em>celui qui voit dans le noir</em>, qui récompense la conspiration patiente et la cruauté économe.</p>
+
+    <h3>Cultes humains</h3>
+    <p>Rares mais attestés. Un culte humain au service direct des Skaven est désormais documenté : <strong>les Crocs Jaunes</strong> (voir §V.2). Quelques cellules dispersées hors de ce cadre existent — par cupidité (or, malpierre, savoir interdit) ou par démence chronique.</p>
+
+    <h3>État du dossier</h3>
+    <p>Mince mais en croissance. Le Marteau d'Argent recoupe depuis 2512 ses propres notes avec celles des <strong>ingénieurs nains</strong> — sources de longue date sur l'existence Skaven, qu'ils combattent depuis des siècles dans leurs galeries profondes. Les <strong>annales ulricaines</strong> apportent un complément historique précieux : mémoire vivace du martyre d'Ar-Ulric Bronnstein lors d'un raid Skaven à Middenheim en 1116 IC, traditions de combat héritées de Mandred Tueur-de-Rats. Peu de matière textuelle contemporaine accessible ; la plupart des Skaven captifs meurent rapidement par méthodes que je présume internes.</p>
+    <div class="page-num">V.1</div>
+  </div>
+
+  <!-- §V.2 Crocs Jaunes -->
+  <div class="page">
+    <h2>V.2 — Les Crocs Jaunes</h2>
+    <div class="section-meta">Roi Cornu — culte humain au service direct des Skaven. Pan-impérial.</div>
+
+    <p>Premier culte humain identifié comme servant directement le Roi Cornu et ses créatures. Branches à travers tout le Vieux Monde — partout où les Skaven creusent. Mes informations viennent des recoupements transmis depuis 2512 par le Marteau d'Argent et par les ingénieurs nains, complétées des annales ulricaines pour le fond historique.</p>
+
+    <h3>Doctrine</h3>
+    <p>L'Empire s'effondrera. Leur stratégie : se ranger d'avance dans le camp des futurs maîtres souterrains. Mieux vaut servir et survivre — même asservi — que mourir avec le monde qui tombe.</p>
+
+    <h3>Schisme actuel</h3>
+    <ul>
+      <li><strong>Traditionalistes</strong> — soumission docile aux Skaven en échange d'une place préservée.</li>
+      <li><strong>Branche de Carroburg</strong> — émergente. Doctrine inversée : renverser les Skaven le moment venu et régner sur les ruines. Obéissance feinte en attendant.</li>
+    </ul>
+
+    <h3>Méthodes</h3>
+    <p>Sabotage public et propagande diffusée comme préjugé acceptable (<em>« la vraie menace, ce sont les Bretonniens, pas des rats imaginaires »</em>). Étouffement actif de toute preuve sur les Skaven — moquerie publique, accidents arrangés, réputation détruite. Assassinats par dupe naïf ou par cultiste sacrifié dont les marques sont effacées au préalable.</p>
+
+    <h3>Signes</h3>
+    <p>Tatouage d'un petit croc jaune sous le bras. Variante : incisive arrachée et teinte en jaune, portée en collier. Les plus dévots modifient leur corps pour ressembler aux Skaven : dents limées, oreilles cousues, démarche tressautante.</p>
+
+    <h3>Implantation</h3>
+    <p>Pan-impériale. Foyer signalé : <strong>Carroburg</strong> (branche réformiste). Une notule Marteau d'Argent cite une certaine <em>Mila Raast</em> comme cheffe locale — non corroboré.</p>
+    <div class="page-num">V.2</div>
+  </div>
+
+  <!-- §V.3 Ventres Jaunes -->
+  <div class="page">
+    <h2>V.3 — Les Ventres Jaunes</h2>
+    <div class="section-meta">Roi Cornu — esclaves humains affranchis au service direct d'un clan Skaven. Übersreik.</div>
+
+    <h3>Position dans le paysage cultiste</h3>
+    <p>À distinguer des Crocs Jaunes proprement dits. Les Ventres Jaunes ne sont pas un culte théologique au sens strict — ils sont serviteurs directs d'un clan Skaven précis, par conditionnement et par peur, plutôt que par foi. Signalés exclusivement à <strong>Übersreik</strong>.</p>
+
+    <h3>Origine et statut</h3>
+    <p>Anciens esclaves humains capturés par le clan Skaven <em>Sleekit</em> et relâchés à la surface après plusieurs années de captivité souterraine, pour servir comme agents de leurs anciens maîtres. Leur loyauté supposée totale tient au conditionnement subi et à la peur du retour aux galeries.</p>
+
+    <h3>Méthodes</h3>
+    <p>Mission principale : recrutement de nouveaux esclaves parmi les déclassés et marginaux d'Übersreik, par séduction des plaisirs de quartier (tavernes, fumeries, lupanars) suivi d'un enlèvement nocturne. Cible privilégiée : voyageurs isolés, sans famille proche, dont la disparition ne déclenchera pas d'enquête.</p>
+
+    <h3>Hiérarchie</h3>
+    <p>Le Marteau d'Argent local signale comme chef à Übersreik un dénommé <em>Slippery Jacob</em> — orphelin enlevé enfant par les Skaven et rendu à la société humaine après plus de vingt ans de captivité. Loyauté supposée totale ; obéit jusqu'au sacrifice de sa propre vie.</p>
+
+    <h3>Distinction utile</h3>
+    <p>Les Crocs Jaunes croient choisir le camp gagnant ; les Ventres Jaunes n'ont plus le choix.</p>
+    <div class="page-num">V.3</div>
+  </div>
+
+  <!-- §V.4 Symboles skaven -->
+  <div class="page">
+    <h2>V.4 — Symboles skaven</h2>
+    <div class="section-meta">Marques attestées du Roi Cornu et de ses serviteurs humains.</div>
+
+    <div class="symbol-grid">
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <ellipse cx="40" cy="44" rx="22" ry="18" fill="#4a3018" stroke="#2a1808" stroke-width="0.8"/>
+            <path d="M 22 32 L 18 22 L 26 28 Z" fill="#4a3018" stroke="#2a1808" stroke-width="0.6"/>
+            <path d="M 58 32 L 62 22 L 54 28 Z" fill="#4a3018" stroke="#2a1808" stroke-width="0.6"/>
+            <circle cx="32" cy="42" r="2.5" fill="#c01010"/>
+            <circle cx="48" cy="42" r="2.5" fill="#c01010"/>
+            <path d="M 30 52 L 32 56 L 34 52 L 36 56 L 38 52 L 40 56 L 42 52 L 44 56 L 46 52 L 48 56 L 50 52" fill="none" stroke="#2a1808" stroke-width="1.2"/>
+          </g>
+        </svg>
+        <div class="label">Le Roi Cornu</div>
+        <div class="desc">Description reçue des ingénieurs nains — je n'ai vu de mes yeux qu'un seul autel souterrain saisi par le Marteau d'Argent middenheimois, et il était à demi détruit. Les glyphes en Sombre Langue qui l'entouraient m'ont coûté deux semaines de translittération.</div>
+      </div>
+
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 40 14 L 62 56 L 18 56 Z" fill="#c8a830" stroke="#6a5418" stroke-width="1.2"/>
+            <path d="M 40 14 L 18 56 L 32 62 Z" fill="#a08820" stroke="#6a5418" stroke-width="1" opacity="0.85"/>
+            <path d="M 36 30 L 44 30 L 40 50 Z" fill="#fff4b0" stroke="#6a5418" stroke-width="0.6"/>
+          </g>
+        </svg>
+        <div class="label">Triangle des Crocs Jaunes</div>
+        <div class="desc">L'incisive teinte en jaune passe inaperçue — bien des adultes du Vieux Monde n'ont plus toute leur dentition. Le tatouage sous l'aisselle, lui, ne se découvre qu'à la fouille. Astuce d'asservissement à long terme.</div>
+      </div>
+
+    </div>
+    <div class="page-num">V.4</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §VI — SOLKAN ET EXTRÉMISTES « LÉGAUX »                         -->
+  <!-- ============================================================== -->
+
+  <!-- §VI.1 Cult of the Vengeful Blaze -->
+  <div class="page">
+    <h2>VI.1 — Le Culte du Braisier Vengeur</h2>
+    <div class="section-meta">Solkan — culte légalement reconnu mais d'orientation extrémiste. Implantation profonde dans la magistrature et l'armée.</div>
+
+    <h3>Statut</h3>
+    <p>Solkan, dieu de la Vengeance et de la Loi rigide, n'est pas interdit dans l'Empire — son culte est reconnu mais marginal, sa doctrine trop austère pour rallier la majorité. Le Braisier Vengeur est une faction extrémiste au sein de ce culte minoritaire : il pratique légalement mais agit en zone grise.</p>
+
+    <h3>Doctrine</h3>
+    <p>Élimination méthodique de la « corruption » au sens où le Braisier l'entend : magie humaine (Collèges), mouvements révolutionnaires, divinités jugées « faibles ». Cette dernière catégorie inclut à terme — selon des notes saisies — le culte de Sigmar lui-même, par lequel le Braisier passe pour le moment alliance commode.</p>
+
+    <h3>Hiérarchie</h3>
+    <ul>
+      <li><strong>Haut Prêtre</strong> — un temple secret existerait quelque part dans Altdorf, peut-être au parc Karl-Franz selon une notule Marteau d'Argent à corroborer. Identité non confirmée.</li>
+      <li><strong>Cercle dirigeant</strong> — communique principalement par correspondance codée, peu de réunions physiques.</li>
+      <li><strong>Membres notables</strong> — académiciens, magistrats du Palais du Châtiment, officiers supérieurs, plusieurs ordres chevaleresques — selon recoupements transmis par le Marteau d'Argent et propos publics de certains intéressés.</li>
+    </ul>
+
+    <h3>Factions internes</h3>
+    <p>Deux courants se disputent l'orientation :</p>
+    <ul>
+      <li><strong>Tendance Légaliste</strong> — partisans d'une acquisition patiente du pouvoir politique, influence des lois et de la culture. Selon les notes Marteau d'Argent, ce courant est animé par un haut-fonctionnaire impérial dont le nom circule comme rumeur — je préfère ne pas l'écrire ici sans corroboration.</li>
+      <li><strong>Partisans de l'action directe</strong> — jugent le légalisme insuffisant. Manipulent des bandes urbaines comme les Crocheteurs d'Altdorf ou la Ligue de Karl-Franz pour frapper leurs cibles.</li>
+    </ul>
+
+    <h3>Risque</h3>
+    <p>Le Braisier n'est pas un culte du Chaos, mais son zélotisme en fait un acteur dangereux du paysage cultuel — partenaire occasionnel des Chasseurs de Sorcières, partisan d'autodafés généralisés, instrumentalisable par qui sait flatter sa rage.</p>
+    <div class="page-num">VI.1</div>
+  </div>
+
+  <!-- §VI.2 Symbole solkanite -->
+  <div class="page">
+    <h2>VI.2 — Symbole solkanite</h2>
+    <div class="section-meta">Marque officielle du culte de Solkan — arborée légalement par le Braisier Vengeur.</div>
+
+    <div class="symbol-grid" style="grid-template-columns: 1fr;">
+      <div class="symbol-card">
+        <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+          <g>
+            <path d="M 40 12 L 50 36 L 68 36 L 54 50 L 60 70 L 40 58 L 20 70 L 26 50 L 12 36 L 30 36 Z" fill="#d0a020" stroke="#806010" stroke-width="0.8"/>
+            <path d="M 36 36 L 40 28 L 44 36 L 44 50 L 36 50 Z" fill="#fff4b0" stroke="#806010" stroke-width="0.5"/>
+          </g>
+        </svg>
+        <div class="label">Étoile-flamme de Solkan</div>
+        <div class="desc">Le Braisier l'arbore légalement, et c'est précisément ce qui me trouble : un symbole qu'on porte au grand jour est plus dangereux qu'un sceau caché — il sépare les amis des ennemis aux yeux de tous, sans procès.</div>
+      </div>
+    </div>
+    <div class="page-num">VI.2</div>
+  </div>
+
+  <!-- ============================================================== -->
+  <!-- §VII — LE NOMBRE HUIT / ROUE DU CHAOS                          -->
+  <!-- ============================================================== -->
+
+  <!-- §VII -->
+  <div class="page">
+    <h2>VII — Le Nombre Huit et la Roue du Chaos</h2>
+    <div class="section-meta">Symbole transversal aux quatre Puissances Ruineuses. Aucun culte ne se l'attribue exclusivement.</div>
+
+    <p>Là où le Nombre Neuf appartient à Tzeentch et le Sang à Khorne, le <strong>Nombre Huit</strong> est universel — il ne désigne aucun des Quatre en particulier, mais le Chaos lui-même, indivisé. Quand des cultes coopèrent, c'est sous ce signe. Quand les Hordes du Nord franchissent les frontières, c'est sous cette bannière.</p>
+
+    <div class="chaos-wheel">
+      <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <g>
+          <g stroke="#2a1808" stroke-width="2.5" fill="#6a2010">
+            <path d="M 100 100 L 100 20 L 92 38 L 100 30 L 108 38 Z"/>
+            <path d="M 100 100 L 156.6 43.4 L 142 52 L 152 50 L 150 60 Z"/>
+            <path d="M 100 100 L 180 100 L 162 92 L 170 100 L 162 108 Z"/>
+            <path d="M 100 100 L 156.6 156.6 L 152 142 L 150 150 L 142 152 Z"/>
+            <path d="M 100 100 L 100 180 L 108 162 L 100 170 L 92 162 Z"/>
+            <path d="M 100 100 L 43.4 156.6 L 58 152 L 50 150 L 52 142 Z"/>
+            <path d="M 100 100 L 20 100 L 38 108 L 30 100 L 38 92 Z"/>
+            <path d="M 100 100 L 43.4 43.4 L 52 58 L 50 50 L 58 52 Z"/>
+          </g>
+          <circle cx="100" cy="100" r="14" fill="#2a1808" stroke="#000" stroke-width="1.5"/>
+          <circle cx="100" cy="100" r="6" fill="#8a2010"/>
+        </g>
+      </svg>
+    </div>
+
+    <p>Selon les rares manuscrits hétérodoxes accessibles, c'est <em>le chiffre du Chaos indivisé</em> : les quatre Puissances projetées sur les directions cardinales plus leurs intervalles forment huit pointes. Le centre reste muet — nommer y reviendrait à diviser.</p>
+
+    <h3>Apparitions</h3>
+    <ul>
+      <li>Étendards des Hordes du Nord franchissant les Désolations.</li>
+      <li>Armes des Champions du Chaos — gravée, ciselée, en relief.</li>
+      <li>Scarifications des plus dévots — front, poitrine, spirale autour du bras armé.</li>
+      <li>Autels mixtes où plusieurs cultes coopèrent — rares, historiquement courts.</li>
+    </ul>
+
+    <p><em>Un Magister Main Pourpre n'usera pas de la Roue dans ses correspondances internes (le Neuf le distingue) — mais il la respectera s'il la voit gravée sur l'arme d'un Champion venu du Nord.</em></p>
+
+    <div class="page-num">VII</div>
+  </div>
+
+  <!-- Note finale -->
+  <div class="page">
+    <h2>Note finale</h2>
+    <div class="section-meta">Pour clore ce cahier — un mot personnel.</div>
+
+    <p>Je relis ces pages le soir, à la chandelle, quand la Bibliothèque de Verena se vide et que les copistes rentrent chez eux. Il m'arrive de penser que je suis seul à Altdorf à les rédiger — non par mérite particulier, mais parce que mes pairs ont trouvé des sujets plus salutaires.</p>
+
+    <p>Que ces marques soient encore lisibles dans dix ans, et que celui qui les lira sache distinguer le savoir de la spéculation. C'est tout ce que j'en demande.</p>
+    <div class="page-num">Fin</div>
+  </div>
+
+</div>
+</body>
+</html>

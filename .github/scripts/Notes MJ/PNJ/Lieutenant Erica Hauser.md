@@ -25,7 +25,7 @@ A été affectée à transporter les PJ via les **contacts de Heinrich Todbringe
 
 ## Apparition scénario
 
-[[18 - Départ matinal]] — embarquement à l'aube du 5 Erntezeit, briefing court, largage.
+[[61 - Départ matinal]] — embarquement à l'aube du 5 Erntezeit, briefing court, largage.
 
 ## Voix / dialogue type
 
@@ -41,6 +41,6 @@ A été affectée à transporter les PJ via les **contacts de Heinrich Todbringe
 
 ## Liens
 
-- **Apparitions scénario** : [[18 - Départ matinal]]
+- **Apparitions scénario** : [[61 - Départ matinal]]
 - **PNJ liés** : [[Heinrich Todbringer]] (mandant)
 - **Faction** : Reikland Navy (à créer si besoin)

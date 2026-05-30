@@ -24,7 +24,7 @@ Dépose le **billet plié sans signature** au manoir Helstein le matin du 4 Ernt
 À la porte de service du Palais (côté Königsgarten), accueille les PJ après leur trajet en voiture sans armoiries. Les guide par les communs jusqu'au salon privé.
 
 ### En tant qu'hôte
-Reste dans le salon privé pendant que Maria-Luise briefe les PJ et que la confrontation se déroule dans la chambre. Sert un verre de vin coupé d'eau. **Peut être sondée** par les sorciers exclus de la chambre (voir [[14 - Visite Karl-Franz]]) — graines d'infiltration Reiksgarde, sur Kappelmuller, sur les visiteurs.
+Reste dans le salon privé pendant que Maria-Luise briefe les PJ et que la confrontation se déroule dans la chambre. Sert un verre de vin coupé d'eau. **Peut être sondée** par les sorciers exclus de la chambre (voir [[32 - Visite Karl-Franz]]) — graines d'infiltration Reiksgarde, sur Kappelmuller, sur les visiteurs.
 
 ### En tant qu'exécutante discrète
 Quand Maria-Luise dit « Hauser et deux gardes de confiance dans le couloir », c'est Annaliese qui transmet et organise l'évacuation discrète de Kappelmuller (vivant ou mort).
@@ -52,5 +52,5 @@ Quand Maria-Luise dit « Hauser et deux gardes de confiance dans le couloir », 
 ## Liens
 
 - **Patronne** : [[Maria-Luise von Walfen]]
-- **Apparitions scénario** : [[01 - Briefing Helstein]], [[13 - Approche via Lina]], [[14 - Visite Karl-Franz]]
+- **Apparitions scénario** : [[01 - Briefing Helstein]], [[31 - Approche via Lina]], [[32 - Visite Karl-Franz]]
 - **Lieux** : Palais Impérial Altdorf

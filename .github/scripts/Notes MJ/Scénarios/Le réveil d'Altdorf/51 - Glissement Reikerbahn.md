@@ -1,4 +1,4 @@
-# 03 - Glissement Reikerbahn
+# 51 - Glissement Reikerbahn
 
 > **Lieu** : Quelque part dans Altdorf, dans une rue qui n'aurait pas dû être là.
 > **Moment** : matinée, sur le trajet vers Fassbinder.
@@ -7,6 +7,19 @@
 > **Nature** : phénomène natif d'Altdorf — bleed ambiant des huit Collèges de Magie + brouillard matinal. Canon *Altdorf - Crown of the Empire* Ch.1 l.68 : *« cartographers often claim that the city defies their surveys, and lay the blame for this on the warping effects of the city's many magical institutions »*. Pas de jet de résistance.
 >
 > **Gideon** : observateur opportuniste qui exploite la zone pour apparaître brièvement (cf. §La silhouette).
+
+## En bref
+
+- **Objectif** : rencontre de rue dans une zone déformée d'Altdorf — zélotes sigmarites confus post-assaut Helstein + première apparition de la silhouette (1/3).
+- **PNJ présents** : 5-6 zélotes sigmarites (4 Zélotes, 1 leader laïc, 1 jeune zélote en stats) ; [[Gideon]] (silhouette, MJ-only).
+- **Ce que les PJ peuvent faire ici** :
+  - Test **Sang-Froid (-20)** pour qui veut s'arrêter et vérifier la dissonance de la zone.
+  - Aside privé au joueur de Johannes (Connaissance (Altdorf) 50+) : ne reconnaît pas une rue qu'il devrait connaître.
+  - Écouter les bribes des Sigmarites (option A) : retrait discret, aucun jet si bonne position, aucune conséquence.
+  - Confrontation verbale (option B) : **Charme / Intimidation Difficile (-10)** ; succès = on s'évite, échec = combat.
+  - Combat (option C) contre les zélotes ; si le jeune fuit et s'échappe → témoignage au CVC → PJ wanted (variante B globale).
+  - Repérer la silhouette : **Test Perception (-20)** ; poursuite = ruelle vide qui semble s'allonger.
+- **Sorties / et après** : → [[11 - Consultation Fassbinder]] · → retour [[Hub]]
 
 ## Le glissement
 
@@ -93,7 +106,7 @@ Juste après la résolution (sortie de Sigmarite, fin de combat) :
 
 Si poursuivi : rien. Ruelle vide. Aucune sortie évidente. La ruelle semble s'allonger à mesure qu'on y entre.
 
-**Ne pas commenter MJ**. Graine plantée. Sera réactivée si les PJ visitent Maria-Luise — elle décrira le visiteur de Kappelmuller dans les mêmes termes (cf. [[14 - Visite Karl-Franz]]).
+**Ne pas commenter MJ**. Graine plantée. Sera réactivée si les PJ visitent Maria-Luise — elle décrira le visiteur de Kappelmuller dans les mêmes termes (cf. [[32 - Visite Karl-Franz]]).
 
 ## Sortie de la zone déformée
 
@@ -101,7 +114,7 @@ Une fois la rencontre résolue, la ville **revient à elle-même**. Pas immédia
 
 Si les PJ vérifient après coup : (a) personne en ville ne se souvient les avoir vus passer dans la zone qu'ils croient avoir traversée ; (b) la ruelle aux mendiants existe — à 4 km de là, dans la Reikerbahn.
 
-→ Suite : [[04 - Bureau Fassbinder]].
+→ Suite : [[11 - Consultation Fassbinder]].
 
 ## Liens
 

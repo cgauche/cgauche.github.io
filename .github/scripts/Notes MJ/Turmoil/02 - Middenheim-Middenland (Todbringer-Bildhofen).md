@@ -243,7 +243,7 @@
 
 ### Cultes du Chaos actifs à Middenheim (canon Middenheim ch.7)
 - **Main Pourpre** (Wasmeier cell — Tzeentch) — cascade fiche 01
-- **Red Crown** (Tzeentch) — sponsor Beastmen Drakwald (blight harvests)
+- **Couronne Rouge** (Tzeentch) — sponsor Beastmen Drakwald (blight harvests)
 - **Crimson Skull** (Khorne) — **"secret society" issue de la Brotherhood of the Axe** (Fandom Brotherhood of the Axe + Fandom Crimson Skull) ; les guerriers les plus bloodthirsty de la Brotherhood sont recrutés ; **Magus = Boris Eichermann (ex-Priest of Ulric)** (canon Fandom Crimson Skull) ; **Convocation of Blood annuelle à Middenheim** ; **Claus Liebnitz appartient à la Brotherhood of the Axe** qui est *"infiltrée par des frères vénérant un dieu plus sombre"* (Middenheim ch.1 l.456) — vulnérabilité Khorne indirecte, son allégeance personnelle n'est pas tranchée canon
 - **Tinean Fellowship** (Nurgle) — Herr Doktor Sesselweiss
 - **Sceptre de Jade** (Slaanesh) — *"hardly anywhere in the Old World where a cult of Slaanesh has as much political clout"* (Middenheim ch.7 l.139) ; **Anika-Elise canon-explicite leader** (Middenheim ch.7 l.144) ; succession à Gotthard von Wittgenstein/Wallenstein

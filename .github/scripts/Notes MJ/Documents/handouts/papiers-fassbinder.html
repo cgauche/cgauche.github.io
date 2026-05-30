@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Papiers personnels — Q. Fassbinder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Kalam:wght@300;400;700&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+  body {
+    margin: 0; padding: 2em 0;
+    background: #2a1a0a;
+    background-image: radial-gradient(ellipse at center, rgba(80,50,20,0.4) 0%, transparent 70%);
+    font-family: 'Cormorant Garamond', serif;
+    color: #2a1a08;
+  }
+  .file { max-width: 17cm; margin: 0 auto; }
+  .page {
+    background: #e0cea0;
+    background-image:
+      radial-gradient(ellipse at 12% 18%, rgba(120,80,40,0.12) 0%, transparent 38%),
+      radial-gradient(ellipse at 88% 82%, rgba(100,60,20,0.10) 0%, transparent 42%),
+      linear-gradient(135deg, #e8d8b0 0%, #d5c094 50%, #ddc89f 100%);
+    padding: 2.4cm 2.4cm 2cm 2.4cm;
+    margin-bottom: 8px;
+    position: relative;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    min-height: 25cm;
+    box-sizing: border-box;
+    page-break-after: always;
+    break-after: page;
+  }
+  .page:last-child { page-break-after: auto; break-after: auto; }
+  @media print {
+    body { padding: 0 !important; background: white !important; }
+    .file { max-width: none !important; margin: 0 !important; }
+    .page {
+      margin: 0 !important; box-shadow: none !important;
+      width: 210mm; height: 297mm; min-height: 297mm;
+      padding: 2.4cm 2.4cm;
+    }
+  }
+
+  /* En-tête manuscrit de chaque feuillet */
+  .hand-title {
+    font-family: 'Caveat', cursive;
+    font-size: 1.7em; font-weight: 600;
+    color: #6a2010;
+    margin: 0 0 0.1em 0;
+    letter-spacing: 0.01em;
+  }
+  .hand-sub {
+    font-family: 'Caveat', cursive;
+    font-size: 1.15em; color: #5a3818;
+    margin-bottom: 1.4em;
+  }
+
+  /* Corps « note » à la main */
+  .note-body { font-family: 'Kalam', cursive; }
+  .note-body p { font-size: 1.05em; line-height: 1.7; margin: 0 0 0.9em 0; color: #2a1a08; }
+  .note-body .sign {
+    text-align: right; margin-top: 1.6em;
+    font-family: 'Caveat', cursive; font-size: 1.5em; color: #3a2010;
+  }
+  em { font-style: italic; color: #4a2a10; }
+  strong { color: #2a1a08; font-weight: 700; }
+
+  /* Corps « lettre » — plume plus posée */
+  .letter-body { font-family: 'Cormorant Garamond', serif; }
+  .letter-body .to { font-style: italic; color: #5a3818; margin-bottom: 1.4em; font-size: 1.05em; }
+  .letter-body p { font-size: 1.12em; line-height: 1.65; margin: 0 0 0.9em 0; }
+  .letter-body .close { margin-top: 1.6em; font-style: italic; }
+  .letter-body .sign {
+    text-align: right; margin-top: 0.2em;
+    font-family: 'Caveat', cursive; font-size: 1.6em; color: #3a2010;
+  }
+  .stamp {
+    position: absolute; top: 2cm; right: 2.4cm;
+    font-family: 'Caveat', cursive; color: #6a2010;
+    font-size: 1.1em; letter-spacing: 0.12em;
+    border: 2px solid #6a2010; padding: 0.15em 0.7em;
+    transform: rotate(-7deg); opacity: 0.8;
+  }
+
+  /* Annotation marginale « ajoutée plus tard », encre plus sombre */
+  .later-ink {
+    font-family: 'Kalam', cursive;
+    margin-top: 2em;
+    border-top: 1px dashed rgba(40,20,8,0.35);
+    padding-top: 1em;
+    color: #1c0f04;
+    transform: rotate(-1.2deg);
+  }
+  .later-ink .tag {
+    font-family: 'Caveat', cursive; font-style: italic;
+    color: #4a2a10; font-size: 1.05em; display: block; margin-bottom: 0.4em;
+  }
+  .later-ink p { font-size: 1.02em; line-height: 1.6; margin: 0 0 0.5em 0; font-weight: 700; }
+
+  .page-tag {
+    position: absolute; bottom: 1cm; right: 2.4cm;
+    font-family: 'Caveat', cursive; color: #8a5a30;
+    font-size: 0.95em; opacity: 0.7;
+  }
+</style>
+</head>
+<body>
+<div class="file">
+
+  <!-- Feuillet 1 — Note sur le Dr Schmidt -->
+  <div class="page">
+    <div class="hand-title">Note</div>
+    <div class="hand-sub">Dr Schmidt — faculté de médecine, Université.</div>
+    <div class="note-body">
+      <p>Trois fois cette saison j'ai partagé sa table aux dîners de faculté. Trois fois la même gêne. L'homme est urbain, disert, cite ses sources — et pourtant quelque chose en lui sonne faux, comme un luth bien accordé dont une corde serait morte.</p>
+      <p>Rien que je puisse poser sur le papier. Pas un mot de travers, pas un livre interdit sur ses rayons que j'aie pu voir. Seulement cette impression — et j'ai appris à ne pas la mépriser. J'ai trop lu sur la façon dont les serviteurs des Puissances Ruineuses se logent au cœur des institutions respectables pour ne pas renifler le soufre sous l'encens.</p>
+      <p>Mais accuser un collègue sur une simple impression, par les temps qui courent ? Le Chancelier ne demande qu'à me voir crier au loup une fois de trop. Je me tais. J'observe. Je note. Si un coursier lui porte des paquets qu'un médecin n'a pas à recevoir, je veux le savoir.</p>
+      <p>Pour l'instant : rien. Mais je n'aime pas cet homme, et ce n'est pas de l'antipathie de salon.</p>
+      <div class="sign">— Q.F.</div>
+    </div>
+    <div class="page-tag">papiers de Q.F.</div>
+  </div>
+
+  <!-- Feuillet 2 — Lettre à Lady Emmanuelle Nacht (copie de l'expéditeur) -->
+  <div class="page">
+    <div class="stamp">copie</div>
+    <div class="hand-title">Lettre</div>
+    <div class="hand-sub">— ce que j'ai envoyé, gardé pour mémoire.</div>
+    <div class="letter-body">
+      <div class="to">À Lady Emmanuelle Nacht.</div>
+      <p>Madame,</p>
+      <p>Vous m'aviez prié de vous écrire si mes travaux croisaient les vôtres. Ils les croisent.</p>
+      <p>La <strong>M.P.</strong> — vous savez de quel ordre je parle, nous en avons assez dit à demi-mot — n'est plus le murmure prudent qu'elle était. À Altdorf, elle s'enhardit. Des affaires longtemps mûries arrivent à maturité ; des fils que je croyais épars se nouent ensemble, et certains remontent plus haut que je n'osais le craindre. La politique du Reikland elle-même me paraît travaillée de l'intérieur — non par le tumulte que tout le monde voit, mais par une main patiente qui s'en sert.</p>
+      <p>Regardez autour de votre poste, Madame, et non devant vous. Ce qui vous frappe n'est peut-être pas né là où il éclate. Demandez-vous à qui profite le désordre, et qui était assez bien placé, assez tôt, pour le semer.</p>
+      <p>Je n'écris pas cela à la légère, ni à beaucoup de gens. Brûlez ceci.</p>
+      <div class="close">Votre serviteur,</div>
+      <div class="sign">Q.F.</div>
+    </div>
+    <div class="page-tag">papiers de Q.F.</div>
+  </div>
+
+  <!-- Feuillet 3 — Vieille note : « une seule main » (avec recension marginale tardive) -->
+  <div class="page">
+    <div class="hand-title">Note</div>
+    <div class="hand-sub">— une charpente, à éprouver.</div>
+    <div class="note-body">
+      <p>Enfin une charpente qui tient ! Blitzen me l'a soufflé dans sa dernière lettre, et plus j'y pense, plus l'édifice se dresse de lui-même.</p>
+      <p>Et si les deux cultes n'en faisaient qu'un par en dessous ? La <strong>M.P.</strong> et la <strong>C.R.</strong> se haïssent, soit — mais qu'est-ce que la haine entre serviteurs du Duc du Changement, sinon un voile de plus ? Blitzen affirme qu'<strong>Egrimm van Horstmann</strong> — celui qui corrompit la Lumière de l'intérieur — n'a jamais cessé d'essaimer. Ses créatures se seraient glissées dans l'un et l'autre culte. Une seule main tirant deux ficelles opposées : voilà l'élégance retorse que Tzeentch chérit.</p>
+      <p>Reste l'objection, et elle est de taille : ces cultes sont trop dispersés, trop cloisonnés, pour qu'une seule main les gouverne vraiment. On peut les infiltrer, les orienter — les commander, non. La charpente est belle. Est-elle vraie ? À éprouver.</p>
+      <div class="sign">— Q.F.</div>
+    </div>
+    <div class="later-ink">
+      <span class="tag">[ajouté plus tard, d'une encre plus sombre]</span>
+      <p>J'ai cité van Horstmann à un misérable que les frères du Marteau d'Argent tenaient au fer. Il a ri. À côté du <strong>C.O.</strong>, disait-il, van Horstmann ne serait jugé qu'un dilettante. J'ai poursuivi une ombre élégante pendant un an. La vraie tient dans ces deux mots que je ne sais pas encore lire. — Tout reprendre au <strong>C.O.</strong></p>
+    </div>
+    <div class="page-tag">papiers de Q.F.</div>
+  </div>
+
+</div>
+</body>
+</html>

@@ -5,10 +5,10 @@
 
 ## Quatre variantes globales — selon les choix en matinée
 
-L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[03 - Glissement Reikerbahn|Sigmarites]] + [[05 - Arrestation et fuite|arrestation]] + [[05 - Arrestation et fuite|fuite]].
+L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[51 - Glissement Reikerbahn|Sigmarites]] + [[13 - Arrestation et fuite|arrestation]] + [[13 - Arrestation et fuite|fuite]].
 
 ### Variante A — PJ « propres »
-**Conditions** : option « cacher/écouter » en Scène 3 + sortie discrète de la bibliothèque sans identification par les témoins.
+**Conditions** : option « cacher/écouter » au [[51 - Glissement Reikerbahn|Glissement]] + sortie discrète de la bibliothèque sans identification par les témoins.
 
 - Aucune charge.
 - Pression diffuse seulement.
@@ -16,7 +16,7 @@ L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[03 
 - Départ matinée tranquille, embarquement officiel La Comète.
 
 ### Variante B — PJ « tachés Sigmarite »
-**Conditions** : combat en Scène 3, le jeune zélote bouleversé s'est échappé.
+**Conditions** : combat au [[51 - Glissement Reikerbahn|Glissement]], le jeune zélote bouleversé s'est échappé.
 
 - Wanted fin d'après-midi.
 - [[Comité de Vigilance Citoyen|CVC]] en chasse.
@@ -31,7 +31,7 @@ L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[03 
 | Heure | Événement |
 |---|---|
 | 11:30-13:00 | Templiers interrogent les témoins de la salle de lecture. Spionwerber collecte les descriptions (visages, vêtements, identification de Johannes par ses pairs étudiants gris). |
-| 13:00-15:00 | Compilation, transmission à [[Yann Zuntermein|Zuntermein]]. 2-3 agents Spionwerber dispatchés sur les fréquentations probables (Helstein, Collège Gris, Rathaus, temple Shallya). |
+| 13:00-15:00 | Compilation, transmission à [[Yann Zuntermein|Zuntermein]]. 2-3 agents Spionwerber dispatchés sur les fréquentations probables (Helstein, Collège Gris, Palast District, temple Shallya). |
 | 15:00+ | Suivis actifs (30-50 m derrière le groupe, par paires en relais). **Perception (-20)** pour repérer un suiveur ; **(-10)** si un PJ se retourne au bon moment. |
 | Soir | Mandat de convocation Ordre du Marteau d'Argent livré à Helstein si les PJ y rentrent. [[Immanuel-Ferrand Holswig-Schliestein|Immanuel-Ferrand]] exfiltre Johannes du Collège Gris discrètement (sa couverture personnelle ne fléchit pas). |
 
@@ -41,7 +41,7 @@ L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[03 
 - **Risque collatéral** : un PNJ amical visité par les PJ (Maria-Luise, contact Shallya, etc.) est **fiché par observation depuis l'extérieur** — conséquences possibles en province quand les PJ seront partis.
 
 ### Variante D — Massacre généralisé
-**Conditions** : combat en Scène 3 ET en Scène 6 (arrestation refusée).
+**Conditions** : combat au [[51 - Glissement Reikerbahn|Glissement]] ET à l'[[13 - Arrestation et fuite|arrestation]] (refusée).
 
 - Wanted Empire-wide dans la semaine.
 - Reiksgarde alertée (mais Helborg absent — pas de réaction immédiate).
@@ -52,7 +52,7 @@ L'état du groupe à la sortie d'Altdorf dépend de comment ils ont géré [[03 
 ## Cas particuliers
 
 ### Si la table ne va pas voir Maria-Luise
-[[14 - Visite Karl-Franz|Module 5]] sauté. Pas de démasquage Kappelmuller, pas de détection du sort Tzeentch, pas de connexion silhouette ↔ visiteur. Maria-Luise enverra plus tard un courrier à Nuln — porte ouverte pour plus tard.
+[[32 - Visite Karl-Franz|Module 5]] sauté. Pas de démasquage Kappelmuller, pas de détection du sort Tzeentch, pas de connexion silhouette ↔ visiteur. Maria-Luise enverra plus tard un courrier à Nuln — porte ouverte pour plus tard.
 
 ### Si la table veut rester à Altdorf plus longtemps
 Refuser narrativement : la Comète attend, marine grogne, la ville devient invivable. Si insistance, possible **incident catalyseur** au matin du 6 Erntezeit : émeute ouverte à Reikerbahn, Chevaliers Panthère chargent, ville se ferme. Cliffhanger forcé.
@@ -61,7 +61,7 @@ Refuser narrativement : la Comète attend, marine grogne, la ville devient inviv
 **Brûle Altdorf** comme lieu accessible pour le reste de la campagne. Capture = bûcher. Coffre vidé = chasse Empire-wide. **À déconseiller fortement** — la quête du coffre est un arc longue durée, voir [[11 - Cadre Le réveil d'Altdorf]] §3 pistes.
 
 ### Si la table veut affronter Kappelmuller au combat
-Bloc combat canon — voir [[14 - Visite Karl-Franz]] §Combat. Lotus Noir sur les dagues = dangereux. Si Kappelmuller meurt sans aveux, Wasmeier et Zuntermein ne sont pas nommés ce soir-là — il faudra recoller via d'autres sources.
+Bloc combat canon — voir [[32 - Visite Karl-Franz]] §Combat. Lotus Noir sur les dagues = dangereux. Si Kappelmuller meurt sans aveux, Wasmeier et Zuntermein ne sont pas nommés ce soir-là — il faudra recoller via d'autres sources.
 
 ### Si un PJ veut suivre Wolfgang
 Pas à Altdorf — il est à Castle Reikguard. **Détour 1-2 jours** vers Reikguard, accès filtré (Reiksgarde). À activer plus tard.
@@ -73,7 +73,7 @@ Pas à Altdorf — il est à Castle Reikguard. **Détour 1-2 jours** vers Reikgu
 
 | Récompense | Points | Critère |
 |---|---|---|
-| Survie Sigmarites scène 1 | 25 | Évitement intelligent ou combat gagné |
+| Survie Sigmarites (Glissement) | 25 | Évitement intelligent ou combat gagné |
 | Repérage silhouette (1/3 + 2/3) | 15 | Test Perception réussi |
 | Transmission Fassbinder | 30 | Questions actives |
 | Fuite Répurgateurs propre | 25 | Aucun PJ identifié par les témoins / Spionwerber |
@@ -84,7 +84,7 @@ Pas à Altdorf — il est à Castle Reikguard. **Détour 1-2 jours** vers Reikgu
 | Écoute de rumeurs | 5 par 2-3 rumeurs gagnées | Effort RP |
 | Bonus Johannes intégration | 15 | Au joueur de Johannes (1ère session) |
 | Mark soigné Shallya | 10 | Si visite effectuée |
-| Elvira audience Rathaus | 10-20 | Selon la posture et le résultat |
+| Saisine au cabinet du Grand Chancelier | 10-20 | Selon la posture, ce qui est dit, et les conséquences déclenchées |
 
 **Total possible** : ~225 XP / PJ si tout réussi (Module 5 inclus).
 

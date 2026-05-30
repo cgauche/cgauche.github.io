@@ -187,7 +187,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
   - **Bhar (canon Bahr)** = repreneur de facto post-Kalzbad.
   - **Wasmeier's Cipher** [canon l.1778].
   - **Reya Ehrlich** sauf (canon l.1795).
-  - **Couronne Rouge / Red Crown** = **autre cult Tzeentch, alliée des mutants, rivale MP** (canon l.1798).
+  - **Couronne Rouge** = **autre cult Tzeentch, alliée des mutants, rivale MP** (canon l.1798).
   - **Vogel = jeune homme qui aide aux communications internes** (canon l.1801).
 
 **Plots homebrew S42** :
@@ -205,7 +205,7 @@ Arc 5 se finit en fin du Carnaval Vorhexen/Nachhexen 2512 IC (mi-hiver). Arc 6 d
 - **Dierk Vormann + Max the Racketeer** = subordonnés MP (canon — non identifiés explicitement table).
 
 ### MJ-only S42
-- **Couronne Rouge canon** : cult Tzeentch séparé de la MP (cf. fiche [[Main Pourpre]] + Arc 4 Etelka Herzen Red Crown). Lien Heidlemann (Arc 4) — Schmidt Altdorf — Aynjulls Isembeard Signal Tower. **Pas développé table Arc 6**.
+- **Couronne Rouge canon** : cult Tzeentch séparé de la MP (cf. fiche [[Main Pourpre]] + Arc 4 Etelka Herzen Couronne Rouge). Lien Heidlemann (Arc 4) — Schmidt Altdorf — Aynjulls Isembeard Signal Tower. **Pas développé table Arc 6**.
 - **Dierk Vormann** : l.1823 — under-Magister de Jarmund. **Reste actif post-S42** (Jarmund défecte, Vormann veut le tuer). **Hook potentiel non utilisé**.
 - **Vogel adresse 68 Sigismundweg Osttor** : l.1773 — révélée par lettre interceptée S43 (pas S42).
 - **Jarmund prison** : à table, **emprisonné par Schutzmann**. Canon ch.7 *Wrapping Up* l.1826 : « *Marshal has agreed to help Jarmund defect* ». Jarmund **vivant** post-S42.

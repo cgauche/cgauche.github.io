@@ -40,7 +40,7 @@ Trajet total : ~10-15 minutes.
 
 ## Apparition scénario
 
-[[13 - Approche via Lina]] : rendez-vous 22h précises, accès aux communs du Palais via la chaîne Lina → porte dérobée → voiture → Annaliese.
+[[31 - Approche via Lina]] : rendez-vous 22h précises, accès aux communs du Palais via la chaîne Lina → porte dérobée → voiture → Annaliese.
 
 ## Hooks futurs
 
@@ -51,5 +51,5 @@ Trajet total : ~10-15 minutes.
 ## Liens
 
 - **PNJ** : [[Lina la bouquiniste]], [[Annaliese]] (à l'autre bout).
-- **Scénario** : [[13 - Approche via Lina]].
+- **Scénario** : [[31 - Approche via Lina]].
 - **Lieu parent** : [[Altdorf]].

@@ -21,7 +21,7 @@ Sœur Maxima dirige l'**aile des blessés communs** du temple. Elle voit défile
 
 ## Apparition scénario
 
-[[11 - Mark au temple de Shallya]] — soigne Mark, peut parler de Wolfgang (absent, à Reikguard).
+[[41 - Temple de Shallya]] — soigne Mark, peut parler de Wolfgang (absent, à Reikguard).
 
 ## Voix / dialogue type
 
@@ -36,6 +36,6 @@ Sœur Maxima dirige l'**aile des blessés communs** du temple. Elle voit défile
 
 ## Liens
 
-- **Apparitions scénario** : [[11 - Mark au temple de Shallya]]
+- **Apparitions scénario** : [[41 - Temple de Shallya]]
 - **Lieux** : [[Grand Temple de Shallya Altdorf]]
 - **PNJ liés** : [[Maria-Luise von Walfen]] (hook futur), [[Wolfgang Holswig-Abenauer]] (absent)

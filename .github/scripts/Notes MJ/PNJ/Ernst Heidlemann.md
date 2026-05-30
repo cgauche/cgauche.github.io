@@ -2,13 +2,13 @@
 
 [Ernst Heidlemann — Lexicanum](https://whfb.lexicanum.com/wiki/Ernst_Heidlemann) · [Ernst Heindelmann — Fandom (polonais)](https://warhammer.fandom.com/pl/wiki/Ernst_Heindelmann)
 
-> **Pivot continuité Arc 2 → Arc 4** : cultiste **Red Crown (Tzeentch)** rencontré au Coach and Horses Inn, réapparaît à Death on the Reik (Signal Tower).
+> **Pivot continuité Arc 2 → Arc 4** : cultiste **de la Couronne Rouge (Tzeentch)** rencontré au Coach and Horses Inn, réapparaît à Death on the Reik (Signal Tower).
 
 ## Identité publique
 - **Fonction visible** : Apprenti physicien en route pour étudier à l'**Université d'Altdorf**.
 - **Apparence** : début vingtaine, taille moyenne, **lank brown hair**, **yeux bleu-pâle**. Essaie de faire pousser une barbe (sans grand succès). Air timide, "tente d'éviter toute conversation".
 - **Statut** : [MORT S25, Barren Hills] — tué par les PJ aux Collines Stériles aux côtés d'Etelka Herzen.
-- **Tags** : `#ErnstHeidlemann` `#RedCrown` `#Tzeentch` `#WizardApprentice` `#DotR` `#Anti-PurpleHand`
+- **Tags** : `#ErnstHeidlemann` `#CouronneRouge` `#Tzeentch` `#WizardApprentice` `#DotR` `#Anti-PurpleHand`
 
 ## Source
 - EiS ch.1 *Wanted: Bold Adventurers* (apparition + statbloc + identité) : `Source/Enemy Within Campaign Volume 1 Enemy in Shadows/01 - Wanted- Bold Adventurers.md` lignes 171-172, 257-270, 442-461
@@ -39,9 +39,9 @@
 
 ## Identité secrète (MJ-only)
 
-### Affiliation Red Crown
+### Affiliation Couronne Rouge
 
-- Cultiste **bas rang** de la **Red Crown** (Tzeentch). **Red Crown = culte Tzeentch, ennemi de la Main Pourpre** (canon ch.1 l.443). Rivalité interne Tzeentch.
+- Cultiste **bas rang** de la **Couronne Rouge** (Tzeentch). **Couronne Rouge = culte Tzeentch, ennemi de la Main Pourpre** (canon ch.1 l.443). Rivalité interne Tzeentch.
 - Sa **mission à Altdorf** : livrer les fioles à un certain **Doktor Schmidt** à l'Université. **Identité de Schmidt non précisée canon — c'est un daemonologue à l'Université** (probablement à inventer en détail si l'on creuse).
 - Les **préparations** : si analysées par un Apothecary/Lore (Chemistry), apparaissent comme "préparations pour alleviate palsy and restore strength" (canon ch.1 l.469). **Couverture pharmaceutique pour matériel magique**.
 
@@ -57,18 +57,18 @@
 
 - Canon EiS ch.1 l.471 dit explicitement : "**Ernst is a recurring character, and will be encountered later in The Enemy Within campaign**, so try your best to keep him alive for now."
 - Canon EiS ch.1 l.268 dit : "he does not travel to Altdorf with the Characters, but **can be encountered later in the campaign when he resurfaces in Death on the Reik**".
-- À détailler quand on traitera Arc 4. Hook : il fait partie du complot **Signal Tower** (cf. canon DotR), probablement lié à **Aynjulls Isembeard** ou à un cabal Red Crown plus large.
-- Arc 4 : Heidlemann opère avec **Etelka Herzen (même cellule Red Crown canon DotR ch.4 l.6)**. Apparitions table : S23 (vu de loin sur un autre navire), S25 (mort aux Collines Stériles avec Etelka). Cf. fiche [[Etelka Herzen]] enrichie.
+- À détailler quand on traitera Arc 4. Hook : il fait partie du complot **Signal Tower** (cf. canon DotR), probablement lié à **Aynjulls Isembeard** ou à un cabal de la Couronne Rouge plus large.
+- Arc 4 : Heidlemann opère avec **Etelka Herzen (même cellule de la Couronne Rouge canon DotR ch.4 l.6)**. Apparitions table : S23 (vu de loin sur un autre navire), S25 (mort aux Collines Stériles avec Etelka). Cf. fiche [[Etelka Herzen]] enrichie.
 
 ## Hooks de retour
-- **Arc 4** : Ernst comme adversaire du complot DotR. Possible cabal Red Crown (rival Main Pourpre).
-- **Altdorf** : si les PJ retournent à l'Université d'Altdorf, **Doktor Schmidt** est une cible potentielle. **Le réseau Red Crown d'Altdorf** = adversaire secondaire intéressant.
-- **Confrontation Red Crown vs Main Pourpre** : si Ernst et un Pourpre se croisent par les PJ, ils s'entretuent.
+- **Arc 4** : Ernst comme adversaire du complot DotR. Possible cabal de la Couronne Rouge (rival Main Pourpre).
+- **Altdorf** : si les PJ retournent à l'Université d'Altdorf, **Doktor Schmidt** est une cible potentielle. **Le réseau de la Couronne Rouge d'Altdorf** = adversaire secondaire intéressant.
+- **Confrontation Couronne Rouge vs Main Pourpre** : si Ernst et un Pourpre se croisent par les PJ, ils s'entretuent.
 - **Information sur Tzeentch** : Ernst connait des choses sur les démons (livre). Capturé vivant = source d'intel.
 
 ## Liens
 - **Arcs** : [[Arc 2 - Bögenhafen]] (S4), `Arc 4` (réapparition canonique)
-- **Fils ouverts** : FIL-18 (Ernst Heidlemann Red Crown)
-- **PNJ liés** : **Doktor Schmidt** (destinataire à Altdorf — daemonologue, non-rencontré), **Aynjulls Isembeard** (canon DotR — connexion possible), [[Gideon]] (rivalité Tzeentch — Red Crown vs Main Pourpre)
+- **Fils ouverts** : FIL-18 (Ernst Heidlemann Couronne Rouge)
+- **PNJ liés** : **Doktor Schmidt** (destinataire à Altdorf — daemonologue, non-rencontré), **Aynjulls Isembeard** (canon DotR — connexion possible), [[Gideon]] (rivalité Tzeentch — Couronne Rouge vs Main Pourpre)
 - **Lieux** : [[Altdorf]] (Université), Coach and Horses Inn (rencontre S4)
-- **Factions** : [[Red Crown]] (membre bas rang), opposant [[Main Pourpre]]
+- **Factions** : [[Couronne Rouge]] (membre bas rang), opposant [[Main Pourpre]]

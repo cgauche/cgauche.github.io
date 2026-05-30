@@ -25,12 +25,13 @@ Une **patrouille fluviale, *The Comet*** est réquisitionnée pour les emmener �
 ### Visite chez Fassbinder
 Quintus est dans le temple-bibliothèque. Il leur révèle :
 1. **Catalogues de Confusion** (Loremaster Yodri en khazalid) : Sigmar est passé entre **Vithang Dum** et **Zan Mingol** — un tronçon de 3 miles dans Col du Feu Noir, près des **Trois Sœurs** (statues d'ancêtres naines).
-2. Pendant la recherche, possibilités de trouver :
-   - **« Augures Admirables de Tante Augusta »** (Sœurs de Sigmar) : poème acrostiche orthographiant **SHEERARGETRU**
-   - **« Songes de Bertoldt le Malleun »** : prophétie du **9e jour du 9e mois**, manifestation démoniaque, **9 cultes, neuf hôtes**
-   - **Lettre codée à Kastor Lieberung** (Dark Tongue) : recette du rituel d'invocation
-   - **Permit minier Teugen/Steinhäger/Haagen** daté du 9 Brauzeit 2508 (!) pour la mine de Schmerzeit
-   - **« De l'Adéquat au Pitoyable »** (Loremaster Yodri) : forge de Smednir, **Sheerargetru nommée par Smednir**, daemon trapped
+2. Pendant la recherche (Perception Difficile -20 / 8 DR ou Recherche +0 / 5 DR pour les pamphlets ; 10 DR / 6 DR pour le permis ; canon `EiR ch.8 l.213, 266-267, 296`), possibilités de trouver :
+   - **« Augures Admirables de Tante Augusta »** (Sœurs de Sigmar) : comptine en quatre vers — au-delà des **Trois Mères**, prendre la **faille à gauche** (canon `EiR ch.8 l.220-223`)
+   - **« Songes de Bertoldt le Malleun »** : prophétie du **9e jour du 9e mois**, manifestation démoniaque, **9 cultes, neuf hôtes** (canon `EiR ch.8 l.227-231`)
+   - **Permis minier Teugen/Steinhäger/Haagen** daté du 9 Brauzeit 2508 pour la mine de Schmerzeit, 25 % Karak Hirn (canon `EiR ch.8 l.275-293`)
+   - **« De l'Adéquat au Pitoyable »** (Loremaster Yodri, traduction reikspiel autorisée par les Nains) : forge de Smednir, **Sheerargetru nommé par Smednir** et frappé du marteau inachevé, banni (canon `EiR ch.8 l.296-306`)
+3. Au cabinet verrouillé du bureau privé (raid optionnel, voir [[Scénarios/Le réveil d'Altdorf/11 - Consultation Fassbinder]] §Option) :
+   - **Lettre codée à Kastor Lieberung** (Sombre Langue + chiffrement Wasmeier) : décodable avec la clé Wasmeier des PJ (Middenheim Arc 3) — acrostiche **SHEERARGETRU** + recette du rituel + signature **Iztak Graksk** (canon `EiR ch.8 l.262-273`)
 
 ### Visite chez Henrik Kappelmuller (optionnelle)
 Si les PJ soupçonnent l'empoisonnement de Karl-Franz, ils peuvent se rendre dans la chambre impériale. Kappelmuller :

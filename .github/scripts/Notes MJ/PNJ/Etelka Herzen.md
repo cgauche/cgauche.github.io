@@ -1,16 +1,16 @@
 # Etelka Herzen
 
-> **Sorcière de la [[Red Crown]]**, antagoniste majeure de l'Arc 4 *Mort sur le Reik*. **Tuée par les PJ aux Collines Stériles S25** (foudre + combat mêlant esprits trahis et skavens). Son **carnet** est resté **chez Filianore** (FIL-50). Sa **mine près de Grissenwald** a été démantelée S24.
+> **Sorcière de la [[Couronne Rouge]]**, antagoniste majeure de l'Arc 4 *Mort sur le Reik*. **Tuée par les PJ aux Collines Stériles S25** (foudre + combat mêlant esprits trahis et skavens). Son **carnet** est resté **chez Filianore** (FIL-50). Sa **mine près de Grissenwald** a été démantelée S24.
 
 ## Identité publique
-- **Fonction** : **Sorcière de la [[Red Crown]]**, antagoniste majeure de l'Arc 4. Opère en duo avec [[Ernst Heidlemann]] (même cellule Red Crown canon) sur la traque d'une **pierre céleste** (skystone tombée de Morrslieb). Propriétaire d'une **mine près de Grissenwald** (façade économique + base d'opération régionale).
+- **Fonction** : **Sorcière de la [[Couronne Rouge]]**, antagoniste majeure de l'Arc 4. Opère en duo avec [[Ernst Heidlemann]] (même cellule de la Couronne Rouge canon) sur la traque d'une **pierre céleste** (skystone tombée de Morrslieb). Propriétaire d'une **mine près de Grissenwald** (façade économique + base d'opération régionale).
 - **Apparence** : à étoffer (canon DotR ch.4). **Femme** (récit S25 : « *une femme accompagnée un homme mince et de deux gros gaillards* »).
-- **Origine** : Reikland est. Cultiste vétéran Red Crown, magicienne formée hors-Collège (sorcery illégale, sorts de foudre signature).
+- **Origine** : Reikland est. Cultiste vétéran de la Couronne Rouge, magicienne formée hors-Collège (sorcery illégale, sorts de foudre signature).
 - **Statut** : **[MORTE S25, Barren Hills]** — tuée par les PJ aux Collines Stériles dans le climax du chapitre 4 DotR. Quatre adversaires morts sur place (Etelka + Heidlemann + 2 sbires costauds).
-- **Tags** : `#Herzen` `#RedCrown` `#Tzeentch` `#Sorciere` `#PierreCeleste` `#Skystone` `#MORT` `#Arc4` `#BarrenHills` `#MineGrissenwald` `#CarnetEtelka`
+- **Tags** : `#Herzen` `#CouronneRouge` `#Tzeentch` `#Sorciere` `#PierreCeleste` `#Skystone` `#MORT` `#Arc4` `#BarrenHills` `#MineGrissenwald` `#CarnetEtelka`
 
 ## Source
-- *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* (Etelka explicitement Red Crown) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md` ligne 6 (« *the clues found in Etelka Herzen's tower at Black Peaks indicate that she is travelling there for the Red Crown cult* ») + ligne 34 (« *It is important to keep track of Etelka Herzen and her crony, Ernst Heidlemann (...) Their Red Crown expedition* »)
+- *Death on the Reik* ch.4 *Grissenwald to the Barren Hills* (Etelka explicitement de la Couronne Rouge) : `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md` ligne 6 (« *the clues found in Etelka Herzen's tower at Black Peaks indicate that she is travelling there for the Red Crown cult* ») + ligne 34 (« *It is important to keep track of Etelka Herzen and her crony, Ernst Heidlemann (...) Their Red Crown expedition* »)
 - *Death on the Reik Companion* ch.7 *Fellow Travellers* : `Source/Death on the Reik Companion/14 - CHAPTER 7- FELLOW TRAVELLERS.md` (mention « *encountered Etelka Herzen and her band searching for something lost in the Barren Hills* »)
 - *Death on the Reik Companion* ch.15 *The Red Crown - A GM's Guide* : `Source/Death on the Reik Companion/22 - CHAPTER 15 THE RED CROWN - A GAMEMASTER'S GUIDE.md` (background cult)
 
@@ -22,8 +22,8 @@
 - **Pathsokar piste les attaquants** vers le sud, jusqu'au flanc d'une montagne. **Imposante demeure + mine** d'Etelka, **gardée par des gobelins**. Les nains accusés étaient innocents — c'étaient les gobelins d'Etelka qui pillaient.
 - Infiltration de la demeure, repérage par une patrouille, charge gobeline. **Mark invoque sa bête**, **Anselm lance un sort surpuissant** (« le tonnerre gronda ») qui **rase tous les gobelins**.
 - **Etelka absente** de sa demeure. Filianore trouve **un carnet** et le feuillette — quelque chose de **fou dans son regard** en le lisant à voix basse.
-- Le carnet révèle : **destination Collines Stériles** pour récupérer **une pierre très puissante**, accompagnée du mage **Ernst Heidlemann**. **Filianore présente Heidlemann comme « envoyé par la Main Pourpre »** dans son briefing — **mensonge délibéré** (canon : Heidlemann = Red Crown comme Etelka, pas MP). Cf. FIL-28.
-- **Filianore garde le carnet sur elle** (= **FIL-50**). Du matériel Red Crown récupéré, exploitable contre la rivale Tzeentch.
+- Le carnet révèle : **destination Collines Stériles** pour récupérer **une pierre très puissante**, accompagnée du mage **Ernst Heidlemann**. **Filianore présente Heidlemann comme « envoyé par la Main Pourpre »** dans son briefing — **mensonge délibéré** (canon : Heidlemann = Couronne Rouge comme Etelka, pas MP). Cf. FIL-28.
+- **Filianore garde le carnet sur elle** (= **FIL-50**). Du matériel de la Couronne Rouge récupéré, exploitable contre la rivale Tzeentch.
 - Les nains absous, **fête au village** ; faveur d'Elvira : autel à Rhya sur la grande place.
 
 ### [S25] — Mort aux Collines Stériles
@@ -46,56 +46,56 @@
 
 ## MJ-only
 
-### Affiliation canon Red Crown
-- **Etelka = Red Crown** (canon DotR ch.4 l.6 et l.34, ainsi que Companion ch.7 et ch.15). **Pas Main Pourpre.** Le briefing S22 de Filianore qui désigne Heidlemann (et par extension Etelka via collaboration) comme « Main Pourpre » est un **mensonge délibéré** de Filianore (cf. FIL-28 et fiche [[Filianore]] : Filianore est elle-même Main Pourpre infiltrée, oriente le groupe contre la Red Crown ennemie de sa propre faction).
-- **Cellule régionale Red Crown** : Etelka opère depuis sa **mine près de Grissenwald** (base régionale Reikland est). Heidlemann lui apporte info / contacts depuis Altdorf (Doktor Schmidt à l'Université d'Altdorf, canon EiS ch.1 + DotR Companion ch.15). **Réseau Red Crown** : Schmidt (Altdorf) ↔ Heidlemann (mobile) ↔ Etelka (Grissenwald).
+### Affiliation canon Couronne Rouge
+- **Etelka = Couronne Rouge** (canon DotR ch.4 l.6 et l.34, ainsi que Companion ch.7 et ch.15). **Pas Main Pourpre.** Le briefing S22 de Filianore qui désigne Heidlemann (et par extension Etelka via collaboration) comme « Main Pourpre » est un **mensonge délibéré** de Filianore (cf. FIL-28 et fiche [[Filianore]] : Filianore est elle-même Main Pourpre infiltrée, oriente le groupe contre la Couronne Rouge ennemie de sa propre faction).
+- **Cellule régionale de la Couronne Rouge** : Etelka opère depuis sa **mine près de Grissenwald** (base régionale Reikland est). Heidlemann lui apporte info / contacts depuis Altdorf (Doktor Schmidt à l'Université d'Altdorf, canon EiS ch.1 + DotR Companion ch.15). **Réseau de la Couronne Rouge** : Schmidt (Altdorf) ↔ Heidlemann (mobile) ↔ Etelka (Grissenwald).
 
-### Mission canon Red Crown
-- Récupérer la **pierre céleste** (skystone, fragment de Morrslieb) que **Dagmar von Wittgenstein** avait jadis rapportée des Collines Stériles. La **Red Crown** la veut pour usage rituel Tzeentch.
+### Mission canon Couronne Rouge
+- Récupérer la **pierre céleste** (skystone, fragment de Morrslieb) que **Dagmar von Wittgenstein** avait jadis rapportée des Collines Stériles. La **Couronne Rouge** la veut pour usage rituel Tzeentch.
 - **Arrivée trop tard** : à leur arrivée aux Collines, la pierre était déjà à l'île au phare puis au château Wittgenstein. **Restait dans les Collines** : carnets d'expédition Dagmar, restes humains, esprits piégés. **Etelka et Heidlemann fouillaient ces ruines** quand les PJ les ont surpris.
 
 ### Collaboration avec Heidlemann
-- **Même cellule Red Crown canon**. Pas une alliance inter-cult mais une **opération coordonnée intra-Red Crown** (Heidlemann = courrier / éclaireur, Etelka = magicienne opérationnelle locale).
-- Le **carnet** (FIL-50) consigne probablement la collaboration et les contacts Red Crown.
+- **Même cellule de la Couronne Rouge canon**. Pas une alliance inter-cult mais une **opération coordonnée intra-Couronne Rouge** (Heidlemann = courrier / éclaireur, Etelka = magicienne opérationnelle locale).
+- Le **carnet** (FIL-50) consigne probablement la collaboration et les contacts de la Couronne Rouge.
 
 ### Le carnet chez Filianore (FIL-50)
-- **Filianore l'a gardé** au lieu de le rendre à Emmanuelle Nacht. **Pas une brèche d'espionne anti-MP** (Filianore n'est pas vraiment espionne anti-MP — c'est sa couverture mensongère, cf. FIL-28). C'est une **récupération de matériel Red Crown** par une cultiste Main Pourpre rivale.
-- **Contenu probable** (à creuser table) : adresses de contacts Red Crown régionaux Reikland (Altdorf via Schmidt, possiblement Bögenhafen / Kemperbad), codes de reconnaissance Red Crown, notes magiques sur la pierre céleste, **correspondance avec Johannes Teugen** (récit S22 mentionne explicitement « *une correspondance entre Johannes Teugen et une certaine Etelka Herzen* » — Teugen = Ordo Septenarius, autre cult Tzeentch, donc convergence Red Crown ↔ Ordo Septenarius via Etelka). **Valeur inestimable** pour Filianore (MP rivale).
-- **Si une cellule Red Crown apprend que ce carnet existe et est aux mains des PJ**, **enjeu majeur** : récupération. **Hook latent Arc 5+**.
-- **Si Filianore lit le carnet** (canon S24 : « *quelque chose de fou dans son regard* »), elle y trouve probablement des **rituels Red Crown** qu'elle peut utiliser ou pervertir → contribution à la bascule schismatique S33 (Croix de Lilas).
+- **Filianore l'a gardé** au lieu de le rendre à Emmanuelle Nacht. **Pas une brèche d'espionne anti-MP** (Filianore n'est pas vraiment espionne anti-MP — c'est sa couverture mensongère, cf. FIL-28). C'est une **récupération de matériel de la Couronne Rouge** par une cultiste Main Pourpre rivale.
+- **Contenu probable** (à creuser table) : adresses de contacts de la Couronne Rouge régionaux Reikland (Altdorf via Schmidt, possiblement Bögenhafen / Kemperbad), codes de reconnaissance de la Couronne Rouge, notes magiques sur la pierre céleste, **correspondance avec Johannes Teugen** (récit S22 mentionne explicitement « *une correspondance entre Johannes Teugen et une certaine Etelka Herzen* » — Teugen = Ordo Septenarius, autre cult Tzeentch, donc convergence Couronne Rouge ↔ Ordo Septenarius via Etelka). **Valeur inestimable** pour Filianore (MP rivale).
+- **Si une cellule de la Couronne Rouge apprend que ce carnet existe et est aux mains des PJ**, **enjeu majeur** : récupération. **Hook latent Arc 5+**.
+- **Si Filianore lit le carnet** (canon S24 : « *quelque chose de fou dans son regard* »), elle y trouve probablement des **rituels de la Couronne Rouge** qu'elle peut utiliser ou pervertir → contribution à la bascule schismatique S33 (Croix de Lilas).
 
 ### Mine près de Grissenwald
 - **Imposante demeure + mine sur le flanc d'une montagne au sud de Grissenwald**, gardée par des gobelins (à la solde d'Etelka, peut-être par un sort de domination ou un pacte simple).
 - **Rachetée aux nains** sous prétexte « pas d'or à extraire » ; les nains croient depuis qu'Etelka **a trouvé l'or qu'elle prétendait absent**. En réalité, la mine servait probablement de **base d'observation pour surveiller le château Wittgenstein** (proximité du Reik est), de **dépôt magique**, ou de **laboratoire isolé**. **Pas d'or trouvé canon** — la rumeur naine était fausse.
 - **Démantelée S24** : tous les gobelins tués par le sort d'Anselm. **La demeure et la mine restent en l'état** post-S24 — pillables Arc 5+ ou squat possible (skavens, brigands, gobelins survivants ailleurs).
-- **Possible boîte aux lettres morte Red Crown** : si Etelka recevait des instructions par courrier, sa cache peut encore servir à d'autres cultistes Red Crown → hook de surveillance Arc 5+.
+- **Possible boîte aux lettres morte de la Couronne Rouge** : si Etelka recevait des instructions par courrier, sa cache peut encore servir à d'autres cultistes de la Couronne Rouge → hook de surveillance Arc 5+.
 
 ### Statbloc canon
 - À reprendre de `Source/Enemy Within Campaign Volume 2 Death on the Reik/07 - Chapter 4 Grissenwald to the Barren Hills.md` lors d'un retour ou si un esprit / nécromancien la rappelle. **Probable Sorcerer Silver/Gold avec sorts Tzeentch / Dhar Channelling** (sort de foudre observé S25).
 
 ### Conséquences de sa mort (révision Arc 4 post-S25)
-- **Cellule Red Crown régionale** : perte d'une magicienne expérimentée + perte de la base de Grissenwald + perte d'Heidlemann (courrier/éclaireur). **Réseau Red Crown du Reikland est gravement amputé** post-S25. **Doktor Schmidt à Altdorf** reste actif mais sans relais opérationnel régional. Hook : Schmidt envoie un remplaçant Arc 5+.
+- **Cellule régionale de la Couronne Rouge** : perte d'une magicienne expérimentée + perte de la base de Grissenwald + perte d'Heidlemann (courrier/éclaireur). **Réseau de la Couronne Rouge du Reikland est gravement amputé** post-S25. **Doktor Schmidt à Altdorf** reste actif mais sans relais opérationnel régional. Hook : Schmidt envoie un remplaçant Arc 5+.
 - **Réseau personnel d'Etelka** : possible apprenti ou acolyte non identifié, qui peut refaire surface comme antagoniste mineur Arc 5+. **Pas confirmé table**.
 
 ### Lien avec Johannes Teugen (récit S22)
-- **Correspondance Etelka ↔ Teugen** mentionnée explicitement dans le briefing Filianore S22. **Pont canon Red Crown ↔ Ordo Septenarius** (deux cults Tzeentch distincts mais coopérants régionalement). Etelka et Teugen partageaient probablement de la connaissance / des artefacts / des contacts.
-- **Conséquence Teugen mort S12 + Etelka morte S25** : le pont régional Tzeentch Reikland (Ordo Septenarius Bögenhafen + Red Crown Grissenwald) est rompu. Hook : un autre acteur Tzeentch tente de reconstituer ce pont.
+- **Correspondance Etelka ↔ Teugen** mentionnée explicitement dans le briefing Filianore S22. **Pont canon Couronne Rouge ↔ Ordo Septenarius** (deux cults Tzeentch distincts mais coopérants régionalement). Etelka et Teugen partageaient probablement de la connaissance / des artefacts / des contacts.
+- **Conséquence Teugen mort S12 + Etelka morte S25** : le pont régional Tzeentch Reikland (Ordo Septenarius Bögenhafen + Couronne Rouge Grissenwald) est rompu. Hook : un autre acteur Tzeentch tente de reconstituer ce pont.
 
 ## Hooks de retour (post-mortem)
-- **Possessions / carnet** : le carnet chez Filianore peut être déchiffré ou volé. **Hook majeur** Arc 5-6 (cellule Red Crown cherche à le récupérer ; cellule MP de Filianore cherche à l'exploiter contre la Red Crown).
+- **Possessions / carnet** : le carnet chez Filianore peut être déchiffré ou volé. **Hook majeur** Arc 5-6 (cellule de la Couronne Rouge cherche à le récupérer ; cellule MP de Filianore cherche à l'exploiter contre la Couronne Rouge).
 - **Vengeance d'élève / acolyte** : un apprenti d'Etelka peut refaire surface comme antagoniste mineur Arc 5+.
-- **Heidlemann mort confirmé S25** : pas de survivant Red Crown sur ce dossier, mais **Doktor Schmidt à Altdorf** reste un point ouvert (FIL-18 prolongé).
-- **Cellule Red Crown cherche le carnet aux Collines Stériles** : ne sachant pas que Filianore l'a, ils peuvent fouiller le site et ne rien trouver. **Convergence narrative possible** s'ils interrogent les PJ ou Corrobreth (Unterbaum).
+- **Heidlemann mort confirmé S25** : pas de survivant de la Couronne Rouge sur ce dossier, mais **Doktor Schmidt à Altdorf** reste un point ouvert (FIL-18 prolongé).
+- **Cellule de la Couronne Rouge cherche le carnet aux Collines Stériles** : ne sachant pas que Filianore l'a, ils peuvent fouiller le site et ne rien trouver. **Convergence narrative possible** s'ils interrogent les PJ ou Corrobreth (Unterbaum).
 - **Mine d'Etelka pillée par les skavens** : le clan minier qui a pris la pierre céleste S28 peut établir un avant-poste dans la mine désaffectée (proximité géographique + ressources mining). Raid possible Arc 5-6.
 - **Réveil par nécromancie** : si un cultiste futur rappelle son esprit (ou son corps n'a pas été détruit), elle peut revenir en sorcière non-morte avec une rancune personnelle envers les PJ.
 
 ## Fils ouverts
-- **FIL-18** — *Ernst Heidlemann (Red Crown Tzeentch)* — **RÉSOLU S25** (mort aux Collines Stériles avec Etelka). Réseau Doktor Schmidt à Altdorf latent.
-- **FIL-25** — *Animosity « Kastor and Friends »* — **CONTINUE** indépendamment de la mort d'Etelka (l'animosity vise les PJ comme associés de Kastor, transmissible à tous les cultistes pourpres — sans rapport avec la Red Crown).
-- **FIL-50** — *Carnet d'Etelka gardé par Filianore* — **OUVERT** (matériel Red Crown récupéré par Filianore MP infiltrée). Probable accélérateur de la bascule Tzeentch S33.
+- **FIL-18** — *Ernst Heidlemann (Couronne Rouge Tzeentch)* — **RÉSOLU S25** (mort aux Collines Stériles avec Etelka). Réseau Doktor Schmidt à Altdorf latent.
+- **FIL-25** — *Animosity « Kastor and Friends »* — **CONTINUE** indépendamment de la mort d'Etelka (l'animosity vise les PJ comme associés de Kastor, transmissible à tous les cultistes pourpres — sans rapport avec la Couronne Rouge).
+- **FIL-50** — *Carnet d'Etelka gardé par Filianore* — **OUVERT** (matériel de la Couronne Rouge récupéré par Filianore MP infiltrée). Probable accélérateur de la bascule Tzeentch S33.
 
 ## Liens
 - **Arcs** : [[Arc 4 - Mort sur le Reik]] (S24 mine, S25 mort)
-- **PNJ liés** : [[Ernst Heidlemann]] (partenaire opérationnel Red Crown, mort avec elle S25), [[Johannes Teugen]] (correspondance, mort S12), [[Filianore]] (gardienne du carnet, FIL-50), Doktor Schmidt (Altdorf, canon EiS — relais Red Crown amont)
+- **PNJ liés** : [[Ernst Heidlemann]] (partenaire opérationnel de la Couronne Rouge, mort avec elle S25), [[Johannes Teugen]] (correspondance, mort S12), [[Filianore]] (gardienne du carnet, FIL-50), Doktor Schmidt (Altdorf, canon EiS — relais de la Couronne Rouge amont)
 - **Lieux** : [[Grissenwald]] (taverne, point de départ), **mine d'Etelka** (au sud de Grissenwald, sur flanc de montagne), [[Unterbaum]] (passage), [[Collines Stériles]] (mort S25)
-- **Factions** : [[Red Crown]] (cellule régionale Reikland est)
+- **Factions** : [[Couronne Rouge]] (cellule régionale Reikland est)

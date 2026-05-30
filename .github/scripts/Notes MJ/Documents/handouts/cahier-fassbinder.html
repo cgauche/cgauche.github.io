@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Cahier de Quintus Fassbinder</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+  @page { size: A4; margin: 0; }
+  * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+  body {
+    margin: 0; padding: 2em 0;
+    background: #2a1a0a;
+    background-image:
+      radial-gradient(ellipse at center, rgba(80,50,20,0.4) 0%, transparent 70%);
+    font-family: 'Caveat', cursive;
+    color: #2a1a08;
+  }
+  .book {
+    max-width: 17cm; margin: 0 auto;
+  }
+  .page {
+    background: #e8d8b4;
+    background-image:
+      radial-gradient(ellipse at 12% 18%, rgba(120,80,40,0.12) 0%, transparent 35%),
+      radial-gradient(ellipse at 85% 75%, rgba(100,60,20,0.1) 0%, transparent 40%),
+      radial-gradient(ellipse at 60% 30%, rgba(140,100,60,0.08) 0%, transparent 50%),
+      linear-gradient(135deg, #ebd9b4 0%, #d8c498 50%, #e0cca6 100%);
+    padding: 2.5cm 2cm 2.5cm 2.5cm;
+    margin-bottom: 8px;
+    position: relative;
+    box-shadow: inset 8px 0 16px -8px rgba(50,30,10,0.4), 0 2px 8px rgba(0,0,0,0.3);
+    min-height: 25cm;
+    box-sizing: border-box;
+    page-break-after: always;
+    break-after: page;
+  }
+  .page:last-child {
+    page-break-after: auto;
+    break-after: auto;
+  }
+  @media print {
+    body { padding: 0 !important; background: white !important; }
+    .book { max-width: none !important; margin: 0 !important; }
+    .page {
+      margin: 0 !important;
+      box-shadow: none !important;
+      width: 210mm;
+      height: 297mm;
+      min-height: 297mm;
+      padding: 2.5cm 2cm;
+    }
+  }
+  .page::before {
+    content: ""; position: absolute; left: 1.8cm; top: 0; bottom: 0;
+    width: 1px; background: rgba(150,40,30,0.3);
+  }
+  .title-page {
+    text-align: center; padding: 5cm 2cm;
+    font-family: 'Cormorant Garamond', serif;
+  }
+  .title-page h1 {
+    font-size: 2.4em; font-weight: 600; margin: 0;
+    letter-spacing: 0.05em; color: #2a1a08;
+  }
+  .title-page .subtitle {
+    font-style: italic; font-size: 1.3em; margin-top: 0.5em;
+    color: #5a3818;
+  }
+  .title-page .signature {
+    margin-top: 5em;
+    font-family: 'Caveat', cursive;
+    font-size: 2em; color: #3a2010;
+    transform: rotate(-3deg);
+  }
+  .entry-date {
+    font-family: 'Caveat', cursive;
+    font-size: 1.8em;
+    color: #6a2010;
+    margin-bottom: 0.4em;
+    font-weight: 500;
+    transform: rotate(-1deg);
+    display: inline-block;
+  }
+  .entry-date.subtitle-small {
+    font-size: 1.4em; color: #8a4020;
+  }
+  .entry-text {
+    font-family: 'Caveat', cursive;
+    font-size: 1.5em;
+    line-height: 1.45;
+    color: #2a1a08;
+    margin: 0.4em 0 1.2em 0;
+  }
+  .entry-text p { margin: 0.5em 0; }
+  .entry-text em { color: #6a2010; font-style: italic; }
+  .ink-blot {
+    position: absolute; pointer-events: none; opacity: 0.5;
+    background: radial-gradient(circle, rgba(40,20,5,0.7) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .blot-1 { top: 3cm; right: 1.5cm; width: 40px; height: 35px; }
+  .blot-2 { bottom: 2cm; left: 4cm; width: 25px; height: 20px; opacity: 0.4; }
+  .signature-end {
+    font-family: 'Caveat', cursive;
+    font-size: 1.8em; color: #6a2010;
+    text-align: right; margin-top: 0.5em;
+    transform: rotate(-2deg); display: block;
+  }
+  .underline { text-decoration: underline; text-decoration-color: rgba(106,32,16,0.6); }
+  hr.fancy {
+    border: none; height: 1px;
+    background: linear-gradient(to right, transparent, rgba(106,32,16,0.4), transparent);
+    margin: 1.5em 4em;
+  }
+</style>
+</head>
+<body>
+<div class="book">
+
+  <!-- Page de titre -->
+  <div class="page title-page">
+    <h1>Cahier</h1>
+    <div class="subtitle">№ XII · Sigmarzeit 2513 IC</div>
+    <div class="signature">Q. F.</div>
+  </div>
+
+  <!-- 23 Pflugzeit — en route vers Middenheim -->
+  <div class="page">
+    <span class="entry-date">23 Pflugzeit</span>
+    <div class="entry-text">
+      <p>Premier jour de carrosse vers M. L.H. ne m'a pas adressé trois mots. Il avait fait savoir d'avance qu'il n'avait que faire d'un conseiller imposé par V.H. — il a tenu sa rancune dès le matin. Soit. L.E. n'a pas quitté son air pincé. E.L. évite la conversation avec les Middenheimers que nous croisons aux relais — un Reiklander en terre ulricane, ce n'est jamais agréable.</p>
+      <p>Encore une semaine de route. Patience.</p>
+    </div>
+  </div>
+
+  <!-- 30 Pflugzeit — Middenpalaz, soir -->
+  <div class="page">
+    <span class="entry-date">30 Pflugzeit <span class="subtitle-small">— Middenpalaz, soir</span></span>
+    <div class="entry-text">
+      <p>Arrivée au Middenpalaz cet après-midi. Accueil glacial, comme il sied.</p>
+      <p>J'ai abordé les av. en premier — six personnes dont une grande prêtresse de Rhya et une jeune sorcière. Bon esprit, regards francs, des aventuriers qui ont fait du chemin. Bonne pioche pour B.T.</p>
+      <p>Et puis A.R., l'un d'eux, joueur d'épée, a évoqué K.L. en passant. J'ai répondu par des condoléances avant d'avoir eu le temps de me ressaisir. Réaction d'idiot. Ils ont vu, j'ai vu qu'ils ont vu, et je me suis éclipsé vers B.T. en faisant semblant d'avoir une affaire urgente. Pathétique.</p>
+      <p>Plus tard dans la soirée, Y.Z. — l'assistant de L.H. — m'a abordé à part. Voulait savoir qui étaient ces six. Je lui ai dit que c'étaient des aventuriers ayant gagné la confiance de B.T., ce qui était la moitié de ce que je savais. Il avait remarqué ma réaction quand A.R. avait parlé, et il y est revenu. J'ai détourné la conversation sur Trister, ce qui était minable mais m'a permis de m'esquiver. Y.Z. n'est pas un sot. Il a observé toute la soirée sans en avoir l'air.</p>
+      <p>L.E. a fait un esclandre à une halfeline qui l'avait mal servie — la grande prêtresse de Rhya s'est interposée publiquement. La soirée a tourné court. V.H. est resté impénétrable comme toujours.</p>
+    </div>
+  </div>
+
+  <!-- 9 Sigmarzeit — retour à Altdorf -->
+  <div class="page">
+    <span class="entry-date">9 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Retour précipité à Altdorf il y a deux jours. V.H., furieux, a ordonné notre départ du Middenpalaz dès le lendemain matin — la mission diplomatique avait sombré en une seule soirée. Une semaine d'aller-retour pour trois heures utiles. Quel exercice.</p>
+      <p>Conclusion sur la mission : les av. semblent prometteurs. Si l'occasion vient, je leur parlerai plus longuement et plus prudemment de K.L. Une autre fois. Et je leur demanderai s'ils ont entendu, dans leurs voyages, des choses qui éclairent ce que je traque depuis B..</p>
+    </div>
+  </div>
+
+  <!-- 12 Sigmarzeit -->
+  <div class="page">
+    <div class="ink-blot blot-1"></div>
+    <span class="entry-date">12 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Y. enfin obtenu en prêt, contre serment de confidentialité. Deux semaines pour le rendre, peut-être moins. Si Y. tient ce qu'on m'en a rapporté, j'aurai matière à clouer le bec de Knox une fois pour toutes.</p>
+      <p>Le marteau de Sigmar n'a jamais quitté les montagnes du sud-est. J'en suis convaincu depuis l'année dernière, mais sans Y. je n'avais qu'une intuition. Avec Y., j'aurai un fondement à présenter.</p>
+    </div>
+  </div>
+
+  <!-- 14 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">14 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>On dit que les av. ont été reçus en audience par W.H. cette semaine. Quelques visages au cabinet sigmarite se sont fermés depuis hier. W.H. n'inspire plus le respect qu'il faudrait. Si K.F. ne se relève pas, la régence va peser lourd sur les épaules d'un homme qui n'a pas la tête pour ça.</p>
+    </div>
+  </div>
+
+  <!-- 16 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">16 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Première lecture sérieuse de Y. Le passage clé est plus court que je l'imaginais. Sigmar aurait été aperçu entre deux ruines naines, dans un couloir de trois milles. Les noms en khazalid sont là — je peux les épeler, mais leur localisation précise sur carte est hors de portée sans aide naine.</p>
+      <p>Y. se moque longuement de Knox et Shmidt. Le passage utile sur Sigmar fait à peine dix lignes — le reste est une diatribe contre l'historiographie humaine. <em>Du pur Y.</em></p>
+    </div>
+  </div>
+
+  <!-- 18 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">18 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Y. ne couvre que le couloir, pas l'orientation finale. Pour préciser, il faudra creuser du côté des hétérodoxes.</p>
+      <p>L'<em>Augusta</em> des Sœurs de Sigmar — six mois que je la traque dans les rayons tolérés sans la trouver. Secte féminine, hétérodoxie de salon ; nul ne me condamnera pour ce livre s'il finit sur ma table. Patience, il viendra.</p>
+      <p>Le Malleun et ses pamphlets clandestins, c'est autre chose : hérésie pure, déposés-sans-imprimatur. Je m'étais juré de ne pas y toucher tant que la cour théogonique est dans cet état. Trop d'yeux en ce moment.</p>
+      <p><em>Et pourtant je sens que je finirai par y mettre le nez. Ma curiosité a toujours eu le dernier mot.</em></p>
+    </div>
+  </div>
+
+  <!-- 20 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">20 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>La marche d'unité cet après-midi. Je suis passé sur Königstrasse pour regarder — beaucoup de bannières, peu d'unité. Sigmar-Ulric, c'est toujours pareil : chacun crie son dieu et personne ne s'entend plus. V.H. avait fait organiser cela avec soin, le résultat est en deçà des ambitions. Comme prévu.</p>
+    </div>
+  </div>
+
+  <!-- 21 Sigmarzeit -->
+  <div class="page">
+    <div class="ink-blot blot-2"></div>
+    <span class="entry-date">21 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Le petit J. a fait des progrès remarquables en khazalid courant. Il transcrit phonétiquement les runes anciennes que je peinais à épeler. Avec un peu de chance, il situera mieux que moi les noms de Y.</p>
+      <p>Cette semaine : interrogatoire d'un cultiste capturé par les frères du M.A. en marge de Reikerbahn. J'y vais avec Lehr. jeudi. À noter dans le dossier M.P.</p>
+    </div>
+  </div>
+
+  <!-- 23 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">23 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Interrogatoire d'hier. Le cultiste avait défié l'inquisiteur avec la même phrase que celui de B. il y a quatre ans : <em>« quand le C.O. se lèvera, les rôles seront inversés. »</em> Deuxième fois que j'entends cette formule, à chaque fois prononcée par un prisonnier au seuil de la mort.</p>
+      <p>Aucun écrit que je connaisse ne mentionne ce C.O. Mais il revient, et il revient à des moments graves. À creuser quand j'aurai du temps.</p>
+    </div>
+  </div>
+
+  <!-- 26 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">26 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Cours d'hier. J'ai dit à voix haute devant quarante étudiants que le marteau brandi par les Empereurs est un faux et que le vrai est ailleurs. Trois ont baissé les yeux. Deux ont quitté la salle. Le reste a noté.</p>
+      <p>Je sais ce qui va se dire en ville d'ici trois jours : <em>Fassbinder enseigne l'hérésie.</em> I.F. va se frotter les mains. Mais ma protection auprès des frères du M.A. est solide — Lehr. couvrira. Il fallait que la chose soit dite à voix haute avant que le dossier ne devienne public.</p>
+      <p>J'aurais peut-être dû attendre que Y. valide le repère géographique avant de me prononcer. Trop tard pour la prudence. Au moins l'idée est dans l'air ; quand l'évidence tombera, certains comprendront plus vite que d'autres.</p>
+    </div>
+  </div>
+
+  <!-- 30 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">30 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Les av. ont cherché à me voir hier soir. Je leur ai fait dire que je n'avais pas le temps avant le mariage — trop à faire ici, et je veux d'abord boucler ma lecture de Y. avant de leur parler. Surlendemain au plus tôt.</p>
+      <p>Lettre S.L. du cabinet — celle reçue il y a un an via le courrier discret de B.. J'y suis revenu ce matin. Forme cohérente avec ce que j'ai vu chez A.K. à l'époque. Si c'est bien la même main, alors la cellule M.P. d'Altdorf est plus ancienne et plus structurée que je ne le pensais.</p>
+      <p>Décryptage toujours bloqué — pas la langue, le chiffrement. Une substitution superposée aux runes S.L., dont j'ai déjà croisé le motif chez A.K. à B. — il l'avait surnommé <em>« la grande écriture du Maître »</em>, sans en savoir plus. Un an que je tourne autour sans rien casser.</p>
+      <p>Si jamais quelqu'un sait quelle clé s'applique à ce motif, je tiens enfin cette lettre.</p>
+    </div>
+  </div>
+
+  <!-- 31 Sigmarzeit -->
+  <div class="page">
+    <span class="entry-date">31 Sigmarzeit</span>
+    <div class="entry-text">
+      <p>Le conclave. J'y étais. Le marteau brisé. E.T. a pâli, V.H. est resté impassible. Au moment où le marteau a éclaté, j'ai compris que mon hypothèse — un an d'élaboration sourde — venait de se valider d'un coup.</p>
+      <p>L'imitation est cohérente avec ce que dit Y. p. 19. Le vrai marteau est ailleurs. J'ai dit aux av. que je leur expliquerais demain. Préparer la séance.</p>
+    </div>
+  </div>
+
+  <!-- 32 Sigmarzeit fin journée -->
+  <div class="page">
+    <span class="entry-date">32 Sigmarzeit <span class="subtitle-small">— fin de journée</span></span>
+    <div class="entry-text">
+      <p>L'assaut sur Helstein cette nuit. B.T. mort. Le même homme qui a brisé le faux marteau hier meurt aujourd'hui — drôle d'accélération. La cité va se déchirer dans les semaines à venir.</p>
+      <p>H.T. a fait dire que les av. seraient là demain matin. Bien — ils ont survécu. Sans eux la piste meurt avec moi.</p>
+      <p>Demain dès l'ouverture, rayon est, sigmarites tolérés : c'est l'occasion pour l'<em>Augusta</em>. Demander à J. de transcrire p. 47-48 de Y. ce soir, qu'on ait un texte net.</p>
+      <p>Tant que j'y suis : Y. en retard depuis six jours, négocier un délai à la communauté naine. S.L. à classer si rien ne sort d'ici Sommerzeit. C.O. à reprendre dans mes notes d'interrogatoires. Ce rendez-vous tombe à pic — ils ont peut-être croisé en chemin de quoi débloquer un dossier ou deux.</p>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>
