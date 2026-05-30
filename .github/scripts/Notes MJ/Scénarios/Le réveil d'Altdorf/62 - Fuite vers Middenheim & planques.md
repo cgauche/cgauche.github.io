@@ -35,7 +35,11 @@ Pour des PJ très chauds (B+C) ou « un peu fous », il existe des sorties **sou
 - **Tunnels de contrebande nains** (East End) : **Alvin** / brasserie **Khufer** font fuir des Nains injustement condamnés par des tunnels *« s'étendant sur des miles vers des lieux boisés hors de la ville »* (`Altdorf-CotE ch.6 l.480`). Négociables contre service/paiement.
 - **Undercity en général** : la Garde n'y patrouille pas (`Altdorf-CotE ch.8 l.88`) — mais dangers propres (inondations, effondrements ; Under-Altdorf skaven, qui s'interdit toutefois les enlèvements intra-muros — `Altdorf-CotE ch.8 l.7, l.101`).
 
-Mécanique : trouver l'entrée (Connaissance (Altdorf) ou contact gang) + progression sous terre (Discrétion, Athlétisme, gestion de la lumière). Johannes (mendiant local) ou un contact Fish peut servir de guide.
+**Mécanique** :
+- **Trouver l'entrée** : Connaissance (Altdorf) +0, ou **automatique** avec un guide (Johannes, mendiant local d'office ; ou un contact Fish moyennant un service).
+- **Progression sous terre** : un test étendu **Discrétion (-10)** à **4 DR** (lumière, eau, boue, bruit). Sans guide, **-20**.
+- **Échec d'un jet** = un **ennui** : se perdre (1-2 h de plus + jet à refaire), une montée d'eau soudaine (**Endurance +0** ou 1 Blessure + matériel trempé), ou des bruits qui attirent l'attention (footpads, voire une patrouille skaven d'Under-Altdorf — qui s'abstient toutefois d'enlever intra-muros, `Altdorf-CotE ch.8 l.101`).
+- **Sortie** : par le canal Manann = **hors les murs au nord** (on rejoint la route de Middenheim / Reiksport) ; par les tunnels Khufer/Alvin = **lieux boisés hors les murs** à l'est. Avec un guide, la sortie est connue ; sans guide, **Connaissance (Altdorf) +0** pour ne pas ressortir au mauvais endroit (parfois *dans* la ville, près d'une patrouille).
 
 ## Voie 3 — Coche ou sillage du convoi
 
@@ -51,6 +55,12 @@ S'ils choisissent de **ne pas partir** (poursuivre Maria-Luise, traquer Wasmeier
 - **Reikerbahn / Old Docks / Altmünze** (East End) : la Garde **a renoncé** à y policer (`Altdorf-CotE ch.6 l.126`) ; rookery où *« on peut passer toute une vie sans voir le soleil »* (`Altdorf-CotE ch.6 l.122-124`). Bonus : **Wasmeier y vit** (rumeur #17) — se planquer ici, c'est se rapprocher d'une cible.
 - **Isle of Eels** : île à pont unique, **interdite à la Garde**, tenue par les Fish, PLANT très actif, pont facile à bloquer (`Altdorf-CotE ch.6 l.16-19`).
 - **Undercity** : **Smugglers' Lagoon** sous le Vargr Breughel — lagune abandonnée, *« bolthole parfait »* (`Altdorf-CotE ch.8 l.72-73, l.90-92`) ; **Catacombs** reliant les Jardins de Morr — refuge des persécutés (`Altdorf-CotE ch.8 l.75-78`).
+
+### Tenir la planque — effet de jeu
+- **Entrer / se faire accepter** dans une planque Fish : un **service rendu** (contrebande, un « job », info) ou paiement (~10+ CG), sinon **Charme / Marchandage (+0)**. Une fois admis, les locaux **ne donnent pas** les PJ (angle mort sigmarite).
+- **Effet sur la traque** : tant qu'ils restent dans la zone-aveugle (turf Fish, Undercity), **aucune nouvelle filature ne les accroche** et les filatures en cours **perdent la trace** ; la heat-clock ([[Ambiance]] §Traque) **se fige** au lieu de monter. La planque **n'efface pas** ce qui est déjà su (signalements, mandat de l'Ordre).
+- **Sortir pour agir** en ville (voir Maria-Luise, le Palais, l'Université) = **re-exposition** : un test **Discrétion (+0)** par sortie ; échec = une filature raccroche et la clock repart.
+- **Durée** : tenable plusieurs jours, mais chaque jour la ville se dégrade (voir §Coût ci-dessous) et le service dû aux Fish peut être réclamé (accroche d'aventure).
 
 ### Qui les abrite — et qui éviter
 - **Les Fish** : vieux gang docker, contrebandiers, **liés aux révolutionnaires** ; ils contrôlent Old Docks / Isle of Eels / Reikerbahn et **font disparaître des gens** contre service (`Altdorf-CotE ch.3 l.15-22`). Porte d'entrée concrète : **Earnest Erich** embauche de la main-d'œuvre au jour le jour devant le **Broken Barrel** — un moyen de se fondre dans la masse des dockers (`Altdorf-CotE ch.6 l.119`). **Prix** : un service (contrebande, un coup de main sur un « job »), pas de la charité.

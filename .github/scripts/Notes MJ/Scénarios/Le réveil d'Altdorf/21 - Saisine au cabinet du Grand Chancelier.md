@@ -87,7 +87,12 @@ Immanuel-Ferrand se ferme. Réponse formelle :
 - Renforcement immédiat de la surveillance Spionwerber sur les PJ.
 
 ### Si les PJ insistent pour une audience impériale
-Le secrétaire propose une demande de rendez-vous au cabinet du **High Chamberlain Count Boris Dunhoring Von Ostdornbach** (`Altdorf-CotE ch.2 l.137-139` — *« the only member of the Council of State who regularly attends Privy Council with the Emperor »*). Délai annoncé : **trois à cinq jours**. Les PJ partent avant.
+Le secrétaire propose une demande de rendez-vous au cabinet du **High Chamberlain Count Boris Dunhoring Von Ostdornbach** (`Altdorf-CotE ch.2 l.137-139` — *« the only member of the Council of State who regularly attends Privy Council with the Emperor »*). Délai annoncé : **trois à cinq jours**.
+
+**Ce qui se passe s'ils déposent quand même la demande** (ils partent en général avant l'audience) :
+- La demande est **enregistrée** : leurs noms et leur qualité (compagnons Todbringer) sont versés au registre du cabinet — donc, via le secrétaire Graukappen, **au dossier Spionwerber** (recoupe la surveillance en cours, accélère la traque si variante C).
+- **Réponse écrite** possible plus tard à Nuln/Middenheim (« audience reportée, l'Empereur est en convalescence ») — jamais une audience réelle dans la fenêtre du scénario.
+- **La vraie voie vers l'Empereur n'est pas celle-là** : elle passe par Maria-Luise → [[31 - Approche via Lina]] → [[32 - Visite Karl-Franz]]. Le secrétaire ne le dira évidemment pas.
 
 ### Si Elvira sort sur le parvis du Palais et harangue la foule
 Action publique de prêtresse Rhya devant le Palast District. **Charme (+0)** ou **Commandement (+0)** pour rassembler 15-30 sympathisants.

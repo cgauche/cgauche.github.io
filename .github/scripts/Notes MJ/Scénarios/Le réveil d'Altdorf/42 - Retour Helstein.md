@@ -31,7 +31,7 @@ Les PJ peuvent :
 - **Se reposer** — siestes possibles, restauration des fatigues éventuelles. **Endurance** récupère normalement.
 - **Soigner les blessures mineures** — bandages, baumes. Pour Mark (KO S63 toujours convalescent) ou tout PJ blessé pendant Sigmarites/Fuite. Soins majeurs = [[41 - Temple de Shallya|temple Shallya]].
 - **Manger** — Bertholdt fait servir un repas froid (pain, fromage, vin coupé d'eau).
-- **Préparer le départ** — affaires personnelles, équipements, vérification du mandat Todbringer.
+- **Préparer le départ** — affaires, équipements. **Vérification du mandat Todbringer** : c'est le pli scellé remis par Heinrich (cf. [[01 - Briefing Helstein]]) qui les **désigne comme agents mandatés de la Maison Todbringer**. En clair : caution/laissez-passer dans les sphères **Todbringer / Ulric / Middenland** (porte Wolftor, convoi, gens de maison) ; à l'inverse, **pièce compromettante** en zone sigmarite/CVC (les associe à un Électeur ulricain mort en hérétique). La **lettre de change** jointe (200 couronnes au comptoir de Nuln, sur signature de Heinrich) n'est mobilisable qu'à Nuln.
 - **Lire les documents** saisis chez Fassbinder — déchiffrement possible par tout PJ avec **Recherche** ou **Connaissance (Linguistique)** ; Johannes connaît les sigles de Fassbinder d'office (cf. [[11 - Cadre Le réveil d'Altdorf]] §8). Voir [[Fassbinder - documents bureau]].
 - **Tenir conseil** — discuter de la décision : accepte-t-on le rendez-vous Maria-Luise du soir ?
 

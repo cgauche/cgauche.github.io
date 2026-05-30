@@ -211,7 +211,7 @@ Atteindre l'escalier en colimaçon (5 m de la table de Fassbinder) : **Discréti
 
 ### Voie C — Porte annexe (salle des manuscrits)
 
-Atteindre la porte annexe côté ouest (8 m de la table de Fassbinder, à 2 m du casier) : **Discrétion (+0)**. La salle des manuscrits est verrouillée pour le public mais Fassbinder y avait accès — sa clé pourrait être dans son casier ou dans son trousseau (Johannes peut le savoir : test Connaissance (Altdorf) +0 ou aside MJ). Sortie par la porte de service annexe → ruelle des copistes.
+Atteindre la porte annexe côté ouest (8 m de la table de Fassbinder, à 2 m du casier) : **Discrétion (+0)**. La salle des manuscrits est verrouillée pour le public. **La clé est inaccessible** (au trousseau de Fassbinder, parti avec lui) — donc on force : **Crochetage (-10)** ou **Force (-20)** (bruit modéré, comme les autres serrures du bâtiment). Johannes sait d'office que c'est verrouillé (aside MJ) ; un autre PJ le déduit sur **Connaissance (Altdorf) +0**. Sortie par la porte de service annexe → ruelle des copistes.
 
 ### Voie D — Fenêtre cloître
 
@@ -308,7 +308,7 @@ Contrairement à un huis clos, la sortie publique laisse **des témoins** :
 
 [[Yann Zuntermein]] a, via [[Chambre Noire|Chambre Noire]], transmis à un Templier Répurgateur senior une liste d'évidences fabriquées contre Fassbinder. Le mandat est signé par un **Lecteur radical proche de [[Volkmar von Hindenstern|Volkmar]]**, **pas par [[Yorri XV]]** (qui n'est pas informé). C'est précisément pour ça que Fassbinder ne reconnaît pas le nom du signataire et bascule en Beat 5.
 
-L'équipe d'arrestation : 1 Templier Répurgateur senior + 4 Initiés/Zélotes + 2 Veilleurs du Watch pour bloquer la porte principale. Voir [[Ordre du Marteau d'Argent]] et [[Répurgateurs]] (à créer).
+L'équipe d'arrestation : 1 Templier Répurgateur senior + 4 Initiés/Zélotes + 2 Veilleurs du Watch pour bloquer la porte principale. Voir [[Ordre du Marteau d'Argent]].
 
 ## Sort de Fassbinder
 

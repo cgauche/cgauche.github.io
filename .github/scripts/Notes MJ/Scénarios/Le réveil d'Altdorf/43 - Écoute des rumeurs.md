@@ -24,27 +24,29 @@ Un PJ qui veut écouter fait un test **Commérages (+0)** ou **Connaissance (Rei
 
 ## Lieux d'écoute typiques
 
+Chaque lieu **filtre le pool** ([[Ambiance]] §Rumeurs) : pioche dans les # indiqués (l'heure prime — une rumeur d'après-midi ne sort pas le matin).
+
 ### Taverne du Drapeau Noir (rive sud, étudiants + bourgeoisie modeste)
-Accès facile, ambiance bohème. **Rumeurs étudiantes et politiques**. Un PJ peut y écouter des bribes sur Fassbinder, Volkmar, le conclave. Un étudiant peut même évoquer le miracle.
+Accès facile, ambiance bohème. **Rumeurs étudiantes et politiques** → pioche **#3, #8, #10, #11, #14, #18, #19** (Volkmar/miracle, Fassbinder arrêté puis mort, « associés de l'hérétique »).
 
 ### Marché de Stollenplatz (rive nord)
-Lieu populaire. **Rumeurs commerçantes et populaires**. Les prix du grain, les nouvelles importées via les marchands de Carroburg ou Nuln.
+Lieu populaire. **Rumeurs commerçantes et populaires** → **#1, #2, #6, #7, #15** (Helstein, Todbringer blessé, grain, mine d'Averland).
 
 ### Quai des Marchands (Doklands)
-Lieu ouvrier. **Rumeurs révolutionnaires**. Cri de *« République »* devient audible vers la fin d'après-midi. **Risque CVC** (Comité de Vigilance Citoyen) — 3-5 gros bras circulent en patrouille civique sigmarite.
+Lieu ouvrier. **Rumeurs révolutionnaires** → **#5, #16, #17, #21** (patrouille fluviale, Panthère ne protège que les riches, *Wasmeier* chuchoté, « République ! »). Cri de *« République »* audible vers la fin d'après-midi. **Risque CVC** — 3-5 gros bras en patrouille civique sigmarite.
 
 **Tests pour s'en sortir si interception CVC** : Charme (+0) ou Intimidation (+0) ou Discrétion (-10). Échec = bagarre courte ou fuite.
 
 ### Temple de Shallya (rive sud)
-Lieu calme. **Rumeurs religieuses**. Les prêtres soignent les blessés post-assaut Helstein, écoutent les confidences. Un PJ poli (surtout Elvira ou Dietrich-équivalent) peut glaner sur les états d'âme religieux de la ville.
+Lieu calme. **Rumeurs religieuses** → **#4, #8, #10, #20, #23** (assemblée d'urgence du culte, lumière à la cathédrale, Volkmar priait, Reiksgarde au Palais, le médecin de l'Empereur a disparu). Un PJ poli (Elvira surtout) y glane les états d'âme religieux.
 
 ### Bibliothèque Verena (Université)
-Lieu intellectuel. **Rumeurs universitaires**. Possible nouvelles sur l'arrestation Fassbinder, sur d'autres scholars surveillés, sur des purges intellectuelles en cours.
+Lieu intellectuel. **Rumeurs universitaires** → **#13, #14** (Chambre Noire enquête, arrestation Fassbinder + scholars surveillés).
 
-**Attention** : si les PJ ont été vus pendant l'arrestation, leur présence à l'Université est risquée.
+**⚠ Risque si les PJ sont tachés Fassbinder** (variante C) : un **agent Spionwerber en civil** est posté dans la salle de lecture depuis 13h (voir [[12 - Consultation Fassbinder — arrivée tardive]] sous-scène D). **Perception (-10)** pour le repérer. Tout PJ qui **interroge ouvertement** le personnel sur Fassbinder est **identifié** → la filature du soir se resserre (cascade [[Ambiance]] §Traque). Mieux vaut écouter ailleurs.
 
 ### Apothicaire de Madame Kleinestun (rive sud, Templwart proche)
-Lieu spécifique. Si un PJ veut sonder Elvyra, elle est là tout l'après-midi. Elle est nerveuse — Kappelmuller la couvre, mais elle sent que quelque chose se trame.
+Lieu spécifique → **#24** (l'enfant à coupe au bol vu chez Kleinestun — la pépite). Si un PJ veut **sonder Elvyra**, elle est là tout l'après-midi (conversation = [[Enquête Kappelmuller]] Piste 2). Elle est nerveuse : Kappelmuller la couvre, mais elle sent que quelque chose se trame.
 
 ## Distribution des rumeurs
 

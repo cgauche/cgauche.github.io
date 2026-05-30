@@ -28,10 +28,10 @@ Mark a été mis KO pendant l'assaut du manoir Helstein (S63 : fléau, incendie,
 - **Conseil convalescence** : *« Vous récupérerez en deux à trois jours si vous restez tranquille. Sept si vous vous battez encore. »*
 - **Compatible avec le voyage** : Mark peut finir sa convalescence sur la Comète pendant les 10-12 jours fluviaux vers Nuln.
 
-Mark peut **acheter** des fournitures :
-- Bandages (quelques shillings)
-- Potion de soin légère (1 GC)
-- Healing Draught (2 GC)
+Mark peut **acheter** des fournitures (effets à défaut, ajuste selon ta table) :
+- **Bandages** (quelques shillings) : permettent un test **Soins (Premiers soins)** sur le terrain (sans matériel, le test est à -10).
+- **Potion de soin légère** (1 GC) : usage unique, **restaure 1d10 PV**.
+- **Healing Draught** (2 GC) : usage unique, **restaure 1d10 PV et retire la condition Saignement (1)**.
 
 ## Wolfgang — non présent
 

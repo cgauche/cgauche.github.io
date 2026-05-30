@@ -52,9 +52,11 @@ Les 10-12 jours de voyage laissent du temps pour examiner ce qui a été saisi.
 
 Si récupérée au casier/bureau (scène 13). Décodage = clé Wasmeier (les PJ l'ont depuis Middenheim Arc 3) — substitution mécanique, n'importe quel PJ peut faire le travail. Contenu MJ : voir [[Fassbinder - documents bureau]] §IV.
 
-### Feuillet acrostiche Tante Augusta
+### Feuillet Tante Augusta (si saisi sur la table)
 
-Poème pour enfants des Sœurs de Sigmar. Première lettre de chaque vers compose un nom acrostiché.
+Comptine en quatre vers des Sœurs de Sigmar (lecture courante, **pas de jet**). Donne l'**orientation finale au-delà du couloir VD/ZM** : trois statues d'aïeules naines — les **Trois Mères** — marquent une faille ; direction **à gauche** au-delà des Trois Mères. Texte intégral + glose : [[Fassbinder - documents bureau]] §IV (canon `EiR ch.8 l.218-223`).
+
+*(L'acrostiche du nom SHEERARGETRU se lit dans la lettre Wasmeier déchiffrée — voir ci-dessus §Lettre à Kastor Lieberung.)*
 
 ### Cahier de synthèse Fassbinder
 
@@ -103,7 +105,9 @@ Marginalia des 48h finales. Sigles plus serrés que le cahier de synthèse. Poss
 
 ### Notes personnelles de Johannes (au logement du Collège Gris)
 
-Travaux des mois précédents aux côtés de Fassbinder sur l'histoire et les cultes du Chaos. Utile pour identifier des sigles cultistes, des cellules de la Main Pourpre, des noms d'agents sur la suite du voyage.
+Travaux des mois précédents aux côtés de Fassbinder sur l'histoire et les cultes du Chaos. Johannes les connaît d'office (c'est lui qui les a écrites).
+
+**Effet concret à la table** : une fois en voyage, quand le groupe croise un sigle, un symbole ou un nom susceptible d'être cultiste, un PJ qui consulte ces notes fait **Connaissance (Cultes) (+0)** ou **Recherche (+0)** → s'il réussit, il **reconnaît** l'affiliation (Main Pourpre, autre culte) et gagne un **+1 SL** au prochain test social ou Intuition contre ce cultiste, ou identifie une cellule locale. Johannes réussit ce recoupement d'office sur les sigles de la Main Pourpre qu'il a déjà vus. *(Outil de scènes futures, pas d'info marteau ici.)*
 
 Voir [[Fassbinder - documents bureau]] pour le contenu complet et les clés de décryptage MJ-only.
 
