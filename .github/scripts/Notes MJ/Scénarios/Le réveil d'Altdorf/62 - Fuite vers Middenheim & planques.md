@@ -52,7 +52,7 @@ Pour des PJ très chauds (B+C) ou « un peu fous », il existe des sorties **sou
 
 S'ils choisissent de **ne pas partir** (poursuivre Maria-Luise, traquer Wasmeier dans la Reikerbahn, viser le coffre) tout en étant chassés, voici où disparaître. Tout repose sur l'angle mort : la traque est cadrée « sigmarite/hérétique », donc le **monde anti-sigmarite ne les vendra pas**.
 
-- **Reikerbahn / Old Docks / Altmünze** (East End) : la Garde **a renoncé** à y policer (`Altdorf-CotE ch.6 l.126`) ; rookery où *« on peut passer toute une vie sans voir le soleil »* (`Altdorf-CotE ch.6 l.122-124`). Bonus : **Wasmeier y vit** (rumeur #17) — se planquer ici, c'est se rapprocher d'une cible.
+- **Reikerbahn / Old Docks / Altmünze** (East End) : la Garde **a renoncé** à y policer (`Altdorf-CotE ch.6 l.126`) ; rookery où *« on peut passer toute une vie sans voir le soleil »* (`Altdorf-CotE ch.6 l.122-124`). Bonus : **Wasmeier y vit** (rumeur Wasmeier au Doklands, [[43 - Écoute des rumeurs]]) — se planquer ici, c'est se rapprocher d'une cible.
 - **Isle of Eels** : île à pont unique, **interdite à la Garde**, tenue par les Fish, PLANT très actif, pont facile à bloquer (`Altdorf-CotE ch.6 l.16-19`).
 - **Undercity** : **Smugglers' Lagoon** sous le Vargr Breughel — lagune abandonnée, *« bolthole parfait »* (`Altdorf-CotE ch.8 l.72-73, l.90-92`) ; **Catacombs** reliant les Jardins de Morr — refuge des persécutés (`Altdorf-CotE ch.8 l.75-78`).
 

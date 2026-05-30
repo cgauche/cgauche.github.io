@@ -6,14 +6,14 @@
 
 ## ▶ Table maîtresse — lis la ligne de l'heure courante
 
-| Heure | Dans la rue — riches (rive sud, Domplatz, Königsgarten) ‖ pauvres (Reikerbahn, Doklands, East End) | Rumeurs à servir | Traque *(si variante active)* |
+| Heure | Dans la rue — riches (rive sud, Domplatz, Königsgarten) ‖ pauvres (Reikerbahn, Doklands, East End) | Rumeurs *(par lieu → [[43 - Écoute des rumeurs]])* | Traque *(si variante active)* |
 |---|---|---|---|
-| **Aube → matin** (<10h) | Activité normale, regards lourds, Garde en double aux ponts ‖ calme, ouvriers au travail, premiers prêcheurs solo | #1-8 | — *(rien avant 11h)* |
-| **Mi-matinée** (10h-12h) | Garde en force, CVC en groupes de 3-5, prêcheurs *« Boris l'hérétique a péri »* ‖ rassemblements de 20-30 autour d'agitateurs | #1-8, puis #10-17 | **11h** arrestation Fassbinder. **11h30-13h** témoins interrogés, Spionwerber collecte les descriptions *(C)* |
-| **Début d'après-midi** (12h-15h) | Chevaliers Panthère en colonnes, patrouilles serrées ‖ foule croissante, *« À bas le Palais ! République ! »*, CVC vs anarchistes | #10-17 | **13h-15h** compilation → Zuntermein ; 2-3 agents dispatchés (Helstein, Collège Gris, Palast, Shallya) *(C)* |
-| **Fin d'après-midi** (15h-18h) | Boutiques ferment tôt, lampes en avance ‖ petites violences (pierres, tabassages CVC ↔ révolutionnaires) | #10-17, premières #18-24 | **15h+** filatures actives, Perception **(-20)** pour repérer un suiveur *(C)* · **wanted Sigmarite** déclenché *(B)* · **16h-18h** billet Maria-Luise si trigger |
-| **Soir** (18h-22h) | Patrouilles armées, contrôles aux portes du Palais, route fluviale surveillée ‖ manifs spontanées, **rues fermées**, arrestations sommaires CVC | #18-24 | **17h-19h** rumeur Fassbinder mort ([[14 - Rumeur Fassbinder mort]]) · **soir** mandat de convocation de l'Ordre du Marteau livré à Helstein + Johannes exfiltré *(C)* · CVC en chasse *(B)* |
-| **Nuit** (22h+) | Couvre-feu informel, peu de monde ‖ émeutes ponctuelles, fumées au loin | #18-24 | **22h** RDV Lina si billet accepté ([[31 - Approche via Lina]]) · filatures nocturnes *(C)* |
+| **Aube → matin** (<10h) | Activité normale, regards lourds, Garde en double aux ponts ‖ calme, ouvriers au travail, premiers prêcheurs solo | matin | — *(rien avant 11h)* |
+| **Mi-matinée** (10h-12h) | Garde en force, CVC en groupes de 3-5, prêcheurs *« Boris l'hérétique a péri »* ‖ rassemblements de 20-30 autour d'agitateurs | matin → aprem | **11h** arrestation Fassbinder. **11h30-13h** témoins interrogés, Spionwerber collecte les descriptions *(C)* |
+| **Début d'après-midi** (12h-15h) | Chevaliers Panthère en colonnes, patrouilles serrées ‖ foule croissante, *« À bas le Palais ! République ! »*, CVC vs anarchistes | après-midi | **13h-15h** compilation → Zuntermein ; 2-3 agents dispatchés (Helstein, Collège Gris, Palast, Shallya) *(C)* |
+| **Fin d'après-midi** (15h-18h) | Boutiques ferment tôt, lampes en avance ‖ petites violences (pierres, tabassages CVC ↔ révolutionnaires) | après-midi → soir | **15h+** filatures actives, Perception **(-20)** pour repérer un suiveur *(C)* · **wanted Sigmarite** déclenché *(B)* · **16h-18h** billet Maria-Luise si trigger |
+| **Soir** (18h-22h) | Patrouilles armées, contrôles aux portes du Palais, route fluviale surveillée ‖ manifs spontanées, **rues fermées**, arrestations sommaires CVC | soir | **17h-19h** rumeur Fassbinder mort ([[14 - Rumeur Fassbinder mort]]) · **soir** mandat de convocation de l'Ordre du Marteau livré à Helstein + Johannes exfiltré *(C)* · CVC en chasse *(B)* |
+| **Nuit** (22h+) | Couvre-feu informel, peu de monde ‖ émeutes ponctuelles, fumées au loin | soir | **22h** RDV Lina si billet accepté ([[31 - Approche via Lina]]) · filatures nocturnes *(C)* |
 
 *(B = PJ tachés Sigmarite · C = PJ tachés Fassbinder. Définitions et bascules : [[Gestion table]]. Détail de la traque : §Traque ci-dessous.)*
 
@@ -85,46 +85,9 @@ Slogans : *« Le faux Empereur ! »* · *« Les nobles affamés ! »* · *« Ré
 - Prophètes de rue embarqués par les autorités dès qu'ils font attroupement — `EiR-Comp ch.2 l.18`.
 - Manifestations démoniques de plus en plus fréquentes — `EiR-Comp ch.2 l.143`.
 
-## 🗞 Rumeurs — pools par période
+## 🗞 Rumeurs
 
-**Mécanique** : un PJ qui écoute fait **Commérages (+0)** ou **Connaissance (Reikland) (+0)** dans un lieu adapté ([[43 - Écoute des rumeurs]]). Réussite = 1-2 rumeurs ; SL+3 = 3 rumeurs + fiabilité ; échec critique = rumeur fausse ou conversation coupée. **Ne pas tout dropper d'un coup** — selon effort RP, lieu, heure.
-
-### Aube → matin (#1-8)
-| # | Rumeur | Vrai / Faux | Source |
-|---|---|---|---|
-| 1 | *« Quelque chose s'est passé au manoir Helstein cette nuit. »* | Vrai (vague) | Voisins, dockers |
-| 2 | *« Le Graf Todbringer aurait été blessé. Ou tué. Personne ne sait. »* | Vrai (déformé) | Marchands rive nord |
-| 3 | *« Volkmar a fait un miracle. Il était à deux endroits à la fois. »* | **Faux** (rumeur précoce) | Zélotes bruyants |
-| 4 | *« Yorri va convoquer une assemblée d'urgence du culte. »* | Vrai (en préparation) | Prêtres rive sud |
-| 5 | *« La patrouille fluviale est mobilisée pour une raison spéciale. »* | Vrai (pour les PJ) | Mariniers |
-| 6 | *« Un marchand de Bögenhafen détroussé hier soir près des docks. »* | Faux (red herring) | Comptoir |
-| 7 | *« Les prix du grain montent depuis trois jours. C'est le Sudenland. »* | Vrai (politique Toppenheimer) | Boulangers |
-| 8 | *« Une lumière étrange au-dessus de la cathédrale cette nuit. »* | Vrai (Volkmar priant) | Veilleurs Garde |
-
-### Après-midi (#10-17)
-| # | Rumeur | Vrai / Faux | Source |
-|---|---|---|---|
-| 10 | *« Volkmar priait à la cathédrale cette nuit. Des prêtres l'attestent. »* | Vrai (cristallise le miracle) | Prêtres cathédrale |
-| 11 | *« Il y a deux Volkmar — celui de la cathédrale et celui qui a tué l'hérétique. »* | Vrai mais mal interprété (le 2e = [[Gideon]]) | Zélotes, prêcheurs |
-| 12 | *« Heinrich Todbringer fuit Altdorf avec le cadavre de son père. »* | Vrai (ce n'est pas une fuite — funérailles) | Marchands hostiles |
-| 13 | *« La Chambre Noire enquête sur l'attaque. »* | Vrai ([[Immanuel-Ferrand Holswig-Schliestein|Immanuel-Ferrand]] sollicite ses Graukappen) | Königsgarten |
-| 14 | *« Le professeur Fassbinder arrêté par les Répurgateurs cet après-midi. »* | Vrai (après l'arrestation) | Étudiants |
-| 15 | *« On parle d'une mine quelque part en Averland. Personne ne sait pourquoi ça remonte. »* | Vrai mais flou (graine Schmerzeit) | Marchands miniers |
-| 16 | *« Les Chevaliers Panthère ne protègent que les quartiers riches. »* | Vrai (canon) | Reikerbahn |
-| 17 | *« [[Karl-Heinz Wasmeier|Wasmeier]]. Quelqu'un a chuchoté ce nom dans une taverne du Doklands. »* | Vrai (graine — Wasmeier vit dans la Reikerbahn) | Tavernier |
-
-### Soir → nuit (#18-24)
-| # | Rumeur | Vrai / Faux | Source |
-|---|---|---|---|
-| 18 | *« Fassbinder est mort. En cellule. Étranglé avec sa propre ceinture. »* | **Vrai** (assassinat Spionwerber) | Étudiants en colère |
-| 19 | *« L'Ordre du Marteau d'Argent recherche les "associés de l'hérétique". »* | Vrai | Voisins, étudiants |
-| 20 | *« La Reiksgarde a triplé sa patrouille au Palais. »* | Vrai | Garde du Palais |
-| 21 | *« La République ! Le Palais demain matin ! »* | Vrai (slogan révolutionnaire) | Agitateurs |
-| 22 | *« L'Empereur est sauf. Il est apparu au balcon. »* | Vrai dans la forme (Hermann sosie) | Foule rive sud |
-| 23 | *« Le médecin de l'Empereur n'est plus dans ses appartements. »* | Vrai après visite Maria-Luise | Domestiques du Palais |
-| 24 | *« Un enfant à coupe au bol traînait près de l'apothicaire Kleinestun ce matin. »* | Vrai — [[Gideon]] visite [[Elvyra Kleinestun|Elvyra]] | Voisinage Kleinestun |
-
-**#24 = pépite** : récompense d'une enquête prolongée, fil [[Gideon]]-[[Elvyra Kleinestun|Elvyra]] pour plus tard.
+Texte complet des rumeurs, **par lieu**, avec V/F et période : [[43 - Écoute des rumeurs]] — c'est là qu'on joue l'écoute. La colonne « Rumeurs » de la table maîtresse ci-dessus indique seulement quelle **période** est disponible (matin / après-midi / soir).
 
 ## 🎯 Traque des PJ — heat clock
 

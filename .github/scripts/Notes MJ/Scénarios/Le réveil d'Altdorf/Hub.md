@@ -27,7 +27,7 @@ order: 1
 | Sonder la **cour** sur Kappelmuller (audiences, ragots) | Maria-Luise, Immanuel-Ferrand, Hermine, pages du Palais | [[Enquête Kappelmuller]] Pistes 3-4 |
 | Se faire **soigner** (Mark, post-S63) | Grand Temple de **Shallya** (rive sud) | [[41 - Temple de Shallya]] |
 | Se **reposer**, déposer du butin, préparer le départ | Manoir Helstein (rive nord, base sûre) | [[42 - Retour Helstein]] |
-| **Écouter les rumeurs** / prendre le pouls de la ville | Taverne, marché, doklands, temple | [[43 - Écoute des rumeurs]] + [[Ambiance]] §Rumeurs |
+| **Écouter les rumeurs** / prendre le pouls de la ville | Taverne, marché, doklands, temple | [[43 - Écoute des rumeurs]] |
 | **Partir** d'Altdorf / embarquer | Quais (**La Comète**) ou voie de terre (nord) | [[61 - Départ matinal]] · [[62 - Fuite vers Middenheim & planques]] · [[Cap suivant — destinations possibles]] |
 | **Se cacher** en ville / fuir sous la chasse *(si tachés B/C)* | Bas-quartiers, sous-ville, porte Wolftor | [[62 - Fuite vers Middenheim & planques]] |
 | Rejoindre **Heinrich** / le convoi Middenheim | Manoir, **avant 11h** | [[01 - Briefing Helstein]] |
