@@ -2,67 +2,80 @@
 
 > Convention pour structurer un scénario homebrew jouable **en direct à la table**, pas seulement lisible. Pilote de référence : [[Hub|Le réveil d'Altdorf]] (refonte 2026-05-30).
 >
-> Principe : un scénario bac-à-sable n'est pas un document de référence rangé par lieu — c'est une **console de répartition** où, dès qu'un joueur annonce une intention, le MJ trouve en 3 secondes *où aller, qui voir, quelle scène ouvrir*.
+> **Trois métiers, trois supports — ne pas les mélanger** :
+> 1. **Dispatch** (où vont les PJ) → le **Hub**, et rien d'autre.
+> 2. **Navigation** (atteindre chaque page) → la **sidebar gauche du site** (auto-générée, groupée par thread).
+> 3. **Référence live / de fond** (par heure, variantes, pacing, juridictions…) → des **pages dédiées**.
+>
+> Quand le Hub fait les trois à la fois, il gonfle et cesse d'être un hub. Le test : *un joueur annonce une intention → le MJ trouve en 3 secondes où aller.*
 
-## Les trois douleurs de table à éviter
+## Les douleurs de table à éviter
 
-1. **« À qui parler pour X ? »** introuvable → l'info est rangée par lieu/trigger, pas par intention joueur.
-2. **« On va à Y »** sans trajet/ambiance par destination → le MJ improvise mal ou fait arriver les PJ au mauvais endroit.
-3. **Un même beat raconté deux fois** dans deux fichiers, avec des variantes contradictoires → le MJ ne sait pas lequel jouer.
+1. **« À qui parler pour X ? »** introuvable → info rangée par lieu/trigger, pas par intention.
+2. **« On va à Y »** sans trajet/ambiance par destination → arrivée au mauvais endroit.
+3. **Un même beat raconté deux fois** dans deux fichiers, dialogues contradictoires → on ne sait pas lequel jouer.
+4. **Un Hub fourre-tout** → trop d'info, plus un hub.
+5. **Une action proposée aux PJ sans rien de scénarisé en face** (promesse non tenue).
 
 ## Structure cible
 
-### 1. Un fichier `Hub.md` = console de répartition
+### 1. `Hub.md` = page d'aiguillage **maigre**
 
-Sections, dans cet ordre d'utilité-table :
+Le Hub ne contient que :
+- **En-tête** : 3-4 lignes (date, point de départ, durée, comment lire).
+- **Composition table** : 2-3 lignes (PJ, hors-champ, rattrapage absent).
+- **🧭 Index d'intentions — « les PJ veulent… »** *(le cœur)* : table `Les PJ veulent… | Où / Qui | Scène`. Une ligne par intention plausible (objectifs reçus + émergentes). Le joueur annonce → on lit la ligne → on ouvre la scène.
 
-- **En-tête** : 3-4 lignes (date, point de départ, durée, l'ordre de lecture des sections).
-- **⏱ Horloge in-game** : table des événements à horaire fixe, NPC-driven (ce qui tombe tout seul, indépendamment des PJ).
-- **🧭 Index d'intentions — « les PJ veulent… »** *(le cœur)* : table `Les PJ veulent… | Où / Qui | Scène`. Une ligne par intention plausible (objectifs reçus + intentions émergentes). C'est le réflexe : le joueur annonce → on lit la ligne → on ouvre la scène.
-- **🗺 Destinations & déplacements** : table par lieu nommé (`Lieu | rive/district | comment y aller | arrivée en 1 ligne d'ambiance`). Renvoi au fichier Ambiance pour le détail.
-- **⚖ Carte des juridictions** (si le scénario a des voies officielles) : `Le PJ veut… | Autorité | Accès | aboutit dans la journée ?`.
-- **🎚 Variables d'état** : ce que le MJ trace mentalement (réputations, flags qui changent les variantes).
-- **Triggers** : conditions de déclenchement de chaque scène.
-- **Flux par défaut & pacing** : l'orientation suggérée (pas un railroad) + ce que les PJ savent à chaque palier.
-- **Liens** : pages de référence transversales.
+**C'est tout.** Pas de table Horloge, Destinations, Juridictions, Variables, Triggers, Flux, ni liste de pages : ça vit ailleurs (ci-dessous). La nav inter-pages, c'est la sidebar.
 
-### 2. En-tête `## En bref` en tête de CHAQUE scène
+### 2. La **sidebar gauche** porte la navigation
 
-Juste après le bloc d'intro `> **Lieu** / Moment / Durée`, avant la prose :
+`_site_build.py` génère, pour chaque page de scénario, un menu gauche dédié (`_render_scenario_sidebar`) : les pages du scénario **groupées par thread** (le préfixe numérique pilote le groupe), Hub épinglé en haut, page courante surlignée. → Le Hub n'a donc **jamais** à lister les pages ni les triggers.
+
+### 3. **Écran live** = un seul doc « par heure » à garder ouvert
+
+Un fichier (pilote : [[Ambiance]]) consolide tout ce qui se passe **autour** des PJ, sur une page : **table maîtresse par tranche horaire** (ville ‖ rumeurs ‖ traque) + **horloge in-game** (événements NPC à heure fixe) + **déplacements & destinations** + **pools de rumeurs** + **heat-clock de la traque** (avec angles morts). Évite trois docs à feuilleter en séance.
+
+### 4. `## En bref` en tête de **chaque** scène
+
+Juste après le bloc `> Lieu / Quand / Durée`, avant la prose :
 
 ```
 ## En bref
-
 - **Objectif** : <ce que la scène apporte, 1 phrase>
 - **PNJ présents** : <liste, wikilinks [[Nom]]>
 - **Ce que les PJ peuvent faire ici** : <puces, une par jet/option DISPONIBLE — situations, pas tâches assignées>
 - **Sorties / et après** : → <scène suivante> · → retour [[Hub]]
 ```
 
-C'est le résumé que le MJ lit en ouvrant la scène. Il ne **scripte jamais** d'action PJ : il liste des situations et des jets disponibles ([[feedback_ne-pas-scripter-pj]], [[feedback_situations-jets-pas-roles]]).
+Ne **jamais scripter** d'action PJ : lister situations + jets disponibles ([[feedback_ne-pas-scripter-pj]], [[feedback_situations-jets-pas-roles]]).
 
-### 3. Couche de référence transversale (fichiers nommés, pas numérotés)
+### 5. Couche de référence (fichiers nommés, pas numérotés)
 
-- **Ambiance** : déplacements généralisés (trajets par destination, arrivée, escalation horaire, factions de rue). Évite de câbler le trajet sur une seule destination.
-- **Carte des juridictions** (si pertinent) : qui traite quel type de requête officielle.
-- **Rumeurs**, **Pacing**, **Gestion table** (variantes globales + cas particuliers + XP), **Cap suivant**.
+**Écran live** (ambiance/rumeurs/traque/horloge/déplacements), **Carte des juridictions** (si voies officielles), **Pacing** (flux par défaut + ce que les PJ savent par palier + table 3h), **Gestion table** (variantes globales + état à tracer + cas particuliers + XP), **Cap suivant**.
 
-## Règles anti-duplication
+## Règles d'or
 
+- **Le Hub reste un hub.** Toute table qui n'est pas l'index d'intentions → la déporter vers sa page et la laisser à un clic dans la sidebar.
 - **Un beat = un seul propriétaire.** Si un événement (arrestation, embuscade, bascule) est partagé par deux scènes, **une seule** le met en scène (dialogues compris) ; l'autre **passe un état** et renvoie (« → joue X en lui indiquant l'état A/B »). Jamais deux mises en scène concurrentes.
-- **Numérotation unique.** Un seul système de numéros (les numéros de fichier). Pas de double système « Scène 3 / Module 5 » en prose à côté des numéros de fichier — utiliser des wikilinks descriptifs (`[[51 - Glissement Reikerbahn|le Glissement]]`).
-- **Numéroter par thread** : grouper les fichiers par fil d'intention (ex. `1x` marteau, `2x` officiel, `3x` empereur, `4x` ville, `5x` déplacement, `6x` départ). Garder les fichiers de **référence en noms** (Hub, Ambiance, Rumeurs, Pacing…) car ce sont les plus liés.
+- **Pas de promesse non tenue.** Toute action/lieu/jet proposé doit avoir **quelque chose en face** (issue, réaction PNJ, info, conséquence, où ça mène), même une ligne. Le style « situations + jets » ne dispense pas d'un résultat.
+- **Numérotation unique, par thread.** Un seul système (les numéros de fichier), groupés par fil (`0x` ouverture, `1x`/`2x`/… par arc thématique). Le préfixe **pilote aussi les groupes de la sidebar**. Pas de double système « Scène 3 / Module 5 » en prose → wikilinks descriptifs (`[[51 - Glissement Reikerbahn|le Glissement]]`). Fichiers de **référence en noms** (Hub, Ambiance, Pacing…), les plus liés.
+
+## Vérifications (à passer avant publication)
+
+1. **Liens** : tous les wikilinks du dossier résolvent vers un `.md` existant (sinon stub volontaire ou typo). Grep aussi les ancres `[[Hub#…]]`/refs en prose (« scène 04 », « Module N ») après tout renommage/déplacement de section.
+2. **Promesses non tenues** : relire chaque scène et lister les actions proposées **sans rien en face** ; combler. *(Un audit de liens ne le détecte PAS.)*
+3. **Rendu** : `python _site_build.py` (liens cassés en rouge) ; preview navigateur (sidebar + Hub maigre).
 
 ## Après une renumérotation
 
 1. Backup du dossier.
-2. Renames two-phase (anti-collision) + propagation **textuelle** de tous les `[[old]]`→`[[new]]` dans tout `Notes MJ` (script jetable).
-3. Grep des refs **en prose** non captées par le stem (« scène 04 », « Scène 3 », « Module N »).
-4. Grep des ancres `[[Hub#…]]` cassées par un renommage de section.
-5. Vérif statique : tous les wikilinks du dossier résolvent vers un `.md` existant (sinon stub volontaire ou typo à corriger).
-6. `python _site_build.py` si déploiement voulu (rend les liens cassés en rouge).
+2. Renames two-phase (anti-collision) + propagation **textuelle** `[[old]]`→`[[new]]` dans tout `Notes MJ` (script jetable).
+3. Grep refs en prose + ancres de section cassées.
+4. Vérif liens + promesses non tenues (ci-dessus).
+5. Déploiement : `python _site_build.py --clean --deploy` puis `python _sync_to_pipeline.py` + commit/push (sinon le cron rebuild depuis une source périmée et annule la refonte).
 
 ## Liens
 
-- Pilote : [[Hub|Le réveil d'Altdorf — Hub]], [[Ambiance]], [[Carte des juridictions]].
+- Pilote : [[Hub|Le réveil d'Altdorf — Hub]], [[Ambiance]] (écran live), [[Carte des juridictions]], [[Gestion table]], [[Pacing]].
 - Template fiches PNJ/Lieux/Factions : [[00 - Template fiches MJ]].
