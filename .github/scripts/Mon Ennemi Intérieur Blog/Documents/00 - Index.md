@@ -23,6 +23,7 @@
 - [Le Nordland chantera vos louanges !](<Le Nordland chantera vos louanges !.md>)
 - [Le cristal d'immortalité](<Le cristal d'immortalité.md>)
 - [Lettre MM](<Lettre MM.md>)
+- [Lettre Main Pourpre](<Lettre Main Pourpre.md>)
 - [Lettre à Bhar](<Lettre à Bhar.md>)
 - [Lettre à Etelka](<Lettre à Etelka.md>)
 - [Lettre à Jarmund](<Lettre à Jarmund.md>)

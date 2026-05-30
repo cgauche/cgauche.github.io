@@ -24,6 +24,8 @@
 - [Filianore, amnésique](<Filianore, amnésique.md>)
 - [Filianore, espionne d'Emmanuelle Nacht](<Filianore, espionne d'Emmanuelle Nacht.md>)
 - [Filianore](<Filianore.md>)
+- [Johannes Woblhoffer](<Johannes Woblhoffer.md>)
+- [Johannes, assistant de Fassbinder](<Johannes, assistant de Fassbinder.md>)
 - [Lirrian Morningstar](<Lirrian Morningstar.md>)
 - [Mardrin](<Mardrin.md>)
 - [Mark, prêtre d'Ulric (2)](<Mark, prêtre d'Ulric (2).md>)

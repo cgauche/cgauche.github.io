@@ -66,7 +66,7 @@
 - [61 - 61) Le mariage](<Résumés/61 - 61) Le mariage.md>)
 - [62 - 62) Le conseil impérial](<Résumés/62 - 62) Le conseil impérial.md>)
 
-## PJ (54)
+## PJ (56)
 
 - [Albert Reichau](<PJ/Albert Reichau.md>)
 - [Albert, joueur d'épée](<PJ/Albert, joueur d'épée.md>)
@@ -92,6 +92,8 @@
 - [Filianore, amnésique](<PJ/Filianore, amnésique.md>)
 - [Filianore, espionne d'Emmanuelle Nacht](<PJ/Filianore, espionne d'Emmanuelle Nacht.md>)
 - [Filianore](<PJ/Filianore.md>)
+- [Johannes Woblhoffer](<PJ/Johannes Woblhoffer.md>)
+- [Johannes, assistant de Fassbinder](<PJ/Johannes, assistant de Fassbinder.md>)
 - [Lirrian Morningstar](<PJ/Lirrian Morningstar.md>)
 - [Mardrin](<PJ/Mardrin.md>)
 - [Mark, prêtre d'Ulric (2)](<PJ/Mark, prêtre d'Ulric (2).md>)
@@ -430,7 +432,7 @@
 - [Wittgendorf (2)](<Lieux/Wittgendorf (2).md>)
 - [Wittgendorf](<Lieux/Wittgendorf.md>)
 
-## Documents (42)
+## Documents (43)
 
 - [A l'aide !](<Documents/A l'aide !.md>)
 - [Adresse de Brunehilde](<Documents/Adresse de Brunehilde.md>)
@@ -455,6 +457,7 @@
 - [Le Nordland chantera vos louanges !](<Documents/Le Nordland chantera vos louanges !.md>)
 - [Le cristal d'immortalité](<Documents/Le cristal d'immortalité.md>)
 - [Lettre MM](<Documents/Lettre MM.md>)
+- [Lettre Main Pourpre](<Documents/Lettre Main Pourpre.md>)
 - [Lettre à Bhar](<Documents/Lettre à Bhar.md>)
 - [Lettre à Etelka](<Documents/Lettre à Etelka.md>)
 - [Lettre à Jarmund](<Documents/Lettre à Jarmund.md>)
