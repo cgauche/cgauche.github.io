@@ -26,31 +26,48 @@
   <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
 </header>
 <div class="layout">
-<nav class="sidebar" aria-label="Navigation par arc">
-<h2 class="sidebar-title">Les Sept Arcs</h2>
-<ol class="sidebar-arcs">
-<li>
-<a class="sidebar-arc" href="../../../arc-1.html"><span class="sidebar-num">I</span><span class="sidebar-name">Prologue</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-2.html"><span class="sidebar-num">II</span><span class="sidebar-name">L&#x27;Ennemi dans l&#x27;Ombre</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-3.html"><span class="sidebar-num">III</span><span class="sidebar-name">Aventures à Ubersreik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-4.html"><span class="sidebar-num">IV</span><span class="sidebar-name">Mort sur le Reik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-5.html"><span class="sidebar-num">V</span><span class="sidebar-name">Le Pouvoir Derrière le Trône</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-6.html"><span class="sidebar-num">VI</span><span class="sidebar-name">Le Rat Cornu</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-7.html"><span class="sidebar-num">VII</span><span class="sidebar-name">L&#x27;Empire en Ruine</span></a>
-</li>
-</ol>
+<nav class="sidebar sidebar-scenario" aria-label="Navigation du scénario">
+<h2 class="sidebar-title">Le réveil d&#x27;Altdorf</h2>
+<div class="scn-nav">
+<a class="scn-link" href="index.html">★ Hub</a>
+<div class="scn-group"><span class="scn-group-h">Ouverture</span>
+<a class="scn-link" href="01-briefing-helstein.html">01 - Briefing Helstein</a>
+<a class="scn-link" href="02-rattrapage-yuridika-jour-du-mariage.html">02 - Rattrapage Yuridika (jour du mariage)</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Le marteau</span>
+<a class="scn-link" href="11-consultation-fassbinder.html">11 - Consultation Fassbinder</a>
+<a class="scn-link" href="12-consultation-fassbinder-arrivee-tardive.html">12 - Consultation Fassbinder — arrivée tardive</a>
+<a class="scn-link" href="13-arrestation-et-fuite.html">13 - Arrestation et fuite</a>
+<a class="scn-link" href="14-rumeur-fassbinder-mort.html">14 - Rumeur Fassbinder mort</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Officiel</span>
+<a class="scn-link" href="21-saisine-au-cabinet-du-grand-chancelier.html">21 - Saisine au cabinet du Grand Chancelier</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Empereur</span>
+<a class="scn-link" href="31-approche-via-lina.html">31 - Approche via Lina</a>
+<a class="scn-link" href="32-visite-karl-franz.html">32 - Visite Karl-Franz</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Ville &amp; perso</span>
+<a class="scn-link" href="41-temple-de-shallya.html">41 - Temple de Shallya</a>
+<a class="scn-link" href="42-retour-helstein.html">42 - Retour Helstein</a>
+<a class="scn-link" href="43-ecoute-des-rumeurs.html">43 - Écoute des rumeurs</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Déplacement</span>
+<a class="scn-link is-active" href="51-glissement-reikerbahn.html" aria-current="page">51 - Glissement Reikerbahn</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Départ</span>
+<a class="scn-link" href="61-depart-matinal.html">61 - Départ matinal</a>
+<a class="scn-link" href="62-fuite-vers-middenheim-planques.html">62 - Fuite vers Middenheim &amp; planques</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Référence</span>
+<a class="scn-link" href="ambiance.html">⚡ Écran live (ville)</a>
+<a class="scn-link" href="cap-suivant-destinations-possibles.html">Cap suivant — destinations possibles</a>
+<a class="scn-link" href="carte-des-juridictions.html">Carte des juridictions</a>
+<a class="scn-link" href="enquete-kappelmuller.html">Enquête Kappelmuller</a>
+<a class="scn-link" href="gestion-table.html">Gestion table</a>
+<a class="scn-link" href="pacing.html">Pacing</a>
+</div>
+</div>
 </nav>
 <main>
 
@@ -150,7 +167,7 @@
 <li><strong>1 leader laïc</strong> (ex-Templier ou fidèle senior) : CC 45, E 40, PV 14, épée + dague.</li>
 <li><strong>1 jeune zélote</strong> : CC 30, PV 10, fuit dès le premier mort.</li>
 </ul>
-<p><strong>Si le jeune fuit</strong> et s'échappe : <strong>témoignage</strong> au <a class="entity-pop" data-cat="Lieu" data-title="Comité de Vigilance Citoyen" href="../../lieux/comite-de-vigilance-citoyen.html">Comité de Vigilance Citoyen</a> dans l'après-midi → PJ wanted (variante B globale, voir <a href="index.html">Hub</a> §Variables d'état).</p>
+<p><strong>Si le jeune fuit</strong> et s'échappe : <strong>témoignage</strong> au <a class="entity-pop" data-cat="Lieu" data-title="Comité de Vigilance Citoyen" href="../../lieux/comite-de-vigilance-citoyen.html">Comité de Vigilance Citoyen</a> dans l'après-midi → PJ wanted (variante B globale, voir <a href="gestion-table.html">Gestion table</a>).</p>
 <h2>La silhouette (1/3) — obligatoire toutes variantes</h2>
 <p>Juste après la résolution (sortie de Sigmarite, fin de combat) :</p>
 <p>À un coin de rue, 20-30 m, <strong>un enfant</strong>. Vêtements de domestique pauvre, <strong>coupe au bol</strong>, immobile, regardant la scène.</p>
@@ -165,7 +182,7 @@
 <ul>
 <li>PNJ : <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbch7WKYigomfwOIPDbQ0_QoFS15jMprDBhyU6q6DlFq1mcfPnGuPEEeh3akv5-NKnaVc_H3iXTd5Xv-FKrhAfFVTS7f2jElsZocqiOfBqzxNjvxTS5bzzC7hyphenhyphenf0BJRz1S9m5I36H-39tSnQ9vqOSpFaw_QGjGPpXa678vdwFJoEMdOfqSxeFx7VGIxlM/w137-h200/sheru-tar-geetaru.webp" data-title="Gideon" href="../../../pnj/gideon.html">Gideon</a> (silhouette, MJ-only).</li>
 <li>Lieux : <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a>, <a class="entity-pop" data-cat="Lieu" data-title="Bibliothèque-temple de Verena" href="../../lieux/bibliotheque-temple-de-verena.html">Bibliothèque-temple de Verena</a>.</li>
-<li>Référence : <a href="index.html">Hub</a> §Variables d'état.</li>
+<li>Référence : <a href="gestion-table.html">Gestion table</a>.</li>
 </ul>
 
 </div>

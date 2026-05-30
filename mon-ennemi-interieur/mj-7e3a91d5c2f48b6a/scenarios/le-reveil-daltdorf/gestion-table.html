@@ -26,31 +26,48 @@
   <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
 </header>
 <div class="layout">
-<nav class="sidebar" aria-label="Navigation par arc">
-<h2 class="sidebar-title">Les Sept Arcs</h2>
-<ol class="sidebar-arcs">
-<li>
-<a class="sidebar-arc" href="../../../arc-1.html"><span class="sidebar-num">I</span><span class="sidebar-name">Prologue</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-2.html"><span class="sidebar-num">II</span><span class="sidebar-name">L&#x27;Ennemi dans l&#x27;Ombre</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-3.html"><span class="sidebar-num">III</span><span class="sidebar-name">Aventures à Ubersreik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-4.html"><span class="sidebar-num">IV</span><span class="sidebar-name">Mort sur le Reik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-5.html"><span class="sidebar-num">V</span><span class="sidebar-name">Le Pouvoir Derrière le Trône</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-6.html"><span class="sidebar-num">VI</span><span class="sidebar-name">Le Rat Cornu</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-7.html"><span class="sidebar-num">VII</span><span class="sidebar-name">L&#x27;Empire en Ruine</span></a>
-</li>
-</ol>
+<nav class="sidebar sidebar-scenario" aria-label="Navigation du scénario">
+<h2 class="sidebar-title">Le réveil d&#x27;Altdorf</h2>
+<div class="scn-nav">
+<a class="scn-link" href="index.html">★ Hub</a>
+<div class="scn-group"><span class="scn-group-h">Ouverture</span>
+<a class="scn-link" href="01-briefing-helstein.html">01 - Briefing Helstein</a>
+<a class="scn-link" href="02-rattrapage-yuridika-jour-du-mariage.html">02 - Rattrapage Yuridika (jour du mariage)</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Le marteau</span>
+<a class="scn-link" href="11-consultation-fassbinder.html">11 - Consultation Fassbinder</a>
+<a class="scn-link" href="12-consultation-fassbinder-arrivee-tardive.html">12 - Consultation Fassbinder — arrivée tardive</a>
+<a class="scn-link" href="13-arrestation-et-fuite.html">13 - Arrestation et fuite</a>
+<a class="scn-link" href="14-rumeur-fassbinder-mort.html">14 - Rumeur Fassbinder mort</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Officiel</span>
+<a class="scn-link" href="21-saisine-au-cabinet-du-grand-chancelier.html">21 - Saisine au cabinet du Grand Chancelier</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Empereur</span>
+<a class="scn-link" href="31-approche-via-lina.html">31 - Approche via Lina</a>
+<a class="scn-link" href="32-visite-karl-franz.html">32 - Visite Karl-Franz</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Ville &amp; perso</span>
+<a class="scn-link" href="41-temple-de-shallya.html">41 - Temple de Shallya</a>
+<a class="scn-link" href="42-retour-helstein.html">42 - Retour Helstein</a>
+<a class="scn-link" href="43-ecoute-des-rumeurs.html">43 - Écoute des rumeurs</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Déplacement</span>
+<a class="scn-link" href="51-glissement-reikerbahn.html">51 - Glissement Reikerbahn</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Départ</span>
+<a class="scn-link" href="61-depart-matinal.html">61 - Départ matinal</a>
+<a class="scn-link" href="62-fuite-vers-middenheim-planques.html">62 - Fuite vers Middenheim &amp; planques</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Référence</span>
+<a class="scn-link" href="ambiance.html">⚡ Écran live (ville)</a>
+<a class="scn-link" href="cap-suivant-destinations-possibles.html">Cap suivant — destinations possibles</a>
+<a class="scn-link" href="carte-des-juridictions.html">Carte des juridictions</a>
+<a class="scn-link" href="enquete-kappelmuller.html">Enquête Kappelmuller</a>
+<a class="scn-link is-active" href="gestion-table.html" aria-current="page">Gestion table</a>
+<a class="scn-link" href="pacing.html">Pacing</a>
+</div>
+</div>
 </nav>
 <main>
 
@@ -62,6 +79,14 @@
 <p>Référence transversale du scénario <a href="index.html">Le réveil d'Altdorf</a>.
 Outils pour gérer les imprévus et les variantes selon ce que la table choisit de faire.</p>
 </blockquote>
+<h2>À tracer mentalement (état des PJ)</h2>
+<ul>
+<li><strong>PJ wanted Sigmarite ?</strong> → variante <strong>B</strong> (CVC en chasse, combats imprévus).</li>
+<li><strong>PJ tachés Fassbinder ?</strong> → variante <strong>C</strong> (suivis <a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../../lieux/spionwerber.html">Spionwerber</a>, identifiés par témoins).</li>
+<li><strong>PJ ont vu Maria-Luise ?</strong> → Module 5 joué = gros acquis (Kappelmuller démasqué, sort Tzeentch confirmé, Zuntermein nommé) ; sinon = info perdue.</li>
+<li><strong>PJ ont fouillé le casier de Fassbinder ?</strong> → documents en plus (Yodri vol. 2, lettre <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GsvvBSANs-TdLswyRMlh1vBZ2OXm0ABI97OzV5br6xsvdcpQq9wfUMseEHi0zPiLfMxDVQbtqnOaJa_VOM7JXbYlpvrmCSHwbXRG7fWfmh4VKFmPt9yNYZXRDDx4MxLy_dnnbPoJpUjb_DHXCrgsKKMK5Z__di_jWnWQx2p-7JLGDrDfS4jBSTqs-pc/s200/karl-heinz-wasmeier.webp" data-subtitle="Cultiste de la Main Pourpre" data-title="Karl-Heinz Wasmeier" href="../../../pnj/karl-heinz-wasmaier.html">Wasmeier</a>) mais risque hérésie matérielle.</li>
+<li><strong>PA Sigmarite</strong> au départ : -8. Monte ou descend selon les actions du jour.</li>
+</ul>
 <h2>Quatre variantes globales — selon les choix en matinée</h2>
 <p>L'état du groupe à la sortie d'<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a> dépend de comment ils ont géré <a href="51-glissement-reikerbahn.html">Sigmarites</a> + <a href="13-arrestation-et-fuite.html">arrestation</a> + <a href="13-arrestation-et-fuite.html">fuite</a>.</p>
 <h3>Variante A — PJ « propres »</h3>

@@ -26,31 +26,48 @@
   <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
 </header>
 <div class="layout">
-<nav class="sidebar" aria-label="Navigation par arc">
-<h2 class="sidebar-title">Les Sept Arcs</h2>
-<ol class="sidebar-arcs">
-<li>
-<a class="sidebar-arc" href="../../../arc-1.html"><span class="sidebar-num">I</span><span class="sidebar-name">Prologue</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-2.html"><span class="sidebar-num">II</span><span class="sidebar-name">L&#x27;Ennemi dans l&#x27;Ombre</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-3.html"><span class="sidebar-num">III</span><span class="sidebar-name">Aventures à Ubersreik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-4.html"><span class="sidebar-num">IV</span><span class="sidebar-name">Mort sur le Reik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-5.html"><span class="sidebar-num">V</span><span class="sidebar-name">Le Pouvoir Derrière le Trône</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-6.html"><span class="sidebar-num">VI</span><span class="sidebar-name">Le Rat Cornu</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-7.html"><span class="sidebar-num">VII</span><span class="sidebar-name">L&#x27;Empire en Ruine</span></a>
-</li>
-</ol>
+<nav class="sidebar sidebar-scenario" aria-label="Navigation du scénario">
+<h2 class="sidebar-title">Le réveil d&#x27;Altdorf</h2>
+<div class="scn-nav">
+<a class="scn-link" href="index.html">★ Hub</a>
+<div class="scn-group"><span class="scn-group-h">Ouverture</span>
+<a class="scn-link" href="01-briefing-helstein.html">01 - Briefing Helstein</a>
+<a class="scn-link" href="02-rattrapage-yuridika-jour-du-mariage.html">02 - Rattrapage Yuridika (jour du mariage)</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Le marteau</span>
+<a class="scn-link" href="11-consultation-fassbinder.html">11 - Consultation Fassbinder</a>
+<a class="scn-link" href="12-consultation-fassbinder-arrivee-tardive.html">12 - Consultation Fassbinder — arrivée tardive</a>
+<a class="scn-link" href="13-arrestation-et-fuite.html">13 - Arrestation et fuite</a>
+<a class="scn-link" href="14-rumeur-fassbinder-mort.html">14 - Rumeur Fassbinder mort</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Officiel</span>
+<a class="scn-link" href="21-saisine-au-cabinet-du-grand-chancelier.html">21 - Saisine au cabinet du Grand Chancelier</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Empereur</span>
+<a class="scn-link" href="31-approche-via-lina.html">31 - Approche via Lina</a>
+<a class="scn-link" href="32-visite-karl-franz.html">32 - Visite Karl-Franz</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Ville &amp; perso</span>
+<a class="scn-link" href="41-temple-de-shallya.html">41 - Temple de Shallya</a>
+<a class="scn-link" href="42-retour-helstein.html">42 - Retour Helstein</a>
+<a class="scn-link" href="43-ecoute-des-rumeurs.html">43 - Écoute des rumeurs</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Déplacement</span>
+<a class="scn-link" href="51-glissement-reikerbahn.html">51 - Glissement Reikerbahn</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Départ</span>
+<a class="scn-link" href="61-depart-matinal.html">61 - Départ matinal</a>
+<a class="scn-link" href="62-fuite-vers-middenheim-planques.html">62 - Fuite vers Middenheim &amp; planques</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Référence</span>
+<a class="scn-link is-active" href="ambiance.html" aria-current="page">⚡ Écran live (ville)</a>
+<a class="scn-link" href="cap-suivant-destinations-possibles.html">Cap suivant — destinations possibles</a>
+<a class="scn-link" href="carte-des-juridictions.html">Carte des juridictions</a>
+<a class="scn-link" href="enquete-kappelmuller.html">Enquête Kappelmuller</a>
+<a class="scn-link" href="gestion-table.html">Gestion table</a>
+<a class="scn-link" href="pacing.html">Pacing</a>
+</div>
+</div>
 </nav>
 <main>
 
@@ -112,6 +129,74 @@
 </tbody>
 </table>
 <p><em>(B = PJ tachés Sigmarite · C = PJ tachés Fassbinder. Définitions et bascules : <a href="gestion-table.html">Gestion table</a>. Détail de la traque : §Traque ci-dessous.)</em></p>
+<h2>⏱ Horloge in-game — événements à heure fixe</h2>
+<p>Ces événements tombent à horaire fixe, <strong>indépendamment des PJ</strong>. Le MJ tient l'horloge ; les PJ choisissent leur tempo dedans.</p>
+<table>
+<thead>
+<tr>
+<th>Heure</th>
+<th>Événement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aube</td>
+<td><a href="01-briefing-helstein.html">01 - Briefing Helstein</a> au manoir</td>
+</tr>
+<tr>
+<td>8h-11h</td>
+<td>Heinrich reçoit les PJ puis finalise le convoi</td>
+</tr>
+<tr>
+<td>~9h-10h30</td>
+<td>Fassbinder attend à sa table de la salle de lecture (RDV fixé S62). Agent <a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../../lieux/spionwerber.html">Spionwerber</a> déjà en place.</td>
+</tr>
+<tr>
+<td>~10h</td>
+<td><a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../../lieux/spionwerber.html">Spionwerber</a> confirme à Zuntermein que Fassbinder est installé avec des inconnus (les PJ)</td>
+</tr>
+<tr>
+<td>~10h30</td>
+<td>Zuntermein dispatche le commando Templiers depuis la <a class="entity-pop" data-cat="Lieu" data-subtitle="Réseau d'espionnage du Reikland — infiltré Main Pourpre" data-title="Chambre Noire" href="../../lieux/chambre-noire.html">Chambre Noire</a></td>
+</tr>
+<tr>
+<td>11h</td>
+<td>Heinrich part en convoi vers <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqN-BT2U_Zb_-Pr3l4JTX9rSdQAH2X10d9DXZSGr9waNwmNS5xmSQyb-VfzcaeDq68w9sLlsRkOu3vRNdzEJTPjHCOwCe_AAs9bnbrW6hfyT91QP3zBCBe1N8XzeUhVgZmuTD_cP_bELaiLo2byBb9mj2atdRegc4hw96eTziiCN2XsmdsMJIoahQj9Ys/s400/_middleheim.png" data-subtitle="Capitale du Middenland" data-title="Middenheim" href="../../../lieux/middenheim-4.html">Middenheim</a></td>
+</tr>
+<tr>
+<td>~11h</td>
+<td>Commando Templiers arrive à la bibliothèque, <strong>arrestation publique</strong> (<a href="13-arrestation-et-fuite.html">13 - Arrestation et fuite</a>)</td>
+</tr>
+<tr>
+<td>11h15-11h30</td>
+<td>Fassbinder mené hors du bâtiment en menottes</td>
+</tr>
+<tr>
+<td>11h30-13h</td>
+<td>Fouille de la table + casier par Templiers + <a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../../lieux/spionwerber.html">Spionwerber</a></td>
+</tr>
+<tr>
+<td>13h+</td>
+<td>Table et casier scellés, biblio rouverte avec <a class="entity-pop" data-cat="Lieu" data-subtitle="Recrutement de la Chambre Noire (infiltré)" data-title="Spionwerber" href="../../lieux/spionwerber.html">Spionwerber</a> en planque</td>
+</tr>
+<tr>
+<td>16h-18h</td>
+<td>Si <strong>trigger Maria-Luise</strong> activé : billet livré au manoir par Bertholdt</td>
+</tr>
+<tr>
+<td>17h-19h</td>
+<td>Rumeur « Fassbinder mort en cellule » commence à circuler (<a href="14-rumeur-fassbinder-mort.html">14 - Rumeur Fassbinder mort</a>)</td>
+</tr>
+<tr>
+<td>22h</td>
+<td>RDV Lina à <a class="entity-pop" data-cat="Lieu" data-title="Hangmann's Gasse" href="../../lieux/hangmanns-gasse.html">Hangmann's Gasse</a> (si billet accepté) → <a href="31-approche-via-lina.html">31 - Approche via Lina</a></td>
+</tr>
+<tr>
+<td>J+1 aube</td>
+<td>La Comète gréée au quai → <a href="61-depart-matinal.html">61 - Départ matinal</a></td>
+</tr>
+</tbody>
+</table>
 <h2>🌆 Déplacements dans Altdorf</h2>
 <p>Base des PJ : <strong><a class="entity-pop" data-cat="Lieu" data-title="Manoir Helstein" href="../../lieux/manoir-helstein.html">Manoir Helstein</a></strong>, rive nord (Mauerblümchen). La plupart des destinations utiles sont <strong>rive sud</strong> ; on traverse par le <strong>Pont des Trois Péages</strong> (ou équivalent).</p>
 <p><strong>Un trajet rive nord → rive sud, beats génériques</strong> (~10-15 min, à doser) :</p>
@@ -123,7 +208,73 @@
 <blockquote>
 <p><strong>⚠ Glissement Reikerbahn — une seule fois.</strong> Au <strong>premier</strong> franchissement vers la rive sud, la rue peut basculer en <strong>zone de bleed</strong> → <a href="51-glissement-reikerbahn.html">51 - Glissement Reikerbahn</a> (Sigmarites zélotes confus + silhouette 1/3). Une fois joué, trajets normaux ensuite.</p>
 </blockquote>
-<p>Destinations rive sud (adresses &amp; arrivée) : <a href="index.html">Hub</a> §Destinations. Districts : Université / Biblio-temple de Verena, <strong>Palast District</strong> (Palais), <strong>Zwillingsgrab</strong> (scientifique/médical — Guilde des Physiciens), temple de Shallya, officine d'Elvyra.</p>
+<h3>Destinations (adresses &amp; arrivée)</h3>
+<table>
+<thead>
+<tr>
+<th>Lieu</th>
+<th>Rive / district</th>
+<th>Y aller</th>
+<th>Arrivée — ambiance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a class="entity-pop" data-cat="Lieu" data-title="Manoir Helstein" href="../../lieux/manoir-helstein.html">Manoir Helstein</a></strong></td>
+<td>Nord, Mauerblümchen</td>
+<td>Base de départ</td>
+<td>Quartier sécurisé post-assaut, <a class="entity-pop" data-cat="Lieu" data-title="Épées d'Ulric" href="../../lieux/epees-dulric.html">Épées d'Ulric</a> à la grille. Point de RDV central.</td>
+</tr>
+<tr>
+<td><strong>Biblio-temple de Verena</strong> (Université)</td>
+<td>Sud, quartier universitaire</td>
+<td>Pont des Trois Péages → rive sud</td>
+<td>Calme studieux le matin ; sortie de cours de midi (foule étudiante).</td>
+</tr>
+<tr>
+<td><strong><a class="entity-pop" data-cat="Lieu" data-subtitle="Résidence et siège de gouvernement de Karl-Franz à Altdorf" data-title="Palais Impérial" href="../../lieux/palais-imperial.html">Palais Impérial</a> / Palast District</strong></td>
+<td>Sud, Palast</td>
+<td>5 portes publiques en journée, <strong>désarmement</strong> (dague tolérée)</td>
+<td>Solennel, Garde renforcée. <a class="entity-pop" data-cat="Document" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7CAlhWP_yGI68e5NRikIvdke6ypzSMqZAuHniQT_PiRE6aGm97KjvexVXPxnNLjrMoqWtxr-FUIbPpLRhTrIJDmQEnCe_iYBqpFCDj9bAUiP5LYTta2hRkOdUD1OZATXKptxCO4CCXYxl9B0Btu2PTUV4cVC0t-Kr9gA0XF4EGTXd9Y1yN53368LCbDI/s600/Doc%205.png" data-title="La lettre" href="../../../documents/la-lettre.html">La lettre</a> Todbringer = laissez-passer.</td>
+</tr>
+<tr>
+<td><strong>Guilde des Physiciens</strong></td>
+<td>Sud, <strong>Zwillingsgrab</strong> (scientifique/médical)</td>
+<td>Rive sud</td>
+<td>Façade pierre claire, plaque au caducée, salle d'attente aux bancs alignés.</td>
+</tr>
+<tr>
+<td><strong>Pharmacie <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2fyYuMquT49azv0Y9wXyIlX67TkqbUx4sp1zpK2f6RjAKFvaPsHpWokeV4DfA-vOUN0Uz_DDDzzhi5SO1rF9_ZZazU5NcCKhUik0TljDHEB4pisK-zJIWFPiBcwoI5g_IByj0SKebPz1q9NCYfS18ilFNtx73u8Z9Px0NLeGwYH3LrEmCYyUWAMAznc/s200/elvyra-kleinestun.webp" data-subtitle="Apothicaire" data-title="Elvyra Kleinestun" href="../../../pnj/elvyra-kleinestun.html">Elvyra Kleinestun</a></strong></td>
+<td>Sud</td>
+<td>Rive sud</td>
+<td>Officine modeste, boiseries vertes, bocaux d'herbes. Odeur de camphre et fenouil.</td>
+</tr>
+<tr>
+<td><strong>Grand Temple de Shallya</strong></td>
+<td>Sud, Templwart</td>
+<td>Rive sud</td>
+<td>Hospice, prêtresses en blanc, calme, blessés et pauvres accueillis.</td>
+</tr>
+<tr>
+<td><strong><a class="entity-pop" data-cat="Lieu" data-title="Hangmann's Gasse" href="../../lieux/hangmanns-gasse.html">Hangmann's Gasse</a></strong></td>
+<td>Sud (ruelles)</td>
+<td>De nuit, discret</td>
+<td>Ruelle resserrée — RDV Lina à 22h.</td>
+</tr>
+<tr>
+<td><strong>Quais / La Comète</strong></td>
+<td>Berges du Reik</td>
+<td>Sortie par les quais</td>
+<td>Marine impériale, navire mobilisé par Heinrich.</td>
+</tr>
+<tr>
+<td><strong>Porte Wolftor</strong></td>
+<td>Nord (sortie ville)</td>
+<td>Route de <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqN-BT2U_Zb_-Pr3l4JTX9rSdQAH2X10d9DXZSGr9waNwmNS5xmSQyb-VfzcaeDq68w9sLlsRkOu3vRNdzEJTPjHCOwCe_AAs9bnbrW6hfyT91QP3zBCBe1N8XzeUhVgZmuTD_cP_bELaiLo2byBb9mj2atdRegc4hw96eTziiCN2XsmdsMJIoahQj9Ys/s400/_middleheim.png" data-subtitle="Capitale du Middenland" data-title="Middenheim" href="../../../lieux/middenheim-4.html">Middenheim</a></td>
+<td>Quartier middenlander/ulricain — voir <a href="62-fuite-vers-middenheim-planques.html">62 - Fuite vers Middenheim &amp; planques</a>.</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Rentrer le soir</strong> : des rues sont <strong>fermées</strong> (fin d'après-midi/soir) → détours. Le manoir reste un point relativement sûr.</p>
 <h2>🎭 Factions de rue (qui les PJ croisent)</h2>
 <p>Trois forces se disputent la rue. À S64 elles sont <strong>naissantes et désordonnées</strong> ; elles se durcissent vers le climax.</p>

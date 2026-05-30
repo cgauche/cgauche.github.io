@@ -399,6 +399,39 @@ main {
   font-size: 0.85em;
 }
 
+/* ---------- Scenario sidebar (per-scenario page rail) ----------------- */
+.sidebar-scenario .scn-nav { display: flex; flex-direction: column; }
+.sidebar-scenario .scn-group { margin: 0.55rem 0 0.2rem; }
+.sidebar-scenario .scn-group-h {
+  display: block;
+  font-family: var(--serif-display);
+  font-size: 0.72rem; letter-spacing: 0.08em; text-transform: uppercase;
+  color: var(--muted);
+  margin: 0.2rem 0 0.15rem;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: 0.12rem;
+}
+.sidebar-scenario .scn-link {
+  display: block;
+  font-family: var(--serif-display);
+  font-size: 0.92rem; line-height: 1.25;
+  color: var(--ink);
+  text-decoration: none;
+  padding: 0.18rem 0.4rem 0.18rem 0.6rem;
+  border-left: 2px solid transparent;
+  border-radius: 2px;
+}
+.sidebar-scenario .scn-link:hover {
+  background: rgba(163,122,46,0.06);
+  border-left-color: var(--gold);
+  text-decoration: none;
+}
+.sidebar-scenario .scn-link.is-active {
+  background: linear-gradient(90deg, rgba(122,31,31,0.10), transparent);
+  border-left-color: var(--oxblood);
+  color: var(--oxblood); font-style: italic;
+}
+
 /* ---------- Footer ----------------------------------------------------- */
 
 .site-footer {

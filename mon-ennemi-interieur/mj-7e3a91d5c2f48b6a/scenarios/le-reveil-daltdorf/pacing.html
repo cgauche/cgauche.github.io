@@ -26,31 +26,48 @@
   <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
 </header>
 <div class="layout">
-<nav class="sidebar" aria-label="Navigation par arc">
-<h2 class="sidebar-title">Les Sept Arcs</h2>
-<ol class="sidebar-arcs">
-<li>
-<a class="sidebar-arc" href="../../../arc-1.html"><span class="sidebar-num">I</span><span class="sidebar-name">Prologue</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-2.html"><span class="sidebar-num">II</span><span class="sidebar-name">L&#x27;Ennemi dans l&#x27;Ombre</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-3.html"><span class="sidebar-num">III</span><span class="sidebar-name">Aventures à Ubersreik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-4.html"><span class="sidebar-num">IV</span><span class="sidebar-name">Mort sur le Reik</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-5.html"><span class="sidebar-num">V</span><span class="sidebar-name">Le Pouvoir Derrière le Trône</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-6.html"><span class="sidebar-num">VI</span><span class="sidebar-name">Le Rat Cornu</span></a>
-</li>
-<li>
-<a class="sidebar-arc" href="../../../arc-7.html"><span class="sidebar-num">VII</span><span class="sidebar-name">L&#x27;Empire en Ruine</span></a>
-</li>
-</ol>
+<nav class="sidebar sidebar-scenario" aria-label="Navigation du scénario">
+<h2 class="sidebar-title">Le réveil d&#x27;Altdorf</h2>
+<div class="scn-nav">
+<a class="scn-link" href="index.html">★ Hub</a>
+<div class="scn-group"><span class="scn-group-h">Ouverture</span>
+<a class="scn-link" href="01-briefing-helstein.html">01 - Briefing Helstein</a>
+<a class="scn-link" href="02-rattrapage-yuridika-jour-du-mariage.html">02 - Rattrapage Yuridika (jour du mariage)</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Le marteau</span>
+<a class="scn-link" href="11-consultation-fassbinder.html">11 - Consultation Fassbinder</a>
+<a class="scn-link" href="12-consultation-fassbinder-arrivee-tardive.html">12 - Consultation Fassbinder — arrivée tardive</a>
+<a class="scn-link" href="13-arrestation-et-fuite.html">13 - Arrestation et fuite</a>
+<a class="scn-link" href="14-rumeur-fassbinder-mort.html">14 - Rumeur Fassbinder mort</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Officiel</span>
+<a class="scn-link" href="21-saisine-au-cabinet-du-grand-chancelier.html">21 - Saisine au cabinet du Grand Chancelier</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Empereur</span>
+<a class="scn-link" href="31-approche-via-lina.html">31 - Approche via Lina</a>
+<a class="scn-link" href="32-visite-karl-franz.html">32 - Visite Karl-Franz</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Ville &amp; perso</span>
+<a class="scn-link" href="41-temple-de-shallya.html">41 - Temple de Shallya</a>
+<a class="scn-link" href="42-retour-helstein.html">42 - Retour Helstein</a>
+<a class="scn-link" href="43-ecoute-des-rumeurs.html">43 - Écoute des rumeurs</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Déplacement</span>
+<a class="scn-link" href="51-glissement-reikerbahn.html">51 - Glissement Reikerbahn</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Départ</span>
+<a class="scn-link" href="61-depart-matinal.html">61 - Départ matinal</a>
+<a class="scn-link" href="62-fuite-vers-middenheim-planques.html">62 - Fuite vers Middenheim &amp; planques</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Référence</span>
+<a class="scn-link" href="ambiance.html">⚡ Écran live (ville)</a>
+<a class="scn-link" href="cap-suivant-destinations-possibles.html">Cap suivant — destinations possibles</a>
+<a class="scn-link" href="carte-des-juridictions.html">Carte des juridictions</a>
+<a class="scn-link" href="enquete-kappelmuller.html">Enquête Kappelmuller</a>
+<a class="scn-link" href="gestion-table.html">Gestion table</a>
+<a class="scn-link is-active" href="pacing.html" aria-current="page">Pacing</a>
+</div>
+</div>
 </nav>
 <main>
 
@@ -61,8 +78,24 @@
 <blockquote>
 <p>Référence transversale du scénario <a href="index.html">Le réveil d'Altdorf</a>.
 Aide à dimensionner la séance selon le temps disponible.</p>
-<p>La structure scénario est modulaire (voir <a href="index.html">Hub</a> §Index d'intentions et §Triggers). Les tableaux ci-dessous donnent le <strong>pacing du flux par défaut</strong> — utile si la table suit l'orientation suggérée. Si elle dévie, le MJ adapte en piochant dans l'Index d'intentions du Hub.</p>
+<p>La structure scénario est modulaire (voir <a href="index.html">Hub</a> §Index d'intentions). Les tableaux ci-dessous donnent le <strong>pacing du flux par défaut</strong> — utile si la table suit l'orientation suggérée. Si elle dévie, le MJ adapte en piochant dans l'Index d'intentions du Hub.</p>
 </blockquote>
+<h2>Flux par défaut de la journée</h2>
+<p>Orientation suggérée (<em>pas</em> un railroad) :</p>
+<ol>
+<li><strong>Matin</strong> : briefing Helstein → trajet rive sud (glissement Reikerbahn) → consultation Fassbinder avant 11h → arrestation publique → fuite.</li>
+<li><strong>Après-midi</strong> : retour manoir + repos + rumeurs + un ou deux modules au choix (Shallya, saisine au Palais, enquête Kappelmuller).</li>
+<li><strong>Soir</strong> : si trigger Maria-Luise activé → Lina → visite <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOznx3IJTuzqEjKc5tFuqWIq3Zzx_MEIFeHhKltFqimiW0aigkjSha6BbDiAxbdjUA2RM5ArZsJRkMhXgMiV8gHi1m4kX99VsN__5DOER_NmfhR8u-vTWW3FhPlGM0TAgTTZ-4biSMMQjaRpHlhVzg8WVNdzmNVYLvq0vQTw2gOy_-PuXkLEtnmB42s50/s200/hermann-von-feilbach.webp" data-subtitle="Empereur" data-title="Karl-Franz Holswig-Schliestein" href="../../../pnj/karl-franz-holswig-schliestein.html">Karl-Franz</a>.</li>
+<li><strong>Matin J+1</strong> : départ (Comète ou voie de terre).</li>
+</ol>
+<p>Les PJ peuvent aussi : ne pas voir Fassbinder (tout perdre côté marteau) ; porter la saisine au Palais d'abord (<a href="12-consultation-fassbinder-arrivee-tardive.html">12 - Consultation Fassbinder — arrivée tardive</a> ensuite) ; ne jamais enquêter sur Kappelmuller (pas de billet, pas de <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOznx3IJTuzqEjKc5tFuqWIq3Zzx_MEIFeHhKltFqimiW0aigkjSha6BbDiAxbdjUA2RM5ArZsJRkMhXgMiV8gHi1m4kX99VsN__5DOER_NmfhR8u-vTWW3FhPlGM0TAgTTZ-4biSMMQjaRpHlhVzg8WVNdzmNVYLvq0vQTw2gOy_-PuXkLEtnmB42s50/s200/hermann-von-feilbach.webp" data-subtitle="Empereur" data-title="Karl-Franz Holswig-Schliestein" href="../../../pnj/karl-franz-holswig-schliestein.html">Karl-Franz</a>) ; quitter <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a> le matin même.</p>
+<h3>Ce que les PJ savent en début d'après-midi</h3>
+<ul>
+<li><strong>RDV Fassbinder fait avant 11h</strong> : couloir Vithang Dum / Zan Mingol (Yodri vol.1) + documents trouvés selon les tests + Johannes dans le groupe.</li>
+<li><strong>Arrivée tardive</strong> (<a href="12-consultation-fassbinder-arrivee-tardive.html">12 - Consultation Fassbinder — arrivée tardive</a>) : info dégradée par témoignages + ce que Johannes apporte.</li>
+<li><strong>Pas passés à la biblio</strong> : aucune info marteau.</li>
+</ul>
+<p>(L'escalation de la ville heure par heure : <a href="ambiance.html">Ambiance</a>.)</p>
 <h2>Version 3h compressée (séance unique, flux par défaut)</h2>
 <p>Si la table suit le flux par défaut et que tu veux faire tenir le scénario en une seule séance de 3 heures :</p>
 <table>
