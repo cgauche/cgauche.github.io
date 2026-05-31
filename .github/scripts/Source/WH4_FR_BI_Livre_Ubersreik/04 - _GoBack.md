@@ -1,0 +1,499 @@
+# _GoBack
+
+*Pages PDF 24-42*
+
+## **La Forteresse Harataken**
+Ce bâtiment trapu de la taille d’un pâté de maisons et composé de nombreuses pièces, héberge le clan nain des Harataki. Autrefois prestigieux, il a perdu le contrôle de Karak Branar, sa forteresse ancestrale, environ quatre cents ans avant la naissance de Sigmar. Depuis, il a englouti sa fortune dans une succession de tentatives infructueuses pour récupérer ses terres. Suite à la destruction d’Ubersreik, les artisans du clan participèrent à la reconstruction de la ville et bâtirent également le grand édifice à l’intérieur duquel les membres du clan habitent désormais. Au fil des ans, ils en ont vendu des parties, plus ou moins importantes, pour financer leurs expéditions malheureuses, ne laissant aujourd’hui à leur disposition qu’une poignée de pièces. 
+
+La reine Vilda est l’actuel chef de clan et gère les ressources déclinantes de ce dernier depuis plus d’un siècle. Même si sa famille est de plus en plus désespérée, et de moins en moins attachée à l’honneur, elle est toujours déterminée à récupérer leur forteresse perdue ainsi que leur ancien statut aux yeux des autres nains. C’est pourquoi elle est particulièrement sensible à toute insulte ou tout manque de respect, et qu’elle garde toujours le _Livre des Rancunes_ de son clan à portée de main. 
+
+- La reine Vilda prévoit une nouvelle expédition vers les ruines de Karak Branar, au nord de la Passe de la Dame Grise. Elle a besoin qu’un petit groupe parte en éclaireur pour évaluer les forces des peaux-vertes qu’ils auront à affronter. Elle récompensera généreusement les volontaires si elle parvient à reprendre la forteresse. 
+
+- Gjur Farlson, l’ambassadeur de Karak Azgaraz, soutient publiquement la démarche du clan Harataki, mais ne dispose pas des ressources suffisantes pour leur offrir une aide concrète. Si les Personnages trouvent un moyen de convaincre l’ambassadeur de fournir des fonds ou des troupes, ils gagneront le respect de la reine Vilda (même si, du coup, ils risquent de s’attirer la colère de Karak Azgaraz). 
+
+## **Le Khazalgirt**
+Un ensemble de solides tunnels construits par les nains forme un réseau de rues souterraines sous Dawihafen. Un grand sanctuaire en l’honneur de Grimnir a été érigé au croisement de ces différents passages, et il est devenu un point de rendezvous crucial pour tous les Tueurs de la région. Les tunnels desservent la grande majorité des lieux importants aux yeux des nains d’Ubersreik, dont La Hache et le Marteau, la forteresse Harataken, ainsi que les maisons des familles naines les plus importantes. Ils sont complètement indépendants du réseau d’égouts des humains et du propre réseau d’égouts nain, enterré bien plus profondément. Les tunnels sont réguliers, solides, bien éclairés, et évidemment, régulièrement parcourus par des patrouilles. Si des non-nains se retrouvent d’une façon ou d’une autre à déambuler dans ce réseau, il leur sera demandé d’en sortir, poliment, mais fermement. Les récidivistes ne bénéficieront pas des mêmes égards. 
+
+- Le groupe découvre le corps d’un homme-bête ayant l’apparence d’un rat. Sur lui, ils trouvent une carte très détaillée du Khazalgirt, sur laquelle a été ajouté un autre réseau de tunnels qui semble être relié aux passages des nains. Le groupe peut alors avertir ces derniers, ce qui leur 
+
+permettra d’anticiper une attaque imminente de skavens. À l’inverse, ils peuvent conserver la carte et s’en servir pour dévaliser de riches marchands nains. Un choix difficile... • Les Personnages sont en train de se défaire d’une bande de gobelins hors des murs de la ville lorsqu’ils découvrent l’entrée d’un tunnel qui conduit sous le Khazalgirt. S’ils décident de l’emprunter, ce dernier les mène jusqu’à une série de barils remplis de poudre noire sur lesquels les lettres « B-O-U-M » ont été barbouillées et dont les mèches sont déjà allumées ! 
+
+## **Le Souterre du Seigneur Gazul**
+Loin sous le Khazalgirt, au bout d’un tunnel long de plusieurs centaines de mètres, se trouve le Souterre du Seigneur Gazul. L’entrée, sous bonne garde, se fait par l’intermédiaire d’une grotte de plus de quinze mètres de haut, dont une paroi a été sculptée pour ressembler au visage d’un nain à la bouche béante. Derrière se trouve une énorme caverne au sol de terre contenant des milliers de sarcophages en pierre sculptée regroupés par clans, les cercueils les plus récents disposés en octogones autour des plus anciens. Au centre se trouve une statue haute de sept mètres représentant Gazul, dieu ancestral des nains et Grand gardien des morts. C’est lui qui a mis en place cette tradition de la vénération des ancêtres, après la perte de sa mère. Gazul, l’air soucieux, s’appuie sur une grande épée runique. 
+
+Nargrimi la Silencieuse s’assure que les enseignements de Gazul ne soient pas oubliés. La naine est une _Karugromthi_ , une aïeule vivante, et les nains du dessus murmurent qu’elle était déjà née lorsque la chambre funéraire fut creusée, il y a des siècles de cela. Cependant, rien n’est moins sûr, car Nargrimi ne parle pas, ne confirme rien, et tous ses descendants sont depuis longtemps décédés. Elle s’occupe des nains morts à Ubersreik, réconfortant de ses douces mains parcheminées ceux qui sont en deuil, et pleurant avec eux. Personne de vivant à Ubersreik ne se rappelle la dernière fois où Nargrimi a quitté la caverne. 
+
+- Reman Wardas et Gantz Ganev apprennent l’existence d’un filon de cadavres et d’artefacts caché sous leur ville par un nain Harataki complètement saoul. Tout excités, les deux compères volent une carte du Khazalgirt et élaborent un plan subtil : creuser ! Aussi incroyable que cela puisse paraître, après avoir passé trois mois à creuser à partir d’un site proche de la rivière Teufel, ils parviennent à pénétrer dans le Souterre. En observant discrètement le lieu, ils réalisent que l’endroit est bien gardé, et recherchent donc un groupe de personnes capables de faire diversion, promettant en retour de partager leur butin. Cependant, le jour venu, au moment où la diversion a lieu, la rivière entre en crue à cause de la fonte des glaces dans les Montagnes Grises. L’eau inonde alors le passage creusé, emportant Reman, Gantz et tous ceux qui se trouvent avec eux, directement dans le Souterre, avec beaucoup d’explications à fournir. 
+
+- Nargrimi n’est pas qu’une ancêtre vivante, c’est également la vraie reine de Karak Zanda, une forteresse perdue située près d’Helmgart. Lorsqu’elle apprend que les ruines de son ancienne demeure ont été découvertes par des explorateurs, et que des expéditions sont organisées par des chasseurs de trésors et des aventuriers, Nargrimi rédige une note dans laquelle elle annonce qu’elle est prête à parler, mais seulement à des étrangers. Quand Barick Bullicksson lui amène le groupe au Souterre, elle explique que sa forteresse 
+
+Clément Gauche - gauche.c@gmail.com 
+
+perdue ne doit en aucun cas être explorée, et qu’aucun nain avec un tant soit peu d’honneur ne devrait s’approcher de Karak Zanda. Elle n’en dira pas plus, mais offrira 10 CO à tout groupe capable de couper les routes menant aux ruines de son ancienne demeure. 
+
+## **’ les Fournitures D Expédition Nordwander & Fils**
+Dans un grand bâtiment aux plafonds bas, Nordwander et Fils se vante de proposer tout ce dont sa clientèle peut avoir besoin pour monter une expédition dans les Montagnes Grises. Incontournable pour tout ce qui concerne la montagne, l’escalade et le camping, on y trouve des pitons, des cordes, des marteaux, des crampons, des piolets, des ciseaux, des rations, des tentes, des sacs de couchage, et tout ce dont un groupe peut avoir besoin pour s’aventurer dans les terres montagneuses au sud d’Ubersreik. 
+
+Au début, leur échoppe ne s’adressait qu’aux nains, mais la qualité de leurs produits et les prix pratiqués ont rapidement attiré d’autres clients à Dawihafen. Aujourd’hui, ils proposent également des vêtements et des outils adaptés à d’autres physiologies que celles des nains, toujours avec le même niveau de qualité. Même si leur clientèle s’est diversifiée, la boutique reste conçue pour les nains, avec ses plafonds bas et ses larges allées. 
+
+Pour un nain, Gudrum Nordwander est plutôt agréable. Il est ravi de proposer des marchandises de grande qualité à une clientèle plus diverse et sait parfaitement identifier ceux qui ne savent pas de quoi ils parlent. Les clients avouant leur ignorance des bases de l’exploitation minière ou de l’escalade se verront récompensés par un discours bien plus long que ce que la plupart des gens peuvent supporter. Belorn, jeune nain plein d’énergie et fils de Gudrum, l’aide à tenir la boutique. 
+
+Belorn rêve de quitter Ubersreik et de monter sa propre expédition au lieu de se contenter de préparer celles des autres. Il discutera avec tous les clients, les bombardant de questions sur leur destination et ce qu’ils comptent faire une fois arrivés sur place. Bien que Belorn soit quelqu’un d’enthousiaste et de sincère, si l’un de ses clients prépare quelque chose de secret, il risque de trouver sa curiosité désagréable. 
+
+- Belorn Nordwander propose une remise au groupe s’il peut partir en expédition avec lui. Bien qu’il s’agisse de quelqu’un d’agréable et d’intelligent, Belorn n’a aucune d’expérience de la vie hors des murs d’Ubersreik et deviendra vite un poids pour les autres, ce dont il ne se rendra pas du tout compte. 
+
+- • L’explorateur de légende Ernst von Schäkeldorf se prépare à gravir le mont Frugelhorn, en compagnie du groupe. Il est parvenu à contrarier Nordwander en partant du principe qu’il bénéficierait d’une importante remise grâce à sa renommée. Est-ce que le groupe parviendra à faire redescendre la tension pour trouver un accord satisfaisant les deux parties, ou est-ce que l’expédition, et le salaire promis au groupe tomberont à l’eau ? 
+
+## **Teubrücke (les Docks)**
+Les Docks d’Ubersreik s’étendent au centre de la ville, sur toute la longueur de la Teufel. Ils comportent de nombreux quais, des entrepôts, des auberges, des maisons de Guilde, des services bon marché, ainsi que des bureaux chargés de prélever les taxes et autres droits de douane. Le reste du quartier ne vaut guère mieux qu’un bidonville, la qualité des bâtisses diminuant au fur et à mesure qu’on s’éloigne de la rivière. Même si, dans la charte de la ville, ce quartier, ainsi que tous les taudis et entrepôts qui s’y rattachent, porte le nom de Teubrücke, il est généralement appelé « Les Docks ». 
+
+24
+Clément Gauche - gauche.c@gmail.com
+
+## **La Guilde des Bateliers**
+La Guilde des Bateliers se réunit dans un ancien entrepôt sur deux niveaux aménagés, sur la rive sud de la Teufel. Le rezde-chaussée dispose d’une taverne et d’un dortoir destiné aux membres, où tout est vendu à prix coûtant. Plusieurs chambres privées sont également disponibles. La nourriture et les boissons sont abondantes et de bonne qualité. À l’étage supérieur, surplombant la salle commune, se trouvent les bureaux de la Guilde et les appartements du Maître de Guilde. Celle-ci est affiliée aux Guildes de Bateliers d’Auerswald, de Kemperbad et d’Altdorf, ce qui permet aux membres d’une de ces Guildes de bénéficier des avantages de toutes les autres, notamment l’accès au dortoir, à la taverne, aux pensions pour les veuves ou les orphelins ainsi qu’aux différents contacts de la Guilde. 
+
+Le Maître de Guilde, Karsten Rugger, a oublié bien plus de choses sur les eaux qui coulent entre Ubersreik et Altdorf que la plupart des riverains n’en apprendront jamais. Aujourd’hui, c’est un vieil homme irascible, mais toujours respecté. Les rumeurs affirmant qu’il est à la tête d’un réseau de contrebande sur toute la partie supérieure de la rivière Teufel n’ont jamais été prouvées. Robbo Basseronce gère les cuisines et se vante d’être capable de reproduire la cuisine des elfes et des nains, même si c’est le genre de demande que le halfling a rarement à traiter. 
+
+- Les relations professionnelles établies entre Altdorf et la Guilde ont poussé celle-ci à rester neutre vis-àvis des troubles politiques récents. D’un autre côté, les troupes d’Altdorf ferment les yeux sur toute contrebande découverte. Si cela venait à se savoir, l’autorité d’Altdorf s’en trouverait ébranlée, mais cela provoquerait également la colère de la Guilde. 
+
+- Une cargaison d’eau-de-vie en provenance de Bretonnie doit être introduite clandestinement dans Ubersreik ce soir. Nixie Dunkelstange est en charge de l’opération, mais elle ne peut pas faire appel aux membres de la Guilde, car elle soupçonne l’un d’entre eux de fournir des informations à Geldfinder, au Bureau des Douanes. C’est une entreprise plutôt risquée, mais une forte récompense attend ceux qui prendront le risque. 
+
+## **Le Marteau Tordu**
+Le Marteau Tordu est l’une des tavernes miteuses et peu accueillantes, typiques du Teubrücke. Elle propose des alcools forts et des bières coupées à l’eau, à bas prix. Ce n’est un secret pour personne : la taverne sert de couverture à un tripot dirigé par les Croix, des adorateurs de Ranald, le dieu de la Ruse, pour qui ces activités sont autant d’actes de foi. À l’arrière du bâtiment, ils gèrent une soupe populaire, en utilisant les profits générés par le tripot pour fournir un minimum de nourriture aux pauvres et aux nécessiteux d’Ubersreik. 
+
+Gert Hunder s’occupe du bar. C’est un homme balafré et plutôt intimidant, dont le principal rôle est de protéger les Croix. Silvi Kreutzhame, une redoutable quinquagénaire à l’œil vif et à la langue acérée, est la responsable du culte de Ranald à Ubersreik. 
+
+À n’importe quelle heure du jour ou de la nuit, des joueurs de toutes conditions sociales s’adonnent à cette forme particulière d’adoration, à condition, bien sûr, qu’ils disposent d’espèces sonnantes et trébuchantes à dépenser ou qu’ils bénéficient d’un crédit. Les autorités tolèrent le jeu, en partie à cause des œuvres charitables des Croix, et surtout parce qu’une grande partie des personnes les plus influentes de la ville fréquentent également le Marteau. 
+
+- Même si la plupart des gens sont au courant que le tripot est dirigé par les Croix, les opérations clandestines de contrebande organisées depuis le bureau du comptable sont nettement moins connues. Pourtant, c’est là que les Doigts Crochus achètent, vendent et échangent les objets volés. Si le groupe est dévalisé, c’est là qu’il pourra retrouver ses biens ; enfin, s’il parvient à convaincre les adeptes de Ranald. 
+
+- • Dannel Meer, le légendaire voleur, est en train de monter une équipe pour s’attaquer à la forteresse de Roche Noire. Il prétend que les taxes du duché d’Ubersreik arrivent dans la forteresse et s’y accumulent simplement parce que les Jungfreud ne sont plus là pour les envoyer à Altdorf. Von Walfen, l’archiduc, ayant trop peur du pouvoir d’Altdorf pour récupérer les taxes, elles s’accumulent donc dans les chambres fortes de Roche Noire. Il y a là une véritable fortune à se faire. En supposant que Meer ait raison… 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Le Bureau des Douanes**
+Toutes les taxes collectées à Ubersreik arrivent au Bureau des Douanes, un grand bâtiment solide disposant d’une vue imprenable sur les quais et le trafic fluvial. Tous les bateaux qui livrent de la marchandise dans la ville paient une taxe d’une pistole d’argent, ainsi qu’une somme supplémentaire en fonction de leur cargaison. Les navires peuvent avoir des frais d’accostage à régler au propriétaire du quai, ainsi qu’une somme supplémentaire à verser à la Guilde des Débardeurs pour avoir le droit de charger, ou de décharger. Les chariots de marchandises paient leurs taxes aux portes de la ville. C’est Ernst Geldfinger qui dirige les opérations. Geldfinger est un quadragénaire brusque qui surveille très étroitement ses greffiers. Chaque jour, l’un d’eux est en poste à chacune des trois portes de la ville, deux autres sont en place respectivement sur les rives nord et sud afin de récupérer l’argent des péniches, et un dernier travaille au Bureau des Douanes à proprement parler. Ernst a la réputation de faire attention au moindre détail, et d’être d’une honnêteté irréprochable. 
+
+- Lorsque le groupe voit Detlef Schädler, l’un des greffiers de Geldfinger, se faire assassiner en allant prendre son poste à la porte nord, ils y voient une opportunité. S’ils cachent le corps, ils pourraient prendre sa place et ainsi empocher les taxes du jour. Tout ce qu’ils ont à faire, c’est de duper les gardes de la ville et les marchands, de conserver le corps bien dissimulé, et surtout, d’éviter ceux qui ont tué Schädler. 
+
+- Geldfinger a constaté une baisse des taxes collectées sur l’eau-de-vie à cause d’un réseau de contrebande opérant de nuit sur la rivière. Il suspecte l’un de ses greffiers d’en être complice, et c’est la raison pour laquelle il a besoin d’embaucher un groupe de « travailleurs indépendants » pour enquêter en toute discrétion et mettre fin à l’opération. Il est prêt à payer grassement et ira même jusqu’à offrir une lettre de recommandation, si le groupe parvient à résoudre le problème en toute discrétion. 
+
+## Un Point Sur les Taxes
+Avant que les Jungfreud ne soient démis de leurs fonctions, les taxes dues par le duché d’Ubersreik au prince d’Altdorf étaient collectées au Bureau des Douanes avant d’être transférées vers la forteresse de Roche Noire. De là, elles étaient récupérées par des représentants de l’archiduc de Haute-Teufel, puis transportées à Walfenschloss, dans le duché de Wallenstein, avant de partir vers Altdorf. Le droit de collecte et de transfert de ces impôts est réservé au duc d’Ubersreik. Mais il n’y a plus de duc. Alors, qui collecte les taxes pour les transmettre au prince du Reikland ? 
+
+Personne ne le sait. Les vassaux du duc d’Ubersreik collectent les taxes normalement, mais certains ont commencé à refuser d’envoyer quoi que ce soit au Bureau des Douanes, avançant qu’il n’y a plus de seigneur légitime pour percevoir cet argent. Dans le même temps, l’archiduc de Haute-Teufel est sommé par la couronne du Reikland de récupérer les taxes d’Ubersreik, mais il n’y a aucun vassal pour les lui transmettre. Ce qui met le général von Dabernick et dame Nacht dans une situation très difficile. Dabernick souhaite récupérer les taxes avec l’aide de ses soldats que ce soit légal ou pas ; à l’inverse, Nacht préfèrerait organiser le remplacement à long terme du duc, et rapidement. 
+
+## **Le Bras du Débardeur**
+Cette immense taverne entièrement en bois est presque exclusivement réservée aux Débardeurs et aux charretiers de la ville, qui ont le monopole du chargement et du déchargement de toutes les marchandises d’Ubersreik. Si vous ne les payez pas, pas une de vos cargaisons ne bougera. 
+
+Le Bras du Docker est en effet le siège de la Guilde des Débardeurs. En plus de centraliser leur activité, elle appartient au Maître de Guilde, Wilhelm « Grand Willi » Docker, qui en est également le gérant. Grand Willi est un géant avec des bras plus gros que les cuisses de la plupart des gens. Le rez-de-chaussée est composé de deux salles communes et d’une cuisine. À l’étage se trouvent les quartiers d’habitation des Docker, avec une petite cuisine, un espace de vie et trois chambres à coucher. 
+
+À tout moment, plusieurs équipes de Débardeurs boivent dans la taverne, et bien plus travaillent sur les quais, dans les entrepôts, dans les rues ou encore dans les comptoirs de commerce. Certains d’entre eux ont pour mission de s’assurer qu’aucune cargaison n’est chargée ou déchargée sans les documents appropriés. 
+
+- Aloysius Pavéderonce III, un marchand halfling, a embauché le groupe. Il est en litige avec la Guilde des Débardeurs, qui refuse d’effectuer tout déchargement pour lui tant qu’il n’aura pas réglé son énorme dette. Comme il est convaincu d’avoir payé son dû (à la Guilde des Débardeurs d’Altdorf), il ne veut pas payer une seconde fois. Alors que le groupe commence à décharger sa péniche, les Débardeurs arrivent pour corriger leur erreur. 
+
+- Petit Willi, le fils de Grand Willi, qui est encore plus grand que lui, fait passer illégalement des objets de luxe pour le compte du clan Havrebas. Mais depuis que le Guet lui a confisqué sa dernière cargaison sur l’ordre de Geldfinger, il doit beaucoup d’argent aux halflings. Il propose donc aux membres du groupe de devenir gratuitement membres de la Guilde, s’ils l’aident à s’infiltrer dans l’entrepôt où sont stockés les biens confisqués et s’ils l’aident à les récupérer. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Chapelle du Graal**
+Vue de l’extérieur, la chapelle bretonnienne du Graal ressemble à un entrepôt, comme il en existe beaucoup dans le quartier. Seules les fleurs de lys gravées sur son avant-toit indiquent que le bâtiment est particulier. Par contre, son intérieur est somptueux. Ses murs et ses colonnes sont finement sculptés et magnifiquement décorés de fresques représentant les légendes de la Dame du Lac et des vaillants chevaliers de Bretonnie. 
+
+Au cours de la Cinquième Guerre de Parravon, il y a plusieurs dizaines d’années, le bâtiment servait de centre de détention. Ce sont les prisonniers bretonniens qui ont décoré la chapelle. En geste de conciliation (et comme témoignage de la beauté et de la polyvalence des bâtiments en bois), ce sont les membres de la Guilde des Charpentiers qui s’occupent depuis de son entretien. 
+
+Hugo, un Bretonnien à la barbe blanche et au regard bienveillant, est le seul résident permanent, et les enfants du coin sont persuadés qu’il était autrefois chevalier. De nombreux Bretonniens, expatriés ou simplement de passage, s’y rendent pour présenter leurs hommages à la Dame. 
+
+- Hugo était effectivement un chevalier, mais il a quitté la Bretonnie à la suite d’un comportement discourtois lors d’un tournoi. Il y a peu, un voyageur, Sire Pierre de l’Arbaque, a reconnu le vieil homme et, le jugeant inapte à s’occuper de la chapelle, l’a mis dehors. Hugo est résolu à affronter le jeune Pierre afin de défendre son honneur, mais le groupe est convaincu que s’il le fait, il se fera massacrer. 
+
+- • Nils Scherzer, un agitateur, attise un fort sentiment antibretonnien, car il est déterminé à restaurer la grandeur du Reikland. Il a rassemblé une foule, et a pour intention d’expulser les Bretonniens d’Ubersreik. Il compte réduire la chapelle en cendres et tuer ceux qui se trouvent à l’intérieur, prenant le risque d’étendre le feu au reste de la ville. Il reste trop peu de temps pour avertir le Guet ; seul le groupe peut intervenir ! 
+
+## **La Guilde des Constructeurs de**
+## **Bateaux et des Accastilleurs**
+Ce modeste bâtiment en bois, à proximité des deux cales sèches de la rivière, abrite les bureaux de la Guilde rassemblant les constructeurs de bateaux et les accastilleurs. Il y a trente ans, les deux Guildes, bien qu’importantes pour la ville, ne comportaient chacune que quelques membres. Elles unirent leurs forces pour donner plus de poids à leurs voix. Aujourd’hui, toujours de taille modeste, elle est devenue indéniablement puissante grâce à son impact sur l’économie locale. 
+
+Kurt Prochnow est le Maître de Guilde actuellement en place. Humain longiligne et musclé d’une petite trentaine d’années, il est bien jeune pour occuper une place aussi importante. Il a voyagé à travers tout l’Empire pour parfaire ses compétences, a été apprenti à Bechafen, en Ostermark, et il est parvenu à intégrer les Guildes de Charpentiers de marine et de Constructeurs de bateaux dans sept villes différentes. Il est déterminé, intelligent, et doté d’une inextinguible soif d’apprendre de nouvelles techniques de construction. En ce moment, il effectue des tests visant à incorporer du métal et de la pierre dans ses fabrications, en s’inspirant des méthodes des ingénieurs nains. 
+
+Au dernier festival de Magnustag, ses manières originales, associées à sa réussite fulgurante, lui ont valu le titre de « Célibataire le plus en vue d’Ubersreik ». Depuis, il n’a guère de répit, recevant chaque semaine des visites de femmes désireuse de l’épouser pour sa fortune. Ce qui amuse énormément son équipe. 
+
+- Le dernier prototype de Prochnow a été volé par des pirates de rivière. Si les patrouilleurs fluviaux tombent dessus, il y a de fortes chances qu’ils l’abîment ou qu’ils en viennent à poser des questions embarrassantes. C’est pourquoi il est prêt à payer grassement un groupe pour qu’il récupère le navire en toute discrétion, et ajoutera même un bonus s’il est intact. 
+
+- • Les voyages et les lettres de Prochnow ne sont qu’une façade. En fait, il est membre d’un culte répandu, l’Œil Fracturé (voir page 63), pour lequel le savoir passe avant tout, et ce quel qu’en soit le prix. Il a aménagé, sous la maison de la Guilde, une bibliothèque illégale. Il est à la recherche d’un parchemin particulier du temple de Verena, et aimerait bien trouver des pigeons qui iraient le dérober à sa place. 
+
+## Les Différentes Embarcations
+Même si elle s’appelle la Guilde de Constructeurs de bateaux et des Accastilleurs, et qu’elle emploie plusieurs charpentiers de marine, la Guilde ne construit pas vraiment des bateaux. Elle fabrique des péniches. 
+
+La différence peut sembler minime, mais pour les riverains, elle est primordiale. Dans le patois de ceux qui vivent près du Reik, une péniche est un navire à fond plat, qui permet la navigation sur les eaux peu profondes des rivières, et sur laquelle la capacité de stockage est plus importante. En comparaison, les bateaux et les navires possèdent des quilles bien plus longues, ce qui facilite les voyages sur l’océan et en eau profonde. Les navires sont également plus grands, et sont le plus souvent équipés d’au moins trois mats. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Fosse aux Cochons**
+La Fosse aux Cochons, dans le bidonville de Schwarzehalle, est une vaste série d’enclos à cochons à ciel ouvert. Ceux-ci se nourrissent des restes et des déchets de la ville, vendus aux porchers par des ramasseurs de fumier entreprenants. Les habitants qui souhaitent traverser la Fosse aux Cochons doivent emprunter une série de plateformes surélevées en bois. Les planches sont traîtresses, et plus d’un bourgeois a déjà glissé, tombant dans la boue et les déchets au beau milieu des animaux. 
+
+Gart Fünke, un ancien éleveur de cochons, est l’homme le plus influent de la Fosse aux Cochons. En théorie, n’importe quel habitant d’Ubersreik peut avoir des porcs dans la Fosse, mais, il faut en fait l’accord de Fünke. Il n’acceptera que si la personne s’engage à lui acheter directement toute « nourriture » destinée à la bête. Fünke s’assure que ce racket ne rencontre pas d’obstacle en fournissant régulièrement au Guet de la viande de porc préparée. 
+
+- Dirk Schwengen, un spadassin qui fait payer un péage à quiconque veut traverser la Fosse aux Cochons, propose un choix simple : le payer, ou finir dans la boue en dessous. 
+
+- • Certaines rumeurs disent que Fünke nourrit ses cochons avec des restes humains. Il y a peu, Fünke a fourni de la « viande de porc » à la charcuterie de Satrioli, ce qui a fait courir le bruit qu’il se débarrassait de corps pour le compte des Havrebas. Lorsque le fantôme de Benno Nusbaum, un homme de main appartenant à un gang, hante sa fille, elle en vient à demander de l’aide pour retrouver ses restes dans la Fosse aux Cochons sans se mettre à dos les criminels halflings qui les y ont jetés. 
+
+## **La Maison Kat**
+Un chat stylisé en cuivre est suspendu au-dessus de la Maison Kat, un bordel dédié à Katya, la déesse de la beauté désarmante. L’imposant bâtiment de trois étages s’adresse à toutes les classes et toutes les races, protégé par des videurs omniprésents. Même si la grande majorité du personnel est féminin, il y en a pour tous les goûts. 
+
+Frau Jalla Krump, une quinquagénaire solidement bâtie ne se déplaçant jamais sans au moins l’un de ses gardes du corps, gère le quotidien de la Maison Kat. Krump doit énormément à Adelheidis « Alisha » Keller, une jeune prêtresse de Katya qui fait son possible pour convaincre ceux qui ne se consacrent qu’à un seul dieu de revenir à une vénération plus polythéiste. Alisha est parvenue à tisser des liens étroits avec le nouveau capitaine de la garde : Andrea Pfeffer, à qui elle fournit des informations sur ceux qui, d’après elle, appartiennent à un culte des Dieux Sombres. Cependant, Alisha ne consent à fournir ces informations que si elle est persuadée que les âmes de ces personnes sont irrécupérables. 
+
+- La Maison Kat est en feu. Les badauds sont en pleine panique, et certains membres du personnel d’Alisha, tout comme certains riches clients, sont piégés à l’intérieur du bâtiment en flammes. C’est une véritable souricière, mais apporter son aide peut s’avérer profitable, tout comme elle pourra s’avérer problématique lorsque les preuves mèneront à un initié du culte de Sigmar outré par le discours de la jeune prêtresse. 
+
+- • Albrecht Horsten, un riche marchand de grains, sensible aux tentations de la chair est un client régulier de la Maison Kat. Alisha pense qu’il a succombé au Prince des Plaisirs, et l’ayant 
+
+remarqué, Horsten a mis sa tête à prix. Alisha a besoin d’une escorte pour aller jusqu’au Bastion et y rencontrer le capitaine Pfeffer, mais une forte récompense peut être tentante... 
+
+## **L’auberge de la Lune Rouge**
+Les deux niveaux de l’Auberge de la Lune Rouge sont destinés en priorité aux bateliers qui sillonnent la Teufel. C’est l’hôtel le plus propre de tous ceux qui se trouvent sur les quais, même s’il est un peu défraîchi. Le rez-de-chaussée, tout en pierre, comprend une grande salle commune, un bar et une petite cuisine. L’étage, tout en bois, abrite les chambres privées de l’auberge ainsi que celle de la propriétaire. La salle principale dispose d’une rangée de petits box privatifs fermés par de lourds rideaux élimés, qui assurent un minimum d’intimité. 
+
+Franz Lohner, le propriétaire de l’auberge, en assure le bon fonctionnement. Ex-mercenaire au grand cœur, Lohner est un quadragénaire aux cheveux en bataille, doté d’un léger embonpoint. Il emploie Ilse Frecht, une matrone d’une cinquantaine d’années, qui s’occupe du service et du nettoyage des chambres. Gunter Bisset travaille dans les cuisines à la préparation des repas. Il est épaulé par deux jeunes garçons qui aident au service dans les moments d’affluence. Tout ce qu’il cuisine, c’est un ragoût de poisson aux pommes de terre. Certes un repas complet, mais qui ne fait pas le meilleur petit déjeuner du monde, surtout lorsque ce sont les restes froids de la veille qui sont servis. 
+
+- Alors qu’ils sont en train de déguster un bon ragoût, le groupe surprend une conversation où il est question de permettre à des brigands de passer les portes de la ville à minuit. Un des conspirateurs appartient au Guet, mais les Personnages ne parviennent pas à le voir distinctement, et, sans preuve, les autorités ne les croiront pas. L’homme du Guet a pourtant une voix particulièrement reconnaissable. Auront-ils le temps de parler à tous les membres du Guet d’Ubersreik avant que la nuit tombe ? 
+
+- Alors que le groupe est en train de faire la fête en dégustant quelques bonnes bières fortes, deux voyous armés entrent dans l’auberge, pistolets chargés au poing. Kürbis et Honighäschen, mari et femme et duo légendaire de brigands, somment tout le monde de rester calme et de faire passer tout leur argent. Honighäschen prévient que si quelqu’un bouge, elle tuera tout le monde dans l’auberge. 
+
+- « NdT : Kürbis et Honighäschen, Pumpkin et Honeybunny constituent un clin d’œil au couple de voyous dans Pulp Fiction. » 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Pension de Rugger**
+La pension de Rugger est l’auberge la moins chère d’Ubersreik, et pour de bonnes raisons : les lits sont infestés de parasites, et la salle commune est humide et sent le moisi. Le rez-dechaussée comporte une cuisine crasseuse, un réfectoire bancal, et la salle commune. À l’étage se pressent quatre chambres privatives (chacune avec deux lits superposés doubles), ainsi que celle du propriétaire. 
+
+## **Le Strohmann Markt**
+Le Strohmann Markt se trouve à la limite du Teubrüke, où il rejoint le quartier fortifié du Bastion. C’est une place assez petite à ciel ouvert, qui accueille durant la journée un certain nombre d’étals proposant un grand choix d’aliments et de vêtements. 
+
+Les Écuries d’Hocheim occupent tout un côté de la place. C’est là que les touristes venus à Ubersreik peuvent mettre en pension leur monture. Comme les civils n’ont pas le droit d’être à cheval dans le Bastion, la pension tourne à plein régime, car les cavaliers en provenance des Docks, refoulés aux portes, y viennent systématiquement. Bien sûr, les nobles, les magiciens et la Poste Impériale ne sont pas soumis à ces restrictions. 
+
+C’est Sabina Hocheim, une vieille femme ridée et balafrée, qui dirige les étables. Vétéran ambitieuse de la dernière Guerre de Parravon, elle passe ses vieux jours, installée sur une chaise bien rembourrée, à jouir de la rentabilité de son affaire. Elle observe tout, pendant que son neveu et sa nièce font tout le travail, et attend d’eux qu’ils reprennent l’affaire une fois qu’elle aura franchi les Portes de Morr. 
+
+Anna Rugger, connue sur les docks sous le surnom de Grandmère, est la propriétaire vieillissante de la pension. Elle est mariée au Maître de la Guilde des Bateliers, Karsten. De ce fait, quiconque vient chercher des noises à Rugger risque fort de se retrouver avec toute une bande d’hommes armés de crochets, tous prêts à venir en aide à leur Grand-mère, sur les talons. 
+
+- Grand-mère a un boulot à proposer. L’un de ses locataires, Herr Bleanish, est mort durant la nuit. Elle n’a pas envie que le Guet s’en mêle, alors débarrassez-vous du corps et Grand-mère vous en sera redevable. 
+
+- Grand-mère a un autre boulot un peu plus important à proposer. Son mari, Karsten Rugger, est trop scrupuleux à son goût. Elle serait reconnaissante si quelqu’un parvenait à le faire disparaître. Définitivement. 
+
+Juste à côté des écuries, Marlies Zeitflug a récemment ouvert une petite échoppe où elle vend des sabliers et des horloges. Ce sont des objets de luxe, et son affaire connaît donc de graves difficultés à cause de la situation politique incertaine. Zeitflug s’inquiète un peu plus à chaque jour qui passe. 
+
+- Hocheim a modifié son testament pour que les étables soient vendues à sa mort et que l’argent soit utilisé pour aider les veuves des soldats et leurs enfants. Son neveu, Tilman, préfèrerait qu’elle soutienne sa famille proche. Si le groupe est capable de fabriquer de toutes pièces un faux du testament, il sera grassement récompensé après la disparition de Sabina. 
+
+- Marlies Zeitflug a besoin de clients influents, dans l’espoir de créer un mouvement de mode en faveur de ses horloges. Si le groupe parvient à convaincre quelqu’un de riche d’acheter l’une de ses pendules, ils toucheront une commission sur la vente. 
+
+29 Clément Gauche - gauche.c@gmail.com 
+
+## **Le Pont D’ubersreik**
+Grodni Sûrmarteau, aidé des nains de la Guilde des Ingénieurs, a conçu et construit le Pont d’Ubersreik il y a plus de deux cents ans de cela. À cette époque, Ubersreik n’était plus qu’une ruine reprise par l’Armée régulière du Reikland. Magnus le Pieux, l’Empereur nouvellement couronné, voulait reconstruire ce qui avait été détruit, et c’est la raison pour laquelle il demanda à ses alliés nains de créer un nouveau passage audessus de la rivière Teufel ; l’ancien pont s’était effondré au cours des combats qui avaient eu lieu pour reprendre la ville aux peaux-vertes entêtées. 
+
+Deux siècles plus tard, le pont domine toujours Ubersreik. Il est soutenu par plusieurs énormes piliers de pierre profondément enfoncés dans le lit de la rivière et s’élève si haut que le pont est visible de presque partout en ville. Les piliers, étroitement regroupés près des berges de la rivière, s’ouvrent sur le centre, offrant deux larges voies que même les péniches dotées des mâts les plus hauts peuvent emprunter. D’anciennes runes naines sont gravées sur le pont afin de lui garantir résistance et stabilité. 
+
+Des lois locales interdisent toute construction sur le pont, permettant ainsi à ceux qui l’empruntent de profiter des magnifiques panoramas de la ville et de la rivière coulant en dessous. Les sans-abri, invisibles depuis le haut du pont, se rassemblent dessous quand la rivière n’est pas en crue. Ils cherchent ainsi à se protéger au maximum des intempéries. Par le passé, les Jungfreud se débarrassaient régulièrement de ces pauvres hères, même si ceux-ci revenaient à chaque offensive du mauvais temps. 
+
+Ces derniers temps, les Altdorfers n’ont trahi aucune intention de se débarrasser de ces infortunés. De ce fait, une petite ville composée de cabanes branlantes, connue dans le coin sous le nom de Dunkelfeucht a vu le jour à l’ombre du pont. Les sympathisants des Jungfreud dénoncent cette situation et la désignent comme un nouvel échec des envahisseurs du Nord. 
+
+En effet, même le plus fidèle partisan de l’Empereur doit admettre que tout citoyen un tant soit peu lucide devrait s’inquiéter de l’extension incontrôlée de Dunkelfeucht. Non seulement ce quartier a acquis la réputation d’attirer les pires individus d’Ubersreik, mais il est en train de se militariser, et les futures tentatives pour expulser les gens de sous le pont risquent de rencontrer une résistance manifeste. 
+
+C’est pourquoi seuls les plus désespérés osent s’y aventurer. Les gangs et les voleurs y sont légion, et il ne se passe pas une journée sans que le sang ne soit versé ou qu’un nouveau corps ne soit découvert dérivant au gré de la rivière. Il n’est donc pas surprenant que le Guet, dirigé par les troupes d’Altdorf, évite désormais totalement l’endroit, conscient qu’il n’y a rien à gagner à se confronter avec le nouveau pouvoir en place sous le pont. Cette absence de surveillance a permis à plusieurs gangs de contrebandiers de construire des embarcadères de fortune en toute quiétude. Comme ils ne rencontrent aucune résistance, plusieurs gangs se sont affirmés, n’hésitant plus à décharger d’immenses péniches même en plein jour, sans crainte de représailles. Bien sûr, nombreux sont ceux qui grommellent qu’une telle criminalité effrontée n’aurait jamais été permise sous la gouvernance des Jungfreud, mais ces propos ont tendance à diviser et peuvent provoquer des disputes, des bagarres voire des émeutes. 
+
+Des rumeurs récentes indiquent que les différents gangs de Dunkelfeucht se seraient réunis sous le commandement d’un seul chef connu comme « Le Baron ». Arrivé il y a peu à Ubersreik, ce génie du crime est déjà connu pour son ambition et son extrême cruauté. Rares sont ceux n’habitant pas à Dunkelfeucht à avoir réussi à l’apercevoir, même si la plupart des habitants d’Ubersreik ont entendu parler de lui et le craignent. Si l’on en croit les rumeurs, il a déjà sous ses ordres un grand nombre de voleurs, de voyous et d’escrocs, et il a l’intention de s’étendre rapidement en partant des docks, matant toute tentative cherchant à contrecarrer les plans d’extension de son nouvel empire criminel. 
+
+30 Clément Gauche - gauche.c@gmail.com 
+
+## **Le Baron**
+Katerine Eule s’est battue toute sa vie. Ayant grandi au milieu des voyous au pied des murailles est d’Altdorf, elle a dû lutter pour tout, et la compétition y était rude. Lorsque les troupes prirent le chemin du Sud, elle y vit une opportunité et les suivit, décidée à profiter de la situation. Son ascension fulgurante sous le pont n’est que le reflet de son courage et de ses capacités. Même si elle porte bien quelques entailles et autres cicatrices récoltées au cours de combats contre tous ceux qui se sont opposés à elle, elle a toujours gagné. Eule a choisi le nom de « Le Baron » afin de s’attribuer un côté mystique et d’instiller la peur dans les entrailles d’Ubersreik. 
+
+## **Katerine Eule, Baron du Crime**
+**M CC CT F E I Ag Dex Int FM Soc B** 6 69 67 51 52 45 45 29 44 60 50 17 
+
+**Compétences :** Discrétion (Urbaine) 59, Intimidation 73 **Traits :** Arme +7, Armure (2), À distance +7 (30), Vision Nocturne 
+
+## **L’anguille**
+Ce mendiant, connu sous le sobriquet de « l’Anguille », s’appelle Klaus Schleimischer, rejeton d’une famille influente de constructeurs de bateaux. Au fil du temps, il est devenu Coureur de rivière, passant clandestinement des biens au nez et à la barbe des agents des Douanes, jusqu’à ce qu’il fasse connaissance avec les cultistes de la Poigne Changeante (voir page 62). Grâce à son travail de contrebande de malepierre pour le culte, il a reçu une « bénédiction », c’est-à-dire une mutation. Sa peau est devenue glissante, ce qui ne lui permet plus de faire de la contrebande. Il mendie donc quelques piécettes dans les Docks à Ubersreik, en gardant les yeux et les oreilles ouverts pour les chefs de son culte. 
+
+## **Klaus Schleimischer, Mendiant Mutant**
+**M CC CT F E I Ag Dex Int FM Soc B** 4 51 30 31 51 45 68 32 36 32 53 12 
+
+**Compétences :** Discrétion (Urbaine) 88, Esquive 79 **Traits :** Arme +5, Mutation (Peau glissante) 
+
+## Clochard À Ubersreik
+
+- Le groupe a été engagé par Klaus Osfer afin de retrouver son frère Ulli, qui se trouve quelque part à Dunkelfeucht. Ulli a été mis dehors par son père, maintenant décédé, et Klaus aimerait qu’il revienne. Pour parvenir jusqu’à lui, le groupe devra négocier avec le Baron et ses brutes, qui semblent plus intéressés par la revente des possessions des membres du groupe, voire certaines parties de leurs corps. 
+
+- Un rapport indique que des barils d’explosifs ont été volés à la Guilde des Mineurs, et la piste semble mener à Dunkelfeucht. Si les Personnages enquêtent, ils découvriront que les explosifs ont été empilés contre certains piliers du pont, dans l’objectif de le détruire. Ce plan a été mis au point par Ernst Elsen, un humain autrefois maçon, qui en veut aux nains d’avoir une telle influence à Ubersreik. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Marktplatz**
+Le quartier de la Marktplatz d’Ubersreik se trouve en plein cœur de la ville. Chaque Marktag (jour de marché), les fermiers apportent leurs produits depuis les villages des environs pour les négocier sur les places bondées, pendant que des colporteurs et des marchands proposent des tissus et d’autres produits. La grande majorité des commerçants d’Ubersreik occupent également des stands pour le Marktag, vendant leurs produits un peu plus cher, sachant que la plupart des clients préfèreront la facilité plutôt à la traversée de la ville. 
+
+Au centre de la Place du Marché, la plus grande du quartier, se dresse une immense statue de Magnus le Pieux qui commémore son rôle primordial dans la reconstruction d’Ubersreik, après la Grande Guerre contre le Chaos. Même si elle est bondée les Marktags, elle est également très animée les autres jours et sert régulièrement de lieu de rencontre, surtout pour les nouveaux arrivants. 
+
+## **Le Grand Temple de Sigmar**
+Le Grand Temple de Sigmar, le saint patron de l’Empire, a été le premier bâtiment à être reconstruit sur ordre de Magnus le Pieux après que l’ancien a été rasé par les peaux-vertes au cours de la Grande Guerre contre le Chaos. C’est le plus grand temple de toute la ville, éclipsant ceux des autres quartiers. Sa façade est bordée de piliers, et le temple lui-même peut accueillir plusieurs centaines de fidèles. 
+
+Lors des Festags (jours de festival) particulièrement fréquentés, les fidèles les plus pauvres s’entassent devant les portes dans l’espoir d’entendre le service. Depuis peu, les habitants ont trouvé le temple bien plus fréquenté, car il est bondé de soldats et d’officiers d’Altdorf. 
+
+Le père Gunther Emming en est le Grand Prêtre. C’est un homme d’une cinquantaine d’années à l’air austère, aux cheveux argentés, connu pour la sévérité de ses sermons et la solennité de son comportement. Bien que ce ne soit pas mal intentionné, il accompagne même ses louanges et ses paroles réconfortantes d’avertissements terribles sur les conséquences du vice. 
+
+- Irma Brantl, une jeune prêtresse de Sigmar pieuse, mais un peu naïve, vient d’arriver à Ubersreik. Le père Emming estime que sa nature douce et ses bavardages incessants sont incompatibles avec sa vision du monde. Il cherche un moyen de l’éloigner. Il est prêt à offrir une belle somme d’argent au groupe afin que ce dernier l’emmène dans les villages alentour à la rencontre des prêtres qui y vivent. Il les paiera double si les Personnages prennent leur temps. Deux ou trois mois devraient faire l’affaire... 
+
+- De sombres rêves hantent ceux qui passent trop de temps dans le sous-sol. Il y a peu, l’enfant d’un fermier a disparu durant un Marktag. Les indices suggèrent qu’il a été emmené au Temple de Sigmar. Ernst Ricker, de l’Ordre de la Flamme Purificatrice, est la seule personne à posséder une chambre dans les sous-sols du temple. Peut-être s’estil abandonné aux Puissances de la Ruine, mais qui est assez vertueux pour l’accuser d’hérésie ? 
+
+## **La Guilde des Médecins**
+De l’autre côté de la place, face au Temple de Shallya, se trouve la Guilde des Médecins, un bâtiment modeste, mais bien équipé. Ubersreik ne dispose que de trois médecins diplômés désireux de démontrer leur statut et leurs études, et mettre fin à l’épidémie de chirurgiens barbiers qui opèrent en toute illégalité dans les ruelles de la ville. Chaque médecin dispose d’un bureau et d’une salle de consultation au premier étage entièrement en bois, alors que le rez-de-chaussée en pierres apparentes comprend un accueil commun, une salle d’attente et une salle d’opération parfaitement insonorisée. 
+
+Le docteur Otto Krupp est le médecin le plus âgé et le Maître de Guilde. Entrepreneur né, ce dernier est plus concerné par la promotion des services qu’il propose que par la santé de ses patients. La doctoresse Theodosia Grat est à l’inverse très studieuse et diplômée de l’Université d’Altdorf. Elle passe énormément de temps dans les Temples de Verena et de Shallya à en apprendre le plus possible sur les maladies et les infections. 
+
+Le docteur Bernhardt Bayer est le plus jeune des trois médecins. Séduisant et sûr de lui, Bayer se sert de sa profession pour rencontrer et impressionner les jeunes hommes d’Ubersreik. Le docteur Krupp propose une remise en cas de « parrainage d’un ami » ; la doctoresse Grat fait moins payer pour une maladie que pour une blessure ; quant à Bayer, il pratique des remises pour les séduisants jeunes hommes. 
+
+- Le docteur Krupp est prêt à offrir une prime d’une pistole d’argent à qui sera capable de fournir la preuve qu’un barbier chirurgien effectue des actes réservés (comme suturer des plaies) dans l’enceinte d’Ubersreik. Bien évidemment, le seul moyen d’être soigné par la suite obligera à passer par la Guilde des Médecins, dont les tarifs sont salés. 
+
+- Le docteur Grat est membre de la Confrérie des Tinéens (voir page 60). Son obsession pour les maladies l’a poussée à vénérer Nurgle, le dieu du Chaos de la Maladie. Elle a érigé un autel secret au Seigneur de la Peste dans le placard de son bureau, et injecte la Fièvre de bronze à ses patients pour en observer les effets. 
+
+## La Fièvre de Bronze
+La Fièvre de bronze est fréquente dans le sud du Vieux Monde, là où le climat est plus chaud et humide, car elle se propage à cause des piqûres d’insectes. La plupart des malades guérissent en quelques jours, mais, en de rares occasions, des complications peuvent mener jusqu’à la mort. 
+
+**Contamination :** si vous échouez à un Test **Accessible (+20) de Résistance** après avoir été piqué par un moustique infecté. Si du sang contaminé est injecté ou ingéré, vous contractez automatiquement la Fièvre de bronze. **Incubation :** 1d10 jours. 
+
+**Durée :** 1d10 jours. 
+
+**Symptômes :** Fièvre, Malaise, Nausée, Persistant (Facile) (pour une description complète de ces symptômes, voir WFJDR, page 186). 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Le Temple de Shallya**
+Les murs blancs du Temple de Shallya, la déesse de la Miséricorde, s’élèvent majestueusement dans le ciel, aux côtés du Temple de Verena. C’est un bâtiment aux plafonds hauts, pourvu d’un large dôme et entièrement construit dans un style classique. À l’intérieur se trouve un vaste espace destiné aux prières et aux soins des malades. Des deux côtés du temple, une série d’alcôves, protégées par des rideaux, permet d’accueillir ceux atteints de souffrances plus importantes ou qui mettent à mal la dignité de la personne. 
+
+Les niveaux supérieurs sont réservés au clergé du temple et aux prêtresses venant des autres lieux saints. L’intérieur du dôme est recouvert d’une magnifique fresque dépeignant Shallya en pleurs alors qu’elle arrive au firmament, ses larmes tombant telles des gouttes de pluie sur une nuée de colombes immaculées. 
+
+Marianne Altenblum, une veuve corpulente qui a rejoint le culte il y a plus de dix ans, est la Grande Prêtresse. Elle déborde d’empathie, mais n’a aucune tolérance pour la désinvolture ou ceux qui lui font perdre son temps. Elle est assistée par plusieurs initiés, ainsi que certains membres laïcs, qui l’aident à prendre soin de ceux qui souffrent et à apporter un peu de réconfort aux plus pauvres. 
+
+- Altenbum a des projets. Elle souhaite prendre possession du bâtiment adjacent, actuellement inoccupé, pour le transformer en hospice et en infirmerie pour les pauvres de la ville. Pour parvenir à ses fins, elle a besoin de l’accord et des donations des dirigeants de la ville. Un groupe capable d’obtenir l’un, l’autre, ou les deux, bénéficiera de ses bonnes grâces et pourra profiter de soins gratuits à vie ! 
+
+- Esther Schultz, qui s’occupe d’une laiterie située à quelques jours d’Ubersreik, est tombée malade lors du dernier Marktag. La Grande Prêtresse Altenblum aimerait que le groupe escorte Esther jusque chez elle pour qu’elle puisse s’éteindre en paix. Malheureusement, cette dernière meurt des suites d’une exposition prolongée à de la malepierre. Elle subira des mutations graduelles au cours du voyage. On ne peut qu’imaginer les horreurs qui attendent, tapies dans sa ferme. Et qu’en est-il de ceux qui ont mangé de son fromage ? 
+
+## **Le Temple de Verena**
+Le Temple de Verena, la déesse de la Sagesse, se dresse à l’angle sud-est de la place Handel. Il s’agit d’un bâtiment modeste dont les services sont régulièrement fréquentés par des érudits, y compris des membres de l’appareil judiciaire d’Ubersreik. Juste derrière ce temple de plain-pied se trouve « l’Annexe », une vaste bibliothèque ouverte à tous. L’Annexe comporte une grande salle de lecture très bien éclairée, ainsi que de nombreuses caisses de livres et de parchemins, dont les statuts de la ville et son règlement administratif, ainsi que les procès-verbaux des décisions des Jungfreud. Les livres de grande valeur ou potentiellement dangereux sont conservés dans une salle fermée à clef qui n’est accessible qu’avec la bénédiction du Grand Prêtre 
+
+Heinrich Gutenberg est le Grand Prêtre du temple. C’est un homme affable à la longue barbe flottante, convaincu que toute connaissance est un don de Verena. Il pense qu’il est de son devoir sacré de la partager avec autant de personnes que possible. Bien que cela fasse de lui une mine d’histoires intéressantes, il peut quelquefois paraître condescendant, surtout face à des groupes. Gutenberg est secondé par Dagmar Schirma, une bibliothécaire myope, clairement éprise du Grand Prêtre. C’est là un savoir qu’ignore malheureusement Gutenberg. 
+
+- Après un vol dans l’Annexe, la bibliothécaire Schirma demande au groupe d’enquêter et de récupérer les livres auprès des divers collectionneurs et autres trafiquants de la ville. Elle ne veut pas que Gutenberg soit mis au courant et ne souhaite donc pas impliquer les autorités. Elle remboursera le groupe de toutes les sommes déboursées pour racheter les ouvrages en ajoutant un petit supplément pour le temps passé à les récupérer. Si le groupe parvient à rassembler les livres sans rien débourser, il pourrait faire des bénéfices. 
+
+- • Andreas von Bruner (voir page 43) cherche désespérément à lire un livre dont l’accès est restreint, mais Gutenberg lui en refuse l’accès. Quiconque permettra à Andreas de s’introduire clandestinement dans la salle en question sera grassement récompensé. Bien sûr, comme il est secrètement membre d’un culte voué à Slaanesh, le dieu du Chaos, lui permettre d’accéder au livre pourrait bien être une très mauvaise idée. 
+
+33
+Clément Gauche - gauche.c@gmail.com
+
+## **L’hôtel de Ville**
+L’Hôtel de Ville d’Ubersreik est un imposant bâtiment en pierre à un étage doté de quatre tours, qui domine le nord de la Marktplatz. En plus de l’enfilade de bureaux appartenant au Bourgmestre et son équipe, on y trouve la Cour nobiliaire, une grande salle dans laquelle les Jungfreud rendaient les décisions qui concernaient tout le duché. Les tours étaient réservées aux Jungfreud et aux nobles en visite, qui y logeaient lorsqu’ils siégeaient au tribunal. Aujourd’hui, elles sont inutilisées. Depuis l’éviction des Jungfreud, le statut et l’influence du Conseil de la Ville, qui se réunit une fois par semaine, ont énormément augmenté même si les limites formelles de son pouvoir sont en fluctuation permanente. 
+
+Ernst Maler est le bourgmestre actuel et le chef du Conseil de la Ville. Jusqu’à l’arrivée des troupes d’Altdorf, son rôle était principalement administratif. Étant donné le potentiel de la ville à devenir un Freiburg, les choses ont changé : il est courtisé par les Maîtres de Guilde, qui espèrent avoir une influence sur le futur de la ville, et fustigé par les nobles et les habitants restés loyaux aux Jungfreud, qui y voient des malversations possibles. 
+
+- Sous l’Hôtel de Ville, il y a d’anciennes geôles à l’abandon comportant une demi-douzaine de cellules. Maler aimerait que les cellules soient nettoyées, « Par précaution seulement ! ». Ce que Maler ignore, c’est qu’une colonie d’araignées géantes y a élu domicile. Nettoyer le sous-sol s’avèrera donc plus compliqué que de déplacer quelques caisses. 
+
+- Si le groupe est entré en contact avec Maler, il attirera immédiatement l’attention d’aspirants Maîtres de Guilde, et l’un d’entre eux peut engager les Personnages pour faire pression sur Maler en son nom. Si les différentes factions utilisent divers membres du groupe, les retombées pourraient être compliquées à gérer. 
+
+## **Le Sprichstumpf**
+Le Sprichstumpf est la souche d’un énorme chêne, qui s’élevait autrefois au milieu de ce qui est devenu la Place du Marché. Il a été abattu lors de la reconstruction de la ville par Magnus, et son bois sert aujourd’hui de toit au Tribunal Nobiliaire dans l’Hôtel de Ville. 
+
+La souche de plus de deux mètres cinquante de diamètre demeure à proximité de la statue de Magnus. Elle est devenue le point de rassemblement des agitateurs et des pamphlétaires de la ville, offrant une chaire improvisée depuis laquelle ils peuvent fulminer et haranguer les foules. 
+
+- Anton Grimski, un agitateur provocateur, se rend au Sprichstumpf presque tous les matins, s’insurgeant contre la corruption bourgeoise de Maler et des Guildes, et incitant les gens du peuple à se révolter contre leurs riches compatriotes. En fait, Grimski est à la solde des Jungfreud, qui veulent démontrer que le Bourgmestre est incapable de maintenir l’ordre. 
+
+- Durant un Festag, un mendiant sigmarite vagabond entame un prêche sur la décadence du Culte de Sigmar, attirant une large foule. Rapidement, l’humeur de la foule se dégrade. Une émeute risque de se produire, à moins que les Joueurs n’interviennent. 
+
+## **Le Théâtre des Variétés**
+À l’origine, le bâtiment était à la fois un magasin et un entrepôt, mais, il y a une dizaine d’années, il a été transformé en immense théâtre « à la tiléenne » qui accueille une foule d’acteurs, de musiciens et de saltimbanques de toutes sortes. C’est un grand bâtiment de pierre disposant d’une voûte en bois. Un grand tableau noir est suspendu sous l’enseigne peinte. Le propriétaire y inscrit le nom de la prochaine représentation, y ajoutant plusieurs dessins afin que les analphabètes puissent comprendre de quoi il retourne. À l’intérieur, il y a cinquante fauteuils de parterre, cinquante autres au balcon et deux loges destinées à accueillir les nobles et les citoyens les plus riches. 
+
+Benedict Gurkenfeld était un acteur et un dramaturge assez renommé, autrefois grand rival du célèbre Detlef Sierck. Il dirige aujourd’hui le Théâtre des Variétés, programmant les acteurs et tenant le rôle de maître de cérémonie lorsque c’est nécessaire. Il passe le plus clair de la journée à se promener dans les alentours de la Marktplatz à observer les saltimbanques qui pratiquent les arts de la rue, à la recherche de nouveaux talents. Plusieurs machinistes et placeurs sont à son service, et il dirige une compagnie d’amateurs qui se produit à l’occasion. 
+
+- Le désastre a frappé. Un soir de représentation à guichet fermé, tous les comédiens de Gurkenfeld sont tombés malades après avoir mangé des coquillages douteux. Si le groupe possède la moindre Compétence de spectacle, ce pourrait être leur grande première. 
+
+- Comme tout bon théâtre qui se respecte, le Théâtre des Variétés est hanté. Un fantôme tourmente les acteurs de passage, ce qui désespère Gurkenfeld. Si le groupe mène l’enquête, il découvrira qu’un des machinistes, un nain du nom de Ragnar Torsson, a simulé le fantôme dans l’espoir d’augmenter les ventes de billets et ainsi éviter d’être licencié. 
+
+## **Le Poste du Guet**
+Ce petit bâtiment, à proximité de l’Hôtel de Ville, ne dépasse pas un mètre cinquante de côté. Il dispose d’une lourde porte en chêne sur laquelle sont peintes de façon rudimentaire les armoiries d’Ubersreik. À l’intérieur, une barre de métal pourvue de menottes est accrochée au mur à hauteur d’homme. Le Guet utilisait autrefois ce poste pour retenir les soûlards ou emprisonner les criminels rencontrés lors des patrouilles de nuit. Cependant, les clefs du Poste de la Marktplatz, comme celles des onze autres Postes dispersés à travers la ville, ont disparu lors de l’invasion d’Altdorf. 
+
+- Le capitaine Pfeffer (voir page 49) veut avoir accès aux Postes. Elle fait donc savoir qu’elle recherche des personnes qui lui permettraient d’entrer sans causer de dégâts, pour qu’elle puisse remplacer les serrures. Cependant, celles en place sont de conception naine et nécessiteront un Test **Très Difficile (-30) de Crochetage** avec +3 DR pour s’ouvrir. Si quelqu’un y parvient, la récompense est de 2 CO. 
+
+- Le Baron (voir page 31) dispose des clefs des Postes et s’en sert pour stocker des marchandises de contrebande. Il sera fort mécontent si quelqu’un parvient à entrer, et cherchera à se venger si son stock lui est dérobé. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Le Cochon Qui Explose**
+## **Quartier des Marchands**
+Le Cochon qui Explose, juste à côté d’Abrechnungsplazt, est une grande taverne fréquentée par des marchands, des commerçants, et certains Marktags, par des fermiers de passage. Ses deux étages sont devenus de véritables nids à ragots, surtout parmi les bourgeois qui s’intéressent un tant soit peu au commerce et à la vie politique locale. Depuis l’arrivée des soldats réguliers d’Altdorf, le Cochon est encore plus fréquenté qu’auparavant, la classe moyenne d’Ubersreik s’y réunissant pour discuter des dernières actions du Conseil de la Ville, pour tenter de se placer sur l’échiquier politique. 
+
+Le Quartier des Marchands s’étend de l’est de Marktplatz jusqu’à la base de la Colline (voir page 42). C’est là que l’on peut trouver la Guilde des Marchands ainsi que bon nombre de négociants, commerçants et bureaux, et des entrepôts plus petits. La plupart des bâtiments sont faits de bois et de pierre, et, même en ces temps difficiles, certains sont agrandis, ou restructurés, car le commerce ne cesse de croître. Le quartier est toujours très fréquenté de jour, par des personnes de toutes les classes. Mais, la nuit, plus on s’éloigne de la Place du Marché, plus il devient calme, et les patrouilles du Guet y sont fréquentes. 
+
+## **L’enclos À Chiens**
+L’Enclos à Chiens est une grande place, à proximité du Quartier des Marchands, qui a longtemps accueilli des chenils pour les combats de chiens. Même si ceux-ci ont depuis longtemps été déplacés hors des murs de la ville, le nom est resté, perpétué par la statue d’un Saint Saal, une race locale de chiens. L’Enclos abrite désormais plusieurs restaurants et tavernes, dont le salon de thé de Frau Dehne et la Maison de la Pâtée Sauer. 
+
+La place est très appréciée des bourgeois qui vivent et travaillent dans le quartier, même si elle est un peu éloignée des axes principaux. C’est pour cette raison que les prix y sont plus raisonnables que dans bien d’autres établissements plus connus, ce qui convient parfaitement aux habitants du coin. 
+
+Frau Dehne dirige son salon de thé avec efficacité. Elle ne vend aucune boisson alcoolisée, proposant à la place une gamme soigneusement sélectionnée de breuvages chauds et de sirops froids, dont la plupart sont, chose étonnante, très rafraichissants. En plus de ces boissons aromatisées, elle propose de nombreux gâteaux et pâtisseries, qu’elle va acheter tous les matins chez un boulanger halfling tout proche. À l’inverse, Sascha Sauer, un Ostlander, lui, propose de la nourriture à bas prix vendue avec de la bière blanche encore moins chère. Il n’a qu’un seul plat au menu : la « pâtée », une sorte de ragoût de la veille, cuisiné avec des épluchures de légumes et des restes de viande. Même si, visuellement parlant, la chose est loin d’être appétissante, elle est plutôt bonne et nourrissante, et ne coûte que 3sc pour un bol et une pinte (2sc si vous amenez votre tasse et votre gamelle). 
+
+Hanno Rader, le propriétaire, a choisi ce nom pour son auberge à la suite d’un accident à Dawihafen impliquant à la fois un abattoir et une armurerie. Il raconte que la ville a senti le lard grillé pendant plusieurs jours, ce qu’il considère comme un miracle puisqu’il adore cette odeur. Il est aussi bavard qu’une poissonnière du Nordland et laisse rarement aux autres la possibilité de s’exprimer. Il a également la réputation d’être une source constante d’informations peu fiables. 
+
+Rader soutient ouvertement les efforts du Bourgmestre, qui cherche à faire d’Ubersreik un Freiburg, ce qui lui vaut le mépris des habitants toujours loyaux envers les Jungfreud, qui ne viennent donc presque plus dans son établissement. 
+
+- Le nom de « L’Enclos à Chiens » est bien mieux choisi que beaucoup ne le croient. Sauer éprouve régulièrement des difficultés pour trouver de la nourriture à des prix abordables, et est donc régulièrement contraint de s’en procurer auprès de sources non conventionnelles lorsque le besoin s’en fait sentir. Si le groupe, ou l’un de ses proches alliés, perd son chien, un méchant roquet, une bonne portion de pâtée gluante ne constituera qu’une maigre consolation. 
+
+   - Alors qu’ils sortent de l’auberge au moment de la fermeture, des bandits masqués attaquent les Personnages et d’autres clients. S’ils décident de faire un rapport de cette attaque auprès du Guet, ils réalisent qu’un de leurs assaillants était Tirza Bronstein, un sergent du Guet. Ce dernier n’hésitera pas à enfermer quiconque parlera de gardes corrompus, sans oublier auparavant de s’emparer de toute espèce sonnante et trébuchante qu’il pourra trouver. 
+
+- Frau Dehne est une fervente adepte de Verena, la déesse de la Sagesse. Après la mort de son soulard de mari, elle en est venue à penser que l’alcool était à l’origine de tous les maux actuels de l’Empire. Elle a donc monté une ligue de tempérance et organise des réunions une fois par semaine dans son salon de thé. Lorsqu’elle entend parler des exploits des membres du groupe, elle demande à ces derniers d’arrêter de boire en public pour l’aider à gagner l’appui de la population. Elle n’a pas beaucoup d’argent à proposer, mais offre un sirop de framboise à tomber par terre. 
+
+- Rader utilise l’une des salles privées de l’étage pour un groupe de Maîtres de Guilde qui unissent leurs efforts pour influencer le Bourgmestre. Kurt Prochnow, le maître de la Guilde des Constructeurs de Bateaux et des Accastilleurs (voir page 27), qui ne fait pas partie de ce groupe, paiera 1 CO au groupe s’ils vont espionner une réunion et qu’il obtient un rapport détaillé de ce qui s’y est dit. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Bourse aux Grains de Furlisdottir**
+La Bourse aux Grains est un grand bâtiment en pierre à un étage. C’est là que la majorité des ventes de céréales d’Ubersreik se concluaient auparavant. Comme Ubersreik et sa population ne cessent de croître, le flux commercial était devenu trop important et l’ensemble a déménagé vers un site plus grand près de Teubrücke. Depuis, le bâtiment a été reconverti en marché couvert accueillant les petits stands de nombreux commerçants qui viennent presque chaque jour. Le rez-de-chaussée est un labyrinthe d’étals sur lesquels se vendent vêtements, nourriture, accessoires ménagers et bibelots en tous genres. Une galerie en mezzanine fait le tour du bâtiment. C’est là que les objets les plus chers sont mis en vente, et des gardes patrouillent en permanence pour s’assurer qu’aucun client ne succombe aux tentations de Ranald, le dieu des Voleurs et de la Ruse, et ne soit tenté d’emporter un objet sans le payer. 
+
+De nombreux commerçants proposent leurs marchandises, dont : Ekkehard Eich, un négociant en livres rares ; Heinz Giegerich, un scribe qui lit ou écrit une lettre contre paiement ; et Malasa Nusa, un marchand de tissus arabien. Les exposants paient tous un loyer à Elke Furlisdottir, la propriétaire naine à l’air renfrogné. Le frère d’Elke, Borin « l’imposant » Bozaksson, est responsable de la sécurité de tout le bâtiment. Seuls les voleurs les plus rapides, ou les plus inconscients prendront le risque de pratiquer le vol à l’étalage sous la surveillance de Borin, car ses biceps sont aussi gonflés que son œil est acéré. 
+
+- Alors que les PJ déambulent parmi les différents stands de la Bourse aux Grains, un marchand inquiet leur demande de surveiller son étalage alors qu’il file vers les toilettes (« j’ai dû attraper la Vengeance des Rumsters ! »). Au bout d’une bonne demi-heure, le véritable propriétaire revient, demandant où sont passés son bon à rien de neveu et à la recette du jour. 
+
+- Greta Klopstock, une jeune voleuse et membre des Doigts Crochus, une secte du culte de Ranald, cherche à sortir du marché avec Borin à ses trousses. Le groupe peut intervenir en faveur d’un des deux camps, en tentant de capturer la voleuse dans l’espoir d’une récompense, ou alors en ralentissant le garde pour qu’elle puisse s’échapper, espérant ainsi une faveur de sa part dans le futur. 
+
+## **La Guilde des Marchands**
+La Guilde des Marchands est devenue du jour au lendemain le centre politique d’Ubersreik. Depuis l’éviction des Jungfreud, elle s’est imposée comme la force la plus influente de la politique locale. Marta Müller, le Maître de Guilde, est bien décidée à utiliser ce pouvoir pour le bien de la Guilde et des marchands de la ville. Elle a entrepris une série de rénovations pour que la façade de la maison de Guilde reflète à la fois la fierté citoyenne et la richesse ; mais, pour le moment, ce n’est qu’un énorme échafaudage en bois qui grouille d’ouvriers renfrognés. Au rez-de-chaussée, se trouve un cercle privé pour les marchands locaux ou pour les visiteurs qui auront obtenu le parrainage d’un membre, avec à l’étage plusieurs salles de réunion plus conventionnelles. 
+
+Müller est une femme d’affaires astucieuse toujours enjouée. Sa famille se spécialise dans les produits laitiers, mais propose également d’autres denrées alimentaires. Cela fait trois ans qu’elle est Maître de Guilde, mais le poste est disputé chaque année, surtout entre les représentants des quatre principales maisons marchandes de la ville : les Brauninger, les Hertie, les Karstadt, et les Müller. Étant donnée l’instabilité politique, l’élection à venir va être plus tendue que d’habitude. 
+
+- Müller est secrètement membre de la Confrérie, qui fait partie du culte de Ranald. Elle tient un rôle capital dans le blanchiment d’argent des activités prohibées du culte vers d’autres activités totalement légales. Si le groupe comporte un membre du culte de Ranald, ou qu’il lui est déjà venu en aide, elle pourra le faire sortir clandestinement d’Ubersreik vers Altdorf, à la condition que les Personnages ne s’offusquent pas de passer plusieurs jours dans une cale bourrée de fromages. 
+
+- Bengt Hertie, dont la Maison est spécialisée dans le négoce du tissu et des vêtements, est le plus jeune associé de la Guilde. Aucun Hertie n’a jamais été Maître de Guilde, ce qui le ronge. Pour y remédier, Bengt souhaite être mis au courant de toutes les rumeurs concernant ses rivaux, que ce soit les Brauninger, les Karstadt ou les Müller, et n’hésitera pas à payer pour le moindre ragot. Cependant, il est loin d’être futé et sera facilement dupé par n’importe quel « secret » plausible. 
+
+36 Clément Gauche - gauche.c@gmail.com 
+
+## **Le Vieux Grenier À Grains**
+Dominant l’horizon au sud d’Ubersreik, le Vieux Grenier est l’un des bâtiments les plus hauts de la ville fortifiée. La construction conique est entièrement en pierre et comporte de nombreuses portes sur sa face nord. Elle est enveloppée d’un escalier en colimaçon extérieur qui a connu des jours meilleurs. Malgré son nom, c’est à l’heure actuelle le seul grenier au sein des murs de la ville. En dehors d’Ubersreik, d’autres, plus petits, se trouvent dans les villages avoisinants, mais ils sont trop éloignés pour être utilisés quotidiennement par les boulangers locaux. Au fil des ans, un certain nombre de « Nouveaux Greniers » ont été construits à différents endroits de la ville, mais tous ont brûlé au cours de regrettables accidents. En effet, comme la farine est hautement inflammable et sujette aux explosions, le feu est un danger constant, et toutes les précautions sont prises pour éviter ce genre de problème. C’est la raison pour laquelle le Vieux Grenier est lourdement gardé, et, par décret, aucune flamme non protégée, aucun ingénieur, ni aucun magicien n’a le droit d’en approcher à moins de trois mètres. 
+
+C’est la Sainte Guilde des Maîtres Meuniers de la Vallée de la Dame qui est propriétaire du Vieux Grenier, et s’occupe de son entretien. La maison de Guilde se trouve dans un petit bâtiment accolé à l’arrière. La plupart des membres de la Guilde vivent à l’extérieur d’Ubersreik, dans leurs fermes, donc la maison de Guilde dispose d’un dortoir pour accueillir les meuniers de passage. La farine est vendue dans un petit kiosque situé à l’avant de la maison de Guilde, et pas directement au grenier. Les acheteurs reçoivent une petite plaque d’argile qu’ils peuvent échanger au Vieux Grenier contre la quantité de farine achetée. Les plaques sont différentes chaque jour afin de rendre plus difficiles les contrefaçons. 
+
+Ruprecht Adelmann, un homme au teint très hâlé, arborant des cheveux bruns aux boucles serrées, est le représentant de la Guilde à Ubersreik. Comme il est également membre de la Guilde des Marchands, Adelmann fait en sorte que les deux Guildes tirent des avantages réciproques l’une de l’autre. Il possède un bureau relativement dépouillé dans la maison de Guilde, où on peut souvent le trouver, tard le soir, à faire la fête avec de jeunes hommes et des jeunes femmes rencontrés dans des tavernes et des auberges de la ville. La famille d’Adelmann, qui vit à Grausee, quelque vingt kilomètres au sud d’Ubersreik, n’est évidemment pas au courant de ses fréquents batifolages. 
+
+## **L’hôpital Saint Bastien**
+La Guilde des Marchands d’Ubersreik affiche son côté philanthrope en finançant cet orphelinat et l’école affiliée. Au départ, il n’y avait que huit enfants, mais sous l’influence du Maître de Guilde Müller, on en compte beaucoup plus aujourd’hui. L’Hôpital était initialement dans les Docks, mais a déménagé dans un grand bâtiment étroit situé dans le Quartier Marchand (de façon à bien montrer à tout le monde la générosité dont fait preuve la Guilde). Le rez-dechaussée comporte un accueil, un espace réservé aux bureaux, un réfectoire et une cuisine. Le premier étage comprend des salles de classe et des salles de bain ; le dernier étage est réservé au dortoir des enfants. Les quartiers du personnel sont situés au sous-sol. C’est Frederich Gewinnguter qui dirige l’Hôpital. Un homme séduisant dans la force de l’âge, vivant sur place avec sa femme Hilde, qui l’aide au quotidien. Dans la journée, du personnel supplémentaire, dont Wolfram Weissman et Molrella Tüsch, enseigne un vaste choix de matières aux enfants. 
+
+   - Maîtresse Tüsch aimerait bien emmener les enfants faire une sortie pédagogique dans les Hägercrybs afin d’observer la faune et la flore et en ramener quelques échantillons. Comme les rumeurs de bandits dans la région vont bon train, la Guilde des Marchands est prête à payer pour qu’elle soit escortée. En fait, il n’y a aucun bandit, mais il est évident que les enfants se chargeront de causer bien assez de problèmes ! 
+
+   - Gewinnguter est un Démoniste ; ni sa femme ni ses patrons ne sont évidemment au courant. Chaque soir, alors qu’il fait semblant de parcourir les registres de l’hôpital, il se plonge en réalité dans son grimoire arcanique, convoquant des démons mineurs qu’il lie à l’aide d’un octagramme. Même s’il s’essaie aux Arts sombres, Gewinnguter n’est pas encore sous la coupe des Puissances de la Ruine et utilise ses connaissances démoniaques pour faire chanter certains de ses rivaux et augmenter sa fortune personnelle. Gunther Grabbe, l’une de ses victimes, embauche le groupe pour qu’il découvre comment Gewinnguter obtient ses informations. 
+
+- Les troupes d’Altdorf sont arrivées avec leurs propres réserves de farine, faisant chuter les prix et provoquant une guerre commerciale entre Altdorf et Ubersreik. Si quelque chose arrivait au Vieux Grenier, ce serait un désastre pour le marché local, car cela laisserait la porte ouverte aux importateurs. Marta Kroll, une marchande originaire d’Altdorf, espère que cela va se produire, ce qui lui permettrait de négocier avec ces derniers. 
+
+- Le système de tablettes d’Adelmann est aussi bien vu qu’efficace. Il est également très facile à contrefaire. On demande au groupe de se procurer l’une de ces tablettes et de la remettre à un receleur qui les attendra à l’auberge de la Lune Rouge. Le « Receleur » est en fait un homme du Guet qui agit sous les ordres du capitaine Pfeffer, sur la piste d’un réseau de faussaires. Une explication astucieuse de la part des PJ pourrait la pousser à les embaucher à son service comme agents. Un résultat moins probant pourrait les faire arrêter comme complices. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Boulangerie des Deux Sœurs**
+La Boulangerie des deux Sœurs, un modeste bâtiment en pierre, est coincée entre une maroquinerie et un chapelier. C’est un bâtiment de plain-pied, bien plus petit que les autres dans cette rue, à la grande fierté des propriétaires halflings. À l’intérieur, on trouve un petit espace pour servir les clients, tapissé d’étagères débordant de pains et de tartes, alors que des réalisations plus raffinées sont présentées derrière le comptoir. La grande majorité du bâtiment est réservée à la boulangerie ; il y a une salle de stockage de farine, une zone de préparation et deux grands fours. 
+
+Om et Nom Fraises-des-bois, deux jumelles halflings, dirigent la boulangerie. Elles sont identiques, ce qui pose de grandes difficultés pour les différencier. Elles ont également tendance à finir les phrases l’une de l’autre, et interviendront avec plaisir dans les conversations de leurs clients, et ce, quelle que soit la gravité du sujet. Om est une spécialiste de la confiserie fine, comme ses célèbres gâteaux au miel aux décorations en sucre filé. Nom est plutôt tournée vers l’expérimentation et s’est récemment lancée dans la copie de diverses recettes d’Altdorf, dont ses tourtes à la lamproie (rapidement très populaires). 
+
+- Nom a besoin d’ingrédients bien particuliers de la charcuterie de Satrioli, mais elle ne peut pas les acheter directement de peur de représailles du clan Havrebas. Si le groupe parvient à acheter les ingrédients sans éveiller les soupçons, il y aura une tournée de tourtes gratuites pour tout le monde ! 
+
+- La boulangerie a été saccagée : le four de briques a reçu des coups de marteau et les ingrédients ont été gâchés. Comme le Guet, en effectif restreint, ne s’intéresse pas à ce forfait, les Fraises-des-bois se tournent vers le groupe et lui demandent d’enquêter. S’ils suivent les indices, les Personnages découvriront qu’un groupe d’habitants a été incité par Anton Grimski, un agitateur, à s’en prendre aux commerces fraternisant avec les troupes d’Altdorf. 
+
+## **Spirren-Hirsch et Gärtner**
+Spirren-Hirsch et Gärtner sont les hommes de loi les plus en vue d’Ubersreik. Leur étude, installée dans un bâtiment en bois, est d’ailleurs en plein agrandissement pour leur permettre d’accueillir un nombre toujours plus grand de greffiers. Le bâtiment compte de nombreuses entrées et sorties permettant les allées et venues discrètes de leur clientèle, ce qui s’avère très pratique compte tenu de la forte propension du cabinet à représenter les deux parties dans les affaires civiles. Wilhelm Gärtner et Melina Spirren-Hirsch sont les deux associés principaux du cabinet. Spirren-Hirsch est une femme intelligente et raffinée d’une soixantaine d’années. Gärtner est un homme d’à peine trente ans, quelque peu effronté et arrogant. De nombreux étudiants en droit, ainsi que des greffiers, travaillent pour les deux associés. 
+
+- En plus des nombreuses entrées en façade et de celle située dans une ruelle attenante, il existe une entrée secrète depuis les égouts. Elle est utilisée par la clientèle la moins présentable du cabinet. Bjorn Fellstren, un Rançonneur plutôt nerveux, a besoin d’une escorte, et le cabinet est prêt à payer une belle somme au groupe s’il le protège des égoutiers, des rats et de choses plus désagréables encore. 
+
+- • Prosperité Havrebas, avocat et représentant des biens non négligeables du clan Havrebas, est en litige avec un des 
+
+clients de Gärtner. Il paiera grassement le groupe si ce dernier parvient à se faire passer pour des clients potentiels, à s’infiltrer dans le bureau de Gärtner et à y dérober les documents en rapport avec l’affaire. 
+
+## **Thulmannplatz**
+Thulmannplatz est une petite place sur laquelle sont installés les piloris d’Ubersreik. En plus des criminels condamnés par les magistrats, les forces d’Altdorf ont pris l’habitude d’arrêter tous ceux qui refusent de leur obéir ou qui soutiennent les Jungfreud en public. Ces infortunés restent quelquefois attachés des heures ou des jours avant que le Guet ne vienne les libérer. Toujours entreprenants, plusieurs commerçants halflings ont commencé à vendre des fruits et des légumes avariés aux habitants d’Ubersreik se vantant d’un certain sens civique, pour les lancer sur les condamnés. Les denrées, qui auraient normalement dû être jetées, sont vendues à un prix raisonnable, privant par là même Sascha Sauer (voir page 35) de produits bon marché pour sa pâtée. 
+
+- Genoveva Grün, une agitatrice qui soutient le renvoi des Jungfreud, exhorte les foules à balancer des fruits pourris sur leurs sympathisants. Les Personnages qui ont l’œil pourront remarquer qu’elle se fait payer en retour par les halflings, à qui elle permet d’effectuer de nombreuses ventes supplémentaires, avec un bénéfice juteux. Elle est également employée par un sergent corrompu des troupes d’Altdorf s’assurant de sa présence chaque fois qu’il arrête des contestataires. Lorsque le groupe se retrouvera dans sa ligne de mire, est-ce que cette information pourra les protéger ? 
+
+- Lorsque Severin Pfister, un marchand de laine de passage, est arrêté sur des charges inventées de toutes pièces, parce qu’une partie de sa laine est teinte aux couleurs des Jungfreud, la foule devient tellement furieuse qu’elle prend littéralement d’assaut les piloris avec l’intention de l’écarteler membre après membre. Est-ce que le groupe va rester sans rien faire et regarder un homme se faire massacrer ? Va-t-il agir pour le sauver ? Ou se joindre à la foule, puis fouiller son cadavre ? 
+
+## **Les Entrepôts Unterdaumen**
+Ces sept petits entrepôts ceints d’une clôture, au nord du Quartier des Marchands sont bien protégés par une milice privée. Ils appartiennent à la Maison Unterdaumen, une famille de marchands d’Ubersreik qui fait le négoce de tout ce qui est bon marché lors d’une saison donnée, pour le revendre ailleurs en faisant le maximum de bénéfices. Chaque entrepôt est doté d’une grande double porte, fait environ dix mètres de long et ne possède aucune fenêtre. 
+
+Grigerid Unterdaumen est une octogénaire qui a toujours eu le sens des affaires. Elle est sans pitié et adore détruire ses rivaux, prenant jusqu’à leur dernier sou, voire leur vie. Elle vit chichement dans l’entrepôt Unterdaumen VI, et son garde favori, Fritz Fritzman, la conduit chaque matin à la Guilde des Marchands pour faire les meilleures affaires. 
+
+- Unterdaumen traite avec le Baron, les Havrebas, Guido Falk et plusieurs autres bandes de criminels. Cependant, comme elle ne veut pas que ses gardes soient pris en 
+
+Clément Gauche - gauche.c@gmail.com 
+
+flagrant délit au cours d’activités illégales, elle emploie des étrangers, payant une misère pour qu’ils effectuent des courses et récupèrent la contrebande pour elle. 
+
+- Fritzman est un Ventrejaune (page 63), qui espionne certaines familles de criminels pour ses maîtres. Il fait ses rapports à Jacobs l’Insaisissable, un racoleur des docks, et on a entendu dire qu’il partage les secrets des Havrebas. Ceux-ci peuvent rapporter beaucoup s’ils sont revendus aux bonnes personnes. 
+
+## **La Boutique aux Potions de Von Holzenauer**
+La Boutique aux Potions, un spacieux bâtiment à deux étages, possède de grandes fenêtres cintrées qui illuminent le rez-dechaussée où les potions sont confectionnées et vendues. Le premier étage est composé des quartiers privés, spacieux et très bien éclairés, du propriétaire, Siegfried von Holzenauer. Les chambres du personnel sont au deuxième et dernier étage dans des mansardes exiguës. 
+
+Siegfried von Holzenauer possède et dirige l’établissement. Fils cadet d’une famille noble, il s’est lancé dans la fabrication de potions comme passe-temps. Et comme il est passionné par ce qu’il fait, il préfère inventer ou découvrir de nouvelles préparations et se procurer des ingrédients rares, plutôt que de s’intéresser aux bénéfices. Par conséquent, son personnel acceptera volontiers de marchander, proposant les potions à un prix très inférieur à ce qu’il devrait être. 
+
+- Bien que Von Holzenauer ait élaboré son Élixir améliorant, en vue d’en faire un analgésique, il est souvent utilisé à des fins récréatives (ce qu’il ignore). La potion est presque absurdement bon marché, vendue avec une marge bénéficiaire dans certains établissements miteux des Docks. Viktoria Häussler, une racoleuse, est prête à payer une forte somme d’argent au groupe pour qu’il lui en achète une grande quantité et qu’il la lui livre. 
+
+- Gustavus Guggenheimer, un Seigneur Sorcier de l’Ordre Doré faisant partie de l’Armée régulière d’Altdorf, s’inquiète des effets contre nature des potions de von Holzenauer. À cause du statut de noble du négociant, Guggenheimer hésite à intervenir officiellement, et c’est la raison pour laquelle il demande au groupe d’enquêter pour savoir ce qu’il y a réellement dans ces mystérieuses potions. 
+
+## Des Potions Pour Toutes les Occasions
+Certaines expériences de Von Holzenauer ont donné des résultats probants. Les potions suivantes ne sont disponibles que dans sa boutique, et certaines utilisent des règles qui se trouvent dans le Livre de base de WFJDR. 
+
+|**Article**<br>Élixir Améliorant<br>Philtre de Concentration<br>Liqueur de Chance<br>Sirop de Katya<br>Le Merveilleux Mélange Thérapeutique<br>Revigorant Réparateur<br>Tonique de Vue au-delà de la Vue|**Coût**<br>1/4<br>5/-<br>1CO<br>6/-<br>8/-<br>1CO<br>10/-|
+|---|---|
+
+**Élixir Améliorant :** contenant de la mystracine, cette potion épaisse au goût terreux procure une certaine euphorie et des hallucinations agréables. La potion offre un bonus de +10 aux Tests de Force Mentale, mais une pénalité de -10 aux Tests d’Agilité, d’Initiative et d’Intelligence. Durée : 1d10 x 10 minutes. 
+
+**Philtre de Concentration :** ce Philtre, sombre et amer, permet de focaliser son esprit et aide à se concentrer. Il confère un bonus de +20 aux Tests d’Intelligence et d’Endurance. Lorsque son effet se dissipe, subissez 1 État _Exténué_ qui perdurera au moins une journée entière. Durée : 1d10 heures. 
+
+**Liqueur de Chance :** ce liquide bleu brillant exhale une légère odeur de réglisse. Le boire confère +1 Point de Chance. De plus, alors que la Liqueur est active, lancez 1d100 lorsque vous dépensez un Point de Chance. Si vous obtenez un double, vous regagnez un Point de Chance. Lorsque l’effet se dissipe, perdez tous les Points de Chance et subissez un État _Exténué_ qui perdurera au moins une journée entière. Durée : 1d10 minutes. 
+
+**Sirop de Katya :** ce mélange diffuse une odeur légèrement sucrée de couleur rose perle au goût épicé. Cette potion augmente le charme de celui qui l’ingère, avec cependant un effet indésirable. Lorsqu’elle est sous l’effet de la potion, la personne qui l’a ingérée gagne le Talent Séduisant. Cependant, dès que l’effet se dissipe, ce dernier subit une pénalité de -20 à tous les Tests de Sociabilité pendant 1d10 jours au cours desquels sa peau et ses yeux dégorgeront des sécrétions jaunâtres à l’odeur nauséabonde. Durée : 1d10 heures. 
+
+**Le Merveilleux Mélange Thérapeutique :** ce liquide écœurant diffuse une odeur de poisson, et quiconque souhaite ingérer cette décoction doit dans un premier temps réussir un Test Moyen (+20) de Calme. Ensuite, cette personne subit un État _Exténué_ , qui ne disparaîtra qu’après une bonne nuit de repos. La potion ne déclenche aucun autre effet. Cependant, son goût est si abject que les clients de von Holzenauer sont convaincus de son efficacité à guérir n’importe quel malaise. 
+
+**Revigorant Réparateur :** liquide rouge sang épais au goût répugnant, ce breuvage augmente considérablement les réactions au danger de celui qui l’ingère. Tant que son effet perdure, vous ne pouvez jamais subir l’État _Surpris_ . Lorsque son effet se dissipe, subissez 1 État _Exténué_ qui perdurera au moins une journée entière. Durée : 1d10 heures. 
+
+**Tonique de Vue au-delà de la Vue :** l’étiquette de la bouteille contenant ce liquide vert foncé est ornée d’un grand globe oculaire rouge. Cette potion porte la promesse d’améliorer la vision de celui qui la boit. La boire vous conférera l’un des Talents suivants, voire plusieurs (lancer 1d10) : 1-2 : Sens aiguisé (vue) ; 3-4 : Saintes visions ; 5-6 : Perception de la Magie ; 7-8 : Double vue ; 9-10 : tous les effets ci-dessus. Durée : 1d10 minutes. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Les Ratiers de Wahlund**
+Jusqu’à il y a peu, les Ratiers d’Ubersreik ne disposaient pas vraiment de Guilde. Ils se rassemblaient une fois par mois à l’Auberge de la Lune Rouge pour discuter de la localisation des différents nids de rongeurs, sinon ils étaient livrés à euxmêmes. Le duc d’Ubersreik finançait une prime à la queue de rat qui était juste assez généreuse pour leur permettre de survivre. Mais lorsque les Jungfreud furent évincés du pouvoir, les ratiers, privés de leurs primes, semblaient condamnés. 
+
+Pourtant, à peine une semaine après, Wahlund, un Ratier étranger, arriva à Ubersreik avec ses « Exterminateurs ». Il fit l’acquisition d’une ancienne auberge qu’il proposa de convertir en Guilde si les Ratiers acceptaient qu’il en soit le chef. Un peu étonnés, ils acceptèrent du bout des lèvres, et Wahlund devint le Maître de Guilde Wahlund. Sa première action fut de se rapprocher du Conseil de la Ville pour réclamer une nouvelle prime. Le Bourgmestre était réticent, mais souhaitait montrer qu’il était aussi capable que les Jungfreud avant lui, et finit par accepter. Wahlund fit alors imprimer des tracts indiquant de nouveaux prix, plus élevés, et sur lesquels figuraient de nombreux témoignages de clients satisfaits. Il engagea ensuite une armée de gamins qu’il chargea de distribuer les tracts. Et l’argent coula à flots. 
+
+Les Ratiers de Wahlund, désormais le nom de la Guilde, se trouve dans une ancienne taverne sur Grossweg. Wahlund l’a achetée à un marin à la retraite. Un rat mort a été dessiné à la hâte dans la gueule du requin bedonnant qui figure sur l’enseigne. L’ancienne salle de bar sert de salle de réunion et de détente pour les Ratiers et leurs invités. Dans la cave se trouve un chenil pour leurs chiens, ainsi qu’une entrée sécurisée vers le complexe d’égouts d’Ubersreik, raison principale du choix de cette auberge. 
+
+La Guilde ne comprend que neuf membres. Elle est dirigée par le Maître de Guilde Wahlund, arrivé à Ubersreik peu de temps avant l’invasion des forces d’Altdorf. Wahlund était accompagné d’un petit groupe d’Égoutiers tatoués très expérimentés. Anders de Geer, Mårten Stormdal et Rickard Blomberg. Ils ont rejoint les cinq Ratiers de la ville : Melina Heilbronn, Günther Burkharrt, Reineke Rattenfanger, Fritz Vogelman, et Thormo Hakenbein. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Le Maître de Guilde Wahlund**
+Le Maître de Guilde Wahlund est un Égoutier chevronné aux multiples cicatrices, et venu du Nord. Ce que peu d’habitants d’Ubersreik savent, c’est qu’il est également un Grand Prêtre de Stromfels, le dieu des Naufrageurs et des Pirates, dont le culte est interdit dans l’Empire. Ses trois compagnons et lui sont les derniers survivants d’un culte secret de Stromfels, anéanti il y a quelques années, par une attaque de skavens. Aujourd’hui, ils parcourent l’Empire, massacrant les hommes-rats, et cherchant le Prophète Gris Rasknitt, à l’origine de la destruction de leur culte. 
+
+Ils ont suivi des rumeurs indiquant la présence de Rasknitt à Ubersreik. Wahlund a profité de la création de la Guilde des Ratiers pour fabriquer un petit autel secret en l’honneur de Stromfels dans le sous-sol, juste à côté de la porte menant aux égouts. 
+
+**MAÎTRE DE GUILDE WAHLUND, SAINT EXTERMINATEUR** 
+
+M CC CT F E I Ag Dex Int FM Soc B
+4 82 48 53 63 56 41 36 46 65 60 23
+
+**Compétences :** Discrétion (Souterrain) 63, Esquive 78 **Traits :** Arme +9, Armure (2), Champion, Magique, Vision Nocturne 
+
+## **Melina Heilbronn**
+Pendant des années, Heilbronn a été le seul Ratier professionnel d’Ubersreik. Devenue soldat à l’âge de quatorze ans, elle a développé un profond dégoût pour les hommes-bêtes qui hantent la Reikwald. Elle a quitté l’armée dans la trentaine et a choisi de patrouiller dans les égouts de sa ville natale, persuadée que des hommes-bêtes semblables à des rongeurs s’y aventuraient parfois. C’est une combattante robuste et expérimentée que les autres Ratiers tiennent en grande estime. Depuis l’arrivée de Wahlund et de ses hommes, elle se retrouve un peu sur la touche. Même si elle se moque de la politique et qu’elle n’y est guère douée, elle a du mal à faire confiance à des étrangers qui refusent qu’elle les accompagne malgré ses évidentes compétences. Heilbronn est une femme trapue, aux épaules larges, avec un nez épaté constellé des taches de rousseur et dont le menton porte une cicatrice irrégulière, souvenir d’un homme-bête qu’elle a combattu, il y a bien longtemps. Elle n’a pas de temps à perdre avec les idiots ou les bons à rien, et s’exprime sans détour. En fait, si un regard pouvait tuer, la plupart de ceux qui ont croisé sa route seraient déjà morts. 
+
+## **Melina Heilbronn, Égoutier**
+M CC CT F E I Ag Dex Int FM Soc B
+3 63 62 45 60 30 33 24 27 44 22 26
+
+**Compétences :** Discrétion (Souterrain) 53, Esquive 79 **Traits :** À distance +7, Arme +7, Armure (1), Vision Nocturne 
+
+## Ça Pue L’embrouille !
+
+- Wahlund souhaite engager les Joueurs pour chasser les rats, ce qui lui permettra de se concentrer sur les skavens. Leur discrétion sera appréciée et récompensée. Bien évidemment, une fois dans les égouts, il semble inévitable qu’ils croisent le chemin des quatre hommes du Nord et qu’ils se retrouvent embarqués dans leur secrète vengeance. 
+
+- Thormo Hakenbein, l’un des membres les plus discrets de la Guilde, est également, à l’insu de tous, un Sorcier ne dépendant d’aucun Collège de Magie. Comme la Guilde ne cesse de s’agrandir, il craint de se faire démasquer et embauchera les Personnages pour surveiller Wahlund et ses amis, espérant que cet investissement évitera qu’ils se mêlent de ses affaires. 
+
+Clément Gauche - gauche.c@gmail.com

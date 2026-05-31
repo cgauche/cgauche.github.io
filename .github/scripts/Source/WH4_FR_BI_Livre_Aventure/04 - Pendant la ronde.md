@@ -1,0 +1,785 @@
+# Pendant la ronde
+
+*Pages PDF 5-31*
+
+## Pendant la Ronde
+_Le scénario Pendant la ronde_ a été conçu comme la première aventure que lit le MJ dans la **Boîte d’Initiation WFJDR** . Elle offre une présentation des rues troublées d’Ubersreik, une ville fortifiée de l’Empire et explique les règles de manière explicite. Elle constitue donc l’introduction parfaite au jeu. Les règles sont développées dans des encadrés en bas de page, semblables à **Les Ficelles du Métier : Comment être le MJ** ci-après. Ainsi, il est plus simple de s’y référer et elles ne sont pas perdues dans le texte de l’aventure. 
+
+Afin de s’assurer que les rebondissements de l’aventure demeurent une surprise, seul le MJ devrait en lire davantage. Donc, si vous êtes un Joueur : **CESSEZ DE LIRE MAINTENANT !** 
+
+## **Résumé de L’aventure**
+Les Personnages, alors en train de profiter du marché d’Ubersreik, sont pris dans une émeute et accusés ensuite de l’avoir provoquée. Mystérieusement, un avocat local intervient et convainc le juge en charge de l’affaire de laisser les Personnages servir comme membre du Guet afin de payer leur « dette ». 
+
+Le groupe se retrouve vite à patrouiller les rues d’Ubersreik, surveillé par Rudi Klumpenklug, un sergent du Guet complètement corrompu. Les membres provisoires du guet sont confrontés à divers crimes et délits, Klumpenklug ne montrant d’intérêt pour aucun d’entre eux, laissant les Personnages résoudre, ignorer, ou même exploiter chaque situation comme ils l’entendent. 
+
+## **1. Commencer**
+_Pendant la ronde_ est une aventure de découverte, conçue pour apprendre aux nouveaux MJ et Joueurs comment jouer à **WFJDR** . Elle développe une intrigue simple et présente les scènes les unes à la suite des autres pour rester fluide. Chaque partie de l’aventure introduit de nouvelles règles et exemples de la vie dans l’Empire. Afin d’organiser tout ce que vous devriez faire avant de commencer à jouer, consultez le feuillet Lire en Premier pour savoir à quoi servent tous les éléments de la boîte. Vous êtes alors prêt à démarrer. 
+
+Par la suite, Ilse Fassenwütend approche le groupe. Fassenwütend est un Patrouilleur routier qui affirme pouvoir faire commuer la peine des Personnages s’ils l’assistent dans l’escorte d’un criminel jusqu’à son lieu d’exécution. 
+
+Cependant, ce n’est pas une tâche facile. Le groupe fait face à une nuit éprouvante, traînant un homme terrifié à travers les rues étrangement altérées, alors que Morrslieb, la lune du Chaos, croît claire dans le ciel et que des cultistes mutants attaquent de toutes parts. Les Personnages vont-ils protéger l’homme qui clame son innocence, puis le mener jusqu’à sa mort ? Ou vont-ils choisir une autre voie ? 
+
+## Les Ficelles du Métier : Comment Être le Mj
+Être le MJ est extrêmement amusant. Imaginez-vous être le metteur en scène d’une série télé – vous avez une histoire à raconter (cette aventure, _Pendant la Ronde_ ), une distribution de figurants à votre disposition (les Personnages que les Joueurs vont rencontrer, souvent appelés PNJ ou Personnages Non-Joueurs), et autant de plateaux que vous pouvez imaginer (les divers lieux que vous décrivez). Plus important, vous contrôlez la caméra — vous pouvez cadrer les scènes et diriger le projecteur sur des moments intéressants de l’histoire, tandis que vous passez ceux qui sont ennuyeux. 
+
+Ce que vous ne contrôlez pas est la distribution principale : les Personnages Joueurs (souvent appelés PJ ou juste « les Personnages »). Votre travail consiste à leur décrire la scène et à répondre à leurs questions. Vos Joueurs vont avoir besoin de savoir ce que leurs Personnages peuvent voir, entendre, sentir, toucher, et goûter, et parleront aux PNJ pour en apprendre plus sur le monde. Vous allez décrire toutes ces choses, et jouer le rôle de tous les PNJ. Jouer les PNJ est l’une des meilleures choses quand on est MJ, car vous pouvez créer toutes sortes de Personnages mémorables destinés à être rencontrés par vos Joueurs. Ne vous inquiétez pas trop des détails — une phrase bien choisie ou des traits intéressants sont souvent tout ce dont vous avez besoin pour que vos Joueurs puissent imaginer ce qui se passe. Pour rendre la tâche un peu plus facile, l’aventure fournit une description de tous les PNJ, et quelques pistes pour les dépeindre. De plus, ne vous sentez pas obligé d’avoir tout planifié en avance – une grosse partie du jeu de rôle consiste à improviser, et à collaborer avec les Joueurs afin de construire une histoire mémorable. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Partie 1 : au Marché, au Marché…**
+Une fois que tout le monde est installé et prêt à jouer, lisez ce qui suit pour planter le décor : 
+
+_L’impressionnante ville fortifiée d’Ubersreik se trouve entre les sombres Montagnes Grises et les profondeurs de la forêt de Reikwald. La ville garde la Passe de la Dame Grise jusqu’en Bretonnie et demeure l’un des hauts lieux du commerce de l’Empire. Un pont formidable, construit par les nains en son centre, enjambe les eaux rouges de la rivière Teufel. Cet impressionnant carrefour relie d’importantes routes commerciales de l’intérieur de l’Empire et au-delà._ 
+
+_Pourtant, du haut de son importance, Ubersreik est dans la tourmente. Sigismund von Jungfreud, l’ancien duc, a récemment été dépouillé de son titre par l’Empereur pour des raisons incertaines. Ceux qui ont été perçus comme étant trop loyaux envers le vieux duc ont été démis de leurs fonctions, laissant un vide politique qui n’a toujours pas été comblé. Des soldats venant de la lointaine capitale Altdorf patrouillent désormais la ville et les provinces environnantes. Ce qui attise le profond ressentiment de locaux soupçonneux._ 
+
+_Cependant, la vie continue à battre son plein, et vous vous trouvez sur la place animée du marché d’Ubersreik, la_ Marktplatz, _en cette magnifique matinée de printemps, à la recherche d’un petit déjeuner décent. À moins que vous ne préfériez acheter quelque chose d’autre ?_ 
+
+La main passe maintenant aux Joueurs. Donnez-leur le Document 7 : Faire des Emplettes !, et demandez-leur s’ils aimeraient acheter quelque chose, ou s’ils cherchent juste à prendre un bon petit déjeuner. 
+
+Encouragez vos Joueurs à discuter entre eux comme en tant que Personnages et à partager leurs décisions. Si certains restent silencieux, demandez-leur directement ce que fait leur Personnage, et répondez à toutes les questions qu’ils pourraient poser. Bien que la Marktplatz ( **Ubersreik** , page 32), la Place du Marché soit toujours animée, elle est bondée lorsque les Personnages s’y promènent, alors décrivez à quel point ils sont bousculés. Expliquez que des étals richement colorés se trouvent de toutes parts tandis que les marchands vendent à la criée à la foule compacte. 
+
+Faites observer la présence et la surveillance quasi permanente de soldats d’Altdorf en livrée rouge et bleu, et mentionnez les odeurs de viandes fumées, de pains frais et de bière onctueuse qui emplissent l’air. Signalez l’imposante statue de Magnus le Pieux, un célèbre empereur du passé, au centre de la Place du Marché. Mentionnez aussi la musique jouée aux abords du marché et les applaudissements mélangés aux acclamations alors que des musiciens divertissent la foule. 
+
+Les Personnages souhaitant acheter un objet spécifique vont devoir le chercher. Chaque objet peut être déniché avec un Test **Simple de Perception** . Si le Personnage préfère demander une direction, il peut faire un Test **Simple de Ragot Accessible (+20)** . Donnez aux Joueurs la **Fiche de Référence des Tests** s’ils souhaitent lire euxmêmes les règles sur les Tests Simples et la Difficulté. 
+
+## Tests Simples et Difficulté
+Lorsqu’un Personnage veut faire quelque chose de risqué ou d’incertain, vous demandez au Joueur de faire un Test pertinent se basant soit sur une Caractéristique soit sur une Compétence (voir la **Fiche de Référence des Compétences et Attributs** ), comme votre Force pour soulever quelque chose de lourd, ou votre Discrétion pour vous faufiler sans être vu. 
+
+## Tests Simples
+La plupart des Tests sont des Tests Simples. Ils vous indiquent si vous avez réussi ou échoué. Lancez 1d100, et si le résultat est inférieur ou égal à votre Compétence ou Caractéristique, vous avez réussi ! Si ce n’est pas le cas, vous avez échoué. Un échec peut vouloir dire que les choses vont simplement prendre plus de temps, pas que la tentative n’a pas porté ses fruits. C’est vous qui décidez. 
+
+**Exemple** : _Salundra recherche une nouvelle veste en cuir sur le marché. Le MJ demande un Test Simple de Perception. Alors, le Joueur de Salundra lance 1d100 et obtient 43. La Compétence Perception de Salundra est à 32. Parce que 43 est supérieur à 32, Salundra rate sa tentative, et le MJ décide que dénicher la veste sur ce marché bondé va prendre du temps et demande aux autres Joueurs ce qu’ils font pendant que Salunbra cherche. Si le Joueur de Salundra avait obtenu un 32 ou moins, la tentative de Perception aurait réussi, et le MJ aurait expliqué que Salundra repère presque immédiatement un étal de vêtements !_ 
+
+## Difficulté
+Certains Tests sont plus difficiles que d’autres — escalader un mur est beaucoup plus difficile que grimper à un arbre. Pour simuler cela, 
+
+vous pouvez assigner une Difficulté à n’importe quel Test. Cela va soit ajouter soit un bonus positif, soit une pénalité négative, rendant le Test plus aisé ou plus compliqué à réussir. 
+
+Les Niveaux de Difficulté suivants peuvent être appliqués quand vous les pensez appropriés : **Très Facile (+60)** , **Facile (+40)** , **Accessible (+20)** , **Intermédiaire (+0)** , **Complexe (-10)** , **Difficile (-20)** , ou **Très Difficile (-30)** . Les Difficultés des Tests sont souvent indiquées dans le texte de l’aventure pour vous simplifier la vie. Vous pouvez les changer comme vous le désirez, en utilisant votre bon sens pour déterminer vos propres Difficultés pour n’importe quel Test nécessaire. Après tout, il est clair que grimper dans un arbre est relativement simple (peut-être Facile +40 ?), mais qu’escalader un mur est bien plus difficile (probablement Difficile -20). Le modificateur est appliqué directement à la Compétence testée, diminuant ou augmentant la valeur cible du Test. Si un Test n’a pas de modificateur, il est supposé être Intermédiaire (+0) ! 
+
+**Exemple** : _Molrella décide de discuter avec les Ubersreikers qui passent, pour demander où se trouve le magasin de brioches le plus proche. Le MJ demande un test de_ _**Ragot Accessible (+20)** . La Compétence Ragot de Molrella est de 50, mais elle est augmentée de +20 jusqu’à 70 en raison de la Difficulté Accessible. Le Joueur de Molrella obtient 59. Normalement, un lancer au-dessus de sa Compétence de 50 serait un échec, mais à cause du bonus de Difficulté, le Test est un succès, et la direction de l’étal de nourriture le plus proche est indiquée à Molrella. Molli aurait seulement échoué ce Test si elle avait eu un résultat aux dés supérieur à sa Compétence modifiée de 70._ 
+
+Clément Gauche - gauche.c@gmail.com 
+
+Si l’un Personnage réussit un Test de Perception ou de Ragot dans le but de trouver un objet au marché, il trouve l’objet convoité rapidement et peut décider s’il veut l’acheter. Faites alors semblant d’être l’un des négociants du marché. Parlez des objets disponibles à l’échoppe en question, et dites aux Joueurs interrogateurs combien ils coûtent. Référez-vous au **Document 7 : Faire des Emplettes !** pour une liste d’exemples de ce qui peut être acheté. Si vous possédez le Livre de base de **WFJDR** , n’hésitez pas à enrichir cette liste avec des éléments du **Chapitre 11 : Guide de l’Équipement** . Tout ce qui se trouve dans ce chapitre, peut-être mis à part les drogues et poisons, est aisément disponible. 
+
+Ceux intéressés par l’achat de biens devraient faire un Test **Opposé de Marchandage** avec le vendeur en question. Partez du principe que tous les vendeurs du marché ont une Compétence de Marchandage de 40. Si un Personnage gagne, l’objet choisi peut être acheté au Prix Marchandé dans le **Document 7 : Faire des Emplettes !** Sinon, le Personnage doit payer au prix fort, ou ne pas acheter l’objet en question. 
+
+Si un Test de Perception ou de Ragot pour chercher un objet échoue, faites errer le Personnage dans la foule, prenant plus de temps pour trouver l’article en question. Décrivez la pression proche de tous les gens et les sons distants d’applaudissements et acclamations tandis que des artistes exercent leur métier de l’autre côté de la place. Se frayer un chemin à travers le marché bondé donne aussi l’opportunité à un Personnage de repérer le Verre draconique de Heske, un étal particulièrement fascinant vendant des marchandises quelque peu inhabituelles. 
+
+## **Au Verre Draconique de Heske**
+Un étal très coloré sort du lot sur la place du marché bondée. Près du centre de l’agitation, une bâche rayée abrite un stand de verrerie. Sous l’auvent, des sculptures de verre tournoyantes réfléchissent la lumière dans toutes les directions, capturant le regard. Des gobelets avec des comètes à deux queues ingénieusement travaillées jusqu’aux plus petits détails se dressent sur des étagères. Entre elles, rôdent des sculptures fantaisistes de monstres, de fées, de chevaliers et de dragons. 
+
+Voici le Verre draconique de Heske, et il n’est pas nécessaire de faire un Test d’Évaluation pour comprendre instantanément que les œuvres exposées sont celles d’un maître artisan. 
+
+Heske Glazer en personne est assise parmi les merveilles de verre scintillant. C’est une humaine sculpturale d’une quarantaine d’années aux cheveux blonds striés d’argent. Ses yeux sont de couleurs différentes : l’un est bleu vif ; l’autre — clairement en verre — est ambre avec des tourbillons émeraude. Heske interpellera un Personnage qui passe. Parlez comme Heske parlerait aux Joueurs, en utilisant des intonations accueillantes : _« Je sais qu’elles ont l’air réelles, mais elles ne mordent pas ! »_ Heske se présente et indique sa marchandise, faisant remarquer que ses gobelets sont aussi solides que l’acier. Les Personnages intéressés par un achat devraient faire un Test **Opposé de Marchandage** avec elle. Ses ornements étincelants coûtent 4 pistoles (prix Marchandé : 3/6), mais les gobelets complexes sont sa réelle spécialité – ils coûtent 8 pistoles (Prix Marchandé : 7 pistoles) et conviennent à un noble. 
+
+## Tests Spectaculaires et Opposés
+Les Tests Spectaculaires expliquent comment une tâche est effectuée. Comme les Tests Simples, lancez 1d100 pour déterminer si un test est un succès ou un échec. Puis soustrayez le chiffre des « dizaines » du lancer 1d100 du chiffre des « dizaines » de la Compétence ou de la Caractéristique qui est Testée. Le résultat est votre **Degré de Réussite** (DR). Un DR positif se produit lorsque vous réussissez un Test – plus le nombre est élevé, meilleure est la réussite du Test. Un DR négatif survient lorsque vous échouez – plus le nombre est bas, pire est l’échec. Utilisez le tableau des résultats figurant à la dernière page pour obtenir des descriptions de ce que chaque DR signifie pour ce test. 
+
+**Exemple :** _Gunnar s’est lassé du marché et décide de se faufiler à travers la foule pour atteindre les artistes qu’il peut entendre jouer de la musique au loin. Gunnar décide de se frayer un chemin sans précautions, le MJ demande alors un Test d’Intimidation Accessible (+20). Le Joueur de Gunnar obtient 26 contre son Intimidation de 63 (43 pour sa Compétence, plus 20 pour la Difficulté). Le chiffre de dizaines de son Intimidation de 63 est 6, et le nombre de dizaines de son lancer de 26 est 2. Donc, Gunnar marque DR +4 (6 - 2 = 4). Selon le Tableau des Résultats, c’est un Succès Impressionnant ! De toute évidence, personne ne veut avoir affaire avec le nain Tueur, et les gens s’écartent dès qu’ils aperçoivent les cheveux orange distinctifs de Gunnar._ 
+
+## Tests Opposés
+Deux Personnages peuvent comparer directement des Tests pour savoir qui obtient de meilleurs résultats. Cela demande un Test Opposé. Un Test Opposé compare les résultats d’un Test 
+
+Spectaculaire de chaque Personnage. Le Personnage ayant le DR le plus élevé dans la Table de Résultats est déclaré Vainqueur et la différence des DR individuels est utilisée comme DR final pour le Test Opposé. Sur un match nul, les Personnages doivent relancer leurs Tests pour connaitre le Vainqueur. 
+
+**Exemple :** _Amris décide qu’il veut acheter un nouveau chapeau. Le MJ demande un Test_ _**Opposé de Marchandage** contre le vendeur. Le Joueur d’Amris obtient 51 contre sa Compétence de Marchandage de 48, un échec avec DR -1. Le vendeur obtient 69 contre sa Compétence de Marchandage de 40, échouant également avec DR -2. Comme Amris a le DR le plus élevé (DR -1, bien que ce soit un échec, est quand même supérieur à DR − 2), il est le vainqueur avec un DR final de +1 (la différence entre les DR). C’est un échange maladroit, ni l’un ni l’autre ne marchandant bien, mais Amris a légèrement mieux géré la situation et a remporté le Test Opposé. Le marchand le laisse acheter le chapeau pour le prix Marchandé._ 
+
+Les Tests Opposés comparent souvent différentes Compétences. **Exemple :** _Une bourgeoise en colère qui déteste les sorciers s’en prend à Ferdinand. Le Joueur de Ferdinand demande s’il peut utiliser la Compétence Charme pour calmer la femme furieuse. Le MJ demande un Test_ _**Opposé de Charme/Calme** . Ferdinand obtient 12 contre sa Compétence de Charme de 23 pour un succès avec DR +1. Le MJ obtient 34 contre la Compétence de Calme de 35 de la bourgeoise pour un succès avec DR +0. Ainsi, même si la bourgeoise a fait un succès, Ferdinand en a eu un meilleur. Par conséquent, Ferdinand est le vainqueur avec DR +1. Le MJ déclare que cela suffit à calmer la bourgeoise, mais pas pour longtemps…_ 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Heske Glazer**
+Lorsqu’elle était jeune, Heske Glazer travaillait dans les champs du Val de la Dame. Cependant, son destin fut complètement changé lorsqu’un pistolet défectueux lui enleva son œil gauche. Le duc Brynich Aschaffenberg, l’homme responsable, sembla prendre la fille en pitié, et paya pour les soins et le remplacement de son œil perdu. Pendant sa guérison, Heske passa de longues heures assise avec Kassandra Bechtel, la souffleuse de verre âgée, qui avait créé son nouvel œil. Elle initia Heske, captivée, aux merveilles du soufflage de verre. Pour sa part, la vieille dame était impressionnée par son intelligence et son enthousiasme, et finit par lui proposer de la prendre comme apprentie. Heske ne le regretta jamais. 
+
+Des années plus tard, les compétences de souffleur de verre de Heske sont si réputées que certains maîtres artisans de Dawihafen, le quartier nain d’Ubersreik, la consultent pour des travaux impliquant du verre. Son talent est tel que nombre des meilleures lanternes d’Ubersreik fabriquées par des nains contiennent du verre de Heske, et ses artefacts sont vendus jusque dans les profondeurs des Montagnes Grises. Bien que ce soit un éloge rarement accordé aux humains, la gloire et le respect qu’elle a gagnés semblent n’avoir eu aucun impact sur Heske — elle est toujours aussi abordable et aimable que jadis. En effet, la population d’Ubersreik dans son ensemble la respecte et personne n’a quelque chose à dire contre elle. Cela lui octroie une position unique pour voir bien plus que ce à quoi pourraient s’attendre la plupart des gens de son unique œil fonctionnel. Effectivement, plus d’un serait étonné s’ils découvraient que Glazer est l’agent d’un mécène très puissant. De plus, elle va vite repérer les Personnages pour ce dernier. 
+
+## **L’émeute de la Marktplatz**
+Donnez le temps aux Joueurs d’acheter de nouveaux objets, d’explorer le marché, et d’interagir entre eux et avec n’importe quel PNJ rencontré. Assurez-vous que tous les Joueurs aient le temps de faire ce qu’ils veulent. Si certains ne sont pas encore impliqués, demandez-leur directement ce qu’ils aimeraient que leur Personnage fasse, et prenez le temps de répondre à leurs besoins et de faire n’importe quels Tests appropriés. 
+
+Une fois que tout le monde a eu l’opportunité de jouer son Personnage, mais avant que l’intérêt ne retombe, demandez à tous les Joueurs de faire un Test **Simple de Perception** . Ce Test détermine à quel point chaque Personnage fait attention à ce qu’il se passe autour de lui alors qu’une bagarre éclate non loin. 
+
+Les Personnages ayant réussi le Test de Perception entendent le bruit d’une bagarre par-dessus le brouhaha de la foule et sont prévenus du combat à venir. 
+
+Les Personnages ayant échoué gagnent l’État _Surpris_ alors qu’ils sont entraînés dans une mêlée confuse. Expliquez ce que cela signifie, ou renvoyez ceux affectés vers la **Fiche de Référence des États** pour plus d’informations sur l’État _Surpris_ . 
+
+Puis l’émeute éclate, et il n’y a plus que chaos et désordre ! Cela commence entre un groupe d’artistes itinérants en habits colorés et divers citadins qui semblent ne pas avoir aimé leur dernière performance. La bagarre s’étend rapidement et happe tous ceux à proximité, incluant les Personnages malchanceux. Alors que les soldats en uniforme d’Altdorf tentent de rétablir le calme, le désordre tourne rapidement à l’émeute à mesure que les soldats sont écrasés par une foule en colère venant des deux côtés. Bientôt, des cris « O _rdures d’Altdorf !_ » et « _Lèchebottes des Jungfreud !_ » sont audibles malgré le vacarme. 
+
+Les Personnages ayant réussi leur Test de Perception peuvent voir des chariots de couleurs vives sur le côté du marché, près d’une scène de bois. Un panneau « La Merveilleuse Cavalcade de Betse Wooster ! » est suspendu juste au-dessus. 
+
+## La Merveilleuse Cavalcade de Betse Wooster (Mcbw)
+La MCBW est un groupe d’artistes itinérants mené par la très charmante animatrice halfling Betse Wooster. La Merveilleuse Cavalcade tente d’apporter de la joie à ceux qui en ont désespérément besoin et passe régulièrement par Ubersreik lors de ses périples à travers le Reikland pour divertir ceux ayant quelques pièces à dépenser. 
+
+## **Heske Glazer**
+**M CC CT F E I Ag Dex Int FM Soc B** 4 29 34 33 42 34 35 49 31 38 48 14 
+
+**Compétences :** Marchandage 67, Métier (Souffleur de verre) 92 **Traits :** Arme (Poing) +3 
+
+C’est l’heure de votre premier combat. Les combats dans **WFJDR** sont rapides et dangereux, mais très simples, puisque tout est géré avec un seul jet de dés pour chaque Personnage impliqué. Lisez les règles du Combat sur la page opposée afin de pouvoir le gérer. Fournissez la **Fiche de** Référence **du Combat** , à vos Joueurs pour qu’ils puissent lire comment cela fonctionne, s’ils le souhaitent. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## Combat
+Lorsque le Combat commence, nous zoomons sur l’action, et attribuons à chaque Personnage un Tour à chaque Round pour faire quelque chose, utilisant les dés pour déterminer qui se fait blesser, et qui ne se fait pas blesser. 
+
+## Initiative
+Pour déterminer l’ordre de Tour, les combattants comparent leur Caractéristique d’Initiative, et agissent de la plus élevée à la plus basse. En cas d’égalité, les Caractéristiques d’Agilité sont comparées. **Exemple :** _Les Personnages sont pris au beau milieu d’une émeute, il est temps de déterminer qui agit en premier. Par ordre décroissant, ça donne : Amris (I 56), Molrella (I 43), Gunnar (I 34), Salundra (I 32, Ag 33), Ferdinand (I 32, Ag 31), la Foule de Bagarreurs (I 30), puis Else (I 29) en dernier._ **Note :** _un Personnage avec l’État Surpris ne peut pas jouer pendant le premier Round de combat._ 
+
+## Tours et Rounds
+Un Personnage a une Action et un Mouvement durant son Tour. Ça peut être dans n’importe quel ordre – il est présumé que les Personnages fassent probablement les deux en même temps, et vous êtes encouragé à les décrire comme une manœuvre combinée. Une fois que tous les Personnages ont eu leur Tour, commencez un nouveau Round afin que tout le monde puisse avoir un nouveau Tour, en commençant à nouveau avec le Personnage à l’Initiative la plus élevée. 
+
+## Mouvement
+Un Mouvement comprend Marcher, Charger, ou Courir. En tant que MJ, vous décidez toujours de la distance à laquelle un Personnage peut se déplacer pendant son Tour. Pour donner un ordre d’idée, un Personnage peut bouger **M** ×2 mètres en marchant, **M** ×4 mètres en Chargeant et en courant. 
+
+25–44 Bras Droit, 45–79 Tronc, 80–89 Jambe Gauche, ou 90– 00 Jambe Droite. La Localisation du Coup est utilisée pour voir si un élément d’armure protège la zone. 
+
+L’attaque cause un montant de Dégâts égal au DR du Test + les Dégâts de l’Arme + le Bonus de Force de l’attaquant (pour les attaques au corps-à-corps). Ces Dégâts sont réduits par le Bonus d’Endurance de la cible + les Points d’Armure de la zone du corps. Tout excédent est déduit des Blessures de la cible. Regardez la **Fiche de Référence des Blessures** pour en savoir plus sur comment gérer les Blessures, et ce qu’il se passe quand les Points de Blessure tombent à 0 ! 
+
+**Exemple :** _Molrella tire avec sa fronde sur un Artiste pour son Action, et tente donc un Test_ _**Spectaculaire de Capacité de Tir** . Elle obtient 13 contre sa_ _**CT** de 39. Parce que c’est une attaque à distance, l’Artiste ne peut pas se défendre, ce n’est donc pas un Test Opposé. Molrella obtient un_ _**DR +2** , et sa Fronde a des Dégâts +6, ce qui fait un total de 8 Dégâts. Molrella inverse le résultat de son Test de 13 pour la Localisation du Coup, obtient un 31 — bras droit ! L’Artiste ne possède pas d’Armure sur son Bras Droit et a un Bonus d’Endurance 3, il perd donc 5 Blessures (8 – 3 = 5). L’Artiste a commencé avec 12 Blessures, mais il ne lui reste maintenant plus que 7 Blessures !_ 
+
+## Avantage
+Le Combat possède une dynamique en soi, les succès permettant de plus grands faits d’armes. Dans **WFJDR** , cela s’appelle un Avantage, chaque jeton Avantage donnant un bonus +10 à toutes les Actions de combat. + 1 Avantage est gagné pour chacun des cas suivants : 
+
+- Attaquer un adversaire ayant l’État _Surpris_ . 
+
+- Dépenser votre Mouvement pour Charger en combat. 
+
+- Vaincre un PNJ important. 
+
+## Action
+Une Action implique de déterminer quoi faire, puis de tester une Compétence pour voir si c’est un succès. L’Action la plus commune en Combat est d’essayer de frapper quelqu’un avec une arme en utilisant la **CC** pour le Corps à corps ou la **CT** pour l’attaque à Distance, mais n’importe quelle Compétence peut être testée pendant le Tour d’un Personnage. 
+
+**Exemple :** _Else aimerait s’échapper de la bagarre générale le plus vite possible, le MJ dit à son Joueur de tenter un_ _**Test Simple d’Esquive** en lieu d’Action._ 
+
+## Attaquer
+Quand un Personnage veut attaquer un adversaire, il fait un Test de **Capacité de Combat (CC)** (pour les attaques au corps-à-corps), ou un Test de **Capacité de Tir (CT)** (pour les attaques à distance) en tant qu’Action. Les attaques de Corps à corps sont toujours des Tests Opposés, sauf si la cible a l’État _Surpris_ ou _Inconscient_ . La Cible utilise sa **CC** ou sa Compétence d’Esquive en opposition à l’attaque. Si l’Attaquant obtient plus de DR que la cible, cela touche avec succès. Les attaques à distance ne sont pas opposées, et touchent si le Personnage réussit le Test de **CT** . 
+
+Si un attaquant touche, inversez le résultat du jet d’attaque (e. g. : un lancer de « 25 » devient un « 52 ») pour déterminer à quel endroit du corps le coup a touché : 01–09 Tête, 10–24 Bras Gauche, 
+
+- Remporter un Test Opposé lors d’un combat. 
+
+- Infliger des Dégâts à un adversaire sans faire de Test Opposé. 
+
+Les Personnages perdent tous les Avantages accumulés s’ils échouent à n’importe quel Test Opposé ou s’ils prennent une Blessure. 
+
+**Exemple :** _s’étant extirpée de l’Émeute, Salundra, pour son Mouvement, Charge un agitateur Jungfreud harcelant Molli, gagnant +1 Avantage. Puis elle utilise son Action pour attaquer avec sa lame, et tente donc un_ _**Test Opposé de CC** . Elle obtient 30 contre sa_ _**CC** de 59 (49 + 10 [de l’Avantage] = 59), et totalise ainsi DR +2. L’Agitateur se défend, obtenant 91 contre sa_ _**CC** de 30, ce qui fait DR -6 ! Ainsi, Salundra gagne le Test Opposé avec DR +8. Son Épée a Dégâts +4, et elle possède un Bonus de Force de 3, elle inflige 15 Dégâts (8 + 4 + 3 = 15) ! Elle inverse son résultat au Test pour déterminer la Localisation du Coup, ce qui donne 03 — un coup à la tête. L’Agitateur a 0 Armure à cet endroit. Donc, le coup fait 15 - 0 Armure — Bonus d’Endurance 3 = 12 Blessures. L’Agitateur n’a que 12 Blessures, de ce fait, il est vaincu. Le Joueur de Salundra décrit la lame frappant la tête de l’Agitateur, le tuant d’un seul coup. Triomphante, Salundra gagne +1 Avantage pour avoir remporté un Test Opposé. Puisqu’elle a maintenant 2 Avantages, elle gagnera un bonus de +20 pour son Action au prochain Round._ 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Round 1 !**
+Lorsque vous entamez un combat, la première chose que vous faites est de déterminer qui débute. Normalement, c’est le Personnage ayant la Caractéristique d’Initiative la plus élevée. Toutefois, quand l’émeute de la Marktplatz commence, certains des Personnages peuvent avoir l’État _Surpris_ , et cela signifie qu’ils ne sont pas prêts pour ce qui va se produire. 
+
+Donc, vérifiez le Personnage à l’Initiative la plus élevée. (Si vous jouez avec les Personnages Prétirés, ça sera Amris avec son Initiative de 56.) Est-ce que ce Personnage a l’État _Surpris_ ? Si la réponse est oui, passez au Personnage suivant dans l’ordre décroissant de l’Initiative et vérifiez de nouveau. Continuez jusqu’au premier Personnage sans un État _Surpris_ . 
+
+Si la majorité du groupe subit l’État _Surpris_ , il est possible que les Personnages que vous contrôlez (PNJ) pendant ce combat, la Foule de Bagarreurs, avec son Initiative de 30, jouent en premier ! 
+
+## **La Foule de Bagarreurs**
+Ce sont les statistiques pour l’imposante foule de passants agitant les poings. Heureusement pour les PJ, ils ne sont pour la plupart pas armés et relativement inefficaces. Les Règles sur le Trait Arme (Poings) +3, et tous les autres Traits utilisés par les Personnages apparaissant dans la **Boîte d’Initiation de WFJDR** , se trouvent à la fin du livre. 
+
+Tous les combattants sont humains. La plupart sont habillés comme des habitants de la ville, des soldats, ou portent des tuniques vivement colorées indiquant leur appartenance à la Cavalcade. 
+
+## **Foule de Bagarreurs**
+M CC CT F E I Ag Dex Int FM Soc B
+4 30 30 30 30 30 30 30 30 30 30 12
+
+**Traits :** Arme (Poing) +3 
+
+En tenant compte de la Foule de Bagarreurs, vous obtenez l’ordre d’Initiative suivant : Amris, Molrella, Gunnar, Salundra, Ferdinand, la Foule de Bagarreurs (vos PNJ !), puis en dernier Else. 
+
+Faites remarquer aux Joueurs que tout le monde dans la foule se bat avec ses poings, pas d’armes, même si certains en possèdent clairement. Les Personnages peuvent certes choisir d’utiliser leurs armes, mais s’ils le font, un tel acte aura de sérieuses répercussions sur la prochaine partie de l’aventure. La foule réagit _très_ différemment si un Personnage sort une arme. La plupart des gens sont effrayés et essaient immédiatement d’Esquiver et de fuir un fou armé. 
+
+De plus, si Ferdinand lance un sort, cela déclenche une onde de choc visible parmi des gens terrifiés se bousculant désespérément pour s’éloigner de lui sous les cris « Sorcier ! » Alors que les PJ sont entraînés dans la bagarre dans un premier temps, ils se retrouvent tous à se battre contre un seul membre de la Foule de Bagarreurs. 
+
+Dans l’ordre d’Initiative, donnez à chaque Personnage non _Surpris_ la possibilité de faire une Action. Normalement, tout le monde devrait pouvoir effectuer un Mouvement, mais le marché est bien trop bondé pour cela. Posez au Joueur contrôlant le Personnage à l’Initiative la plus élevée une simple question : « Qu’aimerais-tu faire ? » 
+
+En gros, les Personnages ont deux options principales : combattre ou fuir. Cela prend 3 Rounds de Tests **Simples d’Esquive** réussis pour sortir complétement de la mêlée tourbillonnante. Pour ceux qui se battent, demandez-leur de faire un Test **Opposé de Capacité de Combat (CC)** contre un membre de la Foule de bagarreurs. Si les Joueurs mènent n’importe quel adversaire jusqu’à 0 Point de Blessure, _Inconscient_ , et un nouveau l’adversaire s’effondre sur le sol, bagarreur prend immédiatement la place de l’ancien. 
+
+Bien sûr, les Joueurs peuvent avoir d’autres idées. Peut-être certains aimeraient se frayer un passage avec **Intimidation** ? Ou utiliser **Commandement** pour ordonner aux autres de se pousser ? Improvisez la Compétence appropriée à tester quel que soit le plan des Joueurs. De façon générale, peu importe ce qu’ils font, il leur faudra au moins 3 Rounds de Tests réussis pour échapper à la foule. 
+
+## Retenir Ses Coups
+Lorsqu’un Personnage réussit un Test et obtient un double sur les dés (c’est-à-dire 22, 33, 44, 55 et ainsi de suite) en combat, il obtient un Coup Critique. Pour ce premier combat, vous devriez ignorer cette règle, car la Foule de bagarreurs **Retient ses Coups** , ce qui signifie qu’elle n’essaie pas vraiment de tuer qui que ce soit. Cependant, si l’un des Personnages désire blesser sérieusement les émeutiers, laissez-le utiliser normalement la règle du Coup Critique. Référez-vous à la page 22 pour en savoir plus à ce sujet. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **À Partir du Round 2…**
+Au début du Round 2, la charrette d’un marchand proche, remplie de tourtes, est détruite, et son contenu se répand dans la rue où les Personnages se battent, transformant cette partie de la Marktplatz en terrain glissant. Les pavés recouverts de tourtes comptent comme un **Terrain Difficile** , infligeant un malus de -10 à tous les Tests appropriés pendant 4 Rounds (jusqu’au Round 5 !). Cependant, quelques-uns des acrobates bariolés de la Cavalcade ne rencontrent aucune difficulté à faire des cabrioles dans ce bourbier, tout en frappant les gens au passage. Choisissez un Personnage ou deux pour affronter ces assaillants bondissants. Ils disposent du même profil que la **Foule de bagarreurs** , mais avec **CC 40** . 
+
+Tous les Personnages peuvent agir au Round 2, car tous les États _Surpris_ sont enlevés. Tout comme au Round 1, donnez à chaque Personnage la possibilité d’accomplir un Tour dans l’ordre d’Initiative. Faites en sorte que tous les membres de la Foule de bagarreurs que vous contrôlez tentent de frapper un Personnage à leur Tour (à **Initiative** 30). Décrivez des soldats tuméfiés en tenue rouge et bleu criant pour rétablir l’ordre sans être entendus, des bateleurs de la Cavalcade laissant libre cours à leur colère, des partisans des Jungfreud aux brassards bleus et argentés faisant voler leurs poings dans tous les sens, ou tout autre assaillant que vous jugerez approprié. C’est une pagaille sans nom. 
+
+Une fois que chaque Personnage a terminé son Tour, poursuivez avec le Round 3, puis le Round 4. Utilisez ce combat pour apprendre aux Joueurs comment fonctionnent les Tests Opposés pendant les combats, et vérifiez qu’ils comprennent 
+
+tous ce qui se produit lors de chaque Test. Cela peut prendre un peu de temps au départ, mais il sera utile plus tard que tout le monde ait bien assimilé les règles. 
+
+Si un Joueur trouve qu’un des points de règle est confus, c’est le moment de l’expliquer complètement, peut-être en lisant à voix haute la règle de combat de la page 7 ou de la **Fiche de Référence du Combat** , de revoir les **Tests Spectaculaires et Opposés** page 5 ou sur la **Fiche de Référence des Tests** . 
+
+Si un Personnage parvient à s’échapper de la mêlée centrale, peut-être en utilisant la Compétence Esquive, ou en triomphant de plusieurs adversaires d’affilée, il surgit de derrière des étals renversés, complètement encerclé par le combat. Des Joueurs entreprenants, libérés de la mêlée, pourraient vouloir fouiller ces étals. Faites-leur faire un **Test Spectaculaire de Perception** . En cas de réussite, le Joueur trouve 1d10 sous de cuivre parmi les étals en pièces, la boue, et les morceaux de tourtes. De plus, pour chaque DR obtenu, il trouvera une pistole d’argent ! Si vous le préférez, vous pouvez accorder au Personnage une pièce d’équipement du **Document 7 : Faire quelques Emplettes !** , ou du **Chapitre 11 : Le Guide de l’Équipement** de **WFJDR** , le DR obtenu déterminant la valeur maximale que devraient avoir les objets trouvés. 
+
+Lorsque le Round 5 commence, faites faire à tous les Personnages au cœur de l’affrontement un **Test Simple d’Agilité** pour rester debout tandis qu’un cochon poussant des couinements terrifiés (lancé par la Femme forte de la Cavalcade) galope en dérapant sur les pavés glissants de tourtes. Les Personnages qui échouent obtiennent l’État _À Terre_ et sont immédiatement couverts de restes boueux de tourtes et de bave du cochon paniqué. 
+
+11
+Clément Gauche - gauche.c@gmail.com
+
+Alors que le cochon se déchaîne, et que les Personnages tentent de comprendre ce qui se passe autour d’eux, faites une pause pour décrire quelques-unes des scènes de la Marktplatz. 
+
+- Alors qu’un homme bien trop grand, enveloppé d’un long manteau, combat plusieurs citadins, ses assaillants s’effondrent les uns après les autres en se tenant l’entrejambe. Un coup déchire le manteau et trois halflings en tenues de bouffons s’échappent du vêtement et commencent à donner des coups de pied aux attaquants à terre. 
+
+- Un homme, couvert de tatouages élaborés aux motifs de flammes, inspire puis crache une longue langue de feu vers plusieurs assaillants. L’un d’entre eux prend feu et court en hurlant. Le cracheur de feu souriant titube soudain et tombe à terre, un carreau en travers de la gorge. Un Test **Simple de Perception** réussi permettra à un Personnage d’avoir un bon aperçu de l’arbalétrier : un voyou à l’air mauvais avec un œil laiteux. Voyez **Partie 4 : Une Cité Tourmentée** (page 21) pour en savoir plus sur ce vaurien. 
+
+- Un nain de la Cavalcade sur des échasses, en habits à carreaux rouges et jaunes, donne un coup de pied à un soldat d’Altdorf avec ses gigantesques bottes de bois. 
+
+- Un ménestrel s’assoit sur le toit d’un grand étal (hors du combat) et joue un morceau de violon enjoué qu’un Personnage friand de musique pourra reconnaître comme étant Le Vol du Griffon Furieux, un chant militaire très connu. 
+
+Au Round 6, les Personnages qui sont parvenus à rester debout devraient faire un Test **Simple de Perception Difficile (-10).** Ceux qui réussissent aperçoivent trois brutes armées de couteaux, menaçant une vieille femme en habits citadins. Elle protège une jeune fille portant une robe très sophistiquée. Les gredins ont acculé leurs victimes dans un coin isolé entre deux étals, où ils peuvent agir à l’abri des regards. Les brutes ont les mêmes caractéristiques que la Foule de bagarreurs, mais avec **CC 40** et le **Trait Arme (couteaux) +5** . 
+
+Tout Personnage à l’écart de la foule peut intervenir. Ceux qui sont toujours dans la mêlée peuvent tenter de s’en extraire, bien que cela exige un Test d’Esquive en guise d’Action (la foule commence à se disperser) ! 
+
+Les Personnages qui s’opposent aux brutes seront accueillis par un « Mêlez-vous de vos affaires ! » Ceux qui désirent faire cesser leurs agissements devront mettre hors d’état de nuire ou tuer l’un des trois pour forcer les autres à abandonner. S’ils y parviennent, la femme sera très reconnaissante, promettant que les efforts des Personnages « ne seront pas oubliés », avant qu’elle et sa protégée ne disparaissent dans la foule. Si les Personnages n’interviennent pas, les brutes tuent la femme et la fille au Round 8, puis disparaissent dans la foule. Que les Personnages interviennent ou pas aura des répercussions dans la **Partie 2 : La loi et l’ordre** . 
+
+.
+
+## **J’ai Joué Puis J’ai Perdu…**
+Laissez passer un Round ou deux, suffisamment pour que les Personnages s’occupent des brutes s’ils ont choisi de le faire, avant qu’un staccato de craquements ne retentisse sur la Marktplatz. Tous les yeux se tournent vers une femme aux cheveux de feu, pointant en l’air un pistolet fumant à répétition. Le ménestrel, surpris, joue une dernière note puis s’interrompt. Le cochon dérape dans les croûtes de tourtes et la boue, avant de percuter l’étal d’un potier dans un couinement aigu, projetant partout des pots de terre. Des soldats en tenue rouge et bleue d’Altdorf, et des hommes du Guet portant le blason bleu et or d’Ubersreik, se précipitent de tous côtés. Ce qui fait immédiatement cesser l’émeute. La Marktplatz est désormais cernée par des dizaines de soldats et de membres du Guet. 
+
+« _Vous êtes_ _**tous** en état d’arrestation._ » 
+
+Ainsi s’achève la Partie 1. 
+
+## Et Fondu au Noir….
+Comme dans les films, où le metteur en scène contrôle tout ce qui est visible pour s’assurer que l’histoire est toujours irrésistible et passionnante, en tant que MJ vous pouvez maintenir la dynamique de la partie en passant rapidement d’une scène à une autre, en sautant les passages ennuyeux. 
+
+Lorsque l’émeute sur la Marktplatz s’achève, ne vous souciez pas de la façon exacte dont les Personnages arrivent à la scène suivante, contentezvous de passer et de faire avancer l’histoire. Si un Joueur pense que son Personnage devrait être capable de s’échapper ou de s’éclipser discrètement, au lieu de contrarier ses projets, demandez-lui d’expliquer comment il a été capturé et mené à la prochaine scène. Mais ne vous attardez pas trop longtemps là-dessus, car il est important que la partie progresse rapidement. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Partie 2 : la Loi et L’ordre**
+La partie 2 débute avec les Personnages emprisonnés dans la caserne de la milice, dans le quartier du Bastion d’Ubersreik ( **Ubersreik** , page 47). Ils ont passé la nuit, entassés avec les autres bagarreurs, en attendant tous leur mise en accusation. Toutes les armes ont été confisquées avec l’assurance qu’elles seront rendues si le jugement est favorable. 
+
+Des mimes au visage blanc entourent le groupe en gesticulant avec énergie, mais refusent de parler. Des clowns aux habits chamarrés ont discuté pendant des heures des mérites de différents maquillages. Une charmante halfling avec une longue barbe postiche nommée Gerlindelallen papote : « _Appelez-moi Geri. Nan, je ne suis pas une naine, regardez mes mains ! Bien trop petites !_ » et un vieux « mutant » nommé Henroth. Qui ne l’est pas vraiment. 
+
+Henroth est un membre de la troupe déguisé en « mutant » pour une pièce. Il est recouvert d’une chatoyante peinture dorée qui s’écaille maintenant, et laisse des traces pailletées sur son passage. Son bras droit disparaît dans un tentacule abîmé de feutre et de cuir. Il offre aux Personnages sympathiques une gorgée d’une flasque d’alcool qu’il cache dans son « bras mutant ». « _Les crétins superstitieux ne veulent même pas y toucher_ . » Tout le monde est recouvert de bouts de tourte séchée et de croûtes de boue. La puanteur donne à tout le monde à la fois faim et mal au cœur. 
+
+Pendant des heures, plusieurs compagnons de cellule sont emmenés, seul ou par deux. La rumeur circule que l’appareil légal d’Ubersreik se contente d’infliger des amendes à tous ceux qui ont participé à la bagarre avant de les relâcher. Personne ne sait qui a asséné le premier coup. Les membres de la troupe disent qu’il ne s’agit pas d’eux, « _Pas bon pour les affaires, hein !_ ». Certains accusent les partisans des Jungfreud. D’autres les Altdorfers. Les hommes du Guet ne participent en aucun cas à la discussion ; la plupart d’entre eux affichent des contusions et 
+
+lancent des regards inamicaux. Les Personnages qui réussissent un Test Simple de Ragot ou Perception remarquent que les membres du Guet à l’air renfrogné viennent tous d’Altdorf, bien qu’ils portent l’uniforme bleu et or d’Ubersreik. 
+
+## **Au Tribunal**
+En fin de matinée, les Personnages entendent un homme du Guet appeler leurs noms. En sortant de la cellule, on leur passe des menottes, et une escorte conséquente de soldats les attend à l’extérieur de la caserne. Si Salundra est présente, elle est traitée avec plus de courtoisie que le reste des Personnages, et n’est pas enchaînée. Si Gunnar est présent, les soldats agrippent fermement leurs armes sur son passage, et l’observent attentivement. 
+
+Si Ferdinand est avec le groupe, et qu’il a fait usage de magie durant la bagarre, un bâillon l’empêche de lancer des sorts, et un Prêtre Guerrier de Sigmar se tient aux côtés des soldats. Lorsque le Sorcier sort de la caserne, le prêtre s’avance vers lui, le regarde droit dans les yeux, et grogne : « _Si tu fais le moindre geste suspect, je te brise le crâne !_ ». 
+
+Un brouillard bas flotte dans les rues, et étouffe légèrement les bruits tandis que le groupe est mené à travers le quartier du Bastion et passe le pont d’Ubersreik. En approchant de la Marktplatz, les Personnages commencent à entendre les murmures d’une foule proche. Leur escorte les conduit jusqu’à un intimidant bâtiment de pierre, sur le côté Est du marché : l’Hôtel de Ville d’Ubersreik (voir **Ubersreik** , page 34). 
+
+Une foule vociférante les y attend, ne s’écartant d’eux que parce que les soldats la forcent à reculer pour créer un passage. Elle hurle toutes sortes d’encouragements et d’accusations : _« Ce sont eux qui ont tué ma vache ! », « Saletés de Jungfreud ! », « Filez-leur ce qu’ils méritent ! », « Meurtriers ! », « Bien fait pour vous, les Altdorfers sont là pour nous aider ! », « Bonne chance ! », « Rentrez chez vous ! », « 3 contre 1 que le foutu noble s’en tire pour le meurtre ! », « Il m’a transformé en triton ! »._ 
+
+13
+Clément Gauche - gauche.c@gmail.com
+
+Les Personnages sont emmenés à la Cour de Justice, autrefois impeccable, où les représentants de la maison Jungfreud avaient pour habitude de rendre leurs jugements. Les murs de pierre du tribunal portent désormais les traces d’un affrontement récent. Des traces de sang persistent là où des partisans des Jungfreud ont été tués. Des soldats en livrées d’Altdorf sont alignés le long des murs, et des bancs de fortune installés aux balcons pour les spectateurs. Un juge richement vêtu de rouge et de noir, et arborant une longue perruque blanche, est assis sur une estrade d’où il domine la salle. Une paire de lorgnons est perchée sur son nez crochu. Il se penche en avant pour étudier le groupe avec un intérêt manifeste. Il s’agit de l’honorable juge Melierte, un homme dur, mais généralement considéré comme juste. Pour un juge de l’Empire… 
+
+Le juge Melierte se tourne vers ses greffiers. « _S’agit-il des accusés_ ? ». L’un deux lit les noms des Personnages un par un, avec une pause entre chacun pour attendre une confirmation d’un signe de tête ou par tout autre moyen de la part de l’individu nommé. Satisfait, le greffier hoche la tête en direction du juge. « _Très bien, lisez les charges retenues_ ». Le greffier s’éclaircit la voix puis commence : « _**Vous êtes accusés de destruction de propriété privée, entrave au commerce, incitation à l’émeute, participation à l’anarchie généralisée, et meurtre.**_ » 
+
+Le juge abaisse son regard sur le groupe et demande, « _Que plaidez-vous ?_ », mais avant que les Personnages (probablement sidérés) ne puissent dire quoi que ce soit, une voix retentit : « _Ne dites pas un mot !_ » Une femme en robe noire et portant perruque surgit dans la salle du tribunal. Elle adresse un sourire éclatant aux Personnages puis, légèrement essoufflée, se tourne vers le juge. « _Pardonnez-moi, votre Honneur, mais j’ai besoin d’une brève suspension d’audience pour consulter mes clients avant qu’ils ne disent quelque chose qu’ils pourraient regretter._ » Le juge Melierte regarde la femme puis les Personnages et demande : « _Eux, Osanna ? Vraiment ?_ » Il renifle et secoue la tête avant de donner un coup de marteau. « _L’audience est suspendue un court moment. Hensil, allez me chercher une tourte, de préférence une qui n’a pas été mêlée à la bagarre du marché._ » 
+
+## **Prendre Un Avocat**
+Les Personnages sont rapidement escortés jusqu’à une antichambre proche. Un ou deux gardes à la traîne sont presque mis dehors par la femme, qui ferme vigoureusement la porte derrière eux, avant de se tourner vers le groupe en arborant un sourire conquérant. « _Eh bien. Il semblerait qu’on ait quelques petits problèmes, hein ?_ ». Ce qui est évidemment très en dessous de la vérité. La femme se présente comme étant le maître du barreau, Osanna Winandus, « _mais appelez-moi Osanna, hein ?_ » 
+
+Les Personnages peuvent faire un **Test Simple de Savoir (Empire) Accessible (+20)** ou un **Test Simple de Savoir (Droit) Facile (+40)** pour savoir s’ils se souviennent avoir entendu parler d’une Osanna. Une réussite indique qu’ils savent qu’elle est une avocate renommée du Reikland, qui s’occupe habituellement des affaires des plus riches marchands. Elle a été en partie formée par le culte de Verena (ce qu’elle rappelle grâce aux chouettes cousues sur ses robes ; c’est l’un des symboles favoris de Verena, déesse de la Justice, de la Loi et de la Connaissance). 
+
+Habituellement, les maîtres du barreau ne représentent que les clients très riches, car ils sont les seuls juristes autorisés à s’adresser 
+
+aux plus hautes cours d’appel de l’Empire. Utilisez Osanna pour faire interpréter leurs Personnages aux Joueurs. Faites-lui poser des questions, répondre, et s’adresser directement aux Joueurs silencieux pour les faire participer à la partie. 
+
+Elle s’interrompt pour lire un parchemin qu’elle a réclamé à l’un des greffiers. Elle secoue la tête en le lisant. « _Alors, on est critique d’art ? Ils essaient de tout vous mettre sur le dos. Il est écrit ici que vous avez démarré la bagarre, attaqué des soldats, quasiment mis à sac la ville et… Eh bien très cher, tué Fosten l’Ardent. Les enfants ne vous pardonneront jamais ça._ » Elle tapote la main de tout Personnage qui clame qu’ils n’ont pas tué le cracheur de feu. « _Bien sûr que vous ne l’avez pas fait, très cher._ » Les Personnages ont sans doute des questions pour l’avocate. S’ils l’interrogent à propos de la remarque du juge, elle rit et répond, _« J’ai un peu la réputation de m’occuper de causes perdues »_ . Voici la liste des questions qu’ils sont les plus susceptibles de poser, et comment elle pourrait y répondre : 
+
+## **Nous Ne Vous Avons Pas Engagée (et Nous N’en Avons Pas les Moyens). Qui L’a Fait ?**
+La réponse d’Osanna à cette question dépend des précédentes actions des Personnages. 
+
+S’ils ont sauvé la vieille femme et la jeune fille des brutes armées, Osanna répond, _« Les Karstadt tiennent beaucoup à leur famille, et ils se souviennent de leurs amis. La mère de la jeune Joceline vous envoie toute sa gratitude… ainsi que mes humbles services. »_ Voir **Ubersreik** , page 44, pour en savoir plus sur la famille Karstadt. 
+
+Si les Personnages ne sont pas intervenus alors que la jeune fille était en danger (ou s’ils ne l’ont pas remarquée), Osanna dit : « _Ce sont des temps difficiles pour Ubersreik, et la justice est trop souvent oubliée dans ces périodes. On fait parfois appel à moi pour être sûr que la balance de la Justice est bien équilibrée. Vos bienfaiteurs préfèrent rester anonymes, mais si je parviens à vous sortir de ce pétrin, des dons au culte de Verena seront les bienvenus. »_ 
+
+## **Qui Nous Accuse ?**
+« _Tout le monde. Et c’est très suspect en soi. En fait, il s’avère que je sais que l’un des témoins listés ici est aveugle. On vous a tendu un piège, nous devons donc être très prudents sur la façon de procéder. Vous avez des ennemis, ou peut-être des amis, très haut placés._ » 
+
+## **Qui Nous a Piégés ?**
+« _Je n’en ai pas la moindre idée._ » Bien qu’Osanna ne mente pas réellement, elle ne dit pas non plus toute la vérité. Les Personnages sont potentiellement très dangereux, et très utiles pour certaines personnes. Plusieurs organisations puissantes savent que tout n’est pas pour le mieux dans les ombres d’Ubersreik, et déjà les intrigues pour manipuler et se servir des Personnages ont débuté. Une personne en particulier a été renseignée sur les Personnages par l’un de ses agents sur le marché, Heske Glazer (voir page 8). 
+
+C’est à vous de décider qui est ce mystérieux manipulateur. Référez-vous au Guide d’Ubersreik pour vous inspirer, mais les choix les plus évidents sont : le Duc Brynich Aschaffenberg (page 56), Hellin Karstadt-Stampf (page 44), Dame Kisaya von Bruner (page 43), Dame Emmanuelle Nacht ou le Général von Daberninck (page 10), n’importe quel membre du conseil de la ville d’Ubersreik (page 11) ou même Andreas von Bruner (page 61). 
+
+Clément Gauche - gauche.c@gmail.com 
+
+Peu importe de qui il s’agit, Osanna sait sans doute d’où vient l’argent pour ses services, mais ne partagera pas facilement cette information. 
+
+## **Que Nous Conseillez-Vous ?**
+« _Vous avez peu de chances d’être innocentés si vous plaidez non coupables, car vous étiez impliqués dans l’émeute. Nous devrions plutôt plaider “Nolo contendere”, la non-contestation, ce qui permet de ne pas admettre la culpabilité, ni de revendiquer l’innocence complète, bien que nous nierons_ _**ardemment** avoir tué Fosten._ » Sur ces mots, Osanna sourit _. « En général, de lourdes amendes et des travaux forcés dans les Montagnes Grises seraient la sentence minimale pour un tel plaidoyer, mais j’ai un peu d’influence auprès du tribunal, et je sais qu’on leur a demandé de soutenir le Guet en_ » _ces temps difficiles, car il est gravement affaibli…_ 
+
+Si les Personnages expriment leur étonnement devant cette proposition, ou demande pourquoi le Guet les accepterait s’ils sont des « criminels », Osanna rit de bon cœur. « _Avez-vous rencontré le Guet actuel ? Il est essentiellement composé des pires soldats de l’armée régulière d’Altdorf, assistés par des idiots et des imbéciles. Vous y serez très bien, compte tenu de vos penchants guerriers, et vous devriez pouvoir rapidement vous y faire une place. De plus, cela aiderait à apaiser les frictions en ville s’il y avait plus de personnes au Guet qui se préoccupent d’Ubersreik et des gens qui y vivent._ » 
+
+## Osanna Winandus
+Maître du barreau d’une trentaine d’années, Osanna arbore des cheveux d’un blond cendré et des yeux gris. Elle porte une somptueuse robe de juriste recouverte de chouettes entrelacées cousues délicatement au fil d’or. C’est une oratrice intelligente et vive qui excelle dans son métier. 
+
+Osanna est une fervente adepte de Verena, et croit fermement que les lois justes sont les meilleures. Elle a parfois besoin d’individus compétents désireux d’enquêter ou d’aider à rendre une « justice » que les tribunaux de l’Empire n’approuveraient pas. 
+
+Si un Personnage avec la Compétence **Savoir (Droit)** réussit un **Test Simple de Savoir (Droit),** il se rendra compte que quelque chose cloche. La plupart des tribunaux impériaux rejetteraient un plaidoyer « Nolo contendere » d’emblée. Un **Test Simple d’Intuition Accessible (+20)** réussi indiquera que l’avocate semble être honnête (enfin, aussi honnête qu’un juriste puisse l’être). 
+
+Osanna stipule que les Personnages ne sont en aucun cas obligés de suivre son conseil, et qu’ils peuvent « _tenter leur chance en faisant appel à la clémence de la cour »_ s’ils le souhaitent. Puis elle précise : _« Si vous êtes reconnus coupables de la mort de Fosten l’Ardent, vous serez exécutés. Si d’une façon ou d’une autre vous y échappez, vu que le tribunal ne va pas se soucier de vous écouter ou vous donner une chance de vous expliquer, mais que vous êtes reconnus coupables des autres charges, au minimum, vous passerez plusieurs années de travaux forcés dans le bagne d’Ubersreik, dans les contreforts des Montagnes Grises. Ce n’est pas un endroit agréable. Des prisonniers sont fréquemment tués par les raids de peaux-vertes avant que leurs peines ne soient purgées._ » 
+
+Si les Personnages acceptent de suivre le conseil d’Osanna, elle leur demande de la laisser parler, à moins que le juge ne leur pose directement une question. 
+
+Si Salundra est présente, Osanna lui dit qu’en tant que noble, elle peut s’adresser au tribunal si elle le souhaite, mais que la réserve habituelle envers la noblesse se trouve dans une sorte de zone d’ombre légale, car la cité n’a plus de dirigeant officiel. Osanna recommandera fortement à Salundra d’implorer la clémence, et d’offrir ses services de soldat impérial expérimenté. À vrai dire, si Salundra offrait ses services au Guet, cela éviterait sans doute une sentence plus dure, et pourrait alléger le dossier. 
+
+Les Personnages pourraient suspecter qu’ils sont pris au piège, et Osanna hochera simplement la tête, car c’est le cas. Quelqu’un a clairement intérêt à ce que le groupe rejoigne le Guet. S’il semble que les Personnages s’apprêtent à tenter quelque chose de stupide pour éviter cette issue, Osanna leur fera remarquer que la violence serait une très mauvaise idée, étant donné qu’ils sont peu nombreux, enchaînés et sans armes. 
+
+Une fois que les demandes des Personnages sont satisfaites, et que le groupe est prêt à faire face à son jugement, Osanna quitte l’antichambre un bref moment pour faire savoir au tribunal que les Personnages sont prêts à poursuivre. Elle revient ensuite pour ramener le groupe dans la salle d’attente du tribunal. 
+
+Si le groupe accepte le conseil du maître du barreau Osanna et la laisse parler à leur place, elle déclare au juge que le groupe ne conteste pas directement les charges, mais explique que les Personnages n’ont en aucun cas initié l’affrontement. Elle affirme que le groupe n’a agi qu’en légitime défense, et n’a indubitablement pas tué Fosten l’Ardent. Pour appuyer son propos, elle fait remarquer qu’aucun d’entre eux ne dispose d’une arbalète, arme qui a causé la mort du cracheur de feu (évidemment, si l’un des Personnages possède une arbalète, elle n’évoque pas ce sujet !). 
+
+Si Salundra a indiqué son intention de parler, l’avocate lui fait alors signe d’avancer avec un signe de tête et un sourire. Le soldat noble peut alors faire un **Test Simple de Charme Accessible (+20)** pour faire bonne impression. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+Une réussite signifie que le juge Melierte est impressionné, ce qui pourra être utile à Salundra si elle devait à nouveau avoir des problèmes. Un échec signifie qu’il la considère comme quelqu’un de peu d’intérêt, et qu’il ignorera ses demandes. 
+
+Après que Salundra a parlé (si elle choisit de le faire), le juge pose une question à chacun et attend leur réponse, donnant ainsi une autre occasion aux Joueurs d’interpréter leurs Personnages. 
+
+**Salundra** : « _Donc, Dame von Drakenburg, que pensez-vous que dira votre noble père lorsqu’il apprendra ce que sa fille considère comme un bon usage de son temps libre ?_ » 
+
+**Gunnar** : « _En quoi le Serment du Tueur est-il honoré en détruisant notre Marktplatz ?_ » 
+
+**Molrella** : « _Comment quelqu’un d’aussi inoffensif que vous s’est-il retrouvé dans une telle situation, ma chère ? Il est difficile de croire que vous l’ayez été de votre plein gré !_ » 
+
+**Ferdinand** : _« Êtes-vous au courant des sanctions pour mauvaise utilisation de la magie, sorcier ? Il est difficile de lancer des sorts sans langue, m’a-t-on dit. Qu’allez-vous raconter à votre maître sur ces évènements ? »_ 
+
+**Amris** : « _Je ne suis pas très familier des coutumes elfes, Maître Pluiedebraise. Les vôtres se révoltent-ils toujours ainsi lorsqu’une pièce tourne mal ?_ » 
+
+**Else** : « _Vous avez de curieuses fréquentations, Fraulein Sigloben. Je connais un peu votre famille. Que penserait votre mère_ ? » 
+
+## Élu de Grimnir
+Les Tueurs ont juré de rechercher la mort au combat contre des adversaires valeureux de leur peuple, mais le but de leur serment est surtout de récupérer leur honneur. Cet honneur ne peut leur être restitué si cela implique de briser un autre serment. Les célèbres Rois Tueurs de Karak Kadrin doivent supporter le terrible fardeau des serments contradictoires de roi et de Tueur depuis cinq générations. Le juge Melierte demandera sa parole à tout Tueur de ne pas laisser le Serment du Tueur interférer avec les devoirs d’un membre du Guet. 
+
+Si un Personnage a fait quelque chose de remarquable durant la bagarre, le juge peut y faire référence au passage. S’ils ont combattu les brutes, il ajoute : 
+
+« _Vous dites n’avoir pas tué Fosten, mais j’ai aperçu un rapport disant que vous avez tué d’autres personnes. Que s’est-il passé ?_ » 
+
+Quand le juge Melierte en a fini avec ses questions, il demande à l’avocate d’approcher, et s’entretient brièvement avec elle. Après quoi, il s’adresse à tout le tribunal : 
+
+« _Il semble clairement improbable que les prévenus ici réunis aient réussi à prendre d’assaut la Marktplatz_ à eux _seuls. Cependant, nous les remercions pour ne pas avoir gâché le temps de la Cour avec de futiles protestations d’innocence. Nous sommes donc portés à la clémence._ » 
+
+Si Salundra s’est portée volontaire pour le service, il profère sa sentence comme suit. « _Après avoir consciencieusement étudié les preuves et les circonstances dans cette affaire, il me plaît que ceux qui ont participé à troubler le calme de notre belle cité participent à le restaurer. Je vous condamne tous à effectuer un service surveillé au sein du Guet de façon à effacer votre dette envers Ubersreik. Ce service commencera demain matin, pour une période n’excédant pas trois ans. Ne pas mener ce service à son terme serait considéré comme une trahison envers l’Empire, et_ _**puni de mort** . Au nom de Verena, qu’il en soit ainsi. Ce dossier est clos. Hensil, apportez-moi un verre de Bordeleaux._ » 
+
+Osanna sourit aux Personnages et incline légèrement la tête. Si certains sont choqués par la sentence, elle fera calmement remarquer que « _trois ans de service surveillé est bien préférable à un nœud coulant immédiat. D’ailleurs, laissez-moi un peu de temps, je pense pouvoir travailler à une alternative future. Personnellement, je suis enchantée de ce verdict._ » Après tout, c’est exactement le verdict que son employeur secret lui avait demandé d’obtenir. 
+
+Ainsi s’achève la Partie 2. 
+
+Clément Gauche - gauche.c@gmail.com
+
+## **Partie 3 : Apprendre les Bases**
+La Partie 3 débute quand Osanna souhaite au groupe bonne chance pour leur nouveau « service ». Les Personnages se tiennent près de la caserne de la milice dans le quartier du Bastion, escortés par des soldats après l’audience. Avant de partir, Osanna s’arrête et s’adresse au groupe : « _J’ai conscience que vous avez l’impression d’avoir été punis injustement, mais ma déesse œuvre de bien des façons. Peut-être_ êtes-vous _exactement là où vous êtes supposés être. Ce que vous ferez de cette… expérience, ne dépend que de vous._ » Elle mentionne que son bureau est à l’extrémité Est du quartier des marchands, « à un jet de pierre du bureau de change Morgenzeit », s’ils avaient à nouveau besoin de ses services. 
+
+## **’ Engagez-Vous Qu Ils Disaient, Rengagez-Vous !**
+Plusieurs hommes du Guet sortent pour accompagner les Personnages dans la caserne. Alors qu’ils approchent, les hallebardiers d’Altdorf escortant le groupe les reconnaissent et les moqueries commencent. « _Tu aimes ton nouveau poste ici, Constance ?_ », « _Tu as belle allure sous les couleurs d’Ubersreik, Wilhelm_ ». Et ainsi de suite. Les membres du Guet, visiblement énervés, ne peuvent s’empêcher de rétorquer : « _T’as rien de mieux à faire ? The faire tuer par des peaux-vertes, peut-être ?_ » 
+
+Sans plus de cérémonie, ils traînent les Personnages à l’intérieur, les jaugeant ouvertement d’un air incertain avant de les emmener (toujours enchaînés) devant une porte sur laquelle quiconque sachant lire pourra déchiffrer « _Capitaine_ ». Une voix claire provient de l’intérieur. « _Entrez_ ». Le **capitaine du Guet, Andrea Pfeffer,** attend les Personnages dans un grand bureau. Elle n’est pas assise derrière son secrétaire, mais y est adossée, de façon à faire face au groupe. Les Personnages reconnaîtront la femme qui les a arrêtés la veille. Ils peuvent faire un **Test Spectaculaire de Savoir (Empire)** pour voir s’ils en ont déjà entendu parler. Une réussite indique qu’ils savent qu’elle est le nouveau capitaine du Guet, nommé suite à la disgrâce des von Jungfreud. Des Degrés de Réussite supplémentaires signifient qu’ils ont entendu dire qu’elle est issue d’une longue lignée de soldats du Middenland, bien qu’elle soit arrivée avec l’armée régulière d’Altdorf. 
+
+Le capitaine Pfeffer se présente, et demande au groupe d’en faire autant. Pendant que chaque Personnage se fait connaître, elle lui ôte ses chaînes en le regardant dans les yeux. Si Salundra est présente, elle est un peu plus respectueuse, mais pas tant que ça, car le capitaine Pfeffer est elle-même noble, même si elle ne l’évoque pas. Lorsque les présentations sont finies, le Capitaine secoue la tête, l’air un peu perplexe. Lisez ou paraphrasez ce qui suit : 
+
+_« Nous vivons des temps étranges. J’ai demandé des hommes de Guet, et je vous ai eu… vous. Vous avez peut-être remarqué que le moral de mes hommes était bas. Mais ce n’est pas surprenant, il s’agit du pire ramassis d’ordures d’Altdorf à qui on a mis des uniformes ; ils pensent qu’ils sont trop bons pour cette affectation, et en détestent chaque instant. » Pfeffer marque une pause quand quelqu’un frappe à la porte. Elle lui demande d’entrer. « Ah, pile au bon moment. Voici le sergent Rudi Klumpenklug. Il s’occupera de vous durant le temps que vous passerez dans la milice. Ce sont ses rapports sur votre comportement qui empêcheront que vous soyez exécutés pour manquement au devoir, donc je vous suggère de rester dans ses bonnes grâces. Je ne suis pas une imbécile. Ne me traitez pas comme telle et nous nous entendrons bien. Faites ce que le sergent vous dit, ne faites pas honte au Guet, et méfiez-vous, Ubersreik grouille de malheurs ces derniers temps. Puisse Ulric veiller sur vous… Et Sigmar et Verena aussi. Rompez. »_ 
+
+## Andrea Pfeffer, Capitaine du Guet
+Le capitaine Pfeffer possède une crinière de cheveux d’un roux vif, et des yeux d’un bleu sombre, couleur de l’acier froid. À environ 25 ans, Pfeffer est jeune pour un commandement si difficile, mais ceux qui connaissent l’histoire de sa famille n’en sont pas surpris : les Pfeffer combattent en première ligne des armées de l’Empire depuis des siècles. Pfeffer est directe et possède l’humour noir des soldats. Elle n’aime pas les excuses, mais sait que certaines situations requièrent de la « finesse tactique » et passe sur beaucoup de choses pour obtenir de bons résultats. Tout ce qui portera atteinte à la réputation du Guet la mécontentera fortement. 
+
+## Interpréter Tous les Pnj
+En tant que MJ, c’est à vous d’incarner chaque PNJ, qu’il s’agisse de l’idéaliste capitaine du Guet, d’un juge fatigué du monde, ou d’un monstre sournois comme Klumpenklug. Faire en sorte que chaque Personnage reste unique et intéressant est un défi amusant. Certains MJ utilisent différents accents ou voix, en s’inspirant de films ou de séries télé et en reproduisant les intonations des personnages appropriés. D’autres adoptent des traits différents, comme se mordre la lèvre pour ce personnage, ou froncer en permanence les sourcils pour cet autre. Il n’y a pas de façon préconçue d’interpréter au mieux vos PNJ. Essayez ce qui marche le mieux pour vous, et assurez-vous que les Joueurs comprennent qu’ils ont affaire à des gens très différents avec leurs propres motivations, espoirs et rêves. Plus vous rendez vos PNJ particuliers, plus votre partie sera immersive et mémorable. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+Dès qu’ils sont sortis, le sergent Rudi Klumpenklug se présente à nouveau au groupe. « _Appelez-moi Rudi. Sergent, c’est quand il y a du monde, hein ? J’parie qu’vous voulez récupérer vot’ matériel._ » Il rend tout le matériel du groupe. « _On va vous trouver des uniformes du Guet, des brassards au moins si vous voulez garder vos t’nues._ » Il fait faire un tour de la caserne au groupe, leur montrant où entreposer leur matériel et où dormir s’ils souhaitent s’installer ici. « _Bien. Mieux vaut pas trop parler ici. Y’a des oreilles dont je me méfie ici, hum ? Retrouvez-moi c’soir, au coucher du soleil, au fond du Corbeau Enroué. On discut’ra là et on organisera vos nouvelles tâches._ » Les Personnages disposent de quelques heures libres pour s’occuper de leurs affaires, informer leurs amis de leur nouvelle situation, ou acheter l’équipement qui leur semble nécessaire. Les Personnages souhaitant se renseigner sur Klumpenklug peuvent faire un **Test Simple de Ragot Difficile (-20)** . Le Sergent a fait ce qu’il fallait pour s’assurer que très peu de personnes en sachent trop sur son passé. Un succès indique qu’on leur dit qu’il travaille pour le Guet depuis plusieurs dizaines d’années, mais rien de plus. 
+
+Le Corbeau Enroué s’avère être une petite taverne, suffisamment éloignée de la Teufel pour être un peu plus respectable que les débits de boisson situés sur les Docks. Plusieurs grandes alcôves garantissent l’intimité. L’air est chargé de fumée tourbillonnante, et la salle est éclairée (à peine) par quelques appliques et des bougies sur certaines tables. Klumpenklug fait signe au groupe depuis une alcôve partiellement dissimulée par un rideau, et commande une tournée à une serveuse qu’il appelle par son prénom (Ethelind). Lorsque vous interprétez Klumpenklug, faites de votre mieux pour vous faire apprécier. Le but est que la majorité du groupe trouve leur nouveau sergent sympathique, ce qui rendra son comportement futur d’autant plus difficile à accepter. Klumpenklug transmet une version des informations suivantes dans la conversation : 
+
+« _Y’a deux Ubersreik, vous voyez. Y’a celui que vous connaissez, celui du jour, et un autre complètement différent la nuit. Les Jungfreud ont fait de leur mieux pour que les ombres restent calmes, mais ils sont plus là maintenant. Et toutes sortes de choses ont émergé. Des gens disparaissent, partent ailleurs ou “dans la Teufel” comme on aime dire, dans le sens où ils ne respirent plus quand ils s’en vont, hein ? Maintenant, c’est notre boulot de garder un œil sur le mauvais côté d’Ubersreik. Nous ne patrouillerons pas la Colline, oh non, et Morgenseite n’est pas pour les gens comme nous. Nan, pour nous, c’est les Docks et la lie de la ville. Et quand vous êtes dans le Bastion, gardez aussi l’œil bien ouvert. Méfiez-vous des bandes importantes d’Altdorfers. Ils sont source d’ennuis. La plupart de mes camarades de la milice sont partis maintenant… ou sur le mur, avec les autres loyalistes. À part moi et le capitaine, et une poignée de personnes de confiance, vous êtes seuls maintenant. Je patrouillerai un peu avec vous, pour vous montrer ce qu’on attend de vous._ » 
+
+Après une soirée agréable, Klumpenklug conseille au groupe de bien se reposer cette nuit, et de le retrouver le lendemain en milieu de matinée près du Bureau de Douane ( **Ubersreik** , page 26). « À une époque on pouvait être de patrouille le jour _rois jours,_ ou la nuit comme on voulait. Mais c’est fini. C’est t _puis trois nuits maintenant._ » 
+
+## Rudi Klumpenklug, Sergent du Guet
+C’est un vieux courtaud grisonnant de près de soixante ans avec une barbe grise hirsute fréquemment fendue d’un large sourire affichant de larges dents jaunies, maître dans l’art de dissimuler ses intentions, poussant les autres à le considérer comme proche et inoffensif. Mais en réalité, c’est un salaud rusé sans aucune morale. 
+
+Klumperklug a été un partisan convaincu des von Jungfreud pendant des années, accomplissant leurs sales besognes et s’occupant de leurs intérêts, mais a toujours veillé à garder ses sympathies pour lui. 
+
+Quand il a senti le vent politique tourner, il a été l’un des premiers à dénoncer les Jungfreud, les traitant de tricheurs et de vauriens. Il a aidé les Altdorfers à pourchasser les loyalistes, ce en quoi il excellait, ce qui n’est pas très étonnant, car il en connaissait personnellement la plupart. 
+
+## Embranchements
+Jusqu’à présent, Pendant la Ronde a progressé linéairement, une scène après l’autre. Les scènes suivantes, et celles de la **partie 4 : Une cité tourmentée** (page 21), peuvent par contre être jouées dans le désordre. Par exemple, vous pouvez préférer mener « _Délits mineurs et amendes douteuses_ » et « _Au feu !_ » une fois que les Personnages auront rencontrés Eugen Pechvogel au début de « _Sans laisser de traces_ » avant de retourner à « _Choc de couleurs_ ». À part « Récompenses ! » (page 20), qui devrait être joué après quelques scènes, vous pouvez les utiliser dans n’importe quel ordre. Vous pouvez ajouter des scènes supplémentaires si vous le désirez, peut-être tirées de l’un des dix scénarios à la fin de ce livre. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **En Patrouille**
+Le lendemain, Klumpenklug guide les Personnages à travers Teubrücke, le quartier de la rivière, plus connu comme « les Docks ». Il indique aux Personnages plusieurs ruelles, où les criminels traînent la nuit, et plusieurs endroits où des gens ont été horriblement assassinés. Décrivez quelques-uns des commerces des Docks (Ubersreik, page 25) en faisant remarquer l’odeur omniprésente du poisson et de la rivière. 
+
+il prend la moitié du butin du voleur, qu’il met dans sa propre poche, avant de rendre la bourse à son propriétaire. « _Amende immédiate, pour avoir laissé votre bourse sans surveillance._ » Si les Personnages font un commentaire ou contestent, il répliquera du tac au tac, « _Il aurait rien récupéré si on ne l’avait pas chopé._ » Il donnera ensuite à chaque Personnage une pistole de l’amende avec un clin d’œil… 
+
+## **Au Feu !**
+Les taudis de la partie Nord-Ouest d’Ubersreik, près du Rocher Noir, sont surpeuplés, et abritent une grande misère. Klumpenklug prévient les Personnages de toujours faire attention lorsqu’ils patrouillent dans le coin, car leur équipement vaut plus que ce que la plupart des gens d’ici verront en un an. 
+
+Chacune des scènes met en avant la façon dont opère le Guet d’Ubersreik, et à quel point Klumpenklug est corrompu. Le Capitaine a commis une grave erreur en lui faisant confiance car il a été prompt à condamner les Jungfreud. Il lui rappelle son oncle bien-aimé, et elle a grand besoin de l’aide de quelqu’un d’expérimenté. 
+
+Entre les scènes, décrivez les Personnages vaquant à leurs occupations et le quotidien répétitif et fastidieux de la patrouille dans Ubersreik jour et nuit. Si vous possédez un exemplaire du Livre de base de **WFJDR** , vous pouvez également jouer quelques scènes Entre deux Aventures (page 192) pour marquer le passage du temps. 
+
+## **Délits Mineurs et Amendes Douteuses**
+Pendant qu’ils traversent un petit marché le long des Docks durant une patrouille de jour, faites faire aux Personnages un **Test Simple de Perception** . Quiconque réussit remarque un voleur à la tire coupant une bourse, et peut agir avant qu’il ne disparaisse dans la foule. Après une rapide poursuite, le voleur est facilement rattrapé par le Personnage qui obtient le DR le plus haut sur un **Test Spectaculaire d’Athlétisme** . Le Sergent Klumpenklug siffle d’admiration. « Bien joué ! » Puis 
+
+Alors que les Personnages patrouillent sur les Docks, tard dans la soirée, ils perçoivent une odeur de fumée. En tournant au coin de la rue, ils découvrent l’échoppe d’un boucher et le bâtiment au-dessus en flammes. Des gens sont pris au piège à l’intérieur, et les Personnages peuvent les entendre appeler au secours. Un attroupement s’est formé dans la rue, regardant l’incendie et hésitant sur la façon de s’en occuper. Klumpenklug observe le bâtiment en flammes un moment, puis hausse les épaules et reprend sa marche, en rappelant aux Personnages : « _On s’occupe pas des feux._ » 
+
+Si les Personnages choisissent d’aider, Klumpenklug ne les en empêche pas, mais il ne participe pas non plus. Il se procure une chope de bière, et boit calmement à l’écart en observant les évènements. Laissez les Personnages tenter tous les Tests qui leur semblent utiles, compte tenu des circonstances. Comme par exemple un **Test Simple de Commandement ou d’Intimidation** pour inciter la foule hésitante à former une chaîne de seaux depuis la Teufel pour aider à éteindre l’incendie. 
+
+Un Personnage peut vouloir entrer dans le bâtiment pour en faire sortir les hommes, femmes et enfants qui y sont piégés. Pour cela il doit réussir un **Test Simple de Calme** pour charger à travers les flammes. Il faut 3 Rounds pour faire sortir du bâtiment tous ceux qui s’y trouvent. 
+
+Quiconque se trouve à l’intérieur doit réussir un **Test Simple d’Athlétisme** à chaque Round ou s’enflammer et acquérir un État _En feu_ (voir la **Fiche de Référence des États** pour plus de détails). Si les Personnages sont parvenus à établir la chaîne de seaux, le Test devient un **Test Simple d’Athlétisme Accessible (+20).** 
+
+19
+Clément Gauche - gauche.c@gmail.com
+
+## **Narbe Ditwin**
+Les Personnages qui ont réussi à sauver tous les gens piégés à l’intérieur du bâtiment au péril de leur vie gagnent un bonus de +10 à tous leurs Tests basés sur la Sociabilité pour le reste de leur service au Guet, lorsqu’ils interagissent sans hostilité avec les pauvres d’Ubersreik. Par exemple, ils reçoivent le bonus lorsqu’ils utilisent **Charme** , mais pas **Intimidation** . Narbe Ditwin est l’une des personnes sauvées. C’est un homme maigre dont l’œil droit est barré d’une cicatrice distinctive. Son bras gauche a été gravement brûlé dans le feu. Il aide immédiatement et de son mieux à combattre l’incendie. S’il est sauvé, Narbe reviendra dans la **partie 5 : Le garde et le prisonnier** (page 25). 
+
+## **Investigations**
+Un Personnage qui souhaiterait enquêter sur la cause de l’incendie peut effectuer un **Test Spectaculaire de Ragot** . Une réussite indique que des gens du quartier ont entendu des cris et des bruits de lutte avant que le feu ne démarre. Avec 2 Degrés de Réussite ou plus, il rencontrera un témoin qui a aperçu des hommes masqués et aux lourdes capes, mettre le feu volontairement, puis se battre brièvement dans la rue avant de s’enfuir. La piste refroidit après cela jusqu’à la partie 5. 
+
+## **Choc de Couleurs**
+Les Personnages sont appelés pour une grosse bagarre au Marteau Tordu (Ubersreik, page 25). Gert Hunder, le tenancier, a du mal à restaurer l’ordre. D’un coup d’œil, les Personnages peuvent voir que le combat oppose un groupe d’hommes du Guet d’Ubersreik, plusieurs clients, et un petit groupe de soldats en tenues bleues et rouges d’Altdorf. Ils se battent à mains nues. Klumpenklug arrête tout Personnage qui s’apprête à s’en mêler. « _Plus facile de trier les coupables quand le combat est terminé et d’arrêter ceux à terre pour “trouble de l’ordre public.”_ » Si le Personnage insiste, il ne l’empêche pas de prendre part à la bagarre, il se sert simplement une pinte et regarde. 
+
+Les divers clients s’arrêtent immédiatement si un Personnage le leur ordonne. Les soldats d’Altdorf continuent à se battre jusqu’à ce qu’ils aient perdu au moins 4 Points de Blessures, ou que 3 d’entre eux soient à terre. Utilisez les caractéristiques de la **Foule de bagarreurs** (page 9), mais avec **CC 45** . Plusieurs des soldats sont en fait membre du Cercle de la Chair Immaculée et, selon la façon dont tourne le combat, peuvent proposer des Personnages pour une future adhésion ( **Ubersreik** , page 62). Les Personnages peuvent tenter de mettre fin à la bagarre d’une autre 
+
+façon, en utilisant les Compétences **Charme** ou **Intimidation** . S’ils parviennent rapidement à faire cesser l’affrontement sans que le lieu ne subisse davantage de dégâts, ils auront les faveurs des Croix ( **Ubersreik** , page 25), ce qui pourrait leur être utile au cours des évènements du paragraphe, **Un accord scellé, page 23** . 
+
+## **Le Marchand Pressuré**
+Le groupe tombe sur une bande de brigands tentant de dévaliser un marchand le long des Docks. Les vauriens semblent surpris, et le marchand reprend espoir en voyant Klumpenklug se diriger rapidement vers eux, les Personnages sur les talons. « _Qu’est-ce qui s’passe ?_ » Le marchand demande de l’aide à Klumpenklug qui reste impassible. Puis celui-ci se tourne vers le chef de la bande. L’homme regarde un peu autour de lui puis affirme « _Il nous doit les frais de chargement_ ». Klumpenklug acquiesce, se tourne à nouveau vers le marchand et lui dit « _Le mieux ce s’rait de payer ce que vous devez, l’ami._ » Le Sergent lance un regard perçant au chef de la bande, et poursuit « _C’est un bon conseil pour tout l’monde, hein ?_ » Puis il sourit et s’écarte en faisant signe aux Personnages de le suivre. Ceux-ci peuvent entendre le marchand se faire passer à tabac pendant qu’ils s’éloignent. Klumpenklug les enjoint de ne pas intervenir. « _Laissez-le._ » Alors qu’ils poursuivent leur patrouille, il explique : _« Vous voulez l’aider, hein ? Se mêler des affaires de la Guilde des Dockers est une façon de se suicider qui en vaut une autre, j’imagine. Ils ne le tueront pas. Tout rentrera dans l’ordre, et le Guet touchera son dû pour avoir eu l’obligeance de ne pas intervenir dans leurs affaires. »_ 
+
+Un Personnage qui enquête (prudemment) découvrira que le capitaine Pfeffer ne sait rien des pots-de-vin que la Guilde verse au Guet, et serait furieuse si elle l’apprenait. Ce sera très difficile à prouver, car Klumpenklug est très rusé. Quiconque informera le Capitaine s’attirera la colère du Sergent. Bien qu’il reste agréable, il considérera la personne comme « à éliminer » dès que possible. Un Personnage qui voudrait participer aura l’approbation du Sergent, et commencera à toucher l’équivalent de 3 pistoles de plus par semaine. 
+
+## **Récompenses !**
+Cette scène est un épilogue aux autres scènes de la partie 3, prévue pour être jouée après plusieurs d’entre elles, et peut-être même après qu’une des affaires de la Partie 4 est résolue. Les Personnages sont invités à une assemblée exceptionnelle avec le capitaine Pfeffer et le sergent Klumpenklug ainsi qu’un grand nombre de membres du Guet. Le capitaine Pfeffer remet au Sergent une médaille et une bourse de pistoles d’argent pour ses « actions rapides et audacieuses pour la défense d’Ubersreik ». Les « actions » évoquées sont en lien avec les scènes jouées, ou quoi que ce soit d’autre que les Personnages ont accomplis au moment où vous jouez cette scène. Par exemple : Klumpenblug a mis en place une chaîne de seaux pour éteindre l’incendie et s’est précipité dans le bâtiment en flammes pour sauver des innocents dans _Au feu !_ ; ou il a mis fin à un gigantesque affrontement avec des soldats d’Altdorf qui aurait pu mal tourner dans _Choc de couleurs_ ; ou bien encore qu’il a découvert la Terreur de la Teufel dans _Sans laisser de trace_ dans la Partie 4. C’est un vrai héros. Klumpenklug accepte la bourse et ajoute : « _Pas facile, avec les nouvelles recrues sur lesquelles il fallait veiller. Mais je n’aurai jamais de repos tant que l’injustice rôde à Ubersreik._ » Il poursuit en disant ce que vous jugerez à même de pousser vos Joueurs à souhaiter sa mort, et sourit triomphalement en soupesant la bourse pleine. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Partie 4 : Une Cité Tourmentée**
+Les semaines passées au sein du Guet ont enseigné au groupe que leurs camarades ne pouvaient moins se soucier des habitants d’Ubersreik. La majeure partie est écœurée par ce qu’elle vit comme une rétrogradation du rang de soldat d’Altdorf à celui de membre du Guet d’Ubersreik. La « formation » de Klumpenklug a mis en évidence qu’il considère que son travail consiste à maintenir le statu quo, plutôt que de faire respecter la loi, et il encourage les Personnages à « profiter » de leur mission comme ils l’entendent. À la longue, il laisse les Personnages patrouiller sans lui, mais attend toujours un rapport complet, qu’il reçoit soit le matin (après une patrouille de nuit), soit le soir (après une patrouille de jour), au Corbeau Enroué. Il s’attend également à recevoir sa part des « amendes » que les Personnages sont supposés infliger. 
+
+Des Personnages qui ne parviennent pas à réaliser la situation seront traînés devant le capitaine Pfeffer, qui leur dira sans équivoque que leurs performances sont inacceptables, et les menacera d’être dénoncés pour « manquement au devoir », ce qui dans leur cas conduirait à une condamnation à mort. Klumpenklug sera toujours présent lors des entretiens avec le Capitaine, car comme il ne veut pas qu’elle apprenne certaines choses sur le comportement du groupe, il pense devoir les garder à l’œil. 
+
+Malgré la situation dans laquelle se trouvent les Personnages, d’autres considèrent qu’ils représentent la _loi_ , et parfois, des demandes d’aides leur parviennent. Deux des affaires suivantes arrivent jusqu’à eux, et ils pourraient rechercher la troisième pour des raisons personnelles… 
+
+## **Sans Laisser de Trace**
+Alors qu’ils patrouillent dans les Docks, un pauvre garçon aux vêtements déchirés tente d’approcher les Personnages. Il affirme que son père a disparu. Il dit se nommer Eugen Pechvogel, et jure que son père n’aurait jamais abandonné sa famille. Un **Test Simple d’Intuition Accessible (+20)** confirmera que l’enfant croit sincèrement ce qu’il affirme. Eugen dit que son père, Reikert Pechvogel, a quitté leur cabane pour « vidanger », une nuit, et qu’il n’est jamais revenu. Eugen vit à Dunkelfeucht, un bidonville ( **Ubersreik** , page 30) qui s’étend dans l’ombre du pont. Si les Personnages croient Eugen et enquêtent sur ses dires, sa mère, Maglyn, est abasourdie que des gens du Guet s’en préoccupent. Elle confirmera l’histoire d’Eugen en pleurant, assurant que son mari est un homme fiable. 
+
+Un Personnage souhaitant récolter plus d’informations peut faire un **Test Spectaculaire de Ragot** pour interroger le voisinage, un échec apportant la rumeur que le père d’Eugen a sans doute pris part à quelque chose de dangereux et qu’il en a payé le prix. Un succès aboutit à quelque chose d’étonnant : Reikert Pechvogel n’est que l’un des nombreux disparus. Les Personnages découvrent qu’une douzaine de personnes a disparu le long des Docks. Un DR de +2 ou plus révèle qu’il ne s’agit pas seulement de mendiants, mais aussi des gens respectables, débardeurs, marchands, et même deux membres du Guet, tous disparus ! Dans la confusion qui règne avec la disgrâce des Jungfreud, les disparitions sont passées inaperçues, ou les gens ont pensé qu’ils avaient été exécutés comme loyalistes. Si le groupe demande à Klumpenklug ce 
+
+qu’il en pense, il s’en moque éperdument, faisant remarquer que les pauvres disparaissent tout le temps. Cependant, s’ils évoquent les autres disparus, il est surpris puis leur conseille de laisser tomber, arguant que les personnes disparues ont sans doute été tuées lors de la chute des Jungfreud. Un **Test Simple d’Intuition** réussi révèle que le Sergent en sait plus qu’il ne le dit ; en vérité, il sait qu’au moins quelques-uns des « disparus » sont des personnes qu’il a lui-même aidé à éliminer. 
+
+Des Personnages qui continuent à suivre la piste, en dépit de l’ordre de Klumpenklug, découvriront que la plupart des personnes disparues se sont évaporées le long des Docks, en général près du pont. S’ils indiquent clairement enquêter sur les Docks, près du pont, ils devront effectuer un **Test Spectaculaire de Perception** . En cas d’échec, ils attireront l’attention du Baron, le seigneur du crime qui règne sur le Dunkelfeucht. Le Baron croira à tort qu’ils enquêtent sur quelque chose que lui ou ses hommes ont fait, et enverra un nombre de brutes égal au nombre de Personnages +1 pour « décourager de plus amples investigations ». Les **sbires du Baron** ne cherchent pas vraiment à tuer des membres du Guet (cela attire trop d’ennuis), mais ils n’ont pas de scrupules à les battre comme plâtre, et si quelques-uns en meurent… Eh bien, ça arrive. L’affrontement avec les sbires du Baron peut pousser les Personnages à penser que celui-ci est impliqué dans la disparition de Reikert Pechvogel. Mais une rapide enquête auprès des habitants du Dunkelfeucht indiquera que celui-ci n’avait pas d’ennemis et qu’il prenait garde à ne pas fréquenter de criminels. 
+
+**LES SBIRES DU BARON** 
+
+M CC CT F E I Ag Dex Int FM Soc B
+4 50 30 30 40 30 30 30 30 30 30 12
+
+**Traits** : Arme +6 
+
+Si le Test de Perception est réussi, les Personnages découvrent un canot « abandonné » attaché à un ponton branlant. Une partie du bateau est rompue, comme si quelque chose d’une grande force avait tiré dessus. Un DR de +2 mène à un quai proche portant clairement les traces d’un affrontement. D’énormes marques de griffes creusent le bois. À un endroit, la pierre et le bois ont fusionné, comme si quelque chose les avait fait fondre… Un **Test Simple de Savoir (Trolls) Facile (+40)** indique que cela ressemble exactement aux effets du vomi de troll. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+Des Personnages persévérants arriveront à la conclusion que le coupable est sans doute un monstre, probablement un troll. Ils ont raison. Un abject troll de rivière inhabituellement astucieux se cache dans la Teufel, sous le milieu du pont. Il ne frappe que la nuit, lorsqu’il n’y a pas de témoin. Toutefois, personne n’y croira : tout le monde sait que les trolls sont stupides. Quelqu’un l’aurait certainement vu ; n’ont-ils rien de mieux à faire que de courir après de ridicules rumeurs ? Les Personnages devront élaborer un plan pour attirer le troll. Des appâts qui conviennent à ses goûts peuvent fonctionner (de façon générale des créatures vivantes, sans partie dure ni piquante qui cause des indigestions), tout comme n’importe quel plan raisonnable. Le troll perspicace et sournois émerge les nuits sans lune, les meilleures pour rôder sans être vu. 
+
+Tout combat contre la Terreur de la Teufel se produira quelque part dans le Teubrücke, de nuit, sur des pavés glissants ou sur un pont détrempé, avec le bruit de la rivière tout proche. Il y aura du brouillard, gênant la vue et rendant les attaques à distance **Difficiles** (-10 pour Toucher). Soulignez comme il est difficile de percevoir, même en tendant l’oreille, un bruit comme un grattement de griffes, quand une rivière murmure à côté. 
+
+La Terreur utilise une ancre rouillée et affûtée comme arme, en plus de sa gueule aux crocs acérés. Elle se battra jusqu’à ce qu’elle soit réduite à 20 Blessures ou moins, ou parvient à tuer un Personnage. Elle s’enfuira alors rapidement, sautant dans la rivière pour s’échapper à la nage, tirant le corps derrière elle pour un festin nocturne. 
+
+Même si le groupe échoue à tuer le troll de rivière, s’il parvient à le blesser, des témoins du combat (attirés par les bruits du combat et qui viennent voir ce qui se passe sur la rivière) pousseront les gens à les croire. Le capitaine Pfeffer (et même Klumpenklug) prendra soudain leur rapport au sérieux. Des soldats supplémentaires seront placés près du pont, et la Terreur de la Teufel s’en ira rapidement, peut-être pour créer des ennuis au groupe dans le futur. S’ils parviennent à tuer le troll de rivière, la réputation des Personnages auprès des habitants d’Ubersreik s’améliorera vraiment. Si le Tueur Hrolfsson a participé à la mort du troll, les autres nains le traiteront différemment en public, le saluant de la tête à son passage (ce qui sera utile lors de la prochaine affaire). 
+
+## La Terreur
+## **La Terreur de la Teufel, Troll de Rivière Rusé**
+**M CC CT F E I Ag Dex Int FM Soc B** 4 40 15 55 45 20 15 15 30 20 5 38 
+
+**Traits** : Amphibie, Arme +9, Armure (2), Dur à Cuire, Insensible à la douleur, Morsure +8, Régénération, Taille (Grande), Vision Nocturne, Vomissement 
+
+La Terreur de la Teufel est une créature terrible, capable de tuer l’ensemble du groupe avec un peu de chance. Il s’agit du premier combat où l’adversaire des Personnages a vraiment l’intention de les tuer. Soyez donc prêt à utiliser les règles de Coup Critique sur la **Fiche de Référence des Blessures** , et apprenez l’utilisation des États _Hémorragique_ et _Inconscient_ à partir de la **Fiche de Référence des États** . En fait, ce combat est si redoutable que certains MJ pourraient préférer l’éviter complètement… Il peut être également utile de remarquer que le Trait _Régénération_ du troll peut être bloqué par l’utilisation de feu, ce qu’un Personnage compétent en Savoir (Trolls) saura, sans avoir à effectuer de Test. 
+
+## Coups Critiques
+Comme il est mentionné en page 9, si vous faites un double pour toucher un ennemi (11, 22, 33, et ainsi de suite), que ce soit à distance ou au corps-à-corps, vous obtenez un Coup Critique si le Test est réussi (donc, égal ou inférieur à la Compétence ou à la Caractéristique testée). Vous pouvez également provoquer un Coup Critique quand vous vous défendez au corps-à-corps en utilisant votre CC, même pendant le Tour de votre adversaire. Les Coups Critiques peuvent se produire même si vous perdez le Test Opposé. Si vous réussissez un Coup Critique, vous infligez une Blessure Critique, comme décrit sur la **Fiche de Référence des Blessures** . 
+
+**Exemple** : _la Terreur s’élance et obtient 21 pour toucher, soit 2 DR. Molli tente une parade désespérée, et obtient 11 pour 1 DR. La Terreur gagne le Test Opposé de CC avec +1 DR, et 20 Blessures (1 + 9 pour l’arme, multiplié par 2 en raison de ses deux degrés de Taille d’écart avec Molli). Molli n’a qu’un bonus d’Endurance de 2, et pas d’armure au bras droit, elle subit donc 18 Blessures ; comme elle n’en a que 10, elle tombe donc à 0 Blessures, gagne 1 État À Terre, et encaisse une Blessure Critique (comme décrit sur la Fiche de Référence des Blessures). Le MJ fait un jet de 53 sur le Tableau des Blessures Critiques : Chairs Déchirées. Molli subit également 2 États Hémorragiques. Aïe ! Cependant, la Halfling a obtenu un 11 lors de sa défense, ce qui est un double, elle inflige donc un Coup Critique en retour ! Molli fait un jet sur e Tableau des Blessures Critiques, et obtient 78, Os fracturé. Le troll rugit lorsque son os craque, subit un État Sonné, perd 4 Blessures, et rate son test de Résistance, il subit donc un État À Terre. Le Troll devrait aussi subir un malus de -10 sur tous ses Tests, mais son Insensibilité à la douleur (cf p45) lui permettra de l’ignorer. Tous deux sont gravement blessés, mais le troll possède le Trait Régénération…_ 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Un Accord Scellé**
+Une nuit, alors que le groupe est de repos dans une taverne, un marchand, Kurlass Meingot, demande s’il peut leur payer une tournée et discuter d’une « petite affaire ». Ses raisons d’approcher le groupe dépendent de leurs actions précédentes. S’ils ont aidé des gens, il aura entendu parler d’eux en ville comme de personnes susceptibles de se préoccuper de ceux qui ont des ennuis. Sinon, il peut faire allusion à leur situation et au fait qu’il a conscience qu’ils en _« savent un peu plus sur la façon dont tourne le monde que la plupart des gens. »_ 
+
+## **Kurlass Meingot**
+Kurlass est un petit homme au sourire conquérant, toujours le premier à blaguer ou faire une boutade. Son humour va jusqu’à la dévalorisation, affirmant qu’il n’est bon à rien d’autre. Ce qui est plus ou moins vrai, si ce n’est qu’il est très doué pour convaincre les gens d’investir dans des projets apparemment rentables, puis de passer pour parfaitement innocent lorsque leur argent est « perdu » par quelque hasard malheureux. La seule chose à laquelle il est fidèle est Ranald, le dieu des Voleurs et de la Duperie. Le marchand « Kurlass Meingot » est un pseudonyme pour mener à bien des escroqueries à Ubersreik. Son véritable nom est Werner Sperren, bien que nul à Ubersreik ne soit au courant. 
+
+## **« Kurlass Meingot », Charlatan**
+**M CC CT F E I Ag Dex Int FM Soc B** 4 46 34 28 36 50 45 30 45 35 58 12 
+
+les autres marchands humains n’ont pu la visiter que pour y déposer leur argent. Cette chambre forte se trouve sous Dawihafen, juste endessous du Khazalgirt ( **Ubersreik** , page 23). Il affirme s’être rendu compte que quelque chose dans ce marché lui semblait « étrange », mais que les autres marchands ne l’ont pas cru. Ils lui ont dit que s’il voulait se retirer de l’affaire, il était libre, et qu’ils trouveraient bien quelqu’un d’autre pour prendre sa place. 
+
+En vérité, Kurlass a mis en place l’arnaque avec Barbedargent, le chef d’une petite bande de vauriens ayant décidé que leur amour de l’or était plus fort que leur désir d’un travail honnête. L’idée était d’attirer des marchands cupides avec une offre des plus alléchantes, de mettre leur argent dans une « chambre forte », puis par manque de chance, que des « gobelins » s’en emparent. Enfin, c’était le plan. Les intentions de Barbedargent sont _pas_ un bien différentes. Barbedargent, qui n’est définitivement adorateur de Ranald, a décidé que l’arnaque avait si bien marché qu’il allait tirer tout ce qu’il pourrait des marchands, puis les tuer tous dans un terrible « accident » qui les enfermerait dans la chambre forte hermétique, jusqu’à ce qu’ils suffoquent et meurent. Kurlass a surpris juste assez du plan des nains pour comprendre leurs intentions, mais il ne souhaite pas vraiment avouer aux marchands qu’il comptait les escroquer, pas plus qu’il ne souhaite leur mort (après tout, les victimes mortes ne peuvent plus être à nouveau arnaquées). Voilà pourquoi il s’adresse aux Personnages. Meingot sait que toutes les arnaques sont délicates. Il fait donc entrer les Personnages en jeu pour tout chambouler. Une fois qu’ils auront commencé à enquêter, il a pour intention de contacter Barbedargent, de lui dire que le Guet commence à poser des questions, et de suggérer de rendre leur argent aux marchands en déclarant que l’offre est annulée pour cause de problèmes avec les clans nains de Karak Azgaraz. 
+
+Meingot sous-estime ce que Barbedargent est prêt à faire pour conserver l’or. L’impitoyable chef de bande réagira rapidement s’il pense que le Guet est après lui. Il a déjà conclu que Meingot est un « tendre » et ne l’écoute plus. Barbedargent invitera les marchands à une réunion spéciale, laissant entendre qu’il a pu obtenir une offre meilleure encore et que leurs fonds actuels sont suffisants pour acquérir l’ouvrage forgé. Il mènera alors les marchands à la chambre forte sans Meingot, de façon à ce qu’ils puissent signer le contrat « final ». Le contrat de Barbedargent a plusieurs petites sections en Khazalid, la langue des nains, que les marchands ne savent pas lire. Il les mentionne comme de « simples formalités », obligatoires dans les contrats nains. C’est un mensonge. Les paragraphes en Khazalid établissent en fait ce qu’il advient des fonds dans l’éventualité de la mort des participants. Une fois le contrat signé, « l’accident » surviendra, enfermant les marchands dans la chambre-forte hermétique, qui ne pourra être ouverte avant le jour suivant. 
+
+**Compétences** : Charme 82, Esquive 67 
+
+**Talents** : Menteur (aucun Test d’Intuition ne permet de savoir quand Kurlass ment) 
+
+**Traits** : Arme +4 
+
+## **L’arnaque**
+Kurlass déclare qu’il pense avoir été escroqué avec d’autres collègues. Il explique que Barlin Barbedargent, un marchand nain, leur a proposé de mettre en commun leur argent pour profiter d’une remise fantastique sur un ouvrage issu du savoir-faire nain de Karak Azgaraz, dans les Montagnes Grises. Cet argent est désormais enfermé dans une chambre forte naine qui ne peut être ouverte qu’à certaines heures précises, avec les bonnes clés. Lui-même et 
+
+Meingot donne aux Personnages les noms des quatre autres marchands impliqués dans l’accord et où ils peuvent être trouvés sur les Docks ; Kahl Trubald, Hitzkoph Hinfaller, Theda Juwelier et Emagunda Handler. Trubald est un homme chauve qui vend régulièrement des armes. Hinfaller, au visage perpétuellement empourpré semble en colère contre le monde entier. Juwelier préfère le commerce des métaux précieux. Handler est issu d’une longue lignée de marchands qui vendraient père et mère si le prix leur convenait. Chacun d’entre eux est sur la défensive et extrêmement cupide, même pour des Marchands du Reikland. S’ils sont interrogés, ils s’indigneront de l’intrusion des Personnages. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+Ils expliqueront alors que Kurlass Meingot est un menteur et un tricheur, et que Barbedargent a découvert que c’était un adorateur de Ranald qui cherchait à tous les dépouiller. Se pencher sur le passé de Meingot est impossible. Tout ce qu’un Personnage peut découvrir à son propos, c’est qu’il s’agit d’un marchand qui voyage et vient à Ubersreik occasionnellement. Si les Personnages ont obtenu le soutien des Croix à la suite des évènements dans Choc de couleurs au cours de la Partie 3, ils peuvent confirmer que Meingot est un escroc, mais pieux. 
+
+Enquêter sur Barbedargent est délicat. Le Guet n’opère pas à Dawihafen ( **Ubersreik** , page 22). Heureusement, si Gunnar Hrolfsson est présent, ou si la Terreur de la Teufel a été abattue, les Personnages recevront un accueil relativement chaleureux de la part des nains, qui accepteront de leur parler. Un **Test Spectaculaire de Ragot** réussi leur indiquera où vit Barbedargent, et qu’il a une réputation déshonorante. Deux Degrés de Réussite ou plus confirmeront qu’il se méfie particulièrement des humains, et qu’il ne ferait pas commerce avec eux. S’ils rencontrent Barbedargent, il parlera avec les Personnages pour s’en faire une idée, et choisira l’une de ces trois options : 
+
+- Il clame son innocence, affirmant qu’il a été pris au piège par Kurlass Meingot 
+
+- Il offre le pot-de-vin considérable de 15 pistoles d’argent par Personnage pour fermer les yeux 
+
+- Il soutient qu’il est la partie lésée, puis attaque les Personnages avec des membres de sa bande, mais un peu plus tard. Barbedargent mène un nombre de Throngs (guerriers) égal au nombre de Personnage +2. Si Barbedargent tombe, ses brigands fuiront immédiatement. Si l’affrontement tourne en défaveur des Personnages, Meingot apparaîtra dans l’ombre pour les aider. 
+
+- Si Klumpenklug est présent, il prendra le pot-de-vin de Barbedargent et partira sans regret en suggérant aux Personnages d’en faire autant. 
+
+## **Barlin Barbedargent, Chef de Bande**
+M CC CT F E I Ag Dex Int FM Soc B
+3 55 30 48 51 30 20 30 30 65 35 20
+Traits  : Arme +8, Vision nocturne
+
+**LE THRONG DE BARBEDARGENT, VOYOUS** 
+
+**M CC CT F E I Ag Dex Int FM Soc B 3 45 30 40 45 30 20 30 30 50 20 16 Traits** : Arme +8, Vision nocturne 
+
+## **Barlin Barbedargent, Chef de Bande**
+Barlin Barbedargent joue le rôle du riche marchand nain avec aplomb. Il dirige ses opérations depuis une série de pièces que le clan Harataki a vendu il y a des décennies ( **Ubersreik** , page 23). Son gang est formé d’exilés Nains à bout d’options et de bons à rien. Il fait très attention à limiter ses vols et extorsions aux non-nains. 
+
+## **Meurtre En Chambre Close**
+Les Personnages ont trois jours, à partir du moment où Meingot les approche, avant que Barbedargent n’assassine les marchands. S’ils n’interviennent pas, la nouvelle se répand qu’un accident à Dawihafen a tué plusieurs humains. Selon leurs actions, les Personnages peuvent mettre pour cette fois en échec les plans de Barbedargent, mais difficilement sauver les marchands, désormais méprisants envers ceux qui se sont immiscés dans leurs affaires. Des Personnages rusés pourraient penser à les suivre jusqu’à la chambre forte, et prendre Barbedargent sur le fait. 
+
+La chambre forte est une construction naine particulière : elle ne s’ouvre qu’à midi, avec deux clés uniques, et se ferme environ 30 minutes plus tard. Elle ne peut plus être ouverte jusqu’au lendemain. Les marchands ont confié 100 Couronnes d’Or à l’impitoyable nain. Si les Personnages sont eux-mêmes sans pitié et s’emparent de l’or sans sauver les marchands, Meingot aura vent de leur duplicité et n’aura de cesse de les voir punis pour leurs crimes. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **La Monnaie de la Pièce**
+Le groupe pourrait être _très_ motivé pour découvrir celui qui a tué Fosten l’Ardent. Cela nécessitera un **Test Simple de Ragot Difficile (-20)** sur la Marktplatz. Un échec implique que le Personnage entend une douzaine d’avis différents sur le coupable (y compris eux-mêmes, car certains persistent à les accuser) sans réel indice. Une réussite indique qu’ils finissent par trouver quelqu’un qui se rappelle l’intervention d’Einauge Spaltmann. 
+
+## **Einauge Spaltmann**
+Spaltmann est une brute mercenaire dont l’esprit s’est récemment assombri. Pour des raisons inconnues, il a découvert qu’il pouvait voir avec son œil mort et laiteux ; en fait, grâce à lui, il peut même voir dans les pièces sans éclairage. Spaltmann porte une arbalète lourde sophistiquée, avec un système de double corde qui lui permet de tirer deux fois avant de devoir recharger. 
+
+## **Partie 5 : le Gardien et le Prisonnier**
+La Partie 5 commence deux semaines après les évènements de Récompenses ! (page 20). À ce moment, il est peu probable que le Sergent Klumpenklug soit la personne préférée du groupe. Un jour après que les Personnages ont interrompu une bagarre, une femme bien bâtie d’une cinquantaine d’années les approche. Elle regarde le travail du groupe et hoche la tête en signe d’appréciation. « _Loués soient les dieux ! Vous ai trouvés. Mon nom : Ilse Fassenwütend. Patrouilleur routier. Ai un boulot pour vous. Ça vous débarrassera de Klumpenklug. Et de tout le Guet ! Si ça vous intéresse, retrouvez-moi ce soir au Cochon qui Explose. Je vous expliquerai tout là-bas._ » Elle s’éloigne avec un signe de la main en ignorant toute autre question. 
+
+## **Ilse Fassenwütend, Patrouilleur Routier**
+Fassenwütend a eu une existence difficile. Ses cheveux couleur bronze sont striés de blanc, et une longue cicatrice va de son œil droit jusqu’à sa mâchoire. Elle boit habituellement à une vieille flasque. Tout ce qui lui appartient est usé ou désordonné, à l’exception de ses pistolets immaculés. Leurs poignées de bois sont polies, l’acier qui les constitue est méticuleusement huilé, et ils sont prêts à faire feu à tout instant. 
+
+Un Personnage qui se renseignerait sur elle peut faire un **Test Spectaculaire de Ragot** . Un échec implique qu’il n’apprend rien. Une réussite l’informe qu’elle est concentrée sur son travail, et qu’elle a la réputation de terminer ce qu’elle a commencé. Avec 2 Degrés de Réussite ou plus, il apprendra qu’elle a été considérée comme le meilleur Patrouilleur routier du Duché, mais qu’elle a été rétrogradée après avoir perdu tous ses hommes, il y a 5 ans. Personne ne connaît les circonstances de cette perte. 
+
+## **Einauge Spaltmann, Spadassin**
+M CC CT F E I Ag Dex Int FM Soc B
+4 63 66 32 53 37 38 30 24 49 27 22
+
+**Compétences** : Intimidation 51 **Traits** : À Distance +9 (100), Arme +7, Armure (1), Corruption, Infravision 
+
+## **Garder À L’œil**
+Benedict Gurkenfeld a engagé Spaltmann pour monter la foule contre les bateleurs de la Merveilleuse Cavalcade de Betse Wooster. L’acteur et propriétaire du Théâtre de Variétés ( **Ubersreik** , page 34), pensait à quelques jets de tomates, voire quelques échauffourées, mais pas à une bagarre générale et à un meurtre ! Contre quelques pièces d’argent, les Personnages pourront engager des gens pour surveiller le retour de Spaltmann aux Docks d’Ubersreik. Spaltmann est un homme dangereux, mais selon sa propre « éthique », il ne dénonce jamais un client. Il n’impliquera donc pas Gurkenfeld. Et, s’il est provoqué, il ne restera pas sans rien faire. 
+
+## **Ilse Fassenwütend, Patrouilleur Routier**
+M CC CT F E I Ag Dex Int FM Soc B
+4 50 64 42 46 45 26 33 29 56 49 17
+
+**Traits** : Armure (1), À Distance +8 (20), Arme +8 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Sus au Cochon !**
+Fassenwütend se montre au Cochon qui Explose ( **Ubersreik** , page 35) en début de soirée. Elle est tendue car elle est « _affreusement sobre_ . » Elle remercie les Personnages d’être venus, et leur raconte l’histoire suivante : 
+
+_« Il y a un prisonnier. Tailleur de pierres. Nom Maurer. Bâtard impitoyable. A beaucoup tué. L’ai assommé proprement. A été jugé. Déclaré coupable. Attend son exécution. Tout est pour le mieux, hein ? En fait, non. Bons ou mauvais, le Reikland tient compte des signes. Les signes sacrés. Si l’exécution d’un prisonnier est prévue et que quelque chose se passe mal, l’exécution est suspendue. La hache de l’exécuteur casse, la foudre frappe le billot, et on décale. La plupart du temps, la seconde exécution est la bonne. Mais pas toujours. Parfois quelque chose d’autre se produit. Alors on décide d’une troisième date. Une dernière date. Vous voyez, si la troisième exécution va de travers, on considère que la “Volonté des dieux” protège un innocent, et le prisonnier est libéré. Pleinement pardonné. Par deux fois, Maurer est allé au billot. Par deux fois, il en est revenu. L’homme est mauvais. C’est sûr. Les Dieux Sombres veillent sur lui. La date de sa dernière exécution approche, mais les hommes du Guet ont tous de bonnes excuses pour ne pas y prendre part. Poules mouillées…_ 
+
+_C’est là que vous entrez en jeu. Connais Klumpenklug depuis un bail. Véritable ordure. Me suis renseignée sur vous. Appris que vous pourriez chercher à vous en libérer. Et du Guet. Donc, voilà mon offre : vous escortez Maurer au billot avec moi, dans quatre jours, et je ferais commuer votre peine pour service rendu et même plus. Plus de peine de mort. Plus de sergent “sac à merde” Klumpenklug. Libres et disculpés. Qu’en dites-vous ? »_ 
+
+Si vous êtes parvenu à rendre Klumpenklug vraiment insupportable, les Personnages pourraient accepter immédiatement ! Il est également possible qu’ils veuillent pouvoir y réfléchir. Fassenwütend l’accepte, mais avertira qu’il lui faut une réponse dans les deux jours, sinon elle devra recruter ailleurs. Si les Personnages acceptent sans attendre, elle les informe qu’elle les verra le jour précédant l’exécution pour reconnaître le chemin. Les condamnés sont habituellement exécutés sur la Thulmannplatz dans Ubersreik. Mais Maurer sera escorté jusqu’aux abords des Jardins de Morr où il sera décapité au lever du soleil. 
+
+Les deux questions que le groupe est le plus susceptible de poser sont : 1) Pourquoi Fassenwütend a-t-elle besoin d’eux ? 2) Pourquoi le Guet n’apporte-t-il pas son aide ? À la première, elle marmonne : « _Hmm. J’attends du grabuge. L’homme est mauvais_ . » À la seconde : « _Lâcheté et superstition. L’ancien sergent du Guet, Sen-machin-chose, n’avait ni l’un ni l’autre. Persuadait les autres. Mais elle était loyale aux Jungfreud. Donc maintenant, elle n’est plus là. La nouvelle équipe d’Altdorf ne bougera pas son cul._ » 
+
+Si un Personnage l’interroge sur la perte de ses hommes cinq ans plus tôt, Fassenwütend le regarde un long moment avant de secouer la tête. « _Une bande d’hommes-bêtes. Des saletés malignes. Commencèrent à prendre des routes marchandes comme cible. Frappaient dans l’obscurité. Massacraient toutes les caravanes. Disparaissaient. Les mois passaient. Finalement on a trouvé où ils étaient. Tendu une embuscade… Hrmm. Des mutants dans ma troupe. Ont averti les hommes-bêtes et retourné l’embuscade contre nous. Je m’en suis sortie. Pas les autres. »_ 
+
+## **Battre le Pavé**
+Les Personnages peuvent souhaiter enquêter avant de s’engager à aider Fassenwütend. Ils peuvent apprendre les informations suivantes. 
+
+## **Statut Légal**
+Un Personnage doté de Savoir (Droit) saura spontanément que Fassenwütend dit vrai en ce qui concerne le sursis à l’exécution. Un groupe sans cette Compétence pourra faire appel au maître du barreau Winandus. Osanna sera ravie de les voir. Elle leur offre un conseil juridique au prix d’une pistole car elle s’est attachée au groupe. Elle ne connaît pas bien le cas Maurer, mais elle a entendu parler de Fassenwütend : « _Dure comme l’acier, ai-je entendu dire. »_ Osanna confirme également que le patrouilleur routier a assez d’influence pour faire commuer une peine, mais poursuit : _« Sûrement pas pour une simple escorte. Elle s’attend à de la violence. Le tribunal n’accepterait pas sa requête sinon._ » Le dernier conseil d’Osanna : « _Faites en sorte d’avoir un document écrit, avec signature_ . » 
+
+## **Au Guet**
+Il n’est pas difficile de découvrir pourquoi le Guet ne veut pas se mêler de l’affaire Maurer : ses membres pensent qu’il est maudit. Tous les hommes du Guet ayant escorté Maurer lors de ses deux exécutions précédentes ont disparu. Certains étaient des partisans des Jungfreud, d’autres ont eu d’étranges accidents : plusieurs se sont noyés loin de la rivière, d’autres ont juste disparu (peut-être dans l’estomac de la Terreur de la Teufel ?) Tous les nouveaux hommes du Guet ont entendu dire qu’il fallait dire « non » à tout ce qui concerne Maurer, et c’est ce qu’ils font. 
+
+Le cas de Maurer date d’avant l’arrivée du capitaine Pfeffer, mais elle a conservé tous les dossiers, bien rangés. Maurer a été accusé, jugé et déclaré coupable de plusieurs meurtres, notamment ceux de deux membres du Guet, trois patrouilleurs fluviaux et deux patrouilleurs routiers. Fassenwütend faisait sans doute référence à l’ancien sergent Lenora Sendener, qui a quitté le Guet peu après la seconde tentative d’exécution de Maurer, avant l’exclusion des Jungfreud. Personne ne sait ce qu’elle est devenue. Des Personnages qui voudraient accéder à ces informations sans alerter le capitaine Pfeffer, ni mettre le sergent Klumpenklug au courant de ce qu’ils font, auront besoin, soit d’une histoire très convaincante, soit de s’introduire dans le bureau du Capitaine pour accéder à ses dossiers. La porte de Pfeffer est fermée, et demande un **Test** pour être ouverte. **Spectaculaire de Crochetage Difficile (-10)** Un Échec signifie que les Personnages ne peuvent entrer ; un Échec Impressionnant, que le Capitaine les prend sur le fait et qu’ils vont devoir fournir de bonnes explications. N’importe quel Degré de Réussite ouvre la porte. 
+
+Si Klumpenklug en entend parler, il pâlit et leur dit « _Vous ne voulez pas participer à ça. Maurer est maudit_ », puis donne l’ordre aux Personnages de ne pas s’en mêler. Si ceux-ci s’adressent directement au Capitaine au sujet du cas Maurer, elle aura l’air troublée et répondra qu’on lui a dit que ce serait des soldats d’Altdorf, et non du Guet, qui sont supposés escorter le tailleur de pierres jusqu’à son exécution. C’est très anormal. Les Personnages devront réussir un **Test Opposé de Charme/ Calme** contre le Capitaine pour la convaincre de les autoriser à escorter Maurer, ou de passer outre Klumpenklug. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **En Ville**
+Un **Test Simple de Ragot Accessible** (+20) donnera des informations sur Maurer. Beaucoup d’informations. Mais pas vraiment de consensus. Certains jurent qu’il est innocent. D’autres affirment que c’est un démon sous forme humaine. Tous sont d’accord pour dire que c’est un tailleur de pierres talentueux qui pouvait débiter n’importe quelle pierre, même les plus difficiles, et avec précision. Des Personnages obtenant une réussite se verront conseiller de parler à sa fiancée, Kristyn Gebauer, et seront dirigés vers l’endroit où elle vend divers objets sur la Marktplatz. 
+
+Gebauer s’avère être une jeune femme agréable qui vend divers outils pour le compte d’un Marchand. Elle est profondément convaincue que son fiancé est innocent. « _Il a bien tué ces hommes, mais c’était de la légitime défense. Ils lui ont dit des choses terribles, qu’il était l’un d’entre eux, alors qu’il ne les connaissait pas. Lorsqu’il les a rejetés, ils ont tenté de s’emparer de lui par la force._ » Elle ne sait pas ce que sont les « choses terribles », car Maurer ne le lui a pas dit. Elle ne sait pas plus pourquoi ces hommes voulaient Maurer. « _Holger est un homme bon. J’ai prié Verena que quelqu’un l’aide avant qu’il ne soit trop tard._ » Un **Test Simple d’Intuition** réussi indiquera qu’elle est sincère. 
+
+Des Personnages partant à la recherche de Lenora Sendener rencontreront plus de difficultés, car elle ne désire pas être retrouvée. Une réussite à un **Test Simple de Ragot Difficile (-20)** est nécessaire pour obtenir l’endroit où trouver l’ancien sergent du Guet. La Difficulté peut être diminuée d’un niveau par tranche de 5 pistoles dépensées par un Personnage dans ses recherches. Une réussite signifie que le Personnage découvre que Sendener a rejoint les patrouilleurs fluviaux et revient rarement à Ubersreik, mais qu’elle s’y trouve actuellement, à la taverne de la Lune Rouge, sur les quais ( **Ubersreik** , page 28). 
+
+Sendener est une femme brusque et nerveuse aux cheveux argentés, hâtivement attachés par un cordon serré. Elle ne semble pas surprise de voir le groupe. « _Certains dossiers ne se referment jamais. Holger Maurer… Faites-vous une fleur : passez votre tour. Rien de bon ne sortira de tout cela. Vous savez que les hommes qui ont accusés Maurer de ses crimes sont tous morts sauf un ? Un boucher nommé Narbe Ditwin. J’ai entendu dire que sa boutique avait entièrement brûlé. Dommage qu’il n’ait pas connu le même sort._ » Les Personnages qui ont aidé les gens lors de l’incendie de la Partie 3 peuvent être ceux qui ont sauvés Ditwin, amusez-vous à le leur rappeler. Sendener ne dira pas grandchose de plus, à part ceci : « _Il y a des choses dans ce monde… si jamais vous les découvrez, vous souhaiterez les oublier. Pour ma part, je pense que Maurer est innocent, mais ça n’a pas d’importance. Ils le veulent._ » Un Personnage qui tente d’utiliser la Compétence **Intimidation** sur Sendener, ou la menace de l’arrêter, sera accueilli par un grand rire. Elle sortira son insigne de Capitaine de la patrouille fluviale. « _Sa Majesté Impériale n’est pas d’accord avec vous. Il est temps de passer à autre chose. Sigmar soit avec vous_ . » 
+
+## **Une Décision Difficile**
+Les Personnages ont deux jours pour décider d’aider ou non Fassenwütend. S’ils refusent, elle se moque « _Une autre bande de lâches. Très bien._ » Elle engagera des mercenaires pour l’assister, car elle pense que des soldats, quels qu’ils soient, seront inadaptés. Voyez l’encart **Nous ne voulons pas être mêlés à ça** . Si le groupe accepte de l’aider, Fassenwütend explique immédiatement la route à suivre. Ils la retrouveront une bonne heure avant l’aube dans un poste de guet sur la rive sud de la Teufel où ils prendront 
+
+en charge le prisonnier, puis escorteront Maurer le long de la rivière, sortiront d’Ubersreik par la porte Ouest, et le mèneront jusqu’aux Jardins de Morr où le billot l’attend. Le Patrouilleur routier acceptera facilement de coucher leur accord par écrit, de le signer et d’y apposer un sceau, si le groupe le demande. 
+
+## Nous Ne Voulons Pas Être Mêlés À Ça
+Les Personnages peuvent prendre au sérieux les différents avertissements qu’ils reçoivent et décider, quelle qu’en soit la raison, qu’ils ne veulent pas s’en mêler, laissant Maurer à son destin. Si cela se produit, des prédictions réalisées par des membres de la Poigne Changeante montreront que les Personnages peuvent être un obstacle pour leurs plans. 
+
+La nuit avant l’exécution de Maurer, peut-être pendant que les Personnages rentrent chez eux après une soirée dans une taverne, Diebold Bedrohung et les autres mutants se jettent sur eux dans l’obscurité en hurlant « _Vous n’aurez pas notre frère !_ » Ils ne partiront qu’une fois qu’ils auront incapacité ou tué deux des PJ, ou perdu deux des leurs. Si les Personnages ne se tournent pas ensuite vers le Patrouilleur routier, ils entendront le lendemain qu’elle a été tuée le long des Docks, aux côtés des mercenaires qu’elle avait engagés, et que Holger Maurer s’est enfui on ne sait où. Si vos aventures se poursuivent, assurez-vous que Maurer, désormais au service de Tzeentch, le dieu du Chaos du Changement, revienne se venger d’eux. 
+
+## **À la Lueur de Morrslieb**
+Le matin de l’exécution de Maurer est glacial, et Ubersreik est couverte d’un épais brouillard. La lune du Chaos, Morrslieb, est haute, pleine et bien plus grande qu’à l’accoutumée. Elle diffuse dans le ciel une lueur d’un vert maladif, qui éclaire bien peu la brume, mais lui offre des reflets étranges donnant l’impression que les ombres bougent de façon inexplicable. 
+
+Si ce sont les Personnages qui sont officiellement affectés à l’escorte de Maurer, seule Fassenwütend les attend au poste de guet. Deux soldats se dépêcheront de leur confier le prisonnier enchaîné avant de retourner immédiatement à l’intérieur et de s’y barricader. Sinon, deux soldats portant la livrée d’Altdorf, visiblement effrayés, attendront avec le Patrouilleur routier. Ils affichent leur soulagement à l’arrivée des « renforts » que forme le groupe. À la pâle lueur de la lanterne de Fassenwütend, Holger Maurer s’affaisse. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Holger Maurer, Tailleur de Pierre**
+Maurer est un homme à la carrure imposante d’environ 25 ans. Ses cheveux sombres sont tondus. Ses grands yeux verts sont troublants : il ne semble pas ciller souvent, et son regard est pénétrant. Sa voix est profonde mais douce. Il semble terriblement fatigué, hagard, et sa courte barbe est négligée. 
+
+proches de la boue que de l’eau. On peut voir des poissons morts nager dans ses profondeurs, les orbites emplies d’un feu bleu et rose, et leurs os illuminés. Pendus au pont, les cadavres en décomposition des partisans des Jungfreud luttent pour se débarrasser de leurs nœuds coulants, se griffant la gorge de leurs mains osseuses ou tendant leurs mains vers le groupe en implorant leur aide. Alors que le groupe passe sur le pont, un pseudopode d’eau noire jaillit de la rivière et attrape presque négligemment un pêcheur solitaire sur un quai (ou l’un des gardes escortant Maurer, le cas échéant), l’entraînant dans le courant pour y être déchiqueté par les poissons squelettes. Il est temps de faire un **Test Spectaculaire de Calme** pour résister au Trait Peur. Voir page 46 pour une explication de la Peur. 
+
+## **La Poigne Changeante Arrive**
+Une voix forte traverse le brouillard, semblant surgir de partout à la fois : « _Tu es des nôtres, frère Holger._ » Fassenwütend, pâle mais déterminée, hurle « _Montre-toi_ », et s’élance, dégainant un pistolet d’une main tout en tenant sa lanterne de l’autre. Faites faire à tous les Personnages un **Test Simple de Perception** , à l’exception de ceux qui sont toujours sous l’emprise de la Peur (ils ratent ce Test automatiquement). Ceux qui échouent sont _Surpris_ par les silhouettes qui surgissent du brouillard. Les disciples de Tzeentch, le dieu du Chaos du Changement, sont venus réclamer leur dû. 
+
+**HOLGER MAURER, MAÎTRE ARTISAN** 
+
+**M CC CT F E I Ag Dex Int FM Soc B** 4 55 26 58 47 29 30 58 39 48 37 17 
+
+**Compétences** : Intimidation 69, Métier (maçon) 82 **Traits** : Arme +5 (poings enchaînés), Immunité à la psychologie, Regard clairvoyant 
+
+Les attaquants sont une bande de mutants appartenant au culte du Chaos de la Poigne Changeante ( **Ubersreik** , page 62). Ils cherchent depuis longtemps à convaincre Maurer de faire allégeance à leur terrible maître. Les hommes que Maurer a tués étaient tous des cultistes de la Poigne Changeante, y compris le camarade du Patrouilleur routier (bien qu’elle l’ignore). Diebold Bedrohung, l’un des agents les plus compétents de la secte, dirige les mutants. 
+
+## **Diebold Bedrohung et les Cultistes Mutants**
+## Don : Regard Clairvoyant
+Maurer a la capacité unique de voir les défauts des choses qu’il regarde ou examine pendant un moment. Il a principalement utilisé ce don pour trouver le meilleur moyen de briser des pierres. Le dieu du Chaos Tzeentch sait que le don de Maurer pourrait être utilisé comme une arme terrible, car il peut également voir les défauts des gens, des organisations, des gouvernements… et trouver facilement comment les détruire s’il le désire. Si Maurer observe un adversaire en combat en guise d’Action, lors de l’Action suivante, son attaque ignore le Bonus d’Endurance et les Points d’Armure. 
+
+## **Vivant Sans Souffle, Froid Comme la Mort**
+Fassenwütend adresse à Maurer un regard hostile. « _Pas d’accident cette fois-ci. Jusqu’aux Portes de Morr avec toi_ . » Le tailleur de pierre répond doucement, « _C’est à Sigmar de décider._ » Le Patrouilleur routier renifle, moqueuse, et se met en marche à un rythme soutenu. Faites faire aux Personnages un **Test Simple de Perception Facile** (+40). En cas de réussite, ils réalisent que malgré l’allure rapide, ils n’entendent pas l’écho de leurs pas dans l’épais brouillard vert. 
+
+Lorsque les Personnages atteignent les Docks le long de la rive de la Teufel, la brume se lève partiellement, leur offrant une vue dégagée sur la rivière et le pont. Les flots rougis ont changé. Ils sont devenus épais, visqueux et silencieux, plus 
+
+Bedrohung est énorme, avec une peau marbrée de la couleur du bronze terni, et des yeux semblables à ceux d’un gigantesque hibou. Lorsqu’il est blessé, il « saigne » du laiton fondu. Il se bat avec une épée acérée, tout en demandant continuellement à Maurer pourquoi il ne rejoint pas ses « frères » pour tuer l’escorte qui le mène à la mort. 
+
+Il y a autant de mutants de la Poigne Changeante que le nombre de Personnages +3. Les mutants sont équipés de gaffes à crochet assez aiguisées. Tous sont vêtus de robes sombres et arborent des mutations visibles. La peau transparente de l’un d’entre eux laisse voir ses os et ses muscles. La gorge distendue d’un autre le fait ressembler à une grenouille. La première fois qu’un coup lui inflige des dommages, le mutant batracien vomit un torrent de poissons pourris, d’os et de bile sur son attaquant. 
+
+Celui-ci doit faire un **Test Simple d’Agilité** ou perdre immédiatement tous ses Avantages, et perdre 5 Points de Blessure qui ignorent l’Armure. Les autres mutations sont purement esthétiques et peuvent prendre la forme que vous préférez : peut-être des plumes colorées se tordant en forme de visages en pleurs, des furoncles renfermant des lumières rougeoyantes, ou une peau qui se détache sans cesse, et dont les morceaux se changent en larmes lorsqu’ils tombent. 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Diebold Bedrohung, Cultiste Mutant**
+**M CC CT F E I Ag Dex Int FM Soc B** 4 42 27 43 66 30 27 36 41 48 40 16 
+
+**Traits** : Arme +8, Armure (3), Corruption, Insensible à la douleur, Mutation, Sang corrosif, Vision dans le noir, 
+
+## **Cultistes Mutants de la Poigne Changeante**
+**M CC CT F E I Ag Dex Int FM Soc B** 4 30 30 30 30 30 30 30 30 30 30 12 **Traits** : Arme +6, Corruption, Mutation 
+
+29
+Clément Gauche - gauche.c@gmail.com
+
+Ajoutez un mutant supplémentaire si les Personnages ont sauvé Narbe Ditwin lors de la scène **Au feu !** au cours de la Partie 3 (page 16). Narbe jaillit du brouillard, son torse nu révélant de brillantes écailles roses et turquoise ! S’il est reconnaissant aux Personnages de lui avoir sauvé la vie, il ne le montre pas lorsqu’il frappe avec sa gaffe en grimaçant, alors que la lumière verte de Morrslieb se reflète dans ses yeux vides. 
+
+En raison du brouillard épais, toutes les attaques à distance sont **Difficiles (-20).** Après le Round 1, Maurer plonge dans la mêlée pour aider le groupe en invoquant le nom de Sigmar, frappant les mutants de ses mains enchaînées, jusqu’à ce qu’il puisse s’emparer d’une gaffe et s’en servir (considérée comme le Trait _Arme +8_ entre ses mains). Il utilisera son Trait _Regard clairvoyant_ avant d’attaquer, ce qui veut dire qu’il dépensera 1 Round pour étudier son adversaire. Fassenwütend se joint immédiatement au combat, tirant avec chacun de ses pistolets avant d’empaler tous ceux qu’elle pourra sur son épée. 
+
+Si plus de la moitié du groupe est vaincue, Maurer est pris et un morceau de tissu est maintenu sur son visage par un tentacule. Il s’effondre, inconscient, et les mutants disparaissent avec lui, les autres faisant rapidement retraite. Les Personnages devront partir à leur poursuite ou accepter leur échec. Le patrouilleur routier ne les aidera pas si cela se produit. Tuer Bedrohung provoquera la fuite des autres Mutants. Il ne cessera de se battre, ou d’implorer Maurer, jusqu’à sa mort. Maurer crache sur son corps. Si les Personnages lui demandent pourquoi il les a aidés, il hausse les épaules avec un sourire : « _C’était des mutants._ » Une fois que la Poigne Changeante abandonne, la lumière change alors que le ciel s’éclaire à l’est, et que la lumière de Morrslieb s’estompe. 
+
+## **Moment de Vérité**
+Après avoir repoussé l’attaque de la Poigne Changeante, Fassenwütend et les Personnages survivants franchissent la Porte de la Rivière sans problème, et poursuivent leur chemin jusqu’au lieu de l’exécution. Les murs de pierre en ruine des Jardins de Morr se dressent au nord-ouest, sombres et menaçants, même dans la lumière naissante. Maurer se jette à genoux, joint les mains et murmure soudain : « Sigmar, viens au secours de ton serviteur. Je n’ai fait aucun mal. » 
+
+Le Patrouilleur routier a une Force Mentale de 56, si d’aventure un Personnage souhaitait tenter de la persuader de laisser partir Maurer. Il ne lui reste que 7 Points de Blessure s’ils désiraient la convaincre par un autre moyen. 
+
+Si les Personnages ne tentent rien, Fassenwütend mène Maurer jusqu’au billot, où un bourreau cagoulé l’attend à la limite des Jardins de Morr. Maurer prie Sigmar en prenant sa place près du billot et en y posant sa tête. Fassenwütend monte la garde près de lui. Le bourreau lève haut sa hache et dit distinctement : « _Non. Pas Sigmar_ . » Puis il l’enfonce dans le crâne de Fassenwütend. Les yeux du bourreau brillent d’un vif éclat rose à travers sa cagoule, et il éclate de rire, alors qu’il se fond dans le sol avec un Maurer stupéfait et tout le billot d’exécution par la même occasion, puis le sol reprend sa place initiale comme s’ils n’avaient jamais été là. 
+
+Tous les Personnages assistant à cette scène doivent faire un **Test Simple de Calme** ou gagner 1 Point de Corruption. Avec un peu de chance, ils ont une trace écrite de l’accord avec le Patrouilleur routier. 
+
+Si Maurer est libéré de quelque façon que ce soit, il est médusé et les remercie les larmes aux yeux : « _Je jure sur mon âme que je n’oublierai pas ce que vous avez fait, jusqu’à la fin de ma vie. Que Verena vous guide, et que Sigmar vous protège_ . » Il leur demande une dernière faveur : que les Personnages contactent discrètement Kristyn Gebauer et lui demande de venir le retrouver à Auerswald. 
+
+## **Conséquences**
+Selon comment tout s’est déroulé, les Personnages peuvent avoir l’appui de Fassenwütend pour quitter le Guet, ou une lettre d’elle qui garantit que leur peine est commuée. Mais après tout, Fassenwütend pourrait être morte, et les Personnages coincés dans le Guet avec Klumpenklug pour plusieurs années. S’ils ont sauvé Maurer, un jour, dans un an ou deux, une bourse contenant 5 Couronnes d’Or parviendra à chacun d’entre eux par l’intermédiaire de la Guilde des Tailleurs de Pierre. Mais si Maurer succombe aux Dieux Sombres, il pourrait revenir en tant que Champion du Chaos au service de l’Architecte du Destin, et tout le Reikland en souffrira… 
+
+## Corruption !
+S’opposer aux Dieux du Chaos vous mène souvent à approcher leurs ignobles manifestations. Lentement, mais sûrement, cette exposition corrompt votre âme autrefois pure. Les Points de Corruption sont utilisés pour montrer la dérive progressive de votre âme vers les Sombres Dieux du Chaos. Chaque fois que vous faites face à une source potentielle, vous risquez d’acquérir de nouveaux Points de Corruption. Plus vous en avez, plus vous êtes attiré par le Chaos, plus votre âme s’assombrit, jusqu’à ce qu’un jour, tôt ou tard, vous _changiez_ … 
+
+Les effets à long terme des Points de Corruption dépassent le cadre de cette Boîte d’Initiation. Pour en apprendre plus à leur sujet, consultez le Livre de base de **WFJDR** . 
+
+Clément Gauche - gauche.c@gmail.com 
+
+## **Félicitations !**
+Félicitations ! Vous avez terminé Pendant la Ronde. Avec un peu de chance, il n’y a pas eu trop de pertes ! Mais il n’y a aucune raison d’en rester là. Il reste beaucoup d’aventures à vivre avec **WFJDR** . 
+
+## **Que Se Passe-T-Il Ensuite ?**
+Si vous souhaitez continuer à jouer, dix autres courts scénarios sont présentés dans les pages suivantes. Chacun d’entre eux peut être développé comme une aventure complète ou de petites quêtes secondaires. Gardez à l’esprit qu’ils ont été préparés pour des MJ plus expérimentés, et que parfois, le Livre de base de **WFJDR** sera nécessaire pour les Caractéristiques des PNJ. 
+
+De plus, vous disposez de nombreuses accroches d’aventures (des idées pour créer les vôtres) dans le **Guide d’Ubersreik** et plusieurs scénarios complets à venir. La plupart d’entre eux se passent dans Ubersreik ou ses environs et constituent un véritable complément à cette boîte. La première des aventures d’Ubersreik : « **Si un regard pouvait tuer** » sera disponible sur notre site. Vous pourrez également acheter un ouvrage complet de scénarios, comme **Nuits Agitées & Dures Journées** , ou démarrer une campagne épique comme celle de l’ **Ennemi intérieur** . Pour plus d’informations, vous pouvez consulter notre site : www.khaos-project.fr. 
+
+## **Progression des Personnages**
+L’une des meilleures choses dans le jeu de rôle est la progression de vos Personnages. À la fin de chaque session de jeu, vous recevez normalement des Points d’Expérience (PX) (entre 75 et 125) pour avoir participé et avoir accompli des exploits au cours de l’aventure. Ces PX peuvent être dépensés dans les 
+
+Compétences, Talents et Augmentation de Caractéristiques disponibles dans le Profil de Carrière du Personnage. 
+
+Pour en apprendre plus à ce propos, procurez-vous un exemplaire de Warhammer Fantasy le Jeu de Rôle, et téléchargez les Feuilles de Personnages complètes pour les Personnages prétirés sur www.khaos-project.fr. 
+
+Si vous utilisez les règles complètes, les Points d’Expérience 
+
+suivants sont gagnés à la fin de chaque session : 
+
+- 25-50 points chacun pour avoir passé un bon moment à interpréter votre Personnage lors de chaque session 
+
+- 15 points pour avoir sauvé Dame Karstadt lors de la Partie 1 
+
+- 5 points pour avoir survécu à l’émeute lors de la Partie 1 
+
+- 10-25 points pour un bon discours devant le tribunal lors de la Partie 2 
+
+- 10 points pour avoir sauvé Narbe Ditwin lors de la Partie 3 
+
+- 10 points pour avoir convaincu les autorités de s’occuper de la Terreur de la Teufel lors de la Partie 4 
+
+- 50 points pour avoir tué la Terreur de la Teufel lors de la Partie 4 
+
+- 15 points pour avoir résolu le problème Barbedargent lors 
+
+   - de la Partie 4 
+
+- 20 points pour avoir protégé le favori de Ranald lors de la 
+
+   - Partie 4 
+
+- 10 points pour avoir découvert les raisons de l’émeute lors 
+
+   - de la Partie 4 
+
+- 30 points pour avoir fait battre en retraite la Poigne Changeante lors de la partie 5 
+
+- 50 points pour avoir sauvé la vie de Maurer lors de la Partie 5 
+
+- 25 points pour avoir assuré leur libération du Guet lors de la Partie 5 
+
+- 50 points pour la résolution de chacun des dix courts scénarios de cet ouvrage 
+
+31 Clément Gauche - gauche.c@gmail.com

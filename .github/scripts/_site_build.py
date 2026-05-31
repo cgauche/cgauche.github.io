@@ -985,7 +985,7 @@ _CANON_BOOK_DIRS: dict[str, str] = {
     "Altdorf":       "Altdorf - Crown of the Empire",
     "Altdorf-CotE-VF": "Warhammer v4 - Aldorf la Couronne de l'Empire",
     "Middenheim":    "Middenheim - City of the White Wolf",
-    "Salzenmund":    "Salzenmund - City of Salt and Silver",
+    "Salzenmund":    "Salzenmund - City Of Salt & Silver",
     "Up in Arms":    "Up in Arms",
     "RN&HD":         "Rough Nights & Hard Days",
     "Archives Vol I":   "Archives of the Empire - Vol I",
@@ -993,6 +993,20 @@ _CANON_BOOK_DIRS: dict[str, str] = {
     "Archives Vol III": "Archives of the Empire - Volume III",
     "Winds of Magic":   "Winds of Magic",
     "Sea Wardens":      "Sea Wardens of Cothique",
+    # — Éditions françaises (VF). Convention : abréviation VO + suffixe -VF —
+    "EiS-VF":             "Warhammer v4 - 1.0 L'ennemi dans l'Ombre",
+    "EiS Companion-VF":   "Warhammer v4 - 1.0 L'ennemi dans l'Ombre Compagnon",
+    "DoR-VF":             "Warhammer v4 - 2.0 Mort sur le Reik",
+    "DoR Companion-VF":   "Warhammer v4 - 2.0 Mort sur le Reik Compagnon",
+    "PBT-VF":             "Warhammer v4 - 3.0 Le Pouvoir Derriere le Trone",
+    "Middenheim-VF":      "Warhammer v4 - Middenheim la cité du Loup Blanc",
+    "UA-VF":              "Warhammer v4 - Aventures a Ubersreik",
+    "Archives Vol I-VF":  "Warhammer v4 - Les archives de l'Empire volume 1",
+    "Archives Vol II-VF": "Warhammer v4 - Les archives de l'Empire volume 2",
+    "LdB-VF":             "Warhammer v4 - Livre de base version corrigée",
+    "RN&HD-VF":           "Warhammer v4 - Nuits agitees & dures journées",
+    "BI Aventure":        "WH4_FR_BI_Livre_Aventure",
+    "BI Ubersreik":       "WH4_FR_BI_Livre_Ubersreik",
 }
 
 # Canon ref pattern. Tolerates a single trailing whitespace before the line spec.
