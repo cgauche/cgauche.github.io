@@ -5,6 +5,7 @@
   var svg = document.getElementById('carte-svg');
   if (!dataEl || !svg) return;
   var M = JSON.parse(dataEl.textContent);
+  if (M.title) svg.setAttribute('aria-label', 'Carte schématique ' + (/^[aeiouhàâéèêAEIOUH]/.test(M.title) ? "d'" : 'de ') + M.title);
   var SVGNS = 'http://www.w3.org/2000/svg';
   var poiById = {}, poiNodes = {};
   M.pois.forEach(function (p) { poiById[p.id] = p; });
@@ -22,11 +23,14 @@
   var VB = (M.viewBox || '0 0 1247 794').split(/\s+/).map(Number);
   var W0 = VB[2], H0 = VB[3];
   var view = { x: 0, y: 0, w: W0, h: H0 };   // current viewBox (pan/zoom)
+  var lastR = null;
   function applyView() {
     svg.setAttribute('viewBox', view.x + ' ' + view.y + ' ' + view.w + ' ' + view.h);
     var r = view.w / W0;                       // <1 when zoomed in
+    if (r === lastR) return;                   // pan: viewBox moved but scale unchanged → skip resize/declutter
+    lastR = r;
     svg.style.setProperty('--mk', r);          // marker scale ratio
-    updateSizes(r);
+    updateSizes(r);                            // (calls declutter) — only on real zoom
   }
 
   // layers (drawn in canon coordinates; the viewBox does the zoom/pan)
@@ -93,22 +97,14 @@
   // Zones are clipped to the canon city outline (inside the walls) so they don't
   // spill into the countryside. Starting the Voronoï subject as the (concave)
   // city polygon is correct because each clipHP is a convex half-plane cut.
-  function qnorm(s) {
-    return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
-      .replace(/ß/g, 'ss').replace(/[^a-z0-9]/g, '');
-  }
+  function qnorm(s) { return norm(s).replace(/ß/g, 'ss').replace(/[^a-z0-9]/g, ''); }
   var seedByNorm = {}; seeds.forEach(function (s) { seedByNorm[qnorm(s.name)] = s; });
   // Click a quarter by canon name → its fiche if one exists, else a minimal panel.
   function showQuarterByName(name) {
     var s = seedByNorm[qnorm(name)];
     if (s) { showQuarter(s); return; }
-    for (var k in poiNodes) poiNodes[k].classList.remove('selected');
-    selectedId = null;
     var qp = (M.quarterPolygons || []).find(function (q) { return qnorm(q.name) === qnorm(name); });
-    var sec = qp ? qp.section : '';
-    panel.innerHTML = '<h3>' + esc(name) + '</h3>'
-      + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(sec)) + '</span>'
-      + liveZoneNote(sec);
+    showQuarter({ kind: 'district', ref: { name: name, section: qp ? qp.section : '' } });
   }
 
   if (M.quarterPolygons && M.quarterPolygons.length) {
@@ -203,14 +199,14 @@
   // keep markers at constant screen size as we zoom (r,font scale with viewBox)
   function updateSizes(r) {
     for (var i = 0; i < dots.length; i++) {
+      var gp = poiById[M.pois[i].id];
       dots[i].setAttribute('r', (6 * r).toFixed(2));
       dots[i].setAttribute('stroke-width', (2.2 * r).toFixed(2));
       hits[i].setAttribute('r', (15 * r).toFixed(2));
       labels[i].setAttribute('font-size', (13 * r).toFixed(2));
-      labels[i].setAttribute('x', (poiById[M.pois[i].id].x + 9 * r).toFixed(2));
-      labels[i].setAttribute('y', (poiById[M.pois[i].id].y - 8 * r).toFixed(2));
+      labels[i].setAttribute('x', (gp.x + 9 * r).toFixed(2));
+      labels[i].setAttribute('y', (gp.y - 8 * r).toFixed(2));
       labels[i].setAttribute('stroke-width', (3 * r).toFixed(2));
-      var gp = poiById[M.pois[i].id];
       glyphs[i].setAttribute('transform', 'translate(' + gp.x + ',' + gp.y + ') scale(' + (r * 0.8).toFixed(3) + ')');
       glyphs[i].setAttribute('stroke-width', '1.1');
       rings[i].setAttribute('r', (11 * r).toFixed(2));
