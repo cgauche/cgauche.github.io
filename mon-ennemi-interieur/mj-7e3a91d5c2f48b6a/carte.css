@@ -107,6 +107,8 @@
 /* "Couleur" off = tint hidden but cells stay clickable (invisible, hit-testable) */
 #carte-svg.hide-zones .carte-zone { opacity: 0; stroke: none; }
 #carte-svg.hide-zones .carte-zone:hover { opacity: 0.18; }
+.carte-river-band { fill: #6f93a6; opacity: 0.55; pointer-events: none; }
+#carte-svg.hide-zones .carte-river-band { opacity: 0; }
 .carte-legend-zone { opacity: 0.30; cursor: pointer; transition: opacity 0.12s; }
 .carte-legend-zone:hover { opacity: 0.5; }
 #carte-svg.hide-zones .carte-legend-zone { opacity: 0; }

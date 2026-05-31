@@ -31,10 +31,15 @@
 
   // layers (drawn in canon coordinates; the viewBox does the zoom/pan)
   // order = paint/hit order: poster < zones < district labels < pois < legend hotspots
-  var gPoster = el('g'), gZones = el('g'), gRoute = el('g'), gDist = el('g'), gPois = el('g'),
-      gLegendZones = el('g'), gLegend = el('g');
-  svg.appendChild(gPoster); svg.appendChild(gZones); svg.appendChild(gRoute);
+  var gPoster = el('g'), gZones = el('g'), gRivers = el('g'), gRoute = el('g'), gDist = el('g'),
+      gPois = el('g'), gLegendZones = el('g'), gLegend = el('g');
+  svg.appendChild(gPoster); svg.appendChild(gZones); svg.appendChild(gRivers); svg.appendChild(gRoute);
   svg.appendChild(gDist); svg.appendChild(gPois); svg.appendChild(gLegendZones); svg.appendChild(gLegend);
+  // river band drawn OVER the zones → the colored sections are visibly split by the water
+  (M.rivers || []).forEach(function (poly) {
+    var pts = poly.map(function (p) { return p[0] + ',' + p[1]; }).join(' ');
+    gRivers.appendChild(el('polygon', { points: pts, 'class': 'carte-river-band' }));
+  });
   svg.setAttribute('viewBox', '0 0 ' + W0 + ' ' + H0);
 
   // poster underlay
