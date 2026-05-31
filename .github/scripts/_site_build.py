@@ -4996,6 +4996,8 @@ CARTE_CSS = """\
 /* "Couleur" off = tint hidden but cells stay clickable (invisible, hit-testable) */
 #carte-svg.hide-zones .carte-zone { opacity: 0; stroke: none; }
 #carte-svg.hide-zones .carte-zone:hover { opacity: 0.18; }
+.carte-river-band { fill: #6f93a6; opacity: 0.55; pointer-events: none; }
+#carte-svg.hide-zones .carte-river-band { opacity: 0; }
 .carte-legend-zone { opacity: 0.30; cursor: pointer; transition: opacity 0.12s; }
 .carte-legend-zone:hover { opacity: 0.5; }
 #carte-svg.hide-zones .carte-legend-zone { opacity: 0; }
@@ -5061,10 +5063,15 @@ CARTE_JS = """\
 
   // layers (drawn in canon coordinates; the viewBox does the zoom/pan)
   // order = paint/hit order: poster < zones < district labels < pois < legend hotspots
-  var gPoster = el('g'), gZones = el('g'), gRoute = el('g'), gDist = el('g'), gPois = el('g'),
-      gLegendZones = el('g'), gLegend = el('g');
-  svg.appendChild(gPoster); svg.appendChild(gZones); svg.appendChild(gRoute);
+  var gPoster = el('g'), gZones = el('g'), gRivers = el('g'), gRoute = el('g'), gDist = el('g'),
+      gPois = el('g'), gLegendZones = el('g'), gLegend = el('g');
+  svg.appendChild(gPoster); svg.appendChild(gZones); svg.appendChild(gRivers); svg.appendChild(gRoute);
   svg.appendChild(gDist); svg.appendChild(gPois); svg.appendChild(gLegendZones); svg.appendChild(gLegend);
+  // river band drawn OVER the zones → the colored sections are visibly split by the water
+  (M.rivers || []).forEach(function (poly) {
+    var pts = poly.map(function (p) { return p[0] + ',' + p[1]; }).join(' ');
+    gRivers.appendChild(el('polygon', { points: pts, 'class': 'carte-river-band' }));
+  });
   svg.setAttribute('viewBox', '0 0 ' + W0 + ' ' + H0);
 
   // poster underlay
