@@ -143,6 +143,9 @@
 .carte-poi[data-type="crime"]       .carte-poi-dot { fill: #2f2a27; }
 .carte-poi[data-type="mort"]        .carte-poi-dot { fill: #61716a; }
 .carte-poi[data-type="autre"]       .carte-poi-dot { fill: #9a8f7a; }
+/* per-type icon glyph drawn over the coloured pill (white + ink halo) */
+.carte-poi-glyph { fill: #fbf7ec; stroke: rgba(28,18,10,0.9); stroke-linejoin: round;
+  paint-order: stroke; pointer-events: none; }
 .carte-poi-label { font-family: var(--serif-body); fill: var(--ink);
   paint-order: stroke; stroke: var(--paper-hi); stroke-linejoin: round;
   pointer-events: none; opacity: 0; transition: opacity 0.1s; }
