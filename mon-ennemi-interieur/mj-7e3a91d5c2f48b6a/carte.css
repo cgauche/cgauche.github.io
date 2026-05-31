@@ -164,6 +164,12 @@
 .carte-poi.search-hit .carte-poi-dot { fill: var(--oxblood-hi); stroke: var(--ink); }
 .carte-poi.dim { opacity: 0.16; }
 .carte-poi.dim .carte-poi-label { opacity: 0 !important; }
+/* scenario-linked POIs (a scene is tied to them): pulsing gold ring + bold label */
+.carte-poi-ring { fill: none; stroke: var(--gold-hi); opacity: 0; pointer-events: none; }
+.carte-poi.has-scenario .carte-poi-ring { opacity: 0.95; animation: carte-pulse 1.8s ease-in-out infinite; }
+.carte-poi.has-scenario .carte-poi-label { fill: var(--oxblood); font-weight: 700; }
+@keyframes carte-pulse { 0%,100% { opacity: 0.95; } 50% { opacity: 0.3; } }
+@media (prefers-reduced-motion: reduce) { .carte-poi.has-scenario .carte-poi-ring { animation: none; } }
 
 @media (max-width: 720px) {
   .carte-stage { grid-template-columns: 1fr; }
