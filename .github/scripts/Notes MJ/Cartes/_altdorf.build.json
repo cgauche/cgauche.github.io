@@ -1,60 +1,223 @@
 {
   "pdf": "Source/Warhammer v4 - Aldorf la Couronne de l'Empire.pdf",
   "scale": 2,
-  "poster": { "page": 1, "scale": 2.2 },
+  "poster": {
+    "page": 1,
+    "scale": 2.2
+  },
   "quarters_page": 2,
-  "boundary": { "method": "dashed-red" },
-  "water": { "close": 45, "min_area": 3000, "dilate": 11 },
+  "boundary": {
+    "method": "dashed-red"
+  },
+  "water": {
+    "close": 45,
+    "min_area": 3000,
+    "dilate": 11
+  },
   "sections": {
     "book_dir": "Source/Warhammer v4 - Aldorf la Couronne de l'Empire/",
-    "chapters": { "sud": "05 - La rive sud", "est": "06 - Le Quartier est", "nord": "07 - La Ville Nord" }
+    "chapters": {
+      "sud": "05 - La rive sud",
+      "est": "06 - Le Quartier est",
+      "nord": "07 - La Ville Nord"
+    }
   },
   "seeds": {
-    "Friedhofkreuzung": [419.0, 258.0],
-    "Karnevalsplatz": [496.5, 308.7],
-    "Palais Imperial et Quartier du Palast": [459.7, 375.0],
-    "Mauerblumchen": [366.8, 369.4],
-    "Flottenliegeplatz": [585.8, 389.3],
-    "Domplatz": [581.4, 453.2],
-    "Zoogarten": [507.4, 513.7],
-    "Fundgrube": [490.1, 454.9],
-    "Hammerpfad": [392.6, 469.7],
-    "Markt an der Wand": [472.8, 546.4],
-    "Zwillingsgrab": [580.2, 555.7],
-    "Grossgrundbesitz": [641.3, 507.5],
-    "Sudkuste": [667.6, 467.3],
-    "Krankenfeld": [649.7, 574.5],
-    "Ogasse": [738.8, 589.6],
-    "Sudwand": [920.5, 563.2],
-    "Reikerbahn": [814.1, 460.2],
-    "Ile aux Anguilles": [744.6, 444.5],
-    "Fleischmarkt": [929.5, 504.4],
-    "Metallschlacke": [996.4, 493.2],
-    "Dampfplatz": [984.9, 435.6],
-    "Schlecht Laden": [919.1, 452.1],
-    "Toteninsel": [888.0, 371.0],
-    "Grandmarkt": [902.3, 309.4],
-    "Neuesgeldt": [855.8, 259.8],
-    "Wolftor": [781.6, 238.1],
-    "Konigplatz": [766.2, 282.8],
-    "Fischemarkt": [778.5, 320.2],
-    "Quartier des quais": [752.9, 388.2],
-    "Grossvaters Zuhause": [643.5, 372.0],
-    "Schulergegend": [685.8, 305.0],
-    "Hexxerbezrik": [619.4, 232.8]
+    "Friedhofkreuzung": [
+      419.0,
+      258.0
+    ],
+    "Karnevalsplatz": [
+      496.5,
+      308.7
+    ],
+    "Palais Imperial et Quartier du Palast": [
+      459.7,
+      375.0
+    ],
+    "Mauerblumchen": [
+      366.8,
+      369.4
+    ],
+    "Flottenliegeplatz": [
+      585.8,
+      389.3
+    ],
+    "Domplatz": [
+      581.4,
+      453.2
+    ],
+    "Zoogarten": [
+      507.4,
+      513.7
+    ],
+    "Fundgrube": [
+      490.1,
+      454.9
+    ],
+    "Hammerpfad": [
+      392.6,
+      469.7
+    ],
+    "Markt an der Wand": [
+      472.8,
+      546.4
+    ],
+    "Zwillingsgrab": [
+      580.2,
+      555.7
+    ],
+    "Grossgrundbesitz": [
+      641.3,
+      507.5
+    ],
+    "Sudkuste": [
+      667.6,
+      467.3
+    ],
+    "Krankenfeld": [
+      649.7,
+      574.5
+    ],
+    "Ogasse": [
+      738.8,
+      589.6
+    ],
+    "Sudwand": [
+      920.5,
+      563.2
+    ],
+    "Reikerbahn": [
+      814.1,
+      460.2
+    ],
+    "Ile aux Anguilles": [
+      744.6,
+      444.5
+    ],
+    "Fleischmarkt": [
+      929.5,
+      504.4
+    ],
+    "Metallschlacke": [
+      996.4,
+      493.2
+    ],
+    "Dampfplatz": [
+      984.9,
+      435.6
+    ],
+    "Schlecht Laden": [
+      919.1,
+      452.1
+    ],
+    "Toteninsel": [
+      888.0,
+      371.0
+    ],
+    "Grandmarkt": [
+      902.3,
+      309.4
+    ],
+    "Neuesgeldt": [
+      855.8,
+      259.8
+    ],
+    "Wolftor": [
+      781.6,
+      238.1
+    ],
+    "Konigplatz": [
+      766.2,
+      282.8
+    ],
+    "Fischemarkt": [
+      778.5,
+      320.2
+    ],
+    "Quartier des quais": [
+      752.9,
+      388.2
+    ],
+    "Grossvaters Zuhause": [
+      643.5,
+      372.0
+    ],
+    "Schulergegend": [
+      685.8,
+      305.0
+    ],
+    "Hexxerbezrik": [
+      619.4,
+      232.8
+    ]
   },
   "bridges": [
-    [525, 256],
-    [560, 293],
-    [653, 358],
-    [671, 410],
-    [792, 425],
-    [824, 574],
-    [876, 359],
-    [889, 425]
+    [
+      526.2,
+      252.1
+    ],
+    [
+      561.3,
+      290.4
+    ],
+    [
+      655.0,
+      357.6
+    ],
+    [
+      673.1,
+      411.0
+    ],
+    [
+      793.9,
+      426.3
+    ],
+    [
+      826.7,
+      579.6
+    ],
+    [
+      878.4,
+      358.5
+    ],
+    [
+      891.1,
+      426.8
+    ]
   ],
   "extra_quarters": [
-    { "name": "Hors-les-murs", "section": "hors", "cx": 1085, "cy": 318,
-      "poly": [[1052, 258], [1138, 250], [1170, 322], [1120, 390], [1048, 380], [1040, 312]] }
+    {
+      "name": "Hors-les-murs",
+      "section": "hors",
+      "cx": 1085,
+      "cy": 318,
+      "poly": [
+        [
+          1052,
+          258
+        ],
+        [
+          1138,
+          250
+        ],
+        [
+          1170,
+          322
+        ],
+        [
+          1120,
+          390
+        ],
+        [
+          1048,
+          380
+        ],
+        [
+          1040,
+          312
+        ]
+      ]
+    }
   ]
 }
