@@ -5,34 +5,24 @@ carte:
   type: militaire
   importance: Notable
   section: nord
-  x: 670
-  y: 433
-  desc: "Île fortifiée au milieu du Reik, siège du renseignement impérial (la Chambre Noire)."
+  x: 1055
+  y: 310
+  desc: "Île fortifiée du Talabec, hors les murs au nord-est, reliée à l'enceinte ; QG de la Chambre Noire."
 ---
 
 # Île Noire
 
-> Île fortifiée au cœur du Reik, à Altdorf, reliée par ponts aux murs
-> de la ville. Quartier général de la Chambre Noire. Forteresse aux
-> canons et créneaux où la Chambre Noire entretient volontairement
-> une réputation sinistre en exposant les têtes décapitées des
-> traîtres et hérétiques.
+> Île de roche noire au **confluent du Reik et du Talabec**, **hors les
+> murs** au nord-est d'Altdorf, face au Bastion du Talabec et reliée à
+> l'enceinte de la ville. Quartier général de la Chambre Noire. `Altdorf-CotE-VF ch.9 l.48-53`
 
 **Sous-titre** : QG de la Chambre Noire à Altdorf
 
 ## Description
 
-> *« juts darkly out of the River Reik »* (Fandom Black Isle)
->
-> *« the cannon-guarded fortress is on an island in the Reik… the
-> Black Chamber intentionally cultivates an aura of menace by lining
-> the castle's ramparts with the decapitated heads of traitors and
-> heretics »* (Fandom Black Isle)
+L'Île Noire a toujours eu une réputation redoutable : un cœur de roche noire jaillit des eaux du Reik, près du confluent avec le Talabec, obstacle insidieux qui, avec le brouillard d'Altdorf, a fait couler plus d'un navire. Les Maîtres Espions impériaux y ont bâti leur forteresse. `Altdorf-CotE-VF ch.9 l.48-49` Le Château de la Chambre Noire, relié à l'enceinte de la ville, est défendu par des canons le long des remparts ; le gouvernement ne cache pas que s'y déroulent interrogatoires et exécutions, et les têtes des traîtres et hérétiques sont empalées le long des murs. `Altdorf-CotE-VF ch.9 l.51-53` Face à elle, de l'autre côté de la rivière, le Bastion du Talabec peut croiser ses tirs avec la forteresse en cas d'invasion fluviale. `Altdorf-CotE-VF ch.7 l.1115`
 
-Île au milieu du Reik, à Altdorf. Forteresse à canons. Trois ailes
-de la Chambre Noire y sont basées (Schattenkabinett, Graukappen,
-Spionwerber) ; la quatrième aile (Palisades) est basée à l'Imperial
-Palace nord, séparée volontairement.
+Trois branches de la Chambre Noire y sont basées (Schattenkabinett, Graukappen, Spionwerber) ; la quatrième (les Palissades) opère depuis le Palais Impérial, séparée volontairement. `Altdorf-CotE-VF ch.10 l.16`
 
 ## Hiérarchie présente
 
