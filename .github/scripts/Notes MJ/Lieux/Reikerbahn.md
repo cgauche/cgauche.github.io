@@ -31,4 +31,4 @@ Dans le **Quartier est** d'Altdorf, district réputé malfamé (pauvreté, insé
 
 ## Liens
 
-- [[Altdorf]] (district : Reikerbahn, Quartier est) · contient : les Vieux quais (Old Docks), Altmünze · voisins : Schlecht Laden, [[Isle of Eels]] (reliée par un pont).
+- [[Altdorf]] (district : Reikerbahn, Quartier est) · contient : les Vieux quais (Old Docks), Altmünze · voisins : Schlecht Laden, [[Île aux Anguilles]] (reliée par un pont).

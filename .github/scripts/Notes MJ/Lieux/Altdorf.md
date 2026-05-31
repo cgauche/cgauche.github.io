@@ -78,7 +78,7 @@ Le passage à Altdorf marque les Personnages comme si les Dieux Sombres veillaie
 
 ### Quartier est
 - [[Reikerbahn]] — quartier populaire et révolutionnaire
-- [[Isle of Eels]] — île de la pègre des docks est
+- [[Île aux Anguilles]] — île de la pègre des docks est
 - [[Metallschlacke]] — district industriel et de fonderies
 
 ## État politique Arc 7

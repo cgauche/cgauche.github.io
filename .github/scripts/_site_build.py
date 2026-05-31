@@ -5436,24 +5436,33 @@ CARTE_JS = """\
   applyFilters();
 
   // ---- pathfinding (#6): REAL graph Dijkstra over the quarter graph ----
+  // Graph nodes = the 33 canon quarters (their anchor centroids), independent of
+  // which quarters have a fiche. Falls back to fiche-seeds if no polygons.
+  var QNODE = {};
+  if (M.quarterPolygons && M.quarterPolygons.length)
+    M.quarterPolygons.forEach(function (q) { QNODE[q.name] = { x: q.cx, y: q.cy }; });
+  else seeds.forEach(function (s) { QNODE[s.name] = { x: s.x, y: s.y }; });
   function nearestSeedName(x, y) {
     var best = null, bd = Infinity;
-    seeds.forEach(function (s) { var d = (s.x - x) * (s.x - x) + (s.y - y) * (s.y - y);
-      if (d < bd) { bd = d; best = s; } });
-    return best ? best.name : null;
+    Object.keys(QNODE).forEach(function (n) { var p = QNODE[n];
+      var d = (p.x - x) * (p.x - x) + (p.y - y) * (p.y - y);
+      if (d < bd) { bd = d; best = n; } });
+    return best;
   }
-  function d2(a, b) { return Math.hypot(a.x - b.x, a.y - b.y); }
-  // Quarter adjacency graph: two quarters are neighbours iff the nearest seed to
-  // their midpoint is one of them (Voronoï/Delaunay-style adjacency).
-  // River-aware quarter graph from embedded edges (same-section adjacency + bridges;
-  // computed at build time using canon section membership — no water crossings
-  // except at designated bridges).
-  var SADJ = {};
-  seeds.forEach(function (s) { SADJ[s.name] = []; });
+  // River-aware quarter graph from embedded edges. Land edges follow real
+  // polygon adjacency (never cross water); bridge edges carry a `via` crossing
+  // point so a route bends THROUGH the bridge instead of cutting open water.
+  var SADJ = {}, VIA = {};
+  Object.keys(QNODE).forEach(function (n) { SADJ[n] = []; });
   (M.edges || []).forEach(function (e) {
-    var A = seedByName[e.a], Bs = seedByName[e.b];
-    if (A && Bs) { var w = d2(A, Bs);
-      SADJ[e.a].push([e.b, w]); SADJ[e.b].push([e.a, w]); }
+    var A = QNODE[e.a], Bs = QNODE[e.b];
+    if (!A || !Bs) return;
+    var w;
+    if (e.bridge && e.via) {
+      w = Math.hypot(A.x - e.via[0], A.y - e.via[1]) + Math.hypot(e.via[0] - Bs.x, e.via[1] - Bs.y) + 30;
+      VIA[e.a + '|' + e.b] = e.via; VIA[e.b + '|' + e.a] = e.via;
+    } else { w = Math.hypot(A.x - Bs.x, A.y - Bs.y); }
+    SADJ[e.a].push([e.b, w]); SADJ[e.b].push([e.a, w]);
   });
   function dijkstra(src, dst) {
     if (src === dst) return [src];
@@ -5483,8 +5492,12 @@ CARTE_JS = """\
       var qa = nearestSeedName(a.x, a.y), qb = nearestSeedName(b.x, b.y);
       var qpath = dijkstra(qa, qb) || [qa, qb];
       if (i === 0) line.push([a.x, a.y]);
-      qpath.forEach(function (qn) { var s = seedByName[qn]; if (s) line.push([s.x, s.y]);
-        if (quarters[quarters.length - 1] !== qn) quarters.push(qn); });
+      for (var kk = 0; kk < qpath.length; kk++) {
+        var qn = qpath[kk];
+        if (kk > 0) { var v = VIA[qpath[kk - 1] + '|' + qn]; if (v) line.push([v[0], v[1]]); }
+        var nd = QNODE[qn]; if (nd) line.push([nd.x, nd.y]);
+        if (quarters[quarters.length - 1] !== qn) quarters.push(qn);
+      }
       line.push([b.x, b.y]);
     }
     if (line.length >= 2)
