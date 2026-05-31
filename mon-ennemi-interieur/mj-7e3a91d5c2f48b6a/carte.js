@@ -85,8 +85,14 @@
     }
     return out;
   }
+  // Zones are clipped to the canon city outline (inside the walls) so they don't
+  // spill into the countryside. Starting the Voronoï subject as the (concave)
+  // city polygon is correct because each clipHP is a convex half-plane cut.
+  var CITY = (M.cityPolygon && M.cityPolygon.length >= 3)
+    ? M.cityPolygon.map(function (p) { return [p[0], p[1]]; })
+    : [[ZX, 0], [W0, 0], [W0, H0], [ZX, H0]];
   seeds.forEach(function (s, i) {
-    var poly = [[ZX, 0], [W0, 0], [W0, H0], [ZX, H0]];
+    var poly = CITY.map(function (p) { return [p[0], p[1]]; });
     for (var j = 0; j < seeds.length && poly.length >= 3; j++) {
       if (j !== i) poly = clipHP(poly, { x: s.x, y: s.y }, { x: seeds[j].x, y: seeds[j].y });
     }
@@ -359,37 +365,69 @@
   }
   applyFilters();
 
-  // ---- pathfinding (#6): route through POIs + quartiers traversés ----
+  // ---- pathfinding (#6): REAL graph Dijkstra over the quarter graph ----
   function nearestSeedName(x, y) {
     var best = null, bd = Infinity;
     seeds.forEach(function (s) { var d = (s.x - x) * (s.x - x) + (s.y - y) * (s.y - y);
       if (d < bd) { bd = d; best = s; } });
     return best ? best.name : null;
   }
+  function d2(a, b) { return Math.hypot(a.x - b.x, a.y - b.y); }
+  // Quarter adjacency graph: two quarters are neighbours iff the nearest seed to
+  // their midpoint is one of them (Voronoï/Delaunay-style adjacency).
+  // River-aware quarter graph from embedded edges (same-section adjacency + bridges;
+  // computed at build time using canon section membership — no water crossings
+  // except at designated bridges).
+  var SADJ = {};
+  seeds.forEach(function (s) { SADJ[s.name] = []; });
+  (M.edges || []).forEach(function (e) {
+    var A = seedByName[e.a], Bs = seedByName[e.b];
+    if (A && Bs) { var w = d2(A, Bs);
+      SADJ[e.a].push([e.b, w]); SADJ[e.b].push([e.a, w]); }
+  });
+  function dijkstra(src, dst) {
+    if (src === dst) return [src];
+    var D = {}, prev = {}, done = {}, pq = [[0, src]];
+    D[src] = 0;
+    while (pq.length) {
+      pq.sort(function (a, b) { return a[0] - b[0]; });
+      var top = pq.shift(), d = top[0], u = top[1];
+      if (done[u]) continue; done[u] = 1;
+      if (u === dst) break;
+      (SADJ[u] || []).forEach(function (e) {
+        var v = e[0], nd = d + e[1];
+        if (D[v] == null || nd < D[v]) { D[v] = nd; prev[v] = u; pq.push([nd, v]); }
+      });
+    }
+    if (D[dst] == null) return null;
+    var path = [dst], c = dst;
+    while (c !== src) { c = prev[c]; if (c == null) return null; path.unshift(c); }
+    return path;
+  }
   function drawRoute() {
     while (gRoute.firstChild) gRoute.removeChild(gRoute.firstChild);
     var pts = route.map(function (id) { return poiById[id]; }).filter(Boolean);
-    if (pts.length >= 2)
-      gRoute.appendChild(el('polyline', { points: pts.map(function (p) { return p.x + ',' + p.y; }).join(' '),
-        'class': 'carte-route' }));
-    pts.forEach(function (p) { gRoute.appendChild(el('circle', { cx: p.x, cy: p.y, r: 5, 'class': 'carte-route-pt' })); });
-    // quartiers traversés (échantillonnage le long du trajet, plus-proche-graine)
-    var qs = [];
+    var line = [], quarters = [];
     for (var i = 0; i < pts.length - 1; i++) {
       var a = pts[i], b = pts[i + 1];
-      var steps = Math.max(2, Math.round(Math.hypot(b.x - a.x, b.y - a.y) / 12));
-      for (var t = 0; t <= steps; t++) {
-        var q = nearestSeedName(a.x + (b.x - a.x) * t / steps, a.y + (b.y - a.y) * t / steps);
-        if (q && qs[qs.length - 1] !== q) qs.push(q);
-      }
+      var qa = nearestSeedName(a.x, a.y), qb = nearestSeedName(b.x, b.y);
+      var qpath = dijkstra(qa, qb) || [qa, qb];
+      if (i === 0) line.push([a.x, a.y]);
+      qpath.forEach(function (qn) { var s = seedByName[qn]; if (s) line.push([s.x, s.y]);
+        if (quarters[quarters.length - 1] !== qn) quarters.push(qn); });
+      line.push([b.x, b.y]);
     }
-    var seen = {}, qdedup = qs.filter(function (q) { if (seen[q]) return false; seen[q] = 1; return true; });
+    if (line.length >= 2)
+      gRoute.appendChild(el('polyline', { points: line.map(function (p) { return p[0].toFixed(1) + ',' + p[1].toFixed(1); }).join(' '),
+        'class': 'carte-route' }));
+    pts.forEach(function (p) { gRoute.appendChild(el('circle', { cx: p.x, cy: p.y, r: 5, 'class': 'carte-route-pt' })); });
+    var seen = {}, qd = quarters.filter(function (q) { if (seen[q]) return false; seen[q] = 1; return true; });
     var h = '<h3>Trajet</h3><span class="carte-zone-tag">' + pts.length + ' point(s)</span>';
-    if (!pts.length) h += '<p class="carte-panel-empty">Clique des lieux pour tracer un trajet.</p>';
+    if (!pts.length) h += '<p class="carte-panel-empty">Clique des lieux pour tracer un trajet (Dijkstra par quartiers).</p>';
     if (pts.length) h += '<h4>Étapes</h4><ul class="carte-poi-list">'
       + pts.map(function (p) { return '<li>' + esc(p.name) + '</li>'; }).join('') + '</ul>';
-    if (qdedup.length) h += '<h4>Quartiers traversés</h4><ul class="carte-poi-list">'
-      + qdedup.map(function (q) { return '<li>' + esc(q) + '</li>'; }).join('') + '</ul>';
+    if (qd.length) h += '<h4>Quartiers traversés (' + qd.length + ')</h4><ul class="carte-poi-list">'
+      + qd.map(function (q) { return '<li>' + esc(q) + '</li>'; }).join('') + '</ul>';
     panel.innerHTML = h;
   }
   var routeBtn = document.getElementById('carte-route-toggle');
