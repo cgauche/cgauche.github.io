@@ -5053,6 +5053,12 @@ CARTE_CSS = """\
 .carte-poi.search-hit .carte-poi-dot { fill: var(--oxblood-hi); stroke: var(--ink); }
 .carte-poi.dim { opacity: 0.16; }
 .carte-poi.dim .carte-poi-label { opacity: 0 !important; }
+/* scenario-linked POIs (a scene is tied to them): pulsing gold ring + bold label */
+.carte-poi-ring { fill: none; stroke: var(--gold-hi); opacity: 0; pointer-events: none; }
+.carte-poi.has-scenario .carte-poi-ring { opacity: 0.95; animation: carte-pulse 1.8s ease-in-out infinite; }
+.carte-poi.has-scenario .carte-poi-label { fill: var(--oxblood); font-weight: 700; }
+@keyframes carte-pulse { 0%,100% { opacity: 0.95; } 50% { opacity: 0.3; } }
+@media (prefers-reduced-motion: reduce) { .carte-poi.has-scenario .carte-poi-ring { animation: none; } }
 
 @media (max-width: 720px) {
   .carte-stage { grid-template-columns: 1fr; }
@@ -5245,22 +5251,23 @@ CARTE_JS = """\
     autre:        'M0,-3.3 A3.3,3.3 0 1,0 0.01,-3.3 Z'
   };
   // POI markers
-  var dots = [], labels = [], hits = [], glyphs = [];
+  var dots = [], labels = [], hits = [], glyphs = [], rings = [];
   M.pois.forEach(function (p) {
     var g = el('g', { 'class': 'carte-poi', 'data-id': p.id, 'data-type': p.type || 'autre', tabindex: 0 });
     var hit = el('circle', { cx: p.x, cy: p.y, r: 14, fill: 'transparent', 'class': 'carte-poi-hit' });
+    var ring = el('circle', { cx: p.x, cy: p.y, r: 11, 'class': 'carte-poi-ring' });
     var dot = el('circle', { cx: p.x, cy: p.y, r: 6, 'class': 'carte-poi-dot' });
     var gl = el('path', { d: TYPE_GLYPH[p.type] || TYPE_GLYPH.autre, 'class': 'carte-poi-glyph' });
     var lab = el('text', { x: p.x + 9, y: p.y - 8, 'class': 'carte-poi-label' });
     lab.textContent = p.name;
-    g.appendChild(hit); g.appendChild(dot); g.appendChild(gl); g.appendChild(lab);
+    g.appendChild(hit); g.appendChild(ring); g.appendChild(dot); g.appendChild(gl); g.appendChild(lab);
     g.addEventListener('click', function () {
       if (routeMode) { route.push(p.id); drawRoute(); } else selectPoi(p.id); });
     g.addEventListener('keydown', function (ev) {
       if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault();
         if (routeMode) { route.push(p.id); drawRoute(); } else selectPoi(p.id); } });
     gPois.appendChild(g);
-    poiNodes[p.id] = g; dots.push(dot); labels.push(lab); hits.push(hit); glyphs.push(gl);
+    poiNodes[p.id] = g; dots.push(dot); labels.push(lab); hits.push(hit); glyphs.push(gl); rings.push(ring);
   });
 
   // keep markers at constant screen size as we zoom (r,font scale with viewBox)
@@ -5276,6 +5283,8 @@ CARTE_JS = """\
       var gp = poiById[M.pois[i].id];
       glyphs[i].setAttribute('transform', 'translate(' + gp.x + ',' + gp.y + ') scale(' + (r * 0.8).toFixed(3) + ')');
       glyphs[i].setAttribute('stroke-width', '1.1');
+      rings[i].setAttribute('r', (11 * r).toFixed(2));
+      rings[i].setAttribute('stroke-width', (2 * r).toFixed(2));
     }
     for (var j = 0; j < distLabels.length; j++)
       distLabels[j].setAttribute('font-size', (15 * r).toFixed(2));
