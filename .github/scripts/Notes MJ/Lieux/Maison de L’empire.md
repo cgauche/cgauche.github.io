@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: gouvernement
+  type: militaire
   importance: Mineur
   section: sud
   quartier: Fundgrube

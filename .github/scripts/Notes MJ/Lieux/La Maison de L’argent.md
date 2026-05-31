@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: gouvernement
+  type: magie
   importance: Mineur
   section: nord
   quartier: Toteninsel
