@@ -93,24 +93,54 @@
   // Zones are clipped to the canon city outline (inside the walls) so they don't
   // spill into the countryside. Starting the Voronoï subject as the (concave)
   // city polygon is correct because each clipHP is a convex half-plane cut.
-  var CITY = (M.cityPolygon && M.cityPolygon.length >= 3)
-    ? M.cityPolygon.map(function (p) { return [p[0], p[1]]; })
-    : [[ZX, 0], [W0, 0], [W0, H0], [ZX, H0]];
-  seeds.forEach(function (s, i) {
-    var poly = CITY.map(function (p) { return [p[0], p[1]]; });
-    for (var j = 0; j < seeds.length && poly.length >= 3; j++) {
-      if (j !== i) poly = clipHP(poly, { x: s.x, y: s.y }, { x: seeds[j].x, y: seeds[j].y });
-    }
-    if (poly.length < 3) return;
-    var pts = poly.map(function (p) { return p[0].toFixed(1) + ',' + p[1].toFixed(1); }).join(' ');
-    var sec = s.ref.section;
-    var pg = el('polygon', { points: pts, 'class': 'carte-zone', 'data-section': sec,
-      fill: SECTION_COLOR[sec] || '#8a7a5a' });
-    var ti = el('title'); ti.textContent = s.name; pg.appendChild(ti);
-    // a map cell = a QUARTER (click → quarter). Sections are clicked via the legend.
-    pg.addEventListener('click', function () { showQuarter(s); });
-    gZones.appendChild(pg);
-  });
+  function qnorm(s) {
+    return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
+      .replace(/ß/g, 'ss').replace(/[^a-z0-9]/g, '');
+  }
+  var seedByNorm = {}; seeds.forEach(function (s) { seedByNorm[qnorm(s.name)] = s; });
+  // Click a quarter by canon name → its fiche if one exists, else a minimal panel.
+  function showQuarterByName(name) {
+    var s = seedByNorm[qnorm(name)];
+    if (s) { showQuarter(s); return; }
+    for (var k in poiNodes) poiNodes[k].classList.remove('selected');
+    selectedId = null;
+    var qp = (M.quarterPolygons || []).find(function (q) { return qnorm(q.name) === qnorm(name); });
+    var sec = qp ? qp.section : '';
+    panel.innerHTML = '<h3>' + esc(name) + '</h3>'
+      + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(sec)) + '</span>';
+  }
+
+  if (M.quarterPolygons && M.quarterPolygons.length) {
+    // Real quarter contours traced from the canon boundary map (dashed-line
+    // watershed, barriers = walls + water). Coloured by canon section.
+    M.quarterPolygons.forEach(function (q) {
+      var pts = q.poly.map(function (p) { return p[0] + ',' + p[1]; }).join(' ');
+      var pg = el('polygon', { points: pts, 'class': 'carte-zone', 'data-section': q.section,
+        fill: SECTION_COLOR[q.section] || '#8a7a5a' });
+      var ti = el('title'); ti.textContent = q.name; pg.appendChild(ti);
+      pg.addEventListener('click', function () { showQuarterByName(q.name); });
+      gZones.appendChild(pg);
+    });
+  } else {
+    // Fallback: Voronoï cells clipped to the city outline (geometry only).
+    var CITY = (M.cityPolygon && M.cityPolygon.length >= 3)
+      ? M.cityPolygon.map(function (p) { return [p[0], p[1]]; })
+      : [[ZX, 0], [W0, 0], [W0, H0], [ZX, H0]];
+    seeds.forEach(function (s, i) {
+      var poly = CITY.map(function (p) { return [p[0], p[1]]; });
+      for (var j = 0; j < seeds.length && poly.length >= 3; j++) {
+        if (j !== i) poly = clipHP(poly, { x: s.x, y: s.y }, { x: seeds[j].x, y: seeds[j].y });
+      }
+      if (poly.length < 3) return;
+      var pts = poly.map(function (p) { return p[0].toFixed(1) + ',' + p[1].toFixed(1); }).join(' ');
+      var sec = s.ref.section;
+      var pg = el('polygon', { points: pts, 'class': 'carte-zone', 'data-section': sec,
+        fill: SECTION_COLOR[sec] || '#8a7a5a' });
+      var ti = el('title'); ti.textContent = s.name; pg.appendChild(ti);
+      pg.addEventListener('click', function () { showQuarter(s); });
+      gZones.appendChild(pg);
+    });
+  }
 
   // --- colour the printed legend by section + make each section block clickable ---
   (M.legendSections || []).forEach(function (ls) {
@@ -269,7 +299,7 @@
     panel.querySelectorAll('[data-poi]').forEach(function (a) {
       a.addEventListener('click', function () { selectPoi(a.getAttribute('data-poi')); }); });
     panel.querySelectorAll('[data-quarter]').forEach(function (a) {
-      a.addEventListener('click', function () { showQuarter(seedByName[a.getAttribute('data-quarter')]); }); });
+      a.addEventListener('click', function () { showQuarterByName(a.getAttribute('data-quarter')); }); });
   }
   function showSection(key) {
     for (var k in poiNodes) poiNodes[k].classList.remove('selected');
@@ -277,8 +307,11 @@
     var meta = (M.sections || []).find(function (x) { return x.key === key; });
     var h = '<h3>' + esc(meta ? meta.label : key) + '</h3><span class="carte-zone-tag">Section</span>';
     if (meta && meta.desc) h += '<p class="carte-desc">' + esc(meta.desc) + '</p>';
-    var quartiers = seeds.filter(function (s) { return s.ref.section === key; })
-                         .map(function (s) { return s.name; }).sort();
+    var quartiers = (M.quarterPolygons && M.quarterPolygons.length
+        ? M.quarterPolygons.filter(function (q) { return q.section === key; })
+                           .map(function (q) { return q.name; })
+        : seeds.filter(function (s) { return s.ref.section === key; })
+               .map(function (s) { return s.name; })).sort();
     if (quartiers.length) {
       h += '<h4>Quartiers</h4><ul class="carte-poi-list">';
       quartiers.forEach(function (n) { h += '<li><a data-quarter="' + esc(n) + '">' + esc(n) + '</a></li>'; });
