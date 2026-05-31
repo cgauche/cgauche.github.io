@@ -19,3 +19,5 @@ carte:
 > **Lieu n°28 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Bordel de trois étages dédié à Katya, déesse de la beauté désarmante, signalé par un chat de cuivre stylisé et ouvert à toutes les classes et races sous la protection de videurs. Frau Jalla Krump en gère le quotidien, épaulée par Alisha Keller, jeune prêtresse de Katya qui renseigne le capitaine de la garde sur les cultistes des Dieux Sombres.
+
+**Personnages** : [[Jalla Krump]].

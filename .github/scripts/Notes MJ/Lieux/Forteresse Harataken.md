@@ -19,3 +19,5 @@ carte:
 > **Lieu n°19 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Vaste bâtiment de pierre abritant le clan nain Harataki, déchu depuis qu'il a perdu Karak Branar quelque quatre cents ans avant Sigmar et ruiné par d'innombrables tentatives de reconquête. La reine Vilda, cheffe de clan depuis plus d'un siècle, garde le Livre des Rancunes à portée de main et rêve toujours de récupérer la forteresse perdue.
+
+**Personnages** : [[Reine Vilda]].

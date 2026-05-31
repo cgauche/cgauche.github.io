@@ -19,3 +19,5 @@ carte:
 > **Lieu n°58 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Grande succursale impériale de Luigi & Salvatore, vaste bâtiment de granite sombre à deux étages, où les riches d'Ubersreik achètent vêtements, armes, armures et autres biens de luxe. Dirigée par la Tiléenne Adriana Corolla.
+
+**Personnages** : [[Adriana Corolla]].

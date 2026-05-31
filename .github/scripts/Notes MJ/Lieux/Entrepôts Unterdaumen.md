@@ -19,3 +19,5 @@ carte:
 > **Lieu n°50 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Ensemble de sept petits entrepôts clos et gardés par une milice privée, au nord du Quartier des Marchands, appartenant à la Maison Unterdaumen, famille de marchands spéculant sur les denrées bon marché. La matriarche est l'octogénaire impitoyable Grigerid Unterdaumen.
+
+**Personnages** : [[Grigerid Unterdaumen]].

@@ -2351,5 +2351,11 @@
   "legend": [],
   "legendSections": [],
   "scenarioOverlay": {},
-  "scenarioLive": {}
+  "scenarioLive": {},
+  "legendBox": {
+    "x": 68,
+    "y": 205,
+    "w": 270,
+    "h": 360
+  }
 }

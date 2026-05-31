@@ -19,3 +19,5 @@ carte:
 > **Lieu n°30 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 L'auberge la moins chère d'Ubersreik, aux lits infestés de parasites et à la salle commune humide et moisie, avec quatre chambres à lits superposés. Sa propriétaire vieillissante Anna Rugger, surnommée Grand-mère sur les docks, est mariée au Maître de la Guilde des Bateliers Karsten Rugger.
+
+**Personnages** : [[Anna Rugger]].

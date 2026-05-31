@@ -19,3 +19,5 @@ carte:
 > **Lieu n°4 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Une des trois portes fortifiées d'Ubersreik, percée dans les murailles de la ville. Les chariots de marchandises y acquittent leurs taxes, perçues par un greffier du Bureau des Douanes en poste à chaque porte.
+
+**Personnages** : [[Ernst Geldfinger]].

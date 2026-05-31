@@ -19,3 +19,5 @@ carte:
 > **Lieu n°60 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Boutique longue et basse à la façade de pierre gravée de masques, incontournable pour déguisements, masques fantaisie et costumes traditionnels. Tenue par Madame Beaumarteau, assistée de couturières halflings.
+
+**Personnages** : [[Madame Beaumarteau]].

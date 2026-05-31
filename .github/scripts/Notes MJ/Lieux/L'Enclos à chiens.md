@@ -19,3 +19,5 @@ carte:
 > **Lieu n°41 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Grande place près du Quartier des Marchands jadis vouée aux combats de chiens, dont le nom subsiste avec la statue d'un Saint Saal ; elle accueille désormais restaurants et tavernes, dont un salon de thé sans alcool et une maison de la pâtée. Le propriétaire des lieux est l'intarissable Hanno Rader.
+
+**Personnages** : [[Hanno Rader]].

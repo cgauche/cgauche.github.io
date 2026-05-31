@@ -19,3 +19,5 @@ carte:
 > **Lieu n°40 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Minuscule poste de garde près de l'Hôtel de Ville, à la lourde porte de chêne ornée des armoiries d'Ubersreik et muni d'une barre à menottes, jadis utilisé par le Guet pour retenir soûlards et criminels. Les clefs de ce poste et des onze autres ont disparu lors de l'invasion d'Altdorf.
+
+**Personnages** : [[Andrea Pfeffer]].

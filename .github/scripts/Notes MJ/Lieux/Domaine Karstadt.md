@@ -19,3 +19,5 @@ carte:
 > **Lieu n°57 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Domaine fortifié de la famille Karstadt, la plus riche maison de marchands d'Ubersreik (minerais, métaux, biens de luxe, prêt d'argent). Manoir modeste mais vaste terrain avec écuries, bois, étangs et un grand labyrinthe.
+
+**Personnages** : [[Hellin Karstadt-Stampf]].

@@ -19,3 +19,5 @@ carte:
 > **Lieu n°39 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Ancien entrepôt transformé en théâtre « à la tiléenne » de pierre à voûte de bois, avec parterre, balcon et deux loges pour les nobles et riches citoyens. Dirigé par Benedict Gurkenfeld, ancien dramaturge, qui programme les spectacles et fait office de maître de cérémonie.
+
+**Personnages** : [[Benedict Gurkenfeld]].

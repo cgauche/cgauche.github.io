@@ -19,3 +19,5 @@ carte:
 > **Lieu n°11 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Le plus grand et le plus connu des bidonvilles d'Ubersreik, au nord-ouest du Quartier des Artisans, coincé entre les murs de la ville et les fortifications du Bastion. Surpeuplé et sans contrôle de population, dépourvu d'égouts, il abrite voleurs et maquerelles ; le Guet n'y passe jamais.
+
+**Personnages** : [[Guido Falck]].

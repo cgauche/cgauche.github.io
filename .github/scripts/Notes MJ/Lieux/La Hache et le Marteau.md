@@ -19,3 +19,5 @@ carte:
 > **Lieu n°17 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 La seule véritable taverne du quartier nain de Dawihafen, entièrement bâtie en pierre gravée à la gloire des ancêtres et éclairée par un grand feu central. Son sous-sol, réservé aux nains, abrite des sanctuaires de Grungni et Valaya ainsi que la Guilde des Ingénieurs nains, dirigée par le Longue-barbe Grodni Sûrmarteau, chef de la communauté naine.
+
+**Personnages** : [[Grodni Sûrmarteau]].

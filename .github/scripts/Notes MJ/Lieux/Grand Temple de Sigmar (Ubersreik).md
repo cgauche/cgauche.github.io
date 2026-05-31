@@ -19,3 +19,5 @@ carte:
 > **Lieu n°33 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Le plus grand temple de la ville, dédié à Sigmar, saint patron de l'Empire ; premier bâtiment reconstruit sur ordre de Magnus le Pieux après la destruction par les peaux-vertes lors de la Grande Guerre contre le Chaos. Sa façade à piliers peut accueillir plusieurs centaines de fidèles ; le Grand Prêtre est le père Gunther Emming.
+
+**Personnages** : [[Gunther Emming]].

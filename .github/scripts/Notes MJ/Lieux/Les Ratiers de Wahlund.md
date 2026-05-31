@@ -19,3 +19,5 @@ carte:
 > **Lieu n°52 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Guilde des ratiers d'Ubersreik installée dans une ancienne taverne, dont la cave abrite un chenil et une entrée sécurisée vers les égouts. Fondée par le Maître de Guilde Wahlund, ratier étranger venu du Nord qui a obtenu du Conseil de la Ville une nouvelle prime à la queue de rat ; elle compte neuf membres, dont la vétérane Melina Heilbronn.
+
+**Personnages** : [[Wahlund]].

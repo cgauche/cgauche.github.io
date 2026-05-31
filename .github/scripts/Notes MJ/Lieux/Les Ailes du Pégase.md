@@ -19,3 +19,5 @@ carte:
 > **Lieu n°59 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Restaurant le plus chic d'Ubersreik, au point le plus haut de Morgenseite, avec vue sur la ville et une salle à manger privée à l'étage ; on y sert des mets exotiques, dont des viandes de monstres. Chef cuisinier Johann Zustrass.
+
+**Personnages** : [[Johann Zustrass]].

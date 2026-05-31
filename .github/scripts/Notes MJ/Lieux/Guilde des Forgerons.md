@@ -19,3 +19,5 @@ carte:
 > **Lieu n°9 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Maison de guilde trapue et couverte de suie, en bordure de la route de Bögenhafen, entourée de fourneaux, de forges et d'ateliers résonnant du matin au soir. Seuls ses membres ont en principe le droit de forger des épées à Ubersreik ; ses rapports avec les artisans nains de la ville restent distants.
+
+**Personnages** : [[Petronilla Merkle]].

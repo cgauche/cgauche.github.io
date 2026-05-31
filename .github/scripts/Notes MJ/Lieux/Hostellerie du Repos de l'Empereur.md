@@ -19,3 +19,5 @@ carte:
 > **Lieu n°56 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Hostellerie de cinq étages au bas de Morgenseite, offrant suites et cuisine raffinée aux plus riches d'Ubersreik. Propriété du duc de Telland, elle est gérée par Hedrich Hann.
+
+**Personnages** : [[Hedrich Hann]].

@@ -19,3 +19,5 @@ carte:
 > **Lieu n°6 de la carte canon (Gamemaster Map d'Ubersreik).**
 
 Maison de guilde à la façade ornée de volutes de feuilles en bois, vouée à promouvoir l'art du travail du bois dans une ville bâtie en pierre. Ses créations les plus remarquables sont exposées dans la Salle des Maîtres, galerie servant aux cérémonies et réunions d'affaires.
+
+**Personnages** : [[Ernst Zimmermann]].
