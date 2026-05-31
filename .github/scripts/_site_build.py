@@ -4940,6 +4940,20 @@ CARTE_CSS = """\
 .carte-chip.active { opacity: 1; color: var(--ink); border-color: var(--gold);
   background: var(--parchment); }
 .carte-chip:hover { border-color: var(--oxblood); }
+/* type chips carry a colour swatch matching their map markers */
+.carte-chip[data-type]::before { content: ''; display: inline-block; width: 9px; height: 9px;
+  border-radius: 50%; margin-right: 5px; vertical-align: middle;
+  border: 1px solid rgba(40,28,18,0.45); background: #9a8f7a; }
+.carte-chip[data-type="religieux"]::before   { background: #eae3cf; }
+.carte-chip[data-type="magie"]::before        { background: #7c5aa6; }
+.carte-chip[data-type="gouvernement"]::before { background: #3f6fa8; }
+.carte-chip[data-type="militaire"]::before    { background: #9c3434; }
+.carte-chip[data-type="noble"]::before        { background: #c9a227; }
+.carte-chip[data-type="commerce"]::before     { background: #d2762a; }
+.carte-chip[data-type="taverne"]::before      { background: #8a5a2b; }
+.carte-chip[data-type="crime"]::before        { background: #2f2a27; }
+.carte-chip[data-type="mort"]::before         { background: #61716a; }
+.carte-chip[data-type="autre"]::before        { background: #9a8f7a; }
 .carte-poi.filtered-out { display: none; }
 .carte-stage { display: grid; grid-template-columns: 1fr 290px; gap: 1rem;
   align-items: start; }
@@ -5007,6 +5021,17 @@ CARTE_CSS = """\
 .carte-poi { cursor: pointer; }
 .carte-poi-dot { fill: var(--paper); stroke: var(--oxblood);
   transition: fill 0.12s, stroke 0.12s; }
+/* marker fill by location type (interaction states below override these) */
+.carte-poi[data-type="religieux"]   .carte-poi-dot { fill: #eae3cf; }
+.carte-poi[data-type="magie"]       .carte-poi-dot { fill: #7c5aa6; }
+.carte-poi[data-type="gouvernement"] .carte-poi-dot { fill: #3f6fa8; }
+.carte-poi[data-type="militaire"]   .carte-poi-dot { fill: #9c3434; }
+.carte-poi[data-type="noble"]       .carte-poi-dot { fill: #c9a227; }
+.carte-poi[data-type="commerce"]    .carte-poi-dot { fill: #d2762a; }
+.carte-poi[data-type="taverne"]     .carte-poi-dot { fill: #8a5a2b; }
+.carte-poi[data-type="crime"]       .carte-poi-dot { fill: #2f2a27; }
+.carte-poi[data-type="mort"]        .carte-poi-dot { fill: #61716a; }
+.carte-poi[data-type="autre"]       .carte-poi-dot { fill: #9a8f7a; }
 .carte-poi-label { font-family: var(--serif-body); fill: var(--ink);
   paint-order: stroke; stroke: var(--paper-hi); stroke-linejoin: round;
   pointer-events: none; opacity: 0; transition: opacity 0.1s; }
@@ -5015,7 +5040,7 @@ CARTE_CSS = """\
 .carte-poi.selected .carte-poi-label,
 .carte-poi.has-scenario .carte-poi-label,
 .carte-poi.search-hit .carte-poi-label,
-#carte-svg.show-names .carte-poi-label { opacity: 1; }
+#carte-svg.show-names .carte-poi.lbl-on .carte-poi-label { opacity: 1; }
 .carte-poi.selected .carte-poi-dot { fill: var(--oxblood); stroke: var(--ink); }
 .carte-poi.has-scenario .carte-poi-dot { fill: var(--gold); stroke: var(--oxblood); }
 .carte-poi.search-hit .carte-poi-dot { fill: var(--oxblood-hi); stroke: var(--ink); }
@@ -5229,6 +5254,30 @@ CARTE_JS = """\
     }
     for (var j = 0; j < distLabels.length; j++)
       distLabels[j].setAttribute('font-size', (15 * r).toFixed(2));
+    declutter();
+  }
+
+  // Greedy label declutter: show names in priority order (Notable first),
+  // hiding any whose box overlaps one already shown. Recomputed on zoom, so
+  // more names surface as you zoom in. Only runs when "Noms" is active.
+  var poiOrder = M.pois.slice().sort(function (a, b) {
+    return ((a.importance === 'Mineur') ? 1 : 0) - ((b.importance === 'Mineur') ? 1 : 0);
+  });
+  function declutter() {
+    if (!svg.classList.contains('show-names')) return;
+    var r = view.w / W0, placed = [];
+    for (var k = 0; k < poiOrder.length; k++) {
+      var p = poiOrder[k], node = poiNodes[p.id];
+      if (node.classList.contains('filtered-out')) { node.classList.remove('lbl-on'); continue; }
+      var fs = 13 * r, x0 = p.x + 9 * r, w = (p.name.length || 1) * fs * 0.52;
+      var rc = [x0, p.y - 8 * r - fs, x0 + w, p.y - 8 * r + 2 * r], hit = false;
+      for (var m = 0; m < placed.length; m++) {
+        var q = placed[m];
+        if (!(rc[2] < q[0] || rc[0] > q[2] || rc[3] < q[1] || rc[1] > q[3])) { hit = true; break; }
+      }
+      if (hit) node.classList.remove('lbl-on');
+      else { node.classList.add('lbl-on'); placed.push(rc); }
+    }
   }
 
   // ---- pan / zoom (manipulate the viewBox) ----
@@ -5415,6 +5464,7 @@ CARTE_JS = """\
     M.pois.forEach(function (p) {
       poiNodes[p.id].classList.toggle('filtered-out', !poiVisible(p));
     });
+    declutter();
   }
   if (filtersEl) {
     var h = '<span class="carte-filter-lbl">Types</span>';
@@ -5529,6 +5579,7 @@ CARTE_JS = """\
   var namesToggle = document.getElementById('carte-toggle-names');
   if (namesToggle) namesToggle.addEventListener('change', function () {
     svg.classList.toggle('show-names', namesToggle.checked);
+    declutter();
   });
   var zonesToggle = document.getElementById('carte-toggle-zones');
   if (zonesToggle) zonesToggle.addEventListener('change', function () {
