@@ -5,7 +5,7 @@ carte:
   section: seeufer
   x: 1010
   y: 490
-  desc: "Dédale de murs effondrés et de rues englouties, vestige du ward rasé par Grom, dangereux et marécageux, propice aux rencontres clandestines et à la contrebande."
+  desc: "Dédale de murs effondrés et de rues englouties, vestige du quartier rasé par Grom, dangereux et marécageux, propice aux rencontres clandestines et à la contrebande."
 ---
 
 # The Ruins

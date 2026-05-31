@@ -8,7 +8,7 @@ carte:
   quartier: Reichsweg
   x: 1078
   y: 350
-  desc: "Imposante porte fortifiee aux murs plaques de plâtre rouge et armoiries de la cite, accueil des arrivants par la Grand Way; principale caserne de la Garde et garnison des Salzenmund Greatswords."
+  desc: "Imposante porte fortifiee aux murs plaques de plâtre rouge et armoiries de la cite, accueil des arrivants par la Grande Voie; principale caserne de la Garde et garnison des Salzenmund Greatswords."
   source: salzenmund-canon-auto
 ---
 

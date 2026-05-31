@@ -5,7 +5,7 @@ carte:
   section: zinnentor
   x: 490
   y: 350
-  desc: "Petit ward paisible de la classe moyenne professionnelle, dominé par le Salzenmund Hospice et le temple de Shallya surplombant le lac."
+  desc: "Petit quartier paisible de la classe moyenne professionnelle, dominé par le Salzenmund Hospice et le temple de Shallya surplombant le lac."
 ---
 
 # Heulen

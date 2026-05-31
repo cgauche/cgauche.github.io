@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: sud
   quartier: Morgenseite
-  x: 530
-  y: 375
+  x: 505
+  y: 402
   desc: "Grande succursale impériale de Luigi & Salvatore, vaste bâtiment de granite sombre à deux étages, où les riches d'Ubersreik achètent vêtements, armes, armures et autres biens de luxe. Dirigée par la Tiléenne Adriana Corolla."
   source: gazetteer-auto
 ---

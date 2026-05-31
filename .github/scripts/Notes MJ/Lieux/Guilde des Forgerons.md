@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Quartier des Artisans
-  x: 470
-  y: 190
+  x: 507
+  y: 200
   desc: "Maison de guilde trapue et couverte de suie, en bordure de la route de Bögenhafen, entourée de fourneaux, de forges et d'ateliers résonnant du matin au soir. Seuls ses membres ont en principe le droit de forger des épées à Ubersreik ; ses rapports avec les artisans nains de la ville restent distants."
   source: gazetteer-auto
 ---
