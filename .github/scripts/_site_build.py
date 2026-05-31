@@ -5442,7 +5442,7 @@ CARTE_JS = """\
     if (p.section) h += '<div class="carte-quarter-tag">Section : ' + esc(sectionLabel(p.section))
       + (p.quartier ? ' · Quartier : ' + esc(p.quartier) : '') + '</div>';
     if (p.desc) h += '<p class="carte-desc">' + esc(p.desc) + '</p>';
-    if (p.ficheUrl) h += '<a class="carte-fiche-link" href="' + esc(p.ficheUrl) + '">Fiche du lieu →</a>';
+    h += ficheLink(p.ficheUrl, 'Fiche du lieu');
     // Scenes are shown ONLY for the currently selected scenario (nothing if "aucun").
     var cur = document.getElementById('carte-scenario').value;
     var refs = cur && p.scenarios ? p.scenarios[cur] : null;
@@ -5461,6 +5461,10 @@ CARTE_JS = """\
     var s = (M.sections || []).find(function (x) { return x.key === key; });
     return s ? s.label : key;
   }
+  // POI, quartier and section all link to their fiche the same way.
+  function ficheLink(url, label) {
+    return url ? '<a class="carte-fiche-link" href="' + esc(url) + '">' + label + ' →</a>' : '';
+  }
   function bindPanelLinks() {
     panel.querySelectorAll('[data-poi]').forEach(function (a) {
       a.addEventListener('click', function () { selectPoi(a.getAttribute('data-poi')); }); });
@@ -5473,6 +5477,7 @@ CARTE_JS = """\
     var meta = (M.sections || []).find(function (x) { return x.key === key; });
     var h = '<h3>' + esc(meta ? meta.label : key) + '</h3><span class="carte-zone-tag">Section</span>';
     if (meta && meta.desc) h += '<p class="carte-desc">' + esc(meta.desc) + '</p>';
+    h += ficheLink(meta && meta.ficheUrl, 'Fiche de la section');
     var quartiers = (M.quarterPolygons && M.quarterPolygons.length
         ? M.quarterPolygons.filter(function (q) { return q.section === key; })
                            .map(function (q) { return q.name; })
@@ -5495,6 +5500,7 @@ CARTE_JS = """\
           + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(dz.section)) + '</span>';
     if (dz.desc) h += '<p class="carte-desc">' + esc(dz.desc) + '</p>';
     h += liveZoneNote(dz.section);
+    h += ficheLink(dz.ficheUrl, 'Fiche du quartier');
     panel.innerHTML = h;
   }
 
@@ -5898,6 +5904,19 @@ def _resolve_carte_links(map_obj: dict, current_dir: Path,
                 if ref["url"] is None:
                     print(f"  ! carte: scène introuvable « {ref['scene']} » "
                           f"(POI {poi['id']}, scénario {sc_name})")
+    # quartiers & sections are fiches too (kind: quartier / section) → link them
+    # like POIs so the panel offers "Fiche du quartier / de la section →".
+    for dz in out.get("districts", []):
+        if dz.get("name"):
+            dz["ficheUrl"] = lieux_url(dz["name"])
+            if dz["ficheUrl"] is None:
+                print(f"  ! carte: fiche quartier introuvable « {dz['name']} »")
+    for sec in out.get("sections", []):
+        nm = sec.get("label") or sec.get("key")
+        if nm:
+            sec["ficheUrl"] = lieux_url(nm)
+            if sec["ficheUrl"] is None:
+                print(f"  ! carte: fiche section introuvable « {nm} »")
     return out
 
 
