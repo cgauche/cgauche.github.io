@@ -16,9 +16,6 @@ Le Domaine Aschaffenberg est la deuxième plus grande propriété de la Colline.
 
 - Un étranger un peu louche qui prétend travailler pour la duchesse Aschaffenberg veut employer le groupe afin de perturber la vente aux enchères à venir, en volant à Davieu sa liste des biens. L’entrée dans les lieux ne devrait pas être trop problématique, si ce n’est qu’il faudra gérer la présence des gardes du duc. 
 
-42
-Clément Gauche - gauche.c@gmail.com
-
 ## **La Maison Brauninger**
 Ce bâtiment, modeste comparé aux autres sur la Colline, est la propriété des Brauninger, une famille de marchands. Il comporte seize chambres, de grands quartiers pour les serviteurs, ainsi qu’une remise à calèches et des écuries dans un bâtiment à part. Les Brauninger ont construit la demeure il y a plus de deux siècles. La maison marchande a signé des contrats avec plusieurs familles de nobles et des groupes de mercenaires du nord au sud de l’Empire, afin de leur fournir des armes : c’est le fonds de commerce de la famille. Un grand nombre des forges de la ville sont sous leur contrôle, et la Guilde des Forgerons est un allié proche. 
 
@@ -46,8 +43,6 @@ C’est le scandaleusement riche duc de Telland qui possède cet impressionnant 
 
 - Hann a un problème de rongeurs. Si la présence de rats dans le sous-sol vient à se savoir, cela risque de nuire à son établissement. Il préférerait donc que la chose soit réglée rapidement et en toute discrétion, ce qui veut dire qu’il ne peut pas faire appel à la Guilde des Ratiers. Les traces de présence de rats sont évidentes, même si les trous sont anormalement larges… 
 
-Clément Gauche - gauche.c@gmail.com 
-
 - Un Personnage reconnaît l’un des résidents de l’hôtellerie. C’est Mikhail Ziegel, un Charlatan, qui se fait passer pour un noble, et prépare sans doute quelque chose. Le groupe pourrait le dénoncer, ce qui lui vaudrait les remerciements de Hann. Ou il pourrait choisir de parler à Mikhail, et de participer à l’arnaque. 
 
 ## **Le Domaine Karstadt**
@@ -66,9 +61,6 @@ Ce que personne, ou presque, ne sait, c’est que les Karstadt étaient autrefoi
 Ce point de vue s’appuie sur le fait que le mari d’Hellin, Leuthold, ne quitte que très rarement les bureaux de Karstadt-Stampf d’Altdorf. Il ne s’intéresse vraiment qu’à ce qui touche la banque, et passe donc la majorité de son temps à gérer cette activité dans la capitale impériale. Il y a bien des années qu’on ne l’a pas vu à Ubersreik, ce qui alimente bien entendu les ragots des commères de la région, qui en ont déduit que le mariage Karstadt-Stampf était au plus mal. Ces ouï-dire sont encouragés par la haine non dissimulée d’Hellin pour Altdorf, ce qui fait qu’elle n’a jamais rendu visite à son mari. Il est donc peu surprenant que la plupart des gens pensent qu’elle n’éprouve aucun sentiment pour lui, à part pour son sens aigu des affaires et ses coffres bien remplis. 
 
 Néanmoins, son amour pour ses nombreux enfants, aussi têtus soient-ils, est indéniable. Elle organise des fêtes somptueuses chaque fois que l’un d’entre eux revient à Ubersreik, et fait tout son possible pour combler leurs moindres besoins quels qu’ils soient. Joseph Specht, le trésorier des Karstadt-Stampf, l’aide dans cette tâche et reste disponible. C’est un individu effacé, une sorte de présence invisible, mais qui dégaine rapidement sa plume et son encrier, ou de l’argent, dès qu’il le faut. Bien évidemment, les commères d’Ubersreik insinuent que Sprecht offre bien plus que des conseils financiers à sa maîtresse, même s’il est, de notoriété publique, un mari comblé. 
-
-44
-Clément Gauche - gauche.c@gmail.com
 
 ## **Hellin Karstadt-Stampf**
 Hellin Karstadt-Stampf est une femme magnifique d’une cinquantaine d’années. Elle porte une paire de lunettes de lecture reliées par une chaîne en or, est toujours coiffée d’un beau chignon élégant et impeccable, et porte toujours des vêtements noirs et or de qualité, accompagnés de bijoux de grande valeur. Ceux qui envient sa fortune ne se gênent pas pour dire qu’elle est prétentieuse et vantarde. 
@@ -97,8 +89,6 @@ Malgré les apparences, Specht est un tueur sans pitié. Orphelin ayant vécu un
 - Alfred, l’un des fils d’Hellin, souhaite accompagner d’un titre l’argent dont il héritera à la mort de sa mère. Il est convaincu que les von Bruner conservent les lettres de noblesse de son grand-père. Il récompensera généreusement quiconque s’introduira dans le palais Bruner pour les récupérer. 
 
 - Annika, l’une des filles d’Hellin, ne s’intéresse pas du tout au commerce, et aspire plutôt à une carrière militaire. Elle paiera le groupe pour qu’il l’entraîne en secret, engageant les Personnages dans de petits boulots sur le Domaine afin de couvrir leurs discrètes activités martiales. Mais lorsqu’Annika sera blessée au cours d’un entraînement, ils devront réagir rapidement. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Magasin Luigi & Salvatore**
 C’est chez Luigi & Salvatore que les riches et les puissants d’Ubersreik viennent faire leurs achats. Un grand bâtiment de granite sombre, dont les deux étages sont pourvus de larges fenêtres en façade, accueille l’une des plus grandes succursales de L&S de tout l’Empire. À l’intérieur, les clients sont accueillis par un labyrinthe de rayonnages et de colonnes, au sein duquel se trouve une douzaine d’employés prêts à les aider, ou à expulser les indésirables, ainsi que ceux qui ne sont là que pour leur faire perdre du temps. Toutes sortes d’articles onéreux et de haute qualité peuvent y être achetés : vêtements, armes, armures, matériel d’écriture, et bien d’autres choses encore. 
@@ -134,8 +124,6 @@ Construit en 1589 CI par les Chevaliers Panthères, un riche ordre de chevaliers
 
 - • Le capitaine-chevalier Brander von Gerlbach des Chevaliers Panthères nourrit de lourds soupçons sur les raisons de la prise d’Übersreik, et il est venu sur place pour enquêter. Il agit depuis l’Odenhaus et a besoin de mercenaires compétents pour l’épauler. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Bastion**
 Le Bastion, comme se nomme le quartier militaire d’Ubersreik, entoure la Tour de Magnus. Il a été construit sur des fondations datant d’avant la destruction de la ville, isolé par des murs solides. Les portes en sont rarement fermées, mais en cas de troubles dans les rues, elles peuvent facilement être closes, et transformer le quartier en véritable forteresse. Autrefois, l’armée régulière, que ce soit le Guet ou ceux surveillant les murs et la province environnante, occupait les lieux. À cette époque, c’était la partie la plus sûre de la ville. Cependant, depuis l’arrivée des troupes d’Altdorf, de fortes tensions sont nées. L’incertitude quant aux juridictions de chacun a mené à des altercations entre les troupes de la ville et les intrus, qui ont été jusqu’à s’affronter en pleine rue. Même si aucun mort n’est à déplorer pour le moment, les officiers supérieurs craignent qu’il ne s’agisse que d’une question de temps avant que l’un ou l’autre camps n’aille trop loin. 
 
@@ -159,8 +147,6 @@ Le capitaine Erwin Blucher est à la tête des troupes stationnées ici. Cette f
 
 ## L’armée Régulière du Reikland
 Les juridictions les plus puissantes du Reikland doivent entraîner des soldats pour défendre « La province du Reikland ». Cette obligation de recrutement et d’entraînement de soldats réguliers a été fixée par une loi édictée par Magnus le Pieux après la Grande Guerre contre le Chaos. En temps de paix, ces soldats tiennent le rôle de Patrouilleurs ruraux, d’hommes du Guet, de gardes et de défenseurs du royaume. En temps de guerre, ils peuvent être réquisitionnés par le Prince du Reikland pour constituer l’Armée régulière du Reikland. Le nombre de régiments que chaque noble doit fournir est déterminé avec précision par un ensemble complexe de traités. On murmure que Magnus le Pieux était déterminé à faire en sorte qu’aucune maison noble ne puisse devenir suffisamment puissante pour pouvoir à nouveau déstabiliser l’Empire, et que c’est la raison pour laquelle il a imposé des limitations très strictes. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Seau et la Serpillière**
 Le Seau et la Serpillière est une auberge qui accueille presque exclusivement des soldats d’Ubersreik. Sa grande salle commune est théoriquement ouverte au grand public, mais les civils qui y pénètrent s’attirent des regards désapprobateurs et des huées. Le mobilier est bon marché, car il est régulièrement brisé lors de bagarres de bar, et l’arrivée des troupes d’Altdorf n’a fait qu’augmenter leur fréquence. 
@@ -191,8 +177,6 @@ Le premier étage est réservé aux officiers. C’est ici que les hommes et les
 
 - • L’assistant de Reiniger, Herr Katz, a un secret. Reiniger a libéré Katz de l’esclavage il y a plus de vingt ans, alors qu’il était parti chercher des tissus exotiques en Tilée. Son ancien propriétaire, Mario Malpensi, a une très bonne mémoire et de gros moyens. L’un de ses agents en ville, Davide Avido, contacte les PJ afin qu’ils l’aident à renvoyer Katz à son ancien propriétaire. La récompense proposée est importante, mais l’esclavage est interdit dans l’Empire. Bien évidemment, si les Personnages refusent, ils se feront un ennemi de Malpensi... 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **La Caserne du 3e D’ubersreik**
 Cette grande caserne abritait autrefois le 3[e] régiment de fantassins d’Ubersreik, le 33e du Reikland, surnommé : «les Cerfs de combat». Le régiment s’est replié à l’approche de l’armée d’Altdorf, laissant le bâtiment inoccupé. Un mur imposant entoure le terrain où s’entraînaient autrefois les soldats. Tout le long se dressent des tours, mais aussi des ateliers, des baraquements, des cuisines, des réfectoires et des chapelles, dont la plupart sont aujourd’hui fermés et silencieux. 
 
@@ -215,8 +199,6 @@ Le capitaine Andrea Pfeffer dirige le Guet. Pfeffer est une jeune femme d’une 
 
 - • Alors qu’ils sont en train d’intervenir suite à une rixe dans l’auberge du Cochon qui Explose (voir page 35), des hommes du Guet expérimentés veulent arrêter un Altdorfer en permission, alors que ses camarades, tout comme certains «récents» membres du Guet, veulent le libérer. Les PJ débarquent dans cette situation assez tendue... 
 
-49 Clément Gauche - gauche.c@gmail.com 
-
 ## **Les Égouts**
 Les égouts d’Ubersreik sont étendus, et font la fierté de la ville. D’ailleurs, de nombreux voyageurs ont eu le malheur de s’en voir offrir une visite guidée alors qu’ils ne manifestaient qu’un intérêt poli ! 
 
@@ -232,8 +214,6 @@ Lorsque les peaux-vertes ont rasé la ville il y a deux cents ans, les égouts f
 Malgré tous les efforts des Ratiers, des égoutiers de la ville, et du Guet, les égouts abritent toujours de nombreuses créatures indésirables. Le réseau sud, connu sous le nom des Égouts de Sigmar, en raison du nom de sa bouche, Sigmarschleuse, est mieux entretenu grâce aux patrouilles régulières effectuées par les Ratiers. Néanmoins, de nombreux témoignages font état de la présence d’hommes-bêtes au visage de rongeur et à la voix haut perchée se déplaçant très rapidement. Quiconque s’aventurant dans les égouts, surtout après la tombée de la nuit, est susceptible de faire une rencontre qu’il n’oubliera pas de sitôt. 
 
 Les Égouts de Magnus se trouvent sous la moitié nord de la ville. Ils sont moins fréquemment patrouillés, et, depuis l’éviction des Jungfreud, personne ne les a réellement nettoyés. En plus de la menace permanente des hommes-rats, d’autres créatures y résident. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 BESTIAIRE 
 
@@ -257,8 +237,6 @@ Brandt le doppelganger a élu résidence dans les égouts d’Ubersreik. Il est 
 **Traits :** Arme +4, Doppelganger, Craintif (Feu), Immunité à la psychologie, Taille (Moyenne) 
 
 **Notes :** Même s’il est immunisé à tout ce qui touche la Psychologie, Brandt est _Craintif_ par rapport au feu et un Personnage observateur pourra remarquer qu’il recule lorsqu’il est en présence de flammes. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Au-Delà des Murs**
 Au-delà des épaisses murailles de pierre d’Ubersreik, le terrain est dégagé sur plusieurs centaines de mètres, les arbres jugés trop proches sont abattus chaque année pour éviter que des brigands, ou des créatures pires encore, se risquent à sortir de la protection apportée par la forêt. Un décret interdit la construction de bâtiments en pierre à une distance inférieure à la portée d’une flèche des murs, pour garantir une défense optimale à Ubersreik. Une faille évidente de cet arrêté permet cependant l’édification de bâtiments en bois, même s’ils ne sont pas nombreux, et seuls certains types sont autorisés afin de ménager la susceptibilité des habitants. Les bidonvilles, ou les places de marché improvisées installées dans le but d’échapper aux taxes de la ville, ne sont pas tolérés. Toute construction irrégulière sera détruite par le Guet ou les soldats en patrouille. 
@@ -292,8 +270,6 @@ L’Estimée Compagnie d’Acteurs d’Ubersreik possède le bâtiment et s’oc
 
 - Le Front des Animaux d’Ubersreik (FAU) est un groupe actif composé de citoyens d’Ubersreik dirigés par une initiée de Shallya, Konstance Pfleger. Ils ont l’intention de s’introduire dans les coulisses au cours de la représentation de l’une des pièces interminables de Shütteln et de libérer tous les animaux. Comme les membres du FAU n’ont pas de réelles aptitudes physiques, ils ont embauché les Personnages pour les assister, sans réellement réfléchir à ce que les ours et les chiens entraînés au combat feraient aux étrangers qui les libèreraient. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Oh Mon Dieu, des Ours et des Chiens de Combat !
 Utilisez les statistiques suivantes pour les chiens et les ours qui combattent à l’Éperon d’Étain. La plupart du temps, il y aura un ours avec 1d10 chiens enfermés derrière l’arène. Pendant les festivals et les foires, il y en a bien plus. 
 
@@ -302,5 +278,3 @@ Utilisez les statistiques suivantes pour les chiens et les ours qui combattent �
 **M CC CT F E I Agi Dex Int FM Soc B M CC CT F E I Agi Dex Int FM Soc B** 4 55 - 55 55 30 25 15 15 15 20 42 4 60 - 30 30 40 30 - 15 20 10 11 
 
 Traits : Arme +9, Armure (peau 1), Champion, Morsure +9, Taille Traits : Arme +6, Armure (peau 1), Taille (Petite), Vision Nocturne (Grande) 
-
-Clément Gauche - gauche.c@gmail.com

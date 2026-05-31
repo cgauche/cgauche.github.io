@@ -26,8 +26,6 @@ Le Reikland est réputé dans tout l’Empire pour ses nombreux festivals. Ubers
 |**Magnustag**|10 Sigmarzeit|**Magnus le Pieux.**Une journée entière de carnaval au cours de laquelle les différents quartiers<br>tentent de fabriquer laplusgrande « Maggie »,degrandes effgies de Magnus le Pieux.|
 |**Brynkulti**|1er Jahrdrung|<br>**Les Parures naines en or.**Une foire mettant en avant les objets en or fabriqués par les nains de<br>Dawihafen et des Montagnes Grises.|
 
-Clément Gauche - gauche.c@gmail.com 
-
 La plupart des marchandises entrent et sortent d’Ubersreik par la rivière. Le duché de Roche Noire, appartenant aux Jungfreud, est relié à la cité par la Teufel, navigable jusqu’au Shluesselschlossscheucht, une gorge très profonde. Jusqu’à récemment, les précieux chargements de houille et de minerai de fer provenant du duché transitaient par barge le long de la Teufel jusqu’à Ubersreik. Cependant, avec les récents bouleversements, les Jungfreud ont choisi de leur faire emprunter à la place le canal Hägercyrb, ce qui a conduit à une pénurie de houille dans la ville. En aval, la Teufel se jette dans le Reik, qui rejoint Altdorf. Cette route navigable vers la capitale ne fait que renforcer l’importance d’Ubersreik. 
 
 Récemment, l’archiduc de Haute-Teufel a contribué au financement d’un important système de canaux. Deux d’entre eux sont reliés à la rivière Teufel : le canal de la Dame Grise et l’Hägercryb. Le canal de la Dame Grise descend vers Nuln, et permet ainsi d’éviter un long détour obligeant à descendre la Teufel puis à remonter le Reik. L’Hägercryb permet de rejoindre la rivière Tahme, puis de descendre la Bögen jusqu’au Reik, en amont d’Altdorf. Il est important de noter que cela permet de relier Ubersreik à Carroburg, puis à Marienburg. 
@@ -42,9 +40,6 @@ ingénieurs nains en prolongement de la forteresse de Roche Noire. Les hommes de
 Trois portes et une rivière permettent de franchir les murs. Conformément aux demandes faites par Magnus le Pieux lors de la construction, les portes nord et sud sont assez larges pour permettre à « un régiment entier en ordre de marche » de passer. Elles restent ouvertes de l’aube au coucher du soleil, lorsque l’imposante corne de la tour Magnus, annonce que l’heure de la fermeture est imminente. Une énorme porte en chêne massif, renforcée de fer, ferme alors chacune des issues. Une herse robuste, des meurtrières, et divers mécanismes mortels de fabrication naine jalonnent chaque accès aux portes, assurant la tranquillité d’Ubersreik. La porte Est, plus petite, ne dispose pas de la même sécurité, mais elle est bien plus étroite et ne permet le passage de front que de deux chariots. Les trois passages sont surveillés par un employé des Douanes et par le Guet, afin de s’assurer que toutes les taxes appropriées soient bien payées. 
 
 La rivière Teufel est protégée par de solides tours et d’énormes portes munies de herses, une à l’est, et l’autre à l’ouest. Ces herses sont rarement fermées car il faut pratiquement une demi-heure pour les manœuvrer. L’étage le plus bas de chacune des tours renferme les plateformes de treuillage utilisées pour lever une lourde chaîne forgée par les nains, dont chaque maillon est aussi grand qu’un homme. Elle est parcourue d’énormes pointes et de lames gigantesques capables d’éventrer un navire de guerre. 
-
-14
-Clément Gauche - gauche.c@gmail.com
 
 ## **Quartier des Artisans**
 Le Quartier des Artisans est le cœur industriel d’Ubersreik. Il se trouve à l’est de la route de la Dame Grise, au nord de la Teufel, là où les matières premières et les produits finis sont chargés et déchargés sur les quais. Pendant la journée, le son du marteau frappant le métal se mélange à l’odeur âcre se dégageant des ateliers des tanneurs et des accastilleurs. 
@@ -73,8 +68,6 @@ Ernst Zimmermann, le Maître de Guilde actuel, est un homme très grand et à la
 
 - • Le bois de qualité est difficile à trouver, étant donné l’augmentation de la demande de bois de chauffe, maintenant que la houille se fait rare à Ubersreik. Les membres du groupe sont engagés par Zimmerman pour l’accompagner dans les bois à la recherche d’un bosquet bien précis, sans savoir que ce dernier abrite une petite harde d’hommes-bêtes, conduite dans la région par quelque chose de bien plus gros... 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **L’apothicairerie de Cordelia**
 L’apothicairerie de Cordelia se trouve sur une petite place pavée au bout du Chemin du Magicien. Un mortier et un pilon en bois peint sont accrochés au-dessus d’une solide porte du même matériau. Des guirlandes de fleurs et d’herbes aux douces senteurs sont suspendues au-dessus dans l’espoir d’attirer plus de clients. 
 
@@ -96,8 +89,6 @@ S’il découvre une serrure illégale, il fait alors appel au Guet afin de la r
 - Schlüsselfert est en fait un membre et un prêtre béni de la secte des Doigts Crochus, qui fait partie du culte de Ranald. Bien qu’il n’ait aucun apprenti, il utilise sa cave pour entraîner des apprentis voleurs dans l’art si précis du crochetage de serrures, tant qu’ils vénèrent Ranald et qu’ils ont de quoi payer. 
 
 - Après plusieurs cambriolages, Schlüsselfert engagera le groupe pour aller vérifier les serrures de certains de ses clients. Bien qu’il n’ait rien à voir avec cette affaire, il ne peut pas se permettre que le Guet se mette à poser des questions. Il revient donc aux Joueurs de résoudre l’affaire ou de trouver un bouc émissaire, et rapidement. 
-
-16 Clément Gauche - gauche.c@gmail.com 
 
 ## **La Guilde des Forgerons**
 La maison de la Guilde des Forgerons est un bâtiment trapu, sans prétention et couvert de suie, juste à côté de la route de Bögenhafen. Elle est entourée de fourneaux, de forges et d’ateliers qui résonnent du son des marteaux contre le métal, de l’aube au crépuscule. L’intérieur de la maison de Guilde, sombre avec des plafonds bas, est une tentative ratée pour plaire à la population naine de la ville. Les artisans nains sont d’une extrême politesse, mais ils ne considèrent pas leurs homologues « à courte barbe » comme des rivaux potentiels. 
@@ -128,8 +119,6 @@ Guido Falck s’est réfugié à Wandiene après l’arrivée du général von D
 
 - Karolus Dichens, auteur, journaliste et critique social, effectue des recherches pour son prochain livre, _Nonnie Verdreh_ . Il cherche à visiter Wandiene, mais ne parvient pas à trouver des gens de confiance pour le guider dans ce lieu dangereux. C’est pourquoi il se contente, pour le moment, de traîner à sa périphérie pendant des heures et des heures, en prenant des notes et en posant des questions, avant de rentrer à l’Auberge de la Maison du Pont à la nuit tombée (voir page 15). Il n’a pas beaucoup d’argent, mais il proposera au groupe de figurer dans son livre en tant que personnages secondaires, s’il accepte de le protéger lors de son expédition dans le bidonville. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Chemin du Magicien**
 La Graf Otto Strasse est une rue longue et sinueuse qui serpente à travers la partie est du Quartier des Artisans. Elle est communément appelée le Chemin du Magicien, car elle héberge le seul sorcier qui réside en ville. La rue est bordée en grande majorité de petites échoppes qui vendent des herbes, des livres et autres objets ésotériques. Elle est surplombée par la Tour du Sorcier Gris, une tourelle tortueuse au toit d’ardoise, qui semble observer par-dessus les autres bâtiments de pierre et de bois. Bien que la tour soit facile à localiser, son entrée semble impossible à trouver. Certains visiteurs curieux font le tour du bâtiment à la recherche d’une porte ou d’une allée, mais en vain ; les habitants de la ville ont cessé de chercher depuis longtemps. 
 
@@ -150,8 +139,6 @@ Rudy Schlau, le maître de guilde, est un politicien aguerri. Passé maître dan
 ## **L’honorable Guilde des Couteliers**
 Ces dernières années, cette guilde n’a cessé de gagner en richesse et en influence. En plus des couteaux et des fourchettes, elle a en effet commencé à vendre des armes. Bien que la réglementation d’Ubersreik stipule que seuls les membres de la Guilde des Forgerons ont le droit de fabriquer des épées, les couteliers ont exploité une faille sur la façon dont la poignée est raccordée à la soie, ce qui leur permet de faire rentrer leurs lames dans la catégorie des couteaux (mais des couteaux avec des lames de plus d’un mètre de long). 
 
-Clément Gauche - gauche.c@gmail.com
-
 ## **Roche Noire**
 Roche Noire est plus un immense ensemble de châteaux qu’un quartier à proprement parler, et tire son nom du granite noir qui compose ses murs anciens, ainsi que du duché ancestral des Jungfreud, lui aussi appelé Roche Noire et situé dans les Montagnes Grises. Il domine Ubersreik, occupant à peu près un huitième de la surface de la ville. Il est entouré d’immenses parapets directement reliés aux murailles de la cité, ce qui en fait une partie intégrante de la défense d’Ubersreik. Un tunnel sécurisé mène de Roche Noire à la tour de Magnus, permettant aux troupes et aux messagers d’aller d’une forteresse à l’autre, même si la ville venait à tomber. Pendant des siècles, il fut le bastion des Jungfreud. 
 
@@ -171,8 +158,6 @@ Le Grauer Palast est un donjon trapu, au nord-est de la forteresse de Roche Noir
 
 Le donjon est maintenant la demeure de dame Emmanuelle Nacht, Héraut Impérial et détentrice du seul véritable pouvoir à Ubersreik. Fille du duc Gregor Nacht, un ancien ambassadeur au Grand Cathay, elle a passé la plus grande partie de son enfance dans l’Est. La 
 
-Clément Gauche - gauche.c@gmail.com
-
 vie de Nacht a basculé il y a six ans de cela, lorsque son père fut assassiné, ce qui la mena jusqu’à la Cour Impériale d’Altdorf afin d’y obtenir certaines réponses. Elle serait d’ailleurs toujours en train d’enquêter sur la « Main Pourpre », un groupe mystérieux qu’elle soupçonne d’être responsable de la mort de son père, si l’empereur Karl Franz lui-même ne lui avait pas demandé de superviser la pacification d’Ubersreik. 
 
 ## **La Chapelle de Saint Arnold**
@@ -189,8 +174,6 @@ Aujourd’hui, la sœur prend soin de lui et tente de lui remonter le moral, ce 
 Ce que les occupants ignorent, c’est qu’un réseau de tunnels s’étend sous la chapelle. L’un des tunnels mène au donjon, alors qu’un autre s’étend jusqu’aux jardins intérieurs de la forteresse. Les tunnels sont recouverts de graffitis orques, sombres souvenirs du temps où les peaux-vertes occupaient Roche Noire, il y a deux siècles de cela, suite à l’occupation de la ville. Sœur Habercorn et les Jungfreud sont les seuls au courant de l’existence de ces tunnels. Elle y tient, car ils abritent un secret qu’elle ne peut laisser les occupants découvrir. 
 
 Quand les forces d’Altdorf se sont emparées d’Ubersreik, le graf Sigismund von Jungfreud s’était déjà replié, accompagné de sa femme, de la grande majorité de ses forces armées et 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Sœur Habercorn**
 Les jeunes années de Grethe Habercorn ne la prédestinaient pas à devenir le confesseur d’une ancienne lignée de nobles du Reikland. Ayant commencé sa vie comme Rançonneuse et membre d’un gang, elle était déjà adulte lorsqu’elle fut touchée par la foi. Sœur Habercorn ne s’attardera pas sur les détails de son passé, si ce n’est pour sourire d’un air triste en faisant allusion à une jeunesse gâchée. Elle porte encore les stigmates de ces années : une cicatrice au niveau d’un œil (toujours valide), ainsi qu’un tatouage sur le visage représentant un couteau et une larme. Malgré son expression souvent morose, sœur Habercorn est généralement très affable, bien qu’elle devienne vraiment féroce lorsqu’elle se met en colère. 
@@ -214,8 +197,6 @@ Wendelin, un garçon nerveux et stressé de douze printemps, supporte très mal 
 
 - En désespoir de cause, sœur Habercorn s’est tournée vers le groupe afin qu’il l’aide à faire sortir le jeune seigneur Wendelin de Roche Noire. S’il est pris, il est fort probable qu’il sera blessé, voire tué, par les soldats d’Altdorf, compte tenu de leur attitude générale envers les von Jungfreud. Les Personnages pourraient par exemple se mettre en quête du fameux passage secret, ou tenter de le faire sortir par l’une des portes principales. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Dawihafen**
 Ubersreik a conservé des liens étroits avec les nains depuis que Magnus le Pieux a fait appel à eux pour reconstruire la ville après la Grande Guerre contre le Chaos. Outre l’immense pont, qui forme un point de repère célèbre dans les environs, les murs de la ville, et beaucoup de ses bâtiments en pierre sont de construction naine. Dawihafen, le Quartier nain d’Ubersreik, abrite une communauté naine très soudée. Seule une poignée d’humains et d’halflings vit dans cette zone, essentiellement peuplée par le millier de nains présents dans la ville. Cette population compte essentiellement sur elle-même. 
 
@@ -238,5 +219,3 @@ Barbedemousse est épaulé par ses deux frères, Hargan et Dwargun, et par son o
 - Le groupe découvre qu’en vérité, Barbedemousse n’a aucun lien de parenté avec Josef Bugman, et qu’il ne raconte ce mensonge que pour stimuler ses ventes. S’il est publiquement démasqué, il sera couvert de honte et n’aura plus qu’à prononcer le Serment du Tueur. Peut-être que les Personnages pourront utiliser cette information à leur avantage ? 
 
 - Sarah Tanner, une brasseuse humaine du Quartier des Artisans, est jalouse de la réussite de Barbedemousse. Ses breuvages, qui copient les méthodes de brassage des nains, ne se vendent pas à cause de cette rivalité. Elle a empoisonné, à l’aide de malepierre, certains des barils de ce dernier destinés à une réception se tenant sur la Colline, sans se rendre compte de la gravité de son acte. Est-ce que le groupe parviendra à intercepter la bière contaminée avant que les nobles ne commencent à en boire ? 
-
-Clément Gauche - gauche.c@gmail.com

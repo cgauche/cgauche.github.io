@@ -14,8 +14,6 @@ Les ogres sont bruyants, goulus, vantards, fougueux, colériques et belliqueux. 
 
 Les ogres sont bien connus pour leur propension à voyager, ce qui fait qu’on peut facilement les trouver aux quatre coins du monde, combattant dans des groupes de mercenaires d’une vingtaine à quelques centaines d’individus, voire plus. Contrairement à la croyance populaire, les ogres s’intègrent plutôt bien dans la plupart des sociétés qu’ils rencontrent, assimilant les coutumes et les traditions locales avec une facilité qui est probablement due à un manque d’imagination. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Histoire des Ogres**
 Il y a plusieurs milliers d’années, les ogres vivaient dans les steppes orientales, de l’autre côté des Montagnes du Bord du Monde. Ce peuple simple passait la plupart de son temps à commercer et à guerroyer. Son territoire était bordé de nations humaines qui voyaient certains avantages à travailler avec les ogres, notamment en raison de leur force prodigieuse. À la naissance de l’Empire, Sigmar les a d’ailleurs considérés comme d’excellents guerriers. Bien que mutuellement bénéfiques, ces relations étaient souvent entachées de suspicion. Certains trouvaient que leurs alliés ogres avaient appris trop de choses et étaient devenus un peu trop puissants grâce à ces arrangements. D’aucuns disent que c’est cette méfiance qui poussa un puissant sorcier à attaquer les ogres, tandis que d’autres pensent que cet acte avait pour seul but de venger les nombreuses personnes que les ogres avaient tuées et dévorées au combat. Quelle que soit la véritable version, un terrible châtiment s’abattit sur les ogres, qui les changea à jamais. 
 
@@ -54,8 +52,6 @@ _« Ma mère avait l’habitude de dire “plus grand tu es, moins tu fais preuv
 
 — Ezra Brynsdottir, brise-bouclier naine 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Ce Que les Ogres Pensent des Halflings...**
 _« Ils sont petits et délicieux si tu dois remplir ton garde-manger vide, mais il vaut mieux s’en servir pour cuisiner... Enfin, c’est eux qui font la cuisine. Ils sont très bavards, mais il y a quelque chose chez eux qui en ferait presque des membres de la famille. Mais c’est pas non plus comme les avortons que tu finis par manger. »_ 
 
@@ -90,8 +86,6 @@ _« Les quoi ? Ah oui, les forêts qui piquent. Oui, je vois : tu te promènes, 
 _« Peu de créatures ont le pas aussi lourd que les ogres, dont chaque mouvement laisse une nouvelle marque dans la nature. Et pourtant, contrairement aux humains ou aux nains, peu de mes semblables éprouvent de l’animosité à leur égard. Après tout, on ne déteste pas la fourmi qui se repaît du cerf déchu, ni le grondement de son estomac lorsqu’il crie famine. Les ogres sont une force naturelle de ce monde, force qui demande à être contrecarrée par la lame et les flèches, mais jamais par la haine. »_ 
 
 — Faraoth Vaguauvent, observateur elfe sylvain 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Personnages Ogres**
 La création de Personnages ogres suit les mêmes étapes que celles présentées dans **Warhammer Fantasy le Jeu de Rôle** ( **WFJDR** p. 24) avec les ajouts suivants. 
@@ -163,8 +157,6 @@ Bien que résistants aux effets du Chaos, les ogres ne sont pas immunisés contr
 |Corps|01–10|
 |Esprit|11–00|
 
-Clément Gauche - gauche.c@gmail.com 
-
 **Débardeur :** on dit qu’un débardeur ogre compense largement le volume de nourriture qu’il consomme par la quantité de marchandises qu’il peut charger sur un navire. Tout marchand astucieux, pour autant qu’il ait prévu un bon surplus de stock pour couvrir les besoins, peut réaliser de belles économies avec une équipe d’ogres volontaires. 
 
 **Garde :** les ogres sont souvent employés comme gardes du corps par ceux qui peuvent se permettre de prendre en charge leurs frais exorbitants. Ils excellent dans leurs fonctions, car peu de personnes sont disposées à s’en prendre ouvertement à un ogre, si on leur laisse le choix. Cependant, leur corpulence peut souvent poser problème, car ils sont incapables de pénétrer dans de nombreux établissements fréquentés par leurs employeurs. 
@@ -199,8 +191,6 @@ La race des ogres présente autant de variété que les humains, ses diverses cu
 **Soldat :** il semblerait que le but premier des ogres soit de tuer pour de l’argent. Cette activité combine deux de leurs passe-temps favoris, et parfois trois, car la plupart des généraux ne voient pas d’inconvénient à ce qu’ils mangent leurs ennemis : cela évite d’avoir à les enterrer et à s’embarrasser des détails des sépultures, tout en réduisant les coûts liés à la nourriture. De plus, l’attrait des océans en tant que marin, ou les déplacements constants liés à la vie de mercenaire, correspondent à leur envie de voyager. 
 
 **Spadassin :** bien que les ogres soient des spadassins nés, ils poussent souvent le vice un peu trop loin et ont tendance à tuer, puis à manger leurs victimes au lieu de se contenter de les frapper. La plupart des ogres ne considèrent même pas cette activité comme une carrière à proprement parler, mais plutôt comme une façon naturelle de faire les choses : « _Tu me payes un repas si je tape quelqu’un ? Ça roule, je m’occupe de qui ?_ » 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Attributs**
 Pour générer les attributs de votre ogre, suivez les mêmes étapes que celles décrites dans **WFJDR** (p. 33) en vous basant sur le Tableau des attributs des ogres suivant. 
@@ -244,8 +234,6 @@ Vous êtes bien plus massif que la plupart des habitants du Vieux Monde. Les rè
 
 ## Nouveau Trait Psychologique : Vice
 Vous éprouvez le besoin constant de vous adonner à votre Vice, vers lequel vos pensées s’égarent en permanence. Vous devez vous y abandonner totalement et de manière malsaine. Par exemple, si votre Vice est lié à la nourriture, vous ne vous contentez pas de prendre un simple repas, mais vous vous transformez en un véritable goinfre qui se met à manger tout ce qu’il peut jusqu’à ce qu’il soit ballonné et en devienne malade. Chaque fois que vous êtes confronté à la Cible de votre Vice, vous devez vous soumettre à un Test de **Psychologie** ( **WFJDR** p. 190). En cas d’échec, vous devez immédiatement vous laisser aller à votre Vice, en renonçant à vos autres actions ou devoirs. Vous ne serez satisfait qu’une fois que vous aurez perdu connaissance et gagnerez alors un État _Exténué_ . À la fin de chaque Round, vous pouvez ensuite tenter un autre Test de Psychologie pour mettre fin à cet État. Vous subissez également -20 à tous les Tests de Sociabilité envers les Personnages qui ont été témoins de votre folie furieuse, car ils sont révulsés par votre comportement. Pour chaque jour complet que vous passez sans vous adonner à votre Vice, vous gagnez un cumul de -20 à tous les Tests de Psychologie jusqu’à ce que vous y soyez soumis. 
-
-Clément Gauche - gauche.c@gmail.com
 
 ## **Détails Physiques**
 Comme pour toutes les Races, vous pouvez soit déterminer les détails suivants de manière aléatoire, soit choisir parmi les éléments disponibles. 
@@ -297,8 +285,6 @@ De nombreux ogres impériaux portent des noms propres à l’Empire, qu’ils on
 ## **Générer des Noms D’ogres**
 Traditionnellement, les noms des ogres sont formés à partir d’un certain nombre de racines et de terminaisons communes. La première composante est inspirée de ce qui constitue le premier repas de l’enfant, tandis que la seconde varie selon la saison, le lieu de naissance, les actes notables des parents, etc. Pour générer un nom d’ogre, utilisez les deux tableaux de la page suivante et combinez les deux composantes. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 1 [ÈRE]  PARTIE D’UN NOM OGRE
 1d100 Élément 1d100 Élément 1d100 Élément 1d100 Élément 1d100 Élément
 01 Ar 21 Grum 41 Nar 61 Tar 81 Verm
@@ -343,8 +329,6 @@ Clément Gauche - gauche.c@gmail.com
 18 artaga 38 ett 58 onni 78 thorg 98 uruzi
 19 arthash 39 ew 59 orgoo 79 throg 99 uttish
 20 attha 40 gat 60 orglish 80 throt 00 yogg
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Titres des Ogres et Noms de Clan**
 Si certains ogres accordent beaucoup d’importance à leur nom, pour la plupart, il s’agit simplement d’un son qui leur permet de se reconnaître. En revanche, les appellations et les titres obtenus au cours de leur vie sont bien plus importants. 
@@ -399,8 +383,6 @@ Les ogres impériaux sont nés dans l’Empire, ils ont donc appris ses us et co
 
 D’autres ogres, comme les voyageurs venus des royaumes ogres, portent quelques vestiges de leur culture d’origine, mais ils s’adaptent rapidement. Ils se font aux coutumes locales, mais ont souvent du mal avec les préoccupations plus ésotériques, comme la moralité, la religion ou encore la philosophie, qu’ils imitent plus qu’ils ne les assimilent. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **À Quoi Ressemble Votre Famille ?**
 Les ogres sont assez stoïques et, bien que leurs préoccupations les plus urgentes concernent généralement leur prochain repas, ils se soucient également de l’éducation de leurs enfants. Certaines pratiques peuvent sembler cruelles aux yeux des étrangers, mais les Montagnes des Larmes offrent un habitat rude dans lequel le plus robuste des ogres doit apprendre à survivre. Cet aspect est quelque peu tempéré par la culture de l’Empire, aussi les parents déconseillent à la plupart des enfants qui y sont nés de dévorer leurs frères et sœurs les plus faibles. 
 
@@ -427,8 +409,6 @@ Il n’en demeure pas moins que tous les ogres sans exception ont au fond d’eu
 
 ## **Envers Qui, Ou Quoi, Êtes-Vous Loyal ?**
 Un ogre est aussi loyal qu’un humain, vous pouvez donc vous reporter aux questions soulevées dans **WFJDR** (p. 43) et y répondre comme pour n’importe quel autre Personnage. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Pourquoi Partir À L’aventure ?**
 Le plus souvent : l’envie de voyager, l’avidité, la faim, mais surtout l’envie de voyager. Les ogres ont envie de prendre la route, alors il n’est pas difficile de trouver une bonne justification pour laisser son ancienne vie derrière soi. Peut-être que votre ogre veut aller voir les Montagnes des Larmes ? Ou prendre la mer ? Ou serait-il possible que votre ogresse souhaite simplement s’enrichir ? Quoi qu’il en soit, un Joueur ogre ne devrait pas avoir trop de mal à trouver une bonne raison de partir à l’aventure. 
@@ -467,8 +447,6 @@ Les Personnages ogres progressent au même titre que n’importe quel autre Pers
 **Sergent :** il n’est pas rare de voir des bandes d’ogres en devenir se disputer le commandement des groupes de mercenaires. Ils sont généralement prêts à tout pour faire leurs preuves, ce qui les rend extrêmement dangereux. Certains empruntent la voie la plus sûre au sein d’une armée établie, mais la plupart sont des mercenaires nomades. 
 
 **Explorateur :** les ogres aiment voyager aux quatre coins du monde. Lorsqu’ils finissent par rentrer dans leur pays (un jour, peut-être), les grands voyageurs ogres sont admirés pour les histoires étonnantes qu’ils racontent et les trophées impressionnants qu’ils ramènent de leurs voyages. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Exemples de Personnages Ogres**
 ## **Nazzaalta Affabule**
@@ -517,8 +495,6 @@ ARTUR PIEDMARTEAU - ARTISAN OGRE **Carrière :** Artisan (ancien Apprenti Artisa
 
 **Possessions :** craie, cape, vêtements, dague, licence de Guilde, chapeau, justaucorps de cuir, repas, bourse, besace, chiffons, outils professionnels (forgeron) 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **À L’attention du Meneur de Jeu**
 Les points suivants sont des conseils pour les Meneurs de Jeu qui souhaitent ajouter des ogres à leurs campagnes de **Warhammer Fantasy le Jeu de Rôle** . Pour commencer, nous pensons que c’est une excellente idée (sinon nous n’aurions pas publié ce supplément). Dans la mesure du possible, essayez de présenter tous les problèmes potentiels liés aux ogres de manière positive ! 
 
@@ -542,8 +518,6 @@ Cependant, l’ajout d’un ogre n’est pas une décision qui doit être prise 
 Oui, ils le sont, foncièrement et sans vergogne. Les ogres sont bel et bien surpuissants, raison pour laquelle les armées impériales n’hésitent pas à se servir d’eux. Un ogre peut s’attaquer à lui seul à plusieurs humains, gobelins, etc. Mais c’est un juste retour des choses. Après tout, les ogres sont confrontés à toutes sortes de problèmes en raison de leur Statut. Ils dépendent presque entièrement d’autres Personnages pour s’en sortir dans le Vieux Monde : ils ne savent ni lire, ni compter, font de piètres économes et leurs dépenses les plus élémentaires suffiraient à ruiner la plupart des modestes marchands. 
 
 Un Personnage ogre est un ajout bienvenu à tout groupe d’aventuriers, mais certains Joueurs peuvent trouver injuste que cette race soit si supérieure au combat. Assurez-vous d’en discuter avec l’ensemble du groupe de jeu. Si l’un des membres est réticent à l’idée d’intégrer un Personnage ogre, vous pouvez toujours utiliser les règles de ce chapitre pour créer des PNJ ogres qui valent le détour. Toutefois, gardez à l’esprit qu’avoir un ogre dans le groupe peut ouvrir de nouvelles possibilités. Par exemple, si les autres Joueurs souhaitent se concentrer sur une Carrière de Lettré ou de Citadin, ils pourront s’y consacrer entièrement : si la violence est requise, l’ogre s’en chargera avec plaisir. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## De L’importance de la Taille
 Les règles de Taille sont quelque peu complexes, mais savoir comment les utiliser est crucial pour les Joueurs ogres et les MJ. Les différences telles que le plus grand nombre de blessures que peuvent recevoir les ogres sont abordées précédemment dans la section Création de Personnage. Les principales règles à prendre en compte la taille d’un ogre sont résumées ci-dessous. Vous trouverez plus de détails dans **WFJDR** (p. 342). 
@@ -578,8 +552,6 @@ Bien entendu, les ogres peuvent également tirer profit de leur réputation inti
 Comme indiqué à la page 11, la plupart des armes et équipements ordinaires sont disponibles en « taille ogre ». En dehors du fait qu’elles sont plus lourdes, ces armes n’ont pas d’effets supplémentaires, si ce n’est qu’elles peuvent potentiellement acquérir les Atouts Dévastatrice et Percutante en plus d’augmenter les dégâts contre les Petites créatures, comme indiqué dans la section _De l’importance de la taille_ , cicontre. 
 
 Toutefois, les ogres forgent et utilisent leurs propres armes et armures, notamment leurs immenses massues et leurs impressionnantes pansières. Les règles de ces créations sont détaillées ci-dessous. Attention : il s’agit d’armes réservées aux ogres, les points d’Encombrement n’ont donc pas besoin d’être doublés comme pour les autres Possessions (voir p. 31). Inutile de préciser que ces armes sont pratiquement inutilisables entre les mains des créatures de Taille Moyenne et que la plupart des Petites créatures auront même du mal à les soulever. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## Armes de Corps À Corps des Ogres
 Arme Prix Enc. Disponibilité* Allonge Dégâts Atouts et Défauts
@@ -625,8 +597,6 @@ Boulet crache-plomb (1) 1 CO* 0 Limitée Comme l’arme +4 Empaleuse, Percutante
 
 *Les pansières des ogres sont particulièrement adaptées à leur anatomie. Même si elles étaient réduites, elles n’offriraient qu’une protection partielle aux races dont les organes vitaux ne se trouvent pas dans leur ventre. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 Compétences Projectiles (Arbalète) ou Projectiles (Entraves) sans pénalité. Si la corde est séparée de la flèche, la portée passe à 60 et l’arme ne possède plus l’Atout Immobilisante. 
 
 ## **Description des Armes**
@@ -648,8 +618,6 @@ Cet ensemble de mâchoires métalliques à ressort reposant sur une longue chaî
 
 ## **Lance-Harpon**
 Utilisé pour chasser des proies, le lance-harpon tire une énorme flèche de la taille d’une lance, attachée à une longue corde. Il n’est pas doté d’un mécanisme permettant de ramener la corde automatiquement, l’ogre doit donc saisir la corde et tirer sa proie à la main. Le lance-harpon peut être utilisé avec les 
-
-Clément Gauche - gauche.c@gmail.com
 
 ## **Pistolet Ogre**
 Un pistolet ogre est une version améliorée de son équivalent Impérial qui utilise les mêmes munitions et la même poudre qu’une arme typique à poudre noire ( **WFJDR** p. 297). Toutefois, il est suffisamment solide pour servir d’arme simple et ne se brise qu’en cas de Maladresse. 
@@ -684,8 +652,6 @@ Attention : ces ingrédients ne sont pas pris en compte dans la réduction du ri
 
 Enfin, les ogres peuvent apprendre la Compétence Langue (Magick) si elle est disponible pour leur Carrière. Ils peuvent l’utiliser pour les Tests d’Incantation, comme tout autre lanceur de sorts. Cependant, la magie des ogres est bien plus instinctive qu’intellectuelle (après tout, ils font appel à leurs entrailles même dans ces moments-là). Les lanceurs de sorts ogres utilisent l’Endurance au lieu de l’Intelligence pour leur Compétence Langue (Magick). 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Domaine de la Gueule**
 Parfois appelé Gastromancie ou simplement Magie des Entrailles, le Domaine de la Gueule n’est disponible que pour les ogres (voir la Carrière Boucher ogre p. 37). Cette magie met en avant une faim intense, des festins sanglants et une énergie effrénée. Chaque fois qu’un boucher ogre réussit à lancer un sort du Domaine de la Gueule, l’offrande qu’il consomme peut lui permettre de restaurer sa propre santé. Lancez 1d10. Si le résultat est un 10, ou s’il est égal ou supérieur au NI du sort lancé, sans modification de Focalisation et sans utiliser un Grimoire, le Boucher récupère un nombre de Blessures égal au NI non modifié du sort. 
 
@@ -716,8 +682,6 @@ Vous croquez bruyamment quelques os tout en grommelant une malédiction visant u
 **Cible :** ZdE (Bonus de Force Mentale) mètres **Durée :** (Bonus de Force Mentale) Rounds 
 
 Vous trempez votre lame favorite dans le sang d’un ennemi fraîchement tombé, ce qui vous donne plus de puissance et éveille la soif de sang chez vos alliés. Toutes les créatures de votre choix dans la Zone d’Effet gagnent le Trait de Créature Vampirique ( **WFJDR** p. 343) pour la durée de ce sort. La cible n’a pas besoin de mordre ses adversaires pour bénéficier des avantages de ce Trait, il lui suffit de les blesser au corps à corps. Elle peut également bénéficier de soins provenant d’autres sources. Si une créature souhaite résister à ce sort, elle peut tenter un Test de pour **Résistance Difficile (-20)** en ignorer les effets. 
-
-Clément Gauche - gauche.c@gmail.com
 
 Pendant la durée de ce sort, le sang des ennemis jaillit vers les personnes affectées, coulant le long de leurs lames, sur leurs bras et dans leurs bouches. Les ogres ne sont pas gênés par cet effet (la plupart s’en délectent), mais les autres créatures trouvent généralement cette situation fort déstabilisante. Lorsque le sort prend fin, les non-ogres qui ont blessé au moins un adversaire au corps à corps tandis qu’ils étaient sous l’effet du sort doivent réussir un Test de **Calme Intermédiaire (+0)** ou gagner l’État _Assommé_ . De plus, s’ils blessent un adversaire qui possède les Traits de créature Infecté ou Maladie, tout Test effectué pour en éviter les effets négatifs subit une pénalité de -30. 
 
@@ -761,8 +725,6 @@ Vous avalez une minuscule quantité de bile de troll ou une substance similaire,
 
 Vous dévorez la meilleure partie d’une grande bête, ce qui provoque l’apparition d’un fragment de la Gueule elle-même. Le sol se fend en deux, dévoilant un millier de dents grinçantes et affamées. Le gouffre est sans fond, sa faim est infinie, ses dents sont des lames de rasoir et le bruit de ses mâchoires rugissantes ressemble à s’y méprendre au grincement du verre sur la pierre. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Rhinox**
 Les rhinox sont de grandes et puissantes créatures qui ont élu domicile dans les sommets enneigés. La chair de ces bêtes têtues et dangereuses enveloppe leur robuste squelette, ce qui en fait un met de choix pour les ogres. Ils ne leur servent pas seulement à se nourrir (comme la plupart des choses que les ogres rencontrent), mais font également office de montures. Leur force prodigieuse leur permet notamment de supporter tous les ogres, sauf les plus grands. Il arrive que les rhinox soient montés au combat par les ogres suffisamment habiles (ou chanceux) pour les apprivoiser. 
 
@@ -784,8 +746,6 @@ Chaque fois qu’un ogre peut apprendre la Compétence Chevaucher (Cheval), il e
 _« Les rhinox ? On les sent bien avant de les voir et encore plus longtemps une fois qu’ils sont partis. J’ai entendu dire qu’il y en avait un au zoo d’Altdorf, tout le monde dit que c’est une abomination. Enfin, on ne peut pas leur reprocher de vouloir se faire un peu d’argent. Quoi qu’il en soit, si vous devez vous battre contre eux un jour, faites comme moi : fuyez. À moins d’avoir un ogre sous la main. Il courrait droit vers la confrontation au lieu de fuir. Les rhinox sont stupides, mais ils s’entendent bien avec les ogres. Qui se ressemble s’assemble, comme on dit. Enfin, tout va bien jusqu’à ce que l’un des deux ait faim. Mais dans tous les cas, le problème sera résolu. »_ 
 
 — Herbert Toadsmugel, sergent mercenaire, Blitztruppen de Baumann 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Mangeur D’hommes**
 ## Ogre
@@ -822,8 +782,6 @@ h
 
 ## **Capitaine Mangeur D’hommes — Argent 5**
 **Compétences :** Langue (au choix), Projectiles (au choix) **Talents :** Assaut féroce, Frappe réactive, Maîtrise du combat, Seigneur de guerre **Possessions :** pansière éprouvée au combat, contrat de mercenaire 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Gardien de Troupeaux de Rhinox** Ogre
 Les gardiens de troupeaux de rhinox sont les rares ogres qui parviennent à penser à leur avenir, tout en se remplissant la panse sur le moment. Lorsqu’ils sont en possession de quelques rhinox, la plupart des ogres estiment qu’ils doivent immédiatement se mettre quelque chose sous la dent. Les gardiens de troupeaux, quant à eux, préfèrent préserver une partie de leurs rhinox au lieu de les dévorer sur place. Leurs tâches comprennent l’élevage et le soin aux animaux, ainsi que la lutte contre les autres ogres s’approchant un peu trop près des enclos ou des pâturages en quête de leur prochain repas. Ils négocient de beaux mâles pour la reproduction et sont toujours à la recherche de nouvelles bêtes à intégrer à leur troupeau. 
@@ -867,8 +825,6 @@ h
 
 **Compétences :** Commandement, Intuition **Talents :** Effrayant, Exaltant, Frappe blessante, Noctambule **Possessions :** ferme ou droits de pâturage sur un grand domaine, troupeau de rhinox ou d’autres grandes bêtes 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Boucher Ogre**
 ## Ogre
 Dans l’histoire des ogres, il fut un temps où le rôle du boucher était tout à fait prosaïque : il concernait seulement la préparation rudimentaire de la viande à la demande du mangeur. Cependant, depuis l’arrivée de la Gueule, cette fonction a pris une dimension inédite au sein de la société ogre. Chez les ogres des Montagnes des Larmes, le statut de boucher se situe quelque part entre celui de prêtre et de mystique. Leur foi est éprouvée dans la préparation de la viande : la pendaison d’une carcasse, la découpe de la chair ou encore le versement du sang sont pour eux ce que la prière et l’encens sont aux shalléens les plus dévots. Même si certains se tournent vers d’autres religions, la Gueule est la seule divinité qui compte vraiment, faisant appel au cœur (ou plutôt aux tripes) de chaque ogre. 
@@ -906,5 +862,3 @@ h **[Faiseur de bouillie — Bronze 3]**
 **Compétences :** Langue (au choix), Savoir (Magie) **Talents :** Détection d’artefact, Exaltant, Ferveur ardente, Perception de la Magie 
 
 **Possessions :** grotte ou autre repaire, cultistes loyaux de la Gueule, faim insatiable 
-
-Clément Gauche - gauche.c@gmail.com

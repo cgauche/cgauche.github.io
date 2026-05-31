@@ -27,5 +27,3 @@ Le Reikland est réputé dans tout l’Empire pour ses nombreux festivals. Ubers
 |**Silburmesse**|5 Sommerzeit|**L’argenterie**. Ubersreik est renommée pour ses objets en argent. Cette foire n’est peut-être pas<br>laplus importante,mais ellegénère tout de même des revenus non négligeablespour la ville.|
 |**Magnustag**|10 Sigmarzeit|**Magnus le Pieux.**Une journée entière de carnaval au cours de laquelle les différents quartiers<br>tentent de fabriquer laplusgrande « Maggie »,degrandes effgies de Magnus le Pieux.|
 |**Brynkulti**|1er Jahrdrung|<br>**Les Parures naines en or.**Une foire mettant en avant les objets en or fabriqués par les nains de<br>Dawihafen et des Montagnes Grises.|
-
-Clément Gauche - gauche.c@gmail.com

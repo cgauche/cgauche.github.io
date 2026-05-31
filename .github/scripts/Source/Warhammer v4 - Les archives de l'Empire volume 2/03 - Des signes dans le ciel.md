@@ -26,8 +26,6 @@ Les astromanciens du Collège Céleste savent observer le ciel et, à travers la
 
 Certaines personnes croient dur comme fer à l’astrologie et s’en remettent aux étoiles pour les guider dans toutes leurs décisions. D’autres pensent que la disposition des corps célestes ne peut avoir aucun impact sur leur destin. Mais dans l’Empire, même le sceptique le plus entêté connaît son signe astrologique, sa signification et certains des traits qui lui sont communément associés. Ainsi, alors que pour certains, il ne s’agit que d’un simple sujet de conversation, pour d’autres, les signes astraux décident de leur vie tout entière. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 SIGNES ASTRAUX ET ASTROLOGIQUE 
 
 ## **Signes Astrologiques et Création de Personnage**
@@ -65,8 +63,6 @@ Si vous avez l’intention d’utiliser ce système, vous pouvez le faire après
 
 *NdT : nous avons respecté la traduction de la version anglaise qui parle de « Bonesaw ». Néanmoins, les vétérans de Warhammer pourront l’identifier au « Grimoire » qui est l’interprétation de Bonesaw de la V2, et utiliser le terme qu’ils préfèrent. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Les Signes**
 Les 20 signes et leurs caractéristiques, ainsi que leur signification culturelle générale au sein du système astrologique du Vieux Monde, sont détaillés ci-dessous. Sous chaque signe astrologique est indiqué son nom original en Classique, la période de l’année où il est ascendant, et le dieu qui lui est associé (notez qu’il peut s’agir parfois d’une divinité locale obscure et peu connue dans le reste du Vieux Monde). 
 
@@ -83,8 +79,6 @@ Leur lenteur à porter des jugements et leur tolérance à l’égard des faible
 Il n’y a pas de place pour l’incertitude dans le cœur de ceux nés sous le signe de la Grande Croix. Le chemin qu’ils doivent suivre en ce monde leur semble évident, et ils font des choix judicieux pour faire en sorte de ne jamais en dévier. Mais cette rationalité peut conduire à une passivité prévisible et à un certain détachement vis-à-vis du monde qui les entoure. 
 
 En effet, si leur route est toute tracée, pourquoi s’en écarter ? Il est vital qu’ils trouvent une cause pour laquelle se battre, au risque de se laisser éternellement porter au fil des eaux du destin. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Trait du Peintre**
 ## **Signe de la Précision**
@@ -111,8 +105,6 @@ Les individus nés sous le signe du Buffle sont des alliés dévoués dont l’a
 **Apparence :** un dragon cabré **Bonus :** +2 Force Mentale, +2 Sociabilité **Pénalité :** -3 Dextérité 
 
 Audacieux, sûrs d’eux et forts, les natifs de Dragomas le Dragon sont faits pour être des meneurs. Ils rayonnent de confiance et d’assurance, c’est pourquoi les gens ont souvent instinctivement envie de les suivre. Ce charisme peut toutefois vite se transformer en une arrogance inflexible, si bien que même le berger doux et avisé peut finir par devenir un véritable tyran. Être un chef implique une responsabilité envers ses partisans, et les personnes nées sous le signe du Dragon feraient mieux de ne pas l’oublier. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Crépuscule**
 **Signe de l’Illusion et du Mystère Nom classique :** Tartotes **Ascendant :** printemps **Dates dans le calendrier :** 8 pflugzeit - 31 pflugzeit **Divinité associée :** Morr 
@@ -144,8 +136,6 @@ Le Fourreau de Grungni est sacré pour les soldats et les nains. Les individus q
 
 Pour la personne née sous le signe de Mammit le Sage, la vie et le monde sont pleins d’occasions d’apprendre de nouvelles choses. Leur penchant introspectif en fait des individus intelligents, justes et doux, mais il peut tout aussi bien les amener à considérer les malheurs des autres comme un sujet d’étude parmi d’autres. Cela leur permet certes d’agir avec détachement lorsque nécessaire, mais poussé à son paroxysme, ce trait de caractère peut se transformer en indifférence, voire en cruauté. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Mummit le Fou**
 ## **Signe de L’incertitude**
 **Nom classique :** le Fou **Ascendant :** été 
@@ -175,8 +165,6 @@ Les individus nés sous le signe des Deux Bœufs sont innovants, assidus, créat
 **Dates dans le calendrier :** 14 vorgeheim - 2 nachgeheim **Divinité associée :** Millavog (danse (Wissenland)) **Apparence :** un danseur tourbillonnant **Bonus :** vous gagnez un niveau dans le Talent Ferveur ardente (Vous n’avez pas besoin de choisir l’objet de votre ferveur au moment de la création de votre Personnage : vous pouvez la découvrir plus tard pendant le jeu.) **Pénalité :** -3 Initiative 
 
 Le Danseur est un signe de passion... et d’obsession. Quand les natifs de ce signe se lancent à la poursuite de quelque chose, ils le font avec une assiduité à toute épreuve : qu’il s’agisse d’un cœur à conquérir ou d’un mystère à résoudre, le reste du monde s’efface devant leur détermination. Lorsqu’on les méprise, ils le prennent mal et peuvent réagir violemment. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Tambour**
 ## **Signe de L’hédonisme et de L’excès**
@@ -210,8 +198,6 @@ Les meilleurs diplomates sont nés sous la lumière du Flûtiste... De même que
 
 Une constellation vide d’étoiles. Un trou noir dans la voûte céleste. Les natifs de Vobist le Pâle peuvent parfois sembler imprévisibles et incertains ; après tout, ils sont nés sous une obscurité totale. Il peut leur arriver de se montrer excessivement prudents, mais aussi audacieux et courageux quand on s’y attend le moins, fonçant au cœur de la mêlée avant même les plus valeureux guerriers. Ce qui s’apparente chez eux à de l’incertitude peut se révéler être un sens aigu des causes auxquelles ils doivent se dévouer et de la manière dont ils doivent se battre pour elles. Enfin, lorsque Morrslieb, la lune du Chaos, est pleine lorsque Vobist le Pâle est ascendant, c’est un présage particulièrement mauvais. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **La Charrette Brisée**
 ## **Signe de L’orgueil**
 **Nom classique :** Kharnos **Ascendant :** automne 
@@ -237,8 +223,6 @@ Le lien existant entre la Charrette Brisée et Nurgle est rarement évoqué, car
 Les personnes nées sous le signe de la Chèvre Sauvage ne laissent personne les approcher de trop près. Elles peuvent sembler distantes et apathiques, mais si elles se comportent ainsi, c’est pour ne pas risquer d’être blessées par les éventuelles déceptions auxquelles elles devront inévitablement faire face. Lorsqu’elles sont abattues, elles se complaisent dans leur douleur. Cependant, les rares fois où elles s’autorisent à éprouver de la joie, leur gaieté est contagieuse. 
 
 Les natifs de la Chèvre Sauvage ayant une affinité avec la magie sont souvent attirés par le Vent d’Ambre de _Ghur_ . Les individus nés sous ce signe seraient bien avisés de se rappeler que le monde n’est pas là pour les persécuter. Cela peut arriver à n’importe qui d’être frappé par la malchance, mais on ne peut pas passer sa vie à se morfondre pour autant. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Chaudron de Rhya**
 **Signe de la Miséricorde, de la Mort et de la Création Nom classique :** Rionyes **Ascendant :** début de l’hiver 
@@ -271,8 +255,6 @@ Les natifs de Cackelfax le Coq ont de grandes ambitions et le regard tourné ver
 
 La Scie à Os est le signe des philosophes : ce qu’ils recherchent par-dessus tout est le savoir. Ils consacrent leur vie à explorer et à expérimenter. Cependant, contrairement à d’autres signes tout aussi curieux, les natifs de la Scie à Os ne veulent pas garder les connaissances qu’ils amassent, et ne sont pas repliés sur eux-mêmes non plus. Les personnes nées sous le signe de la Scie à Os souhaitent diffuser leur savoir le plus possible. Cela peut toutefois les faire passer pour des je-sais-tout autoritaires, plutôt que pour des érudits passionnés par les secrets de l’univers. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **L’étoile du Sorcier**
 ## **Signe de la Magie**
 **Nom classique :** Solkios **Ascendant :** hiver **Dates dans le calendrier :** 32 ulriczeit - 11 vorhexen **Divinité associée :** Soll **Apparence :** une étoile très lumineuse **Bonus :** vous gagnez un Talent lié à la sorcellerie **Pénalité :** Variable (voir p. 39) 
@@ -295,8 +277,6 @@ Ceux qui s’engagent dans cette voie doivent veiller à ne pas faire des prédi
 Les maîtres astrologues peuvent gagner leur vie de différentes manières. Certains scrutent les mouvements des astres afin d’aider leurs clients à choisir une date propice pour leur mariage ou la signature d’un contrat commercial ; d’autres sont au service de nobles et les conseillent dans leurs affaires quotidiennes. D’autres encore se spécialisent dans l’établissement de thèmes astraux : une carte du ciel représentant la position des corps célestes au moment exact de la naissance d’une personne. Le placement des vingt constellations des signes astrologiques est censé affecter la personnalité et le destin de l’individu. 
 
 Le degré de croyance en tout cela varie d’une personne à l’autre. Les gens très riches et superstitieux peuvent avoir un astrologue à portée de main pour calculer le thème astral de leur enfant quelques heures après sa naissance. Les plus pauvres paient des mystiques et des astrologues itinérants (ou des arnaqueurs qui prétendent l’être) pour qu’ils leur prédisent le moment le plus propice pour planter leurs semis ou partir à la pêche. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **’ Dans L Art**
 L’importance culturelle de l’astrologie fait que son imagerie est omniprésente dans la vie de tous les jours des habitants de l’Empire, quelle que soit leur classe sociale. Dans les campagnes, les sanctuaires de Rhya sont décorés de représentations du Chaudron de Rhya, ainsi que des traditionnelles fleurs, spirales et gerbes de blé. Il n’est pas rare que les proches des soldats humains et nains leur offrent un pendentif ayant la forme du Fourreau de Grungni lorsqu’ils partent au combat, pour les protéger. 
@@ -331,8 +311,6 @@ Les tailleurs de pierre et les maçons travaillant sur des projets pour des clie
 
 Dans certaines campagnes de l’Empire, on considère qu’il est important que le thème astral des enfants soit établi dans la semaine qui suit leur naissance, et les mystiques et astrologues itinérants sont présents pour répondre à la demande. Ainsi, un thème astral peut être le seul bout de papier non essentiel que possède un métayer ou une poissonnière. Qu’il s’agisse d’une véritable carte du ciel au moment de la naissance, ou d’une pure arnaque (certains escrocs utilisent des cartes préétablies qu’ils complètent avec les noms et les détails correspondants aux destinataires), un thème astral permet de donner même aux plus pauvres une idée de leur place dans l’ordre céleste. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 SIGNES ASTRAUX ET ASTROLOGIQUE 
 
 ## _Magister Oryxian,_
@@ -349,8 +327,6 @@ D’autres individus parmi cette classe moyenne émergente, en particulier ceux 
 En effet, les nobles emploient des astrologues professionnels en masse pour les conseiller. On raconte que certains barons n’osent même pas quitter leur maison sans avoir fait consulter leurs éphémérides et les conjonctions astrologiques du jour. Dans des cas moins extrêmes, les astrologues lisent dans les cieux pour déterminer les dates propices aux diverses entreprises des nobles. Le mariage, par exemple, est une affaire purement politique et financière au sein de la noblesse, et l’on dit que la position des étoiles le jour de la cérémonie est essentielle pour assurer la longévité d’un couple de jeunes mariés. Nombreux sont les futurs époux qui ont frissonné devant l’autel alors que le Chaudron de Rhya était ascendant dans le ciel, car on raconte que c’est l’un des signes les plus bénis sous lesquels se marier. 
 
 Bien que les anciennes générations de nobles méprisent les sources de revenus avilissantes, préférant vivre des loyers de leurs métayers et des ventes de leurs terres, la jeunesse noble de l’Empire consulte des astrologues pour obtenir des conseils en matière d’entreprises commerciales. Cackelfax le Coq, un signe qui règne sur une partie de l’hiver, est un symbole de prospérité. Son ascension est un moment privilégié pour commander un nouveau navire marchand pour le printemps ou pour finaliser un investissement pour l’année à venir. Mais tout astrologue digne de ce nom vous dira d’attendre lorsque le Coq est en conjonction défavorable avec la Chèvre Sauvage ou l’Étoile du Sorcier. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Étapes Facultatives**
 Si, pour la plupart des Joueurs, choisir un signe astrologique à la création d’un Personnage peut suffire, d’autres pourraient vouloir aller plus loin. Cela peut également aider à déterminer certains aspects d’un Personnage qui ne sont pas directement liés aux mécaniques de jeu, comme sa personnalité, sa place dans le monde et sa vision des choses. Si vous cherchez de l’inspiration, vous pouvez donc choisir un ascendant et jusqu’à cinq demeures célestes. 
@@ -387,5 +363,3 @@ Si tout ne paraît pas clair dès le début, ce n’est pas grave. Certaines cho
 
 ## Un Peu Plus Près des Étoiles
 Ada Mahler, une astrologue itinérante naïve et passionnée, n’a pas eu de chance dans la vie, mais elle reste pleine d’espoir. Elle approche le groupe pour lui demander d’aller écouter discrètement les conversations de riches clients, ivres et bruyants de la taverne locale, Le Chat du Sorcier. Toute information que le groupe pourra rapporter à Ada l’aidera à « lire » le thème astral des bougres en question, une fois qu’ils auront terminé leur repas. Tout membre du groupe doté du Talent Affinité avec les animaux sera particulièrement utile. Née sous le signe de la Chèvre Sauvage, Ada est aussi une amoureuse des animaux ; elle interprétera le thème astral du Joueur à portée de voix de ses compagnons aventuriers pour convaincre le groupe de l’aider. 
-
-Clément Gauche - gauche.c@gmail.com

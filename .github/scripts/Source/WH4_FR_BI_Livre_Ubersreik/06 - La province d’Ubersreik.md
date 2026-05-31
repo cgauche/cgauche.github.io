@@ -22,8 +22,6 @@ qui détient le titre, et il permet à la maison Walfen d’en faire usage tant 
 
 L’archiduc actuel, Victor von Walfen, est un homme imposant  et grincheux, vétéran de nombreuses campagnes militaires, sans aucun pouvoir politique, uniquement responsable du transit des taxes depuis son archiduché vers la principauté d’Altdorf. Quiconque jure fidélité à l’archiduc est en fait en train de prêter serment au Prince d’Altdorf par procuration. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 AVENTURES À UBERSREIK 
 
 - De nombreux futurs parents du Val de la Dame effectuent des pèlerinages jusqu’au Mont Fritha, une merveille sacrée qui se dresse en bordure des Montagnes Grises. Là, ils font des offrandes de graines de tournesol, dans l’espoir que la déesse de l’Aube sourira à leur futur enfant. Mais après que trois couples ne sont pas revenus et qu’un chasseur inquiet indique avoir remarqué un tas de fumier érigé telle une idole au pied du Mont, les anciens du village de Messigen implorent l’aide de tous ceux qui voudront bien les écouter. 
@@ -40,8 +38,6 @@ L’intendant du baron Harald von Schluessel, Reinhart Blickstein, s’occupe de
 - Le Temple du Loup Gris héberge une secte de Chevaliers du Loup Blanc, les Templiers d’Ulric, le dieu de la Guerre, qui n’accepte que les nobles. Ils effectuent des patrouilles dans le col de la Dame grise, escortant de riches caravanes ou des nobles influents. Cependant, lorsque le frère Falkenhayn s’enfuit, au mépris de ses vœux, le prêtrecapitaine Krause a besoin du groupe pour le ramener, sans déshonorer le jeune noble, et Ulric. 
 
 - Philline et Élodie de Blanc dirigent, haut dans les montagnes, une école de jeunes filles unique en son genre. Philline est une institutrice raffinée, très préoccupée par l’étiquette et la bienséance. Sa femme, Élodie, vénère Myrmidia, et s’assure que les filles reçoivent une éducation martiale. Le groupe est engagé afin d’escorter Margaretha Holswig-Abenauer à l’école, en préservant sa pureté physique et spirituelle. Avec les peaux-vertes et les fringants chevaliers en maraude, cela ne sera pas une mince affaire. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Comté du Val de la Veuve**
 Le montagneux comté du Val de la Veuve se situe sur les flancs des Montagnes Grises. La vie y est rude, mais une poignée de villages, de hameaux, ainsi qu’une ville fortifiée, Gruntwätch, se trouvent dans des positions fortifiées ou au fond des vallées. Il ne s’agit pas d’une province riche, sa principale source de revenus étant issue de l’élevage de chèvres, notamment grâce aux exportations de lait de chèvre et de fromage vers Ubersreik. Les prospecteurs découragés sont monnaie courante, chacun ayant été convaincu qu’il doit y avoir, quelque part, des filons de minerai comme ceux de Roche Noire, du Val de la Dame ou de Grauwerk. Mais si certains ont touché un pactole qui pourrait transformer le sort du Val de la Veuve, ils n’en ont pas fait part. 
@@ -61,8 +57,6 @@ Le Graf actuel, Brynich Aschaffenberg, est un homme ambitieux doté de beaucoup 
 
 - Personne ne sait pourquoi le graf Stierlich a permis à sa fille unique d’épouser le deuxième fils de Brynich. Si le groupe parvient à découvrir la vérité, il sera peut-être capable d’en tirer profit pour s’assurer une certaine influence auprès des familles nobles. Ou alors, ils se retrouveront dans les eaux du Teufel, leur sang se mêlant aux flots rouges. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 AVENTURES À UBERSREIK 
 
 ## **Le Duché de Roche Noire et Graustadt**
@@ -77,8 +71,6 @@ Compte tenu de la fortune des Jungfreud, de l’épaisseur des murs de Neufaljun
 - Rikard Fischer, un agent du Graf, cherche à embaucher des gardes pour les barges de houille à destination du canal de l’Hägercryb. Le travail est dangereux et un affrontement avec des patrouilleurs fluviaux n’est pas impossible, mais, pour les braves à la morale élastique, cela paie bien. 
 
 - Le Cairn noir se trouve sur une pente isolée, battue chaque nuit par les vents, la proie de cris terrifiants et d’hurlements impies. Une banshee hante le site et quand Andreas Richter, un cartographe, confie au groupe le soin de l’accompagner au cours d’un voyage de reconnaissance, elle est involontairement libérée... 
-
-57 Clément Gauche - gauche.c@gmail.com 
 
 ## **Les Duchés de Grauwerk et de Karstadt**
 Les duchés très boisés de Grauwerk et de Karstadt sont de petits coins de paradis pour les chasseurs et les pisteurs, et accueillent souvent des groupes de nobles en visite pour leurs parties de chasse. Les forêts comportent de nombreux pavillons de chasse, et même le siège des Bruner, le manoir Steirlich, n’est en fait qu’un pavillon extrêmement fortifié. La maison Bruner tire d’immenses richesses de ses mines profondes, creusées dans la partie sud des Hägercrybs, et qui, malgré des siècles d’exploitation, ne montrent aucun signe d’épuisement. Les Bruner ont acquis, il y a plusieurs décennies, le duché voisin de Karstadt, en le rachetant à la famille en difficulté, ce qui plaça sous le contrôle des Bruner de nombreuses terres fertiles et la route principale vers Ubersreik, sans parler d’un certain nombre de péages rentables. Les Bruner ont exigé que les Kardstadt renoncent à leur titre de noblesse comme condition de la vente, ce qui a été appuyé par les Jungfreud, en exercice à l’époque, les reléguant au statut de roturiers. À l’époque, peu de gens ont compris cette décision, mais les Karstadt rencontrèrent un immense succès après la création de leur maison marchande (voir page 44), et devinrent rapidement l’une des familles les plus riches du duché, ce qui fit taire leurs détracteurs. 
@@ -97,8 +89,6 @@ Le margrave Tobias Aschaffenberg, fils aîné de Brynich Aschaffenberg, est deve
 - La Passe de la Dame Grise est le berceau de nombreuses rumeurs concernant la Dame Grise, un esprit tourmenté dont l’apparition est synonyme de catastrophe imminente. L’esprit apparaît alors que le groupe est bloqué au milieu des ruines, pendant la réparation de l’ascenseur. La Dame Grise ne prédit rien de moins que la fin du monde avant de disparaître à jamais. 
 
 - Alors qu’ils parcourent la Marche, les Personnages découvrent un géant blessé et agressif. S’ils le combattent au lieu de le fuir, il s’adressera à eux dans son dernier souffle. Dans un _reikspiel_ maladroit et enfantin, il déplorera la cruauté du destin et suppliera les PJ de prendre soin de son enfant. Alors qu’il rend son dernier souffle, ils entendent les pleurs d’un bébé mesurant 1,8m. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 AVENTURES À UBERSREIK III En provenance du bureau d’Emmanuelle Nacht 
 
@@ -138,5 +128,3 @@ Pietr Schälen
 |Graustadt|Duché|4500|1000|Sous étroite emprise des Jungfreud. Il est possible qu’il y ait plus de soldats que ce que mes notes ne le suggèrent.|
 |Aschaffenberg<br>Val de la Veuve<br>Teufeltal<br>Grauwerk|Duché<br>Comté<br>Duché<br>Duché|2500<br>2500<br>1500<br>1500|150<br>200<br>150<br>150|Ces nombres sont loin d’être précis.<br>La population du Val de la Veuve dépassait les dix mille âmes, il y a quarante ans de cela.<br>Aucune idée de l’exactitude de ces chiffres même s’ils m’ont été confirmés.<br>Les chiffres de Grauwerk pourraient être complètement faux ; un mineur affirme que Südenhager à lui seul peut<br>en avoir plus de cinq cents dans un seul puits !|
 |Passe de la Dame grise<br>Ce qui donne une popul|Marche<br>1250<br>400<br>ation totale d’environ quarante mille personnes|||Ces chiffres ne sont que pure supposition.<br>dans le duché. Si la guerre éclate, cela constituera un réel problème.|
-
-Clément Gauche - gauche.c@gmail.com

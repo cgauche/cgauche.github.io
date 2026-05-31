@@ -14,8 +14,6 @@ Juste après Frederheim (pas tout à fait dans les limites du hameau), se trouve
 
 Le hameau de Frederheim se trouve sur la grande route reliant Altdorf et Middenheim. Il se situe à environ une demi-journée de voyage en diligence de la capitale, et à seulement un kilomètre au sud de l’auberge des Sept Rayons, assez populaire et très fréquentée. La plupart des voyageurs font peu attention au 
 
-Clément Gauche - gauche.c@gmail.com 
-
 LE GRAND HOSPICE 
 
 ## **L’hospice**
@@ -40,8 +38,6 @@ Les objectifs et les méthodes des asiles privés varient considérablement d’
 
 - Le conseil municipal d’une ville ou d’un village engage le groupe pour enquêter sur une série d’attaques de mutants. La piste mène les aventuriers à un asile privé, où est testé un traitement expérimental à base de malepierre qui a eu des effets secondaires inattendus. Les propriétaires de l’asile tentent d’étouffer l’affaire, mais n’ont pas pu empêcher l’évasion de certains mutants violents susceptibles d’être reconnus par les habitants. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Mur**
 ## **Visiter le Grand Hospice**
 Le Statut d’un Personnage en visite au Grand Hospice détermine le type d’accueil que les sœurs lui réservent. Les visiteurs d’Échelon Argent et Or sont traités avec toute la courtoisie possible ; ils peuvent loger dans les pavillons et sont invités à dîner avec la Grande Prêtresse. Ils sont également considérés comme des donateurs potentiels, et les sœurs ne manquent pas une occasion d’y faire allusion. Si le Statut de la Grande Prêtresse est supérieur à celui du Personnage de plus haut Statut, les allusions feront rapidement place à des demandes plus directes. 
@@ -62,8 +58,6 @@ De part et d'autres du jardin classique se trouvent deux pavillons, destinés à
 Le bâtiment du personnel est une structure rectangulaire à étage, à laquelle est juxtaposée une annexe de plain-pied accueillant les cuisines et reliant le bâtiment principal aux écuries. Le rez-de-chaussée est en pierre, tandis que le premier étage est fait en bois et en plâtre, avec un toit en tuiles. Du côté de la cour, il y a un appentis abritant des latrines. 
 
 Au rez-de-chaussée se trouvent les espaces publics du Grand Hospice. En général, les visiteurs ne se rendent pas dans le sanatorium : c'est ici que se déroulent les visites aux patients, dans le bâtiment principal. Toutes les pièces sont claires et fraîches ; les murs sont d’un blanc étincelant et décorés de nombreuses images liées au culte de Shallya. Le premier étage, qui est réservé au personnel, est aménagé autour d’un balcon surplombant le hall. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 LE GRAND HOSPICE 
 
@@ -89,8 +83,6 @@ Les deux salles de réception servent à accueillir les invités de marque. Elle
 
 ## **E : Trésorerie et F : Chambre Forte**
 Les murs de la trésorerie sont couverts d’étagères accueillant des coffres fermés à clé qui contiennent les effets personnels des résidents actuels. Il y a aussi bien des malles de voyage de bonne facture, sur lesquelles sont peints le nom ou les armoiries de leurs propriétaires, que des vieux coffres abîmés ou de simples caisses en bois marqués d’un nom à la craie. À l’intérieur de la chambre forte se trouvent trois coffres. Le premier contient l’argent des patients : il est rangé dans des pochettes en toile, chacune fermée par une ficelle et étiquetée au nom de son propriétaire. Le deuxième abrite la réserve pécuniaire de l’hospice et des lettres de crédit provenant de diverses banques du Vieux Monde. Le troisième coffre renferme des documents importants, notamment des actes de propriété et des concessions foncières, ainsi que des lettres des grands de ce monde (portant la signature d’anciens résidents ou de patients actuels, ou de ceux qui les ont fait interner ici) qui pourraient causer quelque embarras, surtout si elles tombaient entre de mauvaises mains. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## Partenaire Particulier
 Un riche marchand engage les Personnages pour récupérer le journal d’un ancien associé et bon ami, qui contient des informations commerciales essentielles. Il explique que le journal a été stocké par inadvertance avec le reste des affaires du patient, et que le personnel du Grand Hospice refuse de le lui remettre. Les aventuriers ont reçu la stricte interdiction de consulter le journal, qui renferme la preuve que les deux hommes étaient des rivaux plutôt que des partenaires commerciaux. Pire encore, il s’avère que leur employeur a délibérément rendu son concurrent fou afin de prendre le contrôle du marché local. 
@@ -126,8 +118,6 @@ La bibliothèque contient principalement des ouvrages de théologie et de médec
 
 ## Un Visiteur À la Bibliothèque
 Alors qu’ils visitent le Grand Hospice, les aventuriers remarquent qu’un autre étranger semble porter un grand intérêt à la bibliothèque. Plus précisément, le visiteur est penché sur un volume qui s’avère être l’histoire d’une famille noble du Talabecland. Plus tard, ils surprennent ce même individu en train de consulter sans autorisation les archives de l’hospice, à la recherche du nom de la famille en question. Qu’il soit un maître chanteur ou un agent d’une famille rivale, le visiteur pourrait gagner gros en découvrant que la famille avait, ou a placé l’un de ses membres au Grand Hospice. Si le résident en question est réellement malade, la famille sera couverte d’embarras devant ses rivaux politiques et sociaux ; s’il s’agit plutôt d’un ennemi ou d’un parent gênant dont elle s’est « débarrassée » par des moyens peu éthiques, la révélation d’une telle information pourrait entraîner un terrible scandale. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 LE GRAND HOSPICE
 V
@@ -179,5 +169,3 @@ La chapelle de Shallya est petite, mais scrupuleusement entretenue. Elle comport
 Les cellules du rez-de-chaussée sont des cellules individuelles destinées à accueillir les résidents qui, pour une raison ou pour une autre, ne peuvent être placés dans les dortoirs. Il peut y avoir plusieurs raisons à cela, mais les plus courantes sont le Statut (il n’est tout simplement pas envisageable de mettre un patient d’Échelon Or au milieu de la populace) et le tempérament (certains patients deviennent mal à l’aise ou même agités lorsqu’ils sont forcés de vivre en communauté). 
 
 Selon les moyens et la situation du résident, sa chambrette peut être humblement équipée, semblable alors à celle d'une prison, ou au contraire richement meublée, comme les chambres individuelles que l’on trouve dans les auberges ou les hôtels réputés. 
-
-Clément Gauche - gauche.c@gmail.com

@@ -16,8 +16,6 @@ Les règles facultatives suivantes permettent au MJ d’organiser des batailles 
 ## **Puissance**
 Le Combat de masse suppose la présence de deux camps opposés dans un conflit. Ces deux camps ont un Attribut de Puissance qui représente la taille de leur armée entière, et la maîtrise relative de leurs soldats. Une horde de peaux-vertes auraient bien plus de Puissance qu’une foule de paysans, mais un nombre équivalent de Chevaliers Panthères d’élite pourrait équilibrer les chances. La Puissance est utilisée lors de chaque Round de bataille pour infliger des dégâts à l’armée adverse, et est recalculée à la fin de chaque Round pour tenir compte des péripéties. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Puissance de Bataille
 Avant une bataille, le MJ doit décider de la Puissance de chaque armée. Il s’agit d’une valeur comprise entre 0 et 100 et qui reflète la taille et la force de chaque armée. La table suivante peut vous aider à estimer les niveaux de Puissance. Estimez la force du camp des Personnages par rapport à celle de leurs adversaires : 
 
@@ -88,8 +86,6 @@ _**Exemple :** une armée composée d’une unité de Chevaliers Panthères et d
 ## Option : le Coût de la Guerre
 L’entretien d’une armée peut se révéler coûteux. Il faut nourrir les soldats et les chevaux, et payer les mercenaires. Le coût d’entretien d’une armée est le Statut de chaque soldat additionné. Donc 100 chevaliers, avec un Statut Argent 5, requièrent un entretien quotidien de 500 pistoles d’argent. Les Personnages peuvent choisir de payer la moitié du coût normal, mais en conséquence l’armée sera moins performante et subira une pénalité de –10 à tous les Tests de Puissance. Si la somme pour l’entretien n’est pas du tout réglée, l’armée se disperse et part au bout de 2 jours. Réussir un Test de **Commandement Intermédiaire (+0)** permet de leur remonter le moral et de tenir DR jours plus, mais avec une pénalité de –20 à tous les Tests de Puissance. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Activités de Bataille**
 _« Maître nain, même si je conçois qu’affronter les peaux-vertes sur un champ de bataille serait honorable, cela entraînerait de lourdes pertes. La faiblesse des orcs, c’est qu’ils aiment trop se battre entre eux. Confiez-moi une dizaine de nos meilleurs éclaireurs et je me charge de les faire transformer leur camp en bain de sang d’euxmêmes. »_ 
 
@@ -119,8 +115,6 @@ Lors de la préparation d’un plan de bataille, les Personnages doivent décide
 _**Exemple :** les Personnages ont décidé de créer un passage stratégique en défendant l’unique pont qui permet de traverser une rivière longue, large et très profonde. L’armée va mettre en place des barricades et attaquer l’ennemi à distance pendant qu’il essaie de les franchir. Si les défenses ne tiennent pas, il reste les barils de poudre à canon prêts à faire exploser le pont. Le MJ décide que la fortification du pont et l’installation des explosifs nécessitent un Test étendu de Métier (Charpentier) et Métier (Ingénieur) respectivement, et peuvent être réalisées avec une ou plusieurs Activités. Le MJ annonce qu’un Succès fera subir à l’ennemi une pénalité de –10 sur tous les Tests de Puissance, et qu’en cas d’explosion des barils, la Puissance de l’ennemi diminuerait également de –10._ 
 
 Afin de ne pas entraîner de longs débats entre les Personnages, le MJ est encouragé à être bref en jouant les conseillers et en agissant comme intermédiaire. À moins, bien sûr, que les Joueurs aiment débattre ! Les meilleurs plans sont les plus simples, et cette étape n’est qu’un moyen de mettre en scène la bataille à venir. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Rassembler des Forces**
 Un Personnage peut tenter de renforcer son armée avec des troupes supplémentaires avant la bataille. Il existe de nombreuses façons de rassembler des troupes. Des mercenaires, tels que les terrifiantes troupes de choc des ogres, peuvent être engagés ; les paysans du coin peuvent être mobilisés ; et les nobles peuvent être charmés, soudoyés ou intimidés. Certaines de ces actions nécessitent des Tests de Compétences avec une Difficulté déterminée au cas par cas. En cas de Succès, le rassemblement augmente la Puissance de l’armée de +5. En cas de Succès Stupéfiant (+6), la Puissance augmente de +10. En cas d’Échec Stupéfiant (–6), elle est réduite de –10, peut-être à cause d’une mutinerie, ou d’une perte de moral entraînant une désertion. 
@@ -153,8 +147,6 @@ Une bataille est constituée d’un ou plusieurs Rounds de bataille, qui comport
 L’objectif principal de cette étape est d’expliquer leurs options aux Personnages, c’est-à-dire dans quelles scènes cinématiques ils peuvent s’impliquer au cours de ce Round de bataille. Si les Personnages décident d’ignorer certaines Scènes, celles-ci peuvent se résoudre d’elles-mêmes ou être encore disponibles lors des Rounds futurs. Assurez-vous d’inclure plusieurs options pour impliquer tous les Personnages et pas seulement ceux axés sur le combat. Prenez en compte le résultat des Rounds de bataille précédents pour déterminer quelles Scènes cinématiques sont disponibles. 
 
 _**Exemple :** « Les orcs poursuivent leur assaut contre les barricades, qui risquent de céder à tout moment (Scène Tenez votre position). De nombreux orcs se sont mis à traverser la rivière à la nage, et atteindront bientôt vos archers (Scène Pluie de flèches) ! Plusieurs de vos troupes (fatiguées et démoralisées) semblent sur le point de craquer (Scène de Motivation). Que faites-vous ? »_ 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Scènes Cinématiques**
 Avant une bataille, le MJ doit préparer plusieurs Scènes cinématiques susceptibles de se produire. Celles-ci doivent être imaginées en gardant le plan des Personnages à l’esprit. Cette section comprend des Scènes génériques pouvant être utilisées dans plusieurs situations avec des directives pour concevoir vos propres Scènes, et quelques exemples de Scènes uniques. Souvenez-vous que les Scènes cinématiques ne peuvent pas augmenter votre Puissance au-delà de sa valeur de départ. 
@@ -192,8 +184,6 @@ _**Exemple :** l’ennemi est en train de percer un trou dans les murs à l’ai
 ## **Percée**
 Qu’il s’agisse d’aborder un navire ennemi, ou charger les remparts d’un château à l’aide d’une tour de siège, une Scène de Percée nécessite qu’un Personnage prenne le contrôle d’une position ennemie en éliminant tous les soldats adverses ou en remplissant un objectif précis. Les Personnages disposent de 3 Rounds pour accomplir leur objectif, ce qui augmentera la Puissance de leur armée de +10. En cas d’échec, les Personnages peuvent décider de battre en retraite ou participer à une Scène de Charge si l’ennemi appelle des renforts. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 _**Exemple :** les Personnages ont escaladé les remparts d’un château ennemi avec des grappins et doivent maintenant abaisser le pontlevis pour permettre au reste de l’armée de rentrer. Plusieurs gardes armés leur barrent la route et des renforts arrivent._ 
 
 ## Option : les Horreurs de la Guerre
@@ -222,8 +212,6 @@ Voici quelques de Scènes uniques pouvant être créées par un MJ.
 
 ## **Ligne de Mire**
 Au milieu du chaos de la bataille, un Personnage aperçoit soudain un capitaine ennemi isolé non loin de lui. Il peut le charger ou l’attaquer à une distance de 12 mètres. En cas de Succès, l’ennemi perd –5 de Puissance. Si c’est le général qui est tué ou neutralisé, la Puissance diminue encore de –5. Après cette attaque, les troupes ennemies encerclent le Personnage, qui doit battre en retraite. S’il veut attaquer de nouveau, il est libre de le faire au risque de sa vie, car il est submergé par ses adversaires. S’il choisit d’attaquer, le Personnage est obligé de participer à une Scène de Charge lors du prochain Round de bataille, où seul l’ennemi peut charger et est en supériorité numérique ( **WFJDR** p.162) de 3 contre 1. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Tuez la Bête !**
 L’ennemi a libéré une créature gigantesque. Elle inflige des dégâts importants aux troupes. Vainquez-la en 3 Rounds pour diminuer la Puissance de l’ennemi de –10. Divisez les Blessures de départ de la créature par deux pour tenir compte des autres troupes qui l’attaquent. Dans le cas d’une créature de Taille Monstrueuse, les Personnages seront peut-être obligés de grimper dessus ou d’utiliser une arme de siège à proximité pour la tuer. Les créatures de Taille Monstrueuse peuvent essayer de se débarrasser de ceux qui lui grimpent dessus dans le cadre d’une action en faisant un Test opposé de **Corps à corps (Bagarre) / Escalade** . Si la créature échoue, les Personnages peuvent l’attaquer comme si elle était _Sans défense_ . 
@@ -266,8 +254,6 @@ Siège
 *Les béliers n’infligent des dégâts qu’aux portes. Sinon, ils sont considérés comme une Arme improvisée. 
 
 **Les trébuchets et les mortiers ne peuvent pas être utilisés si la distance jusqu’à la cible est inférieure à leur Portée Courte. ***Les armes de siège à distance ne peuvent pas être utilisées à Bout Portant. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 **Baliste :** similaire à une arbalète, mais bien plus grande, une baliste peut tirer de grands carreaux sur de longues distances. Elle est bien trop lourde pour être transportée, et est donc attachée à une surface fixe ou est dotée de roues pour se déplacer sur le champ de bataille. 
 
@@ -313,8 +299,6 @@ Les structures avec l’Atout Impénétrable ne peuvent pas être abîmées par 
 ## **Machines de Guerre et Puissance**
 Lorsque vous calculez la Puissance totale d’une armée avant de la réduire, chaque machine de guerre apporte +5 de Puissance. Si la bataille est un siège, toutes les machines de guerre avec l’Atout Siège du côté offensif augmentent la Puissance de l’armée de +10 à la place. Si elles n’ont pas d’Équipes complètes, divisez leur Puissance par deux. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Option : Facteurs Environnementaux
 Si vous souhaitez ajouter un facteur aléatoire à une bataille ou un Round de bataille, vous pouvez faire un jet sur la table ci-dessous, ou simplement choisir l’un des résultats. 
 
@@ -329,8 +313,3 @@ Si vous souhaitez ajouter un facteur aléatoire à une bataille ou un Round de b
 | 8 | de bataille, les Personnages doivent réussir un Test d’ Athlétisme Intermédiaire (+0)  ou subir 1 État  En flammes . Trouver la source de l’incendie, comme un alchimiste, un sorcier ou un engin de siège, et l’empêcher de nuire, permet de mettre fin à l’incendie après 1 Round de bataille. Retour à la vie :  un puissant nécromancien se cache parmi les troupes ennemies. Pour chaque réduction de Puissance de |
 | 9 | votre armée, celle de l’ennemi augmente de 1 tandis que vos morts la rejoignent sous forme de squelettes et de zombies. Vaincre le nécromancien met fin à l’effet, et toute la Puissance gagnée par l’ennemi est perdue lorsque les morts tombent en morceaux. Peur :  l’ennemi transporte une structure avec une image terrifiante. Il peut s’agir d’une sculpture du Chaos, ou d’une |
 | 10 | plateforme exhibant des écorchés vifs hurlant de douleur. L’armée subit une pénalité de –10 à tous les Tests de Puissance tant que la structure est intacte. |
-
-Clément Gauche - gauche.c@gmail.com 
-
-91
-Clément Gauche - gauche.c@gmail.com

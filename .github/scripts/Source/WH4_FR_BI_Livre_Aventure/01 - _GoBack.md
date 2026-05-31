@@ -35,5 +35,3 @@ Si vous êtes nouveau à **WFJDR** et que vous avez l’intention d’être MJ, 
 
 ## Le Guide D’ubersreik
 Ce livre fait fréquemment référence au **Guide d’Ubersreik** . Lorsque c’est le cas, le nom du livre est abrégé par Ubersreik par souci de brièveté. 
-
-Clément Gauche - gauche.c@gmail.com

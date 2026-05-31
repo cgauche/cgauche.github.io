@@ -27,5 +27,3 @@ La maladie est omniprésente dans le Reikland, et chaque fois qu’une âme succ
 Tinée était une ville ancienne de l’ouest des Principautés Frontalières, située non loin de la frontière de la Tilée d’aujourd’hui. C’est là, il y a des millénaires, que Myrmidia, la déesse de la stratégie, découvrit d’anciens textes rédigés par Gaelen, l’érudit elfe. Elle fut intriguée par la complexité des dessins anatomiques qui s’y trouvaient, et les confia donc au culte de sa mère, Verena, la déesse de la Sagesse. 
 
 Plus de deux mille ans plus tard, l’Anatomie de Gaelen demeure un livre fondateur de la médecine pratiquée au sein de l’Empire, révéré par la Confrérie tinéenne. C’est le Docteur Festus, un médecin réputé basé à Salzenmund, qui a fondé la Confrérie. De prime abord, la secte semble fonctionner comme une vague confrérie de médecins qui échangent des informations sur les maladies infectieuses rares, mais cela va bien plus loin que ça. 
-
-Clément Gauche - gauche.c@gmail.com

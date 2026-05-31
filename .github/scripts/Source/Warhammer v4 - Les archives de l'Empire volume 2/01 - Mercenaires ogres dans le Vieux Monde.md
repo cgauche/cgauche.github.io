@@ -19,8 +19,6 @@ Les ogres finissent souvent par être attirés par la carrière de mercenaire, c
 
 Ceux qui deviennent des bandits ou des pillards, s’en tenant à un mode de vie qui prévaut sur leurs terres, finissent par s’attirer les foudres des autorités des différents pays du Vieux Monde qui les pourchassent dans le seul but de les éliminer. Des bandes de mercenaires ogres se spécialisent même dans la traque (et la consommation) de leurs propres congénères. Cela étant, certains ogres mercenaires n’hésitent pas à se lancer dans _un_ des pillages s’ils pensent pouvoir s’en tirer. Bénéficier d’« _combat contre un repas_ » est une tentation à laquelle peu d’entre eux résistent si la mission semble faisable. Cependant, ils sont assez perspicaces quant à la manière dont les autorités locales sont susceptibles de réagir, c’est pourquoi ils planifient leurs activités en conséquence. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 LES OGRES DE L’EMPIRE 
 
 Les contrats des mercenaires sont négociés et leur durée est généralement limitée, ce qui permet aux ogres de passer à autre chose s’ils en ressentent le besoin. Les mercenaires itinérants trouveront presque toujours un nouveau combat à mener, alors que les sédentaires n’auront pas l’occasion de se battre aussi souvent. L’une des principales raisons pour lesquelles les ogres sont prêts à travailler pour les peaux-vertes est leur propension à se battre constamment. Mais ils s’en méfient tout de même, car ils ne respectent pas toujours leur part du marché. Dans le langage des ogres, les orcs et les gobelins ne _« savent pas toujours bien servir à table »_ . 
@@ -33,8 +31,6 @@ Les autres espèces du Vieux Monde ne comprennent pas à quel point l’obsessio
 Les ogres s’adaptent extrêmement bien à différentes cultures. Ils se font facilement aux us et coutumes de leur pays d’adoption, bien qu’ils comprennent rarement les nuances les plus subtiles, si tant est qu’ils y prêtent attention. L’essentiel de la culture tribale des ogres se résumant à la loi du plus fort, presque tout ce qu’ils apprennent en dehors des Royaumes ogres est nouveau pour eux, ce qui a tendance à les fasciner. Les mercenaires ogres adoptent volontiers les tenues ainsi que le style de combat des troupes aux côtés desquelles ils se rangent. Par exemple, les mercenaires ogres de l’Empire portent parfois un méli-mélo des couleurs des armées des différentes provinces ou cités-États pour lesquelles ils combattent habituellement. Ceux qui connaissent la fortune aiment fourrer des pistolets surdimensionnés dans leur large ceinture, aux côtés du reste de leur attirail. 
 
 Cette capacité d’adaptation s’avère très utile lorsqu’il s’agit de trouver du travail, quête permanente des ogres. Mais quelle que soit la facilité avec laquelle il apprend à s’intégrer au sein d’autres cultures, un ogre n’en demeure pas moins un ogre. Où qu’ils se trouvent, les mercenaires ogres ont deux préoccupations : d’où va venir leur prochain repas et leur réputation de combattants. Ils ont beau rire de bon cœur lorsque quelqu’un tente de les railler (ou peut-être qu’ils ne comprennent tout simplement pas), les ogres ne sauraient tolérer les insultes concernant leurs prouesses en matière de combat ou de nourriture. Pour un mercenaire ogre, la réputation mène au travail et le travail mène à la viande. Ils considèrent les atteintes à leur réputation comme des insultes mortelles car, si elles restent sans réponse, elles peuvent les amener à manger moins, c’est pourquoi ils seront toujours prompts à recourir à la violence. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Une Indemnisation Savoureuse**
 Ce n’est un secret pour personne : entretenir des mercenaires ogres coûte cher. Ces derniers demandent souvent des salaires élevés et des repas réguliers, ainsi que le droit d’obtenir des « rations de combat » après la bataille. Mais il arrive que certaines de ces « rations » ne soient pas tout à fait mortes lorsque les ogres commencent leur moisson. Les soldats expérimentés savent qu’il vaut mieux achever leurs amis avant que les ogres ne viennent les chercher. 
@@ -60,8 +56,6 @@ Peut détecter la nourriture empoisonnée, mais a
 Garde du corps 8/– 1 CO 6/– 8 CO
 tendance à finir le plat
 
-Clément Gauche - gauche.c@gmail.com 
-
 LES OGRES DE L’EMPIRE 
 
 ## **S’en Mettre Plein les Joues**
@@ -76,8 +70,6 @@ _Soit, « les ogres sont bruyants, cupides, vantards, fougueux, colériques et b
 Grâce à leur talent naturel pour l’intimidation, les mercenaires ogres font souvent office de garde du corps ou de gros bras pour des groupes criminels. La perspective d’affronter un ennemi de près de deux fois votre taille, qui vous découpera en morceaux avant de vous dévorer, suffit à décourager les plus braves. À l’exception de quelques rares cas, comme les tueurs nains, aucun soldat ne se réjouit d’affronter un ogre au combat. Certains employeurs engagent même des mercenaires ogres pour priver leurs ennemis de cette possibilité. Les mercenaires ogres ont servi dans de nombreuses guerres civiles qui ont opposé les provinces de l’Empire. On peut les trouver en Tilée à tout moment, où ils vont et viennent entre les forces des cités-États aussi rapidement que les anciens contrats expirent et que les nouveaux sont rédigés. 
 
 Les mercenaires ogres sont connus pour leur empressement à se mesurer même aux ennemis les plus redoutables sans la moindre hésitation. Si les ogres sont capables de ressentir la peur (notamment lorsqu’ils sont confrontés à des ennemis surnaturels particulièrement terrifiants), ils la considèrent plus comme une sensation pénible dont ils se débarrassent rapidement que comme un réel obstacle au combat. L’histoire de l’Empire regorge de récits de mercenaires ogres faisant face à des adversités presque insurmontables, chargeant de toute leur rage alors que d’autres troupes auraient certainement battu en retraite. Les érudits suggèrent que ce serait dû à leur incapacité à calculer leurs chances de survie. Quoi qu’il en soit, l’armée impériale les utilise depuis longtemps comme un rempart autour duquel les autres troupes peuvent se rallier pour affronter les ennemis les plus menaçants. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## Chronologie des Événements Marquants Concernant les Mercenaires Ogres
 Toutes les dates indiquées correspondent au calendrier impérial, car les ogres n’ont guère besoin de se situer dans le temps, sauf pour savoir quand aura lieu leur prochain repas. Nombre d’entre eux connaissent plus ou moins ces événements et seraient capables de les remettre dans l’ordre, mais ils considèrent l’histoire comme quelque chose qu’il vaut mieux laisser au passé. 
@@ -128,8 +120,6 @@ Un mercenaire à la retraite convainc un Graissus Dents d’Or, sceptique, que l
 ## 2499 CI
 Des nuées de skavens font irruption depuis les égouts de Nuln. Des héros improbables et plusieurs mercenaires, dont la bande du célèbre capitaine ogre Hrothyogg, protègent la ville d’une ruine totale. Faisant fi des exigences habituelles, Hrothyogg accepte une bonne quantité de poudre noire de Nuln en guise de paiement. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 LES OGRES DE L’EMPIRE 
 
 ## **’ de Couteaux et D Épées**
@@ -143,8 +133,6 @@ Les mercenaires ogres s’embarrassent rarement d’armures, leur peau épaisse 
 
 ## La Loi du Plus Fort
 Le groupe arrive dans une petite ville, affamé et avec un besoin urgent de se rafraîchir, mais il trouve porte close à toutes les auberges et tavernes. En fouillant un peu, les Personnages découvrent qu’une énorme dispute a éclaté sur la place du village, où des bruits d’indignation se font entendre. Connus pour leur vantardise, deux ogres (Thoggall et Yur’n’gut) se disputent le privilège d’être le plus grand et le plus large. Tout le monde en ville a fermé boutique afin afin d’assister à ce litige. Au centre de la place, deux ogres très grands et corpulents sont mesurés par ce qui est certainement un membre haut placé du conseil municipal, Margretta Tolwasser, qui se tient sur un tabouret, un long ruban à la main. Il semble que la circonférence et la hauteur des ogres soient exactement les mêmes. De frustration, ces derniers se précipitent vers un étal de légumes et commencent à dévorer tout ce qu’ils trouvent. Margretta annonce qu’ils pourront manger jusqu’à ce que la cloche de l’hôtel de ville retentisse. Ensuite, ils seront mesurés à nouveau. Si les Personnages veulent s’assurer le gîte et le couvert pour la nuit, ils doivent intervenir et trouver un moyen pour qu’un des ogres l’emporte sur l’autre. Les ogres, de leur côté, incitent le groupe à les aider à récolter de la nourriture contre une petite récompense : Thoggall leur offre sa protection et Yur’n’gut promet de porter leurs bagages. Malheureusement, les choses prennent une mauvaise tournure au moment où l’un des ogres commence à lorgner sur le cheval de Margretta, Bette. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **L’art Sacré du Combat de Gladiateurs**
 Seule une coutume ogre est parvenue au-delà des Montagnes des Larmes : le combat de gladiateurs. Avant la naissance de l’Empire, lorsque les humains sont entrés en contact avec les ogres, ils pratiquaient déjà des sports violents, mais il s’agissait seulement de combats impliquant des animaux ou de l’appâtage des ours. Les ogres avaient alors développé le combat de gladiateurs comme un moyen de décider qui était le plus fort des deux opposants destinés au commandement d’une tribu. Cette activité leur permettait également de vénérer leur divinité des gladiateurs, la Gueule. 
@@ -173,8 +161,6 @@ La vallée d’Osséine est ouverte à tous les ogres de passage, pour autant qu
 
 Les commandants, ou toute autre personne ayant de l’argent à dépenser, qui souhaitent faire parvenir une offre aux habitants de la vallée d’Osséine peuvent s’adresser à Edelard Bénibière (dit « Ed »), le halfling qui gère le Sanglier de Cuivre, une taverne fréquentée par les mercenaires ogres à Nuln. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 LES OGRES DE L’EMPIRE 
 
 ## **La Taverne des Dents Rouges**
@@ -199,8 +185,6 @@ La renommée de l’ogre est telle qu’en 2518 CI, le terme « mangeur d’homm
 ## **Capitaine Hrothyogg**
 Seul ogre à avoir battu Golgfag Mange’homme dans un concours du plus gros mangeur, Hrothyogg est l’exact opposé de son rival. Là où Golgfag est bruyant et vantard, Hrothyogg se montre discret et taciturne. Alors que Golgfag est constamment agité, impatient et enragé, Hrothyogg adopte un calme, une froideur et une patience infinis (ce qui est très rare chez un ogre). Le capitaine Hrothyogg a passé de longues années en Tilée, où il a appris le métier de mercenaire du pays qui l’a pratiquement inventé. Réputé pour être maître dans l’art de la « _renégociation stratégique_ », il sait exactement quand présenter de modestes demandes pour plus de provisions ou un meilleur paiement, ce qu’il fait généralement juste après que lui et ses Lames ont fait leurs preuves, mais avant que la prochaine vague de combat ne puisse avoir lieu. Ses compétences sont telles que de nombreux commandants humains ont fait confiance à son jugement tactique lors du déploiement de ses troupes au cours d’une bataille. Quelques mercenaires non-ogres ont notamment servi sous ses ordres sans se plaindre. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Ugrik L’égarée**
 ## **Isrogdal L’empressé**
 L’ogre gladiateur devenu mercenaire est bien connu dans toute la Tilée, ainsi que dans les parties les plus à l’est de l’Empire, à la fois pour la rapidité avec laquelle il commet ses meurtres et pour son empressement à manger ses victimes. À plusieurs reprises, il a commencé à dévorer des morceaux de ses adversaires dans la fosse alors que leur combat n’était pas encore terminé. Isrogdal est actuellement très demandé dans le milieu criminel de l’Empire, car en tant que gros bras intimidant, il n’a pas son pareil. Son « enthousiasme » l’a déjà contraint à déménager plusieurs fois, car plus d’un « client » avec qui il devait simplement discuter s’est retrouvé dans son assiette. 
@@ -221,5 +205,3 @@ UGRIK L’ÉGARÉE - HORS-LA-LOI OGRE (BRONZE 2) **M CC CT F E I Ag Dex Int FM S
 **Talents :** Combat déloyal, Combat instinctif, Combattant au contact, Frappe assommante, Massif (p. 20), Nomade, Résistance (Poisons ingérés), Très fort, Vice (Nourriture), Vision nocturne 
 
 **Traits :** À Distance (Arc +8), Arme (Massue +9), Armure 3 **Possessions :** arme simple (massue à tête de boulet de canon), pansière, arme simple (massue), arc avec 12 flèches, 2d10 sous de cuivre 
-
-Clément Gauche - gauche.c@gmail.com

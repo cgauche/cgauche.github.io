@@ -27,8 +27,6 @@ MARGARET VON ASCHENDORF - ABBESSE (SHALLYA) (ARGENT 2)
 
 **Compétences :** Calme 57, Charme 57, Commandement 52, Divertissement (Narration) 62, Guérison 63, Métier (Herboriste) 53, Perception 42, Prière 57, Ragot 62, Recherche 58, Résistance 50, Savoir (Théologie) 63 **Talents :** Béni (Shallya), Brouet, Cœur vaillant, Faire la manche, Invocation (Shallya), Lire/Écrire, Pansement de fortune, Résistance (Maladie), Robuste, Savoir-vivre (Shalléens), Visions sacrées **Possessions :** robe, fibule en argent en forme de colombe 
 
-Clément Gauche - gauche.c@gmail.com 
-
 LE GRAND HOSPICE 
 
 ## **Sœur Marie Duvallier**
@@ -69,8 +67,6 @@ CLÉMENTINE CLAUSEWITZ - NONNE (SHALLYA) (BRONZE 4)
 
 **Possessions :** robe, fibule en argent en forme de colombe 
 
-Clément Gauche - gauche.c@gmail.com 
-
 WARHAMMER FANTASY 
 
 ## **Sœur Type**
@@ -107,5 +103,3 @@ HANNA BRATSCH — VALET, ANCIEN SERGENT
 **Talents :** Coude-à-coude, Inébranlable, Infatigable, Savoir-vivre (Soldats), Seigneur de guerre, Vigilance **Traits :** Arme (Massue) +8, Armure (Veste et jambières de cuir) 1 
 
 **Possessions :** veste et jambières en cuir, arme simple (massue), fibule en argent en forme de colombe ***Note :** le Statut d’Hanna est inférieur à la normale en raison de sa position au service des nonnes qui, bien que respectées, ne sont pas considérées comme ayant un Statut élevé dans l’Empire. 
-
-Clément Gauche - gauche.c@gmail.com

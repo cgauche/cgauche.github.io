@@ -26,8 +26,6 @@ Tinée était une ville ancienne de l’ouest des Principautés Frontalières, s
 
 Plus de deux mille ans plus tard, l’Anatomie de Gaelen demeure un livre fondateur de la médecine pratiquée au sein de l’Empire, révéré par la Confrérie tinéenne. C’est le Docteur Festus, un médecin réputé basé à Salzenmund, qui a fondé la Confrérie. De prime abord, la secte semble fonctionner comme une vague confrérie de médecins qui échangent des informations sur les maladies infectieuses rares, mais cela va bien plus loin que ça. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 SOMBRES CULTES 
 
 Festus, adorateur secret de Nurgle, recrute discrètement des chirurgiens pour son culte à travers l’Empire, en les attirant grâce à des lettres et des séminaires où sont abordées les contaminations les plus rares, et en les encourageant petit à petit à se livrer à des expériences allant à l’encontre de l’éthique médicale. Alors que son influence maligne grandit, ces anciens guérisseurs deviennent des hérauts de la maladie, répandant même les infections dès qu’ils en découvrent les secrets. La route vers la Corruption est pavée de bonnes intentions. 
@@ -57,8 +55,6 @@ En 2505 CI, le magistrat Heissman von Bruner mit le culte à genoux. Des Répurg
 
 - Gutele et Boniel (voir page 43) nourrissent de lourds soupçons quant à leur mystérieux et lunatique cousin. Ils sont prêts à payer pour découvrir où Andreas se rend chaque semaine. Sa filature se déroulera sans évènement notable, jusqu’à ce qu’il se fasse attaquer dans les Docks. Si les Personnages interviennent, il leur en sera très reconnaissant et sera impatient de leur faire rencontrer Gregor, son serviteur, désireux de les remercier personnellement... 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Cercle de la Chair Immaculée**
 Le Cercle de la Chair Immaculée n’est arrivé que récemment à Ubersreik, introduit en ville par des membres corrompus à leur insu au sein de l’armée régulière d’Altdorf. C’est avant tout un culte de soldats. Les membres du Cercle prennent part à des combats illégaux hors de leurs heures de service, se délectant de la douleur qu’ils peuvent infliger et endurer euxmêmes. Les membres n’ont pas le droit de verser le sang. Ils luttent donc les poings enveloppés dans des sortes de gants en tissu en tentant de prendre le dessus sur leur adversaire et de le forcer à se soumettre. Les membres les plus anciens du culte semblent être capables d’endurer des souffrances de plus en plus extrêmes, et de tirer de la force des déchirures musculaires qu’ils subissent, et de leur chair meurtrie. 
 
@@ -81,8 +77,6 @@ La Poigne Changeante compte des membres tout le long du Stir, du Reik et de bien
 - Elmeric Herzog, un contrebandier du culte, a besoin d’aide pour déplacer une cargaison très particulière (une caisse de malepierres), mais les employés de Geldfinger suivent ses agents habituels. Herzog approche donc les Personnages pour que ces derniers l’aide à provoquer une «diversion suffisante» afin d’attirer l’attention loin des docks, juste au bon moment. 
 
 - • Maintenant que le commerce des Jungfreud contourne Ubersreik, Niedlich a besoin d’un membre du culte dans leur relais. Si le groupe a des liens quelconques avec les Jungfreud, ou avec les Guildes des Bateliers ou des Débardeurs, elle leur demandera de faire une lettre de recommandation. Après tout, où est le mal ? 
-
-Clément Gauche - gauche.c@gmail.com 
 
 SOMBRES CULTES 
 
@@ -111,8 +105,6 @@ Le Rat Cornu est un dieu d’entropie et de complots, vénéré par les hordes d
 
 - Dans les Égouts de Magnus (voir page 50), une guerre de l’ombre fait rage entre les différents clans skavens. Le clan Skaab a envoyé un groupe pour éliminer les Ventres Jaunes, mais leurs renseignements sont faux. Au lieu d’arriver dans l’antre secret des Ventres Jaunes dans les Docks, ils débouchent dans le sous-sol du bâtiment où résident les Personnages, convaincus qu’ils sont tous membres du culte, et prêts à les éliminer. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Les Sans-Visage**
 Constant Drachenfels (voir page 5) reste le grand croquemitaine du Reikland, et son nom est utilisé comme menace par toutes les mères du royaume, même s’il n’est qu’à peine murmuré par les plus superstitieuses. Les actes ignobles et les horribles dépravations du Grand Enchanteur sont trop nombreux et trop ignobles pour qu’on s’y attarde, mais leur légende fétide demeure, s’attardant dans les recoins les plus sombres de l’esprit et sur les langues de ceux qui cherchent le frisson torride du savoir interdit. 
 
@@ -138,7 +130,3 @@ Le Roi des Marais est vraiment terrifiant. Son cerveau lisse de 5 mètres de lar
 **Compétences :** Discrétion 80 
 
 **Traits :** Amphibie, Mutant (Couvée d’Yeux x2, Intelligence gigantesque, Télépathie), Taille (Monstrueuse), 8 x Tentacules +9 **Règles Spéciales :** si le groupe s’attire la colère du Roi des Marais alors qu’il se trouve à la surface, un seul tentacule attaquera, surgissant d’un tuyau ou d’une grille menant aux égouts. Utilisez les règles ci-dessus, mais n’attaquez qu’avec un seul tentacule. Si le Roi des Marais subit 20 Points de Blessure, il repliera son tentacule dans un terrible bruit d’éclaboussure. Si le groupe s’aventure sous les rues d’Ubersreik, ils pourront alors rencontrer le Roi des Marais dans toute sa splendeur tentaculaire, et donc cette fois utiliser toutes les règles. 
-
-Clément Gauche - gauche.c@gmail.com 
-
-Clément Gauche - gauche.c@gmail.com

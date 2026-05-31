@@ -43,8 +43,6 @@ Le MJ peut décider du type d’objets magiques découverts par les Personnages,
 |90–97|Un talisman|–|8 semaines|
 |98–00|Un objet<br>insolite|–|–|
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Identifier Un Artefact Magique
 La plupart des Personnages ne savent rien des capacités d’un artefact avant de procéder à des recherches ou des expérimentations. Pour les Personnages dotés du Talent Détection d’artefact, c’est plutôt simple : en touchant l’objet, ils peuvent effectuer un Test d’ **Intuition** et étudier l’artefact ( **WFJDR** page 136). Pour d’autres sorciers, la tâche est plus ardue et nécessite généralement une semaine par tentative, souvent dans un laboratoire, une bibliothèque bien fournie ou un autre espace approprié. C’est un processus décourageant, car les objets magiques sont dangereux lorsqu’ils sont manipulés dans l’ignorance. Pour identifier un artefact magique, un Personnage doit effectuer un Test de **Savoir (Magie) Intermédiaire (+0)** et consulter le tableau suivant. 
 
@@ -63,8 +61,6 @@ La plupart des Personnages ne savent rien des capacités d’un artefact avant d
 Les Personnages peuvent également obtenir des artefacts magiques en passant commande auprès d’un sorcier ou d’un maître des runes expérimenté. L’avantage de cette démarche pour le Personnage est d’avoir son mot à dire lors de sa création et peut prévoir les atouts du produit fini. Cependant, il s’agit d’un processus coûteux et exigeant. Les sorciers spécialisés dans la création d’objets magiques sont rares, parce que cela requiert d’être non seulement un mage puissant, mais aussi de maîtriser une forme d’artisanat. La création d’un artefact magique n’est pas la même chose que l’enchantement temporaire d’objets existants, car le vent concerné doit être lié de façon permanente dans la structure même de l’objet. 
 
 Commander un artefact n’est jamais chose facile. Les sorciers compétents sont sollicités en permanence, et dans certains cas, se retirent dans les endroits sauvages du Vieux Monde pour échapper à la demande constante des nobles et des gouvernements. Chercher un artisan peut être une aventure en soi, et convaincre celui-ci d’accepter la commande peut représenter un défi supplémentaire (à condition de pouvoir trouver un individu suffisamment compétent). Par exemple, les Personnages à la recherche de quelqu’un pour fabriquer une épée magique doivent trouver un sorcier expérimenté avec des compétences de forgeron. 
-
-Clément Gauche - gauche.c@gmail.com
 
 ## **Protéger la Réputation des Sorciers**
 ## **Le Temps et L’argent**
@@ -90,8 +86,6 @@ Notez que les objets hautement personnalisés tels que les bâtons, les talisman
 
 ## Désenchanté
 Hier, Manfred Blute a été arrêté pour vente de faux artefacts magiques. Les autorités cherchent son complice, un individu suspect dont personne ne peut se rappeler le moindre détail, sinon qu’il portait une longue cape. Les clients en colère de Manfred s’en prennent maintenant à sa famille, qui cherche désespérément de l’aide pour prouver son innocence. Les artefacts sont bel et bien magiques, il faut simplement les manipuler de la bonne façon. La femme de Manfred, Lotte, fait appel du groupe pour retrouver le complice et prouver aux autorités l’authenticité des marchandises et l’honnêteté de son mari. Mais le temps presse. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Très Bien, Je M’en Occuperai Moi-Même !**
 Plutôt que de marchander avec des sorciers frivoles et des nains entêtés, les Personnages comptent justement parmi eux un individu frivole ou entêté. Un Personnage avec les Compétences requises peut essayer de créer un artefact magique lui-même à l’aide de l’Activité _Artisanat_ . Il peut être bon de rappeler au Personnage que la création d’un artefact nécessite souvent l’utilisation d’ingrédients exotiques, dont l’obtention peut constituer une aventure intéressante pour le groupe. Par exemple, le forgeage de lames puissantes nécessite que l’acier encore chaud soit trempé dans du sang de dragon frais. Bien qu’il s’agisse d’une méthode garantie pour créer une lame aussi tranchante que le rasoir de n’importe quel barbier, les dragons en question ont tendance à ne pas se laisser faire. L’obtention de l’objet final est d’autant plus satisfaisante lorsque les Personnages ont passé du temps à récupérer les ingrédients. Pour plus d’informations sur l’obtention et l’utilisation d’ingrédients récoltés sur des créatures dangereuses, voir **Le Zoo Impérial** . 
@@ -130,8 +124,6 @@ page 292).
 -6 ou moins Échec Stupéfiant La création de l’artefact tourne mal. L’objet libère une puissante explosion magique,
 entraînant un choc semblable à celui d’une bombe ( WFJDR , page 295).
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Tableau de Créature Aléatoire
 De nombreux effets magiques s’appliquent uniquement à un type de Créature spécifique. Lors de la détermination d’une créature précise pour ces effets magiques, effectuez un lancer sur le tableau ci-dessous. 
 
@@ -160,8 +152,6 @@ Initialement commandée par un regretté Duc de Carroburg pour l’assassin habi
 ## **Massue Brise-Tibias**
 Personne ne sait d’où vient cette massue d’aspect brutal. Elle est apparue dans les mains d’un membre des Crochets à Altdorf, mais a ensuite changé de propriétaire une bonne dizaine de fois. Les Blessures Critiques infligées par cette arme sur les jambes d’un adversaire bénéficient d’un bonus de +20 au lancer sur la Table des Critiques. Sinon, la massue fonctionne comme une Arme simple normale. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Particularités et Malédictions
 En temps normal, les Vents de Magie sont capricieux et difficiles à contrôler, et ils ne semblent pas apprécier être liés à des objets qui les forcent à obéir à leur utilisateur au doigt et à l’œil. Une brève distraction pendant la fabrication d’un objet magique peut à elle seule entraîner un désastre. Même une simple erreur d’inattention peut mener à l’apparition de comportements étranges de l’artefact, qu’on appelle des Particularités. Ces efforts peuvent même mener à un effet catastrophique : une Malédiction. 
 
@@ -180,8 +170,6 @@ Des sorciers sont connus pour avoir délibérément fabriqué des artefacts maud
 | 81–84 | l’objet. Les Tests impliquant cet objet lorsque d’autres personnes sont présentes subissent -1 DR, tandis que ceux effectués dans la solitude bénéficient de +1 DR. L’objet puise sa force dans la vitalité de son utilisateur. Chaque fois qu’il est utilisé, son utilisateur doit effectuer un Test 85–89 de  Résistance Intermédiaire (+0) . S’il échoue, il subit un État  Exténué . L’individu ayant fabriqué cet objet avait beau être un puissant lanceur de sorts, il était piètre artisan. Cet artefact possède 90–93 le Défaut Peu fiable. L’objet est entouré d’énergies sauvages. Une créature ou un Personnage avec le Talent Seconde vue peut voir l’objet aussi |
 | 94–97 | clairement qu’un phare, même s’il est rangé dans un fourreau ou un sac à dos. Le porteur ne peut pas espérer se cacher de ceux dotés de Seconde vue. L’objet est vampirique. Tous les matins, il doit être enduit du sang de l’utilisateur jusqu’à satiété (équivalent à une Blessure) |
 | 98–99 | pour que ses effets magiques persistent. Si l’objet devient inactif, l’équivalent en sang de trois Blessures de l’utilisateur est nécessaire pour le réactiver. |
-
-Clément Gauche - gauche.c@gmail.com 
 
 |d100|Effet|
 |---|---|
@@ -207,8 +195,6 @@ Cela ne signifie pas qu’on ne peut pas employer d’autres types d’armes mag
 |73–75|Épée bâtarde|99–00|Arbalète|
 
 Si vous avez besoin de générer une arme magique aléatoirement, effectuez un lancer sur le tableau ci-contre pour déterminer le type d’arme. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## Atouts D’armes Magiques
 Vous pouvez utiliser ce tableau pour générer des effets magiques aléatoires pour les armes. Il contient l’effet de l’arme et l’origine probable de ses pouvoirs. Le MJ peut décider d’une origine différente de celle qui est décrite. Par exemple, une Lame du givre peut être fabriquée au cours d’un processus n’impliquant pas les secrets détenus par les Sorcières de glace de Kislev, celles-ci sont juste les artisanes les plus réputées pour ces armes. 
@@ -236,8 +222,6 @@ Certaines capacités magiques accordent des Atouts supplémentaires à l’arme.
 | 58–60 | D’aplomb :  le porteur de cette arme est empli d’un sentiment d’entrain, est immunisé contre les effets de la  Peur  et bénéficie d’un bonus de +2 DR pour résister à la  Terreur . |
 | 61–63 | De l’immense gueule du loup :  les meilleurs guerriers ulricains utilisent cette arme au pommeau représentant une tête de loup ou d’autres formes lupines. Elle possède l’Atout Dévastatrice. D’habilité et de ruse :  souvent créée avec l’assistance d’experts de Myrmidia, cette arme subtile se manie avec une précision 64–66 extrême. L’utilisateur bénéficie de +20 CC ou CT, selon l’arme. |
 
-Clément Gauche - gauche.c@gmail.com 
-
 |d100|Capacité|
 |---|---|
 |67–69|**De sel et de saumure :** les artisans ont bénéfcié du savoir des prêtres de Manann afn de fabriquer une arme qui protégerait<br>des pilleurs intempestifs. Le porteur de cette arme peut effectuer une Action gratuite au premier Round de chaque combat.<br>Elle possède également l’Atout Rapide.|
@@ -254,8 +238,6 @@ Clément Gauche - gauche.c@gmail.com
 |97–98|**D’apparence évolutive :** un maître de_Chamon_ a créé cette arme et lui a donné le pouvoir de changer d’apparence pour<br>convenir aux mouvements de l’utilisateur. Lorsqu’elle est utilisée pour transpercer, elle devient longue et fne. Lorsqu’elle est<br>utilisée pour trancher ou frapper, elle devient large et coupante. À chaque Round, le porteur peut choisir l’un des Atouts<br>suivants : Empaleuse, Perforante, Précise, Rapide et Taille.|
 |99|<br>**Lame du givre** **: **ces armes puissantes et rares sont parfois créées pendant les rites rigoureux des sorcières de glace de Kislev.<br>Même une simple égratignure est potentiellement mortelle. Si un coup infige des Dégâts, le nombre de points de Blessures<br>est doublé et quatre points de Blessures supplémentaires sont appliqués.<br>Il n’existe aucune méthode pour fabriquer des armes à distance qui confèrent un tel effet à leurs munitions. Si vous<br>obtenez ce résultat pour une arme à distance, il représente 1d10 munitions imprégnées de la capacité ci-dessus. Si vous<br>avez déjà obtenu**Arme légendaire** pour une arme à distance, ignorez ce résultat.|
 |00|<br>**Arme légendaire** **:** faites deux jets sur ce tableau. Si vous obtenez ce résultat plusieurs fois, une arme magique possède un<br>maximum de cinq capacités. Les capacités en double ne peuvent pas être cumulées.|
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **L’histoire des Armes Magiques**
 Les armes magiques ont souvent une histoire riche, avec leurs propres nom et influence. Si les Personnages trouvent une arme magique, le MJ doit effectuer un lancer sur le tableau suivant pour voir si elle a une réputation. Le Personnage qui est en possession de la lame n’en saura rien à moins de réussir un Test de **Savoir (Histoire) Difficile (–20)** ou consacrer du temps à faire des recherches sur son histoire. Certains effets psychologiques peuvent découler de ce tableau. Ces effets ne s’appliquent qu’à ceux qui reconnaissent l’arme, mais ne connaissent pas le porteur, ou s’en méfient déjà. 
@@ -278,8 +260,6 @@ _**Exemple :** Rudi Fleisher a trouvé une épée autrefois brandie contre l’a
 | 90–96 | Recherchée :  l’ancien propriétaire de cette arme fait partie d’un groupe d’aventuriers mercenaires. Tout juste revenus de leur dernière mission, ils sont désormais à la recherche de l’arme perdue. |
 | 97–00 | Chargée d’histoire :  faites deux jets sur ce tableau. |
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Flèches et Carreaux Magiques**
 La fabrication d’armes magiques est extrêmement rare, mais la création de munitions magiques l’est encore plus. Enchanter des pointes de flèche est délicat, et les flèches se cassent ou se perdent facilement. Une flèche magique est détruite si elle touche sa cible. Les flèches qui manquent leurs cibles peuvent généralement être récupérées intactes. Il y a 90 % de chances que cela se produise dans des conditions propices, mais cette probabilité est réduite à 50 % ou moins si le terrain est rocheux ou marécageux. 
 
@@ -301,8 +281,6 @@ _**Exemple :** Duri le nain s’arrange pour laisser sa hache toute la nuit dans
 _Le MJ lance discrètement 1d100 et obtient 16. L’enchantement sur la hache de Duri disparaîtra donc au bout de deux semaines._ 
 
 _C’est bien beau les objets magiques, encore faut-il pouvoir les garder à l’abri. J’ai évidemment introduit le mien clandestinement quand je suis arrivée, jusqu’à ce que je puisse le mettre en sécurité. Alors oui, je suis un peu paranoïaque, mais je sais qu’Inga est au courant que je possède un artefact magique. Dernièrement, ses questions sont de plus en plus précises. Qu’est-ce qu’elle va en faire, si elle le trouve ? Quand je pense à tous les objets magiques que j’ai vus au fil des ans… même Ghal-Maraz… C’était tellement décevant que je me suis demandé si je les avais rêvés. Je ne comprends pas pourquoi on en fait tout un plat._ 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Armures Magiques**
 Une armure magique est encore plus difficile à fabriquer que les armes et a l’inconvénient de devoir être forgée sur mesure pour son porteur. Les pièces d’armure magique sont généralement en plates, car la durabilité de ce matériau justifie l’effort demandé par la fabrication d’un tel artefact, mais les artisans enchantent occasionnellement du cuir ou des mailles. Si les Personnages trouvent une pièce d’armure magique, effectuez un lancer sur le tableau suivant pour découvrir de quelle pièce il s’agit. 
@@ -353,8 +331,6 @@ Une armure en cuir ne peut pas être en gromril ou en ithilmar. Effectuez un nou
 
 **Remarque :** certains effets requièrent que l’armure soit complète pour s’activer, tandis que d’autres s’appliquent à une seule pièce, comme un casque ou des chausses. L’effet magique d’une pièce ne s’applique que si le coup frappe à l’endroit où la pièce est portée. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Atouts D’armure Magique
 | d100 | Capacité |
 |---|---|
@@ -368,8 +344,6 @@ Clément Gauche - gauche.c@gmail.com
 | 77–88 | l’armure de charmes de protection. Si une attaque touche une zone protégée par cette armure, lancez 1d10. Si vous obtenez 10, le porteur ignore le coup. Armure de résilience :  de puissants enchantements des pratiquants de  Chamon  rendent la chair du porteur aussi résistante 89–96 que l’acier. Le porteur gagne +5 en Endurance. L’armure complète doit être portée. Armure de chance :  l’Armure de chance ne protège pas vraiment son porteur directement ; elle détourne des coups qui |
 | 97–99 | auraient dû atteindre leur cible. Si une attaque touche une zone protégée par cette armure, lancez 1d10. Si vous obtenez 9 ou 10, le porteur ignore le coup. Armure légendaire :  effectuez deux autres lancers sur ce tableau. Si vous obtenez ce résultat plusieurs fois, une pièce d’armure |
 | 00 | magique possède un maximum de cinq capacités, et les capacités en double ne peuvent pas être cumulées. Il est impossible pour une armure d’être à la fois en gromril et en ithilmar. |
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Boucliers Magiques**
 Les boucliers magiques fonctionnement généralement de la même façon que l’armure magique, mais la surface étendue du bouclier permet aux artisans d’y incorporer des effets plus complexes. Si les Personnages trouvent un bouclier magique, effectuez un lancer sur le tableau suivant pour déterminer son type. 
@@ -414,8 +388,6 @@ Si les Personnages trouvent un parchemin, effectuez deux lancer sur le tableau s
 
 **Bouclier enchanté :** ce bouclier est imprégné d’enchantements lui permettant de mieux dévier les 89–00 attaques. L’Atout Défensive d’un bouclier enchanté est amélioré, offrant un bonus de +3 DR à son porteur pour les Tests de Corps à corps face aux attaques. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 Les parchemins contenant de la magie noire peuvent corrompre ceux qui s’en servent. Utiliser un parchemin qui produit un sort du Domaine de la Magie naturelle compte comme une source de Corruption mineure. Utiliser un parchemin qui produit un sort des Domaines de la Démonologie, Nécromancie, Sorcellerie ou Chaos compte comme une source de Corruption modérée. 
 
 Pour se servir d’un parchemin, son utilisateur doit lire les mots de commande écrits dessus. Ils sont généralement rédigés dans l’une des différentes langues arcaniques employées pour l’incantation, mais peuvent occasionnellement être épelés phonétiquement dans une langue plus commune. Pour lancer le sort, l’utilisateur doit brandir le parchemin et lire les mots de commande, puis réussir un Test de **Langue (Magick) Intermédiaire (+0)** . Si le parchemin est destiné à un nonsorcier, l’utilisateur doit réussir un Test de **Langue Difficile (–20)** dans la langue employée sur le parchemin. 
@@ -448,8 +420,6 @@ Les baguettes sont des bâtons courts d’environ 30 centimètres de long. Tout 
 | 53–74 | de  Focalisation . La magie non maîtrisée est piégée dans la baguette et lentement évacuée dans la terre au cours des 24 prochaines heures. Pendant ce temps, la baguette ne peut pas être utilisée pour ignorer une autre Incantation Imparfaite Mineure. Baguette des vents :  la baguette est fabriquée de façon à compenser les moments où le souffle des Vents de Magie est faible. Si un lanceur de sorts se trouve dans une situation où les Vents Tourbillonnants lui infligent |
 | 75–95 | des modificateurs négatifs ( WFJDR , page 238), il peut ignorer ces modificateurs pendant 1d10 Rounds. Après ce délai, la baguette est déchargée. 24 heures sont nécessaires pour qu’elle régénère ses réserves d’énergie magique. Bâton interdit :  cet artefact magique dangereux aide à focaliser les Vents de Magie en aspirant la vitalité du porteur. Si un lanceur de sorts tente de lancer un sort et échoue, il peut décider de perdre jusqu’à trois 96–00 Blessures, en ajoutant +1 DR au Test d’ Incantation pour chaque Blessure. Après avoir utilisé cette capacité, le Bâton interdit ne peut plus être utilisé pendant 24 heures. |
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Anneaux Magiques**
 Les anneaux magiques sont souvent gros et d’apparence baroque. Cette apparence sert en partie à contenir et focaliser les énergies magiques qui enchantent les anneaux, mais leur apparence à la fois particulière et unique permet aussi à leur propriétaire de les retrouver facilement en cas de vol. 
 
@@ -479,8 +449,6 @@ Les talismans et les amulettes sont souvent associés à la magie de protection.
 | 66–73 | de -1. Le porteur d’une telle amulette reçoit également un bonus de +30 aux Tests de  Résistance  visant à éliminer l’État  Empoisonné . L’amulette devient également verte en présence de poisons. Amulette d’argent vertueux :  le porteur de cette amulette |
 | 74–82 | ne souffre pas des effets de la  Peur  et bénéficie d’un bonus de +2 DR aux Tests pour résister à la  Terreur . Charme du voyageur :  ces amulettes sont souvent fabriquées par des sorciers de village et sont très appréciées des nomades, marchands ambulants, 83–00 soldats et vagabonds. Ceux qui les transportent peuvent ignorer le premier État  Exténué  qu’ils reçoivent chaque jour. |
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Objets Insolites
 Les objets insolites sont des artefacts magiques plus rares fabriqués dans un but qui peut ne pas sembler utile d’emblée aux aventuriers. 
 
@@ -498,5 +466,3 @@ Les objets insolites sont des artefacts magiques plus rares fabriqués dans un b
 | 70–75 | malheureuses victimes à avoir fait don de leur crâne pour la création d’une nouvelle tasse. Une personne peut boire dans la tasse une fois par jour. Boire de l’eau dans la tasse permet au buveur d’ignorer le premier État  Hémorragique  qu’il reçoit ce jour. Boire un alcool fort lui permet d’ignorer la première Blessure Critique qu’il reçoit ce jour. Boire le sang frais d’un ennemi vaincu lui accorde 100 PX et 1 point de Corruption. Cape elfique :  ces capes sont fabriquées par des mages elfes sylvains et apportent un excellent camouflage à leur porteur |
 | 76–89 | dans les environnements ruraux. Les Tests de  Perception  ou de  Capacité de Tir  effectués à l’encontre du porteur subissent une pénalité de –20. Couronne de commandement :  ces cercles dorés ont été fabriqués par des sorciers pour aider les commandants militaires |
 | 90–00 | à inspirer leurs soldats. Le porteur de la couronne de commandement bénéficie d’un bonus de +20 aux Tests de Commandement . |
-
-Clément Gauche - gauche.c@gmail.com

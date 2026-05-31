@@ -27,8 +27,6 @@ Nargrimi la Silencieuse s’assure que les enseignements de Gazul ne soient pas 
 
 - Nargrimi n’est pas qu’une ancêtre vivante, c’est également la vraie reine de Karak Zanda, une forteresse perdue située près d’Helmgart. Lorsqu’elle apprend que les ruines de son ancienne demeure ont été découvertes par des explorateurs, et que des expéditions sont organisées par des chasseurs de trésors et des aventuriers, Nargrimi rédige une note dans laquelle elle annonce qu’elle est prête à parler, mais seulement à des étrangers. Quand Barick Bullicksson lui amène le groupe au Souterre, elle explique que sa forteresse 
 
-Clément Gauche - gauche.c@gmail.com 
-
 perdue ne doit en aucun cas être explorée, et qu’aucun nain avec un tant soit peu d’honneur ne devrait s’approcher de Karak Zanda. Elle n’en dira pas plus, mais offrira 10 CO à tout groupe capable de couper les routes menant aux ruines de son ancienne demeure. 
 
 ## **’ les Fournitures D Expédition Nordwander & Fils**
@@ -46,9 +44,6 @@ Belorn rêve de quitter Ubersreik et de monter sa propre expédition au lieu de 
 
 ## **Teubrücke (les Docks)**
 Les Docks d’Ubersreik s’étendent au centre de la ville, sur toute la longueur de la Teufel. Ils comportent de nombreux quais, des entrepôts, des auberges, des maisons de Guilde, des services bon marché, ainsi que des bureaux chargés de prélever les taxes et autres droits de douane. Le reste du quartier ne vaut guère mieux qu’un bidonville, la qualité des bâtisses diminuant au fur et à mesure qu’on s’éloigne de la rivière. Même si, dans la charte de la ville, ce quartier, ainsi que tous les taudis et entrepôts qui s’y rattachent, porte le nom de Teubrücke, il est généralement appelé « Les Docks ». 
-
-24
-Clément Gauche - gauche.c@gmail.com
 
 ## **La Guilde des Bateliers**
 La Guilde des Bateliers se réunit dans un ancien entrepôt sur deux niveaux aménagés, sur la rive sud de la Teufel. Le rezde-chaussée dispose d’une taverne et d’un dortoir destiné aux membres, où tout est vendu à prix coûtant. Plusieurs chambres privées sont également disponibles. La nourriture et les boissons sont abondantes et de bonne qualité. À l’étage supérieur, surplombant la salle commune, se trouvent les bureaux de la Guilde et les appartements du Maître de Guilde. Celle-ci est affiliée aux Guildes de Bateliers d’Auerswald, de Kemperbad et d’Altdorf, ce qui permet aux membres d’une de ces Guildes de bénéficier des avantages de toutes les autres, notamment l’accès au dortoir, à la taverne, aux pensions pour les veuves ou les orphelins ainsi qu’aux différents contacts de la Guilde. 
@@ -69,8 +64,6 @@ Gert Hunder s’occupe du bar. C’est un homme balafré et plutôt intimidant, 
 - Même si la plupart des gens sont au courant que le tripot est dirigé par les Croix, les opérations clandestines de contrebande organisées depuis le bureau du comptable sont nettement moins connues. Pourtant, c’est là que les Doigts Crochus achètent, vendent et échangent les objets volés. Si le groupe est dévalisé, c’est là qu’il pourra retrouver ses biens ; enfin, s’il parvient à convaincre les adeptes de Ranald. 
 
 - • Dannel Meer, le légendaire voleur, est en train de monter une équipe pour s’attaquer à la forteresse de Roche Noire. Il prétend que les taxes du duché d’Ubersreik arrivent dans la forteresse et s’y accumulent simplement parce que les Jungfreud ne sont plus là pour les envoyer à Altdorf. Von Walfen, l’archiduc, ayant trop peur du pouvoir d’Altdorf pour récupérer les taxes, elles s’accumulent donc dans les chambres fortes de Roche Noire. Il y a là une véritable fortune à se faire. En supposant que Meer ait raison… 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Bureau des Douanes**
 Toutes les taxes collectées à Ubersreik arrivent au Bureau des Douanes, un grand bâtiment solide disposant d’une vue imprenable sur les quais et le trafic fluvial. Tous les bateaux qui livrent de la marchandise dans la ville paient une taxe d’une pistole d’argent, ainsi qu’une somme supplémentaire en fonction de leur cargaison. Les navires peuvent avoir des frais d’accostage à régler au propriétaire du quai, ainsi qu’une somme supplémentaire à verser à la Guilde des Débardeurs pour avoir le droit de charger, ou de décharger. Les chariots de marchandises paient leurs taxes aux portes de la ville. C’est Ernst Geldfinger qui dirige les opérations. Geldfinger est un quadragénaire brusque qui surveille très étroitement ses greffiers. Chaque jour, l’un d’eux est en poste à chacune des trois portes de la ville, deux autres sont en place respectivement sur les rives nord et sud afin de récupérer l’argent des péniches, et un dernier travaille au Bureau des Douanes à proprement parler. Ernst a la réputation de faire attention au moindre détail, et d’être d’une honnêteté irréprochable. 
@@ -94,8 +87,6 @@ Le Bras du Docker est en effet le siège de la Guilde des Débardeurs. En plus d
 - Aloysius Pavéderonce III, un marchand halfling, a embauché le groupe. Il est en litige avec la Guilde des Débardeurs, qui refuse d’effectuer tout déchargement pour lui tant qu’il n’aura pas réglé son énorme dette. Comme il est convaincu d’avoir payé son dû (à la Guilde des Débardeurs d’Altdorf), il ne veut pas payer une seconde fois. Alors que le groupe commence à décharger sa péniche, les Débardeurs arrivent pour corriger leur erreur. 
 
 - Petit Willi, le fils de Grand Willi, qui est encore plus grand que lui, fait passer illégalement des objets de luxe pour le compte du clan Havrebas. Mais depuis que le Guet lui a confisqué sa dernière cargaison sur l’ordre de Geldfinger, il doit beaucoup d’argent aux halflings. Il propose donc aux membres du groupe de devenir gratuitement membres de la Guilde, s’ils l’aident à s’infiltrer dans l’entrepôt où sont stockés les biens confisqués et s’ils l’aident à les récupérer. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **La Chapelle du Graal**
 Vue de l’extérieur, la chapelle bretonnienne du Graal ressemble à un entrepôt, comme il en existe beaucoup dans le quartier. Seules les fleurs de lys gravées sur son avant-toit indiquent que le bâtiment est particulier. Par contre, son intérieur est somptueux. Ses murs et ses colonnes sont finement sculptés et magnifiquement décorés de fresques représentant les légendes de la Dame du Lac et des vaillants chevaliers de Bretonnie. 
@@ -124,8 +115,6 @@ Au dernier festival de Magnustag, ses manières originales, associées à sa ré
 Même si elle s’appelle la Guilde de Constructeurs de bateaux et des Accastilleurs, et qu’elle emploie plusieurs charpentiers de marine, la Guilde ne construit pas vraiment des bateaux. Elle fabrique des péniches. 
 
 La différence peut sembler minime, mais pour les riverains, elle est primordiale. Dans le patois de ceux qui vivent près du Reik, une péniche est un navire à fond plat, qui permet la navigation sur les eaux peu profondes des rivières, et sur laquelle la capacité de stockage est plus importante. En comparaison, les bateaux et les navires possèdent des quilles bien plus longues, ce qui facilite les voyages sur l’océan et en eau profonde. Les navires sont également plus grands, et sont le plus souvent équipés d’au moins trois mats. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **La Fosse aux Cochons**
 La Fosse aux Cochons, dans le bidonville de Schwarzehalle, est une vaste série d’enclos à cochons à ciel ouvert. Ceux-ci se nourrissent des restes et des déchets de la ville, vendus aux porchers par des ramasseurs de fumier entreprenants. Les habitants qui souhaitent traverser la Fosse aux Cochons doivent emprunter une série de plateformes surélevées en bois. Les planches sont traîtresses, et plus d’un bourgeois a déjà glissé, tombant dans la boue et les déchets au beau milieu des animaux. 
@@ -158,8 +147,6 @@ Franz Lohner, le propriétaire de l’auberge, en assure le bon fonctionnement. 
 
 - « NdT : Kürbis et Honighäschen, Pumpkin et Honeybunny constituent un clin d’œil au couple de voyous dans Pulp Fiction. » 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **La Pension de Rugger**
 La pension de Rugger est l’auberge la moins chère d’Ubersreik, et pour de bonnes raisons : les lits sont infestés de parasites, et la salle commune est humide et sent le moisi. Le rez-dechaussée comporte une cuisine crasseuse, un réfectoire bancal, et la salle commune. À l’étage se pressent quatre chambres privatives (chacune avec deux lits superposés doubles), ainsi que celle du propriétaire. 
 
@@ -182,8 +169,6 @@ Juste à côté des écuries, Marlies Zeitflug a récemment ouvert une petite é
 
 - Marlies Zeitflug a besoin de clients influents, dans l’espoir de créer un mouvement de mode en faveur de ses horloges. Si le groupe parvient à convaincre quelqu’un de riche d’acheter l’une de ses pendules, ils toucheront une commission sur la vente. 
 
-29 Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Pont D’ubersreik**
 Grodni Sûrmarteau, aidé des nains de la Guilde des Ingénieurs, a conçu et construit le Pont d’Ubersreik il y a plus de deux cents ans de cela. À cette époque, Ubersreik n’était plus qu’une ruine reprise par l’Armée régulière du Reikland. Magnus le Pieux, l’Empereur nouvellement couronné, voulait reconstruire ce qui avait été détruit, et c’est la raison pour laquelle il demanda à ses alliés nains de créer un nouveau passage audessus de la rivière Teufel ; l’ancien pont s’était effondré au cours des combats qui avaient eu lieu pour reprendre la ville aux peaux-vertes entêtées. 
 
@@ -198,8 +183,6 @@ En effet, même le plus fidèle partisan de l’Empereur doit admettre que tout 
 C’est pourquoi seuls les plus désespérés osent s’y aventurer. Les gangs et les voleurs y sont légion, et il ne se passe pas une journée sans que le sang ne soit versé ou qu’un nouveau corps ne soit découvert dérivant au gré de la rivière. Il n’est donc pas surprenant que le Guet, dirigé par les troupes d’Altdorf, évite désormais totalement l’endroit, conscient qu’il n’y a rien à gagner à se confronter avec le nouveau pouvoir en place sous le pont. Cette absence de surveillance a permis à plusieurs gangs de contrebandiers de construire des embarcadères de fortune en toute quiétude. Comme ils ne rencontrent aucune résistance, plusieurs gangs se sont affirmés, n’hésitant plus à décharger d’immenses péniches même en plein jour, sans crainte de représailles. Bien sûr, nombreux sont ceux qui grommellent qu’une telle criminalité effrontée n’aurait jamais été permise sous la gouvernance des Jungfreud, mais ces propos ont tendance à diviser et peuvent provoquer des disputes, des bagarres voire des émeutes. 
 
 Des rumeurs récentes indiquent que les différents gangs de Dunkelfeucht se seraient réunis sous le commandement d’un seul chef connu comme « Le Baron ». Arrivé il y a peu à Ubersreik, ce génie du crime est déjà connu pour son ambition et son extrême cruauté. Rares sont ceux n’habitant pas à Dunkelfeucht à avoir réussi à l’apercevoir, même si la plupart des habitants d’Ubersreik ont entendu parler de lui et le craignent. Si l’on en croit les rumeurs, il a déjà sous ses ordres un grand nombre de voleurs, de voyous et d’escrocs, et il a l’intention de s’étendre rapidement en partant des docks, matant toute tentative cherchant à contrecarrer les plans d’extension de son nouvel empire criminel. 
-
-30 Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Baron**
 Katerine Eule s’est battue toute sa vie. Ayant grandi au milieu des voyous au pied des murailles est d’Altdorf, elle a dû lutter pour tout, et la compétition y était rude. Lorsque les troupes prirent le chemin du Sud, elle y vit une opportunité et les suivit, décidée à profiter de la situation. Son ascension fulgurante sous le pont n’est que le reflet de son courage et de ses capacités. Même si elle porte bien quelques entailles et autres cicatrices récoltées au cours de combats contre tous ceux qui se sont opposés à elle, elle a toujours gagné. Eule a choisi le nom de « Le Baron » afin de s’attribuer un côté mystique et d’instiller la peur dans les entrailles d’Ubersreik. 
@@ -222,8 +205,6 @@ Ce mendiant, connu sous le sobriquet de « l’Anguille », s’appelle Klaus Sc
 - Le groupe a été engagé par Klaus Osfer afin de retrouver son frère Ulli, qui se trouve quelque part à Dunkelfeucht. Ulli a été mis dehors par son père, maintenant décédé, et Klaus aimerait qu’il revienne. Pour parvenir jusqu’à lui, le groupe devra négocier avec le Baron et ses brutes, qui semblent plus intéressés par la revente des possessions des membres du groupe, voire certaines parties de leurs corps. 
 
 - Un rapport indique que des barils d’explosifs ont été volés à la Guilde des Mineurs, et la piste semble mener à Dunkelfeucht. Si les Personnages enquêtent, ils découvriront que les explosifs ont été empilés contre certains piliers du pont, dans l’objectif de le détruire. Ce plan a été mis au point par Ernst Elsen, un humain autrefois maçon, qui en veut aux nains d’avoir une telle influence à Ubersreik. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **La Marktplatz**
 Le quartier de la Marktplatz d’Ubersreik se trouve en plein cœur de la ville. Chaque Marktag (jour de marché), les fermiers apportent leurs produits depuis les villages des environs pour les négocier sur les places bondées, pendant que des colporteurs et des marchands proposent des tissus et d’autres produits. La grande majorité des commerçants d’Ubersreik occupent également des stands pour le Marktag, vendant leurs produits un peu plus cher, sachant que la plupart des clients préfèreront la facilité plutôt à la traversée de la ville. 
@@ -261,8 +242,6 @@ La Fièvre de bronze est fréquente dans le sud du Vieux Monde, là où le clima
 
 **Symptômes :** Fièvre, Malaise, Nausée, Persistant (Facile) (pour une description complète de ces symptômes, voir WFJDR, page 186). 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Temple de Shallya**
 Les murs blancs du Temple de Shallya, la déesse de la Miséricorde, s’élèvent majestueusement dans le ciel, aux côtés du Temple de Verena. C’est un bâtiment aux plafonds hauts, pourvu d’un large dôme et entièrement construit dans un style classique. À l’intérieur se trouve un vaste espace destiné aux prières et aux soins des malades. Des deux côtés du temple, une série d’alcôves, protégées par des rideaux, permet d’accueillir ceux atteints de souffrances plus importantes ou qui mettent à mal la dignité de la personne. 
 
@@ -282,9 +261,6 @@ Heinrich Gutenberg est le Grand Prêtre du temple. C’est un homme affable à l
 - Après un vol dans l’Annexe, la bibliothécaire Schirma demande au groupe d’enquêter et de récupérer les livres auprès des divers collectionneurs et autres trafiquants de la ville. Elle ne veut pas que Gutenberg soit mis au courant et ne souhaite donc pas impliquer les autorités. Elle remboursera le groupe de toutes les sommes déboursées pour racheter les ouvrages en ajoutant un petit supplément pour le temps passé à les récupérer. Si le groupe parvient à rassembler les livres sans rien débourser, il pourrait faire des bénéfices. 
 
 - • Andreas von Bruner (voir page 43) cherche désespérément à lire un livre dont l’accès est restreint, mais Gutenberg lui en refuse l’accès. Quiconque permettra à Andreas de s’introduire clandestinement dans la salle en question sera grassement récompensé. Bien sûr, comme il est secrètement membre d’un culte voué à Slaanesh, le dieu du Chaos, lui permettre d’accéder au livre pourrait bien être une très mauvaise idée. 
-
-33
-Clément Gauche - gauche.c@gmail.com
 
 ## **L’hôtel de Ville**
 L’Hôtel de Ville d’Ubersreik est un imposant bâtiment en pierre à un étage doté de quatre tours, qui domine le nord de la Marktplatz. En plus de l’enfilade de bureaux appartenant au Bourgmestre et son équipe, on y trouve la Cour nobiliaire, une grande salle dans laquelle les Jungfreud rendaient les décisions qui concernaient tout le duché. Les tours étaient réservées aux Jungfreud et aux nobles en visite, qui y logeaient lorsqu’ils siégeaient au tribunal. Aujourd’hui, elles sont inutilisées. Depuis l’éviction des Jungfreud, le statut et l’influence du Conseil de la Ville, qui se réunit une fois par semaine, ont énormément augmenté même si les limites formelles de son pouvoir sont en fluctuation permanente. 
@@ -320,8 +296,6 @@ Ce petit bâtiment, à proximité de l’Hôtel de Ville, ne dépasse pas un mè
 
 - Le Baron (voir page 31) dispose des clefs des Postes et s’en sert pour stocker des marchandises de contrebande. Il sera fort mécontent si quelqu’un parvient à entrer, et cherchera à se venger si son stock lui est dérobé. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Cochon Qui Explose**
 ## **Quartier des Marchands**
 Le Cochon qui Explose, juste à côté d’Abrechnungsplazt, est une grande taverne fréquentée par des marchands, des commerçants, et certains Marktags, par des fermiers de passage. Ses deux étages sont devenus de véritables nids à ragots, surtout parmi les bourgeois qui s’intéressent un tant soit peu au commerce et à la vie politique locale. Depuis l’arrivée des soldats réguliers d’Altdorf, le Cochon est encore plus fréquenté qu’auparavant, la classe moyenne d’Ubersreik s’y réunissant pour discuter des dernières actions du Conseil de la Ville, pour tenter de se placer sur l’échiquier politique. 
@@ -347,8 +321,6 @@ Rader soutient ouvertement les efforts du Bourgmestre, qui cherche à faire d’
 
 - Rader utilise l’une des salles privées de l’étage pour un groupe de Maîtres de Guilde qui unissent leurs efforts pour influencer le Bourgmestre. Kurt Prochnow, le maître de la Guilde des Constructeurs de Bateaux et des Accastilleurs (voir page 27), qui ne fait pas partie de ce groupe, paiera 1 CO au groupe s’ils vont espionner une réunion et qu’il obtient un rapport détaillé de ce qui s’y est dit. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **La Bourse aux Grains de Furlisdottir**
 La Bourse aux Grains est un grand bâtiment en pierre à un étage. C’est là que la majorité des ventes de céréales d’Ubersreik se concluaient auparavant. Comme Ubersreik et sa population ne cessent de croître, le flux commercial était devenu trop important et l’ensemble a déménagé vers un site plus grand près de Teubrücke. Depuis, le bâtiment a été reconverti en marché couvert accueillant les petits stands de nombreux commerçants qui viennent presque chaque jour. Le rez-de-chaussée est un labyrinthe d’étals sur lesquels se vendent vêtements, nourriture, accessoires ménagers et bibelots en tous genres. Une galerie en mezzanine fait le tour du bâtiment. C’est là que les objets les plus chers sont mis en vente, et des gardes patrouillent en permanence pour s’assurer qu’aucun client ne succombe aux tentations de Ranald, le dieu des Voleurs et de la Ruse, et ne soit tenté d’emporter un objet sans le payer. 
 
@@ -367,8 +339,6 @@ Müller est une femme d’affaires astucieuse toujours enjouée. Sa famille se s
 
 - Bengt Hertie, dont la Maison est spécialisée dans le négoce du tissu et des vêtements, est le plus jeune associé de la Guilde. Aucun Hertie n’a jamais été Maître de Guilde, ce qui le ronge. Pour y remédier, Bengt souhaite être mis au courant de toutes les rumeurs concernant ses rivaux, que ce soit les Brauninger, les Karstadt ou les Müller, et n’hésitera pas à payer pour le moindre ragot. Cependant, il est loin d’être futé et sera facilement dupé par n’importe quel « secret » plausible. 
 
-36 Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Vieux Grenier À Grains**
 Dominant l’horizon au sud d’Ubersreik, le Vieux Grenier est l’un des bâtiments les plus hauts de la ville fortifiée. La construction conique est entièrement en pierre et comporte de nombreuses portes sur sa face nord. Elle est enveloppée d’un escalier en colimaçon extérieur qui a connu des jours meilleurs. Malgré son nom, c’est à l’heure actuelle le seul grenier au sein des murs de la ville. En dehors d’Ubersreik, d’autres, plus petits, se trouvent dans les villages avoisinants, mais ils sont trop éloignés pour être utilisés quotidiennement par les boulangers locaux. Au fil des ans, un certain nombre de « Nouveaux Greniers » ont été construits à différents endroits de la ville, mais tous ont brûlé au cours de regrettables accidents. En effet, comme la farine est hautement inflammable et sujette aux explosions, le feu est un danger constant, et toutes les précautions sont prises pour éviter ce genre de problème. C’est la raison pour laquelle le Vieux Grenier est lourdement gardé, et, par décret, aucune flamme non protégée, aucun ingénieur, ni aucun magicien n’a le droit d’en approcher à moins de trois mètres. 
 
@@ -386,8 +356,6 @@ La Guilde des Marchands d’Ubersreik affiche son côté philanthrope en finanç
 - Les troupes d’Altdorf sont arrivées avec leurs propres réserves de farine, faisant chuter les prix et provoquant une guerre commerciale entre Altdorf et Ubersreik. Si quelque chose arrivait au Vieux Grenier, ce serait un désastre pour le marché local, car cela laisserait la porte ouverte aux importateurs. Marta Kroll, une marchande originaire d’Altdorf, espère que cela va se produire, ce qui lui permettrait de négocier avec ces derniers. 
 
 - Le système de tablettes d’Adelmann est aussi bien vu qu’efficace. Il est également très facile à contrefaire. On demande au groupe de se procurer l’une de ces tablettes et de la remettre à un receleur qui les attendra à l’auberge de la Lune Rouge. Le « Receleur » est en fait un homme du Guet qui agit sous les ordres du capitaine Pfeffer, sur la piste d’un réseau de faussaires. Une explication astucieuse de la part des PJ pourrait la pousser à les embaucher à son service comme agents. Un résultat moins probant pourrait les faire arrêter comme complices. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **La Boulangerie des Deux Sœurs**
 La Boulangerie des deux Sœurs, un modeste bâtiment en pierre, est coincée entre une maroquinerie et un chapelier. C’est un bâtiment de plain-pied, bien plus petit que les autres dans cette rue, à la grande fierté des propriétaires halflings. À l’intérieur, on trouve un petit espace pour servir les clients, tapissé d’étagères débordant de pains et de tartes, alors que des réalisations plus raffinées sont présentées derrière le comptoir. La grande majorité du bâtiment est réservée à la boulangerie ; il y a une salle de stockage de farine, une zone de préparation et deux grands fours. 
@@ -420,8 +388,6 @@ Ces sept petits entrepôts ceints d’une clôture, au nord du Quartier des Marc
 Grigerid Unterdaumen est une octogénaire qui a toujours eu le sens des affaires. Elle est sans pitié et adore détruire ses rivaux, prenant jusqu’à leur dernier sou, voire leur vie. Elle vit chichement dans l’entrepôt Unterdaumen VI, et son garde favori, Fritz Fritzman, la conduit chaque matin à la Guilde des Marchands pour faire les meilleures affaires. 
 
 - Unterdaumen traite avec le Baron, les Havrebas, Guido Falk et plusieurs autres bandes de criminels. Cependant, comme elle ne veut pas que ses gardes soient pris en 
-
-Clément Gauche - gauche.c@gmail.com 
 
 flagrant délit au cours d’activités illégales, elle emploie des étrangers, payant une misère pour qu’ils effectuent des courses et récupèrent la contrebande pour elle. 
 
@@ -456,8 +422,6 @@ Certaines expériences de Von Holzenauer ont donné des résultats probants. Les
 
 **Tonique de Vue au-delà de la Vue :** l’étiquette de la bouteille contenant ce liquide vert foncé est ornée d’un grand globe oculaire rouge. Cette potion porte la promesse d’améliorer la vision de celui qui la boit. La boire vous conférera l’un des Talents suivants, voire plusieurs (lancer 1d10) : 1-2 : Sens aiguisé (vue) ; 3-4 : Saintes visions ; 5-6 : Perception de la Magie ; 7-8 : Double vue ; 9-10 : tous les effets ci-dessus. Durée : 1d10 minutes. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Les Ratiers de Wahlund**
 Jusqu’à il y a peu, les Ratiers d’Ubersreik ne disposaient pas vraiment de Guilde. Ils se rassemblaient une fois par mois à l’Auberge de la Lune Rouge pour discuter de la localisation des différents nids de rongeurs, sinon ils étaient livrés à euxmêmes. Le duc d’Ubersreik finançait une prime à la queue de rat qui était juste assez généreuse pour leur permettre de survivre. Mais lorsque les Jungfreud furent évincés du pouvoir, les ratiers, privés de leurs primes, semblaient condamnés. 
 
@@ -466,8 +430,6 @@ Pourtant, à peine une semaine après, Wahlund, un Ratier étranger, arriva à U
 Les Ratiers de Wahlund, désormais le nom de la Guilde, se trouve dans une ancienne taverne sur Grossweg. Wahlund l’a achetée à un marin à la retraite. Un rat mort a été dessiné à la hâte dans la gueule du requin bedonnant qui figure sur l’enseigne. L’ancienne salle de bar sert de salle de réunion et de détente pour les Ratiers et leurs invités. Dans la cave se trouve un chenil pour leurs chiens, ainsi qu’une entrée sécurisée vers le complexe d’égouts d’Ubersreik, raison principale du choix de cette auberge. 
 
 La Guilde ne comprend que neuf membres. Elle est dirigée par le Maître de Guilde Wahlund, arrivé à Ubersreik peu de temps avant l’invasion des forces d’Altdorf. Wahlund était accompagné d’un petit groupe d’Égoutiers tatoués très expérimentés. Anders de Geer, Mårten Stormdal et Rickard Blomberg. Ils ont rejoint les cinq Ratiers de la ville : Melina Heilbronn, Günther Burkharrt, Reineke Rattenfanger, Fritz Vogelman, et Thormo Hakenbein. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Maître de Guilde Wahlund**
 Le Maître de Guilde Wahlund est un Égoutier chevronné aux multiples cicatrices, et venu du Nord. Ce que peu d’habitants d’Ubersreik savent, c’est qu’il est également un Grand Prêtre de Stromfels, le dieu des Naufrageurs et des Pirates, dont le culte est interdit dans l’Empire. Ses trois compagnons et lui sont les derniers survivants d’un culte secret de Stromfels, anéanti il y a quelques années, par une attaque de skavens. Aujourd’hui, ils parcourent l’Empire, massacrant les hommes-rats, et cherchant le Prophète Gris Rasknitt, à l’origine de la destruction de leur culte. 
@@ -495,5 +457,3 @@ M CC CT F E I Ag Dex Int FM Soc B
 - Wahlund souhaite engager les Joueurs pour chasser les rats, ce qui lui permettra de se concentrer sur les skavens. Leur discrétion sera appréciée et récompensée. Bien évidemment, une fois dans les égouts, il semble inévitable qu’ils croisent le chemin des quatre hommes du Nord et qu’ils se retrouvent embarqués dans leur secrète vengeance. 
 
 - Thormo Hakenbein, l’un des membres les plus discrets de la Guilde, est également, à l’insu de tous, un Sorcier ne dépendant d’aucun Collège de Magie. Comme la Guilde ne cesse de s’agrandir, il craint de se faire démasquer et embauchera les Personnages pour surveiller Wahlund et ses amis, espérant que cet investissement évitera qu’ils se mêlent de ses affaires. 
-
-Clément Gauche - gauche.c@gmail.com

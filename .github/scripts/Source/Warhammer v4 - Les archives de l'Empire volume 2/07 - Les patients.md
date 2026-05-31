@@ -33,8 +33,6 @@ Bien qu’il n’existe aucun rapport officiel indiquant que le Grand Hospice se
 ## L’horrible Vérité
 Cette quête conviendrait mieux à un groupe comprenant au moins un Personnage doué de compétences de guérison ou de magie. Les Personnages sont engagés par un sorcier, un prêtre ou un répurgateur. Un ancien collègue de leur employeur menait des recherches très dangereuses, mais vitales, sur le Chaos lorsqu’une expérience a mal tourné. L’expérimentateur a acquis des connaissances cruciales, mais est devenu fou dans le processus et réside maintenant à l’hospice. Les informations cachées dans les tréfonds de son esprit dément doivent être récupérées à tout prix... Mais comment ? Lesquelles de ses divagations sont vraies, et lesquelles ne sont que délires ? 
 
-Clément Gauche - gauche.c@gmail.com 
-
 WARHAMMER FANTASY 
 
 ## **Saeigneurdalmanndesvonmers Hopfberg,** _Grand Seigneur Amiral du Reikland_
@@ -64,8 +62,6 @@ ADALMANN VON HOPFBERG — NOBLE SEIGNEUR
 Il y a un peu plus de 15 ans, le seigneur Adalmann s’est fait un ennemi politique. Peut-être s’agissait-il de quelqu’un ayant des vues sur son poste, ou peut-être leur querelle portait-elle sur un tout autre sujet. Toujours est-il que son rival engagea un assassin pour administrer au Seigneur Amiral un puissant mélange de drogues qui troublèrent sa mémoire et rendirent son esprit confus. L’objectif était de l’embarrasser au point qu’il n’ait d’autre choix que de démissionner de son poste et de laisser la place à son rival. 
 
 Malheureusement, ce dernier ignorait un détail légal singulier : seule la mort du Grand Seigneur Amiral peut entraîner la nomination d’un successeur à ce poste. Malgré cela, cet individu a su naviguer entre les méandres politiques de l’Amirauté avec tant d’habileté qu’il est devenu de fait (bien qu’il n’en ait pas le titre) le nouveau Grand Seigneur Amiral. Et il le restera tant que le seigneur Adalmann ne montrera aucun signe de rétablissement. Le rival possède un agent dans l’hospice (qu’il garde sous son contrôle par des pots-de-vin, des menaces ou du chantage) qui drogue régulièrement le Seigneur Amiral afin de le maintenir dans un état confus, pour que la mascarade continue... Mascarade que les Personnages découvrent par pur hasard. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Isabella, la Princesse Prophétesse**
 Les yeux fous et la chevelure désordonnée, Isabella prétend être la princesse Isabella von Holswig Schliestein, sœur de l’empereur Karl Franz. Elle semble avoir une petite trentaine d’années, comme la Princesse, qui n’a pas été vue à la cour (ou en dehors, d’ailleurs) depuis quelques années. Elle exige que l’on s’adresse à elle en l’appelant « _Votre Altesse Impériale_ » et bien que peu la croient, plus rares encore sont ceux qui nieraient qu’il y a quelque chose de noble, et même de royal, dans son allure. 
@@ -100,8 +96,6 @@ Les ennemis et rivaux de l’Empereur (qui, dans le cadre de la campagne _L’En
 
 Peut-être les prophéties d’Isabella sont-elles vraies, et sont par conséquent d’une importance capitale pour l’avenir de l’Empire. Isabella, elle, en est absolument convaincue, tout comme, semble-t-il, ses mystérieux visiteurs. Toutefois, peutêtre que tous ne viennent pas vraiment d’Altdorf, et que la Princesse donne involontairement des informations vitales sur l’avenir aux ennemis de son frère. Peut-être confie-t-elle aux Personnages une vision cruciale, une vision qui pourrait changer le cours de l’histoire de l’Empire et éviter une guerre civile. Les Personnages doivent transmettre son message à Altdorf, malgré le fait que les agents de l’Empereur eux-mêmes sont déterminés à les tuer, car ils en savent trop. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 WARHAMMER FANTASY 
 
 ## **Richter Kless, L’hérétique**
@@ -131,8 +125,6 @@ RICHTER KLESS — PROFESSEUR (OR 1)
 
 De telles crises se produisent aussi spontanément de temps en temps : lorsque le besoin de sommeil l’emporte et qu’il est réveillé par un cauchemar, ou lorsque son esprit épuisé cède aux pensées intrusives et au souvenir des choses qu’il a vues. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Le _Liber Chaotica_
 Les vétérans de _Warhammer_ reconnaîtront sans doute le nom de Richter Kless et le titre de son œuvre monstrueuse, le _Liber Chaotica_ . Une version de son œuvre, annotée par un prêtre de Sigmar anonyme avec des commentaires destinés au seul regard du Grand Théogoniste, a fait l’objet d’une fuite il y a de cela plusieurs années, et les répurgateurs ont brûlé tous ceux qui en possédaient une copie. 
 
@@ -156,5 +148,3 @@ Il n’y a pas vraiment de patient type au Grand Hospice. Chaque individu a l’
 - Il n’est pas rare que des patients du Grand Hospice soient issus de maisons nobles, et les enfants cadets de ces familles sont connus pour s’abaisser à presque n’importe quoi afin de chiper droits de succession et héritages à leurs frères et sœurs aînés. C’est le cas ici : l’aîné des héritiers d’une maison noble a été faussement déclaré fou et est interné au Grand Hospice. Le groupe est engagé par un fidèle serviteur pour libérer le jeune maître ou la jeune maîtresse, révéler le complot et traduire le responsable en justice. 
 
 Le frère cadet machiavélique, quant à lui, se fait alors un plaisir de payer des coupe-jarrets, des assassins, etc. pour rendre la vie des Personnages plus palpitante. Ou bien, peut-être que le patient est vraiment fou et que le jeune frère a décidé de s’en débarrasser discrètement afin d’éviter les désagréments qu'occasionneraient la guérison et le retour soudain de son aîné. Ou peut-être est-ce simplement ce qu’on raconte aux Personnages : quand il s’agit des combines des familles nobles, la vérité peut devenir assez changeante. 
-
-Clément Gauche - gauche.c@gmail.com

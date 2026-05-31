@@ -28,8 +28,6 @@ Bien qu’elle soit proche d’Hoffmann, Büffa a beaucoup de motifs de se déba
 ## **Wilhelm « Grand Willi » Docker.**
 Le rival de longue date d’Hoffmann et son successeur au sein de la Guilde des Débardeurs (voir **Ubersreik** , page 26). Il est à l’origine de la descente qui a conduit à l’emprisonnement d’Hoffmann, et exploite maintenant sa disparition à des fins politiques, en clamant être de ses meilleurs amis. Il est également responsable de la campagne de libération d’Hoffmann ! La haine du Grand Willi pour le clan Havrebas 
 
-Clément Gauche - gauche.c@gmail.com 
-
 est légendaire. Il s’est vanté à plusieurs reprises à qui voulait l’entendre qu’il provoquerait leur chute, quel que soit le prix à payer. 
 
 ## **Général Von Dabernick**
@@ -43,8 +41,6 @@ Un agitateur qui exerce du côté de Sprichstumpf (voir **Ubersreik** , page 34)
 
 ## **Cluedo**
 Alors, qui est le coupable ? Et où est Hoffmann ? C’est à vous de choisir. Le graf Sigismund s’est-il décidé à retirer l’épine de son pied ? Le général l’a-t-il liquidé pour mettre fin à ses ambitions politiques, et utilise-t-il l’enquête comme écran de fumée ? Le Grand Willi essaie-t-il d’avoir le beurre et l’argent du beurre ? Ou d’anciennes fréquentations douteuses sontelles venues réclamer leur dû ? Hoffmann semble avoir bien plus d’ennemis qu’il n’y paraît… 
-
-33 Clément Gauche - gauche.c@gmail.com 
 
 ## **Lune de Feu**
 Franz Lohner, le propriétaire de l’auberge de la Lune Rouge (voir **Ubersreik** , page 28), a beaucoup roulé sa bosse. Lorsqu’il a un coup dans le nez, il raconte des histoires liées à son expérience d’officier chez les Porte-Rancune, une légendaire compagnie de mercenaires. Cette vie d’aventures est aujourd’hui derrière lui, tout comme le vieux bouclier suspendu derrière son comptoir. Pourtant, il semble que le passé de Lohner au sein des Porte-Rancune refasse surface lorsque de vieux ennemis frappent à sa porte. Heureusement, Lohner a senti le danger et évité toute confrontation, ce qui lui a permis de repérer ceux qui lui en veulent. Il connaît désormais les menaces à venir : un Tueur en colère, un sombre assassin, un agent d’une principauté frontalière, et _quelque chose_ de fantomatique qui hante son auberge. 
@@ -82,8 +78,6 @@ Cette antique créature a franchi les portes du temps. Elle cherche à posséder
 ## **Le Plan de Lohner**
 Lohner a un plan pour échapper à cette situation. Il va annoncer à qui veut l’entendre la fermeture de son auberge pour la soirée de son anniversaire, de façon à pouvoir être au calme pour prier Shallya, la déesse de la Compassion, et la remercier pour sa longue vie. De cette façon, il espère inciter ses adversaires à attaquer. Il fera alors exploser le bâtiment pour tenter de tuer autant d’ennemis que possible, puis se fera passer pour mort. Mais pour tout ceci, il aura besoin d’aide, et il paiera généreusement : 10 Couronnes d’Or par Personnage ! 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Saif Al-Janub
 Offert en cadeau à Lohner en remerciement des actions décisives effectuées lors de la défense de Sudenburg contre les morts-vivants en 2498 CI, cette lame courbe a été forgée par le célèbre philosophe-artisan Hataq al-Kundi en 1445 CI. Cette arme exceptionnelle vaut dix fois le prix indiqué en Arabie. 
 
@@ -112,8 +106,6 @@ Une fois allumée, la mèche brûle pendant 1d10+4 Rounds. Utiliser une Action p
 Quand le groupe et Lohner se seront mis à l’abri (peut-être dans la Guilde des Bateliers), celui-ci annoncera qu’il ne s’est jamais senti aussi vivant depuis qu’il a quitté les PorteRancune, et que se faire passer pour mort ne l’intéresse plus. Au lieu de ça, il reconstruira la Lune Rouge, et s’assurera que les gens bien comme les Personnages y soient toujours bien accueillis. Il les paiera ensuite pour leur aide, et ajoutera en bonus un cimeterre arabien exceptionnel, _Saif al-Janub_ , si tous ses ennemis ont été tués. 
 
 - **21h :** Éventre-Ombre s’introduit par la cheminée, puis se dissimule dans l’armoire de Lohner. Peu après, TahRa Mentuhr commence à se manifester dans la salle principale. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **La Plus P’tite Waaagh !**
 ## **Bâtonpuant Langue-Bruyante, Chamane Gobelin**
@@ -153,8 +145,6 @@ Bâtonpuant Langue-bruyante se voit comme un prophète de Gork et Mork, et le pl
 
 ## **La Fête des Aschaffenberg**
 Un groupe de nobles arrivent d’Altdorf pour participer à une réception au manoir Aschaffenberg, le jour même où les gobelins prévoient de lancer leur croisade. La duchesse Eleanor Aschaffenberg a eu vent de cette menace grâce aux Ratiers de Wahlung (voir **Ubersreik** , page 40), mais ceuxci ne cherchent pas à la combattre, car ils ont leurs propres sujets de préoccupation. Elle craint que sa réputation ne souffre si les gobelins venaient à perturber les festivités, aussi elle paiera des mercenaires 10 pistoles par jour s’ils s’occupent discrètement des Langues-Bruyantes. Le Maître de Guilde Wahlung lui a donné une carte des égouts, dessinée à la hâte, et l’emplacement de la tanière des gobelins. Elle la confiera aux PJ, s’ils acceptent de travailler pour elle. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Les Rabat-Joie**
 La duchesse n’est pas la seule à être au courant de la menace. La Guilde des Marchands prévoit de profiter politiquement de la situation en discréditant la sécurité mise en place par les occupants d’Altdorf. Ils espèrent que les peaux-vertes parviendront à la surface et ridiculiseront les Altdorfers, ce qu’ils pourront utiliser pour accélérer la progression vers le statut de ville libre. 
@@ -196,8 +186,6 @@ Originaire de l’île mythique d’Albion, Lochland est habituée à esquiver l
 ## **Sommes-Nous les Méchants ?**
 En fait, c’est peut-être la Guilde des Marchands qui engage les PJ ? En ce cas, elle souhaite que les Personnages arrêtent Leif et sa bande, embauchés par la duchesse pour tuer les gobelins. Le représentant de la Guilde évoquera des envahisseurs étrangers qui cherchent à utiliser les égouts d’Ubersreik pour faire de la contrebande, ce qui préoccupe légitimement l’organisation, et conseillera de frapper Leif et sa bande aussi vite et aussi fort que possible, car ils sont très dangereux. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Le Sang et la Neige**
 Le Père-Loup Holst Kretschmer, un prêtre d’Ulric (voir **Ubersreik** , page 47), est connu pour ses histoires à dormir debout et ses soupçons infondés. Beaucoup l’accusent de déformer la vérité pour attirer l’attention afin de pallier le déclin de son influence en ville. Pourtant, le prêtre qui a crié au loup bien trop souvent par le passé n’exagère pas cette fois-ci. 
 
@@ -233,8 +221,6 @@ Gestaltenstark n’est pas un homme facile à approcher. Il vit au coeur du quar
 
 Reikhardt est une jeune tête brûlée fanatique d’à peine 18 ans. Il croit fermement que l’Empire se porterait mieux sans le culte sigmarite, et veut le faire disparaître pour qu’il soit remplacé par un renouveau de foi ulricaine. Gestaltenstark porte un médaillon autour du cou affichant le portrait d’une belle femme blonde. Une inscription au dos dit « Je t’aime, ta mère, Magdalena ». S’il fait face à une véritable menace, et seulement une fois que ses plans ont été percés à jour, il laissera tomber le masque et revêtira sa terrible forme hybride, une horrible fusion d’humain et de loup. Gestaltenstark déteste adopter cette forme, car il pense que c’est la seule part de vérité dans l’océan de mensonges des sigmarites : les voies d’Ulric sont bestiales et brutales. Ceci dit, il n’est pas idiot, et il utilisera tout ce qu’il a à sa disposition pour arriver à ses fins. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **L’énigme de L’argent**
 Sur un étal du marché, un bracelet d’argent attire l’œil de Gunnar. Il est identique à l’un de ceux qu’il a réalisés il y a fort longtemps. Après examen, il s’avère que le bijou n’est pas l’œuvre de Gunnar, mais une copie presque parfaite de celui qu’il a fabriqué pour sa fille avant qu’elle, et le reste de sa famille ne meurent dans un incendie (évènement qui a poussé Gunnar à prononcer le Serment du Tueur). Si la question lui est posée, le marchand expliquera qu’il s’est procuré l’objet avec plusieurs autres, maintenant revendus, à une colporteuse nommée Alaricha Brederman dans les monts Blitzhelsen. Celle-ci a prétendu qu’ils avaient été forgés par les nains, et achetés à un artisan local. 
 
@@ -263,8 +249,6 @@ M CC CT F E I Ag Dex Int FM Soc B
 Lorsque les PJ arrivent, le gardien revient à la vie. De la vapeur et de la fumée s’échappent de son corps, alors qu’il s’avance lourdement, ses membres antiques broyant tous ceux qui sont assez fous pour s’approcher. Si le groupe envisage de battre en retraite, Gudrun ferme les portes de la forge pour les prendre au piège. Puis elle s’installe pour regarder, en crachant sa haine sur le Tueur. Si le gardien venait à être détruit, Gudrun s’enfuirait, jurant qu’un jour la vengeance serait sienne. Fouiller la pièce permettra de trouver les anciens outils de Gunnar, le bracelet qu’il avait fait pour sa fille, et ses esquisses d’un diadème qu’il prévoyait de faire pour sa femme aujourd’hui décédée. 
 
 Si Gunnar souhaite entreprendre la carrière d’Artisan, il peut le faire gratuitement, s’il travaille à Migdhal Agril (pour plus d’informations sur le changement de carrière, voyez **WFJDR** ). Il pourrait toutefois préférer vendre ses vieux outils et obtenir de l’argent pour le boire. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Souvenirs Sanglants**
 Le village de Grauner n’est plus protégé par les soldats de l’armée régulière en raison des évènements récents. Gavrich Bloch, le fils du doyen du village et ancien compagnon d’armes de Salundra, vient requérir son aide. Gavrich veut former une milice locale, mais n’a jamais été un bon officier, et préfère demander à Salundra de s’en occuper. « _Allez Sal’, ce sera comme au bon vieux temps !_ » Les habitants de Grauner dépendent normalement de leur seigneur, le baron Ruprecht Graufelsen, un cousin de Salundra, pour une telle formation, mais celui-ci refuse d’apporter son aide. 
@@ -305,8 +289,6 @@ Malheureusement, Hebamme est également la cultiste. Elle a perdu son mari, Ortl
 
 Personne ne croira à la trahison d’Hebamme, à moins que le groupe n’apporte des preuves ; preuves qu’il est hérétique de posséder bien évidemment. S’ils ont un peu de bon sens, les Personnages retourneront à Ubersreik. Bien sûr, Tiermann les suivra, sans doute pour les accuser du meurtre de la pauvre Hebamme… 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **L’injustice Combat L’injustice**
 Ubersreik se réveille aux bruits des soldats qui bouclent la ville. La chevalière du général Von Dabernick a été dérobée. Alors que le groupe se résigne aux nouvelles restrictions, Molrella est approchée par sa sœur jumelle, Halamina (connue sous le nom de Mimi), arrivée récemment à Ubersreik, et sans surprise, la bague est en sa possession. « _C’est pas ma faute ! Je ne voulais pas la voler ! Je l’ai piquée à un beau gosse hier soir. Je l’ai prise avec sa bourse pendant que j’étais à la pêche aux pièces._ » Mais elle ne veut pas s’en débarrasser. « _Et si un sorcier la trouve comme la dernière fois, et lance un sort qui dit à tout le monde que c’est moi qui ai fait le coup ?_ » Heureusement, Mimi a un plan : « _Pénétrons dans la chambre du Général et laissons la bague sous son lit ! Ça fera comme si c’_ était _lui qui l’avait fait tomber. Simple, hein ? C’est juste que je ne sais pas comment y rentrer. Tu peux m’aider, Molls ? S’il te plaîîît ! C’est presque vide depuis que les Younguefrunde ont été dégagés ! Ce sera facile !_ » 
 
@@ -337,8 +319,6 @@ M CC CT F E I Ag Dex Int FM Soc B
 ## **Maglyn « Maggie » Blanck Entre Dans la Danse**
 Malheureusement pour Streissen, Maglyn « Maggie » Blanck est sur ses talons. Sorcière du Collège de Magie Grise, Maggie se fait passer pour une domestique au château de Roche Noire. Elle sait que Streissen a volé la bague, et suppose que les PJ, les nouveaux possesseurs du bijou, sont également des cultistes du Chaos. Par chance, Maggie est raisonnable et peut être convaincue des bonnes intentions du groupe si l’occasion s’en présente. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Ce Bon Vieux « Blaue Augen » Est de Retour**
 dans une vieille tour abandonnée dans la Reikwald au nord, où ils laissent des offrandes en guise de remerciements à leur puissant héros. 
 
@@ -368,8 +348,6 @@ Lorsque les Personnages reviennent à Flechtben, Blaue Augen est en pleine folie
 Étant donné qu’il ne peut être blessé que grâce à la magie, c’est un combat difficile, et Ferdinand en sera la clé. En supposant que les Personnages survivent, Arschloch tiendra parole et sera heureux de les payer. De plus, lorsqu’il découvre la raison du statut de ville libre, il envahit Flechtben et s’assure de faire rapidement revenir le village dans son fief. « _Eh bien, ils n’ont pas protégé la tour, n’est-ce pas mon vieux ? Je ne fais que ce qui est bon et juste._ » 
 
 Mais le nouveau baron de Flechtben est tout, sauf bon et juste, et commence à punir ce qu’il reste des habitants pour toutes ces années de rébellion et d’insultes infligées à sa famille. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Unions et Réunions**
 Andreas Von Bruner, le nouveau seigneur de la Résidence Grunewald, offre 15 couronnes d’or pour s’occuper des récentes attaques commises par des hommes-bêtes sur ses terres. Des prisonniers ont été faits, et une épidémie a suivi, laissant les habitants terrifiés et malades. Il y a sept fermes à inspecter : trois près de Geissbach, deux près de Wurfel, et deux près de Buchendorf. Si l’on visite les fermes de Buchendorf, il semble peu probable que les coupables soient les hommes-bêtes : les flèches sont primitives, faites de bois et de silex, mais elles sont fabriquées avec talent. À Wurfel, il semblerait que les raids n’ont pas fait preuve de la brutalité associée habituellement à ces créatures, car beaucoup de corps sont intacts. Cependant, avant que Geissbach puisse être inspecté, un visiteur inattendu approche les PJ à l’auberge-relais, La Maison à Mi-chemin. 
@@ -402,8 +380,6 @@ Les autres Personnages font alors leur entrée en scène. Si l’immonde chose e
 ## **Visiter le Camp**
 Comme tous les elfes sylvains assistent au mariage, les autres PJ peuvent donc, pendant ce temps, fouiller librement le camp. Ils y trouvent d’élégantes flèches de silex, des potions qui sentent la mort et la décomposition, et une clairière jonchée d’ossements humains… 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Cendres Dans le Vent**
 Hugeldal est le siège de l’indomptable baron Matthais von Jungfreud. Malheureusement, la chute de la maison Jungfreud dans la proche Ubersreik a nui sérieusement à la prospérité de la ville : des liens commerciaux ont été rompus, des tensions sont apparues, et les troupes locales défilent désormais quotidiennement. L’apparition soudaine et inattendue de signes de sorcellerie près d’Hugeldal, et la panique que cela a engendré, ont été très mal accueillies. Yves Plonta, un employé nerveux du baron Matthais, aborde le groupe pour une enquête sur la source de la récente avalanche de fausses couches, de naissances de mutants, de bétail éventré, et autres malédictions qui frappent la ville. La récompense de 20 couronnes d’or, promise à ceux qui feront disparaître toutes ces perturbations, permet de comprendre à quel point la situation est tendue. 
 
@@ -431,8 +407,6 @@ Il ne faudra pas longtemps après cela pour trouver le sorcier : plusieurs villa
 - **Waldemar Grunfeld** est un herboriste âgé, qui, comme beaucoup s’en souviennent, était initialement accusé de sorcellerie, mais a réussi à « prouver » son innocence. En vérité, c’est bien un sorcier, mais plutôt un sorcier de village inoffensif, bien qu’illégal, mais utile à la communauté. Il est parvenu à échapper au bûcher il y a vingt ans, et depuis recherche discrètement l’autre sorcière. 
 
 - **Ludwig Herzog** est un riche marchand dont la fortune a débuté, il y a vingt ans, avec la disparition sur le bûcher de sa rivale en affaire, Karina Handler. Herzog était désespérément amoureux d’Handler, et regrette ce qui s’est passé ; 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Traits de Pnj**
 Voici les Traits utilisés par les Personnages Non-Joueurs (PNJ) de la **Boîte d’Initiation de WFJDR** . Beaucoup sont simplifiés pour être plus faciles à mettre en œuvre. Si vous possédez le Livre de base de **WFJDR** , les règles qui s’y trouvent prévalent sur celles-ci. 
@@ -491,8 +465,6 @@ _Fléchette_ : NI : 0. Portée : Force Mentale en mètres. Durée : Instantanée
 
 **Morsure (niveau) :** à son Tour, le PNJ peut dépenser 1 Avantage pour faire une Attaque gratuite, dont les Dégâts sont égaux au niveau du Trait (le Bonus de Force est déjà inclus). Cela peut être effectué une fois par Round. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## Mutations Détaillées
 ## **Cerveau Massif**
 Du sang frais, des esquilles d’os et de la chair martyrisée se déversent par vos orifices pendant que votre ancien cerveau est évacué. Lentement, au fil des semaines, un nouveau grandit à sa place, faisant s’étirer douloureusement votre tête grâce à des bandes translucides autour de votre cerveau enflé et luisant. 
@@ -534,8 +506,6 @@ Avec un **Test Simple de Force Mentale** vous pouvez communiquer avec n’import
 
 **X Tentacules (niveau) :** le PNJ dispose de X tentacules, et gagne une attaque gratuite par appendice possédé. Chaque attaque de ce type inflige un nombre de Points de Dégâts égal au niveau du Trait, le Bonus de Force étant déjà inclus. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **États**
 **WFJDR** utilise une sélection d’États pour transcrire les pénalités fréquemment subies par les Personnages. Chacun a ses propres règles. Ces États font référence aux règles disponibles aux pages 6, 7 et 10, il est donc recommandé de les avoir lues avant de consulter cette page. 
 
@@ -574,8 +544,6 @@ Vous êtes désorienté ou confus. Vous êtes incapable d’effectuer une Action
 ## **Surpris**
 Vous avez été pris au dépourvu. Vous ne pouvez effectuer ni Action ni Déplacement, et ne pouvez pas vous défendre par des Tests Opposés. Le premier adversaire à tenter de vous frapper au corps-à-corps bénéficie d’un bonus de +20 pour vous toucher. À la fin du Round, vous perdez tous vos États _Surpris_ . 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **Tableaux de Référence**
 ## **Tableau des Blessures Critiques**
 |**Résultat**|**Nom**|**Crit**|**Effets**|
@@ -607,5 +575,3 @@ Clément Gauche - gauche.c@gmail.com
 |-2 ou -3|Échec|Non. Vous n’avezpas atteint votre objectif.|
 |-4 ou -5|Échec Impressionnant|Non,et… Vous n’avezpas atteint votre objectif,et vous avez fait empirer la situation.|
 |-6 ou moins|Échec Stupéfant|Non, en aucun cas ! Vous n’auriez pas pu faire pire, et les choses n’auraient pas pu plus mal<br>tourner.|
-
-Clément Gauche - gauche.c@gmail.com

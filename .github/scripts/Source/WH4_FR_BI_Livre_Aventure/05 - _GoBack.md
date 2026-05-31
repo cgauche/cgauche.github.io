@@ -29,5 +29,3 @@ Bien qu’elle soit proche d’Hoffmann, Büffa a beaucoup de motifs de se déba
 
 ## **Wilhelm « Grand Willi » Docker.**
 Le rival de longue date d’Hoffmann et son successeur au sein de la Guilde des Débardeurs (voir **Ubersreik** , page 26). Il est à l’origine de la descente qui a conduit à l’emprisonnement d’Hoffmann, et exploite maintenant sa disparition à des fins politiques, en clamant être de ses meilleurs amis. Il est également responsable de la campagne de libération d’Hoffmann ! La haine du Grand Willi pour le clan Havrebas 
-
-Clément Gauche - gauche.c@gmail.com

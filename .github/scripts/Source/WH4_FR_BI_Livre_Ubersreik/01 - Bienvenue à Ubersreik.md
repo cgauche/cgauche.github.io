@@ -15,8 +15,6 @@ Ce trafic incessant fait de la ville un endroit incroyablement cosmopolite. Non 
 
 Prospecteurs, chasseurs et aventuriers partent d’Ubersreik pour s’enfoncer dans les Montagnes Grises à la recherche d’or, de gloire ou d’infamie au sein de ses pics déchiquetés. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 Les tavernes, auberges et autres débits de boissons moins salubres de la ville grouillent de vétérans balafrés et cyniques qui racontent la violence et la souffrance qui attendent ceux qui se rendent dans les montagnes, mais leurs auditeurs émerveillés sont trop braves ou trop idiots pour en tenir compte. 
 
 De toutes les familles nobles qui ont gouverné Ubersreik au fil des siècles, c’est la maison Jungfreud qui a régné le plus longtemps, suivie de près par la maison Bruner. Il y a environ cinq cents ans, les Jungfreud au pouvoir sont devenus les vassaux de la maison Walfen après une implacable guerre de succession. Au cours des décennies qui suivirent, le contrôle exercé par la maison Walfen sur les duchés environnants devint tel que le dirigeant de cette famille, Wiprecht von Walfen, se proclama roi. 
@@ -38,8 +36,6 @@ Malgré la liste sans fin d’ennemis qui ont dévasté Ubersreik au fil des si�
 Son acte le plus terrible est sans doute la Faille de 2203 CI. On raconte que Drachenfels ouvrit une énorme déchirure donnant directement sur les Royaumes du Chaos, déclenchant la terreur, la folie et les mutations chez tous ceux qui vivaient près des Montagnes Grises. Le Chaos régna en maître pendant une semaine entière. Partout, la présence des Puissances de la Ruine se faisait sentir : des démons parcouraient les terres, les cieux s’étaient mis à saigner et du feu liquide brûlait dans l’air. 
 
 Au cours de cette semaine, presque tous les êtres vivants de Bögenhafen à Ubersreik furent annihilés. Les rares personnes qui parvinrent à survivre furent changées à jamais. Nul ne sait réellement comment, ni pourquoi, la Faille est apparue puis a disparu, mais tous vivent dans la peur de son retour. 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Magnus le Pieux**
 Il y a de cela deux siècles, l’Empire était brisé, divisé en d’innombrables royaumes, duchés, principautés, comtés et autres baronnies, tous revendiquant leur indépendance. C’est dans ce contexte qu’est né Magnus von Bildhofen. Noble originaire de la cité de Nuln, Magnus n’était pas seulement destiné à rassembler les armées insignifiantes de toutes ces minuscules provinces en une force unifiée, capable de faire face à des invasions d’une ampleur sans précédent. Il allait également reforger l’Empire de Sigmar. 
@@ -65,8 +61,6 @@ Après son saccage par les skaven, Ubersreik fut reconstruite avec l’aide des 
 
 L’exemple le plus récent de ce cycle s’est produit lors de la Grande Guerre contre le Chaos. Les défenseurs d’Ubersreik faisaient route vers le nord, laissant la ville à la merci d’une immense armée de peaux-vertes qui déferla depuis les Montagnes Grises, et occupa la ville avant de la détruire. Une fois de plus, les nains de Karak Azgaraz furent chargés de reconstruire la ville, mais Magnus, en politicien avisé, s’assura qu’Ubersreik ne tomberait jamais plus. Les nains construisirent de hauts murs épais. Le pont fut renforcé de runes afin de s’assurer qu’il tiendrait des siècles. Depuis ce jour, Grodni Sûrmarteau, le chef de l’équipe naine de construction qui a œuvré à l’époque de Magnus, apporte ses conseils sur tous les chantiers importants et habite à l’abri des murs qu’il a aidé à bâtir. Sûrmarteau apparaît auprès de la population locale comme un signe rassurant de la force d’Ubersreik, et un symbole de l’amitié qui lie les nains à la ville. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **L’empereur Contre-Attaque**
 Le dernier changement affectant Ubersreik a pris tout le monde par surprise. Au cours d’une nuit du début de 2512 CI, Karl Franz de la maison Holswig-Schliestein, prince héritier du Reikland et empereur, a fait adopter un édit par la Diète du Reikland afin de soustraire Ubersreik au contrôle de la maison Jungfreud. 
 
@@ -89,9 +83,6 @@ L’incertitude règne car les motivations derrière les actions de l’Empereur
 Cependant, bien qu’il n’existe aucune affection entre les Wallenstein et les Jungfreud, leurs médisances et leurs manœuvres n’avaient rien de différent des stratagèmes quotidiens pour la course au pouvoir partout dans l’Empire. Certains supposent que les Jungfreud étaient devenus trop puissants, si l’on considère leur fortune, leurs possessions dans les Montagnes Grises et la réputation impressionnante du Graf. D’autres craignent que l’Empereur soit en train de perdre l’esprit, qu’il devienne incohérent et sombre dans la paranoïa, ou qu’il soit sous l’influence néfaste de conseillers corrompus ourdissant leurs propres plans machiavéliques. 
 
 Quelle que soit la vérité, personne ne nie que cet événement a sans doute changé à jamais la politique du Reikland. Certains craignent même une guerre civile, car les nobles rassemblent leurs forces afin de protéger leurs terres et leurs possessions d’un Empereur devenu imprévisible. 
-
-7
-Clément Gauche - gauche.c@gmail.com
 
 ## Chronologie D’ubersreik
 Voici un résumé des événements les plus importants de l’histoire de la province d’Ubersreik : 
@@ -152,8 +143,6 @@ _Le Festin Empoisonné_ . Le Grand Enchanteur, Constant Drachenfels, empoisonne 
 ## 2009 CI
 Les Jungfreud sont officiellement reconnus par la Diète du Reikland comme les souverains du duché d’Ubersreik. Ce décret suscite l’indignation de la maison Walfen qui estime en être la dirigeante légitime, en raison des unions scellées avec la maison Bruner. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## 2010 CI
 Le duc Wiprecht von Walfen déclare son indépendance vis-à-vis du prince du Reikland après la rupture des discussions à propos d’Ubersreik. 
 
@@ -202,8 +191,6 @@ Le graf Sigismund de la maison Jungfreud hérite du duché d’Ubersreik après 
 ## 2512 CI
 _Ubersreik Libérée !_ L’empereur Karl Franz Ier fait voter un édit par la Diète du Reikland à minuit, et l’utilise pour s’emparer d’Ubersreik, forçant le graf Sigismund à battre en retraite dans le duché de Roche Noire. La ville et la province environnante se retrouvent sans dirigeant, bien qu’un Héraut Impérial représentant Karl Franz remplisse presque entièrement ce rôle. Les conséquences pour le futur d’Ubersreik et de l’Empire sont incertaines. 
 
-Clément Gauche - gauche.c@gmail.com 
-
 ## **’ Ubersreik Hui Aujourd**
 Quand les Jungfreud se sont retirés devant l’avancée des armées d’Altdorf, ils ont emmené des centaines de loyalistes, dépeuplant plusieurs quartiers de la ville, alors qu’ils fuyaient vers le duché voisin de Roche Noire. Cela a laissé Ubersreik avec une population constituée d’environ 5 000 humains entre ses murs, auxquels s’ajoutent quelques centaines d’halflings dispersés à travers toute la ville, et 1000 nains à Dawihafen, leur quartier. La plupart des nains sont affiliés aux forteresses perdues de Karak Drakeni, Karak Sanda et Karak Branar, bien que des représentants d’autres forteresses toujours actives, dont Karak Baraz et Karak Azgaraz, résident également dans Ubersreik. Ils y supervisent le commerce pour le compte de leur famille restée dans les Montagnes Grises. Les nains s’occupent principalement de leurs affaires, dédaignant les « chamailleries d’humains » concernant le statut de la ville. On trouve également une poignée d’ogres qui gagnent leur vie en tant que mercenaires et gardes, ou travaillent pour l’un des clans halflings. Seuls les elfes restent rares, et quand on en aperçoit, ils laissent dans leur sillage des regards suspicieux, des bouches bées et des ragots pour le moins calomnieux. 
 
@@ -223,8 +210,6 @@ Pendant que le Bourgmestre et les Maîtres des Guildes rampent et s’inclinent 
 
 ## En Quelle Année Sommes-Nous ?
 Ce livre suppose que nous sommes en 2512 CI, et les raisons de la récente confiscation d’Ubersreik sont directement liées aux événements décrits dans la campagne de **L’Ennemi Intérieur** . Consultez **L’Ennemi dans l’Ombre** pour en savoir plus à ce sujet. Si vous souhaitez que votre version d’Ubersreik suive le même chemin que la nôtre, la ville finira par devenir un Freiburg dirigé par un conseil constitué de Maîtres de Guildes et de Prêtres en 2516, avant de subir de terribles attaques menées par des skavens et des hommes-bêtes au début des années 2520. Bien sûr, vous pouvez aller dans une direction très différente, surtout si vos Personnages prennent directement part à l’avenir d’Ubersreik. Pour plus d’informations sur cette possibilité, consultez les aventures du recueil **Nuits agitées et rudes journées.** 
-
-Clément Gauche - gauche.c@gmail.com 
 
 ## **Le Conseil de la Ville**
 Quand les Jungfreud dirigeaient Ubersreik, le Conseil de la Ville avait peu d’influence, au-delà des conseils occasionnellement offerts au duc. Cependant, quand le Héraut Impérial a remplacé le duc Sigismund, elle a déclaré que la volonté de l’Empereur était qu’elle s’occupe de maintenir le statu quo le temps qu’un nouveau dirigeant soit désigné. Le Bourgmestre se retrouva alors propulsé au cœur de la scène politique, au milieu des menaces et des embûches, mais avec de nombreuses opportunités. 
@@ -249,8 +234,6 @@ Leur situation fut chamboulée lorsque les Jungfreud ont été chassés de la vi
 ## **Les Cultes**
 Le culte de Sigmar est omniprésent à Ubersreik, avec dix temples et chapelles dans l’enceinte de la ville fortifiée ; cependant, la plupart des cultes 
 
-11 Clément Gauche - gauche.c@gmail.com 
-
 ## **Se Rendre À Ubersreik**
 Ubersreik n’est pas seulement un centre marchand, industriel et militaire, elle veille également sur l’une des régions les plus fertiles du Reikland et sur l’une des plus importantes routes commerciales du Vieux Monde. Cela en fait un point de rencontre populaire pour de nombreuses personnes. De plus, pour ceux qui cherchent à préparer une expédition en altitude, Ubersreik possède la plus grande variété de biens de tout le Reikland, à l’exception, peut-être, d’Altdorf, ce qui en fait l’une des étapes favorites de nombreux explorateurs, d’antiquaires et de tous les gens assez fous pour croire aux rumeurs sur la présence d’or dans les Montagnes Grises. 
 
@@ -271,6 +254,3 @@ magistrat chargé de l’affaire tient à ce que cet arrangement dure le plus lo
 • Luigi et Salvatore (voir page 46) vendent des articles de luxe dans de nombreuses boutiques dans tout l’Empire. Ce que peu de gens savent, c’est que cette société bien sous tous rapports emploie également des receleurs afin d’acheter des biens volés haut de gamme à petit prix. Ceux-ci sont ensuite envoyés dans des magasins L&S loin de l’endroit où ils ont été volés, et sont revendus en réalisant un énorme bénéfice. Avec les troubles qui ont récemment secoué Ubersreik, L&S cherche des voleurs et des cambrioleurs afin d’aller piller les maisons des nobles et des marchands les plus mal surveillées. Ils recrutent également des contrebandiers afin de faire entrer et sortir des biens de la ville. 
 
 • En provenance de Karaz Ankor (le « Royaume Éternel » des nains), des délégations diplomatiques inquiètes font route vers Ubersreik. En effet, la plupart des forteresses naines avaient passé des accords avec les Jungfreud au fil des siècles, et les rumeurs affirmant que ceux-ci ont pris fin avec cette éviction nécessitent des explications. Ces groupes ont besoin de guides pour les mener à travers les terres inconnues, de pilotes pour les aider à naviguer sur les rivières, et de nains robustes pour les seconder lors de la traversée des territoires dangereux. Ces groupes se rendent à Dawihafen (voir page 22), où ils feront part de leur insatisfaction à dame Nacht (voir page 10). À plusieurs reprises. 
-
-12
-Clément Gauche - gauche.c@gmail.com
