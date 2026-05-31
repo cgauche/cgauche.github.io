@@ -657,6 +657,31 @@
     });
   }
   if (zoneModeSel) zoneModeSel.addEventListener('change', applyZoneMode);
+  // ---- clickable section legend (influence zones → their fiche via showSection) ----
+  var secLegend = document.getElementById('carte-section-legend');
+  if (secLegend && (M.sections || []).length) {
+    var lbl = document.createElement('span');
+    lbl.className = 'carte-seclegend-lbl'; lbl.textContent = 'Secteurs :';
+    secLegend.appendChild(lbl);
+    M.sections.forEach(function (s) {
+      var chip = document.createElement('button');
+      chip.type = 'button'; chip.className = 'carte-seclegend-chip';
+      chip.setAttribute('data-section', s.key);
+      var sw = document.createElement('span');
+      sw.className = 'carte-seclegend-sw';
+      sw.style.background = SECTION_COLOR[s.key] || '#8a7a5a';
+      chip.appendChild(sw);
+      chip.appendChild(document.createTextNode(s.label));
+      chip.addEventListener('click', function () {
+        showSection(s.key);
+        gZones.querySelectorAll('.carte-zone').forEach(function (z) {
+          z.classList.toggle('sec-flash', z.getAttribute('data-section') === s.key);
+        });
+      });
+      secLegend.appendChild(chip);
+    });
+    secLegend.hidden = false;
+  }
   var resetBtn = document.getElementById('carte-reset');
   if (resetBtn) resetBtn.addEventListener('click', function () {
     view = { x: 0, y: 0, w: W0, h: H0 }; applyView();
