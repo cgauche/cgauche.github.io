@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: crime
+  type: autre
   importance: Mineur
   section: est
   quartier: Quartier des Quais

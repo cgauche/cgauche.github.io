@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: taverne
   importance: Mineur
   section: nord
   quartier: Toteninsel

@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: militaire
+  type: crime
   importance: Mineur
   section: est
   quartier: Schlecht Laden

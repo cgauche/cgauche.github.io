@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: militaire
   importance: Mineur
   section: nord
   quartier: Markt an Der Wand

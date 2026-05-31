@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: gouvernement
   importance: Mineur
   section: nord
   quartier: Großvaters Zuhause

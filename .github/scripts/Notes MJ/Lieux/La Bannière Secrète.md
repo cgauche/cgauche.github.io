@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: militaire
   importance: Mineur
   section: sud
   quartier: Palais Impérial et Quartier du Palast

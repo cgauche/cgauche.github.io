@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: religieux
   importance: Mineur
   section: sud
   quartier: Ogasse

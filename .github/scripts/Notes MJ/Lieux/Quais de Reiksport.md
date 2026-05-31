@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: crime
+  type: militaire
   importance: Mineur
   section: sud
   quartier: Flottenliegeplatz

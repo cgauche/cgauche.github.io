@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: mort
+  type: autre
   importance: Mineur
   section: sud
   quartier: Mauerblumchen

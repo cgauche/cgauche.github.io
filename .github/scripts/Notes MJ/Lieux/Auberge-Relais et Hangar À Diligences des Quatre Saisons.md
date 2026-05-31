@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: taverne
+  type: commerce
   importance: Mineur
   section: nord
   quartier: Wolftor

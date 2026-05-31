@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: religieux
+  type: mort
   importance: Mineur
   section: sud
   quartier: Domplatz

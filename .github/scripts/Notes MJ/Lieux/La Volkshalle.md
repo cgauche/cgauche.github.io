@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: gouvernement
   importance: Mineur
   section: sud
   quartier: Palais Impérial et Quartier du Palast

@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: magie
+  type: gouvernement
   importance: Mineur
   section: sud
   quartier: Zoogarten

@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: commerce
+  type: gouvernement
   importance: Mineur
   section: sud
   quartier: Fundgrube

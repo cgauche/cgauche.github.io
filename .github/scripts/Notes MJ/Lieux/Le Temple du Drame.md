@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: religieux
+  type: gouvernement
   importance: Mineur
   section: est
   quartier: Quartier des Quais

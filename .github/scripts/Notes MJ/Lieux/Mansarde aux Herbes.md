@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: autre
+  type: commerce
   importance: Mineur
   section: sud
   quartier: Krankenfeld

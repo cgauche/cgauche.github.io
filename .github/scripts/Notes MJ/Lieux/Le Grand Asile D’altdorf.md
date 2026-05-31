@@ -2,7 +2,7 @@
 carte:
   map: altdorf
   kind: lieu
-  type: crime
+  type: gouvernement
   importance: Mineur
   section: nord
   quartier: Schulergegend
