@@ -5,7 +5,7 @@ carte:
   type: gouvernement
   importance: Notable
   section: sud
-  quartier: Quartier du Palast
+  quartier: Palais Impérial et Quartier du Palast
   x: 527
   y: 398
   desc: "Grande salle octogonale où les Électeurs gouvernent en public et où les Empereurs sont élus et couronnés ; trône impérial taillé par les nains, table circulaire portant une carte de l'Empire."

@@ -5,7 +5,7 @@ carte:
   type: autre
   importance: Notable
   section: sud
-  quartier: Quartier du Palast
+  quartier: Palais Impérial et Quartier du Palast
   x: 538
   y: 361
   desc: "Parc paysager impérial entre le palais et le Reik, jardin commémoratif des héros de l'Empire ; ouvert de 9h à 23h, gardé par la Reiksguard. Abrite le Pilier de Sigmar et le Mémorial du Solland."

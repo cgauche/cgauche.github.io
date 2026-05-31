@@ -4,7 +4,8 @@ carte:
   kind: lieu
   type: militaire
   importance: Notable
-  section: nord
+  section: hors
+  quartier: Hors-les-murs
   x: 1055
   y: 310
   desc: "Île fortifiée du Talabec, hors les murs au nord-est, reliée à l'enceinte ; QG de la Chambre Noire."

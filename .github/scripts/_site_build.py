@@ -5156,7 +5156,15 @@ CARTE_JS = """\
   // --- zones: Voronoï cells (geometry only) coloured by CANON section ---
   // Clip box excludes the printed legend panel on the left.
   var ZX = 236;
-  var SECTION_COLOR = { sud: '#9a7a2e', est: '#a8483f', nord: '#4f7a55' };
+  // Section colours are data-driven: explicit `color` from each section fiche,
+  // else auto-assigned from a palette (so a new map's sections are coloured too).
+  var SECTION_COLOR = {};
+  (M.sections || []).forEach(function (s) { if (s.color) SECTION_COLOR[s.key] = s.color; });
+  var SECTION_PALETTE = ['#9a7a2e', '#a8483f', '#4f7a55', '#3f6fa8', '#7c5aa6', '#8a5a2b', '#5b6b78'];
+  var palIdx = 0;
+  (M.quarterPolygons || []).forEach(function (q) {
+    if (!SECTION_COLOR[q.section]) SECTION_COLOR[q.section] = SECTION_PALETTE[palIdx++ % SECTION_PALETTE.length];
+  });
   function clipHP(poly, A, B) {  // keep the half-plane of points closer to A than B
     var dx = B.x - A.x, dy = B.y - A.y, mx = (A.x + B.x) / 2, my = (A.y + B.y) / 2;
     function f(p) { return (p[0] - mx) * dx + (p[1] - my) * dy; }
@@ -5753,7 +5761,7 @@ def _carte_entities_from_fiches(map_id: str) -> tuple[list[dict], list[dict], li
         name = f.stem
         if kind == "section":
             sections.append({"key": c.get("section", ""), "label": name,
-                             "desc": c.get("desc", "")})
+                             "desc": c.get("desc", ""), "color": c.get("color", "")})
             continue
         try:
             x = float(c["x"]); y = float(c["y"])
