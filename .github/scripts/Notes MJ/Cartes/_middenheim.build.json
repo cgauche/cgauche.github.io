@@ -1,0 +1,195 @@
+{
+  "pdf": "Source/Warhammer v4 - Middenheim la cité du Loup Blanc.pdf",
+  "scale": 2,
+  "poster": {
+    "page": 1,
+    "scale": 2.2
+  },
+  "quarters_page": 1,
+  "boundary": {
+    "method": "none"
+  },
+  "sections": {
+    "book_dir": "Source/Warhammer v4 - Middenheim la cité du Loup Blanc/",
+    "chapters": {
+      "centre": "02 - Guide du visiteur",
+      "nord": "02 - Guide du visiteur",
+      "est": "02 - Guide du visiteur",
+      "sud": "02 - Guide du visiteur",
+      "ouest": "02 - Guide du visiteur"
+    }
+  },
+  "seeds": {
+    "Palast": [
+      680.6,
+      153.2
+    ],
+    "Konigsgarten": [
+      885.0,
+      205.0
+    ],
+    "Nordtor": [
+      933.0,
+      293.0
+    ],
+    "Osttor": [
+      961.4,
+      378.0
+    ],
+    "Altquartier": [
+      926.6,
+      438.9
+    ],
+    "Venelle": [
+      825.6,
+      561.5
+    ],
+    "Sudtor": [
+      597.4,
+      584.3
+    ],
+    "Ostwald": [
+      455.0,
+      544.0
+    ],
+    "Westor": [
+      520.0,
+      335.0
+    ],
+    "Sudgarten": [
+      570.5,
+      366.2
+    ],
+    "Nordgarten": [
+      588.0,
+      268.0
+    ],
+    "Grafsmund": [
+      606.4,
+      191.4
+    ],
+    "Grafplatz": [
+      735.0,
+      210.0
+    ],
+    "Freiburg": [
+      835.5,
+      261.3
+    ],
+    "Neumarkt": [
+      917.9,
+      371.3
+    ],
+    "Altmarkt": [
+      862.7,
+      496.8
+    ],
+    "Brotkopfs": [
+      711.0,
+      486.7
+    ],
+    "Geldmund": [
+      635.8,
+      444.5
+    ],
+    "Ulricsmund": [
+      666.8,
+      335.1
+    ],
+    "GrandParc": [
+      801.5,
+      396.8
+    ],
+    "Kaufseit": [
+      768.0,
+      500.0
+    ]
+  },
+  "section_fallback": {
+    "Palast": [
+      "Palast",
+      "centre"
+    ],
+    "Konigsgarten": [
+      "Königsgarten",
+      "centre"
+    ],
+    "Nordtor": [
+      "Nordtor",
+      "nord"
+    ],
+    "Osttor": [
+      "Osttor",
+      "est"
+    ],
+    "Altquartier": [
+      "Altquartier",
+      "est"
+    ],
+    "Venelle": [
+      "La Venelle",
+      "est"
+    ],
+    "Sudtor": [
+      "Sudtor",
+      "sud"
+    ],
+    "Ostwald": [
+      "Ostwald",
+      "sud"
+    ],
+    "Westor": [
+      "Westor",
+      "ouest"
+    ],
+    "Sudgarten": [
+      "Sudgarten",
+      "ouest"
+    ],
+    "Nordgarten": [
+      "Nordgarten",
+      "ouest"
+    ],
+    "Grafsmund": [
+      "Grafsmund",
+      "ouest"
+    ],
+    "Grafplatz": [
+      "Grafplatz",
+      "centre"
+    ],
+    "Freiburg": [
+      "Freiburg",
+      "nord"
+    ],
+    "Neumarkt": [
+      "Neumarkt",
+      "est"
+    ],
+    "Altmarkt": [
+      "Altmarkt",
+      "est"
+    ],
+    "Brotkopfs": [
+      "Brotkopfs",
+      "sud"
+    ],
+    "Geldmund": [
+      "Geldmund",
+      "sud"
+    ],
+    "Ulricsmund": [
+      "Ulricsmund",
+      "centre"
+    ],
+    "GrandParc": [
+      "Le Grand Parc",
+      "centre"
+    ],
+    "Kaufseit": [
+      "Kaufseit",
+      "sud"
+    ]
+  },
+  "bridges": []
+}

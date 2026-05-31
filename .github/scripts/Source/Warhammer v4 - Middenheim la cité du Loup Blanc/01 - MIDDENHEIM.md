@@ -1,0 +1,694 @@
+# MIDDENHEIM
+
+*Pages PDF 9-32*
+
+## Middenheim • la Cité du Loup Blanc
+## **Bienvenue À Middenheim**
+_Nous menons la belle vie sur ce sommet. Pendant plus de deux mille ans, Ulric a eu la bonté d’offrir à l’Empire un centre de civilisation inviolable : Middenheim. Derrière ces murs imprenables, l’humanité a pu développer et perfectionner chaque aspect de notre société._ 
+
+— Bleyden, le plus petit des Petits Rois 
+
+Middenheim est la plus grande cité des Provinces du nord de l’Empire. Elle est réputée dans tout le Vieux Monde pour ses fortifications imprenables, son importance aux yeux des adorateurs d’Ulric, sa prestigieuse école de magie et les nombreuses merveilles que propose son Carnaval. Par beau temps, la cité peut être admirée à des kilomètres à la ronde. Le haut rocher sur lequel se dresse Middenheim est presque impossible à distinguer de la masse d’habitations, de grands temples, de tourelles et de remparts qui y sont perchés. 
+
+## **Des Origines Légendaires**
+La cité est perchée au sommet du mont Fauschlag, une véritable merveille de la nature qui se distingue par son vaste plateau et ses falaises vertigineuses. Selon la légende, ce rocher fut offert au dieu Ulric par son frère Taal, le divin père de la Nature. Ulric était le dieu de la Bataille, des Loups et de l’Hiver, et il ne régnait ainsi que dans certaines circonstances, tandis que son frère était vénéré tout au long de l’année. Alors, Taal révéla un vaste sommet et expliqua qu’en ce lieu, les adorateurs d’Ulric pourraient lui rendre hommage même en été. Ulric accepta ce cadeau, mais il décida d’y laisser sa trace, car ses adeptes ne survivraient jamais sur des flancs aussi escarpés. Il frappa de son poing le haut de la montagne et créa ainsi un plateau abrupt de plus d’un kilomètre et demi de diamètre. Puis, il donna un coup de hache, et des sources d’eau chaude jaillirent des fissures qu’il avait produites. Enfin, il utilisa une dernière fois sa hache, et la Flamme éternelle, un étrange pilier de feu argenté, s’éleva de la crevasse ainsi formée. Si ces légendes sont parfois remises en question, une chose est sûre : le Fauschlag est un lieu incroyable qui fait l’admiration de tous depuis sa découverte par les premiers Teutogens. Le puissant chef guerrier Artur était issu de cette peuplade. C’est lui qui ordonna l’édification d’une forteresse au sommet du rocher. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **La Cité du Loup Blanc**
+La forteresse d’Artur est aujourd’hui une grande cité, mais elle reste l’un des lieux les plus sacrés du culte d’Ulric. Le Grand Temple d’Ulric, situé au cœur de Middenheim, est le centre spirituel du culte. C’est là que réside le Grand prêtre connu sous le titre d’Ar-Ulric, l’une des quelques figures religieuses qui ont le privilège de participer aux élections de chaque nouvel Empereur. Middenheim est communément surnommée la Cité du Loup Blanc, en raison de son importance pour les ulricains. 
+
+Le graf Boris Todbringer, un autre Électeur, est le dirigeant séculier de la cité. Les Todbringer forment une famille ancienne et puissante qui règne sur les lieux depuis des générations et possède une grande partie de la campagne environnante. Les superbes propriétés d’autres familles aristocratiques se dressent dans le secteur de Grafsmund. Les contraintes liées à la vie au sommet du Fauschlag empêchent l’édification de vastes demeures, mais ces manoirs n’en sont pas moins impressionnants. 
+
+La Grande Guilde des Sorciers est un haut lieu d’apprentissage de la magie, et ses traditions sont antérieures à l’époque de Magnus le Pieux. Middenheim tolérait la pratique de la sorcellerie alors que les répurgateurs sigmarites purgeaient les provinces méridionales. Si les adeptes de la magie conviennent que les Collèges d’Altdorf sont mieux équipés, ils ont une affection toute particulière pour Middenheim et l’ouverture d’esprit dont elle a toujours fait preuve. 
+
+## **Habitants Non Humains**
+Les nains tiennent une place importante dans la société locale depuis l’époque d’Artur. Aujourd’hui, plus de six cents d’entre eux vivent dans la cité, et ils conservent une position dominante dans les métiers de la maçonnerie, de l’exploitation minière et de l’ingénierie. S’ils côtoient toutes sortes de personnes dans les tavernes et les matchs de Middenball, ils ont rarement l’occasion de rejoindre la haute société de Middenheim. 
+
+On ne peut pas en dire autant des elfes. On en compte près d’une centaine dans la cité, et leur nombre augmente peu à peu. Il s’agit presque exclusivement d’ _éonirs_ , les elfes de la forêt de Laurelorn toute proche. La plupart participent à la vie culturelle de la cité en tant que musiciens, artistes ou vénérables hôtes des établissements nocturnes les plus sophistiqués de Middenheim. Deux elfes occupent actuellement des positions officielles à la cour du Graf : Rallane, le ménestrel, et Allavandrel, le Grand veneur. 
+
+Middenheim abrite aussi une communauté modeste, mais très estimée de halflings. On les retrouve surtout dans la partie nord-ouest de l’Altmark, où se tiennent la plupart des marchés de produits frais de la cité. Quelques ogres errent généralement dans la cité, mais ils ne restent jamais longtemps, car ils sont rapidement pris à la fois du mal du pays et de l’envie de voyager. 
+
+## **’ Toutes Sortes D Activités**
+Middenheim est une cité particulièrement appréciée des voyageurs. Beaucoup sont des pèlerins venus des quatre coins du Vieux Monde pour rendre hommage à Ulric. Cependant, il existe de nombreuses autres raisons de venir à Middenheim. Le Grand Carnaval a lieu une fois par an. Pendant ces huit jours de festivités, les plus grands artistes du monde connu s’y rassemble pour divertir la population. 
+
+La cité est aussi une destination importante pour les commerçants. Middenheim importe de nombreuses marchandises, et elle se tient au carrefour de grandes routes commerciales qui relient Marienburg à Talabheim, et Altdorf aux provinces du nord. 
+
+Middenheim est aussi réputée pour ses artisans talentueux : le spacieux Middenpalaz et le Temple d’Ulric, à mi-chemin entre un édifice religieux et une forteresse, ne sont que deux des exemples les plus impressionnants du travail qu’ils ont accompli au fil des siècles. Le reste de la cité se compose essentiellement de rues étroites qui défilent entre de longues rangées de bâtiments mitoyens ; il est même arrivé que de nouvelles rues soient bâties littéralement par-dessus les anciennes. Toutefois, Middenheim est une cité prospère, et seuls quelques quartiers pourraient vraiment être qualifiés de délabrés. Ces secteurs laissés à l’abandon forment un monde à part entière dans lequel les Petits Rois, qui dirigent les gangs criminels de Middenheim, sont la seule véritable figure d’autorité. Ces barons du crime n’ont que faire de l’influence apaisante du culte de Ranald, et toutes sortes de vices et de méfaits sont assouvis et commis sous leur supervision. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **L’histoire de Middenheim**
+L’histoire des Teutogens commence il y a près de trois mille ans, lorsqu’ils n’étaient qu’une poignée de clans familiaux éparpillés. La plupart d’entre eux s’installèrent dans des villages en pleine forêt, tandis que d’autres constituèrent des groupes nomades vivant de la chasse et de la cueillette. Les Teutogens étaient régulièrement attaqués par des maraudeurs gobelins et hommes-bêtes, mais ils commerçaient avec les elfes de la forêt de Laurelorn et les nains des Monts du Milieu, et ils formèrent une alliance avec eux pour combattre leurs ennemis. 
+
+Face à l’adversité, les Teutogens adressaient leurs prières à Ulric, le plus courageux et le plus ingénieux de tous les dieux. Une grande partie de l’organisation et des rituels du clergé d’Ulric remonte à cette époque. Les gardes personnels des prêtres et des chefs de tribu imposèrent leurs traditions guerrières, qui persistent encore aujourd’hui avec l’Ordre du Loup Blanc et la Garde Teutogen. Ces guerriers d’élite étaient reconnaissables aux peaux de loup qu’ils portaient au combat. 
+
+En –200 CI, les orcs et les gobelins prirent d’assaut les Monts du Milieu et pillèrent la forteresse naine de Karak Khazarak. Ce désastre s’avéra bénéfique pour les Teutogens, car des groupes de nains survivants allèrent vivre et travailler avec eux. 
+
+## **L’apogée du Roi Artur**
+En –50 CI, une tribu nomade de Teutogens s’installa au pied du Fauschlag. Leur chef, Artur, était un dirigeant visionnaire et un guerrier redoutable. Il annonça son intention d’ériger une forteresse sur ce rocher, et il demanda l’aide des nains. 
+
+Ces derniers découvrirent que le Fauschlag était un site d’exploitation minière très intéressant, et ils trouvèrent d’importants filons d’or et de pierres précieuses au cours de leurs excavations. Ils baptisèrent le Fauschlag « la Tour de Grungni », et en vinrent à chérir ce lieu. Après quelques mois, une route fut taillée jusqu’au sommet, et un fort en pierres y fut érigé. 
+
+Middenheim, comme l’appelaient les habitants du Vieux Monde, était une véritable source d’émerveillement pour ces pionniers. Sur le plateau abrupt du Fauschlag, des bassins étaient alimentés par des sources chaudes. Enfin, on pouvait y observer un phénomène particulièrement étrange : une grande colonne de flammes qui jaillissait d’une fissure dans la roche. 
+
+Alors que la communauté continuait de s’agrandir, Artur chercha à s’imposer comme un chef digne de son rang. Il partit affronter maintes fois les menaces qui pesaient sur son peuple, à la tête d’une armée de cavaliers vêtus de peaux de loup blanc. 
+
+## **L’âge de Sigmar**
+Artur changea quand vint la fin de sa vie. Autrefois si preux, il devint de plus en plus cruel. De nombreux témoignages affirment qu’il était comme consumé par les blessures qu’il avait reçues pendant son combat contre la liche Babrakkos. 
+
+Il se montra hostile à l’encontre de la tribu des Unberogens, établis au sud de la cité, et les accusa de perturber le développement de la ville alors que ceux-ci tentaient d’éradiquer les hommes-bêtes qui proliféraient sur leurs terres. Il demanda compensation et envoya des escouades de Teutogens piller et voler leur bétail. C’est alors que Sigmar Heldenhammer, de la tribu des Unberogens, jura de confédérer toutes les tribus qui vivaient entre les Montagnes Grises, à l’ouest, et les Montagnes du Bord du Monde, à l’est. Artur refusa avec mépris. Lorsque Sigmar finit par mener ses armées jusqu’au pied du Fauschlag, Artur envoya un champion pour le défier. 
+
+Sigmar ne se laissa pas déstabiliser, et il escalada Fauschlag pour affronter Artur en combat singulier devant la Flamme éternelle. Dans un acte désespéré, Artur y poussa son adversaire, mais au lieu de le brûler, elle revigora Sigmar. Artur fut alors exécuté sommairement. 
+
+Les Teutogens déclarèrent que Sigmar avait eu la bénédiction d’Ulric et se soumirent à son autorité. Quelques années plus tard, Sigmar fonda sa propre nation, et Ar-Ulric voyagea de Middenheim jusqu’à Reikdorf pour le couronner Empereur. 
+
+## **Les Graines de la Discorde**
+Dans les décennies qui suivirent le couronnement de Sigmar, le culte d’Ulric se structura. Les croyances folkloriques sur l’origine du Fauschlag et la source de la Flamme éternelle furent intégrées à la doctrine officielle du culte. Ar-Ulric Wulcan, un descendant d’Artur, organisa la construction du Grand Temple d’Ulric autour du site de la Flamme éternelle. Les ordres militaires des Chevaliers du Loup Blanc et de la Garde Teutogen furent reconnus officiellement. 
+
+Vers 100 CI, Sigmar commença à être vénéré comme un dieu, et son culte à la popularité grandissante éclipsa rapidement celui d’Ulric dans tout l’Empire. Ce n’est que dans le Talabecland et les provinces du nord que le culte d’Ulric conserva l’influence qu’il avait avant la déification de Sigmar. 
+
+Cette évolution devint inévitablement une source de rancœur. Les prêtres d’Ulric avaient bien conscience qu’il leur fallait de plus en plus gagner l’approbation des sigmarites, et ils faisaient généralement attention à leurs propos en public. Cependant, les zélotes ulricains se plaignaient que Sigmar n’était pas un dieu à la hauteur d’Ulric, si tant est qu’il fût divin. 
+
+## **’ Soif D Indépendance**
+Après la fin de la construction du Grand Temple en 113 CI, Middenheim connut un développement très rapide. Les échanges commerciaux se multiplièrent, car les routes étaient devenues plus fiables et plus sûres, et Middenheim se retrouva à la croisée de plusieurs grandes cités de l’Empire. 
+
+Le graf Wulfgaeng lança une campagne pour affirmer l’importance de la cité en tant qu’entité politique distincte au sein de l’Empire. En 555 CI, Middenheim reçut une charte impériale qui officialisait son statut de province. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Le Grand Imprécateur de Middenheim**
+En 1207 CI, Dieter Helsnicht s’enfuit de justesse de Middenheim. Il avait été surpris à rôder dans le Morrspark à la nuit tombée pour commettre d’infâmes rituels de nécromancie. Dieter s’attribua le titre de « Grand imprécateur de Middenheim ». Il erra dans la campagne environnante avant de s’installer dans une vieille forteresse en ruines au cœur de la Forêt des Ombres. À l’abri de toute persécution, il leva peu à peu une armée. Quelques années plus tard, les soldats squelettes du Grand imprécateur harcelaient les villageois qui vivaient à l’orée de la forêt. 
+
+En 1244 CI, les forces du sorcier se retrouvèrent encerclées pendant la bataille de Beeckerhoven. Dieter, qui avait soumis une monstrueuse manticore ailée à sa volonté, échappa au massacre. Plus de mille ans se sont écoulés depuis sa dernière apparition, mais selon la légende, le Grand imprécateur hante toujours les profondeurs de la forêt. 
+
+## **Le Règne des Empereurs Loups**
+En 1359 CI, le Grand-Duc du Stirland fut élu Empereur et imposa une taxe au culte d’Ulric. Furieuse, la grande-duchesse Ottilia du Talabecland conspira avec Ar-Ulric pour se venger. L’année suivante, elle se déclara Impératrice sans organiser d’élections, et elle proscrit le culte de Sigmar en affirmant que Sigmar n’était qu’un simple mortel dont le règne avait été béni par Ulric. 
+
+En 1547 CI, une élection eut lieu à Altdorf. Le graf Siegfried l’Important affirma qu’il disposait des soutiens requis, mais il reçut des menaces quand ce fut son tour de voter. La situation faillit sombrer dans la violence, et le Graf réussit à fuir jusqu’à Middenheim. Pris de colère, Siegfried se déclara premier Empereur Loup, soumis à aucune autorité dans l’administration de son domaine. Ce fut le début d’une période appelée à tort « l’Âge des Trois Empereurs ». 
+
+Les Empereurs Loups régnaient sur un vaste territoire, mais en dehors de Middenheim, la majeure partie de ce domaine se composait de la nature sauvage et de quelques communautés démunies. Malgré cela, leur puissance militaire était formidable, car ils avaient à leur disposition deux des ordres de chevaliers les plus prestigieux de l’Empire. 
+
+## Le Vœu de Célibat
+Suite aux actions du graf Siegfried, Ar-Ulric annonça son souhait de rétablir le culte d’Ulric à Middenheim. Le graf Siegfried salua cette initiative, mais il insista pour imposer ses conditions, notamment l’obligation pour tous les grands prêtres d’Ulric de faire vœu de célibat. Cette mesure avait pour objectif d’empêcher qu’un prêtre puisse établir une dynastie capable de rivaliser avec celle du Graf. Ar-Ulric accepta ces conditions, mais nombre de ses subordonnés en étaient mécontents. Aujourd’hui, une importante faction secrète complote pour mettre fin à cette restriction. 
+
+Le graf Heinrich de Middenheim condamna Ottilia, mais Ar-Ulric salua son courage pendant un sermon dans le Grand Temple de Middenheim. Le désaccord entre ces deux hommes dégénéra en une véritable crise opposant les dirigeants séculiers et religieux de la cité. Ar-Ulric, ses grands prêtres et une grande compagnie de Chevaliers du Loup Blanc quittèrent Middenheim pour s’installer à Talabheim. 
+
+L’Empire était coupé en deux. Le graf Heinrich demeurait attaché au système électoral, mais nombre de ses sujets l’exhortaient à suivre l’exemple d’Ottilia. Ce fut le début d’une longue guerre civile durant laquelle Middenheim eut souvent une influence conciliatrice. La cité resta à la fois ulricaine et fidèle au système électoral. Elle trouva ainsi des alliés aussi bien dans la faction rebelle « ottilienne » que dans le reste de l’Empire. 
+
+Puisque les Chevaliers du Loup Blanc étaient désormais basés à Talabheim, le Graf chercha une solution alternative. Après les croisades en Arabie, la noble famille Todbringer contribua à l’ouverture d’un chapitre de l’Ordre des Chevaliers Panthères dans la cité. Les Chevaliers Panthères de Middenheim devinrent rapidement de véritables rivaux pour les Chevaliers du Loup Blanc, aussi bien en termes d’effectifs que de puissance. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Fléau Mort-Vivant**
+Les Guerres des vampires commencèrent quand Vlad von Carstein de Sylvanie envoya ses armées piller l’Ostermark et le Talabecland. Des rapports affirmant que les forces de Vlad incluaient des régiments entiers de morts-vivants arrivèrent jusqu’à Middenheim, mais les habitants de la cité décidèrent de ne pas se mêler de ces problèmes qui ne concernaient que des provinces étrangères. À cette époque, les relations entre les anciennes provinces de l’Empire étaient si mauvaises que les habitants de Middenheim étaient prêts à ignorer les armées de Vlad, à condition qu’elles ne traversent pas le Talabec. 
+
+Cependant, Vlad décida que les terres du nord étaient dignes de son attention, et il franchit cette rivière en 2025 CI. Middenheim réagit rapidement face à cette provocation, et les deux armées se rencontrèrent à la bataille de Schwarthafen. Ce fut une victoire décisive pour Middenheim. Jerek Kruger, Grand Maître des Chevaliers du Loup Blanc, tua Vlad. Les soldats vivants de Vlad furent mis en déroute, tandis que ses hordes de squelettes s’effondrèrent en ne laissant derrière elle que des tas d’ossements tombant en poussière. 
+
+Mais, grâce à la magie revitalisante de l’Anneau des Carstein, Vlad ne demeura pas mort. L’année suivante, Jerek disparut mystérieusement, avant de réapparaître au sein de la nouvelle armée de morts-vivants de Vlad. Ce dernier assiégea la cité d’Altdorf et fut tué par le Grand Théogoniste après avoir été trahi par son héritier vampirique, Mannfred von Carstein. Middenheim resta empêtré dans les Guerres des vampires jusqu’en 2145 CI, lorsque les armées de la plupart des anciennes provinces de l’Empire mirent leurs différends de côté pour affronter et vaincre Mannfred. 
+
+## **La Guerre des Sorciers**
+Les Teutogens ont toujours fait preuve de tolérance envers les pratiquants de la magie. Même avant le règne de Magnus, alors que les sorciers étaient persécutés dans tout l’Empire, Middenheim possédait sa propre Guilde des Sorciers. 
+
+Les répurgateurs sigmarites reprochaient ce laxisme à Middenheim, et ils considéraient la cité comme un refuge pour les cultistes du Chaos et les adeptes de la nécromancie. Les sorciers de Middenheim savaient que s’ils ne se décidaient pas à traquer les pratiquants de la magie noire, les répurgateurs viendraient tourmenter la population locale. 
+
+En 1979 CI, les sorciers de Middenheim annoncèrent leur intention de prouver que Middenheim n’abritait aucun sorcier dissident, et ils se mirent à enquêter sur les rumeurs de pratique immorale de la magie. Ils furent horrifiés de constater que l’ouverture d’esprit dont Middenheim avait toujours fait preuve n’avait pas eu que des conséquences positives. Des nécromanciens et des sorciers du Chaos s’étaient bel et bien installés dans la cité. Le conflit qui s’ensuivit est appelé la Guerre des Sorciers. 
+
+Cette lutte se limita heureusement à des escarmouches menées en secret, et la plupart des adeptes de la magie noire qui s’étaient terrés dans la cité choisirent de s’enfuir plutôt que de combattre. Malgré cela, des flambées d’activité démoniaque et de mortsvivants hantèrent les allées et les caves de Middenheim pendant cette période. 
+
+## **La Grande Guerre Contre le Chaos**
+L’Empire se désintégra enfin en 1979 CI, et le système électoral fut abandonné. Les dirigeants de Middenheim continuaient de se faire appeler « Empereurs Loups », mais ce titre perdit rapidement tout son prestige. En effet, chaque dirigeant provincial de l’ancien Empire jouissait désormais d’une autorité similaire. 
+
+En 2302 CI, les habitants des Désolations du Chaos au nord, attirés par la faiblesse de l’ancien Empire, formèrent une terrible horde et marchèrent sur Kislev. Quand Middenheim eut vent que Magnus le Pieux rassemblait une armée pour libérer Kislev, peu sont ceux qui prirent cette affaire au sérieux. Ar-Ulric se montra particulièrement acerbe. Il traita Magnus de vaniteux, et il se moqua de ceux qui le considéraient comme un sauveur sigmarite. Il envoya des agents répandre des rumeurs selon lesquelles Magnus serait en réalité de mèche avec les Puissances de la Ruine. 
+
+Ludovic Paulet - ludovicmad@wanadoo.f
+
+Magnus voyagea jusqu’à Middenheim en secret, et au moment où Ar-Ulric le qualifiait de blasphémateur, il sortit des rangs de la congrégation. Il marcha vers la Flamme éternelle et affirma que s’il était réellement un hérétique, les flammes le consumeraient. Comme Sigmar avant lui, Magnus marcha dans le feu et en sortit indemne. 
+
+## Le Chevalier Éternel
+L’année et la façon dont la charge de Chevalier éternel a été créée font l’objet de nombreux débats auprès des historiens. Les anciens Teutogens avaient pour coutume de nommer un Guerrier éternel. Ce titre honorait le combattant le plus puissant dans l’entourage du chef de tribu. 
+
+Ar-Ulric marmonna des excuses, et le peuple accueillit Magnus en héros. Magnus partit pour Kislev, et de nombreux habitants de Middenheim le rejoignirent dans sa croisade. Ensemble, ils réussirent à repousser les hordes du Chaos. Cette victoire rappela à chacun la puissance de l’Empire lorsqu’il est uni et dirigé par un souverain puissant, et Magnus était un prétendant naturel pour le titre d’Empereur. 
+
+Certains suggèrent que ce poste a été transformé en celui de Chevalier éternel à l’époque de la fondation de Middenheim. Un devin aurait prédit que la cité allait avoir besoin d’un guerrier pour lui servir de garde du corps, et que son fils ferait parfaitement l’affaire. 
+
+Cependant, la première mention d’un poste officiel de Chevalier éternel remonte à 555 CI, quand une prophétesse aurait exhorté le graf Wulfgaeng à désigner le guerrier le plus vaillant de sa cour et à lui accorder cet honneur. Le Graf aurait alors exigé des héros militaires de Middenheim qu’ils prouvent leur valeur. Un soldat du nom de Siegfried aurait ainsi traqué et vaincu le pillard du Chaos Zakash, qui avait privé de nombreux citoyens de leur foyer et de leur famille. Le peuple se réjouit à la vue de Siegfried revenant à Middenheim, brandissant la tête du scélérat. Puis, selon la légende, une armure d’un blanc éclatant serait apparue sur l’autel du Grand Temple. Ar-Ulric l’offrit immédiatement au champion, et Siegfried fut nommé premier Chevalier Éternel. 
+
+Dans sa grande mansuétude, Magnus rétablit les droits électoraux d’Ar-Ulric après son couronnement. Cependant, les sigmarites n’étaient pas en reste : un droit de vote similaire fut accordé à pas moins de trois membres éminents de leur clergé, et ils surnommèrent les événements du Grand Temple « l’Humiliation d’Ar-Ulric ». 
+
+## **Les Exactions du Roi Gobelin**
+On raconte que Grom la Panse avait consommé de la chair crue de trolls, et que c’était la source de sa résistance surnaturelle et de son caractère si belliqueux. Après avoir soumis à sa volonté de nombreux autres chefs de guerre gobelins, le corpulent Grom lança une campagne de destruction contre l’Empire. Ses hordes partirent rapidement à la conquête de Middenheim, et une vaste nuée de peaux-vertes assoiffées de sang se massèrent au pied du Fauschlag. 
+
+Depuis ce jour, cette armure est transmise de chevalier à chevalier. Certains pensent qu’il n’y a en réalité qu’un seul chevalier, dont l’esprit voyage de corps en corps. D’autres affirment que ce titre n’est qu’un symbole de l’importance de Middenheim à cette époque. Cependant, personne ne nie l’honneur associé à cette charge ni l’existence de l’armure magique. 
+
+Doutant de la capacité des gobelins à s’emparer de la cité, le Graf ordonna simplement aux habitants de lever les pontslevis et d’attendre qu’ils partent en quête d’une proie plus facile. Malheureusement, il n’avait pas anticipé la détermination avec laquelle les gobelins infiltrèrent les tunnels qui s’étendent sous le Fauschlag. Nombre d’entre eux perdirent leur chemin (et leur vie) dans la cité souterraine, mais il y en eu suffisamment à arriver derrière les remparts de Middenheim pour mettre à mal les efforts des défenseurs. 
+
+Après une terrible bataille, la horde de gobelins fut repoussée et Grom guida les survivants en direction du nord. Cependant, la cité de Middenheim avait été en grande partie détruite. Même le Grand Temple d’Ulric avait perdu sa toiture. Les habitants de Middenheim se vantent souvent de vivre dans une cité qui est toujours restée imprenable, mais si Grom ne s’est jamais emparé de Middenheim, il a été à deux doigts d’en briser les défenses. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## Chronologie de Middenheim
+## –500 CI
+La tribu Teutogen s’installe dans les terres à l’ouest des Monts du Milieu. Ils vénèrent Taal, Rhya, Manaan et surtout Ulric, qu’ils prient pour survivre aux hivers rudes et pour être vaillants au combat. Les Chevaliers du Loup Blanc affirment que leurs traditions martiales remontent aux gardes du corps qui protégeaient les prêtres d’Ulric à cette époque. 
+
+## –450 CI
+Griselda, fille d’un chef Teutogen, attribue la conception de son enfant à Ulric. Selon la légende, elle fuit la colère de son père et se réfugie dans une caverne sous le Fauschlag. Là-bas, Griselda survit grâce à l’eau d’une source souterraine et à la viande fraîche que lui laissaient des loups blancs. Son enfant, que l’on décrit comme un garçon aux muscles puissants du nom de Blaz, est le premier à prétendre être le descendant d’Ulric. 
+
+## –200 CI
+La forteresse naine de Karak Khazarak, dans les Monts du Milieu, est conquise par une armée d’orcs et de gobelins. La plupart des survivants partent en direction de l’est, mais quelques petits groupes rejoignent des tribus Teutogens locales. 
+
+## –50 CI
+Une tribu nomade de Teutogens dirigée par un chef du nom d’Artur s’installe près du Fauschlag. Artur sollicite un clan nain pour creuser un tunnel dans la roche et ériger une grande forteresse au sommet. Une colonne de feu argenté inépuisable est révélée en haut du Fauschlag. Elle devient une source d’émerveillement, et des prophéties lient le destin de la cité naissante à celui de la flamme. Les Teutogens découvrent qu’il est possible d’enchanter des armes en les plongeant dans le feu. Avec l’aide des nains, ils dressent un cercle de menhirs autour du site. 
+
+## –47 CI
+Un chamane sauvage venu d’une île lointaine offre à Artur une épée magique qu’il aurait forgée à partir d’un éclair gelé. L’Épée dragon de Caledfwlch est une arme redoutable couverte de givre. La même année, Artur gagne en renommée en défendant les villageois de Holzback contre un gigantesque loup blanc. 
+
+Les mâchoires de la créature sont coupées et exposées sur un autel près de la Flamme éternelle. Sa fourrure devient la glorieuse bannière du garde du corps d’Ar-Ulric. 
+
+## –42 CI
+La liche Babrakkos s’en prend aux Teutogens, qui subissent alors une épidémie de violence incontrôlable. Babrakkos se repaît des énergies magiques générées à chaque mort. Artur, brandissant l’Épée dragon de Caledfwlch, se livre à un duel sans merci contre cette ignoble créature. Il finit par l’emporter, mais son combat le laisse amer et angoissé. 
+
+## –38 CI
+La forteresse d’Artur est enfin achevée. Elle est nommée Mitgard, en l’honneur des Monts du Milieu tous proches. 
+
+## –30 CI
+Des rumeurs sur le retour de Babrakkos courent sur le territoire des Teutogens. Sous prétexte d’apporter sa protection contre la liche, Artur exige que les autres chefs Teutogens le reconnaissent comme leur seigneur suprême. 
+
+## –28 CI
+Babrakkos, réduit à l’état de revenant, s’attaque à des villages isolés et gagne progressivement en puissance. Sous la bannière du Loup Blanc, un groupe de guerriers Teutogens part de Middenheim pour chasser le nécromancien. Bien qu’il soit toujours dangereux, Babrakkos est très affaibli par son combat contre Artur, et les cavaliers du Loup Blanc anéantissent sa forme physique. Artur accorde à leur chef, Myrsa, le titre de Guerrier éternel, un grand honneur chez les Teutogens. 
+
+## –17 CI
+Artur est couronné roi des Teutogens. Au sud, la tribu des Unberogens gagne en puissance et déclare la guerre aux hardes d’hommesbêtes, qui fuient en grand nombre vers le nord, à la recherche de proies plus faciles. Artur accuse les Unberogens d’être responsables de la destruction causée par les hommes-bêtes en maraude. Il ordonne aux guerriers Teutogens de piller les terres des Unberogens et de s’emparer de leur bétail. 
+
+## –10 CI
+Sigmar Heldenhammer, de la tribu des Unberogens, entreprend de confédérer toutes les tribus humaines. Son pouvoir grandit peu à peu, dérangeant Artur qui jure que son peuple ne se soumettra jamais à un chef étranger. 
+
+## –7 CI
+Sigmar mène son armée jusqu’au Fauschlag et exige qu’Artur assume la responsabilité des exactions de ses guerriers sur les terres des Unberogens. Artur, désormais âgé et souffrant, envoie Myrsa pour parlementer avec Sigmar. Sentant que le vieux chef n’a plus la confiance de ses guerriers, Sigmar annonce son intention d’escalader le Fauschlag. Il réussit cet exploit et affronte Artur à l’intérieur du cercle de pierres qui entoure la Flamme éternelle. Artur pousse Sigmar dans le feu argenté, mais celuici en ressort indemne. Sigmar est revigoré par la faveur que lui a accordée Ulric. D’un coup de son marteau, il brise l’Épée dragon de Caledfwlch, puis le crâne d’Artur d’une seconde attaque. Au nom du droit de conquête, Sigmar devient roi des Teutogens. 
+
+## 1 CI
+Une cérémonie est organisée à Reikdorf. Les chefs de tribus rassemblés reconnaissent officiellement Sigmar comme leur Empereur. Ar-Ulric fait le voyage depuis Mitgard et pose la couronne impériale sur la tête de Sigmar. 
+
+## 63 CI
+Ar-Ulric Wulcan, un descendant d’Artur, déclare officiellement que le Fauschlag est sacré aux yeux d’Ulric. Il ordonne la construction d’un grand temple sur le site de la Flamme éternelle. La nouvelle de l’importance du Fauschlag pour le culte d’Ulric se répand dans tout l’Empire, et ce site devient une destination populaire pour les pèlerins. La fondation officielle des Chevaliers du Loup Blanc et de la Garde Teutogen remonte à cette époque (même si les membres de ces ordres militaires affirment que leurs véritables origines sont bien plus anciennes). 
+
+## 71 CI
+Alors qu’il était en campagne contre des pillards gobelins, un chef Teutogen tombe gravement malade. Ar-Ulric Wulcan part le secourir, mais il est attaqué par un grand 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+loup blanc. Wulcan interprète cela comme un signe d’Ulric, et il tue l’animal à mains nues. Lorsqu’il arrive aux côtés du chef souffrant, Wulcan l’enveloppe de la fourrure du loup et affirme que l’esprit d’Ulric lui redonnera des forces. La vie du chef est sauvée, et depuis lors, chaque Ar-Ulric nouvellement nommé cherche à imiter son prédécesseur en remportant la fourrure d’un loup blanc. 
+
+## 100 CI
+La petite communauté qui entoure Mitgard devient une ville importante et prospère. C’est une destination essentielle pour les négociants qui transportent des marchandises entre Reikdorf (plus tard connue sous le nom d’Altdorf) et les Terres du nord ou entre Talabheim et Marburg (renommée ensuite Marienburg). Le nom de Middenheim est d’abord utilisé pour désigner la ville qui entoure la forteresse. 
+
+## 113 CI
+La construction du temple d’Ulric est achevée. Cependant, un nouveau culte en l’honneur de Sigmar l’Empereur-Dieu est fondé vers cette période, et sa popularité est rapidement similaire à celui d’Ulric. Les deux cultes entretiennent des relations amicales et travaillent main dans la main, mais des tensions montent entre les adeptes plus radicaux de chaque camp. Le graf Erich, qui cherche désespérément à convaincre les sorciers de renforcer magiquement les défenses de la cité, autorise les pratiquants de la magie à fonder la Guilde des Sorciers. 
+
+## 550 CI
+Des élections ont lieu cette année, et le graf Wulfgaeng de Middenheim manque de peu d’étre élu Empereur. Plusieurs observateurs accusent les tensions entre les cultes d’Ulric et de Sigmar d’être responsables de cette défaite électorale. Le Graf commence à user de son influence pour que le statut de Province soit accordé à Middenheim. 
+
+## 555 CI
+Craignant une révolte à Middenheim, l’Empereur consulte Ar-Ulric et le graf Wulfgaeng, puis il accorde à la cité une charte reconnaissant son statut d’entité politique majeure. La charge du Chevalier éternel est créée pour symboliser l’importance et le caractère imprenable de Middenheim. 
+
+## 1100 CI
+La province de la Drakwald est envahie par des hommes-bêtes, qui déciment toute la classe dirigeante. 
+
+## 1111 CI
+Alors que la Peste noire se répand dans tout l’Empire, le graf Gunthar met en place une stratégie d’isolement draconienne à Middenheim. Les ponts-levis sont levés, et les supplications des réfugiés installés aux portes de la cité sont ignorées. De nombreux habitants de la cité meurent de faim dans les années suivantes, mais Middenheim est globalement épargnée par la peste. 
+
+## 1124 CI
+Encouragés par les ravages de la Peste noire, les skavens se livrent à des pillages dans tout l’Empire sans se soucier de représailles. Le graf Mandred de Middenheim rassemble une armée pour les affronter, et il remporte une victoire décisive à la bataille des Collines hurlantes. Mandred est acclamé comme le sauveur de l’Empire, et il sera ensuite couronné Empereur. 
+
+## 1152 CI
+L’Empereur Mandred est retrouvé mort, assassiné par des forces inconnues. Les Électeurs se disputent la succession. Plus tard dans l’année, le graf Erlich de Middenheim lance une guerre de conquête, annexe le Middenland et s’approprie Mord-les-Jambes, le Croc runique de cette province. Il se déclare Graf de Middenheim et Grand-Duc du Middenland, et affirme avoir droit à deux voix au scrutin électoral. Les historiens considèrent que c’est l’un des actes ayant contribué au début de l’Ère des Guerres, mais il est difficile de déterminer si la conquête du Middenland par Erlich a provoqué les tensions civiles ou si elle les a simplement exacerbées. 
+
+## 1207 CI
+Bien que la cité tolère de nombreuses pratiques inhabituelles de la magie, Dieter Helsnicht est accusé d’infâmes rituels de nécromancie, et il est chassé de Middenheim. Il se réfugie dans son antre, au cœur de la Forêt des Ombres. Là, il lève une armée toujours plus grande de morts-vivants. Les malheureux qui subissent ses déprédations le connaissent sous le nom de Grand imprécateur de Middenheim. 
+
+## 1243 CI
+Le comte Einrich Moltke du Nordland jure de mettre un terme aux attaques commises par les forces des morts-vivants de Dieter Helsnicht. Il demande le soutien du Graf de Middenheim, mais il ne reçoit que de simples encouragements. Le comte patrouille à l’orée de la Forêt des Ombres, mais Helsnicht se soustrait à tout affrontement direct. 
+
+## 1244 CI
+_La bataille de Beeckerhoven_ . Le comte Einrich Moltke du Nordland mène une petite troupe dans la Forêt des Ombres. Ils sont pris en embuscade par une horde de squelettes commandée par Dieter Helsnicht, qui réussit presque à tous les anéantir. Le comte ordonne à ses hommes de battre en retraite vers le village de Beeckerhoven, où il se prépare à un baroud d’honneur. Des renforts venus de Middenheim prennent en tenaille l’armée de mort-vivants qui assiège le village. Dieter Helsnicht est blessé, mais il parvient à fuir la bataille, transporté par la monstrueuse manticore qui obéit à ses ordres. Le corps du nécromancien n’est jamais retrouvé, et la localisation de son refuge au plus profond de la forêt reste un mystère. 
+
+## 1265 CI
+Le comte Faulk du Middenland tente de reconquérir la Drakwald. Son armée est détruite par une coalition de hardes menée par Kartok Largecorne. 
+
+## 1334 CI
+Ar-Ulric rejoint les rangs des Électeurs. Cette manœuvre a pour objectif de contrebalancer l’influence du Grand Théogoniste, de limiter les risques d’impasse politique et de mettre un terme à l’Ère des Guerres. 
+
+## 1360 CI
+La grande-duchesse Ottilia de Talabheim complote avec Ar-Ulric pour discréditer le culte de Sigmar. Elle se déclare Impératrice sans organiser d’élections, et elle interdit le culte de Sigmar au Talabecland. Ar-Ulric et le Graf Heinrich sont en désaccord sur le soutien à accorder ou non à Ottilia. Ar-Ulric quitte Middenheim et rejoint la cour de Talabheim. 
+
+## 1414 CI
+Le Middenland et le Nordland divisent la province contestée de la Drakwald en deux protectorats, qui deviendront plus tard des régions permanentes de leurs provinces respectives. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## 1450 CI
+Une grande croisade est organisée pour libérer l’Estalie des armées du sultan Jaffar d’Arabie. Plusieurs chapitres des Chevaliers du Loup Blanc et des Chevaliers Panthères acquièrent gloire et fortune dans de lointaines contrées désertiques. À leur retour, un détachement des Chevaliers Panthères se met au service de la famille noble des Todbringer, à Middenheim. Ce serment secret profite grandement aux Chevaliers comme à la famille Todbringer. 
+
+## 1547 CI
+Le graf Siegfried l’Important propose de rétablir le culte d’Ulric à Middenheim, à condition qu’Ar-Ulric fasse vœu de chasteté. Cette tradition empêche les grands prêtres d’Ulric de fonder des dynasties susceptibles de rivaliser avec celle du Graf. Siegfried se déclare ensuite Empereur. Le trône est alors revendiqué par des prétendants au Stirland, à Talabheim et au Middenland. L’Âge des Trois Empereurs est marqué par des guerres civiles particulièrement violentes. 
+
+## 1550 CI
+La guerre éclate entre Middenheim et Talabheim. Le Middenland retrouve son indépendance pendant la période d’instabilité qui s’ensuit. Cette année-là, le Croc runique de la Drakwald, Tueur de Bêtes, est dérobé dans les chambres fortes du Middenpalaz et tombe entre les mains du nouvel Électeur du Middenland. Nul ne sait comment cela a pu se produire, mais les adeptes de Ranald parlent du « casse du siècle ». 
+
+## 1555 CI
+Le graf Siegfried l’Important réforme l’armée de Middenheim et oblige tous ses sujets à s’entraîner régulièrement au maniement des armes. 
+
+## 1582 CI
+En signe de réconciliation, l’Empereur nouvellement élu accorde à Middenheim une charte autorisant la cité à frapper sa propre monnaie. Les partisans de l’Empire sont choqués par cette décision, et ils accusent les marchands de s’immiscer dans la vie politique de l’Empire. 
+
+## 1681 CI
+_La Nuit des Morts sans Repos_ . Les morts sortent de leurs tombes dans le Morrspark, et la cité est prise de panique alors que des corps animés errent dans les rues. Les prêtres de Morr et les Chevaliers du Loup Blanc parviennent à restaurer l’ordre et à repousser, puis détruire les morts-vivants. On apprendra plus tard que d’autres crises similaires se sont produites dans tout le monde connu tandis qu’un mal ancien faisait son retour dans le Sud. 
+
+## 1812 CI
+_La Guerre d’Attitudes_ . Middenheim est assiégée par une armée de Middenlanders. Ils sont repoussés avec l’aide des nains. La cité souterraine est scellée à tout jamais, et de grands travaux de reconstruction et de fortification sont entrepris. Le premier Carnaval de Middenheim est organisé pour fêter la fin du siège. La seule nourriture restante est très fortement fumée ou saumurée, et ce premier festin est donc surnommé « la Grande saumure de 1812 ». 
+
+## 1968 CI
+La tolérance dont Middenheim a toujours fait preuve à l’égard des pratiquants de la magie commence à poser problème : selon la rumeur, la cité serait infestée par des sorciers noirs. Les sorciers de la cité décident de mener l’enquête, afin de prouver que ce n’est pas parce que Middenheim refuse de persécuter les utilisateurs de la magie qu’elle abrite forcément des démonologues ou des nécromanciens. 
+
+## 1979 CI
+Les quelques Comtes Électeurs qui ne se sont pas encore auto-déclarés Empereur décident que le trône devrait revenir à Magritta de Marienburg. Cette décision déplaît au Grand Théogoniste de Sigmar, qui refuse de la couronner. Le système impérial s’effondre. Les Provinces divisées ne comptent plus que sur elles-mêmes pour s’administrer et se défendre. Des cultes du Chaos apparaissent dans toute la contrée, ce qui entraîne un conflit limité à Middenheim appelé « la Guerre des Sorciers ». Cette purge rigoureuse menée au nom des sorciers de Middenheim aboutit à la découverte et à la traque de groupes entiers de pratiquants de magie noire. 
+
+## 2025 CI
+Les Guerres des vampires. Après avoir décimé, puis réanimé, une grande partie de la population du Talabecland, Vlad von Carstein guide ses armées vers Middenheim. Pendant la bataille de Schwarthafen, Vlad est vaincu par Jerek Kruger, Grand Maître des Chevaliers du Loup Blanc, et l’armée sylvanienne subit alors une défaite totale. 
+
+## 2026 CI
+Le Grand Maître Kruger est transformé en lieutenant vampire par Vlad. Plus tard dans l’année, Vlad von Carstein retourne au Middenland accompagné de sa nouvelle armée. Un contingent de Chevaliers du Loup Blanc et de Chevaliers Panthères part au combat, mais ils sont mis en déroute par les abominations mortes-vivantes. Le Graf ordonne aux forces restantes de fortifier la cité et de détruire des pans entiers des routes menant aux portes de la cité. Vlad pille le Middenland sans aucune opposition, avant de partir vers l’est. 
+
+## 2058 CI
+Cherchant à consolider sa position d’héritier de Vlad, Fritz von Carstein tente d’assiéger Middenheim. Le Graf, qui se souvient encore des conséquences du siège précédent, met en place une stratégie de résistance agressive, et le Comte vampire tombe au combat. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## 2100 CI
+Face à la menace que représentent les Comtes vampires, les différents prétendants au trône impérial décident de former une alliance militaire. Quand Konrad von Carstein mène ses armées jusqu’à Middenheim, il est attaqué pendant la bataille des Quatre Armées. Le dirigeant du Talabecland profite du combat pour ordonner l’assassinat du seigneur du Stirland, mais ce dernier fait de même. Pendant la confusion qui résulte de cette situation, Konrad parvient à s’échapper avec son armée presque indemne. 
+
+## 2115 CI
+Middenheim est ravagée par une épidémie de Peste noire, et la Komission pour la Santé, l’Éducation et le Bien-être est créée suite à cette crise. 
+
+## 2304 CI
+Une nouvelle notion d’identité impériale commence à émerger grâce à l’exemple montré par Magnus. Il est couronné Empereur avec la bénédiction de l’ensemble des dirigeants provinciaux et religieux, et l’ancien système électoral est restauré. À Middenheim, certains reprochent au culte de Sigmar de bénéficier de trois voix, alors que celui d’Ulric n’en a qu’une. Quelques observateurs sont aussi irrités de constater que les répurgateurs sigmarites, qui avaient toujours méprisé Middenheim pour sa tolérance envers la magie, étaient désormais satisfaits de la fondation de Collèges de magie à Altdorf. Toutefois, la plupart des Middenheimers se réjouissent de la réunification de l’Empire sous l’autorité de Magnus. 
+
+## 2371 CI
+Solveig von Bildhofen, petite-fille de Gunthar von Bildhofen, épouse Boris Todbringer. Leur premier né, Bertholdt, sera le premier membre de la famille Todbringer à devenir Graf de Middenheim. C’est aussi l’arrière-grand-père du Graf actuel, Boris. 
+
+## 2398 CI
+Pour des raisons inconnues, le graf Dieter refuse les services d’un bouffon envoyé à Middenheim par le dirigeant de Glimdwarrow. 
+
+## 2412 CI
+Le graf Dieter préside au premier match officiel de middenball, qui se déroule dans le stade Bernabau. Ce sport gagne très rapidement en popularité. 
+
+## 2319 CI
+## 2145 CI
+Face aux déprédations de Mannfred von Carstein, Middenheim rejoint une nouvelle grande alliance. Les soldats de Middenheim font honneur à la cité pendant la campagne visant à éradiquer les Comtes vampires une bonne fois pour toutes. 
+
+## 2302 CI
+L’Année de la Mortification. La contrée de Kislev est ravagée par les incursions du Chaos. Magnus von Bildhofen se rend en secret à Middenheim pour rassembler des alliés et venir en aide aux Kislevites assiégés. ArUlric Kriestov a la malheureuse idée d’accuser Magnus d’hérésie, mais il est humilié lorsque ce dernier se révèle béni en traversant la Flamme éternelle sans être brûlé. 
+
+## 2303 CI
+La Grande Guerre contre le Chaos. Magnus von Bildhofen de Nuln accompagne son armée pour mettre un terme au siège de Kislev. Ses forces remportent une grande victoire, et les envahisseurs du Chaos subissent une défaite décisive. Il entre dans l’histoire sous le nom de Magnus le Pieux. Soucieux de se repentir, Ar-Ulric Kriestov guide une armée de Middenheimers pour soulager Kislev. Des hommes-bêtes attaquent Middenheim en son absence, mais il les met en déroute à son retour en hiver. 
+
+Sœur Hildegarde, de la Mission de la Miséricorde de Shallya, condamne publiquement le graf Erich von Kärzburdger pour le grand nombre d’exécutions qui ont lieu pendant son règne, allant jusqu’à l’attraper par l’oreille devant toute sa cour. Cet événement aura un impact crucial sur la réforme des codes pénaux de l’Empire. 
+
+## 2369 CI
+À la mort de Magnus le Pieux, de nombreux habitants de Middenheim s’attendent à ce que sa couronne soit transmise à son frère cadet, Gunthar von Bildhofen. Cependant, Gunthar entre en conflit avec le Grand Théogoniste, Kazgar XIV, qui affirme qu’un miracle aurait eu lieu juste avant les funérailles de Magnus le Pieux. Par conséquent, le comte Léopold du Stirland devient le nouvel Empereur. Gunthar et sa famille quittent Nuln et emménagent à Middenheim, où ils sont accueillis par leurs lointains cousins, les Todbringer. 
+
+## 2370 CI
+À l’initiative du Grand-Duc du Middenland, une armée est levée pour pénétrer dans les Monts du Milieu et reprendre possession du Fort d’Airain, actuellement occupé par les armées du Chaos. Les soldats qui s’aventurent dans les montagnes disparaissent à tout jamais. Un campement permanent est installé autour de la forteresse, mais malgré cet état de siège, les défenses ne semblent pas s’éroder. Des rumeurs affirmant que les lieux sont hantés par des démons commencent à circuler. 
+
+## 2423 CI
+_Waaagh Grom !_ Une horde d’orcs et de gobelins dirigés par le seigneur de guerre Grom la Panse sème la destruction à travers l’Empire. Les peaux-vertes assiègent Middenheim et détruisent une grande partie de la cité avec leurs engins de siège. L’ennemi est repoussé au prix de nombreuses vies, et Grom accompagne son armée vers des proies plus faciles. 
+
+## 2510 CI
+_Waaagh Frapp’ dans l’Dos !_ Une armée menée par le gobelin de la nuit Spinny Frapp’ dans l’Dos ravage les fermes et villages qui entourent Middenheim. Le middenmarshal Kurt Heinwald lève une armée pour affronter les gobelins, qui subissent une défaite cuisante. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **La Cité Aujourd’hui**
+Aujourd’hui, Middenheim a récupéré des ravages de la famine, des épidémies et de la guerre, et près de 40 000 personnes vivent derrière ses murs. La densité de population est telle que dans certains quartiers, des rangées entières de bâtiments sont superposées les unes sur les autres. Les structures près du bord du Fauschlag tiennent en équilibre précaire, et certaines sont même taillées dans la falaise. Middenheim est réputée dans tout le Vieux Monde pour son dédale de ruelles étroites, et il n’est pas rare qu’une route passe par-dessus une allée creusée dans la roche grise qui compose le Fauschlag. 
+
+La cité est moins densément peuplée au nord, où les résidences des citoyens plus aisés sont nichées dans des parcs verdoyants et d’imposants monuments. Il est possible d’y échapper à la foule omniprésente dans le reste de la cité, mais ces manoirs laissent une impression de pragmatisme et de densité par rapport aux vastes demeures que l’on retrouve dans d’autres régions de l’Empire. Les gardes de la cité mènent leurs patrouilles dans de grandes avenues, vêtus d’uniformes bleus à crevés et équipés de hallebardes aux larges lames. 
+
+La cité souterraine existe encore aujourd’hui sous les rues de Middenheim. Elle se compose des tunnels et des mines que les nains ont creusés sous le Fauschlag depuis l’époque 
+
+d’Artur. Les nains prétendront que les tunnels sont maintenant officiellement fermés. Cependant, ils ont été infiltrés en de nombreux endroits par différents groupuscules. Des criminels et autres cultistes y ont installé leur repaire. Les combattants des tunnels nains partent régulièrement dans la cité souterraine pour la cartographier et affronter les ennemis qu’ils croisent sur leur chemin, mais ce réseau de tunnels est si complexe et labyrinthique qu’il ne sera jamais possible de l’explorer un jour dans sa totalité. 
+
+Cependant, Middenheim reste réputée comme étant une des grandes cités les plus sûres et les plus civilisées de l’Empire. Le graf Boris, tout comme ses prédécesseurs de la famille Todbringer, jouit d’une bonne image au sein de la cité comme à l’extérieur. Bien qu’il soit ulricain et fier de l’être, il est aussi très attaché à la stabilité et à la protection de l’Empire, et il se méfie de ceux qui voudraient déshonorer la mémoire de Sigmar. Il a le dernier mot au sein de la cité, et les petits nobles de la région tiennent à s’attirer ses faveurs. 
+
+## **Hégémonie Exercée…**
+Les relations entre Middenheim et le Grand comté du Middenland sont complexes et changeantes : la cité exerce toujours son influence sur la province, mais elle n’arrive 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+jamais à faire l’unanimité dans la population. Les tensions entre les cultes d’Ulric et de Sigmar expliquent en partie cette situation. Les habitants ruraux du Middenland considèrent généralement Ulric comme une inspiration personnelle, mais face aux attaques régulières d’hommes-bêtes et de gobelins, les valeurs sigmarites de coopération et de vigilance contre le Chaos forment une alternative bien plus attirante. 
+
+Ainsi, si le Middenland reste résolument ulricain, on y trouve plusieurs enclaves sigmarites, et sa capitale, Carroburg, a autant en commun avec Middenheim qu’avec les cités voisines du Reikland. Les von Bildhofen qui dirigent le Middenland mettent aussi beaucoup en avant les liens entre leur vénérable ancêtre, Magnus le Pieux, et Sigmar lui-même. 
+
+Le graf Boris Todbringer a eu la prudence de cacher ses intentions de régner sur le Middenland comme les Grafs d’antan, mais il a déjà projeté sa puissance militaire dans la province. Des compagnies entières de chevaliers de Middenheim patrouillent dans la Drakwald, officiellement pour repousser la menace grandissante que représentent les hommes-bêtes. Les Middenlanders sont généralement ravis de les accueillir, mais des rumeurs circulent selon lesquelles des Chevaliers du Loup Blanc auraient persécuté des communautés sigmarites isolées. Le comte Leopold von Bildhofen est de plus en plus déchiré entre son devoir de défendre les droits des sigmarites et sa propre incapacité à affronter les hardes d’hommes-bêtes de la Drakwald sans l’aide de Middenheim. 
+
+## **… et Influence En Berne**
+Jusqu’à peu, l’administration du Nordland par Middenheim était considérée comme un fait acquis. Les nordlanders se plaignaient régulièrement d’être sous le joug des Grafs, mais ces derniers avaient toujours gouverné la province avec sagesse, et personne n’envisageait réellement une rébellion. 
+
+La situation a bien changé au cours des dix dernières années, et ces tensions ont été exacerbées pendant la Bataille de la Chute du Grand imprécateur. Cet événement tire son nom d’une taverne de Salzenmund qui eut le malheur de servir de caserne improvisée pour des régiments de soldats de Middenheim et du Nordland. Les militaires décidèrent de boire pour tromper leur ennui, et une bagarre finit par éclater. À la fin des hostilités, 18 hommes du Graf étaient morts, ainsi que 20 soldats du Nordland et plusieurs civils. 
+
+Le graf Boris fut assuré par sa seconde épouse, Anika-Elise de la famille Nikse de Salzenmund, que le Nordland assumerait la responsabilité de cette situation en échange du versement d’une somme symbolique pour compenser les dommages subis. Les Nikse et les Todbringer mirent le sujet de côté et l’affaire fut considérée comme oubliée. Cependant, une autre famille noble, les ambitieux Gausser de Salzenmund, ne comptait pas garder le silence. À force de dénoncer cette injustice, ils sont devenus les symboles d’une mouvance séparatiste de plus en plus populaire au sein de la classe politique de Salzenmund. 
+
+## **Les Dirigeants de la Cité**
+Le graf Boris possède le pouvoir absolu dans Middenheim, mais les observateurs dissidents expliquent plutôt qu’il est au centre de tout un réseau d’influenceurs. Le Graf exerce son autorité au sein d’un système de délégation élaboré par ses prédécesseurs. 
+
+Techniquement, le Graf fait la loi dans son territoire, mais il a aussi de nombreux conseillers, et des parties intéressées peuvent lui adresser leurs recommandations et leurs observations par le biais des Burgerlich Komissionen, les commissions publiques de la cité. Le Graf est tenu de confier l’administration des Guildes de Middenheim à leurs représentants élus, et il lui est impossible d’empêcher l’application des codes criminels draconiens des Petits Rois, qui représentent la seule vraie autorité dans les bas-fonds de la cité. 
+
+## **Le Graf Boris Todbringer**
+Le graf Boris règne sur Middenheim et nul ne saurait le contredire. Son pouvoir est tel qu’il pourrait refuser les ordres de l’Empereur lui-même (l’Empereur serait cependant bien mal avisé de dicter ses ordres au Graf, de même que le Graf serait fort imprudent d’ignorer la volonté de l’Empereur). 
+
+Sa famille forme une lignée prestigieuse. Les Todbringer vivent à Middenheim depuis plus d’un millénaire, et ils sont également liés par de nombreux mariages à la famille von Bildhofen, des descendants de Gunthar von Bildhofen, frère de l’Empereur Magnus le Pieux. Même avant qu’un Todbringer n’occupe le trône de Middenheim, il s’agissait d’une riche et puissante lignée aristocratique, crainte et respectée pour ses liens ancestraux avec l’Ordre des Chevaliers Panthères. 
+
+Sur le plan juridique, le Graf n’est pas tenu de se soucier de l’approbation du peuple, mais même les monarques les plus absolus doivent se méfier de leurs sujets mécontents. Au fil des années, les Grafs ont supervisé la fondation de différentes institutions dans le but d’assoir leur autorité auprès du petit peuple. 
+
+Les intrigues de palais, les liens avec l’armée, la coopération avec le culte d’Ulric et le financement de nouveaux services secrets sont autant de manières pour le Graf d’exercer son pouvoir dans Middenheim. Même les Komissionen, qui ont été officiellement créées pour permettre aux citoyens de s’exprimer, peuvent être utilisées pour étendre son influence. 
+
+Le graf Boris jouit d’une bonne réputation, car il a su mettre en avant des qualités que les habitants de l’Empire recherchent chez leurs dirigeants : un bon sens de la politique et une grande bravoure au combat. Cependant, sa présence se fait de plus en plus discrète depuis quelques années. Ce retrait progressif a commencé avec le décès de son épouse, Anika-Elise, et la maladie chronique dont souffre son héritier. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **La Famille du Graf**
+Les Todbringer forment une lignée ancienne qui apparaît pour la première fois dans les légendes, parmi les vaillants compagnons du roi Artur. Les Todbringer occupent le trône du Middenpalaz depuis près de 150 ans, mais la famille, bien que très puissante, ne compte que peu de membres. Le graf Boris possède quelques cousins lointains, mais ils sont plus proches des von Bildhofen du Middenland ou des Nikse du Nordland. Aucun d’eux ne porte le nom Todbringer. 
+
+Les origines de ce problème de fertilité au sein de la lignée Todbringer sont une véritable énigme. Le graf Boris était fort et vigoureux dans sa jeunesse, mais à l’image de ses prédécesseurs, il a eu du mal à obtenir une descendance viable. Sa famille immédiate est très réduite : elle se limite à son fils et héritier le baron Stefan, atteint d’une maladie chronique, et à deux enfants illégitimes qu’il a reconnus, le baron Heinrich et Katerina (qui, bien qu’elle soit communément appelée « Princesse », n’est pas une véritable héritière). 
+
+## **Baron Stefan**
+Le baron Stefan est l’héritier officiel du trône de Middenheim. Malgré cela, il est généralement considéré comme inapte à cette fonction. Il a du mal à communiquer, et il souffre d’accès de violence qu’aucun médecin ni aucun prêtre n’a jamais su calmer. Sa maladie a empiré avec l’âge, mais son état s’améliore quelque peu depuis qu’il est suivi par le médecin tiléen Luigi Pavarotti. 
+
+## **Princesse Katerina**
+La princesse Katerina est une jeune femme aimable, mais banale. La plupart des personnes qui la rencontrent la trouvent ravissante et charmante, mais nombreux sont ceux qui la considèrent comme distraite, superficielle et ennuyeuse. Elle s’implique beaucoup dans la société mondaine de la cité, et elle soutient de nombreux projets artistiques et caritatifs dans Middenheim. Sa beauté est indéniable, et les héritiers de plusieurs nobles lignées ont cherché à s’attirer ses faveurs. Cependant, personne ne peut se vanter d’avoir réellement conquis son cœur. 
+
+## **Baron Heinrich**
+Le baron Heinrich représente tous les espoirs de la plupart des Middenheimers pour l’avenir de la dynastie de son père. Il incarne l’idéal même de la noblesse impériale : un colosse à la prestigieuse carrière militaire et à l’esprit affuté. Les courtisans attendent avec impatience le jour où le graf Boris reconnaîtra que le baron Stefan ne sera jamais apte à s’assoir sur le trône et trouvera un moyen de désigner Heinrich comme héritier. Le Graf  a récemment confié au baron Heinrich l’organisation des services secrets de Middenheim. Comme pour toutes les autres responsabilités qui lui ont été assignées, Heinrich exécute son rôle de maître-espion avec compétence et méticulosité. 
+
+## **Courtisans Notables**
+Si le Graf  jouit d’un pouvoir absolu, ce n’est pas un tyran pour autant. Sa cour est le reflet de sa personnalité. Ses courtisans favoris ne sont pas considérés comme de simples accessoires rapidement remplacés, mais comme de précieux compagnons dont la loyauté est appréciée à sa juste valeur. La plupart d’entre eux sont respectés pour leur franchise et leur honnêteté. Le Graf tolère les débats et les conflits d’opinion, du moment que ce désaccord est exprimé avec respect. Sa cour est austère et sérieuse, comparée à celle d’autres Électeurs, mais elle n’est pas morose pour autant. 
+
+Cependant, ce petit monde n’est pas sans problème. AnikaElise Nikse, l’épouse récemment décédée du Graf, avait beaucoup d’influence de son vivant, et elle a laissé sa marque sur le palais. Mais peu de gens savaient qu’Anika-Elise était en réalité mal intentionnée : elle vénérait en secret le Prince du Chaos, et elle désirait avant tout répandre l’anarchie et la corruption. Avant sa mort, elle s’est assurée que des sybarites et des adorateurs du pouvoir trouvent leur place dans la cour. 
+
+Les personnages suivants sont considérés comme des courtisans à part entière. D’autres personnalités de Middenheim se rendent régulièrement à la cour du Graf tout en ayant des responsabilités ailleurs. Ar-Ulric et le Grand sorcier sont des conseillers du Graf. On les retrouve souvent à la cour, mais ils sont surtout connus pour leur rôle au Grand Temple et à la Grande Guilde des Sorciers, respectivement. 
+
+## **Vieran Thugenheim — Favori**
+Vieran Thugenheim est l’un des favoris du Graf. Ce conseiller discret a participé à de nombreuses campagnes militaires, et c’est l’un des commandants de l’Ordre des Chevaliers Panthères. Le graf Boris apprécie le bon sens et l’humilité dont Vieran fait toujours preuve. Même si ce dernier connait intimement chaque aspect de l’administration de Middenheim, il attache beaucoup d’importance à l’opinion des experts et des comités de conseil. Vieran nourrit en secret de grandes ambitions pour son fils Vorn, qu’il aimerait voir suivre ses pas et monter encore plus haut dans l’échelle sociale. C’est dans ce but qu’il a formé Vorn à toutes les subtilités du pouvoir séculier, tout en l’intronisant dans l’ordre des Chevaliers du Loup Blanc. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Hausmeister Breugal — Chambellan**
+Le chambellan du Graf est simplement connu sous le nom de Breugal. C’est un grand homme aux traits émaciés qui cultive un air de détachement approprié pour les aristocrates de son rang. On le voit souvent avancer d’un pas pressé dans les jardins du palais, richement habillé et toujours équipé de sa canne au pommeau en argent. Breugal est un administrateur froid et efficace, dont la mission est d’organiser le travail des innombrables valets et servantes qui s’affairent au Middenpalaz. Les employés qui ne satisfont pas ses exigences draconiennes ne font pas long feu dans son équipe. Son travail est toute sa vie, et on ne l’a jamais vu fraterniser avec qui que ce soit. 
+
+## **Josef Sparsam — Chancelier**
+Le chancelier Sparsam conseille le Graf sur les questions financières et assure la gestion de la trésorerie et de la monnaie de Middenheim. Sur le plan personnel, c’est un homme timide, consciencieux et traditionaliste. Il prend son rôle très au sérieux, mais il n’apprécie pas particulièrement la vie à la cour. Contrairement à Breugal, il n’est guère intimidant ; c’est un personnage populaire qui fréquente souvent les courtisans. Le chancelier Sparsam veille à ce que Middenheim ne croule pas sous des dettes déraisonnables, mais certains opposants lui reprochent de préférer accumuler des fonds plutôt que de les investir. 
+
+## **Rallane Lafarel — Ménestrel de la Cour**
+Depuis que le graf Dieter a remercié son bouffon, la cour de Middenheim n’emploie plus de fou. Le Graf compte sur Vieran pour dire la vérité aux grands de la cour et sur Rallane Lafarel, chanteur et luthiste, pour divertir ce petit monde. Ce poète de talent est capable d’inspirer la joie ou le chagrin par ses simples vers, et il est admiré pour ses compositions originales comme pour ses interprétations de grands classiques. Rallane est un conseiller pétillant et perspicace, mais il s’assure de ne jamais outrepasser sa fonction. En tant qu’elfe, il est considéré comme un représentant important de son peuple. 
+
+## **Allavandrel Fanmaris — Grand Veneur**
+Le deuxième courtisan elfique est Allavandrel Fanmaris, le Grand veneur. Il est responsable de la gestion des chevaux, des chiens et des faucons qui accompagnent les dignitaires pendant les parties de chasse, et il enseigne également l’archerie aux membres de la cour. Il fréquente moins le palais que les autres courtisans, et le Graf, depuis quelque temps, ne manifeste que peu d’intérêt pour la chasse. Allavandrel n’a donc pas beaucoup d’influence, mais il est très respecté. 
+
+## **Hildegarde Zimperlich — Chaperon de la Princesse**
+Hildegarde Zimperlich est actuellement employée comme chaperon de la princesse. Elle a servi la famille du Graf sur trois générations, et elle a même été la nourrice du Graf lui-même. Elle perd en vigueur avec son grand âge, mais elle reste vive d’esprit, et elle sait se montrer incisive quand la situation l’exige. Elle s’habille avec goût, même si ses vêtements sont passés de mode, et elle privilégie des tenues noires formelles lorsqu’elle se rend à la cour. Très dévouée à ses responsabilités, elle ne quitte que rarement la princesse des yeux. La plupart des personnes qui fréquentent la cour considèrent que c’est une dame réactionnaire et dépassée, mais elle est malgré tout respectée pour sa franchise, et elle jouit d’une influence modeste. 
+
+## **Dieter Schmeidehammer — Champion**
+Dieter Schmeidehammer est le Champion du Graf. Autrefois, de nombreux nobles employaient des champions de justice pour échapper à l’indignité d’une participation personnelle à un duel judiciaire. Aujourd’hui, ce titre est essentiellement honorifique, mais il ne fait aucun doute que Dieter serait prêt à mourir pour son Graf. Dieter est aussi intelligent qu’il est doué au combat. C’est un homme honnête, franc et étonnamment compatissant. Ses opinions terre-à-terre sont respectées par le Graf. Très populaire à Middenheim, il a un emploi du temps bien rempli. Dieter est très proche de Rallane et d’Allavandrel, et il est fiancé à Kirsten Jung, une des dames de la cour. 
+
+19
+Ludovic Paulet - ludovicmad@wanadoo.f
+
+## **Emmanuelle Schlagen — Dame de la Cour**
+Emmanuelle Schlagen est une des dames qui fréquentent la cour, et elle fait partie des favoris du Graf. C’est une belle femme, éloquente, élégante et sophistiquée, et elle était autrefois une des comédiennes les plus brillantes du théâtre du Königsgarten. Emmanuelle est une source respectée de conseil sur les questions sociales et culturelles de la cité. Elle est très ambitieuse, et il lui est déjà arrivé de mettre ses intérêts avant ceux de Middenheim. Chacun à la cour sait qu’Emmanuelle est la compagne du Graf, mais, depuis quelque temps, celui-ci se montre distant. Elle a trouvé son âme sœur en la personne d’Ar-Ulric, et leur affection croissante pourrait provoquer un incident diplomatique majeur. 
+
+## **Dames de la Cour**
+Plusieurs autres dames fréquentent la cour, généralement des membres des familles aristocratiques mineures de la cité ou bien des personnalités mondaines. Elles font office d’hôtesses gracieuses et de compagnes agréables à l’œil ; elles sont aussi appréciées pour leurs très nombreux contacts. Il est rare que le Graf demande directement leur avis, mais les autres courtisans se gardent bien de négliger leur sens de la politique ou de s’attirer leurs foudres. 
+
+## **Luigi Pavarotti — Médecin de la Cour**
+Luigi Pavarotti est le médecin de la cour. Ce Tiléen plus grand que nature se distingue par son appétit dévorant et pansexuel. Sa personnalité flamboyante et ses vêtements clinquants ne laissent personne indifférent. S’il en insupporte certains, son charisme et sa grandiloquence lui attirent généralement plus d’amis que d’ennemis. Il a pour mission de participer à la prise en charge du baron Stefan, mais ses connaissances médicales sont limitées. C’est cependant un excellent charlatan, et bien qu’on ne puisse pas vraiment parler de médecine, il a mis en place un programme de traitement qui implique d’hypnotiser Stefan et de le plonger dans un état de stupeur. Cette méthode a un intérêt médical discutable, mais elle rassure ceux qui s’inquiètent du bien-être du jeune héritier du Graf. 
+
+## Des Goûts Dispendieux
+Les Middenheimers répètent à qui veut l’entendre qu’ils ne partagent pas la passion des Altdorfers pour le luxe et les aliments raffinés, mais les courtisans du Graf s’intéressent tout de même à la mode et aux tendances qui émergent de la cour de Karl Franz. Ils demandent constamment de recevoir les tissus les plus récents, les nouvelles épices et les derniers mets délicats, sans oublier les ragots les plus croustillants du moment. Les Personnages qui viennent du sud, en particulier ceux qui possèdent le Talent _Baratiner_ , pourront trouver un auditoire captif, à condition d’avoir une histoire convaincante à raconter. De même, les marchands avec assez d’audace et de bagout pourront persuader l’un des chefs de 
+
+Bettie Vertebutte que leur cargaison d’oreilles de mouton salées (achetées pour une bouchée de pain à Delbren) connait un succès spectaculaire dans les établissements les plus sophistiqués d’Altdorf. 
+
+## **Bettie Vertebutte — Chef de Cuisine**
+Les cuisines du Middenpalaz emploient un grand nombre de personnes, notamment des membres du clan halfling de Vertebutte. Bettie Vertebutte est chargée de la supervision du personnel, du contrôle des coûts, de la gestion des acheteurs et des fournisseurs et de la création des menus. Il ne s’agit pas vraiment d’une courtisane, mais elle est fréquemment consultée pour connaitre les points de vue de la communauté halfling. 
+
+## **Les Autres Maisons Nobles**
+Plusieurs autres familles aristocratiques possèdent leur propre cour à Middenheim, même si ce n’est pas de manière permanente. Les maisons nobles restent rarement au même endroit bien longtemps, et elles ont tendance à voyager de manoir en château, avec une halte dans une ville ou deux sur le chemin. Elles passent souvent l’hiver à Middenheim. Selon le tempérament du chef de famille, les aristocrates se rendent dans la cité pour les grands festivals ou se font remarquer par leur absence. 
+
+De nombreux courtisans fréquentent plusieurs cours de maisons nobles, y compris celle du Graf. Servir un noble est une occupation honorable, et de nombreux courtisans sont eux-mêmes des aristocrates. Les nobles accueillent souvent les jeunes héritiers d’autres familles pour occuper des postes importants. Les pupilles, les fiancés potentiels et même les otages en attente d’une rançon peuvent évoluer dans la cour. Les rôles de fauconnier, de bibliothécaire, de maître d’écurie et de dame de la cour sont généralement réservés aux jeunes courtisans. Les nobles ont pour valeur commune l’idée que s’ils en arrivent à servir autrui, ils se doivent de jouer leur rôle avec dignité, même s’ils s’estiment rabaissés. Heureusement, rares sont les seigneurs qui s’imaginent pouvoir humilier quotidiennement des serviteurs de bonne naissance sans en subir les conséquences : lorsqu’elles sont révélées au grand jour, les affaires de mauvais traitement peuvent provoquer de véritables guerres entre deux familles. 
+
+## **Relations Entre les Nobles et les Todbringer**
+Les petites maisons nobles n’ont pas beaucoup d’influence sur le Graf, et elles tiennent avant tout à rester dans ses bonnes grâces plutôt que de risquer de le vexer. En effet, la plupart des nobles de la région assurent l’intendance des terres de la famille Todbringer selon différentes chartes de tenure. L’office « au bon plaisir du Graf » est la charge la moins sécurisante, et elle n’offre aucune protection juridique aux intendants qui la reçoivent. L’office « inamovible » est quelque peu plus stable, tandis que les détenteurs d’un office « à vie » sont protégés contre toute possibilité d’éviction, à moins d’avoir commis une grande offense. Enfin, ceux qui jouissent d’un office « héréditaire » sont pratiquement intouchables. Tant que la famille Todbringer règne sur Middenheim, ces seigneurs intendants ne risquent pas d’être déposés. Cependant, si une autre dynastie venait à s’assoir sur le trône, cela provoquerait une longue période d’instabilité, le temps de déterminer le propriétaire légitime de chaque terre. 
+
+Même les propriétaires terriens héréditaires, notamment les von Kärtzburdger, qui régnaient autrefois sur Middenheim et considèrent les Todbringer comme de vils usurpateurs, veillent à garder leur rancœur pour eux. La famille Todbringer a beau rassembler de moins en moins de membres, de nombreuses maisons nobles dépendent d’elle et comptent sur sa pérennité. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **La Hiérarchie du Culte**
+## **Dynasties Marchandes**
+La structure du culte, symbolisée par l’organisation du Grand Temple, est reproduite dans les congrégations plus modestes de tout le monde connu. Ar-Ulric est le chef suprême du culte. Il est chargé de nommer des Grands prêtres, qui nomment à leur tour les prêtres et les initiés dans leur juridiction. 
+
+Les anciennes maisons gardent la mainmise sur les hautes fonctions de l’Empire, mais l’influence des marchands se fait de plus en plus ressentir. Middenheim est un centre de commerce important. Même si la cité est éloignée des voies fluviales de l’Empire, de nombreuses caravanes marchandes parcourent les routes qui relient Talabheim, Altdorf, Salzenmund et Marienburg. Middenheim accueille un grand nombre de magnats du transport, de princes marchands et de riches négociants. C’est aussi un grand centre de production et de commerce. Middenheim est une source majeure pour deux matières premières : le bois, qui provient de la Drakwald et de la Forêt des Ombres, et le minerai issu des Monts du Milieu. La cité est aussi réputée pour sa production de tissus et d’articles en cuir. 
+
+Ar-Ulric est aussi le prêtre de la cour du Graf. Dans le cadre de ce rôle, il est censé représenter les intérêts communs de tous les cultes et temples de la cité et user de son influence en leur nom. Personne ne sera cependant surpris d’apprendre qu’il défend ardemment la cause ulricaine et n’accorde que peu de faveurs aux adorateurs de Sigmar. 
+
+Ar-Ulric est élu à vie par un conclave de Grands prêtres de l’Ordre du Loup Hurlant, qui font le voyage jusqu’à Middenheim depuis des contrées aussi lointaines que le Sudenland et Kislev pour cette occasion. Ar-Ulric est une figure d’autorité religieuse et séculière. C’est un Électeur de l’Empire et un conseiller spirituel de confiance pour les autres Électeurs ulricains (qui le consultent généralement avant de voter). Jarrick Valgeir occupe actuellement le titre d’Ar-Ulric. Il est globalement bien perçu, mais certains ulricains estiment qu’il ne défend pas assez vigoureusement la cause du culte, et ses amis proches le trouvent distrait depuis quelque temps. 
+
+De puissantes dynasties marchandes siègent à Middenheim. Les négociants les plus aisés ont généralement réussi à accaparer le marché pour un type de marchandises bien précis. Ils sont toujours à l’affût de nouvelles opportunités commerciales et d’occasions de nuire à leurs rivaux. 
+
+Le Graf, comme la plupart des aristocrates, estime qu’il serait indigne de sa part de s’impliquer dans les affaires des marchands. Cependant, il n’est pas sans savoir que les négociants contribuent à la prospérité de la cité et sont une source d’emploi pour une grande partie de ses sujets, et il tient donc à ne pas négliger leurs préoccupations. Les princes marchands sont souvent les invités d’honneur de grandes réceptions mondaines à la cour, notamment la fête en plein air du Carnaval. 
+
+Chaque Grand prêtre d’Ulric est assisté par un adjoint appelé Père de la Tanière. Claus Liebnitz est le Père de la Tanière du Grand Temple de Middenheim. C’est un guerrier redoutable qui fait partie de la Confrérie de la Hache. Il a malheureusement attiré l’attention de certains de ses frères qui vénèrent un dieu bien plus sinistre qu’Ulric. Ces derniers ont commencé à l’initier à des rites qui le rendent sensible à l’influence de Khorne. 
+
+Aucun arrangement de la sorte n’a jamais été consigné dans les documents officiels, mais des rumeurs circulent à Middenheim selon lesquels les marchands auraient réussi à arracher plusieurs concessions au chancelier de Middenheim. Beaucoup pensent qu’ils devraient faire l’objet d’une taxation plus sévère. Certains agitateurs, notamment ceux associés à la mouvance des Nouveaux Millénaristes, exhortent les citoyens à exprimer leur mécontentement sur le traitement de faveur dont bénéficient les marchands. 
+
+## **Le Culte D’ulric**
+Middenheim est le centre spirituel le plus important du culte ulricain depuis sa fondation. Le Grand Temple d’Ulric est une des structures les plus impressionnantes de la cité, et aucun autre édifice dédié à ce dieu ne lui arrive à la cheville. L’adoration d’Ulric laisse sa trace sur de nombreux aspects de la vie à Middenheim, et outre le Grand Temple, chaque secteur abrite plusieurs chapelles et sanctuaires plus modestes. 
+
+Les Grafs de Middenheim respectent les grands festivals d’Ulric et son culte, mais ils ont aussi décrété que les restrictions imposées aux prêtres d’Ulric ne s’appliquaient pas à eux-mêmes ni à leurs sujets. Cette politique a été maintes fois une source de tensions, notamment à l’aube du second millénaire, quand les armées de Middenheim ont commencé à inclure des régiments équipés d’armes à feu. Ar-Ulric donna alors un sermon qui, sans condamner explicitement cette évolution, était teinté de nostalgie et de désespoir. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## I
+## **Les Chevaliers du Loup Blanc**
+Selon la tradition, Ar-Ulric désigne des guerriers d’élite chargés de protéger les adeptes et d’honorer Ulric au combat. Les Chevaliers du Loup Blanc, appelés plus formellement les Templiers du Loup Blanc et généralement connus sous le nom de Loups Blancs, sont considérés comme l’ordre de chevaliers le plus ancien de l’Empire. Leurs origines remonteraient à bien avant l’Âge de Sigmar, mais l’ordre fut officiellement fondé par Ar-Ulric Wulcan il y a plus de 2500 ans. 
+
+C’est aussi le plus grand ordre de chevaliers, avec des chapitres établis dans les lieux les plus reculés du monde. L’ordre est si vaste qu’Ar-Ulric nomme des Grands Maîtres pour assurer la gestion de chaque chapitre. Les chevaliers qui peuvent être mobilisés par un chapitre forment une Grande compagnie. Chaque Grande compagnie est dirigée par un commandant, qui est normalement rattaché à un temple local et répond donc à la fois au Grand prêtre et au Grand maître. Le commandant nomme des sergents templiers qui supervisent des compagnies composées chacune d’une vingtaine de chevaliers au maximum. 
+
+## Obligation et Rancœur
+En 1547 CI, le graf Siegfried obligea les Grands prêtres d’Ulric à faire vœu de célibat. Cette restriction est encore en vigueur aujourd’hui. Les origines de cette tradition sont antiques, mais les prêtres savent qu’elles sont d’ordre séculier et ne relèvent pas du sacré. De nombreux ulricains voient cette vieille obligation comme une insulte qui ne reflète en rien les valeurs et les lois de leur dieu. Les ulricains se considèrent généralement comme des impétueux qui se soumettent difficilement face à l’autorité, et ils ont aussi du mal à respecter les contraintes en général et le célibat en particulier. Personne n’ignore que de nombreux prêtres rompent leur vœu et que le culte ne consacre que peu d’efforts à la poursuite de ces contrevenants. 
+
+Une vaste faction secrète manœuvre dans l’ombre pour faire lever cette restriction, et son plus grand soutien n’est nul autre que le Grand prêtre lui-même. Ar-Ulric est encore relativement jeune, et il n’est pas sans ambitions. Malgré son serment de loyauté au graf Boris, Ar-Ulric rêve de fonder une lignée qui pourra porter un jour les titres de Grand prêtre et de Graf. Agacé par le vœu qui lui fut imposé, Ar-Ulric s’est peu à peu entiché d’Emmanuelle Schlagen, qui n’est rien de moins que la maîtresse du graf Boris. Si cette aventure devait être révélée au grand jour, cela provoquerait certainement une dangereuse lutte de pouvoir entre les dirigeants séculiers et spirituels de Middenheim. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **L’ordre Au-Delà de Middenheim**
+En dehors de Middenheim, chaque chapitre est associé à une couleur en particulier : le bleu, le rouge, l’or, et ainsi de suite. Dans la cité, chaque compagnie est appuyée par un autre chapitre : la Compagnie Bleue de la Grande compagnie de Middenheim comprend des Loups Blancs du chapitre bleu situé non loin, mais ces chevaliers s’entraînent et combattent aux côtés de la Compagnie rouge du chapitre rouge au sud de l’Empire. 
+
+L’ordre est ouvert à toutes les origines sociales. N’importe quel guerrier bien bâti, respectueux des valeurs d’Ulric et doté d’un penchant prononcé pour la violence peut demander à rejoindre leurs rangs. Les initiés de l’ordre font le serment d’obéir à ArUlric, de protéger les prêtres du culte et de se soumettre à la loi d’Ulric. Puis, ils partent seuls dans la nature pour traquer un loup et le tuer à mains nues. Une cape est fabriquée avec la peau de ce loup, et l’initié est alors officiellement chevalier. 
+
+## **La Gestion de L’ordre**
+Par temps de paix relative, les Loups Blancs patrouillent dans la campagne et éradiquent les gobelins et les hommes-bêtes qu’ils croisent. Quand la guerre fait rage, ils reçoivent un accueil mitigé. Aux yeux des profanes, ce sont des cavaliers de choc impitoyables et redoutables, mais leur vision du combat n’est pas sans inconvénient. Les généraux plus penchés sur la stratégie reprochent aux Loups Blancs d’avoir tendance à saisir la première occasion d’engager l’ennemi au lieu de se coordonner avec leurs alliés. Les autres chevaliers les respectent pour leur valeur au combat, mais ils considèrent aussi qu’ils manquent de finesse. Les Loups Blancs ont une approche du combat bien à eux : ils insistent pour être vêtus de peaux de loups et refusent de porter un casque, et ils préfèrent manier de lourds marteaux de cavalerie au lieu de la lance et du bouclier communément utilisés par les chevaliers. 
+
+## **La Garde Teutogen**
+La Garde Teutogen choisit ses membres parmi les guerriers des Loups Blancs. Ce sont les gardes du corps personnels d’ArUlric, et ils font aussi des démonstrations de force pendant les apparitions officielles. Puisqu’ils sont tenus d’accompagner Ar-Ulric dans chacun de ses déplacements, les membres de la Garde Teutogen s’entraînent aux tactiques propres à l’infanterie lourde, mais continuent d’utiliser les armes et les armures typiquement associées aux Chevaliers du Loup Blanc. 
+
+Chaque Mitterfruhl, une cérémonie solennelle a lieu au Grand Temple de Middenheim, pendant laquelle l’élite des Loups Blancs est choisie pour rejoindre la Garde Teutogen. Ar-Ulric décide qui recevra ce grand honneur, après avoir consulté à ce sujet le Grand maître des Loups Blancs de Middenheim. Ce processus est censé passer outre les basses considérations politiques et récompenser le mérite. Par conséquent, la plupart des nouveaux intronisés proviennent du cercle intérieur de cet ordre de chevaliers, car ces chevaliers bénéficient déjà d’une renommée durement acquise. Toutefois, Ar-Ulric choisit de jeunes Loups prodiges de temps à autre. 
+
+Ces nouveaux membres font partie de la Garde pendant une période de service pouvant couvrir plusieurs années. Faire partie de la Garde Teutogen est considéré comme un honneur accordé aux plus courageux des Loups Blancs, c’est pourquoi Ar-Ulric estime qu’il est important d’inclure de nouvelles recrues chaque 
+
+année. Quitter la Garde Teutogen après quelques années de service est une nécessité honorable, et c’est une grande fierté pour les soldats qui en ont l’occasion. 
+
+## **La Confrérie de la Hache**
+La Confrérie de la Hache est une organisation secrète qui rassemble d’anciens membres de la Garde Teutogen. Seuls les hommes au sang Teutogen pur sont invités à la rejoindre, et cette société perpétue le mépris des sigmarites qui n’est plus toléré par le culte d’Ulric. Les guerriers qui rejoignent la confrérie en deviennent membres à vie. 
+
+La hache qui a donné son nom à la confrérie est appelée « Blitzbeil » ; il s’agit de l’arme que maniait Ulric dans les légendes. Afin de se rapprocher de leur dieu, les membres de la confrérie remplacent les marteaux habituellement maniés par les Loups Blancs par de lourdes haches à deux mains. 
+
+Tous les membres de la confrérie s’attachent à perfectionner leur maîtrise des armes. Malheureusement, quelques-uns de ces frères ont été corrompus et caressent désormais des ambitions malsaines. Initiés à des rituels blasphématoires par des cultistes du Crâne Écarlate et attirés par la promesse d’une force et d’une férocité surhumaines, ils ont sombré dans la vénération de Khorne. 
+
+## Les Ulricains Fanatiques des Frères Loups
+Si on reconnaît les flagellants de Sigmar à leurs vêtements en lambeaux, à leurs prêches apocalyptiques et à leur penchant pour l’automutilation, les zélotes d’Ulric sont bien plus discrets dans leur dévotion. Ces ulricains radicaux sont appelés les Frères Loups. 
+
+Leur lugubre credo est basé sur la survie, l’individualisme et la confrontation directe avec leurs ennemis. Sans convictions politiques, ils n’adhèrent pas non plus aux principes du culte officiel d’Ulric. Ce dernier est considéré comme trop modéré, en dépit de ses grandes traditions martiales. Pour les Frères Loups, la meilleure façon de vénérer Ulric consiste à survivre à l’hiver en pleine nature ou bien à traquer et vaincre seul toute une bande de pillards. 
+
+Il arrive que des groupes de Frères Loups s’unissent pour une cause commune, par exemple pour rejoindre une campagne militaire ou pour venger un affront contre leur religion. En raison de leur individualisme effréné et de leur méfiance envers toute forme de hiérarchie, les communautés de Frères Loups ne durent jamais bien longtemps. Pourtant, il serait fort imprudent de sous-estimer le potentiel de ces regroupements. 
+
+Les gens pensent souvent que les Frères Loups sont proches des Fils d’Ulric, mais ces deux groupes n’entretiennent en réalité que peu de contacts. La plupart des Frères Loups considèrent en effet que les Fils d’Ulric nourrissent une obsession malsaine pour le pouvoir séculier. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Le Corps Législatif de Middenheim**
+Les trois Seigneurs des Lois sont nommés par le graf Boris et ont pour responsabilité de traiter toutes les affaires législatives à Middenheim, de réviser les documents juridiques existants et d’en rédiger de nouveaux. Ces postes sont actuellement occupés par Reiner Ehrlich, Joachim Hoflich et Karl-Heinz Wasmeier. On les reconnaît aux simples robes grises qu’ils portent en permanence, ainsi qu’à leur insigne doré en forme de balance. Ce sont tous les trois des professionnels dévoués qui se tiennent à l’écart des autres courtisans, afin de préserver leur impartialité et d’éviter toute accusation de corruption. 
+
+On les croise parfois lors de cérémonies officielles, mais ils sont généralement inapprochables par la majorité de la population. Il est possible d’envoyer à leur bureau des requêtes par écrit concernant des propositions de loi, mais aucune audience ne sera accordée. Les Seigneurs des Lois travaillent avec l’Honorable Guilde des Législateurs, et ils peuvent être sollicités par des personnalités influentes pour donner leur avis sur des questions d’ordre juridique. Cependant, ils restent circonspects en toutes situations, et ils n’hésiteront pas à signaler le moindre écart au Graf. 
+
+## Les Seigneurs des Lois de Middenheim
+Les trois Seigneurs des Lois ont beaucoup d’influence à la cour du Graf. Si vous souhaitez en savoir plus à leur sujet, vous pouvez vous reporter au **Pouvoir derrière le Trône** . Les Seigneurs des Lois jouent un rôle important dans ce chapitre de **L’Ennemi Intérieur** ; si vous prévoyez de faire jouer cette campagne, il serait plus prudent d’éviter d’impliquer ces personnages pour le moment. 
+
+Cependant, les Seigneurs des Lois sont aussi d’excellents points de départ pour les aventures. Il est possible qu’un groupe de mercenaires « entreprenants » de passage à Middenheim se mette la justice à dos, et les Seigneurs des Lois disposent d’une grande autonomie dans les sanctions qu’ils infligent aux fauteurs de troubles et autres délinquants. Les Personnages peuvent ainsi être forcés d’accomplir différentes tâches pénibles ou tout simplement impossibles, par exemple retrouver la trace d’agents notoires des Petits Rois ou bien patrouiller les égouts pour enquêter sur l’existence supposée d’hommes-bêtes à tête de rat. 
+
+Les Personnages plus portés sur les compétences sociales pourraient se retrouver impliqués dans la lutte de pouvoir politique qui émerge entre les trois Seigneurs des Lois. Comme le veut la tradition, les Seigneurs des Lois restent unis face au Graf, mais les désaccords sont monnaie courante au sein de leur triumvirat. Un Seigneur des Lois pourrait ainsi demander à un Personnage discret d’enquêter sur l’un de ses confrères qu’il soupçonne de corruption. On raconte même que les sinistres cultes des Puissances de la Ruine auraient réussi à séduire un ou plusieurs des Seigneurs des Lois, mais ce ne sont sans doute que d’infâmes ragots... 
+
+## **Les Burgerlich Komissionen**
+Middenheim a la réputation d’être une cité dans laquelle les citoyens ont une véritable influence sur la politique officielle de la collectivité. Il est de tradition dans la cité que les intérêts de différents groupes soient présentés à leurs dirigeants par le biais des Burgerlich Komissionen, ou Commissions publiques. 
+
+Les Komissionen les plus importantes pour l’administration de la cité sont la Komission pour le Commerce, les Métiers et les Impôts et l’Honorable Guilde des Législateurs. Les trois autres grandes Komissionen sont la Komission pour les Travaux Publics, la Komission pour la Santé, l’Éducation et le Bien-être et la Komission pour les Intérêts des Elfes, des Nains et des Halflings. 
+
+## **Les Délégués des Komissionen**
+Chaque Komission est dirigée par un Covenor, un délégué dont la principale mission consiste à faire un état des lieux trimestriel des affaires de l’organisation, des problèmes rencontrés et des suggestions pour l’amélioration de la cité. Chaque délégué participe ensuite à un entretien avec un Seigneur des Lois. Ce dernier examine le rapport de la Komission et informe le délégué des futurs changements de politique qui auront un impact sur la Komission. 
+
+Les résidents de Middenheim ont la possibilité d’adresser leurs réclamations et idées pertinentes aux Komission pour qu’elles soient étudiées par le délégué ou un de ses adjoints. Toute la crédibilité des délégués repose sur leur capacité à défendre efficacement les intérêts de leur groupe démographique. Ils tiennent cependant à éviter toute interaction avec d’éventuels mécontents et d’autres personnes susceptibles de leur faire perdre du temps. Ainsi, les citoyens désirant faire part d’un problème au Covenor doivent d’abord suivre de lourdes et laborieuses procédures administratives. 
+
+## **Les Guildes de Middenheim**
+Le droit exclusif d’exercer la plupart des métiers de Middenheim est accordé à ceux qui ont obtenu une licence auprès de leur guilde respective. Le travail quotidien d’une guilde consiste à suivre l’activité de ses membres et à s’assurer qu’ils respectent les pratiques commerciales inscrites par la guilde dans le code légal de Middenheim. Ainsi, si un médecin souhaite travailler à Middenheim sans s’attirer d’ennuis avec la loi, il doit au minimum prouver sa compétence à la Guilde des médecins, payer des frais d’adhésion et respecter les directives de la guilde. 
+
+Les guildes offrent un service d’intérêt public, car elles veillent à ce que leurs membres exercent leur métier de façon honnête et loyale. Toutefois, elles ne sont pas, pour autant, irréprochables. La corruption fait rage, et selon la rumeur, les promotions n’y sont pas accordées au mérite, mais plutôt sur la base du favoritisme ou de l’échange de pots-de-vin. Les guildes sont impitoyables avec ceux qui tentent de travailler sans avoir demandé préalablement une licence, et selon la loi de l’offre et de la demande, les frais exigés peuvent relever de l’extorsion pure et simple. 
+
+Les guildes de la cité peuvent être divisées en trois grandes catégories : les Guildes de manouvriers, les Guildes d’artisans et les Guildes professionnelles. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Devenir Membre**
+Rejoindre les rangs d’une Guilde de manouvriers est relativement facile. Il y a toujours une forte demande pour des ouvriers non qualifiés, et les Personnages qui ne paraissent pas faibles et délicats peuvent rejoindre n’importe laquelle contre un paiement de 5 CO (ou 10 pistoles par mois). Les Guildes de manouvriers veillent à ce que leurs membres reçoivent un salaire honnête à hauteur de 7 pistoles par jour, mais elles sont absolument inflexibles sur la séparation des métiers. Ainsi, une vendetta entre deux guildes a duré pendant six mois, tout simplement parce qu’un membre de la Guilde des charretiers avait remplacé une roue sur son chariot sans s’adresser d’abord à la Guilde des charrons. 
+
+Les Guildes professionnelles et les Guildes d’artisans limitent toujours leurs effectifs à un certain nombre de membres. Quand une place se libère (suite à un décès ou parce que la personne en question a quitté la cité), un nouveau membre est recruté parmi les postulants, en respectant strictement l’ordre de priorité établi : 
+
+- Les enfants de membres actuels. 
+
+- Les apprentis de membres actuels. 
+
+- Les candidats recommandés par des membres actuels. 
+
+- Les candidats recommandés par d’autres guildes. 
+
+## Rejoindre Une Guilde Professionnelle Ou Une Guilde D’artisans
+Les candidats doivent prouver leur compétence d’une manière ou d’une autre. Afin de démontrer leur valeur, les Personnages doivent réussir un Test **Difficile (-20)** impliquant une Compétence associée au type d’emploi désiré. En cas de succès, certaines guildes imposent un rituel d’initiation pendant lequel le candidat porte une robe de cérémonie, s’agenouille devant les membres de haut rang de la guilde et fait le serment d’honorer la guilde et ses principes. 
+
+Le Personnage doit ensuite inévitablement payer des frais. Les frais d’adhésion des guildes vont de 3 Couronnes par an, pour les Guildes d’artisans, à 200 Couronnes par an pour les rangs les plus élevés des Guildes professionnelles. Parmi les membres de bas rang, la fin d’année est toujours marquée par une course effrénée pour le « dixième noble », un noble étant une pièce fréquemment utilisée d’une valeur d’un tiers de Couronne. Les travailleurs baissent souvent leurs tarifs dans leur quête désespérée d’une commande rémunérée. De plus, tous les membres de guilde sont dans l’obligation d’effectuer au moins une tâche à titre gratuit pour leur guilde. 
+
+Les Personnages qui souhaitent changer de Carrière ou bien se former dans certaines Compétences n’iront pas bien loin sans l’appui d’une guilde. Si un Personnage désire changer de Carrière et exercer un métier régi par une Guilde d’artisans ou une Guilde professionnelle (par exemple, les professions de Médecin, d’Artisan ou de Ratier) sans avoir déjà les Compétences nécessaires, il devra entrer en apprentissage auprès d’un membre de la guilde. Cela implique de prouver sa valeur auprès d’un employeur potentiel. Une fois cette démarche menée à bien et le changement de Carrière validé, le Personnage ne pourra pas exercer son métier sans rejoindre une guilde. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Chefs Militaires**
+Le Graf est le commandant en chef des forces armées de Middenheim. Comme tous les dirigeants provinciaux, sa première allégeance est pour l’Empereur, et une de ses grandes responsabilités consiste à entretenir une armée qui pourra appuyer son souverain en temps de guerre. Il est également tenu de maintenir la paix de l’Empereur et de protéger les serviteurs des dieux. Depuis la nuit des temps, les Grafs de Middenheim sont assistés dans l’exercice de ces fonctions par trois commandants militaires, les Middenmarshalls. 
+
+Les Middenmarshalls prennent leur rôle très au sérieux. Ils n’expriment pas d’opinion politique, et on ne les aperçoit en public que pendant les grands événements et autres cérémonies officielles, pendant lesquels ils reçoivent parfois le salut des soldats au nom du graf Boris. Ils jouissent d’une certaine influence auprès du Graf, mais il s’agit tous les trois d’hommes intègres, attachés aux traditions et déterminés à ne pas abuser de leurs privilèges. 
+
+## **Middenmarshall Ulrich Schutzmann — Commandant de la Garde**
+Le Middenmarshall Ulrich Schutzmann est le commandant de la Garde de la cité, et c’est lui qui en nomme les capitaines. C’est un grand homme aux courts cheveux gris acier et âgé d’une cinquantaine d’années. Son uniforme de cérémonie se compose d’une tunique bleu foncé sous un plastron en argent ciselé et gravé, de bottes noires à hauteur de genou, d’un heaume ouvert en argent décoré d’un niellage sophistiqué et au plumet bleu foncé, et d’une épée de cérémonie dans un fourreau richement orné de pierres précieuses. Il fait preuve d’une grande solennité pendant les parades et les cérémonies officielles, et il a la réputation d’être un soldat dévoué. Sévère et inflexible, il impose une discipline de fer dans ses rangs, mais c’est aussi un bon stratège et un tacticien compétent. Schutzmann est un pieux sigmarite, et l’un des rares adeptes de Sigmar à avoir des responsabilités aussi importantes à Middenheim. Il s’efforce de ne pas mélanger religion et politique. 
+
+## **Général Johann Schwermutt**
+Johann Schwermutt a plus ou moins le même âge que Schutzmann, en un peu moins trapu. Il a les cheveux châtain clair et les yeux bruns. Ses hommes le considèrent comme un commandant facile à approcher. Son uniforme se compose d’une armure de plates cannelée et impeccablement polie, d’une cape grise en peau de loup doublée de satin rouge portée par-dessus, d’une épée de cérémonie au pommeau doré et d’un bouclier orné des armoiries de la cité. 
+
+## **Middenmarshall Maximillian Von Genscher**
+À peine entré dans la quarantaine, Maximillian von Genscher est le plus jeune des trois Middenmarshalls, et il a atteint son rang dans la société grâce à sa bonne naissance. C’est un homme imposant, grand et bien bâti. Ses soldats le surnomment « le Minotaure », mais ils se gardent bien de l’appeler ainsi en sa présence. Son courage et sa magnanimité sont légendaires, de même que sa force de caractère. Il pèse ses mots avec attention, il est vif d’esprit et c’est un interrogateur perspicace. Il se distingue par des cheveux et une barbe d’un noir profond. Une longue cicatrice pâle remonte sur sa joue gauche et sépare un sourcil en deux. 
+
+Pendant les occasions officielles, von Genscher apparaît équipé d’une armure de plates laquée en noir et aux attaches dorées, d’un heaume intégral assorti portant les armoiries de sa famille (un poing levé dans un gantelet en mailles) et d’une épée de cérémonie à deux mains dont le pommeau et la garde se terminent par trois opales de feu assorties. 
+
+Il coordonne les défenses de la cité en temps de guerre, et il commande les expéditions de l’armée de Middenheim. Il est le descendant d’une longue lignée de militaires, et sa famille possède un petit château près de Schoninghagen. Il est aussi responsable de l’organisation des défenses de la cité, et notamment de l’entretien des murs. Ces derniers sont renforcés magiquement, et von Genscher travaille donc en collaboration avec le Grand sorcier Helseher lorsque des réparations sont nécessaires. 
+
+## **La Puissance Militaire de Middenheim**
+Bien qu’elle soit cantonnée dans la cité, l’armée permanente de Middenheim est responsable de la défense de toute la région. Concrètement, elle patrouille dans les murs de la cité et sur les routes qui permettent d’y accéder. Elle se compose de plus de 700 soldats de métier et de près de 3 500 réservistes. Cette garde, qui mobilise par conscription les sujets du Graf, existe depuis l’époque du graf Siegfried l’Important. En 1555 CI, il promulgua l’édit suivant, afin de pouvoir satisfaire à ses obligations auprès de l’Empereur sans avoir à payer l’entretien d’une grande armée permanente : 
+
+_« Que tous les sujets de Middenheim soient avisés : tous les humains âgés de 16 à 50 ans sont dans l’obligation de posséder un arc long, une arbalète ou une épée. Une fois par semaine, ils devront se présenter au sergent d’armes de leur juridiction pour deux heures d’entraînement militaire. »_ 
+
+Grâce à cet édit, le Graf dispose de nombreux soldats relativement bien entraînés qui pourront être mobilisés par temps de crise. Cependant, ces conscrits ne sont normalement appelés qu’entre les mois de Sigmarzeit et Nachgeheim, quand les récoltes ont été semées, mais avant la saison de la moisson. Les troupes réquisitionnées doivent en tout état de cause être libérées pour les moissons, sous peine de manquer de vivres pour nourrir l’armée et la population. Personne n’envisagerait sérieusement de mener une campagne militaire pendant les mois d’hiver. 
+
+## **Mercenaires**
+Il serait très imprudent pour un dirigeant de ne pas maintenir un petit corps de soldats professionnels pour veiller à ce que les murs soient toujours défendus en cas d’attaque-surprise. C’est pourquoi le Graf emploie 300 mercenaires cantonnés dans différentes casernes le long des murs de la cité. Il s’agit souvent de soldats kislevites envoyés par le Tsar en remerciement des devoirs accomplis par les Chevaliers Panthères. D’autres compagnies de mercenaires se rendent parfois à la cité pour proposer d’éradiquer les hommes-bêtes dans les terres aux alentours. Le Graf leur accorde parfois des primes, dans l’idée que même si leur travail n’est pas strictement nécessaire, ces mercenaires pourraient s’avérer précieux le moment voulu. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Le Chapitre de L’ordre des Chevaliers Panthères À Middenheim**
+Les Chevaliers Panthères de Middenheim se distinguent de leurs frères d’armes dans le reste de l’Empire. Pour des raisons inconnues (et qui sont l’objet de nombreuses théories du complot), les Chevaliers Panthères de Middenheim sont devenus la garde rapprochée traditionnelle du Graf. Une chose est sûre : le chapitre de l’Ordre à Middenheim est étroitement lié à la famille Todbringer depuis les croisades de 1450 CI. Les chapitres d’autres régions n’ont pas d’obligation particulière envers les Todbringer, mais ils respectent la relation entre le Graf et les Chevaliers de Middenheim. 
+
+Les Chevaliers Panthères sont les gardes du corps du Graf, mais ce ne sont pas tous de véritables chevaliers. Cette appellation générique couvre également des écuyers et des hommes d’armes qui ont juré de servir le chapitre. Ils sont organisés autour d’un petit groupe de 30 cavaliers d’élite très entraînés, qui sont appuyés par 50 écuyers et par près de 100 hommes d’armes. 
+
+Les Chevaliers en eux-mêmes sont généralement issus de la noblesse, mais une demi-douzaine d’écuyers sont adoubés chaque année à l’issue d’un tournoi estival. Les hommes d’armes sont chargés de la plupart des tâches, ainsi que de toutes les missions ingrates telle que garder les portes du palais quelle que soit la météo, soigner les chevaux et nettoyer les armures. L’admission dans le chapitre de Middenheim est un grand honneur accordé à ceux qui ont rendu un service exceptionnel au Graf. 
+
+## Les Serments de L’ordre
+Les Chevaliers sont réputés pour le fanatisme avec lequel ils traquent les mutants. Leur code d’honneur impose quatre obligations aux chevaliers, aux écuyers et aux hommes d’armes : 
+
+- Protéger et obéir au graf Todbringer, à sa famille et à ses officiers, jusqu’à ce qu’il abdique le trône ou jusqu’à ce que la mort l’emporte. 
+
+- Servir avec dévouement ses supérieurs au sein de l’Ordre. 
+
+- Ne jamais tolérer que survive un porteur de la marque du Chaos. 
+
+- Préserver l’intégrité de l’Empire et défier ceux qui prêchent la division ou la sécession. 
+
+## **Le Chevalier Éternel**
+Le Chevalier éternel était autrefois considéré par les Middenheimers comme une fonction de la plus haute importance. Aujourd’hui, c’est essentiellement un symbole cérémoniel, et si le Chevalier éternel actuel se fait beaucoup voir, on ne sait que peu de choses à son sujet. Il s’appelle Siegfried Prunkvoll, et c’est un soldat à la carrière banale issu d’une famille aristocratique mineure. Il ne sort jamais sans son armure de plates magique qui indique sa fonction, et en dehors de la cour, peu de gens savent à quoi il ressemble. Il se rend à la cour et aux cérémonies officielles, comme l’exige son poste, mais on le croise rarement en d’autres occasions. 
+
+Prunkvoll est un homme pompeux, maniéré et profondément ennuyeux. C’est aussi un épouvantable misogyne qui traite les femmes qu’il rencontre avec paternalisme et condescendance. Il est passionné par les armoiries, la joute et l’histoire militaire. Il est étonnamment érudit dans ces domaines, comme l’apprendra à ses dépens quiconque le lance sur un de ces sujets. Siegfried croit avoir beaucoup d’influence à la cour, mais en réalité, rares sont ceux qui le respectent. 
+
+## **La Garde de la Cité**
+La Garde de la cité est responsable du maintien de l’ordre à Middenheim. Les seuls membres de la Garde dont la juridiction s’étend en dehors de la cité sont les patrouilleurs routiers. Il s’agit tout simplement de gardes à cheval qui patrouillent les routes dans toute la cité-État. 
+
+La Garde de la cité de Middenheim se compose d’environ 100 vétérans, 100 égoutiers et près de 300 gardes. En cas d’agitation civile ou d’une forte augmentation du nombre de visiteurs, près de 300 volontaires viennent compléter la Garde. 
+
+Ces volontaires sont issus des foyers de tous les contribuables de Middenheim et des alentours. Chaque foyer est dans l’obligation de proposer une personne âgée de 16 à 30 ans en bon état de santé physique pour un mois de service par an. Si cette mesure permet d’éviter tout risque de pénurie de miliciens, cela signifie également que tout le monde dans la ville a un ami ou un proche qui travaille pour la Garde. 
+
+La Garde est divisée en quatre contingents, qui sont chacun cantonnés à une des quatre portes de la ville. Toutes les patrouilles commencent et se terminent là-bas. Les patrouilles se composent généralement de cinq gardes et d’un sergent de la Garde. 
+
+Pendant les festivals, la Garde fait preuve de tolérance et accepte un certain degré de trouble public, dans la mesure du raisonnable. Les disputes animées et l’ivresse sur voie publique ne les dérangent pas vraiment, même s’ils en sont directement témoins. Ils réagissent uniquement en cas d’atteinte aux biens ou d’actes de violence graves. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## **Maintien de L’ordre Public**
+Cependant, les armes et armures représentent un sujet important à leurs yeux. S’il est convenable de déambuler dans les rues avec un couteau, une dague ou même une rapière, les armes de grande taille attirent l’attention de la Garde. Porter de telles armes n’est pas illégal en soi, mais ce n’est pas acceptable pour autant. Les gardes harcèlent systématiquement quiconque exhibe pareil équipement en public, et ils gardent souvent les individus concernés en détention après un court interrogatoire. 
+
+Le même raisonnement est appliqué pour les armures. Il est possible de porter une chemise de mailles sous un épais pourpoint, ou même un heaume et un justaucorps de cuir, mais les personnes protégées par une cotte de mailles intégrale ou une armure de plates finissent toujours par avoir des ennuis avec la Garde. 
+
+## **Les Sorciers**
+Les sorciers les plus influents de Middenheim sont Albrecht Helseher, le Grand sorcier de la Grande Guilde des Sorciers de Middenheim, et Janna Eberhauer, son acolyte. Ils sont consultés par le graf Boris et par ses autres conseillers sur les sujets pour lesquels la connaissance de la magie peut être importante, en particulier pour tout ce qui concerne la sécurité de la cité. Ces sorciers sont élus à leur poste par un conclave de leurs pairs, mais ils occupent généralement cette fonction à vie après leur élection. Les duels de magie, si impressionnants à voir et souvent si dévastateurs, qui déterminent la hiérarchie des sorciers ailleurs dans l’Empire sont considérés comme une tradition barbare et contreproductive à Middenheim. 
+
+Les sorciers sont appelés de temps en temps à assister la Garde de la cité. La nécromancie et la sorcellerie sont illégales dans la cité-État, mais l’application de cette restriction relève globalement de la responsabilité du Grand sorcier. C’est pourquoi on observe parfois des membres de la guilde qui patrouillent avec des gardes. Le Grand sorcier est régulièrement consulté par l’armée pour l’élaboration de stratégies contre des attaques potentielles. 
+
+## **Albrecht Helseher — Grand Sorcier**
+Albrecht est un seigneur sorcier âgé d’une soixantaine d’années. C’est un grand homme aux traits émaciés et à l’air austère, doté de longs cheveux sombres avec des yeux perçants d’un bleu éclatant. Helseher s’habille sans aucune vanité, ce qui pourrait être considéré comme de la négligence par certains. Il préfère les vêtements flottants de couleur noire ou bleu-gris qui lui offrent une liberté totale de mouvement. En tant que Seigneur magister de l’Ordre doré, Helseher est plus intéressé par ses recherches que par les affaires du monde ; il sort peu de ses appartements et de ses bureaux de la guilde. Il est donc rarement aperçu par les habitants de la cité, qui le considèrent comme un personnage vaguement sinistre. 
+
+## **Janna Eberhauer — Acolyte du Grand Sorcier**
+Si Janna n’a qu’une trentaine d’années, elle a déjà réussi à atteindre le rang de Maître sorcier. Grande et sculpturale, elle arbore de longues boucles de cheveux auburn, et des taches de rousseur décorent ses joues et l’arête de son nez. C’est une femme intelligente et amicale, avec un don pour mettre les gens à l’aise. Ce talent est très utile pour obtenir des informations que ses interlocuteurs n’auraient pas révélées en temps normal. Cependant, elle se garde d’exprimer trop hâtivement ses propres opinions, et elle paraît souvent incertaine dans ses avis. 
+
+Elle a une vie sociale bien plus riche que celle de Helseher, et elle apprécie tout particulièrement de passer ses soirées à la Lune Chantante. Elle entretient une belle amitié avec Eva Dietrich, la propriétaire de ce club. Janna paraît beaucoup plus jeune que son âge, et des rumeurs courent ainsi sur d’éventuels liens de parenté avec Eva. 
+
+Elle pratique la Magie céleste, mais elle rejette les tenues ostentatoires populaires auprès de son ordre, leur préférant un style classique et pragmatique. Elle ne correspond en rien à l’image que l’on se fait d’un sorcier. 
+
+## **Les Petits Rois de Middenheim**
+Middenheim n’a pas de véritable Guilde des voleurs et le culte de Ranald est pratiquement inexistant dans la cité, par crainte de s’opposer aux Petits Rois. Ces chefs de gang dirigent des réseaux criminels très organisés, et dans les quartiers les plus pauvres de Middenheim, leur influence est bien plus grande que celle du Graf. 
+
+Middenheim abrite actuellement quatre personnes qui revendiquent le titre de Petit Roi. Le plus puissant d’entre eux, qui se fait simplement appeler « l’Homme », contrôle les activités de la pègre dans tout Ostwald et une grande partie des secteurs environnants. Toutes les activités du crime organisé à Middenheim sont exécutées selon le bon vouloir d’un Petit Roi. Ils exigent une part de chaque commerce extorqué, chaque bourse dérobée et chaque chargement de contrebande. Les quelques criminels qui travaillent à leur propre compte doivent prendre des mesures draconiennes pour échapper à l’attention des Petits Rois, car le sort réservé aux criminels indépendants est souvent bien plus brutal que n’importe quelle sanction pouvant être infligée par les tribunaux de Middenheim. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr 
+
+## Se Rendre À Middenheim
+Middenheim se trouve à la croisée de deux grandes routes commerciales et accueille de nombreux visiteurs en provenance d’Altdorf, de Marienburg et de Talabheim. Ces routes sont solidement bâties, soigneusement entretenues et sécurisées par de nombreuses patrouilles. Quelques-unes des plus belles aubergesrelais de l’Empire se découvrent sur ces trajets, et les voyageurs ne sont jamais très loin d’un refuge. Cependant, les nombreuses richesses qui sont acheminées le long de ces routes attirent tout de même des bandits de grand chemin, ainsi que des bandes de mutants ou de gobelins désespérés. Malgré la protection offerte par les patrouilleurs routiers et les auberges-relais, il est conseillé aux voyageurs de se déplacer en grand groupe et de se préparer à devoir se défendre. 
+
+Voici quelques-unes des nombreuses raisons de se rendre à Middenheim : 
+
+Avant le règne de Magnus le Pieux, l’Empire était profondément divisé. Les différends religieux entre les adeptes d’Ulric et de Sigmar ont contribué à ces troubles civils. Au sein de ces deux cultes, certaines personnes veillent à ce que de telles tensions ne puissent plus jamais perturber l’Empire, tandis que d’autres rêvent d’une reprise des hostilités. Ainsi, un commanditaire sigmarite pourrait demander à des aventuriers de promouvoir l’harmonie entre les deux cultes dans la cité d’Ulric, tandis qu’un autre les recruterait pour exacerber les tensions entre les deux religions. 
+
+Les répurgateurs sigmarites ne sont pas les bienvenus à Middenheim. Les membres de l’Ordre du Marteau d’argent peuvent entrer dans la cité, mais ils recevront toujours un accueil glacial, et les habitants de la ville sont souvent hostiles à leur égard. Les répurgateurs soupçonnent Middenheim d’abriter de nombreux sorciers dissidents, mais ils n’ont jamais réussi à en rassembler des preuves. Un répurgateur pourrait ainsi solliciter des aventuriers pour enquêter dans la cité, voire leur demander de l’accompagner sur place. 
+
+- Les elfes de la Laurelorn et les nains des Montagnes du Bord du Monde considèrent eux aussi Middenheim comme un champ de bataille politique. La reine de la Laurelorn tient à s’assurer que le peuple du Nordland ne vienne pas s’impliquer dans les affaires des elfes, tandis que le roi des nains a pour ambition de libérer les Monts du Milieu des griffes des orcs et des gobelins. Consultez **Archives de l’Empire Volume I** pour plus d’informations sur les habitants de la Laurelorn et leur reine. 
+
+- Les Petits Rois offrent de nombreuses opportunités d’emploi aux voleurs et aux rançonneurs, à condition d’atteindre les quotas exigés. Un Personnage criminel qui souhaite travailler pour un Petit Roi peut bénéficier de la protection et des opportunités d’entraînement proposées par quelques-uns des réseaux criminels les mieux organisés dans le Vieux Monde. 
+
+- Les nécromanciens connaissent l’histoire de la chose liche Babrakkos, qui hantait autrefois les terres autour de Middenheim. Des icônes et des artefacts associés au culte de Babrakkos ont commencé à apparaître entre les mains de personnes ne réalisant pas leur terrible pouvoir. Certains experts des morts-vivants craignent le retour de cette infâme créature. 
+
+- Quoi de mieux pour passer du bon temps que le célèbre Carnaval de Middenheim ? (Surtout si les rumeurs concernant les Todbringer s’avèrent exactes.) Même les aventuriers les plus endurcis apprécieront de se plonger dans l’ambiance avec certains des plus beaux spectacles en extérieur de l’Empire, tandis que les Personnages plus pragmatiques pourront essayer de se faire une réputation en affrontant des minotaures ou bien en participant à un tournoi de tir à l’arc. 
+
+Les provinces du Nordland et du Middenland ont une histoire longue et compliquée avec Middenheim. On trouve ainsi dans les deux provinces des nobles qui aimeraient renforcer les liens entre leur domaine et la cité-État, ou bien au contraire légitimer leur volonté d’indépendance. Ils sont toujours à la recherche d’agents pour espionner les dirigeants de Middenheim, déceler leurs intentions et rassembler des informations pertinentes. 
+
+Deux grands ordres de chevaliers possèdent d’importantes bases d’opérations dans la cité : les Loups Blancs, au Grand Temple d’Ulric, et les Chevaliers Panthères. Ces ordres sont toujours à la recherche de nouveaux membres pour remplacer les chevaliers tombés pendant les campagnes menées contre les gobelins et les hommes-bêtes de la Drakwald. Un Personnage noble ou un adepte d’Ulric sachant manier l’épée pourrait être invité à rejoindre leurs rangs. 
+
+Ludovic Paulet - ludovicmad@wanadoo.fr

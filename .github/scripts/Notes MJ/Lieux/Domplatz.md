@@ -1,7 +1,7 @@
 ---
 carte:
   map: altdorf
-  kind: lieu
+  kind: quartier
   type: religieux
   importance: Notable
   section: sud

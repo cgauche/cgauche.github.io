@@ -1,7 +1,7 @@
 ---
 carte:
   map: altdorf
-  kind: lieu
+  kind: quartier
   type: gouvernement
   importance: Notable
   section: nord

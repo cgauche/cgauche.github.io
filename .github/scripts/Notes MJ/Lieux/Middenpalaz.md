@@ -1,3 +1,16 @@
+---
+carte:
+  map: middenheim
+  kind: lieu
+  type: noble
+  importance: Notable
+  section: centre
+  quartier: Palast
+  x: 713.2
+  y: 163.5
+  desc: "Résidence permanente de la famille Todbringer et siège du Graf, ce palais colossal à colonnes de marbre domine le secteur Palast ; ses sous-sols abritent trésorerie, hôtel des monnaies et mausolée dynastique."
+---
+
 # Middenpalaz
 
 **Sous-titre** : Palais ancestral des Todbringer au sommet du Fauschlag, siège du Grand Duché de Middenheim  
