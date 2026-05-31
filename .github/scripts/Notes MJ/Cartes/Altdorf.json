@@ -53,7 +53,198 @@
       "label": "Autre"
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "a": "Dampfplatz",
+      "b": "Metallschlacke",
+      "bridge": false
+    },
+    {
+      "a": "Dampfplatz",
+      "b": "Schlecht Laden",
+      "bridge": false
+    },
+    {
+      "a": "Domplatz",
+      "b": "Flottenliegeplatz",
+      "bridge": false
+    },
+    {
+      "a": "Domplatz",
+      "b": "Fundgrube",
+      "bridge": false
+    },
+    {
+      "a": "Domplatz",
+      "b": "Großgrundbesitz",
+      "bridge": false
+    },
+    {
+      "a": "Domplatz",
+      "b": "Südküste",
+      "bridge": false
+    },
+    {
+      "a": "Domplatz",
+      "b": "Zoogarten",
+      "bridge": false
+    },
+    {
+      "a": "Domplatz",
+      "b": "Zwillingsgrab",
+      "bridge": false
+    },
+    {
+      "a": "Fischemarkt",
+      "b": "Neuesgeldt",
+      "bridge": false
+    },
+    {
+      "a": "Fischemarkt",
+      "b": "Schulergegend",
+      "bridge": false
+    },
+    {
+      "a": "Fischemarkt",
+      "b": "Toteninsel",
+      "bridge": false
+    },
+    {
+      "a": "Fischemarkt",
+      "b": "Wolftor",
+      "bridge": false
+    },
+    {
+      "a": "Fleischmarkt",
+      "b": "Metallschlacke",
+      "bridge": false
+    },
+    {
+      "a": "Fleischmarkt",
+      "b": "Schlecht Laden",
+      "bridge": false
+    },
+    {
+      "a": "Fleischmarkt",
+      "b": "Sudwand",
+      "bridge": false
+    },
+    {
+      "a": "Flottenliegeplatz",
+      "b": "Karnevalsplatz",
+      "bridge": false
+    },
+    {
+      "a": "Friedhofkreuzung",
+      "b": "Karnevalsplatz",
+      "bridge": false
+    },
+    {
+      "a": "Friedhofkreuzung",
+      "b": "Mauerblümchen",
+      "bridge": false
+    },
+    {
+      "a": "Fundgrube",
+      "b": "Hammerpfad",
+      "bridge": false
+    },
+    {
+      "a": "Fundgrube",
+      "b": "Karnevalsplatz",
+      "bridge": false
+    },
+    {
+      "a": "Fundgrube",
+      "b": "Zoogarten",
+      "bridge": false
+    },
+    {
+      "a": "Grandmarkt",
+      "b": "Neuesgeldt",
+      "bridge": false
+    },
+    {
+      "a": "Grandmarkt",
+      "b": "Toteninsel",
+      "bridge": false
+    },
+    {
+      "a": "Großgrundbesitz",
+      "b": "Krankenfeld",
+      "bridge": false
+    },
+    {
+      "a": "Großgrundbesitz",
+      "b": "Südküste",
+      "bridge": false
+    },
+    {
+      "a": "Großgrundbesitz",
+      "b": "Zwillingsgrab",
+      "bridge": false
+    },
+    {
+      "a": "Großvaters Zuhause",
+      "b": "Schulergegend",
+      "bridge": false
+    },
+    {
+      "a": "Hammerpfad",
+      "b": "Mauerblümchen",
+      "bridge": false
+    },
+    {
+      "a": "Hexxerbezrik",
+      "b": "Schulergegend",
+      "bridge": false
+    },
+    {
+      "a": "Karnevalsplatz",
+      "b": "Mauerblümchen",
+      "bridge": false
+    },
+    {
+      "a": "Krankenfeld",
+      "b": "Ogasse",
+      "bridge": false
+    },
+    {
+      "a": "Krankenfeld",
+      "b": "Zwillingsgrab",
+      "bridge": false
+    },
+    {
+      "a": "Neuesgeldt",
+      "b": "Wolftor",
+      "bridge": false
+    },
+    {
+      "a": "Quartier des Quais",
+      "b": "Reikerbahn",
+      "bridge": false
+    },
+    {
+      "a": "Reikerbahn",
+      "b": "Schlecht Laden",
+      "bridge": false
+    },
+    {
+      "a": "Zoogarten",
+      "b": "Zwillingsgrab",
+      "bridge": false
+    },
+    {
+      "a": "Flottenliegeplatz",
+      "b": "Großvaters Zuhause",
+      "bridge": true
+    },
+    {
+      "a": "Quartier des Quais",
+      "b": "Fischemarkt",
+      "bridge": true
+    }
+  ],
   "legend": [
     {
       "n": 1,
@@ -391,5 +582,79 @@
         }
       ]
     }
-  }
+  },
+  "cityPolygon": [
+    [
+      335,
+      150
+    ],
+    [
+      470,
+      115
+    ],
+    [
+      625,
+      110
+    ],
+    [
+      700,
+      140
+    ],
+    [
+      815,
+      115
+    ],
+    [
+      935,
+      165
+    ],
+    [
+      1015,
+      255
+    ],
+    [
+      1048,
+      360
+    ],
+    [
+      1028,
+      470
+    ],
+    [
+      975,
+      548
+    ],
+    [
+      885,
+      640
+    ],
+    [
+      710,
+      685
+    ],
+    [
+      520,
+      675
+    ],
+    [
+      372,
+      628
+    ],
+    [
+      272,
+      512
+    ],
+    [
+      225,
+      372
+    ],
+    [
+      243,
+      243
+    ],
+    [
+      298,
+      175
+    ]
+  ]
 }
