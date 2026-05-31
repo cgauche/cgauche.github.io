@@ -42,6 +42,10 @@
 
 .carte-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.4rem;
   margin: 0 0 0.8rem; }
+.carte-live { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.5rem;
+  margin: 0 0 0.8rem; padding: 0.4rem 0.6rem; border: 1px solid var(--gold);
+  border-radius: 8px; background: var(--parchment); }
+.carte-live .carte-live-hour-field select { min-width: 12rem; }
 .carte-filter-lbl { font-family: var(--serif-display); font-size: 0.74rem;
   text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
   margin: 0 0.2rem 0 0.6rem; }
