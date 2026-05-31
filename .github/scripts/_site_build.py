@@ -5032,6 +5032,9 @@ CARTE_CSS = """\
 .carte-poi[data-type="crime"]       .carte-poi-dot { fill: #2f2a27; }
 .carte-poi[data-type="mort"]        .carte-poi-dot { fill: #61716a; }
 .carte-poi[data-type="autre"]       .carte-poi-dot { fill: #9a8f7a; }
+/* per-type icon glyph drawn over the coloured pill (white + ink halo) */
+.carte-poi-glyph { fill: #fbf7ec; stroke: rgba(28,18,10,0.9); stroke-linejoin: round;
+  paint-order: stroke; pointer-events: none; }
 .carte-poi-label { font-family: var(--serif-body); fill: var(--ink);
   paint-order: stroke; stroke: var(--paper-hi); stroke-linejoin: round;
   pointer-events: none; opacity: 0; transition: opacity 0.1s; }
@@ -5223,22 +5226,36 @@ CARTE_JS = """\
     gLegend.appendChild(r);
   });
 
+  // per-type icon glyphs (centred at origin in a ±6 box, scaled with zoom)
+  var TYPE_GLYPH = {
+    religieux:    'M-1.3,-6 H1.3 V-2 H5 V0.6 H1.3 V6 H-1.3 V0.6 H-5 V-2 H-1.3 Z',
+    magie:        'M0,-6 L1.5,-1.6 L6,-1.6 L2.4,1.2 L3.8,5.6 L0,2.9 L-3.8,5.6 L-2.4,1.2 L-6,-1.6 L-1.5,-1.6 Z',
+    gouvernement: 'M-5,-4 H5 V-2 H-5 Z M-3.4,-2 H-1.7 V3 H-3.4 Z M-0.85,-2 H0.85 V3 H-0.85 Z M1.7,-2 H3.4 V3 H1.7 Z M-5,3 H5 V5 H-5 Z',
+    militaire:    'M0,-6 L5,-3.5 V0.5 Q5,4.6 0,6 Q-5,4.6 -5,0.5 V-3.5 Z',
+    noble:        'M-6,4 V-3 L-2.5,0.6 L0,-4.6 L2.5,0.6 L6,-3 V4 Z',
+    commerce:     'M0,-6 L5.6,0 L0,6 L-5.6,0 Z',
+    taverne:      'M-4.6,-4 H2 V5 H-4.6 Z M2,-2 Q5.6,-2 5.6,1 Q5.6,4 2,4 V2.2 Q3.3,2.2 3.3,1 Q3.3,-0.2 2,-0.2 Z',
+    crime:        'M0,6 L-2.3,-1 H2.3 Z M-4,-1 H4 V-2.5 H-4 Z M-1,-5.6 H1 V-2.5 H-1 Z',
+    mort:         'M-4,6 V-1.6 Q-4,-6 0,-6 Q4,-6 4,-1.6 V6 Z',
+    autre:        'M0,-3.3 A3.3,3.3 0 1,0 0.01,-3.3 Z'
+  };
   // POI markers
-  var dots = [], labels = [], hits = [];
+  var dots = [], labels = [], hits = [], glyphs = [];
   M.pois.forEach(function (p) {
     var g = el('g', { 'class': 'carte-poi', 'data-id': p.id, 'data-type': p.type || 'autre', tabindex: 0 });
     var hit = el('circle', { cx: p.x, cy: p.y, r: 14, fill: 'transparent', 'class': 'carte-poi-hit' });
     var dot = el('circle', { cx: p.x, cy: p.y, r: 6, 'class': 'carte-poi-dot' });
+    var gl = el('path', { d: TYPE_GLYPH[p.type] || TYPE_GLYPH.autre, 'class': 'carte-poi-glyph' });
     var lab = el('text', { x: p.x + 9, y: p.y - 8, 'class': 'carte-poi-label' });
     lab.textContent = p.name;
-    g.appendChild(hit); g.appendChild(dot); g.appendChild(lab);
+    g.appendChild(hit); g.appendChild(dot); g.appendChild(gl); g.appendChild(lab);
     g.addEventListener('click', function () {
       if (routeMode) { route.push(p.id); drawRoute(); } else selectPoi(p.id); });
     g.addEventListener('keydown', function (ev) {
       if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault();
         if (routeMode) { route.push(p.id); drawRoute(); } else selectPoi(p.id); } });
     gPois.appendChild(g);
-    poiNodes[p.id] = g; dots.push(dot); labels.push(lab); hits.push(hit);
+    poiNodes[p.id] = g; dots.push(dot); labels.push(lab); hits.push(hit); glyphs.push(gl);
   });
 
   // keep markers at constant screen size as we zoom (r,font scale with viewBox)
@@ -5251,6 +5268,9 @@ CARTE_JS = """\
       labels[i].setAttribute('x', (poiById[M.pois[i].id].x + 9 * r).toFixed(2));
       labels[i].setAttribute('y', (poiById[M.pois[i].id].y - 8 * r).toFixed(2));
       labels[i].setAttribute('stroke-width', (3 * r).toFixed(2));
+      var gp = poiById[M.pois[i].id];
+      glyphs[i].setAttribute('transform', 'translate(' + gp.x + ',' + gp.y + ') scale(' + (r * 0.8).toFixed(3) + ')');
+      glyphs[i].setAttribute('stroke-width', '1.1');
     }
     for (var j = 0; j < distLabels.length; j++)
       distLabels[j].setAttribute('font-size', (15 * r).toFixed(2));
