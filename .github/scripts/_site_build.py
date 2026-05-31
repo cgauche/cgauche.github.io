@@ -5023,6 +5023,17 @@ CARTE_CSS = """\
 #carte-svg.hide-zones .carte-zone:hover { opacity: 0.18; }
 .carte-river-band { fill: #6f93a6; opacity: 0.55; pointer-events: none; }
 #carte-svg.hide-zones .carte-river-band { opacity: 0; }
+.carte-seclegend { display: flex; flex-wrap: wrap; align-items: center; gap: 0.35rem;
+  margin: 0.15rem 0 0.35rem; }
+.carte-seclegend-lbl { font-size: 0.8rem; opacity: 0.7; margin-right: 0.15rem; }
+.carte-seclegend-chip { display: inline-flex; align-items: center; gap: 0.35rem;
+  cursor: pointer; border: 1px solid rgba(163,122,46,0.45); border-radius: 0.5rem;
+  padding: 0.12rem 0.55rem; font-size: 0.84rem; background: rgba(255,255,255,0.04);
+  color: inherit; font-family: inherit; }
+.carte-seclegend-chip:hover { background: rgba(163,122,46,0.22); }
+.carte-seclegend-sw { width: 13px; height: 13px; border-radius: 3px;
+  border: 1px solid rgba(0,0,0,0.35); display: inline-block; }
+.carte-zone.sec-flash { stroke: #fff; stroke-width: 2.5; }
 .carte-legend-zone { opacity: 0.30; cursor: pointer; transition: opacity 0.12s; }
 .carte-legend-zone:hover { opacity: 0.5; }
 #carte-svg.hide-zones .carte-legend-zone { opacity: 0; }
@@ -5734,6 +5745,31 @@ CARTE_JS = """\
     });
   }
   if (zoneModeSel) zoneModeSel.addEventListener('change', applyZoneMode);
+  // ---- clickable section legend (influence zones → their fiche via showSection) ----
+  var secLegend = document.getElementById('carte-section-legend');
+  if (secLegend && (M.sections || []).length) {
+    var lbl = document.createElement('span');
+    lbl.className = 'carte-seclegend-lbl'; lbl.textContent = 'Secteurs :';
+    secLegend.appendChild(lbl);
+    M.sections.forEach(function (s) {
+      var chip = document.createElement('button');
+      chip.type = 'button'; chip.className = 'carte-seclegend-chip';
+      chip.setAttribute('data-section', s.key);
+      var sw = document.createElement('span');
+      sw.className = 'carte-seclegend-sw';
+      sw.style.background = SECTION_COLOR[s.key] || '#8a7a5a';
+      chip.appendChild(sw);
+      chip.appendChild(document.createTextNode(s.label));
+      chip.addEventListener('click', function () {
+        showSection(s.key);
+        gZones.querySelectorAll('.carte-zone').forEach(function (z) {
+          z.classList.toggle('sec-flash', z.getAttribute('data-section') === s.key);
+        });
+      });
+      secLegend.appendChild(chip);
+    });
+    secLegend.hidden = false;
+  }
   var resetBtn = document.getElementById('carte-reset');
   if (resetBtn) resetBtn.addEventListener('click', function () {
     view = { x: 0, y: 0, w: W0, h: H0 }; applyView();
@@ -5943,6 +5979,7 @@ def render_carte_pages(pages: list[Page], buckets: dict[int, ArcBucket],
     <a id="carte-hub-link" class="carte-hub-link" hidden href="#">Hub du scénario →</a>
   </div>
   <div class="carte-filters" id="carte-filters"></div>
+  <div class="carte-seclegend" id="carte-section-legend" hidden></div>
   <div class="carte-live" id="carte-live" hidden>
     <span class="carte-filter-lbl">Écran live</span>
     <label class="carte-field carte-live-hour-field">Heure

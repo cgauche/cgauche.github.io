@@ -5,9 +5,9 @@ carte:
   type: taverne
   importance: Notable
   section: libre
-  quartier: Grafsmund
-  x: 607.7
-  y: 199.9
+  quartier: Nordgarten
+  x: 600
+  y: 240
   desc: "Auberge haut de gamme tenue par Rolf et Ulrike Steinmeyer, réputée pour son atmosphère distinguée et sa clientèle aristocratique."
 ---
 

@@ -11,7 +11,7 @@ carte:
   desc: "Entrepôt à l'air banal de la Venelle dont les bureaux, gérés par Theodor Gluckstein, servent de couverture à une cellule du culte de la Main Pourpre ; des chariots de contrebande et de traite d'esclaves y transitent régulièrement."
 ---
 
-# Windbund Transports & Cie
+# Windhund Transports & Cie
 
 > Commerce — quartier **La Venelle**, Middenheim. Lieu n°13 de la carte canon.
 
