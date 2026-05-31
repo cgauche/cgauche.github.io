@@ -1,0 +1,39 @@
+{
+  "pdf": "Source/Boîte d'Initiation WFRP 4e Edition VF.pdf",
+  "scale": 2,
+  "poster": { "page": 71, "scale": 3.0 },
+  "quarters_page": 71,
+  "boundary": { "method": "none" },
+  "water": { "close": 25, "min_area": 1000, "dilate": 9 },
+  "sections": {
+    "book_dir": "Source/WH4_FR_BI_Livre_Ubersreik/",
+    "chapters": {
+      "nord": "03 - Guide du visiteur",
+      "quais": "03 - Guide du visiteur",
+      "sud": "03 - Guide du visiteur"
+    }
+  },
+  "section_fallback": {
+    "rochenoire": ["Roche Noire", "nord"],
+    "bastion": ["Le Bastion", "nord"],
+    "artisans": ["Quartier des Artisans", "nord"],
+    "teubrucke": ["Teubrücke", "quais"],
+    "dawihafen": ["Dawihafen", "sud"],
+    "marktplatz": ["Marktplatz", "sud"],
+    "marchands": ["Quartier des Marchands", "sud"],
+    "morgenseite": ["Morgenseite", "sud"]
+  },
+  "seeds": {
+    "rochenoire": [238, 198],
+    "bastion": [350, 175],
+    "artisans": [478, 198],
+    "teubrucke": [298, 272],
+    "dawihafen": [250, 382],
+    "marktplatz": [352, 378],
+    "marchands": [455, 370],
+    "morgenseite": [522, 360]
+  },
+  "bridges": [
+    [348, 308]
+  ]
+}

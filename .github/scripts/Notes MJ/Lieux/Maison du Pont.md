@@ -1,3 +1,16 @@
+---
+carte:
+  map: ubersreik
+  kind: lieu
+  type: taverne
+  importance: Notable
+  section: nord
+  quartier: Quartier des Artisans
+  x: 377
+  y: 262
+  desc: "Auberge cossue au centre d'Ubersreik, près du pont nain, prisée des riches marchands et voyageurs ; grandes écuries, remise à diligences, bureau de poste. Relais des compagnies Boulet de Canon Express, Quatre Saisons et Express Impérial."
+---
+
 # Maison du Pont
 
 ## Identité

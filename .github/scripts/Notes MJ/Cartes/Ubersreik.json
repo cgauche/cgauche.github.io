@@ -1,0 +1,606 @@
+{
+  "id": "ubersreik",
+  "title": "Ubersreik",
+  "fiche": "Ubersreik",
+  "viewBox": "0 0 793.7 609.4",
+  "poster": "ubersreik-poster.jpg",
+  "posterOpacity": 0.55,
+  "intro": "Carte canon d'Ubersreik (Gamemaster Map, Boîte d'Initiation WFRP 4e). Ville-carrefour du Reikland sur la Teufel, occupée par Altdorf depuis le putsch contre les Jungfreud. Théâtre de l'Arc 3 de la campagne (S13-S21). Molette pour zoomer, glisser pour déplacer. Clique un lieu pour sa fiche ; bascule la coloration par secteur (rives) ou par quartier.",
+  "scenarios": [],
+  "types": [
+    {
+      "key": "religieux",
+      "label": "Religieux"
+    },
+    {
+      "key": "magie",
+      "label": "Magie"
+    },
+    {
+      "key": "gouvernement",
+      "label": "Gouvernement / Civique"
+    },
+    {
+      "key": "militaire",
+      "label": "Militaire / Ordres"
+    },
+    {
+      "key": "noble",
+      "label": "Noble / Résidence"
+    },
+    {
+      "key": "commerce",
+      "label": "Commerce / Guilde"
+    },
+    {
+      "key": "taverne",
+      "label": "Taverne / Auberge"
+    },
+    {
+      "key": "crime",
+      "label": "Crime / Quais"
+    },
+    {
+      "key": "mort",
+      "label": "Mort / Cimetière"
+    },
+    {
+      "key": "autre",
+      "label": "Autre"
+    }
+  ],
+  "edges": [
+    {
+      "a": "Quartier des Artisans",
+      "b": "Teubrücke",
+      "bridge": false
+    },
+    {
+      "a": "Le Bastion",
+      "b": "Quartier des Artisans",
+      "bridge": false
+    },
+    {
+      "a": "Le Bastion",
+      "b": "Teubrücke",
+      "bridge": false
+    },
+    {
+      "a": "Dawihafen",
+      "b": "Marktplatz",
+      "bridge": false
+    },
+    {
+      "a": "Quartier des Marchands",
+      "b": "Morgenseite",
+      "bridge": false
+    },
+    {
+      "a": "Marktplatz",
+      "b": "Quartier des Marchands",
+      "bridge": false
+    },
+    {
+      "a": "Roche Noire",
+      "b": "Le Bastion",
+      "bridge": false
+    },
+    {
+      "a": "Roche Noire",
+      "b": "Teubrücke",
+      "bridge": false
+    },
+    {
+      "a": "Teubrücke",
+      "b": "Marktplatz",
+      "bridge": true,
+      "via": [
+        348,
+        308
+      ]
+    }
+  ],
+  "legend": [],
+  "legendSections": [],
+  "scenarioOverlay": {},
+  "cityPolygon": [
+    [
+      355,
+      108
+    ],
+    [
+      410,
+      110
+    ],
+    [
+      470,
+      122
+    ],
+    [
+      540,
+      160
+    ],
+    [
+      580,
+      195
+    ],
+    [
+      603,
+      228
+    ],
+    [
+      613,
+      265
+    ],
+    [
+      605,
+      305
+    ],
+    [
+      588,
+      345
+    ],
+    [
+      558,
+      385
+    ],
+    [
+      522,
+      425
+    ],
+    [
+      468,
+      460
+    ],
+    [
+      410,
+      476
+    ],
+    [
+      352,
+      483
+    ],
+    [
+      292,
+      476
+    ],
+    [
+      238,
+      456
+    ],
+    [
+      190,
+      428
+    ],
+    [
+      158,
+      393
+    ],
+    [
+      140,
+      348
+    ],
+    [
+      135,
+      305
+    ],
+    [
+      142,
+      262
+    ],
+    [
+      165,
+      217
+    ],
+    [
+      202,
+      176
+    ],
+    [
+      248,
+      142
+    ],
+    [
+      300,
+      118
+    ]
+  ],
+  "rivers": [
+    [
+      [
+        135.0,
+        303.5
+      ],
+      [
+        139.0,
+        339.5
+      ],
+      [
+        271.0,
+        333.0
+      ],
+      [
+        372.5,
+        333.0
+      ],
+      [
+        438.5,
+        335.0
+      ],
+      [
+        588.5,
+        344.0
+      ],
+      [
+        603.5,
+        309.0
+      ],
+      [
+        435.0,
+        292.0
+      ],
+      [
+        372.5,
+        290.0
+      ],
+      [
+        273.5,
+        292.0
+      ],
+      [
+        196.5,
+        298.0
+      ],
+      [
+        136.0,
+        299.5
+      ]
+    ]
+  ],
+  "quarterPolygons": [
+    {
+      "name": "Roche Noire",
+      "section": "nord",
+      "cx": 238,
+      "cy": 198,
+      "poly": [
+        [
+          279.5,
+          128.0
+        ],
+        [
+          247.0,
+          142.5
+        ],
+        [
+          202.5,
+          175.5
+        ],
+        [
+          165.0,
+          217.0
+        ],
+        [
+          142.5,
+          261.5
+        ],
+        [
+          137.5,
+          297.5
+        ],
+        [
+          200.5,
+          295.0
+        ],
+        [
+          260.0,
+          235.5
+        ],
+        [
+          276.0,
+          233.5
+        ],
+        [
+          294.0,
+          215.5
+        ],
+        [
+          294.0,
+          143.5
+        ]
+      ]
+    },
+    {
+      "name": "Le Bastion",
+      "section": "nord",
+      "cx": 350,
+      "cy": 175,
+      "poly": [
+        [
+          280.5,
+          127.0
+        ],
+        [
+          294.5,
+          143.5
+        ],
+        [
+          294.5,
+          216.0
+        ],
+        [
+          303.5,
+          223.5
+        ],
+        [
+          347.5,
+          224.0
+        ],
+        [
+          388.0,
+          264.5
+        ],
+        [
+          414.0,
+          237.5
+        ],
+        [
+          414.0,
+          135.5
+        ],
+        [
+          432.5,
+          115.0
+        ],
+        [
+          412.0,
+          110.5
+        ],
+        [
+          353.0,
+          108.5
+        ],
+        [
+          298.5,
+          118.5
+        ]
+      ]
+    },
+    {
+      "name": "Quartier des Artisans",
+      "section": "nord",
+      "cx": 478,
+      "cy": 198,
+      "poly": [
+        [
+          433.0,
+          115.0
+        ],
+        [
+          415.0,
+          133.5
+        ],
+        [
+          414.5,
+          237.5
+        ],
+        [
+          389.0,
+          264.0
+        ],
+        [
+          389.0,
+          287.5
+        ],
+        [
+          604.0,
+          307.0
+        ],
+        [
+          613.5,
+          265.0
+        ],
+        [
+          604.0,
+          229.5
+        ],
+        [
+          581.0,
+          196.0
+        ],
+        [
+          539.5,
+          159.5
+        ],
+        [
+          471.0,
+          122.5
+        ]
+      ]
+    },
+    {
+      "name": "Teubrücke",
+      "section": "quais",
+      "cx": 298,
+      "cy": 272,
+      "poly": [
+        [
+          388.5,
+          265.5
+        ],
+        [
+          347.5,
+          224.5
+        ],
+        [
+          303.5,
+          224.0
+        ],
+        [
+          293.5,
+          216.5
+        ],
+        [
+          276.0,
+          234.0
+        ],
+        [
+          260.0,
+          236.0
+        ],
+        [
+          201.5,
+          295.0
+        ],
+        [
+          286.5,
+          289.5
+        ],
+        [
+          387.5,
+          288.5
+        ]
+      ]
+    },
+    {
+      "name": "Dawihafen",
+      "section": "sud",
+      "cx": 250,
+      "cy": 382,
+      "poly": [
+        [
+          140.0,
+          342.5
+        ],
+        [
+          158.5,
+          393.5
+        ],
+        [
+          190.5,
+          428.5
+        ],
+        [
+          240.0,
+          457.0
+        ],
+        [
+          291.0,
+          476.0
+        ],
+        [
+          354.0,
+          483.0
+        ],
+        [
+          301.5,
+          429.5
+        ],
+        [
+          301.0,
+          336.0
+        ]
+      ]
+    },
+    {
+      "name": "Marktplatz",
+      "section": "sud",
+      "cx": 352,
+      "cy": 378,
+      "poly": [
+        [
+          301.5,
+          336.0
+        ],
+        [
+          302.0,
+          429.5
+        ],
+        [
+          354.5,
+          482.5
+        ],
+        [
+          409.5,
+          476.5
+        ],
+        [
+          447.0,
+          466.0
+        ],
+        [
+          404.0,
+          422.0
+        ],
+        [
+          403.5,
+          337.0
+        ]
+      ]
+    },
+    {
+      "name": "Quartier des Marchands",
+      "section": "sud",
+      "cx": 455,
+      "cy": 370,
+      "poly": [
+        [
+          404.0,
+          337.0
+        ],
+        [
+          404.5,
+          422.0
+        ],
+        [
+          447.5,
+          465.5
+        ],
+        [
+          469.0,
+          459.5
+        ],
+        [
+          520.5,
+          426.0
+        ],
+        [
+          489.0,
+          394.0
+        ],
+        [
+          488.5,
+          341.0
+        ]
+      ]
+    },
+    {
+      "name": "Morgenseite",
+      "section": "sud",
+      "cx": 522,
+      "cy": 360,
+      "poly": [
+        [
+          489.5,
+          394.0
+        ],
+        [
+          521.5,
+          425.5
+        ],
+        [
+          559.0,
+          384.0
+        ],
+        [
+          586.5,
+          347.0
+        ],
+        [
+          489.0,
+          341.0
+        ]
+      ]
+    }
+  ]
+}

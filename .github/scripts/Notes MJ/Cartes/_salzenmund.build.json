@@ -1,0 +1,181 @@
+{
+  "image": "Notes MJ/Cartes/salzenmund-poster.jpg",
+  "scale": 2,
+  "boundary": {
+    "method": "none"
+  },
+  "water": {
+    "close": 15,
+    "min_area": 1000,
+    "dilate": 13,
+    "edge_water_max_run": 6
+  },
+  "sections": {
+    "book_dir": "Source/Salzenmund - City Of Salt & Silver/",
+    "chapters": {
+      "zinnentor": "06 - The Zinnentor",
+      "ulricshohe": "07 - Ulricshohe",
+      "gnistreberg": "08 - Gnistreberg",
+      "walcheberg": "09 - Walcheberg",
+      "seeufer": "10 - Seeufer"
+    }
+  },
+  "seeds": {
+    "CastleSalzenmund": [
+      510,
+      180
+    ],
+    "Moltkeplatz": [
+      700,
+      250
+    ],
+    "Entwasserung": [
+      620,
+      330
+    ],
+    "Heulen": [
+      490,
+      350
+    ],
+    "Schmutzmarkt": [
+      560,
+      430
+    ],
+    "TempleWard": [
+      955,
+      165
+    ],
+    "Holzermarkt": [
+      875,
+      290
+    ],
+    "Wolfsmatze": [
+      905,
+      95
+    ],
+    "Totenschutz": [
+      985,
+      280
+    ],
+    "Osthafen": [
+      1040,
+      370
+    ],
+    "Reichsweg": [
+      1030,
+      250
+    ],
+    "Blaumantel": [
+      540,
+      560
+    ],
+    "Magnusschild": [
+      640,
+      560
+    ],
+    "Addasheim": [
+      760,
+      600
+    ],
+    "Steinhafen": [
+      770,
+      515
+    ],
+    "LakeGate": [
+      1085,
+      460
+    ],
+    "Wagonzaun": [
+      1050,
+      510
+    ],
+    "Ruins": [
+      1010,
+      490
+    ]
+  },
+  "section_fallback": {
+    "CastleSalzenmund": [
+      "Castle Salzenmund",
+      "zinnentor"
+    ],
+    "Moltkeplatz": [
+      "Moltkeplatz",
+      "zinnentor"
+    ],
+    "Entwasserung": [
+      "Entwässerung",
+      "zinnentor"
+    ],
+    "Heulen": [
+      "Heulen",
+      "zinnentor"
+    ],
+    "Schmutzmarkt": [
+      "Schmutzmarkt",
+      "zinnentor"
+    ],
+    "TempleWard": [
+      "The Temple Ward",
+      "ulricshohe"
+    ],
+    "Holzermarkt": [
+      "Holzermarkt",
+      "ulricshohe"
+    ],
+    "Wolfsmatze": [
+      "Wolfsmätze",
+      "ulricshohe"
+    ],
+    "Totenschutz": [
+      "Totenschutz",
+      "gnistreberg"
+    ],
+    "Osthafen": [
+      "Osthafen",
+      "gnistreberg"
+    ],
+    "Reichsweg": [
+      "Reichsweg",
+      "gnistreberg"
+    ],
+    "Blaumantel": [
+      "Blaumantel",
+      "walcheberg"
+    ],
+    "Magnusschild": [
+      "Magnusschild",
+      "walcheberg"
+    ],
+    "Addasheim": [
+      "Addasheim",
+      "walcheberg"
+    ],
+    "Steinhafen": [
+      "Steinhafen",
+      "walcheberg"
+    ],
+    "LakeGate": [
+      "The Lake Gate",
+      "seeufer"
+    ],
+    "Wagonzaun": [
+      "The Wagonzaun",
+      "seeufer"
+    ],
+    "Ruins": [
+      "The Ruins",
+      "seeufer"
+    ]
+  },
+  "bridges": [
+    [
+      760,
+      280
+    ],
+    [
+      700,
+      532
+    ]
+  ]
+}
