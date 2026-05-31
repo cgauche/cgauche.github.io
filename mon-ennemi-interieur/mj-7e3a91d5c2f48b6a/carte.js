@@ -197,6 +197,30 @@
     }
     for (var j = 0; j < distLabels.length; j++)
       distLabels[j].setAttribute('font-size', (15 * r).toFixed(2));
+    declutter();
+  }
+
+  // Greedy label declutter: show names in priority order (Notable first),
+  // hiding any whose box overlaps one already shown. Recomputed on zoom, so
+  // more names surface as you zoom in. Only runs when "Noms" is active.
+  var poiOrder = M.pois.slice().sort(function (a, b) {
+    return ((a.importance === 'Mineur') ? 1 : 0) - ((b.importance === 'Mineur') ? 1 : 0);
+  });
+  function declutter() {
+    if (!svg.classList.contains('show-names')) return;
+    var r = view.w / W0, placed = [];
+    for (var k = 0; k < poiOrder.length; k++) {
+      var p = poiOrder[k], node = poiNodes[p.id];
+      if (node.classList.contains('filtered-out')) { node.classList.remove('lbl-on'); continue; }
+      var fs = 13 * r, x0 = p.x + 9 * r, w = (p.name.length || 1) * fs * 0.52;
+      var rc = [x0, p.y - 8 * r - fs, x0 + w, p.y - 8 * r + 2 * r], hit = false;
+      for (var m = 0; m < placed.length; m++) {
+        var q = placed[m];
+        if (!(rc[2] < q[0] || rc[0] > q[2] || rc[3] < q[1] || rc[1] > q[3])) { hit = true; break; }
+      }
+      if (hit) node.classList.remove('lbl-on');
+      else { node.classList.add('lbl-on'); placed.push(rc); }
+    }
   }
 
   // ---- pan / zoom (manipulate the viewBox) ----
@@ -383,6 +407,7 @@
     M.pois.forEach(function (p) {
       poiNodes[p.id].classList.toggle('filtered-out', !poiVisible(p));
     });
+    declutter();
   }
   if (filtersEl) {
     var h = '<span class="carte-filter-lbl">Types</span>';
@@ -497,6 +522,7 @@
   var namesToggle = document.getElementById('carte-toggle-names');
   if (namesToggle) namesToggle.addEventListener('change', function () {
     svg.classList.toggle('show-names', namesToggle.checked);
+    declutter();
   });
   var zonesToggle = document.getElementById('carte-toggle-zones');
   if (zonesToggle) zonesToggle.addEventListener('change', function () {
