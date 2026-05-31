@@ -272,15 +272,36 @@
     zoomAt(e.clientX, e.clientY, e.deltaY < 0 ? 1.18 : 1 / 1.18);
   }, { passive: false });
 
-  // Pan: only capture the pointer AFTER real movement, so a plain click still
-  // reaches the POI (capturing on pointerdown would retarget the click to <svg>).
+  // Pan (1 pointer) + pinch-zoom (2 pointers, mobile). Pointer events unify
+  // touch + mouse; #carte-svg has touch-action:none so the browser doesn't steal
+  // the gesture. Only capture the pointer AFTER real movement, so a plain tap
+  // still reaches the POI (capturing on pointerdown would retarget the click).
   var pdown = false, dragging = false, moved = false, captured = false;
   var pid = null, downX = 0, downY = 0, lastX = 0, lastY = 0;
+  var pointers = {}, pinchDist = 0;
+  function ptrPts() { return Object.keys(pointers).map(function (k) { return pointers[k]; }); }
+  function ptrDist() { var p = ptrPts(); return Math.hypot(p[0].x - p[1].x, p[0].y - p[1].y); }
+  function ptrMid() { var p = ptrPts(); return [(p[0].x + p[1].x) / 2, (p[0].y + p[1].y) / 2]; }
   svg.addEventListener('pointerdown', function (e) {
+    pointers[e.pointerId] = { x: e.clientX, y: e.clientY };
+    if (Object.keys(pointers).length === 2) {   // enter pinch: cancel any single-pan
+      pdown = false;
+      if (captured) { try { svg.releasePointerCapture(pid); } catch (_) {} captured = false; }
+      if (dragging) { dragging = false; svg.classList.remove('grabbing'); }
+      pinchDist = ptrDist(); moved = true;
+      return;
+    }
     pdown = true; dragging = false; moved = false; captured = false; pid = e.pointerId;
     downX = lastX = e.clientX; downY = lastY = e.clientY;
   });
   svg.addEventListener('pointermove', function (e) {
+    if (pointers[e.pointerId]) { pointers[e.pointerId].x = e.clientX; pointers[e.pointerId].y = e.clientY; }
+    if (Object.keys(pointers).length >= 2) {     // pinch-zoom around the fingers' midpoint
+      var nd = ptrDist();
+      if (pinchDist > 0 && nd > 0) { var mid = ptrMid(); zoomAt(mid[0], mid[1], nd / pinchDist); }
+      pinchDist = nd; moved = true;
+      return;
+    }
     if (!pdown) return;
     if (!dragging) {
       if (Math.abs(e.clientX - downX) + Math.abs(e.clientY - downY) < 4) return;
@@ -294,6 +315,8 @@
     clampView(); applyView();
   });
   function endDrag(e) {
+    if (e && pointers[e.pointerId]) delete pointers[e.pointerId];
+    if (Object.keys(pointers).length < 2) pinchDist = 0;
     pdown = false;
     if (captured) { try { svg.releasePointerCapture(pid); } catch (_) {} captured = false; }
     if (dragging) { dragging = false; svg.classList.remove('grabbing'); }
