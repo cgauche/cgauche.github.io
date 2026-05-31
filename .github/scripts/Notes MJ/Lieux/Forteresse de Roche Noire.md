@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Roche Noire
-  x: 239.6
-  y: 227.2
+  x: 255.6
+  y: 221.3
   desc: "La plus imposante fortification du sud du Vorbergland, bâtie il y a huit cents ans par la maison Bruner et tenue par les Jungfreud depuis la fin des années 1900 ; ses oubliettes ont vu mourir bien des ennemis du duché. Désormais aux mains des troupes d'Altdorf, elle est reliée à la tour de Magnus par un tunnel sécurisé."
   source: gazetteer-auto
 ---

@@ -14,7 +14,7 @@ carte:
 
 # Jarlstor
 
-> **Où** : Heulen, The Zinnentor, Salzenmund.
+> **Où** : Heulen, Zinnentor, Salzenmund.
 > **Type** : militaire. *(p. 62)*
 
 ## Description

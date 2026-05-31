@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Quartier des Marchands
-  x: 483.2
-  y: 422.4
+  x: 511
+  y: 411.3
   desc: "Grande place près du Quartier des Marchands jadis vouée aux combats de chiens, dont le nom subsiste avec la statue d'un Saint Saal ; elle accueille désormais restaurants et tavernes, dont un salon de thé sans alcool et une maison de la pâtée. Le propriétaire des lieux est l'intarissable Hanno Rader."
   source: gazetteer-auto
 ---

@@ -96,7 +96,7 @@
   },
   "section_fallback": {
     "CastleSalzenmund": [
-      "Castle Salzenmund",
+      "Château de Salzenmund",
       "zinnentor"
     ],
     "Moltkeplatz": [
@@ -116,7 +116,7 @@
       "zinnentor"
     ],
     "TempleWard": [
-      "The Temple Ward",
+      "Quartier du Temple",
       "ulricshohe"
     ],
     "Holzermarkt": [
@@ -156,26 +156,62 @@
       "walcheberg"
     ],
     "LakeGate": [
-      "The Lake Gate",
+      "Porte du Lac",
       "seeufer"
     ],
     "Wagonzaun": [
-      "The Wagonzaun",
+      "Wagonzaun",
       "seeufer"
     ],
     "Ruins": [
-      "The Ruins",
+      "Les Ruines",
       "seeufer"
     ]
   },
   "bridges": [
     [
-      760,
-      280
+      711.5,
+      150.5
     ],
     [
-      700,
-      532
+      786.0,
+      137.0
+    ],
+    [
+      711.5,
+      199.0
+    ],
+    [
+      819.0,
+      198.5
+    ],
+    [
+      753.5,
+      241.5
+    ],
+    [
+      677.5,
+      451.0
+    ],
+    [
+      603.0,
+      467.0
+    ],
+    [
+      732.5,
+      590.0
+    ],
+    [
+      682.5,
+      682.5
+    ],
+    [
+      493.9,
+      730.4
+    ],
+    [
+      575.5,
+      721.5
     ]
   ]
 }

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Quartier des Artisans
-  x: 557.2
-  y: 270.4
+  x: 588.8
+  y: 263.7
   desc: "Guilde devenue riche et influente en se mettant à vendre des armes : exploitant une faille du règlement sur le raccordement de la lame à la soie, ses couteliers font passer pour des couteaux des lames de plus d'un mètre. Sa réussite repose sur un maître forgeron elfe officiant dans l'ombre, voué à Vaul."
   source: gazetteer-auto
 ---

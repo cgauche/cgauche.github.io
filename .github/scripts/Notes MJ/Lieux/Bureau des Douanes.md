@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: quais
   quartier: Teubrücke
-  x: 402.4
-  y: 264.4
+  x: 426.8
+  y: 258.1
   desc: "Grand bâtiment dominant les quais où arrivent toutes les taxes collectées à Ubersreik ; chaque bateau livrant des marchandises acquitte une pistole d'argent plus une somme selon sa cargaison. Dirigé par Ernst Geldfinger, quadragénaire brusque réputé pour son souci du détail et son honnêteté irréprochable."
   source: gazetteer-auto
 ---

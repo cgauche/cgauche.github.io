@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Quartier des Artisans
-  x: 444.0
-  y: 181.6
+  x: 470.8
+  y: 176.1
   desc: "Étroite bâtisse aux fenêtres munies de barreaux d'acier, tenue par le seul serrurier d'Ubersreik qui détient un monopole absolu sur le métier en ville (sauf les artisans nains, par décret). Une équipe vérifie les serrures de tous les bâtiments et signale toute serrure non autorisée au Guet."
   source: gazetteer-auto
 ---

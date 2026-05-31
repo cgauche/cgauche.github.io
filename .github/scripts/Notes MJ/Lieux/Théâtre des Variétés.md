@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Marktplatz
-  x: 366.0
-  y: 368.4
+  x: 395
+  y: 363.3
   desc: "Ancien entrepôt transformé en théâtre « à la tiléenne » de pierre à voûte de bois, avec parterre, balcon et deux loges pour les nobles et riches citoyens. Dirigé par Benedict Gurkenfeld, ancien dramaturge, qui programme les spectacles et fait office de maître de cérémonie."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Le Bastion
-  x: 391.6
-  y: 201.6
+  x: 415.2
+  y: 196.1
   desc: "Boutique de tailleur à deux niveaux, principal fournisseur d'uniformes des forces militaires d'Ubersreik depuis des décennies ; rez-de-chaussée pour la troupe, étage pour les officiers. Tailleur en chef Florian Reiniger, fils du fondateur."
   source: gazetteer-auto
 ---

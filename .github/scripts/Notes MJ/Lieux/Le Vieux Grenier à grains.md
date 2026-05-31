@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Quartier des Marchands
-  x: 462.4
-  y: 470.4
+  x: 488.8
+  y: 461.3
   desc: "L'un des plus hauts bâtiments d'Ubersreik, construction conique de pierre au sud de la ville ceinte d'un escalier en colimaçon ; seul grenier intra-muros et lourdement gardé (ni flamme nue ni magicien à proximité, la farine étant explosive). Propriété de la Sainte Guilde des Maîtres Meuniers de la Vallée de la Dame."
   source: gazetteer-auto
 ---

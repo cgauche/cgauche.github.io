@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Le Bastion
-  x: 351.2
-  y: 216.8
+  x: 373.2
+  y: 211.3
   desc: "Grande caserne ceinte d'un mur imposant, ancien quartier du 3e régiment de fantassins d'Ubersreik (les « Cerfs de combat »), replié à l'approche de l'armée d'Altdorf et désormais inoccupé puis surveillé par des patrouilles altdorfiennes."
   source: gazetteer-auto
 ---

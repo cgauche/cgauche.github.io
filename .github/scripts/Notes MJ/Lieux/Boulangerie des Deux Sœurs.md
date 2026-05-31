@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Quartier des Marchands
-  x: 435
-  y: 398
+  x: 496.8
+  y: 401.7
   desc: "Modeste boulangerie de pierre coincée entre une maroquinerie et un chapelier, tenue par les jumelles halflings Om et Nom Fraises-des-bois ; l'une est spécialiste de la confiserie fine, l'autre expérimente des recettes d'Altdorf."
   source: gazetteer-auto
 ---

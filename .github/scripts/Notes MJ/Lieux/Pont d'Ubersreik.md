@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: quais
   quartier: Teubrücke
-  x: 417
-  y: 297
+  x: 440.8
+  y: 292.1
   desc: "Pont monumental conçu et bâti il y a plus de deux cents ans par Grodni Sûrmarteau et la Guilde des Ingénieurs nains, sur l'ordre de Magnus le Pieux. Soutenu par d'énormes piliers de pierre et gravé de runes naines de résistance, il domine toute la ville ; toute construction y est interdite, et sous lui s'est développé le bidonville criminel de Dunkelfeucht."
   source: gazetteer-auto
 ---

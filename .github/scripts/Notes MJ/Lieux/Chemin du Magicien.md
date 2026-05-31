@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Quartier des Artisans
-  x: 545.6
-  y: 237.2
+  x: 571
+  y: 235.3
   desc: "De son vrai nom la Graf Otto Strasse, rue longue et sinueuse de l'est du Quartier des Artisans, bordée d'échoppes d'herbes, de livres et d'objets ésotériques. Elle est surplombée par la Tour du Sorcier Gris, tourelle au toit d'ardoise dont l'entrée semble impossible à trouver, résidence du seul sorcier vivant en ville."
   source: gazetteer-auto
 ---

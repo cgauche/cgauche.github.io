@@ -2,10 +2,10 @@
   "id": "ubersreik",
   "title": "Ubersreik",
   "fiche": "Ubersreik",
-  "viewBox": "0 0 793.7 609.4",
+  "viewBox": "0 0 841.9 595.3",
   "poster": "ubersreik-poster.jpg",
   "posterOpacity": 0.55,
-  "intro": "Carte canon d'Ubersreik (Gamemaster Map, Boîte d'Initiation WFRP 4e). Ville-carrefour du Reikland sur la Teufel, occupée par Altdorf depuis le putsch contre les Jungfreud. Théâtre de l'Arc 3 de la campagne (S13-S21). Molette pour zoomer, glisser pour déplacer. Clique un lieu pour sa fiche ; bascule la coloration par secteur (rives) ou par quartier.",
+  "intro": "Carte canon FR d'Ubersreik (Carte du Maître de Jeu, BibImp — Aides de Jeu). Ville-carrefour du Reikland sur la Teufel, occupée par Altdorf depuis le putsch contre les Jungfreud. Théâtre de l'Arc 3 (S13-S21). Clique un lieu pour sa fiche ; bascule la coloration par secteur ou par quartier.",
   "scenarios": [],
   "types": [
     {
@@ -92,164 +92,1061 @@
     },
     {
       "a": "Teubrücke",
+      "b": "Dawihafen",
+      "bridge": false
+    },
+    {
+      "a": "Teubrücke",
+      "b": "Quartier des Marchands",
+      "bridge": false
+    },
+    {
+      "a": "Teubrücke",
       "b": "Marktplatz",
+      "bridge": false
+    },
+    {
+      "a": "Teubrücke",
+      "b": "Morgenseite",
+      "bridge": false
+    },
+    {
+      "a": "Teubrücke",
+      "b": "Quartier des Artisans",
       "bridge": true,
       "via": [
-        408,
-        306
+        440,
+        292.3
       ]
     }
   ],
-  "legend": [],
+  "legend": [
+    {
+      "n": 1,
+      "x": 768.0,
+      "y": 30.0,
+      "w": 44.0,
+      "h": 6.0,
+      "poi": "porte-nord"
+    },
+    {
+      "n": 2,
+      "x": 768.0,
+      "y": 36.0,
+      "w": 44.0,
+      "h": 6.0,
+      "poi": "porte-est"
+    },
+    {
+      "n": 3,
+      "x": 768.0,
+      "y": 42.0,
+      "w": 44.0,
+      "h": 6.0,
+      "poi": "porte-de-la-riviere"
+    },
+    {
+      "n": 4,
+      "x": 768.0,
+      "y": 48.0,
+      "w": 44.0,
+      "h": 6.0,
+      "poi": "porte-sud"
+    },
+    {
+      "n": 5,
+      "x": 768.0,
+      "y": 76.2,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "maison-du-pont"
+    },
+    {
+      "n": 6,
+      "x": 768.0,
+      "y": 81.9,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-charpentiers"
+    },
+    {
+      "n": 7,
+      "x": 768.0,
+      "y": 87.6,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "apothicairerie-de-cordelia"
+    },
+    {
+      "n": 8,
+      "x": 768.0,
+      "y": 93.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-serruriers"
+    },
+    {
+      "n": 9,
+      "x": 768.0,
+      "y": 99.0,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-forgerons"
+    },
+    {
+      "n": 10,
+      "x": 768.0,
+      "y": 104.7,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "charcuterie-de-satrioli"
+    },
+    {
+      "n": 11,
+      "x": 768.0,
+      "y": 110.4,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "bas-fonds-de-wandiene"
+    },
+    {
+      "n": 12,
+      "x": 768.0,
+      "y": 116.1,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "chemin-du-magicien"
+    },
+    {
+      "n": 13,
+      "x": 768.0,
+      "y": 121.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "honorable-guilde-des-couteliers"
+    },
+    {
+      "n": 14,
+      "x": 768.0,
+      "y": 132.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "forteresse-de-roche-noire"
+    },
+    {
+      "n": 15,
+      "x": 768.0,
+      "y": 140.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "grauer-palast"
+    },
+    {
+      "n": 16,
+      "x": 768.0,
+      "y": 148.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "chapelle-de-saint-arnold"
+    },
+    {
+      "n": 17,
+      "x": 768.0,
+      "y": 152.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "la-hache-et-le-marteau"
+    },
+    {
+      "n": 18,
+      "x": 768.0,
+      "y": 158.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "brasserie-de-borgun"
+    },
+    {
+      "n": 19,
+      "x": 768.0,
+      "y": 164.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "forteresse-harataken"
+    },
+    {
+      "n": 20,
+      "x": 768.0,
+      "y": 170.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "fournitures-dexpedition-nordwander-fils"
+    },
+    {
+      "n": 21,
+      "x": 768.0,
+      "y": 204.9,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-bateliers"
+    },
+    {
+      "n": 22,
+      "x": 768.0,
+      "y": 210.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-marteau-tordu"
+    },
+    {
+      "n": 23,
+      "x": 768.0,
+      "y": 216.7,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "bureau-des-douanes"
+    },
+    {
+      "n": 24,
+      "x": 768.0,
+      "y": 222.6,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-bras-du-debardeur"
+    },
+    {
+      "n": 25,
+      "x": 768.0,
+      "y": 228.5,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "chapelle-du-graal"
+    },
+    {
+      "n": 26,
+      "x": 768.0,
+      "y": 234.4,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-constructeurs-de-bateaux-et-des-accastilleurs"
+    },
+    {
+      "n": 27,
+      "x": 768.0,
+      "y": 240.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "la-fosse-aux-cochons"
+    },
+    {
+      "n": 28,
+      "x": 768.0,
+      "y": 246.2,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "la-maison-kat"
+    },
+    {
+      "n": 29,
+      "x": 768.0,
+      "y": 252.1,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "auberge-de-la-lune-rouge"
+    },
+    {
+      "n": 30,
+      "x": 768.0,
+      "y": 258.0,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "pension-de-rugger"
+    },
+    {
+      "n": 31,
+      "x": 768.0,
+      "y": 263.9,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-strohmann-markt"
+    },
+    {
+      "n": 32,
+      "x": 768.0,
+      "y": 269.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "pont-dubersreik"
+    },
+    {
+      "n": 33,
+      "x": 768.0,
+      "y": 263.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "grand-temple-de-sigmar-ubersreik"
+    },
+    {
+      "n": 34,
+      "x": 768.0,
+      "y": 270.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-medecins"
+    },
+    {
+      "n": 35,
+      "x": 768.0,
+      "y": 277.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "temple-de-shallya"
+    },
+    {
+      "n": 36,
+      "x": 768.0,
+      "y": 284.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "temple-de-verena"
+    },
+    {
+      "n": 37,
+      "x": 768.0,
+      "y": 291.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "hotel-de-ville"
+    },
+    {
+      "n": 38,
+      "x": 768.0,
+      "y": 298.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-sprichstumpf"
+    },
+    {
+      "n": 39,
+      "x": 768.0,
+      "y": 305.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "theatre-des-varietes"
+    },
+    {
+      "n": 40,
+      "x": 768.0,
+      "y": 312.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "poste-du-guet"
+    },
+    {
+      "n": 41,
+      "x": 768.0,
+      "y": 350.0,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "lenclos-a-chiens"
+    },
+    {
+      "n": 42,
+      "x": 768.0,
+      "y": 361.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-cochon-qui-explose"
+    },
+    {
+      "n": 43,
+      "x": 768.0,
+      "y": 373.6,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "bourse-aux-grains-de-furlisdottir"
+    },
+    {
+      "n": 44,
+      "x": 768.0,
+      "y": 385.4,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "guilde-des-marchands"
+    },
+    {
+      "n": 45,
+      "x": 768.0,
+      "y": 397.2,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-vieux-grenier-a-grains"
+    },
+    {
+      "n": 46,
+      "x": 768.0,
+      "y": 409.0,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "hopital-saint-bastian"
+    },
+    {
+      "n": 47,
+      "x": 768.0,
+      "y": 420.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "boulangerie-des-deux-sœurs"
+    },
+    {
+      "n": 48,
+      "x": 768.0,
+      "y": 432.6,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "spirren-hirsch-et-gartner"
+    },
+    {
+      "n": 49,
+      "x": 768.0,
+      "y": 444.4,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "thulmannplatz"
+    },
+    {
+      "n": 50,
+      "x": 768.0,
+      "y": 456.2,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "entrepots-unterdaumen"
+    },
+    {
+      "n": 51,
+      "x": 768.0,
+      "y": 468.0,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "boutique-aux-potions-de-von-holzenauer"
+    },
+    {
+      "n": 52,
+      "x": 768.0,
+      "y": 479.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "les-ratiers-de-wahlund"
+    },
+    {
+      "n": 53,
+      "x": 768.0,
+      "y": 381.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "manoir-aschaffenberg"
+    },
+    {
+      "n": 54,
+      "x": 768.0,
+      "y": 388.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "maison-brauninger"
+    },
+    {
+      "n": 55,
+      "x": 768.0,
+      "y": 394.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "palais-bruner"
+    },
+    {
+      "n": 56,
+      "x": 768.0,
+      "y": 401.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "hostellerie-du-repos-de-lempereur"
+    },
+    {
+      "n": 57,
+      "x": 768.0,
+      "y": 407.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "domaine-karstadt"
+    },
+    {
+      "n": 58,
+      "x": 768.0,
+      "y": 414.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "magasin-luigi-salvatore"
+    },
+    {
+      "n": 59,
+      "x": 768.0,
+      "y": 420.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "les-ailes-du-pegase"
+    },
+    {
+      "n": 60,
+      "x": 768.0,
+      "y": 427.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "chez-madame-beaumarteau"
+    },
+    {
+      "n": 61,
+      "x": 768.0,
+      "y": 433.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "auld-odenhaus-pantera"
+    },
+    {
+      "n": 62,
+      "x": 768.0,
+      "y": 496.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "chapelle-dulric"
+    },
+    {
+      "n": 63,
+      "x": 768.0,
+      "y": 503.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "tour-de-magnus"
+    },
+    {
+      "n": 64,
+      "x": 768.0,
+      "y": 510.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "le-seau-et-la-serpilliere"
+    },
+    {
+      "n": 65,
+      "x": 768.0,
+      "y": 517.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "temple-nord-de-sigmar"
+    },
+    {
+      "n": 66,
+      "x": 768.0,
+      "y": 524.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "magasin-de-vetements-de-reiniger"
+    },
+    {
+      "n": 67,
+      "x": 768.0,
+      "y": 531.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "caserne-du-3e-dubersreik"
+    },
+    {
+      "n": 68,
+      "x": 768.0,
+      "y": 538.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "caserne-du-guet"
+    },
+    {
+      "n": 69,
+      "x": 768.0,
+      "y": 555.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "marche-aux-bestiaux"
+    },
+    {
+      "n": 70,
+      "x": 768.0,
+      "y": 564.3,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "champ-de-morr"
+    },
+    {
+      "n": 71,
+      "x": 768.0,
+      "y": 572.8,
+      "w": 44.0,
+      "h": 7.0,
+      "poi": "leperon-detain"
+    }
+  ],
   "legendSections": [],
   "scenarioOverlay": {},
   "cityPolygon": [
     [
-      355,
-      108
+      207.5,
+      223.8
     ],
     [
-      410,
-      110
+      204.5,
+      268.5
     ],
     [
-      470,
-      122
+      207.5,
+      288.8
     ],
     [
-      540,
-      160
+      212.5,
+      297.3
     ],
     [
-      580,
-      195
+      213.0,
+      307.8
     ],
     [
-      603,
-      228
+      207.8,
+      319.1
     ],
     [
-      613,
-      265
+      213.5,
+      330.3
     ],
     [
-      605,
-      305
+      213.0,
+      340.8
     ],
     [
-      588,
-      345
+      236.0,
+      370.3
     ],
     [
-      558,
-      385
+      246.2,
+      402.3
     ],
     [
-      522,
-      425
+      253.2,
+      407.5
     ],
     [
-      468,
-      460
+      270.0,
+      436.3
     ],
     [
-      410,
-      476
+      296.8,
+      453.1
     ],
     [
-      352,
-      483
+      305.8,
+      454.8
     ],
     [
-      292,
-      476
+      310.5,
+      460.3
     ],
     [
-      238,
-      456
+      334.2,
+      461.5
     ],
     [
-      190,
-      428
+      341.8,
+      458.3
     ],
     [
-      158,
-      393
+      362.5,
+      458.3
     ],
     [
-      140,
-      348
+      380.5,
+      464.1
     ],
     [
-      135,
-      305
+      401.2,
+      461.8
     ],
     [
-      142,
-      262
+      435.2,
+      468.3
     ],
     [
-      165,
-      217
+      453.8,
+      476.8
     ],
     [
-      202,
-      176
+      496.8,
+      468.1
     ],
     [
-      248,
-      142
+      517.5,
+      473.5
     ],
     [
-      300,
-      118
+      534.0,
+      464.5
+    ],
+    [
+      553.2,
+      461.1
+    ],
+    [
+      597.5,
+      437.8
+    ],
+    [
+      617.8,
+      423.8
+    ],
+    [
+      619.8,
+      416.1
+    ],
+    [
+      628.0,
+      405.5
+    ],
+    [
+      633.8,
+      379.5
+    ],
+    [
+      636.0,
+      339.3
+    ],
+    [
+      640.8,
+      331.3
+    ],
+    [
+      637.0,
+      322.5
+    ],
+    [
+      638.8,
+      303.1
+    ],
+    [
+      636.0,
+      275.1
+    ],
+    [
+      640.0,
+      264.5
+    ],
+    [
+      636.5,
+      231.8
+    ],
+    [
+      624.5,
+      220.5
+    ],
+    [
+      622.5,
+      211.1
+    ],
+    [
+      606.8,
+      198.5
+    ],
+    [
+      602.5,
+      176.8
+    ],
+    [
+      573.0,
+      159.1
+    ],
+    [
+      550.0,
+      151.8
+    ],
+    [
+      545.0,
+      145.5
+    ],
+    [
+      535.5,
+      142.8
+    ],
+    [
+      530.8,
+      137.8
+    ],
+    [
+      502.2,
+      127.8
+    ],
+    [
+      442.8,
+      123.5
+    ],
+    [
+      425.0,
+      128.5
+    ],
+    [
+      397.2,
+      125.3
+    ],
+    [
+      391.8,
+      128.5
+    ],
+    [
+      357.8,
+      130.5
+    ],
+    [
+      341.0,
+      128.5
+    ],
+    [
+      333.8,
+      134.1
+    ],
+    [
+      324.8,
+      135.5
+    ],
+    [
+      317.5,
+      144.3
+    ],
+    [
+      294.0,
+      158.8
+    ],
+    [
+      274.0,
+      161.3
+    ],
+    [
+      265.5,
+      168.5
+    ],
+    [
+      237.8,
+      179.5
+    ],
+    [
+      232.8,
+      202.1
     ]
   ],
   "rivers": [
     [
       [
-        603.5,
-        309.0
+        634.5,
+        321.5
       ],
       [
-        447.0,
-        292.0
+        630.0,
+        311.0
       ],
       [
-        409.5,
-        290.0
+        592.0,
+        305.5
       ],
       [
-        259.0,
-        292.0
-      ],
-      [
-        211.0,
-        298.0
-      ],
-      [
-        136.0,
+        582.5,
         299.5
       ],
       [
-        135.0,
-        303.5
+        575.0,
+        298.5
       ],
       [
-        139.0,
+        566.5,
+        294.0
+      ],
+      [
+        556.0,
+        293.0
+      ],
+      [
+        548.0,
+        289.0
+      ],
+      [
+        530.5,
+        287.5
+      ],
+      [
+        515.5,
+        280.0
+      ],
+      [
+        450.5,
+        275.5
+      ],
+      [
+        444.5,
+        278.5
+      ],
+      [
+        397.5,
+        278.5
+      ],
+      [
+        389.5,
+        282.5
+      ],
+      [
+        352.0,
+        283.0
+      ],
+      [
+        344.0,
+        285.0
+      ],
+      [
+        333.0,
+        291.5
+      ],
+      [
+        299.5,
+        294.5
+      ],
+      [
+        286.0,
+        300.0
+      ],
+      [
+        252.0,
+        305.5
+      ],
+      [
+        223.0,
+        306.5
+      ],
+      [
+        215.0,
+        304.0
+      ],
+      [
+        213.0,
+        312.5
+      ],
+      [
+        223.0,
+        322.0
+      ],
+      [
+        222.5,
+        337.0
+      ],
+      [
+        259.0,
+        340.5
+      ],
+      [
+        267.0,
+        347.0
+      ],
+      [
+        271.5,
+        344.0
+      ],
+      [
+        274.5,
+        339.0
+      ],
+      [
+        287.0,
+        338.0
+      ],
+      [
+        326.0,
+        326.5
+      ],
+      [
+        348.5,
+        325.5
+      ],
+      [
+        361.0,
+        321.0
+      ],
+      [
+        386.0,
+        320.0
+      ],
+      [
+        405.5,
+        313.5
+      ],
+      [
+        447.5,
+        310.5
+      ],
+      [
+        477.0,
+        313.5
+      ],
+      [
+        493.5,
+        319.5
+      ],
+      [
+        516.5,
+        320.5
+      ],
+      [
+        520.5,
+        325.0
+      ],
+      [
+        532.5,
+        327.0
+      ],
+      [
+        545.0,
+        333.0
+      ],
+      [
+        570.5,
+        332.0
+      ],
+      [
+        581.5,
+        337.5
+      ],
+      [
+        597.5,
         339.5
       ],
       [
-        244.5,
-        333.0
+        602.0,
+        343.0
       ],
       [
-        407.0,
-        333.0
+        610.0,
+        344.5
       ],
       [
-        588.5,
-        344.0
+        620.5,
+        350.0
+      ],
+      [
+        628.5,
+        350.5
+      ],
+      [
+        632.5,
+        348.0
+      ],
+      [
+        632.0,
+        325.0
       ]
     ]
   ],
@@ -257,334 +1154,540 @@
     {
       "name": "Roche Noire",
       "section": "nord",
-      "cx": 238,
-      "cy": 198,
+      "cx": 262,
+      "cy": 210,
       "poly": [
         [
-          278.0,
-          129.0
+          338.0,
+          132.0
         ],
         [
-          247.0,
-          142.5
+          324.5,
+          136.0
         ],
         [
-          202.5,
-          175.5
+          317.0,
+          145.0
         ],
         [
-          168.0,
-          213.5
+          293.0,
+          159.5
         ],
         [
-          142.5,
+          273.5,
+          162.0
+        ],
+        [
+          265.5,
+          168.5
+        ],
+        [
+          238.5,
+          179.5
+        ],
+        [
+          233.5,
+          201.5
+        ],
+        [
+          208.0,
+          223.5
+        ],
+        [
+          205.5,
+          273.5
+        ],
+        [
+          212.5,
+          273.0
+        ],
+        [
+          221.0,
+          267.0
+        ],
+        [
+          321.0,
+          268.0
+        ],
+        [
+          332.0,
           261.5
         ],
         [
-          137.5,
-          292.0
+          333.5,
+          202.0
         ],
         [
-          167.0,
-          262.5
+          343.0,
+          160.0
         ],
         [
-          205.0,
-          248.0
-        ],
-        [
-          300.0,
-          244.5
-        ],
-        [
-          300.0,
-          152.5
+          342.0,
+          138.5
         ]
       ]
     },
     {
       "name": "Le Bastion",
       "section": "nord",
-      "cx": 350,
-      "cy": 175,
+      "cx": 388,
+      "cy": 195,
       "poly": [
         [
-          403.5,
-          110.0
+          438.5,
+          125.5
         ],
         [
-          353.0,
-          108.5
+          424.5,
+          129.0
         ],
         [
-          298.5,
-          118.5
+          396.0,
+          126.0
         ],
         [
-          278.5,
-          128.0
+          386.5,
+          129.5
         ],
         [
-          300.5,
-          152.5
+          338.5,
+          130.5
         ],
         [
-          301.0,
-          246.0
+          342.0,
+          137.0
         ],
         [
-          391.5,
-          241.5
+          343.5,
+          160.0
         ],
         [
-          392.0,
-          198.5
+          334.0,
+          202.0
         ],
         [
-          411.5,
-          120.0
+          331.0,
+          252.0
+        ],
+        [
+          333.0,
+          262.0
+        ],
+        [
+          353.5,
+          268.0
+        ],
+        [
+          421.5,
+          262.0
+        ],
+        [
+          435.0,
+          254.5
+        ],
+        [
+          441.5,
+          188.5
         ]
       ]
     },
     {
       "name": "Quartier des Artisans",
       "section": "nord",
-      "cx": 478,
-      "cy": 198,
+      "cx": 520,
+      "cy": 210,
       "poly": [
         [
-          404.5,
-          110.5
+          439.0,
+          125.0
         ],
         [
-          412.0,
-          120.0
+          442.0,
+          188.5
         ],
         [
-          392.5,
-          198.5
+          435.5,
+          255.5
         ],
         [
-          393.0,
-          244.0
+          441.5,
+          261.0
         ],
         [
-          490.0,
-          284.5
+          514.0,
+          262.0
         ],
         [
-          498.0,
-          295.5
+          592.0,
+          280.5
         ],
         [
-          605.0,
-          306.0
+          618.5,
+          277.5
         ],
         [
-          613.5,
-          265.0
+          639.5,
+          267.0
         ],
         [
-          604.0,
-          229.5
+          637.0,
+          232.5
         ],
         [
-          578.0,
-          193.0
+          625.0,
+          221.0
         ],
         [
-          539.5,
-          159.5
+          623.0,
+          211.5
         ],
         [
-          471.0,
-          122.5
+          607.5,
+          199.0
+        ],
+        [
+          602.0,
+          176.5
+        ],
+        [
+          573.0,
+          159.0
+        ],
+        [
+          550.0,
+          152.0
+        ],
+        [
+          531.0,
+          138.0
+        ],
+        [
+          503.5,
+          128.5
         ]
       ]
     },
     {
       "name": "Teubrücke",
       "section": "quais",
-      "cx": 298,
+      "cx": 300,
       "cy": 272,
       "poly": [
         [
-          496.5,
-          295.0
+          639.0,
+          268.5
         ],
         [
-          490.0,
-          285.0
+          592.0,
+          281.0
         ],
         [
-          389.5,
-          243.0
+          435.5,
+          256.0
         ],
         [
-          207.5,
-          247.5
+          206.0,
+          274.0
         ],
         [
-          167.5,
-          262.5
+          213.5,
+          307.5
         ],
         [
-          137.0,
-          297.0
+          433.5,
+          278.0
         ],
         [
-          386.0,
-          288.0
+          434.5,
+          311.5
+        ],
+        [
+          268.0,
+          347.5
+        ],
+        [
+          222.5,
+          338.0
+        ],
+        [
+          213.0,
+          308.5
+        ],
+        [
+          208.5,
+          320.0
+        ],
+        [
+          225.5,
+          357.0
+        ],
+        [
+          614.0,
+          350.5
+        ],
+        [
+          449.0,
+          312.5
+        ],
+        [
+          446.5,
+          277.0
+        ],
+        [
+          516.5,
+          279.5
+        ],
+        [
+          631.0,
+          310.5
+        ],
+        [
+          635.5,
+          347.5
         ]
       ]
     },
     {
       "name": "Dawihafen",
       "section": "sud",
-      "cx": 250,
-      "cy": 382,
+      "cx": 300,
+      "cy": 405,
       "poly": [
         [
-          140.0,
-          342.5
+          381.5,
+          463.0
         ],
         [
-          158.5,
-          393.5
+          391.5,
+          420.5
         ],
         [
-          190.5,
-          428.5
-        ],
-        [
-          240.0,
-          457.0
-        ],
-        [
-          278.0,
-          470.0
-        ],
-        [
-          300.5,
-          431.5
+          390.0,
+          357.0
         ],
         [
           305.0,
-          336.0
+          363.5
         ],
         [
-          243.5,
-          336.0
+          226.5,
+          358.0
+        ],
+        [
+          237.0,
+          372.0
+        ],
+        [
+          246.5,
+          403.0
+        ],
+        [
+          254.0,
+          408.5
+        ],
+        [
+          270.5,
+          437.0
+        ],
+        [
+          295.0,
+          452.0
+        ],
+        [
+          306.5,
+          455.5
+        ],
+        [
+          311.5,
+          461.0
+        ],
+        [
+          364.0,
+          459.0
         ]
       ]
     },
     {
       "name": "Marktplatz",
       "section": "sud",
-      "cx": 352,
-      "cy": 378,
+      "cx": 428,
+      "cy": 405,
       "poly": [
         [
-          305.5,
-          336.0
+          466.5,
+          354.0
         ],
         [
-          301.5,
-          429.0
+          445.5,
+          353.0
         ],
         [
-          278.5,
-          471.0
+          390.5,
+          357.0
         ],
         [
-          292.5,
-          476.5
+          392.0,
+          420.5
         ],
         [
-          351.0,
-          483.5
+          382.0,
+          464.5
         ],
         [
-          418.0,
-          474.0
+          403.0,
+          462.5
         ],
         [
-          412.0,
-          443.5
+          436.5,
+          469.0
         ],
         [
-          410.0,
-          336.5
+          453.5,
+          477.0
+        ],
+        [
+          463.5,
+          474.5
+        ],
+        [
+          470.0,
+          454.0
+        ],
+        [
+          471.5,
+          431.5
         ]
       ]
     },
     {
       "name": "Quartier des Marchands",
       "section": "sud",
-      "cx": 455,
-      "cy": 370,
+      "cx": 505,
+      "cy": 400,
       "poly": [
         [
-          410.5,
-          336.5
+          534.0,
+          351.5
         ],
         [
-          412.0,
-          443.0
+          466.5,
+          354.0
         ],
         [
-          419.5,
-          473.5
+          470.0,
+          380.0
         ],
         [
-          466.0,
-          461.0
-        ],
-        [
-          512.0,
+          472.0,
           431.5
         ],
         [
-          505.0,
-          420.5
+          470.5,
+          454.0
         ],
         [
-          505.0,
-          342.0
+          463.5,
+          475.0
+        ],
+        [
+          495.0,
+          468.5
+        ],
+        [
+          517.5,
+          473.5
+        ],
+        [
+          540.5,
+          462.5
+        ],
+        [
+          543.5,
+          450.5
+        ],
+        [
+          544.5,
+          425.0
+        ],
+        [
+          543.0,
+          384.5
+        ],
+        [
+          538.0,
+          354.5
         ]
       ]
     },
     {
       "name": "Morgenseite",
       "section": "sud",
-      "cx": 522,
-      "cy": 360,
+      "cx": 590,
+      "cy": 395,
       "poly": [
         [
-          586.5,
-          347.0
+          635.5,
+          348.0
         ],
         [
-          505.5,
-          342.0
+          627.5,
+          352.0
         ],
         [
-          505.5,
-          420.5
+          540.5,
+          351.5
         ],
         [
-          512.5,
-          431.0
+          538.5,
+          353.5
         ],
         [
-          521.5,
-          425.5
+          543.5,
+          384.5
         ],
         [
-          556.0,
-          387.5
+          545.0,
+          414.5
+        ],
+        [
+          544.0,
+          450.5
+        ],
+        [
+          540.5,
+          463.5
+        ],
+        [
+          552.0,
+          461.5
+        ],
+        [
+          597.0,
+          438.5
+        ],
+        [
+          618.5,
+          423.5
+        ],
+        [
+          620.5,
+          415.5
+        ],
+        [
+          628.5,
+          405.0
+        ],
+        [
+          634.5,
+          380.0
         ]
       ]
     }
-  ]
+  ],
+  "nav": {
+    "w": 421,
+    "h": 298,
+    "cell": 2,
+    "bits": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP8AP////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAA/////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////wAP/////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////wAPgAAAAB///////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////gAD4AAAAAAH/////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////wAAAA+AAAAAAA/////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////4AAAAAAPgAAAAAAH////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////wAAAAAAD4AAAAAAA/////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////gAAAAAAA+AAAAAAAAH///////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////AAAAAAAAPgAAAAAAAAf//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////AAAAAAAAAD4AAAAAAAAD//////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////4AAAAAAAAAAA+AAAAAAAAAB/////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////gAAAAAAAAAAAPgAAAAAAAAAP////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////AAAAAAAAAAAAD4AAAAAAAAAB/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////4AAAAAAAAAAAAA+AAAAAAAAAAD////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////4AAAAAAAAAAAAAAPgAAAAAAAAAAf///4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//8AAAAAAAAAAAAAAAD4AAAAAAAAAAH///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA+AAAAAAAAAAAH//+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAPgAAAAAAAAAAAB//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAP//+AAAAAAAAAAAAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAD//////gAAAAAAAAAAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAP//////+AAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+AAAAAAAAAAAAAAf///////wAAAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gAAAAAAAAAAAAH//////////wAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPwAAAAAAAAAAH/////////////AAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAP/////////////wAAAAAAAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB+AAAAAAAAB////////////////AAAAAAAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+AAAAAAAA//////////////////AAAAAAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAD//////////////////4AAAAAAAfAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAP///////////////////AHgAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAB//////////////////////8AAAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB4AAAAAH///////////////////////gAAADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/4AAAB/////////////////////////gAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//4Af//////////////////////////gAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wf//////////////////////////8AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8P///////////////////////////wAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////f////////////////////////////ACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////////wDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////////DgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/4AA///////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/+////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////3//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///+Af+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//gAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="
+  }
 }

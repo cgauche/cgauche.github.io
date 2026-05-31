@@ -5,8 +5,8 @@ carte:
   type: autre
   importance: Mineur
   section: nord
-  x: 539.2
-  y: 108.0
+  x: 570.0
+  y: 104.1
   desc: "Marché aux bestiaux au nord-est de la ville, fait de bâtiments en bois (la pierre étant interdite hors les murs), d'enclos, d'une écurie et d'un chenil permanents."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: sud
   quartier: Morgenseite
-  x: 561.6
-  y: 428.4
+  x: 585
+  y: 412.3
   desc: "Domaine fortifié de la famille Karstadt, la plus riche maison de marchands d'Ubersreik (minerais, métaux, biens de luxe, prêt d'argent). Manoir modeste mais vaste terrain avec écuries, bois, étangs et un grand labyrinthe."
   source: gazetteer-auto
 ---

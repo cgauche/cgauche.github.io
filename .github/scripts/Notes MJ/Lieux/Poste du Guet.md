@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Marktplatz
-  x: 441.2
-  y: 408.0
+  x: 466.4
+  y: 400.1
   desc: "Minuscule poste de garde près de l'Hôtel de Ville, à la lourde porte de chêne ornée des armoiries d'Ubersreik et muni d'une barre à menottes, jadis utilisé par le Guet pour retenir soûlards et criminels. Les clefs de ce poste et des onze autres ont disparu lors de l'invasion d'Altdorf."
   source: gazetteer-auto
 ---

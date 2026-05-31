@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Quartier des Marchands
-  x: 499.6
-  y: 355.2
+  x: 528.8
+  y: 348.1
   desc: "Ensemble de sept petits entrepôts clos et gardés par une milice privée, au nord du Quartier des Marchands, appartenant à la Maison Unterdaumen, famille de marchands spéculant sur les denrées bon marché. La matriarche est l'octogénaire impitoyable Grigerid Unterdaumen."
   source: gazetteer-auto
 ---

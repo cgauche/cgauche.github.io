@@ -5715,77 +5715,98 @@ CARTE_JS = """\
   applyFilters();
 
   // ---- pathfinding (#6): REAL graph Dijkstra over the quarter graph ----
-  // Graph nodes = the 33 canon quarters (their anchor centroids), independent of
-  // which quarters have a fiche. Falls back to fiche-seeds if no polygons.
-  var QNODE = {};
+  // Quarter seeds — used only to label "quartiers traversés" in the panel.
+  var QSEED = [];
   if (M.quarterPolygons && M.quarterPolygons.length)
-    M.quarterPolygons.forEach(function (q) { QNODE[q.name] = { x: q.cx, y: q.cy }; });
-  else seeds.forEach(function (s) { QNODE[s.name] = { x: s.x, y: s.y }; });
-  function nearestSeedName(x, y) {
+    M.quarterPolygons.forEach(function (q) { QSEED.push({ name: q.name, x: q.cx, y: q.cy }); });
+  else seeds.forEach(function (s) { QSEED.push({ name: s.name, x: s.x, y: s.y }); });
+  function quarterAt(x, y) {
     var best = null, bd = Infinity;
-    Object.keys(QNODE).forEach(function (n) { var p = QNODE[n];
-      var d = (p.x - x) * (p.x - x) + (p.y - y) * (p.y - y);
-      if (d < bd) { bd = d; best = n; } });
+    QSEED.forEach(function (s) { var d = (s.x - x) * (s.x - x) + (s.y - y) * (s.y - y); if (d < bd) { bd = d; best = s.name; } });
     return best;
   }
-  // River-aware quarter graph from embedded edges. Land edges follow real
-  // polygon adjacency (never cross water); bridge edges carry a `via` crossing
-  // point so a route bends THROUGH the bridge instead of cutting open water.
-  var SADJ = {}, VIA = {};
-  Object.keys(QNODE).forEach(function (n) { SADJ[n] = []; });
-  (M.edges || []).forEach(function (e) {
-    var A = QNODE[e.a], Bs = QNODE[e.b];
-    if (!A || !Bs) return;
-    var w;
-    if (e.bridge && e.via) {
-      w = Math.hypot(A.x - e.via[0], A.y - e.via[1]) + Math.hypot(e.via[0] - Bs.x, e.via[1] - Bs.y) + 30;
-      VIA[e.a + '|' + e.b] = e.via; VIA[e.b + '|' + e.a] = e.via;
-    } else { w = Math.hypot(A.x - Bs.x, A.y - Bs.y); }
-    SADJ[e.a].push([e.b, w]); SADJ[e.b].push([e.a, w]);
-  });
-  function dijkstra(src, dst) {
-    if (src === dst) return [src];
-    var D = {}, prev = {}, done = {}, pq = [[0, src]];
-    D[src] = 0;
-    while (pq.length) {
-      pq.sort(function (a, b) { return a[0] - b[0]; });
-      var top = pq.shift(), d = top[0], u = top[1];
-      if (done[u]) continue; done[u] = 1;
-      if (u === dst) break;
-      (SADJ[u] || []).forEach(function (e) {
-        var v = e[0], nd = d + e[1];
-        if (D[v] == null || nd < D[v]) { D[v] = nd; prev[v] = u; pq.push([nd, v]); }
-      });
-    }
-    if (D[dst] == null) return null;
-    var path = [dst], c = dst;
-    while (c !== src) { c = prev[c]; if (c == null) return null; path.unshift(c); }
-    return path;
+
+  // ---- Walkable navmesh + A* (trajets stay on land, cross water ONLY at bridges) ----
+  // M.nav = {w,h,cell,bits}: a w×h grid (cell viewBox-units each) of walkable cells
+  // (inside the walls, minus water, plus carved bridge corridors), packed 1 bit/cell.
+  var NW = 0, NH = 0, NCELL = 1, WALK = null;
+  if (M.nav && M.nav.bits) {
+    NW = M.nav.w; NH = M.nav.h; NCELL = M.nav.cell;
+    var _bin = atob(M.nav.bits); WALK = new Uint8Array(NW * NH);
+    for (var _i = 0; _i < NW * NH; _i++) WALK[_i] = (_bin.charCodeAt(_i >> 3) >> (7 - (_i & 7))) & 1;
   }
+  function wOK(gx, gy) { return gx >= 0 && gy >= 0 && gx < NW && gy < NH && WALK[gy * NW + gx]; }
+  function toCell(x, y) { return [Math.max(0, Math.min(NW - 1, Math.floor(x / NCELL))), Math.max(0, Math.min(NH - 1, Math.floor(y / NCELL)))]; }
+  function snapWalk(gx, gy) {
+    if (wOK(gx, gy)) return [gx, gy];
+    for (var r = 1; r < 90; r++)
+      for (var dy = -r; dy <= r; dy++) for (var dx = -r; dx <= r; dx++) {
+        if (Math.max(Math.abs(dx), Math.abs(dy)) !== r) continue;
+        if (wOK(gx + dx, gy + dy)) return [gx + dx, gy + dy];
+      }
+    return null;
+  }
+  function astar(s, g) {
+    if (!WALK) return null;
+    var N = NW * NH, si = s[1] * NW + s[0], gi = g[1] * NW + g[0];
+    if (!WALK[si] || !WALK[gi]) return null;
+    function hh(x, y) { var dx = Math.abs(x - g[0]), dy = Math.abs(y - g[1]); return (dx + dy) + (1.4142 - 2) * Math.min(dx, dy); }
+    var gs = new Float64Array(N); gs.fill(Infinity); gs[si] = 0;
+    var came = new Int32Array(N); came.fill(-1);
+    var closed = new Uint8Array(N), heap = [[hh(s[0], s[1]), si]];
+    function push(f, i) { heap.push([f, i]); var c = heap.length - 1; while (c > 0) { var p = (c - 1) >> 1; if (heap[p][0] <= heap[c][0]) break; var t = heap[p]; heap[p] = heap[c]; heap[c] = t; c = p; } }
+    function pop() { var top = heap[0], last = heap.pop(); if (heap.length) { heap[0] = last; var c = 0, n = heap.length; for (;;) { var l = 2 * c + 1, r = l + 1, m = c; if (l < n && heap[l][0] < heap[m][0]) m = l; if (r < n && heap[r][0] < heap[m][0]) m = r; if (m === c) break; var t = heap[m]; heap[m] = heap[c]; heap[c] = t; c = m; } } return top; }
+    var DIR = [[1, 0, 1], [-1, 0, 1], [0, 1, 1], [0, -1, 1], [1, 1, 1.4142], [1, -1, 1.4142], [-1, 1, 1.4142], [-1, -1, 1.4142]];
+    while (heap.length) {
+      var ci = pop()[1];
+      if (closed[ci]) continue; closed[ci] = 1;
+      if (ci === gi) break;
+      var cx = ci % NW, cy = (ci / NW) | 0, base = gs[ci];
+      for (var d = 0; d < 8; d++) {
+        var nx = cx + DIR[d][0], ny = cy + DIR[d][1];
+        if (!wOK(nx, ny)) continue;
+        if (DIR[d][2] > 1 && (!wOK(nx, cy) || !wOK(cx, ny))) continue;   // no corner-cutting
+        var ni = ny * NW + nx, ng = base + DIR[d][2];
+        if (ng < gs[ni]) { gs[ni] = ng; came[ni] = ci; push(ng + hh(nx, ny), ni); }
+      }
+    }
+    if (gi !== si && came[gi] < 0) return null;
+    var path = [], c = gi; while (c !== -1) { path.push([c % NW, (c / NW) | 0]); if (c === si) break; c = came[c]; }
+    return path.reverse();
+  }
+  function losClear(a, b) {   // Bresenham line-of-sight over walkable cells
+    var x0 = a[0], y0 = a[1], x1 = b[0], y1 = b[1], dx = Math.abs(x1 - x0), dy = Math.abs(y1 - y0),
+        sx = x0 < x1 ? 1 : -1, sy = y0 < y1 ? 1 : -1, e = dx - dy;
+    for (;;) { if (!wOK(x0, y0)) return false; if (x0 === x1 && y0 === y1) return true; var e2 = 2 * e; if (e2 > -dy) { e -= dy; x0 += sx; } if (e2 < dx) { e += dx; y0 += sy; } }
+  }
+  function smooth(path) {   // string-pull: drop intermediate cells with clear line-of-sight
+    if (!path || path.length < 3) return path;
+    var out = [path[0]], i = 0;
+    while (i < path.length - 1) { var j = path.length - 1; while (j > i + 1 && !losClear(path[i], path[j])) j--; out.push(path[j]); i = j; }
+    return out;
+  }
+  function cellCenter(c) { return [(c[0] + 0.5) * NCELL, (c[1] + 0.5) * NCELL]; }
   function drawRoute() {
     while (gRoute.firstChild) gRoute.removeChild(gRoute.firstChild);
     var pts = route.map(function (id) { return poiById[id]; }).filter(Boolean);
     var line = [], quarters = [];
     for (var i = 0; i < pts.length - 1; i++) {
       var a = pts[i], b = pts[i + 1];
-      var qa = nearestSeedName(a.x, a.y), qb = nearestSeedName(b.x, b.y);
-      var qpath = dijkstra(qa, qb) || [qa, qb];
       if (i === 0) line.push([a.x, a.y]);
-      for (var kk = 0; kk < qpath.length; kk++) {
-        var qn = qpath[kk];
-        if (kk > 0) { var v = VIA[qpath[kk - 1] + '|' + qn]; if (v) line.push([v[0], v[1]]); }
-        var nd = QNODE[qn]; if (nd) line.push([nd.x, nd.y]);
-        if (quarters[quarters.length - 1] !== qn) quarters.push(qn);
-      }
+      var sa = (function (c) { return snapWalk(c[0], c[1]); })(toCell(a.x, a.y));
+      var sb = (function (c) { return snapWalk(c[0], c[1]); })(toCell(b.x, b.y));
+      var seg = (sa && sb) ? astar(sa, sb) : null;
+      if (seg) { seg = smooth(seg); for (var k = 0; k < seg.length; k++) line.push(cellCenter(seg[k])); }
       line.push([b.x, b.y]);
     }
+    line.forEach(function (p) { var q = quarterAt(p[0], p[1]); if (q && quarters[quarters.length - 1] !== q) quarters.push(q); });
     if (line.length >= 2)
       gRoute.appendChild(el('polyline', { points: line.map(function (p) { return p[0].toFixed(1) + ',' + p[1].toFixed(1); }).join(' '),
         'class': 'carte-route' }));
     pts.forEach(function (p) { gRoute.appendChild(el('circle', { cx: p.x, cy: p.y, r: 5, 'class': 'carte-route-pt' })); });
     var seen = {}, qd = quarters.filter(function (q) { if (seen[q]) return false; seen[q] = 1; return true; });
     var h = '<h3>Trajet</h3><span class="carte-zone-tag">' + pts.length + ' point(s)</span>';
-    if (!pts.length) h += '<p class="carte-panel-empty">Clique des lieux pour tracer un trajet (Dijkstra par quartiers).</p>';
+    if (!pts.length) h += '<p class="carte-panel-empty">Clique des lieux pour tracer un trajet (à pied, par les ponts).</p>';
     if (pts.length) h += '<h4>Étapes</h4><ul class="carte-poi-list">'
       + pts.map(function (p) { return '<li>' + esc(p.name) + '</li>'; }).join('') + '</ul>';
     if (qd.length) h += '<h4>Quartiers traversés (' + qd.length + ')</h4><ul class="carte-poi-list">'

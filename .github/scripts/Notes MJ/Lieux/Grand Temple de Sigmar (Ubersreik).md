@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: sud
   quartier: Marktplatz
-  x: 402.0
-  y: 412.0
+  x: 426
+  y: 414.3
   desc: "Le plus grand temple de la ville, dédié à Sigmar, saint patron de l'Empire ; premier bâtiment reconstruit sur ordre de Magnus le Pieux après la destruction par les peaux-vertes lors de la Grande Guerre contre le Chaos. Sa façade à piliers peut accueillir plusieurs centaines de fidèles ; le Grand Prêtre est le père Gunther Emming."
   source: gazetteer-auto
 ---

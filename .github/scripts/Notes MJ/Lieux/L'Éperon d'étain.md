@@ -5,8 +5,8 @@ carte:
   type: autre
   importance: Mineur
   section: sud
-  x: 447.6
-  y: 529.2
+  x: 636.0
+  y: 330.5
   desc: "Grand bâtiment circulaire à ciel ouvert hors les murs, près de la route de Nuln : arène de combats d'ours, de chiens et de gladiateurs, parfois louée pour des pièces de théâtre. Propriété de l'Estimée Compagnie d'Acteurs d'Ubersreik."
   source: gazetteer-auto
 ---

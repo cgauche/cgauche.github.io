@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: sud
   quartier: Morgenseite
-  x: 581.6
-  y: 386.4
+  x: 614.4
+  y: 378.1
   desc: "Le plus imposant bâtiment de Morgenseite, fort de deux cent trente-neuf chambres et visible de toute la ville ; siège séculaire des von Bruner, dont la richesse vient de leurs mines dans les Hägercrybs. Jetée et hangars à bateaux sur la Teufel."
   source: gazetteer-auto
 ---

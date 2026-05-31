@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Morgenseite
-  x: 499.2
-  y: 384.0
+  x: 527.2
+  y: 376.1
   desc: "Boutique longue et basse à la façade de pierre gravée de masques, incontournable pour déguisements, masques fantaisie et costumes traditionnels. Tenue par Madame Beaumarteau, assistée de couturières halflings."
   source: gazetteer-auto
 ---

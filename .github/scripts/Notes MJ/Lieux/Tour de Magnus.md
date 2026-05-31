@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Le Bastion
-  x: 386.8
-  y: 172.8
+  x: 410.4
+  y: 167.7
   desc: "Plus haut bâtiment d'Ubersreik, grande flèche fortifiée au cœur du Bastion, accessible par des ascenseurs nains à contrepoids. Seule position militaire échappant à l'armée régulière d'Altdorf, tenue par les soldats de la ville ; abrite hallebardiers, arbalétriers, ingénieurs et l'artillerie de la ville."
   source: gazetteer-auto
 ---

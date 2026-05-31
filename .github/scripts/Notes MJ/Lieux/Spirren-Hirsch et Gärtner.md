@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Quartier des Marchands
-  x: 496.8
-  y: 434.8
+  x: 524.4
+  y: 426.1
   desc: "Cabinet des hommes de loi les plus en vue d'Ubersreik, doté de nombreuses entrées discrètes (dont une issue secrète vers les égouts), ce qui sert sa propension à représenter les deux parties d'une même affaire civile. Associés principaux : Melina Spirren-Hirsch et Wilhelm Gärtner."
   source: gazetteer-auto
 ---

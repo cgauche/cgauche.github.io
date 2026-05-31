@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Quartier des Marchands
-  x: 472.4
-  y: 368.4
+  x: 499.2
+  y: 360.9
   desc: "Orphelinat et école affiliée financés par la Guilde des Marchands d'Ubersreik pour afficher sa philanthropie, installé dans un grand bâtiment étroit du Quartier des Marchands. Dirigé par Frederich Gewinnguter, qui y vit avec sa femme Hilde."
   source: gazetteer-auto
 ---

@@ -10,7 +10,7 @@ carte:
 
 # Entwässerung
 
-> **Où** : The Zinnentor, Salzenmund.
+> **Où** : Zinnentor, Salzenmund.
 > **Type** : quartier.
 
 ## Description

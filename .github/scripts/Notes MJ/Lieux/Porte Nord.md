@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Le Bastion
-  x: 321
-  y: 137
+  x: 338
+  y: 136.3
   desc: "L'une des trois portes franchissant la grande muraille d'Ubersreik, conçue sous Magnus le Pieux pour laisser passer « un régiment entier en ordre de marche ». Fermée du coucher à l'aube par une porte de chêne renforcée de fer, une herse et des mécanismes nains, et surveillée par les Douanes et le Guet."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: sud
   quartier: Marktplatz
-  x: 406
-  y: 444
+  x: 434.4
+  y: 434.5
   desc: "Temple modeste dédié à Verena, déesse de la Sagesse et de la Justice, voisin du Temple de Shallya ; fréquenté par les érudits et l'appareil judiciaire. Une annexe conserve une bibliothèque publique de statuts, registres et procès-verbaux."
   source: gazetteer-auto
 ---

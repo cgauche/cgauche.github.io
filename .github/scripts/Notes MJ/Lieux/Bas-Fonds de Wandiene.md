@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Quartier des Artisans
-  x: 370
-  y: 134
+  x: 430.0
+  y: 137.3
   desc: "Le plus grand et le plus connu des bidonvilles d'Ubersreik, au nord-ouest du Quartier des Artisans, coincé entre les murs de la ville et les fortifications du Bastion. Surpeuplé et sans contrôle de population, dépourvu d'égouts, il abrite voleurs et maquerelles ; le Guet n'y passe jamais."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Le Bastion
-  x: 407.2
-  y: 173.2
+  x: 432.0
+  y: 168.1
   desc: "Temple de Sigmar strictement fonctionnel, sans fioritures, surtout fréquenté par soldats et sous-officiers. Sa Grande Prêtresse, mère Dörflinger, manchote depuis un combat contre les peaux-vertes, y entraîne la milice de la ville."
   source: gazetteer-auto
 ---

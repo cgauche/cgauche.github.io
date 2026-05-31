@@ -14,7 +14,7 @@ carte:
 
 # Rhyasgatter
 
-> **Où** : Entwasserung, The Zinnentor, Salzenmund.
+> **Où** : Entwasserung, Zinnentor, Salzenmund.
 > **Type** : militaire. *(p. 57)*
 
 ## Description

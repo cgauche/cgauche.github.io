@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Roche Noire
-  x: 274.4
-  y: 231.2
+  x: 292.0
+  y: 224.9
   desc: "Donjon trapu au nord-est de la forteresse de Roche Noire, longtemps résidence officielle du baron du Val de la Dame, héritier du duché d'Ubersreik ; il abrite la plus grande salle de bal du Vorbergland, où les Jungfreud donnaient leurs fêtes. Il sert aujourd'hui de demeure au Héraut Impérial."
   source: gazetteer-auto
 ---

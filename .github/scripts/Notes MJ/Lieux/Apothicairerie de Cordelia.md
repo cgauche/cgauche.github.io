@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Quartier des Artisans
-  x: 557.6
-  y: 202.4
+  x: 589.2
+  y: 196.9
   desc: "Apothicairerie installée sur une petite place pavée au bout du Chemin du Magicien, signalée par un mortier et un pilon de bois peint. Réputée pour ses prix justes, elle est tenue de longue date par une herboriste à l'écoute, au fait de nombreuses rumeurs de la ville."
   source: gazetteer-auto
 ---

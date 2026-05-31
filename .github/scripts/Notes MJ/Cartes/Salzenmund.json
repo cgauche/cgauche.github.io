@@ -99,28 +99,44 @@
       318
     ],
     [
-      1078,
-      348
+      1100,
+      335
     ],
     [
-      1056,
-      388
+      1113,
+      366
     ],
     [
-      1040,
-      460
+      1103,
+      410
     ],
     [
-      1018,
+      1093,
+      452
+    ],
+    [
+      1068,
+      498
+    ],
+    [
+      1030,
       540
     ],
     [
-      998,
-      588
+      988,
+      566
     ],
     [
-      945,
-      648
+      942,
+      602
+    ],
+    [
+      906,
+      652
+    ],
+    [
+      902,
+      690
     ],
     [
       900,
@@ -190,72 +206,100 @@
         681.0
       ],
       [
-        671.0,
-        692.5
+        669.5,
+        693.5
       ],
       [
-        662.0,
-        696.5
+        659.5,
+        697.5
       ],
       [
-        634.5,
-        700.0
+        642.0,
+        697.5
       ],
       [
-        624.5,
-        705.0
+        635.5,
+        699.5
       ],
       [
-        607.5,
-        722.5
+        622.0,
+        707.5
+      ],
+      [
+        604.5,
+        725.5
+      ],
+      [
+        599.5,
+        726.5
+      ],
+      [
+        580.5,
+        720.5
       ],
       [
         575.5,
         721.5
       ],
       [
-        590.5,
-        730.0
+        586.0,
+        728.5
       ],
       [
-        593.0,
-        741.0
+        593.5,
+        730.5
       ],
       [
-        585.0,
-        751.0
+        597.0,
+        738.5
+      ],
+      [
+        587.0,
+        750.5
+      ],
+      [
+        569.0,
+        756.5
       ],
       [
         558.5,
         757.0
       ],
       [
-        576.5,
+        565.0,
         763.0
       ],
       [
-        584.0,
+        581.5,
         761.5
       ],
       [
-        597.0,
-        755.0
+        597.5,
+        754.5
       ],
       [
-        613.0,
-        740.0
+        610.5,
+        742.5
       ],
       [
-        632.5,
-        710.5
+        627.5,
+        713.0
       ],
       [
-        646.5,
-        703.5
+        647.0,
+        703.0
       ],
       [
-        670.0,
-        700.5
+        667.0,
+        701.5
+      ],
+      [
+        673.0,
+        699.0
+      ],
+      [
+        687.0,
+        688.5
       ]
     ],
     [
@@ -268,16 +312,24 @@
         592.5
       ],
       [
-        724.5,
-        612.0
+        728.0,
+        600.0
       ],
       [
-        706.5,
-        639.5
+        725.0,
+        611.0
+      ],
+      [
+        711.0,
+        637.0
+      ],
+      [
+        703.0,
+        646.5
       ],
       [
         695.0,
-        662.5
+        665.0
       ],
       [
         696.5,
@@ -288,16 +340,16 @@
         667.0
       ],
       [
-        710.0,
-        646.0
+        707.5,
+        651.0
       ],
       [
-        730.0,
-        616.5
+        723.5,
+        629.5
       ],
       [
-        735.5,
-        602.0
+        734.5,
+        605.0
       ],
       [
         736.0,
@@ -310,16 +362,32 @@
         447.5
       ],
       [
+        674.0,
+        443.0
+      ],
+      [
         667.0,
+        442.5
+      ],
+      [
+        664.5,
         440.5
       ],
       [
-        652.0,
+        651.5,
         441.5
       ],
       [
-        620.0,
-        460.5
+        636.0,
+        449.0
+      ],
+      [
+        619.0,
+        461.0
+      ],
+      [
+        610.0,
+        464.5
       ],
       [
         603.0,
@@ -334,7 +402,7 @@
         473.5
       ],
       [
-        647.5,
+        645.0,
         450.5
       ],
       [
@@ -342,8 +410,12 @@
         448.5
       ],
       [
-        672.5,
+        673.5,
         452.0
+      ],
+      [
+        679.0,
+        450.5
       ]
     ],
     [
@@ -352,52 +424,80 @@
         217.0
       ],
       [
+        821.5,
+        222.5
+      ],
+      [
         822.0,
-        238.0
+        236.0
       ],
       [
-        805.0,
-        268.0
+        814.5,
+        250.5
       ],
       [
-        791.5,
-        266.5
+        811.5,
+        266.0
+      ],
+      [
+        807.5,
+        271.5
+      ],
+      [
+        799.5,
+        271.5
+      ],
+      [
+        787.0,
+        260.0
       ],
       [
         771.0,
         250.5
       ],
       [
+        768.0,
+        251.0
+      ],
+      [
         764.5,
         256.5
       ],
       [
-        772.5,
-        261.0
+        775.0,
+        263.5
       ],
       [
-        791.5,
-        282.0
+        792.5,
+        283.0
+      ],
+      [
+        801.5,
+        287.5
       ],
       [
         802.5,
-        291.0
+        294.5
       ],
       [
-        809.0,
-        307.5
+        813.0,
+        311.5
       ],
       [
-        830.0,
-        342.5
+        814.5,
+        319.0
+      ],
+      [
+        828.0,
+        338.5
       ],
       [
         833.5,
         357.0
       ],
       [
-        849.5,
-        376.0
+        850.5,
+        377.5
       ],
       [
         853.5,
@@ -405,71 +505,95 @@
       ],
       [
         861.0,
-        396.0
+        393.5
       ],
       [
         862.5,
         415.5
       ],
       [
-        852.5,
-        431.0
+        848.5,
+        439.0
       ],
       [
         845.0,
         450.5
       ],
       [
-        830.5,
-        464.5
+        831.5,
+        464.0
       ],
       [
-        814.0,
-        471.5
+        825.5,
+        465.0
       ],
       [
-        809.5,
-        476.5
+        814.5,
+        471.0
       ],
       [
-        801.0,
+        810.5,
+        477.0
+      ],
+      [
+        803.5,
         477.5
       ],
       [
-        782.0,
+        784.5,
         486.0
       ],
       [
-        725.0,
-        476.5
+        734.5,
+        479.0
       ],
       [
-        713.0,
-        472.0
+        712.0,
+        471.5
       ],
       [
-        692.5,
+        700.5,
+        462.5
+      ],
+      [
+        693.0,
         460.0
+      ],
+      [
+        689.0,
+        463.0
       ],
       [
         687.5,
         469.5
       ],
       [
-        700.5,
-        481.5
+        695.5,
+        479.0
       ],
       [
-        744.0,
-        493.5
+        747.5,
+        495.0
       ],
       [
-        761.0,
-        514.0
+        755.0,
+        501.0
       ],
       [
-        760.0,
-        531.0
+        756.5,
+        506.5
+      ],
+      [
+        760.5,
+        511.0
+      ],
+      [
+        758.5,
+        520.5
+      ],
+      [
+        759.5,
+        532.5
       ],
       [
         755.5,
@@ -492,48 +616,64 @@
         559.0
       ],
       [
-        766.0,
-        545.5
+        762.0,
+        549.5
       ],
       [
-        792.5,
-        532.5
+        779.5,
+        536.5
       ],
       [
-        798.5,
-        526.0
+        793.5,
+        531.5
+      ],
+      [
+        793.0,
+        527.0
+      ],
+      [
+        797.0,
+        522.5
       ],
       [
         806.0,
         525.0
       ],
       [
-        838.0,
-        509.0
+        837.5,
+        508.0
       ],
       [
-        859.5,
+        862.5,
         506.5
       ],
       [
-        873.0,
-        512.0
+        877.5,
+        514.5
       ],
       [
         883.0,
-        524.0
+        522.0
       ],
       [
         883.0,
-        540.5
+        537.5
+      ],
+      [
+        879.0,
+        545.0
       ],
       [
         878.0,
-        559.5
+        557.5
       ],
       [
-        883.0,
-        569.5
+        883.5,
+        570.5
+      ],
+      [
+        890.0,
+        580.5
       ],
       [
         894.0,
@@ -549,47 +689,63 @@
       ],
       [
         891.0,
-        548.0
+        550.5
       ],
       [
-        896.0,
-        534.0
+        895.5,
+        542.0
+      ],
+      [
+        895.5,
+        533.5
       ],
       [
         898.5,
-        531.5
-      ],
-      [
-        910.0,
         530.0
       ],
       [
-        916.0,
-        527.0
+        907.5,
+        530.0
       ],
       [
-        934.5,
-        505.5
+        918.0,
+        525.0
       ],
       [
-        939.5,
-        504.0
+        920.5,
+        519.5
       ],
       [
-        950.5,
-        495.5
+        928.5,
+        514.0
+      ],
+      [
+        933.0,
+        506.0
+      ],
+      [
+        938.5,
+        504.5
+      ],
+      [
+        950.0,
+        494.5
       ],
       [
         958.0,
         494.5
       ],
       [
-        963.5,
-        484.5
+        965.0,
+        483.5
       ],
       [
-        980.0,
-        470.5
+        974.0,
+        478.0
+      ],
+      [
+        981.5,
+        469.5
       ],
       [
         1012.5,
@@ -604,68 +760,124 @@
         446.0
       ],
       [
-        1028.5,
-        440.5
+        1027.0,
+        441.0
       ],
       [
-        1032.5,
-        436.5
+        1031.0,
+        436.0
       ],
       [
-        1037.5,
-        436.5
+        1038.0,
+        435.5
       ],
       [
-        1044.0,
-        439.5
+        1043.0,
+        440.0
       ],
       [
-        1055.5,
-        391.0
+        1052.5,
+        436.0
       ],
       [
-        1044.0,
+        1057.0,
+        431.0
+      ],
+      [
+        1066.0,
+        431.5
+      ],
+      [
+        1074.5,
+        427.0
+      ],
+      [
+        1090.5,
+        426.0
+      ],
+      [
+        1099.5,
+        422.5
+      ],
+      [
+        1106.5,
         394.5
       ],
       [
-        1032.5,
+        1092.5,
+        389.5
+      ],
+      [
+        1075.0,
+        389.5
+      ],
+      [
+        1068.0,
         392.5
       ],
       [
-        1000.0,
-        403.5
+        1058.5,
+        390.0
       ],
       [
-        979.5,
+        1043.5,
+        394.5
+      ],
+      [
+        1035.0,
+        392.5
+      ],
+      [
+        998.0,
+        404.0
+      ],
+      [
+        963.5,
+        404.0
+      ],
+      [
+        956.5,
         406.0
       ],
       [
-        943.0,
-        403.5
+        942.0,
+        404.0
+      ],
+      [
+        920.0,
+        393.0
       ],
       [
         914.0,
-        392.5
+        392.0
+      ],
+      [
+        882.5,
+        360.0
       ],
       [
         874.5,
         354.0
       ],
       [
-        867.0,
+        866.5,
         353.0
       ],
       [
-        846.0,
-        331.5
+        849.0,
+        334.5
       ],
       [
-        830.5,
-        320.5
+        838.0,
+        330.5
       ],
       [
-        825.0,
-        298.0
+        831.0,
+        324.0
+      ],
+      [
+        824.0,
+        295.0
       ],
       [
         818.0,
@@ -673,7 +885,11 @@
       ],
       [
         817.5,
-        271.5
+        271.0
+      ],
+      [
+        826.0,
+        253.5
       ],
       [
         835.0,
@@ -686,6 +902,10 @@
       [
         833.5,
         215.5
+      ],
+      [
+        827.0,
+        218.0
       ]
     ],
     [
@@ -702,16 +922,24 @@
         189.0
       ],
       [
-        736.5,
-        212.5
+        735.0,
+        200.0
       ],
       [
-        734.5,
-        215.0
+        739.0,
+        205.0
       ],
       [
-        726.5,
-        215.0
+        739.5,
+        213.5
+      ],
+      [
+        736.0,
+        218.0
+      ],
+      [
+        729.0,
+        217.5
       ],
       [
         711.5,
@@ -722,8 +950,24 @@
         208.0
       ],
       [
-        743.0,
-        240.0
+        716.5,
+        215.5
+      ],
+      [
+        725.5,
+        224.0
+      ],
+      [
+        729.5,
+        225.0
+      ],
+      [
+        743.5,
+        240.5
+      ],
+      [
+        748.0,
+        243.0
       ],
       [
         753.0,
@@ -734,12 +978,12 @@
         236.0
       ],
       [
-        740.5,
-        201.0
+        744.5,
+        209.0
       ],
       [
-        727.5,
-        164.0
+        726.0,
+        161.0
       ]
     ],
     [
@@ -752,20 +996,36 @@
         161.5
       ],
       [
-        808.0,
-        181.0
+        797.5,
+        173.5
+      ],
+      [
+        807.0,
+        180.5
       ],
       [
         816.0,
         197.0
       ],
       [
+        820.5,
+        198.5
+      ],
+      [
         832.5,
         196.0
       ],
       [
-        803.0,
-        168.5
+        823.0,
+        189.5
+      ],
+      [
+        803.5,
+        169.0
+      ],
+      [
+        801.0,
+        156.0
       ],
       [
         798.0,
@@ -779,19 +1039,23 @@
       ],
       [
         643.5,
-        95.0
+        92.5
+      ],
+      [
+        638.0,
+        103.5
       ],
       [
         637.5,
-        112.0
+        111.5
       ],
       [
-        640.5,
-        117.5
+        641.0,
+        118.0
       ],
       [
-        647.0,
-        120.5
+        647.5,
+        121.0
       ],
       [
         654.5,
@@ -802,16 +1066,32 @@
         138.5
       ],
       [
-        683.0,
+        665.0,
+        143.5
+      ],
+      [
+        674.0,
+        144.5
+      ],
+      [
+        685.5,
         150.0
+      ],
+      [
+        694.0,
+        149.5
+      ],
+      [
+        706.0,
+        154.5
       ],
       [
         711.0,
         153.5
       ],
       [
-        700.0,
-        146.5
+        711.5,
+        150.5
       ],
       [
         671.0,
@@ -827,11 +1107,11 @@
       ],
       [
         647.0,
-        111.0
+        113.5
       ],
       [
         645.5,
-        95.0
+        98.5
       ],
       [
         648.0,
@@ -845,11 +1125,19 @@
       ],
       [
         764.5,
-        103.5
+        101.0
       ],
       [
         779.0,
         138.5
+      ],
+      [
+        790.5,
+        135.5
+      ],
+      [
+        798.0,
+        138.0
       ],
       [
         804.0,
@@ -860,24 +1148,28 @@
         127.5
       ],
       [
-        803.0,
+        800.5,
         124.5
       ],
       [
-        793.0,
-        132.0
+        792.5,
+        135.0
       ],
       [
-        786.5,
-        132.0
+        787.0,
+        135.0
       ],
       [
-        784.0,
-        129.5
+        783.0,
+        131.5
       ],
       [
-        782.0,
-        121.5
+        780.5,
+        126.5
+      ],
+      [
+        781.0,
+        119.5
       ],
       [
         771.5,
@@ -885,7 +1177,7 @@
       ],
       [
         771.5,
-        97.5
+        97.0
       ],
       [
         775.0,
@@ -899,7 +1191,7 @@
   ],
   "quarterPolygons": [
     {
-      "name": "Castle Salzenmund",
+      "name": "Château de Salzenmund",
       "section": "zinnentor",
       "cx": 510,
       "cy": 180,
@@ -958,7 +1250,7 @@
         ],
         [
           634.5,
-          110.0
+          106.5
         ],
         [
           639.5,
@@ -970,7 +1262,7 @@
         ],
         [
           650.5,
-          105.5
+          109.0
         ]
       ]
     },
@@ -986,27 +1278,27 @@
         ],
         [
           650.5,
-          108.0
+          111.5
         ],
         [
-          672.0,
-          137.0
+          672.5,
+          137.5
         ],
         [
           715.0,
           154.0
         ],
         [
-          682.5,
-          153.5
+          705.5,
+          158.0
         ],
         [
-          656.0,
-          141.5
+          664.5,
+          147.0
         ],
         [
-          639.0,
-          121.0
+          638.5,
+          121.5
         ],
         [
           606.0,
@@ -1017,7 +1309,7 @@
           235.0
         ],
         [
-          830.5,
+          831.0,
           460.0
         ],
         [
@@ -1026,11 +1318,15 @@
         ],
         [
           858.0,
-          397.5
+          395.0
         ],
         [
-          799.5,
-          292.5
+          830.5,
+          358.5
+        ],
+        [
+          798.5,
+          289.0
         ],
         [
           761.5,
@@ -1041,12 +1337,12 @@
           247.5
         ],
         [
-          804.0,
-          264.0
+          807.0,
+          267.5
         ],
         [
-          816.5,
-          241.5
+          816.0,
+          240.0
         ],
         [
           806.5,
@@ -1062,10 +1358,10 @@
         ],
         [
           771.0,
-          127.5
+          126.5
         ],
         [
-          762.5,
+          762.0,
           94.0
         ],
         [
@@ -1105,23 +1401,23 @@
           380.5
         ],
         [
-          668.0,
-          437.5
+          670.0,
+          439.5
         ],
         [
-          711.5,
-          437.0
+          710.5,
+          438.0
         ],
         [
-          754.5,
+          751.5,
           478.5
         ],
         [
-          782.5,
+          785.0,
           482.5
         ],
         [
-          830.0,
+          830.5,
           460.5
         ],
         [
@@ -1206,10 +1502,10 @@
         ],
         [
           657.5,
-          453.5
+          453.0
         ],
         [
-          647.0,
+          644.5,
           454.5
         ],
         [
@@ -1225,16 +1521,16 @@
           463.0
         ],
         [
-          617.5,
-          458.0
+          616.5,
+          458.5
         ],
         [
-          649.5,
+          649.0,
           439.0
         ],
         [
-          667.5,
-          437.5
+          669.5,
+          439.5
         ],
         [
           611.0,
@@ -1259,7 +1555,7 @@
       ]
     },
     {
-      "name": "The Temple Ward",
+      "name": "Quartier du Temple",
       "section": "ulricshohe",
       "cx": 955,
       "cy": 165,
@@ -1333,8 +1629,8 @@
           230.5
         ],
         [
-          816.5,
-          240.0
+          816.0,
+          239.5
         ],
         [
           821.5,
@@ -1354,27 +1650,31 @@
         ],
         [
           821.5,
-          272.0
+          271.5
         ],
         [
-          834.0,
-          319.0
+          835.0,
+          323.5
         ],
         [
-          868.0,
+          850.5,
+          331.5
+        ],
+        [
+          867.5,
           349.5
         ],
         [
-          876.5,
-          351.5
+          884.0,
+          357.0
         ],
         [
-          915.5,
+          916.5,
           389.5
         ],
         [
-          933.0,
-          396.5
+          933.5,
+          396.0
         ],
         [
           956.5,
@@ -1409,16 +1709,16 @@
           193.5
         ],
         [
-          833.0,
-          199.5
+          834.0,
+          199.0
         ],
         [
-          815.5,
-          200.5
+          818.5,
+          202.0
         ],
         [
-          804.0,
-          181.5
+          802.5,
+          180.5
         ],
         [
           785.0,
@@ -1457,11 +1757,15 @@
           103.0
         ],
         [
-          787.5,
-          128.0
+          786.5,
+          130.0
         ],
         [
-          801.5,
+          790.5,
+          132.0
+        ],
+        [
+          799.0,
           121.5
         ],
         [
@@ -1469,12 +1773,12 @@
           128.0
         ],
         [
-          804.5,
-          139.0
+          802.5,
+          140.0
         ],
         [
-          780.0,
-          142.5
+          781.0,
+          142.0
         ],
         [
           770.5,
@@ -1497,11 +1801,11 @@
           149.0
         ],
         [
-          807.0,
-          168.0
+          807.5,
+          168.5
         ],
         [
-          834.5,
+          834.0,
           193.0
         ],
         [
@@ -1613,36 +1917,56 @@
           373.0
         ],
         [
-          934.0,
+          934.5,
           396.5
         ],
         [
-          947.0,
+          943.0,
           401.0
         ],
         [
-          978.5,
+          957.5,
           403.0
         ],
         [
-          999.0,
-          400.5
+          997.0,
+          401.0
         ],
         [
-          1031.5,
+          1034.0,
           389.5
         ],
         [
-          1045.0,
+          1044.5,
           391.0
         ],
         [
-          1056.0,
-          388.0
+          1057.5,
+          387.0
+        ],
+        [
+          1067.0,
+          389.5
+        ],
+        [
+          1074.0,
+          386.5
+        ],
+        [
+          1093.5,
+          386.5
+        ],
+        [
+          1107.5,
+          391.0
+        ],
+        [
+          1113.5,
+          366.0
         ],
         [
           1092.5,
-          318.0
+          319.0
         ]
       ]
     },
@@ -1757,7 +2081,7 @@
       "cy": 560,
       "poly": [
         [
-          658.0,
+          657.5,
           461.0
         ],
         [
@@ -1785,16 +2109,12 @@
           755.0
         ],
         [
-          582.0,
-          748.5
+          584.5,
+          748.0
         ],
         [
-          589.5,
-          740.5
-        ],
-        [
-          588.0,
-          732.5
+          593.5,
+          738.0
         ],
         [
           574.5,
@@ -1805,20 +2125,20 @@
           719.0
         ],
         [
-          606.5,
-          719.0
+          603.5,
+          722.0
         ],
         [
           678.0,
           655.0
         ],
         [
-          695.0,
+          695.5,
           654.5
         ],
         [
-          711.0,
-          627.0
+          712.0,
+          628.0
         ],
         [
           700.0,
@@ -1826,7 +2146,7 @@
         ],
         [
           698.5,
-          502.0
+          503.0
         ]
       ]
     },
@@ -1837,16 +2157,20 @@
       "cy": 600,
       "poly": [
         [
-          874.5,
-          518.0
+          877.5,
+          519.5
         ],
         [
-          839.0,
-          512.5
+          844.0,
+          511.0
         ],
         [
-          767.5,
-          548.5
+          798.0,
+          526.0
+        ],
+        [
+          767.0,
+          549.0
         ],
         [
           745.0,
@@ -1857,36 +2181,36 @@
           575.5
         ],
         [
-          743.0,
-          559.0
+          743.5,
+          558.0
         ],
         [
-          716.0,
-          559.0
+          715.0,
+          558.0
         ],
         [
           700.5,
-          574.5
+          572.5
         ],
         [
           700.5,
           616.0
         ],
         [
-          711.0,
-          626.5
+          712.0,
+          627.5
         ],
         [
-          726.0,
-          589.5
+          724.5,
+          591.0
         ],
         [
-          735.0,
-          587.5
+          734.0,
+          587.0
         ],
         [
           740.0,
-          598.0
+          596.5
         ],
         [
           706.0,
@@ -1897,7 +2221,7 @@
           671.5
         ],
         [
-          695.0,
+          695.5,
           655.5
         ],
         [
@@ -1905,35 +2229,35 @@
           655.5
         ],
         [
-          638.0,
-          696.0
+          638.5,
+          695.5
         ],
         [
-          661.0,
-          693.5
+          665.0,
+          692.0
         ],
         [
           683.5,
           678.0
         ],
         [
-          693.0,
-          684.5
+          692.5,
+          687.5
         ],
         [
-          670.5,
-          704.0
+          673.5,
+          702.5
         ],
         [
-          634.0,
-          713.5
+          629.0,
+          716.0
         ],
         [
-          617.0,
-          740.5
+          614.5,
+          743.0
         ],
         [
-          585.0,
+          582.5,
           764.5
         ],
         [
@@ -1945,16 +2269,24 @@
           758.0
         ],
         [
-          926.0,
-          671.0
+          900.5,
+          701.5
         ],
         [
-          894.5,
-          639.0
+          911.0,
+          645.5
         ],
         [
           885.5,
           615.5
+        ],
+        [
+          885.0,
+          578.5
+        ],
+        [
+          875.0,
+          559.0
         ]
       ]
     },
@@ -1965,19 +2297,19 @@
       "cy": 515,
       "poly": [
         [
-          674.0,
-          437.5
-        ],
-        [
-          672.5,
-          439.5
+          674.5,
+          438.5
         ],
         [
           684.5,
-          448.0
+          447.0
         ],
         [
-          673.0,
+          683.0,
+          451.0
+        ],
+        [
+          674.5,
           455.5
         ],
         [
@@ -1986,219 +2318,267 @@
         ],
         [
           658.0,
-          460.5
+          461.0
         ],
         [
           699.0,
-          502.0
+          503.0
         ],
         [
-          700.0,
-          574.5
+          699.5,
+          572.0
         ],
         [
-          716.0,
-          558.5
+          715.0,
+          557.5
+        ],
+        [
+          744.5,
+          557.0
+        ],
+        [
+          756.5,
+          531.0
+        ],
+        [
+          757.5,
+          512.5
+        ],
+        [
+          752.0,
+          502.5
         ],
         [
           745.0,
-          556.5
+          497.5
         ],
         [
-          751.5,
-          547.0
-        ],
-        [
-          758.0,
-          515.5
-        ],
-        [
-          743.0,
-          497.0
-        ],
-        [
-          698.0,
-          484.0
+          693.0,
+          481.5
         ],
         [
           684.5,
-          471.0
+          467.0
         ],
         [
-          689.0,
-          459.0
+          686.0,
+          461.5
         ],
         [
-          695.0,
-          457.5
+          694.0,
+          457.0
         ],
         [
-          726.0,
-          473.5
+          714.5,
+          469.0
         ],
         [
-          751.5,
-          477.5
+          750.0,
+          478.0
         ],
         [
-          711.5,
-          437.5
+          710.5,
+          438.5
         ]
       ]
     },
     {
-      "name": "The Lake Gate",
+      "name": "Porte du Lac",
       "section": "seeufer",
       "cx": 1085,
       "cy": 460,
       "poly": [
         [
-          1033.5,
-          440.0
+          1099.5,
+          426.5
+        ],
+        [
+          1089.5,
+          430.0
+        ],
+        [
+          1075.5,
+          430.5
+        ],
+        [
+          1066.5,
+          435.0
+        ],
+        [
+          1058.0,
+          434.5
+        ],
+        [
+          1054.0,
+          439.0
+        ],
+        [
+          1043.5,
+          443.5
+        ],
+        [
+          1035.0,
+          439.0
+        ],
+        [
+          1047.5,
+          452.0
+        ],
+        [
+          1048.5,
+          473.0
+        ],
+        [
+          1059.0,
+          483.5
+        ],
+        [
+          1076.0,
+          484.0
+        ],
+        [
+          1093.5,
+          451.5
+        ]
+      ]
+    },
+    {
+      "name": "Wagonzaun",
+      "section": "seeufer",
+      "cx": 1050,
+      "cy": 510,
+      "poly": [
+        [
+          1074.5,
+          486.0
+        ],
+        [
+          1062.0,
+          485.5
+        ],
+        [
+          1047.0,
+          473.5
+        ],
+        [
+          1031.0,
+          490.5
+        ],
+        [
+          1030.0,
+          510.5
+        ],
+        [
+          905.5,
+          635.0
+        ],
+        [
+          905.5,
+          639.5
+        ],
+        [
+          911.0,
+          645.0
+        ],
+        [
+          943.0,
+          601.0
+        ],
+        [
+          988.5,
+          565.5
+        ],
+        [
+          1029.5,
+          540.5
+        ],
+        [
+          1069.0,
+          497.0
+        ]
+      ]
+    },
+    {
+      "name": "Les Ruines",
+      "section": "seeufer",
+      "cx": 1010,
+      "cy": 490,
+      "poly": [
+        [
+          1034.5,
+          439.5
         ],
         [
           1029.0,
           449.0
         ],
         [
-          1019.5,
-          451.5
-        ],
-        [
-          1012.0,
-          459.5
-        ],
-        [
-          1022.0,
-          469.5
-        ],
-        [
-          1030.5,
-          471.5
-        ],
-        [
-          1035.5,
-          476.5
-        ],
-        [
-          1044.0,
-          443.0
-        ]
-      ]
-    },
-    {
-      "name": "The Wagonzaun",
-      "section": "seeufer",
-      "cx": 1050,
-      "cy": 510,
-      "poly": [
-        [
-          1034.5,
-          481.0
-        ],
-        [
-          894.5,
-          624.0
-        ],
-        [
-          895.0,
-          639.0
-        ],
-        [
-          926.0,
-          670.0
-        ],
-        [
-          998.5,
-          587.5
-        ],
-        [
-          1018.5,
-          540.0
-        ]
-      ]
-    },
-    {
-      "name": "The Ruins",
-      "section": "seeufer",
-      "cx": 1010,
-      "cy": 490,
-      "poly": [
-        [
-          1030.5,
+          984.0,
           472.0
         ],
         [
-          1022.0,
-          470.0
-        ],
-        [
-          1009.5,
-          459.5
-        ],
-        [
-          979.5,
-          475.0
-        ],
-        [
-          967.0,
-          486.0
+          969.0,
+          484.0
         ],
         [
           959.5,
           497.5
         ],
         [
-          951.5,
-          499.0
+          951.0,
+          498.0
         ],
         [
-          936.0,
+          935.0,
           509.0
         ],
         [
-          917.5,
-          530.0
+          919.5,
+          528.0
         ],
         [
           899.5,
-          535.5
-        ],
-        [
-          895.0,
-          548.5
+          534.0
         ],
         [
           895.5,
-          564.5
+          565.5
         ],
         [
           902.0,
           580.0
         ],
         [
-          893.5,
+          894.5,
           586.0
         ],
         [
           885.5,
-          578.0
+          580.0
         ],
         [
           885.5,
           613.5
         ],
         [
-          894.0,
-          624.0
+          905.0,
+          635.0
         ],
         [
-          1018.5,
-          499.5
+          1029.5,
+          510.5
         ],
         [
-          1035.5,
-          478.5
+          1030.5,
+          490.5
+        ],
+        [
+          1048.0,
+          472.0
+        ],
+        [
+          1047.5,
+          453.0
         ]
       ]
     }
@@ -2206,7 +2586,7 @@
   "edges": [
     {
       "a": "Addasheim",
-      "b": "The Wagonzaun",
+      "b": "Wagonzaun",
       "bridge": false
     },
     {
@@ -2215,17 +2595,17 @@
       "bridge": false
     },
     {
-      "a": "Castle Salzenmund",
+      "a": "Château de Salzenmund",
       "b": "Entwässerung",
       "bridge": false
     },
     {
-      "a": "Castle Salzenmund",
+      "a": "Château de Salzenmund",
       "b": "Heulen",
       "bridge": false
     },
     {
-      "a": "Castle Salzenmund",
+      "a": "Château de Salzenmund",
       "b": "Moltkeplatz",
       "bridge": false
     },
@@ -2265,8 +2645,13 @@
       "bridge": false
     },
     {
-      "a": "The Lake Gate",
-      "b": "The Ruins",
+      "a": "Porte du Lac",
+      "b": "Les Ruines",
+      "bridge": false
+    },
+    {
+      "a": "Porte du Lac",
+      "b": "Wagonzaun",
       "bridge": false
     },
     {
@@ -2295,22 +2680,22 @@
       "bridge": false
     },
     {
-      "a": "The Temple Ward",
+      "a": "Quartier du Temple",
       "b": "Holzermarkt",
       "bridge": false
     },
     {
-      "a": "The Temple Ward",
+      "a": "Quartier du Temple",
       "b": "Reichsweg",
       "bridge": false
     },
     {
-      "a": "The Temple Ward",
+      "a": "Quartier du Temple",
       "b": "Totenschutz",
       "bridge": false
     },
     {
-      "a": "The Temple Ward",
+      "a": "Quartier du Temple",
       "b": "Wolfsmätze",
       "bridge": false
     },
@@ -2325,26 +2710,107 @@
       "bridge": false
     },
     {
-      "a": "The Wagonzaun",
-      "b": "The Ruins",
+      "a": "Wagonzaun",
+      "b": "Les Ruines",
       "bridge": false
+    },
+    {
+      "a": "Moltkeplatz",
+      "b": "Wolfsmätze",
+      "bridge": true,
+      "via": [
+        711.5,
+        150.5
+      ]
+    },
+    {
+      "a": "Wolfsmätze",
+      "b": "Moltkeplatz",
+      "bridge": true,
+      "via": [
+        786.0,
+        137.0
+      ]
+    },
+    {
+      "a": "Moltkeplatz",
+      "b": "Wolfsmätze",
+      "bridge": true,
+      "via": [
+        711.5,
+        199.0
+      ]
+    },
+    {
+      "a": "Holzermarkt",
+      "b": "Moltkeplatz",
+      "bridge": true,
+      "via": [
+        819.0,
+        198.5
+      ]
     },
     {
       "a": "Moltkeplatz",
       "b": "Holzermarkt",
       "bridge": true,
       "via": [
-        760,
-        280
+        753.5,
+        241.5
       ]
     },
     {
       "a": "Steinhafen",
+      "b": "Entwässerung",
+      "bridge": true,
+      "via": [
+        677.5,
+        451.0
+      ]
+    },
+    {
+      "a": "Schmutzmarkt",
       "b": "Magnusschild",
       "bridge": true,
       "via": [
-        700,
-        532
+        603.0,
+        467.0
+      ]
+    },
+    {
+      "a": "Addasheim",
+      "b": "Magnusschild",
+      "bridge": true,
+      "via": [
+        732.5,
+        590.0
+      ]
+    },
+    {
+      "a": "Addasheim",
+      "b": "Magnusschild",
+      "bridge": true,
+      "via": [
+        682.5,
+        682.5
+      ]
+    },
+    {
+      "a": "Magnusschild",
+      "b": "Blaumantel",
+      "bridge": true,
+      "via": [
+        493.9,
+        730.4
+      ]
+    },
+    {
+      "a": "Magnusschild",
+      "b": "Addasheim",
+      "bridge": true,
+      "via": [
+        575.5,
+        721.5
       ]
     }
   ],
@@ -2357,5 +2823,11 @@
     "y": 205,
     "w": 270,
     "h": 360
+  },
+  "nav": {
+    "w": 650,
+    "h": 412,
+    "cell": 2,
+    "bits": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//8AAAAAAAAAAAAAAAP////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///+AAAAAAAAAAA///////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////gAAAAAAf///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////wAAAH///////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////4B///////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////H/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////x//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////4f//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////7/////////+D///////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////+P/////////g////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////j/////////4P////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////8/////////+D/////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////P/////////g/////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////n/////////4f/////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////5/////////8P/////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////8f/////////D//////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////H/////////w//////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////h/////////+P/////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////4f/////////j//////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////+H/////////4f/////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////g//////////D/////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////4P/////////w//////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////+D/////////+H/////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////w//////////h/////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////8H/////////4P/////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////gf/////////B/////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////+D/////////wf/////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////4/////////+H/////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////H/////////h/3///////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////x/////////4f4P///////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////+P/////////H+D///////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////z/////////w/A///////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8f////////8Hgf///////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////D/////////jwP///////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////4P////////5+H////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////+B///////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////4H//////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////AH//////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////gH/////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////+AH////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////8AH////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////g////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////+H/////+A/////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////gP////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////4B////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////+Af////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////f////gH////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////j////8B////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////4/////gf////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////+P////8D////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////h/////g////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////wf////8H////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////+D/////A////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////w/////8H///////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////8P/////g////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////h/////+H///////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////8f/////w///////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////j/////8H///////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////4//////h///////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////P/////4P//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////5//////A///////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////+f/////wH//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////n/////+A//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////4//////iD//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////+P/////9x//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////h/////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////8f/////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////n/////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////4/////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////9/+P/////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////P/x/////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////5/8f////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////+P/D/////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////x/g/////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////+PwH/////9j/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////x8B/////+Af/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////+PgP/////gH/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////x8D/////4B/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////vgf////+Af/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////98H/////gH/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////vg/////4B/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////98P////+Af/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////Ph/////gP/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////58f////4D/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////Pn////+A//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////5//////AP/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////P/////wD/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////9/////4B//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////+A//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////AP/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////wH//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////8///4D//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////+D//+A//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////gP//gf//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////4B//4P//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////AH/8D//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////8A//B///////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////////gH/wf//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////8Af8H//////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////gD+D//////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////////8Afg///////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////////gDwf//////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////////////8AAH//////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////gAB///////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////////8AAf//////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////gAH//////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////4AB///////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////AAf//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////+AH//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////////4A///////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////+AH//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////gB//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////////4AP//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////+AD//////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////wA//////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////////+AH/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////gB//////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////8Af/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////gH/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////4A//////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////AP/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////wD/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////+A//////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////gH/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////4B/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////+Af/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////wH/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////+A/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////gP/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////8A/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////gH/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////8A/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////AB/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////4AH////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////AA////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////wAH////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////8AA////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////gAH////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////4AA////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////+AAH///////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////wAA////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////////////8AAH///////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////////////AAAf///////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////////////wAAA///////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////////////+AAAD//////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////////wAAAf//////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////////8AAAD//////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////////gAAAf//////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////////8AAAH//////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////////////gAAA//////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////////8AAAD//////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////////gAAAP/////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////////////4AAAD/////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////AAAAf/////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////////4AAAD/////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////AAAAf////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////wAAAD////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////////8AAAA/////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////gAAAD////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////4AAAAP///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////AAAAD////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////////////8AAAAf//////////+DwAHwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////////AAAAA/////////w4AAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////wAAAAD////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////+AAAAAP///////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////////gAAAAA//////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////4AAAAAD/////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////+AAAAAAH////wAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////////gAAAAAABwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////////gAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////wAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////+AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////////////AAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////wAAAAAAAAAAAAAAAAAD/8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////4AAAAAAAAAAAAAAAAAH/+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////////////+AAAAAAAAAAAAAAAAB3//gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////AAAAAAAAAAAAAAAAA///4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////gAAAAAAAAAAAAAAAAf//+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////4AAAAAAAAAAAAAAHwf///AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////////////8AAAAAAAAAAAAAAD+f///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////8B///////////////AAAAAAAAAAAAAAA/////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////8AA//////////////gAAAAAAAAAAAAAAP/////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////8AAH/////////////4AAAAAAAAAAAAAAD/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////8AAA/////////////+AAAAAAAAAAAAAAH/////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////8APAf/////////////gAAAAAAAAAAAAAH/////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////+D/+P/////////////wAAAAAAAAAAAAAD//////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////+D////////////////4AAAAAAAAAAAAAB//////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////B////////////////8AAAAAAAAAAAAAA//////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////B////////////////+AAAAAAAAAAAAAA//////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////h/////////////////AAAAAAAAAAAAAA///////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////g/////h///////////gAAAAAAAAAAAAA///////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////w/////4H//////////wAAAAAAAAAAAAB///////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////74/////8A//////////AAAAAAAAAAAAAB///////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////8//////AH/////////gAAAAAAAAAAAAB////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////+f/////wAf////////gAAAAAAAAAAAAB////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////f/////8AD////////gAAAAAAAAAAAAA////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////gAH///////wAAAAAAAAAAAAAf///////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////8AAP//////8AAAAAAAAAAAAAP////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////gAAf/////wAAAAAAAAAAAAAD////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////8AAAf////wAAAAAAAAAAAAAD////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////4AAAD///wAAAAAAAAAAAAAD////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////4AAAAP/gAAAAAAAAAAAAAB/////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////////wAAAABgAAAAAAAAAAAAAA/////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////gAAAAAAAAAAAAAAAAAAAP////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////AAAAAAAAAAAAAAAAAAAH////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////AAAAAAAAAAAAAAAAAAD/////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////////+AAAAAAAAAAAAAAAAAA/////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////8AAAAAAAAAAAAAAAAH/////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////gAAAAAAAAAAAAAAAD/////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////+AAAAAAAAAAAAAAAB//////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////wAAAAAAAAAAAAAAB//////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////8AAAAAAAAAAAAAAA//////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////AAAAAAAAAAAAAAA//////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////4AAAAAAB/wAAAAA//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////AAAAAAP//AAAAAP/////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////wAAAAAP//8AAAAH//////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////8AAAAAP///wAAAB//////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////AAAAAP///+AAAA//////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////wAAAAP////wAAA//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////4AAAAH////+AAAf/////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////+AAAAH/////gAAP//////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////gAAOH/////4AAD//////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////4AAH//////+AAB//////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////////AAB///////gAB//////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////wAAf//////4AB//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////8AAH//////+Af//////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////////+AAP///////wP///////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////////gAP///////4D///////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////wAf///////+A///////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////8AP////////gP//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////+AH////////wD//////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////gH////////8A//////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////4D/////////Af/////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////////+D/////////gH/////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////h/////////4D//////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////wf////////+A//////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////8P/////////gP/////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////+H/////////4D/////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////////D/////////+A/////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////h//////////gP////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////4//////////8D////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////8P//////////A////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////+H//////////wP///////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////////h//////////+D///////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////////w///////////w///////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////////////////////////4P//////////8P//////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////////+H///////////h///////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////////////////////////////////////4P//////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////////////////////B//////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/////////////////////////////////////4f/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB//////////////////////////////////////P/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////////////////3//////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////8//////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////H/////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////w/////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////8P////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////+D////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////h/////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////4f////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////+P////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////////D////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////x////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////4f////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////+H////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////////////D////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////w////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////4f///////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////////////+H////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////D////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////////////////g////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////4f///////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////8H////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//////////////////////D////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////////////h////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////wf///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////8P///////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////+H////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////////D////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/////////////////////h////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////4f///////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////8P///////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////////////////D////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////x////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////4f///////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////+P////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////////////////D////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////////////////w////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////8f////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////P////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB///////////////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////////////////7//////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///////////////8f/////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////+D/////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////////A//////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////////Af/////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////////Af/////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////////4eAP//////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///////////wAAP//////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///////////wAAP//////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//////////wB/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////4B/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////////4B/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////8A/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////+A/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////A//////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////////gf/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf///////wP/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////4D/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////x/8B/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////+D+Af/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////gGAP/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////8AAD/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////wAB/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////gA/////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////8AP/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB/////AH/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////wB/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB////8A/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///+AP////////////////////+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AH/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH///wD/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA///4B/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH//8A/////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//4Af/////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH/wAf/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/gAP/////////////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf/////////////////////gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf////////////////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//////////4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAf//+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=="
   }
 }

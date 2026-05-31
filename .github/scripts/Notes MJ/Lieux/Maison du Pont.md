@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Quartier des Artisans
-  x: 412
-  y: 244
+  x: 438.8
+  y: 238.1
   desc: "Auberge cossue au centre d'Ubersreik, près du pont nain, prisée des riches marchands et voyageurs ; grandes écuries, remise à diligences, bureau de poste. Relais des compagnies Boulet de Canon Express, Quatre Saisons et Express Impérial."
 ---
 

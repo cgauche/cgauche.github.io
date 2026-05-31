@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Le Bastion
-  x: 363.2
-  y: 198.0
+  x: 386.0
+  y: 192.9
   desc: "Grand temple austère d'Ulric, dieu de la Guerre et de l'Hiver, ressemblant à une forteresse, où brûle jour et nuit une flamme près d'une immense statue. Bien fréquenté du fait de la forte présence militaire ; tenu par le Père-Loup Holst Kretschmer et gardé par des Chevaliers du Loup Blanc."
   source: gazetteer-auto
 ---

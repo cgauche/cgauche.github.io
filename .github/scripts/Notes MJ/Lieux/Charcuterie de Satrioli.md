@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Quartier des Artisans
-  x: 470.4
-  y: 240.8
+  x: 499.2
+  y: 235.3
   desc: "Charcuterie florissante du Quartier des Artisans proposant saucisses, salaisons et fromages importés ; une nombreuse famille d'halflings y travaille. Sa cave abrite un cellier ainsi qu'un autel consacré à Myrmidia, déesse vénérée dans le Sud du Vieux Monde."
   source: gazetteer-auto
 ---
