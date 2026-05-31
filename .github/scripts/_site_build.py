@@ -5774,10 +5774,13 @@ CARTE_JS = """\
     var path = [], c = gi; while (c !== -1) { path.push([c % NW, (c / NW) | 0]); if (c === si) break; c = came[c]; }
     return path.reverse();
   }
-  function losClear(a, b) {   // Bresenham line-of-sight over walkable cells
-    var x0 = a[0], y0 = a[1], x1 = b[0], y1 = b[1], dx = Math.abs(x1 - x0), dy = Math.abs(y1 - y0),
-        sx = x0 < x1 ? 1 : -1, sy = y0 < y1 ? 1 : -1, e = dx - dy;
-    for (;;) { if (!wOK(x0, y0)) return false; if (x0 === x1 && y0 === y1) return true; var e2 = 2 * e; if (e2 > -dy) { e -= dy; x0 += sx; } if (e2 < dx) { e += dx; y0 += sy; } }
+  function losClear(a, b) {   // dense line-of-sight (≥2 samples/cell) so a smoothed
+    // segment never clips a water corner the coarse Bresenham line would skip
+    var dx = b[0] - a[0], dy = b[1] - a[1], n = Math.max(Math.abs(dx), Math.abs(dy)) * 2 || 1;
+    for (var i = 0; i <= n; i++) {
+      if (!wOK(Math.round(a[0] + dx * i / n), Math.round(a[1] + dy * i / n))) return false;
+    }
+    return true;
   }
   function smooth(path) {   // string-pull: drop intermediate cells with clear line-of-sight
     if (!path || path.length < 3) return path;
