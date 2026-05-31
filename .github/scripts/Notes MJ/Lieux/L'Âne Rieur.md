@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: ouest
+  section: homme
   quartier: Sudgarten
   x: 559.4
   y: 295.7

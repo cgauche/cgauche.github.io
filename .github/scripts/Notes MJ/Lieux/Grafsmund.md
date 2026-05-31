@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: ouest
+  section: libre
   x: 606.4
   y: 191.4
   desc: "Secteur aristocratique de Middenheim, peuplé de familles nobles titrées aux maisonnées remplies de serviteurs, avec des bâtiments aux façades élaborées ornées de colonnes et de figures héraldiques."

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: ouest
+  section: libre
   quartier: Grafsmund
   x: 607.7
   y: 199.9

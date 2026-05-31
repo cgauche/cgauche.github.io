@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: sud
+  section: homme
   x: 597.4
   y: 584.3
   desc: "Secteur résidentiel pauvre malgré une apparence de respectabilité, peuplé en majorité de manouvriers et de ruraux déçus, avec des maisons délabrées et des tavernes de mauvaise qualité."

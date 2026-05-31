@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  section: nord
+  section: herla
   quartier: Freiburg
   x: 833.5
   y: 246.3

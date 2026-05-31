@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: nord
+  section: herla
   x: 835.5
   y: 261.3
   desc: "Secteur résidentiel de classe moyenne à la réputation d'excentricité raffinée, peuplé d'érudits, de sorciers et de prêtres, avec ses nombreuses librairies et ses cafés animés."

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: est
+  section: libre
   quartier: Osttor
   x: 979.1
   y: 361.9

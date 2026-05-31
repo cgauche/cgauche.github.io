@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: centre
+  section: libre
   x: 735.0
   y: 210.0
   desc: "Vaste espace ouvert face aux portes du Middenpalaz, servant à la fois de lieu de défilé militaire et de musée en plein air consacré aux Grafs et ArUlric historiques."

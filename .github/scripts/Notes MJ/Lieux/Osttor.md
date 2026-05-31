@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: est
+  section: libre
   x: 961.4
   y: 378.0
   desc: "Secteur d'habitations de classe moyenne entre les portes Est et Nord, avec des maisons confortables et bien meublées, des boutiques et des tavernes de qualité moyenne."

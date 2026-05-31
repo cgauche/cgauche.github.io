@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: magie
   importance: Notable
-  section: nord
+  section: herla
   quartier: Freiburg
   x: 832.2
   y: 275.9

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: autre
   importance: Notable
-  section: centre
+  section: libre
   quartier: Königsgarten
   x: 885.0
   y: 205.0

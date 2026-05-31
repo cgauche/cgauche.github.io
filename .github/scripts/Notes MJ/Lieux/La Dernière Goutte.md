@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: est
+  section: gouda
   quartier: Altquartier
   x: 926.6
   y: 438.9

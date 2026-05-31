@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: commerce
   importance: Notable
-  section: sud
+  section: homme
   quartier: Sudtor
   x: 568
   y: 622

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: commerce
   importance: Notable
-  section: centre
+  section: libre
   quartier: Ulricsmund
   x: 613.2
   y: 359.5

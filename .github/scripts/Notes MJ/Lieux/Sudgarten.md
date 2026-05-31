@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: ouest
+  section: homme
   x: 570.5
   y: 366.2
   desc: "Secteur résidentiel de classe moyenne surnommé le « Coin de Verdure », abritant deux des quatre parcs publics de la cité entre la Sudgarten Allee, le Morrspark et le Grunpark."

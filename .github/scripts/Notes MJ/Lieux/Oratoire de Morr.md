@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  section: ouest
+  section: homme
   quartier: Sudgarten
   x: 605
   y: 313

@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: centre
+  section: libre
   x: 885.0
   y: 205.0
   desc: "Secteur oriental du Middenpalaz dominé par les jardins royaux, l'un des rares endroits de Middenheim où la végétation prospère en abondance depuis le temps d'Artur."

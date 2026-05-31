@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: noble
   importance: Notable
-  section: centre
+  section: libre
   quartier: Palast
   x: 713.2
   y: 163.5

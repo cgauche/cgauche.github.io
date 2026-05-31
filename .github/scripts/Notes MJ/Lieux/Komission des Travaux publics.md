@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: est
+  section: homme
   quartier: La Venelle
   x: 884.2
   y: 545.6

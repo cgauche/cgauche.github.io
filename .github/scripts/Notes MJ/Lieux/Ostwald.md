@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: sud
+  section: homme
   x: 455.0
   y: 544.0
   desc: "Zone immense et surpeuplée où vivent les citoyens les plus pauvres de Middenheim, dominée en sous-main par le réseau criminel du Petit Roi connu sous le nom de l'Homme."

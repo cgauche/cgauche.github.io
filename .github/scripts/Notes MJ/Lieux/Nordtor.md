@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: nord
+  section: libre
   x: 933.0
   y: 293.0
   desc: "Secteur en déclin progressif jadis prisé, dont les maisons mitoyennes autrefois fières ont été découpées en appartements plus petits accueillant de nombreuses familles."

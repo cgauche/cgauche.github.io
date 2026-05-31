@@ -5195,10 +5195,16 @@ CARTE_JS = """\
   if (M.quarterPolygons && M.quarterPolygons.length) {
     // Real quarter contours traced from the canon boundary map (dashed-line
     // watershed, barriers = walls + water). Coloured by canon section.
-    M.quarterPolygons.forEach(function (q) {
+    var NQ = M.quarterPolygons.length;
+    // Distinct per-quarter hue (golden-angle spread) for the "par quartier" mode.
+    function quarterColor(i) { return 'hsl(' + ((i * 137.508) % 360).toFixed(1) + ', 42%, 52%)'; }
+    M.quarterPolygons.forEach(function (q, i) {
       var pts = q.poly.map(function (p) { return p[0] + ',' + p[1]; }).join(' ');
+      var secColor = SECTION_COLOR[q.section] || '#8a7a5a';
       var pg = el('polygon', { points: pts, 'class': 'carte-zone', 'data-section': q.section,
-        fill: SECTION_COLOR[q.section] || '#8a7a5a' });
+        fill: secColor });
+      pg.setAttribute('data-sec-color', secColor);
+      pg.setAttribute('data-quart-color', quarterColor(i));
       var ti = el('title'); ti.textContent = q.name; pg.appendChild(ti);
       pg.addEventListener('click', function () { showQuarterByName(q.name); });
       gZones.appendChild(pg);
@@ -5718,6 +5724,16 @@ CARTE_JS = """\
   if (zonesToggle) zonesToggle.addEventListener('change', function () {
     svg.classList.toggle('hide-zones', !zonesToggle.checked);
   });
+  // Zone fill mode: "secteur" (by section colour) | "quartier" (per-quarter hue).
+  var zoneModeSel = document.getElementById('carte-zone-mode');
+  function applyZoneMode() {
+    var mode = zoneModeSel ? zoneModeSel.value : 'secteur';
+    var attr = (mode === 'quartier') ? 'data-quart-color' : 'data-sec-color';
+    gZones.querySelectorAll('.carte-zone').forEach(function (z) {
+      var c = z.getAttribute(attr); if (c) z.setAttribute('fill', c);
+    });
+  }
+  if (zoneModeSel) zoneModeSel.addEventListener('change', applyZoneMode);
   var resetBtn = document.getElementById('carte-reset');
   if (resetBtn) resetBtn.addEventListener('click', function () {
     view = { x: 0, y: 0, w: W0, h: H0 }; applyView();
@@ -5917,6 +5933,11 @@ def render_carte_pages(pages: list[Page], buckets: dict[int, ArcBucket],
       Noms</label>
     <label class="carte-toggle"><input type="checkbox" id="carte-toggle-zones" checked>
       Couleur</label>
+    <label class="carte-field"><span>Zones</span>
+      <select id="carte-zone-mode">
+        <option value="secteur">par secteur</option>
+        <option value="quartier">par quartier</option>
+      </select></label>
     <button type="button" id="carte-route-toggle" class="carte-btn">Trajet</button>
     <button type="button" id="carte-reset" class="carte-btn">Vue entière</button>
     <a id="carte-hub-link" class="carte-hub-link" hidden href="#">Hub du scénario →</a>

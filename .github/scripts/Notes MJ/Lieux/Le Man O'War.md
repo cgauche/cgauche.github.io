@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: sud
+  section: homme
   quartier: Geldmund
   x: 617.9
   y: 445.5

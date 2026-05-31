@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: sud
+  section: homme
   quartier: Sudtor
   x: 626.8
   y: 546.6

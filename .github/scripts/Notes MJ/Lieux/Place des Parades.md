@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: autre
   importance: Notable
-  section: centre
+  section: libre
   quartier: Grafplatz
   x: 735
   y: 210

@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: ouest
+  section: libre
   x: 588.0
   y: 268.0
   desc: "Zone nantie à proximité du Morrspark, peuplée des marchands les plus accomplis de la cité, réputée pour être un endroit où il fait aussi bon d'être vu que de vivre."

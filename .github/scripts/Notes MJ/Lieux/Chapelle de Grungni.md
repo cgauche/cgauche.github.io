@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  section: est
+  section: homme
   quartier: La Venelle
   x: 785.0
   y: 575.0

@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: sud
+  section: homme
   x: 768.0
   y: 500.0
   desc: "District marchand bruyant et bourdonnant d'activité, principalement composé de bureaux, d'ateliers et d'entrepôts longeant la grande route d'accès à la porte sud."

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: est
+  section: libre
   quartier: Osttor
   x: 973.0
   y: 437.0

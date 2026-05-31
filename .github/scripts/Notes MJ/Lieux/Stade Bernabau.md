@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: autre
   importance: Notable
-  section: centre
+  section: libre
   quartier: Le Grand Parc
   x: 818.0
   y: 406.6

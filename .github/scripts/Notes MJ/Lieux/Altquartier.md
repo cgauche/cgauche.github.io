@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: est
+  section: gouda
   x: 926.6
   y: 438.9
   desc: "Labyrinthe de rues sinueuses et de ruelles bordées de maisons mitoyennes décrépites, cœur de la pègre middenheimoise où les lois des Petits Rois prévalent sur celles du Graf."

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: ouest
+  section: libre
   quartier: Nordgarten
   x: 588
   y: 268

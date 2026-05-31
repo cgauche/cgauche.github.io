@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: commerce
   importance: Notable
-  section: sud
+  section: homme
   quartier: Geldmund
   x: 640.3
   y: 484.4

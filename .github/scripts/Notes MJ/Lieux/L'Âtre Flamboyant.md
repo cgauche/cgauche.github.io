@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: est
+  section: gouda
   quartier: Altmarkt
   x: 867
   y: 477

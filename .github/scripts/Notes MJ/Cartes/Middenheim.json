@@ -167,7 +167,7 @@
   "quarterPolygons": [
     {
       "name": "Palast",
-      "section": "centre",
+      "section": "libre",
       "cx": 680.6,
       "cy": 153.2,
       "poly": [
@@ -199,7 +199,7 @@
     },
     {
       "name": "Königsgarten",
-      "section": "centre",
+      "section": "libre",
       "cx": 885.0,
       "cy": 205.0,
       "poly": [
@@ -243,7 +243,7 @@
     },
     {
       "name": "Nordtor",
-      "section": "nord",
+      "section": "libre",
       "cx": 933.0,
       "cy": 293.0,
       "poly": [
@@ -303,7 +303,7 @@
     },
     {
       "name": "Osttor",
-      "section": "est",
+      "section": "libre",
       "cx": 961.4,
       "cy": 378.0,
       "poly": [
@@ -355,7 +355,7 @@
     },
     {
       "name": "Altquartier",
-      "section": "est",
+      "section": "gouda",
       "cx": 926.6,
       "cy": 438.9,
       "poly": [
@@ -403,7 +403,7 @@
     },
     {
       "name": "La Venelle",
-      "section": "est",
+      "section": "homme",
       "cx": 825.6,
       "cy": 561.5,
       "poly": [
@@ -447,7 +447,7 @@
     },
     {
       "name": "Sudtor",
-      "section": "sud",
+      "section": "homme",
       "cx": 597.4,
       "cy": 584.3,
       "poly": [
@@ -503,7 +503,7 @@
     },
     {
       "name": "Ostwald",
-      "section": "sud",
+      "section": "homme",
       "cx": 455.0,
       "cy": 544.0,
       "poly": [
@@ -555,7 +555,7 @@
     },
     {
       "name": "Westor",
-      "section": "ouest",
+      "section": "homme",
       "cx": 520.0,
       "cy": 335.0,
       "poly": [
@@ -607,7 +607,7 @@
     },
     {
       "name": "Sudgarten",
-      "section": "ouest",
+      "section": "homme",
       "cx": 570.5,
       "cy": 366.2,
       "poly": [
@@ -659,7 +659,7 @@
     },
     {
       "name": "Nordgarten",
-      "section": "ouest",
+      "section": "libre",
       "cx": 588.0,
       "cy": 268.0,
       "poly": [
@@ -707,7 +707,7 @@
     },
     {
       "name": "Grafsmund",
-      "section": "ouest",
+      "section": "libre",
       "cx": 606.4,
       "cy": 191.4,
       "poly": [
@@ -763,7 +763,7 @@
     },
     {
       "name": "Grafplatz",
-      "section": "centre",
+      "section": "libre",
       "cx": 735.0,
       "cy": 210.0,
       "poly": [
@@ -815,7 +815,7 @@
     },
     {
       "name": "Freiburg",
-      "section": "nord",
+      "section": "herla",
       "cx": 835.5,
       "cy": 261.3,
       "poly": [
@@ -875,7 +875,7 @@
     },
     {
       "name": "Neumarkt",
-      "section": "est",
+      "section": "herla",
       "cx": 917.9,
       "cy": 371.3,
       "poly": [
@@ -935,7 +935,7 @@
     },
     {
       "name": "Altmarkt",
-      "section": "est",
+      "section": "gouda",
       "cx": 862.7,
       "cy": 496.8,
       "poly": [
@@ -995,7 +995,7 @@
     },
     {
       "name": "Brotkopfs",
-      "section": "sud",
+      "section": "homme",
       "cx": 711.0,
       "cy": 486.7,
       "poly": [
@@ -1047,7 +1047,7 @@
     },
     {
       "name": "Geldmund",
-      "section": "sud",
+      "section": "homme",
       "cx": 635.8,
       "cy": 444.5,
       "poly": [
@@ -1099,7 +1099,7 @@
     },
     {
       "name": "Ulricsmund",
-      "section": "centre",
+      "section": "libre",
       "cx": 666.8,
       "cy": 335.1,
       "poly": [
@@ -1171,7 +1171,7 @@
     },
     {
       "name": "Le Grand Parc",
-      "section": "centre",
+      "section": "libre",
       "cx": 801.5,
       "cy": 396.8,
       "poly": [
@@ -1223,7 +1223,7 @@
     },
     {
       "name": "Kaufseit",
-      "section": "sud",
+      "section": "homme",
       "cx": 768.0,
       "cy": 500.0,
       "poly": [

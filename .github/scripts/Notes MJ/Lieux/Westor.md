@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: ouest
+  section: homme
   x: 520.0
   y: 335.0
   desc: "Quartier de classe moyenne calme et raffiné formant avec Sudgarten le « Coin vert » de la cité, avec ses rues étroites et propres et sa population légèrement plus aisée que celle des secteurs voisins."

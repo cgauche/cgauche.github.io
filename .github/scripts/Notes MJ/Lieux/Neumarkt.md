@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: est
+  section: herla
   x: 917.9
   y: 371.3
   desc: "Seconde zone commerciale principale de Middenheim, proposant toutes sortes de marchandises hors denrées alimentaires, avec ses marchés entrecoupés d'ateliers d'artisans et les sièges de plusieurs guildes mineures."

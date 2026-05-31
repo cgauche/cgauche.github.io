@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: mort
   importance: Notable
-  section: centre
+  section: libre
   quartier: Ulricsmund
   x: 615
   y: 400

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  section: centre
+  section: libre
   quartier: Ulricsmund
   x: 674.5
   y: 378.0

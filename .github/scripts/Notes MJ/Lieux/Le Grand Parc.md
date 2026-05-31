@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: centre
+  section: libre
   x: 801.5
   y: 396.8
   desc: "Vaste espace vert au cœur de la cité, comportant jardins botaniques royaux, bassins monumentaux et stade, ouvert aux Middenheimers de toutes conditions."

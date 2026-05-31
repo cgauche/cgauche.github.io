@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: nord
+  section: herla
   quartier: Freiburg
   x: 881.4
   y: 275.9

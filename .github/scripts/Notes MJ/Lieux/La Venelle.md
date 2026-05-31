@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: est
+  section: homme
   x: 825.6
   y: 561.5
   desc: "Quartier d'ateliers et d'entrepôts avec quelques résidences de classe moyenne et populaire, idéal pour trouver des artisans accomplissant un travail simple et sans fioritures à prix raisonnable."

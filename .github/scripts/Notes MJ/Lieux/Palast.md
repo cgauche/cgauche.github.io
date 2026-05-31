@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: centre
+  section: libre
   x: 680.6
   y: 153.2
   desc: "Secteur le plus septentrional et occidental de Middenheim, entièrement occupé par les bâtiments somptueux du Middenpalaz, résidence du Graf et siège du pouvoir de la cité."

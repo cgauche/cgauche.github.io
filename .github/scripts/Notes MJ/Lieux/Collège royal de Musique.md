@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: nord
+  section: libre
   quartier: Nordtor
   x: 933.0
   y: 293.0

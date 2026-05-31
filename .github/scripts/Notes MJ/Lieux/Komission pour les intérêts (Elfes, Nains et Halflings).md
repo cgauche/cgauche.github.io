@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: centre
+  section: libre
   quartier: Ulricsmund
   x: 728
   y: 290

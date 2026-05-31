@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: sud
+  section: homme
   x: 635.8
   y: 444.5
   desc: "Quartier résidentiel huppé où marchands fortunés et maîtres artisans possèdent de grandes maisons à deux ou trois étages, considéré par la noblesse comme un quartier de parvenus plutôt qu'un véritable secteur de luxe."

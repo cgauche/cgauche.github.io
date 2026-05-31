@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: commerce
   importance: Notable
-  section: est
+  section: homme
   quartier: La Venelle
   x: 795.8
   y: 548.8

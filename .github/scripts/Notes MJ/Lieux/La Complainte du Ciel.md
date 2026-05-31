@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: sud
+  section: homme
   quartier: Brotkopfs
   x: 755
   y: 530

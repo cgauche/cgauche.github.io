@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  section: centre
+  section: libre
   quartier: Le Grand Parc
   x: 785
   y: 387

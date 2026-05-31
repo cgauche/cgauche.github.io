@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: commerce
   importance: Notable
-  section: sud
+  section: homme
   quartier: Brotkopfs
   x: 688
   y: 490

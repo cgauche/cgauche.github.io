@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: commerce
   importance: Notable
-  section: sud
+  section: homme
   quartier: Ostwald
   x: 478.0
   y: 575.0

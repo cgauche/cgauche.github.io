@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: sud
+  section: homme
   quartier: Kaufseit
   x: 768
   y: 500

@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: crime
   importance: Notable
-  section: sud
+  section: homme
   quartier: Ostwald
   x: 432.0
   y: 513.0

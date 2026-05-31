@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: autre
   importance: Notable
-  section: centre
+  section: libre
   quartier: Palast
   x: 648.0
   y: 143.0

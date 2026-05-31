@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: nord
+  section: herla
   quartier: Freiburg
   x: 795
   y: 247

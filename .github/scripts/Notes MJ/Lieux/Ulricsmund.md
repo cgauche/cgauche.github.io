@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: centre
+  section: libre
   x: 666.8
   y: 335.1
   desc: "Secteur résidentiel de classe moyenne situé entre le Grand Parc et les quartiers nobles, abritant le Grand Temple d'Ulric, raison principale de la venue de la plupart des pèlerins à Middenheim."

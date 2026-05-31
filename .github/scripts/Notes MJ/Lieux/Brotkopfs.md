@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: sud
+  section: homme
   x: 711.0
   y: 486.7
   desc: "Secteur marchand légèrement plus calme que son voisin Kaufseit, mêlant bureaux et entrepôts commerciaux à des bâtiments résidentiels en pierre et de nombreuses tavernes de qualité moyenne."

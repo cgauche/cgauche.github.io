@@ -2,7 +2,7 @@
 carte:
   map: middenheim
   kind: quartier
-  section: est
+  section: gouda
   x: 862.7
   y: 496.8
   desc: "Quartier commercial animé spécialisé dans les denrées alimentaires et les produits ménagers, où fermiers et petits exploitants approvisionnent les marchés dès l'aube jusqu'au crépuscule."

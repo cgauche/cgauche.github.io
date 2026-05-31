@@ -12,11 +12,10 @@
   "sections": {
     "book_dir": "Source/Warhammer v4 - Middenheim la cité du Loup Blanc/",
     "chapters": {
-      "centre": "02 - Guide du visiteur",
-      "nord": "02 - Guide du visiteur",
-      "est": "02 - Guide du visiteur",
-      "sud": "02 - Guide du visiteur",
-      "ouest": "02 - Guide du visiteur"
+      "homme": "06 - Les Petits Rois",
+      "gouda": "06 - Les Petits Rois",
+      "herla": "06 - Les Petits Rois",
+      "libre": "06 - Les Petits Rois"
     }
   },
   "seeds": {
@@ -108,87 +107,87 @@
   "section_fallback": {
     "Palast": [
       "Palast",
-      "centre"
+      "libre"
     ],
     "Konigsgarten": [
       "Königsgarten",
-      "centre"
+      "libre"
     ],
     "Nordtor": [
       "Nordtor",
-      "nord"
+      "libre"
     ],
     "Osttor": [
       "Osttor",
-      "est"
+      "libre"
     ],
     "Altquartier": [
       "Altquartier",
-      "est"
+      "gouda"
     ],
     "Venelle": [
       "La Venelle",
-      "est"
+      "homme"
     ],
     "Sudtor": [
       "Sudtor",
-      "sud"
+      "homme"
     ],
     "Ostwald": [
       "Ostwald",
-      "sud"
+      "homme"
     ],
     "Westor": [
       "Westor",
-      "ouest"
+      "homme"
     ],
     "Sudgarten": [
       "Sudgarten",
-      "ouest"
+      "homme"
     ],
     "Nordgarten": [
       "Nordgarten",
-      "ouest"
+      "libre"
     ],
     "Grafsmund": [
       "Grafsmund",
-      "ouest"
+      "libre"
     ],
     "Grafplatz": [
       "Grafplatz",
-      "centre"
+      "libre"
     ],
     "Freiburg": [
       "Freiburg",
-      "nord"
+      "herla"
     ],
     "Neumarkt": [
       "Neumarkt",
-      "est"
+      "herla"
     ],
     "Altmarkt": [
       "Altmarkt",
-      "est"
+      "gouda"
     ],
     "Brotkopfs": [
       "Brotkopfs",
-      "sud"
+      "homme"
     ],
     "Geldmund": [
       "Geldmund",
-      "sud"
+      "homme"
     ],
     "Ulricsmund": [
       "Ulricsmund",
-      "centre"
+      "libre"
     ],
     "GrandParc": [
       "Le Grand Parc",
-      "centre"
+      "libre"
     ],
     "Kaufseit": [
       "Kaufseit",
-      "sud"
+      "homme"
     ]
   },
   "bridges": []

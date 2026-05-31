@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  section: est
+  section: gouda
   quartier: Altmarkt
   x: 836.2
   y: 503.5

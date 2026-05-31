@@ -4,7 +4,7 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  section: ouest
+  section: homme
   quartier: Westor
   x: 520.0
   y: 335.0
