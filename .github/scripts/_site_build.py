@@ -4944,20 +4944,27 @@ CARTE_CSS = """\
 .carte-chip.active { opacity: 1; color: var(--ink); border-color: var(--gold);
   background: var(--parchment); }
 .carte-chip:hover { border-color: var(--oxblood); }
+/* single source of truth for the 10 location-type colours (used by both the
+   map markers and the filter-chip swatches) */
+:root {
+  --t-religieux: #eae3cf; --t-magie: #7c5aa6; --t-gouvernement: #3f6fa8;
+  --t-militaire: #9c3434; --t-noble: #c9a227; --t-commerce: #d2762a;
+  --t-taverne: #8a5a2b; --t-crime: #2f2a27; --t-mort: #61716a; --t-autre: #9a8f7a;
+}
 /* type chips carry a colour swatch matching their map markers */
 .carte-chip[data-type]::before { content: ''; display: inline-block; width: 9px; height: 9px;
   border-radius: 50%; margin-right: 5px; vertical-align: middle;
-  border: 1px solid rgba(40,28,18,0.45); background: #9a8f7a; }
-.carte-chip[data-type="religieux"]::before   { background: #eae3cf; }
-.carte-chip[data-type="magie"]::before        { background: #7c5aa6; }
-.carte-chip[data-type="gouvernement"]::before { background: #3f6fa8; }
-.carte-chip[data-type="militaire"]::before    { background: #9c3434; }
-.carte-chip[data-type="noble"]::before        { background: #c9a227; }
-.carte-chip[data-type="commerce"]::before     { background: #d2762a; }
-.carte-chip[data-type="taverne"]::before      { background: #8a5a2b; }
-.carte-chip[data-type="crime"]::before        { background: #2f2a27; }
-.carte-chip[data-type="mort"]::before         { background: #61716a; }
-.carte-chip[data-type="autre"]::before        { background: #9a8f7a; }
+  border: 1px solid rgba(40,28,18,0.45); background: var(--t-autre); }
+.carte-chip[data-type="religieux"]::before   { background: var(--t-religieux); }
+.carte-chip[data-type="magie"]::before        { background: var(--t-magie); }
+.carte-chip[data-type="gouvernement"]::before { background: var(--t-gouvernement); }
+.carte-chip[data-type="militaire"]::before    { background: var(--t-militaire); }
+.carte-chip[data-type="noble"]::before        { background: var(--t-noble); }
+.carte-chip[data-type="commerce"]::before     { background: var(--t-commerce); }
+.carte-chip[data-type="taverne"]::before      { background: var(--t-taverne); }
+.carte-chip[data-type="crime"]::before        { background: var(--t-crime); }
+.carte-chip[data-type="mort"]::before         { background: var(--t-mort); }
+.carte-chip[data-type="autre"]::before        { background: var(--t-autre); }
 .carte-poi.filtered-out { display: none; }
 .carte-stage { display: grid; grid-template-columns: 1fr 290px; gap: 1rem;
   align-items: start; }
@@ -5025,17 +5032,17 @@ CARTE_CSS = """\
 .carte-poi { cursor: pointer; }
 .carte-poi-dot { fill: var(--paper); stroke: var(--oxblood);
   transition: fill 0.12s, stroke 0.12s; }
-/* marker fill by location type (interaction states below override these) */
-.carte-poi[data-type="religieux"]   .carte-poi-dot { fill: #eae3cf; }
-.carte-poi[data-type="magie"]       .carte-poi-dot { fill: #7c5aa6; }
-.carte-poi[data-type="gouvernement"] .carte-poi-dot { fill: #3f6fa8; }
-.carte-poi[data-type="militaire"]   .carte-poi-dot { fill: #9c3434; }
-.carte-poi[data-type="noble"]       .carte-poi-dot { fill: #c9a227; }
-.carte-poi[data-type="commerce"]    .carte-poi-dot { fill: #d2762a; }
-.carte-poi[data-type="taverne"]     .carte-poi-dot { fill: #8a5a2b; }
-.carte-poi[data-type="crime"]       .carte-poi-dot { fill: #2f2a27; }
-.carte-poi[data-type="mort"]        .carte-poi-dot { fill: #61716a; }
-.carte-poi[data-type="autre"]       .carte-poi-dot { fill: #9a8f7a; }
+/* marker fill by location type (colours single-sourced from :root --t-*; interaction states below override) */
+.carte-poi[data-type="religieux"]   .carte-poi-dot { fill: var(--t-religieux); }
+.carte-poi[data-type="magie"]       .carte-poi-dot { fill: var(--t-magie); }
+.carte-poi[data-type="gouvernement"] .carte-poi-dot { fill: var(--t-gouvernement); }
+.carte-poi[data-type="militaire"]   .carte-poi-dot { fill: var(--t-militaire); }
+.carte-poi[data-type="noble"]       .carte-poi-dot { fill: var(--t-noble); }
+.carte-poi[data-type="commerce"]    .carte-poi-dot { fill: var(--t-commerce); }
+.carte-poi[data-type="taverne"]     .carte-poi-dot { fill: var(--t-taverne); }
+.carte-poi[data-type="crime"]       .carte-poi-dot { fill: var(--t-crime); }
+.carte-poi[data-type="mort"]        .carte-poi-dot { fill: var(--t-mort); }
+.carte-poi[data-type="autre"]       .carte-poi-dot { fill: var(--t-autre); }
 /* per-type icon glyph drawn over the coloured pill (white + ink halo) */
 .carte-poi-glyph { fill: #fbf7ec; stroke: rgba(28,18,10,0.9); stroke-linejoin: round;
   paint-order: stroke; pointer-events: none; }
@@ -5075,6 +5082,7 @@ CARTE_JS = """\
   var svg = document.getElementById('carte-svg');
   if (!dataEl || !svg) return;
   var M = JSON.parse(dataEl.textContent);
+  if (M.title) svg.setAttribute('aria-label', 'Carte schématique ' + (/^[aeiouhàâéèêAEIOUH]/.test(M.title) ? "d'" : 'de ') + M.title);
   var SVGNS = 'http://www.w3.org/2000/svg';
   var poiById = {}, poiNodes = {};
   M.pois.forEach(function (p) { poiById[p.id] = p; });
@@ -5092,11 +5100,14 @@ CARTE_JS = """\
   var VB = (M.viewBox || '0 0 1247 794').split(/\\s+/).map(Number);
   var W0 = VB[2], H0 = VB[3];
   var view = { x: 0, y: 0, w: W0, h: H0 };   // current viewBox (pan/zoom)
+  var lastR = null;
   function applyView() {
     svg.setAttribute('viewBox', view.x + ' ' + view.y + ' ' + view.w + ' ' + view.h);
     var r = view.w / W0;                       // <1 when zoomed in
+    if (r === lastR) return;                   // pan: viewBox moved but scale unchanged → skip resize/declutter
+    lastR = r;
     svg.style.setProperty('--mk', r);          // marker scale ratio
-    updateSizes(r);
+    updateSizes(r);                            // (calls declutter) — only on real zoom
   }
 
   // layers (drawn in canon coordinates; the viewBox does the zoom/pan)
@@ -5163,22 +5174,14 @@ CARTE_JS = """\
   // Zones are clipped to the canon city outline (inside the walls) so they don't
   // spill into the countryside. Starting the Voronoï subject as the (concave)
   // city polygon is correct because each clipHP is a convex half-plane cut.
-  function qnorm(s) {
-    return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '')
-      .replace(/ß/g, 'ss').replace(/[^a-z0-9]/g, '');
-  }
+  function qnorm(s) { return norm(s).replace(/ß/g, 'ss').replace(/[^a-z0-9]/g, ''); }
   var seedByNorm = {}; seeds.forEach(function (s) { seedByNorm[qnorm(s.name)] = s; });
   // Click a quarter by canon name → its fiche if one exists, else a minimal panel.
   function showQuarterByName(name) {
     var s = seedByNorm[qnorm(name)];
     if (s) { showQuarter(s); return; }
-    for (var k in poiNodes) poiNodes[k].classList.remove('selected');
-    selectedId = null;
     var qp = (M.quarterPolygons || []).find(function (q) { return qnorm(q.name) === qnorm(name); });
-    var sec = qp ? qp.section : '';
-    panel.innerHTML = '<h3>' + esc(name) + '</h3>'
-      + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(sec)) + '</span>'
-      + liveZoneNote(sec);
+    showQuarter({ kind: 'district', ref: { name: name, section: qp ? qp.section : '' } });
   }
 
   if (M.quarterPolygons && M.quarterPolygons.length) {
@@ -5273,14 +5276,14 @@ CARTE_JS = """\
   // keep markers at constant screen size as we zoom (r,font scale with viewBox)
   function updateSizes(r) {
     for (var i = 0; i < dots.length; i++) {
+      var gp = poiById[M.pois[i].id];
       dots[i].setAttribute('r', (6 * r).toFixed(2));
       dots[i].setAttribute('stroke-width', (2.2 * r).toFixed(2));
       hits[i].setAttribute('r', (15 * r).toFixed(2));
       labels[i].setAttribute('font-size', (13 * r).toFixed(2));
-      labels[i].setAttribute('x', (poiById[M.pois[i].id].x + 9 * r).toFixed(2));
-      labels[i].setAttribute('y', (poiById[M.pois[i].id].y - 8 * r).toFixed(2));
+      labels[i].setAttribute('x', (gp.x + 9 * r).toFixed(2));
+      labels[i].setAttribute('y', (gp.y - 8 * r).toFixed(2));
       labels[i].setAttribute('stroke-width', (3 * r).toFixed(2));
-      var gp = poiById[M.pois[i].id];
       glyphs[i].setAttribute('transform', 'translate(' + gp.x + ',' + gp.y + ') scale(' + (r * 0.8).toFixed(3) + ')');
       glyphs[i].setAttribute('stroke-width', '1.1');
       rings[i].setAttribute('r', (11 * r).toFixed(2));
