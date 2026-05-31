@@ -36,9 +36,10 @@
   // layers (drawn in canon coordinates; the viewBox does the zoom/pan)
   // order = paint/hit order: poster < zones < district labels < pois < legend hotspots
   var gPoster = el('g'), gZones = el('g'), gRivers = el('g'), gRoute = el('g'), gDist = el('g'),
-      gPois = el('g'), gLegendZones = el('g'), gLegend = el('g');
+      gPois = el('g'), gLegendZones = el('g'), gLegend = el('g'), gLegendBox = el('g');
   svg.appendChild(gPoster); svg.appendChild(gZones); svg.appendChild(gRivers); svg.appendChild(gRoute);
   svg.appendChild(gDist); svg.appendChild(gPois); svg.appendChild(gLegendZones); svg.appendChild(gLegend);
+  svg.appendChild(gLegendBox);
   // river band drawn OVER the zones → the colored sections are visibly split by the water
   (M.rivers || []).forEach(function (poly) {
     var pts = poly.map(function (p) { return p[0] + ',' + p[1]; }).join(' ');
@@ -190,6 +191,52 @@
     mort:         'M-4,6 V-1.6 Q-4,-6 0,-6 Q4,-6 4,-1.6 V6 Z',
     autre:        'M0,-3.3 A3.3,3.3 0 1,0 0.01,-3.3 Z'
   };
+
+  // --- in-poster legend panel drawn over a blank cartouche, if configured ---
+  // M.legendBox = {x,y,w,h} in viewBox coords. Sits on the parchment (pans/zooms
+  // with the map). Lists the section colour key (clickable → showSection) + the
+  // type-icon key. Generic: maps without legendBox render nothing here.
+  if (M.legendBox && (M.legendBox.w || 0) > 0) {
+    var LB = M.legendBox, pad = 14, cy = LB.y + pad + 4;
+    gLegendBox.appendChild(el('rect', { x: LB.x, y: LB.y, width: LB.w, height: LB.h,
+      rx: 7, 'class': 'carte-legendbox-bg' }));
+    var ttl = el('text', { x: LB.x + LB.w / 2, y: cy + 12, 'text-anchor': 'middle',
+      'class': 'carte-legendbox-title' });
+    ttl.textContent = M.title || 'Légende'; gLegendBox.appendChild(ttl);
+    cy += 30;
+    if ((M.sections || []).length) {
+      var sh = el('text', { x: LB.x + pad, y: cy, 'class': 'carte-legendbox-h' });
+      sh.textContent = 'Secteurs'; gLegendBox.appendChild(sh); cy += 17;
+      M.sections.forEach(function (s) {
+        var row = el('g', { 'class': 'carte-legendbox-row', tabindex: 0 });
+        row.appendChild(el('rect', { x: LB.x + pad, y: cy - 9, width: 12, height: 12, rx: 2,
+          fill: SECTION_COLOR[s.key] || '#8a7a5a', stroke: 'rgba(28,18,10,0.6)', 'stroke-width': 0.6 }));
+        var t = el('text', { x: LB.x + pad + 19, y: cy, 'class': 'carte-legendbox-t' });
+        t.textContent = s.label; row.appendChild(t);
+        row.addEventListener('click', function () { showSection(s.key); });
+        row.addEventListener('keydown', function (ev) {
+          if (ev.key === 'Enter' || ev.key === ' ') { ev.preventDefault(); showSection(s.key); } });
+        gLegendBox.appendChild(row); cy += 17;
+      });
+      cy += 8;
+    }
+    if ((M.types || []).length) {
+      var th = el('text', { x: LB.x + pad, y: cy, 'class': 'carte-legendbox-h' });
+      th.textContent = 'Types de lieux'; gLegendBox.appendChild(th); cy += 17;
+      M.types.forEach(function (ty) {
+        var row = el('g', { 'class': 'carte-legendbox-row' });
+        row.appendChild(el('circle', { cx: LB.x + pad + 6, cy: cy - 4, r: 6,
+          fill: 'var(--t-' + ty.key + ')', stroke: 'rgba(28,18,10,0.6)', 'stroke-width': 0.6 }));
+        row.appendChild(el('path', { d: TYPE_GLYPH[ty.key] || TYPE_GLYPH.autre,
+          'class': 'carte-legendbox-glyph',
+          transform: 'translate(' + (LB.x + pad + 6) + ',' + (cy - 4) + ') scale(0.7)' }));
+        var t = el('text', { x: LB.x + pad + 19, y: cy, 'class': 'carte-legendbox-t' });
+        t.textContent = ty.label; row.appendChild(t);
+        gLegendBox.appendChild(row); cy += 15.5;
+      });
+    }
+  }
+
   // POI markers
   var dots = [], labels = [], hits = [], glyphs = [], rings = [];
   M.pois.forEach(function (p) {
