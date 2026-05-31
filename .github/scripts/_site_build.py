@@ -4931,6 +4931,10 @@ CARTE_CSS = """\
 
 .carte-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.4rem;
   margin: 0 0 0.8rem; }
+.carte-live { display: flex; flex-wrap: wrap; align-items: center; gap: 0.3rem 0.5rem;
+  margin: 0 0 0.8rem; padding: 0.4rem 0.6rem; border: 1px solid var(--gold);
+  border-radius: 8px; background: var(--parchment); }
+.carte-live .carte-live-hour-field select { min-width: 12rem; }
 .carte-filter-lbl { font-family: var(--serif-display); font-size: 0.74rem;
   text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted);
   margin: 0 0.2rem 0 0.6rem; }
@@ -5167,7 +5171,8 @@ CARTE_JS = """\
     var qp = (M.quarterPolygons || []).find(function (q) { return qnorm(q.name) === qnorm(name); });
     var sec = qp ? qp.section : '';
     panel.innerHTML = '<h3>' + esc(name) + '</h3>'
-      + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(sec)) + '</span>';
+      + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(sec)) + '</span>'
+      + liveZoneNote(sec);
   }
 
   if (M.quarterPolygons && M.quarterPolygons.length) {
@@ -5429,6 +5434,7 @@ CARTE_JS = """\
     var h = '<h3>' + esc(dz.name) + '</h3>'
           + '<span class="carte-zone-tag">Quartier · ' + esc(sectionLabel(dz.section)) + '</span>';
     if (dz.desc) h += '<p class="carte-desc">' + esc(dz.desc) + '</p>';
+    h += liveZoneNote(dz.section);
     panel.innerHTML = h;
   }
 
@@ -5455,10 +5461,74 @@ CARTE_JS = """\
     if (nm && meta && meta.hubUrl) { hubLink.href = meta.hubUrl; hubLink.hidden = false;
       hubLink.textContent = 'Hub : ' + nm + ' →'; } else { hubLink.hidden = true; }
     applySearch();
+    syncLive();
     if (selectedId) selectPoi(selectedId);   // re-render panel for the new scenario
   }
   sel.addEventListener('change', applyScenario);
   toggle.addEventListener('change', applyScenario);
+
+  // ---- Écran live (#7): heure × zone × variante → ce qui se passe autour des PJ ----
+  var LIVE = M.scenarioLive || {};
+  var liveEl = document.getElementById('carte-live');
+  var liveHourSel = document.getElementById('carte-live-hour');
+  var liveVarsEl = document.getElementById('carte-live-vars');
+  var liveShowBtn = document.getElementById('carte-live-show');
+  var activeVars = {};            // B/C/D heat flags (A = baseline)
+  var liveScenario = null;
+  function syncLive() {
+    var lv = LIVE[sel.value];
+    liveEl.hidden = !lv;
+    if (!lv) { liveScenario = null; return; }
+    if (liveScenario !== sel.value) {       // (re)build controls only on scenario change
+      liveScenario = sel.value;
+      liveHourSel.innerHTML = lv.hours.map(function (H, i) {
+        return '<option value="' + i + '">' + esc(H.label) + '</option>'; }).join('');
+      activeVars = {};
+      liveVarsEl.innerHTML = lv.variantes.filter(function (v) { return v.key !== 'A'; })
+        .map(function (v) { return '<button class="carte-chip" data-var="' + v.key + '">'
+          + v.key + ' · ' + esc(v.label) + '</button>'; }).join('');
+      liveVarsEl.querySelectorAll('[data-var]').forEach(function (b) {
+        b.addEventListener('click', function () {
+          var k = b.getAttribute('data-var'); activeVars[k] = !activeVars[k];
+          b.classList.toggle('active', activeVars[k]); renderLive(); }); });
+    }
+  }
+  function liveZoneNote(section) {
+    var lv = LIVE[sel.value]; if (!lv) return '';
+    var wealth = (lv.wealthBySection || {})[section]; if (!wealth) return '';
+    var H = lv.hours[+liveHourSel.value || 0];
+    return '<p class="carte-desc"><strong>Écran live · zone ' + esc(wealth) + '</strong> ('
+      + esc(H.label) + ') : ' + esc(wealth === 'pauvre' ? H.pauvre : H.riche) + '</p>';
+  }
+  function renderLive() {
+    var lv = LIVE[sel.value]; if (!lv) return;
+    var H = lv.hours[+liveHourSel.value || 0];
+    var anyHeat = activeVars.B || activeVars.C || activeVars.D;
+    var h = '<h3>Écran live</h3><span class="carte-zone-tag">' + esc(H.label) + '</span>'
+      + '<h4>Dans la rue</h4>'
+      + '<p class="carte-desc"><strong>Riches</strong> (rive sud) : ' + esc(H.riche) + '</p>'
+      + '<p class="carte-desc"><strong>Pauvres</strong> (Reikerbahn / docks) : ' + esc(H.pauvre) + '</p>'
+      + '<h4>Rumeurs</h4><p class="carte-desc">Période : ' + esc(H.rumeur) + '.</p>';
+    if (H.clock && H.clock.length)
+      h += '<h4>Horloge</h4><ul class="carte-poi-list">'
+        + H.clock.map(function (c) { return '<li>' + esc(c) + '</li>'; }).join('') + '</ul>';
+    var tq = H.traque || {}, tl = [];
+    if (tq.base) tl.push(tq.base);
+    ['B', 'C', 'D'].forEach(function (k) { if (activeVars[k] && tq[k]) tl.push('[' + k + '] ' + tq[k]); });
+    if (tl.length)
+      h += '<h4>Traque</h4><ul class="carte-poi-list">'
+        + tl.map(function (t) { return '<li>' + esc(t) + '</li>'; }).join('') + '</ul>';
+    var defs = lv.variantes.filter(function (v) {
+      return v.key === 'A' ? !anyHeat : activeVars[v.key]; });
+    if (defs.length) {
+      h += '<h4>Variante' + (defs.length > 1 ? 's' : '') + '</h4>';
+      defs.forEach(function (v) { h += '<p class="carte-desc"><strong>' + v.key + ' — '
+        + esc(v.label) + '</strong> : ' + esc(v.desc) + '</p>'; });
+    }
+    panel.innerHTML = h;
+  }
+  liveHourSel.addEventListener('change', renderLive);
+  liveShowBtn.addEventListener('click', renderLive);
 
   // ---- search ----
   var searchInput = document.getElementById('carte-search');
@@ -5809,6 +5879,15 @@ def render_carte_pages(pages: list[Page], buckets: dict[int, ArcBucket],
     <a id="carte-hub-link" class="carte-hub-link" hidden href="#">Hub du scénario →</a>
   </div>
   <div class="carte-filters" id="carte-filters"></div>
+  <div class="carte-live" id="carte-live" hidden>
+    <span class="carte-filter-lbl">Écran live</span>
+    <label class="carte-field carte-live-hour-field">Heure
+      <select id="carte-live-hour"></select>
+    </label>
+    <span class="carte-filter-lbl">Variantes</span>
+    <span id="carte-live-vars"></span>
+    <button type="button" id="carte-live-show" class="carte-btn">Écran live →</button>
+  </div>
   <div class="carte-stage">
     <div class="carte-svg-wrap"><svg id="carte-svg" role="img"
          aria-label="Carte schématique d'Altdorf"></svg></div>

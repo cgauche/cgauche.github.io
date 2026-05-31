@@ -4630,5 +4630,122 @@
         ]
       ]
     }
-  ]
+  ],
+  "scenarioLive": {
+    "Le réveil d'Altdorf": {
+      "note": "Humeur de la rue, rumeurs et traque, heure par heure. Source : Ambiance.md / Gestion table.md.",
+      "wealthBySection": {
+        "sud": "riche",
+        "nord": "riche",
+        "est": "pauvre"
+      },
+      "hours": [
+        {
+          "label": "Aube → matin (<10h)",
+          "riche": "Activité normale, regards lourds, Garde en double aux ponts.",
+          "pauvre": "Calme, ouvriers au travail, premiers prêcheurs solo.",
+          "rumeur": "matin",
+          "clock": [
+            "Aube — Briefing Helstein au manoir.",
+            "8h-11h — Heinrich reçoit les PJ puis finalise le convoi.",
+            "~9h-10h30 — Fassbinder attend à la salle de lecture (RDV S62) ; agent Spionwerber en place."
+          ],
+          "traque": {
+            "base": "Rien avant 11h."
+          }
+        },
+        {
+          "label": "Mi-matinée (10h-12h)",
+          "riche": "Garde en force, CVC en groupes de 3-5, prêcheurs « Boris l'hérétique a péri ».",
+          "pauvre": "Rassemblements de 20-30 autour d'agitateurs.",
+          "rumeur": "matin → après-midi",
+          "clock": [
+            "~10h — le Spionwerber confirme à Zuntermein que Fassbinder est installé avec des inconnus.",
+            "~10h30 — Zuntermein dispatche le commando Templiers depuis la Chambre Noire.",
+            "11h — arrestation publique de Fassbinder ; Heinrich part en convoi.",
+            "11h15-11h30 — Fassbinder mené hors du bâtiment en menottes."
+          ],
+          "traque": {
+            "base": "11h — arrestation publique de Fassbinder.",
+            "C": "11h30-13h — témoins interrogés ; le Spionwerber collecte visages et vêtements (+ identification de Johannes par ses pairs gris)."
+          }
+        },
+        {
+          "label": "Début d'après-midi (12h-15h)",
+          "riche": "Chevaliers Panthères en colonnes, patrouilles serrées.",
+          "pauvre": "Foule croissante, « À bas le Palais ! République ! », CVC contre anarchistes.",
+          "rumeur": "après-midi",
+          "clock": [
+            "13h+ — table et casier de Fassbinder scellés, bibliothèque rouverte avec le Spionwerber en planque."
+          ],
+          "traque": {
+            "C": "13h-15h — compilation puis transmission à Zuntermein ; 2-3 agents dispatchés (Helstein, Collège Gris, Palast, temple de Shallya)."
+          }
+        },
+        {
+          "label": "Fin d'après-midi (15h-18h)",
+          "riche": "Boutiques ferment tôt, lampes allumées en avance.",
+          "pauvre": "Petites violences (jets de pierres, tabassages CVC ↔ révolutionnaires).",
+          "rumeur": "après-midi → soir",
+          "clock": [
+            "16h-18h — si trigger Maria-Luise activé : billet livré au manoir par Bertholdt."
+          ],
+          "traque": {
+            "B": "Wanted Sigmarite déclenché — le CVC se met en chasse.",
+            "C": "15h+ — filatures actives (paires en relais, 30-50 m) ; Perception (-20) pour repérer un suiveur, (-10) si on se retourne au bon moment. Tout PNJ ami visité est fiché par observation."
+          }
+        },
+        {
+          "label": "Soir (18h-22h)",
+          "riche": "Patrouilles armées, contrôles aux portes du Palais, route fluviale surveillée.",
+          "pauvre": "Manifestations spontanées, rues fermées, arrestations sommaires du CVC.",
+          "rumeur": "soir",
+          "clock": [
+            "17h-19h — la rumeur « Fassbinder mort en cellule » commence à circuler."
+          ],
+          "traque": {
+            "base": "17h-19h — rumeur « Fassbinder mort en cellule ».",
+            "B": "CVC en chasse ; le départ devra être discret.",
+            "C": "Soir — mandat de convocation de l'Ordre du Marteau livré à Helstein si les PJ y rentrent ; Immanuel-Ferrand exfiltre Johannes du Collège Gris (sa couverture tient)."
+          }
+        },
+        {
+          "label": "Nuit (22h+)",
+          "riche": "Couvre-feu informel, peu de monde.",
+          "pauvre": "Émeutes ponctuelles, fumées au loin.",
+          "rumeur": "soir",
+          "clock": [
+            "22h — RDV Lina à Hangmann's Gasse si le billet a été accepté.",
+            "J+1 aube — La Comète gréée au quai (départ matinal)."
+          ],
+          "traque": {
+            "base": "22h — RDV Lina si le billet a été accepté.",
+            "C": "Filatures nocturnes."
+          }
+        }
+      ],
+      "variantes": [
+        {
+          "key": "A",
+          "label": "PJ propres",
+          "desc": "Aucune charge, pression diffuse seulement. Sponsor : Heinrich (+ possiblement Immanuel-Ferrand). Départ tranquille, embarquement officiel sur La Comète."
+        },
+        {
+          "key": "B",
+          "label": "tachés Sigmarite",
+          "desc": "Combat au Glissement Reikerbahn, le jeune zélote s'est échappé. Wanted en fin d'après-midi, CVC en chasse, fuite urgente. Embarquement clandestin à un quai mineur sous Spitzweg (bonus aux Marines)."
+        },
+        {
+          "key": "C",
+          "label": "tachés Fassbinder",
+          "desc": "Vus à l'arrestation ou identifiés par les témoins / l'agent Spionwerber. Pas d'interpellation publique de jour — observation et report. Si un PJ aborde un agent : déni poli, retrait, remplacement dans l'heure. Tout PNJ ami visité est fiché par observation."
+        },
+        {
+          "key": "D",
+          "label": "massacre généralisé",
+          "desc": "Combat au Glissement ET à l'arrestation. Wanted Empire-wide dans la semaine, Reiksgarde alertée (Helborg absent). Fuite clandestine obligatoire (égouts → berges du Reik, Connaissance (Altdorf) +0). La Comète inaccessible : bateau modeste ou route terrestre vers Kemperbad (4-5 jours)."
+        }
+      ]
+    }
+  }
 }
