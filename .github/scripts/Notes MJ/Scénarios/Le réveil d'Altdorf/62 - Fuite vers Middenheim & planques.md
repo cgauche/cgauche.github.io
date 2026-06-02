@@ -46,7 +46,7 @@ Pour des PJ très chauds (B+C) ou « un peu fous », il existe des sorties **sou
 - **Four Seasons Coaches** (dépôt à **Königplatz**) — la plus grande compagnie de l'Empire, lignes sur toutes les routes majeures, embauche pour des transports « hors routes habituelles » (`Altdorf-CotE ch.7 l.534-535`). On peut **réserver une place** vers le nord ou **payer un départ discret**. Ligne rivale **Cartak** en secours.
 - **Sillage Todbringer** : le convoi funéraire de Heinrich est parti à 11h vers Middenheim. Les PJ peuvent **le rattraper sur la route** ou voyager sous **couleurs/laissez-passer Todbringer** (le mandat scellé que Heinrich leur a remis vaut caution auprès de gens de maison restés en ville). Couverture sociale forte côté nord, faible côté CVC sigmarite.
 
-**La route, ensuite** : Altdorf → **Carroburg** → traversée/contournement de la **Drakwald** → Middenheim, ~8-10 jours (un peu plus si l'on cale son pas sur le convoi funéraire). Détail du cap : [[Cap suivant — destinations possibles]].
+**La route, ensuite** : la grande route de Middenheim (porte Wolftor), par les **étapes canon** Frederheim → Kutenholz → Bröckel → Mittelweg → Delberz → Sotturm → Grubentreich → Middenheim, **~6 jours** (un peu plus au pas du convoi funéraire). Détail jouable : [[64 - Route vers Middenheim]] · cap stratégique : [[Cap suivant — destinations possibles]].
 
 ## S'ils restent — planques en ville
 

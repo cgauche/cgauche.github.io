@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Quartier des Quais
-  x: 734
-  y: 397
+  x: 736.0
+  y: 386.5
   desc: "Plus forte concentration de débits de boissons de l'Empire, bien placée entre le quartier des Quais à l'est et l'université à l'ouest."
 ---
 

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Quartier des Quais
-  x: 764.8
-  y: 409.2
+  x: 765.5
+  y: 391.0
   desc: "Le siège social de la compagnie Reik et Talabec est situé sur les quais, et bien que la vieille bâtisse ait pu avoir l’air impressionnante autrefois, elle commence à tomber en décrépitude."
   source: gazetteer-auto
 ---

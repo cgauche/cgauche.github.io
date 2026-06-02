@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Großvaters Zuhause
-  x: 618.8
-  y: 381.5
+  x: 611.0
+  y: 391.5
   desc: "La tour centrale du donjon abrite le bureau du gouverneur ainsi que ses appartements."
   source: gazetteer-auto
 ---

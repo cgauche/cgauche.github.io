@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Toteninsel
-  x: 843.3
-  y: 381.9
+  x: 844.5
+  y: 383.0
   desc: "Le temple principal de Morr à Altdorf est la plus grande structure de Toteninsel."
   source: gazetteer-auto
 ---

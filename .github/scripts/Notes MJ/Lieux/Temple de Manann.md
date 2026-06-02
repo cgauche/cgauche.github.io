@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Flottenliegeplatz
-  x: 606.0
-  y: 379.8
+  x: 602.0
+  y: 386.0
   desc: "Manann est vénéré à Altdorf comme le dieu des mers et des rivières."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Großvaters Zuhause
-  x: 637.2
-  y: 355.4
+  x: 639.0
+  y: 354.0
   desc: "Un pont-levis permet d’accéder à l’île fortifiée et à son unique porte."
   source: gazetteer-auto
 ---

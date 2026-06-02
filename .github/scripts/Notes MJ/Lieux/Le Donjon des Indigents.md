@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Schlecht Laden
-  x: 908.0
-  y: 415.6
+  x: 895.0
+  y: 426.5
   desc: "Les chefs de la Garde ont peut-être baissé les bras à Reikerbahn, mais ils ne veulent pas admettre leur défaite officiellement en se retirant."
   source: gazetteer-auto
 ---

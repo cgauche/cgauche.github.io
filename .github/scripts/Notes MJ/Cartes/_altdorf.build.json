@@ -10,9 +10,9 @@
     "method": "dashed-red"
   },
   "water": {
-    "close": 45,
-    "min_area": 3000,
-    "dilate": 11
+    "close": 13,
+    "min_area": 800,
+    "dilate": 5
   },
   "sections": {
     "book_dir": "Source/Warhammer v4 - Aldorf la Couronne de l'Empire/",
@@ -219,5 +219,6 @@
         ]
       ]
     }
-  ]
+  ],
+  "nav_bridge_span": 26
 }

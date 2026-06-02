@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Karnevalsplatz
-  x: 498.6
-  y: 279.1
+  x: 503.5
+  y: 272.5
   desc: "La meilleure cuisine tiléenne d’Altdorf est servie dans une salle de banquet située dans les jardins derrière le donjon de Verena."
   source: gazetteer-auto
 ---

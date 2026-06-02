@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Quartier des Quais
-  x: 711.6
-  y: 398.8
+  x: 715.5
+  y: 382.5
   desc: "L’extrémité méridionale de la rue aux cent tavernes traverse le quartier peu raffiné des Quais, mais à mesure que la rue serpente vers le nord, en direction de la Königplatz, elle prend un air plus so"
   source: gazetteer-auto
 ---

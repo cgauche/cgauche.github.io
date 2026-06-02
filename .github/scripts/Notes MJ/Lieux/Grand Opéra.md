@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Markt an Der Wand
-  x: 981.4
-  y: 338.0
+  x: 979.5
+  y: 334.0
   desc: "Alors que de nombreux théâtres de la ville sont en capacité d’accueillir un groupe de musique, il s’agit du seul opéra construit à cet effet."
   source: gazetteer-auto
 ---

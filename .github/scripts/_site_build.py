@@ -1063,7 +1063,7 @@ def _build_canon_ref_index() -> dict[tuple[str, str], Path]:
     # `EiR ch.17` resolve to "17 - An Introduction to the History of the Turmoil.md"
     # (EiR appendix-like section, not named "Chapter N").
     numbered_section_re = re.compile(
-        r'^\s*(\d+)\s*-\s*(?!.*(?:Index|Credits|Contents|Bibliography|Glossary|Front\s*Matter))',
+        r'^\s*(\d+)\s*-\s*(?!.*(?:Index|Credits|Contents|Bibliography|Glossary|Front\s*Matter|Foreword|Foreward))',
         re.IGNORECASE)
 
     for abbrev, subdir in _CANON_BOOK_DIRS.items():

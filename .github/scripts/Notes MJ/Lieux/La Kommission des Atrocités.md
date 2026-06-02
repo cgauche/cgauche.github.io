@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Quartier des Quais
-  x: 749.1
-  y: 414.9
+  x: 752.0
+  y: 389.5
   desc: "La Kommission est administrée depuis un bureau situé dans le Poste de la Garde de Luitpoldstrasse, non loin de la rue aux cent tavernes."
   source: gazetteer-auto
 ---

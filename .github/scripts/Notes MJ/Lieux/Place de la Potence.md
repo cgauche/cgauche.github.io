@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: sud
   quartier: Friedhofkreuzung
-  x: 500
-  y: 270
+  x: 500.0
+  y: 269.5
   desc: "Le lieu d'exécution publique le plus tristement célèbre d'Altdorf, près de la Citadelle du Châtiment."
 ---
 

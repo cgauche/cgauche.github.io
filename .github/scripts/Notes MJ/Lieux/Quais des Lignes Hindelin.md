@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Flottenliegeplatz
-  x: 573.1
-  y: 353.2
+  x: 567.5
+  y: 360.0
   desc: "La compagnie Hindelin possède trois navires de luxe, tous construits en 2510 CI par les chantiers navals Spee."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Flottenliegeplatz
-  x: 597.9
-  y: 370.5
+  x: 591.5
+  y: 379.5
   desc: "Ce temple de Myrmidia, coiffé d’un dôme, est relativement récent, sa construction datant de peu après le couronnement de Magnus le Pieux."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Toteninsel
-  x: 895.8
-  y: 359.4
+  x: 895.5
+  y: 360.0
   desc: "Le Corbeau et le portail est une auberge qui a pour principale clientèle les membres du Culte de Morr."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Quartier des Quais
-  x: 736.5
-  y: 394.3
+  x: 738.5
+  y: 387.0
   desc: "Le quai de la Fourche est un ponton branlant qui s’avance sur le Reik."
   source: gazetteer-auto
 ---

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Toteninsel
-  x: 921.3
-  y: 389.3
+  x: 914.5
+  y: 365.0
   desc: "Ce bâtiment à colombages se situe tout près du temple de Morr."
   source: gazetteer-auto
 ---

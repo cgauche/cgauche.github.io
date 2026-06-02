@@ -7,7 +7,7 @@ carte:
   section: est
   quartier: Quartier des Quais
   x: 775.0
-  y: 395.8
+  y: 392.0
   desc: "Le Saint marteau de Sigmar n’est pas l’auberge la plus tapageuse ou décadente des environs."
   source: gazetteer-auto
 ---

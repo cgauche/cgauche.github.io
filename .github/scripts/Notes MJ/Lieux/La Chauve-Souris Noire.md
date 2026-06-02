@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Quartier des Quais
-  x: 743.1
-  y: 398.4
+  x: 746.0
+  y: 388.5
   desc: "La Chauve-souris noire est une auberge délabrée, fréquentée par les perdants et les geignards."
   source: gazetteer-auto
 ---

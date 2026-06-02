@@ -28,7 +28,9 @@ order: 1
 | Se faire **soigner** (Mark, post-S63) | Grand Temple de **Shallya** (rive sud) | [[41 - Temple de Shallya]] |
 | Se **reposer**, déposer du butin, préparer le départ | Manoir Helstein (Mauerblümchen, **rive sud** — base sûre) | [[42 - Retour Helstein]] |
 | **Écouter les rumeurs** / prendre le pouls de la ville | Taverne, marché, doklands, temple | [[43 - Écoute des rumeurs]] |
-| **Partir** d'Altdorf / embarquer | Quais (**La Comète**) ou voie de terre (nord) | [[61 - Départ matinal]] · [[62 - Fuite vers Middenheim & planques]] · [[Cap suivant — destinations possibles]] |
+| **Partir** d'Altdorf / embarquer | Quais (**La Comète**) ou voie de terre (nord) | [[61 - Départ matinal]] · [[62 - Fuite vers Middenheim & planques]] · [[63 - Fuite de jour (14h-15h)]] · [[Cap suivant — destinations possibles]] |
+| **Filer tout de suite** vers Middenheim *(départ diurne ~14h-15h)* | Wolftor en plein jour, dans le sillage du convoi | [[63 - Fuite de jour (14h-15h)]] |
+| **Voyager** sur la route de Middenheim *(étapes, auberges, rencontres)* | La grande route Altdorf → Middenheim (6 j, lieux connus) | [[64 - Route vers Middenheim]] |
 | **Se cacher** en ville / fuir sous la chasse *(si tachés B/C)* | Bas-quartiers, sous-ville, porte Wolftor | [[62 - Fuite vers Middenheim & planques]] |
 | Rejoindre **Heinrich** / le convoi Middenheim | Manoir, **avant 11h** | [[01 - Briefing Helstein]] |
 | Rencontre nocturne **Maria-Luise** (si billet reçu et accepté) | Lina à Hangmann's Gasse, 22h → chambre impériale | [[31 - Approche via Lina]] → [[32 - Visite Karl-Franz]] |

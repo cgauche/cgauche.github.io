@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: sud
   quartier: Südküste
-  x: 672.1
-  y: 437.3
+  x: 672.0
+  y: 440.5
   desc: "Surplombant le fleuve se trouve le manoir le plus impressionnant de Südküste : la résidence du Grand-Duc du Talabecland."
   source: gazetteer-auto
 ---

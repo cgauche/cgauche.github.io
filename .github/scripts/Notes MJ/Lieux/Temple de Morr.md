@@ -6,8 +6,8 @@ carte:
   importance: Notable
   section: nord
   quartier: Toteninsel
-  x: 914
-  y: 376
+  x: 910.5
+  y: 366.0
   desc: "Temple du culte de Morr, dieu des morts, au nord-est de la ville (Toteninsel)."
 ---
 

@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: nord
   quartier: Großvaters Zuhause
-  x: 666.4
-  y: 372.1
+  x: 667.5
+  y: 369.5
   desc: "La manière officielle d’accéder au donjon de la Großvaters Zuhause est de traverser le vieux pont qui relie l’île à la rive nord de Schulergegend."
   source: gazetteer-auto
 ---

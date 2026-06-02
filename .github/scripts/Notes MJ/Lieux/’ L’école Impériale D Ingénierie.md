@@ -6,8 +6,8 @@ carte:
   importance: Mineur
   section: est
   quartier: Dampfplatz
-  x: 956.2
-  y: 411.2
+  x: 963.0
+  y: 417.0
   desc: "Fondée à Altdorf en 2012 CI par Leonardo da Miragliano, l’École impériale d’ingénierie a produit depuis un grand nombre d’armes et de machines de guerre."
   source: gazetteer-auto
 ---

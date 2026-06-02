@@ -32,7 +32,7 @@ Le climax (cérémonie Sheerargetru) est le **9 Brauzeit 2513 — plus d'un an**
 
 **But** : escorter Heinrich aux funérailles de Boris, peser sur la succession Todbringer, et **mettre les PJ à l'abri** dans la cité d'Ulric.
 
-**Voie** : route terrestre, **porte Wolftor** (route de Middenheim, quartier ulricain — `Altdorf-CotE ch.7 l.435`), Altdorf → **Carroburg** → traversée/contournement de la **Drakwald** → Middenheim, ~8-10 jours (un peu plus au pas du convoi funéraire). Sortie clandestine si tachés B/C : [[62 - Fuite vers Middenheim & planques]].
+**Voie** : route terrestre, **porte Wolftor** (route de Middenheim, quartier ulricain — `Altdorf-CotE ch.7 l.435`), par les **étapes canon** (Frederheim → Kutenholz → … → Middenheim), **~6 jours** (un peu plus au pas du convoi funéraire). Détail jouable : [[64 - Route vers Middenheim]]. Sortie clandestine si tachés B/C : [[62 - Fuite vers Middenheim & planques]].
 
 **Pourquoi c'est le bon premier cap** :
 - **Sanctuaire** : ville d'Ulric, hostile aux radicaux sigmarites qui les chassent ; protection Todbringer effective.
