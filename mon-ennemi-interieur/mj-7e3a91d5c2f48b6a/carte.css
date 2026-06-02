@@ -82,7 +82,7 @@
 .carte-svg-wrap { border: 1px solid var(--rule); border-radius: 8px;
   background: var(--paper-hi); overflow: hidden;
   box-shadow: var(--shadow); }
-#carte-svg { display: block; width: 100%; height: auto; }
+#carte-svg { display: block; width: 100%; height: auto; max-height: 86vh; }
 
 .carte-panel { border: 1px solid var(--rule); border-radius: 8px;
   background: var(--parchment); padding: 0.9rem 1rem; min-height: 8rem;

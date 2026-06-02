@@ -460,6 +460,16 @@
     if (dz.desc) h += '<p class="carte-desc">' + esc(dz.desc) + '</p>';
     h += liveZoneNote(dz.section);
     h += ficheLink(dz.ficheUrl, 'Fiche du quartier');
+    var qcur = document.getElementById('carte-scenario').value;
+    var qrefs = qcur && dz.scenarios ? dz.scenarios[qcur] : null;
+    if (qrefs && qrefs.length) {
+      h += '<h4>' + esc(qcur) + '</h4><ul class="carte-scenes">';
+      qrefs.forEach(function (ref) {
+        h += ref.url ? '<li><a href="' + esc(ref.url) + '">' + esc(ref.label) + '</a></li>'
+                     : '<li>' + esc(ref.label) + '</li>';
+      });
+      h += '</ul>';
+    }
     panel.innerHTML = h;
   }
 
