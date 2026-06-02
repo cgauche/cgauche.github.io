@@ -1,3 +1,14 @@
+---
+carte:
+  map: route-middenheim
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  x: 192
+  y: 82
+  desc: "Terminus de la route depuis Altdorf (~400 milles, 6 jours). Cité du Loup Blanc, sur le Fauschlag — voir sa carte détaillée."
+---
+
 # Middenheim
 
 **Sous-titre** : Cité du Loup Blanc, capitale du Middenland, bastion d'Ulric  

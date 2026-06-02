@@ -1,3 +1,14 @@
+---
+carte:
+  map: route-middenheim
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  x: 60
+  y: 405
+  desc: "Point de départ de la route de Middenheim, à ~400 milles (6 jours de diligence). Capitale de l'Empire — voir sa carte détaillée."
+---
+
 # Altdorf
 
 **Sous-titre** : Capitale de l'Empire, siège de Karl-Franz Holswig-Schliestein  
