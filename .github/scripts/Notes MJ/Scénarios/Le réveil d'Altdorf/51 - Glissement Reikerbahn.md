@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Reikerbahn
+    label: "Glissement Reikerbahn"
+---
+
 # 51 - Glissement Reikerbahn
 
 > **Lieu** : Quelque part dans Altdorf, dans une rue qui n'aurait pas dû être là.

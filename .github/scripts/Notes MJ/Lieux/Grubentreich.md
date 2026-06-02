@@ -5,7 +5,7 @@ carte:
   type: taverne
   importance: Notable
   x: 206
-  y: 150
+  y: 132
   desc: "Petite ville marchande de collines (élevage ovin et caprin). Les Armes des Bildhofen, nommée d'après le duc Léopold, sert un fromage de chèvre réputé dans tout le Middenland."
 ---
 

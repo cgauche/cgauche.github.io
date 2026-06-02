@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 158
-  y: 226
+  x: 134
+  y: 219
   desc: "La plus grande ville de la route, petit port fluvial actif sur le Delb. Auberges : Le Grand Chêne (Quatre Saisons) et La Roue et l'Ancre. Célèbre pour le fiasco du cartographe Tobwurst."
 ---
 

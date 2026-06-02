@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Bibliothèque-temple de Verena
+    label: "Consultation Fassbinder (arrivée tardive)"
+---
+
 # 12 - Consultation Fassbinder — arrivée tardive
 
 > **Lieu** : [[Bibliothèque-temple de Verena]], salle de lecture principale et alentours du bâtiment.

@@ -6,20 +6,24 @@
   "poster": "route-middenheim-poster.jpg",
   "posterOpacity": 0.82,
   "intro": "La grand-route Altdorf → Middenheim (~400 milles, 6 jours de diligence) à travers la Drakwald. Plan canon VF « Altdorf à Middenheim en diligence rapide » (Le Pouvoir derrière le Trône, p. 15). Chaque étape est cliquable.",
-  "scenarios": [{"name": "Le réveil d'Altdorf"}],
   "types": [
-    {"key": "gouvernement", "label": "Cité / Capitale"},
-    {"key": "religieux", "label": "Sanctuaire"},
-    {"key": "taverne", "label": "Auberge-relais"}
+    {
+      "key": "gouvernement",
+      "label": "Cité / Capitale"
+    },
+    {
+      "key": "religieux",
+      "label": "Sanctuaire"
+    },
+    {
+      "key": "taverne",
+      "label": "Auberge-relais"
+    }
   ],
   "cityPolygon": [],
   "rivers": [],
   "quarterPolygons": [],
   "edges": [],
   "legend": [],
-  "legendSections": [],
-  "scenarioOverlay": {
-    "altdorf": {"Le réveil d'Altdorf": [{"label": "Départ — la route de Middenheim", "scene": "64 - Route vers Middenheim"}]},
-    "middenheim": {"Le réveil d'Altdorf": [{"label": "Arrivée — terminus du voyage", "scene": "64 - Route vers Middenheim"}]}
-  }
+  "legendSections": []
 }

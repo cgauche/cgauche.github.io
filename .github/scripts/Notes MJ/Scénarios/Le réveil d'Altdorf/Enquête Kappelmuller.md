@@ -1,3 +1,13 @@
+---
+carte:
+  - map: altdorf
+    lieu: Guilde des Médecins d'Altdorf
+    label: "Enquête Kappelmuller — Piste 1"
+  - map: altdorf
+    lieu: Zwillingsgrab
+    label: "Enquête Kappelmuller — Piste 2 (Elvyra)"
+---
+
 # Enquête Kappelmuller — déclencheurs Maria-Luise
 
 > Pistes d'enquête sur Henrik Kappelmuller, médecin personnel de l'Empereur. Toute approche substantielle dans l'un de ces canaux active le **trigger Maria-Luise** (voir [[Ambiance]] §Horloge) — billet livré au Manoir Helstein entre 16h et 18h.

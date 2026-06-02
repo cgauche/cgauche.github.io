@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 180
-  y: 125
+  x: 151
+  y: 110
   desc: "Dernière étape avant Middenheim. L'auberge Le Crâne et la Croix garde la mémoire du Traité de Schoninghagen (2369) : abdication Bildhofen + hommage du Nordland au Graf."
 ---
 

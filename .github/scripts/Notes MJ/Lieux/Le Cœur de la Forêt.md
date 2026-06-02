@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 162
-  y: 311
+  x: 134
+  y: 303
   desc: "Auberge-relais fortifiée, seule en pleine forêt vierge : murs de plus de 6 m surmontés de pointes. Les diligences sont de plus en plus attaquées au nord d'ici."
 ---
 

@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 179
-  y: 252
+  x: 173
+  y: 243
   desc: "La Maison à Mi-Chemin : une des plus anciennes auberges de la route, murs marqués par les assauts du Chaos, tourelles à meurtrières. « Fête de la mi-trajet » chaque soir."
 ---
 

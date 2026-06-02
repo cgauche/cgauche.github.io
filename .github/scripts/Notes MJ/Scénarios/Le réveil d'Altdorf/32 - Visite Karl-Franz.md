@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Palais Impérial
+    label: "Visite Karl-Franz (nuit)"
+---
+
 # 32 - Visite Karl-Franz
 
 > **Lieu** : Salon privé de [[Maria-Luise von Walfen]] puis chambre impériale, Palais d'Altdorf.

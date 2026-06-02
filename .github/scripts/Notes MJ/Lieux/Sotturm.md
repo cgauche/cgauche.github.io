@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 166
-  y: 197
+  x: 138
+  y: 190
   desc: "Petite ville marchande neutre, prisée des maîtres de guilde du Middenland pour leurs négociations discrètes. Auberges : La Tour et la luxueuse Harpie Dorée."
 ---
 

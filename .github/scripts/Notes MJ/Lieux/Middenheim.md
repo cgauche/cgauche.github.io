@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 192
-  y: 82
+  x: 182
+  y: 80
   desc: "Terminus de la route depuis Altdorf (~400 milles, 6 jours). Cité du Loup Blanc, sur le Fauschlag — voir sa carte détaillée."
 ---
 

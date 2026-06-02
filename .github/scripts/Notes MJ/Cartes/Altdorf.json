@@ -6,11 +6,6 @@
   "poster": "altdorf-poster.jpg",
   "posterOpacity": 0.55,
   "intro": "Carte canon d'Altdorf (Aldorf — la Couronne de l'Empire). Molette pour zoomer, glisser pour déplacer. Clique un lieu pour sa fiche et les scènes qui s'y déroulent ; sélectionne un scénario pour mettre en évidence ses lieux.",
-  "scenarios": [
-    {
-      "name": "Le réveil d'Altdorf"
-    }
-  ],
   "types": [
     {
       "key": "religieux",
@@ -690,116 +685,6 @@
       "h": 171.4
     }
   ],
-  "scenarioOverlay": {
-    "palais-imperial": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Saisine au cabinet du Grand Chancelier",
-          "scene": "21 - Saisine au cabinet du Grand Chancelier"
-        },
-        {
-          "label": "Visite Karl-Franz (nuit)",
-          "scene": "32 - Visite Karl-Franz"
-        }
-      ]
-    },
-    "guilde-des-medecins-daltdorf": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Enquête Kappelmuller — Piste 1",
-          "scene": "Enquête Kappelmuller"
-        }
-      ]
-    },
-    "grand-temple-de-shallya-altdorf": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Temple de Shallya (soin Mark)",
-          "scene": "41 - Temple de Shallya"
-        }
-      ]
-    },
-    "bibliotheque-temple-de-verena": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Consultation Fassbinder (avant 11h)",
-          "scene": "11 - Consultation Fassbinder"
-        },
-        {
-          "label": "Consultation Fassbinder (arrivée tardive)",
-          "scene": "12 - Consultation Fassbinder — arrivée tardive"
-        },
-        {
-          "label": "Arrestation et fuite",
-          "scene": "13 - Arrestation et fuite"
-        }
-      ]
-    },
-    "rue-des-cent-tavernes": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Écoute des rumeurs",
-          "scene": "43 - Écoute des rumeurs"
-        }
-      ]
-    },
-    "place-de-la-potence": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Approche via Lina (22h) — ruelle du bouquiniste",
-          "scene": "31 - Approche via Lina"
-        }
-      ]
-    },
-    "manoir-helstein": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Briefing Helstein (matin)",
-          "scene": "01 - Briefing Helstein"
-        },
-        {
-          "label": "Retour Helstein",
-          "scene": "42 - Retour Helstein"
-        }
-      ]
-    },
-    "zwillingsgrab": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Enquête Kappelmuller — Piste 2 (Elvyra)",
-          "scene": "Enquête Kappelmuller"
-        }
-      ]
-    },
-    "flottenliegeplatz": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Départ matinal (La Comète)",
-          "scene": "61 - Départ matinal"
-        },
-        {
-          "label": "Fuite vers Middenheim & planques",
-          "scene": "62 - Fuite vers Middenheim & planques"
-        }
-      ]
-    },
-    "reikerbahn": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Glissement Reikerbahn",
-          "scene": "51 - Glissement Reikerbahn"
-        }
-      ]
-    },
-    "wolftor": {
-      "Le réveil d'Altdorf": [
-        {
-          "label": "Fuite hors les murs (taché B/C)",
-          "scene": "62 - Fuite vers Middenheim & planques"
-        }
-      ]
-    }
-  },
   "cityPolygon": [
     [
       290,

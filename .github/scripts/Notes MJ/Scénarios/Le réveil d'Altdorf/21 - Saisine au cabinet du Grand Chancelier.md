@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Palais Impérial
+    label: "Saisine au cabinet du Grand Chancelier"
+---
+
 # 21 - Saisine au cabinet du Grand Chancelier
 
 > **Lieu** : Cabinet du Grand Chancelier du Reich, Palais Impérial, Palast District (rive sud d'Altdorf).

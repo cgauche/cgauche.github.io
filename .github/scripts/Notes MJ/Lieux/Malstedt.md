@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 188
-  y: 167
+  x: 195
+  y: 158
   desc: "Là où la forêt s'ouvre sur les collines. La Couronne Impériale : enseigne abîmée (couronne d'or repeinte d'une tête de loup blanc) — la sécession middenlandaise qui couve."
 ---
 

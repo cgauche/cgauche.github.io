@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Bibliothèque-temple de Verena
+    label: "Arrestation et fuite"
+---
+
 # 13 - Arrestation et fuite
 
 > **Lieu** : Salle de lecture principale de la [[Bibliothèque-temple de Verena]] puis sorties multiples du bâtiment.

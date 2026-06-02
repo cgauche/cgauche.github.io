@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: taverne
   importance: Notable
-  x: 129
-  y: 281
+  x: 113
+  y: 274
   desc: "Petite ville de marché sans particularité, desservant Kupfengrube et Guthugel. Auberges : Les Armes de Bröckel (Quatre Saisons) et l'Auberge du Marché."
 ---
 

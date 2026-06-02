@@ -3900,6 +3900,9 @@ class MJOverlayPage:
 
 
 def _mj_slug(s: str) -> str:
+    # Ligatures have no NFKD decomposition → map them explicitly first.
+    s = (s.replace("œ", "oe").replace("Œ", "OE")
+          .replace("æ", "ae").replace("Æ", "AE"))
     s = unicodedata.normalize("NFKD", s)
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = re.sub(r"[^\w\s-]", "", s).strip().lower()
@@ -3950,6 +3953,88 @@ def _parse_carte_block(text: str) -> dict[str, str]:
             elif ln.strip():
                 break  # dedented non-empty line → end of carte block
     return out
+
+
+def _parse_scene_carte_bindings(text: str) -> list[dict]:
+    """Parse a list-form `carte:` block in a scenario SCENE's frontmatter.
+
+    Convention (the scene declares where it appears on a map — "scénario × lieu"
+    info lives with the scenario, not in the map JSON):
+        carte:
+          - map: <map-id>
+            lieu: <Lieu name>      # slugified to the POI id  (or  poi: <slug>)
+            label: <link text shown on the POI>
+          - ...
+    Returns a list of {map, lieu?/poi?, label?} dicts (empty if none)."""
+    if not text.startswith("---"):
+        return []
+    lines = text.splitlines()
+    if not lines or lines[0].strip() != "---":
+        return []
+    end = None
+    for i in range(1, len(lines)):
+        if lines[i].strip() == "---":
+            end = i
+            break
+    if end is None:
+        return []
+    bindings: list[dict] = []
+    cur: dict | None = None
+    in_block = False
+    item_indent = None
+    for ln in lines[1:end]:
+        if re.match(r"^\s*carte\s*:\s*$", ln):
+            in_block = True
+            continue
+        if not in_block:
+            continue
+        m = re.match(r"^(\s*)-\s*([A-Za-z_][\w-]*)\s*:\s*(.*)$", ln)  # list item
+        if m:
+            item_indent = len(m.group(1))
+            cur = {m.group(2): m.group(3).strip().strip('"').strip("'")}
+            bindings.append(cur)
+            continue
+        m = re.match(r"^(\s+)([A-Za-z_][\w-]*)\s*:\s*(.*)$", ln)       # continuation key
+        if m and cur is not None and (item_indent is None or len(m.group(1)) > item_indent):
+            cur[m.group(2)] = m.group(3).strip().strip('"').strip("'")
+            continue
+        if ln.strip():
+            break  # dedented non-empty → end of carte block
+    return bindings
+
+
+def _collect_scene_carte_overlays() -> tuple[dict, dict]:
+    """Walk scenario SCENE files and collect their `carte:` bindings.
+
+    Returns (overlays, scenarios_by_map):
+      overlays = {map_id: {poi_slug: {scenario_name: [{label, scene}]}}}
+      scenarios_by_map = {map_id: [scenario_name, ...]}  (unique, ordered)
+    scenario_name = the scene's parent folder; scene = the scene file stem."""
+    overlays: dict = {}
+    scens: dict = {}
+    scen_root = NOTES_MJ_DIR / "Scénarios"
+    if not scen_root.exists():
+        return overlays, scens
+    for f in sorted(scen_root.glob("*/*.md")):
+        scenario_name = f.parent.name
+        scene_stem = f.stem
+        try:
+            txt = f.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        for b in _parse_scene_carte_bindings(txt):
+            map_id = b.get("map")
+            poi = b.get("poi") or (_mj_slug(b["lieu"]) if b.get("lieu") else None)
+            if not map_id or not poi:
+                continue
+            label = b.get("label") or scene_stem
+            (overlays.setdefault(map_id, {}).setdefault(poi, {})
+                     .setdefault(scenario_name, [])
+                     .append({"label": label, "scene": scene_stem}))
+            lst = scens.setdefault(map_id, [])
+            if scenario_name not in lst:
+                lst.append(scenario_name)
+    return overlays, scens
 
 
 def _parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
@@ -4985,7 +5070,7 @@ CARTE_CSS = """\
 .carte-svg-wrap { border: 1px solid var(--rule); border-radius: 8px;
   background: var(--paper-hi); overflow: hidden;
   box-shadow: var(--shadow); }
-#carte-svg { display: block; width: 100%; height: auto; }
+#carte-svg { display: block; width: 100%; height: auto; max-height: 86vh; }
 
 .carte-panel { border: 1px solid var(--rule); border-radius: 8px;
   background: var(--parchment); padding: 0.9rem 1rem; min-height: 8rem;
@@ -5574,6 +5659,16 @@ CARTE_JS = """\
     if (dz.desc) h += '<p class="carte-desc">' + esc(dz.desc) + '</p>';
     h += liveZoneNote(dz.section);
     h += ficheLink(dz.ficheUrl, 'Fiche du quartier');
+    var qcur = document.getElementById('carte-scenario').value;
+    var qrefs = qcur && dz.scenarios ? dz.scenarios[qcur] : null;
+    if (qrefs && qrefs.length) {
+      h += '<h4>' + esc(qcur) + '</h4><ul class="carte-scenes">';
+      qrefs.forEach(function (ref) {
+        h += ref.url ? '<li><a href="' + esc(ref.url) + '">' + esc(ref.label) + '</a></li>'
+                     : '<li>' + esc(ref.label) + '</li>';
+      });
+      h += '</ul>';
+    }
     panel.innerHTML = h;
   }
 
@@ -6008,6 +6103,12 @@ def _resolve_carte_links(map_obj: dict, current_dir: Path,
             dz["ficheUrl"] = lieux_url(dz["name"])
             if dz["ficheUrl"] is None:
                 print(f"  ! carte: fiche quartier introuvable « {dz['name']} »")
+        for sc_name, refs in (dz.get("scenarios") or {}).items():
+            for ref in refs:
+                ref["url"] = scene_url(ref["scene"])
+                if ref["url"] is None:
+                    print(f"  ! carte: scène introuvable « {ref['scene']} » "
+                          f"(quartier {dz.get('name')}, scénario {sc_name})")
     for sec in out.get("sections", []):
         nm = sec.get("label") or sec.get("key")
         if nm:
@@ -6026,6 +6127,9 @@ def render_carte_pages(pages: list[Page], buckets: dict[int, ArcBucket],
     if not maps:
         return {}
     lieux_idx = _build_lieux_url_index(pages)
+    # Scenario × lieu bindings (which scene fires at which POI) live on the
+    # scenario SCENE files, collected here — the map JSON no longer carries them.
+    scene_overlays, scene_scens = _collect_scene_carte_overlays()
 
     cartes_dir = Path(f"mj-{MJ_TOKEN}") / "cartes"
     mj_root = Path(f"mj-{MJ_TOKEN}")
@@ -6039,12 +6143,23 @@ def render_carte_pages(pages: list[Page], buckets: dict[int, ArcBucket],
         # not from the map JSON. The scenario overlay (which can't live in durable
         # fiches) is merged from the JSON, keyed by POI id.
         fpois, fdist, fsec = _carte_entities_from_fiches(map_id)
+        map_obj = dict(map_obj)
+        overlay = scene_overlays.get(map_id, {})
+        # `scenarios` (selector + hub link) is derived from the scene bindings,
+        # plus any Écran live scenarios still declared on the map JSON.
+        scen_names = list(scene_scens.get(map_id, []))
+        for _k in (map_obj.get("scenarioLive") or {}):
+            if _k not in scen_names:
+                scen_names.append(_k)
+        map_obj["scenarios"] = [{"name": n} for n in scen_names]
         if fpois or fdist or fsec:
-            map_obj = dict(map_obj)
-            overlay = map_obj.get("scenarioOverlay", {})
             for p in fpois:
                 if p["id"] in overlay:
                     p["scenarios"] = overlay[p["id"]]
+            for dz in fdist:                       # quartiers can host scenes too
+                did = _mj_slug(dz["name"])
+                if did in overlay:
+                    dz["scenarios"] = overlay[did]
             map_obj["pois"] = fpois
             map_obj["districts"] = fdist
             map_obj["sections"] = fsec or map_obj.get("sections", [])

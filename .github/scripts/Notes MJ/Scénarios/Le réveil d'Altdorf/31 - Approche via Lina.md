@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Place de la Potence
+    label: "Approche via Lina (22h) — ruelle du bouquiniste"
+---
+
 # 31 - Approche via Lina
 
 > **Lieu** : [[Hangmann's Gasse]], ruelle pavée modeste, rive sud d'Altdorf.

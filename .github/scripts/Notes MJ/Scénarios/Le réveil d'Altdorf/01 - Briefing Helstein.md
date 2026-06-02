@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Manoir Helstein
+    label: "Briefing Helstein (matin)"
+---
+
 # 01 - Briefing Helstein
 
 > **Lieu** : Manoir Helstein, Mauerblümchen, **rive sud** d'Altdorf.

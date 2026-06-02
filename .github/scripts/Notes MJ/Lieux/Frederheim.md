@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  x: 61
-  y: 374
+  x: 38
+  y: 361
   desc: "Premier relais au nord d'Altdorf, connu pour le Grand Hospice de Shallya caché au plus profond de la forêt. Auberge-relais indépendante : La Colombe."
 ---
 

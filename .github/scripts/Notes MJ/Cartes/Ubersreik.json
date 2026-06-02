@@ -6,7 +6,6 @@
   "poster": "ubersreik-poster.jpg",
   "posterOpacity": 0.55,
   "intro": "Carte canon FR d'Ubersreik (Carte du Maître de Jeu, BibImp — Aides de Jeu). Ville-carrefour du Reikland sur la Teufel, occupée par Altdorf depuis le putsch contre les Jungfreud. Théâtre de l'Arc 3 (S13-S21). Clique un lieu pour sa fiche ; bascule la coloration par secteur ou par quartier.",
-  "scenarios": [],
   "types": [
     {
       "key": "religieux",
@@ -691,7 +690,6 @@
     }
   ],
   "legendSections": [],
-  "scenarioOverlay": {},
   "cityPolygon": [
     [
       207.5,

@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Flottenliegeplatz
+    label: "Départ matinal (La Comète)"
+---
+
 # 61 - Départ matinal
 
 > **Lieu** : Quais d'Altdorf, fleuve Reik.

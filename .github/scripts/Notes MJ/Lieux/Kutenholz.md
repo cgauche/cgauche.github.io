@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: religieux
   importance: Notable
-  x: 119
-  y: 348
+  x: 100
+  y: 341
   desc: "Premier arrêt dans le Middenland. Auberge-relais La Tête de Loup (emblème de la Tour du Roc) et grand sanctuaire d'Ulric à proximité. L'Illustre Pierre est tout près."
 ---
 

@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Rue des Cent Tavernes
+    label: "Écoute des rumeurs"
+---
+
 # 43 - Écoute des rumeurs
 
 > **Lieu** : Lieux publics d'Altdorf — tavernes, marchés, docks, temples.

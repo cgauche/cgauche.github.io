@@ -1,3 +1,13 @@
+---
+carte:
+  - map: altdorf
+    lieu: Flottenliegeplatz
+    label: "Fuite vers Middenheim & planques"
+  - map: altdorf
+    lieu: Wolftor
+    label: "Fuite hors les murs (taché B/C)"
+---
+
 # 62 - Fuite vers Middenheim & planques
 
 > **Lieu** : Altdorf — portes nord, bas-quartiers, sous-ville.

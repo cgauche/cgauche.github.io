@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Grand Temple de Shallya Altdorf
+    label: "Temple de Shallya (soin Mark)"
+---
+
 # 41 - Temple de Shallya
 
 > **Lieu** : [[Grand Temple de Shallya Altdorf]], district **Krankenfeld**, rive sud (le quartier des malades, distinct du Domplatz sigmarite).

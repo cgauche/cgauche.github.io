@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 60
-  y: 405
+  x: 47
+  y: 395
   desc: "Point de départ de la route de Middenheim, à ~400 milles (6 jours de diligence). Capitale de l'Empire — voir sa carte détaillée."
 ---
 

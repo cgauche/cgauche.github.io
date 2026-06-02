@@ -1,8 +1,49 @@
+---
+carte:
+  - map: route-middenheim
+    lieu: Altdorf
+    label: "Départ — la route vers Middenheim"
+  - map: route-middenheim
+    lieu: Frederheim
+    label: "Jour 1 — Frederheim (Hospice de Shallya)"
+  - map: route-middenheim
+    lieu: Kutenholz
+    label: "Jour 1 — Kutenholz (1re étape Middenland)"
+  - map: route-middenheim
+    lieu: Le Cœur de la Forêt
+    label: "Jour 2 — Le Cœur de la Forêt (auberge fortifiée)"
+  - map: route-middenheim
+    lieu: Bröckel
+    label: "Jour 2 — Bröckel"
+  - map: route-middenheim
+    lieu: Mittelweg
+    label: "Jour 3 — Mittelweg (Maison à Mi-Chemin)"
+  - map: route-middenheim
+    lieu: Delberz
+    label: "Jour 4 — Delberz"
+  - map: route-middenheim
+    lieu: Sotturm
+    label: "Jour 4 — Sotturm"
+  - map: route-middenheim
+    lieu: Malstedt
+    label: "Jour 5 — Malstedt (enseigne sécession)"
+  - map: route-middenheim
+    lieu: Grubentreich
+    label: "Jour 5 — Grubentreich"
+  - map: route-middenheim
+    lieu: Schoninghagen
+    label: "Jour 6 — Schoninghagen (Traité de 2369)"
+  - map: route-middenheim
+    lieu: Middenheim
+    label: "Arrivée — terminus du voyage"
+---
+
 # 64 - Route vers Middenheim
 
 > **Lieu** : la grande route Altdorf → Middenheim (~400 miles à travers le [[Drakwald]]).
 > **Quand** : à partir du 4-5 Erntezeit 2512. **6 jours par coche** (un peu plus au pas du convoi funéraire).
 > **Durée table** : modulable — 30-60 min en montage, ou étalée sur plusieurs séances.
+> **🗺️ Carte interactive** : [plan du trajet Altdorf → Middenheim](../../cartes/route-middenheim.html) — les 12 étapes sont cliquables (fiche + renvoi à cette scène quand le scénario « Le réveil d'Altdorf » est chargé).
 
 ## En bref
 

@@ -6,7 +6,6 @@
   "poster": "middenheim-poster.jpg",
   "posterOpacity": 0.55,
   "intro": "Middenheim, la Cité du Loup Blanc, bâtie au sommet du Fauschlag — un piton rocheux isolé que l'on n'atteint que par ses viaducs gardés et ses télésièges. Vingt-et-un quartiers s'y pressent autour du Palast et du Temple d'Ulric. Cité-État du graf Boris Todbringer.",
-  "scenarios": [],
   "types": [
     {
       "key": "religieux",
@@ -1507,7 +1506,6 @@
   ],
   "legend": [],
   "legendSections": [],
-  "scenarioOverlay": {},
   "scenarioLive": {},
   "nav": {
     "w": 596,

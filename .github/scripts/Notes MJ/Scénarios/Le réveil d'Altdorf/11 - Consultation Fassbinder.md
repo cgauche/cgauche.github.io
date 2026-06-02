@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Bibliothèque-temple de Verena
+    label: "Consultation Fassbinder (avant 11h)"
+---
+
 # 11 - Consultation Fassbinder
 
 > **Lieu** : Salle de lecture principale de la [[Bibliothèque-temple de Verena]] (Altdorf University).

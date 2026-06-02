@@ -6,7 +6,6 @@
   "poster": "salzenmund-poster.jpg",
   "posterOpacity": 0.55,
   "intro": "Salzenmund, Cité du Sel et de l'Argent, capitale de la Nordlande, étalée sur les pentes de quatre collines des Silver Hills autour d'un lac profond, l'Ormsdeep. Le château Salzenmund domine la ville ; le Grafenfluss et l'Aalbach se jettent dans le lac, que la Salz draine vers la mer des Griffes. Cité libre du nouvel Électeur Theoderic Gausser — contrebande, piraterie et cultes interdits y prospèrent.",
-  "scenarios": [],
   "types": [
     {
       "key": "religieux",
@@ -2676,7 +2675,6 @@
   ],
   "legend": [],
   "legendSections": [],
-  "scenarioOverlay": {},
   "scenarioLive": {},
   "legendBox": {
     "x": 68,

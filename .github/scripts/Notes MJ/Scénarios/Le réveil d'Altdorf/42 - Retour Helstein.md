@@ -1,3 +1,10 @@
+---
+carte:
+  - map: altdorf
+    lieu: Manoir Helstein
+    label: "Retour Helstein"
+---
+
 # 42 - Retour Helstein
 
 > **Lieu** : [[Manoir Helstein]], Mauerblümchen, **rive sud**.
