@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Route Altdorf → Middenheim — Mon Ennemi Intérieur</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../style.css">
+<script src="../../mj-mode.js" defer></script>
+</head>
+<body class="page-carte">
+<header class="site-header">
+  <a class="site-title" href="../../index.html">
+    <span class="wordmark">Mon Ennemi Intérieur</span>
+  </a>
+  <div class="search" role="search">
+    <input class="search-input" type="search" autocomplete="off" spellcheck="false"
+           placeholder="Rechercher…" aria-label="Rechercher dans le site"
+           data-base="../../">
+    <div class="search-results" role="listbox" aria-label="Résultats de recherche"></div>
+  </div>
+  <nav class="site-nav"><a href="../../resumes/index.html">Résumés</a> · <a href="../../pj/index.html">PJ</a> · <a href="../../pnj/index.html">PNJ</a> · <a href="../../lieux/index.html">Lieux &amp; Organisations</a> · <a href="../../documents/index.html">Documents</a> · <a href="../../univers/index.html">Univers</a><span class="mj-only"> · <a href="../scenarios/index.html">Scénarios</a></span><span class="mj-only"> · <a href="index.html">Cartes</a></span><span class="mj-only"> · <a href="../notes/index.html">Notes MJ</a></span></nav>
+  <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
+</header>
+<div class="layout">
+<nav class="sidebar" aria-label="Navigation par arc">
+<h2 class="sidebar-title">Les Sept Arcs</h2>
+<ol class="sidebar-arcs">
+<li>
+<a class="sidebar-arc" href="../../arc-1.html"><span class="sidebar-num">I</span><span class="sidebar-name">Prologue</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../arc-2.html"><span class="sidebar-num">II</span><span class="sidebar-name">L&#x27;Ennemi dans l&#x27;Ombre</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../arc-3.html"><span class="sidebar-num">III</span><span class="sidebar-name">Aventures à Ubersreik</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../arc-4.html"><span class="sidebar-num">IV</span><span class="sidebar-name">Mort sur le Reik</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../arc-5.html"><span class="sidebar-num">V</span><span class="sidebar-name">Le Pouvoir Derrière le Trône</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../arc-6.html"><span class="sidebar-num">VI</span><span class="sidebar-name">Le Rat Cornu</span></a>
+</li>
+<li>
+<a class="sidebar-arc" href="../../arc-7.html"><span class="sidebar-num">VII</span><span class="sidebar-name">L&#x27;Empire en Ruine</span></a>
+</li>
+</ol>
+</nav>
+<main>
+
+<nav class="mj-breadcrumb">
+  <a href="index.html">Cartes</a> · <span>Route Altdorf → Middenheim</span>
+  <span class="mj-badge">MJ</span>
+</nav>
+<link rel="stylesheet" href="../carte.css?v=a5f187d0">
+<div id="carte-app" class="carte-app" data-map="route-middenheim">
+  <div class="carte-toolbar">
+    <label class="carte-field">Scénario
+      <select id="carte-scenario"><option value="">— aucun —</option></select>
+    </label>
+    <label class="carte-field carte-search-field">Lieu
+      <input id="carte-search" type="search" placeholder="Rechercher un lieu…"
+             autocomplete="off" spellcheck="false">
+    </label>
+    <label class="carte-toggle"><input type="checkbox" id="carte-toggle-scenario" checked>
+      Lieux du scénario</label>
+    <label class="carte-toggle"><input type="checkbox" id="carte-toggle-names">
+      Noms</label>
+    <label class="carte-toggle"><input type="checkbox" id="carte-toggle-zones" checked>
+      Couleur</label>
+    <label class="carte-field"><span>Zones</span>
+      <select id="carte-zone-mode">
+        <option value="secteur">par secteur</option>
+        <option value="quartier">par quartier</option>
+      </select></label>
+    <button type="button" id="carte-route-toggle" class="carte-btn">Trajet</button>
+    <button type="button" id="carte-reset" class="carte-btn">Vue entière</button>
+    <a id="carte-hub-link" class="carte-hub-link" hidden href="#">Hub du scénario →</a>
+  </div>
+  <div class="carte-filters" id="carte-filters"></div>
+  <div class="carte-seclegend" id="carte-section-legend" hidden></div>
+  <div class="carte-live" id="carte-live" hidden>
+    <span class="carte-filter-lbl">Écran live</span>
+    <label class="carte-field carte-live-hour-field">Heure
+      <select id="carte-live-hour"></select>
+    </label>
+    <span class="carte-filter-lbl">Variantes</span>
+    <span id="carte-live-vars"></span>
+    <button type="button" id="carte-live-show" class="carte-btn">Écran live →</button>
+  </div>
+  <div class="carte-stage">
+    <div class="carte-svg-wrap"><svg id="carte-svg" role="img"
+         aria-label="Carte schématique d'Altdorf"></svg></div>
+    <aside id="carte-panel" class="carte-panel" aria-live="polite">
+      <p class="carte-panel-empty">Clique un lieu sur la carte.</p>
+    </aside>
+  </div>
+</div>
+<script type="application/json" id="carte-data">{"id": "route-middenheim", "title": "Route Altdorf → Middenheim", "fiche": "Drakwald", "viewBox": "0 0 234 467", "poster": "route-middenheim-poster.jpg", "posterOpacity": 0.82, "intro": "La grand-route Altdorf → Middenheim (~400 milles, 6 jours de diligence) à travers la Drakwald. Plan canon VF « Altdorf à Middenheim en diligence rapide » (Le Pouvoir derrière le Trône, p. 15). Chaque étape est cliquable.", "scenarios": [{"name": "Le réveil d'Altdorf", "hubUrl": "../scenarios/le-reveil-daltdorf/index.html"}], "types": [{"key": "gouvernement", "label": "Cité / Capitale"}, {"key": "religieux", "label": "Sanctuaire"}, {"key": "taverne", "label": "Auberge-relais"}], "cityPolygon": [], "rivers": [], "quarterPolygons": [], "edges": [], "legend": [], "legendSections": [], "scenarioOverlay": {"altdorf": {"Le réveil d'Altdorf": [{"label": "Départ — la route de Middenheim", "scene": "64 - Route vers Middenheim"}]}, "middenheim": {"Le réveil d'Altdorf": [{"label": "Arrivée — terminus du voyage", "scene": "64 - Route vers Middenheim"}]}}, "pois": [{"id": "altdorf", "name": "Altdorf", "x": 60.0, "y": 405.0, "type": "gouvernement", "importance": "Notable", "section": "", "desc": "Point de départ de la route de Middenheim, à ~400 milles (6 jours de diligence). Capitale de l'Empire — voir sa carte détaillée.", "fiche": "Altdorf", "scenarios": {"Le réveil d'Altdorf": [{"label": "Départ — la route de Middenheim", "scene": "64 - Route vers Middenheim", "url": "../scenarios/le-reveil-daltdorf/64-route-vers-middenheim.html"}]}, "ficheUrl": "../../lieux/aldorf.html"}, {"id": "brockel", "name": "Bröckel", "x": 129.0, "y": 281.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "Petite ville de marché sans particularité, desservant Kupfengrube et Guthugel. Auberges : Les Armes de Bröckel (Quatre Saisons) et l'Auberge du Marché.", "fiche": "Bröckel", "scenarios": {}, "ficheUrl": "../lieux/brockel.html"}, {"id": "delberz", "name": "Delberz", "x": 158.0, "y": 226.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "La plus grande ville de la route, petit port fluvial actif sur le Delb. Auberges : Le Grand Chêne (Quatre Saisons) et La Roue et l'Ancre. Célèbre pour le fiasco du cartographe Tobwurst.", "fiche": "Delberz", "scenarios": {}, "ficheUrl": "../lieux/delberz.html"}, {"id": "frederheim", "name": "Frederheim", "x": 61.0, "y": 374.0, "type": "religieux", "importance": "Notable", "section": "", "desc": "Premier relais au nord d'Altdorf, connu pour le Grand Hospice de Shallya caché au plus profond de la forêt. Auberge-relais indépendante : La Colombe.", "fiche": "Frederheim", "scenarios": {}, "ficheUrl": "../lieux/frederheim.html"}, {"id": "grubentreich", "name": "Grubentreich", "x": 206.0, "y": 150.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "Petite ville marchande de collines (élevage ovin et caprin). Les Armes des Bildhofen, nommée d'après le duc Léopold, sert un fromage de chèvre réputé dans tout le Middenland.", "fiche": "Grubentreich", "scenarios": {}, "ficheUrl": "../lieux/grubentreich.html"}, {"id": "kutenholz", "name": "Kutenholz", "x": 119.0, "y": 348.0, "type": "religieux", "importance": "Notable", "section": "", "desc": "Premier arrêt dans le Middenland. Auberge-relais La Tête de Loup (emblème de la Tour du Roc) et grand sanctuaire d'Ulric à proximité. L'Illustre Pierre est tout près.", "fiche": "Kutenholz", "scenarios": {}, "ficheUrl": "../lieux/kutenholz.html"}, {"id": "le-cœur-de-la-foret", "name": "Le Cœur de la Forêt", "x": 162.0, "y": 311.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "Auberge-relais fortifiée, seule en pleine forêt vierge : murs de plus de 6 m surmontés de pointes. Les diligences sont de plus en plus attaquées au nord d'ici.", "fiche": "Le Cœur de la Forêt", "scenarios": {}, "ficheUrl": "../lieux/le-cœur-de-la-foret.html"}, {"id": "malstedt", "name": "Malstedt", "x": 188.0, "y": 167.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "Là où la forêt s'ouvre sur les collines. La Couronne Impériale : enseigne abîmée (couronne d'or repeinte d'une tête de loup blanc) — la sécession middenlandaise qui couve.", "fiche": "Malstedt", "scenarios": {}, "ficheUrl": "../lieux/malstedt.html"}, {"id": "middenheim", "name": "Middenheim", "x": 192.0, "y": 82.0, "type": "gouvernement", "importance": "Notable", "section": "", "desc": "Terminus de la route depuis Altdorf (~400 milles, 6 jours). Cité du Loup Blanc, sur le Fauschlag — voir sa carte détaillée.", "fiche": "Middenheim", "scenarios": {"Le réveil d'Altdorf": [{"label": "Arrivée — terminus du voyage", "scene": "64 - Route vers Middenheim", "url": "../scenarios/le-reveil-daltdorf/64-route-vers-middenheim.html"}]}, "ficheUrl": "../../lieux/middenheim.html"}, {"id": "mittelweg", "name": "Mittelweg", "x": 179.0, "y": 252.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "La Maison à Mi-Chemin : une des plus anciennes auberges de la route, murs marqués par les assauts du Chaos, tourelles à meurtrières. « Fête de la mi-trajet » chaque soir.", "fiche": "Mittelweg", "scenarios": {}, "ficheUrl": "../lieux/mittelweg.html"}, {"id": "schoninghagen", "name": "Schoninghagen", "x": 180.0, "y": 125.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "Dernière étape avant Middenheim. L'auberge Le Crâne et la Croix garde la mémoire du Traité de Schoninghagen (2369) : abdication Bildhofen + hommage du Nordland au Graf.", "fiche": "Schoninghagen", "scenarios": {}, "ficheUrl": "../lieux/schoninghagen.html"}, {"id": "sotturm", "name": "Sotturm", "x": 166.0, "y": 197.0, "type": "taverne", "importance": "Notable", "section": "", "desc": "Petite ville marchande neutre, prisée des maîtres de guilde du Middenland pour leurs négociations discrètes. Auberges : La Tour et la luxueuse Harpie Dorée.", "fiche": "Sotturm", "scenarios": {}, "ficheUrl": "../lieux/sotturm.html"}], "districts": [], "sections": [], "ficheUrl": "../lieux/drakwald.html", "posterUrl": "../route-middenheim-poster.jpg"}</script>
+<script src="../carte.js?v=a5f187d0" defer></script>
+
+</main>
+</div>
+<footer class="site-footer">
+  <div class="footer-flourish"><svg class="fleuron" viewBox="0 0 220 30" aria-hidden="true"><path class="vine" d="M2 15 C 30 15, 30 6, 60 8 C 75 9, 80 15, 90 15" /><path class="vine" d="M28 15 C 36 15, 38 21, 42 21" /><circle class="berry" cx="42" cy="21.5" r="1.4" /><circle class="berry" cx="56" cy="8.5" r="1.4" /><path class="vine" d="M218 15 C 190 15, 190 6, 160 8 C 145 9, 140 15, 130 15" /><path class="vine" d="M192 15 C 184 15, 182 21, 178 21" /><circle class="berry" cx="178" cy="21.5" r="1.4" /><circle class="berry" cx="164" cy="8.5" r="1.4" /><g class="rosette" transform="translate(110 15)">  <path d="M0 -8 C 4 -4, 4 4, 0 8 C -4 4, -4 -4, 0 -8 Z" />  <path d="M-8 0 C -4 -4, 4 -4, 8 0 C 4 4, -4 4, -8 0 Z" />  <circle r="2.2" class="rosette-core" /></g></svg></div>
+  <p>Campagne <em>Warhammer Fantasy Roleplay</em> 4ᵉ édition — Notes de partie.</p>
+</footer>
+<script src="../../search.js" defer></script>
+</body>
+</html>
