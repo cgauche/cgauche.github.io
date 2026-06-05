@@ -1,0 +1,176 @@
+{
+ "career": "Chasseur",
+ "png": "public/qc/tenue/chasseur.png",
+ "hex": [
+  {
+   "hex": "#2f3a18",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "hVest)' stroke='#2f3a18"
+  },
+  {
+   "hex": "#8a6a40",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "12 -23Z' fill='#8a6a40"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "' r='0.9' fill='#caa64a"
+  },
+  {
+   "hex": "#3a2818",
+   "count": 5,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "6a4a2a' stroke='#3a2818"
+  },
+  {
+   "hex": "#374318",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "='none' stroke='#374318"
+  },
+  {
+   "hex": "#4a3520",
+   "count": 4,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "7a5a34' stroke='#4a3520"
+  },
+  {
+   "hex": "#3f5020",
+   "count": 3,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "-6 -27Z' fill='#3f5020"
+  },
+  {
+   "hex": "#5a3f24",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "L11 22' stroke='#5a3f24"
+  },
+  {
+   "hex": "#7a5734",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "L11 22' stroke='#7a5734"
+  },
+  {
+   "hex": "#6a4a2a",
+   "count": 3,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "7 -5 21Z' fill='#6a4a2a"
+  },
+  {
+   "hex": "#2e2012",
+   "count": 3,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "5a3f24' stroke='#2e2012"
+  },
+  {
+   "hex": "#26310f",
+   "count": 2,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "3f5020' stroke='#26310f"
+  },
+  {
+   "hex": "#5a4326",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#5a4326"
+  },
+  {
+   "hex": "#3a2c18",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "5a4326' stroke='#3a2c18"
+  },
+  {
+   "hex": "#46521f",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "tete"
+   ],
+   "ctx": "2 7 3 1Z' fill='#46521f"
+  },
+  {
+   "hex": "#7a5a34",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-12 -23Z' fill='#7a5a34"
+  },
+  {
+   "hex": "#9c7a4c",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-8.4 14Z' fill='#9c7a4c"
+  },
+  {
+   "hex": "#9aa34a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='1.1' fill='#9aa34a"
+  },
+  {
+   "hex": "#5a6a30",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#5a6a30"
+  }
+ ]
+}

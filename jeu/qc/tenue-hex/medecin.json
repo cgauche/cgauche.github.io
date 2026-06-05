@@ -1,0 +1,250 @@
+{
+ "career": "Médecin",
+ "png": "public/qc/tenue/medecin.png",
+ "hex": [
+  {
+   "hex": "#3e0e12",
+   "count": 7,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "cloak)' stroke='#3e0e12"
+  },
+  {
+   "hex": "#7a1c22",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-14 -28Z' fill='#7a1c22"
+  },
+  {
+   "hex": "#3a2614",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#3a2614"
+  },
+  {
+   "hex": "#46100f",
+   "count": 4,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "14 -28Z' fill='#46100f"
+  },
+  {
+   "hex": "#6a4a2a",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "L9 30' stroke='#6a4a2a"
+  },
+  {
+   "hex": "#8a2630",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-7 -30Z' fill='#8a2630"
+  },
+  {
+   "hex": "#5e1418",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "tete"
+   ],
+   "ctx": "-11 33Z' fill='#5e1418"
+  },
+  {
+   "hex": "#330b0e",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "5e1418' stroke='#330b0e"
+  },
+  {
+   "hex": "#b94650",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#b94650"
+  },
+  {
+   "hex": "#36401a",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "hVest)' stroke='#36401a"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='0.9' fill='#caa64a"
+  },
+  {
+   "hex": "#c9b487",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "12 5 0Z' fill='#c9b487"
+  },
+  {
+   "hex": "#8a754c",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "c9b487' stroke='#8a754c"
+  },
+  {
+   "hex": "#a89066",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#a89066"
+  },
+  {
+   "hex": "#46521f",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "7 L9 6' stroke='#46521f"
+  },
+  {
+   "hex": "#4a3520",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L9 30' stroke='#4a3520"
+  },
+  {
+   "hex": "#5a3c22",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "0 -12 0Z' fill='#5a3c22"
+  },
+  {
+   "hex": "#2e1d10",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "5a3c22' stroke='#2e1d10"
+  },
+  {
+   "hex": "#cdd4df",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": ".5 -24' stroke='#cdd4df"
+  },
+  {
+   "hex": "#8a8f99",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-27.5' stroke='#8a8f99"
+  },
+  {
+   "hex": "#e3d4ab",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#e3d4ab"
+  },
+  {
+   "hex": "#9a8255",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#9a8255"
+  },
+  {
+   "hex": "#b8a172",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-5.5 22Z' fill='#b8a172"
+  },
+  {
+   "hex": "#7e683f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "b8a172' stroke='#7e683f"
+  },
+  {
+   "hex": "#7e5a34",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-4.6 36Z' fill='#7e5a34"
+  },
+  {
+   "hex": "#8a6440",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#8a6440"
+  },
+  {
+   "hex": "#e6dfce",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-7.4 -3Z' fill='#e6dfce"
+  },
+  {
+   "hex": "#bdb39c",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#bdb39c"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "career": "Saltimbanque",
+ "png": "public/qc/tenue/saltimbanque.png",
+ "hex": [
+  {
+   "hex": "#c9a23e",
+   "count": 9,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-13 -25Z' fill='#c9a23e"
+  },
+  {
+   "hex": "#dccfa6",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "10 -22Z' fill='#dccfa6"
+  },
+  {
+   "hex": "#8a6a1e",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "caa64a' stroke='#8a6a1e"
+  },
+  {
+   "hex": "#8c2a24",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "6.5 -27Z' fill='#8c2a24"
+  },
+  {
+   "hex": "#ece3c8",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-13 -27Z' fill='#ece3c8"
+  },
+  {
+   "hex": "#b8aa82",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "ece3c8' stroke='#b8aa82"
+  },
+  {
+   "hex": "#bdae84",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "dccfa6' stroke='#bdae84"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "tete"
+   ],
+   "ctx": "' r='1.6' fill='#caa64a"
+  },
+  {
+   "hex": "#a8323a",
+   "count": 4,
+   "parts": [
+    "bras",
+    "tete"
+   ],
+   "ctx": "='none' stroke='#a8323a"
+  },
+  {
+   "hex": "#46120f",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "7a2420' stroke='#46120f"
+  },
+  {
+   "hex": "#9a8c64",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "ece3c8' stroke='#9a8c64"
+  },
+  {
+   "hex": "#e4dabb",
+   "count": 2,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "-4.6 -2Z' fill='#e4dabb"
+  },
+  {
+   "hex": "#7a2420",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-13 6Z' fill='#7a2420"
+  },
+  {
+   "hex": "#5a1814",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#5a1814"
+  },
+  {
+   "hex": "#e8dcb0",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "2.8 19' stroke='#e8dcb0"
+  },
+  {
+   "hex": "#b0a378",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#b0a378"
+  }
+ ]
+}

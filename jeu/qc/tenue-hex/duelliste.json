@@ -1,0 +1,127 @@
+{
+ "career": "Duelliste",
+ "png": "public/qc/tenue/duelliste.png",
+ "hex": [
+  {
+   "hex": "#3a2917",
+   "count": 12,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "7a5836' stroke='#3a2917"
+  },
+  {
+   "hex": "#5a4127",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "-7 -23 Z' fill='#5a4127"
+  },
+  {
+   "hex": "#6a4d2e",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "13 -19 Z' fill='#6a4d2e"
+  },
+  {
+   "hex": "#c9a24a",
+   "count": 4,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='0.8' fill='#c9a24a"
+  },
+  {
+   "hex": "#7a5836",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "L-13 6 Z' fill='#7a5836"
+  },
+  {
+   "hex": "#67492c",
+   "count": 3,
+   "parts": [
+    "torse"
+   ],
+   "ctx": ".5 -12 Z' fill='#67492c"
+  },
+  {
+   "hex": "#4a3520",
+   "count": 2,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "-22.5 Z' fill='#4a3520"
+  },
+  {
+   "hex": "#2c1d10",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "4a3520' stroke='#2c1d10"
+  },
+  {
+   "hex": "#8a6740",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "3.5 25 Z' fill='#8a6740"
+  },
+  {
+   "hex": "#8f6c42",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-6 30 Z' fill='#8f6c42"
+  },
+  {
+   "hex": "#caa05a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "'0.4'/><g fill='#caa05a"
+  },
+  {
+   "hex": "#5a3f1a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "caa05a' stroke='#5a3f1a"
+  },
+  {
+   "hex": "#2a2018",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "teelD)' stroke='#2a2018"
+  },
+  {
+   "hex": "#caa06a",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "-3 33 Z' fill='#caa06a"
+  }
+ ]
+}

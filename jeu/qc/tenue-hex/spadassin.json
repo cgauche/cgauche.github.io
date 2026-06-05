@@ -1,0 +1,181 @@
+{
+ "career": "Spadassin",
+ "png": "public/qc/tenue/spadassin.png",
+ "hex": [
+  {
+   "hex": "#6a4a26",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "9c7a44' stroke='#6a4a26"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 4,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "4' rx='1' fill='#caa64a"
+  },
+  {
+   "hex": "#a89c84",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "d8d2c2' stroke='#a89c84"
+  },
+  {
+   "hex": "#9c7a44",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "L-13 2 Z' fill='#9c7a44"
+  },
+  {
+   "hex": "#d8d2c2",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "L-13 2 Z' fill='#d8d2c2"
+  },
+  {
+   "hex": "#b3a893",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "2 L6 8' stroke='#b3a893"
+  },
+  {
+   "hex": "#5a3c1f",
+   "count": 2,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "14 -20 Z' fill='#5a3c1f"
+  },
+  {
+   "hex": "#3a2613",
+   "count": 2,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "5a3c1f' stroke='#3a2613"
+  },
+  {
+   "hex": "#7a5e34",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-2 -24 Z' fill='#7a5e34"
+  },
+  {
+   "hex": "#5a3f22",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "7a5e34' stroke='#5a3f22"
+  },
+  {
+   "hex": "#3e2a14",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "5a3c1f' stroke='#3e2a14"
+  },
+  {
+   "hex": "#8a6a26",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "caa64a' stroke='#8a6a26"
+  },
+  {
+   "hex": "#4a3219",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "rx='1.5' fill='#4a3219"
+  },
+  {
+   "hex": "#2e1f0e",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "4a3219' stroke='#2e1f0e"
+  },
+  {
+   "hex": "#bdb6a4",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-4.5 0 Z' fill='#bdb6a4"
+  },
+  {
+   "hex": "#8f876f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "bdb6a4' stroke='#8f876f"
+  },
+  {
+   "hex": "#9c947e",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "1.5 20' stroke='#9c947e"
+  },
+  {
+   "hex": "#48301a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "6a4a26' stroke='#48301a"
+  },
+  {
+   "hex": "#6e4a26",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-5 27 Z' fill='#6e4a26"
+  },
+  {
+   "hex": "#2e1f10",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "L-5 50 Z' fill='#2e1f10"
+  },
+  {
+   "hex": "#cfc8b6",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "-4 12 Z' fill='#cfc8b6"
+  }
+ ]
+}

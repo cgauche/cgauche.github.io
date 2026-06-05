@@ -1,0 +1,369 @@
+{
+ "career": "Chasseur de primes",
+ "png": "public/qc/tenue/chasseur-de-primes.png",
+ "hex": [
+  {
+   "hex": "#2e1f10",
+   "count": 8,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "<g stroke='#2e1f10"
+  },
+  {
+   "hex": "#cfae62",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "'0.7'/><g fill='#cfae62"
+  },
+  {
+   "hex": "#caa46a",
+   "count": 4,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#caa46a"
+  },
+  {
+   "hex": "#5a4118",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "tete"
+   ],
+   "ctx": "cfae62' stroke='#5a4118"
+  },
+  {
+   "hex": "#3a2812",
+   "count": 3,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#3a2812"
+  },
+  {
+   "hex": "#6e5230",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": ".4 -10 Z' fill='#6e5230"
+  },
+  {
+   "hex": "#3f2c16",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "0.6 27 Z' fill='#3f2c16"
+  },
+  {
+   "hex": "#7e3f1c",
+   "count": 2,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#7e3f1c"
+  },
+  {
+   "hex": "#5a3f22",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "-5 20 Z' fill='#5a3f22"
+  },
+  {
+   "hex": "#8a6238",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#8a6238"
+  },
+  {
+   "hex": "#3e4a2a",
+   "count": 2,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "='none' stroke='#3e4a2a"
+  },
+  {
+   "hex": "#5e4426",
+   "count": 2,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#5e4426"
+  },
+  {
+   "hex": "#54401f",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "13 -27 Z' fill='#54401f"
+  },
+  {
+   "hex": "#5c6a44",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": ".5 -31 Z' fill='#5c6a44"
+  },
+  {
+   "hex": "#3a4528",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "5c6a44' stroke='#3a4528"
+  },
+  {
+   "hex": "#5a4326",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-13 4 Z' fill='#5a4326"
+  },
+  {
+   "hex": "#66492a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "11.8 4 Z' fill='#66492a"
+  },
+  {
+   "hex": "#5c4124",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-11 18 Z' fill='#5c4124"
+  },
+  {
+   "hex": "#523a20",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "9.6 31 Z' fill='#523a20"
+  },
+  {
+   "hex": "#7a5a34",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "14 -27 Z' fill='#7a5a34"
+  },
+  {
+   "hex": "#8a6a3e",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#8a6a3e"
+  },
+  {
+   "hex": "#241809",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "3f2c16' stroke='#241809"
+  },
+  {
+   "hex": "#9aa6c2",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-6 27 Z' fill='#9aa6c2"
+  },
+  {
+   "hex": "#5e6a86",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "9aa6c2' stroke='#5e6a86"
+  },
+  {
+   "hex": "#c2cee2",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#c2cee2"
+  },
+  {
+   "hex": "#a85b2a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "8 -5 0 Z' fill='#a85b2a"
+  },
+  {
+   "hex": "#c47238",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "5 -5 0 Z' fill='#c47238"
+  },
+  {
+   "hex": "#d68a4a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#d68a4a"
+  },
+  {
+   "hex": "#4a3219",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4.6 24 Z' fill='#4a3219"
+  },
+  {
+   "hex": "#624426",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "5.4 29 Z' fill='#624426"
+  },
+  {
+   "hex": "#5e421f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#5e421f"
+  },
+  {
+   "hex": "#56653e",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "4.4 -2 Z' fill='#56653e"
+  },
+  {
+   "hex": "#67784a",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "4.4 -2 Z' fill='#67784a"
+  },
+  {
+   "hex": "#1f1408",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "<g stroke='#1f1408"
+  },
+  {
+   "hex": "#3a2814",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-15 -1 Z' fill='#3a2814"
+  },
+  {
+   "hex": "#4a3318",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "5 6 -3 Z' fill='#4a3318"
+  },
+  {
+   "hex": "#43301a",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-9 -3 Z' fill='#43301a"
+  },
+  {
+   "hex": "#2a1c0d",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "9 -2.2 Z' fill='#2a1c0d"
+  },
+  {
+   "hex": "#5a4018",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "rx='0.7' fill='#5a4018"
+  },
+  {
+   "hex": "#2e1f0c",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "5a4018' stroke='#2e1f0c"
+  },
+  {
+   "hex": "#3f5230",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-7 -10 Z' fill='#3f5230"
+  },
+  {
+   "hex": "#26341c",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "3f5230' stroke='#26341c"
+  },
+  {
+   "hex": "#5a7044",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#5a7044"
+  },
+  {
+   "hex": "#2e4020",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#2e4020"
+  }
+ ]
+}

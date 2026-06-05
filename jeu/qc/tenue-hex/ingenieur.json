@@ -1,0 +1,301 @@
+{
+ "career": "Ingénieur",
+ "png": "public/qc/tenue/ingenieur.png",
+ "hex": [
+  {
+   "hex": "#caa64a",
+   "count": 6,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "rx='0.8' fill='#caa64a"
+  },
+  {
+   "hex": "#cdd4df",
+   "count": 6,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "' r='1.8' fill='#cdd4df"
+  },
+  {
+   "hex": "#3a2616",
+   "count": 5,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "6a4a2a' stroke='#3a2616"
+  },
+  {
+   "hex": "#6a4f16",
+   "count": 5,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "b8902e' stroke='#6a4f16"
+  },
+  {
+   "hex": "#8c6a3e",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras",
+    "tete"
+   ],
+   "ctx": "='none' stroke='#8c6a3e"
+  },
+  {
+   "hex": "#e6c878",
+   "count": 4,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "1.4 24' stroke='#e6c878"
+  },
+  {
+   "hex": "#6a4a2a",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "L-12 6Z' fill='#6a4a2a"
+  },
+  {
+   "hex": "#4a3520",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "-12 28Z' fill='#4a3520"
+  },
+  {
+   "hex": "#241608",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "4a3520' stroke='#241608"
+  },
+  {
+   "hex": "#2a3038",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "teelD)' stroke='#2a3038"
+  },
+  {
+   "hex": "#dfe6ef",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "='none' stroke='#dfe6ef"
+  },
+  {
+   "hex": "#222a32",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "='none' stroke='#222a32"
+  },
+  {
+   "hex": "#7a5e20",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "caa64a' stroke='#7a5e20"
+  },
+  {
+   "hex": "#b8902e",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "2 7 -26Z' fill='#b8902e"
+  },
+  {
+   "hex": "#12161d",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='0.4' fill='#12161d"
+  },
+  {
+   "hex": "#7d5b32",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-8 -10Z' fill='#7d5b32"
+  },
+  {
+   "hex": "#39414e",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "steel)' stroke='#39414e"
+  },
+  {
+   "hex": "#cfd6e0",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#cfd6e0"
+  },
+  {
+   "hex": "#9aa2ae",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#9aa2ae"
+  },
+  {
+   "hex": "#5a6272",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "cdd4df' stroke='#5a6272"
+  },
+  {
+   "hex": "#3a4150",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "2.8 26Z' fill='#3a4150"
+  },
+  {
+   "hex": "#46505e",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "2 4.6 0Z' fill='#46505e"
+  },
+  {
+   "hex": "#272f3a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "46505e' stroke='#272f3a"
+  },
+  {
+   "hex": "#2c3540",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#2c3540"
+  },
+  {
+   "hex": "#5c6776",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#5c6776"
+  },
+  {
+   "hex": "#2e2018",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-5.2 50Z' fill='#2e2018"
+  },
+  {
+   "hex": "#150f08",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "2e2018' stroke='#150f08"
+  },
+  {
+   "hex": "#43301f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-4.8 33Z' fill='#43301f"
+  },
+  {
+   "hex": "#0e0a06",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#0e0a06"
+  },
+  {
+   "hex": "#1c130c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#1c130c"
+  },
+  {
+   "hex": "#8a5a38",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "flesh)' stroke='#8a5a38"
+  },
+  {
+   "hex": "#8a3a18",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-5 9 -8Z' fill='#8a3a18"
+  },
+  {
+   "hex": "#4e1d0c",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "8a3a18' stroke='#4e1d0c"
+  },
+  {
+   "hex": "#b8552a",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "2 11 -8Z' fill='#b8552a"
+  }
+ ]
+}

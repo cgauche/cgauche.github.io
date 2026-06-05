@@ -1,0 +1,216 @@
+{
+ "career": "Conseiller",
+ "png": "public/qc/tenue/conseiller.png",
+ "hex": [
+  {
+   "hex": "#e6e2d4",
+   "count": 5,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-14 -27Z' fill='#e6e2d4"
+  },
+  {
+   "hex": "#caa24a",
+   "count": 5,
+   "parts": [
+    "torse",
+    "jambes",
+    "tete"
+   ],
+   "ctx": "4 13 8' stroke='#caa24a"
+  },
+  {
+   "hex": "#8a6a1e",
+   "count": 4,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "4 13 8' stroke='#8a6a1e"
+  },
+  {
+   "hex": "#2f6f6a",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "L-13 4 Z' fill='#2f6f6a"
+  },
+  {
+   "hex": "#235451",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "L-13 4 Z' fill='#235451"
+  },
+  {
+   "hex": "#b8b3a2",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "-8 -8' stroke='#b8b3a2"
+  },
+  {
+   "hex": "#3a2412",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L13 16' stroke='#3a2412"
+  },
+  {
+   "hex": "#1c3f3d",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-13 18Z' fill='#1c3f3d"
+  },
+  {
+   "hex": "#f4f0e6",
+   "count": 2,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "3 2 -10Z' fill='#f4f0e6"
+  },
+  {
+   "hex": "#c9d6c4",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-4 12 Z' fill='#c9d6c4"
+  },
+  {
+   "hex": "#9aa896",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-1 6 Z' fill='#9aa896"
+  },
+  {
+   "hex": "#5a3a22",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-13 4 Z' fill='#5a3a22"
+  },
+  {
+   "hex": "#7a4a26",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "rx='1.5' fill='#7a4a26"
+  },
+  {
+   "hex": "#9a6a3a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "eight='3' fill='#9a6a3a"
+  },
+  {
+   "hex": "#6a4a2a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='3.2' fill='#6a4a2a"
+  },
+  {
+   "hex": "#27605c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4.5 30 Z' fill='#27605c"
+  },
+  {
+   "hex": "#1f4a47",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4.5 30 Z' fill='#1f4a47"
+  },
+  {
+   "hex": "#27506e",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4.5 46 Z' fill='#27506e"
+  },
+  {
+   "hex": "#1c3a50",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-4.5 49Z' fill='#1c3a50"
+  },
+  {
+   "hex": "#163a37",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "1.6 30' stroke='#163a37"
+  },
+  {
+   "hex": "#ad2030",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "1.5 -11Z' fill='#ad2030"
+  },
+  {
+   "hex": "#8a1622",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-3 -19Z' fill='#8a1622"
+  },
+  {
+   "hex": "#d8d2c2",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "12 3 -9Z' fill='#d8d2c2"
+  },
+  {
+   "hex": "#c8c2b0",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "9 -11' stroke='#c8c2b0"
+  },
+  {
+   "hex": "#8a8474",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "' r='0.6' fill='#8a8474"
+  }
+ ]
+}

@@ -1,0 +1,302 @@
+{
+ "career": "Juriste",
+ "png": "public/qc/tenue/juriste.png",
+ "hex": [
+  {
+   "hex": "#3a2c14",
+   "count": 5,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='0.9' fill='#3a2c14"
+  },
+  {
+   "hex": "#3a481c",
+   "count": 4,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "4 5 -22Z' fill='#3a481c"
+  },
+  {
+   "hex": "#33401a",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "hVest)' stroke='#33401a"
+  },
+  {
+   "hex": "#5a6a2e",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "-4 -22Z' fill='#5a6a2e"
+  },
+  {
+   "hex": "#b59a5e",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "24 -7 8Z' fill='#b59a5e"
+  },
+  {
+   "hex": "#6a5128",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "b59a5e' stroke='#6a5128"
+  },
+  {
+   "hex": "#c9ad6c",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "22 -6 7Z' fill='#c9ad6c"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='0.8' fill='#caa64a"
+  },
+  {
+   "hex": "#2a3614",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "3a481c' stroke='#2a3614"
+  },
+  {
+   "hex": "#0e0a06",
+   "count": 2,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#0e0a06"
+  },
+  {
+   "hex": "#2b2a26",
+   "count": 2,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-7.5 -3Z' fill='#2b2a26"
+  },
+  {
+   "hex": "#161512",
+   "count": 2,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "2b2a26' stroke='#161512"
+  },
+  {
+   "hex": "#c8402a",
+   "count": 2,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#c8402a"
+  },
+  {
+   "hex": "#5a4322",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L0 28' stroke='#5a4322"
+  },
+  {
+   "hex": "#8a6f3a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "6 L3 8' stroke='#8a6f3a"
+  },
+  {
+   "hex": "#4a3320",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L7 18' stroke='#4a3320"
+  },
+  {
+   "hex": "#6a4d2c",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L7 18' stroke='#6a4d2c"
+  },
+  {
+   "hex": "#3a2c1a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "22 1 17Z' fill='#3a2c1a"
+  },
+  {
+   "hex": "#1f160c",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "3a2c1a' stroke='#1f160c"
+  },
+  {
+   "hex": "#ece6d6",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-9 -27Z' fill='#ece6d6"
+  },
+  {
+   "hex": "#b3aa90",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "ece6d6' stroke='#b3aa90"
+  },
+  {
+   "hex": "#c9c1a8",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#c9c1a8"
+  },
+  {
+   "hex": "#6a5a3a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "16 5 0Z' fill='#6a5a3a"
+  },
+  {
+   "hex": "#3f3320",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "6a5a3a' stroke='#3f3320"
+  },
+  {
+   "hex": "#54462c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#54462c"
+  },
+  {
+   "hex": "#2c1f14",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-5.2 50Z' fill='#2c1f14"
+  },
+  {
+   "hex": "#150e07",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "2c1f14' stroke='#150e07"
+  },
+  {
+   "hex": "#45331f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-4.4 33Z' fill='#45331f"
+  },
+  {
+   "hex": "#241a10",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "45331f' stroke='#241a10"
+  },
+  {
+   "hex": "#1c130c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#1c130c"
+  },
+  {
+   "hex": "#48463e",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#48463e"
+  },
+  {
+   "hex": "#23221e",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-11 -2Z' fill='#23221e"
+  },
+  {
+   "hex": "#121110",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "23221e' stroke='#121110"
+  },
+  {
+   "hex": "#403e36",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#403e36"
+  },
+  {
+   "hex": "#9e2418",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "9 5 -11Z' fill='#9e2418"
+  },
+  {
+   "hex": "#5e120a",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "9e2418' stroke='#5e120a"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+ "career": "Artisan",
+ "png": "public/qc/tenue/artisan.png",
+ "hex": [
+  {
+   "hex": "#3a2614",
+   "count": 6,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "5a3c22' stroke='#3a2614"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 6,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "' r='1.3' fill='#caa64a"
+  },
+  {
+   "hex": "#caa882",
+   "count": 4,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-9 -22 Z' fill='#caa882"
+  },
+  {
+   "hex": "#4a3420",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "8a6a40' stroke='#4a3420"
+  },
+  {
+   "hex": "#5a3c22",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras",
+    "tete"
+   ],
+   "ctx": "-9 -10 Z' fill='#5a3c22"
+  },
+  {
+   "hex": "#2a3038",
+   "count": 2,
+   "parts": [
+    "torse",
+    "tete"
+   ],
+   "ctx": "steel)' stroke='#2a3038"
+  },
+  {
+   "hex": "#2a1c10",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "4.6 40' stroke='#2a1c10"
+  },
+  {
+   "hex": "#8a6a40",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-13 -8 Z' fill='#8a6a40"
+  },
+  {
+   "hex": "#9a7a4c",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "12 -10 Z' fill='#9a7a4c"
+  },
+  {
+   "hex": "#6a4626",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-7 26 Z' fill='#6a4626"
+  },
+  {
+   "hex": "#2e2418",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "0' rx='3' fill='#2e2418"
+  },
+  {
+   "hex": "#3c301f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4.6 50 Z' fill='#3c301f"
+  },
+  {
+   "hex": "#1c1610",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "2.6 48' stroke='#1c1610"
+  }
+ ]
+}

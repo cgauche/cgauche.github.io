@@ -1,0 +1,127 @@
+{
+ "career": "Tueur",
+ "png": "public/qc/tenue/tueur.png",
+ "hex": [
+  {
+   "hex": "#c8a24a",
+   "count": 9,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "' r='0.9' fill='#c8a24a"
+  },
+  {
+   "hex": "#2f5a8a",
+   "count": 4,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#2f5a8a"
+  },
+  {
+   "hex": "#5a3a1f",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "15 -19 Z' fill='#5a3a1f"
+  },
+  {
+   "hex": "#4a2e16",
+   "count": 4,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "-12 34 Z' fill='#4a2e16"
+  },
+  {
+   "hex": "#2c2c18",
+   "count": 4,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4a4a2c' stroke='#2c2c18"
+  },
+  {
+   "hex": "#a06a44",
+   "count": 3,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "0 -22 Z' fill='#a06a44"
+  },
+  {
+   "hex": "#3a2410",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "5a3a1f' stroke='#3a2410"
+  },
+  {
+   "hex": "#7a4f33",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "flesh)' stroke='#7a4f33"
+  },
+  {
+   "hex": "#8a5a38",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#8a5a38"
+  },
+  {
+   "hex": "#2a1809",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "4a2e16' stroke='#2a1809"
+  },
+  {
+   "hex": "#d8b24e",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "5' rx='1' fill='#d8b24e"
+  },
+  {
+   "hex": "#8a6a20",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "d8b24e' stroke='#8a6a20"
+  },
+  {
+   "hex": "#4a4a2c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "0 4 0 Z' fill='#4a4a2c"
+  },
+  {
+   "hex": "#2e2e1a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#2e2e1a"
+  }
+ ]
+}

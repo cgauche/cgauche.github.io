@@ -1,0 +1,270 @@
+{
+ "career": "Naufrageur",
+ "png": "public/qc/tenue/naufrageur.png",
+ "hex": [
+  {
+   "hex": "#a86a3e",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "flesh)' stroke='#a86a3e"
+  },
+  {
+   "hex": "#8a4f2a",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#8a4f2a"
+  },
+  {
+   "hex": "#8a7048",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#8a7048"
+  },
+  {
+   "hex": "#1a1108",
+   "count": 3,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "3a2a1a' stroke='#1a1108"
+  },
+  {
+   "hex": "#9a5a32",
+   "count": 2,
+   "parts": [
+    "torse",
+    "bras"
+   ],
+   "ctx": "='none' stroke='#9a5a32"
+  },
+  {
+   "hex": "#3a2410",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='1.3' fill='#3a2410"
+  },
+  {
+   "hex": "#6a5636",
+   "count": 2,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#6a5636"
+  },
+  {
+   "hex": "#5a3a1e",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-13 -27Z' fill='#5a3a1e"
+  },
+  {
+   "hex": "#4a3220",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "0 8 -27Z' fill='#4a3220"
+  },
+  {
+   "hex": "#241509",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "4a3220' stroke='#241509"
+  },
+  {
+   "hex": "#6a4a2a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "8 8 -24Z' fill='#6a4a2a"
+  },
+  {
+   "hex": "#3a2614",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-12 20Z' fill='#3a2614"
+  },
+  {
+   "hex": "#1c1006",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "3a2614' stroke='#1c1006"
+  },
+  {
+   "hex": "#5a3c20",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "-12 17Z' fill='#5a3c20"
+  },
+  {
+   "hex": "#caa64a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "rx='0.8' fill='#caa64a"
+  },
+  {
+   "hex": "#7a6020",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "caa64a' stroke='#7a6020"
+  },
+  {
+   "hex": "#6a5418",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='0.9' fill='#6a5418"
+  },
+  {
+   "hex": "#7a6a4a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "28 8 21Z' fill='#7a6a4a"
+  },
+  {
+   "hex": "#3a3020",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "7a6a4a' stroke='#3a3020"
+  },
+  {
+   "hex": "#4a3e26",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#4a3e26"
+  },
+  {
+   "hex": "#9a3a2a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "19' r='1' fill='#9a3a2a"
+  },
+  {
+   "hex": "#5a4632",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#5a4632"
+  },
+  {
+   "hex": "#4a3624",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "14 5 0Z' fill='#4a3624"
+  },
+  {
+   "hex": "#231809",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "4a3624' stroke='#231809"
+  },
+  {
+   "hex": "#2a1d0f",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#2a1d0f"
+  },
+  {
+   "hex": "#5a432c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-4.4 6Z' fill='#5a432c"
+  },
+  {
+   "hex": "#3a2a1a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "1 -5 28Z' fill='#3a2a1a"
+  },
+  {
+   "hex": "#241809",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#241809"
+  },
+  {
+   "hex": "#3a2c1c",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "2 -5 50Z' fill='#3a2c1c"
+  },
+  {
+   "hex": "#c98e58",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "4 2.6 2Z' fill='#c98e58"
+  },
+  {
+   "hex": "#6a5234",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "-4.6 5Z' fill='#6a5234"
+  },
+  {
+   "hex": "#3a2c18",
+   "count": 1,
+   "parts": [
+    "bras"
+   ],
+   "ctx": "6a5234' stroke='#3a2c18"
+  }
+ ]
+}

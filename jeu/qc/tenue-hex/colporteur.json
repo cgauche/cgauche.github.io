@@ -1,0 +1,222 @@
+{
+ "career": "Colporteur",
+ "png": "public/qc/tenue/colporteur.png",
+ "hex": [
+  {
+   "hex": "#6f6230",
+   "count": 4,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "L11 18' stroke='#6f6230"
+  },
+  {
+   "hex": "#3c3216",
+   "count": 4,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "18' r='1' fill='#3c3216"
+  },
+  {
+   "hex": "#9a8a52",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "-13 2 Z' fill='#9a8a52"
+  },
+  {
+   "hex": "#5d5128",
+   "count": 3,
+   "parts": [
+    "torse",
+    "jambes",
+    "bras"
+   ],
+   "ctx": "9a8a52' stroke='#5d5128"
+  },
+  {
+   "hex": "#4a3c1c",
+   "count": 3,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#4a3c1c"
+  },
+  {
+   "hex": "#7a6c3c",
+   "count": 2,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L2 -28 Z' fill='#7a6c3c"
+  },
+  {
+   "hex": "#5a4a28",
+   "count": 2,
+   "parts": [
+    "torse",
+    "jambes"
+   ],
+   "ctx": "4' ry='3' fill='#5a4a28"
+  },
+  {
+   "hex": "#cfc4a4",
+   "count": 2,
+   "parts": [
+    "jambes",
+    "bras"
+   ],
+   "ctx": "L-4 50 Z' fill='#cfc4a4"
+  },
+  {
+   "hex": "#7e8650",
+   "count": 2,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "='none' stroke='#7e8650"
+  },
+  {
+   "hex": "#a99a60",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "13 -10 Z' fill='#a99a60"
+  },
+  {
+   "hex": "#8a6a36",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "6' ry='7' fill='#8a6a36"
+  },
+  {
+   "hex": "#4a3414",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "8a6a36' stroke='#4a3414"
+  },
+  {
+   "hex": "#5a4420",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "L-8 8' stroke='#5a4420"
+  },
+  {
+   "hex": "#b8956a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "' r='4.5' fill='#b8956a"
+  },
+  {
+   "hex": "#6a4a2a",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "b8956a' stroke='#6a4a2a"
+  },
+  {
+   "hex": "#3a2a18",
+   "count": 1,
+   "parts": [
+    "torse"
+   ],
+   "ctx": "='none' stroke='#3a2a18"
+  },
+  {
+   "hex": "#8a7a44",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-5 22 Z' fill='#8a7a44"
+  },
+  {
+   "hex": "#a89a60",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "-6 33 Z' fill='#a89a60"
+  },
+  {
+   "hex": "#9a8e6a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "cfc4a4' stroke='#9a8e6a"
+  },
+  {
+   "hex": "#8a7e5a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "='none' stroke='#8a7e5a"
+  },
+  {
+   "hex": "#6a5a3a",
+   "count": 1,
+   "parts": [
+    "jambes"
+   ],
+   "ctx": "3' ry='3' fill='#6a5a3a"
+  },
+  {
+   "hex": "#6c7440",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-10 -2 Z' fill='#6c7440"
+  },
+  {
+   "hex": "#454a26",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "6c7440' stroke='#454a26"
+  },
+  {
+   "hex": "#565c30",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "-11 -4 Z' fill='#565c30"
+  },
+  {
+   "hex": "#5a6038",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "3 -9 1 Z' fill='#5a6038"
+  },
+  {
+   "hex": "#3c4020",
+   "count": 1,
+   "parts": [
+    "tete"
+   ],
+   "ctx": "5a6038' stroke='#3c4020"
+  }
+ ]
+}
