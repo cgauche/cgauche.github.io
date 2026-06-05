@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Galeries QC — sprites, animations & bestiaire</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { margin: 0; background: #11141c; color: #e8ecf4; font: 15px/1.5 system-ui, sans-serif; padding: 24px; }
+    h1 { font-size: 22px; margin: 0 0 4px; }
+    p.sub { color: #9fb0c8; margin: 0 0 22px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 14px; max-width: 1100px; }
+    a.card { display: block; text-decoration: none; color: inherit; background: #1a2030; border: 1px solid #2a3348;
+      border-radius: 12px; padding: 16px; transition: border-color .15s, transform .15s; }
+    a.card:hover { border-color: #4f8fe0; transform: translateY(-2px); }
+    a.card h2 { font-size: 16px; margin: 0 0 4px; color: #cfe0ff; }
+    a.card span { color: #9fb0c8; font-size: 13px; }
+    .back { display: inline-block; margin-bottom: 18px; color: #8fb6ff; text-decoration: none; }
+    .sec { margin: 26px 0 8px; color: #7e8aa0; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
+  </style>
+</head>
+<body>
+  <a class="back" href="./">← Retour au jeu</a>
+  <h1>🎨 Galeries QC — sprites, animations &amp; bestiaire</h1>
+  <p class="sub">Planches de contrôle qualité du rig, des animations et du bestiaire (rendu SVG isométrique).</p>
+
+  <div class="sec">Personnages (rig)</div>
+  <div class="grid">
+    <a class="card" href="rig-gallery.html"><h2>Rig — espèces × sexe + équipement</h2><span>Toutes les espèces, carrières, ennemis riggés, mutant 3 vues, poses d'ambiance.</span></a>
+    <a class="card" href="head-views.html"><h2>Têtes — face / profil / dos</h2><span>Vues directionnelles des têtes par espèce×sexe (E·7).</span></a>
+    <a class="card" href="tenue-views.html"><h2>Tenues — face / profil / dos</h2><span>Les 64 tenues de carrière vues sous 3 angles.</span></a>
+  </div>
+
+  <div class="sec">Animations</div>
+  <div class="grid">
+    <a class="card" href="anim-gallery.html"><h2>Animations par arme</h2><span>Porté · armé · frappe · parade, par groupe d'arme canonique.</span></a>
+    <a class="card" href="qc/weapons-montage.png"><h2>Armes — montage</h2><span>Les 13 formes d'arme (audit de reconnaissabilité).</span></a>
+  </div>
+
+  <div class="sec">Bestiaire</div>
+  <div class="grid">
+    <a class="card" href="bestiary-views.html"><h2>Bestiaire — face / profil / dos</h2><span>47 créatures en vues directionnelles (facing 8-dir).</span></a>
+    <a class="card" href="qc/creatures-redo-montage.png"><h2>Créatures redessinées — montage</h2><span>Les 14 monstres corrigés (audit aveugle).</span></a>
+    <a class="card" href="sprites-gallery.html"><h2>Sprites bestiaire (historique)</h2><span>Galerie d'origine des sprites de créatures.</span></a>
+  </div>
+
+  <div class="sec">Debug</div>
+  <div class="grid">
+    <a class="card" href="dbg-species.html"><h2>Ancrage sol &amp; armes par taille</h2><span>Toutes les espèces posées au sol, armes en main.</span></a>
+  </div>
+</body>
+</html>
