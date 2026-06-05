@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Comète bicaudée de Sigmar">
+  <defs>
+    <radialGradient id="vig" cx="64%" cy="32%" r="80%">
+      <stop offset="0%" stop-color="#3a2c14"/>
+      <stop offset="62%" stop-color="#17121f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="head" cx="42%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#fff4d2"/>
+      <stop offset="45%" stop-color="#f2c45a"/>
+      <stop offset="100%" stop-color="#b8801f"/>
+    </radialGradient>
+  </defs>
+  <rect width="32" height="32" rx="7" fill="#17121f"/>
+  <rect width="32" height="32" rx="7" fill="url(#vig)"/>
+  <!-- les deux queues (bicaudée) qui filent vers le bas-gauche -->
+  <path d="M20.5 11.5 L5.5 24.5 L10.5 26.5 Z" fill="#f2c45a"/>
+  <path d="M20.5 11.5 L11.5 27.5 L16 25.5 Z" fill="#d99a33"/>
+  <!-- halo + tête de la comète -->
+  <circle cx="20.5" cy="11.5" r="6.6" fill="#f2c45a" opacity="0.22"/>
+  <circle cx="20.5" cy="11.5" r="4" fill="url(#head)"/>
+</svg>
