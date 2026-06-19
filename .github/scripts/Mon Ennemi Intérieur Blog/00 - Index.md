@@ -1,7 +1,7 @@
 # Mon Ennemi Intérieur - Index complet
 
 
-## Résumés (62)
+## Résumés (63)
 
 - [01 - 01) L'auberge des 3 plumes](<Résumés/01 - 01) L'auberge des 3 plumes.md>)
 - [02 - 02) Une journée au tribunal](<Résumés/02 - 02) Une journée au tribunal.md>)
@@ -65,6 +65,7 @@
 - [60 - 60) Le défilé](<Résumés/60 - 60) Le défilé.md>)
 - [61 - 61) Le mariage](<Résumés/61 - 61) Le mariage.md>)
 - [62 - 62) Le conseil impérial](<Résumés/62 - 62) Le conseil impérial.md>)
+- [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 
 ## PJ (56)
 
@@ -125,7 +126,7 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (232)
+## PNJ (233)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
@@ -236,6 +237,7 @@
 - [Heinrich Todbringer](<PNJ/Heinrich Todbringer.md>)
 - [Heinricus von Kärzburdger](<PNJ/Heinricus von Kärzburdger.md>)
 - [Heinz Richter](<PNJ/Heinz Richter.md>)
+- [Henrik Kapelmuller](<PNJ/Henrik Kapelmuller.md>)
 - [Hermine Liebwitz von Decker und Hanulf](<PNJ/Hermine Liebwitz von Decker und Hanulf.md>)
 - [Heske Glazer](<PNJ/Heske Glazer.md>)
 - [Hildegarde Zimperlich (2)](<PNJ/Hildegarde Zimperlich (2).md>)

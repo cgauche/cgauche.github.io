@@ -27,11 +27,9 @@ L’Empire vit toujours sous la crainte de la Ruine, et de l’influence des die
 
 #### Provinces
 
-Les provinces émergent et périclitent au gré des époques, ainsi si chaque comte électeur contrôle originellement une province cela n’est plus toujours le cas, comme le Solland – intégré au Wissenland – ou le Norland sous tutelle de Middenheim.
+Les provinces émergent et périclitent au gré des époques. Ainsi si chaque comte électeur contrôle originellement une province cela n’est plus toujours le cas, comme le Solland qui n'existe plus, le Sunderland qui est une province récente – elle se trouve au sud du Wissenland, non présence sur cette carte – ou encore le Norland qui est sous tutelle de Middenheim.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImBEkBU0sg-bYCoS-wlP9byKDYqmBpzovqFU_Men3rwY7mgMyYdkuD2DIHV8NeW0eLuaz0JOBtTNzEbUgLIZEFg2ZzbkpCkUBA5KhUStD9K5NwQqi3v40uv-xywBI_epySlwAJVt-AZlZbyP7jItl8ol8AMPJseTETSPe0N-N3npO3xyF6USWlxNjq4Y/s600/TheEmpire.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjImBEkBU0sg-bYCoS-wlP9byKDYqmBpzovqFU_Men3rwY7mgMyYdkuD2DIHV8NeW0eLuaz0JOBtTNzEbUgLIZEFg2ZzbkpCkUBA5KhUStD9K5NwQqi3v40uv-xywBI_epySlwAJVt-AZlZbyP7jItl8ol8AMPJseTETSPe0N-N3npO3xyF6USWlxNjq4Y/s1596/TheEmpire.jpg)
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWQyeaAQlJMzNeqAoVau_Z9NnbvYPjldFiPTKT1WQd9wBQHx5h0yuPKqfIpdBeV3WXUwvc0jTNiwQH7n9_QtQXGtZobGBblXRCXJqHUG0TUtE-W0HOpDbVugL1oL80KIcBGTs6pJQc6sg92HR-uVL6JwvuJBwWdd-2nsUq9c7gi9kmm6dQHPmqRTbunt8/w640-h493/TheEmpirePolitics.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWQyeaAQlJMzNeqAoVau_Z9NnbvYPjldFiPTKT1WQd9wBQHx5h0yuPKqfIpdBeV3WXUwvc0jTNiwQH7n9_QtQXGtZobGBblXRCXJqHUG0TUtE-W0HOpDbVugL1oL80KIcBGTs6pJQc6sg92HR-uVL6JwvuJBwWdd-2nsUq9c7gi9kmm6dQHPmqRTbunt8/s554/TheEmpirePolitics.webp)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq1jLDkFsEcE0TQHsY6jPy0lLqO-McHDEVCHao8L8UcbrjXQnD2y-Uj3KzOujVR4m_49QUQ32es3yYsUAu696QzahWetPvbntWD2Zm9hgBZbc29S5sX7ER2AQEqaD8DCda8Qp3iT0LZ7SzmBP_RcWOT7xgv-qUtRBSQtdEH4IiR0K2Ib5RTCef5oNPW6s/s600/Empire.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq1jLDkFsEcE0TQHsY6jPy0lLqO-McHDEVCHao8L8UcbrjXQnD2y-Uj3KzOujVR4m_49QUQ32es3yYsUAu696QzahWetPvbntWD2Zm9hgBZbc29S5sX7ER2AQEqaD8DCda8Qp3iT0LZ7SzmBP_RcWOT7xgv-qUtRBSQtdEH4IiR0K2Ib5RTCef5oNPW6s/s5974/Empire.jpg)
 
 #### Calendrier
 

@@ -109,6 +109,7 @@
 - [Heinrich Todbringer](<Heinrich Todbringer.md>)
 - [Heinricus von Kärzburdger](<Heinricus von Kärzburdger.md>)
 - [Heinz Richter](<Heinz Richter.md>)
+- [Henrik Kapelmuller](<Henrik Kapelmuller.md>)
 - [Hermine Liebwitz von Decker und Hanulf](<Hermine Liebwitz von Decker und Hanulf.md>)
 - [Heske Glazer](<Heske Glazer.md>)
 - [Hildegarde Zimperlich (2)](<Hildegarde Zimperlich (2).md>)

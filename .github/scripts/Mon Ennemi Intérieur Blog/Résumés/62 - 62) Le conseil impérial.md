@@ -28,16 +28,29 @@ Dans une ambiance délétère, une pause fut déclarée pour permettre aux diff�
 
 C’est durant cette pause que Phineas fut abordé par une personne de la délégation du Sunderland, lui demandant de transmettre une proposition au graf : en échange d’une aide militaire elle s’engagerait à faire d’Ulric le culte officiel de sa province. Pour mettre le feu aux poudres dans les relations en Nuln et Middenheim, il n’y avait pas mieux !
 
-Dans le même temps, Pesold surprit une conversation entre Emmanuelle et Maria-Luise, et décidant de tenter sa chance, il alla révéler nos connaissances sur le faux empereur à cette dernière une fois la comtesse partie. D’abord réticente, elle lui avoua que l’empereur était en effet alité, et ce depuis un an, dans un état qui lui permettait que peu de prendre des décisions. Ce qui signifiait que les récentes lois sur les mutants et l’attaque d’Ubersreik avait eu lieu alors qu’il n’était pas en pleine possession de ses moyens.
+Dans le même temps, d’autres délégations se montrèrent moins courtoises en nous saluant. Un représentant du Middenland avertit Pesold des représailles qu’encourait Middenheim s’ils perduraient dans leur politique expansionniste, tandis qu’Immanuel ne se priva pas de moquer les récits de skavens et de Main Pourpre que servait Mark à qui voulait l’entendre. Le chancelier l’invectiva presque, lui faisant comprendre qu'il n’était pas le bienvenue à Altdorf lui et ses fadaises.
+
+Pesold surprit une conversation entre Emmanuelle et Maria-Luise, et décidant de tenter sa chance, il alla révéler nos connaissances sur le faux empereur à cette dernière une fois la comtesse partie. D’abord réticente, elle lui avoua que l’empereur était en effet alité, et ce depuis un an, dans un état qui lui permettait que peu de prendre des décisions. Ce qui signifiait que les récentes lois sur les mutants et l’attaque d’Ubersreik avait eu lieu alors qu’il n’était pas en pleine possession de ses moyens.
 
 Après la reprise des débats, l’empereur se lança dans un discours prônant l’apaisement, l’unité. Malheureusement, par des mots malheureux il s’attira les foudres du graf. Alors qu’on avait attenté à sa vie, à celle de ses enfants, il venait lui parler de « petits faits » ? Il n’en supporta pas davantage, et comme l’empereur insista en se levant, brandissant Ghal Maraz d’un air paternaliste comme il l’avait déjà fait deux fois, Boris se leva et le frappa de son arme en hurlant !
 
-Il y eut un éclair blanc, une détonation à arracher les tympans détonna, et Ghal Maraz se brisa.
+Il y eut un éclair blanc, une détonation à arracher les tympans, et Ghal Maraz se brisa.
 
 Ghal Maraz, en morceaux ! La représentation même de Sigmar sur cette terre, l’autorité de l’empereur, anéanti. C’était tout bonnement impossible… Ce fut la consternation. Même Thyrus qui s’était montré si désinvolte toute la séance, cria en s’embrasant, semblant littéralement prêt à exploser, avant qu’Immanuel ne parvienne à le calmer en lui chuchotant à l’oreille.
 
-Cela mit prématurément fin au conclave, toutes les délégations partant fâchées et choquées. Seul Quintus Fassbinder se réjouissait de cette délectable nouvelle, car pour lui il n’y avait qu’une seule et unique raison : ce marteau était un faux et le vrai Ghal Maraz était ailleurs !
+Cela mit prématurément fin au conclave, toutes les délégations partant fâchées et choquées. Seul Quintus Fassbinder se réjouissait de cette délectable nouvelle, car pour lui il n’y avait qu’une seule et unique raison : ce marteau était un faux et le vrai Ghal Maraz était ailleurs ! Il nous promit d’en dire plus si nous nous rendions à sur bureau le lendemain…
 
-Il nous promit d’en dire plus si nous nous rendions à sur bureau le lendemain…
+Nous rentrâmes au manoir Helstein après une éreintante journée qui avait vu une tentative de meurtre sur la famille Todbringer et la destruction du symbole de l’Empire, sans compter la disparition de Yuridika. En effet, personne ne l’avait vu s’éclipser durant le conclave et elle n’était toujours pas rentrée. Cette femme semblait avoir de plus en plus souvent des absences et un comportement étrange, mais cela ne nous alarma pas. Que pouvait-il arriver de pire après tout ?
 
-**Suite prochainement...**
+Hélas…
+
+Des bruits de métal qui s’entrechoque, de bois qu’on brise, beaucoup de cris, et une inquiétante odeur de brûlé nous tira de notre sommeil dans les plus profondes heures de la nuit. Nous étions attaqués ! Nous levant en hâte, nous courûmes pour alerter les autres résidents avant de nous faire intercepter par des hordes de fanatiques de Sigmar.
+
+Nous ne parvînmes pas à atteindre la chambre de la princesse Katarina, d’où provenait des hurlements d’horreur. Déchainés, enivrés par l’appel au meurtre, ils étaient trop nombreux pour nous permettre de les contenir. Nous perdîmes certains d’entre nous, submergés dans la masse, tandis que les autres, paniqués, se faufilant tant bien que mal, évacuèrent le bâtiment en se jetant par les fenêtres avant que les flammes qui léchaient ses fondations ne le fasse s’effondrer.
+
+Dans le chaos, nous vîmes Boris et Heinrich s’extraire des décombres en portant les corps inanimés de Katarina et Hildegarde pour nous rejoindre, traversant une cour en proie à la guerre. Des dizaines de gardes se battaient vaillamment mais vainement contre la centaine de fanatiques qui avait investi les lieux.
+La meute féroce qui s’adonnait au massacre en toute impunité s’écarta à leur passage, dévoilant une silhouette encapuchonnée. Celle-ci défia Boris en combat singulier. Une provocation que la sagesse et la rudesse des événements auraient poussé à refuser. Mais le graf était un homme fier. Bien que diminué, il se jeta sur lui et laissa parler sa rage. Il se lança dans une rafale de coups. Mais son adversaire se contenta d’esquiver ses attaques bien trop maladroites, cherchant une ouverture. Soudain, il leva son marteau et l’abattit sur le crâne de Boris, qui s’écroula sur le coup.
+
+Sous les vivats de la foule, il ôta sa capuche et leva son marteau en signe de victoire.
+
+Volkmar venait de tuer le graf de Middenheim.

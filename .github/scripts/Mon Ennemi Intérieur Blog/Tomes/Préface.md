@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*07/05/2026 : Fin de [l’épisode 62](https://monennemiinterieur.blogspot.com/search/label/62), dénouement du conclave.*
+*19/06/2026 : Fin de [l’épisode 62](https://monennemiinterieur.blogspot.com/search/label/62), meurtres au manoir.*
