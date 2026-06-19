@@ -18,8 +18,9 @@ Connus pour avoir bâti de formidables forteresses et des armes légendaires,
 les nains sont de brillants ingénieurs, forgerons et maçons. Il n’ont en
 revanche aucune appétence pour la magie, Ils sont généralement trapus, musclés
 et avec un large torse. Leur espérance de vie est très élevée, de l’ordre de
-plusieurs centaines d’années. Très attachés à l’honneur, la longueur de leurs
+plusieurs centaines d’années. Très attachés à l’honneur et la tradition, la longueur de leurs
 cheveux est pour eux une fierté. Ils sont très hostiles envers les elfes.
+Entre eux, ils utilisent un langue ancestrale dont ils gardent jalousement le secret : le khazalid.
 
 #### Halfelins
 
