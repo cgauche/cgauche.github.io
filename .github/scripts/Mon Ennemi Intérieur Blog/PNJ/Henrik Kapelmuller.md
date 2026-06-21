@@ -2,6 +2,6 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/03/docteur-kapelmuller.html](https://monennemiinterieur.blogspot.com/2020/03/docteur-kapelmuller.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHxG8IbIjR8iXzgSrUqhyphenhyphenlEdDZ9JJDNtAJWZOabZi0UAIVpSiXU21VTEFrxKiLaBWMWN-qkWXysceKeH3qrvQLdxCFA-KUqaLv4b4rTRwTad5Ojj4v_a3JWCdS7Mlc1c4UPxwKEeIzLxSn0Nz3GhQ4KDAwVWpuLtSeOSQgVuldKLexntwOKxW5l4-y90/s200/silhouette.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicHxG8IbIjR8iXzgSrUqhyphenhyphenlEdDZ9JJDNtAJWZOabZi0UAIVpSiXU21VTEFrxKiLaBWMWN-qkWXysceKeH3qrvQLdxCFA-KUqaLv4b4rTRwTad5Ojj4v_a3JWCdS7Mlc1c4UPxwKEeIzLxSn0Nz3GhQ4KDAwVWpuLtSeOSQgVuldKLexntwOKxW5l4-y90/s626/silhouette.png)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl7wZxlzCRjOh1_U2q_LXzfCibP60pPGmsLs7megiboBR9yuikSMnnjXz6IqJx-pxjwxXqWr2ZR6GUythFEFaa_WskxH5fL5cawGJqV3fISBcaqa0ZtkIrXKBWn0a2QIFsaGPiuORED4tl4TTYTcXe-n_AweYa5gHiOxfrxqy_14LS2JBxo7-fl85QXps/s200/henrik-kappelmuller.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl7wZxlzCRjOh1_U2q_LXzfCibP60pPGmsLs7megiboBR9yuikSMnnjXz6IqJx-pxjwxXqWr2ZR6GUythFEFaa_WskxH5fL5cawGJqV3fISBcaqa0ZtkIrXKBWn0a2QIFsaGPiuORED4tl4TTYTcXe-n_AweYa5gHiOxfrxqy_14LS2JBxo7-fl85QXps/s500/henrik-kappelmuller.webp)
 
 **Docteur**
