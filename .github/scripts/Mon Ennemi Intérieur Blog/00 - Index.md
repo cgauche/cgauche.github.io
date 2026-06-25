@@ -68,13 +68,14 @@
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 - [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
 
-## PJ (56)
+## PJ (58)
 
 - [Albert Reichau](<PJ/Albert Reichau.md>)
 - [Albert, joueur d'épée](<PJ/Albert, joueur d'épée.md>)
 - [Anselm Madritsch](<PJ/Anselm Madritsch.md>)
 - [Anselm, chirurgien](<PJ/Anselm, chirurgien.md>)
 - [Anselm, maître-sorcier d'Azyr](<PJ/Anselm, maître-sorcier d'Azyr.md>)
+- [Anselm, médecin de l'empereur](<PJ/Anselm, médecin de l'empereur.md>)
 - [Anselm, sorcier d'Azyr](<PJ/Anselm, sorcier d'Azyr.md>)
 - [Anselm, sorcier de village](<PJ/Anselm, sorcier de village.md>)
 - [Caranthir Tinuviel](<PJ/Caranthir Tinuviel.md>)
@@ -83,6 +84,7 @@
 - [Elvira, batelière](<PJ/Elvira, batelière.md>)
 - [Elvira, cochère](<PJ/Elvira, cochère.md>)
 - [Elvira, espionne de la Gravin](<PJ/Elvira, espionne de la Gravin.md>)
+- [Elvira, espionne impériale](<PJ/Elvira, espionne impériale.md>)
 - [Elvira, grande prêtresse de Rhya (2)](<PJ/Elvira, grande prêtresse de Rhya (2).md>)
 - [Elvira, grande prêtresse de Rhya](<PJ/Elvira, grande prêtresse de Rhya.md>)
 - [Elvira, initiée de Rhya](<PJ/Elvira, initiée de Rhya.md>)
