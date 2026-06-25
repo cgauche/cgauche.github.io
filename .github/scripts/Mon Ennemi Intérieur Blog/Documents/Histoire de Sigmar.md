@@ -1,4 +1,4 @@
-# Histoire de Sigmar
+# De l'Adéquat au Pitoyable
 
 *Source : [https://monennemiinterieur.blogspot.com/2019/03/histoire-de-sigmar.html](https://monennemiinterieur.blogspot.com/2019/03/histoire-de-sigmar.html)*
 

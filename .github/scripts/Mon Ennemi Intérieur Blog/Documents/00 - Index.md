@@ -25,6 +25,7 @@
 - [La toile](<La toile.md>)
 - [Le Nordland chantera vos louanges !](<Le Nordland chantera vos louanges !.md>)
 - [Le cristal d'immortalité](<Le cristal d'immortalité.md>)
+- [Les Augures Admirables de Tante Augusta](<Les Augures Admirables de Tante Augusta.md>)
 - [Lettre MM](<Lettre MM.md>)
 - [Lettre Main Pourpre](<Lettre Main Pourpre.md>)
 - [Lettre à Bhar](<Lettre à Bhar.md>)

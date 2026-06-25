@@ -1,4 +1,4 @@
-# 64) [La quête de Ghal Maraz]
+# 64) [En quête de Ghal Maraz]
 
 *Source : [https://monennemiinterieur.blogspot.com/2025/03/64-la-quete-de-ghal-maraz.html](https://monennemiinterieur.blogspot.com/2025/03/64-la-quete-de-ghal-maraz.html)*
 
@@ -8,7 +8,7 @@ Le chancelier nous reçut le lendemain matin. Comme nous le supposions, il nous 
 
 Il se rendit à l’évidence, nous avions été utile à l’empereur et pour cela, il souhaitait s’attacher nos services. En premier lieu d’Anselm, qui serait nommé médecin officiel de la cour, mais aussi de nous tous en tant qu’agents. Comme pour se justifier, il nous révéla que Johannes travaillait déjà pour lui, et qu’il nous surveillait depuis de nombreux jours.
 
-Lorsqu’on lui exposa nos hypothèses sur la localisation supposée de Ghal Mazar et notre projet de le récupérer, il parut étonnamment réceptif. Lui qui tournait en dérision toutes nos preuves sur la Main Pourpre, les skavens, l’assassinat du graf par Volkmar, il semblait beaucoup plus prompt à croire les écrits du professeur Fassbinder sur le sujet ainsi que la menace que l’artefact sacré ne tombe entre de mauvaises mains. Il avait d’ailleurs eu vent des propos d’Heinrich nous demandant de le lui ramener.
+Lorsqu’on lui exposa nos hypothèses sur la localisation supposée de Ghal Maraz et notre projet de le récupérer, il parut étonnamment réceptif. Lui qui tournait en dérision toutes nos preuves sur la Main Pourpre, les skavens, l’assassinat du graf par Volkmar, il semblait beaucoup plus prompt à croire les écrits du professeur Fassbinder sur le sujet ainsi que la menace que l’artefact sacré ne tombe entre de mauvaises mains. Il avait d’ailleurs eu vent des propos d’Heinrich nous demandant de le lui ramener.
 
 Ce fut donc à sa demande – et avec ses moyens – que nous nous embarquions pour ce long trajet qui nous mènerait à la passe du Feu Noir, tout au sud du pays.
 

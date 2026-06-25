@@ -435,7 +435,7 @@
 - [Wittgendorf (2)](<Lieux/Wittgendorf (2).md>)
 - [Wittgendorf](<Lieux/Wittgendorf.md>)
 
-## Documents (46)
+## Documents (47)
 
 - [A l'aide !](<Documents/A l'aide !.md>)
 - [Adresse de Brunehilde](<Documents/Adresse de Brunehilde.md>)
@@ -462,6 +462,7 @@
 - [La toile](<Documents/La toile.md>)
 - [Le Nordland chantera vos louanges !](<Documents/Le Nordland chantera vos louanges !.md>)
 - [Le cristal d'immortalité](<Documents/Le cristal d'immortalité.md>)
+- [Les Augures Admirables de Tante Augusta](<Documents/Les Augures Admirables de Tante Augusta.md>)
 - [Lettre MM](<Documents/Lettre MM.md>)
 - [Lettre Main Pourpre](<Documents/Lettre Main Pourpre.md>)
 - [Lettre à Bhar](<Documents/Lettre à Bhar.md>)

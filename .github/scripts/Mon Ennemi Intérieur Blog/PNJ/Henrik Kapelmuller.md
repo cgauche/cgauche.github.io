@@ -1,4 +1,4 @@
-# Henrik Kapelmuller
+# Henrik Kappelmuller
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/03/docteur-kapelmuller.html](https://monennemiinterieur.blogspot.com/2020/03/docteur-kapelmuller.html)*
 
