@@ -1,7 +1,7 @@
 # Mon Ennemi Intérieur - Index complet
 
 
-## Résumés (63)
+## Résumés (64)
 
 - [01 - 01) L'auberge des 3 plumes](<Résumés/01 - 01) L'auberge des 3 plumes.md>)
 - [02 - 02) Une journée au tribunal](<Résumés/02 - 02) Une journée au tribunal.md>)
@@ -66,6 +66,7 @@
 - [61 - 61) Le mariage](<Résumés/61 - 61) Le mariage.md>)
 - [62 - 62) Le conseil impérial](<Résumés/62 - 62) Le conseil impérial.md>)
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
+- [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
 
 ## PJ (56)
 
@@ -434,19 +435,21 @@
 - [Wittgendorf (2)](<Lieux/Wittgendorf (2).md>)
 - [Wittgendorf](<Lieux/Wittgendorf.md>)
 
-## Documents (43)
+## Documents (46)
 
 - [A l'aide !](<Documents/A l'aide !.md>)
 - [Adresse de Brunehilde](<Documents/Adresse de Brunehilde.md>)
 - [Affidavit](<Documents/Affidavit.md>)
 - [Carte de Dagmar](<Documents/Carte de Dagmar.md>)
 - [Carte de la mine](<Documents/Carte de la mine.md>)
+- [Catalogues de Confusion et de Médiocrité](<Documents/Catalogues de Confusion et de Médiocrité.md>)
 - [Cher Convenor](<Documents/Cher Convenor.md>)
 - [Chronique astronomique de 2302](<Documents/Chronique astronomique de 2302.md>)
 - [Conte pour enfant](<Documents/Conte pour enfant.md>)
 - [Dernier avertissement](<Documents/Dernier avertissement.md>)
 - [Déclaration du changement](<Documents/Déclaration du changement.md>)
 - [Démonstration publique](<Documents/Démonstration publique.md>)
+- [Histoire de Sigmar](<Documents/Histoire de Sigmar.md>)
 - [Invitation Garden Party](<Documents/Invitation Garden Party.md>)
 - [Invitation au mariage](<Documents/Invitation au mariage.md>)
 - [Journal de Dagmar](<Documents/Journal de Dagmar.md>)
@@ -454,6 +457,7 @@
 - [La Schaffenfest](<Documents/La Schaffenfest.md>)
 - [La lettre d'Herzen](<Documents/La lettre d'Herzen.md>)
 - [La lettre](<Documents/La lettre.md>)
+- [La passe de Feu Noir](<Documents/La passe de Feu Noir.md>)
 - [La sagesse est de mise](<Documents/La sagesse est de mise.md>)
 - [La toile](<Documents/La toile.md>)
 - [Le Nordland chantera vos louanges !](<Documents/Le Nordland chantera vos louanges !.md>)

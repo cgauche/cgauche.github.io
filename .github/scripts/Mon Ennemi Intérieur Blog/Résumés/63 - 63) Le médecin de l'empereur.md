@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/03/63-le-medecin-de-lempereur.html](https://monennemiinterieur.blogspot.com/2024/03/63-le-medecin-de-lempereur.html)*
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJEdv8DX8ncTkmV1s71-h3ztRPN6NhFwAwQWpO8wHfG2vebx1JOck9rESSxyGEW5RoUx84T_fTo6F153Hbv9FdjSJhsfdmEyX6zZM4cVYaliSj05R64g72KRLLx7efeuON-hpZ3xUleq8r_UQZe87Jwf6_I8ca0wgokxXydAraW69An9ELYalIVnS1lfI/s400/palace-and-cathedral.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheKSk7mrv9TDPZRdCI99d65Qznj3wvf11wpeAHpcxpliGvRQUZd-_wWwynAwqoqkGX0XAF6bri_f0RHOo9prBxudjqTM-yEU4dBb8wjPt6TONyXuhcr5mh8aUZV6aA2X7lg-7H4F1aiIFtWvqpACT3cFkgHlLBfabEZVIa0DCAHvj76DFF1Rhk_93i48Y/s320/karl-franz.webp)
 
 L’aube se levait, révélant au grand jour l’ampleur de la désolation. Des gardes impériaux aidaient des ouvriers à extraire les prisonniers des décombres, des cadavres pour la plupart, et à les acheminer au temple de Shallya pour tenter de sauver ceux qui le pouvaient encore. Elvira, Anselm et Pesold, arpentant les ruines du manoir, étaient parvenus à retrouver Phineas dans un état critique. Mais nos autres compagnons restaient introuvables. Peut-être les retrouverait-on au temple, s’ils avaient survécu…
 
@@ -28,7 +28,7 @@ Après avoir occupé les gardes et lui avoir permis de se faufiler dans la salle
 
 Mark nous retrouva pendant notre fuite, nous expliquant qu’il s’était réveillé au temple de Shallya. Albert y était aussi, mais il avait décidé d’y rester le temps de son rétablissement. Son état était si mauvais qu’il lui faudrait certainement plusieurs semaines pour marcher à nouveau.
 
-Les documents que Johannes nous partagea se révélèrent de vraies mines d’or. Fassbinder s’était spécialisé dans les cultes du chaos et présentait toutes ses découvertes dans des notes éparses. Il nous montra également le deuxième tome du gros livre nain signé Yodri ainsi qu’une lettre cryptée de la Main Pourpre expliquant avec des termes mystérieux comment faire naître le Champion des Ombres. Un terme maintes fois évoqué dans des lettres par Kastor Lieberung.
+Les documents que Johannes nous partagea se révélèrent de vraies mines d’or. Fassbinder s’était spécialisé dans les cultes du chaos et présentait toutes ses découvertes dans des notes éparses. Il nous montra également une lettre cryptée de la Main Pourpre expliquant avec des termes mystérieux comment faire naître le Champion des Ombres. Un terme maintes fois évoqué dans des lettres par Kastor Lieberung.
 
 Altdorf était agitée, la foule dans les rues agressives, certains habitants semblant presque nous traquer. Le sud de la ville s’était embrasé à l’annonce de la destruction de Ghal Maraz. La légitimité de l’empereur en avait pris un coup. Elvira remarqua même un homme étrange nous surveillant comme un espion. Et pendant ce temps, la cathédrale de Sigmar était au centre de manifestations populaires se réjouissant de « la mort du loup », chantant le miracle supposé de Volkmar qui aurait été vu châtier le briseur de marteau au manoir Helstein et au même moment dans le temple. Ridicule…
 
@@ -49,8 +49,6 @@ Le docteur Kapelmuller s’étrangla en vous voyant entrer dans la chambre, voul
 
 Nous n’avions plus de doute, il nous fallait confronter cet homme à Maria-Luise. Il nous fut difficile de la décider, mais elle accepta de nous suivre dans la chambre avec ses soldats. Dos au mur, le docteur craqua, avouant qu’il avait été engagé par Karl-Heinz Wasmeier le magister de la Main Pourpre. Il profita de l’instant de flottement qui s’ensuivit pour s’enfuir par la fenêtre.
 
-Enfin disposée pleinement à nous écouter, la souveraine accorda le droit à Anselm de rentrer. Il remarqua dès qu’il fut entré la puissante malédiction avait été incantée ici, et renouvelée très récemment, ce qui empêchait le rétablissement de l’empereur. Récemment, mais comment ?! « *Ce garçon, il est venu voir le docteur tout à l’heure* », se souvint alors Annaliese, nous décrivant un enfant d’une dizaine d’année avec des traits qui nous étaient que trop familiers.
+Enfin disposée pleinement à nous écouter, la souveraine accorda le droit à Anselm de rentrer. Il remarqua dès qu’il fut entré un résidu de magie, de dhar, qui avait été incantée ici très récemment pour renouveler la maladie dont il était affligé, empêchant le rétablissement de l’empereur. Récemment, mais comment ?! « *Ce garçon, il est venu voir le docteur tout à l’heure* », se souvint alors Annaliese, nous décrivant un enfant d’une dizaine d’année avec des traits qui nous étaient que trop familiers.
 
 Ainsi donc, Gideon le démon était de retour…
-
-**Suite prochainement...**
