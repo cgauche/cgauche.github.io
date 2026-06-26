@@ -4,9 +4,9 @@
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJEdv8DX8ncTkmV1s71-h3ztRPN6NhFwAwQWpO8wHfG2vebx1JOck9rESSxyGEW5RoUx84T_fTo6F153Hbv9FdjSJhsfdmEyX6zZM4cVYaliSj05R64g72KRLLx7efeuON-hpZ3xUleq8r_UQZe87Jwf6_I8ca0wgokxXydAraW69An9ELYalIVnS1lfI/s400/palace-and-cathedral.webp)
 
-Le chancelier nous reçut le lendemain matin. Comme nous le supposions, il nous considérait toujours aussi peu. Et pourtant, il nous avait donné rendez-vous.
+Le chancelier nous reçut le lendemain matin. Comme nous le supposions, il nous considérait toujours aussi peu. Et pourtant, il s’était donné la peine de nous convoquer.
 
-Il se rendit à l’évidence, nous avions été utile à l’empereur et pour cela, il souhaitait s’attacher nos services. En premier lieu d’Anselm, qui serait nommé médecin officiel de la cour, mais aussi de nous tous en tant qu’agents. Comme pour se justifier, il nous révéla que Johannes travaillait déjà pour lui, et qu’il nous surveillait depuis de nombreux jours.
+Il se rendit à l’évidence, nous avions été utile à l’empereur et pour cela, il souhaitait s’attacher nos services. En premier lieu d’Anselm, qui serait nommé médecin officiel de la cour, mais aussi de nous tous en tant qu’agents au service de la couronne. Comme pour se justifier, il nous révéla que Johannes travaillait déjà pour lui, et qu’il nous surveillait depuis de nombreux jours.
 
 Lorsqu’on lui exposa nos hypothèses sur la localisation supposée de Ghal Maraz et notre projet de le récupérer, il parut étonnamment réceptif. Lui qui tournait en dérision toutes nos preuves sur la Main Pourpre, les skavens, l’assassinat du graf par Volkmar, il semblait beaucoup plus prompt à croire les écrits du professeur Fassbinder sur le sujet ainsi que la menace que l’artefact sacré ne tombe entre de mauvaises mains. Il avait d’ailleurs eu vent des propos d’Heinrich nous demandant de le lui ramener.
 
