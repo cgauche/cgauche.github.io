@@ -4,7 +4,7 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilcYjKwdn9QIh97iqZLo0NAPVvjI4MnbY5MlTgTSIRnfcZvqZi66oT0FH-nceVlJVcc5SN10VQ3gXpYwR3Gu-Ue0Q8KonrwYpbpJiODIvaMvpBRVdOPEiyTJ73VAQahSrfRmU8eaXWYoaOSyyVmGE9v4BmHcK9sOMf813Ahz4hgNlpiu31fuxOFY1VS88/s200/elvira_token.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilcYjKwdn9QIh97iqZLo0NAPVvjI4MnbY5MlTgTSIRnfcZvqZi66oT0FH-nceVlJVcc5SN10VQ3gXpYwR3Gu-Ue0Q8KonrwYpbpJiODIvaMvpBRVdOPEiyTJ73VAQahSrfRmU8eaXWYoaOSyyVmGE9v4BmHcK9sOMf813Ahz4hgNlpiu31fuxOFY1VS88/s937/elvira_token.png)
 
-**Grande prêtresse de Rhya**
+**Agent secret impérial**
 
 **Joueur: Wardagnan**
 

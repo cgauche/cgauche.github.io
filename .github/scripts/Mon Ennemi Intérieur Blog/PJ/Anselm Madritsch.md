@@ -4,7 +4,7 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSDR3kr1yUsnnu-xKPoRhaPp-iMW8_pLArb_Rm5t0cJgDPsFurjfRSFkUpu7LdKHVDLsuaVoegzfQa10qhR1DOOVWhLAjmYIAvNRYaiu0LK0aG4ldZZbq6UGYADYzEwt6QfMIZ8SpmMHX7EM_Yolzk3Dch3G4LQAPD9ihxrR6dhA2pUmvm05gMMlI-b6Q/s200/Anselmt.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSDR3kr1yUsnnu-xKPoRhaPp-iMW8_pLArb_Rm5t0cJgDPsFurjfRSFkUpu7LdKHVDLsuaVoegzfQa10qhR1DOOVWhLAjmYIAvNRYaiu0LK0aG4ldZZbq6UGYADYzEwt6QfMIZ8SpmMHX7EM_Yolzk3Dch3G4LQAPD9ihxrR6dhA2pUmvm05gMMlI-b6Q/s1024/Anselmt.png)
 
-**Sorcier d'Azyr**
+**Médecin de l’empereur**
 
 **Joueur: Saturos**
 
