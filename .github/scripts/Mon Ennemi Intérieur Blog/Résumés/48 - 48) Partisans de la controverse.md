@@ -100,5 +100,5 @@ nous autres, ce fut l’occasion de retourner à nos occupations domestiques.
 Après tout, désormais le plus dur était fait, les autorités allaient prendre la suite.
 Yuridika, aidé d’Anselm, termina de confectionner son bâton magique tandis que
 Phineas retourna à son atelier. Elvira put retourner voir la Gardienne Verte
-et voir que les préparatifs du solstice avançaient correctement en son
+et voir que les préparatifs de la fête du printemps avançaient correctement en son
 absence.

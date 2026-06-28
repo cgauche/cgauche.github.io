@@ -51,7 +51,7 @@ parc de la ville. Il ne lui fallait plus qu’officialiser le temple. Mais
 comment fallait-il faire ? Comme elle l’ignorait, elle retourna à Altdorf
 afin de rencontrer sa marraine, la Gardienne Verte. Celle-ci lui donna des
 graines bénies à planter dans son temple, et lui demanda d’organiser une fête
-pour le solstice d’été qui aurait lieu dans deux mois. Elle viendrait la retrouver à Middenheim en temps voulu pour lui prodiguer quelques conseils et la seconder.
+pour l’équinoxe de printemps qui aurait lieu dans deux mois. Elle viendrait la retrouver à Middenheim en temps voulu pour lui prodiguer quelques conseils et la seconder.
 
 De retour à Middenheim, elle prêcha sans relâche dans les bas quartiers et se
 constitua un groupe conséquent de fidèles. Elle n’avait pas oublié sa
