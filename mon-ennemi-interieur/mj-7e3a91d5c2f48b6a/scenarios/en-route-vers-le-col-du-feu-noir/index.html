@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Hub — Mon Ennemi Intérieur</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&family=IM+Fell+English:ital@0;1&family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap">
+<link rel="stylesheet" href="../../../style.css">
+<script src="../../../mj-mode.js" defer></script>
+</head>
+<body class="page-mj-overlay">
+<header class="site-header">
+  <a class="site-title" href="../../../index.html">
+    <span class="wordmark">Mon Ennemi Intérieur</span>
+  </a>
+  <div class="search" role="search">
+    <input class="search-input" type="search" autocomplete="off" spellcheck="false"
+           placeholder="Rechercher…" aria-label="Rechercher dans le site"
+           data-base="../../../">
+    <div class="search-results" role="listbox" aria-label="Résultats de recherche"></div>
+  </div>
+  <nav class="site-nav"><a href="../../../resumes/index.html">Résumés</a> · <a href="../../../pj/index.html">PJ</a> · <a href="../../../pnj/index.html">PNJ</a> · <a href="../../../lieux/index.html">Lieux &amp; Organisations</a> · <a href="../../../documents/index.html">Documents</a> · <a href="../../../univers/index.html">Univers</a><span class="mj-only"> · <a href="../index.html">Scénarios</a></span><span class="mj-only"> · <a href="../../cartes/index.html">Cartes</a></span><span class="mj-only"> · <a href="../../notes/index.html">Notes MJ</a></span></nav>
+  <button class="menu-toggle" type="button" aria-label="Ouvrir le menu" onclick="document.body.classList.toggle('menu-open')">☰</button>
+</header>
+<div class="layout">
+<nav class="sidebar sidebar-scenario" aria-label="Navigation du scénario">
+<h2 class="sidebar-title">En route vers le Col du Feu Noir</h2>
+<div class="scn-nav">
+<a class="scn-link is-active" href="index.html" aria-current="page">★ Hub</a>
+<div class="scn-group"><span class="scn-group-h">Ouverture</span>
+<a class="scn-link" href="00-la-bibliotheque-de-verena-avant-le-depart.html">00 - La bibliothèque de Verena (avant le départ)</a>
+<a class="scn-link" href="01-le-depart.html">01 - Le départ</a>
+<a class="scn-link" href="02-descente-du-reik.html">02 - Descente du Reik</a>
+<a class="scn-link" href="03-nuln-escale.html">03 - Nuln (escale)</a>
+<a class="scn-link" href="04-averland-en-guerre.html">04 - Averland en guerre</a>
+<a class="scn-link" href="05-averheim-la-route-naine.html">05 - Averheim &amp; la route naine</a>
+<a class="scn-link" href="06-grenzstadt-le-pied-du-col.html">06 - Grenzstadt &amp; le pied du Col</a>
+</div>
+<div class="scn-group"><span class="scn-group-h">Référence</span>
+<a class="scn-link" href="ambiance.html">⚡ Écran live (ville)</a>
+<a class="scn-link" href="gestion-table.html">Gestion table</a>
+<a class="scn-link" href="gideon-la-main-invisible.html">Gideon — la main invisible</a>
+<a class="scn-link" href="pacing.html">Pacing</a>
+<a class="scn-link" href="rencontres-du-voyage.html">Rencontres du voyage</a>
+<a class="scn-link" href="statblocs-pnj-du-voyage.html">Statblocs — PNJ du voyage</a>
+</div>
+</div>
+</nav>
+<main>
+
+<nav class="mj-breadcrumb"><a href="../../index.html">Notes MJ</a> · <a href="../index.html">Scénarios</a> · <span>En route vers le Col du Feu Noir</span></nav>
+<article class="post mj-content">
+<div class="post-body">
+<h1>En route vers le Col du Feu Noir — Hub</h1>
+<blockquote>
+<p><strong>Page d'aiguillage.</strong> Voyage canon <strong>EiR ch.9</strong> <em>(« <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a> → <a class="entity-pop" data-cat="Lieu" data-subtitle="Passe stratégique des Montagnes Noires entre Empire et Border Princes" data-title="Col du Feu Noir" href="../../lieux/col-du-feu-noir.html">Col du Feu Noir</a> »)</em>. Une séance visée (montage + scènes-pivots), extensible. Départ à l'aube du <strong>30 Sigmarzeit 2513 IC</strong>, au lendemain du recrutement par le Grand Chancelier (<code>[S64]</code>). Couvre <strong>toute la descente jusqu'au pied du Col</strong> — le Col lui-même est l'arc suivant (ch.10). La séance <strong>peut s'ouvrir en <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a></strong> sur un beat d'enquête pré-départ (<a href="00-la-bibliotheque-de-verena-avant-le-depart.html">00 - La bibliothèque de Verena (avant le départ)</a>).</p>
+<p>Un joueur annonce une intention → tu lis la ligne dans l'<strong>index</strong> ci-dessous → tu ouvres la scène. L'<strong><a href="ambiance.html">écran live</a></strong> (étape courante, tempo de <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbch7WKYigomfwOIPDbQ0_QoFS15jMprDBhyU6q6DlFq1mcfPnGuPEEeh3akv5-NKnaVc_H3iXTd5Xv-FKrhAfFVTS7f2jElsZocqiOfBqzxNjvxTS5bzzC7hyphenhyphenf0BJRz1S9m5I36H-39tSnQ9vqOSpFaw_QGjGPpXa678vdwFJoEMdOfqSxeFx7VGIxlM/w137-h200/sheru-tar-geetaru.webp" data-title="Gideon" href="../../../pnj/gideon.html">Gideon</a>, rumeurs, traque) se garde ouvert à côté.</p>
+</blockquote>
+<h2>🎯 Le cadre (repris de la table, <code>[S63]</code>-<code>[S64]</code>)</h2>
+<ul>
+<li><strong>Sponsor</strong> : <strong>Immanuel-Ferrand</strong>, Grand Chancelier. Les PJ sont <strong>ses agents</strong> ; <strong>Johannes</strong> l'était déjà. Il fournit <strong>ses moyens</strong> : le patrouilleur <strong><a class="entity-pop" data-cat="Lieu" data-subtitle="Capitale du Middenland, fief des von Bildhofen" data-title="Carroburg" href="../../lieux/carroburg.html">Carroburg</a></strong> réquisitionné + des <strong>lettres de créance</strong> impériales (laissez-passer fluviaux, réquisitions de ravitaillement).</li>
+<li><strong>But</strong> : ramener le <strong>vrai <a class="entity-pop" data-cat="Document" data-subtitle="Marteau de Sigmar — artefact central de l'Arc 7" data-title="Ghal Maraz" href="../../documents/ghal-maraz.html">Ghal Maraz</a></strong> du <strong><a class="entity-pop" data-cat="Lieu" data-subtitle="Passe stratégique des Montagnes Noires entre Empire et Border Princes" data-title="Col du Feu Noir" href="../../lieux/col-du-feu-noir.html">Col du Feu Noir</a></strong> — l'outil qui peut sauver l'Empereur (<strong>toujours malade</strong> : <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbch7WKYigomfwOIPDbQ0_QoFS15jMprDBhyU6q6DlFq1mcfPnGuPEEeh3akv5-NKnaVc_H3iXTd5Xv-FKrhAfFVTS7f2jElsZocqiOfBqzxNjvxTS5bzzC7hyphenhyphenf0BJRz1S9m5I36H-39tSnQ9vqOSpFaw_QGjGPpXa678vdwFJoEMdOfqSxeFx7VGIxlM/w137-h200/sheru-tar-geetaru.webp" data-title="Gideon" href="../../../pnj/gideon.html">Gideon</a> a relancé le dhar après la fuite de Kappelmuller, <code>[S63]</code>).</li>
+<li><strong>Ce qu'ils emportent</strong> <em>(détail : <a class="entity-pop" data-cat="Document" data-title="Fassbinder - documents bureau" href="../../documents/fassbinder-documents-bureau.html">Fassbinder - documents bureau</a>)</em> :
+<ul>
+<li><strong>La carte du corridor</strong> — l'in-folio de <strong>Yodri</strong> (<em>carte p.24</em>, <a class="canon-ref" data-extract="(extrait indisponible)" data-source="EiR · Chapter 8 — EiR ch.8" href="../../source/eir/11-chapter-8-wanted-bold-adventurers.html" title="EiR ch.8"><sup>1</sup></a>), en leur possession depuis <code>[S63]</code>. <strong>Johannes lit le khazalid.</strong> <em>La localisation Vithang Dum / Zan Mingol est acquise — pas de verrou cartographique.</em></li>
+<li>Corridor de <strong>3 milles</strong> entre deux ruines naines, près des <strong>Trois Mères</strong> ; au-delà, <strong>faille à gauche</strong> (feuillet <em>Augusta</em>).</li>
+<li>Lettre codée à <a class="entity-pop" data-cat="PNJ" data-title="Kastor Lieberung" href="../../pnj/kastor-lieberung.html">Kastor Lieberung</a> (<strong>décodable clé <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GsvvBSANs-TdLswyRMlh1vBZ2OXm0ABI97OzV5br6xsvdcpQq9wfUMseEHi0zPiLfMxDVQbtqnOaJa_VOM7JXbYlpvrmCSHwbXRG7fWfmh4VKFmPt9yNYZXRDDx4MxLy_dnnbPoJpUjb_DHXCrgsKKMK5Z__di_jWnWQx2p-7JLGDrDfS4jBSTqs-pc/s200/karl-heinz-wasmeier.webp" data-subtitle="Cultiste de la Main Pourpre" data-title="Karl-Heinz Wasmeier" href="../../../pnj/karl-heinz-wasmaier.html">Wasmeier</a></strong>, Arc 3) → acrostiche <strong>SHEERARGETRU</strong>, rituel <em>« neuf du neuvième »</em>, incantation <em>« Iztak Graksk »</em>, les trois noms <em>Düwe / Schaftem / Hau</em>.</li>
+<li>Cahier de synthèse Fassbinder + notes de Johannes (outil anti-cultes en voyage).</li>
+</ul>
+</li>
+<li><strong>Bagage de fiction</strong> (ce qu'ils SAVENT en partant) : Kappelmuller = agent <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipyOpkACwILUi-k68nRzZv_fR81mcj7Offp1G-3xyd19l0SfupAcrMcSL0eY9tIL6U1sdPgJnN-D4Qyco9a2jKRu1IhG1_TpWK1du8c8xEwJxHTbsjkfP3Bqv5pu6Q9mtXf27gqOZWNnnxjYHhFt0jKNN1XwrClaofqBBj-WcxrIfm9s0gAFOgABbZ4DM/s200/purple-hand.webp" data-subtitle="Culte de Tzeentch" data-title="Main Pourpre" href="../../../lieux/main-pourpre.html">Main Pourpre</a> payé par <strong><a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GsvvBSANs-TdLswyRMlh1vBZ2OXm0ABI97OzV5br6xsvdcpQq9wfUMseEHi0zPiLfMxDVQbtqnOaJa_VOM7JXbYlpvrmCSHwbXRG7fWfmh4VKFmPt9yNYZXRDDx4MxLy_dnnbPoJpUjb_DHXCrgsKKMK5Z__di_jWnWQx2p-7JLGDrDfS4jBSTqs-pc/s200/karl-heinz-wasmeier.webp" data-subtitle="Cultiste de la Main Pourpre" data-title="Karl-Heinz Wasmeier" href="../../../pnj/karl-heinz-wasmaier.html">Wasmeier</a></strong> ; <strong><a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbch7WKYigomfwOIPDbQ0_QoFS15jMprDBhyU6q6DlFq1mcfPnGuPEEeh3akv5-NKnaVc_H3iXTd5Xv-FKrhAfFVTS7f2jElsZocqiOfBqzxNjvxTS5bzzC7hyphenhyphenf0BJRz1S9m5I36H-39tSnQ9vqOSpFaw_QGjGPpXa678vdwFJoEMdOfqSxeFx7VGIxlM/w137-h200/sheru-tar-geetaru.webp" data-title="Gideon" href="../../../pnj/gideon.html">Gideon</a> est de retour</strong> (l'enfant démon) ; <strong>Maria-Luise</strong> ralliée ; <strong>Heinrich</strong> + <strong>Pesold</strong> partis à <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqN-BT2U_Zb_-Pr3l4JTX9rSdQAH2X10d9DXZSGr9waNwmNS5xmSQyb-VfzcaeDq68w9sLlsRkOu3vRNdzEJTPjHCOwCe_AAs9bnbrW6hfyT91QP3zBCBe1N8XzeUhVgZmuTD_cP_bELaiLo2byBb9mj2atdRegc4hw96eTziiCN2XsmdsMJIoahQj9Ys/s400/_middleheim.png" data-subtitle="Capitale du Middenland" data-title="Middenheim" href="../../../lieux/middenheim-4.html">Middenheim</a> avec le corps de <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilfAGeUQ1KXMYcgnpQMzxeUdEFaIHOm1OXD4zCj0bp1yLW_fJZbGw6n8WY2r8ojFSbJf0eHvYhA5_UQ4UZfmFH4YXfrO3h0Jr32700-FbjpYr6lGy5P5VyB_cVYQoCnp_dvFOW9SN1SLcnsn8ZMLfetU5xmnKXFpCsRTIMQpY2eIpS9GeVFlQyVNvMLNs/s200/boris-todbringer.webp" data-subtitle="Graf de Middenheim" data-title="Boris Todbringer" href="../../../pnj/boris-todbringer.html">Boris</a>.</li>
+</ul>
+<h2>⏳ Une échéance réelle, mais pas une course</h2>
+<p>Le climax (cérémonie <a class="entity-pop" data-cat="PNJ" data-title="Sheerargetru" href="../../pnj/sheerargetru.html">Sheerargetru</a>, <a class="entity-pop" data-cat="Lieu" data-subtitle="Grande salle d'État du Palais Impérial" data-title="Volkshalle" href="../../lieux/volkshalle.html">Volkshalle</a>) est le <strong>9 Brauzeit 2513</strong> — <strong>~5 mois</strong> après ce départ (<strong>30 Sigmarzeit 2513</strong>). L'aller-retour (voyage + Col + retour ≈ 2-2,5 mois) tient largement dedans : <strong>pas de course effrénée</strong>, mais <strong>le calendrier compte</strong> — le MJ tient l'horloge. <em>L'année du rituel se déduit désormais : 2512 étant passé, le « neuf du neuvième » ne peut être que <strong>9 Brauzeit 2513</strong>.</em></p>
+<h2>Composition table</h2>
+<p><strong>6 PJ</strong> (fiction) : <strong>Mark</strong> (Ulricain, Middenheimer), <strong><a class="entity-pop" data-cat="PJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilcYjKwdn9QIh97iqZLo0NAPVvjI4MnbY5MlTgTSIRnfcZvqZi66oT0FH-nceVlJVcc5SN10VQ3gXpYwR3Gu-Ue0Q8KonrwYpbpJiODIvaMvpBRVdOPEiyTJ73VAQahSrfRmU8eaXWYoaOSyyVmGE9v4BmHcK9sOMf813Ahz4hgNlpiu31fuxOFY1VS88/s200/elvira_token.png" data-subtitle="Agent secret impérial" data-title="Elvira" href="../../../pj/elvira.html">Elvira</a></strong> (grande prêtresse Rhya), <strong>Anselm</strong> (sorcier — <strong>médecin officiel de la cour</strong> depuis <code>[S64]</code> ; <strong>part avec le groupe</strong>), <strong><a class="entity-pop" data-cat="PNJ" data-title="Yuridika" href="../../pnj/yuridika.html">Yuridika</a></strong> (sorcière — <strong>activement traquée</strong> par les Sigmarites à la sortie d'<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a>), <strong><a class="entity-pop" data-cat="PJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkmiIiBbYtqK19s5UxZMioP0m95uCiQwXJyc8OBzWH3COmoSv29rnMWI2zfvDIdStriuLEstAD-aLcZXoSF9aOtAT0Tg7uEGER3cldkz64ekeNkDBdjjP03wC763v0ur0XJVWByiZrkwZmJcwPq-qmHu7uNcv9tuHANMjsKBGQ3R2ei8jU_8iPJIVf2B8/s200/Phineast.png" data-subtitle="Artiste de renom" data-title="Phineas" href="../../../pj/phineas.html">Phineas</a></strong>, <strong>Johannes</strong> (apprenti gris, <strong>agent d'Immanuel-Ferrand</strong>). <strong>Hors champ</strong> : Pesold + Heinrich (<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqN-BT2U_Zb_-Pr3l4JTX9rSdQAH2X10d9DXZSGr9waNwmNS5xmSQyb-VfzcaeDq68w9sLlsRkOu3vRNdzEJTPjHCOwCe_AAs9bnbrW6hfyT91QP3zBCBe1N8XzeUhVgZmuTD_cP_bELaiLo2byBb9mj2atdRegc4hw96eTziiCN2XsmdsMJIoahQj9Ys/s400/_middleheim.png" data-subtitle="Capitale du Middenland" data-title="Middenheim" href="../../../lieux/middenheim-4.html">Middenheim</a>) ; <strong>Albert</strong> (convalescence longue au temple de Shallya). <em>(Présence réelle ce soir partielle — cf. <a href="gestion-table.html">Gestion table</a> §Table.)</em></p>
+<blockquote>
+<p><strong>🎭 Couvertures d'emprunt (service gris du Chancelier).</strong> Le groupe reçoit des <strong>capes grises</strong> et voyage <strong>sous identités de couverture</strong> :</p>
+<ul>
+<li><strong><a class="entity-pop" data-cat="PJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilcYjKwdn9QIh97iqZLo0NAPVvjI4MnbY5MlTgTSIRnfcZvqZi66oT0FH-nceVlJVcc5SN10VQ3gXpYwR3Gu-Ue0Q8KonrwYpbpJiODIvaMvpBRVdOPEiyTJ73VAQahSrfRmU8eaXWYoaOSyyVmGE9v4BmHcK9sOMf813Ahz4hgNlpiu31fuxOFY1VS88/s200/elvira_token.png" data-subtitle="Agent secret impérial" data-title="Elvira" href="../../../pj/elvira.html">Elvira</a> → « Professeure »</strong> de théologie/histoire <em>(Talent Identité secrète)</em> — couverture idéale pour enquêter sur la route de Sigmar, s'inviter chez clercs et érudits, justifier une petite escorte d'« assistants ».</li>
+<li><strong>Mark → autorité de répurgateur impérial</strong> (fléau d'argent) — <strong>laissez-passer inquisitorial</strong> aux barrages <strong>et</strong> moyen de se blanchir de sa propre traque. <em>(À finaliser : vrai changement de carrière ou titre seul — cf. <a href="gestion-table.html">Gestion table</a> §Couvertures.)</em></li>
+</ul>
+<p>La couverture <strong>sert</strong> la discrétion exigée par le Chancelier : autorité mondaine (inquisiteur + professeure) qui masque la quête hérétique. Ironie de table : un « chasseur de sorcières » qui escorte <strong><a class="entity-pop" data-cat="PNJ" data-title="Yuridika" href="../../pnj/yuridika.html">Yuridika</a></strong> et <strong>Anselm</strong>, sorciers bien réels.</p>
+</blockquote>
+<h2>🔎 Fils d'enquête emportés <em>(ce qu'ils veulent creuser)</em></h2>
+<table>
+<thead>
+<tr>
+<th>Fil</th>
+<th>Où ça se joue</th>
+<th>Doc / levier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Le livre caché</strong> : qui a glissé <strong>Yodri vol. 2</strong> entre les rayons, la <strong>carte naine</strong> dedans, et d'où vient-elle ?</td>
+<td>Biblio de Verena, <strong>avant le départ</strong> <em>(lieu surveillé)</em></td>
+<td><a href="00-la-bibliotheque-de-verena-avant-le-depart.html">00 - La bibliothèque de Verena (avant le départ)</a></td>
+</tr>
+<tr>
+<td><strong>Le nom du démon + le rituel</strong> : SHEERARGETRU, « neuf du neuvième », 9 cultes / 9 Yeux</td>
+<td>Lecture sur le fleuve</td>
+<td><a href="02-descente-du-reik.html">02 - Descente du Reik</a> §Documents <em>(clé <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GsvvBSANs-TdLswyRMlh1vBZ2OXm0ABI97OzV5br6xsvdcpQq9wfUMseEHi0zPiLfMxDVQbtqnOaJa_VOM7JXbYlpvrmCSHwbXRG7fWfmh4VKFmPt9yNYZXRDDx4MxLy_dnnbPoJpUjb_DHXCrgsKKMK5Z__di_jWnWQx2p-7JLGDrDfS4jBSTqs-pc/s200/karl-heinz-wasmeier.webp" data-subtitle="Cultiste de la Main Pourpre" data-title="Karl-Heinz Wasmeier" href="../../../pnj/karl-heinz-wasmaier.html">Wasmeier</a>)</em></td>
+</tr>
+<tr>
+<td><strong>Valider la carte / le corridor</strong> auprès de vrais nains <em>(fil de Mark)</em></td>
+<td>Grenzstadt / Veille de Nuit, ou détour Karak Hirn <em>(Alrik, 25 % du permis)</em></td>
+<td><a href="06-grenzstadt-le-pied-du-col.html">06 - Grenzstadt &amp; le pied du Col</a> · <a href="gestion-table.html">Gestion table</a></td>
+</tr>
+<tr>
+<td><strong><a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-GsvvBSANs-TdLswyRMlh1vBZ2OXm0ABI97OzV5br6xsvdcpQq9wfUMseEHi0zPiLfMxDVQbtqnOaJa_VOM7JXbYlpvrmCSHwbXRG7fWfmh4VKFmPt9yNYZXRDDx4MxLy_dnnbPoJpUjb_DHXCrgsKKMK5Z__di_jWnWQx2p-7JLGDrDfS4jBSTqs-pc/s200/karl-heinz-wasmeier.webp" data-subtitle="Cultiste de la Main Pourpre" data-title="Karl-Heinz Wasmeier" href="../../../pnj/karl-heinz-wasmaier.html">Wasmeier</a> / l'empoisonnement / la <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipyOpkACwILUi-k68nRzZv_fR81mcj7Offp1G-3xyd19l0SfupAcrMcSL0eY9tIL6U1sdPgJnN-D4Qyco9a2jKRu1IhG1_TpWK1du8c8xEwJxHTbsjkfP3Bqv5pu6Q9mtXf27gqOZWNnnxjYHhFt0jKNN1XwrClaofqBBj-WcxrIfm9s0gAFOgABbZ4DM/s200/purple-hand.webp" data-subtitle="Culte de Tzeentch" data-title="Main Pourpre" href="../../../lieux/main-pourpre.html">Main Pourpre</a></strong></td>
+<td>Cellule de <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zxrclBD3X02asLETm_XXmzQjXL77Cduep45xH0n26m-WZaaBXfV1TgNmUTd7G4j36aKrxmfP_FK8TvKUJhRb0Vcfk8RHIDqOiFNx3Pd9McB7X3OEKgFo0FgqpCo3_AT7pqYtazSLBmz91wMiB5WC6qfVirQ7qHyVPt4-q6Pw4E_gNp3HDp-MNChZieo/s400/_nuln.png" data-subtitle="Capitale du Wissenland" data-title="Nuln" href="../../../lieux/nuln-2.html">Nuln</a> (Feder)</td>
+<td><a href="03-nuln-escale.html">03 - Nuln (escale)</a></td>
+</tr>
+<tr>
+<td><strong><a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbch7WKYigomfwOIPDbQ0_QoFS15jMprDBhyU6q6DlFq1mcfPnGuPEEeh3akv5-NKnaVc_H3iXTd5Xv-FKrhAfFVTS7f2jElsZocqiOfBqzxNjvxTS5bzzC7hyphenhyphenf0BJRz1S9m5I36H-39tSnQ9vqOSpFaw_QGjGPpXa678vdwFJoEMdOfqSxeFx7VGIxlM/w137-h200/sheru-tar-geetaru.webp" data-title="Gideon" href="../../../pnj/gideon.html">Gideon</a></strong> <em>(mystère — garder opaque)</em></td>
+<td>—</td>
+<td><a href="gideon-la-main-invisible.html">Gideon — la main invisible</a> <em>(MJ-only)</em></td>
+</tr>
+</tbody>
+</table>
+<p><em>(Les couvertures <strong>servent</strong> l'enquête — <a class="entity-pop" data-cat="PJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilcYjKwdn9QIh97iqZLo0NAPVvjI4MnbY5MlTgTSIRnfcZvqZi66oT0FH-nceVlJVcc5SN10VQ3gXpYwR3Gu-Ue0Q8KonrwYpbpJiODIvaMvpBRVdOPEiyTJ73VAQahSrfRmU8eaXWYoaOSyyVmGE9v4BmHcK9sOMf813Ahz4hgNlpiu31fuxOFY1VS88/s200/elvira_token.png" data-subtitle="Agent secret impérial" data-title="Elvira" href="../../../pj/elvira.html">Elvira</a>-Professeure ouvre les portes savantes, Mark-répurgateur impose l'autorité : <a href="gestion-table.html">Gestion table</a> §Couvertures.)</em></p>
+<h2>🧭 Index d'intentions — « les PJ veulent… »</h2>
+<table>
+<thead>
+<tr>
+<th>Les PJ veulent…</th>
+<th>Où / Qui</th>
+<th>Scène</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Interroger le bibliothécaire</strong> sur le livre caché (Yodri vol. 2 + carte naine)</td>
+<td>Biblio-temple de Verena (Ville Nord) — <em>avant le départ</em></td>
+<td><a href="00-la-bibliotheque-de-verena-avant-le-depart.html">00 - La bibliothèque de Verena (avant le départ)</a></td>
+</tr>
+<tr>
+<td><strong>Quitter <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1ptdaJqdIGfvHF0MePKhcTzeVk6mVom81LVqOxl3tx1hL2iTTJsaiEGQn76genSX9EM6neQ9L_GxCKnxyHD0fu1k-V3crDAhwhW7TgqbKsi3p7deOyTWi4joY0GdRJVRSNXmnR4YH8nBgWdmR1G7lgKaQW_I-nB6izT63zks3cFwhjytgXpmigm0R530/w400-h400/_aldorf.png" data-subtitle="Capitale de l'Empire" data-title="Altdorf" href="../../../lieux/aldorf-5.html">Altdorf</a></strong> / embarquer</td>
+<td>Quais, le <strong><a class="entity-pop" data-cat="Lieu" data-subtitle="Capitale du Middenland, fief des von Bildhofen" data-title="Carroburg" href="../../lieux/carroburg.html">Carroburg</a></strong> ; briefing final du Chancelier</td>
+<td><a href="01-le-depart.html">01 - Le départ</a></td>
+</tr>
+<tr>
+<td><strong>Lire / décoder</strong> les documents en route</td>
+<td>Cabine (Grissen leur cède la sienne) — <em>1 beat = 1 propriétaire</em></td>
+<td><a href="02-descente-du-reik.html">02 - Descente du Reik</a> §Documents · <a class="entity-pop" data-cat="Document" data-title="Fassbinder - documents bureau" href="../../documents/fassbinder-documents-bureau.html">Fassbinder - documents bureau</a></td>
+</tr>
+<tr>
+<td><strong>Gérer l'équipage</strong> (ménager von Flamme, gagner Grissen)</td>
+<td>Le pont du <a class="entity-pop" data-cat="Lieu" data-subtitle="Capitale du Middenland, fief des von Bildhofen" data-title="Carroburg" href="../../lieux/carroburg.html">Carroburg</a></td>
+<td><a href="02-descente-du-reik.html">02 - Descente du Reik</a> §Équipage · <a class="entity-pop" data-cat="PNJ" data-title="Brunhilde von Flamme" href="../../pnj/brunhilde-von-flamme.html">Brunhilde von Flamme</a> · <a class="entity-pop" data-cat="PNJ" data-title="Ottilie Grissen" href="../../pnj/ottilie-grissen.html">Ottilie Grissen</a></td>
+</tr>
+<tr>
+<td><strong>Aider (ou non) les réfugiés</strong> du radeau</td>
+<td>Radeau du Vieux Culte, <a class="entity-pop" data-cat="PNJ" data-title="Cerdic Linden" href="../../pnj/cerdic-linden.html">Cerdic Linden</a> (prêtre de Rhya)</td>
+<td><a href="02-descente-du-reik.html">02 - Descente du Reik</a> §Le radeau</td>
+</tr>
+<tr>
+<td><strong>Poursuivre les pillards</strong> de Schertal</td>
+<td>Trace → Schloss Bachmann, <a class="entity-pop" data-cat="PNJ" data-title="Klaus von Bachmann" href="../../pnj/klaus-von-bachmann.html">Klaus von Bachmann</a></td>
+<td><a href="02-descente-du-reik.html">02 - Descente du Reik</a> §Schertal / Bachmann</td>
+</tr>
+<tr>
+<td><strong>Se ravitailler</strong> / subir les lenteurs à <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zxrclBD3X02asLETm_XXmzQjXL77Cduep45xH0n26m-WZaaBXfV1TgNmUTd7G4j36aKrxmfP_FK8TvKUJhRb0Vcfk8RHIDqOiFNx3Pd9McB7X3OEKgFo0FgqpCo3_AT7pqYtazSLBmz91wMiB5WC6qfVirQ7qHyVPt4-q6Pw4E_gNp3HDp-MNChZieo/s400/_nuln.png" data-subtitle="Capitale du Wissenland" data-title="Nuln" href="../../../lieux/nuln-2.html">Nuln</a></td>
+<td>Douanes, l'agent <strong><a class="entity-pop" data-cat="PNJ" data-title="Hans Knees" href="../../pnj/hans-knees.html">Hans Knees</a></strong> (Emmanuelle)</td>
+<td><a href="03-nuln-escale.html">03 - Nuln (escale)</a> §Lenteurs</td>
+</tr>
+<tr>
+<td><strong>Échapper à / affronter</strong> la <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipyOpkACwILUi-k68nRzZv_fR81mcj7Offp1G-3xyd19l0SfupAcrMcSL0eY9tIL6U1sdPgJnN-D4Qyco9a2jKRu1IhG1_TpWK1du8c8xEwJxHTbsjkfP3Bqv5pu6Q9mtXf27gqOZWNnnxjYHhFt0jKNN1XwrClaofqBBj-WcxrIfm9s0gAFOgABbZ4DM/s200/purple-hand.webp" data-subtitle="Culte de Tzeentch" data-title="Main Pourpre" href="../../../lieux/main-pourpre.html">Main Pourpre</a> de <a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zxrclBD3X02asLETm_XXmzQjXL77Cduep45xH0n26m-WZaaBXfV1TgNmUTd7G4j36aKrxmfP_FK8TvKUJhRb0Vcfk8RHIDqOiFNx3Pd9McB7X3OEKgFo0FgqpCo3_AT7pqYtazSLBmz91wMiB5WC6qfVirQ7qHyVPt4-q6Pw4E_gNp3HDp-MNChZieo/s400/_nuln.png" data-subtitle="Capitale du Wissenland" data-title="Nuln" href="../../../lieux/nuln-2.html">Nuln</a></td>
+<td>Toits, <strong><a class="entity-pop" data-cat="PNJ" data-title="Orla Feder" href="../../pnj/orla-feder.html">Orla Feder</a></strong> (mutant-oiseau)</td>
+<td><a href="03-nuln-escale.html">03 - Nuln (escale)</a> §<a class="entity-pop" data-cat="Lieu" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipyOpkACwILUi-k68nRzZv_fR81mcj7Offp1G-3xyd19l0SfupAcrMcSL0eY9tIL6U1sdPgJnN-D4Qyco9a2jKRu1IhG1_TpWK1du8c8xEwJxHTbsjkfP3Bqv5pu6Q9mtXf27gqOZWNnnxjYHhFt0jKNN1XwrClaofqBBj-WcxrIfm9s0gAFOgABbZ4DM/s200/purple-hand.webp" data-subtitle="Culte de Tzeentch" data-title="Main Pourpre" href="../../../lieux/main-pourpre.html">Main Pourpre</a></td>
+</tr>
+<tr>
+<td><strong>Percer</strong> les faux mercenaires (les Batteurs)</td>
+<td>Heidheinheim, <strong><a class="entity-pop" data-cat="PNJ" data-title="Fione Brecht" href="../../pnj/fione-brecht.html">Fione Brecht</a></strong> (faux-drapeau <a class="entity-pop" data-cat="Lieu" data-title="Sudenland" href="../../lieux/sudenland.html">Sudenland</a>)</td>
+<td><a href="04-averland-en-guerre.html">04 - Averland en guerre</a> §Les Batteurs</td>
+</tr>
+<tr>
+<td><strong>Franchir / négocier</strong> le blocus fluvial</td>
+<td>Aval de Streissen, flottille de <strong><a class="entity-pop" data-cat="PNJ" data-subtitle="Comte Fou d'Averland, prétendant Leitdorf à l'Électorat — futur Grand Comte post-Turmoil" data-title="Marius Leitdorf" href="../../pnj/marius-leitdorf.html">Marius Leitdorf</a></strong></td>
+<td><a href="04-averland-en-guerre.html">04 - Averland en guerre</a> §Le blocus</td>
+</tr>
+<tr>
+<td><strong>Médier</strong> la guerre d'Averland (ou laisser la bataille)</td>
+<td>Tente de Leitdorf ; <a class="entity-pop" data-cat="PNJ" data-title="Marlene Alptraum" href="../../pnj/marlene-alptraum.html">Marlene Alptraum</a> vs Leitdorf</td>
+<td><a href="04-averland-en-guerre.html">04 - Averland en guerre</a> §Médiation</td>
+</tr>
+<tr>
+<td><strong>Repartir d'Averheim</strong> / trouver des chevaux</td>
+<td>Averheim (le <a class="entity-pop" data-cat="Lieu" data-subtitle="Capitale du Middenland, fief des von Bildhofen" data-title="Carroburg" href="../../lieux/carroburg.html">Carroburg</a> ne va pas plus loin — <em>pas de chevaux à bord</em>)</td>
+<td><a href="05-averheim-la-route-naine.html">05 - Averheim &amp; la route naine</a> §Averheim</td>
+</tr>
+<tr>
+<td><strong>Traverser</strong> la Vieille Route Naine à pied/cheval</td>
+<td>Averheim → Grenzstadt (190 mi)</td>
+<td><a href="05-averheim-la-route-naine.html">05 - Averheim &amp; la route naine</a> §La route</td>
+</tr>
+<tr>
+<td><strong>Se faire accueillir / rester discret</strong> à Grenzstadt</td>
+<td>Capitulaire <a class="entity-pop" data-cat="PNJ" data-title="Almeric Zischler" href="../../pnj/almeric-zischler.html">Almeric Zischler</a> ; foule de pèlerins</td>
+<td><a href="06-grenzstadt-le-pied-du-col.html">06 - Grenzstadt &amp; le pied du Col</a> §Grenzstadt</td>
+</tr>
+<tr>
+<td><strong>Composer avec</strong> le guide qu'on leur impose</td>
+<td>La <strong>Veille Éternelle</strong>, <strong><a class="entity-pop" data-cat="PNJ" data-title="Rauf Wasserburg" href="../../pnj/rauf-wasserburg.html">Rauf Wasserburg</a></strong> (assassin déguisé)</td>
+<td><a href="06-grenzstadt-le-pied-du-col.html">06 - Grenzstadt &amp; le pied du Col</a> §Veille Éternelle</td>
+</tr>
+<tr>
+<td><strong>Aborder le Col</strong></td>
+<td>Vieille Route Naine, entrée du Col</td>
+<td><a href="06-grenzstadt-le-pied-du-col.html">06 - Grenzstadt &amp; le pied du Col</a> §Le pied du Col <em>(cliffhanger)</em></td>
+</tr>
+<tr>
+<td>Savoir <strong>ce qui se passe autour</strong> <em>(maintenant)</em></td>
+<td>—</td>
+<td><a href="ambiance.html">Ambiance</a> (écran live : étape, tempo <a class="entity-pop" data-cat="PNJ" data-portrait="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbch7WKYigomfwOIPDbQ0_QoFS15jMprDBhyU6q6DlFq1mcfPnGuPEEeh3akv5-NKnaVc_H3iXTd5Xv-FKrhAfFVTS7f2jElsZocqiOfBqzxNjvxTS5bzzC7hyphenhyphenf0BJRz1S9m5I36H-39tSnQ9vqOSpFaw_QGjGPpXa678vdwFJoEMdOfqSxeFx7VGIxlM/w137-h200/sheru-tar-geetaru.webp" data-title="Gideon" href="../../../pnj/gideon.html">Gideon</a>, rumeurs, traque)</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p><strong>Rencontre de route non listée ?</strong> Pioche dans <a href="rencontres-du-voyage.html">Rencontres du voyage</a> (table canon réutilisable). Cas tordus : <a href="gestion-table.html">Gestion table</a> §Cas particuliers. La main invisible : <a href="gideon-la-main-invisible.html">Gideon — la main invisible</a> <em>(MJ-only)</em>.</p>
+</blockquote>
+<h2>Liens</h2>
+<ul>
+<li>Écran live : <a href="ambiance.html">Ambiance</a> · Rythme : <a href="pacing.html">Pacing</a> · Imprévus/XP : <a href="gestion-table.html">Gestion table</a></li>
+<li>Table de rencontres : <a href="rencontres-du-voyage.html">Rencontres du voyage</a> · Combats : <a href="statblocs-pnj-du-voyage.html">Statblocs — PNJ du voyage</a> · MJ-only : <a href="gideon-la-main-invisible.html">Gideon — la main invisible</a></li>
+<li>Amont : <a href="index.html">Le réveil d'Altdorf</a> <em>(scénario précédent)</em> · <a href="../le-reveil-daltdorf/cap-suivant-destinations-possibles.html">Cap suivant — destinations possibles</a></li>
+<li>Aval : le Col lui-même (ch.10, à venir) · <a href="../../notes/07-suite-canonique-empire-in-ruins.html">07 - Suite canonique (Empire in Ruins)</a> §ch.9-10</li>
+<li>Source canon : <code>Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Black Fire Pass.md</code></li>
+</ul>
+
+</div>
+</article>
+
+</main>
+</div>
+<footer class="site-footer">
+  <div class="footer-flourish"><svg class="fleuron" viewBox="0 0 220 30" aria-hidden="true"><path class="vine" d="M2 15 C 30 15, 30 6, 60 8 C 75 9, 80 15, 90 15" /><path class="vine" d="M28 15 C 36 15, 38 21, 42 21" /><circle class="berry" cx="42" cy="21.5" r="1.4" /><circle class="berry" cx="56" cy="8.5" r="1.4" /><path class="vine" d="M218 15 C 190 15, 190 6, 160 8 C 145 9, 140 15, 130 15" /><path class="vine" d="M192 15 C 184 15, 182 21, 178 21" /><circle class="berry" cx="178" cy="21.5" r="1.4" /><circle class="berry" cx="164" cy="8.5" r="1.4" /><g class="rosette" transform="translate(110 15)">  <path d="M0 -8 C 4 -4, 4 4, 0 8 C -4 4, -4 -4, 0 -8 Z" />  <path d="M-8 0 C -4 -4, 4 -4, 8 0 C 4 4, -4 4, -8 0 Z" />  <circle r="2.2" class="rosette-core" /></g></svg></div>
+  <p>Campagne <em>Warhammer Fantasy Roleplay</em> 4ᵉ édition — Notes de partie.</p>
+</footer>
+<script src="../../../search.js" defer></script>
+</body>
+</html>
