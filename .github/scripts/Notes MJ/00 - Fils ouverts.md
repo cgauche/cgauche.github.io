@@ -107,7 +107,8 @@
 ### FIL-13 — Gideon (Sheru-Tar Gee'taru) survivant
 - **Statut** : OUVERT (DISPARU temporairement)
 - **Né en** : S12 (Arc 2)
-- **Dernier mouvement** : S12 — Gideon disparaît après l'échec du rituel Bögenhafen (le rituel arrêté avant midnight = pas brûlé par Sheerargetru). Garde ses sorts + Ring of Opsianon.
+- **Dernier mouvement** : **[S63-S64]** — central et actif, partiellement démasqué : a tué **Boris Todbringer** sous les traits de « Volkmar » (manoir, S63), puis vu en forme d'enfant ~10 ans **renouvelant la maladie de Karl-Franz** au palais (dhar, S63, témoin Annaliese). Les PJ croient encore que c'était le vrai Volkmar.
+- **Antérieurement** : S12 — Gideon disparaît après l'échec du rituel Bögenhafen (le rituel arrêté avant midnight = pas brûlé par Sheerargetru). Garde ses sorts + Ring of Opsianon.
 - **Réactivation canon** : Arc 5 PBT en S38 (Joachim Hoflich, Middenheim, tentative tuer Boris Todbringer) + Arc 7 EiR (antagoniste central, Wolfgang, Karl-Franz Fièvre cérébrale pourpre via Kappelmuller).
 - **Apparence** : enfant ~13 ans, coupe au bol, **très large sourire** (forme préférée). Forme native = Pink Horror multi-tentacules.
 - **Liens** : `Arc 5` · `Arc 7` · [[Gideon]]
@@ -481,9 +482,9 @@
 - **Liens** : [[Neuf Yeux]] · [[Wolfgang Holswig-Abenauer]] · [[Sheerargetru]] · [[Gideon]] · [[Kastor Lieberung]] (recruteur originel) · [[Egrimm van Horstmann]] (mentor occulte alternatif)
 
 ### FIL-60 — Empoisonnement de Karl-Franz (Kappelmuller + Elvyra + Gideon)
-- **Statut** : OUVERT
+- **Statut** : EN COURS (Kappelmuller démasqué, mais empoisonnement persiste via Gideon)
 - **Né en** : pré-Arc 7 (campagne d'empoisonnement en cours depuis ~6 mois)
-- **Dernier mouvement** : à activer Arc 7 ch. 7-8.
+- **Dernier mouvement** : **[S63]** — Kappelmuller **démasqué** dans la chambre impériale (PJ + Maria-Luise + soldats), **avoue** (désigne Wasmeier comme commanditaire = leurre scripté par Zuntermein) puis **fuit par la fenêtre**. MAIS Anselm détecte un **dhar** fraîchement incanté : [[Gideon]] (enfant ~10 ans, vu par Annaliese) a **renouvelé la maladie** → Karl-Franz reste alité, sort non levé. **[[Maria-Luise von Walfen|Maria-Luise]] désormais convaincue et alliée.** Le bénéfice « empereur lucide au climax » n'est **pas** acquis tant que Gideon agit.
 - **Réactivation canon** : EiR ch. 7-8 — démasquage possible.
 - **Hooks** : (a) démasquer Kappelmuller dans la chambre impériale ; (b) Karl-Franz redevient lucide si traité ; (c) Elvyra comme bouc émissaire vs. retournée comme alliée.
 - **Liens** : [[Henrik Kappelmuller]] · [[Elvyra Kleinestun]] · [[Gideon]] · [[Hermann von Feilbach]] · [[Yann Zuntermein]] · FIL-17 (Elvyra) · FIL-19 (double Karl-Franz)
@@ -567,6 +568,13 @@
 - **Né en** : 1700 IC (capture historique) — activation Arc 7 ch. 11.
 - **Hooks** : (a) le démasquer comme corrompu ; (b) recueillir son histoire (preuve écrite des Caves depuis Empereur Sigismund) ; (c) son **épée cassée** pourrait être un artefact mineur.
 - **Liens** : [[Adelfried Jarmund]] · [[Sheerargetru]] · Empereur Sigismund (mort) · Tzeentch
+
+### FIL-73 — Recrutement des PJ par la Chambre Noire (Immanuel / Johannes)
+- **Statut** : EN COURS
+- **Né en** : S64 (Arc 7)
+- **Dernier mouvement** : **[S64]** — [[Immanuel-Ferrand Holswig-Schliestein]] s'attache les PJ comme **agents de la Chambre Noire** après leur rôle dans le démasquage de Kappelmuller ; **Anselm** nommé **médecin officiel de la cour** ; il révèle que **Johannes Woblhoffer** (nouveau PJ) est son agent et surveillait le groupe. Finance la quête de Ghal Maraz au Col du Feu Noir.
+- **Double tranchant ⚠️** : le recrutement de la Chambre Noire passe par la **[[Spionwerber]]**, dirigée par [[Yann Zuntermein|Zuntermein]] (Main Pourpre) → entrer dans l'appareil = à la fois **ligne d'infiltration** vers Zuntermein ET **exposition au cœur ennemi**. Immanuel est sincère mais [LOYAL — MANIPULÉ]. Recrues notables : **Elvira** (passé d'espionne de la Gravin + Lip Reading) et **Mark**. Collision de noms à surveiller avec l'apothicaire **[[Elvyra Kleinestun|Elvyra]]** (bouc émissaire prévu, FIL-17).
+- **Liens** : [[Immanuel-Ferrand Holswig-Schliestein]] · [[Yann Zuntermein]] · [[Spionwerber]] · [[Henrik Kappelmuller]] · Johannes Woblhoffer · FIL-17 · FIL-24 · FIL-60
 
 ---
 

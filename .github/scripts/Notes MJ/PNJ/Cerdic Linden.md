@@ -1,85 +1,68 @@
 # Cerdic Linden
 
-> **Erstwhile village elder de Schertal** (Reikland-Wissenland border). **Unorthodox Priest of Rhya Silver 1** — Old Faith **predator-prey iconography**. Village rasé par Baron Klaus von Bachmann Wissenland soldiers. Flotilla refugees vers Aval. **Monolith predator-prey** dans cargo. Pas cultiste — Old Faith ancestral.
+> **Ancien aîné de Schertal** — village de la frontière Reikland–Wissenland rasé par des hommes d'armes du Wissenland. **Prêtre hétérodoxe de Rhya** (Vieux Culte / Ancienne Foi) sous couvert d'un temple de Sigmar. Mène la flottille de réfugiés (Schertal, Graubach, Florianfeld) qui descend le Reik. Respecté, il offre un **pendentif proie-prédateur**. Un **monolithe** sacré à demi-taillé dort dans la cale du bateau-mère.
 
 ## Identité publique
-- **Fonction** : **Erstwhile village elder Schertal**, **Unorthodox Priest of Rhya** (Silver 1).
-- **Apparence canon (ch.9 l.123)** : *« old man flanked by two muscular villagers armed with quarterstaffs. Stands beside their leader staunchly »*.
-- **Personnalité canon** : *« Brave + déterminé. Eager to tell Characters about destruction of his village »*. *« Wary of military personnel »*.
-- **Culte** : **Old Faith** — predator-prey iconography (Imperial eagle/predator vs twin-tailed comet/two-eared rabbit). Hidden behind Sigmarite façade Schertal temple.
-- **Statut** : [VIVANT — RÉFUGIÉ ARRAGÉ] [Old Faith]
-- **Tags** : `#Cerdic` `#CerdicLinden` `#Rhya` `#OldFaith` `#PredatorPrey` `#Schertal` `#Reikland` `#Wissenland` `#Bachmann` `#Arc7` `#Ch9` `#Carroburg`
+- **Titre** : **Aîné du village** de Schertal (*erstwhile village elder*) ; meneur de la flottille de réfugiés.
+- **Carrière canon** : **Human Priest of Rhya (Silver 1)** — *unorthodox priest*.
+- **Personnalité canon (ch.9 l.126)** : *« Linden is eager to tell the Characters about the destruction of his village by Wissenland men-at-arms »* `EiR ch.9 l.126`. Vieillard digne mais brisé, méfiant envers tout militaire, chaleureux et disert envers qui le traite avec courtoisie.
+- **Apparence** : robes vertes de chanvre, démodées, plus dignes d'un paysan bretonnien que d'un citoyen de l'Empire ; **pendentif de bois sculpté proie-prédateur** — tête d'oiseau d'un côté, tête de lapin de l'autre `EiR ch.9 l.128`.
+- **Statut** : [VIVANT — ALLIÉ]
+- **Tags** : `#Cerdic` `#CerdicLinden` `#Linden` `#Schertal` `#Rhya` `#VieuxCulte` `#AncienneFoi` `#ProiePredateur` `#Refugies` `#Arc7` `#Ch9` `#PriestOfRhya`
 
 ## Source
-- **EiR ch.9 l.116-156** *Cerdic Linden – Unorthodox Priest of Rhya (Silver 1)* — statbloc.
-- **EiR ch.9 l.118-128** : flotilla refugees + raid Wissenland soldiers. Schertal + Graubach + Florianfeld villages razed.
-- **EiR ch.9 l.135** : Predator-prey iconography Old Faith ancestral.
-- **EiR ch.9 l.136-138** : **Monolith predator-prey** dans cargo (3 feet diameter + 1 foot high, half-carved half-natural, swirling magical winds).
+- **EiR ch.9 l.118-124** — la flottille de réfugiés : une douzaine d'embarcations liées en radeau, tentes de chanvre vert ; Linden, ancien aîné, se présente flanqué de deux villageois costauds armés de bâtons.
+- **EiR ch.9 l.126** — récit de la destruction de Schertal par des hommes d'armes du Wissenland ; Graubach et Florianfeld également pillés ; le radeau rassemble les survivants des trois villages.
+- **EiR ch.9 l.128** — pendentifs proie-prédateur (oiseau / lapin), tradition du Vieux Culte ; **Lore (Theology) Difficile (–10)** pour l'identifier ; l'ensemble aurait des airs de secte vu de l'extérieur.
+- **EiR ch.9 l.130** — respecté ou aidé, Linden remet au meneur perçu un **pendentif proie-prédateur** : **+20** aux **3 prochains** tests de Stealth (Rural), Track, Outdoor Survival, Swim, Perception ou Intuition.
+- **EiR ch.9 l.132** — toute l'affaire proie-prédateur est parfaitement innocente et sans rapport avec la quête, même si elle peut troubler ou retarder les PJ.
+- **EiR ch.9 l.134** — traité avec grande amabilité, il expose la foi : le proie-prédateur incarne le cycle naturel et l'équilibre entre les créatures.
+- **EiR ch.9 l.136-138** — dans la cale du bateau-mère, un **monolithe** rond (~3 pieds de diamètre, 1 pied de haut, très lourd), proie-prédateur à demi-taillé, entouré d'un tourbillon confus de vents magiques ; le fouiller ou tenter de le prendre fait monter la tension.
+- **EiR ch.9 l.140-156** — statbloc **Priest of Rhya (Silver 1)** + Blessings/Miracles.
 
 ## Statbloc (EiR ch.9 l.140)
 
-**CERDIC LINDEN – UNORTHODOX PRIEST OF RHYA (SILVER 1)**
+**CERDIC LINDEN — UNORTHODOX PRIEST OF RHYA (SILVER 1)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 4 | 37 | 36 | 26 | 24 | 33 | 22 | 25 | 71 | 42 | 51 | 14 |
 
 - **Traits** : Weapon (Quarterstaff) +7.
-- **Skills** : Art (Writing) 45, Athletics 42, Charm 66, Cool 65, Endurance 44, Entertain (Speeches 76, **Storytelling 61**), Gossip 56, **Heal 76**, Intimidate 46, Intuition 42, **Invoke 62**, Leadership 64, **Lore (Plants 86, Theology 91)**, Melee (Basic) 40, Perception 52, **Pray 62**, **Research 81**.
-- **Talents** : **Bless (Rhya)**, **Doomed** (*« Move with the times or face extinction »*), Holy Visions, **Impassioned Zeal**, Read/Write, **Super Numerate**.
-- **Trappings** : Green Robes, **Predator-Prey Pendant**, Quarterstaff.
-- **Blessings** : Conscience, Courage, Fortune, Protection.
-- **Miracles (Rhya)** : Rhya's Children, Rhya's Harvest, Rhya's Shelter, **Rhya's Touch**.
-
-## Old Faith / Predator-Prey
-
-- **Symbol** : Bird-like head from one angle, rabbit head from another (canon ch.9 l.128).
-- **Doctrine** : Embodiment **natural cycle + balance between creatures**.
-- **Tradition Schertal + surrounding countryside as long as anyone can remember**.
-- **Examination Schertal temple shows Sigmarite iconography subverted into predator-prey** (canon ch.9 l.163-165) : Imperial eagle / predator + twin-tailed comet / two-eared rabbit.
-
-## Monolith (ch.9 l.136)
-- **Roundish**, ~3 ft diameter, ~1 ft high. Très lourd.
-- Half-carved + half-natural predator-prey symbol.
-- **Surrounded by confused swirl of magical winds** (Lore Theology Difficult -10 = Old Faith).
-- Lay at center of village until attack. Villageois embarquent à bord cargo boat.
-
-## Comportement avec PJ
-- **Wary du Carroburg + marines** (military distrust).
-- **Eager to tell about Bachmann raid** : Schertal + Graubach + Florianfeld razed.
-- **Si PJ respectful + help** : *« Linden gives perceived party leader a predator-prey pendant. +20 bonus to next 3 tests with Stealth (Rural), Track, Outdoor Survival, Swim, Perception, Intuition »*.
-- **Si PJ destroy / take monolith** : villageois passent à l'action (canon ch.9 l.138) malgré danger.
+- **Skills** : Heal 76, Invoke 62, Pray 62, Lore (Plants 86, Theology 91), Charm 66, Cool 65, Research 81, Entertain (Speeches 76).
+- **Talents** : Bless (Rhya), Holy Visions, Impassioned Zeal, Doomed.
+- **Blessings** : Conscience, Courage, Fortune, Protection. **Miracles** : Rhya's Children, Rhya's Harvest, Rhya's Shelter, Rhya's Touch.
+- **Trappings** : Green Robes, Predator-Prey Pendant, Quarterstaff.
 
 ## Apparitions par session
 
-### Arc 7 ch.9
-- **[S?]** — **Flotilla raft Reikland-Wissenland border** rencontrée Carroburg. PJ peuvent monter board. Linden + 2 villageois quarterstaffs représentent groupe.
-- **Discussion Linden** : history raids. Si treated kindly = predator-prey pendant + Old Faith explanation.
-- **Si PJ veulent intervention contre Bachmann** : Linden grateful. Mais ne demande pas spécifiquement.
+### Arc 7 ch.9 (S65+)
+- **[S65+]** — **Rencontre de la flottille**, à ~un jour en amont des ruines de Schertal (segment Kemperbad → Nuln). Réfugiés affamés, sans terre où débarquer, méfiants du *Carroburg* `EiR ch.9 l.118-124`.
+- **Le récit** : Linden raconte le sac de Schertal, Graubach et Florianfeld par le Wissenland `EiR ch.9 l.126`.
+- **Le don** : si les PJ respectent la pierre ou aident les villageois, il remet le **pendentif proie-prédateur** (+20 × 3) `EiR ch.9 l.130`.
+- **Le monolithe** : présent dans la cale ; le prendre ou le détruire retourne les villageois, malgré le danger `EiR ch.9 l.136-138`.
+- **Écho aval** : un jour plus tard, le *Carroburg* atteint **Schertal en cendres** — iconographie sigmarite du temple subvertie en proie-prédateur, emplacement vide du monolithe dans l'herbe `EiR ch.9 l.161-165`.
 
 ## Ce que les PJ savent
-- Vieux prêtre Rhya village rasé.
-- Old Faith ancestral predator-prey.
-- Refugees Schertal/Graubach/Florianfeld.
+- Vieil aîné d'un village rasé, meneur d'une flottille de réfugiés.
+- Ses gens portent tous le même pendentif oiseau/lapin — allure de secte possible aux yeux méfiants.
+- Prêtre-guérisseur ; chaleureux si respecté, fermé face au militaire.
 
 ## MJ-only
-- **Pas cultiste — Old Faith ancestral**, distinct du Chaos.
-- **Monolith predator-prey magique** : swirling winds. **Pas Chaos** — Old Faith Rhya/Taal ancestrale.
-- **Hook narratif Schertal** : PJ peuvent enquêter Bachmann (canon ch.9 l.169-200).
-- **Pendant bonus** : utilisable Col du Feu Noir + Lost Gorge skills nécessaires.
+- **Vieux Culte, pas Chaos.** Le proie-prédateur incarne le cycle naturel et l'équilibre entre créatures — tradition immémoriale de Schertal, sans le moindre rapport avec la quête ni avec une corruption `EiR ch.9 l.132`.
+- **Prêtre hétérodoxe de Rhya sous couvert d'un temple de Sigmar** : à Schertal, l'iconographie sigmarite servait en fait à vénérer l'Ancienne Foi `EiR ch.9 l.163`.
+- **Le monolithe** est entouré d'un tourbillon confus de vents magiques — de quoi affoler un sorcier PJ ou un détecteur de magie, mais il reste innocent : c'est un piège à malentendu, pas une menace `EiR ch.9 l.136`.
+- **Fausse piste voulue** : toute l'affaire peut inquiéter ou retarder les PJ sans rien apporter à la quête `EiR ch.9 l.132`.
 
 ## Hooks Arc 7
-- **Aider refugees** : nourriture + eau + protection.
-- **Pendant predator-prey** : +20 bonus 3 tests skills nature.
-- **Suivre raiders Bachmann** : Hook Schloss Bachmann (canon ch.9 l.169+).
-- **Témoignage ch.9 l.183** : *« bringing up his behaviour might wrong-foot the countess when they again meet up with her later in the adventure »* (Emmanuelle).
-
-## Fils ouverts
-- **FIL Schertal raid Bachmann** — actif.
-- **FIL Old Faith monolith** — exploitable.
+- **Pendentif proie-prédateur** : récompense de respect, **+20 aux 3 prochains** tests de Stealth (Rural) / Track / Outdoor Survival / Swim / Perception / Intuition — précieux pour la traversée du Col `EiR ch.9 l.130`.
+- **Levier moral et politique** : le sac de Schertal est le crime du baron [[Klaus von Bachmann]] ; recueillir le témoignage de Linden **documente** ce crime, utile pour prendre à revers la Comtesse [[Emmanuelle von Liebwitz]] plus tard `EiR ch.9 l.183`.
+- **Test de tempérament** : fouiller ou saisir le monolithe braque des alliés naturels — jauge la brutalité du groupe.
+- **Guérisseur** (Heal 76, miracles de Rhya) : allié utile si les PJ savent le ménager.
 
 ## Liens
 - **Arcs** : Arc 7 (ch.9).
-- **PNJ liés** : **Baron Klaus von Bachmann** (Wissenland baron — raider), [[Emmanuelle von Liebwitz]] (Bachmann acted *« alone, without her authority »* ch.9 l.197), villageois Schertal/Graubach/Florianfeld.
-- **Lieux** : **Schertal** (village rasé), **Graubach + Florianfeld** (raids voisins), **Schloss Bachmann** (Wissenland castle), **Reik river** (flotilla).
-- **Factions** : **Old Faith** (ancestrale), **Rhya cult** (Unorthodox branch).
+- **PNJ liés** : [[Klaus von Bachmann]] (bourreau de Schertal), [[Emmanuelle von Liebwitz]] (Comtesse du Wissenland, suzeraine de Bachmann), [[Brunhilde von Flamme]] · [[Ottilie Grissen]] (capitaines du *Carroburg*).
+- **Lieux** : Schertal (rasé), Graubach, Florianfeld ; le Reik ; frontière Reikland–Wissenland.
+- **Factions** : Vieux Culte / Ancienne Foi (proie-prédateur, culte de Rhya).
+- **Scénario** : [[Hub|En route vers le Col du Feu Noir]] · [[02 - Descente du Reik]] · [[Statblocs — PNJ du voyage]].

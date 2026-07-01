@@ -19,8 +19,9 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - **[[Vieran Thugenheim]] [DISPARU]** — corps non retrouvé après l'attaque. Status ambigu.
 - **Katarina Todbringer [VIVANTE]** — sauvée.
 - **Heinrich Todbringer [VIVANT, HÉRITIER]** — a demandé aux PJ de chercher Ghal Maraz pour le lui ramener, en vue d'une marche sur Altdorf pour exiger réparation. Repart bientôt pour Middenheim.
-- **Sponsor de la quête modifié** : Heinrich (mandat Todbringer), pas Immanuel-Ferrand. Détail à arbitrer avec le ch. 8 canonique.
+- **Sponsor de la quête (résolu S64)** : double — mandat **Heinrich Todbringer** (ramener le marteau à Middenheim) **ET** **[[Immanuel-Ferrand Holswig-Schliestein]]**, qui finance l'expédition et recrute les PJ comme **agents de la Chambre Noire**. Converge avec le ch.8 canonique.
 - **Score Party Allegiance** : à recalculer (probablement très ulriçain maintenant).
+- **[S64 joué]** : PJ **recrutés agents Chambre Noire**, **Anselm médecin de cour**, **Kappelmuller démasqué + en fuite**, **[[Gideon]]** confirmé (renouvelle la maladie via dhar), **départ pour le Col du Feu Noir**. Nouveau PJ **Johannes Woblhoffer** (agent d'Immanuel). Détail [[09 - Prep post-S63]] §1bis.
 
 → Voir `08 - Vision de l'ancien MJ.md` pour le plan narratif transmis et `06 - Différences vs campagne originale.md` (section S63).
 
@@ -28,7 +29,9 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 
 ## 🔥 URGENT — À traiter dès S64 (chapitre 8 du livre, adapté)
 
-### 1. Rendez-vous chez Fassbinder (rendez-vous donné en S62, à honorer)
+### 1. Rendez-vous chez Fassbinder (rendez-vous donné en S62, à honorer) — ✅ FAIT [S63]
+> Honoré : Fassbinder livre le couloir Vithang Dum / Zan Mingol via Yodri, puis est **arrêté par l'Ordre du Marteau d'Argent** pendant la consultation. Les PJ fuient avec ses notes + le tome + **Johannes**. Récupéré : notes sur les cultes du Chaos + **lettre Main Pourpre sur le « Champion des Ombres »** (terme Kastor Lieberung).
+
 - À la **bibliothèque-temple de Verena, université d'Altdorf**.
 - Quintus livre directement (canon `EiR ch.8 l.171-173`) : couloir entre **Vithang Dum** et **Zan Mingol**, environ 3 milles dans le Col du Feu Noir, où Sigmar a abandonné Ghal Maraz. C'est la seule information qu'il offre gratuitement.
 - Pistes complémentaires à chercher par les PJ dans la bibliothèque (tests Perception Difficile -20 / Recherche +0, canon `EiR ch.8 l.213, 266-267, 296`) :
@@ -39,7 +42,9 @@ Intrigues à reprendre au sortir de **S63** (attaque du manoir Todbringer, Boris
 - Au cabinet verrouillé du bureau privé (raid optionnel) : **lettre codée à Kastor Lieberung** (chiffrement Wasmeier sur Sombre Langue). Décodable avec la clé Wasmeier des PJ (Middenheim Arc 3) — acrostiche **SHEERARGETRU** + recette du rituel.
 - Quintus est un **allié sincère** (pas un piège).
 
-### 2. Démasquer Henrik Kappelmuller (ch. 8 du livre)
+### 2. Démasquer Henrik Kappelmuller (ch. 8 du livre) — ✅ FAIT [S63]
+> Démasqué et **en fuite** : aveu (commanditaire désigné = Wasmeier, *leurre* scripté par Zuntermein), fuite par la fenêtre. **Karl-Franz reste malade** ([[Gideon]] a renouvelé le dhar — sort non levé), donc le bénéfice « climax facilité » n'est **pas** acquis. Voir [[09 - Prep post-S63]] §1bis et fiche [[Henrik Kappelmuller]].
+
 - Médecin de Karl-Franz, l'empoisonne avec Fièvre cérébrale pourpre (induite par Gideon).
 - Si démasqué, **Karl-Franz se rétablit** → climax beaucoup plus facile.
 - Pour le voir, il faut convaincre Immanuel-Ferrand / Maria-Luise / Hermine, **Test Charm Très Difficile**.

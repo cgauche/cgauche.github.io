@@ -34,6 +34,8 @@ meilleur espion des deux `EiR Intro l.632`.
 - **Recruteur** : Hermann von Feilbach — c'est lui qui l'a repéré pour le rôle de sosie de Karl-Franz ; en parfaite bonne foi, pour protéger l'Empereur contre ses ennemis.
 - **Au défilé S60** : converse à voix basse durant tout le défilé avec Holzkrug et Yann Zuntermein, plutôt qu'avec les autres dignitaires `EiR ch.5 l.204`. Emmanuelle von Liebwitz cherche son soutien pour son annexion de Sudenland — elle suppose son appui à Ubersreik en fait un allié naturel `EiR ch.5 l.129`. Plus tard, ultimatum chuchoté d'Emmanuelle von Liebwitz : si Immanuel-Ferrand s'oppose à la chute des Toppenheimer, elle révélera le faux Empereur aux Électeurs `EiR ch.5 l.326`.
 
+- **Agents recrutés (S64, table)** : les PJ — attachés comme **agents de la Chambre Noire** après leur rôle dans le démasquage de [[Henrik Kappelmuller|Kappelmuller]] ; **Anselm** nommé **médecin officiel de la cour**. **Johannes Woblhoffer** est son agent, infiltré auprès du groupe depuis plusieurs jours (recommandé à Fassbinder comme lecteur de khazalid).
+
 ## Objectifs et angle mort
 
 **Ce qu'il veut** `EiR Intro l.636-637` : tiraillé entre deux buts
@@ -117,6 +119,7 @@ toute preuve contraire à sa thèse est inconsciemment minimisée.
   événements de *Le Rat Cornu* et *Power Behind the Throne*, parle
   centralisation, propose un recrutement Graukappen implicite ; *« I'm
   sure we understand each other »* `EiR ch.7 l.206`.
+- S63-S64 — Altdorf post-attaque (table) : son agent **Johannes Woblhoffer** est recommandé à Fassbinder pour lire le tome de Yodri. Au lendemain du démasquage de Kappelmuller, reçoit les PJ : d'ordinaire méprisant envers leurs preuves Main Pourpre, il **s'attache leurs services comme agents de la Chambre Noire**, nomme **Anselm médecin officiel de la cour**, et — réceptif aux écrits Fassbinder, à la menace sur l'artefact et à la demande d'Heinrich — **valide et finance la quête de Ghal Maraz** au Col du Feu Noir `EiR ch.8`. Révèle que Johannes le surveillait depuis plusieurs jours.
 - S64+ — Climax Altdorf (ch.13) : reconnaissance écriture si note
   ramenée ; rallie le Collège Gris et les PJ avant la confrontation
   Zuntermein `EiR ch.13 l.145`.

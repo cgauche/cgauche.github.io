@@ -17,6 +17,20 @@
 
 ---
 
+## 1bis. État table post-S64 (faits acquis, joués)
+
+> Ajouté après lecture des résumés **S63-S64** (sync blog 2026-06-25). Met à jour le §1 ci-dessus — l'essentiel du « Plan immédiat S64 » du §2 a été joué.
+
+- **[[Henrik Kappelmuller|Kappelmuller]]** : **démasqué et en fuite [S63]**. Faux diplôme de Nuln avéré (Guilde des Médecins) ; confronté dans la chambre impériale par les PJ puis [[Maria-Luise von Walfen|Maria-Luise]] + soldats ; **désigne [[Karl-Heinz Wasmeier|Wasmeier]] comme commanditaire** (= diversion scriptée par [[Yann Zuntermein|Zuntermein]], **leurre** — vrai répondant = Zuntermein) ; **fuit par la fenêtre**.
+- **Empoisonnement confirmé** : Anselm détecte un résidu de **dhar** fraîchement incanté ; la servante Annaliese décrit l'**enfant ~10 ans aux traits familiers → [[Gideon]]** revenu renouveler la maladie. Karl-Franz reste alité (sort non levé). **[[Maria-Luise von Walfen|Maria-Luise]] est désormais convaincue et alliée.**
+- **Recrutement Chambre Noire [S64]** : [[Immanuel-Ferrand Holswig-Schliestein]] s'attache les PJ comme **agents** ; **Anselm** nommé **médecin officiel de la cour** ; révèle que **Johannes** (nouveau PJ) travaillait déjà pour lui et surveillait le groupe. Immanuel, d'ordinaire méprisant envers leurs preuves, devient **réceptif à la quête Ghal Maraz** (écrits Fassbinder + menace sur l'artefact + relais de la demande d'Heinrich).
+- **Départ Col du Feu Noir [S64]** : les PJ partent au sud **avec les moyens d'Immanuel** récupérer le vrai marteau → entrée EiR ch.8→11.
+- **Nouveau PJ : Johannes Woblhoffer** (étudiant khazalid, agent d'Immanuel — double tranchant). Voir [[02 - Personnages joueurs]].
+- **Altdorf en émeute** : sud embrasé après le bris de Ghal Maraz ; foule hostile ; Sigmarites traquant **Yuridika** (sort de stase lancé sur des fanatiques au matin S63) ; « miracle Volkmar » alimente la ferveur (cf. §4).
+- **Compagnons hors-jeu** : **[[Albert Reichau|Albert]]** resté au temple de Shallya (grièvement blessé, plusieurs semaines) ; **[[Pesold Imlitz|Pesold]]** reparti avec Heinrich vers Middenheim (funérailles + lien Dietrich).
+
+---
+
 ## 2. Plan immédiat — S64
 
 ### Heinrich retourne à Middenheim

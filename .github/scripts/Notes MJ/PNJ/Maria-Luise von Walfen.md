@@ -1,7 +1,9 @@
 # Maria-Luise von Walfen
 
 **Sous-titre** : Dame de la cour, concubine de Karl-Franz, mère de ses deux enfants — surnommée « Impératrice » au Conseil privé impérial  
-**Statut** : [VIVANTE] [ALLIÉE POTENTIELLE — INFORMÉE]
+**Statut** : [VIVANTE] [ALLIÉE — CONVAINCUE S63 (table)]
+
+> **Maj S63 (table)** : a reçu les PJ en secret (carrosse noir, servante Annaliese), exigé des preuves, envoyé Elvira/Mark/Phineas au chevet de Karl-Franz, puis assisté à la **confrontation et aux aveux de [[Henrik Kappelmuller|Kappelmuller]]** (engagé par la Main Pourpre) avant sa fuite par la fenêtre. Anselm, réadmis, confirme le **dhar** récent et le retour de [[Gideon]]. Elle est désormais **convaincue et alliée active** — l'appel à l'aide canon du ch.13 est déjà largement enclenché.
 
 ## Apparence et manières
 

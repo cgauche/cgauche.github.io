@@ -1,58 +1,55 @@
 # Marcus Karlssen
 
-> **SIP (Streissen Independence Party) leader** — apparente revolutionary. **En réalité : Captain in Marius Leitdorf's personal bodyguard**, leading false revolution to facilitate Leitdorf coup Streissen. **Brass 3 Rabble Rouser canon**. Idéologique platitudes — *« for the cause »*, *« up the revolution »*. Mitigates Leitdorf's worst impulses post-coup.
+> **Chef de façade du Parti pour l'Indépendance de Streissen (SIP)**, qui a pris le Rathaus dans un coup quasi sans effusion de sang. Il se présente en révolutionnaire idéaliste aux slogans creux. **En réalité capitaine de la garde personnelle de [[Marius Leitdorf]]** : le gros du SIP sont ses soldats, et le « soulèvement » est une opération militaire montée pour tendre un piège aux Alptraum `EiR ch.9 l.334`.
 
 ## Identité publique
-- **Couverture publique** : **SIP Leader** revolutionary Streissen.
-- **Vrai rôle** : **Captain Marius Leitdorf personal bodyguard** + officer (canon ch.9 l.405).
-- **Apparence canon (ch.9 l.407)** : *« immaculately turned out, as if for the parade ground. His moustache is perfectly waxed. He stands to attention by instinct. He is apt to address anyone of status as 'sir' or 'ma'am' without thinking. He mostly surrounds himself with other elite soldiers of Leitdorf's retinue, all of whom give a similar impression of professionalism »*.
-- **Personnalité canon** : *« difficulty explaining the ideological grounds on which he is fighting. He will, instead, interject with empty phrases such as 'for the cause' and 'up the revolution' »*.
-- **Carrière canon** : **Rabble Rouser (Brass 3)** — couverture revolutionary.
-- **Statut** : [VIVANT — ENNEMI POSSIBLE]
-- **Tags** : `#MarcusKarlssen` `#SIP` `#StreissenIndependence` `#FauxRevolutionary` `#LeitdorfOfficer` `#Bodyguard` `#Averland` `#Arc7` `#Ch9` `#Ch12`
+- **Titre** : chef du **Parti pour l'Indépendance de Streissen** (SIP), meneur autoproclamé du soulèvement.
+- **Carrière canon** : **Human Rabble Rouser (Brass 3)**.
+- **Personnalité canon** `EiR ch.9 l.407` : *« He is immaculately turned out, as if for the parade ground »* — moustache parfaitement cirée, il se met au garde-à-vous par réflexe et appelle « sir » ou « ma'am » quiconque a du rang : l'improbable révolutionnaire.
+- **Apparence** : tenue impeccable de soldat de parade, entouré d'autres soldats d'élite affichant le même professionnalisme et la même obéissance.  
+- **Statut** : [VIVANT — AMBIGU]
+- **Tags** : `#Marcus` `#MarcusKarlssen` `#SIP` `#Streissen` `#Leitdorf` `#GardeDuCorps` `#FauxRevolutionnaire` `#Arc7` `#Ch9` `#RabbleRouser`
 
 ## Source
-- **EiR ch.9 l.404-422** *Marcus Karlssen — Rabble Rouser (Brass 3)* + statbloc.
-- **EiR ch.9 l.330-334** : *« the SIP was conceived by Marius Leitdorf. Marcus Karlssen is a captain in Leitdorf's personal bodyguard, and the bulk of the SIP are trusted members of Leitdorf's army. The uprising, ostensibly by desperate revolutionaries and ill-disciplined students, was actually a carefully planned military operation »*.
-- **EiR ch.12 l.95** post-Leitdorf coup : *« Marcus Karlssen stays out of way, working to mitigate the worst of Leitdorf's impulses »*. *« Karlssen also quietly orders a few soldiers to gather nearby »* quand PJ visitent.
+- **EiR ch.9 l.330** — le SIP, sous la direction compétente de Karlssen, s'empare du Rathaus dans un coup brillant et quasi sans effusion de sang, forçant la garnison surprise et affaiblie à quitter la ville ; bourgeois et marchands rejoignent la cause.
+- **EiR ch.9 l.334** — secret : le SIP a été conçu par [[Marius Leitdorf]] ; Karlssen est capitaine de sa garde personnelle et le gros du SIP sont des hommes de confiance de son armée. Le « soulèvement de révolutionnaires désespérés » est une opération militaire planifiée, l'armée de Leitdorf manœuvrée à une demi-journée de marche pour embusquer les Alptraum.
+- **EiR ch.9 l.405-409** — imposture : carriériste militaire jouant le révolutionnaire idéaliste ; il peine à exposer ses fondements idéologiques et se rabat sur des formules creuses.
 
 ## Statbloc (EiR ch.9 l.411)
 
-**MARCUS KARLSSEN — RABBLE ROUSER (BRASS 3)**
+**MARCUS KARLSSEN HUMAN RABBLE ROUSER (BRASS 3)**
 
 | M | WS | BS | S | T | I | Ag | Dex | Int | WP | Fel | W |
 |---|---|---|---|---|---|---|---|---|---|---|---|
 | 4 | 62 | 56 | 36 | 44 | 53 | 32 | 40 | 51 | 54 | 56 | 16 |
 
 - **Traits** : Armour 4, Weapon (Sword) +7.
-- **Skills** : Athletics 52, Art (Writing) 55, **Bribery 71, Charm 71**, Climb 51, Consume Alcohol 59, **Cool 82**, Dodge 47, Endurance 59, Entertain (Storytelling) 66, Gamble 76, **Gossip 71**, Haggle 71, Heal 56, Intuition 63, Language (Battle) 61, **Leadership 76**, **Lore (Politics 66, Warfare 71)**, **Melee (Basic 90, Fencing 87)**, Navigation 63, Outdoor Survival 61, Perception 68, Play (Fife) 60, **Ranged (Blackpowder) 76**, Trade (Printing) 65.
-- **Talents** : Argumentative, Blather, Combat Aware, **Beat Blade**, **Combat Reflexes**, Distract, **Doomed** (*« Wear the yellow and black, and you'll face an attack »*), **Etiquette (Military)**, **Fast Shot**, Feint, **Flee!**, **Step Aside**.
-- **Trappings** : Full Plate Armour, Sword, Pamphlets, Writing Kit.
+- **Skills** : Melee (Basic 90, Fencing 87), Ranged (Blackpowder) 76, Leadership 76, Bribery 71, Charm 71, Cool 82.
+- **Talents** : Beat Blade, Combat Aware, Combat Reflexes, Distract, Fast Shot, Feint, Step Aside, Doomed.
+- **Trappings** : Full Plate, Sword, Pamphlets. *En réalité capitaine de la garde de [[Marius Leitdorf]].*
 
 ## Apparitions par session
 
-### Arc 7 ch.9
-- **[S?]** — **SIP leader public face** Streissen. PJ meet during mediation possible.
-- **Bataille Streissen** : Karlssen's militia émerge city gates flank Alptraum forces.
-
-### Arc 7 ch.12
-- **[S?]** — Streissen post-coup. Karlssen *« stays out of way »* + mitigates Leitdorf. Quand PJ visitent **Alptraum's Winter Residence**, Karlssen *« quietly orders a few soldiers to gather nearby »* (préparation arrest).
-- **Karlssen tells PJ wait** + *« rouse Leitdorf »* → trap.
+### Arc 7 ch.9 (S65+)
+- **[S65+]** — **Streissen** : le SIP tient le Rathaus contre l'armée de [[Marlene Alptraum]] ; si les PJ rencontrent Karlssen, il défend la ville avec résolution mais peine à justifier sa cause, se rabattant sur des slogans creux — « pour la cause », « vive la révolution » `EiR ch.9 l.409`.
+- **[S65+]** — **Médiation** : Karlssen accepte l'arbitrage des PJ pour la même raison que [[Marius Leitdorf]] — parce que son camp tient tous les atouts et que la médiation lui facilite la tâche `EiR ch.9 l.425`.
 
 ## Ce que les PJ savent
-- SIP leader Streissen.
-- **Détection ch.9 l.407** : *« difficult to imagine a less likely idealistic revolutionary »* — military bearing.
+- Meneur du SIP, révolutionnaire ayant renversé le joug impérial à Streissen en quelques semaines.
+- Tenue et discipline de soldat de parade — détonnant pour un « idéaliste ».
+- Slogans vides — « pour la cause », « vive la révolution » — dès qu'on le presse sur le fond `EiR ch.9 l.409`.
 
 ## MJ-only
-- **Captain Leitdorf bodyguard** masqué = false revolutionary.
-- **Mitigates Leitdorf** : aide PJ subtilement post-coup peut-être.
+- **Agent de Leitdorf, pas révolutionnaire** : Karlssen est capitaine de la garde personnelle de [[Marius Leitdorf]], et le gros du SIP sont des soldats de son armée. Le coup « désorganisé de civils » était une opération militaire disciplinée, menée par un esprit militaire discipliné `EiR ch.9 l.334`.
+- **Le piège** : Ludmilla von Alptraum envoie sa fille [[Marlene Alptraum]] mater le soulèvement sans savoir que Leitdorf a manœuvré son armée à une demi-journée de Streissen pour l'embusquer `EiR ch.9 l.334`.
+- **Les slogans creux** sont une couverture : il ne défend aucune idéologie, il tient une position militaire `EiR ch.9 l.405`.
 
 ## Hooks Arc 7
-- **Ch.9 mediation** : Karlssen sticks to script SIP cover.
-- **Ch.12 visit Leitdorf** : Karlssen orders soldats gather = trap PJ. **PJ doivent fuir**.
+- **Médiation à Streissen** : les PJ, agents de l'Empire, peuvent arbitrer une trêve — toutes les parties acceptent, chacune croyant y gagner `EiR ch.9 l.425`.
+- **Découvrir la ficelle** : établir le lien Karlssen–[[Marius Leitdorf]] renverse toute la lecture du « soulèvement » et change les termes de la médiation.
+- **Laisser passer** : que les PJ aident ou non, une fois Streissen à lui, Leitdorf les laisse repartir vers l'Averland.
 
 ## Liens
-- **Arcs** : Arc 7 (ch.9 + ch.12).
-- **PNJ liés** : [[Marius Leitdorf]] (vrai chef), [[Marlene Alptraum]] (rivale tante), SIP membres = Leitdorf army soldats.
-- **Lieux** : **Streissen** (SIP coup + post-coup), **Averland**.
-- **Factions** : **Streissen Independence Party (SIP)** (cover), **House Leitdorf** (real allegiance).
+- **Scénario** : [[Hub|En route vers le Col du Feu Noir]] · [[04 - Averland en guerre]] · [[Statblocs — PNJ du voyage]].
+- **PNJ liés** : [[Marius Leitdorf]] (véritable commanditaire), [[Marlene Alptraum]] (cible du piège), [[Fione Brecht]] (autre imposture de la même étape du voyage).
+- **Lieux / Factions** : Streissen (Rathaus, *freistadt*), SIP, maison Leitdorf.

@@ -1,7 +1,7 @@
 # Henrik Kappelmuller
 
 **Sous-titre** : Médecin personnel de Karl-Franz, agent dormant de la Main Pourpre  
-**Statut** : [ENNEMI ACTIF]
+**Statut** : [DÉMASQUÉ — EN FUITE S63 (table)]
 
 ## Apparence et manières
 
@@ -69,6 +69,8 @@ protège des divinations cléricales sigmarites ou véréniennes.
 - **Conséquences en aval** `EiR ch.13 l.187` : si les PJ démasquent Kappelmuller avant le climax, Karl-Franz Holswig-Schliestein n'est plus malade au moment du rituel Sheerargetru — un critère du rituel saute `EiR ch.13 l.195`. Au lendemain de la victoire des PJ, l'Empereur est *« a new man »* (sort de Gideon levé), Kappelmuller *« vanished or dead »* `EiR ch.13 l.623`.
 
 ## Apparitions Arc 7
+
+> **Joué S63 (table) — démasqué et en fuite.** Enquête à la Guilde des Médecins : la fausse lettre de recommandation de Nuln est confirmée, la guilde s'apprêtait à révoquer sa licence quand le Palais l'a recruté. Entrée dans la chambre impériale (Elvira, Mark, Phineas, puis [[Maria-Luise von Walfen|Maria-Luise]] + ses soldats) : Mark repère l'encensoir sous le lit, Elvira identifie des herbes stupéfiantes, la magie de Rhya ne réveille l'Empereur que quelques secondes. Acculé, Kappelmuller **désigne [[Karl-Heinz Wasmeier|Wasmeier]] comme commanditaire** — c'est exactement la diversion (palier 4) scriptée par [[Yann Zuntermein|Zuntermein]], donc **leurre à traiter avec prudence** : son vrai répondant reste Zuntermein. Il **s'enfuit par la fenêtre**. Anselm, réadmis, détecte un résidu de **dhar** fraîchement incanté renouvelant la maladie ; la servante Annaliese décrit un enfant ~10 ans aux traits familiers → **[[Gideon]]**. Karl-Franz demeure alité (sort non levé).
 
 - S64+ — Asking After Henrik Kappelmuller : enquête à la Guilde des Médecins (district de Zwillingsgrab), interrogatoire d'Elvyra Kleinestun, recoupement avec Immanuel-Ferrand Holswig-Schliestein / Maria-Luise / Hermine Liebwitz sur les visiteurs (Elvyra Kleinestun et Gideon) `EiR ch.8 l.56-88`.
 - S64+ — Calling on the Doctor : audience arrachée à Charm Very Hard (-30), entrée dans la chambre impériale, accueil onctueux, confrontation cinq paliers `EiR ch.8 l.92-126`.

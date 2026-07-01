@@ -1,74 +1,64 @@
-# Baroness Marlene Alptraum
+# Baronne Marlene Alptraum
 
-> **Fille de Ludmilla Alptraum** (Grand Countess Averland). Wiry, domineering, belligerent commander. **Envoyée par sa mère** put down Streissen Independence Party (en réalité piège Leitdorf). **Outflanked par Leitdorf à Streissen** — défaite + fuite Averheim. **Alptraum perd Averland post-Turmoil** au profit Marius Leitdorf.
+> **Baronne Marlene Alptraum**, fille et générale de la Grande Comtesse-Électrice [[Ludmilla von Alptraum]]. Brute directe, vision du monde en noir et blanc *(qui peut causer sa perte)*. Envoyée mater la révolte de Streissen — **droit dans le piège de [[Marius Leitdorf]]**. Sidérée d'apprendre que Leitdorf a une armée à une demi-journée de marche. **PNJ canonique — NE PAS TUER** (nécessaire ch.12-13).
 
 ## Identité publique
-- **Titre** : **Baroness** Alptraum, héritière potentielle Averland (Ludmilla âgée).
-- **Apparence ch.9 l.390** : *« wiry, domineering presence with piercing, beady eyes. Tolerates trappings of power, protocol, politeness, but would rather tell it straight, and be told it the same way »*.
-- **Personnalité canon** : *« keen to lead her army, but is a belligerent commander, always ready to charge in before thinking. Has no time for her mother's patience and statecraft. Does not value scheming and subtlety, which may be her downfall »*.
-- **Statut** : [VIVANTE — DOOMED post-Turmoil] (Averland perd contre Leitdorf).
-- **Tags** : `#Marlene` `#MarleneAlptraum` `#Alptraum` `#Averland` `#Streissen` `#Belligerent` `#Arc7` `#Ch9` `#DoomedTurmoil`
+- **Titre** : **Baronne Marlene Alptraum**, tient le County of Streissen ; fille et générale de la Grande Comtesse-Électrice [[Ludmilla von Alptraum]].
+- **Carrière canon** : non imprimée au canon (noble martiale — commande l'armée Alptraum) `EiR ch.9 l.389-402`.
+- **Personnalité canon** : brute directe, présence sèche et dominatrice, yeux perçants et globuleux ; *« would rather tell it straight, and be told it the same way »* `EiR ch.9 l.390`. Commandante belliqueuse qui charge avant de réfléchir, sans patience pour l'intrigue ni la subtilité — une vision *« too black and white »* qui pourrait la perdre `EiR ch.9 l.400`.
+- **Apparence** : silhouette sèche et nerveuse, présence dominatrice, yeux perçants et globuleux ; harnois complet, épée et main-gauche `EiR ch.9 l.390`.  
+- **Statut** : [VIVANTE — NEUTRE]
+- **Tags** : `#Marlene` `#MarleneAlptraum` `#Alptraum` `#Averland` `#Streissen` `#Baronne` `#Générale` `#Arc7` `#Ch9` `#NePasTuer` `#Électeurs`
 
 ## Source
-- **EiR ch.9 l.389-403** *Baroness Marlene Alptraum* + statbloc.
-- **EiR ch.9 Battle Streissen** : Leitdorf flanks Alptraum forces → Marlene scattered + flee Averheim.
+- **EiR ch.9 l.389-402** *Baroness Marlene Alptraum* + statbloc (aucune ligne de caractéristiques imprimée).
+- **EiR ch.9 l.332** Ludmilla, trop infirme, l'envoie mater la révolte de Streissen — sans savoir qu'elle l'envoie dans un piège.
+- **EiR ch.9 l.396** totalement sidérée d'apprendre que Leitdorf a une force conséquente à proximité.
+- **EiR ch.9 l.400** sa vision du monde en noir et blanc annonce la chute de l'emprise Alptraum ; sa mère décrite comme intrigante subtile.
+- **EiR ch.9 l.440** si les PJ sauvent Marlene lors de la bataille, les Alptraum sont reconnaissants mais Leitdorf leur voue une vengeance éternelle.
 
-## Statbloc (EiR ch.9 — partial reconstruction)
+## Statbloc (EiR ch.9 l.389-402)
 
-**BARONESS MARLENE ALPTRAUM**
+**BARONNE MARLENE ALPTRAUM — NOBLE (aucun palier imprimé au canon)**
 
-(stats partielles canon, à compléter via Companion ou estimation)
+*(Le canon n'imprime **aucune ligne de caractéristiques** pour elle — Traits / Skills / Talents / Trappings seulement.)*
 
 - **Traits** : Armour 4, Weapon (Sword) +9.
-- **Skills majeurs** : Animal Care 65, Athletics 72, **Cool 71**, Dodge 77, Drive 77, Endurance 64, Heal 60, Intimidate 72, **Intuition 77**, Language (Battle 75, Brigundian 70, Classical 65), Leadership 67, **Lore (Arts 70, Averheim 75, Averland 75, Engineering 70, Empire 75, Heraldry 70, History 75, Warfare 70)**, **Melee (Basic 84, Fencing 80, Parry 74)**, Perception 79, Perform (Dancing) 77, Play (Lute) 65, Ranged (Blackpowder 68, Bow 63), Ride (Horse) 70.
-- **Talents** : Ambidextrous, **Beat Blade**, Blather, Carouser 2, **Combat Reflexes 2**, Commanding Presence 2, Craftsman (Engineer), **Disarm 2**, **Distract 3**, **Doomed** (*« First the worst, second the best, third will put you to the test »*), **Dual Wielder 3**, Etiquette (Nobles) 2, **Feint 3**, **Frenzy**, Inspiring 2, **Iron Will 2**, **Luck 2**, **Noble Blood**, Public Speaking 2, Read/Write, **Reversal 3**, Riposte 2, Speedreader, Step Aside, **Stout-hearted**, Tenacious 2, **Warleader**, **Wealthy 10**.
-- **Trappings** : County of Streissen (revendiquée), High-Quality Clothing, Full Plate Armour, Main Gauche, Sword.
-
-## Plan
-1. **Envoyée par Ludmilla** put down Streissen uprising (Marcus Karlssen SIP = en réalité Leitdorf op).
-2. **Anticipates short siege against disorganised civilian rabble**.
-3. **Outflanked par Leitdorf** Battle of Streissen : forces Alptraum surprised + scattered + fuite Averheim.
-4. **Mère mécontente** post-défaite.
-
-## Position politique
-- **Belligerent + straightforward** : déteste mère scheming.
-- **Cible facile pour PJ honest** : *« remarkably easy to deal with if they get on her good side, especially if they are straightforward »* (canon ch.9 l.395).
-- **Stubborn for sake of it** si PJ cleverness.
-- **Totally stunned to learn Leitdorf has sizable force nearby**.
+- **Skills** (extraits combat) : Melee (Basic 84, Fencing 80, Parry 74), Dodge 77, Perception 79, Intimidate 72, Cool 71, Ranged (Bow 63, Blackpowder 68), Leadership 67.
+- **Talents** (extraits) : Ambidextrous, Beat Blade, Combat Reflexes 2, Disarm 2, Dual Wielder 3, Feint 3, Frenzy, Reversal 3, Riposte 2, Step Aside, Doomed.
+- **Trappings** : County of Streissen, Full Plate, Main Gauche, Sword.
 
 ## Apparitions par session
 
-### Arc 7 ch.9
-- **[S?]** — **Camp siege Streissen**. Si PJ mediation : meeting tent neutre. Speech : *« Streissen belonged to her mother before all this happened, therefore should belong to her afterwards »* — blunt.
-- **Battle of Streissen** : si PJ intervene Alptraum side → Marius Leitdorf swears vengeance.
-
-### Post-Turmoil canon
-- **Alptraum perd Averland**. Marlene **disinheritée future** (à confirmer Companion).
+### Arc 7 ch.9 (S65+)
+- **[S65+]** — **Camp de siège devant Streissen**. Marlene commande l'armée Alptraum, anticipant un siège court contre une populace désorganisée `EiR ch.9 l.332`.
+- **Rencontre PJ** (vaisseau de l'Imperial Navy) : elle se désintéresse de leur mission ; remarquablement facile à traiter si on joue franc-jeu, têtue par principe si on la prend de haut ou qu'on attend d'elle une vue nuancée `EiR ch.9 l.396`.
+- **Sidérée** d'apprendre que Leitdorf tient une armée à une demi-journée de marche `EiR ch.9 l.396`.
+- **Médiation** (tente hors les murs, toutes les parties jurant devant Sigmar) : son plaidoyer est brutal et pratique — Streissen appartenait à sa mère, donc doit lui revenir `EiR ch.9 l.431`.
+- **Bataille** : sans intervention des PJ, l'armée Alptraum est débordée, écrasée et fuit vers Averheim. Si les PJ sauvent Marlene, gratitude Alptraum mais vengeance éternelle de Leitdorf `EiR ch.9 l.440`.
 
 ## Ce que les PJ savent
-- Belligerent fille Ludmilla Alptraum.
-- Envoyée siege Streissen, défaite Leitdorf.
-- Pas tacticienne fine — straight talker.
+- Baronne Alptraum, fille de la Grande Comtesse-Électrice, générale de l'armée d'Averland.
+- Venue mater la révolte de Streissen à la tête de ses troupes.
+- Brutale, franche, sans goût pour l'intrigue.
 
 ## MJ-only
-- **Pas cultiste** — politique noble classique.
-- **Alptraum-Leitdorf feud aggravé par Averheim Main Pourpre cell** (canon Intro l.302) — mais Marlene = pawn pas cultiste.
-- **Si PJ aident contre Leitdorf** : Alptraum gratitude + Leitdorf vengeance eternal.
-- **Climax ch.13** : **Alptraum absent** (canon ch.13 l.336 *« gone home »*).
+- **Pièce politique, pas cultiste**. Elle marche droit dans le piège de [[Marius Leitdorf]] : l'armée de Leitdorf campe à une demi-journée, prête à surprendre les Alptraum `EiR ch.9 l.332`.
+- La maison Alptraum vacillera avec Marlene aux commandes — sa vision *« too black and white »* la dessert dans un Empire au bord du gouffre `EiR ch.9 l.400`.
+- **NE PAS LA TUER** — PNJ canonique nécessaire plus tard (ch.12-13), au même titre que [[Marius Leitdorf]], [[Ludmilla von Alptraum]] et [[Emmanuelle von Liebwitz]].
+- Se rallie par la franchise ; se braque si on la manipule. Si les PJ la sauvent à la bataille, gérer Leitdorf **sans tuer ni l'un ni l'autre** `EiR ch.9 l.440`.
 
 ## Hooks Arc 7
-- **Ch.9 mediation** : faire arbitrer en faveur Marlene = pacifie Averland (mais Leitdorf vengeance) ; en faveur Leitdorf = post-Turmoil + Alptraum harassent PJ Averheim ; balanced = aucun side content.
-- **Bataille** : intervenir ou non.
-
-## Fils ouverts
-- **FIL Marlene Streissen succession** — résolu par bataille.
-- **FIL Alptraum perd Averland post-Turmoil** —.
+- **Arbitrage** : les PJ, agents de l'Empereur, peuvent orchestrer une médiation à Streissen — Marlene accepte, candide et sans méfiance, car elle ignore qu'elle négocie contre Leitdorf.
+- **Sauver Marlene** = gratitude Alptraum, mais **vengeance éternelle** de Leitdorf `EiR ch.9 l.440`. Ni Marlene ni Leitdorf ne doivent mourir (canoniques).
+- **Aider à l'attaquer** = accueil hostile à Averheim, PJ accostés de force par des soldats averlandais `EiR ch.9 l.447`.
 
 ## Liens
-- **Arcs** : Arc 7 (ch.9).
-- **PNJ liés** : **Ludmilla Alptraum** (mère, Grand Countess âgée + malade), [[Marius Leitdorf]] (rival), **Marcus Karlssen** (SIP leader = Leitdorf officer cover).
-- **Lieux** : **Averheim** (capitale Averland), **Streissen** (siege Alptraum).
-- **Factions** : **House Alptraum**.
+- **Arcs** : Arc 7 (ch.9) — [[04 - Averland en guerre]].
+- **Scénario** : [[Hub|En route vers le Col du Feu Noir]] · [[Statblocs — PNJ du voyage]].
+- **PNJ liés** : [[Ludmilla von Alptraum]] (mère, la commanditaire), [[Marius Leitdorf]] (« le Comte Fou », rival qui l'attend au piège), Marcus Karlssen (chef de façade du SIP, capitaine de la garde de Leitdorf), [[Emmanuelle von Liebwitz]] (autre Comtesse-Électrice — PNJ à ne pas tuer).
+- **Lieux** : Streissen, Averheim (Averburg), Averland.
+- **Factions** : Maison Alptraum, Streissen Independence Party (SIP), armée de Leitdorf.
 
 ## Liens externes
 - [Marlene von Alptraum — Fandom (espagnol)](https://warhammerfantasy.fandom.com/es/wiki/Marlene_von_Alptraum)
