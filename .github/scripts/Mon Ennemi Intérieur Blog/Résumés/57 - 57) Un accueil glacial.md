@@ -12,7 +12,7 @@ von Kärzburdger avait été invitée bien qu’elle ne se sentît pas
 particulièrement concerné, mais nous lui avions fait bonne presse en revenant
 de mission ; nous nous rendîmes des salutations amicales lorsqu’elle nous
 regarda entrer. L’Ar Ulric était présent, lui aussi, il se trouvait bien à l’écart
-et l’air franchement fâché d’être ici.
+et semblait franchement fâché d’être ici.
 
 Peu de temps après, la délégation d’Altdorf entra à son tour.
 Six personnes dont une femme furent annoncés. Le prédicateur de Sigmar resta en
@@ -80,5 +80,5 @@ journée. Puis d’autres rumeurs parvinrent à nous : une évasion à grande
 échelle de la place de l’Espoir qui inquiétait Dietrich ; la volonté des
 Jundfreud de reprendre Ubersreik par les armes et la crainte du Reikland de s’effondrer
 sous des querelles internes ; l’état inconnu de l’Empereur et les racontars
-persistants sur le fait que le Graf Todbringer ne veuille prendre le titre d’Empereur
+persistants sur le fait que le Graf Todbringer veuille prendre le titre d’Empereur
 du Nord.

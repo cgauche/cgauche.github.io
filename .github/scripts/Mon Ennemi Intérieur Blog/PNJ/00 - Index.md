@@ -25,6 +25,7 @@
 - [Bruner](<Bruner.md>)
 - [Brunhilde Gratten](<Brunhilde Gratten.md>)
 - [Brunhilde Klaglich](<Brunhilde Klaglich.md>)
+- [Brunhilde von Flamme](<Brunhilde von Flamme.md>)
 - [Bruno Franke](<Bruno Franke.md>)
 - [Bruno, Tortionnaire en chef du comte](<Bruno, Tortionnaire en chef du comte.md>)
 - [Brute, Force et Betté](<Brute, Force et Betté.md>)

@@ -10,6 +10,8 @@ Il se rendit à l’évidence, nous avions été utile à l’empereur et pour c
 
 Lorsqu’on lui exposa nos hypothèses sur la localisation supposée de Ghal Maraz et notre projet de le récupérer, il parut étonnamment réceptif. Lui qui tournait en dérision toutes nos preuves sur la Main Pourpre, les skavens, l’assassinat du graf par Volkmar, il semblait beaucoup plus prompt à croire les écrits du professeur Fassbinder sur le sujet ainsi que la menace que l’artefact sacré ne tombe entre de mauvaises mains. Il avait d’ailleurs eu vent des propos d’Heinrich nous demandant de le lui ramener.
 
-Ce fut donc à sa demande – et avec ses moyens – que nous nous embarquions pour ce long trajet qui nous mènerait à la passe du Feu Noir, tout au sud du pays.
+Ce fut donc à sa demande – et avec ses moyens – que nous nous apprêtions à embarquer pour ce long trajet qui nous mènerait à la passe du Feu Noir, tout au sud du pays. Que nous nous *languissions* serait le mot le plus adapté. En effet, des incidents aussi fâcheux que suspects retardèrent notre trajet de plusieurs semaines, si bien que nous finîmes par quitter Altdorf dans la discrétion la plus totale, au beau milieu de la nuit.
+
+Nous mîmes ce contretemps à profit pour monter notre expédition et affiner les nouvelles identités qui nous permettraient d’échapper à la vindicte des sigmarites, à l’image d’Elvira qui revêtait son nouveau costume de duchesse pour parader dans les soirées mondaines et écouter les dernières rumeurs. A en croire celles-ci, Théodoric Gausser avait pris la tête d’une armée et marchait sur Salzenmund, se servant du discrédit sur la famille Nikse accusée d’hérésie pour réunir des partisans. Encore des guerres… Dans tout ça, une bonne nouvelle : la santé de l’empereur s’améliorait, permettant à Anselm de se libérer de son chevet pour participer au voyage.
 
 **Suite prochainement...**

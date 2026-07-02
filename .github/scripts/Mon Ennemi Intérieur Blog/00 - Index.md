@@ -68,7 +68,7 @@
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 - [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
 
-## PJ (58)
+## PJ (60)
 
 - [Albert Reichau](<PJ/Albert Reichau.md>)
 - [Albert, joueur d'épée](<PJ/Albert, joueur d'épée.md>)
@@ -107,6 +107,7 @@
 - [Mark, repenti de la Griffe Rouge](<PJ/Mark, repenti de la Griffe Rouge.md>)
 - [Markward Skippy Jeronymus](<PJ/Markward Skippy Jeronymus.md>)
 - [Markward Skippy, flagellant de Sigmar](<PJ/Markward Skippy, flagellant de Sigmar.md>)
+- [Markward Skippy, répurgateur de l’empire](<PJ/Markward Skippy, répurgateur de l’empire.md>)
 - [Pathsokar, champion du Graf](<PJ/Pathsokar, champion du Graf.md>)
 - [Pathsokar, chasseur de primes](<PJ/Pathsokar, chasseur de primes.md>)
 - [Pathsokar, maître chasseur de primes](<PJ/Pathsokar, maître chasseur de primes.md>)
@@ -122,6 +123,7 @@
 - [Phineas, conseiller des Bruner](<PJ/Phineas, conseiller des Bruner.md>)
 - [Phineas, conseiller du plénipotentiaire](<PJ/Phineas, conseiller du plénipotentiaire.md>)
 - [Phineas, conseiller itinérant](<PJ/Phineas, conseiller itinérant.md>)
+- [Phineas, diplomate](<PJ/Phineas, diplomate.md>)
 - [Phineas](<PJ/Phineas.md>)
 - [Sigrun Guttrik](<PJ/Sigrun Guttrik.md>)
 - [Yuridika Roderrick](<PJ/Yuridika Roderrick.md>)
@@ -129,7 +131,7 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (233)
+## PNJ (234)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
@@ -156,6 +158,7 @@
 - [Bruner](<PNJ/Bruner.md>)
 - [Brunhilde Gratten](<PNJ/Brunhilde Gratten.md>)
 - [Brunhilde Klaglich](<PNJ/Brunhilde Klaglich.md>)
+- [Brunhilde von Flamme](<PNJ/Brunhilde von Flamme.md>)
 - [Bruno Franke](<PNJ/Bruno Franke.md>)
 - [Bruno, Tortionnaire en chef du comte](<PNJ/Bruno, Tortionnaire en chef du comte.md>)
 - [Brute, Force et Betté](<PNJ/Brute, Force et Betté.md>)

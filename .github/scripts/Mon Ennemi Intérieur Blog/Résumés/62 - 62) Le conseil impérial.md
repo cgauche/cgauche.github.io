@@ -8,7 +8,7 @@ Boris frappa la table si fort du poing qu’il la brisa. La réputation des midd
 
 Oui, c’était Wasmeier. Elvira, encore sous le choc, avait acquiescé lorsque le graf lui avait demandé si elle avait bien vu l’ancien maître des lois de Middenheim. Elle avait frôlé la mort face à lui. Elle avait vu son vrai visage ce jour-là, celui d’un impitoyable magister de la Main Pourpre. Plus que nous tous, elle savait que c’était lui. Et pourtant, elle l’avait vu tomber dans le vide…
 
-Quoi qu’il en fût, la présence du culte de Tzeench au mariage avait de quoi nous tourmenter. Avait-il quelque chose à voir avec les instabilités actuelles ? Intriguait-il en Norland pour pousser la province à la rébellion ? Et que signifiait donc ce médaillon retrouvé sur le cadavre de Barthelm, représentant la comète à deux queues, l’emblème de Sigmar, l’emblème du sud ?
+Quoi qu’il en fût, la présence du culte de Tzeench au mariage avait de quoi nous tourmenter. Avait-il quelque chose à voir avec les instabilités actuelles ? Intriguait-il en Nordland pour pousser la province à la rébellion ? Et que signifiait donc ce médaillon retrouvé sur le cadavre de Barthelm, représentant la comète à deux queues, l’emblème de Sigmar, l’emblème du sud ?
 
 Nous ne pûmes réfléchir longtemps à ces questions qu’un héraut se présenta pour indiquer que le conseil impérial était maintenu et que la présence du graf y était requise. Pour ne pas dire exigée. Mais celui-ci n’était pas serein à l’idée de se rendre dans ce qu’on pouvait qualifier de nid de vipère, où sa vie serait exposée. Il était rare de le voir douter à ce point. Nous lui assurâmes qu’il devait s’y rendre et faire entendre sa voix, pour montrer un signe d’apaisement. Ne pas y aller ferait le jeu de ceux qui cherchent l’instabilité, conclut Elvira avec conviction, achevant de convaincre.
 
@@ -22,7 +22,7 @@ Ce fut ensuite à chacun de déclarer ses griefs et ses doléances, à commencer
 
 L’Ar Ulric et Yorri ne furent pas en reste, s’écharpant l’un contre les exactions commises sur les représentants d’Ulric et l’autre sur la soi-disant hérésie de Sigmar. Une nouvelle fois, l’empereur intervint avec le marteau pour calmer l’assistance.
 
-Enfin, Boris Todbringer fustigea de manière directe, presque brutale, la sédition du Norland, la tentative d’assassinat sur sa famille et l’incompétence de l’empereur pour gérer cette situation de crise, ajoutant encore de l’huile sur le feu.
+Enfin, Boris Todbringer fustigea de manière directe, presque brutale, la sédition du Nordland, la tentative d’assassinat sur sa famille et l’incompétence de l’empereur pour gérer cette situation de crise, ajoutant encore de l’huile sur le feu.
 
 Dans une ambiance délétère, une pause fut déclarée pour permettre aux différents partis de souffler. Thyrus ne se fit pas prier pour leur fausser compagnie et aller se restaurer, nullement impliqué dans toutes ces intrigues politiques.
 

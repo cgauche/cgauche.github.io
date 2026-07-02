@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*25/06/2026 : Début de l’épisode[l’épisode 64](https://monennemiinterieur.blogspot.com/search/label/64), nouveau départ.*
+*02/07/2026 : Début de [l’épisode 64](https://monennemiinterieur.blogspot.com/search/label/64), nouveau départ.*
