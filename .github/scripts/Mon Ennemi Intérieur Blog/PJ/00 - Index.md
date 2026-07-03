@@ -27,6 +27,7 @@
 - [Filianore, espionne d'Emmanuelle Nacht](<Filianore, espionne d'Emmanuelle Nacht.md>)
 - [Filianore](<Filianore.md>)
 - [Johannes Woblhoffer](<Johannes Woblhoffer.md>)
+- [Johannes, agent secret impérial](<Johannes, agent secret impérial.md>)
 - [Johannes, assistant de Fassbinder](<Johannes, assistant de Fassbinder.md>)
 - [Lirrian Morningstar](<Lirrian Morningstar.md>)
 - [Mardrin](<Mardrin.md>)

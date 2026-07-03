@@ -68,7 +68,7 @@
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 - [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
 
-## PJ (60)
+## PJ (61)
 
 - [Albert Reichau](<PJ/Albert Reichau.md>)
 - [Albert, joueur d'épée](<PJ/Albert, joueur d'épée.md>)
@@ -97,6 +97,7 @@
 - [Filianore, espionne d'Emmanuelle Nacht](<PJ/Filianore, espionne d'Emmanuelle Nacht.md>)
 - [Filianore](<PJ/Filianore.md>)
 - [Johannes Woblhoffer](<PJ/Johannes Woblhoffer.md>)
+- [Johannes, agent secret impérial](<PJ/Johannes, agent secret impérial.md>)
 - [Johannes, assistant de Fassbinder](<PJ/Johannes, assistant de Fassbinder.md>)
 - [Lirrian Morningstar](<PJ/Lirrian Morningstar.md>)
 - [Mardrin](<PJ/Mardrin.md>)
@@ -440,9 +441,10 @@
 - [Wittgendorf (2)](<Lieux/Wittgendorf (2).md>)
 - [Wittgendorf](<Lieux/Wittgendorf.md>)
 
-## Documents (47)
+## Documents (49)
 
 - [A l'aide !](<Documents/A l'aide !.md>)
+- [Acte notarial](<Documents/Acte notarial.md>)
 - [Adresse de Brunehilde](<Documents/Adresse de Brunehilde.md>)
 - [Affidavit](<Documents/Affidavit.md>)
 - [Carte de Dagmar](<Documents/Carte de Dagmar.md>)
@@ -468,6 +470,7 @@
 - [Le Nordland chantera vos louanges !](<Documents/Le Nordland chantera vos louanges !.md>)
 - [Le cristal d'immortalité](<Documents/Le cristal d'immortalité.md>)
 - [Les Augures Admirables de Tante Augusta](<Documents/Les Augures Admirables de Tante Augusta.md>)
+- [Les visions oniriques de Bertoldt le Malleun](<Documents/Les visions oniriques de Bertoldt le Malleun.md>)
 - [Lettre MM](<Documents/Lettre MM.md>)
 - [Lettre Main Pourpre](<Documents/Lettre Main Pourpre.md>)
 - [Lettre à Bhar](<Documents/Lettre à Bhar.md>)

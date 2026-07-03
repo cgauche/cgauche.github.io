@@ -1,6 +1,7 @@
 # Documents — Index
 
 - [A l'aide !](<A l'aide !.md>)
+- [Acte notarial](<Acte notarial.md>)
 - [Adresse de Brunehilde](<Adresse de Brunehilde.md>)
 - [Affidavit](<Affidavit.md>)
 - [Carte de Dagmar](<Carte de Dagmar.md>)
@@ -26,6 +27,7 @@
 - [Le Nordland chantera vos louanges !](<Le Nordland chantera vos louanges !.md>)
 - [Le cristal d'immortalité](<Le cristal d'immortalité.md>)
 - [Les Augures Admirables de Tante Augusta](<Les Augures Admirables de Tante Augusta.md>)
+- [Les visions oniriques de Bertoldt le Malleun](<Les visions oniriques de Bertoldt le Malleun.md>)
 - [Lettre MM](<Lettre MM.md>)
 - [Lettre Main Pourpre](<Lettre Main Pourpre.md>)
 - [Lettre à Bhar](<Lettre à Bhar.md>)
