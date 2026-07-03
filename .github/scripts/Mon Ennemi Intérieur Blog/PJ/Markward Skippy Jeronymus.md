@@ -4,7 +4,7 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefzd-aun-PH0MuCYb8wCfW5x0t_JRu074YyPbDTARb4hhXVT3qE0L6a3muVwtnGPo3-NVDwSVtnVSH69zepg1RY6zTADCP48B3BRoNDMckaESn7QFm0Kq1-R0HkafFj8LVcoHdW3r6RRB1MyKeDl8IRDnB1lchddnBr-96aWJ-JAxbXuVMklrm2YzOHQ/s200/markfull.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefzd-aun-PH0MuCYb8wCfW5x0t_JRu074YyPbDTARb4hhXVT3qE0L6a3muVwtnGPo3-NVDwSVtnVSH69zepg1RY6zTADCP48B3BRoNDMckaESn7QFm0Kq1-R0HkafFj8LVcoHdW3r6RRB1MyKeDl8IRDnB1lchddnBr-96aWJ-JAxbXuVMklrm2YzOHQ/s385/markfull.webp)
 
-**Prêtre sergent d'Ulric**
+**Répurgateur impérial**
 
 **Joueur: Bobmachtoke**
 
