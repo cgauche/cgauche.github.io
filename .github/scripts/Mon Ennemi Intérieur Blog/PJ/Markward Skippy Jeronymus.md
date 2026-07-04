@@ -2,9 +2,9 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/mark-skippy-ward_22.html](https://monennemiinterieur.blogspot.com/2024/10/mark-skippy-ward_22.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefzd-aun-PH0MuCYb8wCfW5x0t_JRu074YyPbDTARb4hhXVT3qE0L6a3muVwtnGPo3-NVDwSVtnVSH69zepg1RY6zTADCP48B3BRoNDMckaESn7QFm0Kq1-R0HkafFj8LVcoHdW3r6RRB1MyKeDl8IRDnB1lchddnBr-96aWJ-JAxbXuVMklrm2YzOHQ/s200/markfull.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjefzd-aun-PH0MuCYb8wCfW5x0t_JRu074YyPbDTARb4hhXVT3qE0L6a3muVwtnGPo3-NVDwSVtnVSH69zepg1RY6zTADCP48B3BRoNDMckaESn7QFm0Kq1-R0HkafFj8LVcoHdW3r6RRB1MyKeDl8IRDnB1lchddnBr-96aWJ-JAxbXuVMklrm2YzOHQ/s385/markfull.webp)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiap9yCWdGxz4pAXx5nqM7w4hRgiSlb-UMKDvYpuXRpo6t-qTBeXp1QJ7dKyUEv7dMUa-g5Jjt-5Mj4-iIEGE1xyCxF8aX7ih2c13G1Zsp_ll3QPRTNzXQRo_kwxUWyVi4IrjNFuHFrJ-VPxOgZnNFSfUCJj1b2wrF4h9jYW6-6whrHyHRrkLbhn98r7G8/s200/Marct.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiap9yCWdGxz4pAXx5nqM7w4hRgiSlb-UMKDvYpuXRpo6t-qTBeXp1QJ7dKyUEv7dMUa-g5Jjt-5Mj4-iIEGE1xyCxF8aX7ih2c13G1Zsp_ll3QPRTNzXQRo_kwxUWyVi4IrjNFuHFrJ-VPxOgZnNFSfUCJj1b2wrF4h9jYW6-6whrHyHRrkLbhn98r7G8/s1024/Marct.png)
 
-**Répurgateur impérial**
+**Flagellant de Sigmar**
 
 **Joueur: Bobmachtoke**
 

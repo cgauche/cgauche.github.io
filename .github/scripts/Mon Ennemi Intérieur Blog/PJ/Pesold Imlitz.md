@@ -4,7 +4,7 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWf2PMeqJnUE8JiJ2nnNeV-P8BsMWNx2xN5qesvSLq8nLwFbLYfiM2NTJwQXgBg2NHOAdMvzJ_fa92KBQfl7zNHvHiaT3mMZi7E06omJ-SW_CtxkKINwvb-CsZ3ZCaShGlSJ0s5Y_MHQvMeKvSQqFwYEwUzrbuJJO8mpVpbr6LTuSJbAhjD8MbnP3z9Gv7/s200/Pesoldt.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWf2PMeqJnUE8JiJ2nnNeV-P8BsMWNx2xN5qesvSLq8nLwFbLYfiM2NTJwQXgBg2NHOAdMvzJ_fa92KBQfl7zNHvHiaT3mMZi7E06omJ-SW_CtxkKINwvb-CsZ3ZCaShGlSJ0s5Y_MHQvMeKvSQqFwYEwUzrbuJJO8mpVpbr6LTuSJbAhjD8MbnP3z9Gv7/s1024/Pesoldt.png)
 
-**Emissaire de Dietrich**
+**Emissaire**
 
 **Joueur: Jinashi**
 

@@ -4,7 +4,7 @@
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdosEbUt0fNzUlPVcgYbao3urUerCA6_s61QSAHyugeJnOJoPAS-tP7ApjlVv6nryfEUXvWdWCcDQfHlNBDe4dVxJ6T3kP5lMxLHVkxsMIGKMPVtrYr6gk_jSX_ij3_4L6IcMxOF1hTFU1-vj3yx6DFqZNEPnY1W0944zvqcTzUOfe2oKAm0YPAElJELv/s200/pathsokar.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFdosEbUt0fNzUlPVcgYbao3urUerCA6_s61QSAHyugeJnOJoPAS-tP7ApjlVv6nryfEUXvWdWCcDQfHlNBDe4dVxJ6T3kP5lMxLHVkxsMIGKMPVtrYr6gk_jSX_ij3_4L6IcMxOF1hTFU1-vj3yx6DFqZNEPnY1W0944zvqcTzUOfe2oKAm0YPAElJELv/s256/pathsokar.png)
 
-**Champion du Graf**
+**Chasseur de primes**
 
 **Joueur: Pathsokar**
 
