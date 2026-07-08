@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: militaire
   importance: Notable
-  x: 3300
-  y: 3320
+  x: 660
+  y: 664
   desc: "Terminus du voyage : la passe des Montagnes Noires, atteinte par l'Ancienne Route des Nains depuis Grenzstadt."
 ---
 

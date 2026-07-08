@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 270
-  y: 1080
+  x: 54
+  y: 216
   desc: "Cité-État du sud au confluent de l'Aver et du Reik. Escale majeure du voyage (≥ 2 jours), fief d'Emmanuelle von Liebwitz."
 ---
 

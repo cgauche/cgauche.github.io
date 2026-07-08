@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 1560
-  y: 1290
+  x: 312
+  y: 258
   desc: "Deuxième ville d'Averland, sur l'Aver ; université frondeuse. En pleine sécession (le SIP) quand le Carroburg approche."
 ---
 

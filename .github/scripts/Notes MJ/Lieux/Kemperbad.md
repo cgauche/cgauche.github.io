@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 470
-  y: 700
+  x: 94
+  y: 140
   desc: "Ville franche sur la falaise au-dessus de la confluence Reik/Stir. Escale sur la remontée du Reik depuis Altdorf."
 ---
 

@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 2790
-  y: 2870
+  x: 558
+  y: 574
   desc: "Dernière ville avant le Col ; grand site de pèlerinage de Sigmar. Repaire de la Veille de la Nuit (Rauf Wasserburg)."
 ---
 

@@ -4,8 +4,8 @@ carte:
   kind: lieu
   type: gouvernement
   importance: Notable
-  x: 1685
-  y: 1355
+  x: 337
+  y: 271
   desc: "Capitale d'Averland, sur un promontoire au-dessus de l'Aver. Terminus fluvial : on y débarque pour l'Ancienne Route des Nains."
 ---
 
