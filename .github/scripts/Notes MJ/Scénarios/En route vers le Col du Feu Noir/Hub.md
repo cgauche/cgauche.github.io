@@ -12,4 +12,6 @@ Ces fiches sont le **verbatim** du chapitre 9 d'*Empire in Ruins* (« Altdorf �
 5. **[[05 - Averheim]]** — l'escale d'Averheim.
 6. **[[06 - Grenzstadt]]** — Grenzstadt, la Veille de la Nuit, Rauf Wasserburg, montée vers le Col.
 
+La carte cliquable du voyage : [[route-col-du-feu-noir]].
+
 Source anglaise : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/12 - Chapter 9 - Altdorf to Black Fire Pass.md`
