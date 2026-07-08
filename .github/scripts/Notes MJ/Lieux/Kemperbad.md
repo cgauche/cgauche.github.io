@@ -1,3 +1,14 @@
+---
+carte:
+  map: route-col-du-feu-noir
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  x: 470
+  y: 700
+  desc: "Ville franche sur la falaise au-dessus de la confluence Reik/Stir. Escale sur la remontée du Reik depuis Altdorf."
+---
+
 # Kemperbad
 
 ## Identité

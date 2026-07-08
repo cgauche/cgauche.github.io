@@ -1,3 +1,14 @@
+---
+carte:
+  map: route-col-du-feu-noir
+  kind: lieu
+  type: gouvernement
+  importance: Notable
+  x: 270
+  y: 1080
+  desc: "Cité-État du sud au confluent de l'Aver et du Reik. Escale majeure du voyage (≥ 2 jours), fief d'Emmanuelle von Liebwitz."
+---
+
 # Nuln
 
 **Sous-titre** : Cité-État du sud, siège d'Emmanuelle von Liebwitz, Joyau de l'Empire  

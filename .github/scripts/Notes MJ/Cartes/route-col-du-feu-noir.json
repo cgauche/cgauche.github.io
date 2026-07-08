@@ -1,0 +1,19 @@
+{
+  "id": "route-col-du-feu-noir",
+  "title": "Route Altdorf → Col du Feu Noir",
+  "fiche": "Col du Feu Noir",
+  "viewBox": "0 0 3386 3960",
+  "poster": "route-col-du-feu-noir-poster.jpg",
+  "posterOpacity": 0.9,
+  "intro": "Le voyage du chapitre 9 (L'Empire en Ruines) : d'Altdorf au Col du Feu Noir, en remontant le Reik puis l'Aver à bord du Carroburg, puis par l'Ancienne Route des Nains. Chaque étape est cliquable.",
+  "types": [
+    { "key": "gouvernement", "label": "Cité / Ville" },
+    { "key": "militaire", "label": "Col / site militaire" }
+  ],
+  "cityPolygon": [],
+  "rivers": [],
+  "quarterPolygons": [],
+  "edges": [],
+  "legend": [],
+  "legendSections": []
+}

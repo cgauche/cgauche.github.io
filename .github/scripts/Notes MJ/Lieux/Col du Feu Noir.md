@@ -1,3 +1,14 @@
+---
+carte:
+  map: route-col-du-feu-noir
+  kind: lieu
+  type: militaire
+  importance: Notable
+  x: 3300
+  y: 3320
+  desc: "Terminus du voyage : la passe des Montagnes Noires, atteinte par l'Ancienne Route des Nains depuis Grenzstadt."
+---
+
 # Col du Feu Noir
 
 **Sous-titre** : Passe stratégique des Montagnes Noires entre Empire et Border Princes  
