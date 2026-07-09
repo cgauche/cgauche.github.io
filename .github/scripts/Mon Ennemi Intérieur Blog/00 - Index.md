@@ -132,7 +132,7 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (234)
+## PNJ (237)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
@@ -185,6 +185,7 @@
 - [Démon gardien](<PNJ/Démon gardien.md>)
 - [Edel Mueller](<PNJ/Edel Mueller.md>)
 - [Edvard Lowenhertz et sa fille](<PNJ/Edvard Lowenhertz et sa fille.md>)
+- [Egon Krüger](<PNJ/Egon Krüger.md>)
 - [Elutareth Cretevague](<PNJ/Elutareth Cretevague.md>)
 - [Elvyra Kleinestun (2)](<PNJ/Elvyra Kleinestun (2).md>)
 - [Elvyra Kleinestun](<PNJ/Elvyra Kleinestun.md>)
@@ -277,6 +278,7 @@
 - [Josef Quartjin](<PNJ/Josef Quartjin.md>)
 - [Josef Sparsam (2)](<PNJ/Josef Sparsam (2).md>)
 - [Josef Sparsam](<PNJ/Josef Sparsam.md>)
+- [Karl Bauerman](<PNJ/Karl Bauerman.md>)
 - [Karl Heinz von Liebwitz](<PNJ/Karl Heinz von Liebwitz.md>)
 - [Karl Zeigenalter](<PNJ/Karl Zeigenalter.md>)
 - [Karl-Franz Holswig-Schliestein](<PNJ/Karl-Franz Holswig-Schliestein.md>)
@@ -323,6 +325,7 @@
 - [Olaf Sievers](<PNJ/Olaf Sievers.md>)
 - [Orban Geldrecht](<PNJ/Orban Geldrecht.md>)
 - [Otfried Brantner](<PNJ/Otfried Brantner.md>)
+- [Ottilie Grisse](<PNJ/Ottilie Grisse.md>)
 - [Otto Boormann](<PNJ/Otto Boormann.md>)
 - [Petra Liebkosen](<PNJ/Petra Liebkosen.md>)
 - [Phillipe Descartes](<PNJ/Phillipe Descartes.md>)
