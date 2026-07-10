@@ -1,4 +1,4 @@
-# Karl Bauerman
+# Karl Bauermann
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/03/karl-bauerman.html](https://monennemiinterieur.blogspot.com/2020/03/karl-bauerman.html)*
 
