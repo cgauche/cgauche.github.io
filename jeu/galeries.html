@@ -21,15 +21,15 @@
 </head>
 <body>
   <a class="back" href="./">← Retour au jeu</a>
-  <h1>🎨 Galeries QC — rig, armes &amp; bestiaire</h1>
+  <h1>Galeries QC — rig, armes &amp; bestiaire</h1>
   <p class="sub">Planches de contrôle qualité, rendu SVG isométrique — l'état ACTUEL du jeu (rig vivant, pas de sprite figé). Tout régénérer : <code>npm run galleries</code>.</p>
 
   <div class="sec">Animations <span style="text-transform:none;letter-spacing:0">— SVG/CSS en boucle, sans GIF</span></div>
   <div class="grid">
-    <a class="card" href="bestiary-gallery.html"><h2>Bestiaire — animé ✨</h2><span>Toutes les créatures (rendu réel IsoStage) jouant leur anim de repos en boucle, groupées par plan corporel.</span></a>
-    <a class="card" href="anim-gallery.html"><h2>Armes — attaque &amp; parade ✨</h2><span>Une arme par classe de maniement : porté · attaque · parade, jouées en boucle.</span></a>
-    <a class="card" href="clip-anim-gallery.html"><h2>Clips du moteur &amp; sorts ✨</h2><span>idle/walk/melee/ranged/dodge/parry/hit/fall/cast + bolt arcane &amp; bénédiction divine, en boucle.</span></a>
-    <a class="card" href="creature-attacks.html"><h2>Bestiaire — attaques (traits) ✨</h2><span>Une animation par attaque listée dans les traits canon de chaque créature : morsure, attaque caudale, cornes, souffle, griffes…</span></a>
+    <a class="card" href="bestiary-gallery.html"><h2>Bestiaire — animé</h2><span>Toutes les créatures (rendu réel IsoStage) jouant leur anim de repos en boucle, groupées par plan corporel.</span></a>
+    <a class="card" href="anim-gallery.html"><h2>Armes — attaque &amp; parade</h2><span>Une arme par classe de maniement : porté · attaque · parade, jouées en boucle.</span></a>
+    <a class="card" href="clip-anim-gallery.html"><h2>Clips du moteur &amp; sorts</h2><span>idle/walk/melee/ranged/dodge/parry/hit/fall/cast + bolt arcane &amp; bénédiction divine, en boucle.</span></a>
+    <a class="card" href="creature-attacks.html"><h2>Bestiaire — attaques (traits)</h2><span>Une animation par attaque listée dans les traits canon de chaque créature : morsure, attaque caudale, cornes, souffle, griffes…</span></a>
   </div>
 
   <div class="sec">Personnages (rig)</div>
@@ -46,6 +46,14 @@
   <div class="grid">
     <a class="card" href="weapon-gallery.html"><h2>Armes — silhouettes tenues</h2><span>Chaque arme (LDB + Archives) tenue par le rig, groupée par Groupe canonique.</span></a>
     <a class="card" href="item-icon-gallery.html"><h2>Icônes d'objet (ItemIcon)</h2><span>La primitive d'icône utilisée au Sac / onglet Combat / hotbar : registre d'armes, boucliers, armures (matériau × emplacement).</span></a>
+    <a class="card" href="icon-gallery.html"><h2>Icônes UI (&lt;Icon&gt;)</h2><span>Le registre d'icônes SVG maison qui remplace les emojis d'affordance : rendu 14/18/24px + loupe, par famille.</span></a>
+  </div>
+
+  <div class="sec">Décor &amp; objets orientés</div>
+  <div class="grid">
+    <a class="card" href="qc-decor.html"><h2>Décor — planche-contact</h2><span>Tous les props dans leur boîte 120×150 ; props directionnels relus en 3 vues (face / profil / dos).</span></a>
+    <a class="card" href="oriented-objects.html"><h2>Objets orientés — vues &amp; rotation</h2><span>Navires, engins de siège, chariot terrestre, props orientables : couverture de vues (contrat <code>ViewArt</code>) + rotation caméra via l'unique résolveur <code>project</code>.</span></a>
+    <a class="card" href="qc-engins.html"><h2>Engins de siège — planche-contact 3 vues</h2><span>Chaque engin du registre <code>engin/defs/</code> en face / profil / dos, rangée par rangée.</span></a>
   </div>
 
   <div class="sec">Debug</div>
