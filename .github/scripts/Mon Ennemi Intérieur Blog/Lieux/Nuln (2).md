@@ -1,9 +1,7 @@
 # Nuln
 
-*Source : [https://monennemiinterieur.blogspot.com/2021/10/nuln.html](https://monennemiinterieur.blogspot.com/2021/10/nuln.html)*
+*Source : [https://monennemiinterieur.blogspot.com/2021/10/nuln_24.html](https://monennemiinterieur.blogspot.com/2021/10/nuln_24.html)*
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zxrclBD3X02asLETm_XXmzQjXL77Cduep45xH0n26m-WZaaBXfV1TgNmUTd7G4j36aKrxmfP_FK8TvKUJhRb0Vcfk8RHIDqOiFNx3Pd9McB7X3OEKgFo0FgqpCo3_AT7pqYtazSLBmz91wMiB5WC6qfVirQ7qHyVPt4-q6Pw4E_gNp3HDp-MNChZieo/s400/_nuln.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5zxrclBD3X02asLETm_XXmzQjXL77Cduep45xH0n26m-WZaaBXfV1TgNmUTd7G4j36aKrxmfP_FK8TvKUJhRb0Vcfk8RHIDqOiFNx3Pd9McB7X3OEKgFo0FgqpCo3_AT7pqYtazSLBmz91wMiB5WC6qfVirQ7qHyVPt4-q6Pw4E_gNp3HDp-MNChZieo/s350/_nuln.png)
 
 **Capitale du Wissenland**
-
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiduPCNC6Z2fpyCEQ6FUW6RSrs6x3xawHaOnPfjzJ2OPNtMLiGEe3wwkuI2DHUvecoblDw59t0AwtOZgX6zs9_OZspYbheMmJ6bjCo3VTfNvxV7p8CgUOJAwhx-NHxxkSXRD_0vYhJztXQor9gikLWnKqucOGGZGSu_KWXdLhXG2H8fAdnajGD1L5CLssA/s600/Warhammer_End_Times_Nuln_Map.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiduPCNC6Z2fpyCEQ6FUW6RSrs6x3xawHaOnPfjzJ2OPNtMLiGEe3wwkuI2DHUvecoblDw59t0AwtOZgX6zs9_OZspYbheMmJ6bjCo3VTfNvxV7p8CgUOJAwhx-NHxxkSXRD_0vYhJztXQor9gikLWnKqucOGGZGSu_KWXdLhXG2H8fAdnajGD1L5CLssA/s1000/Warhammer_End_Times_Nuln_Map.webp)

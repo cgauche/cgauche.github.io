@@ -2,6 +2,6 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2020/03/egon-kruger.html](https://monennemiinterieur.blogspot.com/2020/03/egon-kruger.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg_EITxOOsZGUKgRnZg1czkZ3gSxKLX9_qF-ZgGPMID-R9U2pLld3ngha5yPq9_qFf6BvGUuMEToLfA6F0s96bVp4CfNKqfXDxGCMvYf4gEAV9M5dS7ILY_0X1O_xUrb81lP_-OGutskqO3t_8fg9GWxHL2iERztR7z-CsL-YsNgrXzjwc2QIU2YhHiR0/s200/silhouette.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg_EITxOOsZGUKgRnZg1czkZ3gSxKLX9_qF-ZgGPMID-R9U2pLld3ngha5yPq9_qFf6BvGUuMEToLfA6F0s96bVp4CfNKqfXDxGCMvYf4gEAV9M5dS7ILY_0X1O_xUrb81lP_-OGutskqO3t_8fg9GWxHL2iERztR7z-CsL-YsNgrXzjwc2QIU2YhHiR0/s626/silhouette.png)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZQTn0mG1nTesKtocy5f6KFW7Yc-NsM651JMw5r6XG8UvG84Oz1cIeUt1pEKabmjpOfXIDYRVgYcnlHrlmLjLKrusOnSPQ2E3dDJhBnIodDPUiQs3V3qMCZkm-4POKZtIuzpICuvHQIzSIUXWsaShK1ryX2ZqwqemjQvpZTr43U4DqbwTUQE_ubN05uUI/s200/cedriclinden.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZQTn0mG1nTesKtocy5f6KFW7Yc-NsM651JMw5r6XG8UvG84Oz1cIeUt1pEKabmjpOfXIDYRVgYcnlHrlmLjLKrusOnSPQ2E3dDJhBnIodDPUiQs3V3qMCZkm-4POKZtIuzpICuvHQIzSIUXWsaShK1ryX2ZqwqemjQvpZTr43U4DqbwTUQE_ubN05uUI/s1275/cedriclinden.png)
 
 **Prêtre de l’ancienne foi**
