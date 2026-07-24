@@ -1,4 +1,4 @@
-# 64) [Voyage vers Nuln]
+# 64) [Péripéties à Nuln]
 
 *Source : [https://monennemiinterieur.blogspot.com/2025/03/64-la-quete-de-ghal-maraz.html](https://monennemiinterieur.blogspot.com/2025/03/64-la-quete-de-ghal-maraz.html)*
 
@@ -23,5 +23,25 @@ Il se disait que nous mettrions six jours à atteindre Kemperbad, autant pour Nu
 Ainsi, Elvira fit plusieurs escales pour sauver une sorcière présumée que deux paysans allaient noyer, enquêter sur des villages détruits aux limites du Reikland, et donner à des réfugiés de ces même villages dérivant sur un radeau géant une partie de ses économies.
 
 Cette dernière rencontre la bouleversa. Elle nous avoua une fois les marins repartis à leurs occupations, presque en larmes : « *C’était mon père, c’était Egon qui guidait ces réfugiés. Et j’ai été obligée de le traiter comme un inconnu…* ».
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq7FKEgEwrmpH6NSa2_6UYDzGlXJ5P_Rsqe87VD1Yp6HhIgYHPpXxdzkiyotdlG_XMDu7ccfvnEpRHS9obYdowgbDKTl_L9s1tSfH1uZn6IkXb2BBEKpllg8AJ49DBAWqsVqSWetUO1l48md-vViKYfNOdxEFlet64xhEkETxlgCuy_NPRe7xrvw5uruI/s600/flotilla.webp)
+
+Tant par les témoignages de ces réfugiés que par ceux habitant les villages épargnés du Wissenland, il nous paraissait évident que la destruction des villages avait été perpétré par l’armée du chatelain local, un certain van Bachmann. Ce baron jouait à un jeu dangereux, et les faits étaient suffisamment graves pour que Phineas décide de prendre contact avec ses homologues diplomates à notre entrée à Nuln. Cela risquait de rallonger la durée de notre voyage, mais personne n’allait se plaindre de rester à quai quelques jours.
+
+En effet, Elvira avait fait parvenir à toutes nos destinations des lettres pour informer de son passage en grande pompe – enfin, Elvira avait eu l’idée, c’était Phineas qui avait finalement écrit les lettres… – et en conséquence, nous fûmes invités par la comtesse à séjourner au palais autant de temps qu’il le faudrait. Bien loin de la promiscuité du navire.
+
+Yuridika et un ingénieur nain du nom de Sigrin qui nous accompagnait passèrent leur temps à l’académie de balistique, Phineas au palais où son récit fut écouté avec attention, Johannes dans les bibliothèques pour se renseigner sur notre trajet et Elvira… à parader dans la ville pour se faire un nom. Elle nous revint un soir avec Duchesse à ses côtés, une chienne qu’elle nous expliqua avoir arraché à un tortionnaire et un arnaqueur. Elle ne s’en sépara plus.
+
+La comtesse Emmanuelle nous invita à l’un de ses fastueux galas. Dans une salle comble et totalement conquise à sa cause, elle se donna en spectacle, se gaussant des dirigeants de l’empire sans aucune distinction et se payant bien évidemment la tête d’Etelka Toppenheimer. A l’entendre, cette dernière multipliait les raids et les exactions à la frontière du Wissenland. De la propagande pour se donner la légitimité d’intervenir militairement, nous le savions.
+
+Après son spectacle, elle passa entre les convives pour les saluer un à un, jusqu’à nous rencontrer.
+
+« *Même toiletté, costumé et affublé de ses plus beaux atours, un chien reste un chien ma chère.* » lança-t-elle tout en caressant Duchesse, un regard en coin vers Elvira.
+
+Ainsi, elle savait qui nous étions. Et elle comptait jouer avec nous.
+
+La fête continua sans incident pour s’achever en début de soirée. Une fois encore, elle se lança dans un discours teinté d’humour tout en remerciant les convives. Puis elle invita van Bachmann à la rejoindre sur l’estrade et le destitua sous nos yeux ! Tandis que ses gardes le saisissaient, elle lui arracha ce qui lui servait de couronne, fit venir le chien d’Elvira auprès d’elle – ainsi que sa maitresse, toute penaude – et la déposa sur sa tête. Elle annonça avec éloquence que le canidé était plus méritant qu’un homme désobéissant qui risquait d’entrainer une guerre avec le Reikland. Quel show !
+
+Après le gala, elle nous convoqua en comité restreint pour nous remercier de l’avoir mise au courant des agissements de son vassal, mais aussi pour comprendre quelles étaient nos véritables motivations à aller à la passe du Feu Noir. La couverture d’Elvira ne justifiant plus notre voyage, nous lui expliquâmes sans entrer dans les détails que nous devions rencontrer le colonel Sievers pour lui venir en aide. Ce n’était qu’une demi-réponse, mais elle sembla s’en contenter.
 
 **Suite prochainement...**
