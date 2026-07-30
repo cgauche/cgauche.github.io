@@ -132,7 +132,7 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (237)
+## PNJ (239)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
@@ -311,6 +311,8 @@
 - [Manfred von Saponatheim](<PNJ/Manfred von Saponatheim.md>)
 - [Margritte Von Wittgenstein](<PNJ/Margritte Von Wittgenstein.md>)
 - [Maria-Luise von Walfen](<PNJ/Maria-Luise von Walfen.md>)
+- [Marius Leitdorf](<PNJ/Marius Leitdorf.md>)
+- [Marlene Alptraum](<PNJ/Marlene Alptraum.md>)
 - [Matthias Blucher](<PNJ/Matthias Blucher.md>)
 - [Matthias Hubkind (2)](<PNJ/Matthias Hubkind (2).md>)
 - [Matthias Hubkind](<PNJ/Matthias Hubkind.md>)
@@ -372,7 +374,7 @@
 - [Zombie](<PNJ/Zombie.md>)
 - [Étudiants en artillerie](<PNJ/Étudiants en artillerie.md>)
 
-## Lieux (70)
+## Lieux (72)
 
 - [Aldorf (2)](<Lieux/Aldorf (2).md>)
 - [Aldorf (3)](<Lieux/Aldorf (3).md>)
@@ -430,6 +432,8 @@
 - [Shining Rock (2)](<Lieux/Shining Rock (2).md>)
 - [Shining Rock](<Lieux/Shining Rock.md>)
 - [Skavens](<Lieux/Skavens.md>)
+- [Streissen (2)](<Lieux/Streissen (2).md>)
+- [Streissen](<Lieux/Streissen.md>)
 - [Taudis de Spittlefeld](<Lieux/Taudis de Spittlefeld.md>)
 - [Tour d'Etelka](<Lieux/Tour d'Etelka.md>)
 - [Tour à signal](<Lieux/Tour à signal.md>)

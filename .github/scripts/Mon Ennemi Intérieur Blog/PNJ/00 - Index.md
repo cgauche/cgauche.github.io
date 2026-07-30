@@ -177,6 +177,8 @@
 - [Manfred von Saponatheim](<Manfred von Saponatheim.md>)
 - [Margritte Von Wittgenstein](<Margritte Von Wittgenstein.md>)
 - [Maria-Luise von Walfen](<Maria-Luise von Walfen.md>)
+- [Marius Leitdorf](<Marius Leitdorf.md>)
+- [Marlene Alptraum](<Marlene Alptraum.md>)
 - [Matthias Blucher](<Matthias Blucher.md>)
 - [Matthias Hubkind (2)](<Matthias Hubkind (2).md>)
 - [Matthias Hubkind](<Matthias Hubkind.md>)

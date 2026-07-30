@@ -56,6 +56,8 @@
 - [Shining Rock (2)](<Shining Rock (2).md>)
 - [Shining Rock](<Shining Rock.md>)
 - [Skavens](<Skavens.md>)
+- [Streissen (2)](<Streissen (2).md>)
+- [Streissen](<Streissen.md>)
 - [Taudis de Spittlefeld](<Taudis de Spittlefeld.md>)
 - [Tour d'Etelka](<Tour d'Etelka.md>)
 - [Tour à signal](<Tour à signal.md>)
