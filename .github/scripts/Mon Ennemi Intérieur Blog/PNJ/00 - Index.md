@@ -175,6 +175,7 @@
 - [Maliss Manrack](<Maliss Manrack.md>)
 - [Manchettes](<Manchettes.md>)
 - [Manfred von Saponatheim](<Manfred von Saponatheim.md>)
+- [Marcus Karlssen](<Marcus Karlssen.md>)
 - [Margritte Von Wittgenstein](<Margritte Von Wittgenstein.md>)
 - [Maria-Luise von Walfen](<Maria-Luise von Walfen.md>)
 - [Marius Leitdorf](<Marius Leitdorf.md>)

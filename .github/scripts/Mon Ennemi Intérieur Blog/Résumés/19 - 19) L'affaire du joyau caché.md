@@ -23,7 +23,7 @@ l’intérieur et nous surveillait.
 
 Il s’installa et nous expliqua qu’il était Kellermann, et qu’il nécessitait
 notre aide pour attraper la hors-la-loi connue sous le nom de Flèche Noire, de
-son vrai nom A**nnalisa Kessler**. Son père avait de son temps fait un
+son vrai nom **Annalisa Kessler**. Son père avait de son temps fait un
 larcin mémorable, volant un bijou d’une grande valeur, la **Flamme Bleue**,
 avant de le cacher. D’une manière ou d’une autre, il lui avait transmis
 l’endroit où se trouvait le bijou, et il souhaitait la questionner.

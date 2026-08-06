@@ -69,7 +69,7 @@ pour boire, et en son centre un ring. C’étaient en fait des culturistes et de
 boxeurs, et il était coutume de se battre pour entrer dans leur cercle, puis de
 réciter les paroles sacrées. Sans vraiment l’avoir voulu, Filianore
 se retrouva dans le ring, en face d’Orban, poings levés. Mais à la surprise générale,
-elle lui mis une petite raclée. Après avoir récité la prière du groupe, il nous proposa de boire un verre avant de nous laisser chercher
+elle lui mit une petite raclée. Après avoir récité la prière du groupe, il nous proposa de boire un verre avant de nous laisser chercher
 dans le bureau personnel de Tylo.
 
 > Ygrak tu amat Shornaal ! Ygrak tu amat Shornaal ! Tzarkol tu amat Shornaal !

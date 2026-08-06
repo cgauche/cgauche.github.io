@@ -56,7 +56,7 @@ Seule acceptait de parler la cheffe, brayant des phrases énigmatiques, indiquan
 
 Après avoir sauvé ce qu’il était possible du village, mis à mort les mercenaires et envoyé des missives explicatives aux différents dirigeants, nous repartîmes en direction d’Averheim. Le voyage se passa sans encombre jusqu’à notre arrivée aux abords de Streissen, où un barrage fluvial nous arrêta.
 
-C’étaient des soldats, une véritable armée, qui était en garnison ici, sous la houlette de Marius Leitdorf, dit le comte fou. D’après les informations que nous en savions, sa famille se disputait le contrôle de la région avec celle des Alptraum depuis des siècles dans une forme d’alternance, si bien que les deux dirigeants étaient considérés tous deux comme les électeurs de la province. Aujourd’hui, c’était Ludmilla von Alptraum qui était au pouvoir depuis plus de soixante-dix ans.
+C’étaient des soldats, une véritable armée, qui était en garnison ici, sous la houlette de Marius Leitdorf, dit le comte fou. D’après les informations que nous en savions, sa famille se disputait le contrôle de la région avec celle des Alptraum depuis des siècles dans une forme d’alternance, si bien que les deux dirigeants étaient considérés tous deux comme les électeurs de la province. Aujourd’hui, c’était la comtesse Ludmilla von Alptraum qui était au pouvoir.
 
 Le comte Leitdorf, homme aussi excentrique que bavard, nous invita à nous restaurer, tendant un verre de vin local à Elvira en guise de bienvenue – verre qu’elle s’empressa de nous donner discrètement, ne supportant pas l’alcool –. A ses côtés se trouvait un cheval appelé Daisy Kurt qu’il ne cessait d’appeler son conseiller.
 
@@ -64,6 +64,20 @@ Mais alors que le diner tant promis n’arrivait pas, que le comte continuait de
 
 Elvira, échevelée et à bout de nerf, tentait de s’escamoter de toutes les manières possibles, quand enfin l’homme nous avoua ce qu’il attendait de nous : nous voir arbitrer un conflit dans la ville voisine de Streissen. Elle accepta sans hésiter, voyant là une occasion de quitter ce cinglé au plus vite. Mais notre soulagement fut de courte durée. Nous ne pûmes reprendre le navire, le comte Leitdorf préférant nous voir le laisser à quai et nous octroyer des chevaux pour notre voyage.
 
-Lorsque nous arrivâmes à Streissen, une armée en faisait le siège. De ce que nous comprenions de la situation, la ville avait déclaré son indépendance quelques jour plus tôt et la comtesse Marlene Alptraum avait déployé son armée afin de reprendre la ville. Et l’armée du comte attendait à seulement quelques kilomètres dans le plus grand secret, prête à intervenir. La situation était explosive !
+Lorsque nous arrivâmes à Streissen, une armée en faisait le siège. De ce que nous comprenions de la situation, la ville avait déclaré son indépendance quelques jour plus tôt et la baronesse Marlene Alptraum avait déployé son armée afin de reprendre la ville. Et l’armée du comte attendait à seulement quelques kilomètres dans le plus grand secret, prête à intervenir. La situation était explosive !
+
+La baronesse, femme ferme et directe, nous expliqua être arrivée le jour même et laisser jusqu’au lendemain aux « quatre ou cinq rebelles qui terrorisent la population » pour ouvrir les portes et se rendre. Elle semblait bien loin des réalités ! Ces mêmes quelques rebelles avaient expulsé toute la garde lors de leur prise du pouvoir.
+
+Voulant éviter un bain de sang inutile, Elvira prit l’initiative de se rendre devant Streissen pour y parlementer avec les insurgés en tant que partie neutre, et on nous ouvrit les portes pour nous conduire au bureau du nouveau responsable, Marcus Karlssen. Autour de nous, des centaines de civils habillés en soldats gardaient la cité tandis que les autres vaquaient à leurs occupations dans une normalité surprenante, comme si l’armée à leurs portes était aussi vaporeuse que la brume du matin. Marcus nous expliqua que la ville ne pouvait plus accepter d’être sous le joug de la comtesse, prétextant une oppression, un manque de considération… Mais sans n’avancer le moindre argument réel. Sa seule condition à l’ouverture des négociations avec la baronesse était la présence du comte Leitdorf. Tiens, tiens, celui qui nous avait fait venir ici… Fallait-il y voir une sorte de connivence entre les deux hommes ?
+
+Nous retournâmes auprès de Marlène Alptraum et lui expliquâmes la situation. Elle n’était guère encline à attendre, mais accepta que l’on aille chercher le comte, si toutefois nous savions où le trouver. Nous allâmes donc le quérir dans son camp et le ramener aux portes de Streissen au prix d’un long, très long retour où celui-ci déclama des poésies sans queue ni tête tandis qu’Elvira s’efforçait de chanter le plus fort possible pour ne pas l’entendre.
+
+La médiation fut organisée dans les règles de l’art, Marlène d’un côté, Marius et Marcus de l’autre, nous en tant que représentants de l’Empire et un prêtre de Sigmar comme témoin divin. Ainsi, chacun déclarait solennellement respecter la décision qui découlerait de cette rencontre.
+
+Elvira, encore elle, se démena pour trouver un arrangement entre les différents partis, mais aucun d’eux ne voulait reculer d’un pouce dans leurs positions. Marlène expliquait que la ville appartenait à sa mère et qu’elle ne voyait pas pourquoi elle ferait une concession. Markus rétorqua de manière très contradictoire qu’il ne voulait plus être sous la tutelle d’aristocrates tout en exigeant le comte comme nouveau maitre. Quant à Marius, il se contentait de belles phrases philosophiques et se présentant comme un libérateur.
+
+Le ton monta lorsque la baronesse comprit que l’armée du comte se trouvait à seulement quelques kilomètres, prête à la prendre en tenaille si elle tentait une attaque. Alors excédée, Elvira vira au rouge. Puisque vous n’êtes pas capables de vous mettre d’accord, vous n’avez qu’à faire un duel entre vous et laisser tous ces gens tranquilles !
+
+A sa surprise, tous deux acceptèrent !
 
 **Suite prochainement...**

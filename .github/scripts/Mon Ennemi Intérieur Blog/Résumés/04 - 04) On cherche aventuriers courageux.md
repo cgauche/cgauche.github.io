@@ -19,7 +19,7 @@ Les routes étaient dangereuses, et nous étions content qu’il nous
 accompagne. C’est vrai qu’il était étrange, que l’hygiène n’était pas une notion
 qu’il connaissait, qu’il avait son franc-parler et qu’il se fouettait chaque matin avec son énorme fléau, pour expier ses péchés expliquait-il, mais au moins il savait se battre.
 
-Sur notre chemin, nous rencontrions deux compagnons d’infortune. Anselm était un herboriste discret et cultivé et Pathsokar un mercenaire et un chasseur de prime chevronné. Tous deux venait du même village qu’ils avaient dû fuir et partageaient un passé sombre, mais ils ne souhaitaient pas nous en parler. Ils parcouraient la région à la recherche de Filianore, la femme de Pathsokar qu’il avait perdu de vue depuis des années.
+Sur notre chemin, nous rencontrions deux compagnons d’infortune. Anselm était un herboriste discret et cultivé et Pathsokar un mercenaire et un chasseur de prime chevronné. Tous deux venaient du même village qu’ils avaient dû fuir et partageaient un passé sombre, mais ils ne souhaitaient pas nous en parler. Ils parcouraient la région à la recherche de Filianore, la femme de Pathsokar qu’il avait perdu de vue depuis des années.
 
 ---
 Ce soir-là, nous trouvions une auberge avec une compagnie de diligences qui s’était arrêté ici pour la nuit, appelée les Quatre Saisons, et repartait pour
@@ -37,7 +37,7 @@ Elvira tentait de sympathiser avec un jeune étudiant en magie timide au fond de
 incommodé par sa présence et alla rapidement se coucher.
 
 Phineas regardait de son côté les annonces sur l’affichage de l’auberge, notamment celle de l’expédition des montagnes grises.
-*Une bien mauvaise idée.* se dit-il, un travail aussi bien payé semblait loin d’être une partie de plaisir.
+*Une bien mauvaise idée* se dit-il, un travail aussi bien payé semblait loin d’être une partie de plaisir.
 
 Le lendemain, il fallut toute la magie d’Elvira pour réveiller les cochers en
 pleine gueule de bois. Mais s’ils étaient maintenant bien éveillés par la bénédiction de Rhya, ils n’étaient plus tout à fait d’accord pour nous laisser monter. Après négociation avec eux, et pour le plus grand bonheur

@@ -29,7 +29,7 @@ panthère. Il s’agissait en réalité d**’Emmanuelle Nacht**, venue incognit
 
 La famille Aschaffeberg, **Rickard** en tête, entra dans le vestibule, et dès
 qu’ils eurent croisé leur regard, lui et **Heinrich Bruner**, ils s’insultèrent
-copieusement. C’était des ennemis jurés, et le neveu Aschaffeberg, **Maximilien**,
+copieusement. C’étaient des ennemis jurés, et le neveu Aschaffeberg, **Maximilien**,
 poussa l’affront encore plus loin en entrant déguisé en mutant et portant les
 couleurs des Bruner, en référence aux frasques supposées (et réelles) du fils
 Bruner. S’en était trop, et devant le scandale les gardes le firent sortir.

@@ -9,7 +9,7 @@ Un ogre qui ressemblait à un bourreau se tenait dans le cadre d’une porte, l�
 
 Il nous fit remonter jusqu’au rez-de-chaussée, dans un grand salon très vide. Il nous fit nous installer à une table et nous demanda d’être patients avant de prendre congés.
 
-Après avoir suffisamment attendu pour constater que nous avions été oublié, nous commencions à visiter les étages. Les tableaux semblaient nous regarder, les décorations du mobilier étaient déformées et dérangeantes…
+Après avoir suffisamment attendu pour constater que nous avions été oubliés, nous commencions à visiter les étages. Les tableaux semblaient nous regarder, les décorations du mobilier étaient déformées et dérangeantes…
 
 Dans la cuisine, un halfelin cuisinait des plats… atypiques. Il semblait un peu fou. A l’étage, Filianore entra dans une pièce remplie de chaines et d’instruments de torture. Elle se fit alors attraper et blesser par un énorme gaillard peu vif d’esprit et qui grognait, fortement intéressé par ses membres. Nous dûmes négocier avec lui pour enfin obtenir sa libération. D’après ce que nous pûmes en conclure, il s’agissait d’un des frères de la châtelaine, Kurt.
 
@@ -19,7 +19,7 @@ Nous nous séparions, afin que Phineas puisse poursuivre sa mission diplomatique
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KlCunoTFykBQMazuOAEJUcihLPwK39dnX2z1GrR0N0p2zNBqotZ6pEkqac-svUCb2gmq8TEh-XDwdfo1jRW2OEQTKQ9ub3DQFVtaKhVF0A6xt1zj16lMOJ8uGHKYNp8L8GXB1W6zoZUF2B4pmT9bxukjI02E7qCoOtiqATbRtXPfRzMluSd07jCt1Bq/w640-h498/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KlCunoTFykBQMazuOAEJUcihLPwK39dnX2z1GrR0N0p2zNBqotZ6pEkqac-svUCb2gmq8TEh-XDwdfo1jRW2OEQTKQ9ub3DQFVtaKhVF0A6xt1zj16lMOJ8uGHKYNp8L8GXB1W6zoZUF2B4pmT9bxukjI02E7qCoOtiqATbRtXPfRzMluSd07jCt1Bq/s1125/Capture.PNG)
 
-Nous sommes allé voir dans la serre, où nous vîmes le chat. Mais en commençant à entrer, nous vîmes des oiseaux s’agiter à l’intérieur. Pas n’importe quels oiseaux, ceux-là avaient mutés eux aussi, et semblaient particulièrement hargneux, et surtout carnivores ! Entrer nous paraissait bien trop dangereux.
+Nous sommes allés voir dans la serre, où nous vîmes le chat. Mais en commençant à entrer, nous vîmes des oiseaux s’agiter à l’intérieur. Pas n’importe quels oiseaux, ceux-là avaient mutés eux aussi, et semblaient particulièrement hargneux, et surtout carnivores ! Entrer nous paraissait bien trop dangereux.
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizXa2xZHQCNQCi0C-pMY8jR7Cc-BVERKqF6N7KZGcyYho3_MQv-OHNa4KDtDZQBEofNNc3iREjHP0bp4AkQRAHZNOJEMOZ2IAbsD_qamfl7XaR6kh2ya6ZK1D599mE4tB6pANrxuTUEF3DVbiDN71lj0Jgyz77LbSmupSe6Ztf9BLeZzZgw2zZAJXLSIdY/w489-h640/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizXa2xZHQCNQCi0C-pMY8jR7Cc-BVERKqF6N7KZGcyYho3_MQv-OHNa4KDtDZQBEofNNc3iREjHP0bp4AkQRAHZNOJEMOZ2IAbsD_qamfl7XaR6kh2ya6ZK1D599mE4tB6pANrxuTUEF3DVbiDN71lj0Jgyz77LbSmupSe6Ztf9BLeZzZgw2zZAJXLSIdY/s797/Capture.PNG)
 

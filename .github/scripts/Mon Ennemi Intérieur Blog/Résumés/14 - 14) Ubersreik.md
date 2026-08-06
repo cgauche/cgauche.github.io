@@ -30,4 +30,4 @@ dans le palais de la ville, où elle y fut présentée à Emmanuelle Nacht, la
 régente de la ville. Emmanuelle expliqua à notre amie qu’elle travaillait pour elle autrefois en tant
 qu’espionne, et qu’elle avait été envoyé à Bögenhafen enquêter sur un certain Kastor Lieberung, agent important de la Main Pourpre. Mais dame Nacht avait perdu le contact jusqu’à aujourd’hui. Dans le même temps, elle avait fait arrêter et enfermer
 Pathsokar, pensant qu’il s’agissait de Kastor. Une fois le quiproquo avec Pathsokar résolu, elle fut
-disposée à le libérer et à la reprendre, ainsi qu’à gérer nos ennuis judiciaire de Bögenhafen.
+disposée à le libérer et à la reprendre, ainsi qu’à gérer nos ennuis judiciaires de Bögenhafen.

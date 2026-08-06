@@ -50,7 +50,7 @@ voir à notre étage, furieuse, se jurant de régler le compte des mages de la
 ville.
 
 Lirrian avait
-vu (ou senti) le magicien, et lui lança un sort d’immobilisation alors qu’il essayait de s’enfuir. Skippy et lui l’attrapèrent et le ramenèrent au poste de garde non loin.
+vu – ou senti – le magicien, et lui lança un sort d’immobilisation alors qu’il essayait de s’enfuir. Skippy et lui l’attrapèrent et le ramenèrent au poste de garde non loin.
 
 Suivant la comtesse discrètement, l’[homme](<../PNJ/Matthias Hubkind.md>) qui avait attisé la haine du
 fantôme à Nuln, ce répurgateur qui était présent au procès, montait à notre

@@ -10,7 +10,7 @@ Les plus taxés étaient les nains, les prêtres et les porteurs de parchemin. S
 
 Les riverains nous dirent que le bâtiment appartenait à des cultistes, aujourd’hui passés sur le bucher. Mais ils nous trouvèrent louches de nous intéresser à eux, ils appelèrent la garde et nous fument interrogés et gardés au poste pour la nuit. Nous n’avions rien à nous reprocher, aussi ont-ils fini par nous relâcher.
 
-La ville était loin d’être accueillante, il faisait froid, les habitants était méprisants envers nous, et à présent nous n’avions plus rien. Il ne nous restait plus qu’à errer et trouver de quoi manger et où dormir…  Qu’avions-nous espéré en venant ici ?
+La ville était loin d’être accueillante, il faisait froid, les habitants étaient méprisants envers nous, et à présent nous n’avions plus rien. Il ne nous restait plus qu’à errer pour trouver de quoi manger et où dormir… Qu’avions-nous espéré en venant ici ?
 
 Au bout de quelques heures, un gamin nous interpella, nous demanda si c’était bien nous qui cherchions le capitaine Scarlash, avant de partir en courant. Se raccrochant à ce dernier espoir, nous le suivions avec difficulté jusqu’à une ruelle sombre et isolée, dans les bas fonds de la ville.
 

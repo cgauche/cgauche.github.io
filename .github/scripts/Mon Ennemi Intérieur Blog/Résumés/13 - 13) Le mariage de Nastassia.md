@@ -43,7 +43,7 @@ vêtu et visiblement fou furieux. Nous le maîtrisâmes sans le violenter, ce qu
 au courant pour l’existence du fils, cela compromettait l’héritage du mariage,
 il nous demanda de garder le secret.
 
-Il était déjà tard lorsque nous sommes reparti de notre entrevue avec lui, et
+Il était déjà tard lorsque nous sommes repartis de notre entrevue avec lui, et
 il restait peu de personnes éveillées. Quelques nobles éméchés étaient encore
 dans la salle à manger, mais Elvira vit au loin des ombres furtives du côté
 des appartements de la mariée. Elle les suivit et leur coupa la route. Elle s’aperçut qu’il s’agissait d’un

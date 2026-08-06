@@ -132,7 +132,7 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (239)
+## PNJ (240)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
@@ -309,6 +309,7 @@
 - [Maliss Manrack](<PNJ/Maliss Manrack.md>)
 - [Manchettes](<PNJ/Manchettes.md>)
 - [Manfred von Saponatheim](<PNJ/Manfred von Saponatheim.md>)
+- [Marcus Karlssen](<PNJ/Marcus Karlssen.md>)
 - [Margritte Von Wittgenstein](<PNJ/Margritte Von Wittgenstein.md>)
 - [Maria-Luise von Walfen](<PNJ/Maria-Luise von Walfen.md>)
 - [Marius Leitdorf](<PNJ/Marius Leitdorf.md>)

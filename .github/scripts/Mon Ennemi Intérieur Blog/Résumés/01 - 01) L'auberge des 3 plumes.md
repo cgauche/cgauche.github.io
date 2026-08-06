@@ -8,23 +8,23 @@ Notre histoire commença au milieu du Rekland, une région de notre puissant Emp
 campagne. Nous étions quatre, à cette époque…
 
 Il y avait
-[**Phineas**](<../PJ/Phineas.md>), le halfelin. Haut comme trois pommes, mais il savait bien parler. Il
-faisait des sculptures, et même qu’il serait célèbre un jour... C’était pas commun pour un halfelin, eux qui ne pensent généralement qu’à manger. En tout cas il
+**Phineas**, le halfelin. Haut comme trois pommes, mais il savait bien parler. Il
+faisait des sculptures, et même qu’il serait célèbre un jour… Ce n’était pas commun pour un halfelin, eux qui ne pensent généralement qu’à manger. En tout cas il
 voyageait avec nous afin de montrer son art aux gens.
 
-[**Lirrian**](<../PJ/Lirrian Morningstar.md>)
+**Lirrian**
 était un jeune elfe magicien qui venait de l’école d’Altdorf, la capitale. Il était discret
 Lirrian, ou peut-être que nous n’étions pas assez instruits pour mériter de parler avec lui, qui
 sait… Cela restait une curiosité car les elfes ne sont pas très fréquents dans nos villes, et leur grâce est légendaire.
 
 Il y avait
-[**Sigrun**](<../PJ/Sigrun Guttrik.md>)
+**Sigrun**
 aussi, on était rassuré de l’avoir avec nous je peux vous dire. C’était un
 nain, et un fier combattant, quand il disait quelque chose personne n’osait le
 contester. Mais derrière son caractère un peu rude, c’était quelqu’un de droit.
 
 Et puis il y avait
-[**Elvira**](<../PJ/Elvira.md>). C’était une petite hyperactive qui se disait prêtresse de Rhya, la déesse de la fertilité et de la nature. C’est vrai
+**Elvira**. C’était une petite hyperactive qui se disait prêtresse de Rhya, la déesse de la fertilité et de la nature. C’est vrai
 qu’elle en parlait beaucoup, de Rhya… et de beaucoup trop d’autres choses
 sans importance aussi. Au moins on ne s’ennuyait pas pendant le trajet avec
 elle.
@@ -38,16 +38,16 @@ notre sommeil pour nous manger ! Nous vîmes au loin un bâtiment avec plusieurs
 
 Nous nous arrêtions dans l’auberge des Trois Plumes, une bâtisse de deux étages avec des écuries et même un quai. Elle était en
 pleine effervescence, il semblait qu’une sommité dormait ici ce soir, la
-[Gravin Maria Ulrike von Liebwitz d’Ambosstein](<../PNJ/Gravin Maria Ulrike von Liebwitz d'Ambosstein.md>). Il était rare de rencontrer une noble dans ces contrées reculées, aucun d’entre nous n’en avait croisé auparavant. Le barman mit d’ailleurs
+Gravin Maria Ulrike von Liebwitz d’Ambosstein. Il était rare de rencontrer une noble dans ces contrées reculées, aucun d’entre nous n’en avait croisé auparavant. Le barman mit d’ailleurs
 beaucoup de temps à nous remarquer.
 
 Comme à notre habitude, nous dormirions dans le dortoir commun, les chambres privées nous étaient hors de prix.
 Il y avait beaucoup de monde dans la salle principale, la plupart étant la suite de la Gravin, des serviteurs, des soldats,
-et même son [juriste](<../PNJ/Gustaf Rechtshandler.md>) et son [champion](<../PNJ/Bruno Franke.md>).
+et même son juriste et son champion.
 Ce dernier proposait aux plus costauds de la salle de le défier au bras de fer, ce qui pour nous se résumait à Sigrun, mais il refusa. Un serviteur vint lui demander d’aller se coucher afin de ne pas se fatiguer ou se blesser, mais il le repoussa vivement en déployant toute son envergure.
 
-Il y avait aussi une [joueuse de carte halfeline](<../PNJ/Mercinelline Pavéderonce.md>), ce qui suscita la curiosité de Phineas, et une [femme](<../PNJ/Ursula Kopfgeld.md>) a l’air sévère qui calma un homme un peu trop aventureux d’un coup bien placé.
-L’auberge était très animé, ce qui nous faisait plaisir après avoir passé une rude journée sur les routes avec comme seules occupations d’écouter les
+Il y avait aussi une joueuse de carte halfeline, ce qui suscita la curiosité de Phineas, et une femme a l’air sévère qui calma un homme un peu trop aventureux d’un coup bien placé.
+L’auberge était très animée, ce qui nous faisait plaisir après avoir passé une rude journée sur les routes avec comme seules occupations d’écouter les
 histoires de chèvre d’Elvira et les grognements de Sigrun.
 
 La Gravin en personne descendit, une femme qui était aussi impressionnante autant par sa prestance que par sa garde-robe. Elle
@@ -107,9 +107,9 @@ Mais ce qu’il ne saurait pas, c’est que nous serions tous ensemble et armés
 Les gardes nous rendîmes nos armes et nous enfermèrent ensemble dans la chambre du champion.
 
 L’assassin s’attaqua bien à nous durant la nuit, en passant par la cheminée, mais nous
-nous défendîmes et elle prit la fuite avec difficulté. Poursuivie dehors par Sigrun et par [**Skippy**](https://monennemiinterieur.blogspot.com/search/label/Markward%20%22Skippy%22Jeronymus), un
+nous défendîmes et elle prit la fuite avec difficulté. Poursuivie dehors par Sigrun et par **Skippy**, un
 flagellant de Sigmar qui passait par là, elle succomba à leurs attaques avant de réussir à atteindre le quai.
-C’était [la servante](<../PNJ/Dominique Herveaux.md>) qui nous avait dénoncé quelques heures auparavant.
+C’était la servante qui nous avait dénoncé quelques heures auparavant.
 
 Au matin, les craintes du tavernier se révélèrent justes, il y avait eu un massacre dans la chambre des prêtres de Morr, tandis que certains clients avaient été retrouvés morts dans un placard, dont le juriste de la Gravin. Nous doutions que ce fût le seul fait de notre assassin, mais cela ne nous importait plus car nous avions été disculpés.
 

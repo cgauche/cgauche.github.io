@@ -177,4 +177,4 @@ le vit…
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/w640-h310/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/s1039/Capture.PNG)
 
 Cette quête ressemblait à un traquenard, mais l’important était qu’enfin, après toutes nos vicissitudes, nous
-étions arrivé à Altdorf. Filianore allait pouvoir tout nous expliquer !
+étions arrivés à Altdorf. Filianore allait pouvoir tout nous expliquer !

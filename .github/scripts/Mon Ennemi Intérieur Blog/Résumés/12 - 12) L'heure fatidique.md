@@ -22,7 +22,7 @@ grand cercle forgé comme celui qui était dans les égouts. En allant chez un
 forgeron et en lui demandant de faire cet article pour nous, il nous indiqua
 avoir eu la même commande récemment, et l’avoir livré sur les quais.
 
-Mais pendant ce temps, nous étions toujours suivi par le groupe qui nous avait menacé la veille, aussi nous décidions de tendre un piège à nos
+Mais pendant ce temps, nous étions toujours suivis par le groupe qui nous avait menacé la veille, aussi nous décidions de tendre un piège à nos
 poursuivants. Nous rentrâmes dans un bâtiment, sortîmes par derrière et firent
 le tour pour les encercler. Ils se rendirent vite, se rendant compte que nous
 étions bien plus fort qu’eux.
@@ -55,6 +55,6 @@ sans Teugen cela n’arriverait plus. Il était temps pour nous de nous éclipse
 
 Le lendemain très tôt, les autorités nous arrêtèrent pour trouble à l’ordre public et meurtre, et nous
 emmenèrent en prison. Les puissants de la ville avaient encore réussi à avoir le dernier mot, camouflant leurs méfaits à notre insu ! Nous risquions la peine de mort sans guise de procès pour avoir osé attaquer l’un des leurs. Fort heureusement, Elvira nous trouva un chemin
-à travers les cellules jusqu’à la sortie, bien aidée par les signes sibyllin du langage des voleurs qui tapissaient certains murs (elle avait appris ce langage lorsqu’elle officiait en tant qu’espionne pour la Gravin). Après avoir regagné le bateau de Josef à la nage, nous partîmes très
-vite bien loin de Bögenhafen, la ville que nous avions sauvé mais qui ne le
+à travers les cellules jusqu’à la sortie, bien aidée par les signes sibyllins du langage des voleurs qui tapissaient certains murs (elle avait appris ce langage lorsqu’elle officiait en tant qu’espionne pour la Gravin). Après avoir regagné le bateau de Josef à la nage, nous partîmes très
+vite bien loin de Bögenhafen, la ville que nous avions sauvée mais qui ne le
 saurait jamais…

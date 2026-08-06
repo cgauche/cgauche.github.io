@@ -7,7 +7,7 @@
 La route était pluvieuse et le chemin gadouilleux était très forestier. La diligence tanguait parfois dangereusement de droite à gauche mais Elvira
 arrivait à garder le cap, tout en chantant des airs enfantins. Si elle semblait passer un bon moment, pour nous le trajet sous les intempéries n’était pas très agréable.
 
-Au bout de quelques heures, nous vîmes une autre diligence de la même compagnie dans un fossé. Nous nous arrêtions et constations qu’elle s’était faite attaquer et qu’elle était en partie détruite. Nous ne pûmes que constater les dégâts, car malheureusement il n’y avait pas de survivant.
+Au bout de quelques heures, nous vîmes une autre diligence de la même compagnie dans un fossé. Nous nous arrêtions et constations qu’elle s’était fait attaquer et qu’elle était en partie détruite. Nous ne pûmes que constater les dégâts, car malheureusement il n’y avait pas de survivant.
 
 Un groupe de
 mutants sortit alors des bois et nous attaquèrent. Le combat fut compliqué, Phineas prenant d’entrée un carreau d’arbalète qui le laissait entre la vie et la mort. Signe que rien n’allait, Elvira implora sa déesse de nous protéger mais elle perdit la vue suite à une colère divine. Skippy et Pathsokar étaient de bons combattants et surent nous défendre, alors qu’Anselm… lançait des sorts ?!

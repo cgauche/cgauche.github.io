@@ -9,7 +9,7 @@ d’espionne à Bögenhafen. Elle avait recouvert la mémoire, et se souvenait
 désormais ce qu’elle faisait là-bas.
 
 Nous nous isolâmes dans la chambre d’une auberge de la ville, et elle nous
-expliqua qu’elle était allé à Bögenhafen dans le but de s’attaquer à un culte
+expliqua qu’elle était allée à Bögenhafen dans le but de s’attaquer à un culte
 nommé la **Main Pourpre**.
 
 Ce culte était puissant et disséminé dans tout l’Empire, mais une personne de forte
@@ -39,4 +39,4 @@ Nous prîmes le premier bateau en direction de **Kemperbad**, d’où il nous
 faudrait trouver une façon de se rendre dans le petit village de
 **Grissenwald**, lieu de résidence supposé d’Etelka.
 
-Alors que nous comptions embarquer, quelqu’un nous demanda de livrer un colis à un certain Luigi Belladonna à Kemperbad. Nous étions habitués à servir de coursier maintenant, ce sont les joies de la vie d’itinérant, mais en général c’était plutôt des lettres, pas des colis étranges, qu’il ne fallait surtout pas ouvrir et offrir impérativement à une certaine personne. Nous espérions juste que cela n’était pas un piège pour son destinataire.
+Alors que nous comptions embarquer, quelqu’un nous demanda de livrer un colis à un certain Luigi Belladonna à Kemperbad. Nous étions habitués à servir de coursier maintenant, ce sont les joies de la vie d’itinérant, mais en général c’étaient plutôt des lettres, pas des colis étranges, qu’il ne fallait surtout pas ouvrir et offrir impérativement à une certaine personne. Nous espérions juste que cela n’était pas un piège pour son destinataire.
