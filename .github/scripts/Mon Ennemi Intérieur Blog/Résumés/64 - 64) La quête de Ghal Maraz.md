@@ -76,7 +76,7 @@ La médiation fut organisée dans les règles de l’art, Marlène d’un côté
 
 Elvira, encore elle, se démena pour trouver un arrangement entre les différents partis, mais aucun d’eux ne voulait reculer d’un pouce dans leurs positions. Marlène expliquait que la ville appartenait à sa mère et qu’elle ne voyait pas pourquoi elle ferait une concession. Markus rétorqua de manière très contradictoire qu’il ne voulait plus être sous la tutelle d’aristocrates tout en exigeant le comte comme nouveau maitre. Quant à Marius, il se contentait de belles phrases philosophiques et se présentant comme un libérateur.
 
-Le ton monta lorsque la baronesse comprit que l’armée du comte se trouvait à seulement quelques kilomètres, prête à la prendre en tenaille si elle tentait une attaque. Alors excédée, Elvira vira au rouge. Puisque vous n’êtes pas capables de vous mettre d’accord, vous n’avez qu’à faire un duel entre vous et laisser tous ces gens tranquilles !
+Le ton monta lorsque la baronesse comprit que l’armée du comte se trouvait à seulement quelques kilomètres, prête à la prendre en tenaille si elle tentait une attaque. Alors excédée, Elvira vira au rouge. *Puisque vous n’êtes pas capables de vous mettre d’accord, vous n’avez qu’à faire un duel entre vous et laisser tous ces gens tranquilles !*
 
 A sa surprise, tous deux acceptèrent !
 
