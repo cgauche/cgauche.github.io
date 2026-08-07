@@ -115,7 +115,7 @@ préférable de venir plus tard et plus discrètement.
 Dietrich nous quitta quelques heures, convoqué par la grande prêtresse de Verena au temple. Mark et Pathoskar firent de même, rappelés par des responsabilités. Nous en profitions pour voir Demi-nez et lui demander des informations sur le quartier de la Venelle. Il nous
 répondit mystérieusement qu’il y avait des activités étranges chez Windwund
 Transport. Il se disait qu’ils n’avaient plus de client, et pourtant les allées et
-venues continuaient, et la nuit, il se passerait des choses… Était-ce lié à Bhar ? 
+venues continuaient, et la nuit, il se passerait des choses… Était-ce lié à Bhar ?
 
 Ce fut donc notre prochaine cible. Dietrich nous rejoignit peu après, il nous
 expliqua en chemin qu’il était lointain ancêtre d’une grande famille, les
@@ -129,7 +129,7 @@ intervenir frontalement, dès ce soir !
 
 La nuit venue, nous sortîmes en direction de l’entrepôt, mais très vite, un
 hurlement bestial nous glaça le sang. Un loup énorme se tenait dans la rue,
-comme une incarnation de ce qu’était capable d’invoquer Mark. Il hurla à nouveau sur nous mais Dietrich détourna ses dégâts. Elvira prit son épée et tout son courage, chargea la bête et la fit disparaitre par deux frappes bien placés.
+comme une incarnation de ce qu’était capable d’invoquer Mark. Il hurla à nouveau sur nous mais Dietrich détourna ses dégâts. Elvira prit son épée et tout son courage, chargea la bête et la fit disparaitre par deux frappes bien placées.
 
 Prenant les devants, elle grimpa le muret de l’entrepôt avant de sauter, épée
 devant, sur un zombie pour l’exterminer. Mais elle avait encore une fois été
@@ -154,7 +154,7 @@ Nous entrâmes ensuite dans l’entrepôt et attrapâmes le vigile. Il était d�
 par les événements, mais travaillait surement lui aussi pour la Grosse Meule.
 Nous étions là pour Bhar, nous le laissions repartir et descendîmes au sous-sol. Dans la
 noirceur de la pièce se trouvait plusieurs tables avec des corps décharnés, attachés et
-gigotants. Mais certains se levèrent et nous attaquèrent. Pire, au fond de la
+gigotant. Mais certains se levèrent et nous attaquèrent. Pire, au fond de la
 pièce se trouvait un démon fraichement invoqué.
 
 Anselm brilla par son habileté magique et renvoya le démon dans son monde, tandis que Dietrich
@@ -201,7 +201,7 @@ d’un collier avec une de ses incisives. Nous décidâmes de quitter cet endroi
 
 La remontée fut tranquille presque jusqu’au bout. Jusqu’au moment où, sur un
 grand tuyau en suspension un skaven assassin passa furtivement entre nous avant d’achever
-Raina d’un cou net de sa lame triangulaire. Jusqu’au moment où une intense lumière verte étincela au niveau des
+Raina d’un coup net de sa lame triangulaire. Jusqu’au moment où une intense lumière verte étincela au niveau des
 pieds qui soutenaient le tuyau, quelques mètres plus bas. Jusqu’à l’explosion…
 
 Le tuyau chancela, plusieurs personnes tombèrent dans l’eau croupie en dessous – y compris l’assassin, tout aussi surpris que nous – alors que

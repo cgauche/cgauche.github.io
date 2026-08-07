@@ -41,7 +41,7 @@ Les nains, adeptes des traditions, vénèrent principalement leurs ancêtres. Ce
 
 #### Dieux du Chaos
 
-Au delà de ce panthéon, il existe des entités appelées dieux du Chaos. Ces dieux sont crains et leur culte interdit, car ils poussent aux vices et au malheur, entrainant la Ruine. Leurs adeptes portent en eux les sévices de leur magie, se transformant et perdant toute humanité :
+Au delà de ce panthéon, il existe des entités appelées dieux du Chaos. Ces dieux sont craints et leur culte interdit, car ils poussent aux vices et au malheur, entrainant la Ruine. Leurs adeptes portent en eux les sévices de leur magie, se transformant et perdant toute humanité :
 
 - **Nurgle** : dieu chaotique de la maladie, du désespoir et de la putréfaction
 - **Slaanesh** : dieu chaotique de la luxure, de l’excès et de la souffrance

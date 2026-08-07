@@ -16,7 +16,7 @@ promettait d’œuvrer pour la grandeur de celle-ci de manière pugnace.
 
 ---
 Il ne fallut pas longtemps au capitaine Schutzmann pour nous reconvoquer. Il nous expliqua que plusieurs
-vols avaient été référencés dernièrement, et  nous demanda donc de retrouver les voleurs.
+vols avaient été référencés dernièrement, et nous demanda donc de retrouver les voleurs.
 Il nous donna une liste des larcins, avant d’ajouter qu’il manquait sur la
 liste l’objet le plus important, un heaume précieux, relique d’un ancien temps
 qui était entreposé dans le palais sous haute garde. Très peu de personnes
@@ -61,8 +61,8 @@ particulièrement étrange, nous parlant de mouvements des astres,
 l’héliocentrisme disait-il, tout en nous exposant sa collection complète de
 cure-nez en or. Coupant court à ses élucubrations, nous lui demandions ce
 qu’on lui avait volé concrètement. Il nous répondit qu’il ne s’agissait que de
-ses notes sur les mouvements de Morrslieb, la lune chaotique, qu’il avait
-réussit à prévoir sur plusieurs mois. Il s’étonnait de s’être fait voler ce genre
+ses notes sur les mouvements de Morrslieb, la lune chaotique, qu’il était parvenu
+à prévoir sur plusieurs mois. Il s’étonnait de s’être fait voler ce genre
 de choses – et pas ses magnifiques cures-nez –, surtout qu’il les proposait
 volontiers aux étudiants en astrologie qui avaient le plaisir de venir le voir
 pour leurs recherches. C’était pour lui plus une perte de temps et un
@@ -82,15 +82,15 @@ l’attraper, sans comprendre par où il était entré.
 
 Notre dernière étape fut le Collège de musique. Le chef d’orchestre Amadeus
 Tonkunst écourta sa séance pour venir nous voir. Il était effondré. Il
-nous expliqua s’être fait volé l’unique exemplaire d’une pièce d’opéra
+nous expliqua s’être fait voler l’unique exemplaire d’une pièce d’opéra
 tiléen appelée la Lune, le Fromage et le Rat. Elle était dans son tiroir,
 fermé à clef et comme tous les autres larcins, crocheté.
 
 Il semblait pour Mark que ce fût l’œuvre d’un prêtre de Ranald, le dieu
 des voleurs. Selon le prêtre d’Ulric, qui avait vécu longtemps dans la misère
-d’Altdorf et les avait un peu connu, ces voleurs suivaient un code de conduite
+d’Altdorf et les avait un peu connus, ces voleurs suivaient un code de conduite
 qui les distinguaient des vulgaires brigands de bas étage. *Un prêtre voleur,
-et puis quoi encore ?!* Elvira était très septique quant aux nobles intentions
+et puis quoi encore ?!* Elvira était très sceptique quant aux nobles intentions
 de ces escrocs, qui se disaient protecteurs des faibles et des innocents.
 
 Quoi qu’il en fût, nous devions retrouver sa piste. Toujours selon
@@ -107,7 +107,7 @@ Mais l’une des annonces l’interpella. C’était à première vue une annonc
 très ordinaire, bien que peu compréhensible. Elvira savait déchiffrer les
 messages secrets des voleurs, qualité qu’elle avait acquise lors de son
 entrainement d’espionne auprès de la Gravin, et grâce aux indications qu’elle
-avait décrypté, elle nous dirigea jusqu’à une cahute sordide et très banale
+avait décryptées, elle nous dirigea jusqu’à une cahute sordide et très banale
 dans une rue adjacente. A l’intérieur, il s’agissait bien d’une taverne énorme
 et pleine de vie. Au comptoir se trouvait une coupe avec une statue de Ranald,
 et nous donnions tous un petit tribut au « temple » afin de ne pas avoir de
@@ -138,7 +138,7 @@ sortir les clients et fermer l’établissement afin de s’entretenir seul à s
 avec la jeune femme. Il remarqua alors Mark à une fenêtre et se renfrogna.
 *Faites entrer vos amis. Vous n’êtes vraiment pas très discrets, vous allez
 finir par m’attirer des ennuis*. Elle le fixa du regard en nous faisant signe d’entrer dans la bâtisse.
-*Nous faites bien de le dire*, répondit-elle,
+*Vous faites bien de le dire*, répondit-elle,
 *pensiez-vous que vous seriez discret bien longtemps, à vous attaquer aux
 biens du Graf ? A quoi vous jouez ?!*
 
@@ -179,7 +179,7 @@ collier, et semblaient se faire appeler le Croc Jaune. Yuridika et Anselm
 récupérèrent la tête du gros skaven comme preuve, puis nous descendîmes par le
 passage emprunté plus tôt par Mark.
 
-Elvira trouvait ça et là des indices de passage du skaven, ce qui n’était pas
+Elvira trouvait çà et là des indices de passage du skaven, ce qui n’était pas
 une mince affaire. Suivre un skaven dans son antre relevait de l’exploit, mais
 ce ne fut pas sans encombre car Mark chuta plusieurs fois, et se retrouva
 aspergé d’immondices. De son côté, Anselm dirigea son groupe d’une manière

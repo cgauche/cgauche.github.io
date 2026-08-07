@@ -6,7 +6,7 @@
 
 Nous nous reposâmes et nous préparâmes à l’ascension des monts du milieu en nous fournissant cordes, matériels, vivres… Emiline nous fit mander et nous présenta une carte précise des lieux par lesquels nous devions passer.
 
-Elle nous expliqua que le trajet nous prendrait environ une semaine et nous indiqua en premier lieu une zone délimitée par un cercle écarlate, le territoire des Chauve-Souris de la Mort, de sanguinaires prédateurs disait-t-elle. Elle répondit à l’incompréhension d’Elvira en indiquant qu’il s’agissait nullement de petits mammifères volants mais bien d’une tribu de gobelins ! Mais il était possible de les éviter en passant par des sommets.
+Elle nous expliqua que le trajet nous prendrait environ une semaine et nous indiqua en premier lieu une zone délimitée par un cercle écarlate, le territoire des Chauve-Souris de la Mort, de sanguinaires prédateurs disait-t-elle. Elle répondit à l’incompréhension d’Elvira en indiquant qu’il ne s’agissait nullement de petits mammifères volants mais bien d’une tribu de gobelins ! Mais il était possible de les éviter en passant par des sommets.
 
 Au sortir de la réunion, chacun dans le camp y alla de son petit conseil personnel pour nous aider dans notre quête, signe que leur attitude envers nous avait bien changée depuis notre arrivée. Hildegund nous fit savoir qu’il était possible de négocier avec les gobelins si l’on disposait d’assez d’alcool, nous prîmes donc nos dispositions. On nous dit aussi que rien que ce que trouverions dans ces monts ne nous serait amical, à commencer par des trolls et autres peaux vertes, des vouivres, des fantômes vengeurs, et même des vipères à grandes bouches, très difficiles à repérer.
 
@@ -66,7 +66,7 @@ une cloche sonna. Avions-nous été repérés ? Heureusement, personne ne vint
 à notre rencontre. Mais alors que cela voulait-il dire ?
 
 La cloche sonna un peu plus tard, deux fois, puis trois,
-quatre… Un décompte ? Obnubilée par la lune qui se paraiait son sourire
+quatre… Un décompte ? Obnubilée par la lune qui se parait son sourire
 le plus démoniaque, au nord dans le lointain, la prêtresse prit conscience que
 le canon pointait dans cette direction.
 
@@ -77,7 +77,7 @@ Nous nous regardâmes tous. Cette idée était tout bonnement démentielle.
 Et pourtant, elle avait raison, le canon était pointé dans la trajectoire de
 Morrslieb. Nous avions pu constater sa puissance, et dans l’hypothèse où ils
 tiraient ***véritablement*** sur la lune, que se passerait-il ?
-Une pluie de malpierre, telle que le monde n’en eut jamais connu ?
+Une pluie de malpierre, telle que le monde n’en avait jamais connu ?
 
 La cloche qui sonna une nouvelle fois, cinq coups désormais,
 et nous glaça l’échine. La catastrophe était imminente, et il n’y avait que
@@ -204,7 +204,7 @@ une nacelle. Une échelle de corde tomba, nous invitant à monter.
 
 Un homme rustre, mais maniéré et portant les insignes des
 Todbringer s’entretenait avec agacement avec un soldat portant une peau de
-panthère. Ce premier se tourna vers nous et nous réprimanda sèchement. Il fallu
+panthère. Ce premier se tourna vers nous et nous réprimanda sèchement. Il fallut
 l’explication de Janna et l’habileté d’Elvira pour désamorcer la situation, et
 faire comprendre à Heinrich que nous venions de sauver de nombreuses vies.
 

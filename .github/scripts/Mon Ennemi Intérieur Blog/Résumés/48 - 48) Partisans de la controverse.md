@@ -47,7 +47,7 @@ Jade son temple et l’organisation de la fête et en éprouvait une certaine am
 
 Un page nous fit défiler dans le fastueux palais jusqu’à une
 salle d’attente et nous demanda de ne pas bouger jusqu’à que nous soyons
-appelés. Dans la salle couvertes de broderies des héros d’Ulric se trouvait
+appelés. Dans la salle couverte de broderies des héros d’Ulric se trouvait
 déjà un homme semblant être un noble assez âgé. *C’est le conte von Hellfeist*
 nous indiqua Dietrich, qui, commençant à apprendre l’héraldique, était fier d’avoir
 réussi à reconnaitre l’écusson de l’homme.

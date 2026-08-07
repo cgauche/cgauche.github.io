@@ -99,7 +99,7 @@ en disposaient en grande quantité, ainsi que de puissantes armes pour l’utili
 La mine était sauve, et le village pouvait survivre, les
 mineurs étaient tous en fête ce soir-là dans la taverne, nous célébrant. Puis
 une fois les festivités achevées, le maire nous emmena un peu à l’écart avant
-de nous donner quelques piècettes. Elvira les refusa, lui répondant avoir agi
+de nous donner quelques piécettes. Elvira les refusa, lui répondant avoir agi
 par simple bonté, et lui demandant juste de remercier Rhya de les avoir sauvés.
 C’est ainsi que depuis, même au plus profond de la mine d’Oberholzbek, la
 déesse de la nature fut priée. Il était temps désormais pour nous d’aller à Unterfraus,

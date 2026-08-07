@@ -15,7 +15,7 @@ terme aux agissements de la Main Pourpre en ville définitivement, en lançant u
 ferait surement appel à nous, une fois qu’il aurait réuni assez
 d’informations. Cela nous laisserait un bon mois de répit. Certains d’entre
 nous avaient réellement besoin de passer à autre chose, et nous nous séparions
-afin de souffler un peu de notre coté, en nous promettant de nous revoir régulièrement aux
+afin de souffler un peu de notre côté, en nous promettant de nous revoir régulièrement aux
 Armes du Templier.
 
 ---

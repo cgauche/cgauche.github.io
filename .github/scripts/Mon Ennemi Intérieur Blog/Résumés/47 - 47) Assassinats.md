@@ -24,7 +24,7 @@ rendez-vous pour l’après-midi. Il allait par ailleurs immédiatement remettre
 le heaume en lieu sûr au château.
 
 Il nous demanda de garder secret les agissements des skavens, et même leur existence, le temps de déterminer nos actions. Yuridika décida
-d’emmener le corps que nous avions rapatriés du sous sol chez elle pour le
+d’emmener le corps que nous avions rapatriés du sous-sol chez elle pour le
 conserver à l’abri. Nous prîmes congé pour nous soigner et dormir un peu, et
 en milieu d’après-midi nous nous retrouvâmes de nouveau au bureau de
 Schutzmann.
@@ -41,7 +41,7 @@ yeux :
 Nous entrâmes dans le bureau du capitaine. Celui-ci nous avoua ne pas avoir
 trouvé tous les documents que nous lui avions précédemment donné, confirmant
 une fois de plus la volonté des skavens de se montrer discrets et de faire
-disparaître toute allusion à leur existence. Il semblait au final que nous
+disparaître toute allusion à leur existence. Il semblait finalement que nous
 n’avions que peu de preuves concrètes de la catastrophe que nous supposions
 bientôt arriver.
 
@@ -102,7 +102,7 @@ d’un mètre vingt ! Oui, le chef des égoutiers était bel et bien un halfelin
 Jacko Warble nous expliqua d’une voix forte et autoritaire qu’il ne savait pas
 ce qu’il s’était passé, et qu’il l’avait retrouvé gisant dans les égouts de
 Neumark alors qu’il y effectuait une patrouille. Il était seul, mais c’était
-un guerrier exceptionnel, et il fallait craindre la chose qui avait réussit à
+un guerrier exceptionnel, et il fallait craindre la chose qui avait réussi à
 l’occire.
 
 Nous pensâmes à ce skaven qui avait assassiné une sergente des égoutiers lors
@@ -204,7 +204,7 @@ en criant et l’ouvra en nous réveillant tous. Il ne fallut que quelques
 instants pour que le mur d’où provenait le bruit n’explose, pulvérisant la
 pièce et ses occupants ! Dans la chambre désormais ouverte à l’extérieur et
 couverte de gravas gisait le corps meurtri de la professeure, morte sur le
-coup. Dietrich était au bord de la rupture lui aussi, et Mark, qui avait prit
+coup. Dietrich était au bord de la rupture lui aussi, et Mark, qui avait pris
 la déflagration de plein fouet, chancelait. Nous entrâmes tous dans la pièce
 afin de comprendre ce qu’il s’était passé.
 
@@ -212,7 +212,7 @@ Anselm reçut sur la tête un violent coup d’un appareil mécanique lancé dep
 opaque et acre. Visiblement notre ennemi ne se contenterait pas de sa cible
 principale cette nuit, nous étions ses prochaines victimes ! Elvira intima à
 tout le monde de sortir du nuage et de se regrouper dans la salle principale,
-ce que fit Dietrich en tirant avec lui nos deux mages paniquées jusqu’à les faire chuter.
+ce que fit Dietrich en tirant avec lui nos deux mages paniqués jusqu’à les faire chuter.
 Devant lui, toujours masqué par l’écran de fumée, Mark se tenait tel un
 rempart, pavois brandi, prêt à subir une attaque. Il sentit de nombreux coups de lame se déchainer sur lui, mais il réussit à les bloquer et riposta à
 l’aveuglette, tentant de toucher son assaillant. Il sentit l’une de ses

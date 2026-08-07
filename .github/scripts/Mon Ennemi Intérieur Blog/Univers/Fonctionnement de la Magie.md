@@ -66,4 +66,4 @@ mentalement quelqu’un, de le bannir du monde ou encore de relever les morts. C
 
 #### La malpierre
 
-Il existe en ce monde des éclats de magie pure, extrêmement corrupteurs et puissants, appelés **malpierre**. Cette pierre de couleur verte et semblable à du silex a comme effet de transformer son environnement, et bien que la dangerosité de cette matière est indéniable, pouvant rendre malade ou entraîner d’abominables transformations physiques rien qu’à son touché, elle n’en reste pas moins très précieuse et prisée des mages noirs.
+Il existe en ce monde des éclats de magie pure, extrêmement corrupteurs et puissants, appelés **malpierre**. Cette pierre de couleur verte et semblable à du silex a comme effet de transformer son environnement, et bien que la dangerosité de cette matière soit indéniable, pouvant rendre malade ou entraîner d’abominables transformations physiques rien qu’à son touché, elle n’en reste pas moins très précieuse et prisée des mages noirs.

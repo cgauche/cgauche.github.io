@@ -130,7 +130,7 @@ jusqu’à la cuisine. Un skaven maigrelet lui sauta alors dessus, et malgré la
 surprise il le pourfendit d’un coup d’épée. Nous constatâmes que l’armoire que
 nous avions replacé sous la trappe avait été bougée, et la grille ouverte,
 alors que des bris de verre provenant de la fenêtre qui avait été forcée
-jonchaient le sol de la pièce. Visiblement, les visiteurs avaient libérés la
+jonchaient le sol de la pièce. Visiblement, les visiteurs avaient libéré la
 sortie… Nous indiquâmes au chevalier le trou et il s’en approcha. Les nausées
 lui montèrent à la tête, mais sous l’œil critique d’Elvira, il s’engaillardit
 et sauta directement à l’intérieur.
@@ -155,7 +155,7 @@ cependant de l’autre côté de la barricade Dietrich pouvait percevoir des ric
 
 Il eut à peine le temps de s’en écarter qu’elle céda, et
 plusieurs skavens en sortit. Ces skavens n’avait en rien l’air de ceux qui
-étaient enfermés ici, il semblaient être d’une autre faction, et en bien meilleure forme. Des clans rivaux
+étaient enfermés ici, ils semblaient être d’une autre faction, et en bien meilleure forme. Des clans rivaux
 de skavens ?! Le premier à pénétrer la pièce fut accueilli par un caillou
 tiré en pleine tête tiré par le halfelin, resté alerte. L’autre barricade céda
 également, et les deux hommes durent se résoudre à remonter le plus vite

@@ -95,7 +95,7 @@ n’avaient pas voulu garder et les causes de cette attaque. Le lendemain, aprè
 une nouvelle journée sans accroc, nous dûmes décider de notre première destination
 entre la mine de Unterfraus et les monstres de Gladbeich. Cette dernière était
 la plus proche, et ce fut notre choix. Nous arrivâmes aux portes du village
-alors que la nuit tombait, bien ralentis par Mark, peu à l’aise en cheval.
+alors que la nuit tombait, bien ralentis par Mark, peu à l’aise à cheval.
 
 Devant une palissade vermoulue et qui ne devait pas protéger
 de grand-chose, deux gardes méfiants nous ouvrit avec soulagement, une fois notre
@@ -123,9 +123,9 @@ salle isolée.
 
 Celle-ci était le préfet, Ida Clind. Elle referma la porte
 d’un air las, alors que tout le monde s’était attroupé pour nous regarder, et nous
-expliqua la situation. Il y avait un mois, une explosion s’était faite entendre au
+expliqua la situation. Il y avait un mois, une explosion s’était fait entendre au
 loin vers l’est. Cela semblait être de puissants explosifs, tels que seuls les
-nains savent en faire. Le jour même, un chasseur disparut en foret, puis un
+nains savent en faire. Le jour même, un chasseur disparut en forêt, puis un
 fermer en lisière. Et depuis, le rugissement se faisait entendre, de manière
 irrégulière mais constante, jours et nuits. Inquiète de la situation, elle
 envoya un groupe de reconnaissance, qui lui avertit dans un rapport la
@@ -165,8 +165,8 @@ Il était heureux que cette jeune trappeuse du nom de
 Veronica soit présente car nous ne nous en serions probablement pas aussi bien
 tiré lors du pistage, qui nous amena au bout de quelques heures au cœur des
 bois, près d’une sorte de tanière. Ici il n’y avait plus âme qui vive, un
-silence total et pesant s’était installé comme une chape de plomb . Mais alors que nous
-analysions les lieux, une créature énorme et difforme sortit soudainement !
+silence total et pesant s’était installé comme une chape de plomb. Mais alors que nous
+analysions les lieux, une créature énorme et difforme sortit soudainement !
 Cela ressemblait à un griffon, mais cet animal massif avait à l’aile une plaie
 purulente et suintante, un trou béant d’où apparaissait des dents et une
 langue, comme un signe de mutation chaotique.

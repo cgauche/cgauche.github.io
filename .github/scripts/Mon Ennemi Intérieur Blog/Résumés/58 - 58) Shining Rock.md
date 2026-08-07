@@ -22,7 +22,7 @@ La nuit fut calme, seulement entrecoupée de quelques non-événements. Nous dû
 
 Le lendemain, à la lueur des premiers rayons du soleil, il ne s’était rien passé de fâcheux. Jusqu’à que plusieurs hommes armés de seaux de peinture ne dégradent le rocher côté Sigmar en criant à la gloire d’Ulric avant de partir en courant. Avec un temps de retard, des chevaliers des deux camps les prirent en chasse sans voir que d’autres arrivaient du flanc des altdorfeurs pour les attaquer ! Ces fils d’Ulric étaient comme fous, enragés par la soif de sang, déterminer à mourir ici en emportant le plus de vies avec eux !
 
-Les guerriers de Sigmar furent submergés et nous dûmes leur prêter main forte. Le graf en personne chargea avec ses troupes. Mais alors que nous pensions retourner la situation, un troisième groupe menée par une femme aux yeux bleus surgit de nulle part et força les portes du sanctuaire. Dans ce chaos indescriptible, nous ne pûmes que constater le massacre qui se déroulait hors de notre vue alors que des cris se faisaient entendre dans le bâtiment.
+Les guerriers de Sigmar furent submergés et nous dûmes leur prêter main forte. Le graf en personne chargea avec ses troupes. Mais alors que nous pensions retourner la situation, un troisième groupe mené par une femme aux yeux bleus surgit de nulle part et força les portes du sanctuaire. Dans ce chaos indescriptible, nous ne pûmes que constater le massacre qui se déroulait hors de notre vue alors que des cris se faisaient entendre dans le bâtiment.
 
 Lorsqu’enfin le combat fut fini et que tous les fils d’Ulric furent tombés, nous constatâmes effarés le tragique bilan de cette folie meurtrière. Même Mark ne s’en était pas sorti indemne. Saignant abondamment, il se tenait l’orbite béante de son œil gauche !
 
