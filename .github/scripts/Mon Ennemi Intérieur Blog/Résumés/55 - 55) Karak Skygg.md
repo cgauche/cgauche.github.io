@@ -30,7 +30,7 @@ Le lendemain, nous repartions en suivant un sentier. Nous atteignîmes un pannea
 
 Nous entrâmes mais aussitôt après l’un d’eux nous arrêta au loin de sa voix nasillarde. Nous lui proposâmes un fut entier d’alcool en échange d’un droit de passage, et étonnamment, il tint parole et nous laissa passer. Ce ne fut pas particulièrement agréable de se trouver juste devant un troll de quatre mètres nous accompagnant sur toute la route d’un air menaçant, mais cela eut l’avantage de nous faire presser le pas et de sortir de leur territoire à la nuit tombée.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhbw9az1r5k94LEADNyGozN5Ql34CfhUmMmB8l6xJNLE3ed6sKXrvWZa739hwj5sEnhlRWPBFOqvKwUftRgfDKbFPSmF9N3bweAKfY_ItQQco4HM_2Ybrp6lZgW11rXtL73-o158lgeodJ0i3tbZ5qM05BbXtkz3N_Sy-SyMzImhUS-ROJvXGCNEITZhg/s600/image.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhbw9az1r5k94LEADNyGozN5Ql34CfhUmMmB8l6xJNLE3ed6sKXrvWZa739hwj5sEnhlRWPBFOqvKwUftRgfDKbFPSmF9N3bweAKfY_ItQQco4HM_2Ybrp6lZgW11rXtL73-o158lgeodJ0i3tbZ5qM05BbXtkz3N_Sy-SyMzImhUS-ROJvXGCNEITZhg/s1436/image.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhbw9az1r5k94LEADNyGozN5Ql34CfhUmMmB8l6xJNLE3ed6sKXrvWZa739hwj5sEnhlRWPBFOqvKwUftRgfDKbFPSmF9N3bweAKfY_ItQQco4HM_2Ybrp6lZgW11rXtL73-o158lgeodJ0i3tbZ5qM05BbXtkz3N_Sy-SyMzImhUS-ROJvXGCNEITZhg/s600/image.webp)
 
 Nous arrivâmes devant le Karak Skygg. La gigantesque
 forteresse n’avait pas volé sa réputation de place forte naine. Mais, nos
@@ -100,7 +100,7 @@ ogre frappant la cloche que nous entendions de si loin, et de soldats d’élite
 armés de fusils. Et il y avait, à sa grande surprise, son ancienne maitresse de
 magie Janna Eberhauer, retenue prisonnière.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqWf3vgnBbJ59o-yheooRix1XVISw_oL7AyQ9ACB4_2NG1O1hE1UHESNjkB5Ku8u8ILO8-HGmQy3zjnjQU_qOnjhyphenhyphenUb99j6z_I9GaqK9Sf9MLJSivrPyyBikSleJ4wceeFBXVqBsH9nRcrAvp-pT25-ZgJUximFggAenZ0jMYf3i5wQfIcwgNaTYMHDv4/w640-h318/image1.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqWf3vgnBbJ59o-yheooRix1XVISw_oL7AyQ9ACB4_2NG1O1hE1UHESNjkB5Ku8u8ILO8-HGmQy3zjnjQU_qOnjhyphenhyphenUb99j6z_I9GaqK9Sf9MLJSivrPyyBikSleJ4wceeFBXVqBsH9nRcrAvp-pT25-ZgJUximFggAenZ0jMYf3i5wQfIcwgNaTYMHDv4/s1302/image1.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqWf3vgnBbJ59o-yheooRix1XVISw_oL7AyQ9ACB4_2NG1O1hE1UHESNjkB5Ku8u8ILO8-HGmQy3zjnjQU_qOnjhyphenhyphenUb99j6z_I9GaqK9Sf9MLJSivrPyyBikSleJ4wceeFBXVqBsH9nRcrAvp-pT25-ZgJUximFggAenZ0jMYf3i5wQfIcwgNaTYMHDv4/w640-h318/image1.webp)
 
 Sans perdre un instant, car nous sentions que le temps nous
 était compté, nous organisions une embuscade sur un groupe de Croc Jaune en
@@ -152,7 +152,7 @@ Une idée audacieuse nous vint. Il fallait arrêter le décompte,
 il fallait arrêter Malisse. Nous montâmes à l’étage supérieur et nous
 retrouvions nez à nez avec lui !
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjPWpGhu2MDb5b6B7Ukl3HR-USX1jDOc0FgibcHmehPTTMV1AzqbfouaROuU9xDT8PYZggbN3PG8Wz44xTImzXQxmzGd8WiG_zZ1Bi28KZu95boOFD-oc-g5StVxQf-IGyie_S2_7AAXzWdpCLB-1XaBd7rWcCnn55aiKu3XnZXC9mx4BFhR0u6xy75cQ/s600/in-karak-skygg1.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjPWpGhu2MDb5b6B7Ukl3HR-USX1jDOc0FgibcHmehPTTMV1AzqbfouaROuU9xDT8PYZggbN3PG8Wz44xTImzXQxmzGd8WiG_zZ1Bi28KZu95boOFD-oc-g5StVxQf-IGyie_S2_7AAXzWdpCLB-1XaBd7rWcCnn55aiKu3XnZXC9mx4BFhR0u6xy75cQ/s4867/in-karak-skygg1.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjPWpGhu2MDb5b6B7Ukl3HR-USX1jDOc0FgibcHmehPTTMV1AzqbfouaROuU9xDT8PYZggbN3PG8Wz44xTImzXQxmzGd8WiG_zZ1Bi28KZu95boOFD-oc-g5StVxQf-IGyie_S2_7AAXzWdpCLB-1XaBd7rWcCnn55aiKu3XnZXC9mx4BFhR0u6xy75cQ/s600/in-karak-skygg1.webp)
 
 Aucune hésitation, aucune peur, Pesold et Phineas tirent sur
 le chef skaven sans même qu’il ne puisse réagir. Il s’effondra. Anselm tenta de
