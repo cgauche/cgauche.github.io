@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/14-ubersreik.html](https://monennemiinterieur.blogspot.com/2024/10/14-ubersreik.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_iU1XjDQZuI-SeVFWoHO_ZJJONrYFLhoS5hpsy_hEwINO49c9PK8hnzhoPDOOTlroyaEfkcFxZQC7uXVBe_g-chHmeX_GAiNIlNkkRFUAMtBWoZYpKVUIdRHQnVOW5H7tiFYGlweSUb1OutkNHoI3BfIfhvTP7j1yo2gYCVcmJ8mg4kF_j5XxXhVLaE/s600/ubersreik.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_iU1XjDQZuI-SeVFWoHO_ZJJONrYFLhoS5hpsy_hEwINO49c9PK8hnzhoPDOOTlroyaEfkcFxZQC7uXVBe_g-chHmeX_GAiNIlNkkRFUAMtBWoZYpKVUIdRHQnVOW5H7tiFYGlweSUb1OutkNHoI3BfIfhvTP7j1yo2gYCVcmJ8mg4kF_j5XxXhVLaE/s5880/ubersreik.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY_iU1XjDQZuI-SeVFWoHO_ZJJONrYFLhoS5hpsy_hEwINO49c9PK8hnzhoPDOOTlroyaEfkcFxZQC7uXVBe_g-chHmeX_GAiNIlNkkRFUAMtBWoZYpKVUIdRHQnVOW5H7tiFYGlweSUb1OutkNHoI3BfIfhvTP7j1yo2gYCVcmJ8mg4kF_j5XxXhVLaE/s600/ubersreik.webp)
 
 Après quelques jours de voyage, nous arrivâmes à Ubersreik. La ville était en
 proie à l’instabilité depuis que l’empereur en avait pris possession par la force et destitué le châtelain local. Son armée était d'ailleurs toujours stationnée ici.
@@ -18,7 +18,7 @@ clients aisés, et qui était aussi un relai pour un grand groupe de lignes de
 transport de diligences, les Quatre Saisons. Cela serait l’occasion pour elle d’également s’occuper de
 l’écurie. Dans le même temps elle s’inscrivit dans une troupe de théâtre à la place du marché.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7Dbd6dYFGLQot02qPchmr6-Zof3z_q98a0bCZfvz5AcGAFSGRTQNE__ORnaxneFOropfjzdf2UQ26bpS0AJ4phEYHPKjOqiHp9h-JIjbadZ_rSpz6Rc_K20qt15ln9tXf_pPZOpLaAThFzmLEhOSwnetxHK7CWUTnHIRXezyTe5wwcS7TMkUvliNO_E/s600/marktplatz.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7Dbd6dYFGLQot02qPchmr6-Zof3z_q98a0bCZfvz5AcGAFSGRTQNE__ORnaxneFOropfjzdf2UQ26bpS0AJ4phEYHPKjOqiHp9h-JIjbadZ_rSpz6Rc_K20qt15ln9tXf_pPZOpLaAThFzmLEhOSwnetxHK7CWUTnHIRXezyTe5wwcS7TMkUvliNO_E/s2548/marktplatz.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7Dbd6dYFGLQot02qPchmr6-Zof3z_q98a0bCZfvz5AcGAFSGRTQNE__ORnaxneFOropfjzdf2UQ26bpS0AJ4phEYHPKjOqiHp9h-JIjbadZ_rSpz6Rc_K20qt15ln9tXf_pPZOpLaAThFzmLEhOSwnetxHK7CWUTnHIRXezyTe5wwcS7TMkUvliNO_E/s600/marktplatz.webp)
 
 Pour les autres, Skippy était flagellant de Sigmar et allait se rapprocher de son temple,
 et Pathsokar était chasseur de prime, il trouverait surement des occupations ici.

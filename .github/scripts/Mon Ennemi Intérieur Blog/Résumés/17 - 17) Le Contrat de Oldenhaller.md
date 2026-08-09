@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/17-le-contrat-de-oldenhaller.html](https://monennemiinterieur.blogspot.com/2024/10/17-le-contrat-de-oldenhaller.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiEgmxZ8VkFQTHRotw7lRkjyYQJL6w6m3emEAqNo6X1ALyf0I5poVvYn8doX_WG06KNZPyi3yrKwuqo-ZfEwPbon9QHx0eQPcbO8o6mpjQgVhYwnh57wBwuD5bsCE6rrPEwbgVqdyzXivXEGBgXpDXjqWWn4Djr-uWhHZKlhw7xIkVNZjE_qkiuEphNhzx/s1600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiEgmxZ8VkFQTHRotw7lRkjyYQJL6w6m3emEAqNo6X1ALyf0I5poVvYn8doX_WG06KNZPyi3yrKwuqo-ZfEwPbon9QHx0eQPcbO8o6mpjQgVhYwnh57wBwuD5bsCE6rrPEwbgVqdyzXivXEGBgXpDXjqWWn4Djr-uWhHZKlhw7xIkVNZjE_qkiuEphNhzx/s1600/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiEgmxZ8VkFQTHRotw7lRkjyYQJL6w6m3emEAqNo6X1ALyf0I5poVvYn8doX_WG06KNZPyi3yrKwuqo-ZfEwPbon9QHx0eQPcbO8o6mpjQgVhYwnh57wBwuD5bsCE6rrPEwbgVqdyzXivXEGBgXpDXjqWWn4Djr-uWhHZKlhw7xIkVNZjE_qkiuEphNhzx/s1600/Capture.PNG)
 
 Filianore, mais surtout Pathsokar et Mark n’étaient plus aptes à grand-chose, et il fallut les porter
 à leur domicile afin qu’ils se reposent quelques jours. Anselm boitait mais il s’en remettrait. Ce n’était plus la première blessure qu’il trainait négligemment.
@@ -23,7 +23,7 @@ Nous partîmes en direction des bas quartiers, qui se trouvaient au niveau direc
 Durant le trajet, nous pûmes faire connaissance avec nos nouveaux amis. Mardrin était quelqu’un d’assez calme, au contraire de Caranthir qui s’amusait à faire des tours de passe-passe avec sa magie pour impressionner la galerie. Devant la porte du contact, nous fûmes très
 hésitants. Il faut dire que l’affiche indiquant de frapper et d’attendre était assez claire.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQdhyWlcAjzr-QB_EBxEhL4tt8dILeQRT_Nqhl-eVAqExto-O6sxNy1PiorFA25hbwA-ZKRpiIVkgBaIl65ipFVV1lZxHwqwl6aln9mUl24M6Ss7aFr4SR-KeyFKNmVvWm2MSFEXYeJLp0Orh9TnWMQjR2lhXCbVjuD2pcOBAU1C9PDFee2vbKycx5zA/s600/ubersreik-bridge.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQdhyWlcAjzr-QB_EBxEhL4tt8dILeQRT_Nqhl-eVAqExto-O6sxNy1PiorFA25hbwA-ZKRpiIVkgBaIl65ipFVV1lZxHwqwl6aln9mUl24M6Ss7aFr4SR-KeyFKNmVvWm2MSFEXYeJLp0Orh9TnWMQjR2lhXCbVjuD2pcOBAU1C9PDFee2vbKycx5zA/s3316/ubersreik-bridge.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDQdhyWlcAjzr-QB_EBxEhL4tt8dILeQRT_Nqhl-eVAqExto-O6sxNy1PiorFA25hbwA-ZKRpiIVkgBaIl65ipFVV1lZxHwqwl6aln9mUl24M6Ss7aFr4SR-KeyFKNmVvWm2MSFEXYeJLp0Orh9TnWMQjR2lhXCbVjuD2pcOBAU1C9PDFee2vbKycx5zA/s600/ubersreik-bridge.webp)
 
 Après l’avoir longuement frappé, nous fîmes attention au piège avant de l’ouvrir par crochetage, de rentrer, et de voir une
 scène terrible. De nombreux corps sans vie étaient jonchés sur le sol, il ne semblait plus avoir
@@ -48,7 +48,7 @@ du chef Valentina. Elle était couverte de morsures. Un son sourd, mais de plus 
 couloirs de l’égout. Rapidement, nous vîmes une véritable horde de rats nous
 foncer dessus !
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyP9YUVaQoGqkOrJvxTBsN5kIpUceg1Z4NUWN6lww9I-r9o7GljaZcyPlc8izOO8J28hkGgR6065MxaMYIMzYru_eoYZbvFZRJT6l3wgXN_EYVdL1ZOy4YwMZZJH6XA8SqLzC6toBPMNNJe2MTvpvRANNcoOsNjobsBx4m9SYDA6kRF8lykzRXsaahIbM/s600/swarm-of-rats%281%29.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyP9YUVaQoGqkOrJvxTBsN5kIpUceg1Z4NUWN6lww9I-r9o7GljaZcyPlc8izOO8J28hkGgR6065MxaMYIMzYru_eoYZbvFZRJT6l3wgXN_EYVdL1ZOy4YwMZZJH6XA8SqLzC6toBPMNNJe2MTvpvRANNcoOsNjobsBx4m9SYDA6kRF8lykzRXsaahIbM/s1416/swarm-of-rats%281%29.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyP9YUVaQoGqkOrJvxTBsN5kIpUceg1Z4NUWN6lww9I-r9o7GljaZcyPlc8izOO8J28hkGgR6065MxaMYIMzYru_eoYZbvFZRJT6l3wgXN_EYVdL1ZOy4YwMZZJH6XA8SqLzC6toBPMNNJe2MTvpvRANNcoOsNjobsBx4m9SYDA6kRF8lykzRXsaahIbM/s600/swarm-of-rats%281%29.webp)
 
 En pleine panique nous partîmes vers une galerie. Nous ne
 courrions pas assez vite, ils allaient nous rattraper, lorsqu’on arriva au
@@ -75,7 +75,7 @@ adversaires prenaient leur part, notamment grâce à l’efficacité de nos deux
 gemme à l’un des cultistes, visiblement en plein rituel, avant de l’enfermer dans la boite sans la toucher directement. Il y avait non loin une étendue d’eau, et au fond, il nous semblait voir de la lumière. Nous mîmes un bateau à l’eau, et nous lancèrent vers la sortie. Nous
 réussîmes à atteindre une bouche d’égout et à remonter à la surface.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEODB30ZoZF4ENgD8qWpKWnyH8lIarclTEysPuVMsD6blawRbR1A9_xhdCn6KzQpvPge_qnZqZTyEAs0r3B03h-_SuveqVpGptgd81FwwEVKweuHkseO0HX1ZolbNy18OV6yC6lL4K1f21Mgw-fHiFQ2zBkC372tCcXBueeYsF3BEAJ7IJBbEKh2GZFGg/s600/ubersreik-street-sewer.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEODB30ZoZF4ENgD8qWpKWnyH8lIarclTEysPuVMsD6blawRbR1A9_xhdCn6KzQpvPge_qnZqZTyEAs0r3B03h-_SuveqVpGptgd81FwwEVKweuHkseO0HX1ZolbNy18OV6yC6lL4K1f21Mgw-fHiFQ2zBkC372tCcXBueeYsF3BEAJ7IJBbEKh2GZFGg/s3118/ubersreik-street-sewer.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEODB30ZoZF4ENgD8qWpKWnyH8lIarclTEysPuVMsD6blawRbR1A9_xhdCn6KzQpvPge_qnZqZTyEAs0r3B03h-_SuveqVpGptgd81FwwEVKweuHkseO0HX1ZolbNy18OV6yC6lL4K1f21Mgw-fHiFQ2zBkC372tCcXBueeYsF3BEAJ7IJBbEKh2GZFGg/s600/ubersreik-street-sewer.webp)
 
 Après cette folle aventure, nous revînmes au palais Bruner, où le majordome
 d’Andreas nous demanda à lui rendre le coffre, avant de nous inviter à un bon

@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/37-carnaval-jour-6.html](https://monennemiinterieur.blogspot.com/2024/10/37-carnaval-jour-6.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HZjlDV6n24TiOekxBs3IiWtL0bFlg4waM7gCcl3qMGITH2Sd1QJr2zX7vrFJtxyFMb4dzDy_QiG_uXEX07ZlCbVKcZHxQWQwIquFZPc3BqebwSV8EFNgjJ_Ypiw8FBZ7mOGDV4Qp-k7V-nhw0wvRj9Ac4u0Ij9jVWcOO3slskJaaiw2GAysLVnRvmOU/s600/grafs-court.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HZjlDV6n24TiOekxBs3IiWtL0bFlg4waM7gCcl3qMGITH2Sd1QJr2zX7vrFJtxyFMb4dzDy_QiG_uXEX07ZlCbVKcZHxQWQwIquFZPc3BqebwSV8EFNgjJ_Ypiw8FBZ7mOGDV4Qp-k7V-nhw0wvRj9Ac4u0Ij9jVWcOO3slskJaaiw2GAysLVnRvmOU/s4900/grafs-court.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HZjlDV6n24TiOekxBs3IiWtL0bFlg4waM7gCcl3qMGITH2Sd1QJr2zX7vrFJtxyFMb4dzDy_QiG_uXEX07ZlCbVKcZHxQWQwIquFZPc3BqebwSV8EFNgjJ_Ypiw8FBZ7mOGDV4Qp-k7V-nhw0wvRj9Ac4u0Ij9jVWcOO3slskJaaiw2GAysLVnRvmOU/s600/grafs-court.webp)
 
 Dietrich refusait d’abandonner les enfants perdus, alors nous sommes retournés dans le quartier et nous avons continué à chercher. On nous a dit qu’il y avait des bordels avec des enfants. Anselm se sentit l’âme d’un enquêteur, où peut-être était-ce le délice de Ranald qu’on lui avait fait consommer pour avoir les informations, en tout cas il demanda à aller dans ce bordel et on lui présenta un enfant.
 
@@ -19,4 +19,4 @@ Pathsokar la convainquit de retourner au palais, et lui promit qu’il ferait so
 
 Pendant ce temps, les amis de Pathsokar nous aidaient à intervenir dans la planque de Gotthard et libéraient les enfants que Dietrich recherchait. Les enfants nous dirent qu’ils avaient vu la femme que nous leur avions demandé de retrouver, en compagnie d’un mage et de deux gros bras, mais qu’ils les avaient attrapés. Il y avait une fille prisonnière aussi, elle disait que son oncle viendrait la sauver et les punir, car c’était un seigneur des lois...
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs-ptaXijCWLEv5SU6VV1p6dAheQvs4xbBv7lEQ6pw8mKRbqZXwDyNryXCCqquWsVVD_7LwQU3SVARtgRhCjxl56ek7qY2DJhkEqGDHVnL-f65K2RNaNS82Ogcn9A9OWlRSPDyNUQOy3b6IMenw7E2ZDv1SSWBBwguShevWb3MTS8m-l2XHcYY84Hf3Njq/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs-ptaXijCWLEv5SU6VV1p6dAheQvs4xbBv7lEQ6pw8mKRbqZXwDyNryXCCqquWsVVD_7LwQU3SVARtgRhCjxl56ek7qY2DJhkEqGDHVnL-f65K2RNaNS82Ogcn9A9OWlRSPDyNUQOy3b6IMenw7E2ZDv1SSWBBwguShevWb3MTS8m-l2XHcYY84Hf3Njq/s591/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs-ptaXijCWLEv5SU6VV1p6dAheQvs4xbBv7lEQ6pw8mKRbqZXwDyNryXCCqquWsVVD_7LwQU3SVARtgRhCjxl56ek7qY2DJhkEqGDHVnL-f65K2RNaNS82Ogcn9A9OWlRSPDyNUQOy3b6IMenw7E2ZDv1SSWBBwguShevWb3MTS8m-l2XHcYY84Hf3Njq/s16000/Capture.PNG)

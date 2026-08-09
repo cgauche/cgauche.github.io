@@ -2,10 +2,10 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/3-une-nuit-lopera.html](https://monennemiinterieur.blogspot.com/2024/10/3-une-nuit-lopera.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL66s5O_-d8o4SZE6k4Mzastn_J5dzuioevI2OXOHH_MVp_2RiRTCtPIWka9H64tQPgBAdL89LGIVCW68lVD31UOkRz5ER2W5oRo02ZxEDFlDYqr_WbKwAr6d4v3RKUgLwhdJ2nbT92bCHcbaqdz3Lz8wTDaOuyDB6eKVdqbnETz-xEKuAfr7AJTzH2ac/s600/nuln1.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL66s5O_-d8o4SZE6k4Mzastn_J5dzuioevI2OXOHH_MVp_2RiRTCtPIWka9H64tQPgBAdL89LGIVCW68lVD31UOkRz5ER2W5oRo02ZxEDFlDYqr_WbKwAr6d4v3RKUgLwhdJ2nbT92bCHcbaqdz3Lz8wTDaOuyDB6eKVdqbnETz-xEKuAfr7AJTzH2ac/s3117/nuln1.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL66s5O_-d8o4SZE6k4Mzastn_J5dzuioevI2OXOHH_MVp_2RiRTCtPIWka9H64tQPgBAdL89LGIVCW68lVD31UOkRz5ER2W5oRo02ZxEDFlDYqr_WbKwAr6d4v3RKUgLwhdJ2nbT92bCHcbaqdz3Lz8wTDaOuyDB6eKVdqbnETz-xEKuAfr7AJTzH2ac/s600/nuln1.png)
 
 Pour fêter la victoire, la Gravin a été invité par sa
-tante, la grande comtesse de Nuln [Emmanuelle von Liebwitz](https://monennemiinterieur.blogspot.com/search/Comtesse%20Emmanuelle), pour aller voir un
+tante, la grande comtesse de Nuln Emmanuelle von Liebwitz, pour aller voir un
 spectacle à l’opéra. Nous allions changer d’air, et enfin passer un peu de bon
 temps après une semaine éprouvante.
 
@@ -52,7 +52,7 @@ ville.
 Lirrian avait
 vu – ou senti – le magicien, et lui lança un sort d’immobilisation alors qu’il essayait de s’enfuir. Skippy et lui l’attrapèrent et le ramenèrent au poste de garde non loin.
 
-Suivant la comtesse discrètement, l’[homme](<../PNJ/Matthias Hubkind.md>) qui avait attisé la haine du
+Suivant la comtesse discrètement, l’homme qui avait attisé la haine du
 fantôme à Nuln, ce répurgateur qui était présent au procès, montait à notre
 étage. Il souhaitait toujours arrêter la Gravin, la pensant coupable malgré les
 preuves irréfutables apportées lors du procès. Il a feint s’être perdu lorsque
@@ -73,7 +73,7 @@ semblait l’œuvre de la mafia locale.
 La cloche sonna la fin du premier acte sous des applaudissements nourris.
 Skippy et Lirrian, qui avaient trouvé porte close en arrivant après le début de la pièce purent enfin rentrer. Plusieurs personnes défilèrent à l’étage de la comtesse pour lui rendre hommage
 et lui offrir des présents. Parmi eux, un immense dramaturge vint les voir et
-se présenter en tant que [Detlef Sierck](<../PNJ/Detlef Sierek.md>).
+se présenter en tant que Detlef Sierck.
 Mais aussitôt après, un homme masqué et
 terrifiant se lança dans un spectacle improvisé avec lui, une caricature de
 l’œuvre originale de Detlef. A la suite d’un acte volontaire mais discret de
@@ -81,7 +81,7 @@ l’acteur grâce à sa complice, il l’avait pétrifié sur place et le fit ag
 générale, les spectateurs pensant qu’il jouait la comédie. Nous arrivâmes à le
 sauver sans éveiller les soupçons.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSw2TLSmDTtO-u9nogTdrv-ViOo-1nzadGVHR7Vs_bJpuQ2vcYQTc36z9FvtKatOoGWnlIy2cq4LTQaSb2RWOTYaYGCm8l_CzBTIJMF_hpGF0fPWjzxNBolWkzDIlyFoH9aaEfk7PVo_bnUZODIw-wah-YVO_GBY2nJaPMmcBAMBSAr1M3Cj0i_UckQ/s600/drachenfels.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSw2TLSmDTtO-u9nogTdrv-ViOo-1nzadGVHR7Vs_bJpuQ2vcYQTc36z9FvtKatOoGWnlIy2cq4LTQaSb2RWOTYaYGCm8l_CzBTIJMF_hpGF0fPWjzxNBolWkzDIlyFoH9aaEfk7PVo_bnUZODIw-wah-YVO_GBY2nJaPMmcBAMBSAr1M3Cj0i_UckQ/s1908/drachenfels.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9MSw2TLSmDTtO-u9nogTdrv-ViOo-1nzadGVHR7Vs_bJpuQ2vcYQTc36z9FvtKatOoGWnlIy2cq4LTQaSb2RWOTYaYGCm8l_CzBTIJMF_hpGF0fPWjzxNBolWkzDIlyFoH9aaEfk7PVo_bnUZODIw-wah-YVO_GBY2nJaPMmcBAMBSAr1M3Cj0i_UckQ/s600/drachenfels.webp)
 
 Un peu plus tard, des nobles de deux familles rivales, les Toppenheimer et les
 Pfeifraucher, se battirent. Cela se termina en défenestration massive. Que les nobles sont
@@ -98,7 +98,7 @@ tandis que la comtesse agonisait. Elvira implora sa déesse de la sauver en lan�
 sorti. L’opéra sombra dans l’horreur et la panique, que nous ne
 plument réussir à calmer. Et Sigrun ? Nul ne sait s’il s’en était sorti…
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQwtGxx-gNb3PeHLsrIZtYkjG5B0kxAnxvhWPhr8sH6v9eVfwXW9H0bRfS8KiDMArtJc1bcfATZWDZOpm3zap9qfNrFZS6QoJ92YHfObHUYiVyIxZT3_xDt0kZwEETlzSSOcegnIikI7EQiN1EJVxsvcwKTATlz3tgiRSWrR8Hi2fNVyWV6WgJRNy-Qs/s600/nuln2.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQwtGxx-gNb3PeHLsrIZtYkjG5B0kxAnxvhWPhr8sH6v9eVfwXW9H0bRfS8KiDMArtJc1bcfATZWDZOpm3zap9qfNrFZS6QoJ92YHfObHUYiVyIxZT3_xDt0kZwEETlzSSOcegnIikI7EQiN1EJVxsvcwKTATlz3tgiRSWrR8Hi2fNVyWV6WgJRNy-Qs/s2923/nuln2.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQwtGxx-gNb3PeHLsrIZtYkjG5B0kxAnxvhWPhr8sH6v9eVfwXW9H0bRfS8KiDMArtJc1bcfATZWDZOpm3zap9qfNrFZS6QoJ92YHfObHUYiVyIxZT3_xDt0kZwEETlzSSOcegnIikI7EQiN1EJVxsvcwKTATlz3tgiRSWrR8Hi2fNVyWV6WgJRNy-Qs/s600/nuln2.png)
 
 Le désordre qui s’ensuivit ne nous permis pas d’en savoir plus, car nous dûmes
 évacuer et nous fûmes dispersés alors que des anarchistes commençaient à

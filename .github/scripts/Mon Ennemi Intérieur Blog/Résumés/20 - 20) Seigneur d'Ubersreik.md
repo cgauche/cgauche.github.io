@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/18-seigneur-dubersreik.html](https://monennemiinterieur.blogspot.com/2024/10/18-seigneur-dubersreik.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn2niwWe6kt0B47rIGxEhfo3mS_j6NK0ukF5bQODPPaok5KaX-mKVrTCGrHWNVgs0g6TpKSV99so3ecQQjt6TqPSWvtqgH3u0_pkj5fQp_M7WHZ7UsPb9kTKthaBMPe0AE04o_rGVk9strVFuWCy0mw0A_vnq4m9xddJwMd47zX_O2oc8q_G6CG7NPkej/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn2niwWe6kt0B47rIGxEhfo3mS_j6NK0ukF5bQODPPaok5KaX-mKVrTCGrHWNVgs0g6TpKSV99so3ecQQjt6TqPSWvtqgH3u0_pkj5fQp_M7WHZ7UsPb9kTKthaBMPe0AE04o_rGVk9strVFuWCy0mw0A_vnq4m9xddJwMd47zX_O2oc8q_G6CG7NPkej/s1065/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn2niwWe6kt0B47rIGxEhfo3mS_j6NK0ukF5bQODPPaok5KaX-mKVrTCGrHWNVgs0g6TpKSV99so3ecQQjt6TqPSWvtqgH3u0_pkj5fQp_M7WHZ7UsPb9kTKthaBMPe0AE04o_rGVk9strVFuWCy0mw0A_vnq4m9xddJwMd47zX_O2oc8q_G6CG7NPkej/s600/Capture.PNG)
 
 L’instabilité politique régnait en ville depuis le putsch de l’empereur, et
 aucune famille n’avaient encore réussi à se distinguer pour prendre la suite
@@ -25,7 +25,7 @@ que partie de l’empereur, était habillé sobrement, en costume militaire comp
 une coupe de cheveux à double queue de comète, l’un des symboles de l’Empire. Il était accompagné d’un chevalier
 panthère. Il s’agissait en réalité d**’Emmanuelle Nacht**, venue incognito et qui était la véritable dirigeante de l’empereur.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTftetnNPiBw6lzV81EoihP6io14o8ryx3n1VYdXivkpQW5gPOAYLO0sUrXNJ0NAiAVyf2YZ5AGnW4rQzJLJz4XbFVohdgmLo0MVk678cn3fL3MkMEFy0YvtgS5tvkjMo2XmXkdO1pJ_ZPbY-SViwUr4ycWhbu3THCf224KTAFYWxsecpuWNSet4PCce3w/w640-h348/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTftetnNPiBw6lzV81EoihP6io14o8ryx3n1VYdXivkpQW5gPOAYLO0sUrXNJ0NAiAVyf2YZ5AGnW4rQzJLJz4XbFVohdgmLo0MVk678cn3fL3MkMEFy0YvtgS5tvkjMo2XmXkdO1pJ_ZPbY-SViwUr4ycWhbu3THCf224KTAFYWxsecpuWNSet4PCce3w/s1062/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTftetnNPiBw6lzV81EoihP6io14o8ryx3n1VYdXivkpQW5gPOAYLO0sUrXNJ0NAiAVyf2YZ5AGnW4rQzJLJz4XbFVohdgmLo0MVk678cn3fL3MkMEFy0YvtgS5tvkjMo2XmXkdO1pJ_ZPbY-SViwUr4ycWhbu3THCf224KTAFYWxsecpuWNSet4PCce3w/w640-h348/Capture.PNG)
 
 La famille Aschaffeberg, **Rickard** en tête, entra dans le vestibule, et dès
 qu’ils eurent croisé leur regard, lui et **Heinrich Bruner**, ils s’insultèrent
@@ -52,7 +52,7 @@ représentation de sa déesse, virent leurs vêtements s’échanger sous l’hi
 générale. Puis plus tard, un sanglier sur un plat du buffet s’anima et attaqua
 les convives…
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzSYShBFUHCW3psp8XseJ_kdAEbXeOqsdye48QSAukWp1PyNctBr_nc43rpAPasUpeeK2zhFS6yfZjdE-fs24gCoPkvO8ejvlDGnK7eqc8pmNTBCn43PlZo1pDvG8T8_lMiehr1lpehS4THUWRtSpdxPnFM6xEyLhSuAxsxMwfr0Lct5nNw4olWlnUtbff/w640-h288/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzSYShBFUHCW3psp8XseJ_kdAEbXeOqsdye48QSAukWp1PyNctBr_nc43rpAPasUpeeK2zhFS6yfZjdE-fs24gCoPkvO8ejvlDGnK7eqc8pmNTBCn43PlZo1pDvG8T8_lMiehr1lpehS4THUWRtSpdxPnFM6xEyLhSuAxsxMwfr0Lct5nNw4olWlnUtbff/s1063/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzSYShBFUHCW3psp8XseJ_kdAEbXeOqsdye48QSAukWp1PyNctBr_nc43rpAPasUpeeK2zhFS6yfZjdE-fs24gCoPkvO8ejvlDGnK7eqc8pmNTBCn43PlZo1pDvG8T8_lMiehr1lpehS4THUWRtSpdxPnFM6xEyLhSuAxsxMwfr0Lct5nNw4olWlnUtbff/w640-h288/Capture.PNG)
 
 Dans le même temps, les invités s’écharpaient chacun de leur côté. Un
 bretonien défia en duel un jeune noble, le prêtre de Sigmar et de Verena

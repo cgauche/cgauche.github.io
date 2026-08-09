@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/test.html](https://monennemiinterieur.blogspot.com/2024/10/test.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgzhu7inMx26adkuPPO8Lu_KYgbJgSfRkDb_KObedEP2W1ohABKIhF5H-CPCEnVahL-qnkIi6hXJXAD7qotzJQW4W7WeLEWCUpx95MQLAk35gvNv8Gn3L2csS2etQWA1Q69S8TovOGjYIZRdwvzFXIHI5a1zFs9dmpH-P5tK28qVDPYB7dmsEp_BAeZI/w640-h324/trois%20plumes%201.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgzhu7inMx26adkuPPO8Lu_KYgbJgSfRkDb_KObedEP2W1ohABKIhF5H-CPCEnVahL-qnkIi6hXJXAD7qotzJQW4W7WeLEWCUpx95MQLAk35gvNv8Gn3L2csS2etQWA1Q69S8TovOGjYIZRdwvzFXIHI5a1zFs9dmpH-P5tK28qVDPYB7dmsEp_BAeZI/s1600/trois%20plumes%201.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQgzhu7inMx26adkuPPO8Lu_KYgbJgSfRkDb_KObedEP2W1ohABKIhF5H-CPCEnVahL-qnkIi6hXJXAD7qotzJQW4W7WeLEWCUpx95MQLAk35gvNv8Gn3L2csS2etQWA1Q69S8TovOGjYIZRdwvzFXIHI5a1zFs9dmpH-P5tK28qVDPYB7dmsEp_BAeZI/w640-h324/trois%20plumes%201.png)
 
 Notre histoire commença au milieu du Rekland, une région de notre puissant Empire, sur une route perdue de
 campagne. Nous étions quatre, à cette époque…
@@ -34,7 +34,7 @@ Ce soir-là, comme à notre habitude, nous cherchions une auberge pour passer la
 était souvent mortelles, il se disait que des hommes revenus à l’état sauvage, des mutants, rôdaient dans les bois et profitaient de
 notre sommeil pour nous manger ! Nous vîmes au loin un bâtiment avec plusieurs personnes garant des diligences.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdWh4XLXgPya6Hk0VpfrCKaw9oGBafMbxSGYrE3vR3n_uT8JfXCSKnpo0d8aI9FGKW-uBtwSgngELPQcOMTtZ3KVHHcQ2_aoXhWDI2JyEjyVhcFC7qNBbj0MMqa-DO8JJF3DwBmn1r24HPxKdSzVDfw1YIxhczeO8oIT39BDIrmANNSi_I3ExQTTSJTk/w640-h326/trois%20plumes%202.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdWh4XLXgPya6Hk0VpfrCKaw9oGBafMbxSGYrE3vR3n_uT8JfXCSKnpo0d8aI9FGKW-uBtwSgngELPQcOMTtZ3KVHHcQ2_aoXhWDI2JyEjyVhcFC7qNBbj0MMqa-DO8JJF3DwBmn1r24HPxKdSzVDfw1YIxhczeO8oIT39BDIrmANNSi_I3ExQTTSJTk/s1600/trois%20plumes%202.png)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdWh4XLXgPya6Hk0VpfrCKaw9oGBafMbxSGYrE3vR3n_uT8JfXCSKnpo0d8aI9FGKW-uBtwSgngELPQcOMTtZ3KVHHcQ2_aoXhWDI2JyEjyVhcFC7qNBbj0MMqa-DO8JJF3DwBmn1r24HPxKdSzVDfw1YIxhczeO8oIT39BDIrmANNSi_I3ExQTTSJTk/w640-h326/trois%20plumes%202.png)
 
 Nous nous arrêtions dans l’auberge des Trois Plumes, une bâtisse de deux étages avec des écuries et même un quai. Elle était en
 pleine effervescence, il semblait qu’une sommité dormait ici ce soir, la
@@ -74,13 +74,13 @@ Alors que nous redescendions, nous vîmes une délégation de trois prêtres de 
 dans l’auberge, et demander à l’aubergiste à s’isoler et à ne pas être dérangés. Ils comptaient faire un rituel ce soir et pourraient être bruyants.
 Morr était le dieu du trépas, et ses prêtres s’occupaient des défunts. Il était cependant étrange d’en trouver se promenant en rase campagne avec un cercueil.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lD37IU__EbYR2tvPYZVBjD_I5umwVKaa8a4JneO9_2rxxhBy8K6eAAjHpGBFGSyiDbvpDy_ZpklQ9xHv_MQIprDSjq0nopvtY1G_WegfORXMLxC91R59np3UMn-cpvdpWGcmzhE6_AFMTLFLEQDjlgBSQGfeMR2ul9-xQFp0mSPqkVWKigl7jNYOMxw/w640-h329/morrians2.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lD37IU__EbYR2tvPYZVBjD_I5umwVKaa8a4JneO9_2rxxhBy8K6eAAjHpGBFGSyiDbvpDy_ZpklQ9xHv_MQIprDSjq0nopvtY1G_WegfORXMLxC91R59np3UMn-cpvdpWGcmzhE6_AFMTLFLEQDjlgBSQGfeMR2ul9-xQFp0mSPqkVWKigl7jNYOMxw/s1600/morrians2.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2lD37IU__EbYR2tvPYZVBjD_I5umwVKaa8a4JneO9_2rxxhBy8K6eAAjHpGBFGSyiDbvpDy_ZpklQ9xHv_MQIprDSjq0nopvtY1G_WegfORXMLxC91R59np3UMn-cpvdpWGcmzhE6_AFMTLFLEQDjlgBSQGfeMR2ul9-xQFp0mSPqkVWKigl7jNYOMxw/w640-h329/morrians2.webp)
 
 Les derniers clients commençaient à se coucher, Bruno fut rappelé une nouvelle fois par la
 Gravin, mais soudain, un homme en colère entra violemment avec sa clique, et ils provoquèrent une bagarre. Il semblait que ce fût le mari trompé qui avait retrouvé la piste de sa femme, mais peu importe, la garde personnelle
 de la noble ainsi que certains d’entre nous les calmèrent très vite et les jetèrent dehors. Puis, pour éviter de nouveaux problèmes, nous décidâmes d’aller nous coucher également.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZXrPFCuhJHS1aBqIAGO6rV5iUCFPSO634W66Ae8LKcK6HHUITWbP2lvA-W-6fn7cKJ3rx_pvQ6Ig4YEZbV4gp0gIOub2bzvBq2QTnOodeX3Es4airL1QYXH5twiKHMya1Nycc7ytRy5RXWzbuRAqG2EtfX6pel1XRD50h9DL2SIcQP4xs9n5XklOIQk/w486-h640/cover.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZXrPFCuhJHS1aBqIAGO6rV5iUCFPSO634W66Ae8LKcK6HHUITWbP2lvA-W-6fn7cKJ3rx_pvQ6Ig4YEZbV4gp0gIOub2bzvBq2QTnOodeX3Es4airL1QYXH5twiKHMya1Nycc7ytRy5RXWzbuRAqG2EtfX6pel1XRD50h9DL2SIcQP4xs9n5XklOIQk/s1600/cover.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirZXrPFCuhJHS1aBqIAGO6rV5iUCFPSO634W66Ae8LKcK6HHUITWbP2lvA-W-6fn7cKJ3rx_pvQ6Ig4YEZbV4gp0gIOub2bzvBq2QTnOodeX3Es4airL1QYXH5twiKHMya1Nycc7ytRy5RXWzbuRAqG2EtfX6pel1XRD50h9DL2SIcQP4xs9n5XklOIQk/w486-h640/cover.webp)
 
 Dans la nuit, quelqu’un poussa un cri. En allant voir à l’étage, nous
 découvrîmes au milieu d’un attroupement Bruno assassiné, une dague dans le corps. Tout le monde ne s’était visiblement pas manifesté après le cri, et le gérant en conclut qu’il y avait peut-être d’autres morts. Un
@@ -92,7 +92,7 @@ C’était bien vrai, Sigrun ne retrouvait pas son arme. Suite aux accusations f
 La Gravin se leva alors. En tant qu’autorité compétente et principale personne lésée, elle annonça sa sentence : elle nous fit désarmer, nous condamna à rester enfermé dans une chambre pour être jugés le lendemain, et obligea Sigrun
 à rester à part et à remplacer son champion jusqu’à qu’elle le décide.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6HLRpiFCzzfkq9avi9UYvKXFI_HDcDTu7C_jvP85z4W1_hABhoNHSsj5Ea0RF4KTp-RK0_Bvo4fHy-Ug63mC8adcWxeRggoHxZBc1Vv-yQAgAzE-r2_3STfHlJxGleVIV4Zlq4x4ooe40Gq1wH387BzVF2bnX2H7ICo72OpvaXI90oLv8AJbA1WU_4Y/w640-h292/murder.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6HLRpiFCzzfkq9avi9UYvKXFI_HDcDTu7C_jvP85z4W1_hABhoNHSsj5Ea0RF4KTp-RK0_Bvo4fHy-Ug63mC8adcWxeRggoHxZBc1Vv-yQAgAzE-r2_3STfHlJxGleVIV4Zlq4x4ooe40Gq1wH387BzVF2bnX2H7ICo72OpvaXI90oLv8AJbA1WU_4Y/s1600/murder.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie6HLRpiFCzzfkq9avi9UYvKXFI_HDcDTu7C_jvP85z4W1_hABhoNHSsj5Ea0RF4KTp-RK0_Bvo4fHy-Ug63mC8adcWxeRggoHxZBc1Vv-yQAgAzE-r2_3STfHlJxGleVIV4Zlq4x4ooe40Gq1wH387BzVF2bnX2H7ICo72OpvaXI90oLv8AJbA1WU_4Y/w640-h292/murder.webp)
 
 Il nous était difficile de nous rendormir après pareil événement, nous nous demandions si nous n’allions pas finir pendu ou sur un bucher pour avoir eu le malheur de croiser la route d’une noble au mauvais moment.
 Mais la porte s’ouvrit, les gardes nous firent sortir et nous amenèrent jusqu’à la chambre de la Gravin.

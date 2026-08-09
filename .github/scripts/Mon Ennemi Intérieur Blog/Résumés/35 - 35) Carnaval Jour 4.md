@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/35-carnaval-jour-4.html](https://monennemiinterieur.blogspot.com/2024/10/35-carnaval-jour-4.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqb73Y_ndGxKc2Qo71pOisexJPB0GJAwqdgJqnWdN_gPHj6gR6X1syM-MEEUGRfYOLrQZO0HQvYbGyxLSz4fEL0jythKLr2ga7uRvOCDQd1Of2nAyvImGhUy8Gc_pJZN6iNoRhyxkeDane5nMKQzlQAgJEiJI_ApJRq4Pp3IjeF-J5FHVY7HhBrHEiSqI/s600/middenball-players.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqb73Y_ndGxKc2Qo71pOisexJPB0GJAwqdgJqnWdN_gPHj6gR6X1syM-MEEUGRfYOLrQZO0HQvYbGyxLSz4fEL0jythKLr2ga7uRvOCDQd1Of2nAyvImGhUy8Gc_pJZN6iNoRhyxkeDane5nMKQzlQAgJEiJI_ApJRq4Pp3IjeF-J5FHVY7HhBrHEiSqI/s3308/middenball-players.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqb73Y_ndGxKc2Qo71pOisexJPB0GJAwqdgJqnWdN_gPHj6gR6X1syM-MEEUGRfYOLrQZO0HQvYbGyxLSz4fEL0jythKLr2ga7uRvOCDQd1Of2nAyvImGhUy8Gc_pJZN6iNoRhyxkeDane5nMKQzlQAgJEiJI_ApJRq4Pp3IjeF-J5FHVY7HhBrHEiSqI/s600/middenball-players.webp)
 
 Le lendemain matin, la garde nous convoqua. Le capitaine **Ulrich Schutzmann** nous remercia pour notre intervention d’hier soir lors de l’attaque. Nous en profitions pour lui évoquer la taxe et il nous répondit que nous avions son approbation au sujet de son abrogation.
 
@@ -22,4 +22,4 @@ La journée se conclut par les matchs de middentball, un sport de balle en équi
 
 Après être parti, la prêtresse se rendit compte qu’elle avait pactisé avec le diable. Cette personne était à coup sûr un cultiste, elle était morte de honte et de déshonneur. Et en plus elle avait promis à ce pervers de le retrouver chez lui ?!
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPq5Xh3405ag4iIra020F3kWZOrpyDg9JdzyXAqMw2JM-aOof4fUxQX3ZraNRa9OiAjsujRRv2o6Ce0B9BsJk0uBpZCpETQZyBHHb0rXjWUmGLFYnUbeyRy5bU758kCWqTX505CK7sDDajK3WXkKw_ggofF3qvxaFbo-s2kG8JUfHE3JEwa7edl72tsrk/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPq5Xh3405ag4iIra020F3kWZOrpyDg9JdzyXAqMw2JM-aOof4fUxQX3ZraNRa9OiAjsujRRv2o6Ce0B9BsJk0uBpZCpETQZyBHHb0rXjWUmGLFYnUbeyRy5bU758kCWqTX505CK7sDDajK3WXkKw_ggofF3qvxaFbo-s2kG8JUfHE3JEwa7edl72tsrk/s604/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPq5Xh3405ag4iIra020F3kWZOrpyDg9JdzyXAqMw2JM-aOof4fUxQX3ZraNRa9OiAjsujRRv2o6Ce0B9BsJk0uBpZCpETQZyBHHb0rXjWUmGLFYnUbeyRy5bU758kCWqTX505CK7sDDajK3WXkKw_ggofF3qvxaFbo-s2kG8JUfHE3JEwa7edl72tsrk/s16000/Capture.PNG)

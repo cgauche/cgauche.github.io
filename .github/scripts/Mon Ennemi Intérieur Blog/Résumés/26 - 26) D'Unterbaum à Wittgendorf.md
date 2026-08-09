@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/26-dunterbaum-wittgendorf.html](https://monennemiinterieur.blogspot.com/2024/10/26-dunterbaum-wittgendorf.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLr-jocRNdBKTFQkinSO7m0RZ6AZhwcM9FXxwH-K7o4j5QNAAegJm005u2NqFSuXzNfTbGD-sIyQQn9-2cffvGrB5pFYM7luViUP2oXqQb4THC302p2ihh2JUpHlMC3NgfNdDIyZSX0O6zmTQepXw2BZqa-zQkojUmyez522dSWzR3Qg9pBK09ZOngHy09/w640-h274/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLr-jocRNdBKTFQkinSO7m0RZ6AZhwcM9FXxwH-K7o4j5QNAAegJm005u2NqFSuXzNfTbGD-sIyQQn9-2cffvGrB5pFYM7luViUP2oXqQb4THC302p2ihh2JUpHlMC3NgfNdDIyZSX0O6zmTQepXw2BZqa-zQkojUmyez522dSWzR3Qg9pBK09ZOngHy09/s1127/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLr-jocRNdBKTFQkinSO7m0RZ6AZhwcM9FXxwH-K7o4j5QNAAegJm005u2NqFSuXzNfTbGD-sIyQQn9-2cffvGrB5pFYM7luViUP2oXqQb4THC302p2ihh2JUpHlMC3NgfNdDIyZSX0O6zmTQepXw2BZqa-zQkojUmyez522dSWzR3Qg9pBK09ZOngHy09/w640-h274/Capture.PNG)
 
 Nous retournions à Kemperbad, mais personne ne sut nous dire où était passé Elvira. Ni Phineas d'ailleurs. Nous avions à présent deux compagnons disparus… Sans compter que Filianore avait contracté une maladie et qu’elle se sentait très mal.
 
@@ -29,7 +29,7 @@ Là-bas, nous choisîmes de laisser Filianore se reposer dans le bateau avec Pat
 
 En revenant au bateau, nous vîmes avec stupeur qu’il était en flammes ! Une foule de curieux s’était amassée devant Pathsokar inconscient et Filianore, muré dans le mutisme et visiblement dans tous ses états. Elle tenait à la main un linge avec des ossements d’enfant, qu’elle défendait avec acharnement. Elle avait l’air également miraculeusement en meilleure forme que ces dernières semaines. Les témoins nous ont dit avoir vu un groupe attaquer le bateau, puis une sorte d’explosion dans l’eau d’où sont sortis nos amis. Il était clair qu’elle nous avait caché beaucoup de choses.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj3OI7YFE6cpRR9XXedHKFWyknpToQK0HVrtluVW8soEVMj-5YThR4zez9Hr-XWm3_pyrD_Y50mIPWcxquFueCmEKrOuh78yxYkb9WxwZeBtX4rfYKRs6F8YokCVLeG1nSKBdj5BIjvmRHP1gVnBCipLeLkkOrZJEjmuD3Ow5XhpR0h0iOYDneyzpx6mD1/w640-h326/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj3OI7YFE6cpRR9XXedHKFWyknpToQK0HVrtluVW8soEVMj-5YThR4zez9Hr-XWm3_pyrD_Y50mIPWcxquFueCmEKrOuh78yxYkb9WxwZeBtX4rfYKRs6F8YokCVLeG1nSKBdj5BIjvmRHP1gVnBCipLeLkkOrZJEjmuD3Ow5XhpR0h0iOYDneyzpx6mD1/s1124/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj3OI7YFE6cpRR9XXedHKFWyknpToQK0HVrtluVW8soEVMj-5YThR4zez9Hr-XWm3_pyrD_Y50mIPWcxquFueCmEKrOuh78yxYkb9WxwZeBtX4rfYKRs6F8YokCVLeG1nSKBdj5BIjvmRHP1gVnBCipLeLkkOrZJEjmuD3Ow5XhpR0h0iOYDneyzpx6mD1/w640-h326/Capture.PNG)
 
 La Main Pourpre nous avait attaqué, nous n’étions en sécurité nulle part dans la ville. Elvira demanda à la garde de nous faire passer la nuit en prison. Le lendemain, nous retournions voir Phineas, et empruntions avec lui son navire pour le château Wittgenstein, quittant Kemperbad au plus vite.
 

@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/05-erreur-sur-la-personne.html](https://monennemiinterieur.blogspot.com/2024/10/05-erreur-sur-la-personne.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdBiJXSW6MoJ5RymLQpKsm6aRuhGOlRa2m1qCjU2UwVVo9jeS2twJJAis4j1myJuTJg5fY5X-WhrlN4JCeNGbNfDbfI72RJ1AtTvLTHIz0IV7LJaH4gocNHT7FdmfVtddSx2EFUyvX8WG-nq6Y0lRJ_aesO3qR6ntSKwB_NcpoVGGCx3-XbvPsCozMI3F1/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdBiJXSW6MoJ5RymLQpKsm6aRuhGOlRa2m1qCjU2UwVVo9jeS2twJJAis4j1myJuTJg5fY5X-WhrlN4JCeNGbNfDbfI72RJ1AtTvLTHIz0IV7LJaH4gocNHT7FdmfVtddSx2EFUyvX8WG-nq6Y0lRJ_aesO3qR6ntSKwB_NcpoVGGCx3-XbvPsCozMI3F1/s640/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdBiJXSW6MoJ5RymLQpKsm6aRuhGOlRa2m1qCjU2UwVVo9jeS2twJJAis4j1myJuTJg5fY5X-WhrlN4JCeNGbNfDbfI72RJ1AtTvLTHIz0IV7LJaH4gocNHT7FdmfVtddSx2EFUyvX8WG-nq6Y0lRJ_aesO3qR6ntSKwB_NcpoVGGCx3-XbvPsCozMI3F1/s16000/Capture.PNG)
 
 La route était pluvieuse et le chemin gadouilleux était très forestier. La diligence tanguait parfois dangereusement de droite à gauche mais Elvira
 arrivait à garder le cap, tout en chantant des airs enfantins. Si elle semblait passer un bon moment, pour nous le trajet sous les intempéries n’était pas très agréable.

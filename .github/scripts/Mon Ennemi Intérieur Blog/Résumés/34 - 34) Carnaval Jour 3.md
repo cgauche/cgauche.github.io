@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/34-carnaval-jour-3.html](https://monennemiinterieur.blogspot.com/2024/10/34-carnaval-jour-3.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g8VWhp7WxhW1dauaigIhZFbLuH8mtWKVfN-qcSJaw6mY7gmBbikDRrdqFXP0FMVQDDYZlCVr-Qgli_2j2Gs8aat8L2vR4Ni6cRYRvlraCNb3hvlkgyyO1FDvUZeUZGXslbzGe7SCN0nEV-tnyFiJzimB5NWq5ia6g3fMEPFzpjC0EsskWy_fMqRlOjc/s600/garden-party-gothard.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g8VWhp7WxhW1dauaigIhZFbLuH8mtWKVfN-qcSJaw6mY7gmBbikDRrdqFXP0FMVQDDYZlCVr-Qgli_2j2Gs8aat8L2vR4Ni6cRYRvlraCNb3hvlkgyyO1FDvUZeUZGXslbzGe7SCN0nEV-tnyFiJzimB5NWq5ia6g3fMEPFzpjC0EsskWy_fMqRlOjc/s3486/garden-party-gothard.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0g8VWhp7WxhW1dauaigIhZFbLuH8mtWKVfN-qcSJaw6mY7gmBbikDRrdqFXP0FMVQDDYZlCVr-Qgli_2j2Gs8aat8L2vR4Ni6cRYRvlraCNb3hvlkgyyO1FDvUZeUZGXslbzGe7SCN0nEV-tnyFiJzimB5NWq5ia6g3fMEPFzpjC0EsskWy_fMqRlOjc/s600/garden-party-gothard.webp)
 
 Pathsokar semblait remis de ses blessures, c’était vraiment un miracle. Heureusement pour lui, car ce matin il avait été choisi comme deuxième combattant pour le défi du champion. Seul lui savait ce que Filianore avait fait pour lui, et cela le motivait davantage.
 
@@ -20,7 +20,7 @@ Ils partirent en direction des bas quartiers. Ils rencontrèrent des garnements,
 
 Ils se rendirent ensuite dans la Fosse, une taverne miteuse l’Altquartier, où un homme du nom de **Bruno** leur vendit de quoi fabriquer du délice de Ranald. Ils en profitèrent pour questionner les habitants sur les dernières rumeurs en ville. Un vieillard qui semblait bien informé et qui se faisait appeler Josef leur fit payer des informations sur les seigneurs de loi. Il leur expliqua que le jour du vote de la taxe, **Ehrlich** avait quitté le palais furieux, et que depuis il restait cloitré chez lui. Il leur dit aussi qu’apparemment, la loi avait été votée à deux voix contre une, celle de **Wasmeier**.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMX3CCX0_sDB0gu57DMzWi-mA2msrgFZ6F3_mh6CPkDMtnXWYhzbWOANzyGYwb8mvVhijKimwnH9L0pNl0QieMBzriBocRuDVQfBCrxaHIRc9wJE3kLtZbS7alTxolwRBnfDNIqgKGBvp5MaB0t34Fl4wV3n5lVPKRFViT1y_XjNiKJ2Ah62iP9ddOpBk/s600/the-pit.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMX3CCX0_sDB0gu57DMzWi-mA2msrgFZ6F3_mh6CPkDMtnXWYhzbWOANzyGYwb8mvVhijKimwnH9L0pNl0QieMBzriBocRuDVQfBCrxaHIRc9wJE3kLtZbS7alTxolwRBnfDNIqgKGBvp5MaB0t34Fl4wV3n5lVPKRFViT1y_XjNiKJ2Ah62iP9ddOpBk/s6770/the-pit.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMX3CCX0_sDB0gu57DMzWi-mA2msrgFZ6F3_mh6CPkDMtnXWYhzbWOANzyGYwb8mvVhijKimwnH9L0pNl0QieMBzriBocRuDVQfBCrxaHIRc9wJE3kLtZbS7alTxolwRBnfDNIqgKGBvp5MaB0t34Fl4wV3n5lVPKRFViT1y_XjNiKJ2Ah62iP9ddOpBk/s600/the-pit.webp)
 
 ---
 Au jardin du palais, la fête commençait et **le Graf** était bien présent, mais semblait très fatigué. Chacun se présentait poliment devant lui et le **chambellan**, qui était vraisemblablement chargé d’éconduire quiconque cherchait à s’approcher de trop près.
@@ -29,7 +29,7 @@ Le buffet était servi alors que les invités s’installaient, et le Ménestrel
 
 Ce labyrinthe était d’ailleurs le théâtre de nombreuses réunions discrètes entre gens de la cour. Elvira chercha à en savoir plus sur ce qu’il se passait là-bas, mais elle ne parvint qu’à se perdre…
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcMeN8BjIqKYZZ-nyEJivh17PZSP1hF5Vv0Y5PXLAD7ubGyeZkHjAhQlyei97n2eWnebKTLo26Ng6Z81ZxHmz-5wQFg_6nHNrXGuc5EpZ8C6iYvyeAdSK0xpmAiAT3ERT5zRcn0aAs6_lkAlskBNhf7-EVBPQKaFWCabvIWD_Oo7geiaApy8pBH42F1E/s600/whispers-in-the-maze.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcMeN8BjIqKYZZ-nyEJivh17PZSP1hF5Vv0Y5PXLAD7ubGyeZkHjAhQlyei97n2eWnebKTLo26Ng6Z81ZxHmz-5wQFg_6nHNrXGuc5EpZ8C6iYvyeAdSK0xpmAiAT3ERT5zRcn0aAs6_lkAlskBNhf7-EVBPQKaFWCabvIWD_Oo7geiaApy8pBH42F1E/s9132/whispers-in-the-maze.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzcMeN8BjIqKYZZ-nyEJivh17PZSP1hF5Vv0Y5PXLAD7ubGyeZkHjAhQlyei97n2eWnebKTLo26Ng6Z81ZxHmz-5wQFg_6nHNrXGuc5EpZ8C6iYvyeAdSK0xpmAiAT3ERT5zRcn0aAs6_lkAlskBNhf7-EVBPQKaFWCabvIWD_Oo7geiaApy8pBH42F1E/s600/whispers-in-the-maze.webp)
 
 Il y avait visiblement des clans, et des parias dans cette fête. C’était le cas de la délégation du Reikland ou des prêtres Sigmarites. Il y avait une vive tension entre eux et les prêtres d’Ulric, venus avec l’**Ar Ulric**.
 
@@ -41,13 +41,11 @@ Luigi revint plus tard, semblant sobre, et le chambellan le laissa passer, non s
 
 L’un des événements de la réception fut l’entrée de la **princesse Katarina**, qui recueillait tous les honneurs. Elle ne resta pas longtemps, accompagnée de la favorite du Graf, **Emmanuelle Schlagen**. Mais nous vîmes un regard subtil et passionné de la favorite lancé à l’Ar Ulric, qui lui, semblait triste. Un secret non avouable entre les deux. *C’est si triste, il faut absolument que je parle à cette femme* nous confia Elvira.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj55i2rE7tLJSNs1YSPUOmfmoyBoseRYNjfPGelcPWEpT8lviOzj2mDr0PMnywdTCj-yN9Tw80kY906V-FtqRoInm8vkz4tMPrA5G8pF-8MbC9zIQCYmZf4dC7dTr-m64Pfnx33-Tlizy-E77SsA8IHekWxdQbZeijx4vFQQ6XjEpNuWT1rKFjOnFjlnrE/s600/garden-party-ulric.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj55i2rE7tLJSNs1YSPUOmfmoyBoseRYNjfPGelcPWEpT8lviOzj2mDr0PMnywdTCj-yN9Tw80kY906V-FtqRoInm8vkz4tMPrA5G8pF-8MbC9zIQCYmZf4dC7dTr-m64Pfnx33-Tlizy-E77SsA8IHekWxdQbZeijx4vFQQ6XjEpNuWT1rKFjOnFjlnrE/s4000/garden-party-ulric.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj55i2rE7tLJSNs1YSPUOmfmoyBoseRYNjfPGelcPWEpT8lviOzj2mDr0PMnywdTCj-yN9Tw80kY906V-FtqRoInm8vkz4tMPrA5G8pF-8MbC9zIQCYmZf4dC7dTr-m64Pfnx33-Tlizy-E77SsA8IHekWxdQbZeijx4vFQQ6XjEpNuWT1rKFjOnFjlnrE/s600/garden-party-ulric.webp)
 
 ---
 Nous étions tout éreintés de cette journée et allions nous coucher tôt. Mais cette nuit, nous fûmes réveillés par des cris et des coups. Des skavens attaquaient l’auberge ! Mark invoqua son loup sacré et en pulvérisa quelques-uns. Yuridika et Anselm, sortant de la même chambre, durent aider une mage, Erina, qui avait voulu intervenir mais avait complètement raté ses sorts. Nous pûmes rattraper quelques otages mais les skavens restant avaient malgré tout réussi à enlever quelques personnes avec eux avant de descendre dans les égouts.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9R6zTYHRDJtJ6aFS4fogecTC2Z_XD7wnvBuDCBvpul8BEwwHJOlARfUJCg_XEa6rv5jAe5pZ7rr8nJfHfpZnVBn8zMuPHIOni5-2j3D4Rwzl-HF3f4HAO0eKDF8140DwZb68yud8RDq3KEmC_-6iMQEXWc7CRGs0IbVygMQdQ0xIkCZQk6wk7rqKRgR8/s600/heres-snikkit.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9R6zTYHRDJtJ6aFS4fogecTC2Z_XD7wnvBuDCBvpul8BEwwHJOlARfUJCg_XEa6rv5jAe5pZ7rr8nJfHfpZnVBn8zMuPHIOni5-2j3D4Rwzl-HF3f4HAO0eKDF8140DwZb68yud8RDq3KEmC_-6iMQEXWc7CRGs0IbVygMQdQ0xIkCZQk6wk7rqKRgR8/s5417/heres-snikkit.webp)
-
 S’ils semblaient surtout s’être attaqués aux occupants, il semblait également avoir subtilisé une carte du Fort d’Airain qui se trouvait accrochée là. Sur le cadavre de l’un d’eux, nous trouvions une peluche avec un message de détresse un peu mal écrit. Était-ce un enfant de noble ?
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRDsHgCNhndYwik5oN9wNjlbca0TggpzJNe8Ol02LEb-0aDlZagyQGujUuNHIV22OH-onitjFuWEkVfygrYf3H2CrBj-_YqrtQapt7aejiuvNhra5X-z7ckG88m0AfkM_-pygt6NmorQOm1BYGARzNrJCvZVAF6XbLggvFZ366j0R-K9pcukwtpVPhaGW/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRDsHgCNhndYwik5oN9wNjlbca0TggpzJNe8Ol02LEb-0aDlZagyQGujUuNHIV22OH-onitjFuWEkVfygrYf3H2CrBj-_YqrtQapt7aejiuvNhra5X-z7ckG88m0AfkM_-pygt6NmorQOm1BYGARzNrJCvZVAF6XbLggvFZ366j0R-K9pcukwtpVPhaGW/s772/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiRDsHgCNhndYwik5oN9wNjlbca0TggpzJNe8Ol02LEb-0aDlZagyQGujUuNHIV22OH-onitjFuWEkVfygrYf3H2CrBj-_YqrtQapt7aejiuvNhra5X-z7ckG88m0AfkM_-pygt6NmorQOm1BYGARzNrJCvZVAF6XbLggvFZ366j0R-K9pcukwtpVPhaGW/s16000/Capture.PNG)

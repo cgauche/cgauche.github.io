@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/19-laffaire-du-joyau-cache.html](https://monennemiinterieur.blogspot.com/2024/10/19-laffaire-du-joyau-cache.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggYF7v5JPvzr9MBQTEBNdBUtKkfnZKUZ0-jWhtO2UZW6xMcZLAm2oTSQSOQpYG7T_JX02I21W8cqoQxVQIFiIESOEYdqEZGy4Sj7oIebzqacQ5te9_T-gcnxBIaYLXxYxOd0ls0KAWmCU54lEaMeLMgCCgfd8FB-59pdG-yeXOpCWCDrN5wusCYYa6jqg/w640-h302/roadwardens(1).webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggYF7v5JPvzr9MBQTEBNdBUtKkfnZKUZ0-jWhtO2UZW6xMcZLAm2oTSQSOQpYG7T_JX02I21W8cqoQxVQIFiIESOEYdqEZGy4Sj7oIebzqacQ5te9_T-gcnxBIaYLXxYxOd0ls0KAWmCU54lEaMeLMgCCgfd8FB-59pdG-yeXOpCWCDrN5wusCYYa6jqg/s1600/roadwardens%281%29.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggYF7v5JPvzr9MBQTEBNdBUtKkfnZKUZ0-jWhtO2UZW6xMcZLAm2oTSQSOQpYG7T_JX02I21W8cqoQxVQIFiIESOEYdqEZGy4Sj7oIebzqacQ5te9_T-gcnxBIaYLXxYxOd0ls0KAWmCU54lEaMeLMgCCgfd8FB-59pdG-yeXOpCWCDrN5wusCYYa6jqg/w640-h302/roadwardens(1).webp)
 
 Les jours suivants furent bien plus calmes. Phineas rapporta les excès et les
 fêtes de débauches d’Andreas à Heinrich Bruner, qui fit mettre un terme à
@@ -91,4 +91,4 @@ l’emplacement du bijou…
 Peu importe, avec la prime de la Flèche Noire, ce soir ça serait la fête à l’auberge de la
 Maison du Pont !
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh98H1D7yXyCbJC0lE6BUE-mb9JMJzQZ1bhQ-7-5WM6w0wJd6kwhTmYh51FGp_WVBHqCWCNSOr-1zSsZ_Ccjwiy2xltuC1_D6itPCIBzcRk1VMhCgwjqp9f0Ko52dSa1CRDJaZ6_LnS3gf3KAM6OskZEwOwjeNoIF9du8YbekImbeoOhJ8OH_Q1SPBwtdY/s600/ubersreik-town.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh98H1D7yXyCbJC0lE6BUE-mb9JMJzQZ1bhQ-7-5WM6w0wJd6kwhTmYh51FGp_WVBHqCWCNSOr-1zSsZ_Ccjwiy2xltuC1_D6itPCIBzcRk1VMhCgwjqp9f0Ko52dSa1CRDJaZ6_LnS3gf3KAM6OskZEwOwjeNoIF9du8YbekImbeoOhJ8OH_Q1SPBwtdY/s2876/ubersreik-town.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh98H1D7yXyCbJC0lE6BUE-mb9JMJzQZ1bhQ-7-5WM6w0wJd6kwhTmYh51FGp_WVBHqCWCNSOr-1zSsZ_Ccjwiy2xltuC1_D6itPCIBzcRk1VMhCgwjqp9f0Ko52dSa1CRDJaZ6_LnS3gf3KAM6OskZEwOwjeNoIF9du8YbekImbeoOhJ8OH_Q1SPBwtdY/s600/ubersreik-town.webp)

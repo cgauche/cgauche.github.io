@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/32-carnaval-jour-1.html](https://monennemiinterieur.blogspot.com/2024/10/32-carnaval-jour-1.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVang10vTLObZMvQ6P-3BS0RBu0sao4gsp5w4v0JCb9MbfYUH05RQN_nHq8zRBHSzadxRt3ylWyfJ5mAsLU-vs-ugNmtndgUMAZPCQA3dZO4afjODgyAWgnYitu7VE28nSNlGLRuUSfh-0U9e8awzgxSB7UwnFe867UzDW18_FnDswxYgi9TqAqpUqNNa/w640-h296/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVang10vTLObZMvQ6P-3BS0RBu0sao4gsp5w4v0JCb9MbfYUH05RQN_nHq8zRBHSzadxRt3ylWyfJ5mAsLU-vs-ugNmtndgUMAZPCQA3dZO4afjODgyAWgnYitu7VE28nSNlGLRuUSfh-0U9e8awzgxSB7UwnFe867UzDW18_FnDswxYgi9TqAqpUqNNa/s1129/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQVang10vTLObZMvQ6P-3BS0RBu0sao4gsp5w4v0JCb9MbfYUH05RQN_nHq8zRBHSzadxRt3ylWyfJ5mAsLU-vs-ugNmtndgUMAZPCQA3dZO4afjODgyAWgnYitu7VE28nSNlGLRuUSfh-0U9e8awzgxSB7UwnFe867UzDW18_FnDswxYgi9TqAqpUqNNa/w640-h296/Capture.PNG)
 
 Ce jour-là, il y avait énormément de monde dans les rues, des animations partout, des musiciens, des cracheurs de feu, nous allions enfin avoir un peu de répit pour profiter de la fête. Nous avions décidé d’assister aux duels du champion du Graf.
 
@@ -20,6 +20,6 @@ Nous avions prévu de nous rendre à l’opéra le soir, mais avec nos apparence
 
 Après cette fuite, l’homme se présenta il s’agissait de **Josef Sparsam** le chancelier. Visiblement éméché, voire pire, il n’arrêtait pas de lancer des grossièretés et de se montrer violent. Elvira prit peur et s’éclipsa très vite.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5S3fLtMTNgym539rB60BUgUzgzjxdfUyG9S39itjnVZ7aaPU6PzAUFSGCxdu1dDbvcp75HqxBP4YBQgL3Zbr500jjdgY9yESP78bmp8EOktS4mfJlbFGPgolE9oQrWzZQ7ryjrz2qxLsMhYIUSBMABYRjFfBP5rf4iG6aCGsDRKowD16uDXud2rB2a7g/s600/sparsam-flees.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5S3fLtMTNgym539rB60BUgUzgzjxdfUyG9S39itjnVZ7aaPU6PzAUFSGCxdu1dDbvcp75HqxBP4YBQgL3Zbr500jjdgY9yESP78bmp8EOktS4mfJlbFGPgolE9oQrWzZQ7ryjrz2qxLsMhYIUSBMABYRjFfBP5rf4iG6aCGsDRKowD16uDXud2rB2a7g/s4724/sparsam-flees.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5S3fLtMTNgym539rB60BUgUzgzjxdfUyG9S39itjnVZ7aaPU6PzAUFSGCxdu1dDbvcp75HqxBP4YBQgL3Zbr500jjdgY9yESP78bmp8EOktS4mfJlbFGPgolE9oQrWzZQ7ryjrz2qxLsMhYIUSBMABYRjFfBP5rf4iG6aCGsDRKowD16uDXud2rB2a7g/s600/sparsam-flees.webp)
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_lOm4O0IDfw1Rrh2LO9-qDWGllefvzHkFZmsY44qauzd42XSnJxAIuKXZW8URSnfMONxiDW2-0-ecXMrw2bfPyL-h11MXnKeMt647dtlH5CNhJ-5y7k3kYQGsAYmbVqf4Tsc9ydIGdnBc7QeH7A5rFp4VX1duLi_Z3-4Lz3QElxWZy9QoiOezwW-N2h0g/s16000/Capture2.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_lOm4O0IDfw1Rrh2LO9-qDWGllefvzHkFZmsY44qauzd42XSnJxAIuKXZW8URSnfMONxiDW2-0-ecXMrw2bfPyL-h11MXnKeMt647dtlH5CNhJ-5y7k3kYQGsAYmbVqf4Tsc9ydIGdnBc7QeH7A5rFp4VX1duLi_Z3-4Lz3QElxWZy9QoiOezwW-N2h0g/s597/Capture2.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_lOm4O0IDfw1Rrh2LO9-qDWGllefvzHkFZmsY44qauzd42XSnJxAIuKXZW8URSnfMONxiDW2-0-ecXMrw2bfPyL-h11MXnKeMt647dtlH5CNhJ-5y7k3kYQGsAYmbVqf4Tsc9ydIGdnBc7QeH7A5rFp4VX1duLi_Z3-4Lz3QElxWZy9QoiOezwW-N2h0g/s16000/Capture2.PNG)

@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/39-carnaval-jour-8.html](https://monennemiinterieur.blogspot.com/2024/10/39-carnaval-jour-8.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGl8wLVf6qB_VNehK7sS_Z1eVBn89CJtpGa6uY-PhC8fpvy-V6N9SGYevRog_vWBXn_8lqvH2nyldWbadI7ELZZlJG6rA70nN1yZ8Wt7gp-OPi0iwYhSPgkitF5Tj2ID4iIIk6xbiEIwkBrcTG7nyDxFXdZEP3oh-KmcOrBYJ1EVi9ZLfDDjLxJuHOz75N/w640-h310/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGl8wLVf6qB_VNehK7sS_Z1eVBn89CJtpGa6uY-PhC8fpvy-V6N9SGYevRog_vWBXn_8lqvH2nyldWbadI7ELZZlJG6rA70nN1yZ8Wt7gp-OPi0iwYhSPgkitF5Tj2ID4iIIk6xbiEIwkBrcTG7nyDxFXdZEP3oh-KmcOrBYJ1EVi9ZLfDDjLxJuHOz75N/s1128/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGl8wLVf6qB_VNehK7sS_Z1eVBn89CJtpGa6uY-PhC8fpvy-V6N9SGYevRog_vWBXn_8lqvH2nyldWbadI7ELZZlJG6rA70nN1yZ8Wt7gp-OPi0iwYhSPgkitF5Tj2ID4iIIk6xbiEIwkBrcTG7nyDxFXdZEP3oh-KmcOrBYJ1EVi9ZLfDDjLxJuHOz75N/w640-h310/Capture.PNG)
 
 Nous nous sommes rués chez le seigneur des lois. Tout semblait calme de prime abord, alors que les célébrations avaient cessé et que la nuit était bien avancée, mais en entrant nous constations qu’une personne transportait des coffres jusqu’à l’écurie. Pathsokar le bloqua et lui demanda au nom du Graf de partir.
 
@@ -21,4 +21,4 @@ Il fallut un long moment à Elvira pour revenir en ville. Après l’adrénaline
 
 Nous fument convoqués dans la journée par le capitaine Schutzmann afin d’être entendus et remerciés. C'était bien la première fois ! Nous étions les héros de la ville, et nous resterions les bienvenus, logés et reconnus comme tels. Chacun allait pouvoir souffler un peu et se consacrer à ses projets personnels.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbC3CFW9pvhCAV2GV2bvD51iacjH78zHczBMV_503Zodfm3vuMpTroasTgJ4QRD-1CXj5xiFRS8eOuppZCXObkX3VJ2B1xe4ceGzntF-PRKdheBHUwXQHSqHb9ShpKIvatgNcfoJ9ofHgIe-xouyy6MjhPUqUyw5SIBOhYN91Bd0IvL-WnaIvOjRmlrY9E/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbC3CFW9pvhCAV2GV2bvD51iacjH78zHczBMV_503Zodfm3vuMpTroasTgJ4QRD-1CXj5xiFRS8eOuppZCXObkX3VJ2B1xe4ceGzntF-PRKdheBHUwXQHSqHb9ShpKIvatgNcfoJ9ofHgIe-xouyy6MjhPUqUyw5SIBOhYN91Bd0IvL-WnaIvOjRmlrY9E/s464/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbC3CFW9pvhCAV2GV2bvD51iacjH78zHczBMV_503Zodfm3vuMpTroasTgJ4QRD-1CXj5xiFRS8eOuppZCXObkX3VJ2B1xe4ceGzntF-PRKdheBHUwXQHSqHb9ShpKIvatgNcfoJ9ofHgIe-xouyy6MjhPUqUyw5SIBOhYN91Bd0IvL-WnaIvOjRmlrY9E/s16000/Capture.PNG)

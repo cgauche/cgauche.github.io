@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/20-les-coupables.html](https://monennemiinterieur.blogspot.com/2024/10/20-les-coupables.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mEWahAVLVpuZy03GsTRm3Ao7VWnADkOhxkUgdrBI5G-TvBJG04DHFLlf9Ub6ZRP7pdfYXJnMSft3zSfRKdoqNK_Y_XYrkx1W2U-kV8qIQd1XVysWsexG9kYt3gABpKvuE1nSz-wn6a-GTMyJJNugQErl8o4Tt2wxeK6nCT65mFd59CHaIfvjrab7il75/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mEWahAVLVpuZy03GsTRm3Ao7VWnADkOhxkUgdrBI5G-TvBJG04DHFLlf9Ub6ZRP7pdfYXJnMSft3zSfRKdoqNK_Y_XYrkx1W2U-kV8qIQd1XVysWsexG9kYt3gABpKvuE1nSz-wn6a-GTMyJJNugQErl8o4Tt2wxeK6nCT65mFd59CHaIfvjrab7il75/s1040/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mEWahAVLVpuZy03GsTRm3Ao7VWnADkOhxkUgdrBI5G-TvBJG04DHFLlf9Ub6ZRP7pdfYXJnMSft3zSfRKdoqNK_Y_XYrkx1W2U-kV8qIQd1XVysWsexG9kYt3gABpKvuE1nSz-wn6a-GTMyJJNugQErl8o4Tt2wxeK6nCT65mFd59CHaIfvjrab7il75/s600/Capture.PNG)
 
 L’instabilité de la ville semblait pousser des citoyens à s’attaquer aux
 diligences de la Maison du Pont. Ici et là on entendait des « vive Jundfreud »
@@ -40,7 +40,7 @@ diligence suivante, et tout cela serait gracieusement payé à l’arrivée bien
 sûr. Andreas s’engageait à faire le voyage de son côté afin d’enquêter lui
 aussi.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMGywQcgylfi921iAXR3lPMdIskUFdWzzsk67eW5e4Dc_3hlh64aQ7JCjKBg4qonAqqFbfx2ZIdr-UDoYFZBxCe1DJ5aeQ5kNbbnJkGka194jY5NvjG9xuuJyixcIpNF32ksl5in4I6FJv0zaodpQgTAlB3q242awnUo6UvN5dSuHanDQBnMt2q99wLdA/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMGywQcgylfi921iAXR3lPMdIskUFdWzzsk67eW5e4Dc_3hlh64aQ7JCjKBg4qonAqqFbfx2ZIdr-UDoYFZBxCe1DJ5aeQ5kNbbnJkGka194jY5NvjG9xuuJyixcIpNF32ksl5in4I6FJv0zaodpQgTAlB3q242awnUo6UvN5dSuHanDQBnMt2q99wLdA/s969/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTMGywQcgylfi921iAXR3lPMdIskUFdWzzsk67eW5e4Dc_3hlh64aQ7JCjKBg4qonAqqFbfx2ZIdr-UDoYFZBxCe1DJ5aeQ5kNbbnJkGka194jY5NvjG9xuuJyixcIpNF32ksl5in4I6FJv0zaodpQgTAlB3q242awnUo6UvN5dSuHanDQBnMt2q99wLdA/s16000/Capture.PNG)
 
 **D’Ubersreik à Bögenhafen**
 
@@ -70,7 +70,7 @@ tout le monde ! Pathsokar les fusilla de ses pistolets tandis que Mark
 déclenchait la puissance d’Urlic en invoquant un loup sanguinaire. Bientôt il
 ne restait plus rien de ces chasseurs de tête.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfJ8StzcLVfAn1t4ltkJLT7uwm-KyaxHERTsU1ORVsdpm_leZ37KCgVBEWTmECo_2ylLTTvaJ_3ziQtQTXn92qWb6f8KBcb279D_a_97w7VvgOX24tIJolWbpnNVFMVU0k9w6-hdl3F-abdJJx-w15bgpOo2xbCaoMfXxrmi19AnekfitEd_g7Hs9mnU/s600/ash-in-the-wind.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfJ8StzcLVfAn1t4ltkJLT7uwm-KyaxHERTsU1ORVsdpm_leZ37KCgVBEWTmECo_2ylLTTvaJ_3ziQtQTXn92qWb6f8KBcb279D_a_97w7VvgOX24tIJolWbpnNVFMVU0k9w6-hdl3F-abdJJx-w15bgpOo2xbCaoMfXxrmi19AnekfitEd_g7Hs9mnU/s2000/ash-in-the-wind.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfJ8StzcLVfAn1t4ltkJLT7uwm-KyaxHERTsU1ORVsdpm_leZ37KCgVBEWTmECo_2ylLTTvaJ_3ziQtQTXn92qWb6f8KBcb279D_a_97w7VvgOX24tIJolWbpnNVFMVU0k9w6-hdl3F-abdJJx-w15bgpOo2xbCaoMfXxrmi19AnekfitEd_g7Hs9mnU/s600/ash-in-the-wind.webp)
 
 La journée suivante nous fit passer près d’un camp militaire de l’armée
 impériale, et profitant de notre présence un des commandants nous demanda de
@@ -86,7 +86,7 @@ devant Gotheim, un village en ruine. Les habitants que nous avons questionnés
 partis, pas question d’avoir à faire à lui. Après cet épisode Anselm parut
 gêné, parfois il marmonnait « *c’est le protecteur qui a fait ça ?* ».
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLUTaTk2VWI-kef-7oAEu0iaTlpUPN-xESPLdwWAt4AZshumDhgVkeKiwn6_O-xxHA7fsF3pa9naDTJrVqpXs0z7KloR1CDvcXiIlqd411J3khrO3G5ZUpk80-XIl0Ci8TiTSqCCtazyVJGbIJRvsQZ7iFcpcBemDbaIK7oAuy8SMNrqHJTJCe-4EBerg/s1600/gotheim-ruins.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLUTaTk2VWI-kef-7oAEu0iaTlpUPN-xESPLdwWAt4AZshumDhgVkeKiwn6_O-xxHA7fsF3pa9naDTJrVqpXs0z7KloR1CDvcXiIlqd411J3khrO3G5ZUpk80-XIl0Ci8TiTSqCCtazyVJGbIJRvsQZ7iFcpcBemDbaIK7oAuy8SMNrqHJTJCe-4EBerg/s1600/gotheim-ruins.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLUTaTk2VWI-kef-7oAEu0iaTlpUPN-xESPLdwWAt4AZshumDhgVkeKiwn6_O-xxHA7fsF3pa9naDTJrVqpXs0z7KloR1CDvcXiIlqd411J3khrO3G5ZUpk80-XIl0Ci8TiTSqCCtazyVJGbIJRvsQZ7iFcpcBemDbaIK7oAuy8SMNrqHJTJCe-4EBerg/s1600/gotheim-ruins.webp)
 
 Mais les
 péripéties ne se sont pas arrêtées là pour aujourd’hui, puisqu’un brigand
@@ -153,7 +153,7 @@ de vite reboucher qu’on puisse repartir. Après quoi, il effectua le trajet
 prévu avant que la nuit ne tombe malgré le contretemps, grâce à une conduite…
 *audacieuse*.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8TQo6DRUBF25Ncdqby57as3V5JwkLvHW7ywjQmrI-0SNEO-QI4bJC89o8Ihz1LdNP46TpJfOGpyyUnmTHmSnokA9ZdH5H6PQ7mryRLoPC7NcO1maTi1HJDYV4LgdQ64Wd40WAWkXYEU9o8ESJ6LDSVkKBGnk64kQ1dkqUq9f5wykM0jFHzqlVisEWCE/s600/karstadt-estate.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8TQo6DRUBF25Ncdqby57as3V5JwkLvHW7ywjQmrI-0SNEO-QI4bJC89o8Ihz1LdNP46TpJfOGpyyUnmTHmSnokA9ZdH5H6PQ7mryRLoPC7NcO1maTi1HJDYV4LgdQ64Wd40WAWkXYEU9o8ESJ6LDSVkKBGnk64kQ1dkqUq9f5wykM0jFHzqlVisEWCE/s2830/karstadt-estate.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8TQo6DRUBF25Ncdqby57as3V5JwkLvHW7ywjQmrI-0SNEO-QI4bJC89o8Ihz1LdNP46TpJfOGpyyUnmTHmSnokA9ZdH5H6PQ7mryRLoPC7NcO1maTi1HJDYV4LgdQ64Wd40WAWkXYEU9o8ESJ6LDSVkKBGnk64kQ1dkqUq9f5wykM0jFHzqlVisEWCE/s600/karstadt-estate.webp)
 
 Enfin, le dernier jour, nous tombions sur la diligence perdue. Nous la vîmes
 dans la forêt, elle avait visiblement dévié pour s’écraser dans un ravin
@@ -162,7 +162,7 @@ remarquions plus loin des vigies gobelines, et en nous avançant dans la forêt,
 un petit camp. Un loup d’Ulric affamé invoqué par Mark régla vite le problème,
 nous pouvions repartir vers la dernière étape.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF0nHTsanAwtfqLx2gLdYFmh1o3-aTFhvAAcKel_98PgMNznFpYyF2QI3b2pmu1jiJKkHjeFa1EnId0n10P2wDczSdx27k7tXDxh55qxUE17L7_y86ks4QBOKgxhzSDMq_AnLB-1PvBTDisE-9_j5Rh0mu6xZcgBQMQ9dLxWi2e7ZjP5WPBFyBXmwZWpk/s600/gong-tongue.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF0nHTsanAwtfqLx2gLdYFmh1o3-aTFhvAAcKel_98PgMNznFpYyF2QI3b2pmu1jiJKkHjeFa1EnId0n10P2wDczSdx27k7tXDxh55qxUE17L7_y86ks4QBOKgxhzSDMq_AnLB-1PvBTDisE-9_j5Rh0mu6xZcgBQMQ9dLxWi2e7ZjP5WPBFyBXmwZWpk/s2030/gong-tongue.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF0nHTsanAwtfqLx2gLdYFmh1o3-aTFhvAAcKel_98PgMNznFpYyF2QI3b2pmu1jiJKkHjeFa1EnId0n10P2wDczSdx27k7tXDxh55qxUE17L7_y86ks4QBOKgxhzSDMq_AnLB-1PvBTDisE-9_j5Rh0mu6xZcgBQMQ9dLxWi2e7ZjP5WPBFyBXmwZWpk/s600/gong-tongue.webp)
 
 A notre arrivée aux Haches Croisées, Andreas fut très content de nous voir, et
 nous offrit le repas. Puis il nous emmena dans une petite salle où il nous
@@ -174,7 +174,7 @@ fâché, et Andreas, après avoir réfléchi, expliqua qu’il allait trouver un
 arrangement avec lui pour notre paie, et sortit. Ce fut la dernière fois qu’on
 le vit…
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/w640-h310/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/s1039/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGJMI2Xlg29dgggkdetuQ6m9zNmpf7l3ROvRfsleYCvINcCxiE3MnXcYugVcsPKgO1x4bLKg2Ezs9s5Iharwxcvwd_Q59CEmFENFEV-7wYaFUilQ1zzklnEDUFMdsObn8pueSEvpUvrcFSx32BvWeAe3qjwFJGrvOlsbP5_5eKMxu99EkWVzVq-cpwpQmH/w640-h310/Capture.PNG)
 
 Cette quête ressemblait à un traquenard, mais l’important était qu’enfin, après toutes nos vicissitudes, nous
 étions arrivés à Altdorf. Filianore allait pouvoir tout nous expliquer !

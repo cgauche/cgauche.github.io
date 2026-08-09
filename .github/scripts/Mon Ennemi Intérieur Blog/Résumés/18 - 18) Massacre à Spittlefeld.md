@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/18-massacre-spittlefeld.html](https://monennemiinterieur.blogspot.com/2024/10/18-massacre-spittlefeld.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigVQRoW2f4x90CJHNMsiA_rs1yD9BBg16Jg7H-nlzD1mcTs9OBuD6oADOegU5ze34SS3WlxuVx72m_4GxuWPkwL_3FUUa9QTAxsoEQqo4rjaqHHyJ_2kFMyjjUmso8ctEDIydHfDl_NYQXcW65VSdl7m4BErGvBOOwFBo6RcM15uhBmOhELioR4Bb31g1r/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigVQRoW2f4x90CJHNMsiA_rs1yD9BBg16Jg7H-nlzD1mcTs9OBuD6oADOegU5ze34SS3WlxuVx72m_4GxuWPkwL_3FUUa9QTAxsoEQqo4rjaqHHyJ_2kFMyjjUmso8ctEDIydHfDl_NYQXcW65VSdl7m4BErGvBOOwFBo6RcM15uhBmOhELioR4Bb31g1r/s1041/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigVQRoW2f4x90CJHNMsiA_rs1yD9BBg16Jg7H-nlzD1mcTs9OBuD6oADOegU5ze34SS3WlxuVx72m_4GxuWPkwL_3FUUa9QTAxsoEQqo4rjaqHHyJ_2kFMyjjUmso8ctEDIydHfDl_NYQXcW65VSdl7m4BErGvBOOwFBo6RcM15uhBmOhELioR4Bb31g1r/s600/Capture.PNG)
 
 Nous nous sommes réveillés dans un bâtiment vétuste, par la forte voix de
 l’ogre **Gino**, qui se disait concierge, ou peut-être était-ce son odeur. Les deux mercenaires étaient encore avec nous. La

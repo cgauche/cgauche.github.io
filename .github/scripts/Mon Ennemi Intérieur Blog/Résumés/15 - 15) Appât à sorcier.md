@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/15-appat-sorcier.html](https://monennemiinterieur.blogspot.com/2024/10/15-appat-sorcier.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNDOK3XkoyOeHI8bo0nDwBqjp4EyngQ8mcsjA3mOqQGDMwpMIJtOvl8UcQgG2UcNYWGEka5Z8bZd3invfGRyt55M2e0QLvohms5qPPgqzlg_wttcqZXMZ5iNTnH5Q34ezqykEDAoPz96Y5C_ZpYSyW1g61FLYHnxILyhud-CyZQZCiIX4lu8R3O3E1_0wy/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNDOK3XkoyOeHI8bo0nDwBqjp4EyngQ8mcsjA3mOqQGDMwpMIJtOvl8UcQgG2UcNYWGEka5Z8bZd3invfGRyt55M2e0QLvohms5qPPgqzlg_wttcqZXMZ5iNTnH5Q34ezqykEDAoPz96Y5C_ZpYSyW1g61FLYHnxILyhud-CyZQZCiIX4lu8R3O3E1_0wy/s1034/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNDOK3XkoyOeHI8bo0nDwBqjp4EyngQ8mcsjA3mOqQGDMwpMIJtOvl8UcQgG2UcNYWGEka5Z8bZd3invfGRyt55M2e0QLvohms5qPPgqzlg_wttcqZXMZ5iNTnH5Q34ezqykEDAoPz96Y5C_ZpYSyW1g61FLYHnxILyhud-CyZQZCiIX4lu8R3O3E1_0wy/s600/Capture.PNG)
 
 Phineas était très occupé par la gestion des affaires de la famille Bruner,
 notamment de leur fils adoptif le capricieux Andreas. Il ne pouvait pas sortir très souvent de leur résidence.

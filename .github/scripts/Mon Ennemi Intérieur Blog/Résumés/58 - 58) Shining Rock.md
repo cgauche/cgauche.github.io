@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/03/58-shining-rock.html](https://monennemiinterieur.blogspot.com/2024/03/58-shining-rock.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzBwykn0A5WnWubJJL6BDgyUF57FRp_WzrN7KsANDYQgv2JyGUMTCKjc68dv2aBu23QlXG3tZRr_2j68yKi4Q6BlzEqOgYSNurT3u0iUg59GdwG-68vlscqv94CfNgvdnL4o8ZknL_plLA39gRnnPGEyQtWV0nieHYRHo0CeP4oneHcODXRWYFqnOeoFM/s400/tracks.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzBwykn0A5WnWubJJL6BDgyUF57FRp_WzrN7KsANDYQgv2JyGUMTCKjc68dv2aBu23QlXG3tZRr_2j68yKi4Q6BlzEqOgYSNurT3u0iUg59GdwG-68vlscqv94CfNgvdnL4o8ZknL_plLA39gRnnPGEyQtWV0nieHYRHo0CeP4oneHcODXRWYFqnOeoFM/s2773/tracks.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzBwykn0A5WnWubJJL6BDgyUF57FRp_WzrN7KsANDYQgv2JyGUMTCKjc68dv2aBu23QlXG3tZRr_2j68yKi4Q6BlzEqOgYSNurT3u0iUg59GdwG-68vlscqv94CfNgvdnL4o8ZknL_plLA39gRnnPGEyQtWV0nieHYRHo0CeP4oneHcODXRWYFqnOeoFM/s400/tracks.webp)
 
 Notre délégation fut composée de l’Ar Ulric, du Graf Boris Todbringer ainsi que son fils Heinrich et de sa fille Katarina, accompagnée de sa suite ainsi que de Veiran Thugenheim. Vingt soldats protégeaient le tout, des chevaliers panthères, des chevaliers du loup blanc… Nul doute que notre passage devait faire lever quelques têtes.
 

@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2025/11/57-un-accueil-glacial.html](https://monennemiinterieur.blogspot.com/2025/11/57-un-accueil-glacial.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghDew-lS7KlR5rYSkoli-BlERM3ll2bYbdm1f123v5LLUbIx6ipdkPuKa7nuEMMjzz8Pg7Xk19XJ0NNfnqKBH2HpFjwAE1pRKH3RCGg_0V0mBRy0sKSTW-ugWpP5PMhyphenhyphenT3_6pYvly1y-rYh8hZ0wb8VMd1T7YlkRt8vEOGtAr8EolQU8hHDzdyDdg2Wb4/s600/nobles.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghDew-lS7KlR5rYSkoli-BlERM3ll2bYbdm1f123v5LLUbIx6ipdkPuKa7nuEMMjzz8Pg7Xk19XJ0NNfnqKBH2HpFjwAE1pRKH3RCGg_0V0mBRy0sKSTW-ugWpP5PMhyphenhyphenT3_6pYvly1y-rYh8hZ0wb8VMd1T7YlkRt8vEOGtAr8EolQU8hHDzdyDdg2Wb4/s2944/nobles.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghDew-lS7KlR5rYSkoli-BlERM3ll2bYbdm1f123v5LLUbIx6ipdkPuKa7nuEMMjzz8Pg7Xk19XJ0NNfnqKBH2HpFjwAE1pRKH3RCGg_0V0mBRy0sKSTW-ugWpP5PMhyphenhyphenT3_6pYvly1y-rYh8hZ0wb8VMd1T7YlkRt8vEOGtAr8EolQU8hHDzdyDdg2Wb4/s600/nobles.webp)
 
 Lorsque nous arrivâmes, l’austère chambellan nous mena jusqu’à
 une grande salle, sans se priver d’un certain jugement concernant notre allure

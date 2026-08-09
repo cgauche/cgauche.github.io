@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/25-de-grissenwald-aux-collines-steriles.html](https://monennemiinterieur.blogspot.com/2024/10/25-de-grissenwald-aux-collines-steriles.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtWm1mEghMXje8x5WaS_KAkOYmbl3tqyCT6zhJdZurQuBwHNt1Ry0fiZsQKp-15Hw587G7XPXXO-a3YSJjG4CbcP6hW81o_6YiCjL84A0Sf8nTmRyH_FtglMRUIlERYkyMAJsfZ-Y7wjPYscXawKKk0jJNkGLpRo_PgvRJ3Mu-codhNkCLBZgKpz2ksDI/w640-h290/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtWm1mEghMXje8x5WaS_KAkOYmbl3tqyCT6zhJdZurQuBwHNt1Ry0fiZsQKp-15Hw587G7XPXXO-a3YSJjG4CbcP6hW81o_6YiCjL84A0Sf8nTmRyH_FtglMRUIlERYkyMAJsfZ-Y7wjPYscXawKKk0jJNkGLpRo_PgvRJ3Mu-codhNkCLBZgKpz2ksDI/s1130/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQtWm1mEghMXje8x5WaS_KAkOYmbl3tqyCT6zhJdZurQuBwHNt1Ry0fiZsQKp-15Hw587G7XPXXO-a3YSJjG4CbcP6hW81o_6YiCjL84A0Sf8nTmRyH_FtglMRUIlERYkyMAJsfZ-Y7wjPYscXawKKk0jJNkGLpRo_PgvRJ3Mu-codhNkCLBZgKpz2ksDI/w640-h290/Capture.PNG)
 
 Elvira put vendre son vin, et l’échanger contre des produits agricoles à Grissenwald. Nous
 retournions ensuite faire escale à Kemperbad, où nous il nous faudrait ensuite

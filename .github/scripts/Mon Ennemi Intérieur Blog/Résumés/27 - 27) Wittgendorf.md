@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/27-wittgendorf.html](https://monennemiinterieur.blogspot.com/2024/10/27-wittgendorf.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4EStNbJtt4Yuq3FWO1PwMS5cTIkWphek9p9364KT9jltKBWiqGOvUs7WF2bU-CT2oZj-bbmb7AXvIkGMInGLF3UKXjjV9lAdoojqxsJDsri9iVPMcGJKO2xImrJ7yuFt4yA1pYwqYaN5WF3KiVeUl8j45N2iOi_x5iuGplmv58jvbV8Vl2-gqTHEdPI03/w640-h298/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4EStNbJtt4Yuq3FWO1PwMS5cTIkWphek9p9364KT9jltKBWiqGOvUs7WF2bU-CT2oZj-bbmb7AXvIkGMInGLF3UKXjjV9lAdoojqxsJDsri9iVPMcGJKO2xImrJ7yuFt4yA1pYwqYaN5WF3KiVeUl8j45N2iOi_x5iuGplmv58jvbV8Vl2-gqTHEdPI03/s1127/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4EStNbJtt4Yuq3FWO1PwMS5cTIkWphek9p9364KT9jltKBWiqGOvUs7WF2bU-CT2oZj-bbmb7AXvIkGMInGLF3UKXjjV9lAdoojqxsJDsri9iVPMcGJKO2xImrJ7yuFt4yA1pYwqYaN5WF3KiVeUl8j45N2iOi_x5iuGplmv58jvbV8Vl2-gqTHEdPI03/w640-h298/Capture.PNG)
 
 Nous arrivions sur le quai du village de Wittgendorf, au pied du château fortifié des Wittgenstein. Une femme habillée d’une belle robe bleue sur un cheval blanc se trouvait en haut du talus où se trouvait le village. Elle était accompagnée de six gardes qui semblaient se quereller avec deux mendiants. L’un d’entre eux était attaché une corde et à moitié assommé, l’autre protestait et en nous voyant, nous appela à l’aide, avant d’être frappé violemment au visage et mis à terre.
 

@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/31-enquetes-preliminaires.html](https://monennemiinterieur.blogspot.com/2024/10/31-enquetes-preliminaires.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLMywIRYmev2lIewCBWkiaVL8h0LT-L1QqIWowBLHLAou2jci3ZaAL_hMgp3fo-EY86LGFXQB5snrwuHGppddhvzLZqTUs1b8mKOd_Qcb3TrN6hrcFJDdQoOE3ysf9oSw1Sm84gQHdfWXBG9UdnApfu86nX3pnJe3YfPFY3hYJa14Y8qWaGIuheOVOUCUL/w640-h408/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLMywIRYmev2lIewCBWkiaVL8h0LT-L1QqIWowBLHLAou2jci3ZaAL_hMgp3fo-EY86LGFXQB5snrwuHGppddhvzLZqTUs1b8mKOd_Qcb3TrN6hrcFJDdQoOE3ysf9oSw1Sm84gQHdfWXBG9UdnApfu86nX3pnJe3YfPFY3hYJa14Y8qWaGIuheOVOUCUL/s999/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLMywIRYmev2lIewCBWkiaVL8h0LT-L1QqIWowBLHLAou2jci3ZaAL_hMgp3fo-EY86LGFXQB5snrwuHGppddhvzLZqTUs1b8mKOd_Qcb3TrN6hrcFJDdQoOE3ysf9oSw1Sm84gQHdfWXBG9UdnApfu86nX3pnJe3YfPFY3hYJa14Y8qWaGIuheOVOUCUL/w640-h408/Capture.PNG)
 
 Nous sommes allés voir la Kommission pour les intérêts des nains, des elfes et des halfelins. Après tout c’était eux qui étaient impactés. Eux nous dirent qu’ils ne comprenaient pas la taxe, qui était exclusivement dirigée sur les nains et accentuait déjà une vive tension entre eux et les elfes – qui eux étaient pour, par principe, mais seulement concernant la partie pour les nains –.
 

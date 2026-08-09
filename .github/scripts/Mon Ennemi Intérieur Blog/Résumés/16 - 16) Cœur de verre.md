@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/16-cur-de-verre.html](https://monennemiinterieur.blogspot.com/2024/10/16-cur-de-verre.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjir8tuG5KqB3yTsaFe9p8Q3D5As_8DCuiWi_-Wbne3DU5OAXQ2hm6jAQLJ5tPDWRUdEGhwKupPXAx4OH7iiQwnA6EpnlhnWAq87CLG2lFeAJbrSnoY7N1trie205FqFC4aWqc6-8lE0RjPQv_7NjiQBd2NfJ7sLWy9yovHZHUfMQqxTfMdnscpuJYrHfep/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjir8tuG5KqB3yTsaFe9p8Q3D5As_8DCuiWi_-Wbne3DU5OAXQ2hm6jAQLJ5tPDWRUdEGhwKupPXAx4OH7iiQwnA6EpnlhnWAq87CLG2lFeAJbrSnoY7N1trie205FqFC4aWqc6-8lE0RjPQv_7NjiQBd2NfJ7sLWy9yovHZHUfMQqxTfMdnscpuJYrHfep/s1037/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjir8tuG5KqB3yTsaFe9p8Q3D5As_8DCuiWi_-Wbne3DU5OAXQ2hm6jAQLJ5tPDWRUdEGhwKupPXAx4OH7iiQwnA6EpnlhnWAq87CLG2lFeAJbrSnoY7N1trie205FqFC4aWqc6-8lE0RjPQv_7NjiQBd2NfJ7sLWy9yovHZHUfMQqxTfMdnscpuJYrHfep/s600/Capture.PNG)
 
 Ce ne fut que quelques jours plus tard que nous apprenions la nouvelle : un
 homme au visage calciné, borgne, et portant une peau de loup nous interpella.
@@ -27,7 +27,7 @@ terre. Au temple de Morr, nous pûmes analyser sa blessure, un trou net à la po
 mort. Il n’y avait pas eu d’effusion de sang, le légiste n’avait jamais vu
 cela.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb63veSqmFviY4cIUh8U5_kGU2dDvt77wVFx4fQxoKcCYNtAmkvX4KHz5tS4unMWRDXa6N4ssfHWL7Lak5hDhSb7GRQU_VPjfSnh_3DleSeE6JxWaOwmEvV5Ohd5-TTWoVzW53oAtVabW5RENDPlPsGBzYlzWGm2cmL_H6k0Z1Jgwh9iWBeTw86TbXoHY2/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb63veSqmFviY4cIUh8U5_kGU2dDvt77wVFx4fQxoKcCYNtAmkvX4KHz5tS4unMWRDXa6N4ssfHWL7Lak5hDhSb7GRQU_VPjfSnh_3DleSeE6JxWaOwmEvV5Ohd5-TTWoVzW53oAtVabW5RENDPlPsGBzYlzWGm2cmL_H6k0Z1Jgwh9iWBeTw86TbXoHY2/s595/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb63veSqmFviY4cIUh8U5_kGU2dDvt77wVFx4fQxoKcCYNtAmkvX4KHz5tS4unMWRDXa6N4ssfHWL7Lak5hDhSb7GRQU_VPjfSnh_3DleSeE6JxWaOwmEvV5Ohd5-TTWoVzW53oAtVabW5RENDPlPsGBzYlzWGm2cmL_H6k0Z1Jgwh9iWBeTw86TbXoHY2/s16000/Capture.PNG)
 
 Présent dans la salle des pleurs, un groupe assez nombreux de
 villageois, de camarades de garde, étaient présent pour se recueillir. Le
@@ -99,7 +99,7 @@ lui désignant la tour du sorcier, elle nous raconta qu’il était parti plusie
 monter là-haut. Fallait-il viser plus loin ? Tous les regards se portèrent
 vers les montagnes grises, à plusieurs lieux de là…
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP9YWsOFALO9PenAw9D3M0jjO_Nrft6gmuq-sW7XLk-8uqhhnwjsNH_XFVBBIUcM6p2DCbwAXE4v4erZremeF-uHzBwrBuV_F3ie9iqNVGHppb11OLTmCtiVsIC7Q1bPxYUIRmj05KlmLbEXO4YPF-VHauAkMsdLI2JGpW0OFRmkNUEZaz5SqZjfCHYoG2/w640-h266/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP9YWsOFALO9PenAw9D3M0jjO_Nrft6gmuq-sW7XLk-8uqhhnwjsNH_XFVBBIUcM6p2DCbwAXE4v4erZremeF-uHzBwrBuV_F3ie9iqNVGHppb11OLTmCtiVsIC7Q1bPxYUIRmj05KlmLbEXO4YPF-VHauAkMsdLI2JGpW0OFRmkNUEZaz5SqZjfCHYoG2/s1040/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP9YWsOFALO9PenAw9D3M0jjO_Nrft6gmuq-sW7XLk-8uqhhnwjsNH_XFVBBIUcM6p2DCbwAXE4v4erZremeF-uHzBwrBuV_F3ie9iqNVGHppb11OLTmCtiVsIC7Q1bPxYUIRmj05KlmLbEXO4YPF-VHauAkMsdLI2JGpW0OFRmkNUEZaz5SqZjfCHYoG2/w640-h266/Capture.PNG)
 
 ---
 Il fallait en avoir le cœur net, si d’après nos calculs cela venait de là-bas,
@@ -118,7 +118,7 @@ Après avoir franchi une rivière glacée en barque, nous nous fîmes attaquer p
 par le groupe de cultistes du cercle d'Orban, visiblement furieux d’avoir été trouvé
 par le répurgateur et nous prenant pour des traîtres.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzu7we9vIEZkG0WozWcMnNU9fPQ-F69JQ5ZjnrWSgoTF4WJ-CDdcpTtJ8EZ68egFgz_HZg5PrqHT7FTmd0d7ntmCktXK0xgcuif9oskoYXLTrioWWrHFXVomExhEqq6BkJqvcpjhWK-UyRV33UB_29s7LRnWAlXln0wPlbrv4ywcET4CIZkV8U53wpUvsY/w640-h541/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzu7we9vIEZkG0WozWcMnNU9fPQ-F69JQ5ZjnrWSgoTF4WJ-CDdcpTtJ8EZ68egFgz_HZg5PrqHT7FTmd0d7ntmCktXK0xgcuif9oskoYXLTrioWWrHFXVomExhEqq6BkJqvcpjhWK-UyRV33UB_29s7LRnWAlXln0wPlbrv4ywcET4CIZkV8U53wpUvsY/s599/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzu7we9vIEZkG0WozWcMnNU9fPQ-F69JQ5ZjnrWSgoTF4WJ-CDdcpTtJ8EZ68egFgz_HZg5PrqHT7FTmd0d7ntmCktXK0xgcuif9oskoYXLTrioWWrHFXVomExhEqq6BkJqvcpjhWK-UyRV33UB_29s7LRnWAlXln0wPlbrv4ywcET4CIZkV8U53wpUvsY/w640-h541/Capture.PNG)
 
 Dans ce combat à mort,
 Filianore se fit presque tuer, alors que Mark, malgré son combat héroïque où il terrassa presque tout le monde,
@@ -134,7 +134,7 @@ Sur des bureaux, nous trouvions de nombreux papiers qu’Anselm interprétait co
 pointé vers Ubersreik, que l’on pouvait voir au loin, Mais une voix nous
 indiqua qu’il y avait eu un problème avec un essai.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho9wT-6ggtAIhoBE2s_ml4_i55NvmJHGnHHBpHZaVZUrlpu_qu6f6XTNB9zN_p-y60llY3o_QCe1c7Ysrq-yUkE3ozzSSS0f8qc4bjIK8nHRJA6Mn4Zj1Y0ugxY49yixJQClXxfQ5vvOS43HhHfCg2zML3ABSC6wOz7bIMcpcP9pyA9OavIAvjkMnjmBMx/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho9wT-6ggtAIhoBE2s_ml4_i55NvmJHGnHHBpHZaVZUrlpu_qu6f6XTNB9zN_p-y60llY3o_QCe1c7Ysrq-yUkE3ozzSSS0f8qc4bjIK8nHRJA6Mn4Zj1Y0ugxY49yixJQClXxfQ5vvOS43HhHfCg2zML3ABSC6wOz7bIMcpcP9pyA9OavIAvjkMnjmBMx/s658/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho9wT-6ggtAIhoBE2s_ml4_i55NvmJHGnHHBpHZaVZUrlpu_qu6f6XTNB9zN_p-y60llY3o_QCe1c7Ysrq-yUkE3ozzSSS0f8qc4bjIK8nHRJA6Mn4Zj1Y0ugxY49yixJQClXxfQ5vvOS43HhHfCg2zML3ABSC6wOz7bIMcpcP9pyA9OavIAvjkMnjmBMx/s16000/Capture.PNG)
 
 Nous nous retournions avec surprise, un mage à l’air triste se trouvait dans un coffre transparent et fermé. Il nous indiqua que le
 coupable était **Carolus Entschlafen**, Ce mage renégat ne voyait pas la magie comme
@@ -159,4 +159,4 @@ Carolus avait accidentellement tué le caporal. Il était heureux que cela tombe
 et il nous semblait que l’arme comportait plus de pièces… Avions-nous raté
 quelque chose ?
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJZdsIov1nUaYBKpWxv9P_Cg-wslB7_ivquaqKzAG1iB71D2rm-pdXGYRHHPQYIOIdnOU6a5s4mHDyzvW9bIrCX46KY4ioW3gL-k0HfDMxYG_mgNeHFzw6OvZyb3E1FfwhxDXHYQTvFHVwSFyIWTtzSiJv57CgrZyGDXXsDJKwP10-3-tmkvqJQDdiIe0/w640-h433/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJZdsIov1nUaYBKpWxv9P_Cg-wslB7_ivquaqKzAG1iB71D2rm-pdXGYRHHPQYIOIdnOU6a5s4mHDyzvW9bIrCX46KY4ioW3gL-k0HfDMxYG_mgNeHFzw6OvZyb3E1FfwhxDXHYQTvFHVwSFyIWTtzSiJv57CgrZyGDXXsDJKwP10-3-tmkvqJQDdiIe0/s775/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJZdsIov1nUaYBKpWxv9P_Cg-wslB7_ivquaqKzAG1iB71D2rm-pdXGYRHHPQYIOIdnOU6a5s4mHDyzvW9bIrCX46KY4ioW3gL-k0HfDMxYG_mgNeHFzw6OvZyb3E1FfwhxDXHYQTvFHVwSFyIWTtzSiJv57CgrZyGDXXsDJKwP10-3-tmkvqJQDdiIe0/w640-h433/Capture.PNG)

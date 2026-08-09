@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/05/42-lexfiltration.html](https://monennemiinterieur.blogspot.com/2024/05/42-lexfiltration.html)*
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWJHoXm3WWXiFMqzmSE4jTE3xyNriPC2ow33eO7rN8g7Ajp0ZPntDZpAq0SwLyOWJu3lkcfOIOTfmJEilHfRTg2HqwgOXVzMFdBrrSUUlDW6MjaYgeMEgep1k2NVugPyWysdwLOl6d20biOM8eTw-Oq_J-rGk27hgIu-ssSNLdDE5a4JOWORL03wmaUPM/s600/temple-of-shallya.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxwS9F16TMgINlbqXzMZjy78ilGqF9aHGPGZ7x7sfY7XB30iSHqpxTFUirh1_1GXt4MBPSy4NDQv4N3LdzBlgV3AD6NJSTB74Gkkm1bGJQSJDH0bqHmgbtlZ9QOZu4GVuOedKEnAK-takIMY_NOanMeZiyY6gPOAOPyMCu4jri62NSkiPen-hw2XcBcWo/s600/shallyan-mercyhouse.webp)
 
 Le capitaine nous promit après notre rapport de nous rappeler le lendemain car il avait il avait une nouvelle mission pour nous. Cela nous laissa le temps de nous occuper de nos affaires. Particulièrement Elvira, qui se donnait à fond pour son nouveau culte, multipliant les prêches et les bénédictions dans son temple devant une foule toujours plus nombreuse. Elle avait d’ailleurs demandé à Phineas de travailler sur une statue de sa déesse pour sa fête. C’était pour lui un grand honneur de recevoir la demande d’un temple d’une divinité majeure de l’Empire, aussi petit fusse-t-il, mais il lui fût nécessaire de se renseigner dans le temple de Verena, et pour cause : à l’exception d’Elvira, qui la décrivait comme sublime, merveilleuse ou parfaite, personne ne savait vraiment à quoi ressemblait Rhya.
 

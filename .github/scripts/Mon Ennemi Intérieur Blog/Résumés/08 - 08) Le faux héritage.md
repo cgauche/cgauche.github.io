@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/08-le-faux-heritage.html](https://monennemiinterieur.blogspot.com/2024/10/08-le-faux-heritage.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbA6wTNP___xTvgKmvyplu8cXJWWsybH9O1sxHy_8iQhXh5UNTjc0eacT9VKCx-MgDkrwr6tv7VIrifD1I9LKc-8BVsh7unzX59ADFuMIyvTELHLewWNN4jWxuUlWxfHs6JwpyQSkyUwCduBuQ5V5bZUHJj3rZ2D6ZGznPypw_tWTIUzIStRc0B9xc-Y/w640-h348/Docks.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbA6wTNP___xTvgKmvyplu8cXJWWsybH9O1sxHy_8iQhXh5UNTjc0eacT9VKCx-MgDkrwr6tv7VIrifD1I9LKc-8BVsh7unzX59ADFuMIyvTELHLewWNN4jWxuUlWxfHs6JwpyQSkyUwCduBuQ5V5bZUHJj3rZ2D6ZGznPypw_tWTIUzIStRc0B9xc-Y/s1600/Docks.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZbA6wTNP___xTvgKmvyplu8cXJWWsybH9O1sxHy_8iQhXh5UNTjc0eacT9VKCx-MgDkrwr6tv7VIrifD1I9LKc-8BVsh7unzX59ADFuMIyvTELHLewWNN4jWxuUlWxfHs6JwpyQSkyUwCduBuQ5V5bZUHJj3rZ2D6ZGznPypw_tWTIUzIStRc0B9xc-Y/w640-h348/Docks.webp)
 
 Nous arrivions au port d’une Bögenhafen en effervescence, de nombreux navires étaient à quai et se faisait débarder. Il y avait des produits de toute la région, des vins, des textiles, des fruits et légumes, des bêtes de foires. Josef nous laissa quartier libre. Pathsokar souhaitant directement récupérer l’héritage il nous dirigea dans un quartier sombre de la ville.
 

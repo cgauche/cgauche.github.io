@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/24-de-kemperbad-aux-cretes-noires.html](https://monennemiinterieur.blogspot.com/2024/10/24-de-kemperbad-aux-cretes-noires.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6B7YPWwbwPjdJmU3l21PkcI15QYGLfSSW3RqnyojLgsfsUAtfdpLUNMVdTVGbF8VOlx887fIp6N69N3Z9IzGytIVK0kTExbnsOjdTLYVGJNQSPZ_uzCe-btvQStRH36oSGjSSQ8QnuuRhxQk057QJpyYY1w7lnVm6_y42vqSUsEah5gbec6_7MIw3kcg/w640-h270/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6B7YPWwbwPjdJmU3l21PkcI15QYGLfSSW3RqnyojLgsfsUAtfdpLUNMVdTVGbF8VOlx887fIp6N69N3Z9IzGytIVK0kTExbnsOjdTLYVGJNQSPZ_uzCe-btvQStRH36oSGjSSQ8QnuuRhxQk057QJpyYY1w7lnVm6_y42vqSUsEah5gbec6_7MIw3kcg/s1123/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio6B7YPWwbwPjdJmU3l21PkcI15QYGLfSSW3RqnyojLgsfsUAtfdpLUNMVdTVGbF8VOlx887fIp6N69N3Z9IzGytIVK0kTExbnsOjdTLYVGJNQSPZ_uzCe-btvQStRH36oSGjSSQ8QnuuRhxQk057QJpyYY1w7lnVm6_y42vqSUsEah5gbec6_7MIw3kcg/w640-h270/Capture.PNG)
 
 Le voyage se passa dans le calme, le seul fait notable fut de croiser ce fort effrayant
 sur la rive du Reik, on l’appelait le château Wittgenstein. Et peut-être la
@@ -23,7 +23,7 @@ clair, et allions dans le bidonville à l’extérieur de la ville, où résidai
 les nains. Ils étaient visiblement contrariés, mais leur chef nous expliqua la
 raison :
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimC3IDCe7jdMTkmnhSbXzG4vVBP7HSr2iGFvbdvNoto-MX3CXtCjPC0equcBdcWILCuLPpQutkrZZlzgUVwmR2fak2AtE61hjiE37_oQtyImg-g5Xdg_y1lb5f-2ug2RVRTGd0ELwKmmV0MotJhYXSC7adPwoX4e7LyP2ewzX_wgd13maboE_wTgDUq4Xk/w640-h308/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimC3IDCe7jdMTkmnhSbXzG4vVBP7HSr2iGFvbdvNoto-MX3CXtCjPC0equcBdcWILCuLPpQutkrZZlzgUVwmR2fak2AtE61hjiE37_oQtyImg-g5Xdg_y1lb5f-2ug2RVRTGd0ELwKmmV0MotJhYXSC7adPwoX4e7LyP2ewzX_wgd13maboE_wTgDUq4Xk/s1131/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimC3IDCe7jdMTkmnhSbXzG4vVBP7HSr2iGFvbdvNoto-MX3CXtCjPC0equcBdcWILCuLPpQutkrZZlzgUVwmR2fak2AtE61hjiE37_oQtyImg-g5Xdg_y1lb5f-2ug2RVRTGd0ELwKmmV0MotJhYXSC7adPwoX4e7LyP2ewzX_wgd13maboE_wTgDUq4Xk/w640-h308/Capture.PNG)
 
 Autrefois ils possédaient les mines situées plus au sud, des mines qu’on
 disait remplies d’or. Mais jamais ils n’en ont trouvé. Alors une femme est
@@ -53,7 +53,7 @@ patrouilles réussit à nous voir et ils nous chargèrent tous. Acculés dans la
 maison, submergés, nous n’avions que peu d’espoir d’en ressortir. Mark invoqua sa bête et
 nous défendit, alors qu’Anselm récitait des phrases incompréhensibles.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC6336MguN5vqb_6gj6YjR7ynYWfhxK9nwqe8L-nU0kCsRV3nFNKcmAxUmjcNN2KnCgVSj07NM2g7Iy0k7dNSRbkDk9sMD31DU3DUNbgwpeT6Mtf8X0Q5LgaP9VaFSewv9bklTW_hwCC0na_uYF9xajzuF5c7OuwktJZYYzbr1v9gFdHMT-qaLn4DLG8lB/w640-h296/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC6336MguN5vqb_6gj6YjR7ynYWfhxK9nwqe8L-nU0kCsRV3nFNKcmAxUmjcNN2KnCgVSj07NM2g7Iy0k7dNSRbkDk9sMD31DU3DUNbgwpeT6Mtf8X0Q5LgaP9VaFSewv9bklTW_hwCC0na_uYF9xajzuF5c7OuwktJZYYzbr1v9gFdHMT-qaLn4DLG8lB/s1125/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC6336MguN5vqb_6gj6YjR7ynYWfhxK9nwqe8L-nU0kCsRV3nFNKcmAxUmjcNN2KnCgVSj07NM2g7Iy0k7dNSRbkDk9sMD31DU3DUNbgwpeT6Mtf8X0Q5LgaP9VaFSewv9bklTW_hwCC0na_uYF9xajzuF5c7OuwktJZYYzbr1v9gFdHMT-qaLn4DLG8lB/w640-h296/Capture.PNG)
 
 Et le tonnerre gronda ! Anselm avait envoyé un sort surpuissant qui dérasa
 tous les gobelins. Jamais nous ne l’avions vu lancer quelque chose de tel !

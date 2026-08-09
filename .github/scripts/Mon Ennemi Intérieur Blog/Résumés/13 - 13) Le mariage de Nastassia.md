@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/13-le-mariage-de-nastassia.html](https://monennemiinterieur.blogspot.com/2024/10/13-le-mariage-de-nastassia.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9pBwWsj99qpAHYYbMA5F-56QpB3h_TOAwXr215lgu1aPwoPNwDOLxtLUhdVMku8TlA_tFq09sWEdH56qk0Zsl5HwCqYm8_C7VE9fT2DoGaM3fyKbCy6PNTbiPVCRpT7mU8d8w4fLmIrNnwWyyvzBWDAhurMSjcZdOolpUPxv-xfSNyPAWxKDes1tfw2l/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9pBwWsj99qpAHYYbMA5F-56QpB3h_TOAwXr215lgu1aPwoPNwDOLxtLUhdVMku8TlA_tFq09sWEdH56qk0Zsl5HwCqYm8_C7VE9fT2DoGaM3fyKbCy6PNTbiPVCRpT7mU8d8w4fLmIrNnwWyyvzBWDAhurMSjcZdOolpUPxv-xfSNyPAWxKDes1tfw2l/s1062/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs9pBwWsj99qpAHYYbMA5F-56QpB3h_TOAwXr215lgu1aPwoPNwDOLxtLUhdVMku8TlA_tFq09sWEdH56qk0Zsl5HwCqYm8_C7VE9fT2DoGaM3fyKbCy6PNTbiPVCRpT7mU8d8w4fLmIrNnwWyyvzBWDAhurMSjcZdOolpUPxv-xfSNyPAWxKDes1tfw2l/s600/Capture.PNG)
 
 Nous devions faire profil bas durant quelques temps. Josef nous proposa de
 l’accompagner à Ubersreik, qui se trouvait assez loin de Bögenhafen pour se faire oublier.
@@ -26,7 +26,7 @@ Le débarquement fut long, car de nombreuses familles étaient présentes pour
 l'événement annoncé comme le plus festif de ces derniers mois. La famille Saponatheim, possesseur de nombreuses terres dans le Reikland, allait s'unir avec les
 Liebwitz, l'une des branches de la puissante et riche comtesse de Nuln.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVunRlexALPNJD4W08WbtD4YWTEXGEH7Rru3kDh6n9uTR3Lc6Jm-6UtdXQsUrCvMPrV-F1pu6TYLvbtMZAGV4qM-iNDXfoS5E4KZUATIu94-F1i-ZntyF6soxp9IvuslMuYZ9FnpEfvuHu1A-4xz5fgKYMRsViPoONYpF_BTXpVlv1w086MjDpv8rune1W/w640-h340/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVunRlexALPNJD4W08WbtD4YWTEXGEH7Rru3kDh6n9uTR3Lc6Jm-6UtdXQsUrCvMPrV-F1pu6TYLvbtMZAGV4qM-iNDXfoS5E4KZUATIu94-F1i-ZntyF6soxp9IvuslMuYZ9FnpEfvuHu1A-4xz5fgKYMRsViPoONYpF_BTXpVlv1w086MjDpv8rune1W/s1064/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVunRlexALPNJD4W08WbtD4YWTEXGEH7Rru3kDh6n9uTR3Lc6Jm-6UtdXQsUrCvMPrV-F1pu6TYLvbtMZAGV4qM-iNDXfoS5E4KZUATIu94-F1i-ZntyF6soxp9IvuslMuYZ9FnpEfvuHu1A-4xz5fgKYMRsViPoONYpF_BTXpVlv1w086MjDpv8rune1W/w640-h340/Capture.PNG)
 
 Durant le faste du diner, nous restions spectateurs de toutes ces riches
 familles. Nous pouvions voir la fameuse **Nastassia von Saponatheim,** la
@@ -60,7 +60,7 @@ cette chose venait de l’épée qui devait servir de dote, et qui était
 probablement maudite. Était-ce vraiment une bonne chose pour nos employeurs de
 se lier à cette famille de fou ? Nous leur en parlerions le lendemain.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2sgxPlTHKMLpQqVvXmcpoeQhItY4deOl7I0S8FgF6mHrDBlYvcwOR-qgWXvQAac5pH7q6SytwX94yJVNWyyGyrd1njb811rbnLS-kraxuKAuEAwyTclJ6RBOtedlV4-1HJVjH7PAsjHI56L1mKZ_d4M25yyRzNTg5AFW6ej08w4hDce-_0AmHWQ3XRztb/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2sgxPlTHKMLpQqVvXmcpoeQhItY4deOl7I0S8FgF6mHrDBlYvcwOR-qgWXvQAac5pH7q6SytwX94yJVNWyyGyrd1njb811rbnLS-kraxuKAuEAwyTclJ6RBOtedlV4-1HJVjH7PAsjHI56L1mKZ_d4M25yyRzNTg5AFW6ej08w4hDce-_0AmHWQ3XRztb/s581/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2sgxPlTHKMLpQqVvXmcpoeQhItY4deOl7I0S8FgF6mHrDBlYvcwOR-qgWXvQAac5pH7q6SytwX94yJVNWyyGyrd1njb811rbnLS-kraxuKAuEAwyTclJ6RBOtedlV4-1HJVjH7PAsjHI56L1mKZ_d4M25yyRzNTg5AFW6ej08w4hDce-_0AmHWQ3XRztb/s16000/Capture.PNG)
 
 Nous nous couchâmes finalement, sans nous douter que des démons nous
 réveilleraient en sursaut quelques heures plus tard ! Nous réussîmes à les occire, et découvrions
@@ -71,4 +71,4 @@ s’était enfuie. Il semblait également que de nombreux larcins avaient été
 commis, notamment un meurtre et un vol. Mais cela n’était plus nos affaires,
 et nous pûmes repartir vers Ubersreik.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tV_gp70OPaxCWfYnv4PXAUhwHmdfi3lZA5ONcHvYOUrnLT4tcMYaOYJczuT-c-7QvsbuAhaphNuOorHPM67w9S_mMaqhHWfpCT3O8vzeKOJg9RdjawcEWphwq3zwhfDovIQiM0CGjcGrnNxXVVEN49uxorMgqwMowO2lhetZFCR5A1qhwaSCP4OwueZU/w640-h316/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tV_gp70OPaxCWfYnv4PXAUhwHmdfi3lZA5ONcHvYOUrnLT4tcMYaOYJczuT-c-7QvsbuAhaphNuOorHPM67w9S_mMaqhHWfpCT3O8vzeKOJg9RdjawcEWphwq3zwhfDovIQiM0CGjcGrnNxXVVEN49uxorMgqwMowO2lhetZFCR5A1qhwaSCP4OwueZU/s1063/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3tV_gp70OPaxCWfYnv4PXAUhwHmdfi3lZA5ONcHvYOUrnLT4tcMYaOYJczuT-c-7QvsbuAhaphNuOorHPM67w9S_mMaqhHWfpCT3O8vzeKOJg9RdjawcEWphwq3zwhfDovIQiM0CGjcGrnNxXVVEN49uxorMgqwMowO2lhetZFCR5A1qhwaSCP4OwueZU/w640-h316/Capture.PNG)

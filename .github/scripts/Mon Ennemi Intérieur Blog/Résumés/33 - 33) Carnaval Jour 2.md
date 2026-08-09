@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/33-carnaval-jour-2.html](https://monennemiinterieur.blogspot.com/2024/10/33-carnaval-jour-2.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx1E14134FzbzdXVKNnK66pMO-vMBzPpRa61QW0LwmlvibZcMWoOe_ui_lMzhPZeXAxb-jT_KFxkzBaqfsGrJfNqWtifhKzWptxCmH1qlKo_xOfirIpWphrdEVBfnzl6QCx4MU1jsUQFiuWsZfwj0_21Xkhsy2GvG_XKoATval6Q-AEqRcO24xBCiFlnM/s600/minotaur-fight.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx1E14134FzbzdXVKNnK66pMO-vMBzPpRa61QW0LwmlvibZcMWoOe_ui_lMzhPZeXAxb-jT_KFxkzBaqfsGrJfNqWtifhKzWptxCmH1qlKo_xOfirIpWphrdEVBfnzl6QCx4MU1jsUQFiuWsZfwj0_21Xkhsy2GvG_XKoATval6Q-AEqRcO24xBCiFlnM/s3308/minotaur-fight.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx1E14134FzbzdXVKNnK66pMO-vMBzPpRa61QW0LwmlvibZcMWoOe_ui_lMzhPZeXAxb-jT_KFxkzBaqfsGrJfNqWtifhKzWptxCmH1qlKo_xOfirIpWphrdEVBfnzl6QCx4MU1jsUQFiuWsZfwj0_21Xkhsy2GvG_XKoATval6Q-AEqRcO24xBCiFlnM/s600/minotaur-fight.webp)
 
 Le lendemain, Phineas honora son rendez-vous avec **Natasha** au palais. C’était une courtisane qui essayait de faire ce qu’elle pouvait dans sa position pour que la ville se porte bien. Et dernièrement, la ville ne se portait pas si bien…
 
@@ -26,4 +26,4 @@ Sans nous douter de rien, nous flânions l’après-midi avant de nous rendre le
 
 Elvira rencontra **Kirsten** la courtisane pensive. Ragoteuse, elle savait que cette dernière avait un faible pour Dieter le champion du Graf, et elle se lia vite d’amitié avec elle. Elle lui proposa même de bénir leur union auprès de Rhya, lorsque Dieter serait libéré de ses responsabilités de champion.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i63iEu-kZnXi0sKSXA6Xe7EIPpIKBFbi2AMykYfh263p4oAF1An6NbPq2fZnl2675G5qANdqynsUUoC2O0UxByfTFeeB3nhAeFZh0W7BMW8umXel2f8El7SgtWgL3eiLsB7q14cfooolg86UBn0-CgHQts4tb2O71W5ZulAjcM1dON3l9NIkw_065wi3/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i63iEu-kZnXi0sKSXA6Xe7EIPpIKBFbi2AMykYfh263p4oAF1An6NbPq2fZnl2675G5qANdqynsUUoC2O0UxByfTFeeB3nhAeFZh0W7BMW8umXel2f8El7SgtWgL3eiLsB7q14cfooolg86UBn0-CgHQts4tb2O71W5ZulAjcM1dON3l9NIkw_065wi3/s501/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i63iEu-kZnXi0sKSXA6Xe7EIPpIKBFbi2AMykYfh263p4oAF1An6NbPq2fZnl2675G5qANdqynsUUoC2O0UxByfTFeeB3nhAeFZh0W7BMW8umXel2f8El7SgtWgL3eiLsB7q14cfooolg86UBn0-CgHQts4tb2O71W5ZulAjcM1dON3l9NIkw_065wi3/s16000/Capture.PNG)

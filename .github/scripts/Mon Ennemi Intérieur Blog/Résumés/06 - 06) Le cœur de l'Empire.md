@@ -2,11 +2,11 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/06-le-cur-de-lempire.html](https://monennemiinterieur.blogspot.com/2024/10/06-le-cur-de-lempire.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmolIYnn4bleOrE1EYPoaEvxdLnQmDkPvkMbh1kY-1gUen6GS_olko5klPbwUMnHXdiDNyVW_JjeyHCV-O0goiCSOEFzazlFxnXGvotwR4I_tVmoB72ZyQJ07KJWOUbUfYZ6pZskLbvqJ-1p9O7Bx2zerIaHrQ0vJV4_d6NXlPAKnX6BtQlXcPcEiBde5/w640-h318/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmolIYnn4bleOrE1EYPoaEvxdLnQmDkPvkMbh1kY-1gUen6GS_olko5klPbwUMnHXdiDNyVW_JjeyHCV-O0goiCSOEFzazlFxnXGvotwR4I_tVmoB72ZyQJ07KJWOUbUfYZ6pZskLbvqJ-1p9O7Bx2zerIaHrQ0vJV4_d6NXlPAKnX6BtQlXcPcEiBde5/s1125/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmolIYnn4bleOrE1EYPoaEvxdLnQmDkPvkMbh1kY-1gUen6GS_olko5klPbwUMnHXdiDNyVW_JjeyHCV-O0goiCSOEFzazlFxnXGvotwR4I_tVmoB72ZyQJ07KJWOUbUfYZ6pZskLbvqJ-1p9O7Bx2zerIaHrQ0vJV4_d6NXlPAKnX6BtQlXcPcEiBde5/w640-h318/Capture.PNG)
 
 Nous arrivâmes à Altdorf en quelques jours. Les routes étaient plus sûres près de la capitale et nous y croisions de nombreux villages. Autour de la ville, les paysans s'affairaient dans les champs alors que la fin de l'été allait arriver.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQi2pGoFVXULyUkdH7AuZ37qtH94grajLShD1ypctYYNFJnL1-O8igHUNtoZVypFx9Hd2yoVI-FHI9f81sU-rKuHkeiRiiKuGUXrPENfZSDaZxQjvRrnrakGxb0NpyxD-43phFrULXD84yWgfJ594xxJdZpDvYX5VXrms_UmC9yFo24_7LF8g9W2Hk3k4/s600/people-empire%281%29.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQi2pGoFVXULyUkdH7AuZ37qtH94grajLShD1ypctYYNFJnL1-O8igHUNtoZVypFx9Hd2yoVI-FHI9f81sU-rKuHkeiRiiKuGUXrPENfZSDaZxQjvRrnrakGxb0NpyxD-43phFrULXD84yWgfJ594xxJdZpDvYX5VXrms_UmC9yFo24_7LF8g9W2Hk3k4/s2549/people-empire%281%29.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQi2pGoFVXULyUkdH7AuZ37qtH94grajLShD1ypctYYNFJnL1-O8igHUNtoZVypFx9Hd2yoVI-FHI9f81sU-rKuHkeiRiiKuGUXrPENfZSDaZxQjvRrnrakGxb0NpyxD-43phFrULXD84yWgfJ594xxJdZpDvYX5VXrms_UmC9yFo24_7LF8g9W2Hk3k4/s600/people-empire%281%29.webp)
 
 A la descente de la diligence, Pathsokar
 était abordé de loin par plusieurs personnes lui faisant des signes étranges.
@@ -38,4 +38,4 @@ Il avait besoin de bras pour le
 voyage, Elvira et Phineas acceptèrent de prendre part à son l’équipage tandis que le
 reste du groupe pourrait profiter du transport jusqu’à Bögenhafen.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAy8rK-0PPb8nRP9MossSjw6JVDPuSLPZI7u6OtBtA1ryXK6WfIj_elk3ou2YL7xjdlnBzbGge75GhFgGzIcCVcpcUe5_9TFXucTQhegBPvOGa39AcxI_1PJQJwNgwaRTp4q3AhSxKNt-iEbzUvcooOtxoX8t-eURXVgqdjrqeu64ssgxx9BfqAjZpQ/s600/berebelli.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAy8rK-0PPb8nRP9MossSjw6JVDPuSLPZI7u6OtBtA1ryXK6WfIj_elk3ou2YL7xjdlnBzbGge75GhFgGzIcCVcpcUe5_9TFXucTQhegBPvOGa39AcxI_1PJQJwNgwaRTp4q3AhSxKNt-iEbzUvcooOtxoX8t-eURXVgqdjrqeu64ssgxx9BfqAjZpQ/s3198/berebelli.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7SAy8rK-0PPb8nRP9MossSjw6JVDPuSLPZI7u6OtBtA1ryXK6WfIj_elk3ou2YL7xjdlnBzbGge75GhFgGzIcCVcpcUe5_9TFXucTQhegBPvOGa39AcxI_1PJQJwNgwaRTp4q3AhSxKNt-iEbzUvcooOtxoX8t-eURXVgqdjrqeu64ssgxx9BfqAjZpQ/s600/berebelli.webp)

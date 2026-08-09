@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/07-sur-la-route-de-bogenhafen.html](https://monennemiinterieur.blogspot.com/2024/10/07-sur-la-route-de-bogenhafen.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT3Lh3IYC_bNVwV_Ue8yrkqWvXSz1Fu7kusOyM-zZbD3SGUmvQp4k4S8Rh_FH4cmPiauti8qQaaol7bFM3PjgDadCInw-O43HEceAdlT9AmBXlCVbk_rih0SjA63QRPHVHz7KaC_TaHl6u5ZZMpo6QH1kdbXXgeF_ol9Xay8OXVgsDzlmjHCJuNuKyLAV/s600/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT3Lh3IYC_bNVwV_Ue8yrkqWvXSz1Fu7kusOyM-zZbD3SGUmvQp4k4S8Rh_FH4cmPiauti8qQaaol7bFM3PjgDadCInw-O43HEceAdlT9AmBXlCVbk_rih0SjA63QRPHVHz7KaC_TaHl6u5ZZMpo6QH1kdbXXgeF_ol9Xay8OXVgsDzlmjHCJuNuKyLAV/s1126/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT3Lh3IYC_bNVwV_Ue8yrkqWvXSz1Fu7kusOyM-zZbD3SGUmvQp4k4S8Rh_FH4cmPiauti8qQaaol7bFM3PjgDadCInw-O43HEceAdlT9AmBXlCVbk_rih0SjA63QRPHVHz7KaC_TaHl6u5ZZMpo6QH1kdbXXgeF_ol9Xay8OXVgsDzlmjHCJuNuKyLAV/s600/Capture.PNG)
 
 Le voyage prit plusieurs jours, il faut dire que le trafic était chargé et nous avancions au pas. Lors de notre trajet par bateau, le Bérébéli, nous croisions beaucoup de patrouilles. Au moins, il était peu probable de se faire attaquer, du moins le pensions-nous…
 

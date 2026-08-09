@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/11-chasser-les-ombres.html](https://monennemiinterieur.blogspot.com/2024/10/11-chasser-les-ombres.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghijxNh0NSv_GLBnhk06n9_OmWzKE-ANbewQMkvgW1NDGtcUV1DVqgcRUIJGFGAIn0isEaWVSwnFN0fsmRuwoy_8T3lV4pv2JHHlkeNGQJJqFLIo0rDsOCC9lrU9pNGkPFhJjbY7NUBIYuFOb321lAuZ0tehQFs_ClJk_-Kl2W5Y_TfPNjw6nl2I_SaFsv/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghijxNh0NSv_GLBnhk06n9_OmWzKE-ANbewQMkvgW1NDGtcUV1DVqgcRUIJGFGAIn0isEaWVSwnFN0fsmRuwoy_8T3lV4pv2JHHlkeNGQJJqFLIo0rDsOCC9lrU9pNGkPFhJjbY7NUBIYuFOb321lAuZ0tehQFs_ClJk_-Kl2W5Y_TfPNjw6nl2I_SaFsv/s548/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghijxNh0NSv_GLBnhk06n9_OmWzKE-ANbewQMkvgW1NDGtcUV1DVqgcRUIJGFGAIn0isEaWVSwnFN0fsmRuwoy_8T3lV4pv2JHHlkeNGQJJqFLIo0rDsOCC9lrU9pNGkPFhJjbY7NUBIYuFOb321lAuZ0tehQFs_ClJk_-Kl2W5Y_TfPNjw6nl2I_SaFsv/s16000/Capture.PNG)
 
 Le lendemain, décidés à nous faire payer, nous nous rendions à la tente du juge.
 Alors que nous lui annoncions avons trouvé les restes du gobelin, il nous coupa
@@ -34,7 +34,7 @@ Elvira de son côté décida de faire le tour des temples pour y donner des offr
 de Shallya, la déesse de la miséricorde et des soins, et leur proposa son aide lorsqu’elle vit qu’il y avait énormément de
 blessés suite à un massacre dans le temple d’Ulric.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7G1hSX1MG-PSwrh-r972BQPzp4sKtC3BB24aDqV5-lwIaP9wLRg27mp9GvKL41fByJgjFcIIu7r7ANRZWHUO6IrCePRZzHsrECWETFnglYOcxEmnpFJjoCXpLpMOYhd4jsNxW6cWjf8_9rrfU22EQFDIz6GANsEMiMgKoYJPkjna7PNm1Gbo1uUfvIME/w560-h640/shallyan-temple.webp)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7G1hSX1MG-PSwrh-r972BQPzp4sKtC3BB24aDqV5-lwIaP9wLRg27mp9GvKL41fByJgjFcIIu7r7ANRZWHUO6IrCePRZzHsrECWETFnglYOcxEmnpFJjoCXpLpMOYhd4jsNxW6cWjf8_9rrfU22EQFDIz6GANsEMiMgKoYJPkjna7PNm1Gbo1uUfvIME/s1600/shallyan-temple.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7G1hSX1MG-PSwrh-r972BQPzp4sKtC3BB24aDqV5-lwIaP9wLRg27mp9GvKL41fByJgjFcIIu7r7ANRZWHUO6IrCePRZzHsrECWETFnglYOcxEmnpFJjoCXpLpMOYhd4jsNxW6cWjf8_9rrfU22EQFDIz6GANsEMiMgKoYJPkjna7PNm1Gbo1uUfvIME/w560-h640/shallyan-temple.webp)
 
 Elle nous revint plus tard
 en état de choc : après cette étrange prédiction d’hier, elle avait maintenant eu des visions apocalyptiques envoyées par sa

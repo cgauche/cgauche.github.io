@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/10/04-on-cherche-aventuriers-courageux.html](https://monennemiinterieur.blogspot.com/2024/10/04-on-cherche-aventuriers-courageux.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cLikkKOnqJHuKbEWAP2n9ywkE4rfX3uxo5-vrWsdaAaHhoP84jLqtOBoGSbbnH7FYUIW6IMbkQyMdHt6Fx7nNhlPO1-xY3u2WCrGc3hFAXhUoRbse6mLhCP0gnCMd5YU0swdn_nWUDqf-Pehqiq7NeQAN6XvazbBZNdinrOVAujQXAGHw41m3gltoyQN/w640-h278/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cLikkKOnqJHuKbEWAP2n9ywkE4rfX3uxo5-vrWsdaAaHhoP84jLqtOBoGSbbnH7FYUIW6IMbkQyMdHt6Fx7nNhlPO1-xY3u2WCrGc3hFAXhUoRbse6mLhCP0gnCMd5YU0swdn_nWUDqf-Pehqiq7NeQAN6XvazbBZNdinrOVAujQXAGHw41m3gltoyQN/s1126/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2cLikkKOnqJHuKbEWAP2n9ywkE4rfX3uxo5-vrWsdaAaHhoP84jLqtOBoGSbbnH7FYUIW6IMbkQyMdHt6Fx7nNhlPO1-xY3u2WCrGc3hFAXhUoRbse6mLhCP0gnCMd5YU0swdn_nWUDqf-Pehqiq7NeQAN6XvazbBZNdinrOVAujQXAGHw41m3gltoyQN/w640-h278/Capture.PNG)
 
 Nous n’étions plus que trois, mais nous nous étions promis de rester ensemble
 pour aller à Altdorf, la capitale de l’Empire.
@@ -31,7 +31,7 @@ acceptèrent de nous prendre si nous ne dérangions pas les autres passagers. Ce
 
 En parlant de passagers, durant la soirée nous faisions connaissance avec certains d’entre eux. Outre une noble et sa suite, il y avait un joueur de cartes, venu de la lointaine Bretonnie. Il nous proposa de l’accompagner dans ses parties. Skippy, Pathsokar et Anselm acceptèrent, et après avoir brièvement gagné une partie, commencèrent à se faire dépouiller en chaine.
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzfwHEa2c9Mc5iR3eYfabdnmfd4awlbCH37hdtA38ngeonHdObTuO86uoNHH1X2ogQRDRffpHZGhq2se3cRhTuTqpcUPEq_RFcKulBaLq76WaPOoGYUY9pOWqgfXtdzb7OawTswE_sVWA0S64Nki-355JUdAEH1KfYYxU6EBaNfTugyRXDu3V8hAZLYRe/s16000/Capture.PNG)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzfwHEa2c9Mc5iR3eYfabdnmfd4awlbCH37hdtA38ngeonHdObTuO86uoNHH1X2ogQRDRffpHZGhq2se3cRhTuTqpcUPEq_RFcKulBaLq76WaPOoGYUY9pOWqgfXtdzb7OawTswE_sVWA0S64Nki-355JUdAEH1KfYYxU6EBaNfTugyRXDu3V8hAZLYRe/s611/Capture.PNG)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbzfwHEa2c9Mc5iR3eYfabdnmfd4awlbCH37hdtA38ngeonHdObTuO86uoNHH1X2ogQRDRffpHZGhq2se3cRhTuTqpcUPEq_RFcKulBaLq76WaPOoGYUY9pOWqgfXtdzb7OawTswE_sVWA0S64Nki-355JUdAEH1KfYYxU6EBaNfTugyRXDu3V8hAZLYRe/s16000/Capture.PNG)
 
 Elvira tentait de sympathiser avec un jeune étudiant en magie timide au fond de la salle, mais il était visiblement
 incommodé par sa présence et alla rapidement se coucher.
