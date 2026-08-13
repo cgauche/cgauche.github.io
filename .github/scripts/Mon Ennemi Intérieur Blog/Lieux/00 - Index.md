@@ -23,6 +23,8 @@
 - [Ferme de Grissenwald](<Ferme de Grissenwald.md>)
 - [Gladbeich (2)](<Gladbeich (2).md>)
 - [Gladbeich](<Gladbeich.md>)
+- [Grenzstadt (2)](<Grenzstadt (2).md>)
+- [Grenzstadt](<Grenzstadt.md>)
 - [Grissenwald (2)](<Grissenwald (2).md>)
 - [Grissenwald](<Grissenwald.md>)
 - [Karak Skygg (2)](<Karak Skygg (2).md>)

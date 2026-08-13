@@ -68,7 +68,7 @@
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 - [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
 
-## PJ (61)
+## PJ (63)
 
 - [Albert Reichau](<PJ/Albert Reichau.md>)
 - [Albert, joueur d'épée](<PJ/Albert, joueur d'épée.md>)
@@ -100,6 +100,8 @@
 - [Johannes, agent secret impérial](<PJ/Johannes, agent secret impérial.md>)
 - [Johannes, assistant de Fassbinder](<PJ/Johannes, assistant de Fassbinder.md>)
 - [Lirrian Morningstar](<PJ/Lirrian Morningstar.md>)
+- [Mardrin (2)](<PJ/Mardrin (2).md>)
+- [Mardrin, ingénieur](<PJ/Mardrin, ingénieur.md>)
 - [Mardrin](<PJ/Mardrin.md>)
 - [Mark, prêtre d'Ulric (2)](<PJ/Mark, prêtre d'Ulric (2).md>)
 - [Mark, prêtre d'Ulric](<PJ/Mark, prêtre d'Ulric.md>)
@@ -132,7 +134,7 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (240)
+## PNJ (241)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
@@ -337,6 +339,7 @@
 - [Raina Müs](<PNJ/Raina Müs.md>)
 - [Rallane Lafarel](<PNJ/Rallane Lafarel.md>)
 - [Rat mutant géant](<PNJ/Rat mutant géant.md>)
+- [Rauf Wasserburg](<PNJ/Rauf Wasserburg.md>)
 - [Reiner Ehrlich](<PNJ/Reiner Ehrlich.md>)
 - [Renate Hausier](<PNJ/Renate Hausier.md>)
 - [Sanguinaires de Khorn](<PNJ/Sanguinaires de Khorn.md>)
@@ -375,7 +378,7 @@
 - [Zombie](<PNJ/Zombie.md>)
 - [Étudiants en artillerie](<PNJ/Étudiants en artillerie.md>)
 
-## Lieux (72)
+## Lieux (74)
 
 - [Aldorf (2)](<Lieux/Aldorf (2).md>)
 - [Aldorf (3)](<Lieux/Aldorf (3).md>)
@@ -400,6 +403,8 @@
 - [Ferme de Grissenwald](<Lieux/Ferme de Grissenwald.md>)
 - [Gladbeich (2)](<Lieux/Gladbeich (2).md>)
 - [Gladbeich](<Lieux/Gladbeich.md>)
+- [Grenzstadt (2)](<Lieux/Grenzstadt (2).md>)
+- [Grenzstadt](<Lieux/Grenzstadt.md>)
 - [Grissenwald (2)](<Lieux/Grissenwald (2).md>)
 - [Grissenwald](<Lieux/Grissenwald.md>)
 - [Karak Skygg (2)](<Lieux/Karak Skygg (2).md>)

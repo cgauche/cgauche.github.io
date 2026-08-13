@@ -82,4 +82,16 @@ Le ton monta lorsque la baronesse comprit que l’armée du comte se trouvait à
 
 A sa surprise, tous deux acceptèrent !
 
+Bien que ce soit loin d’une solution idéale aux yeux de la jeune femme, elle avait le mérite d’être impartiale et d’éviter une guerre ouverte. On organisa donc le combat entre les deux nobles, qui tenaient chacun à se présenter en personne. Impulsive, probablement moins expérimentée que son vis-à-vis, la baronesse se fit ridiculiser par le jeune comte, qui prit un malin plaisir à se jouer d’elle et à se donner en spectacle. Ainsi, nous pûmes déclarer par la voix de l’empereur que Streissen appartiendrait dorénavant à la famille Leitdorf.
+
+Nous ne nous éternisions pas dans la ville en liesse et filions vers Averheim et la fin de notre voyage en bateau. La capitaine von Flamme proposa de nous attendre un mois et demi à quai pour nous permettre de rentrer à Altdorf, ce que nous acceptâmes. Cela nous laisserait largement assez de temps pour faire l’aller-retour à la passe du Feu Noir et y chercher des indices sur Ghal Maraz.
+
+Alors que nous envisagions de rester une nuit ou deux en ville, une délégation de nobles vint nous rencontrer et nous somma de partir dans les plus brefs délais. La raison ? Ils avaient eu vent de la prise de Streissen et nous en gardait rancune. Nous leur avions pourtant évité une débâcle militaire en intervenant. Nous prîmes donc un service de diligence et partions le soir même pour nous éviter des problèmes.
+
+Cinq jours après, nous arrivions à Grenzstadt, dernière ville avant la passe et lieu symbolique de Sigmar. Si l’accueil fut glacial dans la capitale d’Averland, il fut en revanche beaucoup plus chaleureux ici. Elvira fut adulée par les habitants, qui se massaient autour d’elle pour la voir, la toucher, la remercier, voyant en elle et le pèlerinage qu’elle n’avait cessé de promouvoir une bénédiction de leur dieu. Cela semblait surréaliste !
+
+Une fête fut même organisée en notre honneur, et un érudit et guide local nommé Rauf Wasserburg se proposa durant la soirée pour nous accompagner pour la suite de notre périple. Il nous permettrait de ne pas nous perdre et d’éviter les mauvaises rencontres.
+
+Peut-être prenions-nous enfin conscience de la folie qui nous avait poussé à traverser l’empire pour trouver une hypothétique relique. Demain, les inhospitalières montagnes noires se dresseraient devant nous. Peuplées de peaux-vertes. Isolées. Mortelles.
+
 **Suite prochainement...**

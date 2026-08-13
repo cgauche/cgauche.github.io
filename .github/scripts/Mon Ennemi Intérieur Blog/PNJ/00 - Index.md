@@ -203,6 +203,7 @@
 - [Raina Müs](<Raina Müs.md>)
 - [Rallane Lafarel](<Rallane Lafarel.md>)
 - [Rat mutant géant](<Rat mutant géant.md>)
+- [Rauf Wasserburg](<Rauf Wasserburg.md>)
 - [Reiner Ehrlich](<Reiner Ehrlich.md>)
 - [Renate Hausier](<Renate Hausier.md>)
 - [Sanguinaires de Khorn](<Sanguinaires de Khorn.md>)

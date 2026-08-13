@@ -30,6 +30,8 @@
 - [Johannes, agent secret impérial](<Johannes, agent secret impérial.md>)
 - [Johannes, assistant de Fassbinder](<Johannes, assistant de Fassbinder.md>)
 - [Lirrian Morningstar](<Lirrian Morningstar.md>)
+- [Mardrin (2)](<Mardrin (2).md>)
+- [Mardrin, ingénieur](<Mardrin, ingénieur.md>)
 - [Mardrin](<Mardrin.md>)
 - [Mark, prêtre d'Ulric (2)](<Mark, prêtre d'Ulric (2).md>)
 - [Mark, prêtre d'Ulric](<Mark, prêtre d'Ulric.md>)

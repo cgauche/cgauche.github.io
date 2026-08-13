@@ -2,6 +2,6 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2021/11/shining-rock.html](https://monennemiinterieur.blogspot.com/2021/11/shining-rock.html)*
 
-[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw79Bz_Nb0pgpHZd1Med_kKTAi0btN22Y-GJBsZMfx0TwkqwG1qNCot93peCYyWl0MKfe0W6vqr9TplI-_pjywN6bADN1RXVHLLMEGbxPYjrykF2g60HHpERoSVbe7fc2HYyHiCRM3ZsvI7wQAz6NJShRfwOhNjZmfdpNW6fHJL_8WXeWhLoygmgzWavM/s200/_shining-rock.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw79Bz_Nb0pgpHZd1Med_kKTAi0btN22Y-GJBsZMfx0TwkqwG1qNCot93peCYyWl0MKfe0W6vqr9TplI-_pjywN6bADN1RXVHLLMEGbxPYjrykF2g60HHpERoSVbe7fc2HYyHiCRM3ZsvI7wQAz6NJShRfwOhNjZmfdpNW6fHJL_8WXeWhLoygmgzWavM/s500/_shining-rock.png)
+[![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaeaPr5tWpxeqRH94FVUCkGIR3No6AOzTmGC_CYXEA8mpeqNKIvR4v4E5q0WMFJMD-1YMxEoftqV-JaII5c3nCFhBoKrHxbIWGkK6m61Nlnre-VZzPHRZViBLV7ulzMe19H6xr8FZz4iq748cvLznJAmofJYs9HrRNG3k8BSujMDg82FLWqiPLathDCX8/s200/_shining-rock.png)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaeaPr5tWpxeqRH94FVUCkGIR3No6AOzTmGC_CYXEA8mpeqNKIvR4v4E5q0WMFJMD-1YMxEoftqV-JaII5c3nCFhBoKrHxbIWGkK6m61Nlnre-VZzPHRZViBLV7ulzMe19H6xr8FZz4iq748cvLznJAmofJYs9HrRNG3k8BSujMDg82FLWqiPLathDCX8/s350/_shining-rock.png)
 
 **Lieu sacré**

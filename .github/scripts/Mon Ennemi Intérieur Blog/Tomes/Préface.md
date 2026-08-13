@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*07/08/2026 : Suite de [l’épisode 64](https://monennemiinterieur.blogspot.com/search/label/64), négociations à Streissen.*
+*13/08/2026 : Fin de [l’épisode 64](https://monennemiinterieur.blogspot.com/search/label/64), arrivée devant la passe de Feu Noir.*
