@@ -18,7 +18,7 @@ domaine de l’artillerie.
 La comtesse de Nuln était l’une des personnalités les plus
 puissantes et influentes de l’Empire, il faudrait se montrer particulièrement respectueux
 à ses côtés. Il est vrai que nous n’étions pas des canons de beauté, et
-certains ferraient même complètement tâche dans une soirée mondaine comme
+certains faisaient même complètement tâche dans une soirée mondaine comme
 celle-ci. La Gravin devait se dire à cet instant qu’elle était bien désespérée
 à l’époque pour s’attacher les services de personnes telles que nous. Mais elle
 comptait nous donner une chance.
@@ -41,20 +41,21 @@ le gratin de la ville, venu pour bien se faire voir au côté de la comtesse.
 
 C’était un défilé de grande noblesse, et aussi un « nid de
 vipère ». En effet, les nobles ne s’appréciaient pas entre eux, certains se
-toisaient ou se provoquaient. Mais lorsque la comtesse entra, sa nièce à ses
+toisaient ou se provoquaient. Ce fut là un grand apprentissage pour nous, car ce ne serait pas la dernière
+fois que nous participerions à des réunions entre aristocrates. Lorsque la comtesse entra, sa nièce à ses
 côtés, elle fit taire les clameurs. Le comte Hugo Pfeifraucher, l’un de ses
 alliés, s’avança et la salua d’un « sale trainée ». Immédiatement après, dans
 un silence de cathédrale, il s’agenouilla et se confondit en excuses. La
 comtesse l’accepta en souriant, avant de monter avec la Gravin. Nous pûmes la
-voir à notre étage, furieuse, se jurant de régler le compte des mages de la
+voir apparaitre à notre étage, furieuse, se jurant de régler le compte de tous les mages de la
 ville.
 
 Lirrian avait
 vu – ou senti – le magicien, et lui lança un sort d’immobilisation alors qu’il essayait de s’enfuir. Skippy et lui l’attrapèrent et le ramenèrent au poste de garde non loin.
 
 Suivant la comtesse discrètement, l’homme qui avait attisé la haine du
-fantôme à Nuln, ce répurgateur qui était présent au procès, montait à notre
-étage. Il souhaitait toujours arrêter la Gravin, la pensant coupable malgré les
+fantôme à Nuln – souvenez-vous, ce répurgateur qui était présent au procès – montait à notre
+étage. Il souhaitait secrètement arrêter la Gravin, la pensant coupable malgré les
 preuves irréfutables apportées lors du procès. Il a feint s’être perdu lorsque
 nous nous sommes interposés, mais nous l’éconduisions et le surveillons de plus
 belle.
@@ -71,13 +72,14 @@ leurs professeurs en lançant des pétards dans la salle, ce que nous réussissi
 semblait l’œuvre de la mafia locale.
 
 La cloche sonna la fin du premier acte sous des applaudissements nourris.
-Skippy et Lirrian, qui avaient trouvé porte close en arrivant après le début de la pièce purent enfin rentrer. Plusieurs personnes défilèrent à l’étage de la comtesse pour lui rendre hommage
+Skippy et Lirrian, qui avaient trouvé porte close en revenant du poste après le début de la pièce purent enfin rentrer.
+Plusieurs personnes défilèrent à l’étage de la comtesse pour lui rendre hommage
 et lui offrir des présents. Parmi eux, un immense dramaturge vint les voir et
 se présenter en tant que Detlef Sierck.
 Mais aussitôt après, un homme masqué et
-terrifiant se lança dans un spectacle improvisé avec lui, une caricature de
+terrifiant se lança dans un spectacle improvisé avec lui – ou plutôt malgré lui –, une caricature de
 l’œuvre originale de Detlef. A la suite d’un acte volontaire mais discret de
-l’acteur grâce à sa complice, il l’avait pétrifié sur place et le fit agoniser, dans l’indifférence
+l’acteur grâce à sa complice, il l’avait pétrifié sur place et le faisait agoniser dans l’indifférence
 générale, les spectateurs pensant qu’il jouait la comédie. Nous arrivâmes à le
 sauver sans éveiller les soupçons.
 
@@ -86,22 +88,19 @@ sauver sans éveiller les soupçons.
 Un peu plus tard, des nobles de deux familles rivales, les Toppenheimer et les
 Pfeifraucher, se battirent. Cela se termina en défenestration massive. Que les nobles sont
 indisciplinés ! Face à la multiplication des incivilités nous décidâmes de nous
-séparer pour couvrir plus de terrain pendant le deuxième acte. Elvira et Skippy
-décidèrent de rester en bas, Phineas et Lirrian de surveiller les loges des nobles et
-Sigrun de rester dans la loge de la Gravin.
+séparer pour couvrir plus de terrain pendant le deuxième acte. Elvira et Skippy resteraient en bas,
+Phineas et Lirrian surveilleraient les loges des nobles et Sigrun resterait dans la loge de la Gravin.
 
-Alors que la pièce recommençait, le public fut une nouvelle fois dissipé par un acte de vandalisme. Il y eut un début de panique, mais la comtesse Emmanuelle se leva, et tonna aux spectateurs de se calmer. Tout le monde se rassirent dans le plus grand calme.
+Alors que la pièce recommençait, le public fut une nouvelle fois dissipé par un acte de vandalisme. Les universitaires avaient réussi leur coup !
+Il y eut un début de panique, mais la comtesse Emmanuelle se leva, et tonna aux spectateurs de se calmer. Tout le monde se rassirent dans le plus grand calme.
 
-Alors que nous pensions avoir enfin une accalmie, l’un des cadeaux de la comtesse offert par un invité pendant l’entracte explosa et
-détruisit la pièce ! Les deux femmes chutèrent, se retrouvant sur la scène deux étages plus bas. La Gravin mourut sur le coup
-tandis que la comtesse agonisait. Elvira implora sa déesse de la sauver en lançant une bénédiction. Nous apprîmes plus tard qu’elle s’en était
-sorti. L’opéra sombra dans l’horreur et la panique, que nous ne
-plument réussir à calmer. Et Sigrun ? Nul ne sait s’il s’en était sorti…
+Alors que nous pensions avoir enfin une accalmie, l’un des cadeaux de la comtesse offert par un invité pendant
+l’entracte explosa et détruisit le balcon ! Les deux femmes chutèrent, se retrouvant sur la scène deux étages plus bas. La Gravin mourut sur le coup tandis
+que la comtesse agonisait. Elvira implora sa déesse de la sauver en lançant une bénédiction. Et Sigrun ? Nul ne savait s’il s’en était sorti…
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQwtGxx-gNb3PeHLsrIZtYkjG5B0kxAnxvhWPhr8sH6v9eVfwXW9H0bRfS8KiDMArtJc1bcfATZWDZOpm3zap9qfNrFZS6QoJ92YHfObHUYiVyIxZT3_xDt0kZwEETlzSSOcegnIikI7EQiN1EJVxsvcwKTATlz3tgiRSWrR8Hi2fNVyWV6WgJRNy-Qs/s600/nuln2.png)
 
-Le désordre qui s’ensuivit ne nous permis pas d’en savoir plus, car nous dûmes
-évacuer et nous fûmes dispersés alors que des anarchistes commençaient à
-provoquer les autorités autour du bâtiment en ruine. Suite à l’instabilité
-politique et la perte de notre employeur, nous quittâmes la ville précipitamment, en ayant
-perdu de vue Sigrun et Lirrian. Désormais nous n’étions plus que trois, et une nouvelle fois sans un sou
+L’opéra sombra dans l’horreur et la panique. Le désordre qui s’ensuivit ne nous permis pas d’en savoir plus, car nous fûmes écartés des corps
+, évacués et dispersés dans les rues alors que des anarchistes commençaient à provoquer les autorités autour du bâtiment en ruine.
+Nous apprîmes bien plus tard que la comtesse avait survécu à ses blessures. L’instabilité politique et la perte de notre employeur nous obligea
+à quitter la ville précipitamment, en ayant perdu de vue Sigrun et Lirrian. Désormais nous n’étions plus que trois, et une nouvelle fois sans un sou.

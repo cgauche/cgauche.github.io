@@ -28,7 +28,7 @@ Cette dernière rencontre la bouleversa. Elle nous avoua une fois les marins rep
 
 Tant par les témoignages de ces réfugiés que par ceux habitant les villages épargnés du Wissenland, il nous paraissait évident que la destruction des villages avait été perpétré par l’armée du chatelain local, un certain van Bachmann. Ce baron jouait à un jeu dangereux, et les faits étaient suffisamment graves pour que Phineas décide de prendre contact avec ses homologues diplomates à notre entrée à Nuln. Cela risquait de rallonger la durée de notre voyage, mais personne n’allait se plaindre de rester à quai quelques jours.
 
-En effet, Elvira avait fait parvenir à toutes nos destinations des lettres pour informer de son passage en grande pompe – enfin, Elvira avait eu l’idée, c’était Phineas qui avait finalement écrit les lettres… – et en conséquence, nous fûmes invités par la comtesse à séjourner au palais autant de temps qu’il le faudrait. Bien loin de la promiscuité du navire.
+En effet, Elvira avait fait parvenir à toutes nos destinations des lettres pour informer de son passage en grande pompe – enfin, Elvira avait eu l’idée, c’était bien Phineas qui avait écrit les lettres… – et en conséquence, nous fûmes invités par la comtesse à séjourner au palais autant de temps qu’il le faudrait. Bien loin de la promiscuité du navire.
 
 Yuridika et un ingénieur nain du nom de Mardrin qui nous accompagnait passèrent leur temps à l’académie de balistique, Phineas au palais où son récit fut écouté avec attention, Johannes dans les bibliothèques pour se renseigner sur notre trajet et Elvira… à parader dans la ville pour se faire un nom. Elle nous revint un soir avec Duchesse à ses côtés, une chienne qu’elle nous expliqua avoir arraché à un tortionnaire et un arnaqueur. Elle ne s’en sépara plus.
 
@@ -78,7 +78,7 @@ La médiation fut organisée dans les règles de l’art, Marlene d’un côté,
 
 Elvira, encore elle, se démena pour trouver un arrangement entre les différents partis, mais aucun d’eux ne voulait reculer d’un pouce dans leurs positions. Marlene expliquait que la ville appartenait à sa mère et qu’elle ne voyait pas pourquoi elle ferait une concession. Marcus rétorqua de manière très contradictoire qu’il ne voulait plus être sous la tutelle d’aristocrates tout en exigeant le comte comme nouveau maitre. Quant à Marius, il se contentait de belles phrases philosophiques en se présentant comme un libérateur.
 
-Le ton monta lorsque la baronesse comprit que l’armée du comte se trouvait à seulement quelques kilomètres, prête à la prendre en tenaille si elle tentait une attaque. Alors excédée, Elvira vira au rouge. *Puisque vous n’êtes pas capables de vous mettre d’accord, vous n’avez qu’à faire un duel entre vous et laisser tous ces gens tranquilles !*
+Le ton monta lorsque la baronesse comprit que l’armée du comte se trouvait à seulement quelques kilomètres, prête à la prendre en tenaille si elle tentait une attaque. Alors excédée, Elvira vira au rouge. « *Puisque vous n’êtes pas capables de vous mettre d’accord, vous n’avez qu’à faire un duel entre vous et laisser tous ces gens tranquilles !* »
 
 A sa surprise, tous deux acceptèrent !
 
