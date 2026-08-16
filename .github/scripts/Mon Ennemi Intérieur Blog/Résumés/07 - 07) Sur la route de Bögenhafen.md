@@ -6,10 +6,12 @@
 
 Le voyage prit plusieurs jours, il faut dire que le trafic était chargé et nous avancions au pas. Lors de notre trajet par bateau, le Bérébéli, nous croisions beaucoup de patrouilles. Au moins, il était peu probable de se faire attaquer, du moins le pensions-nous…
 
-Un soir, nous faisions halte à Weissbruck pour la nuit, une petite ville au
+Un soir, nous faisions halte à Weissbruck pour la nuit, une petite ville quelques centaines d’âmes au
 bord du canal.
-Mais lors de nos tours de garde, nous nous fîmes attaquer par des carreaux d’arbalète. Impossible de savoir d’où cela put venir, aussi nous
-décidâmes de rester abrités dans le bateau durant la nuit.
+
+Un soir, nous faisions halte à Weissbruck pour la nuit, une petite ville de quelques centaines d’âmes au bord du canal.
+Mais lors de l’un de nos tours de garde, alors que le quai était calme et désert, plusieurs carreaux d’arbalète sifflèrent dans la nuit noire.
+Ils nous manquèrent de peu ! Impossible de déterminer leur provenance, aussi nous décidâmes de rester abrités dans le bateau durant la nuit.
 
 Le lendemain, nous rendîmes compte de cette attaque aux autorités, qui
 choisirent de nous garder à vue toute la journée.
