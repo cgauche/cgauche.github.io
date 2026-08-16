@@ -4,10 +4,9 @@
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT3Lh3IYC_bNVwV_Ue8yrkqWvXSz1Fu7kusOyM-zZbD3SGUmvQp4k4S8Rh_FH4cmPiauti8qQaaol7bFM3PjgDadCInw-O43HEceAdlT9AmBXlCVbk_rih0SjA63QRPHVHz7KaC_TaHl6u5ZZMpo6QH1kdbXXgeF_ol9Xay8OXVgsDzlmjHCJuNuKyLAV/s600/Capture.PNG)
 
-Le voyage prit plusieurs jours, il faut dire que le trafic était chargé et nous avancions au pas. Lors de notre trajet par bateau, le Bérébéli, nous croisions beaucoup de patrouilles. Au moins, il était peu probable de se faire attaquer, du moins le pensions-nous…
-
-Un soir, nous faisions halte à Weissbruck pour la nuit, une petite ville quelques centaines d’âmes au
-bord du canal.
+Le voyage prit plusieurs jours. Nous quittâmes le Reik pour rejoindre un canal et nous éviter ainsi un long détour. Mais se faisant, le trafic était chargé et nous avancions au pas.
+Le Bérébéli était tiré par des chevaux à terre, ce qui n’empêchait pas Joseph d’instruire Elvira et Phineas aux arts de la navigation, et vous verrez à quel point cela nous aura été utile par la suite.
+Durant notre trajet, nous croisions beaucoup de patrouilles. Au moins, contrairement aux routes forestières, il était peu probable de se faire attaquer, du moins le pensions-nous…
 
 Un soir, nous faisions halte à Weissbruck pour la nuit, une petite ville de quelques centaines d’âmes au bord du canal.
 Mais lors de l’un de nos tours de garde, alors que le quai était calme et désert, plusieurs carreaux d’arbalète sifflèrent dans la nuit noire.

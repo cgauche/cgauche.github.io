@@ -30,3 +30,5 @@ l’héritage. Après tout, il serait gâché que personne n’y aille...
 
 Après avoir rendu compte de la situation à une patrouille de passage, nous
 repartions vers Altdorf.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBVefO11QSwEdXV_al2UjTX2M5z4J9wE_oQVZhTkJvHXUsIhyphenhyphen8zr2JAsYR9Cf8wePHPXlSoCdyh0zgvZQBBGwEO3s98NQR-1vBIFUllBqzPhtWVE5fymenc7PjUT03sk6OPFsk9RZlh0ULCphWrCRvn1-NzeFJtlXc3NArWtATlNj_Fhox597MScDaNWc/s400/magnus-pflaster2.webp)
