@@ -1,7 +1,7 @@
 # 35 — Tables de puissance, et Wasmeier
 *Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 13. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
 
-> ⚠ **Deux tables reconstruites.** Les tables des pages 190-191 sortaient de l'extraction aplaties, une cellule par ligne ; elles sont rendues à leur grille, sans un mot changé. Deux avaries de la source subsistent : le titre *Le Pouvoir derrière le* est tronqué (il manque « Trône »), et la ligne d'en-tête de la table de score annonce ses colonnes dans un ordre qui ne correspond pas aux données — l'ordre retenu ici est celui des données.
+> ⚠ **Deux tables reconstruites.** Les tables des pages 190-191 sortaient de l'extraction aplaties, une cellule par ligne ; elles sont rendues à leur grille, sans un mot changé. Deux avaries de la source subsistent : le titre *Le Pouvoir derrière le* est tronqué (il manque « Trône »), et la ligne d'en-tête de la table de score annonce ses colonnes dans un ordre qui ne correspond pas aux données — l'ordre retenu ici est celui des données. Les deux lignes d'en-tête aplaties (466 et 497) sont remplacées par les en-têtes de colonnes.
 
 ## **Incarnations de Sheerargetru**
 
