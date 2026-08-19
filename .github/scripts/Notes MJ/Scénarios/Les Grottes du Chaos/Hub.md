@@ -35,6 +35,6 @@ Ces fiches sont le **verbatim** du chapitre 11 d'*Empire in Ruins* (« Les Grott
 13. **[[22 - Et s'ils laissaient le marteau sur place]]** — le plan de secours de Gideon : le colonel Sievers et ses quatre compagnons.
 14. **[[23 - Récompenses]]** — le barème d'XP du chapitre.
 
-La suite : chapitre 12, *Du Col du Feu Noir à Altdorf*.
+La suite : [[Du Col du Feu Noir à Altdorf]] (chap. 12).
 
 Source anglaise : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/14 - Chapter 11 - Caves of Chaos.md` — pages 147 à 161 du PDF.
