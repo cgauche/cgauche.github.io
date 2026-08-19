@@ -1,3 +1,9 @@
+---
+arc: 7
+title: En route vers le Col du Feu Noir
+order: 3
+---
+
 # En route vers le Col du Feu Noir — texte du chapitre (VF)
 
 Ces fiches sont le **verbatim** du chapitre 9 d'*Empire in Ruins* (« Altdorf → Col du Feu Noir »), traduit puis découpé selon les étapes du voyage.
