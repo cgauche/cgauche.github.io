@@ -45,6 +45,6 @@ Ces fiches sont le **verbatim** du chapitre 12 d'*Empire in Ruins* (« Black Fir
 18. **[[27 - Le Temple et le Renouveau]]** — la Flamme Sacrée, l'éveil de Ghal Maraz, la déroute de la horde.
 19. **[[28 - Récompenses]]** — le barème d'XP du chapitre.
 
-La suite : chapitre 13, *L'Empire sauvé*.
+La suite : [[L'Empire sauvé]] (chap. 13).
 
 Source anglaise : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/15 - Chapter 12 - Black Fire Pass to Altdorf.md` — pages 162 à 176 du PDF.

@@ -1,0 +1,10 @@
+# 15 — Livraison, et Josef Quartjin
+*Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 13. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
+
+## **Arrivée**
+Un page accueille les personnages aux portes du palais et les guide à toute vitesse à travers le dédale de couloirs et de salles. Il crie aux chevaliers et aux serviteurs qui se trouvent sur son passage : _« Faites place ! Ils sont de retour ! Les héros de l’Empire sont de retour ! »_ Aux personnages, il explique, à bout de souffle : _« Leurs Majestés se trouvent actuellement dans la Volkshalle, où elles inspectent les préparatifs de la Cérémonie d’Hommage à Sigmar. Nous avons reçu l’ordre formel de vous amener à eux où qu’ils se trouvent, quel que soit le moment de votre arrivée ! »_ S’ils demandent un peu de temps pour se rafraîchir après leur voyage avant de voir l’Empereur, ils se voient répondre sèchement : _« Désolé ! Pas le temps ! »_ .
+
+## **Josef Quartjin**
+Josef et sa péniche sont de retour à Altdorf. Il est chargé de livrer des vins de qualité aux caves de la Volkshalle et, s'il aperçoit les personnages lors de ses livraisons, il est ravi de les revoir. Bien qu’il s’intéresse davantage à leurs aventures depuis leur dernière rencontre, s’ils l’interrogent sur ce qu’il a lui-même vécu depuis le début de *Death on Reik*, il a une histoire à raconter.
+
+_« Eh bien, il se trouve que j’ai moi-même connu quelques mésaventures ces derniers mois, et cela vous concerne tous, d’une manière ou d’une autre. Je travaillais sur le canal d’Ober-Stimmigen, car je n’étais pas très enthousiaste à l’idée de faire du commerce avec Bögenhafen, comme vous pouvez sans doute le comprendre. Un soir, je savourais une pinte à l’Exploding Pig, à Ubersreik, quand une bande de clients peu recommandables s’est mise à affirmer que j’étais une connaissance de Kastor Lieberung et que je devais leur dire où il était parti. Je leur ai répondu que, d’après les dernières nouvelles, Kastor s’était dirigé vers Wolfenburg, ce qui a provoqué quelques grognements, mais ils n’ont rien eu d’autre à ajouter. »_

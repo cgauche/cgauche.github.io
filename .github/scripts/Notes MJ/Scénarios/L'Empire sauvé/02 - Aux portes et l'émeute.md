@@ -1,0 +1,34 @@
+# 02 — Aux portes, et l'émeute
+*Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 13. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
+
+> ⚠ **Deux réparations.** La phrase des gardes aux portes, coupée par la colonne (lignes 36 et 38), est recollée. Et les trois paragraphes qui règlent l'émeute (lignes 56, 58, 60) étaient imprimés sous « Et s'ils empruntaient la voie fluviale ? » : ils rejoignent « Émeute ! », dont ils sont la suite directe.
+
+## **Arrivée**
+Les personnages sont très probablement revenus à Altdorf par la route, et c'est l'hypothèse par défaut ici. Les joueurs avisés auront toutefois peut-être décidé de voyager par la rivière (voir **Et s’ils voyagent par la rivière ?**). Si Zuntermein est encore en vie, une rencontre facultative avec ses sbires est prévue si vous souhaitez « pimenter » leur arrivée, quel que soit l’itinéraire qu’ils choisissent.
+
+## **Aux portes**
+Alors que les personnages approchent d’Altdorf, ils découvrent des routes bondées de gens impatients d’entrer dans la ville, malgré le malaise grandissant qui règne à l’intérieur de ses remparts. Il n’y a pas que des paysans venant apporter de la nourriture, mais aussi des réfugiés cherchant refuge derrière les remparts d’Altdorf. Chariots, chevaux et personnes emportant le fruit de leur vie sur leur dos se bousculent vers les portes, esquivant les troupes de cavalerie ou les messagers impériaux qui filent en sens inverse à une vitesse vertigineuse.
+Aux portes, les personnages trouvent moins de gardes que d'habitude, et ceux-ci ont la vie dure. Des sentinelles armées de hallebardes leur barrent le passage, tandis qu'un sergent interroge les personnes qui arrivent pour s'assurer qu'ils sont là pour des raisons légitimes — pas d'espions ni d'infiltrés, merci. Alors que les personnages s’approchent de la porte, le sergent, vétéran et méfiant, les remarque et les fait avancer, provoquant des murmures dans la foule. Choisissant le personnage qui semble le plus responsable, il exige : « Au nom de l’Empereur, déclarez vos noms et la raison de votre venue, et expliquez pourquoi vous devriez être autorisés à entrer dans notre belle ville ? »
+
+À condition que les personnages fassent preuve d’un minimum de respect, n’importe quelle raison plausible suffira pour que le sergent fatigué les laisse passer après un test de **Charme moyen (+20)**. Un personnage réussissant un test de **Corruption difficile (+0)** peut deviner qu’un pourboire discret de 10 shillings pour le sergent et quelques shillings supplémentaires pour ses hommes leur permettra d’entrer. Cependant, si les personnages tentent de faire valoir leur rang, ils doivent réussir un test d’**Intimidation difficile (–10)**. S’ils sont munis d’une commission impériale ou d’un autre insigne de fonction, ils sont immédiatement autorisés à passer.
+
+Mais alors que les personnages parviennent à se frayer un chemin, quelqu'un dans la foule s'y oppose vivement.
+
+## **Émeute !**
+Au moment même où les Personnages passent, une femme en colère s’écrie : _« Hé ! Ils doublent la file ! C’est pas juste ! Laissez-nous entrer ! »_ Elle lance une pierre qui touche un garde à l’épaule. Comme s’ils avaient reçu un signal, la foule se rue vers la porte. Certains lancent des coups de poing — et d’autres projectiles — sur presque tout le monde à portée de vue, y compris les Personnages. Le détachement de la Garde peine à contenir la foule, et le sergent souffle frénétiquement dans son sifflet pour appeler des renforts.
+
+Les personnages ont le choix : ils peuvent retarder leur mission et rester pour aider à protéger la porte, ou bien accomplir leur devoir et poursuivre leur route pour apporter le Marteau au Palais. S'ils poursuivent leur route, des renforts arrivent en quelques minutes et rétablissent l'ordre à la porte. Les enquêtes menées par la suite révèlent que seuls quelques émeutiers ont dû être pendus pour rébellion.
+
+S'ils restent pour apporter leur aide, cinq tours s'écoulent avant que des renforts suffisants n'arrivent. Les gardes sont fatigués et effrayés et, au bout d'un tour, ils recourent à la force meurtrière pour défendre la porte. Les gardes sont composés de six soldats dirigés par Egon Pfeffer, un sergent.
+
+Les personnages qui souhaitent mettre fin au massacre peuvent effectuer un test de **Leadership difficile (+0)** pour redonner du courage au sergent Pfeifer. En cas de réussite, celui-ci parvient à rétablir la discipline, et seule une force modérée est utilisée contre la foule. Si le test échoue ou si le sergent est hors de combat, un test de **Leadership** prolongé (Difficile, –10) permettant d’accumuler au moins 5 SL permet à un personnage de prendre directement le commandement.
+
+S'ils choisissent plutôt de se lancer à fond dans les combats, la foule postée à la porte utilise la fiche « Paysans ». Chaque personnage doit affronter deux ou trois émeutiers à chaque tour.
+
+Quelle que soit l'intervention des personnages, des renforts arrivent au bout de 5 tours et sécurisent les lieux. Leur capitaine remercie les personnages et les autorise à entrer dans Altdorf, où ils ne tardent pas à recevoir de la compagnie. (Voir **Rencontre facultative : Le dernier sursaut de Zuntermein**.)
+
+## **Et s’ils empruntaient la voie fluviale ?**
+Même si l’itinéraire le plus probable pour les personnages les mène à Altdorf par la route, il est possible qu’ils tentent de faire preuve d’ingéniosité et prennent un bateau sur le Reik ou le Talabec. N’ayez crainte ! Les rencontres à la porte — les réfugiés, les gardes et l’émeute — peuvent toutes être transposées aux quais avec un minimum de modifications : la Garde a mis en place un poste de contrôle sur les quais, et la même émeute éclate lorsque les personnages franchissent la file d’attente. À partir de là, si Zuntermein est encore en vie, vous pouvez vous diriger directement vers **Rencontre optionnelle : Le dernier sursaut de Zuntermein.**
+
+## **Dans la ville**
+Quelle que soit la manière dont ils entrent dans Altdorf, les personnages découvrent une ville à fleur de peau. Les réfugiés envahissent les rues, à la recherche d’un endroit où se loger, tandis que les habitants tentent de vaquer à leurs occupations. Mais des signes de tension et de peur sont visibles partout où ils posent les yeux : les habitants achètent bien plus de nourriture qu’ils n’en ont besoin, faisant des provisions au cas où la ville serait assiégée. Les réfugiés se disputent avec les commerçants locaux qui pratiquent des prix exorbitants. Et ici et là, des bagarres éclatent entre les habitants et les nouveaux arrivants. Il y a peu de gardes dans les environs, et à leur place sont apparues des bandes d’autodéfense ; des voyous du coin portant des brassards colorés arpentent les rues pour « maintenir l’ordre » — surtout pour ceux qui versent une petite somme en échange de leur protection.
