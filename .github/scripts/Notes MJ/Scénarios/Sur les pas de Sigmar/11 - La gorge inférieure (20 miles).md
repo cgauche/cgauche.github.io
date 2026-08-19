@@ -1,21 +1,5 @@
 # 11 — La gorge inférieure (20 miles)
-
 *Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 10. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
-
-> **Lieu** : les 20 premiers miles de la Gorge Perdue, depuis le bassin de l'éboulement jusqu'au Rétrécissement.
-> **Quand** : les gobelins de la nuit y sont trop exposés le jour ; les éclaireurs attendent le crépuscule pour agir `EiR ch.10 l.178`.
-
-## En bref
-
-- **Objectif** : installer l'isolement et la paranoïa `EiR ch.10 l.8`, laisser les éclaireurs Madcraw repérer le groupe, et faire monter la pression par les pièges et les premières attaques nocturnes.
-- **PNJ présents** : un petit groupe d'**éclaireurs Madcraw** caché sous un surplomb rocheux, sur le versant supérieur `EiR ch.10 l.178`.
-- **Ce que les PJ peuvent faire ici** :
-  - **Progresser** : le ruisseau a creusé un chemin plat, et le groupe peut avancer sans encombre s'il est prudent dans cette vallée jonchée de rochers `EiR ch.10 l.196`.
-  - **Repérer les pièges** : d10 fosses actives par zone. Test de **Perception moyenne (+0)** pour le premier ; ensuite **Perception facile (+40)** pour chacun des suivants `EiR ch.10 l.202`.
-  - **Tomber dans un piège** : dégâts d'une chute de 3 yards (WFRP p. 166), 20 % de chances d'atterrir sur une pointe (1d10 supplémentaires, réduits par l'armure) `EiR ch.10 l.204`.
-  - **Camper à l'amas de rochers**, dix miles en amont : cratère calciné, crottes de gobelins, champignons couleur de chair pâle — un endroit abrité pour la nuit `EiR ch.10 l.199`.
-  - **Exterminer une patrouille** : toute attaque menée dans la gorge inférieure qui se solde par l'extermination des gobelins les empêche de regagner leurs cavernes pour faire leur rapport `EiR ch.10 l.629` → [[Gestion table#Discrétion]].
-- **Sorties / et après** : → [[12 - Le Rétrécissement]] · → les vagues d'attaque et la table de rencontres : [[Rencontres et rumeurs]] · → retour [[Hub]]
 
 ## **La Gorge Perdue**
 Au cours de son périple, Sigmar est passé par ici ; il a affronté Sheerargetru et l’a contraint à se soumettre, avant de l’emprisonner à l’aide de Ghal Maraz. Le paysage porte les traces de cet affrontement, tant au niveau du relief que de l’influence psychique du passé. Le chaman Cacklespit a pu percevoir une vision déformée de ce qui s’est passé ici, et les personnages pourront en apprendre davantage avant d’atteindre la grotte.
@@ -34,11 +18,3 @@ La partie inférieure de la gorge est trop dégagée pour que les gobelins de la
 Les gobelins ont tendu des pièges rudimentaires dans plusieurs sections de la gorge. Il s’agit de simples fosses remplies de bâtons aiguisés et dissimulées sous des pierres empilées sur un treillis de brindilles. Dans chaque zone, d10 de ces pièges sont opérationnels. Il faut réussir un test de **Perception moyenne (+0)** pour repérer le premier piège.
 
 Si le piège n’est pas repéré, le personnage principal tombe dedans, subissant des dégâts équivalents à ceux d’une chute de 3 yards (voir **WFRP**, page 166), avec 20 % de chances d’atterrir sur une pointe (1d10 de dégâts supplémentaires, réduits par l’armure). Une fois le premier piège repéré, il est facile de voir les pièges suivants. Chacun d’entre eux peut être repéré grâce à un test de **Perception facile (+40)**.
-
-> Vagues d'attaque des éclaireurs (« Sous une pluie de flèches », « Chute de pierres », « L'embuscade », « Bombardement de spores ») et probabilités par point : [[Rencontres et rumeurs]] `EiR ch.10 l.576-620`.
-
-## Liens
-
-- Factions : [[Madcraw Clan]].
-- Référence : [[Rencontres et rumeurs]] · [[Statblocs Madcraw]] · [[Gestion table]]
-- Suite : [[12 - Le Rétrécissement]] · [[Hub]]

@@ -1,21 +1,5 @@
 # 15 — La Gorge du Nord et la cascade
-
 *Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 10. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
-
-> **Lieu** : les 10 derniers miles, au-delà du rocher effondré qui marque la limite du territoire Madcraw, jusqu'à l'amphithéâtre des cascades.
-> **Quand** : après avoir réglé le clan Madcraw d'une manière ou d'une autre.
-
-## En bref
-
-- **Objectif** : sortir du territoire gobelin, faire sentir l'influence de [[Sheerargetru]] emprisonné, et amener le groupe à l'entrée de la grotte — le terme du chapitre `EiR ch.10 l.254+268`.
-- **PNJ présents** : **aucun gobelin** — ils évitent cet endroit qui leur inspire un malaise ; seuls les petits de Gruntlob y passent chercher les « Purple Caps » `EiR ch.10 l.252`. Un **minuscule gobelin** terrifié, laissé pour compte, dans la première touffe de champignons violets `EiR ch.10 l.262`. Un **homme recouvert de champignon**, maintenu en vie depuis des siècles, dans la seconde tente du campement abandonné `EiR ch.10 l.259`.
-- **Ce que les PJ peuvent faire ici** :
-  - **Fouiller le campement abandonné** : bourse de 21 pennies en laiton (le plus récent frappé à Averheim en 2234 IC), deux sacs de couchage détrempés, un exemplaire abîmé de *La Vie de Sigmar* imprimé en 2184 IC à Nuln `EiR ch.10 l.257`.
-  - **Ouvrir la seconde tente** : échec à un test de **Calme (moyen, +20)** = 1 point de corruption. S'ils retirent le champignon, il ne reste presque plus rien du corps `EiR ch.10 l.259`.
-  - Récolter les **champignons violets** que Cacklespit consomme pour ses visions `EiR ch.10 l.262`.
-  - Observer les cascades qui semblent s'enrouler sur elles-mêmes ou défier la gravité, s'écoulant dans plusieurs directions à la fois `EiR ch.10 l.265`.
-  - **S'approcher de l'entrée de la grotte** derrière la cascade : une pierre lisse gravée d'une silhouette en armure squelettique murmure en latin classique — *« Abandonnez tout espoir, vous qui entrez ici. Les pillards regrettent toujours d'avoir exploré ces galeries. Résistez à cette envie »* `EiR ch.10 l.268`.
-- **Sorties / et après** : → **fin du chapitre 10**. Derrière la cascade commence le chapitre 11, [[Caves of Chaos]] · → retour [[Hub]]
 
 ## **La Gorge du Nord — 10 miles**
 Un rocher effondré enjambe le ruisseau à la limite du territoire des Madcraw, et la gorge s'ouvre à nouveau sur une vallée plus large, parsemée de broussailles clairsemées et d'herbes de montagne. Les gobelins de la nuit évitent cet endroit, car il leur inspire un sentiment de malaise. Le vieux Gruntlob oblige ses petits à passer devant le rocher pour aller chercher les « Purple Caps » dont Cacklespit se nourrit pour ses visions, mais à part cela, le groupe ne rencontre aucun gobelin ici.
@@ -35,9 +19,3 @@ Au point le plus élevé de la gorge, le groupe découvre la source du ruisseau 
 
 ## **L'entrée de la grotte**
 Derrière la cascade se trouve une entrée rocheuse menant à l'intérieur de la falaise. D'un côté, une pierre lisse se dresse, sur laquelle est gravée une silhouette en armure. Il est squelettique, avec une peau translucide tendue sur son crâne. Alors qu'ils s'approchent, il leur murmure quelques mots en latin classique. Ceux qui comprennent cette langue savent qu’il dit : _« Abandonnez tout espoir, vous qui entrez ici. Les pillards regrettent toujours d’avoir exploré ces galeries. Résistez à cette envie »_.
-
-## Liens
-
-- PNJ : [[Sheerargetru]], [[Cruzzik Cacklespit]].
-- Lieux : [[Caves of Chaos]], [[Col du Feu Noir]].
-- Suite : [[Cap suivant]] · [[Hub]]

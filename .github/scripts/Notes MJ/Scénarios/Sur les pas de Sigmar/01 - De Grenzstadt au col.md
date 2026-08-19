@@ -1,21 +1,5 @@
 # 01 — De Grenzstadt au col
-
 *Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 10. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
-
-> **Lieu** : l'Ancienne Route des Nains, de la porte sud de [[Grenzstadt]] à l'entrée du [[Col du Feu Noir]].
-> **Quand** : les trois premiers jours de marche (deux en forçant) `EiR ch.10 l.38`.
-
-## En bref
-
-- **Objectif** : poser le col — son poids historique, l'état de la route, la première patrouille — et le fait que [[Gideon]] dégage le chemin devant le groupe `EiR ch.10 l.13`.
-- **PNJ présents** : le sergent **Alberecht Haessler** et sa patrouille de la Garde de montagne d'Averland `EiR ch.10 l.41` ; [[Gideon]] hors champ.
-- **Ce que les PJ peuvent faire ici** :
-  - Traverser le col jusqu'aux **Trois Mères** : trois jours de marche tranquille, ou deux en se dépensant sans compter — test d'**Endurance difficile (+0)** échoué = état *Fatigué* `EiR ch.10 l.38`.
-  - Dormir dans les auberges et villages fortifiés entre Grenzstadt et le Donjon du Feu Noir — « La Tête de Griffon », « Le Valet Indomptable », « Le Navet Blindé » `EiR ch.10 l.29`.
-  - Se regrouper la nuit avec les autres caravanes et voyageurs là où il n'y a pas d'abri `EiR ch.10 l.24`.
-  - Faire parler la patrouille Haessler une fois qu'elle est rassurée sur eux `EiR ch.10 l.41` → [[Rencontres et rumeurs#Patrouille de la Garde de montagne]].
-  - Parler de leur quête : la nouvelle de la destruction du faux marteau n'est pas parvenue jusqu'aux frontières, toute allusion suscite l'amusement, la dérision ou l'hostilité des pèlerins `EiR ch.10 l.24`.
-- **Sorties / et après** : → [[02 - La Plaine de la Mousse Sanglante]] · → retour [[Hub]]
 
 ## Chapitre 10 : Sur les traces de Sigmar
 Ce chapitre emmène les personnages dans les montagnes balayées par les vents, loin de la civilisation et du confort relatif d’Altdorf. En quittant Grenzstadt, ils découvriront que le col du Feu Noir est relativement animé, car il s’agit d’une voie d’accès majeure vers l’Empire. Ce n’est pas tout à fait sûr, mais on y croise fréquemment d’autres voyageurs et, pour l’instant, les Peaux-Vertes sont ailleurs. Le col offre un spectacle impressionnant. Les sommets vertigineux des Montagnes Noires sont bien plus grandioses que les Montagnes du Milieu que les personnages ont explorées dans **Le Rat Cornu**. Des pics colossaux se découpent sur le ciel, et d’anciennes ruines naines, vieilles de plusieurs milliers d’années de plus que l’humanité, s’accrochent aux flancs des montagnes. Les Sigmarites pourraient se sentir humbles à l’idée de fouler le sol sacré où leur Dieu a uni les tribus et fondé l’Empire. C’est un lieu saint et un chemin de pèlerinage.
@@ -26,7 +10,6 @@ Les joueurs peuvent avoir envie de se sentir maîtres de leurs choix, alors veil
 
 ## **Le plan de Gideon**
 Gideon ne pénètre pas dans la Gorge Perdue, car Ghal Maraz dégage une puissance sacrée qui nuit aux démons. Il a prévu que le groupe trouve et s'empare du Marteau ; il s'efforce donc d'accélérer leur progression et d'éliminer les obstacles sur leur chemin alors qu'ils traversent le Col du Feu Noir. Gideon a déjà tenté cela par le passé. Au fil des siècles, il a manipulé d’autres groupes pour les attirer dans la gorge, mais en vain. Leurs restes sont découverts le long du chemin et dans la grotte elle-même. Vous pouvez donner des indices suggérant que les joueurs suivent un chemin prédéterminé : la proximité de la mine de Schmerzeit, les bandits massacrés, les prémonitions du chaman Cacklespit et les peintures rupestres.
-
 ## **Le Col du Feu Noir**
 Le Col du Feu Noir est l’un des sites les plus importants de l’Ancien Monde, tant sur le plan historique, politique que spirituel. C’est là que Sigmar a uni les tribus humaines pour tenir tête aux Peaux-Vertes et sécuriser les terres du nord. Plus de 2 500 ans plus tard, il reste une voie commerciale majeure vers l’Empire depuis le sud et représente un risque important d’invasion par les Peaux-Vertes.
 
@@ -53,10 +36,10 @@ Le col est large et très fréquenté, mais il reste escarpé et rocailleux par 
 ## **La patrouille des Bergjaeger de la Garde de montagne d'Averland de Grenzstadt**
 Dans la partie nord du col, les personnages croisent une patrouille de la Garde de montagne d’Averlander, un régiment hautement professionnel qui fait preuve d’une discipline rigoureuse sous le commandement de son sergent, Alberecht Haessler, vêtu d’un uniforme somptueux. Ces derniers évaluent rapidement les personnages pour déterminer s’ils représentent une menace et, s’ils sont rassurés, leur font part des dernières nouvelles.
 
-> Les nouvelles que donne la patrouille : [[Rencontres et rumeurs#Patrouille de la Garde de montagne]] `EiR ch.10 l.43-49`.
+## **Actualités et rumeurs :**
 
-## Liens
+- On va bientôt nous rappeler à Averland. Il paraît qu’ils auront besoin de nous pour protéger la province contre une insurrection ou les Ulricains.
 
-- Lieux : [[Grenzstadt]], [[Col du Feu Noir]].
-- PNJ : [[Gideon]].
-- Suite : [[02 - La Plaine de la Mousse Sanglante]] · [[Hub]]
+- Les Peaux-Vertes semblent agitées en ce moment. Il n'y en a pas beaucoup aux alentours du col, mais celles contre lesquelles nous avons combattu semblaient plus nerveuses que d'habitude.
+
+- Vous n'êtes pas des mineurs, par hasard ? Personne ne fait fortune en exploitant le « Feu Noir », mais beaucoup ont essayé.

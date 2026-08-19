@@ -1,21 +1,7 @@
 # 03 — Le Donjon du Feu Noir et le colonel Sievers
-
 *Verbatim VF (traduction automatique DeepL) — Enemy Within : Empire in Ruins, chap. 10. À relire pour le jargon (statblocs, SL = Niveaux de Réussite…).*
 
-> **Lieu** : cinq miles à l'intérieur du col, la forteresse d'Averland ; puis la route qui s'élève dans les Montagnes Noires.
-> **Quand** : après la Plaine de la Mousse Sanglante.
-
-## En bref
-
-- **Objectif** : montrer la première ligne de défense de l'Empire, et donner par [[Colonel Olaf Sievers|Sievers]] l'état réel du sud — les Orques se préparent à la guerre, et l'Empire est trop divisé pour y répondre `EiR ch.10 l.101`.
-- **PNJ présents** : la garnison permanente de la **Garde des Montagnes** d'Averland `EiR ch.10 l.69` ; le **[[Colonel Olaf Sievers]]** et ses **Ostlandais impériaux** (arbalètes et hallebardes, uniformes noir-blanc-bleu) `EiR ch.10 l.79`.
-- **Ce que les PJ peuvent faire ici** :
-  - Tenter d'entrer dans le **Donjon du Feu Noir** : très improbable sans dérogation de la noblesse d'élite ou des autorités militaires d'Averland `EiR ch.10 l.69`.
-  - **Se faire héler par Sievers** et échanger des nouvelles de l'Empire : s'il leur est favorable, il livre les trois informations sur l'agitation des Peaux-Vertes `EiR ch.10 l.79-85`.
-  - Sonder les Ostlandais sur la guerre civile : ils ne s'immisceront dans aucune guerre civile, à moins que l'Empereur et l'Ostland ne soient du même côté — et que l'Empereur ait retrouvé ses esprits `EiR ch.10 l.99`.
-- **Sorties / et après** : → [[04 - Forts, patrouilles et bandits morts]] · → retour [[Hub]]
-
-> ⚠ **Réalignement titre/corps.** L'extraction PDF deux-colonnes a désynchronisé ce passage : le titre du livre et son paragraphe ne se suivaient pas. L'ordre ci-dessous est celui de la VO (lignes 71, 79-85, 99-101, 107 du chapitre) ; le texte lui-même est inchangé.
+> ⚠ **Titre et corps remis dans l'ordre.** L'extraction PDF deux-colonnes les avait croisés (lignes 71, 79-85, 99-101, 107 du chapitre) ; le texte est inchangé.
 
 Depuis la Plaine de la Mousse Sanglante, les personnages aperçoivent la route qui s'élève vers les Montagnes Noires, dominée par leurs sommets sombres et leur masse rocheuse.
 
@@ -38,12 +24,4 @@ _Les Ostlandais impériaux ne s'immisceront dans aucune guerre civile, à moins 
 
 L'objectif principal de cette rencontre est de mettre en évidence la situation chaotique dans laquelle se trouve l'Empire s'il ne parvient pas à résoudre les troubles actuels. L’invasion des Orques ne fait pas partie de **The Enemy Within**, mais elle pourrait constituer un point de départ potentiel pour une campagne — elle mènera à terme à la troisième bataille du Col du Feu Noir — si l’Empereur n’agit pas plus tôt.
 
-> **Encadré du livre** (imprimé sous le titre « Les Bandits morts », `EiR ch.10 l.106-107` — le titre appartient au paragraphe de [[04 - Forts, patrouilles et bandits morts]]) :
-
 Sievers pourrait bien avoir un rôle supplémentaire à jouer dans cette aventure. Si les personnages ne parviennent pas à récupérer le Marteau, Gideon pourrait tenter de persuader Sievers de se lancer lui-même dans cette quête.
-
-## Liens
-
-- PNJ : [[Colonel Olaf Sievers]], [[Gideon]].
-- Lieux : [[Col du Feu Noir]].
-- Suite : [[04 - Forts, patrouilles et bandits morts]] · [[Hub]]
