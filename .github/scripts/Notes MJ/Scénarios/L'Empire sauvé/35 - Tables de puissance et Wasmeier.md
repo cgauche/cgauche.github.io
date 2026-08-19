@@ -4,7 +4,6 @@
 > ⚠ **Deux tables reconstruites.** Les tables des pages 190-191 sortaient de l'extraction aplaties, une cellule par ligne ; elles sont rendues à leur grille, sans un mot changé. Deux avaries de la source subsistent : le titre *Le Pouvoir derrière le* est tronqué (il manque « Trône »), et la ligne d'en-tête de la table de score annonce ses colonnes dans un ordre qui ne correspond pas aux données — l'ordre retenu ici est celui des données.
 
 ## **Incarnations de Sheerargetru**
-Événement ou critère de pouvoir
 
 | Événement ou critère | Puissance |
 |---|---|
@@ -34,7 +33,6 @@ Les personnages peuvent l’apercevoir s’ils réussissent un test de **Percept
 Wasmeier considère que l'invocation du Démon a fait échouer ses plans, et il en tient une nouvelle fois ces maudits faiseurs de troubles pour responsables. Utilisez-le comme bon vous semble : attaquez le Prince-Démon si vous avez besoin qu'un personnage survive, ou attaquez les personnages, la soif de vengeance l'ayant poussé à
 
 ## **Score de puissance**
-Niveau de puissance Portails Sheerargetru Nine Eyes
 
 | Niveau de puissance | Sheerargetru | Neuf Yeux | Portails |
 |---|---|---|---|
