@@ -34,6 +34,6 @@ Ces fiches sont le **verbatim** du chapitre 10 d'*Empire in Ruins* (« Sur les t
 12. **[[16 - Le clan Madcraw]]** — Cacklespit, Moongobba, Mansplatta, Gruntlob et leurs entretiens ; la magie gobeline ; tous les statblocs.
 13. **[[17 - Affronter le clan Madcraw]]** — la répartition des gobelins dans la gorge, les quatre modes d'attaque, les trois voies (discrétion, négociation, manipulation), l'XP.
 
-La suite : [[Caves of Chaos]] (chap. 11).
+La suite : [[Les Grottes du Chaos]] (chap. 11) — le scénario ; la fiche du lieu : [[Caves of Chaos]].
 
 Source anglaise : `Source/Enemy Within Campaign Volume 5 Empire in Ruins/13 - Chapter 10 - In Sigmar's Footsteps.md` — pages 130 à 146 du PDF.
