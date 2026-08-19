@@ -41,9 +41,11 @@ La préparation de l'attaque peut être menée sous forme de récit, les personn
 
 ---
 
-> **Légende du plan du sanctuaire** (lignes 329-332) :
+> **Légende du plan du sanctuaire** (lignes 329-332) — les cinq entrées sortaient de l'extraction sur une seule ligne, elles sont rendues à leur liste :
 
 ## **Sanctuaire de Wolfshügel**
 1. Le rocher sacré
-
-2. L'arbre en surplomb 3. Le tunnel bloqué 4. Les huttes détruites 5. La hutte de frère Adric
+2. L'arbre en surplomb
+3. Le tunnel bloqué
+4. Les huttes détruites
+5. La hutte de frère Adric
