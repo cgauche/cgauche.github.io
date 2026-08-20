@@ -1,7 +1,7 @@
 # Mon Ennemi Intérieur - Index complet
 
 
-## Résumés (64)
+## Résumés (65)
 
 - [01 - 01) L'auberge des 3 plumes](<Résumés/01 - 01) L'auberge des 3 plumes.md>)
 - [02 - 02) Une journée au tribunal](<Résumés/02 - 02) Une journée au tribunal.md>)
@@ -67,6 +67,7 @@
 - [62 - 62) Le conseil impérial](<Résumés/62 - 62) Le conseil impérial.md>)
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 - [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
+- [65 - 65) La traversée du Col du Feu Noir](<Résumés/65 - 65) La traversée du Col du Feu Noir.md>)
 
 ## PJ (63)
 
@@ -378,7 +379,7 @@
 - [Zombie](<PNJ/Zombie.md>)
 - [Étudiants en artillerie](<PNJ/Étudiants en artillerie.md>)
 
-## Lieux (74)
+## Lieux (76)
 
 - [Aldorf (2)](<Lieux/Aldorf (2).md>)
 - [Aldorf (3)](<Lieux/Aldorf (3).md>)
@@ -395,6 +396,8 @@
 - [Chateau Reikgarde](<Lieux/Chateau Reikgarde.md>)
 - [Château Graunenberg](<Lieux/Château Graunenberg.md>)
 - [Château Wittgenstein](<Lieux/Château Wittgenstein.md>)
+- [Col du Feu Noir (2)](<Lieux/Col du Feu Noir (2).md>)
+- [Col du Feu Noir](<Lieux/Col du Feu Noir.md>)
 - [Culte de la chair immaculée](<Lieux/Culte de la chair immaculée.md>)
 - [Egouts de Bogenhafen](<Lieux/Egouts de Bogenhafen.md>)
 - [Elssen (2)](<Lieux/Elssen (2).md>)

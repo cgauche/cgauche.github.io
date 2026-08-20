@@ -15,6 +15,8 @@
 - [Chateau Reikgarde](<Chateau Reikgarde.md>)
 - [Château Graunenberg](<Château Graunenberg.md>)
 - [Château Wittgenstein](<Château Wittgenstein.md>)
+- [Col du Feu Noir (2)](<Col du Feu Noir (2).md>)
+- [Col du Feu Noir](<Col du Feu Noir.md>)
 - [Culte de la chair immaculée](<Culte de la chair immaculée.md>)
 - [Egouts de Bogenhafen](<Egouts de Bogenhafen.md>)
 - [Elssen (2)](<Elssen (2).md>)
