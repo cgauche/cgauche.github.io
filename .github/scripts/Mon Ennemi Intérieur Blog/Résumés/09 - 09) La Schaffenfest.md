@@ -17,23 +17,24 @@ Elle parla d’un endroit sombre où se trouverait la mort, de sept hommes, et d
 Non, cette attraction n’était pas du tout plaisante.
 
 Nous croisions plus tard nain très grossier, puis une herboriste qui s’attacha beaucoup à Anselm.
-Plus tard, nous retrouvions le nain au pilori avec des
+Puis, nous retrouvions le nain au pilori avec des
 légumes pourris sur le visage, toujours aussi grossier, ce qui nous dissuada
 de le libérer.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFxt34usd4M0Nkq9JQuXo26tI4eb28jvGbiZgBVLQh5Filwl-AXUN1smjEAwRdHWsMbUR-lsaCZ-Rxa9P65uiZBGUWtaOWslmvwwFkp5dQN53kqtqN4I-M9TD-Dht-KoneZhxSjK8rN9APlmRZ9Kho4z_qTFDe-iYnaXOXcVIYucLxfPMkorOWaNvtugU/s600/gottri-gurnisson2.webp)
 
-Nous sommes passé près d’une joute de chevalier, nous avons
-observé des animaux de foires, et même un griffon !
+L’après-midi avait filé à toute allure, alors que les stands se succédaient.
+Nous étions passé près d’une joute de chevalier, avions observé des centaines d’animaux de foires, et même un griffon !
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgYL-9jyoXNSbDrkZJsvHUKx2OCxHayg7boyaETyDOKwoGMa_8bFxLYl7DjLYYbnuOnAbjV3VNi1OmPbLZ7HjC1awLWnv2Sa7LV3M-6ivL_DZDHPjdl0jm7qABByUJtucznIVxrZCIfPVhy8dc0crlOCvqvoIf9b7AFzWR0gObd6X1Q4rqkpTbznWx3Pw/s600/lists%281%29.webp)
 
-En soirée, un mouvement de foule provoqua un débordement d’un de ces troupeaux d’animaux. Des chèvres semaient le chaos partout dans la foire, Elvira dû s’employer pour calmer les bêtes. Elle en profita pour lancer quelques anecdotes sur son passé à la ferme, pour notre plus grand désespoir. Le gobelin du cirque de monstruosité profita du désordre pour s’échapper et fila par une
+En soirée, un mouvement de foule provoqua un débordement d’un de ces troupeaux d’animaux. Des chèvres se libérèrent et semèrent bientôt le chaos partout dans la foire, retournèrent les tentes, dévalèrent les travées telle un tsunami.
+Elvira dû s’employer pour calmer les bêtes. Elle en profita pour lancer quelques anecdotes sur son passé à la ferme, pour notre plus grand désespoir. Le gobelin du cirque de monstruosité profita du désordre pour s’échapper et fila par une
 bouche d’égout.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR1fiaGSccDJjCFIR_EF0dD4j-PIgDWbStOqZ9F96Vy_GCqWALywN932vsRmU21IfAZav_5Tc_gQUwyO5bzaBgOqXtLp0t5jaelNb9wh6jQlQyKCJfou9TMEaFqxxcmE7YDg1HUFPo0dkEDcfXffCCmpQRSiWI8Q83zxlSNmbM7COfNCvNBNASvZLdmCuO/w640-h474/Capture.PNG)
 
-Les autorités, par l’intermédiaire du **juge Richter**, qui officiait dans
-une des tentes de la Shaffenfest, nous appelèrent afin de le rattraper. Ils nous
-promirent une prime et une chambre dans une grande auberge en récompense, en bonne et due forme avec un contrat. Nous
-partions donc à sa recherche.
+Les autorités – par l’intermédiaire du **juge Richter** qui officiait dans
+une des tentes de la Shaffenfest – vinrent nous trouver afin de le rattraper. Il fallait croire que nous avions la tête de l’emploi.
+Ils nous promirent une prime et une chambre dans une grande auberge en récompense, en bonne et due forme avec un contrat. Nous
+partîmes donc dans les égouts de la ville à sa recherche.

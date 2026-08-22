@@ -5,39 +5,40 @@
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghijxNh0NSv_GLBnhk06n9_OmWzKE-ANbewQMkvgW1NDGtcUV1DVqgcRUIJGFGAIn0isEaWVSwnFN0fsmRuwoy_8T3lV4pv2JHHlkeNGQJJqFLIo0rDsOCC9lrU9pNGkPFhJjbY7NUBIYuFOb321lAuZ0tehQFs_ClJk_-Kl2W5Y_TfPNjw6nl2I_SaFsv/s16000/Capture.PNG)
 
 Le lendemain, décidés à nous faire payer, nous nous rendions à la tente du juge.
-Alors que nous lui annoncions avons trouvé les restes du gobelin, il nous coupa
+Alors que nous lui annoncions avoir trouvé les restes du gobelin, il nous coupa
 en nous expliquant que le gobelin avait déjà été retrouvé, dans un entrepôt de la
 ville. Face à notre incrédulité, il nous donna l’adresse de l’entrepôt afin
 d’aller demander par nous-même, ce que nous fîmes.
 
 Un garde se trouvait devant l’entrepôt ce matin-là. A nos questions, il répondit qu’il
-avait effectivement trouvé le gobelin écrasé sous une caisse, mais qu’il n’avait
+avait lui-même trouvé le gobelin, écrasé sous une caisse, mais qu’il n’avait
 pas le droit de nous laisser entrer. Son discours avait l'air incohérent, nous
 décidâmes de retourner voir le juge.
 
 Le juge accepta de nous revoir et de nous écouter. Il semblait pour lui que
 l’affaire était résolue, mais à la lumière de nos arguments il nous promit de
 se renseigner. Puis nous allions voir le gérant du cirque et lui expliquions la
-situation. D’abord méfiant, il nous avoua qu’il se doutait que les autorités ne
-lui avaient pas tout dit, car il n’avait pas pu récupérer le corps. Il nous indiqua être inquiet par la présence du démon.
+situation. D’abord méfiant, il nous avoua se douter que les autorités lui avait tût des choses
+, car il n’avait pas pu récupérer le corps. Il nous indiqua être inquiet par la présence du démon, car lui savait ce que cela impliquait.
 Ce genre d'entité ne pouvait être présent ici que par un rituel obscur, invoqué par des personnes adeptes de magie noire qu'on appelait cultiste. Il n'aurait jamais imaginé la présence de cultistes dans une si petite ville, et partirait dès que la foire
 serait finie.
 
 Après cette matinée chargée, nous prenions tous un peu de temps pour nous.
 Skippy alla au temple de Sigmar, et fut présenté à un prêtre zélé et malsain, qui
 lui monta la tête alors que des graffitis avaient été retrouvé sur les murs du
-temple. *Ce sont les adorateurs d’Ulric, ils sont allés trop loin il faut les
-punir*, pouvait-il dire. Skippy et d’autres fidèles, furieux, s’attaquèrent au
-temple d’Ulric et y commirent un massacre.
+temple. « *Ce sont les adorateurs d’Ulric, ils sont allés trop loin il faut les
+punir* », pouvait-il dire. Skippy n’était pas une personne méchante, mais il était crédule devant l’autorité.
+Aussi, lui et d’autres fidèles, furieux, s’attaquèrent au
+temple d’Ulric.
 
 Elvira de son côté décida de faire le tour des temples pour y donner des offrandes. Elle se rendit au temple
-de Shallya, la déesse de la miséricorde et des soins, et leur proposa son aide lorsqu’elle vit qu’il y avait énormément de
-blessés suite à un massacre dans le temple d’Ulric.
+de Shallya, la déesse de la miséricorde et des soins, et leur proposa son aide lorsque de nombreux blessés affluèrent.
+Elle l’ignorait encore, mais le massacre avait eu lieu dans le temple d’Ulric.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7G1hSX1MG-PSwrh-r972BQPzp4sKtC3BB24aDqV5-lwIaP9wLRg27mp9GvKL41fByJgjFcIIu7r7ANRZWHUO6IrCePRZzHsrECWETFnglYOcxEmnpFJjoCXpLpMOYhd4jsNxW6cWjf8_9rrfU22EQFDIz6GANsEMiMgKoYJPkjna7PNm1Gbo1uUfvIME/w560-h640/shallyan-temple.webp)
 
 Elle nous revint plus tard
-en état de choc : après cette étrange prédiction d’hier, elle avait maintenant eu des visions apocalyptiques envoyées par sa
+en état de choc : après cette étrange prédiction d’hier chez la voyante, elle avait maintenant reçu des visions apocalyptiques envoyées par sa
 déesse elle-même, qui la prévenait d'une catastrophe prochaine.
 
 > La lune grimaçante rit, alors que tout meurt et devient stérile. Agissez, de peur que cette terre ne soit perdue à jamais.
@@ -45,19 +46,19 @@ déesse elle-même, qui la prévenait d'une catastrophe prochaine.
 Morrslieb, l'effrayante lune verte qu’elle avait vu dans ses visions, symbole de chaos, se montrait dans le
 ciel. Elvira ne se sentait pas bien de tous ces mauvais présages.
 Nous décidâmes de vérifier s’il se passait quelque chose dans le temple
-impie que nous avions découvert hier dans les égouts, peut-être ces cultistes y étaient-ils retournés. Mais quel ne fut pas notre
-surprise de voir que la pièce avait été complètement vidée…
+impie que nous avions découvert la veille dans les égouts. Peut-être ces cultistes y étaient-ils retournés.
+Mais quel ne fut pas notre surprise de découvrir que la pièce avait été complètement vidée…
 
 Il fallait en parler au juge, mais sa secrétaire nous indiqua qu’il était chez
 lui, souffrant. Elle nous donna son adresse lorsque Anselm lui expliqua qu’il
 était médecin. Le juge nous laissa entrer chez lui, et nous découvrîmes qu’il
 avait un étrange mal, avec la langue bleue. Il était peut-être temps de faire
-des recherches dans la bibliothèque du temple de Verena.
+des recherches dans la bibliothèque du temple de Verena pour y trouver des réponses.
 
 Nous trouvâmes là-bas une référence à cette maladie, il s’agissait plutôt d’un
 empoisonnement. Un seul autre cas avait été référencé ici ces dernières années, un certain Karl Teugen.
-La maison Teugen était une famille de riches marchands de la ville, dont le frère de Karl,
-**Johannes**, semblait avoir pris les rênes suite à ce décès. Voilà qui était
+La maison Teugen était une famille de riches marchands de la ville, et le frère de Karl,
+**Johannes**, semblait avoir pris les rênes à la suite de ce décès. Voilà qui était
 étrange, mais l’heure était à la guérison du juge et Anselm lui concocta un
 remède.
 
@@ -84,12 +85,13 @@ continuer nos recherches, il fallait trouver le lieu de la réunion.
 
 **Friedrich Magirius**, un homme de haute stature sociale, vint nous voir au bateau
 en soirée, et nous invita à manger à la Truite d’Or. Le plat était délicieux et
-notre interlocuteur nous expliqua pendant le repas être l’ambassadeur de l’Ordo
+notre interlocuteur aimable, il nous expliqua pendant le repas être l’ambassadeur de l’Ordo
 Septenarius, un groupe de gentilhomme qui se réunissait régulièrement afin de prendre les meilleures décisions pour l’avenir de la ville.
 Une sorte de club de nantis, tout simplement.
 Lui-même se présentait aux gens qui désiraient en savoir plus sur eux.
 
-L’un d’entre nous lui parla du temple dans les égouts, et il parut choqué, il changea de ton, réfutant totalement être lié à cela, avant de partit précipitamment en laissant un pourboire. Ce faisant, il fit tomber de sa poche un papier. Celui-ci était un message de Teugen invitant tous les membres à se rendre chez lui sous peu.
+L’un d’entre nous lui parla du temple dans les égouts, il parut alors choqué. Changeant de ton, il réfuta totalement être lié à ce genre d’affaire sordide, avant de payer la note et de partir précipitamment.
+Ce faisant, il fit tomber de sa poche un papier. Celui-ci était un message de Teugen invitant tous les membres à se rendre chez lui sous peu.
 
 Nous le suivîmes et retrouvions le lieu de rendez-vous dans le quartier chic de la ville. Mais la villa de Teugen était trop bien gardée, il y avait des soldats partout, des chiens dans le jardin, et un mur immense autour de la propriété. Alors que Morrslieb était maintenant grande et haute
 dans le ciel, nous ne pouvions que constater notre impuissance. Déçus,

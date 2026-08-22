@@ -12,20 +12,27 @@ au pilori. Au hasard de nos pérégrinations, nous finissions par trouver une
 porte, et en l’ouvrant, une pièce sombre et glauque. Sur le sol était tracé un
 cercle avec un hexagramme, et en son centre, un démon !
 
-La plupart d’entre nous paniquèrent, mais Pathsokar et Skippy ne se démontèrent
+Pour ceux qui n’auraient pas eu le malheur de rencontrer telle engeance dans sa vie – grand bien leur fasse ! –,
+ne nous jugez pas trop sévèrement, car cet être était l’incarnation de la terreur.
+Une longue tête cornue aux trop nombreux yeux, une gueule béante aux dents longues comme des poignards
+et d’où s’échappaient une multitude de langues sifflantes comme des serpents.
+Sa silhouette, dégingandé et détestable, suintait d’une lueur violette surnaturelle. Tout, dans cette chose,
+nous criait de fuir, de regagner la sécurité de la surface et d’y trouver une cachette où y pleurer toutes les larmes de son corps.
+
+La plupart d’entre nous paniquèrent inévitablement, mais Pathsokar et Skippy ne se démontèrent
 pas et se jetèrent sur lui avant de le pourfendre victorieusement. L’être chaotique, au moment où il
 fut achevé, disparu comme s’il avait été rappelé dans son monde.
 
 Après l’affrontement, remis de
 nos émotions et de nos bobos, une fouille de l’endroit nous révéla la présence
-d’un couteau sacrificiel, d’un texte occulte, ainsi que d’un bassin osseux d’une petite créature à
-trois jambes. Le gobelin était donc mort. Épuisés, poisseux et choqués, nous
-repartions sur nos pas afin de trouver la sortie.
+d’un couteau sacrificiel, d’un texte occulte, ainsi que du bassin osseux d’une petite créature à
+trois jambes. Le gobelin était donc mort ici. Dévoré par cette chose ? Peu nous importait à présent.
+Épuisés, poisseux et choqués, nous repartions sur nos pas afin de trouver la sortie.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8iBhTsOCd_a63jygP_UrD4MnJL_rs8NNL6SelSg3dbA_Jj7dHF9jd7svdMrEZGK5pvKvj4mnpF1oD-DY0xsVDmiI-2yWJLfq6Q0c3FB1wPA21yNs4OoqNYraGjLEchQFK4uO2avbezAX7hvumrK6X4SzLIYqyXBvAij8y6ZKCrFNMNGnNkFzXjev_umw/s600/wading.webp)
 
-Anselm glissa et tomba dans l’eau, ce qui amena une bestiole gluante et tapie dedans à nous attaquer.
-Nous réussîmes à repousser la bête en nous servant de la lampe, car elle craignait le feu, et à fuir.
+Anselm glissa et tomba dans l’eau, ce qui attira na une bestiole gluante tapie dedans à nous attaquer.
+Nous réussîmes à repousser la bête en agitant la lampe devant elle, car elle semblait craindre la lumière, et à fuir.
 
 Nous avons fini par trouver la sortie de ce dédale alors que la nuit était bien entamée, et
 décidions de nous séparer. Skippy et Pathsokar firent le choix d’aller dans
