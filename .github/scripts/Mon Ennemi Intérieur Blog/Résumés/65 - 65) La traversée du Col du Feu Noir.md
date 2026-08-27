@@ -10,10 +10,10 @@ Nous restions malgré tout sur nos gardes. Il ne fallait pas sous-estimer les pe
 
 Nous croisâmes une cohorte de soldats d’Averland. Le capitaine nous indiqua que des troubles liés à des fanatiques d’Ulric avaient eu lieu récemment et qu’ils étaient rappelés à la capitale pour pacifier la région. Il nous recommanda la plus grande prudence alors que les peaux-vertes se montraient ces derniers temps beaucoup plus agités qu’en temps normal. Voilà qui ne nous rassura guère.
 
-Ce fut après avoir franchi l’un des autels consacrés aux faits d’armes à Sigmar – nous nous arrêterions à chacun d’eux pour nous y recueillir – que nous entendîmes un fracas terrible dans la montagne. Il ne fallut par longtemps pour comprendre ce qui venait de se passer : un ettin, géant énorme et difforme, se trouvait devant nous, occupé à manger les restes d’un cheval. Derrière lui, le col s’était effondré.
+Ce fut un peu avant d’avoir franchi l’un des autels consacrés aux faits d’armes à Sigmar – nous nous arrêterions à chacun d’eux pour nous y recueillir – que nous entendîmes un fracas terrible dans la montagne. Il ne fallut par longtemps pour comprendre ce qui venait de se passer : un ettin, géant énorme et difforme, se trouvait devant nous, occupé à manger les restes d’un cheval. Derrière lui, le col s’était effondré.
 
 Ceux qui se trouvaient dans la charrette que nous avions empruntée se jetèrent au dehors juste avant que la monstruosité ne lui fonce dessus pour dévorer vivant l’une de nos pauvres montures ! Phineas et Mardrin le pilonnèrent respectivement de cailloux et de plomb, ce qui eut le don de l’énerver davantage, et le pire arriva alors. Chargeant la monture qui s’était libérée, il écrasa Mardrin sur le passage, si fort qu’on eut encore peine croire qu’il s’en soit sorti, avant de le lancer sur Yuridika.
 
-La sorcière encaissa le choc, contre-attaqua en paralysant le monstre avec son sort, ce qui permis aux corbeaux que Johannes lui envoya – comme cette fois, où il était sorti de l’université d’Altdorf – de le saisir et de l’élever assez haut avant de le laisser s’écraser au sol. Deux secondes plus tard, il ne restait plus que des viscères et du sang de l’ettin.
+La sorcière encaissa le choc, contre-attaqua en paralysant le monstre avec son sort, ce qui permis aux corbeaux que Johannes lui envoya – comme cette fois, où il était sorti de l’université d’Altdorf – de le saisir et de l’élever haut dans le ciel avant de le laisser chuter. Deux secondes plus tard, il ne restait plus que des viscères et du sang de l’ettin.
 
 **Suite prochainement...**
