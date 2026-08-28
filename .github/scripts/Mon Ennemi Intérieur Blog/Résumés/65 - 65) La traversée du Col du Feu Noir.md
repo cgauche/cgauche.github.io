@@ -16,4 +16,26 @@ Ceux qui se trouvaient dans la charrette que nous avions empruntée se jetèrent
 
 La sorcière encaissa le choc, contre-attaqua en paralysant le monstre avec son sort, ce qui permis aux corbeaux que Johannes lui envoya – comme cette fois, où il était sorti de l’université d’Altdorf – de le saisir et de l’élever haut dans le ciel avant de le laisser chuter. Deux secondes plus tard, il ne restait plus que des viscères et du sang de l’ettin.
 
+Un silence lugubre et froid s’abattit sur le champ de bataille improvisé, l’odeur de la mort agressant nos narines. Devant nous, à quelques dizaines de mètres, l’éboulement qui s’étalait à perte de vue sur tout le flanc de la montagne ne nous permettait pas de continuer.
+
+Johannes – qui était après tout le plus érudit d’entre nous – nous expliqua qu’une telle avalanche ne pouvait pas être l’œuvre d’un ettin seul, ni même de plusieurs. Il fallait y voir l’acte d’un artificier qui aurait volontairement placé des explosifs. Ce qui était loin d’être rassurant !
+
+Peu importe la cause, cela n’arrangeait pas nos affaires. Combien de temps allions-nous perdre à dégager la voie, ou à contourner la montagne avec tous les dangers que la traversée dans ces terres inhospitalières comportait ? Des semaines, certainement.
+
+Mais alors que nous cherchions encore à ranimer nos blessés, Elvira s’était isolée et tentait de communier avec les esprits du lieu pour l’aider à trouver un passage. Croyez-moi ou non, ce fut la montagne elle-même qui lui répondit ! Il y eut un violent tremblement de terre alors que s’affaissait les décombres pour former sous nos yeux ébahis un étroit passage praticable. Un véritable miracle !
+
+Il nous fallut nous résoudre à abandonner nos montures, ce que nous fîmes à l’autel de Sigmar quelques kilomètres en revenant sur nos pas. Elvira en profita pour inciter tous les pèlerins et marchands qu’elle croisait à déblayer la zone sinistrée, et à notre retour, des dizaines de personnes s’affairaient déjà devant l’éboulis.
+
+Le soir était tombé, nous passâmes la nuit dans la sureté de leur camp improvisé, avant de continuer notre chemin au lendemain. Nous trouvâmes le Fort de Feu Noir en milieu de journée – qui nous refusa avec mépris l’hospitalité – ainsi que la petite compagnie de vingt hommes du colonel Sievers en contrebas. Celui-ci reconnut immédiatement Anselm avec qui il s’était lié d’amitié au défilé militaire d’Altdorf. Cela nous paraissait déjà si loin… Il s’enquit sans grande joie de la missive d’Immanuel, lui ordonnant de nous prêter assistance durant la suite de notre trajet. La demande de renfort qu’il espérait tant avait une nouvelle fois été ignorée.
+
+Les deux jours suivants se passèrent sans incident notable, à l’exception de la découverte de huit corps déchiquetés sur le bord de la route. Tués depuis peu, ils étaient vraisemblablement postés dans ce qui s’apparentait à une tentative d’embuscade. Nous attendaient-ils ? Étaient-ils liés au glissement de terrain provoqué à l’explosif ?
+
+Mais surtout, question plus inquiétante encore : où se trouvait la chose qui les avait surpris avant de les mettre en pièces avec une sauvagerie terrible ?
+
+Notre traversée nous fit passer par de nouveaux autels et un temple dédié à Sigmar, qui avait été bâti – et moult fois rebâti – près du légendaire champ de bataille qui avait vu le futur dieu et l’armée unifiée de ce qui allait devenir l’empire vaincre l’une des plus grandes armées de peaux-vertes que l’histoire eut narré.
+
+Après une halte bienvenue à Vithang Dum, une ville fortifiée servant de relai marchand, nous croisâmes une gigantesque caravane lourdement armée. Il nous fallut beaucoup de pugnacité et un peu de bon sens – *« on ne peut pas se le payer Elvira, tu le sais bien ! »* – pour arracher notre duchesse de la contemplation des soieries et des bijoux hors de prix venus de la lointaine Cathay.
+
+Ce fut peut-être, ironiquement, ce contretemps qui nous permit de nous trouver encore assez loin lorsque des tambours de guerre résonnèrent à travers les monts et qu’apparurent sur les crêtes, telle une nuée de fourmis agitée, ce que nous devinions être des orcs près à déferler sur la vallée !
+
 **Suite prochainement...**

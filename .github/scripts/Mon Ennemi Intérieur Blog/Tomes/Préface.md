@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*20/08/2026 : Début de [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), traversée du Col du Feu Noir.*
+*28/08/2026 : Avancée dans [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), suite de la traversée du Col du Feu Noir.*
