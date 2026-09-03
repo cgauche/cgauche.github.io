@@ -34,8 +34,8 @@ Mais surtout, question plus inquiétante encore : où se trouvait la chose qui l
 
 Notre traversée nous fit passer par de nouveaux autels et un temple dédié à Sigmar, qui avait été bâti – et moult fois rebâti – près du légendaire champ de bataille qui avait vu le futur dieu et l’armée unifiée de ce qui allait devenir l’empire vaincre l’une des plus grandes armées de peaux-vertes que l’histoire eut narré.
 
-Après une halte bienvenue à Vithang Dum, une ville fortifiée servant de relai marchand, nous croisâmes une gigantesque caravane lourdement armée. Il nous fallut beaucoup de pugnacité et un peu de bon sens – *« on ne peut pas se le payer Elvira, tu le sais bien ! »* – pour arracher notre duchesse de la contemplation des soieries et des bijoux hors de prix venus de la lointaine Cathay.
+Après une halte bienvenue à Vithang Dum, une ancienne ruine naine servant de relai marchand, nous croisâmes une gigantesque caravane lourdement armée. Il nous fallut beaucoup de pugnacité et un peu de bon sens – *« on ne peut pas se le payer Elvira, tu le sais bien ! »* – pour arracher notre duchesse de la contemplation des soieries et des bijoux hors de prix venus de la lointaine Cathay.
 
-Ce fut peut-être, ironiquement, ce contretemps qui nous permit de nous trouver encore assez loin lorsque des tambours de guerre résonnèrent à travers les monts et qu’apparurent sur les crêtes, telle une nuée de fourmis agitée, ce que nous devinions être des orcs près à déferler sur la vallée !
+Ce fut peut-être, ironiquement, ce contretemps qui nous permit de nous trouver encore assez loin lorsque des tambours de guerre résonnèrent à travers les monts et qu’apparurent sur les crêtes, telle une nuée de fourmis agitée, ce que nous devinions être une horde entière d’orcs près à déferler sur la vallée !
 
 **Suite prochainement...**
