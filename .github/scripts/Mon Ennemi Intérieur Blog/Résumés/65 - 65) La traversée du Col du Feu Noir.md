@@ -38,4 +38,27 @@ Après une halte bienvenue à Vithang Dum, une ancienne ruine naine servant de r
 
 Ce fut peut-être, ironiquement, ce contretemps qui nous permit de nous trouver encore assez loin lorsque des tambours de guerre résonnèrent à travers les monts et qu’apparurent sur les crêtes, telle une nuée de fourmis agitée, ce que nous devinions être une horde entière d’orcs près à déferler sur la vallée !
 
+Nous courûmes le plus vite possible ! Mais avec nos conditions physiques, chargés comme nous l’étions et sans monture, il était illusoire d’échapper bien longtemps à cette vague verte qui se rapprochait inexorablement. A rythme soutenu durant bien deux heures, Yuridika arriva au bout de ses forces et s’effondra, nous forçant à la porter. Par bonheur, nous étions tout proches du relai fortifié de Vithang Dum.
+
+Mais notre soulagement serait de courte durée. Rien n’arrêterait cette marée meurtrière, pas même un rempart de huit mètres de haut.
+
+Elvira, prenant le lead de l’organisation défensive, se lança dans un rapide tour du lieu et des effectifs présents. Aux propriétaires nains s’ajoutaient quelques pèlerins et marchands venus se réfugier comme nous dans un lieu moins exposé, la force du colonel Sievers, la caravane de Cathay croisée plus tôt – comprenant malgré tout trois ogres et plusieurs mercenaires – et un quatuor de répurgateurs. Et Mark se trouvait parmi eux. Mark ?!
+
+Notre détour nous avait permis de le retrouver. Quel heureux hasard !
+Mais l’heure n’était pas aux réjouissances car il s’agissait peut-être de nos dernièrs instants à vivre. Murs vétustes, manque de guerriers expérimentés, espace et vivres limités, un long siège était inenvisageable.
+
+Si depuis les murailles nous vîmes le plus gros de la vague continuer son chemin vers le nord, une bonne centaine de peaux-vertes s’installèrent devant le fortin. Très vite, une première vague constituée de gobelins et de snotling – une sorte de lutin vert très hargneux – chargea tandis que les orcs situés en retrait préparaient leur assaut à part. Les flèches volèrent, des échelles se plaquèrent contre les murs mais la défense tint avec efficacité, repoussant chaque tentative jusqu’à massacrer les assaillants. Dans la cour, les civils éteignaient les débuts d’incendie et portaient les blessés en arrière.
+
+Mais alors que nous pensions pouvoir profiter d’une accalmie, les orcs se lancèrent dans la bataille. Au milieu d’eux, un squig monstrueux. Nous avions déjà rencontré des squigs à Middenheim. Ces boules de nerf d’une insatiable voracité étaient généralement chevauchées par les gobelins. Mais personne ne chevauchait celui-ci, et pour cause, il était *COLOSSAL* !
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmXyzMdWHvNZUzShD-VnjfGr30Jdsf28tP1clCEDH0IsJKTr_usvif8svqQy8VhhQ8RDiAztvVTtp4DP96IdLHNt8dfzoaegL5b4SwIHLMAFuMG-vTltl3yt1gaWa7IzNrLPXGcCBh0noB1lF4MMbBBHzKkGC2jsvtQRxRPux0Bx-5QZ_oRvCTpu64hOc/s400/colossal-squig.webp)
+
+Nos hommes commencèrent à ployer sous le nombre, alors que les pertes s’accumulaient dans nos rangs. Des orcs firent une percée sur les murs, puis une autre, alors que le squig lacérait la porte. Depuis le haut de sa tour, Phineas tirait sans relâche sur le chef pour déstabiliser l’armée, mais il se tenait bien trop loin de lui pour qu’il ne parvienne à le blesser gravement. Un ogre chuta d’un rempart, mort, dans un fracas terrible et les orcs qu’il combattait profitèrent de la faille pour pénétrer dans le fortin et massacrer les civils. C’est alors que la porte se brisa et le squig entra à son tour.
+
+J’ai vu ma dernière heure arriver ce jour-là, je le jure devant Sigmar. J’étais désespéré. C’est alors qu’un cri retentit derrière nous. C’était Elvira qui nous remobilisait, qui nous poussait à ne rien lâcher. Galvanisés par son appel, nos soldats reprirent courage. Ils décimèrent les peaux-vertes entrées dans nos murs. Phineas abattit enfin leur chef d’un tir magistral. Yuridika puisa dans ses dernières ressources pour immobiliser le squig grâce à sa magie.
+
+Enfin, comme il le fit avec l’ettin, Johannes envoya cette monstruosité en l’air, aussi haut qu’il le put, avant de la laisser retomber sur l’armée ennemie. Il explosa sur les peaux-vertes, pulvérisant le champ de bataille et les mettant en déroute.
+
+Nous venions de gagner la bataille !
+
 **Suite prochainement...**
