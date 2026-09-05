@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*03/09/2026 : Avancée dans [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), bataille épique.*
+*04/09/2026 : Avancée dans [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), bataille épique.*
