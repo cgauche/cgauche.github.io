@@ -61,4 +61,14 @@ Enfin, comme il le fit avec l’ettin, Johannes envoya cette monstruosité en l�
 
 Nous venions de gagner la bataille !
 
+Les survivants quittèrent bien vite le vieux fortin, préférant fuir ces ruines jonchées de cadavres quitte à risquer une mauvaise rencontre, et à contrecœur nous fîmes de même. Il était impensable de continuer notre chemin jusqu’à notre destination, si proche fusse-t-elle, alors que les peaux-vertes y avaient élus domiciles. Il nous fallait revenir au fort de Feu Noir pour y demander de l’aide.
+
+Préférant les versants escarpés aux routes bien trop dangereuses, nous parcourûmes durant plusieurs jours les montagnes dans un froid saisissant pour une telle époque de l’année. Et alors que le blizzard s’intensifia pour ne plus même permettre de nous voir et que le vent hurlait à nos oreilles, un frisson nous parcourut tous. Soudainement, une créature de cauchemar apparut entre les flocons pour frapper nous tour à tour, se jetant sur chacune de ses victimes en une fraction de seconde. C’était comme se battre contre une ombre ! Phineas et Mark parvinrent à l’achever avant qu’il ne nous taille tous en pièces.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN6X8PYgP8bVY6L1nvzdY7LinHAT6kUIDoJYTElONJha0P1tdNMClKNNAbHqfUgfm6IMTRGgfb_Pq6cFEbI9z5jyHN8C-roxUF9PadHkUJaHsDmLQuoXvrLL6LWq1R9e_Y1V1KThQJnxlxaQ8pxeS2eePD366DWUFCTJiBRg6hTsREfKRZ2v8Ei2aeKKQ/s400/mourngul.webp)
+
+Nous fûmes rejoints le lendemain par un groupe de sigmarites itinérants ; ils nous accompagnèrent dans une volonté de nous protéger. Mais il n’avait pas échappé à l’œil d’Elvira que ces nouveaux venus, des amis de Rauf qui nous accompagnait depuis Grenzstadt, n’avaient en réalité pas de pensées charitables à notre égard. *Ils me surveillent, et avec mépris*, nous avait-elle averti dès le premier soir.
+
+Une semaine après notre départ de Vithang Dum, arrivés au fort du Feu Noir, nous constatâmes que la situation était bien plus catastrophique que prévue. La horde était arrivée jusqu’ici et la garnison résistait tant bien que mal à leurs assauts répétés. C’était décidé, il fallait demander des renforts à Altdorf.
+
 **Suite prochainement...**
