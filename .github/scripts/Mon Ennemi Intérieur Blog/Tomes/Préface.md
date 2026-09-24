@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*11/09/2026 : Avancée dans [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), retraite stratégique.*
+*24/09/2026 : Avancée dans [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), on s’enfonce dans les ténèbres.*

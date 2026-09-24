@@ -2,7 +2,7 @@
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/03/65-la-traversee-de-feu-noir.html](https://monennemiinterieur.blogspot.com/2024/03/65-la-traversee-de-feu-noir.html)*
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLy1K0dL5AJKT8OONDk4GODHWpI7hS_3_n_BCIzdAqyORDNWv0zhZQ3A74cDyVOOW_mq8wkSH8YM77RdvTa-7qHSefG9K5anJjrweNSUxmo5VZFSi5ltg4NiJBSoZhvfdSdd257Uy6qxhYmDry_emf7IPGITi90yNF49VG1hlFlXFzMaXtihtX8-ReC3s/s600/cursed-ettin.webp)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxv_kK92N9dTxpo0yHPpZYZEbMy5k2dkiDS-o53-H7IpwjI5M4Z_7J9WM07jiyh_Y6TDJHWDBkOBuT-myB2n6UUywSJS2jT3W2r6v1NcUbIGapoNyi03xApi6CZ21XUhkNWyXPi9LcypqOkqiary31RtbNJ9ERD6Qtxx2eAvRnps66ZonXYcfF4L-949M/s400/fresque-sigmar.webp)
 
 Le lendemain, les inhospitalières montagnes noires se dressaient devant nous. Nous pensions être livrés à nous même, mais le chemin qui se perdait dans le massif en direction des principautés du sud n’était pas ce qu’on aurait pu appeler isolé. En effet, nombre de marchands, voyageurs, pèlerins et soldats parcouraient une route large et bien entretenue. Même au plus profond de la chaine de montagne, il était possible de trouver une auberge relais ou un fort nain.
 
@@ -11,6 +11,8 @@ Nous restions malgré tout sur nos gardes. Il ne fallait pas sous-estimer les pe
 Nous croisâmes une cohorte de soldats d’Averland. Le capitaine nous indiqua que des troubles liés à des fanatiques d’Ulric avaient eu lieu récemment et qu’ils étaient rappelés à la capitale pour pacifier la région. Il nous recommanda la plus grande prudence alors que les peaux-vertes se montraient ces derniers temps beaucoup plus agités qu’en temps normal. Voilà qui ne nous rassura guère.
 
 Ce fut un peu avant d’avoir franchi l’un des autels consacrés aux faits d’armes à Sigmar – nous nous arrêterions à chacun d’eux pour nous y recueillir – que nous entendîmes un fracas terrible dans la montagne. Il ne fallut par longtemps pour comprendre ce qui venait de se passer : un ettin, géant énorme et difforme, se trouvait devant nous, occupé à manger les restes d’un cheval. Derrière lui, le col s’était effondré.
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLy1K0dL5AJKT8OONDk4GODHWpI7hS_3_n_BCIzdAqyORDNWv0zhZQ3A74cDyVOOW_mq8wkSH8YM77RdvTa-7qHSefG9K5anJjrweNSUxmo5VZFSi5ltg4NiJBSoZhvfdSdd257Uy6qxhYmDry_emf7IPGITi90yNF49VG1hlFlXFzMaXtihtX8-ReC3s/s600/cursed-ettin.webp)
 
 Ceux qui se trouvaient dans la charrette que nous avions empruntée se jetèrent au dehors juste avant que la monstruosité ne lui fonce dessus pour dévorer vivant l’une de nos pauvres montures ! Phineas et Mardrin le pilonnèrent respectivement de cailloux et de plomb, ce qui eut le don de l’énerver davantage, et le pire arriva alors. Chargeant la monture qui s’était libérée, il écrasa Mardrin sur le passage, si fort qu’on eut encore peine croire qu’il s’en soit sorti, avant de le lancer sur Yuridika.
 
@@ -70,5 +72,14 @@ Préférant les versants escarpés aux routes bien trop dangereuses, nous parcou
 Nous fûmes rejoints le lendemain par un groupe de sigmarites itinérants ; ils nous accompagnèrent dans une volonté de nous protéger. Mais il n’avait pas échappé à l’œil d’Elvira que ces nouveaux venus, des amis de Rauf qui nous accompagnait depuis Grenzstadt, n’avaient en réalité pas de pensées charitables à notre égard. *Ils me surveillent, et avec mépris*, nous avait-elle averti dès le premier soir.
 
 Une semaine après notre départ de Vithang Dum, arrivés au fort du Feu Noir, nous constatâmes que la situation était bien plus catastrophique que prévue. La horde était arrivée jusqu’ici et la garnison résistait tant bien que mal à leurs assauts répétés. C’était décidé, il fallait demander des renforts à Altdorf.
+
+---
+Après plusieurs mois, nous étions de retour avec des forces impériales commandées par Kurt Helborg, prêts à reprendre le col aux peaux-vertes et nous dégager le passage. Johannes, qui était resté sur place, nous retrouva peu de temps après notre arrivée. Il avait glané de précieuses informations sur les tribus locales et l’origine de l’attaque – la faute à un prophète étrange, disait-il –.
+
+En quelques jours à peine nous arrivions au lieu indiqué par nos documents, la mine rachetée par Teugen et ses amis. En guise de bienvenue dans ce lieu désolé et désert, nous trouvâmes à son entrée deux mineurs qui s’étaient entretués. Nous traversâmes la mine en quelques minutes à peine ; elle déboucha sur un lac orné d’une immense pierre peinte. Nous étions entrés sur les terres d’une autre tribu gobeline, nous précisa Johannes.
+
+La route se prolongea dans la montagne, formant une longue gorge escarpée dans laquelle il était difficile de se mouvoir à plusieurs. A plusieurs endroits, les stigmates des flancs de falaises trahissaient la survenue d’un terrible affrontement aux temps immémoriaux. Nous parcourûmes des dizaines de kilomètres dans la pénombre du défilé, entre les guérillas des gobelins qui nous criblaient de flèches depuis les hauteurs, les éboulements et les fosses piégées.
+
+Le passage devint si resserré qu’il devenait à présent difficile de nous y faufiler. Des peintures rupestres se dévoilaient sur les façades, des couleurs vives aux traits grossiers. Celle d’un homme armé d’un marteau affrontant un démon ; d’une assemblée de gobelins autour de leur chef, juché sur un champignon ; et la perturbante représentation d’un groupe se déplaçant dans un défilé, évoquant entre autres un halfelin, un guerrier d’Ulric, une prêtresse de Rhya… Nous tous !
 
 **Suite prochainement...**
