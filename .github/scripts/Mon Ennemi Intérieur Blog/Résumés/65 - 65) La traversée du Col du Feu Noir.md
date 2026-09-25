@@ -47,7 +47,7 @@ Mais notre soulagement serait de courte durée. Rien n’arrêterait cette maré
 A peine arrivée, Elvira prenait le lead de l’organisation défensive, se lançant dans un rapide tour du lieu et des effectifs présents. Aux propriétaires nains s’ajoutaient quelques pèlerins et marchands venus se réfugier comme nous dans un lieu moins exposé, la force du colonel Sievers, la caravane de Cathay croisée plus tôt – comprenant malgré tout trois ogres et plusieurs mercenaires – et un quatuor de répurgateurs. Et Mark se trouvait parmi eux. Mark ?!
 
 Notre détour nous avait permis de le retrouver. Quel heureux hasard !
-Mais l’heure n’était pas aux réjouissances car il s’agissait peut-être de nos dernièrs instants à vivre. Murs vétustes, manque de guerriers expérimentés, espace et vivres limités, tenir le siège relevait du miracle.
+Mais l’heure n’était pas aux réjouissances car il s’agissait peut-être de nos derniers instants à vivre. Murs vétustes, manque de guerriers expérimentés, espace et vivres limités, tenir le siège relevait du miracle.
 
 Si depuis les murailles nous vîmes le plus gros de la vague continuer son chemin vers le nord, une bonne centaine de peaux-vertes s’installèrent devant le fortin. Très vite, une première vague constituée de gobelins et de snotling – une sorte de lutin vert très hargneux – se lança contre nos remparts tandis que les orcs situés en retrait préparaient leur assaut à part. Les flèches volèrent, des échelles se plaquèrent contre les murs mais la défense tint avec efficacité, repoussant chaque tentative jusqu’à massacrer les assaillants. Dans la cour, les civils éteignaient les débuts d’incendie et portaient les blessés en arrière.
 
