@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*24/09/2026 : Avancée dans [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), on s’enfonce dans les ténèbres.*
+*03/10/2026 : Fin de [l’épisode 65](https://monennemiinterieur.blogspot.com/search/label/65), une grotte mystérieuse nous attend.*
