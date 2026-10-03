@@ -96,7 +96,7 @@ Après plusieurs heures de marche, alors que le canyon s’ouvrait sur un espace
 
 Autour de nous, les rochers étaient sculptés en forme de visages effrayant, de nombreuses cascades serpentaient entre ces dérangeantes sculptures pour devenir la rivière que nous suivions depuis des jours, alors que l’atmosphère devenait de plus en plus angoissante. Le lieu était-il simplement étrange ou nos esprits nous jouaient-ils des tours ? Enfin, au bout du chemin, nous découvrîmes derrière une large cascade un tunnel s’étendait dans les abimes de la montagne.
 
-Alors que nous étions sur le seuil, une voix s’éleva depuis les abysses, ancienne, caverneuse.« *Vous qui pénétrez ici, abandonnez tout espoir. Les pillards regrettent toujours leur venue.*»
+Alors que nous étions sur le seuil, une voix s’éleva depuis les abysses, ancienne, caverneuse. « *Vous qui pénétrez ici, abandonnez tout espoir. Les pillards regrettent toujours leur venue.*»
 
 Nous étions prévenus, nous n’étions pas au bout de nous surprises…
 
