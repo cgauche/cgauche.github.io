@@ -101,5 +101,3 @@ Autour de nous, les rochers prenaient des formes de visages effrayant, de nombre
 Alors que nous étions sur le seuil, une voix s’éleva depuis les abysses, ancienne, caverneuse. « *Vous qui pénétrez ici, abandonnez tout espoir. Les pillards regrettent toujours leur venue.* »
 
 Ainsi nous étions prévenus. Nous n’étions pas au bout de nous peines…
-
-**Suite prochainement...**

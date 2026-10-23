@@ -1,7 +1,7 @@
 # Mon Ennemi Intérieur - Index complet
 
 
-## Résumés (65)
+## Résumés (66)
 
 - [01 - 01) L'auberge des 3 plumes](<Résumés/01 - 01) L'auberge des 3 plumes.md>)
 - [02 - 02) Une journée au tribunal](<Résumés/02 - 02) Une journée au tribunal.md>)
@@ -68,6 +68,7 @@
 - [63 - 63) Le médecin de l'empereur](<Résumés/63 - 63) Le médecin de l'empereur.md>)
 - [64 - 64) La quête de Ghal Maraz](<Résumés/64 - 64) La quête de Ghal Maraz.md>)
 - [65 - 65) La traversée du Col du Feu Noir](<Résumés/65 - 65) La traversée du Col du Feu Noir.md>)
+- [66 - 66) La grotte du Chaos](<Résumés/66 - 66) La grotte du Chaos.md>)
 
 ## PJ (63)
 
