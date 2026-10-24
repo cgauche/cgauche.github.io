@@ -44,7 +44,7 @@ Nous courûmes le plus vite possible ! Mais avec nos conditions physiques, charg
 
 Mais notre soulagement serait de courte durée. Rien n’arrêterait cette marée meurtrière, pas même un rempart de huit mètres de haut.
 
-A peine arrivée, Elvira prenait le lead de l’organisation défensive, se lançant dans un rapide tour du lieu et des effectifs présents. Aux propriétaires nains s’ajoutaient quelques pèlerins et marchands venus se réfugier comme nous dans un lieu moins exposé, la force du colonel Sievers, la caravane de Cathay croisée plus tôt – comprenant malgré tout trois ogres et plusieurs mercenaires – et un quatuor de répurgateurs. Et Mark se trouvait parmi eux. Mark ?!
+A peine arrivée, Elvira prenait la responsabilité de l’organisation défensive, se lançant dans un rapide tour du lieu et des effectifs présents. Aux propriétaires nains s’ajoutaient quelques pèlerins et marchands venus se réfugier comme nous dans un lieu moins exposé, la force du colonel Sievers, la caravane de Cathay croisée plus tôt – comprenant malgré tout trois ogres et plusieurs mercenaires – et un quatuor de répurgateurs. Et Mark se trouvait parmi eux. Mark ?!
 
 Notre détour nous avait permis de le retrouver. Quel heureux hasard !
 Mais l’heure n’était pas aux réjouissances car il s’agissait peut-être de nos derniers instants à vivre. Murs vétustes, manque de guerriers expérimentés, espace et vivres limités, tenir le siège relevait du miracle.

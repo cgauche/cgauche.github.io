@@ -66,3 +66,4 @@
 - [64 - 64) La quête de Ghal Maraz](<64 - 64) La quête de Ghal Maraz.md>)
 - [65 - 65) La traversée du Col du Feu Noir](<65 - 65) La traversée du Col du Feu Noir.md>)
 - [66 - 66) La grotte du Chaos](<66 - 66) La grotte du Chaos.md>)
+- [67 - 67) Retour à Altdorf](<67 - 67) Retour à Altdorf.md>)
