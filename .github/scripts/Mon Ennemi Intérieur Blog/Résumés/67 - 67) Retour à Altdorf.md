@@ -1,4 +1,4 @@
-# 67) [Retour à Altdorf]
+# 67) [Des montagnes noires à Altdorf]
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/03/67-retour-altdorf.html](https://monennemiinterieur.blogspot.com/2024/03/67-retour-altdorf.html)*
 
@@ -20,12 +20,26 @@ Nous parcourûmes durant plusieurs jours un paysage de désolation. Nous avions 
 
 La suite de la chaîne se trouvait à Averheim, plongé dans un climat de défiance envers les ulriciens, accusés de tous les maux. Le nain qui s’occupait de la suite de notre voyage nous fit embarquer dans la cale d’une péniche et nous déposa – en pleine marche puisqu’il refusait de s’y arrêter – à Streissen.
 
-La ville que nous avions sauvé d’un massacre était méconnaissable. Envahies par une brume âcre, les rues étaient vides, jonchées de cadavres dévorés par des charognards. Elvira était dépitée de voir que la ville qu’elle avait sauvée s’était retrouvé dans un état si lamentable. Au mépris de nos conseils, elle se rendit au siège du pouvoir pour s’entretenir avec le baron Leitdorf. Alors qu’on la fit attendre dans une antichambre, une servante lui souffla ces mots : « *Fuyez sinon le baron vous fera arrêter et s’emparera du marteau !* ».
+La ville que nous avions sauvé d’un massacre était méconnaissable. Envahies par une brume âcre, les rues étaient vides, jonchées de cadavres suspendus à des potences et dévorés par des charognards. Elvira était dépitée de voir que la ville qu’elle avait sauvée s’était retrouvé dans un état si lamentable. Au mépris de nos conseils, elle se rendit au siège du pouvoir pour s’entretenir avec le baron Leitdorf. Alors qu’on la fit attendre dans une antichambre, une servante lui souffla un avertissement : « *Fuyez sinon le baron vous fera arrêter et s’emparera du marteau !* ».
 
-Sans même prendre le temps de lui demander comment elle pouvait savoir pour Ghal Maraz, elle se précipita vers la sortie avant d’être prise en chasse. Il nous fallut nous cacher dans une auberge pour échapper aux patrouilles.
+Sans même prendre le temps de lui demander comment elle pouvait savoir pour Ghal Maraz, elle se précipita vers la sortie avant d’être prise en chasse. Il nous fallut nous cacher dans une échoppe pour échapper aux patrouilles.
 
 Nous étions dorénavant piégés dans la ville, sans aucun moyen d’en sortir !
 
-Quitte à être là, il nous fallait retrouver Albertus, qui nous renseigneraient sur les troublantes visions de Mark. En compagnie d’Elvira et de Johannes, le guerrier partit à sa recherche, bien aidés par la magie de dissimulation de ce dernier. Après un long jeu de piste à chercher l’érudit, ils finirent par se retrouver à entrer par effraction dans la maison de son frère.
+Quitte à être là, il nous fallait retrouver Albertus, qui nous renseigneraient sur les troublantes visions de Mark. En compagnie d’Elvira et de Johannes, le guerrier partit à sa recherche, bien aidés par la magie de dissimulation de ce dernier. Après un long jeu de piste à chercher l’érudit en évitant les gardes, nous finîmes par le retrouver après être entrés par effraction dans la cave de la maison de son frère.
+
+Plusieurs nains se trouvaient avec lui, amis, famille, se terrant pour échapper aux rafles du baron, et comme nous, ils désiraient fuir la ville. Nous leur promettions de les aider en échange de toutes les informations qu’ils pourraient nous fournir concernant Ghal Maraz.
+
+Albertus Nyman nous expliqua que le marteau devait être purifié dans les flammes sacrées d’Ulric pour retrouver toute sa puissance – une indication qui avait, vous vous en doutez bien vu les circonstances actuelles, été occultée par le culte de Sigmar –. D’après lui, Sigmar l’avait fait avant sa dernière bataille contre Sheerargetru dans le temple oublié de Wolfshügel, en haut d’une colline près de Diesdorf. Ce serait donc une excellente idée de nous y rendre dès que possible.
+
+Encore fallait-il quitter Streissen…
+
+Nous convînmes d’un plan. Nous séparant en petits groupes, chacun de nous devait se faufiler jusqu’aux quais. L’un de nous déclencherait un incendie afin de créer une diversion ; il nous suffirait alors de forcer le passage entre les quelques soldats restés de garde et à voler un navire assez grand pour tous nous accueillir.
+
+Ce que nous n’avions pas prévu, c’était que le baron mette nos têtes à prix juste avant notre tentative. Si nous parvînmes à nous faufiler tant bien que mal entre les détachements entiers de soldats et les groupes de citoyens qui déferlaient dans les rues pour nous retrouver, arrivés au port nous fûmes frappés de désespoir : il était lourdement gardé. Le baron avait tout mis en place pour nous empêcher de partir.
+
+N’écoutant que son courage, Elvira se présenta à eux à visage découvert. Par un plaidoyer passionné qui n’appartenait qu’à elle, elle tenta de les persuader de nous laisser passer. Et tous s’écartèrent ! Plus incroyable encore, certains d’entres eux nous accompagnèrent dans notre fuite.
+
+A la tête d’un bateau et de plusieurs hommes, pour pouvions raisonnablement continuer notre route jusqu’au temple sans nous préoccuper de l’itinéraire des nains. Nous arrivâmes à Nuln quelques jours plus tard, où la comtesse nous accueillit. Visiblement, elle aussi savait que nous avions en notre possession Ghal Maraz et voulait nous faire « bénéficier » d’un soutien militaire. Loin d’une proposition altruiste, il fallait surtout y voir une sorte de propagande pour se faire bien voir du pouvoir impérial. Ce faisant, il nous fallut lourdement insister sur la nécessité de faire le détour au temple pour qu’elle daigne vouloir dérouter ses hommes vers Diesdorf.
 
 **Suite prochainement...**

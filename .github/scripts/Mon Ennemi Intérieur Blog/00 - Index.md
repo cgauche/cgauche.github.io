@@ -137,9 +137,10 @@
 - [Yuridika, maître-sorcière de Chamon](<PJ/Yuridika, maître-sorcière de Chamon.md>)
 - [Yuridika, sorcière de Chamon](<PJ/Yuridika, sorcière de Chamon.md>)
 
-## PNJ (241)
+## PNJ (242)
 
 - [Adolphus Kuftsos](<PNJ/Adolphus Kuftsos.md>)
+- [Albertus Nyman](<PNJ/Albertus Nyman.md>)
 - [Albrecht Helseher](<PNJ/Albrecht Helseher.md>)
 - [Alexandra Giliani](<PNJ/Alexandra Giliani.md>)
 - [Alfric Demi-nez](<PNJ/Alfric Demi-nez.md>)
@@ -381,7 +382,7 @@
 - [Zombie](<PNJ/Zombie.md>)
 - [Étudiants en artillerie](<PNJ/Étudiants en artillerie.md>)
 
-## Lieux (76)
+## Lieux (80)
 
 - [Aldorf (2)](<Lieux/Aldorf (2).md>)
 - [Aldorf (3)](<Lieux/Aldorf (3).md>)
@@ -391,6 +392,8 @@
 - [Auberge La Diligence](<Lieux/Auberge La Diligence.md>)
 - [Auberge de la Maison du Pont](<Lieux/Auberge de la Maison du Pont.md>)
 - [Auberge des Trois Plumes](<Lieux/Auberge des Trois Plumes.md>)
+- [Averheim (2)](<Lieux/Averheim (2).md>)
+- [Averheim](<Lieux/Averheim.md>)
 - [Bogenhafen (2)](<Lieux/Bogenhafen (2).md>)
 - [Bogenhafen](<Lieux/Bogenhafen.md>)
 - [Bureaux de Steinhager](<Lieux/Bureaux de Steinhager.md>)
@@ -401,6 +404,8 @@
 - [Col du Feu Noir (2)](<Lieux/Col du Feu Noir (2).md>)
 - [Col du Feu Noir](<Lieux/Col du Feu Noir.md>)
 - [Culte de la chair immaculée](<Lieux/Culte de la chair immaculée.md>)
+- [Diesdorf (2)](<Lieux/Diesdorf (2).md>)
+- [Diesdorf](<Lieux/Diesdorf.md>)
 - [Egouts de Bogenhafen](<Lieux/Egouts de Bogenhafen.md>)
 - [Elssen (2)](<Lieux/Elssen (2).md>)
 - [Elssen](<Lieux/Elssen.md>)

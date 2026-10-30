@@ -1,6 +1,7 @@
 # PNJ — Index
 
 - [Adolphus Kuftsos](<Adolphus Kuftsos.md>)
+- [Albertus Nyman](<Albertus Nyman.md>)
 - [Albrecht Helseher](<Albrecht Helseher.md>)
 - [Alexandra Giliani](<Alexandra Giliani.md>)
 - [Alfric Demi-nez](<Alfric Demi-nez.md>)
