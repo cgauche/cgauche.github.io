@@ -1,7 +1,7 @@
 # Mon Ennemi Intérieur - Index complet
 
 
-## Résumés (67)
+## Résumés (68)
 
 - [01 - 01) L'auberge des 3 plumes](<Résumés/01 - 01) L'auberge des 3 plumes.md>)
 - [02 - 02) Une journée au tribunal](<Résumés/02 - 02) Une journée au tribunal.md>)
@@ -70,6 +70,7 @@
 - [65 - 65) La traversée du Col du Feu Noir](<Résumés/65 - 65) La traversée du Col du Feu Noir.md>)
 - [66 - 66) La grotte du Chaos](<Résumés/66 - 66) La grotte du Chaos.md>)
 - [67 - 67) Retour à Altdorf](<Résumés/67 - 67) Retour à Altdorf.md>)
+- [68 - 68) Diesdorf](<Résumés/68 - 68) Diesdorf.md>)
 
 ## PJ (63)
 

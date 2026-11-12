@@ -18,7 +18,7 @@ L’un des nains nous accompagna dans l’anonymat d’une charrette, car il fal
 
 Nous parcourûmes durant plusieurs jours un paysage de désolation. Nous avions appris que huit mois s’étaient écoulés depuis notre entrée dans la caverne, huit mois de combats acharnés entre le peu de forces que l’Empire avait pu déployer dans les montagnes noires et la horde des peaux-vertes. En infériorité numérique, l’armée impériale avait dû se replier sur les terres, si bien que l’Averland était devenu un véritable champ de bataille.
 
-La suite du réseau se trouvait à Averheim. La ville était plongé dans un climat de défiance envers les ulriciens, accusés de tous les maux. Le nain qui s’occupait de la suite de notre voyage nous fit embarquer dans la cale d’une péniche et nous déposa – en pleine marche puisqu’il refusait de s’y arrêter – à Streissen.
+La suite du réseau se trouvait à Averheim. La ville était plongée dans un climat de défiance envers les ulriciens, accusés de tous les maux. Le nain qui s’occupait de la suite de notre voyage nous fit embarquer dans la cale d’une péniche et nous déposa – en pleine marche puisqu’il refusait de s’y arrêter – à Streissen.
 
 La ville que nous avions sauvé d’un massacre était méconnaissable. Envahies par une brume âcre, les rues étaient vides, jonchées de cadavres suspendus à des potences et dévorés par des charognards. Elvira était dépitée de voir que la ville qu’elle avait sauvée s’était retrouvé dans un état si lamentable. Au mépris de nos conseils, elle se rendit au palais pour s’entretenir avec le baron Leitdorf. Alors qu’on la fit attendre dans une antichambre, une servante lui souffla un avertissement : « *Fuyez sinon le baron vous fera arrêter et s’emparera du marteau !* ».
 
@@ -38,8 +38,6 @@ Nous convînmes d’un plan. Nous séparant en petits groupes, chacun de nous de
 
 Ce que nous n’avions pas prévu, c’était que le baron mette nos têtes à prix juste avant notre tentative. Si nous parvînmes à nous faufiler tant bien que mal entre les détachements entiers de soldats et les groupes de citoyens qui déferlaient dans les rues pour nous retrouver, arrivés au port nous fûmes frappés de désespoir : il était lourdement gardé. Le baron avait tout mis en place pour nous empêcher de partir.
 
-N’écoutant que son courage, Elvira se présenta à eux à visage découvert. Par un plaidoyer passionné qui n’appartenait qu’à elle, elle tenta de les persuader de nous laisser passer. Et tous s’écartèrent ! Plus incroyable encore, certains d’entres eux nous accompagnèrent dans notre fuite.
+N’écoutant que son courage, Elvira se présenta à eux à visage découvert. Par un plaidoyer passionné qui n’appartenait qu’à elle, elle tenta de les persuader de nous laisser passer. Et tous s’écartèrent ! Plus incroyable encore, certains d’entre eux nous accompagnèrent dans notre fuite.
 
 A la tête d’un bateau et de plusieurs hommes, pour pouvions raisonnablement continuer notre route jusqu’au temple sans nous préoccuper de l’itinéraire des nains. Nous arrivâmes à Nuln quelques jours plus tard, où la comtesse nous accueillit avec les honneurs. Visiblement, elle aussi savait que nous avions en notre possession Ghal Maraz et voulait nous faire « bénéficier » d’un soutien militaire. Loin d’une proposition altruiste, il fallait surtout y voir une sorte de propagande pour en tirer toute la gloire. Ce faisant, il nous fallut lourdement insister sur la nécessité de faire le détour au temple pour qu’elle daigne vouloir dérouter ses hommes vers Diesdorf.
-
-**Suite prochainement...**

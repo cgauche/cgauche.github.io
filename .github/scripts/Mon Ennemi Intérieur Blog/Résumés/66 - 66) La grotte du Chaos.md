@@ -16,7 +16,7 @@ Anselm sentit le vent du lieu se tarir ; l’épreuve avait dû être accomplie.
 
 L’épreuve suivante ne se révéla pas avant une longue marche, bien qu’il nous fût impossible de déterminer la durée que nous passâmes à arpenter la grotte à la lueur de nos torches et en nous battant avec la rudesse et l’étroitesse des passages. Nos seules notions du temps étaient la sensation de fatigue qui s’accumulait et les grognements gutturaux de l’estomac de Phineas.
 
-Dans une cavité éclairée par des veines d’or et d’argent, un lac de ce que Yuridira identifia comme de l’or liquide dessinait un large passage vers une île recouverte d’un merveilleux trésor. Jamais je n’en eus vu de tel ! Un démon à tête d’aigle nous apparut alors que la sorcière remplissait son sac de tout ce qu’elle pouvait emporter – la pauvre ignorait que toutes ses richesses se changerait en plomb une fois qu’elle serait sortie –. Celui-ci déclara nous avoir attendu depuis une éternité. Il désirait nous offrir de puissants talismans pour nous permettre pourfendre son seigneur, qui l’avait enfermé ici parce qu’il lui avait prédit sa chute. Il s’arracha des parties de lui-même – une plume, une griffe, un œil et sa langue – et nous les confia avant de disparaitre dans le néant.
+Dans une cavité éclairée par des veines d’or et d’argent, un lac de ce que Yuridika identifia comme de l’or liquide dessinait un large passage vers une île recouverte d’un merveilleux trésor. Jamais je n’en eus vu de tel ! Un démon à tête d’aigle nous apparut alors que la sorcière remplissait son sac de tout ce qu’elle pouvait emporter – la pauvre ignorait que toutes ses richesses se changerait en plomb une fois qu’elle serait sortie –. Celui-ci déclara nous avoir attendu depuis une éternité. Il désirait nous offrir de puissants talismans pour nous permettre pourfendre son seigneur, qui l’avait enfermé ici parce qu’il lui avait prédit sa chute. Il s’arracha des parties de lui-même – une plume, une griffe, un œil et sa langue – et nous les confia avant de disparaitre dans le néant.
 
 Oh, vous pourriez penser qu’il ne s’agissait pas d’une épreuve. Détrompez-vous car utiliser des objets maudits n’est jamais sans conséquence, comme vous le verrez plus tard…
 
@@ -34,6 +34,6 @@ Un halo de lumière le submergea. La grotte entière se mit à trembler. Le dar 
 
 Puis plus rien.
 
-L’antre paraissait vide, dénué de ce mysticisme qui nous avait côtoyé depuis notre entrée dans ce lieu étrange. L’odeur d’humidité, le ruissèlement de la cascade, la lueur du jour au bout du tunnel était revenus. Nous pouvions sortir.
+L’antre paraissait vide, dénué de ce mysticisme qui nous avait côtoyé depuis notre entrée dans ce lieu étrange. L’odeur d’humidité, le ruissèlement de la cascade, la lueur du jour au bout du tunnel était revenue. Nous pouvions sortir.
 
 Et nous avions Ghal Mazar.
