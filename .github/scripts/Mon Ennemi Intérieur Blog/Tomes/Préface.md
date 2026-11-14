@@ -12,4 +12,4 @@ Ces quelques chapitres de nos aventures sont comme un hommage à mon groupe de j
 [Découvrir les personnages](https://monennemiinterieur.blogspot.com/2023/)
 [En savoir plus sur l’univers](https://monennemiinterieur.blogspot.com/2018/)
 
-*30/10/2026 : Fin de [l’épisode 67](https://monennemiinterieur.blogspot.com/search/label/67) (+ épisode 66), le retour à Altdorf avec Ghal Maraz.*
+*14/11/2026 : Début de [l’épisode 68](https://monennemiinterieur.blogspot.com/search/label/68), le siège de Diesdorf.*

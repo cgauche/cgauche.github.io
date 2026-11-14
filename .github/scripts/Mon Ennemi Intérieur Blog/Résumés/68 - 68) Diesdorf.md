@@ -1,4 +1,4 @@
-# 68) [Diesdorf]
+# 68) [Le siège]
 
 *Source : [https://monennemiinterieur.blogspot.com/2024/03/68-diesdorf.html](https://monennemiinterieur.blogspot.com/2024/03/68-diesdorf.html)*
 
@@ -10,6 +10,8 @@ Diesdorf était un village fortifié composé de quelques fermes, d’autant de 
 
 Il nous conduisit à l’académie où nous attendait déjà les autres conseillers : la sœur Cordula Kurt et le maitre de guide Johann Pielstoc. Le conseil se constitua donc de trois natifs et de trois d’entre nous. Après nous avoir brièvement relaté les faits – l’un des conseillers aurait selon le capitaine empoisonné le baronnet et tué deux de ses confrères avant de s’attaquer à lui –, il énonça les différentes décisions à l’ordre du jour qu’il nous fallut décider à l’aide de différents rapports ou invités. Cela passa du maintien des éclaireurs à une sordide histoire de dramaturge trop virulent. Comme si cela avait de l’importance !
 
-Après une longue journée de débat, le capitaine vint nous trouver pour nous mettre en garde de ne pas sortir. En effet, si le forcené s’était enfuit, il n’était pas seul et le reste des rebelles était encore en ville.
+Alors que nous décidâmes après une longue journée de débat de sortir en ville, deux bombes éclatèrent aux portes de l’académie, nous manquant de peu. Cela nous rappela que si le forcené qui avait tenté le coup d’état de la ville était parti, il lui restait des complices et qu’ils voulaient à présent s’en prendre à nous.
+
+La deuxième journée se passa comme la première : longue, ennuyeuse et pleine de décisions à prendre. Le seul fait qui nous tira de notre torpeur fut la découverte d’un message indiquant que l’un des conseillers était un traitre.
 
 **Suite prochainement...**
