@@ -12,6 +12,6 @@ Il nous conduisit à l’académie où nous attendait déjà les autres conseill
 
 Alors que nous décidâmes après une longue journée de débat de sortir en ville, deux bombes éclatèrent aux portes de l’académie, nous manquant de peu. Cela nous rappela que si le forcené qui avait tenté le coup d’état de la ville était parti, il lui restait des complices et qu’ils voulaient à présent s’en prendre à nous.
 
-La deuxième journée se passa comme la première : longue, ennuyeuse et pleine de décisions à prendre. Le seul fait qui nous tira de notre torpeur fut la découverte d’un message indiquant que l’un des conseillers était un traitre.
+La deuxième journée se passa comme la première : longue, ennuyeuse et pleine de décisions à prendre. Le seul fait qui nous tira de notre monotonie fut la découverte d’un message indiquant que l’un des conseillers était un traitre.
 
 **Suite prochainement...**
