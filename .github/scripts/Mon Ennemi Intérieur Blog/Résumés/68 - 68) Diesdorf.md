@@ -12,6 +12,8 @@ Il nous conduisit à l’académie où nous attendait déjà les autres conseill
 
 Alors que nous décidâmes après une longue journée de débat de sortir en ville, deux bombes éclatèrent aux portes de l’académie, nous manquant de peu. Cela nous rappela que si le forcené qui avait tenté le coup d’état de la ville était parti, il lui restait des complices et qu’ils voulaient à présent s’en prendre à nous.
 
-La deuxième journée se passa comme la première : longue, ennuyeuse et pleine de décisions à prendre. Le seul fait qui nous tira de notre monotonie fut la découverte d’un message indiquant que l’un des conseillers était un traitre.
+La deuxième journée se passa comme la première : longue, ennuyeuse et pleine de décisions à prendre. Le seul fait qui nous tira de notre monotonie fut la découverte d’un message indiquant que l’un des conseillers était un traitre. Nous estimâmes qu’il s’agisse une nouvelle manœuvre de destabilisation pour nous monter les uns contre les autres. La troisième, il nous fallut calmer les premières démonstration d’agacement de la population après notre décision de démanteler le faubourg extérieur ; nous fûmes à peu de faire exécuter le dramaturge de la veille, qui en était l’instigateur.
+
+La mise en place du disposition de défense progressait, et avec elle le pari fou d’attirer le plus gros des forces ennemies sur la plaine nord en simulant une sortie avant de les bombarder par notre artillerie. Le risque était grand, mais nous estimions qu’il valait la peine d’être pris.
 
 **Suite prochainement...**
